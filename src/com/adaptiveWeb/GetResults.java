@@ -1,6 +1,9 @@
 package com.adaptiveWeb;
 
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -37,6 +40,14 @@ public class GetResults extends HttpServlet {
 		doGet(request, response);
 	}
 	
+	public List<HashMap<String,String>> getUserData(int pageNumber,int pageSize)
+	{
+		for(int i=0;i<=pageSize;i++)
+		{
+		HashMap h = new HashMap<String,String>();
+		}
+	return null;	
+	}
 	
 
 }
