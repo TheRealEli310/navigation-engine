@@ -10,6 +10,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>getResults</servlet-name>
-    <url-pattern>/index.html</url-pattern>
+    <url-pattern>/gotoResults</url-pattern>
   </servlet-mapping>
 </web-app>
