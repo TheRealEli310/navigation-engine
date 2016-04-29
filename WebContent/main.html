@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<style>
+iframe{
+    overflow:hidden;
+}
+</style>
+
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Adaptive Navigation Support</title>
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- food icons -->
+	<link rel="stylesheet" type="text/css" href="css/organicfoodicons.css" />
+	<!-- demo styles -->
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	<!-- menu styles -->
+	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<script src="js/modernizr-custom.js"></script>
+	 
+</head>
+
+<body>
+	<!-- Main container -->
+	<div class="container">
+		<!-- Blueprint header -->
+		<header class="bp-header cf">
+
+			<div class="dummy-logo">
+			
+<div class="dummy-icon food-icon"style="background-image: url(img/header.png); height: 110px; width: 112px; border: 1px solid black;"></div>	
+<h2 class="dummy-heading">Adaptive Navigation Support</h2>			
+			</div>
+
+			<div class="bp-header__main">
+<div class="dummy-icon food-icon" style="background-image: url(img/user-dummy.jpg); height: 110px; width: 112px; border: 1px solid black;"></div>				<h1 class="bp-header__title">Rakesh Prabhu</h1>
+			
+			</div>
+		</header>
+		<button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
+		<nav id="ml-menu" class="menu">
+			<button class="action action--close" aria-label="Close Menu"><span class="icon icon--cross"></span></button>
+			<div class="menu__wrap">
+				<ul data-menu="main" class="menu__level">
+					<li class="menu__item"><a class="menu__link" href="#">Search</a></li>
+					<li class="menu__item"><a class="menu__link" data-submenu="submenu-2" href="#">Recommendation</a></li>
+					<li class="menu__item"><a class="menu__link" data-submenu="submenu-3" href="#">Navigation</a></li>
+					<li class="menu__item"><a class="menu__link" data-submenu="submenu-4" href="#">Social Visualizaion</a></li>
+				</ul>
+			
+				
+				<ul data-menu="submenu-2" class="menu__level">
+		
+					<li class="menu__item"><a class="menu__link" href="#">Algorithm</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Data Structures</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Database</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Web Application</a></li>
+				</ul>
+				<!-- Submenu 2-1 -->
+				<ul data-menu="submenu-3" class="menu__level">
+					<li class="menu__item"><a class="menu__link" href="#" data-submenu="submenu-3-1" >Algorithm</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Data Structures</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Database</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Web Application</a></li>
+				</ul>
+				<ul data-menu="submenu-3-1" class="menu__level">
+					<li class="menu__item"><a class="menu__link" href="#">Sort</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Search</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Hashing</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Indexing</a></li>
+				</ul>
+			
+			
+				<!-- Submenu 4 -->
+				<ul data-menu="submenu-4" class="menu__level">
+					<li class="menu__item"><a class="menu__link" href="#">You vs Others</a></li>
+					<li class="menu__item"><a class="menu__link" href="#">Your Search Usage</a></li>
+				</ul>
+		
+			</div>
+		</nav>
+		<div class="content">
+			<p class="info"><iframe frameborder="0" style=" overflow:scroll; width: 100% ;height: 1000px;" frameborder="0" scrolling="no" onload="resizeIframe(this)" src="http://localhost:8080/AdaptiveNavigationSupport/index.html" marginheight="1" marginwidth="1" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+</p>
+			<!-- Ajax loaded content here -->
+		</div>
+	</div>
+	<!-- /view -->
+	<script src="js/classie.js"></script>
+	<script src="js/dummydata.js"></script>
+	<script src="js/main.js"></script>
+	<script>
+	(function() {
+		var menuEl = document.getElementById('ml-menu'),
+			mlmenu = new MLMenu(menuEl, {
+				// breadcrumbsCtrl : true, // show breadcrumbs
+				// initialBreadcrumb : 'all', // initial breadcrumb text
+				backCtrl : false, // show back button
+				// itemsDelayInterval : 60, // delay between each menu item sliding animation
+				onItemClick: loadDummyData // callback: item that doesn´t have a submenu gets clicked - onItemClick([event], [inner HTML of the clicked item])
+			});
+
+		// mobile menu toggle
+		var openMenuCtrl = document.querySelector('.action--open'),
+			closeMenuCtrl = document.querySelector('.action--close');
+
+		openMenuCtrl.addEventListener('click', openMenu);
+		closeMenuCtrl.addEventListener('click', closeMenu);
+
+		function openMenu() {
+			classie.add(menuEl, 'menu--open');
+		}
+
+		function closeMenu() {
+			classie.remove(menuEl, 'menu--open');
+		}
+
+		// simulate grid content loading
+		var gridWrapper = document.querySelector('.content');
+
+		function loadDummyData(ev, itemName) {
+			ev.preventDefault();
+
+			closeMenu();
+			gridWrapper.innerHTML = '';
+			classie.add(gridWrapper, 'content--loading');
+			setTimeout(function() {
+				classie.remove(gridWrapper, 'content--loading');
+				gridWrapper.innerHTML = '<ul class="products">' + dummyData[itemName] + '<ul>';
+			}, 700);
+		}
+	})();
+	</script>
+</body>
+
+</html>

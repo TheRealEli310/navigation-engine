@@ -52,7 +52,7 @@ public class GetResults extends HttpServlet {
 			int pageNumber = Integer.parseInt(pageNum);
 			List<Map<String, String>> userData = getUserData(pageNumber, (int) perPage);
 			for (Map<String, String> subData : userData) {
-				output += "<div class=\"url\">" + subData.get("url") + "</div>";
+				output += "<div class=\"url\"><a href=\""+subData.get("url")+"\">" + subData.get("url") + "</a></div>";
 				output += "<div class=\"data\">" + subData.get("data") + "</div>";
 			}
 

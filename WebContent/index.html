@@ -1,7 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>Load Data Dynamically on Page Scroll using jQuery AJAX
-	and PHP</TITLE>
+<TITLE>Adaptive Navigation Support </TITLE>
 <link rel="stylesheet" type="text/css" href="css/searchBar.css">
 <link rel="stylesheet" href="css/reset.css">
 
@@ -285,7 +284,7 @@ button {
 	       	 }); 
 	        $("#next").show();
 
-	       
+	       // resizeIframe(this);
 	      
 	         return false;
 
@@ -316,8 +315,8 @@ button {
 		  // if($(".pagenum:last").val() <= $(".total-page").val())
 		   {
 		  // var url="gotoResults?page=0";
- alert($(".pagenum:last").val());
-		   alert($(".total-page").val());
+ //alert($(".pagenum:last").val());
+//		   alert($(".total-page").val());
 		   var pagenum = parseInt($(".pagenum:last").val()) + 1;
 			 getresult('gotoResults?page='+pagenum);
 			 
