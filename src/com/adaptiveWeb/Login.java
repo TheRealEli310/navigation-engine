@@ -72,10 +72,10 @@ request.getSession().setAttribute("user", u);
 		}
 		catch(Exception e)
 		{
-			
+			request.getRequestDispatcher("/WEB-INF/login.html").forward(request, response);
+
 			
 		}
-request.getRequestDispatcher("/WEB-INF/login.html").forward(request, response);
 
 	}
 
