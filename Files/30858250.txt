@@ -1,0 +1,4 @@
+spring integation received date issue 
+latest spring integration javax mail libraries issue sitting beginning received date mail server imap protocol si returns null row href https github spring projects spring integration blob spring integration mail src main org springframework integration mail abstractmailreceiver rel nofollow https github spring projects spring integration blob spring integration mail src main org springframework integration mail abstractmailreceiver imapmessage instance makes mimemessage stub method getreceiveddate header null element strong received strong option parse header manually correct behaviour si bug feature avoid manual parsing received date header 
+
+sun code fetch item populate property line javamail spring expose created href https jira spring io browse int rel nofollow jira issue 

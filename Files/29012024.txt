@@ -1,0 +1,4 @@
+mocking apache httpclient poolinghttpclientconnectionmanager 
+mock href http stackoverflow questions mocking apache httpclient mokito default httpclient mock latest v4 httpclient created href http hc apache org httpcomponents client ga httpclient apidocs index html org apache http impl conn poolinghttpclientconnectionmanager html rel nofollow poolinghttpclientconnectionmanager mockito code 
+
+realized default connection manager built v4 back mocking unit test code 

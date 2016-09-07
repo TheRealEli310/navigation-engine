@@ -1,0 +1,4 @@
+osgi reading configurations 
+code osgi bundle initiated multiple configurations purpose bundle rewrite static links html redirect cdn url org apache sling rewriter transformer achieve problem unable access configurations bundle create multiple sets configurations felix console activate method called time bundle installation link transformation activty init method called unable hold configurations configurations 
+
+problem approach implementing interfaces class balazs zsoldos check answer href http stackoverflow questions read factory configurations osgi instance seperately implement transformer transformerfactory staticlinktransformer implemented plain class component service annotations 

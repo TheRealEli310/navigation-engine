@@ -1,0 +1,4 @@
+android studio source android jar module 
+switched android studio eclipse fb sdk stupid question android project created module library call dbutils greendao save data sqlite requires import find class figure dependency add app module recognized 
+
+strong android library strong plugin em build gradle em file href http tools android tech docs build system user guide toc creating library project rel nofollow android studio project android library import needed classes works em build gradle em file 

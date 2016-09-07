@@ -1,0 +1,4 @@
+suppress jdbc sqlwarnings 
+convert mysql stored procedure code pretty simple sql creates temporary tables select based trouble sqlwarnings related data truncation thrown creating temp table explanation warnings warnings execution stored procedure due improperly formatted datetime fields didnt problems version statement executeupdate throws sqlwarning temp table attempting create doesnt exist suppress sqlwarnings id prefer log message noting warning text temp table successfully created code 
+
+strange equivalent worked create temporary table mytemptable ignore select exception thrown jdbc call getwarnings statement object list warnings norbert van nobelen helping figure comments op 

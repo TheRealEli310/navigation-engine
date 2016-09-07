@@ -1,0 +1,4 @@
+classnotfoundexception applet telerik controls 
+developer dont strong asp net strong application basically plugin folders supported plugin controls pages problem run page configurations file application telerik controls settings config applet works fine issue wrong helpful heres aspx page pre class lang html prettyprint override dont code applet thing works fine asp net application telerik controls 
+
+lot digging found key file causing issue heres key commented config file started working hope helps 

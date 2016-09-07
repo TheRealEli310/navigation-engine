@@ -1,0 +1,4 @@
+org hibernate typemismatchexception provided id wrong type class 
+spring mvc save data mysql data base hibernate fetch data email data base table users table fields controller userdao userdaoimpl userservice userserviceimpl user data stored database fetching error showing 
+
+message exception crystal clear id user class type long youre user id passing email argument type string possibly work goal find user email query 

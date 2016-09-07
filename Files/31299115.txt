@@ -1,0 +1,4 @@
+file public classes 
+created class package modifier eclipse ran program printed string small doubt read compilation unit doesnt public class works understand wrongly 
+
+actual requirement slightly strong public class compilation unit strong perfectly fine compilation unit em em public class wasnt find explicit statement language specification href http docs oracle javase specs jls se8 html jls html jls rel nofollow spec mention preferred recommended mapping compilation units filesystem 

@@ -1,0 +1,4 @@
+addfirst util linkedlist 
+homework making stack linked list chosen linked list javas util linkedlist package call addfirst method main class program wont finish acts infinite loop loops involved code class main calls push method hard test linkedliststack push stack idea whats wrong 
+
+change linked list nonempty empty doesnt change list blockquote loops involved blockquote 

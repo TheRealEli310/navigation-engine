@@ -1,0 +1,4 @@
+store jpa entity field object id object 
+problem entity server endpoint receives feedback clients feedback received multipart form based format fields set feedback product load product object jpa time consuming creates unnecessary queries store entity pass product id product object modify insert query eclipselink jpa spring vaadin 
+
+href http docs oracle javaee api javax persistence entitymanager html getreference 28java lang class 20java lang object rel nofollow entity loaded simply creates lazy initialized proxy id causing sql query executed 

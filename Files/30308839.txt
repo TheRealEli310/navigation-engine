@@ -1,0 +1,4 @@
+passing null varargs give length 
+javas variable arguments methods testing passing null parameter beginning method checked null parameter length test failing ran debugger length clicked disclosure triangle eventually resolved checking length element null explanation 
+
+youre passing varargs method receive empty array ol li pass explicitly li li dont pass li ol option idiomatic 

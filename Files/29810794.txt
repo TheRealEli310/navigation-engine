@@ -1,0 +1,4 @@
+call files activity class android studio 
+create array images drawable folder class app activity class android studio getresources method activity code clean organized creating array activity messy accumulate images similar access getresources method class generate randomized background images drawable folder open suggestions developer approaching problem incorrectly 
+
+solved problem mistakenly thought needed method store image files array found simply store files ran problem app run api higher workaround custom method defined class picks random image file stored array 

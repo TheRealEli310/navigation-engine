@@ -1,0 +1,4 @@
+apache storm classnotfoundexception storm starter 
+href https github apache storm tree master examples storm starter rel nofollow storm starter work mailing list gaining traction run href https gist github sethgrid c64eb01deec37f5b95d1 rel nofollow error developer imports supposed work find jar files inspect jar files running commands documentation linked knowledge tutorial osx el capitan storm maven great enjoy started 
+
+running storm topology maven command line submit topology cluster work local mode files standard maven artifacts submit topology cluster recommend started maven assembly plugin maven shade plugin jar file submission bunch question include details git repository href https github mjsax aeolus blob master monitoring pom xml rel nofollow https github mjsax aeolus blob master monitoring pom xml 

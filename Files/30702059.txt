@@ -1,0 +1,4 @@
+ignore fix duplicate classes warning 
+href http www qulice rel nofollow qulice code quality control tool run project errors disable checks href https github teamed qulice issues rel nofollow qulice github feature isnt implemented order rid errors 
+
+href https github yegor256 rultor blob pom xml l846 l861 rel nofollow pom xml rultor youre basically disabling entire duplicate finder check disable artifact moment ps specific case dont disable duplicate finder proper versions junit mockito hamcrest jcabi parent href https github jcabi jcabi parent blob pom xml l1323 l1373 rel nofollow pom xml 

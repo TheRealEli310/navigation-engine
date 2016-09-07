@@ -1,0 +1,4 @@
+run war file jboss resteasy services 
+run rest easy web services jboss eap server jboss server running copy war file deployment folder jboss throughing moduleclassloader exception finding solution problem strong web xml file strong strong pom xml strong strong program strong strong exception strong 
+
+solved removing listner class web xml file ambari server port changed port ambari resteasy webservices working fine port jboss 

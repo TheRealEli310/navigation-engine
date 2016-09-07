@@ -1,0 +1,4 @@
+consume page entity response spring resttemplate 
+spring data mongodb repository controller works fine consume endpoint resttemplate getforentity method class provide successfully deserialize page entities 
+
+problem statement jackson instantiate abstract type give jackson information instantiate concrete type concrete type default constructor matter strong strong code add required information class create custom implementation interface default arg constructor href http stackoverflow answer custom implementation type reference custom implementation copied linked question 

@@ -1,0 +1,4 @@
+roll back database change liquibase classpath 
+application liquibase manage database sets liquibase single changeset changeset applied running application record inserted expected execute response change rolled back manually rolling back change deleting table created changeset update successful execute change rolled back expected crux problem changeset applied application versus command line configure command line parameters create record application creates 
+
+problem filename spring includes classpath url liquibase code liquibase handle classpath prefix sounds handled correctly rollback logic improvements classpath prefix handled recent versions liquibase liquibase update spring work correctly classpath prefix fix filename field good mysql put runalways true changeset bottom changelog file automatically clean paths update 

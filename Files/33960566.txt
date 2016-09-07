@@ -1,0 +1,4 @@
+standardize rest errors jhipster app 
+built application jhipster starting template jhipster class annotated exception handling errors generated client request controllers class maps exception types methods method builds returns object type serialized json client added method simple case works error case short receive json client error generated spring mvc entering controller required parameter missing structure json received client class mechanism spring boot spring mvc represent errors unify type data back client case error nice unique template error page 
+
+found solution blog post href http www jayway spring boot error responses rel nofollow http www jayway spring boot error responses method status code spring handle rest generate json response fields error entering controller sample response body 

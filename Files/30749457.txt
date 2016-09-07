@@ -1,0 +1,4 @@
+jms message selector work 
+requirement filter message based message selector consumer messageselector filtering message written code strong activemqutil strong consumes message prints output properly consumes message output issue 
+
+found issue created consumers consumer capable selecting types messages internally calls method strong null strong selector message message solve ul li commented li ul filtered message 

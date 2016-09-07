@@ -1,0 +1,4 @@
+jsch file error 
+windows machine running ssh server path machine creating sftp channel jsch cd error throwed convert path 
+
+solved problem channelexec opening exec channel worked hope work 

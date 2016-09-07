@@ -1,0 +1,4 @@
+diffie hellman group returns invalidalgorithmexception 
+rfc parameters diffie hellman group bit key default generator rfc set attached codes error dh grp byte array rfc grp specs counted bytes exactly256 bytes bit prime resolve 
+
+biginteger dh grp bitlength construct biginteger hexadecimal numbers work 

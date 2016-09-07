@@ -1,0 +1,4 @@
+unit test serviceloader 
+method load services resources unit test method junit 
+
+copy provider configuration file test class directory assuming test class files located copy provider configuration file copy files depend build tool maven gradle ant maven store test resources folder 

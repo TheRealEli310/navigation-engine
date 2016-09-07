@@ -1,0 +1,4 @@
+filewriter throw ioexception fileoutputstream throw filenotfoundexception exact reasons 
+href http docs oracle javase docs api io filewriter html rel nofollow docs public filewriter string filename throws ioexception throws strong ioexception strong named file exists directory regular file exist created opened reason href http docs oracle javase docs api io fileoutputstream html rel nofollow public fileoutputstream file file boolean append throws filenotfoundexception throws strong filenotfoundexception strong file exists directory regular file exist created opened reason specific reason choice 
+
+interesting question peeked constructors code helped clarify things throws extends constructor throws extends throw exception extend declares constructors signature 

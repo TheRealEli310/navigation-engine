@@ -1,0 +1,4 @@
+jmap heap command gave outofmemoryerror 
+periodically runnign jmap heap command monitor tomcat application time outofmemoryerror monitor memory server level 110mb monitoring ignore time assuming harm application server low memory command run strong update strong run jmap heap lang outofmemoryerror create gc thread system resources problem os resource level 
+
+memory problem reported operating system resource problem create threads affect em jmap em program tomcat 

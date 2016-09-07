@@ -1,0 +1,4 @@
+set jackson objectmapper strict jersey http client 
+jersey http client call resource deserialize response json response json fields exception change jacksons deserialization mode strict ignore fields 
+
+configure jersey ol li create href https docs oracle javaee api javax ws rs ext contextresolver html rel nofollow href http stackoverflow register resolver client li li instantiate passing constructor argument register provider jaxb annotations youll href https github fasterxml jackson jaxrs providers blob master json src main fasterxml jackson jaxrs json jacksonjaxbjsonprovider rel nofollow li ol ignore unknown properties set configuration property shown href http stackoverflow link sam hr strong edit strong made mistake examples em em method jersey href https jersey net apidocs jersey sun jersey api client config clientconfig html rel nofollow api info 

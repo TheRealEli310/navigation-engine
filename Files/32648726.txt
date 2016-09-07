@@ -1,0 +1,4 @@
+jni build gradle fails finding ndk directory 
+set file builds line throws error set prevent hard code absolute path 
+
+property em href http stackoverflow questions android gradle plugin getndkfolder found anymore replacement changed em times ndk support introduced stabilized experimental plugin recommend version independent approach invented href http stackoverflow users riccardo ciovati riccardo ciovati em href http stackoverflow read properties defined local properties build gradle em 

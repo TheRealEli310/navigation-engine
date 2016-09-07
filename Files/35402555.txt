@@ -1,0 +1,4 @@
+sort array strings char string 
+wrote program asks users input names array names sorted alphabetical order program works good wondering sort names entered 2nd 3rd 4th character string user entered bob dan kris program sort dan bob kris program sorts array strings letter string 
+
+bellow custom strong util comparator strong output 

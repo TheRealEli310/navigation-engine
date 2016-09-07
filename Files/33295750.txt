@@ -1,0 +1,4 @@
+spring integration http outbound gateway header mapper 
+add custom headers http outbound gateway things amp work scenario works custom headers add prefixed default rid doesnt set custom values headers spending lot time fix stuck appreciated 
+
+tested mapper sample app worked fine turn debug logging detailed logging header mapping 

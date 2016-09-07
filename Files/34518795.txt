@@ -1,0 +1,4 @@
+tableschema bigquery result pcollection tablerow 
+run query bigquery web ui results displayed table type field field result count avg operation type field results directly exported table json csv question retrieve query results project query obtain schema tablerow pcollection explicitly defining query bigquery web ui figure query results automatically exported saved table table explicitly provided ideas appreciated 
+
+dataflow sdk doesnt expose schema returned bigquery dataflows api good workaround dataflow api defining schema manually workaround alternatively make separate query bigquery directly href https cloud google bigquery docs reference v2 jobs query rel nofollow pipeline construction time result passed transform incur additional cost mitigated altering query slightly reduce amount data processed correctness output relevant youd storing schema 

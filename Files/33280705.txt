@@ -1,0 +1,3 @@
+find exclude implicit dependency maven3 
+file dependencies deploying webapp tomcat7 subdirectory versions dependency exclude version run version appears file listed exclude version causing library conflict ugly workaround manually removing version restarting tomcat7 adding block dependency file subdirectory tomcat7 webapp subdirectory maven version find dependency generating version forcibly exclude full file version 
+

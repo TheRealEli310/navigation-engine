@@ -1,0 +1,4 @@
+android test suite robolectric 
+search run tests suite test classes robolectric class unit test assertions class passing class lets call assertions unit test passing h1 problem h1 dont find tutorial test strong suite strong robolectric package restaurantmodeltest xmodeltest testsuite junit questions arise class testsuite extend extends testsuite super class give short classes great 
+
+partially covered question answering question href http lang classnotfoundexceptionhttp stackoverflow rel nofollow run android test suite exception thread main heres write suite robolectric lets model classes lets write dummy tests step group run click click run modelstestsuite strong nb strong android studio 3b disable instant run preferences build execution deployment instant run enable instant run uncheck order run robolectric tests avoid hope helps 

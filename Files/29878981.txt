@@ -1,0 +1,4 @@
+equivalent getlinenumber streams 
+equivalent getlinenumber streams search word textfile return line number integer search method 
+
+dont streams designed provide access elements collections workaround read file list generate indices apply filter bit overkill risk load entire files content list elements doesnt satisfy write good loop code interested question href http stackoverflow questions zipping streams jdk8 lambda util stream streams zip zipping streams jdk8 lambda util stream streams zip href https github poetix protonpack rel nofollow proton pack library create call map line line number file approach strong fail strong pipeline run parallel dont recommend 

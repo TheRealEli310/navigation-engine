@@ -1,0 +1,4 @@
+difference setparameter set specific type parameters hibernate 
+hibernates href https docs jboss org hibernate orm api org hibernate query html rel nofollow query class setters type primitive parameter method receives replace setters deprecated advantage specific type parameters terms performance custom objects 
+
+based cursory read implementation class href http grepcode file repo1 maven org maven2 org hibernate hibernate ga org hibernate impl abstractqueryimpl abstractqueryimpl setparameter 28int 2cjava lang object 2corg hibernate type type rel nofollow blockquote advantage specific type parameters terms performance blockquote yeah directly call function hibernate guess type object method convenient method set parameter end function call function function blockquote custom objects blockquote wrapper class additional operation hibernate check type handle properly 

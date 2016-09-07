@@ -1,0 +1,4 @@
+declare typed class 
+declare instance map typed line compile error clean expressing 
+
+casts generates warning compiles problem due type erasure resulting object runtime doesnt type object represents guavas 

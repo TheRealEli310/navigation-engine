@@ -1,0 +1,4 @@
+logging file util logging restlet 
+found lot good guides explain util logging wrong make system load logging properties file notice restlet framework logger made usable classes fist thing setup system property properties file test thing content properties file result file written logs folder console prints warning info strings stupid missing give hand 
+
+call href http docs oracle javase docs api util logging logmanager html readconfiguration rel nofollow logmanager readconfiguration set system property load settings set property system property startup comments 

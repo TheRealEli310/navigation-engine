@@ -1,0 +1,4 @@
+error ibm db2 jcc sqlexception jcc t4 invalid operation result set closed errorcode sqlstate null 
+problem db2 plain jdbc execute simple query br fetch resultset fetch result set call method turn executes query opening closing anoher resultset control back caller original resultset closed weird br ps em code post works correctly sql server db2 express client environment db2 os driver version em method 
+
+youre working autocommit mode default behaviour specific driver close result sets commit based comments href http stackoverflow questions avoid resultset closed exception avoid resultset closed exception set create statement 

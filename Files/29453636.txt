@@ -1,0 +1,4 @@
+program adds unique words text file arraylist 
+writing program reads text file multiple lines text adds unique words arraylist sort arraylist print input blockquote br br blockquote originally thought problem scanner hit word arraylist stopped changing input idea problem anymore output blockquote unique word br words br br blockquote output blockquote unique word br words br br br br br br blockquote code wrong 
+
+youre repeatedly collect call variable 

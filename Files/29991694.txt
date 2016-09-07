@@ -1,0 +1,4 @@
+marshallingwebserviceoutboundgateway jaxb marshaller throws error 
+spring integration release bit problems attempting make soap call soap webservice jaxb generate object representation wsdl auto wiring flow pre class lang prettyprint override bean issue heres definition pre class lang prettyprint override call made part error output pre class lang prettyprint override spring integration framework mucking response type jaxb expects figure fix 
+
+case lack thought part needed transformer front translate coming object jaxb marshaller expecting 

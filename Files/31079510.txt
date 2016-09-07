@@ -1,0 +1,4 @@
+jersey jackson disable filterprovider 
+recently started securityentityfilteringfeature code jersey environment resource classes returning custom object map started throwing exception 
+
+solution worked create filter usages security annotations custom requirement set role user request filter register dropwizard jersey 

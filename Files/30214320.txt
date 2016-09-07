@@ -1,0 +1,4 @@
+android bluetooth mac address 
+mac address bluetooth device click device listview pass mac address extract mac address choose device listview 
+
+android starting bluetooth device scan address remote bluetooth devices broadcast message registered code sample answer em specific em case assume href https github googlesamples android bluetoothchat rel nofollow android sample code create listview paired devices scan case device address android code sample href https github googlesamples android bluetoothchat blob master application src main android bluetoothchat devicelistactivity l174 rel nofollow 

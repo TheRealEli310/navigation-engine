@@ -1,0 +1,4 @@
+generic csv parser 
+csv file headers order fname mname lname csv parser parse reading file line line splitting delimitter index ill values fname mname lname csv headers order lname fname mname change code write generic parser order header stores respective fields suggestions 
+
+suggest write generic parser href https commons apache org proper commons csv rel nofollow apache commons csv dont order columns csvformat documentation blockquote strong referencing columns safely strong source header record simplify code safely reference columns href https commons apache org proper commons csv apidocs org apache commons csv csvformat html withheader lang string rel nofollow withheader string arguments parser read record values column names call href https commons apache org proper commons csv apidocs org apache commons csv csvrecord html rel nofollow csvrecord method takes string column argument makes code impervious column order csv file blockquote 

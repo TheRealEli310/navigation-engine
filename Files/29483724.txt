@@ -1,0 +1,4 @@
+appengine auto generated long id unique entity scope 
+objectify app engine auto generated id create id entity put null variable id app engine generate id entity automatically key creation objectify function conclusion auto generated id entity parent relationship unique 
+
+blockquote entity datastore key uniquely identifies key consists components ul li namespace entity multitenancy li li kind entity categorizes purpose datastore queries li li identifier individual entity key string integer numeric id li li optional ancestor path locating entity datastore hierarchy li ul blockquote union components make key unique em auto generate policy em guarantees id unique em namespace parent kind id em em kind id em parent source href https cloud google appengine docs datastore entities rel nofollow https cloud google appengine docs datastore entities 

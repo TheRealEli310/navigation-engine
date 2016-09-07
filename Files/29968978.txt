@@ -1,0 +1,4 @@
+save byte db hibernate 
+error ora bind long insert long column spring tool suite oracle database 11g express edition ojdbc6 hibernate tools hibernate release final folder required entity saveme hbm xml hibernate cfg xml server side test wrote applet run locally access server side result data source explorer table created length 20m row bytedimg type raw blob 
+
+problem arise fact save object exceeds default chunk size solution increase default chunk size property column tag 20m 

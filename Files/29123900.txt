@@ -1,0 +1,4 @@
+constructor executed cloning 
+
+
+default implementation method class call kind constructor makes shallow copy object creates copy object creating instance copying content assignment means strong class mutable field original object clone refer internal object strong href http javarevisited blogspot clone method works html rel nofollow page 

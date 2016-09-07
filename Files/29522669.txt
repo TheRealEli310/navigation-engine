@@ -1,0 +1,4 @@
+spring security filter lock routes 
+reworking product remove default anonymoususer behavior springsecurity lock urls filter security exception endpoints figure lock security setup essentially boils routes akin advice input appreciated 
+
+blockquote reworking product remove default anonymoususer behavior springsecurity blockquote wondering based rest description dont remove user null user authenticated lead remember authorizerequests intercept url ordering matters configuration reformatted slightly href https spring io blog spring security config preview readability rel nofollow readability logic ul li request match ul li matches request requires user authenticated li ul li li ignore rule matched li ul ul li request match login ul li allowed access stop rules li li request match continue li ul li li request match request ul li request match previous rule require user authenticated li ul li ul antmatchers concisely represented anyrequest 

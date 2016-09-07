@@ -1,0 +1,4 @@
+jolokia prevents tomcat shutdown 
+integrated jolokia tomcat tomcat jdk configured javaagent tomcat directory bin setenv sh troubles shutting tomcat ps shows process running ist output shutdown thread dump remove javaagent catalina opts works searched stackoverflow didnt find solution 
+
+issue fixed href https github rhuss jolokia issues rel nofollow https github rhuss jolokia issues suggestion upgrade preferably newest version 

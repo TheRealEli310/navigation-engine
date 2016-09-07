@@ -1,0 +1,4 @@
+jackson deserialize json shorthand property 
+struggling find deserialize json shorthand conventions pojos jackson type property string object string considered simple shorthand form object default properties equivalent understand write custom deserializer type object understand case deserialize type object manually manually process shorthand form delegate normal processing annotation based mapper 
+
+simply define constructor parameter create object simple type case class constructor dont forget include noargs constructor prints 

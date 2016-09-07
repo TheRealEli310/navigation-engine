@@ -1,0 +1,4 @@
+facebook graph api call working web 
+calls graph api ul li href https graph facebook oauth access token rel nofollow https graph facebook oauth access token li li href https graph facebook rel nofollow https graph facebook li ul returns success returns error bad request funny thing copy created url browser returns data expected ran code http client call throws error url fine access token correct verified facebook debug wrong sample url 
+
+problem v2 additional field required called appsecret proof supplying sha256 client secret access token solved problem server call works fine client call browser call working fine web server call 

@@ -1,0 +1,4 @@
+recyclerview fragment crashes device screen rotation 
+found questions dont fit case activity fragment recyclerview inside adapter managing cardview objects strong mainactivity strong methods focus initrecyclingview oncreate strong recyclerviewfragment strong finally problems rotate screen exception log output fragment destroyed activity wrong rotation screen destroys activity starts find solution point suggest great code xml files 
+
+move code rotation laid callback invoked set 

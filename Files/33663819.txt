@@ -1,0 +1,4 @@
+libgdx importing tmx files 
+learning code games libgdx hated part language attempted level editor tmx tiled parsing github libgdx helpful class made follow instructions stuck basically comment line code app runs fine level elements included line code crashes phone instantly whilst loading app checked file level1 tmx exists assets folder inside android folders game hierarchy rest code happy put lots garbage related problem edit thing type file making tiled editor chose zlib compression options xml csv gzip ul li edit managed view error message bottom android studio unable load file tiles brown png unaware load textures tiles png files assets folder couldnt load errors li ul 
+
+load textures loader load referenced textures put assets folder location creating map tiled didnt exception good creating folder folder directory put tmx files tilesets import tileset tiled referenced make correct check tmx file absolute file paths 

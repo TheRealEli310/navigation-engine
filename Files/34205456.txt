@@ -1,0 +1,4 @@
+cost method multiple recursion 
+method determine asymptotic estimate cost algorithm function size input starting type exercises understand case input size means size array method parameter identified input size proceed determine cost multiple recursion recurrence equation determines cost 
+
+determine complexity algorithm understand work spend time kind algorithm depend aspects parameters input size input type input order depends array size operations constant time operations depends processor commands compilation processor execute instructions eventually summed constant constant depend algorithm input size safely omit estimation algorithm linearly dependent input size cycles input array cycle array element equal array size worst case algorithm forces execute recursion array size times input case estimation cycle recursion execute method times worst case number execution steps significantly large input size constant insignificant omit estimation final estimation 

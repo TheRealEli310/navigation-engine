@@ -1,0 +1,4 @@
+web app crashing heroku 
+existing web app project converted maven project deployed heroku application deployed successfully run crashes figure logs reason procfile strong web opts cp target classes target m2e wtp jar strong logs app crashed error code h10 status logs 
+
+command doesnt main class 

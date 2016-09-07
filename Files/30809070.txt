@@ -1,0 +1,4 @@
+accessing scala nested classes 
+lets class structure scala easily construct add extra level nested classes longer construct class output significant difference levels cases levels generated code pretty reasonable levels levels whats difference level level nested scala classes accessed 
+
+lets give versions names make easier talk class files youll scala compiler created class run youll class listed enclosing class happen static nested class compiler perfectly happy compile output enclosing class fact scala compiler doesnt generate add companion class compiler expects static class enclosing class named dollar signs doesnt match perfectly happy accept dollar signs class names case figure interpret class kind itll create instance workaround pretty scala compiler treat differently sense doesnt class enclosing class listed attribute dollar sign end doesnt dont idea difference verbosity 

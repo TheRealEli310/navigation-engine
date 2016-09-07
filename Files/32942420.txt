@@ -1,0 +1,4 @@
+add custom field spark ml labeldpoint 
+add custom field user id predictions result class localtesting labeledpoint exception thrown prediction data feature label probability custom field userno user id result predictions select strong update strong solved line fixed 
+
+dont low level mllib api create simply values matters types column names matching parameters pipeline scala case class pre class lang scala prettyprint override add annotation based href http spark apache org docs latest sql programming guide html inferring schema reflection rel nofollow spark sql dataframe guide plain simple change code work wont mllib part easily handled simple transformations hr metadata wont havent tested code errors 

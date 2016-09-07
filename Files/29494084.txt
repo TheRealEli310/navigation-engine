@@ -1,0 +1,4 @@
+size tableview vbox 
+layout resizable chart top fixed size table bottom ensure resizing chart advance rows table table firstly shows rows resizes resize main window jdk8 update windows bit setting stage table initialised stuff data put table resize table content fix table effect 
+
+blockquote table firstly shows rows blockquote default style hide customizing css table cell problem arises tableview show empty area rows problems workarounded number items rows fixed accomplished simply setting preferred width height tableview blockquote resizes resize main window blockquote default behavior putting tableview directly resizable resolve resizing problem time good candidate additional visually laying tips ul li align vbox children centered li li give padding vbox li ul full modifications code 

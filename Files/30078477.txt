@@ -1,0 +1,4 @@
+list users role jboss active directory 
+jboss server connects active directory server ldapextloginmodule restful web servlet group active directory string active directory server list users part group 
+
+absolutely hard jndi ldap query users objectcategory person attribute member jndi elegant api finding ad server properly trivial dn strings usual windows names easy jespa makes sort thing trivial fail ad server properly understands windows group names account names sids jespa lot stuff youre ultimately check group membership jespa ntlmsecurityprovider auth check group membership account ismemberof isuserinrole quicker ldap 

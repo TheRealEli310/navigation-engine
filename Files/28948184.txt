@@ -1,0 +1,4 @@
+calling function exist reflection javassist 
+call function getters setters property problem property generated runtime variable number manipulate bytecode javassist gclib function calls directed proxy object function real method number extracted called function call function number parameter didnt work 
+
+scenarios reflection proxy objects handy define interface delegate method dynamic invocation handler call getter setter methods side implementing invocation handler understand method call object trigger invoke method event call tostring equals inherited object edit thought create dynamic method names numeric string based key map normal handling problem thinking reflection byte code manipulation 

@@ -1,0 +1,4 @@
+application classpath gradle task 
+idea simple access project classes build script directly sadly files decided give compilejava list files compiled class objects files id expect reflections classes heres working id gradle 
+
+play classes project instantiating managed pretty raw job class object creates class loader adds default output classes dir dependency classes configuration builds list files classesdir converts path string format yourclass loads dumps methods classes add logic attributes methods 

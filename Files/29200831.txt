@@ -1,0 +1,4 @@
+android app access youtube data api release mode 
+made android app works fine strong debug strong mode youtube data api data youtube account connected user works fine make strong release strong apk copy paste android device install app doesnt access youtube data api message step release version access google apis debug mode miss 
+
+needed generate release sha1 footprint added sha1 package android applications public access api key google developers console oauth create client id app sha1 certificate wait minutes works case 

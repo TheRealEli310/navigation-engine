@@ -1,0 +1,4 @@
+prefix unicode strings sql hql 
+ms sql query convert hql catch exception 
+
+href https msdn microsoft en sqlserver aa937724 aspx rel nofollow microsoft jdbc driver sql server shouldnt worry prefix strings pure sql queries project set unicode strings utf encoding source files jdbc driver care prefix code pre class lang prettyprint override results statement sql server sql profiler pre class lang sql prettyprint override 

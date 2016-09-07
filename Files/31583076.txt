@@ -1,0 +1,4 @@
+android google maps v2 groundoverlay showing map 
+created android application google maps v2 groundoverlay order position image map reason working br research examples internet written app correct overlay br overlay options onmaplongclick method order place overlay user holds finger map call toastlong method order show toast check onmaplongclick method working br image overlay accessible br br code 
+
+small error transparency documentation href https developers google android reference google android gms maps model groundoverlayoptions html transparency float rel nofollow https developers google android reference google android gms maps model groundoverlayoptions html transparency float blockquote strong transparency strong float range means ground overlay opaque means ground overlay transparent blockquote remove transparency 0f call reduce overlay 

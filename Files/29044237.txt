@@ -1,0 +1,4 @@
+arraylist storage 
+arraylists references stored contiguously heap add element middle array list change stored heap location reference moved memory cell moved past memory cell moved inserted 
+
+depends internally fixed size buffer resized runs space insert element middle space left buffer simply shifted make room element space left buffer resized entails reallocating turn em em entail copying elements location memory decision move buffer location made virtual machine operating system 

@@ -1,0 +1,4 @@
+jsoup reddit scraper error 
+jsoup scrape reddit images scrape subreddits wallpaper error wondering fix totally understand code horrible pretty noob question completely 
+
+issue caused fact scraper violating href https github reddit reddit wiki api rel nofollow reddits api rules error means requests ndash youre requesting pages fast make request seconds set proper href https en wikipedia org wiki user agent rel nofollow user agent format recommend code running fast doesnt severely rate limited hr fix add start class main method make actual user agent change youll change code stop running error hr href http reddit dev api rel nofollow reddits api subreddit json subreddit make project easier isnt required current code work 

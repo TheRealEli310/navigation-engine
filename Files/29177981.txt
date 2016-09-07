@@ -1,0 +1,4 @@
+jpql hibernate subselect query working 
+problem easily perform separate queries set ids ids clause combine query subselect work works exception make single query work jpa classes entitymanager query lead fk manytoone statesupplier statesupplier fk manytoone leadstatus leadstatus statesupplier fk manytoone supplier supplier model simple require source code entities problem combine queries work separately 
+
+dont join explicit implicit query subquery 

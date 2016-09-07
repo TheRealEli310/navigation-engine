@@ -1,0 +1,4 @@
+write select tag form mybatis select 
+class dao interface table database write sqlmapper mybatis selectone method 
+
+option annotation writing xml result map required columns map directly object property 

@@ -1,0 +1,4 @@
+run code exception thrown catch block 
+make code runs exception thrown finally code runs exception 
+
+executed exception thrown exception thrown skipped execution jump executed exception thrown exception thrown executed 

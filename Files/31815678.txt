@@ -1,0 +1,4 @@
+finalize called garbage collector 
+quotes scjp study guide blockquote method write code passes reference object question back object effectively uneligiblizing object garbage collection point object eligible garbage collection garbage collector process object delete garbage collector remember object ran run blockquote designed purpose method holds good object marked collection time decides skip call 
+
+dont original reason current implementation enqueues instances internal subclass href http docs oracle javase docs api lang ref reference html rel nofollow objects overriding finalize method internal href http docs oracle javase docs api lang ref referencequeue html rel nofollow polled dedicated jvm knowing object finalized time decide enqueue method called avoid makes object allocation costly prevents escape analysis reliable managing native resources gc postpone finalization unbounded amount time 

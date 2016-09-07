@@ -1,0 +1,4 @@
+reduce stream stream java8 
+create infinite stream groups tens inifinte stream ints input grouped stream iterates times resulting stream iterated working elegant code make groups int stream collect stream boxing 
+
+feature href https github amaembo streamex rel nofollow streamex library called href http amaembo github io streamex javadoc javax util streamex streamex html groupruns util function bipredicate rel nofollow collect adjacent elements intermediate list based supplied predicate 

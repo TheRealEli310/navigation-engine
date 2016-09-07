@@ -1,0 +1,4 @@
+serialize set uuid jackson 
+found jackson equipped uuid serizlizer deserializer pre class lang prettyprint override correctly serialize deserialize field class set uuids serialize annotating field complains set converted uuid half expected create serializer deserializers extending feels hacky solution dont option configure classes dont access amazon swf automatically jackson 
+
+jackson automatically uuid serializers deserializers annotations annotation usage suggested de serializer content property annotation jackson apply de serializer directly reported mismatch 

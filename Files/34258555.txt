@@ -1,0 +1,4 @@
+configure hibernate jpa provider payara glassfish 
+step step guide setting payara glassfish server hibernate appreciated 
+
+found answer article href https medium mertcal hibernate payara cc242212a5d6 aa3sbwlck rel nofollow title hibernate payara hibernate payara briefly add hibernate dependencies pom xml replace payara glassfish jboss logging jar lib latest restart server project persistence xml provider org hibernate jpa hibernatepersistenceprovider property hibernate transaction jta platform org hibernate service jta platform internal sunonejtaplatform 

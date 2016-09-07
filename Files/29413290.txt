@@ -1,0 +1,4 @@
+works spring session scope bean default scope bean web context 
+studying spring mvc doubts ol li strong purpose session scope strong li ol reading documentation scopes bean definition http session valid context web aware spring applicationcontext instance created user session purpose make practical ol start li strong spring mvc default scope web context strong li ol spring default scope bean strong singleton strong scope bean web context 
+
+ans session scope similar httpsession scope beans instantiated based session scope scope lives http session similar request scope applicable web aware spring application contexts ans default singleton 

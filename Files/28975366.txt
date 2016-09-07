@@ -1,0 +1,4 @@
+getclassloader getresource throwing nullpointerexception filenotfoundexception 
+load files program working getclassloader getresource works perfectly file found file found throws nullpointerexception shouldnt throwing filenotfoundexception getresource throw exception heres code pretty standard file loading xt txt exists code works fine throws nullpointerexception easily modify code handle nullpointerexception returning null place filenotfound 
+
+em doesnt em throw exception returns resource found em code em throws exception call null reference returned 

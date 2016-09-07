@@ -1,0 +1,4 @@
+futures addcallback guarantee callback executed thread executing future task 
+code shown figure callback scheduled executed thread executing calls donnot moreexecutors samethreadexecutor guarantee 
+
+executes passed method inline simply calls related threads callback passed thread executes effectively wraps href http docs oracle javase docs api util concurrent futuretask html rel nofollow calls callbacks method called em em guaranteed callbacks executed thread executes add callback em em completed itll executed thread added callback assuming dont provide callback 

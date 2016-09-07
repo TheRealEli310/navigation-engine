@@ -1,0 +1,4 @@
+jpa hibernate generating schema ignores foreignkey inversejoincolumn 
+generatind ddl jpa hibernate wrong ignores foreignkey definition entities parent child wrote small main class generate ddl schemacreator persistence xml persist point direction included code sample project github href https github vdmc generate ddl git rel nofollow https github vdmc generate ddl git 
+
+thing incorrect metadata em inverseforeignkey em fk info em inversejoincolumns em 

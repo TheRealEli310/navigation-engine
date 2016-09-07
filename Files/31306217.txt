@@ -1,0 +1,4 @@
+write multiple xml root elements jaxb 
+code writing objects xml system producing objects loop method prints latest object xml file make print xml root elements sequentially write everytime cal method adding attributes object inside loop displaying correct number xml objects file displaying latest marshall calls 
+
+ensure file exist starting loop marshaller give append enabled working code problem 

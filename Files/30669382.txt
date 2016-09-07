@@ -1,0 +1,4 @@
+prevent calling private protected methods class 
+lets supppose created library called class inside library called lets suppose class private method called run method difficulties code written class suppose intend discourage habit stack trace check called 
+
+security manager href https docs oracle javase tutorial essential environment security html rel nofollow https docs oracle javase tutorial essential environment security html blockquote security manager object defines security policy application policy specifies actions unsafe sensitive actions allowed security policy securityexception thrown application query security manager discover actions allowed blockquote supports disallowing make private protected methods invocable reflection 

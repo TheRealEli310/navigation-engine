@@ -1,0 +1,4 @@
+spring rest object date field 
+spring resttemplate jackson send list parameters wrapped inside object controller request continue error long date field present object send request sending controller receive dont send expirydate field works flawlessly url generated doesnt work works pass date success 
+
+clean date timestamps simply words representation date numbers link href http www unixtimestamp rel nofollow http www unixtimestamp sending date post server long number 

@@ -1,0 +1,4 @@
+hadoop mapreduce read write sequence file 
+write mapreduce job read sequence file mapper read write sequence file main dont mapper familiar mapreduce work helping 
+
+correct main method wrote hadoop directory find input files write results computation job starts hadoop starts reading files finds input directory calls map method mapper passing line file time argument end computation reducer emits data hadoop write results files output directory mapper reducer dont input output files 

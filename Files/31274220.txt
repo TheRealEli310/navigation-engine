@@ -1,0 +1,4 @@
+jackson deserialization providing id string 
+simple class directly deserialized jackson json annotation give default possibility deserialize class providing id exemple lets class works deserialization class providing id string hr classes bound postgres database hibernate id annotation deliberately annotations doesnt relevant 
+
+alright custom deserializer hr 

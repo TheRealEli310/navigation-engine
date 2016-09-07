@@ -1,0 +1,4 @@
+mvn install fails time 
+finished intergration web projects aspectj issue projects containning aspects depends declare plugins projects web app project issue run rigth performing fails multiple errors works fine bug aspectj plugin 
+
+adding source level 

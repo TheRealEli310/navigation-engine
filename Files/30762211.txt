@@ -1,0 +1,4 @@
+create histogram asteriks array number repetitions 
+array repetitions numbers show histogram made histogram br array print horizontally create vertical histogram 
+
+compute maximum height histogram print top bottom ps idea complete working code works positive height values 

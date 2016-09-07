@@ -1,0 +1,4 @@
+change data vbo 
+attempting methods modify existing vbo current code call method doesnt effect vbo rendered object pretty vbo vao arent bound method called 
+
+things dont bind vao update vbo youve vbo source create vao dont bind anymore drawing bind vao vbo modifications bind vbo vbo bind vaos sense binding specific vao update actual answer youre call wrong parameter vbo id bind binding point 

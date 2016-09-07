@@ -1,0 +1,4 @@
+stack overflow retrofit rxjava concatwith 
+handle pagination retrofit rxjava observable advice href http stackoverflow questions handle paging rxjava question pages fetched chain fails 20th page stops subscription observable log logcat happen strong update strong due recursion graceful handling pagination retrofit rxjava 
+
+answered original question referenced answer case valid potentially simpler alternative original paging answer developed rx tricks arsenal java8 lambda style pseudocode 

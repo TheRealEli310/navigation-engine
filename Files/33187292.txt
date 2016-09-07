@@ -1,0 +1,4 @@
+play ws exception javax net ssl sslexception received fatal alert internal error 
+play framework version issue ws module problem arises fetch https sites href https insightware rel nofollow https insightware disclaimer company site enabling debug ws output exception additional information ul li running oracle version downgrading didnt solve problem li li installed cryptography extension jce unlimited strength jurisdiction policy files previous unavailable cipher suites warnings disappeared problem li li ws acceptallcertificates ws configuration option sake problem persisted li ul 
+
+disclaimer developper href https github asynchttpclient async http client rel nofollow asynchttpclient ahc http client plays ws decorates play ahc suffered https issues targeting jdk6 proper features jdk7 upgrade play ahc upgrade ahc compatible workaround 

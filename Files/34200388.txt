@@ -1,0 +1,4 @@
+add client proxy apache cxf jax rs 
+add proxy strong apache cxf strong client api jersey implementation clientconfig thing cxf specific client jax rs client implementation setting proxy jvm apriciated strong edit strong start solution didnt found properties proxy authentification 
+
+dont jax rs client interface href https jax rs spec net nonav rev apidocs javax ws rs client client html rel nofollow jax rs api implementation apache cxf client href http cxf apache org docs jax rs client api html jax rsclientapi jax rs2 0clientapi rel nofollow jax rs client api blockquote cxf implements jax rs client api internally implemented terms cxf specific webclient blockquote apache cxf client configuration href https cxf apache org javadoc latest org apache cxf jaxrs client clientconfiguration html rel nofollow apache cxf api blockquote represents configuration current proxy webclient instance client access configuration webclient getconfig client call blockquote 

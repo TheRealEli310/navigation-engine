@@ -1,0 +1,4 @@
+javafx tableview hibernate 
+develop javafx desktop application hibernate data model entities player team player belongs team strong player strong id int firstname string lastname string ref team int strong team strong id int string application tables entity works step tableview team entity intend add column players count bind tablecolumn firstnamecol setcellvaluefactory data data getvalue firstnameproperty team entity property counting players ideas bind numberofplayercol 
+
+assuming players fairly brute force approach counts run performance issues sophisticated work modest sizes data set heres link href https gist github james 6cd681beea685c500323 rel nofollow quick direct reference field matching id idea 

@@ -1,0 +1,4 @@
+garbage collection rdds 
+fundamental question spark spark maintains lineage rdds recalculate case rdds corrupted jvm find orphan objects garbage collection rdds happen 
+
+memory rdd storage configured limit exceeded older partitions dropped memory set describing portion executor jvm memory dedicated caching rdds default suppose gb memory 2g memory heap 2g rdd storage default configure spark properties print details gc behaving set spark executor extrajavaoptions include case tasks slow find jvm garbage collecting frequently running memory lowering spark storage memoryfracion reduce memory consumption details reference href http spark apache org docs tuning html garbage collection tuning rel nofollow http spark apache org docs tuning html garbage collection tuning 

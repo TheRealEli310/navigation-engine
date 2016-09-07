@@ -1,0 +1,4 @@
+jboss hibernate load requested class mysql jdbc driver 
+instalation jboss working postgresql tring change mysql downloaded mysql connector bin jar put jboss home module mysql main created module xml changed standalone xml whem start server folloing stacktrace persistence xml standalone xml datasource configuration jboss home module mysql main module xml 
+
+refer datasource persistence xml remove hibernate connection properties connection managed application server scenario redefine hibernate 

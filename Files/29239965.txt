@@ -1,0 +1,4 @@
+spring bean lookup method 
+implemented spring bean utilizing lookup annotation thread helpful href http stackoverflow questions spring lookup annotation spring lookup annotation subsequently noticed strange behavior design misunderstanding spring implement lookup method componentscan ed bean annotated service component implement method bean defined configuration class application isnt big problem remove bean definition configuration annotate class directly wondering behavior documented implementing incorrectly 
+
+calling instance created spring spring annotations processed including noticed making class works expected spring instantiates class bean youve created youre telling spring hey thing made bean spring instantiate specifically documented part spring ioc container works anytime youre 

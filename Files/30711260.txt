@@ -1,0 +1,4 @@
+wait notify threads interval 
+working usecase multi threading facing issue ol li broadcast event network li li received listeners unicast information li li received inside call back method unknown number callback threads depending listeners time li li collect list subscribers li ol wait 10sec subscribers reply concerned ol li start wait sendmulticast event seconds li li notify receiveeventscallback recieved events added list li ol read theroitically wait notify countdownlatch barrier good poor experience multithreading 
+
+blockquote ol li start wait sendmulticast event seconds li ol blockquote version takes timeout argument manually update timeout successfull call return event blockquote ol start li notify receiveeventscallback recieved events added list li ol blockquote question insists dont listeners network event recieved replied sender wait process replies till moment 

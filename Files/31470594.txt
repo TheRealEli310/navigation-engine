@@ -1,0 +1,4 @@
+svn authentication failure running sonar analysis jenkins sonarqube 
+maven web project added jenkins maven post action sonarqube setting jdk 7u79 project run jenkins task console error put login information task maven project jenkins found documentation additional properties syntaxis advance 
+
+configure sonarqube server global settings rarr general rarr scm rarr svn project settings rarr general settings rarr scm rarr svn 

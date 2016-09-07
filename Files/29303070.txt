@@ -1,0 +1,4 @@
+mocking file endpoints camel 
+unit test camel route replaced direct endpoint advicewith producer template send test exchange body exchange type file questions href http stackoverflow questions mocking files mock contents mockito mocking files mock contents mockito recommend mock file objects pass object extends file doesnt write disk create temporary file refactor split processing 
+
+end chose split processing making separate function id hoped works 

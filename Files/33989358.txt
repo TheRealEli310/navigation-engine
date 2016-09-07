@@ -1,0 +1,4 @@
+retrofit android object array json 
+retrofit parse json problem show error blockquote lang illegalstateexception expected begin array begin object line column path blockquote json interface mainactivity model parse 
+
+retrofit interface expects list api returning class represent response body correctly retrofit method return class 

@@ -1,0 +1,4 @@
+spring controller custom annotation combined spring annotations work 
+properly working spring controller method mapped works fine requests served accepted case receiving proper status code introduce custom combined annotation bunch annotations method custom annotation change method case type request send served properly response work properly wrong make controllers behave properly custom combined annotation 
+
+suspect replaces interface works interested href https github sbrannen spring composed blob master src main org springframework composed web rest json getjson rel nofollow getjson href https github sbrannen spring composed rel nofollow spring composed project href http docs spring io spring docs javadoc api org springframework core annotation aliasfor html rel nofollow aliasfor released spring earlier versions 

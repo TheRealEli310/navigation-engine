@@ -1,0 +1,4 @@
+declaring variables inside loops 
+declare variable scope variable syntax error doesnt compile put inside loop generates error works basicly declaring variable reason logic dont understand 
+
+loop scope destroyed variable loop scope created variable declared scope similar reason local variable shadowing inconvenient 

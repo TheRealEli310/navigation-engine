@@ -1,0 +1,4 @@
+scan barcode reader data zxing android app 
+code doesnt work error startactivityforresult intent dont solved error plz 
+
+extending captureactivity scanneractivity barcode scan xml dont forget include capture xml 

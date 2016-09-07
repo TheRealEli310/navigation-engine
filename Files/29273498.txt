@@ -1,0 +1,4 @@
+date time unix time byte array size bytes 
+date time unix time byte array fill bytes space 
+
+href http en wikipedia org wiki unix time rel nofollow unix time number strong seconds strong utc javas returns strong milliseconds strong utc divide unix time youll bytes href https docs oracle javase tutorial nutsandbolts op3 html rel nofollow bit shift operator shift ill assume href http en wikipedia org wiki endianness rel nofollow big endian order 

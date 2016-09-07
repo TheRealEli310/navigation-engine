@@ -1,0 +1,4 @@
+hibernate tutorial put mapping file 
+interesting tutorial hibernate href http www tutorialspoint hibernate hibernate native sql htm rel nofollow http www tutorialspoint hibernate hibernate native sql htm tutorial neglects mention put files folder structure basic maven project folder structure folder level ascii art mapping file employee hbm xml file referenced configuration file hibernate cfg xml reading 
+
+put strong hibernate cfg xml strong strong src main resources strong put model mapping files directory define pojo model classes directory structure youve provided reference map model files strong hibernate cfg xml strong file check capture project folder img src http stack imgur f8fcn png alt enter image description 

@@ -1,0 +1,4 @@
+multi producer single consumer queue dedicated consumer thread 
+writing async application submits elements work queue processing requirements ul li background thread listening queue thread submits element queue responsible consuming queue li li multiple concurrent producers thread active consumer li li thread submits element thread actively consuming queue thread return immediately waiting allowed li ul em em code works problem sounds fairly standard textbook solution common find algorithms require worker thread listening queue 
+
+code correct problem standard background thread expensive ol li em finite time garantee em producers producer work long time consumer mode li li em complicate em producers code li ol case questions title describes problem resolve combine approach mpsc implementation notification mechanism additional requirement mpsc em concurrent em method problem 

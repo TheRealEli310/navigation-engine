@@ -1,0 +1,4 @@
+correct store access token oauth callback 
+heres working code access token facebook users behalf redirect prior code call method properly thinking storing token kind bean context callback method facebook called back facebook uid whos access token missing 
+
+rest call facebook graph api inspect access token json result call element youre href https developers facebook docs facebook login manually build login flow v2 confirm rel nofollow https developers facebook docs facebook login manually build login flow v2 confirm interested section called inspecting access tokens 

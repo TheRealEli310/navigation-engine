@@ -1,0 +1,4 @@
+change path log4j properties file specific 
+cheers change file path log4j properties web inf classes web inf lib archive context param set path archive goal outputs tomcat7 stdout log listener doesnt change loggingsetup complete web xml 
+
+set context param dont forget add web xml 

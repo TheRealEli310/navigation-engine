@@ -1,0 +1,4 @@
+typing jtextarea text jlabel moves 
+making simple gui problem code typing text moving figure solve component advice 
+
+artifact calculating sizes locations components layout managers hint part computation href http stackoverflow questions avoid setpreferredmaximumminimumsize methods swi depended reliable method set size component case hypothesize generally minimum maximum sizes preferred sizes min max computed based text content text size recalculated layout general text area put text content simply thing recalculating size flow side scroll pane href https docs oracle javase tutorial uiswing components scrollpane html rel nofollow em scroll panes em href https docs oracle javase tutorial uiswing components textarea html rel nofollow em text areas em hr andrews comment couple ways set initial size scroll pane reliable setting viewports preferred size explicitly 

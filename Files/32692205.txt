@@ -1,0 +1,4 @@
+unrecognized property exception property mentioned 
+exception read string message coming reading message hosteventobject class json string message exception read similar questions making mistakes spelling ignore property advice 
+
+messagedata type href http www json org javadoc org json jsonobject html rel nofollow jsonobject doesnt field called eventid possibly meant put class json requires datatype message data eventid field kind list set array collection strings strong update strong jackson module json org href https github fasterxml jackson datatype json org rel nofollow https github fasterxml jackson datatype json org register module 

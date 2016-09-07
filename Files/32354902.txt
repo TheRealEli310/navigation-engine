@@ -1,0 +1,4 @@
+constructor call ambiguous 
+code application eclipse telling error line code signatures constructors usermessage constructor calling point error suggest thinks potentially point constructor ambiguity call thing reason cast object code compiler 
+
+issue autoboxing boolean boolean compiler constructor passed string boolean strings varargs object array string varargs object array boolean string string href http docs oracle javase docs guide language varargs html rel nofollow strong synergy autoboxing varargs eta differentiate constructors changing object varargs string varargs implementation prevent autoboxing boolean boolean creating ambiguity constructors eta2 checked suggestion eclipse changing object varargs constructors string varargs eliminates ambiguity error issue autoboxing boolean boolean 

@@ -1,0 +1,4 @@
+spring security oauth2 correct authorization manager 
+configure spring security oauth2 understand correctly client authorization client id client secret user authorization user login password debug application send request autorization made configuration 
+
+find make problem code write strong strong strong strong default authentication manager resolve oauth clients makes problem 

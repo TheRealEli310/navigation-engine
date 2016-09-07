@@ -1,0 +1,4 @@
+open jasperreport subreports 
+created jasper report ireport subreports works perfectly ireport designer call main jrxml error files main jrxml jasper subreport files jrxml amp jasper directory main jrxml working perfectly ireport call report template code pass parameters 
+
+set subreport dir property subreport tag main jrxml find complete code href http www tutorialspoint jasper reports jasper create subreports htm rel nofollow http www tutorialspoint jasper reports jasper create subreports htm 

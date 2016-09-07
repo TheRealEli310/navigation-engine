@@ -1,0 +1,4 @@
+grouping objects javafx 
+making javafx gui scenebuilder connect4 game wondering group objects perform action examples ul li buttons columns colbutton1 disable li li ellipses counters counter1 change color white li ul searched couldnt find individual object easily apply time appreciated 
+
+grouping mechanism perform single action members group contrary single group container hold controls apply action member lets em disable em set styling 

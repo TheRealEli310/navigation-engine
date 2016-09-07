@@ -1,0 +1,4 @@
+printing rectangle asterisks 
+source code print rectangle composed asterisks test class included segments fill method body instructed loops print asterisks basic idea printsegment method unsure printrectangle method judging comments code supposed write loop printrectangle method calls printsegment method dont call void method body method greatly appreciated update attempted code body printrectangle running code inputting height width received output print asterisks modify code output rectangular block asterisks update figured solution heres code result differences made added nested loop body printsegment method innermost loop outer loop resulted output input 
+
+sound supposed make loop call height amount times call method inside simply write call class call called class check main method calls instance class void method wont return dont sum track feels surely figure 

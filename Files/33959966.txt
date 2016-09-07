@@ -1,0 +1,4 @@
+logging interceptor messages log4j cxf 
+redirect loggingininterceptor loggingoutinterceptor messages rest webservices console file log4j strong cxf xml strong strong org apache cxf logger file strong strong log4j properties strong addtional details cxf href http stack imgur o5njl png rel nofollow img src http stack imgur o5njl png alt enter image description receiving messages console writing file appreciated 
+
+make put org apache cxf logger file line text org apache cxf common logging log4jlogger make part war classpath end web inf classes meta inf cxf org apache cxf logger war properly packaged finally log4j configuration file missed set cxf logger level info add line end log4j configuration 

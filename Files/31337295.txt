@@ -1,0 +1,4 @@
+creating jbuttons dynamically windowbuilder 
+eclipse windowbuilder develop gui dynamically create add buttons labels panel update gui button pressed display set buttons labels hours work code generating buttons successfully click button update gui doesnt work sysout println actual text values jlabels change changing updating gui gui eventually read data database populate labels buttons initially work manually created objects 
+
+created dynamic jradiobutton 

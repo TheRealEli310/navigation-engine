@@ -1,0 +1,4 @@
+working multiple json objects file unknown key names jackson 
+working building model application dealing physical buildings ideally wed city multiple offices multiple rooms properties jackson parse json payload received api datasource ends bit differently examples format classes parsing jackson jsonanysetter grab saving city office sending jsonanysetter nested class real issue list offices city mapper readvalues string office class returned iterator office city ideas guys confusing love answer questions created 
+
+solution write href http fasterxml github io jackson databind javadoc fasterxml jackson databind jsondeserializer html rel nofollow deserialiser json document doesnt map class structure solution reads city collection cities create objects inside deserialisers room rest strong cities strong strong citiesdeserialiser strong strong city strong strong citydeserializer strong strong office strong heres test show works json strong test strong output 

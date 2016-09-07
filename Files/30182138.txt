@@ -1,0 +1,4 @@
+replace word representative mention stanford corenlp coreferences module 
+figure rewrite sentences resolving replacing words coreferences stanford corenlps coreference module idea rewrite sentence blockquote john drove judy house made dinner blockquote blockquote john drove judy house john made judy dinner blockquote heres code fooling output achieve blockquote john drove judy judy house john made judy dinner blockquote brilliant pretty easier achieve ideally reorganize sentence list corelabels data attached appreciated 
+
+challenge make token isnt part representative mention token judy judy representative mention replace phrase judy youll end double check token part representative mention comparing indices replace token index smaller representative mention larger representative mention token relevant part code addition speed process replace condition length reference chain representative mention 

@@ -1,0 +1,4 @@
+sparkr filterrdd flatmap working 
+spending long time working install sparkr issues package bear mind spark thing fresh ec2 ubuntu bit instance installed jdk git cloned apache spark repo built changed reference directory including lines starting run quick start guide href https github amplab extras sparkr pkg wiki sparkr quick start steps works fine till lines work doesnt work session info greatly appreciated 
+
+bug show method rdd sparkr documented href https issues apache org jira browse spark https issues apache org jira browse spark bug affect computation error message 

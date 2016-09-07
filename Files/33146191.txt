@@ -1,0 +1,4 @@
+error update org elasticsearch elasticsearchillegalargumentexception failed execute script 
+document update fields code code throws exception gudie wrong elasticsearch version 
+
+relevant error message means add file restart nodes 

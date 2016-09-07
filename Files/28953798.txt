@@ -1,0 +1,4 @@
+android mediarecorder nullpointerexception 
+starting development fiddling android media recorder nullpointerexception click record button source code realise due fill pointer set null struggling initialize file reference vanish exception mediarecorderprepare exception thrown greatly appreciated 
+
+problem class variable myaudiorecord null start record solution delete line oncreate method declaration myaudiorecorder inside oncreate em hides em outer declaration outer class level myaudiorecorder initialized program dies npe start record access ps changing method start record startrecord consistent naming conventions 

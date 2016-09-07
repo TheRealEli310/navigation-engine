@@ -1,0 +1,4 @@
+calls wait method main thread instance call wait 
+confused method threads work suppose write method called thread main thread thread sense thread leave monitor temporarily sleep 
+
+thread wait instance thread serve lock main thread wait thread call calling acquiring lock instance lead methods defined class threads call instances aka locks aka monitors keyword acquire lock em entering monitor em object synchronized call thread acquire lock wait thread call instance lock 

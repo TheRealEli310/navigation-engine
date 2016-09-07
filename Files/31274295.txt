@@ -1,0 +1,4 @@
+customizing javafx 3d box rotating stackpane 
+goal game played dice javafx strong question strong easy customize 3d box javafx doesnt matter add image side die image wraps box lots research didnt find code created stackpane 3d cube build rectangles filled side die rotate stackpane degrees rectangle foreground background front visible strong question strong fix realize thinking trianglemesh seemd complicated version 
+
+problem noticed apply image diffuse map applied equally faces href https github birdasaur fxyz rel nofollow fxyz project implementation similar 3d shape full access trianglemesh easy customize texture mapped diffuse image case implemented net cube img src http stack imgur f2s57 png alt cube net provide net instance img src http stack imgur esfrg jpg alt dice net href http villemin gerard free fr wwwgvmm probabil desjeu fichiers image014 jpg rel nofollow rotate crop border short code dice img src http stack imgur yfpwy jpg alt dice 

@@ -1,0 +1,4 @@
+failed start elasticsearch find plugin class 
+existing based custom plugin elasticsearch upgraded elasticsearch added plugin descriptor properties files point plugin class install custom plugin start elasticsearch service unable find custom plugin verified class file present usr share elasticsearch plugins directory exception stack trace content plugin descriptor properties 
+
+packaged plugin incorrectly install jar file compiled classes installing zip file jar file plugin descriptor properties file 

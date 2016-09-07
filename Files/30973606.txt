@@ -1,0 +1,4 @@
+join files apache spark spark sql 
+apache spark comparing files based common field values files write output file spark sql joining files storing rdd table correct approach files apache sql suggest 
+
+plain spark join rdds produces rdd pair key leftouterjoin rightouterjoin fullouterjoin methods rdd map datasets produce rdds indexed common key join href https spark apache org docs latest programming guide html transformations rel nofollow documentation referencing 

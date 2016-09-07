@@ -1,0 +1,4 @@
+form parameter null thymeleaf spring mvc 
+problem thymeleaf spring mvc tutorial spring io website href http spring io guides gs handling form submission rel nofollow http spring io guides gs handling form submission expand tutorial ran problem add parameter model class added date parameter long parameter put view imagine date parameter modification date long parameter random submit makes parameters null method code model class controller form result page console prints model class parameters view null post line line values dont understand good framework jsf dont problem spring tutorial parameter view parameters hold data register updated date user updated register application id find answer edit time experimentation found solution problem follow piece code works meant 
+
+expected behavior long doesnt exist anymore hold values tag provide values meaning send values back add hidden hold values 

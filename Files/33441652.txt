@@ -1,0 +1,4 @@
+setting variable null clear reference 
+remove object memory clear reference formally code shouldnt removed memory 
+
+setting reference object exists doesnt exist anymore reachable hr setting references object exists 

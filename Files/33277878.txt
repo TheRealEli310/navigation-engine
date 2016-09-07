@@ -1,0 +1,4 @@
+javax ws rs notsupportedexception find message body reader type class sun jersey core header formdatacontentdisposition 
+web service supposed file html form save server html form upload file form error stacktrace issue dont understand problem changed consumes mediatype multipart form data consumes multipart form data error browser sends http packet content type response server helps google chrome 
+
+href http stackoverflow users peeskillet peeskillet correct incorrect dependencies updated pom xml file include resteasy jars started work 

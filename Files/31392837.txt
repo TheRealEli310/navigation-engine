@@ -1,0 +1,4 @@
+eclipse rcp defining workspace location 
+question asked times didnt find exact answer fulfill desires long story short simple e4 application product project feature main plugin simple trim window works exporting works add lifecycleuri property create bundleclass create simple dialog text area button run itexport works running main trim window dialog shown fine cool enter location test clicking button workspace area application metedata change location set activator add products launching arguments accomplish tasks ehh 
+
+method life cycle class dont data argument strong strong file path adapted code e4 rcp testing application eclipse clear workspace location run configuration application open run run configurations find application clear location field main tab 

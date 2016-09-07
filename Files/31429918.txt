@@ -1,0 +1,4 @@
+entry concurrenthashmap jdk jdk 
+jdk doug lea preceding field jdk field preceded notice jdk method adopts method read field volatile load semantics sense doug lea previously problems correctness replace jdk jdk strong edit strong specifically question replace jdk 6s implementation 
+
+question blockquote sense doug lea previously final problems correctness replace volatile jdk jdk blockquote wasnt matter correctness implementations correct terms thread safety solved reducing initial footprint chm making field final required object created place holder caused excessive empty object creation changed offer create needed semantics blockquote specifically question replace final volatile jdk 6s implementation blockquote long operations continue sequentially consistent hr doug leas comments touches design change answer question chosen initially prevent volatile reads 

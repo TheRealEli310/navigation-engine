@@ -1,0 +1,4 @@
+list sort optional api 
+introduces default method interface sort signature documentation blockquote comparator null elements list implement comparable interface elements natural ordering blockquote sort list natural order elements comparable kind weird opinion doc stated optionally provide comparator provided assume elements comparable call transformed method exposed world find accurate didnt optional api 
+
+optional intended return type mantra jdk developers wont break rule argument made argument mandatory force developer pass null find readable verbose code 

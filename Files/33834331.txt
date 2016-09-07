@@ -1,0 +1,4 @@
+enable http undertow spring boot 
+enable http undertow spring boot monitored protocol https property create embeddedservletcontainerfactory option tks 
+
+add bean configuration start application alpn boot v20150130 jar boot class path 

@@ -1,0 +1,4 @@
+typeof getclass instanceof 
+system print give type integer found functions simular typeof getclass work int instanceof work command stuck br 
+
+statically typed language check variable primitive type runtime compile time change declare languages meaningless generalize variable type assigning reference type case case compiler automatically box type return return true 

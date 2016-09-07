@@ -1,0 +1,4 @@
+findbugs warning threadlocal init 
+instance initialized overridden method annotated sonar report complains performance factored named static class make complain avoid complain 
+
+sonar suggests factored named static class named static class reason sonar thinks performance improvement anonymous class static making static improves memory management 

@@ -1,0 +1,4 @@
+writing bufferedimage cache save disk 
+developing application load long lists images downloaded web added quick cache avoid redownloading image multiple times works fine application faster nice cache persist sessions changed cache serialized wrote custom methods file structure ul li int number elements li li url images key li li object image written imageio times li ul file saving fine exceptions load throws dont understand iteration fine exception load suspect wrong load image heres full code 
+
+error occurs doesnt read data written write image 

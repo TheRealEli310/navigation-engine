@@ -1,0 +1,4 @@
+variable test method testng listeners 
+testng run automation tests implemented testng listener save test results format specific scenario test runs assigned variable local method variable pass variable testng listener class implemented methods onteststart ontestfinish ontestsuccess failure skipped figure variable run time didnt find testng documentation share experience similar issue 
+
+href http testng org doc documentation main html invokedmethodlistener rel nofollow listening method invocations set values href http testng org javadocs org testng iattributes html setattribute lang string rel nofollow http testng org javadocs org testng iattributes html setattribute lang string lang object youll find values href http testng org doc documentation main html logging reporters rel nofollow custom reporter 

@@ -1,0 +1,4 @@
+error exception thread main lang nullpointerexception lang stringbuffer init unknown source 
+array strings strings select palin pairs strings input bba abb abb output wrong 
+
+youre creating string array initializing members default values members null call youre passing null avoid ul li filling array li li checking null addition existing check empty string li ul youre attempting check empty string equality operator check references string objects point strings youll check youre googles guava library 

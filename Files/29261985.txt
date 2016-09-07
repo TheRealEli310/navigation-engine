@@ -1,0 +1,4 @@
+valid jar testing hadoop mapreduce wordcount 
+hadoop mapreduce error process hdfs file structure ol li create local machine li li create local machine li li create directory hdfs li li move files directories hdfs ul li li ul li li run command hadoop jar user bli1 wordcount wc jar wordcount user bli1 wordcount input user bli1 wordcount output li ol output make jar error process make jar causing problem dont 
+
+liondancer jar file add compiled class files source files addition resolve problem hadoop complaint existence output directory hadoop expect create output directory exist 

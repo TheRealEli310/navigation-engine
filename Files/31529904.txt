@@ -1,0 +1,4 @@
+difference contextconfiguration locations config classes importresource 
+spring mvc application unit test set unit test works fine change unit tests annotations leaving rest code test fails run properly giving error posted makes difference evidently erroneously assumed setups alternatives outcome apparently fail explain difference contextconfiguration locations classes reference configuration class loading exact locations exception occurs 
+
+turns type specialized means found component scan xml configuration loaded caused error setup ul li contained line li li component scan found annotated xml configuration defined automatically applied li li config defined loaded unit test started loading duplicates caused error li ul removed worked expected wasnt removed setups alternatives result 

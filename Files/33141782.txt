@@ -1,0 +1,4 @@
+fix error org xml sax saxparseexception content allowed prolog 
+class methods creates input stream subsequently fed create xml document stream test throws exception find source code xml files read href https www evernote shard s35 sh d6567a24 d10b 40ae 8ce2 6c1c503fb19c 417e820f284c666618f5c2caf6e7eb62 rel nofollow fix error strong update strong changing didnt strong update strong change method output 
+
+change href https commons apache org proper commons io apidocs org apache commons io ioutils html toinputstream lang string 20java lang string rel nofollow converts string inputstream case string path file 

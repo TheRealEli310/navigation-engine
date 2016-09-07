@@ -1,0 +1,4 @@
+hint single sudoku puzzle 
+hoping making sudoku game wrote class solves entire puzzle connected action button file works wanted point direction wanted make hint button randomly applies correct individual square solver code solver puts correct values square user clicks solve thinking implement hint randomly open square entire puzzle puzzle solution printed console solve clicked solution written gui grid square skipped square empty filled number exact position console solving puzzle hope explained properly hope code started solution alot 
+
+guess implement hint button slight refactoring code ul li em solve em puzzle beginning store solution internal variable li li hint button clicked chose random cell solution print track filled cells chose li li solve button clicked print solution li ul strong update strong proposal algorithm methods bean class coordinates cell 

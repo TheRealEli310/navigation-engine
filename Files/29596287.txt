@@ -1,0 +1,4 @@
+infinispan jdbc cache store 
+infinispan jdbc cache store leveldb cache store heres configuration exception removed leveldb cache store jar dependencies replace jdbc cache store jar missed advance 
+
+youre declaring namespace called jdbc prefix tags mixedkeyedjdbcstore jdbc default namespace configuration missing starting namedcache tag assume copypaste mistake error message 

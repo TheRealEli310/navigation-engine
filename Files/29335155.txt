@@ -1,0 +1,4 @@
+doget servlet method invoked jsp 
+tying prepopulate checkboxes calling servlets doget method retrieves data sql database adding button href links servlet call doget method working messy calling method reason code doesnt invoke doget method fails npe lenderloantypes object null doget method populates ideas doget isnt called jsp elegant calling doget method jsp jsp code lenderloantypes jsp servlet code doget method servlet lenderloantype 
+
+add action lenderloantype form tag 

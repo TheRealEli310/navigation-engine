@@ -1,0 +1,4 @@
+picocontainer start stop dispose component injected factory 
+picocontainer caches components caches components expect call points container lifecycle finding construct component methods dont called component cached output running component created injected instance started component injected constructor injection constructed started component injected factory documentation javadoc shows methods intended factory lifecycle stuff components factory spins quick source shows adapter implementing methods called isnt immediately clear hook implementing classes practically delegate making difficult figure happening proper proper 
+
+factoryconstructedserviceadapter implement lifecyclestrategy basically factory included standard lifecycle manage components actual instantiation factoryconstructedserviceimpl called dont lifecycle component provided factory instantiated mind factories lazy dont factoryconstructedserviceimpl init log wire request component instanceadapter big 

@@ -1,0 +1,4 @@
+cast resultset object comparable object 
+writing generic code add integers min heap stored mysql database written code returns exception runtime exception thread main lang classcastexception mysql jdbc jdbc4resultset cast lang comparable lab03 heapmysql addelement heapmysql wan val stmt executequery sql properly 
+
+column result set commented active row result set close youre youll run database cursors reading past row rs automatically close 

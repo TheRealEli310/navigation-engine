@@ -1,0 +1,4 @@
+urlclassloader memory leak 
+lot memory leak solutions internet havent found fully working code precise solution closest solution found href http dzone articles classloaderlocal avoid rel nofollow fully functional code link weakhashmap definite eliminating memory leak problem multiple redeploys 
+
+add dependency class loader leak preventer build path maven dependency 

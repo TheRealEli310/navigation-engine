@@ -1,0 +1,4 @@
+junit hamcrest containsinanyorder mismatch 
+testing junit href http hamcrest org javahamcrest javadoc org hamcrest matchers html rel nofollow hamcrest matchers noticed method pretty good clue whats wrong test hand difference report useless heres test code strong simple bean strong strong junit test strong actual bean ids expected test fails strong test result strong switch method result informative set ordered option case br strong finally question strong br error report asserting hamcrest 
+
+hamcrest implementations mismatches reported matchers items matcher job delegating actual matchers matchers additional information case case implement class issue reported href https github hamcrest javahamcrest issues rel nofollow https github hamcrest javahamcrest issues 

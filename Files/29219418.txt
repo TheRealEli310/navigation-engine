@@ -1,0 +1,4 @@
+convert integer string separated space array 
+suppose string string integers spaces convert string integer array doesnt work offer 
+
+forgetting ul li resetting empty string parse create place digits li li end string space invoked means invoke loop li ul hr simpler create temporary array tokens parse token hr approach method return integers input assumption size needed array simply hr streams shorten code 

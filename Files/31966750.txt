@@ -1,0 +1,4 @@
+unbalanced quotes exception executing maven exec plugin bamboo plan 
+annoying exception bamboo plans execute maven exec plugin command run command works fine execute command line ideas 
+
+solution pretty simple comment href https jira atlassian browse bam rel nofollow jira ticket found correct pass arguments 

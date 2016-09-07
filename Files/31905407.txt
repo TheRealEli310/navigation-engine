@@ -1,0 +1,4 @@
+unable write xml documents 
+write xml version document support version output property shown effect tested code jvms ul li linux openjdk runtime environment icedtea 7u79 deb7u1 li li linux tm se runtime environment build b17 li ul id include external libraries 
+
+jdk1 b26 linux run code obtain add xalan maven dependencies obtain explanation xml librairies bundled jdk solution external librairies reading href https docs oracle javase docs technotes guides xml jaxp releasenotes html versions rel nofollow documentation versions included reference implementation blockquote xerces version xerces version controlled bug fixes xsltc version xsltc version controlled bug fixes based xalan release blockquote confirm add xalan maven dependencies obtain xml recent external xml libraries xerces xalan 

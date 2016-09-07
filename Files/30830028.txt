@@ -1,0 +1,4 @@
+image background jscrollpane 
+add image background jscrollpane image doesnt display strong edit strong add jlabels jbuttons jscrollpane background 
+
+goal simply show image jscrollpane showing components jtable jscrollpane ul li make imageicon image li li add icon jlabel li li place jlabel jscrollpanes viewport passing jlabel jscrollpanes constructor li ul describe problem greater detail hr comment blockquote add objects buttons blockquote situation id create class extends jpanel display image jpanel drawing paintcomponent method override search youll find strong strong examples add buttons components image drawing jpanel adding jpanel jscrollpanes viewport jlabel 

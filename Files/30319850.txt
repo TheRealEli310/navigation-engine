@@ -1,0 +1,4 @@
+javamail read email 
+working program suppose javamail read inbox email specific string opened time javamail api pretty properties messed give tip correctly setting properties javamail connect api search subjects subject null null pointer exception dont match subject ordretest nullpointer tips great 
+
+knowing line npe null pointer exception guess occurs getsubject returns null equals throw npe invoke method rewrite assuming message object null 

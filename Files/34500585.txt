@@ -1,0 +1,4 @@
+improve efficiency performance simple counting method 
+building classifier read lot textdocuments found method slower documents processed method underneath takes 60ms pc reading normalizing tokenizing updating vocabulary equalizing lists integers takes 5ms total pc method speed process problem method entire class class category good idea post dont guys 
+
+method running time vocabulary size token size hashing reduced 

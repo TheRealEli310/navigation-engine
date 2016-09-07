@@ -1,0 +1,4 @@
+save file current date time 
+save file project folder current date time current code job saves write place date time 
+
+simpledateformat written save file hh mm ss serverlog txt directory called yy directory called mm directory called dd wont work colons forbidden filenames windows mark drive letters 

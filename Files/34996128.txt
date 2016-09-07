@@ -1,0 +1,4 @@
+maven jetty plugin daemon element allowed 
+configure projects pom xml file start jetty server testing phase order add daemon element jetty plugin intellij warns element daemon allowed reason 
+
+intellij ideas bug doesnt recognize configuration properties correctly plugin property dont option ignore error ide plugin work expected 

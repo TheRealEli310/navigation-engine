@@ -1,0 +1,4 @@
+understand piece code 
+understand code code solve problem playing game cellphone array length indexed element array move index 0th position move things walk step forward backward make jump length forward means move position move position move position greater move backward position move position greater win game array length jump determine win game input output input output 
+
+assuming understand concept recursion calling method section code simple initializes move length array length populates random binary digits method base cases branch recursion failed succeeded making move code checks position returns case false method returned negative position returns position greater win return move position digit return code makes recursive calls moves positions returns calls true leap makes sense true true similarly move calls positions return original position hope made sense 

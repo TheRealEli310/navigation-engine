@@ -1,0 +1,4 @@
+jbuttons added jtoolbar scroll jpanel 
+scroll jpanel jbuttons added jtoolbar generate large number thumbnails dont fit jpanel arrow jbutton scroll jscrollpane custom arrow icons standard scroll bar sscce 
+
+found achieve desired result reordering items jpanel jframe declared constructor added index variable tracking scroll position reloadthumbs method reloading reordered thumbs entire code 

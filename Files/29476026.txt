@@ -1,0 +1,4 @@
+deploying application hibernate jpa ibm websphere nullpointerexception 
+deploy spring mvc application hibernate ibm websphere server application runs fine tomcat server running websphere stack trace output 
+
+jpa websphere default jpa openjpa hibernate override default provider check href http stackoverflow post details update correct override default provider jpa container relies api initialization application managed provider container managed disable jpa application href http www ibm support docview wss uid swg1pm26361 rel nofollow check rely container injecting entitymanager initialize api option href https developer ibm wasdev blog announcing liberty beta tools march rel nofollow websphere liberty beta supports jpa eclipselink change provider container supports didnt time test 

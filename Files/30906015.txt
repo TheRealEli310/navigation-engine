@@ -1,0 +1,4 @@
+detect specific window closed 
+pretty couldnt find thing helped wondering detect specific window closed windowclosing applies window closed event happen result window closing window closes detecting window closed worded badly dont terminology advance 
+
+instance frame closed notified source event easier solution give frame instance dont make assumptions whats anonymous classes href https docs oracle javase tutorial javaoo anonymousclasses html rel nofollow anonymous classes generally speaking longer required implement interfaces dont provide direct functionality class reasoning methods interfaces require implement calling directly hide implementation details internally class prevents mis unknown callers href https docs oracle javase tutorial javaoo nested html rel nofollow nested classes 

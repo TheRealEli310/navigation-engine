@@ -1,0 +1,4 @@
+practice complex static initialization logic 
+long complex static object class level class level simply static block initialize limitation initializing static variables complex wanna define named variables file object put map creating rubbish code chance classes refer accidentally whats practice equivilent static initialization logic assume strategy style 
+
+h2 static initialization cpp file h2 similar initialization cpp file defer initialization function initialization strong myclass strong strong myclass cpp strong strong main cpp strong requires const access thing careful href https isocpp org wiki faq ctors static init order rel nofollow static initialization order fiasco basically means avoid depedency static initialization cpp file h2 static local variable h2 avoiding static initialization order fiasco make map static local variable function benefit potentially define file strong myclass strong strong main cpp strong static local variable initialized 

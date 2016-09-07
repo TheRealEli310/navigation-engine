@@ -1,0 +1,4 @@
+thinning line 
+writing software detects images outline thins single pixel thick performs operations resulting outline hope eventually img src http stack imgur g3crm png alt enter image description written software detects rgba colors converts hsb asks limit sets pixel outline typically checking brightness stores true false dimensional array booleans true outline false stage fine stuck stage attempting achieve img src http stack imgur 4cbp6 png alt http imgur bts6mir png current code variable original 2d array trues falses stage outline stage 
+
+devised pretty simple solution works purposes arrays set image loaded explained question stages loaded batches pixels thinned considered border pixels function erases pixels erased em em pixels restarts method continues cycle finds pixels thin program thin pixel outline pixel bordering pixels left bordering pixels diagonally left diagonally contained pixel 

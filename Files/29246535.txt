@@ -1,0 +1,4 @@
+redirecting login session timeout jsf spring automatic logout session deactivate idel time 
+j2ee application jsf spring web app developed xhtml jsf managedbeans redirect login page session elapsed timeoout bit ol li set session timeout time basically set maximum time application idle redirect login page invalid session li li meta tag place xhtml direct login page li ol hope requirement clear stating requirements problem ol li system invalid session user interacting system li li invalid session redirect login page system idle time li ol tech stack jsf managedbeans face config xml spring service layer hibernate dao layer defining entities 
+
+idle sending request server set href http docs oracle cd e13222 wls docs81 webapp web xml html rel nofollow file minutes timeout handle redirection login session timeout href http stackoverflow answer 

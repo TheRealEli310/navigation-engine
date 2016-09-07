@@ -1,0 +1,4 @@
+jpa saving list values comma separated values 
+receiving simple list values part json request save comma separated values work threw exception 
+
+elementcollection requires table store multiples rows values define string column join explode getters setters 

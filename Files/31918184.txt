@@ -1,0 +1,4 @@
+android detect soft keyboard enabled 
+started action input method setting intent give user possiblity activate softinput keyboard close setting activity intent started user activated desired soft input keyboard 
+
+found answer href http stackoverflow post href http stackoverflow users sujay sujay close activities background open app starts activity close activities background open app starts paused activity closed activity 

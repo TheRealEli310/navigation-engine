@@ -1,0 +1,4 @@
+set response class gson json file 
+href http www jsonschema2pojo org rel nofollow http www jsonschema2pojo org solve hasnt worked create json response class json format current class parse returned map ends empty wrong 
+
+suggest code debug screenshot href http stack imgur h6spn png rel nofollow img src http stack imgur h6spn png alt enter image description hope helps 

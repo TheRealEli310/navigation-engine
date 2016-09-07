@@ -1,0 +1,3 @@
+sort arraylist subclass classes 
+arraylist fruits subclass fruits called apples apples color attribute fruits subclasses dont sort list put apple objects list fruits parent class apple subclasses 
+

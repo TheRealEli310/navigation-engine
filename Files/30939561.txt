@@ -1,0 +1,4 @@
+runnable jar load external xml file runtime 
+trivial problem stuck days runnable jar created class inside jar xml file classpath bundle xml file jar externalized till ol li set classpath runtime li ol doesnt load conf folder xml ol start li set classpath assembler plugin li ol add classpath manifest mf runnable jar strong edit strong generated jar strong edit strong edited generated jar recreated jar doesnt find xml 
+
+doesnt good answer summary ul li ignores option li li adding effect due library loads xml li ul remaining option works invoke class file manually cp jar file conf folder path 

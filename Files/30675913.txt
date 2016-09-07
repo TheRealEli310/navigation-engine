@@ -1,0 +1,4 @@
+findviewbyid external class 
+app elements layout declaring mainactivity access making mainactivity class difficult read debug created class handle working display elements work expected android studio newbie stumped 
+
+delegate work handler class extending makes handler activity screen isnt interact existing activity achieved number ways pass reference activity handler constructor pass id reference view handler part constructer 

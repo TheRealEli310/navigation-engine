@@ -1,0 +1,4 @@
+spring security oauth2 enableoauth2sso accept tokens authentication 
+application adding application redirects authorization server access login authorization server offer api access applications access resources passing accesstoken authorization header debuged authentication filter noticed authorization header checked create custom filter added filter security configuration exception thought wrong inside filter ended plain filter class proceed filterchain error questions ol li exception li li token authentication endpoints application li ol 
+
+reason exception ordering filters jah achieve authentication requests access token authorization header create class extends filter takes constructor parameter sets stateless flag false security config filter easier opened issue href https github spring projects spring security oauth issues rel nofollow spring security oauth github repo solution didnt find alternative 

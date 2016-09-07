@@ -1,0 +1,4 @@
+mongodb driver query distinct filter 
+attempting query unique em categories em records em locations em collection mongodb mongo shell simple query distinct locations mongodb driver 
+
+avoid casts distinct mongocollection api lets provide expected type distinct values field strings write numbers guarantee types values field youre querying 

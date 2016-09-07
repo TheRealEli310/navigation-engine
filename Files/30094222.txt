@@ -1,0 +1,4 @@
+powermock complains incorrect arguments private method mocked 
+powermock mock private method returned irrespective parameters passed public method delegates private method simply passes arguments definition class mocked test class invoke mock failure trace mocking framework happy specific passed method fine ideally expect call mocked case missing 
+
+similar issue problem matchers passed param powermock method based imports matchers matchers changing matchers hope helps 

@@ -1,0 +1,4 @@
+rxjava inside recyclerview adapter 
+weeks ago asked question href http stackoverflow questions recyclerview periodic ui child updates recyclerview periodic ui child updates today refactor funcionality rxjava pretty simple accomplish problem navigationdrawer implemented activities paused destroyed switched switch activity dont adapter observable sending stuff periodic interval observable question unsubscribe activity paused idea subscribe back ideas 
+
+understand correctly solve problem answer question references displayed bound stop updates likewise restart tasks strong strong wrote visible area visible item bound reached method turns case iterate indices items adapter discard return values 

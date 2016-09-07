@@ -1,0 +1,4 @@
+convert string date format 
+convert string date format yyyy mm dd current datatype format string convert date datatype format yyyy mm dd 
+
+date format alternatively recommend apache joda libraries date manipulation 

@@ -1,0 +1,4 @@
+gmailsettingsservice availability post april 20th 
+gmailsettingsservice class april 20th constructor shown href https code google gdata client source browse trunk sample appsforyourdomain gmailsettings gmailsettingsservice rel nofollow https code google gdata client source browse trunk sample appsforyourdomain gmailsettings gmailsettingsservice test application april 20th expiration date deprecated apis make work 
+
+email settings api part april 20th shutdown href https developers google accounts docs authforinstalledapps rel nofollow clientlogin code authentication migrate code href https developers google accounts docs oauth2installedapp rel nofollow oauth 

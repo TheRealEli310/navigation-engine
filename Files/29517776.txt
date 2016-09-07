@@ -1,0 +1,4 @@
+communication swing application client side server 
+ways swing application running client side communicate server read jsp web pages communicate server client jsp swing application helpful demonstrated simple login form 
+
+client side application swing app communicate server assuming network limiting architecture firewalls whatnot options numerous ul li raw sockets li li myriad network protocols ul li http https li li ftp li li scp li li al li ul li ul depends protocol services applications server connect http https common youll manually create http requests send server assuming server web server 

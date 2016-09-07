@@ -1,0 +1,4 @@
+javafx canvas rendering performance 
+work javafx application draw lot arcs javafx canvas method strokearc graphic context application performs weak calls methods strokearc delay occurs rendering results application delay seconds show arcs gui faster draw arcs javafx 
+
+isnt canvas fastest didnt provide mcve simple application works pretty fast arcs drawn 6ms application window shows immediately heres code provide code information blendmode hard 

@@ -1,0 +1,4 @@
+outofmemory error attempting update intellij 
+update intellij idea build updated downloads files needed starts update error folder root partition 20gib size 8gib left dont understand problem ram part system ram update 
+
+read jetbrains href https www jetbrains idea increasing memory heap html rel nofollow documentation amp href http stackoverflow answer increase maximum heap size intellij set bit edition bit edition copy location documentation referred case received exact stack trace today attempting upgrade automatic updater os solved renaming set file apparently wasnt read renamed correctly youtrack issue href https youtrack jetbrains issue idea rel nofollow idea meo 

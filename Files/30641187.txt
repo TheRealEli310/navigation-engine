@@ -1,0 +1,4 @@
+position javafx button specific location 
+question position javafx button specific location time simple code resulting button located center screen desired location stackpane code advance amit 
+
+exact ordinates node href https docs oracle javase javafx api javafx scene layout pane html rel nofollow em stackpane em hr button added similar layout supports alignment translate properties move button layouts command move button initial location 

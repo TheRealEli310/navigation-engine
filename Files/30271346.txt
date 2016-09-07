@@ -1,0 +1,4 @@
+words reverse 
+found interesting problem wanted solve code program reverses position word string input string output string working kindly point error fix curious whats wrong 
+
+adding debug output method call easy determine youre successfully reading input counting words initializing array means problem problem duplicated output add array word complete dont reset meaning word previous word prepended easily adding debug output debugger print state iteration loop problem isnt output isnt trailing space string condition adds word array met word loop terminates end string easy fix add end loop cover word 

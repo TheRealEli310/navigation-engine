@@ -1,0 +1,4 @@
+classes public android support library 
+classes included androids libraries public makes real sense basically introduces barrier developing temporary fixes bug riddled widgets recently released specifically talking href http android developers blogspot android design support library html rel nofollow strong android design support library strong make custom widget overrides code constructor public class download source code copy relevant classes project isnt preventing whats point making public place understand library updated improved time add annotation specific class outdated prevent legacy code breaking br makes sense library simply make classes public dont understand classes essential implementation widget shouldnt public add annotation classes replaced version widgets implemented altogether 
+
+short making classes public theyre reserving change delete class time breaking clients code methods classes youll important 

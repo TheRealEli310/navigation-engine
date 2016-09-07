@@ -1,0 +1,4 @@
+hazelcast serialization dataserializable 
+id serialize book object problem dont instantiate objects objectdataoutput objectdatainput types serialize deserialize book object objectdataoutputstream implements objectdataoutput dont instantiate object becase serializationservice object doesnt public constructors ways create objectdataoutput objectdatainput object fileoutputstream fileinputstream advance 
+
+pveentjer found answer 

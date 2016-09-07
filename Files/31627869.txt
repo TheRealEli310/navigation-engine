@@ -1,0 +1,4 @@
+spring security check redirect login 
+spring security custom login form custom problem time submit redirect back login page feels treating resource container config missing strong application security xml strong strong login jsp strong strong login controller strong 
+
+found answer difference spring spring adding attribute working expected check href http docs spring io spring security site migrate current html5 migrate xml html m3to4 xmlnamespace form login rel nofollow link details 

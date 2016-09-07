@@ -1,0 +1,4 @@
+liquibase migration works mysql h2 
+creating href http jhipster github io rel nofollow jhipster based project problems integration tests removed login column user table mail login liquibase migration works fine mysql error running tests error find idx user login stops test database migration migration file told migration running correctly mysql file generated blockquote mvn compile liquibase diff blockquote make migration work tests 
+
+solution run liquibase text execution h2 simply copy made copy master xml src test liquibase magically run tests apply changesets h2 test database persistet liquibase spread changesets everytime clean database copy master xml everytime create changesets found till setup jhipster automatically apply changesets test database 

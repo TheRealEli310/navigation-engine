@@ -1,0 +1,4 @@
+remove leading trailing numeric characters string 
+strip leading trailing characters string upto digit br return achieve understand regex solution good br br returns digits strips alpha special characters 
+
+contained solve problem suggest regex tutorial kind href http www rexegg regex quickstart html rel nofollow nice output matches digit matches times matches digit reason escape special character regex match digit digit greedy longest largest greediest match digit loop match loop matches case match leave loop change 

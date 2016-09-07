@@ -1,0 +1,4 @@
+prevent spring boot printing logs console 
+spring boot application default spring boot logging added file path start application prints logging messages file problem prints log messages console dont understand printing console strong printing file strong configuration prevent spring boot printing log messages console 
+
+spring boot build logger configured print console default overwrite configuration providing classpath href http docs spring io spring boot docs current reference html howto logging html rel nofollow section disable logback logging read href http logback qos ch manual configuration html rootelement rel nofollow provide strong strong mind general idea logback configuration coming spring boot minimal intention provide logback configuration completely overwrite existing providing logback configuration log file appender configured general approach 

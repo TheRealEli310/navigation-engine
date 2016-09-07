@@ -1,0 +1,3 @@
+adding header request retrofit 
+href http square github io retrofit retrofit 2s documentation blockquote headers added request okhttp interceptor blockquote easily previous version href http stackoverflow questions define header request retrofit heres related qa retrofit couldnt find method applied object href http square github io okhttp okhttp anymore retrofits doc refers href https github square okhttp wiki interceptors interceptor didnt understand purpose 
+

@@ -1,0 +1,4 @@
+changing spring application started message 
+spring boot sample service works fine run jar demolibrary war command commandline proper message library application started appplication file run external tomcat starts fine works fine dont message doesnot main method anymore spring application started message change message give 
+
+href http docs spring io autorepo docs spring boot current api org springframework boot context web springbootservletinitializer html onstartup javax servlet servletcontext rel nofollow 

@@ -1,0 +1,4 @@
+sqlite gridview arrayadapter 
+totally android data sqlite db access gridview custom arrayadapter slow loading data data shown faster recommend strong db strong strong fetching data db strong strong customer adapter strong great guide 
+
+approach items items implement kind behavior scroll user reach las item call database query las element grid fetch make sql query fetch items user avoid make heavy query heavy map rows datadetails objects improve bit hope helps 

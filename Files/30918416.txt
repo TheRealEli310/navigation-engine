@@ -1,0 +1,4 @@
+reading xml file encoded utf16 
+read utf xml file file written heres code heres xml file running code eclipse run debug settings window tab named common selected encoding default inherited cp1253 output wrong file pdf selecdted encoding tab utf output file pdf wrong correct output default encoding cp eclipse project settings code runs server dont change default encoding virtual machine tested code 
+
+dom4j library parse xml causing problem jvm embeded library solved problem 

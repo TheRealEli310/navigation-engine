@@ -1,0 +1,4 @@
+support cloud bigtable sink cloud dataflow 
+plans enable cloud dataflow write data cloud bigtable adding custom handle io clean choice workaround connecting bigtable project simple opening connection table step closing added classpath modified version resource folder picked running cloud exception running locally exception stating set generated json key file greatly appreciated 
+
+cloud bigtable requires npn alpn networking jar installed dataflow workers accessing cloud bigtable directly pardo wont work work hbase rest api setup rest server access cloud bigtable vm dataflow href https github googlecloudplatform cloud bigtable examples tree master python rest rel nofollow instructions issue rest requests rest server complicated sending lot requests processing large amounts data set multiple instances rest server load balance 

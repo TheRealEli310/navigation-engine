@@ -1,0 +1,4 @@
+handle rest service responses invalid xml 
+retrieving user entered data rest service data returned xml user character xml parse fails apache data dont data parsed xml thought service encoding return valid xml found writing stream file parse gist tag offending point handle heres code exception 
+
+issue rest web service string input cover data cdata put websevice prepare gettypedvalue method webservice hand problem developer sole make http filter read rest xml change cdata send back webservice client side 

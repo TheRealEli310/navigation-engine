@@ -1,0 +1,4 @@
+accessing subclass method arraylist superclass 
+assignment arraylist type reference reference parent class book class journal class allowed add objects type book journal arraylist error access methods book journal code arraylist parent class methods access defined book journal edit code intellij issues line library getauthors method specific books resolve 
+
+type variable invoke methods defined type compile type defined variable visible methods defined case simply add blank method dont make class abstract explicitly cast object youre invoke method important approaches bad practices avoided make sense instantiate objects make class define abstract method code youre inheritance wrong 

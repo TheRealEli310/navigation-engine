@@ -1,0 +1,4 @@
+call sendto normal request call requestmapping 
+implemented web socket spring mvc working fine work browser browser open socket code call sendto topic normal api controller working idea 
+
+found solution send message open websocket 

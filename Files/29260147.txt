@@ -1,0 +1,4 @@
+javafx pixelwriter low performance 
+created simple javafx image editor instances imageview original image edited method converts writableimage grayscale problem conversion takes approximately time swing task idea swing code 
+
+quick test works order times faster computations manipulating objects javafx class substantially richer implementation awt class guess cost additional overhead 

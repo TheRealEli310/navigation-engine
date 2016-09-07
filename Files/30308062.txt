@@ -1,0 +1,4 @@
+jndi tomcat externalized property file 
+configuring tomcat jndi externalized thing wrong clue context xml running tomcat setting starting server error application working good change app env actual values 
+
+maven resource filtering plugin maven transform property file values actual values directory xml file work 

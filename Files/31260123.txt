@@ -1,0 +1,4 @@
+handle exceptions occur instantiating class object 
+initializing class methods constructor throw exception constructor user shouldnt continue constructor return wondering handle suggestions 
+
+blockquote constructor return wondering handle blockquote typically exception propagate caller directly wrapping higher level abstraction exception case allowing directly instance isnt url makes sense construction fail log constructor propagating typically logging handled caller 

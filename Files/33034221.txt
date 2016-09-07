@@ -1,0 +1,4 @@
+dimensional arrays printing triangle alphabets cyclic order 
+query write method prints triangle based input number alphabets side triangle output expected triangle triangle method code written limited experience number loops review code suggestions optimized code problem algorithm answer problems 
+
+idea print row separately rest row element degenerated case symmetrical respect center 

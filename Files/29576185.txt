@@ -1,0 +1,4 @@
+liquibase hibernate support 
+hope problem quicker trial error project liquibase generate changelog entities error compiled project liquibase works fine liquibase version br liquibase hibernate4 version liquibase open source rebuild idea 
+
+eventually figured easy zielu pointed problem spring version project liquibase hibernate solution ol li download liquibase hibernate source href https github liquibase liquibase hibernate rel nofollow github li li update hibernate spring dependecies li li build liquibase hibernate jar li li copy freshly built jar liquibase cli lib folder li li liquibase cli lib folder update spring hibernate libraries li ol run liquibase 

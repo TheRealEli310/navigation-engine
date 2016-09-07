@@ -1,0 +1,4 @@
+force server accept tls reject tls tls connections 
+https web service running make service accepts tls1 connection reject ssl3 tls1 tls1 added parameter tls1 highest priority accepts tls1 connections clients client running parameter connection tls1 client running parameter connections tls1 play security file jdk jre lib security folder disabled algorithms update inclined intercepting connection checking tls version server certificate bit generated md5 rsa algorithm disabled algorithm list rsa place rsa keysize lt sslhandshakeerror error message cipher suites common test program running http server url href http www herongyang jdk https httpsechoer https server html rel nofollow http www herongyang jdk https httpsechoer https server html make accept tls connections 
+
+found solution set file jre lib security security server setting server accepts tls1 connection reject lower security protocol versions 

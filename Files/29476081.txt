@@ -1,0 +1,4 @@
+weaving production aspect test class gradle aspectj 
+gradle aspectj plugin weave production aspect test code expected work box plugin apparently case demoed href https github sedubois gradle aspectj poc tree dc44f529831a485fcff8f4889dba8098784dddb4 rel nofollow https github sedubois gradle aspectj poc tree dc44f529831a485fcff8f4889dba8098784dddb4 weaving works weaving aspect doesnt groovy gradle aspectj didnt figure add configuration similar edit1 unrelated iajc warning edit2 naively added code gradle dependencies doesnt test works fails usual messages 
+
+default plugin weave main aspects test classes simply made configuration option line 

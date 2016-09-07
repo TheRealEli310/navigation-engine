@@ -1,0 +1,4 @@
+3d transparency javafx blending triangles mesh 
+drawing single transparent 3d mesh generated marching cubes algorithm intention objects problem fixed stands draw 3d shapes perfectly implement transparency case changing opacity meshes phongmaterial weird effect triangles rendered triangle href http imgur 1wdmyys png rel nofollow http imgur 1wdmyys png unable post image directly due rep stick larger shape loss triangles idea red mesh rendered ambient light makes difference code 
+
+transparency works correctly triangle faces sorted distance camera artifact fact consumer 3d cards break scene triangles render individually render hundreds triangles time hundreds cores older cards show number triangles render modern cards part triangle rendering moved driver vector engines card calculate color point software fast vector cpus create complex programs modify vertex pixel stored memory create shiny surfaces 

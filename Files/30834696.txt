@@ -1,0 +1,4 @@
+jersey resource matches path 
+href https jersey net documentation index html rel nofollow jersey v1 href https github google guice wiki servletmodule rel nofollow guice servlet bind jersey resource matches em em jersey respond servlet consists components rest api lives web ui lives guice terms means set part servlet ul li li li li ul setup define response body part webapp codebase subproject responsible reimplement jersey hr bind resource match picked request 
+
+href http stackoverflow users peeskillet href http stackoverflow answer correct sense describes create jersey resource matches path br goal creating resource delivers responses unmatched path requested met answer combination guice match resource intercept requests specific resources additionally modify http response status code resource purpose jersey implemented loaded adding annotation type invoked resource throws decide response generate including status code 

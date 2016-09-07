@@ -1,0 +1,4 @@
+problems installing jogl eclipse 
+numerous tutorials unable install jogl add files folder class path add build path compiler errors eclipse netbeans windows bit windows fairly world excuse fairly simple mistake img src http stack imgur uxi77 png alt eclipse screenshot 
+
+import class correct package package earlier versions lt recent versions instance entire package href https jogamp org bugzilla show bug cgi id rel nofollow bug information package renamed 

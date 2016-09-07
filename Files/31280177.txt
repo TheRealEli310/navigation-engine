@@ -1,0 +1,4 @@
+thymeleaf spring mvc form backing bean boolean checkboxes 
+iam post simple form spring controller thymeleaf backing bean includes boolean mapped checkbox template field inside object tag rendered html dom spring mvc adding hidden input field attributename main input field generated attributename iam post form aborts request parameter attributename mapped backing bean object simply doesnt exist addition request wohld include attributename attributename happening 
+
+finally solved problem boolean boolean getter named isenabled getenabled problem mapping form element backing bean 

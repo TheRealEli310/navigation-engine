@@ -1,0 +1,4 @@
+close javafx login window successfull login 
+create javafx login window log main window login window closed exit entire application login window access stage controller class method doesnt work logincontroller class 
+
+href http docs oracle javase javafx api javafx stage stage html rel nofollow href https docs oracle javase javafx api javafx application platform html exit rel nofollow platform exit terminate javafx application stage close strong update strong instance initialized throw instance present scene graph 

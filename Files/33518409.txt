@@ -1,0 +1,4 @@
+connect db oracle apex application externally 
+query table stored oracle apex application externally achieving inside apex access external databases dblink puzzling starts connect string host amp port details search oracle docs dba forums didnt cover scenario great give pointer 
+
+comments youre access apex oracle database externally isnt valid access database online demo workspaces oracle sql workshop apex applications accessing data highly suggest restfull services apex direct connection jdbc isnt 

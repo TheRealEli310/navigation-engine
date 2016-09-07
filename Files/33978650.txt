@@ -1,0 +1,4 @@
+override back button event top menu issue android 
+back previous activity current activity added code current activity doesnt fires missing 
+
+override method clicked menu item check equal default resource id actionbars back button flag finishes activities 

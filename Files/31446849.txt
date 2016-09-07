@@ -1,0 +1,4 @@
+generate code properties file 
+coming background creating resource file visual studio generates class background access resoures benefits ul li auto completion intellisense li li generates compiler error resource renamed runtime error li li find usages check resource li ul afaik equivalent em resx em file em properties em file access resource filename resource strings ul li dont auto completion li li runtime errors compiler errors li li generic text search find usages reliable li ul strongly doubt person additional benefits generated code strong generate classes properties files eclipse strong 
+
+href http jlibs rel nofollow jlibs library tutorial href http jlibs i18n internationalization html rel nofollow internationalization made easier btw owner project library compile time safety annotations compile time generate code 

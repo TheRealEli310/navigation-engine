@@ -1,0 +1,4 @@
+painless lazy loading member similar static singletons 
+lazy initialization static singleton class loaded accessed created called question similar tricks lazy instantiation member variable static context instance thread safely instance created demand double check locking ideally method remain simple examples simplest fastest efficient execution method ideal 
+
+synchronization rules instantiating types initializing classes add double checked locking mechanism beginning href http docs oracle javase docs api util concurrent concurrenthashmap html computeifabsent util function function rel nofollow achieve laziness href http stackoverflow questions lazy field initialization lambdas solutions lazy initializing thread safety constraint adapt cleanly multithreaded context stated comments double checked locking faster solutions dont include fluff hiding implementation 

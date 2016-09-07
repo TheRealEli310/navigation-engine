@@ -1,0 +1,4 @@
+configure spring data jpa custom repository impl config 
+spring boot spring data jpa create custom repository method reference reference entitymanager custom method customrepositoryimpl class autowired inject field works fine bean configured javaconfig attempts failing code springbootapplication class definition configuration class bean definition doesnt work method completely exception spring data doesnt bean definition create custom repo bean default constructor doesnt exist instruct spring data bean method 
+
+issue bean named case javaconfig change javaconfig work 

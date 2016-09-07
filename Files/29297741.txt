@@ -1,0 +1,4 @@
+parse diffgram anytype response net webservice 
+response net webservice anytype format parse format read data remmessage invm id provided format parse format code returning response read data params remmessage invm id getreminder class response format single message format remmessage multiple entries remmessage 
+
+included xml representation soap response post href http stackoverflow questions parsing complex soap response diffgram parsing complex soap response diffgram element schema anytype definition type newdataset parse part holds data getreminder models code posting href http stackoverflow http stackoverflow 

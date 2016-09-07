@@ -1,0 +1,4 @@
+cxf wsdl2java listwrapper wsdl unwrapped 
+updating axis wsclient cxf jaxb databinding client differences handled explain strong wsdl strong complextype access attribute cxf needed additionally list wrapper axis afaik unwrap automatically array question cxf strong part wsdl strong 
+
+generate model classes automatically hide xml element wrapper classes things ol li href http stackoverflow custom jaxb binding file suppresses usage li li porttypes href http cxf apache org docs wsdl html rel nofollow custom jaxws binding file makes request response classes directly li li href https github dmak jaxb xew plugin rel nofollow generate annotations jaxb annotation designating lists wrapped li ol custom jaxb binding file custom jaxws binding file sample working usage jaxb jaxws binding files configuration generate schema provided question return adding attribute supports types arrays 

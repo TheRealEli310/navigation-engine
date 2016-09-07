@@ -1,0 +1,4 @@
+select child variable xslt2 
+select child node variable xslt2 script execute error message change child selection wrong make work 
+
+xalan xslt aware switch href http saxon sourceforge net rel nofollow saxon absolutely bound xalan xsl processor refactor stylesheet xsl extensions 

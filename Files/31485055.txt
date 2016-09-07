@@ -1,0 +1,4 @@
+ignore classes imported schemas generated jar schema 
+xsd file xsd imports xsd xsd create jar classes xsd ignore classes generated xsd pom file schema xjb file href http confluence highsource org display mjiip user guide userguide separateschemacompilation rel nofollow link shows unable configure add episodes generate episode build generation jar 
+
+bindings classes generated xjc problems delete post processing step build generally recommend href https github highsource maven jaxb2 plugin wiki episodes rel nofollow episodes things heres href https github highsource maven jaxb2 plugin tree master tests episodes rel nofollow test project episodes strong disclaimer strong author href questions tagged maven jaxb2 plugin class post tag title show questions tagged maven jaxb2 plugin rel tag maven jaxb2 plugin 

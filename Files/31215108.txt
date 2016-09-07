@@ -1,0 +1,4 @@
+delete row db jsp 
+problem clicking button strong delete strong usernotes jsp test function deletedata works shows current clicked button delete data db send redirect response br strong usernotes jsp strong strong deletedata servlet strong 
+
+column type execute query quote secure takes care errors youre redirecting shouldnt set content headers remove servlet isnt supposed write response redirect dont hardcode host port number wont deploy generated em war em server relative url 

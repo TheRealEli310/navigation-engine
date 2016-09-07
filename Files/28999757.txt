@@ -1,0 +1,4 @@
+read line bufferedreader 
+text file read line line turn dimensional array written turns infinite loop move line reading printing line dont 
+
+read line variable didnt change loop leading infinite loop read line condition iteration reads line changing variable 

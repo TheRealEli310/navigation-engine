@@ -1,0 +1,4 @@
+properly code calculator 
+creating calculator encountering situation involving scanner unable accept input br code working basically problem end find code thing asks type operation perform br multiply divide add subtract respected operation firstnum secondnum fnum snum operations recognize operation br isnt difficult problem retry typing operation br recognize program eclipse input data br 
+
+simple wrapp code area issue finish answered application looping time user inputs incorrect operation finish inputs construct create infinite loop code inside block running encounters break happen inputs operator program outputs answers inputs incorrect program answer start input operator 

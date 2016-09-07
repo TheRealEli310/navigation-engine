@@ -1,0 +1,4 @@
+singleton design pattern real time applications 
+understand singleton design pattern concept implementing singleton pattern applications web based applications approach real time applications 
+
+pattern time exist em single em instance singleton pattern common logger object places system invoke logger log instance true constructing instance heavy operation code reference logger doesnt instantiate fact singleton real world examples include dependency injection container read data access service lookup service caches results generally initialization repeated operations heavy thread 

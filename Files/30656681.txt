@@ -1,0 +1,4 @@
+textfield added jframe disappears graphics redrawn 
+problem jframe textfield br make word game problem create textfield set input check word word thing covered br problem add textfield disappears render things jframe testing purpose textfield displayed top start disappears br 
+
+ul li dont draw directly jframe li li draw background image paintcomponent method jpanel work bufferstrategy purposes li li add components jtextfield jpanel li li add jpanel jframe li li call supers paintcomponent method paintcomponent method override li li careful dispose graphics object jvm passed paintcomponent method li ul hr 

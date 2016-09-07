@@ -1,0 +1,4 @@
+spring data jpa working localtime 
+query derivation mechanism spring data repository version working properly localtime wrong bug store starting time entities starting time greater hibernate hibernate version final executes list element elements returns element misunderstanding working fails query derivation mechanism doesnt work localtime problem hibernate comparing properly varbinary data localtime stored blob properly stored retrieved localtime postgres dont problem postgres 
+
+answer question hibernate doesnt support time classes version treats localtime serializable instance simply stores serialized localtime instance byte array varbinary column operator doesnt make sense type column wont compare localtime values chronologically define custom hibernate type href http jadira sourceforge net usertype userguide html rel nofollow jadira defines custom type store localtime column type 

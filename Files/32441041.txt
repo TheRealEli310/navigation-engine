@@ -1,0 +1,4 @@
+maven surefire configuration separating test unit integration tests fail 
+project unit integration tests tests split unit integration tests class suites configure surefire execute unit tests phase test integration test phase integration test current configuration configuration tests executed remove excludes tests executed phase test unit tests hr strong update solution strong explanation adam michalik solve problem overriding default test skip tests id unit test default test unit tests final configuration pom 
+
+rule thumb override taking execution configuration tells surefire ul li include li li exclude exclusion list covers executed li ul similarly execution strong strong run phase phase configure define good observed tests run default surefire execution called default configuration picks classes suffixed work turn default execution reconfiguring rename execution save milliseconds build time end youll invoke surefire times skip default execution 

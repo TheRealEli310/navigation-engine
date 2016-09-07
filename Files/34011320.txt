@@ -1,0 +1,4 @@
+null pointer exception application subclass 
+nullpointerexception error dont coding fully understanding explanations sorting provide relevant information working href http www androidhive info android facebook custom listview feed volley rel nofollow tutorial stack trace logcat pre class lang prettyprint override feedlistadapter pre class lang prettyprint override alertmainactivity pre class lang prettyprint override appcontroller included pre class lang prettyprint override manifest pre class lang xml prettyprint override thx 
+
+youve manifest match application subclass tutorial youre working youll reference application class androidmanifest xml case modify androidmanifest appcontroller class correct application subclass 

@@ -1,0 +1,4 @@
+json hashmap deserialization 
+deserialize json test nombre jose apellidos jose edad personacontainer create object persona put inside persona container code serialization objectmapper deserialize json personacontainer object obtain test hashmap cast person object error advice 
+
+jackson idea types expect keys values defaults regular objects words deserialize instance fails dont raw types declare proper generic arguments spring deserialize json declare field type 

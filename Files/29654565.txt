@@ -1,0 +1,4 @@
+execute script cisco switch router 
+software run script cisco switch router script configure acl router run script router pass script router run 
+
+common execute scripts ios run cli command prompt accessed telnet ssh unpopular run interactive scripts ios cisco tcl href http www cisco en td docs ios netmgmt configuration guide 2sx nm 2sx book nm script tcl pdf rel nofollow http www cisco en td docs ios netmgmt configuration guide 2sx nm 2sx book nm script tcl pdf honestly people prefer kiss open ssh prompt config paste input access list commands pretty simple easy automate language depending version ios access lists adding syntax execution change wise confirm end router switch running version ios attempting modify acls show ver good place start 

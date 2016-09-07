@@ -1,0 +1,4 @@
+access brown corpus aka nltk 
+write program makes natural language parts speech searching google havent found entire brown corpus corpus tagged words finding nltk information interested load data program sum occurrences words likelihood part speech strong strong library stanford play corpus data 
+
+heres link download page brown corpus href http www nltk org nltk data rel nofollow http www nltk org nltk data files zip files data format href http en wikipedia org wiki brown corpus rel nofollow brown corpus wikipedia dunno things edit original source data corpuses data point sampling wikipedia entry sample began random sentence boundary article unit chosen continued sentence boundary words data brown corpus essentially randomized original texts guess sampled 

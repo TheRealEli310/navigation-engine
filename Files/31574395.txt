@@ -1,0 +1,4 @@
+sourcepollingchanneladapter create 
+spring spring integration create dynamic feed parse register spring context application config written file bug 
+
+ol li make bean injection li li forgot invoke btw instance li ol side share mind reason manual dont rely standard inversion control principle 

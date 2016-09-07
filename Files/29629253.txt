@@ -1,0 +1,4 @@
+properties displayed 
+property file key character properly displayed webpage output faces config directly display message xhtml message displayed property file method values propertyfile debug allready wrong bundle getstring key returns keine nderungen direct output xhtml works noticed replacing chars propertyfile hexcodes helped 
+
+problem iso latin encoding reading bundles interpret utf files case inserting latin characters solutions ol li replace special character encoded form unicode point form li li resourcebundle means read utf files internal caching fallback mechanism wont work case youd li ol update href http stackoverflow questions utf resource properties resourcebundle utf resource properties resourcebundle lot good resources deal bundles umlauts fits 

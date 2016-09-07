@@ -1,0 +1,4 @@
+noinitialcontextexception jetty jersey spring 
+facing issue api packaged war eclipse maven wont start jetty works fine started eclipse logs jetty found root spring jetty stackoverflow found serveral things configuration missing entry class similar worked till ul li jetty li li apache li li li li jersey li li debian wheezy li li mysql li ul snipped application context xml appreciated strong update full log strong 
+
+removed strong strong line pom xml told strong jetty strong dependencies provided run strong tomcat strong live tomcat edit changed em couldnt em work strong jetty strong strong tomcat strong bootstrap application href https github amacoder demo restws spring jersey jpa2 hibernate rel nofollow https github amacoder demo restws spring jersey jpa2 hibernate 

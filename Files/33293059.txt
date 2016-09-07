@@ -1,0 +1,4 @@
+verify log4j2 logging asynchronously lmax disruptor 
+developing eclipse rcp application pains log4j2 work app work fine finishing touch wanted make href https logging apache org log4j manual async html allasync rel nofollow loggers asynchronously managed lmax disruptor classpath solved href http stackoverflow issue providing set vm argument run config set em log4j2 xml em file correctly strong strong problem id verify application logs asynchronously proper fashion enjoy benefits latency wise verify loggers working asynchronously utilising lmax dirsuptor process 
+
+types async logger handled classes ol li loggers async class activated li li mixing sync async loggers class configuration file elements nested configuration li ol case making loggers async put breakpoint verify setting top configuration file output internal log4j log messages log4j configured starting asynclogger disruptor loggers async 

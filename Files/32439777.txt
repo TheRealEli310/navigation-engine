@@ -1,0 +1,4 @@
+runtime getruntime gc makes difference continued 
+method system amp runtime classes system classs method calls runtime code documentation gc runtime class blockquote calling method suggests virtual machine expend effort recycling unused objects order make memory occupy quick reuse control returns method call virtual machine made effort recycle discarded objects blockquote special called happen call call strong strong calling invoke garbage collector instantly upto jvm garbage collection happen strong edit strong understand java8 discussions thread accepted answer 
+
+writing href http openjdk net projects code tools jmh rel nofollow benchmarking library important minimise interference gc running benchmarks href http hg openjdk net code tools jmh file 0879b862a1a3 jmh core src main org openjdk jmh runner baserunner l249 rel nofollow call runs writing low level stuff practice jre target run gc calling 

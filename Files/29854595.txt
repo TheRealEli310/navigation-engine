@@ -1,0 +1,4 @@
+android app sqlite database issue close 
+creating android app eclipse section issues populate listview data sqlite database run app open fragment app crashes comment line 4th line breakfastmenufragment load listview populated find issue luck appreciated breakfastmenufragment dbhelper edit 
+
+newdb close executing null crash event newdb null 

@@ -1,0 +1,4 @@
+passing pathparam resource locator class jersey 
+call api endpoint retrieve employees company code code path param null wrong correct 
+
+couldnt reproduce null id couple things point ul li removed method resource locators shouldnt http method annotations href https jersey net documentation latest jaxrs resources html d0e2464 rel nofollow resources li li needed problem thought li ul complete working href https jersey net documentation latest test framework html rel nofollow jersey test framework test dependencies run junit test 

@@ -1,0 +1,4 @@
+restful webservices noclassdeffounderror org glassfish jersey extendedconfig 
+created webservice href http stackoverflow questions tomcat rest http status servlet execution threw exception thread finally managed solve problem consume webservice created web project netbeans apache tomcat heres code consume webservice tutorials produce code created main class call consume method run exception guess libs problem couldnt solve jax rs sufficient jersey libs whats wrong correct consume webservice versions 
+
+suspected libs problem code imports work jersey version today needed include libs bundle core jersey module jars required 3rd party dependencies dont include jax rs libs jersey jars thing restful client wizard netbeans adding jersey jars project version today api works 

@@ -1,0 +1,4 @@
+utf 16be utf issue 
+file displayed em geanny em shows em utf 16be em convert file em em encoding lets em iso em assuming em utf 16be em question mark appears time beginning created file assume em utf em true converted file converted question mark beginning clarify behavior bellow snippet code em geanny em text editor 
+
+problem bom href http en wikipedia org wiki byte order mark rel nofollow byte order mark define character set recognises bom removes reading bom tells character stream utf define ignore bom ignores writes target file 

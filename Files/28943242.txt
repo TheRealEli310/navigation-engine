@@ -1,0 +1,4 @@
+add checkbox dropdown list element jsp 
+wanted select items dropdown list checkboxes 
+
+box html doesnt support functionality make combination javascript amp html achieve desired effect usage attribute similar behavior usability demands list checks approach ul li create hidden field identify user selection li li render div set checkboxes label css give desired effect li li click checkbox check state checkbox update appropriately hidden field created step li ul find libraries providing similar behaviour find href http www jqueryrain demo jquery multiselect plugin rel nofollow 

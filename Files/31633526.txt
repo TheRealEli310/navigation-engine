@@ -1,0 +1,4 @@
+send multiple json objects post request retrofit 
+json object key pairs post request retrofit thinking creating pojo matches gson definition json object setters pojo class set key pair track achieve nested json objects json object json array objects 
+
+create request class long names member variables match json href http google gson googlecode svn tags docs javadocs google gson annotations serializedname html rel nofollow serializedname conversion automatically href http stackoverflow retrofit gson internally automatically convert object json format youve question hr strong strong convention json keys lowercase underscore camelcase set key naming convention creating gson object href http stackoverflow 

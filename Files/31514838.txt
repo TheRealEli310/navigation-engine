@@ -1,0 +1,4 @@
+mars rover project 
+input function input string object skipped explain rectify enclosing public class required ill add classes 
+
+strong simple solution strong simply call returns token standard input nextline returns line token strong solution strong nextline nextint scanner nextline reach end line token user presses enter dont handle end line token prevent scanner object working appropriately nextint reading read nextline hope clarifies 

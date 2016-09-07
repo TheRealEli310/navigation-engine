@@ -1,0 +1,4 @@
+jpa descriptoreventadapter changeset null 
+include tracker jpa entitys log file database changeset returned descriptoreventadapter null eclipselink ojdbc6 spring orm events called including preupdatewithchanges pushed database entitymanager merge entity update entity strong historyeventlistener strong entity persistence xml unitofwork href http wiki eclipse org eclipselink faq jpa access changed object transaction 3f eclipse wiki returns null objectchangeset 
+
+reading event getquery works idea event getchangeset emtpy solved 

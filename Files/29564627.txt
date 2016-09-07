@@ -1,0 +1,4 @@
+moxy support string xmlid version 
+href https gist github vineetreynolds https gist github vineetreynolds jaxb spec requires element annotated hasnt enforced moxy versions em em br version em em supported anymore wanted behavior unwanted regression avoid error migrating moxy em em br post href http stackoverflow questions marshaling long primitive type jaxb marshaling long primitive type jaxb affects object id serialized json id field type json string 
+
+supported supported default enabled annotation href https eclipse org eclipselink releases php rel nofollow https eclipse org eclipselink releases php annotate field system property override default behavior globally 

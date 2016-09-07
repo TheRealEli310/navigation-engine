@@ -1,0 +1,4 @@
+set buffer size bufferedwriter filewriter 
+met problem write data single file threads set buffer size matter number set flushes data disk buffer default buffer size size set problem code constructing full code 
+
+solve problem outputstream writer code 

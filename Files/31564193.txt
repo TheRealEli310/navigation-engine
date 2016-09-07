@@ -1,0 +1,4 @@
+suspend consumer producer consumer pattern 
+producer consumer connected consumer wait records queue process pause process thread implement implement bad solution 
+
+solution simple elegant modifications modifications propose href https docs oracle javase tutorial essential concurrency sync html rel nofollow synchronization thread interference memory consistancy errors occur top lock dont inside block fix easy add synchronize block wait notify youre changing thread mark href http www javamex tutorials synchronization volatile shtml rel nofollow volatile 

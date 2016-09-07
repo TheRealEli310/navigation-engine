@@ -1,0 +1,4 @@
+load javascript css files assets html webview 
+webview render html file stored folder scripts src css path showing white screen br ideas fix read answers suits case code mainactivity 
+
+files location html files automatically determine files locations relative paths absolute href http www coffeecup articles absolute relative pathslinks rel nofollow http www coffeecup articles absolute relative pathslinks 

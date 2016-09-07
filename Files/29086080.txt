@@ -1,0 +1,4 @@
+change property file located src test resources 
+exploring apache common configuration make test read write properties xml file located src test resources test reading problems write file change location file scr test resources location file system test works fine edit 
+
+dont provide insight running context em src test resources em path guess work maven true ol li maven copies resources em target test classes em li li test method operates copied resources em target test classes data xml em li ol check file works looked source file file read code difference test em temp data xml em relative path absolute mavens scope 

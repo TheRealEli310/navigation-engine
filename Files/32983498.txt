@@ -1,0 +1,4 @@
+executing test class extending androidtestcase android studio 
+execute test class extending androidtestcase made apparently error solution remember found instrumentationtestrunner run debug configurations instrumentation runner android api error mentioned solutions points adding info isnt android project generated ibm mobilefirst gradle supported code check ways execute simple junit test bitmap image id package read android studio hr edit adding code apparently wrong shown execute test error shown 
+
+fix issue yesterday basically alright package red android studio important thing placing tag place 

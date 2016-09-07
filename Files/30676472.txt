@@ -1,0 +1,4 @@
+class path resource opened exist load context manually 
+webapp folder structure img src http stack imgur ja1jy jpg alt enter image description load spring context manually wrote code code invokes folowing exception message rewrite code avoid exception strong strong dont move xml file strong strong doesnt work web xml written works 
+
+provide location resource resolved relative servlet context path provide youre telling spring find resource classpath case isnt web inf typically added classpath afaik add classpath move file location classpath path constructor 

@@ -1,0 +1,4 @@
+player computer tic tac toe game code 
+recently assigned project ap class ran difficulty objective project create player computer tic tac toe game found success creating game board object entering chars array stuck idea aspects game allowing computer make move player allowing user enter numbers make move hardcoding random values test evaluating win tie condition frustrated code advice ul li board class code li ul main class code 
+
+function 

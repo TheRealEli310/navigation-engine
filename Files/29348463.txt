@@ -1,0 +1,4 @@
+storing logs graylog 
+application groovy href http docs graylog org en pages installation html virtual machine appliances rel nofollow virtual machine appliance graylog running virtualbox make connection store logs graylog 
+
+href https github graylog2 graylog2 images tree master ova rel nofollow virtual machine assuming create graylog input adapt logstash conf send logs gelf ol li graylog web interface li li system inputs section web interface li li create gelf udp input give li li add line logstash conf output section output gelf host vm ip li li start logstash instance li li send log logstash li li search latest logs graylog web interface check received li ol 

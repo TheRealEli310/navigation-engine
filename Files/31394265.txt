@@ -1,0 +1,4 @@
+navigation drawer item icon showing original colour 
+show icon item menu navigation drawer reason icon appears grey original colour brown preventing happening order show icons original colour strong mainactivity strong strong drawer view xml strong img src http stack imgur bb34ml png alt enter image description 
+
+found answer href http stackoverflow http stackoverflow avoid link pretty disables state based tinting list worked great details creating color state list pretty simple href http developer android reference android content res colorstatelist html http developer android reference android content res colorstatelist html 

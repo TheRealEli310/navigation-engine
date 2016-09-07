@@ -1,0 +1,4 @@
+maven pom error eclipse scala 
+importing project works built fine mvn clean install eclipse kepler importing project eclipse luna mars errors hr read articles added pom xml parent pom xml modules hr error pom xml child modules additional settings rid error 
+
+things work eclipse preference maven discovery open catalog install takari lifecycle support 

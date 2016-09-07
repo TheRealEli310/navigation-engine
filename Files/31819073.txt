@@ -1,0 +1,4 @@
+camel ftp fetch demand 
+fairly camel camel fetch single file ftp demand couldnt work approach wrong code strong send empty message file read strong empty message received stop route routestopper works fine time call time call guess stop road completely strong implement pollingconsumerpollstrategy strong route strong dont stop strong suggested comments route stops polling ftp strong file found strong called route route logs appreciated 
+
+solution found scenario stop restart route 

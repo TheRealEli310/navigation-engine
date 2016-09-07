@@ -1,0 +1,4 @@
+set disallowed fields spring data rest 
+exclude fields post repositories set version users set field class annotation setter version field worked users set version fields implement global initializer success binder picked 
+
+place jsonignore field setter place jsonproperty propertyname getter tested works 

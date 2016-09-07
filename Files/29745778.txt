@@ -1,0 +1,4 @@
+game loop painting freezes window 
+changing views cardlayout class variable user clicks game button games loop method heading class painting painting call method paints images painted correctly call method happening window close button doesnt work fix creating inside game class worked fine views class 
+
+update shouldnt call edt running loop edt repaint wont invoked repaint queues event edt kind busy moving thread wont block edt repaint executed edt 

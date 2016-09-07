@@ -1,0 +1,4 @@
+force hystrix circuit breaker open 
+programmatically force circuit breaker open group thought setting config command group force open running command doesnt work approach heres test fails 2nd assertequals call 
+
+set custom properties archaius instance internally 

@@ -1,0 +1,4 @@
+save jena sparql query resultset json 
+store jena resultset json formatted string resultset output system console save string send json variable method perform work advance 
+
+writing converting bytes 

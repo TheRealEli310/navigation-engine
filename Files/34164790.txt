@@ -1,0 +1,4 @@
+spring junit testing failed load applicationcontext error creating beans 
+attempting write unit tests data access object running trouble load heres stack trace heres 
+
+threw nullpointerexception datasource method applicationcontext class line exact didnt include code method hard 

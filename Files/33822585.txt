@@ -1,0 +1,4 @@
+spring annotation profile disallowed location 
+configuration file create beans depending profile reason working giving error message eclipse blockquote annotation disallowed location blockquote spring api work blockquote annotation ways ul li type level annotation class directly indirectly annotated including classes li li meta annotation purpose composing custom stereotype annotations li li method level annotation bean method li ul blockquote sping framework method introduced 
+
+introduced spring ul li href https docs spring io spring docs release javadoc api org springframework context annotation profile html rel nofollow version release annotation type blockquote target type blockquote li li href https docs spring io spring docs release javadoc api org springframework context annotation profile html rel nofollow version release annotation type method blockquote target type method blockquote li ul 

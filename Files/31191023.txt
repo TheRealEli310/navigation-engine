@@ -1,0 +1,4 @@
+performance difference log log10 
+programs calculate base logarithm implementation makes taking natural logarithms equivalently performant taking single base logarithm wasteful provided desired base compile time 
+
+ends calling native function implemented href http docs oracle javase docs api lang strictmath html log10 double people dont notice performance discrepancy variants conveys intention isnt clear base logarithm 

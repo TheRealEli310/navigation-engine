@@ -1,0 +1,4 @@
+make threads start order 
+make simple thread program starts threads order stops order sleep method everytime threads start order current output desired output 
+
+threads started order output wrong output messages arrive concurrently move messaging main thread 

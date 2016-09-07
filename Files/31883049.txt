@@ -1,0 +1,4 @@
+log4j parse url invalid character 
+strong background strong spent hours setup log4j spring mvc wildfly problem wildfly logger conflicted working add jboss deployment structure xml web inf folder part inside deployment tags logs importantly system outs appears console wildfly startup receive error doesnt break app rid invalid character special polish locale windows path accessible program fix 
+
+move wildfly installation folder destination doesnt polish characters bug jdk reported information href http skycase pro blog bug jdk class sun org apache xerces internal util uri rel nofollow 

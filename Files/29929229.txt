@@ -1,0 +1,4 @@
+screen coordinates inside grid libgdx 
+created grid shaperenderer line draws 10x10 grid created texture ball png accomplish place texture inside cell screen coordinates cell based grid created give pointer 
+
+turning grid cell object iterate render 

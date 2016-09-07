@@ -1,0 +1,4 @@
+property field custom json serializer 
+href https fasterxml github io jackson databind javadoc fasterxml jackson databind jsonserializer html rel nofollow custom jsonserializer field simplified code pre class lang prettyprint override serialize ten fields similar logic depends field em em property inside custom serializer writing ten identical serializers inside method object href http stackoverflow answer didnt find field jackson 
+
+implement contextualserializer produce contextual version serializer configured beanproperty return instance customised property doesnt class customised serializer standard jackson implementations work 

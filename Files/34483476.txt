@@ -1,0 +1,4 @@
+set timeout globally operations vert router 
+small strong vert strong application set timeout routes router execute method making seconds cpmplete times report console seconds coming trick clues 
+
+short blocking event loop timeout triggered reactive shouldnt block event loop requires time href http vertx io docs vertx core worker verticles rel nofollow workerverticle workerverticle lasts longer seconds timeout 

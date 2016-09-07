@@ -1,0 +1,4 @@
+scala eclipse ide compiler giving errors clean run 
+writing mixed scala project eclipse compiler giving errors scala code compile scala run clean errors building maven works completely fine building project maven originally project added plugins dependencies pom xml idea eclipse treating scala files heres pom xml 
+
+clear project settings removing adding back 

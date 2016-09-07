@@ -1,0 +1,4 @@
+image bytearray blob blob bytearray image conversion issues 
+lot learning bytearrays amp blobs managed write code write image access db ucanaccess writing back disk write image back disk image incorrect format messed open image understand good practice store images db learning 
+
+firstly separate parts ul li storing binary data database retrieving li li loading image file saving li ul database test part diagnose issues loading image saving straight file skipping database problem youre copying data writablerasters databuffer saving file jpeg point internal format jpeg file dont imageio youve em started em jpeg file start end image copy file save file database case treating file bytes saving format size imageio libraries save image em em jpeg encoding store result file database 

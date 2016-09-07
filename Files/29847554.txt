@@ -1,0 +1,4 @@
+spring junit test applicationcontext initialized created test method 
+studying unit test spring doubt applicationcontext initialized created test method spring applicationcontext test method reuse applicationcontext created perfome method 
+
+ul li create applicationcontext time li li locations attribute test classes contextconfiguration locations classpath test context xml li li spring caches application contexts locations attribute locations appears time spring context creating li li refer link href http www nurkiewicz speeding spring integration tests html rel nofollow http www nurkiewicz speeding spring integration tests html li ul 

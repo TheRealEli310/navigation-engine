@@ -1,0 +1,4 @@
+register servletcontextlistener spring boot 
+rewrite code spring boot listener register listener spring boot method called 
+
+couple things register explicitly explicitly creating servletregistrationbean 

@@ -1,0 +1,4 @@
+inputstream int read byte method parameter reference 
+recently wondering functions href http docs oracle javase docs api io inputstream html read 28byte rel nofollow inputstream int read byte method working passing method parameters reference knowing dont understand empty byte array values passing read method assuming bytes read inputstream passed read method touched internally output number read bytes integer return byte array fills 
+
+reference byte passed pass reference address variable holding reference byte passed 

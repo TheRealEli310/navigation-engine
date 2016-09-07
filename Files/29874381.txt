@@ -1,0 +1,4 @@
+javafx scenebuilder disable resizing splitpane divider 
+disable automatic resizing placement divider splitpane resizing entire frame words automatically move divider shrink applications frame small user manually moves divider 
+
+href http stackoverflow questions avoid splitpane resize panes window resizes avoid splitpane resize panes window resizes href https docs oracle javase javafx api javafx scene control splitpane html setresizablewithparent javafx scene node lang boolean rel nofollow javadoc 

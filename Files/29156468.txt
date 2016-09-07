@@ -1,0 +1,4 @@
+nullpointerexception setting toolbar 
+xml layout include tool bar set toolbar class error logcat tool bar part larger application narrowed problem removed code leaving whats code compiled tested 
+
+ids toolbar layout code dont match layout actual id youre null pointer findviewbyid setting null actionbar 

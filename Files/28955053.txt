@@ -1,0 +1,4 @@
+newton raphson solution 
+newton raphsons method order find root evaluation function loop termination condition create infinite loop difference bigger epsilon replace epsilon bigger include counter breaks loop attaining specific big implement standard termination condition newtons method 
+
+typically newtons method number termination criteria ol li upper bound number iterations routine stuck diverge find root exit max iterations li li tolerance change relative absolute algorithm producing change converged stuck stationary points li li speaking stationary points gradient derivative tolerance terminate end stationary point dimensional case dividing li li tolerance absolute function ultimate measure close li ol mind set function tolerance tight newtons method produce change sufficiently small tolerance stop maximum number iterations 

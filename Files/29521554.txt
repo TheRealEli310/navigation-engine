@@ -1,0 +1,4 @@
+true false execute statement 
+strong statement strong object called strong stmt strong connection object strong conn strong produce strong false strong strong true strong query executed successfully strong false strong query fails executing achieve result strong execute strong method 
+
+blockquote achieve result execute method blockquote return result problem insertion method throw exception href http docs oracle javase docs api sql statement html execute 28java lang string rel nofollow documentation blockquote boolean execute string sql throws sqlexception returns strong true result resultset object strong false update count results throws sqlexception database access error occurs method called closed statement method called preparedstatement callablestatement sqltimeoutexception driver determined timeout setquerytimeout method exceeded attempted cancel running statement blockquote 

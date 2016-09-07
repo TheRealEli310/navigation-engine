@@ -1,0 +1,4 @@
+infer type variable implementing generic class 
+defined class snipped compiling error idea whats wrong 
+
+href https docs oracle javase docs api javax lang model element annotationvalue html accept javax lang model element annotationvaluevisitor rel nofollow method expects arguments compiles 

@@ -1,0 +1,4 @@
+shift element arraylist 
+create method shifts elements arraylist element element run code told bounds error 
+
+problems ol li loop condition exclude zeroth element youll point put element position position resulting bounds error li li setting element loop li li href http docs oracle javase docs api util arraylist html set rel nofollow takes index list parameter giving object list li ol 

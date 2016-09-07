@@ -1,0 +1,4 @@
+swt stacklayout topcontrol apparently working 
+testing simple swt stacklayout learn works things working expected created stacklayout buttons set cycle top control times selected pause time top control run problem happen ideas missing pre class lang prettyprint override strong elaborating answer strong simpler approach delaying modified event handler simply button switch top control button shown expected buttons alternate top control click button window turns blank idea 
+
+figured silly mistake including btntwo event handler initialized em em initialization 

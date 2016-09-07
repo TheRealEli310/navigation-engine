@@ -1,0 +1,4 @@
+vertx3 eventbus working cluster 
+vertx3 version snapshot happening simplify problem created simple verticles act consumer message send message event bus problem eventbus working timeouts runs cluster understand node joins cluster add code pre class lang prettyprint override pre class lang prettyprint override running verticles seecond cluster xml firstverticle cluster xml secondverticle run verticle node node seconds happening running machines running machine working fine running centos firewall disabled communication internal ips fine idea 
+
+finally managed make works configurations tcp ip multicast basically main problems blocking firewall multicast enabled problems server network interface cluster xml created github repository configurations finally working fine cluster hope helps href https github mustaine vertx3 ping pong rel nofollow https github mustaine vertx3 ping pong 

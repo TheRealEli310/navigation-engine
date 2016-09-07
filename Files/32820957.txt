@@ -1,0 +1,4 @@
+spring boot connect databases mysql database mongodb project 
+create spring boot project requirement connect databases mysql mongodb special connect databases spring boot figure automatically connect databases define datasource mongodb mysql specific yml file pre class lang html prettyprint override mongodb yml pre class lang html prettyprint override application file pre class lang html prettyprint override 
+
+questions forum talks connecting databases mysql database mongodb spring boot project work posting answer configurations repositories jparepository mongorepository depending db repository belongs mysql specific yml file pre class lang html prettyprint override mongodb yml pre class lang html prettyprint override application file pre class lang html prettyprint override 

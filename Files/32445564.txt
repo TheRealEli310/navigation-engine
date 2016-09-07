@@ -1,0 +1,4 @@
+android app crashing setsupportactionbar 
+follow tutorial create tab view layout href http www android4devs make material design sliding tabs html rel nofollow http www android4devs make material design sliding tabs html app crashing inserting debug logs code found problem resided line mainactivity idea happening pasted entire mainactivity file activity main xml logcat 
+
+layout parent theme somenthing 

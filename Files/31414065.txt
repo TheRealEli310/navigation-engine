@@ -1,0 +1,4 @@
+lang nullpointerexception handler dispatchmessage 
+android programming sporadic error handler service log error code line buzonmapa init onbind service main activity onserviceconnected error hundred times find patron reproduce general flow ideas 
+
+found problem application crash reason service recreated automatically start sticky reference buzonmapa lost 

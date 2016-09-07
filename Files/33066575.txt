@@ -1,0 +1,4 @@
+load spring application context cucumber runner 
+goal running cucumber scenarios spring objects creation wiring understood cucumber books cucumber runner responsible loading application context long path configured properly runner class cucumber runner strong automatically strong scan initialize beans find strong wont strong load application context manually beans context head concept created basic configuration consists classes ol li runner class li li beans class class beans li li main class class beans defined beans class li ol moment approach doesnt work call method main class means context wasnt loaded missing configuration understanding supposed working wrong strong strong files package 
+
+resolved issue adding additional configuration class annotated class main class 

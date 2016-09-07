@@ -1,0 +1,4 @@
+extra decimal places excel reading 
+writing program mother display list prices based work decimals price set cell format excel decimals problem debugging program reading cell price adds zeros number written cell understand whats openoffice saving file excel file listino xls heres code title work price class made work relative price words cell writes 05423000000000001 util locale good idea info strong edit strong jxl api 
+
+found solution problem leggiexcel class check returning double cast string method return string setting cell format excel file decimals make mad approximation number set zeros end deleted numbercell check cell returning string works correctly whos helped finding solution 

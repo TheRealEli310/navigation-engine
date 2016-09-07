@@ -1,0 +1,4 @@
+change animationtimer speed 
+tasks animation changing pictures animation achieve needed speed put thread sleep animations running simultaneously affect speed change speed code sample 
+
+method invoked frame rendered fx application thread block thread call parameter passed method timestamp nanoseconds throttle updates dont happen milliseconds 

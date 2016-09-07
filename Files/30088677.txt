@@ -1,0 +1,4 @@
+simplest spring oauth2 configuration 
+recently built rest api spring consuming net client moment security implement oauth2 user rest api dont complicated simple spring security oauth2 configuration looked places examples xml date simply complicated pointers looked sparklr tutorial github repo complicated 
+
+found href https github spring projects spring security oauth tree master tests annotation rel nofollow https github spring projects spring security oauth tree master tests annotation 

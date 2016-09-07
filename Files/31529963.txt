@@ -1,0 +1,4 @@
+find element selenium button page press 
+press grid class button web page trouble html strong org openqa selenium nosuchelementexception strong 
+
+solution kind problems em switch iframe em element inside make em explicit wait em wait element present 

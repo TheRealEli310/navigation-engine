@@ -1,0 +1,4 @@
+getclass return 
+programmer picking trouble digesting getclass method greatly insights offer understanding href http stackoverflow dynamic cast javas getclass loosely related sense means end dynamic cast determine polymorphic types getclass determine objects derived class type dynamic cast back pointer getclass back class return type class em em represent pointer class 
+
+blockquote understanding javas loosely related blockquote href http en cppreference cpp language typeid rel nofollow operator provide comparison major difference requires class virtual function called objects type restrictions blockquote return type class represent blockquote represents href http docs oracle javase docs api lang class html rel nofollow object suitable em reflection em class direct counterpart determine interfaces class implements base class class list methods list fields call methods 

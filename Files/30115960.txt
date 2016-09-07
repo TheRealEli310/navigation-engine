@@ -1,0 +1,4 @@
+session httpsession validate ip addresses 
+session managed provided javas servlet api httpsession interface cookie jsessionid created cookie validate user created session servlet validate jsessionid machine created session xss cross site scripting attack steal session cookies users malicious user sends jsessionid back server retrieve contents session server validates ip user sending jsessionid 
+
+session created user ul li session id created server side li li session id browser request li li id stored cookie called jsessionid li li browser sends cookies subsequent request li li server session id server side validates cookies li li ip address checked subsequent request session identified jsessionid li ul 

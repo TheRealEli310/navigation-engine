@@ -1,0 +1,4 @@
+play cache cacheapi static method play framework 
+play framework application migrated run play framework providing restful api javascript html frontend problems introducing caching librarycontroller transforming json http request json http response librarymanager transforming domain model request domain model response problem injecting cache href https www playframework documentation javacache rel nofollow play cache api documentation didnt problem caching href https www playframework documentation javacache rel nofollow play cache api documentation version static method call make getbook static applying singleton pattern access cache sample code surely 
+
+make aware annotation remove static keyword methods pull interface inject interface controller congratulations decoupled integrated proper 

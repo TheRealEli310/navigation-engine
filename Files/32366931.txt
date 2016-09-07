@@ -1,0 +1,4 @@
+serve huge file streaming rest 
+spring web applications application1 application2 application1 endpoint href http application1 getbigcsv rel nofollow http application1 getbigcsv streaming order serve gigantic 150mb csv file back user hit url dont users hit application1 directly hit application2 method controller application2 worry streaming application1 streaming make application2 serving back data application1s rest endpoint streaming fashion method returning things streaming method application1 serving endpoint streaming 
+
+method signature shown produce csv file app1 streaming lets assume signature grab input stream app1 apache httpclient href https hc apache org httpcomponents client ga quickstart html entity method receive parameter block bytes consumed streamed free httpclient resources complete code href http mail archives apache org mod mbox hc httpclient users mbox 3c54e63896 40apache org 3e real world start reading interesting achieved 

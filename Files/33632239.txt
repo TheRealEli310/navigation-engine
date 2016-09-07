@@ -1,0 +1,4 @@
+tomcat oracle wallet configuration add oraclepki jar classpath 
+guide add oracle wallet support vaadin webapp href https sysapp wordpress oracle wallet jdbc thin driver datasource tomcat rel nofollow https sysapp wordpress oracle wallet jdbc thin driver datasource tomcat exception application exception add found oracle client distribution classpath add classpath methods ul li add li li add li li add classpath environment variable li ul actions made change reason 
+
+add jars worked ul li osdt cert jar li li osdt core jar li ul jars found oracle client distribution 

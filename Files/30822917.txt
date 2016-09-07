@@ -1,0 +1,4 @@
+representing linkedlists uml diagrams 
+wondering format represent state class inside uml diagram time 
+
+property multiplicity type string generally dont design linked list uml implement association 

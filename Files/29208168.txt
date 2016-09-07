@@ -1,0 +1,4 @@
+clear jobrepository ee batch processing 
+batch processing job web app requires parameter input job executes thousands times day parameters input cases unique jobrepository store parameters heap thousands executions blockquote lang outofmemoryerror gc overhead limit exceeded blockquote clear data jobrepository restarting wildfly server clean info executed jobs manualy app dont inrease heap size 
+
+found ansver info executions job lost garbage collector clean data jobs heap 

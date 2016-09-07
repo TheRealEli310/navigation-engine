@@ -1,0 +1,4 @@
+wsimport undeclared namespace prefix 
+blockquote wsimport href https api2 autotrade su api wsdl rel nofollow https api2 autotrade su api wsdl blockquote blockquote error undeclared namespace prefix ns2 line href https api2 autotrade su api wsdl rel nofollow https api2 autotrade su api wsdl error undeclared namespace prefix ns2 line href https api2 autotrade su api wsdl rel nofollow https api2 autotrade su api wsdl error undeclared namespace prefix nxsd line href https api2 autotrade su api wsdl rel nofollow https api2 autotrade su api wsdl error soap encoding supported soap extension element line href https api2 autotrade su api wsdl rel nofollow https api2 autotrade su api wsdl encoded blockquote service wsdl compatible solve problem 
+
+valid correct line simple misspelled xsd nxsd namespace map judging declarations namesp1 arrayofsomething 

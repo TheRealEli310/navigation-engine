@@ -1,0 +1,4 @@
+override hibernate lazy fetching fetch profile hibernate initialize 
+simple scenario places webapp showing list objects dont query details child objects show user single object edit query entire object hibernate default lazy fetching child objects list override fetch join runtime methods work dont mapping file querying default lazy user object hibernate initialize load lazy child object hibernate recognized child address object wasnt loaded initialize didnt load address fetch profile adding hibernate mapping file code u1 u2 objects address object filled hibernate recognizes fetch profile doesnt figure methods dont work work 
+
+feel bit stupid methods work results eclipse debugger session section code criteria method case debugger object data expected full object debugger strategies didnt happen ohers run test cases code back back object hibernate caching object debugger show meaningful 

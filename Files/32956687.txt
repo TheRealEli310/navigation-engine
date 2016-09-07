@@ -1,0 +1,4 @@
+docker run app 
+project directory structure executable jar contained web app running embedded jetty config file required startup build image builds successfully run image idea wrong fix troubleshoot 
+
+youre giving parameters single parameter distinct 

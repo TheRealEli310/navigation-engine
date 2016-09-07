@@ -1,0 +1,4 @@
+jersey jax rs rest openshift working local tomcat 
+pretty jersey rest follow tutorial href http javapapers restful web services jax rs jersey rel nofollow http javapapers restful web services jax rs jersey works locally tomcat deploy openshift simply found web xml resource href http localhost myproject api query rel nofollow http localhost myproject api query works fine openshift href http market domain rhcloud myproject api query rel nofollow http market domain rhcloud myproject api query href http market domain rhcloud api query rel nofollow http market domain rhcloud api query doesnt work deploy tomcat jboss gave error didnt find error log file resource simply doesnt exist wondering url wrong query rest ws immediately deploy advance 
+
+finally found war file problem maven build projects doesnt work export war eclipse generate war file resource found deploying 

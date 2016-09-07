@@ -1,0 +1,4 @@
+android setrequestedorientation activity views lifecycle 
+touble native code jni suspect due call setrequestedorientation activity call setrequestedorientation restarted destroyed destructor called memory released views oncreate view object recreated exist call findviewbyid view recreated screen rotated 
+
+setrequestedorientation view restarted href http developer android reference android app activity html setrequestedorientation int rel nofollow http developer android reference android app activity html setrequestedorientation int blockquote change desired orientation activity activity foreground impacting screen orientation screen immediately changed possibly causing activity restarted time activity visible blockquote rotate screen change orientation default android destroy recreate view href http developer android guide topics resources runtime html rel nofollow http developer android guide topics resources runtime html 

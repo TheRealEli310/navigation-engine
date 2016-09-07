@@ -1,0 +1,4 @@
+elasticsearch script lang supported groovy 
+upgrading elasticsearch dug successfully breaking api found groovy scripts script score dont work enabled dynamic scripting turning included groovy added jna mustache exceptions embedded elasticsearch starts configuration embedded server pre class lang prettyprint override execute query snippet function score functions loke pre class lang json prettyprint override execution throws debugging scriptmodule script engine groovy missing native mustache present tip 
+
+elasticsearch scripts engines externalized plugins install demand plugins discovered scanning folder embedded node choices ul li plugins folder copy lang groovy jar folder li li explicitly register groovy plugins create node li ul project 2nd case elasticsearch embedded osgi container wanted discover plugins classical classpath scanning kind things override create node pretty didnt find method elegant v2 

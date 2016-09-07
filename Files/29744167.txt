@@ -1,0 +1,4 @@
+count occurrence exact word file 
+requirement find times word appears file string count times word hell appeared count include hell hell words string count approaches 1st stringutils org apache commons lang3 library 2nd 3rd 1st approaches gave answer 3rd approach gave answer suggest answer fullfill requirement 
+
+word boundary matchers regex 

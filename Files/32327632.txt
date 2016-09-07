@@ -1,0 +1,4 @@
+displaying realtime data textview element 
+graphview library android application plot real time data coming sensor graph display current plotted graph textview code plotting data graphview generate simulate random values principle random values displayed time added appenddata graph textview element advance 
+
+create textview layout identifier xml property id reference code findview function reference change shows settext function appenddata function call static method directly inside addentry function pass view parameter call findview view object work 

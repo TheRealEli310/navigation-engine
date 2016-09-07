@@ -1,0 +1,4 @@
+jms queue objectname wildfly 
+number objects queue code found problem code class wildfly module required hornetq objectnamebuilder class source code implemented function error suggestion 
+
+facing similar problem details made difference running wildfly domain mode connect attention port remote connection important detail user user application type mgmt type user leave setting jmx domain xml running wildfly standalone mode port authentication required detail recover information key org hornetq module jms type queue jboss subsystem messaging hornetq server default jms queue ideally jconsole verify exact key 

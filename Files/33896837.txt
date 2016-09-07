@@ -1,0 +1,4 @@
+accountmanager context getaccounts returning securityexception 
+understanding accountmanager context getaccounts return securityexception require permissions documentation clients method granted accounts permission accounts managed abstractaccountauthenticators signature matches client href http developer android intl ko reference android accounts accountmanager html getaccounts rel nofollow http developer android intl ko reference android accounts accountmanager html getaccounts reads havent accounts fine app crashing calling method exception caller uid lacks android permission accounts happen 
+
+app lacks matching permission manifest add androidmanifest xml edit android request runtime href http developer android training permissions requesting html rel nofollow http developer android training permissions requesting html blockquote accounts access list accounts accounts service protection level dangerous blockquote 

@@ -1,0 +1,4 @@
+counting number comparisons moves made sorting 
+insertion sort wondering number comparisons made number moves made calculated properly comparisons number times values compared moves number elements moved swap numbers moves 
+
+problem loop condition actual comparison result false causing break loop located inside loop skipped count comparisons precisely small reformat required 

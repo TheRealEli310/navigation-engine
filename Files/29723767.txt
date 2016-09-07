@@ -1,0 +1,4 @@
+jaxb marshall properties 
+jaxb figure marshal marshal assume wont work properties classes manage getters setters work case code snippet output xml snippet creating variables leaving uninitialized tested settings marshalling reason real object store add listeners settings single setting things rely update automatically 
+
+strong xmlaccessortype xmlaccesstype field strong means class fields marschal unmarshal values change strong xmlaccessortype xmlaccesstype property strong put strong xmlelement strong getter property documentation href https docs oracle javase docs api javax xml bind annotation xmlaccesstype html rel nofollow xmlaccesstype code sipped 

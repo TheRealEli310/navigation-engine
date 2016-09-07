@@ -1,0 +1,4 @@
+hibernate unable locate constructor class hql 
+execute hql return object receive error blockquote error org hibernate hql parser http localhost unable locate constructor class br cdv model entity ponto org hibernate propertynotfoundexception constructor class br cdv model entity ponto blockquote dao entity class control view error br receive object ponto list obs returns list ponto unidentified objects 
+
+check things make constructor parameters provide constructor parameters explicity make id entity int integer make entity io serializable implementing make parameter default constructor public default access modifier 

@@ -1,0 +1,4 @@
+prevent joda time throwing exception brazilian dst transition period 
+today brazilian users generating plenty crash reports tracked code throws joda exception exception os joda time work correctly datetime instance representing time current day em offset em milliseconds start day 
+
+dont localtime create datetime add offset milliseconds 

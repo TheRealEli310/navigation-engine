@@ -1,0 +1,4 @@
+spring dao immutable objects 
+definition immutable object href http stackoverflow questions immutable objects question pretty making setters spring dao assure immutability instance datasource property case wrong whats assure immutability spring framework ioc 
+
+implementation href http grepcode file repo1 maven org maven2 org springframework spring org springframework jdbc core support jdbcdaosupport jdbcdaosupport rel nofollow jdbcdaosupport find final override method means spring handle life cycle beans manually create instance 

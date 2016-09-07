@@ -1,0 +1,4 @@
+convert date time string input formatted date time string joda date time 
+wrote function convert date time string formatted date time string return result input date time string put date time string function working fine formatting string convert functionality error message strong function joda date time strong input date time string strong em put date time em strong mistake 
+
+fyi href http www joda org joda time apidocs org joda time format datetimeformat html rel nofollow datetimeformat 

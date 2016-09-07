@@ -1,0 +1,4 @@
+sql timestamp zoneoffset mismatch time 
+sql timestamp adding local timezone conversion 
+
+code prints admittly unexpected add outputs values thing local time zone applied printed systems time zone prints question important personally important 

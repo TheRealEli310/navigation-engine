@@ -1,0 +1,4 @@
+threads mutual exclusion 
+classes represent banking system class monitor bankaccount class thread called user class thread called manager main method achieve user1 user2 start withdrawing money number times lets user1 starts money wait manager deposits deposit times likethis money user1 resumes withdrawing money finishes user2 starts withdrawing money issues make user1 user2 thread run posible make thread wait execute resume waiting make user1 wait execute manager resume user1 execute remaining user 
+
+mistakes ol li balance thread threads alter withdraw depositmoney methods mutex reenterantlock href http stackoverflow users bot bot explained li li execution ended wait withdraw depositmoney avoid call notifyall withdraw deposit li ol sample code suggested alterations 

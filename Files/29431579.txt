@@ -1,0 +1,4 @@
+spring boot app deploy glassfish 
+vanilla spring boot app consists pom xml deploy tomcat works fine deploy glassfish server error ideas wrong spring glassfish bug 
+
+bug glassfish href https net jira browse glassfish rel nofollow glassfish adding blockquote metadata complete true jar files web inf lib doesnt scanned servlet specific annotations webapps classes scanned blockquote ul li href http stackoverflow questions spring boot glassfish spring boot glassfish li li href http stackoverflow questions spring boot app deployed glassfish giving strange results spring boot app deployed glassfish giving strange results li li href https github spring projects spring boot issues rel nofollow deploy simple project glassfish li li href https spring io blog deploying spring boot applications rel nofollow spring io blog deploying spring boot applications li ul 

@@ -1,0 +1,4 @@
+nettyio correctly removing channels 
+problem netty correctly removing channel disconnected handlerremoved method reconnect client server error handler stopping client handleradded method main server handlerremoved method executed checked printing method 
+
+add handler sharable create instance 

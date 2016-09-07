@@ -1,0 +1,4 @@
+locking structure pattern 
+difference technical perspective listings provided doc href http docs oracle javase docs api util concurrent locks lock html rel nofollow lock mine 
+
+reason found href http docs oracle javase docs api util concurrent locks lock html unlock rel nofollow javadoc documentation blockquote implementation considerations lock implementation impose restrictions thread release lock typically holder lock release strong throw unchecked exception restriction violated strong restrictions exception type documented lock implementation blockquote similarly fail unchecked exception means em locking em fails needlessly throw exceptions locking fails lost mention depending em implementation em lock version end unlocking lock good thing 

@@ -1,0 +1,4 @@
+super tostring method base class 
+question reason write super tostring base class returns code supposed return beginner 
+
+class person extend parent class define method tostring parent class class object native method class string consisting class object instance sign unsigned hexadecimal representation hash code object recommended classes subclasses class object override method 

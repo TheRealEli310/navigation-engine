@@ -1,0 +1,4 @@
+maven build find symbol accessing project lombok annotated methods 
+project lombok time problems compiling project maven run build receive errors methods annotated project lombok annotations called annotated parameter line maven breaks build maven dependency maven error 
+
+downgraded lombok version works maven build havent found verson working 

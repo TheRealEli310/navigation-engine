@@ -1,0 +1,4 @@
+retrofit returns null values 
+retrofit noob android json response movie model retrofit interface code activity thinks json response superior instance dont work code dont response correct 
+
+problem json parser expecting named root object wrapping movie data json change json server returns remove outer object alter servers response ways handle client side id simply create object map outer json object leaving existing movie class add change retrofit call movieresponse movie refer 

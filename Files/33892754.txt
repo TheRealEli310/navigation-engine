@@ -1,0 +1,4 @@
+unit test custom jackson jsonserializer 
+wrote href https github fasterxml jackson databind rel nofollow jackson serialize array integers json class test behavior serializer strong strong written wrong 
+
+blockquote method called flush buffered content underlying target output stream writer flush target br href http fasterxml github io jackson core javadoc fasterxml jackson core jsongenerator html flush rel nofollow http fasterxml github io jackson core javadoc fasterxml jackson core jsongenerator html flush blockquote 

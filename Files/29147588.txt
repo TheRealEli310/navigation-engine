@@ -1,0 +1,4 @@
+domain driven design entities objects 
+type modeled ddd entity object 
+
+ddd modelled types objects blockquote strong domain event strong domain object defines event domain event happened domain experts care strong service strong operation conceptually belong object natural contours problem implement operations services strong repository strong methods retrieving domain objects delegate specialized repository object alternative storage implementations easily interchanged strong factory strong methods creating domain objects delegate specialized factory object alternative implementations easily interchanged blockquote 

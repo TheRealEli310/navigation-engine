@@ -1,0 +1,4 @@
+threadmonitor wsvr0605w thread webcontainer 000005bb active milliseconds hung 
+production environment frequently thread hung error message log started hanging thread onward means pdf generation stops working batch running stops running batch job generate pdf send provided emailid root error code working fine uat sit environment 
+
+circumstances unsynchronized hashmap infinite loop occur concurrent put rehash map case unsynchronized hashmap concurrent thread calling put method hashmap caused infinite loop method thread hung observation 

@@ -1,0 +1,4 @@
+performance optional 
+stumbled optional class approach replacing null checks literally means present code ispresent method calls question wouldnt lower performance code guessing simple null checks bit cheaper good byte code reading interpretation interested thoughts topic 
+
+normal generic class reference type adds single layer indirection method calls wont expensive class dynamic dispatch avoided place performance problems working large numbers instances performance bad working large amounts primitive values youll find performance hit versus primitive specialization due layer indirection requiring frequent instantiation objects penalty pay things experience hit optionalint basically class field flag presence unlike make field similar bigger size add em em levels indirection double performance penalty 

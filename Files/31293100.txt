@@ -1,0 +1,4 @@
+pattern compile ignoring escaped double quotes 
+hard time figuring pattern ignore escaped quotes match 
+
+regex href https regex101 iq9ps6 rel nofollow demo 

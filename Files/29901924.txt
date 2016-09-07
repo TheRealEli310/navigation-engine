@@ -1,0 +1,4 @@
+filealreadyexistsexception multipleoutputs 
+hadoop ubuntu multipleoutputs class jobs run properly small data lines input running data lines called big bigger task failed throw exception running nodes fully distributed mode double check hdfs running jobs existed file suggestion 
+
+initializing multipleoutputs inside reduce method small input reduce method called facing issue reduce method called multiple times task keys multiple output intitalized multiple times giving error initialize multipleoutput inside configure method comment combiner class 

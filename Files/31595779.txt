@@ -1,0 +1,4 @@
+customizing ldapuserdetails spring security release 
+building spring boot app spring security ldap authentication add person object custom ldapuserdetails object accessed controller trouble calling custom ldapuserdetails object implementation ldapuserdetails userdetailsserviceimpl class implementation userdetailsservice finally controller error calling debugging called dirxuserdetailsimpl dirxuserdetails returned spring security call controller returns ldapuserdetailsimpl object dirxuserdetails object looked spring security release docs spring security articles couldnt find access dirxuserdetails controller 
+
+wrong userdetailsservice spring securitys ldapauthenticationprovider create userdetails implementation ldapuserdetailsmapper code solved issue set userdetailsmapper spring security config file 

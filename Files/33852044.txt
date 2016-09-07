@@ -1,0 +1,4 @@
+read aws s3 spark application anymore 
+upgraded apache spark caused access keys spark submit worked error class method means dependencies mismatched jets3t method rests3service lorg jets3t service security awscredentials explain 
+
+problem spark scala reason error spark core hadoop client version spark cluster installation make work ol li change hadoop client dependency version hadoop li li include hadoop aws library spark fat jar dependency longer included hadoop libraries li li export aws key secret environment variables li li hadoop configuration sparkconf li ol 

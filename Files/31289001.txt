@@ -1,0 +1,4 @@
+type boolean mime media type application octet stream found jersey 
+jersey version facing error code googling error found due content type data sending jersey locate messagebodywritter serialize added produces anotation method doesnt work changed return type method started working simply whats problem boolean working boolean solve problem changing boolean string greatly appreciated 
+
+code methods returns jersey http response building string boolean hope helps cris 

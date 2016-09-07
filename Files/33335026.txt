@@ -1,0 +1,4 @@
+spring websocket security multiple users 
+websocket spring application contact requests setup login page users spring security problem securely send web socket messages users broadcast messages user subscribed topic broadcast message user username stored principal problem handle target users request make secure listen channels client side authorized ideally 
+
+spring websocket handles user channel methods solved problem user authenticates spring security websocket module creates unique channel user based principal translated client side subscribe server side send messages spring handles rest 

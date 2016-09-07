@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nodes snapping to colored clusters</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+<style>
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+ accepted
+	
+
+
+#wrapper {
+    width: 1200px;
+    border: 1px solid black;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 300px;
+    float:left; /* add this */
+    border: 1px solid red;
+}
+#chart {
+    border: 1px solid green;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+</style>
+<div id="wrapper"> <h2>Drag all the balls in any of the shaded region so that we can know your interests</h2>
+<div id="first"><table id="table" class="legend"><thead><tr><td></td><td><b>Categories of Topics for You</b></td></tr></thead><tbody><tr><td><svg height="16" width="16"><rect fill="#FFE5CF" height="16" width="16"/></svg></td><td>Core Java</td><td class="cj-legendFreq"></td><td id="cj-legendPerc">0%</td></tr><tr><td><svg height="16" width="16"><rect fill="#F7D4D4" height="16" width="16"/></svg></td><td>Advance Java</td><td class="aj-legendFreq"></td><td id="aj-legendPerc">0%</td></tr><tr><td><svg height="16" width="16"><rect fill="#D2E4F0" height="16" width="16"/></svg></td><td>Data Structures</td><td class="ds-legendFreq"></td><td id="ds-legendPerc">0%</td></tr><tr><td><svg height="16" width="16"><rect fill="#D5ECD5" height="16" width="16"/></svg></td><td>Others</td><td class="others-legendFreq"></td><td id="others-legendPerc">0%</td></tr></tbody></table></div>
+   <div id="chart"  >
+   <form action="getUserInfo" method="post">
+   <input type="text" style="visibility:hidden;" name="aj" id="aj" value="">
+   <input type="text" style="visibility:hidden;" name="cj" id="cj" value="">
+   <input type="text" style="visibility:hidden;" name="ds" id="ds" value="">
+   <button type="submit" class="btn" > Next</div>
+</form>
+</div>   
+
+    <script type="text/javascript">
+
+        var w = 750,
+            h = 500,
+            count = 30,
+            fill = d3.scale.category10();
+        nodes = d3.range(count).map(Object);
+
+        var groupPath = function (d) {
+            return "M" +
+              d3.geom.hull(d.map(function (e) { return [e.x, e.y]; }))
+                .join("L")
+            + "Z";
+        };
+
+        var groups = [];
+        groups.init = function () {
+            groups.a = Math.min(w, h);
+            groups.r = groups.a * 0.20;
+            for (i = 0; i < 4; i++) {
+                var g = [];
+                g.groupId = i;
+                g.x = w / 2;
+                g.y = h / 2;
+                var k = 0.25 * groups.a;
+                g.x += i & 2 ? k : -k;
+                g.y += i & 1 ? k : -k;
+
+                for (j = 0; j < 5; j++) {
+                    var alpha = (2 * Math.PI * j / 5); 50
+                    var dummy = { x: g.x + 10 * Math.sin(alpha), y: g.y + 10 * Math.cos(alpha) };
+                    g.push(dummy);
+                }
+                groups[i] = g;
+            };
+        }
+
+
+        groups.snap = function (d) {
+
+            function change(d, to) {
+                if (d.groupId != null) {
+                    var oldGroup = groups[d.groupId];
+                    var index = oldGroup.indexOf(d);
+                    if (index >= 0) {
+                        oldGroup.splice(index, 1);
+                    }
+                }
+
+                if (to == null) {
+                    d.groupId = null;
+                } else {
+                    d.groupId = to.groupId;
+                    to.push(d);
+                }
+            }
+
+            groups.forEach(function (g) {
+                var distance = Math.sqrt(Math.pow(d.x - g.x, 2) + Math.pow(d.y - g.y, 2));
+                if (distance < groups.r) {
+                    if (d.groupId != g.groupId) {
+                        change(d, g);
+                    }
+                } else {
+                    if (d.groupId == g.groupId) {
+                        change(d, null)
+                    }
+                }
+            });
+        }
+
+        groups.delta = function (d) {
+
+            function massCenter(g) {
+                var x = 0, y = 0;
+                g.forEach(function (e) {
+                    x += e.x;
+                    y += e.y;
+                });
+                return { x: x / g.length, y: y / g.length };
+            }
+
+            if (d.groupId == null) return 0;
+            var g = groups[d.groupId];
+            var massCenter = massCenter(g);
+            var delta = {
+                x: g.x - massCenter.x,
+                y: g.y - massCenter.y
+            }
+            return delta;
+        }
+
+        groups.init();
+
+
+        var nodeFill = function (n) { return n.groupId != null ? fill(n.groupId) : "lightgray"; };
+
+        var vis = d3.select("#chart").append("svg")
+            .attr("width", w)
+            .attr("height", h);
+
+
+        var force = d3.layout.force()
+            .nodes(nodes)
+            .links([])
+            .size([w, h])
+            .start();
+
+        var node = vis.selectAll("circle.node")
+            .data(nodes)
+          .enter().append("circle")
+            .attr("class", "node")
+            .attr("cx", function (d) { return d.x; })
+            .attr("cy", function (d) { return d.y; })
+            .attr("r", 8)
+            .style("fill", nodeFill)
+            .style("stroke", function (d, i) { return d3.rgb(nodeFill).darker(2); })
+            .style("stroke-width", 1.5)
+            .on("mousemove", groups.snap)
+            .call(force.drag);
+
+        vis.style("opacity", 1e-6)
+          .transition()
+            .duration(1000)
+            .style("opacity", 1);
+
+        var group = vis.selectAll("path")
+            .data(groups)
+              .attr("d", groupPath)
+            .enter().insert("path", "circle")
+              .style("fill", nodeFill)
+              .style("stroke", nodeFill)
+              .style("stroke-width", 40)
+              .style("stroke-linejoin", "round")
+              .style("opacity", .2)
+
+        force.on("tick", function (e) {
+
+            nodes.forEach(function (o) {
+                if (o.groupId == null) return;
+                o.x += groups.delta(o).x * .3;
+                o.y += groups.delta(o).y * .3;
+            });
+
+            node.attr("cx", function (d) { return d.x; })
+                .attr("cy", function (d) { return d.y; })
+                .style("fill", nodeFill);
+
+            group.attr("d", groupPath);
+        });
+		
+		group.on('mouseover', function(d){
+  //console.log(this.getAttribute("d").split(",").length);
+  this.getAttribute("d");
+  var ds=0;
+  var cj=0;
+  var aj=0;
+  var others=0;
+  var sections = document.getElementsByTagName('circle');
+for(var i = 0; i < sections.length; ++i) {
+  var element=window.getComputedStyle(sections[i]);
+  var top = element.getPropertyValue('fill');
+	    	//console.log(top);
+
+	if(top.indexOf("rgb(31,")>=0)
+	++ds;
+	else if(top.indexOf("rgb(255,")>=0)
+	++cj;
+	else if(top.indexOf("rgb(214,")>=0)
+	++aj;
+	else if(top.indexOf("rgb(44,")>=0)
+	++others;
+	
+	
+}
+var total = ds+cj+aj+others;
+if(total>0)
+{
+
+var td = document.getElementById('cj-legendPerc');
+	td.textContent= Math.round((cj/total)*100)+"%"
+	td = document.getElementById('ds-legendPerc');
+	td.textContent= Math.round((ds/total)*100)+"%"
+	td = document.getElementById('aj-legendPerc');
+	td.textContent= Math.round((aj/total)*100)+"%"
+	td = document.getElementById('others-legendPerc');
+	td.textContent= Math.round((others/total)*100)+"%"
+	
+	
+	 document.getElementById('aj').value=aj;
+	 document.getElementById('cj').value=cj;
+	 document.getElementById('ds').value=ds;
+}
+
+//alert(others);
+});
+    </script>
+	
+</body>
+</html>

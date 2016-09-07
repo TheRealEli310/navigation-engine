@@ -1,0 +1,4 @@
+suitable driver found jdbc sql server 
+building gwt program server side connects database named thedatabase tested code running project worked beautifully running part gwt project error function connect database code call error 
+
+server side dependencies folder em war em folder put devmode classpath 

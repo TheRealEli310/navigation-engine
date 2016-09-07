@@ -1,0 +1,4 @@
+glgentextures returns opengl context thread android 
+problem gles20 glgentextures returning texture run original thread opengl context thread run code glgentextures returns valid occurring similar href http stackoverflow questions glgentextures returns background thread glgentextures returns background thread case code running opengl context thread 
+
+figured turns original thread activitys main looper results 

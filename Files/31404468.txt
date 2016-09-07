@@ -1,0 +1,4 @@
+install maven repository pom xml file netbeans 
+manually install maven netbeans find pom xml find netbeans services show maven repository add dependency maven 
+
+creating javafx jfxrt jar present default classpath jdk external modification run javafx application things handy ul li make project running jdk add href https maven apache org plugins maven compiler plugin rel nofollow set href https maven apache org plugins maven compiler plugin examples set compiler source target html rel nofollow source target li li maven strong strong pick fxml files add add files directory em fmxl files inside em li li packaging deploying application href https github javafx maven plugin javafx maven plugin rel nofollow javafx maven plugin short tutorial found href http stackoverflow questions javafx maven app run doesnt show answer li ul 

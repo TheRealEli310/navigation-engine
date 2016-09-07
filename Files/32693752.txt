@@ -1,0 +1,4 @@
+apache spark javasparkcontext converted sparkcontext error 
+considerable difficulty translating spark examples runnable code evidenced previous question href http stackoverflow questions apache spark machine learning estimator work answers provided helped experiment href http spark apache org docs latest ml ann html tab rel nofollow multilayer perceptron straight encountering errors pre class lang prettyprint override error pre class lang sh prettyprint override 
+
+sparkcontext javasparkcontext static method modify code 

@@ -1,0 +1,4 @@
+cacheable spring data repositories 
+methods mark spring repository mine methods 
+
+youre suggest youre directly em good idea include code question em reference documentation explains basics working interface repository interfaces spring data matter fact href http docs spring io spring data data mongo docs release reference html repositories core concepts rel nofollow core concepts blockquote em em interface acts primarily marker interface capture types work discover interfaces extend em em blockquote custom repository based href https github spring projects spring data jpa examples blob master spring data jpa src main org springframework data jpa repository caching cachinguserrepository rel nofollow official included comments 

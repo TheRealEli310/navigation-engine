@@ -1,0 +1,4 @@
+android simpledateformat returning incorrect time midnight 1am 
+solved found midnight 1am device returns time hour hours day returns correctly weirdly returns correctly resulting string code running instance matches hardcoded string return 1am return wrong wrong greatly appreciated update changing code results problem unrelated timezone 
+
+problem lay tablets extra sensors built accessed messed internal clock 

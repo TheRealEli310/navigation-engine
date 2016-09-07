@@ -1,0 +1,4 @@
+timers change ui 
+make simple clock updates lower cost cpu originally loop gui essentially froze thing caused crash error shown console looked ways send commands specific intervals code results crashes program eclipse easily obtainable swt gui editor build program part problem question essentially fix swt work 
+
+called swt method accepts runnable execute amount miliseconds passed snippet runnable schedules itslef actual work order cancel scheduled runnable call 

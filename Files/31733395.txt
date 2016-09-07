@@ -1,0 +1,4 @@
+prevent cassandra commit logs filling disk space 
+running node datastax ami cluster aws yesterday cassandra started refusing connections system logs showed em lot em tinkering discovered commit logs filled disk space allotted mount causing connection refusal deleted commit logs restarted connect datastax ami cassandra decide wipe restart scratch ensure happen 
+
+lowering setting default 8192mb bit systems commented file youll comment setting good idea plan sizing disk verify running commitlog directory smaller commit log space frequent flushes increased disk youll eye 

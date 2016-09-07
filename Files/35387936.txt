@@ -1,0 +1,4 @@
+greenbot eventbus difference onevent oneventmainthread oneventbackgroundthread oneventasync 
+bit confused usage href http greenrobot org eventbus rel nofollow greenrobots eventbus href http greenrobot org eventbus documentation delivery threads threadmode rel nofollow documentation ul li default li li li li li li li ul case event posted background thread behavior throws thread posting thread background thread tests version annotation required dont understand case methods facilitate upgrade eventbus 
+
+found answer opposed eventbus method important eventbus annotations favor reflection work keeping question spare time question 

@@ -1,0 +1,4 @@
+lang nullpointerexception butterknife fragment 
+butterknife fragment missing boiler plate code declare works error complete stacktrace 
+
+bind fragment activity 

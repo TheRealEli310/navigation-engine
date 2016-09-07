@@ -1,0 +1,4 @@
+android toolbar working properly 
+set toolbar applications activities crashes everytime activity missing havent toolbar confused heres code activity xml file activity 
+
+xml file replace code referring support version 

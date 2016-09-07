@@ -1,0 +1,4 @@
+collapsingtoolbarlayout title disappears actionbarlayout initially collapsed 
+app scroll app bar collapsed title disappear dont show expanding app bar heres strong gif strong animation problem strong href http imgur yeqbugu gifv rel nofollow animation gif strong heres xml strong activity main xml strong strong app bar main strong set title programmatically 
+
+strong bug strong href https code google android issues detail id rel nofollow chris banes workaround issue expected fixed future release design support library comment temporary workaround dont handle title add textview animate scaling translating custom title view adding onoffsetchangedlistener appbarlayout collapsingtoolbarlayout listener offset compute relation source target height text size text sizes set manually textappearance styles strong em edited em strong confirmed issue fixed latest support library version strong v23 strong 

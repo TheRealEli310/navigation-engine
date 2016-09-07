@@ -1,0 +1,4 @@
+type 
+solutions online make sense type variable type makes system inherited classes create objects manner strong type strong firstpq cast access classs exclusive methods akin 
+
+options ol li reflection li li li li visitor pattern li ol examples attempt find type variable object referenced type hr strong reflection strong couple ways idea code returns reference object instantiate object compare reference checks object passed method instance class calling return null null check needed requires casting perform operations object hr strong instanceof strong simple part language specification returns null requires casting perform operations object hr strong visitor pattern strong explained detail href http stackoverflow questions avoid instanceof implementing factory design pattern answers charge handling deeper pattern situation overkill require casting 

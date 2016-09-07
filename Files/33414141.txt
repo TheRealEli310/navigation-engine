@@ -1,0 +1,4 @@
+flink streaming output data stream outputs depending data 
+apache flink stream tuples lets assume simple tuple arbitrary field p1 p2 set values finite dont full set p362 write tuple output location depending inside tuple file structure ul li li li li ul documentation found possibilities write locations letting contents data decide data ending read output splitting documentation doesnt provide redirect output destinations dont understand work flink api party library build thing strong update strong matthias suggestion sifting sink function determines output path writes tuple respective file serializing put reference 
+
+implement custom sink inherit ul li li li li ul program 

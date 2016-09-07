@@ -1,0 +1,4 @@
+ant task debugging working undefined 
+id attach netbeans program writing debugging added debug target ant file expectation launch debugger port netbeans attach worked point past messed find error syntax simply start program debugger starts program ends printed terminal compile task included debug options heres debug task including line numbers line ant complains undefined 
+
+nested inside task call 

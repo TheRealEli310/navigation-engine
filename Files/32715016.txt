@@ -1,0 +1,4 @@
+changing deque elements 
+made deque class methods make method change elements deque edit left start iterator 
+
+implemented double linked list simplest support step links reach node change 

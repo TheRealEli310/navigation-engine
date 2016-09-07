@@ -1,0 +1,4 @@
+spring boot opencv 
+opencv spring boot project deployed tomcat server war file matter classic maven project tested opencv code works fine long put project classpath thing added jar classpath spring boot project added directory order make application server opencv tomcat end wits edit loading open cv core library inside junit test loads correctly thing running appliation tomcat exception 
+
+talking jar file appears jar file loaded correctly error message appears opencv native libraries files find expecting property point location native library solve eclipse amp tomcat find set property tomcat view property place native library location quick check place remember windows osx linux unix file strong strong jar file 

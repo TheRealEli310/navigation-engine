@@ -1,0 +1,4 @@
+skip character scanner 
+read words text file read words matrix skip reading quotation mark starts txt file result console skip quotation mark doesnt work 
+
+strings immutable means change state doesnt change string invoked creates replaced data store reference stored original string hr setting delimiter doesnt make sense method line separators delimiters make scanner delimiter method delimiter represent create regex code 

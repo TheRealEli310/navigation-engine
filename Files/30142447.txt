@@ -1,0 +1,3 @@
+center content webview 
+part app loads image webview url settings webview relevant part layout xml problem image smaller height screen appears aligned top webview align center doesnt work time idea appreciated advance edit css doesnt work image displayed centered vertically edit2 bojan ksenemans solution working wrong removed line fixed problems handling case 
+

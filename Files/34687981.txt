@@ -1,0 +1,4 @@
+import gson json android studio maven 
+problem importing google gson maven errors build gradle project build gradle module app fix problems successfully import google code gson gson android studio project newer android studio put perspective time maven android studio time maven general 
+
+change project gradle top level build file add configuration options common projects modules 

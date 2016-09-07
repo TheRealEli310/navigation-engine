@@ -1,0 +1,4 @@
+powermockito mocking static method fails calling method parameter 
+test class calculator class number static methods successfully mocked class similar proving stubborn mocked method method call passed arguments static method mocked test breaks removing internal call option missing heres condensed version behaves heres test confusion question contrived realistic adds level indirection doesnt testing mocked method directly smallcalculator class unchanged heres test class 
+
+found answer href https blog codecentric de en testing mocking static methods rel nofollow https blog codecentric de en testing mocking static methods heres final code works tested approach original code contrived works great simples 

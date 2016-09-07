@@ -1,0 +1,4 @@
+postgresql search path multi tenancy 
+developing multi tenancy web application postgresql database support schemas database instance stuck problem setting search path tenant javaee wildfly created multitenantconnectionprovider datasourceconnectionprovider loading configured datasource method retrieveing connection set search path tenantid tests returning tenantid customer1 postgres created user database schema customer1 entity defined created table schema customer1 problem select statement table user returning user table explicitly set schema table query wrong table statement returns statement returns option schema query determined runtime jpa insert schema runtime query execution expected search path sufficient querying data 
+
+found problem setup postgresql keyword tables created user escaped quotes changed table queries work expected 

@@ -1,0 +1,4 @@
+rxjava make fetch reuse observable 
+app launch retrofit observable fetches users username server subsequent subscriber time call subscribe fetched network username isnt change apps lifecycle recreating observable object instantiating work create observable fetch username save observable subscribe saved fetching wait fetched 
+
+elaborate davids correct answer heres code illustrates results expensive 

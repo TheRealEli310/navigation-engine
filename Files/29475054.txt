@@ -1,0 +1,4 @@
+compiled classes missing war file 
+working simple jsf application trouble managed beans errors bean found looked war didnt compiled beans pom xml remove webcontent folder warsourcedirectory rest project war file doesnt file generated eclipse assume web inf classes folder empty project folder structure compiled war files structure packaged war file compiled bean 
+
+problem standard eclipse web tools completely directory layout apache maven web applications library dependencies easiest fix change project maven conventions import project webapp compilation errors point pom xml file appears dependencies minimum finally circumstance pom xml file version eclipse older years plugin compatible maven integration built eclipse goal deleting eclipse project configuration 

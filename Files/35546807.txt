@@ -1,0 +1,4 @@
+compiler give error addition operation 
+compiler implicit type conversion integer literals compiler error range overflows compiler error variable passed expression conclusion result expression involves variables guaranteed resulting byte range compiler throws error puzzles compiler throw error put give error 
+
+answer provided href https docs oracle javase specs jls se8 html jls html jls rel nofollow jls blockquote code correct results equivalent blockquote latest case work addition assignment operator assignment performs implicit cast left hand type case extending equivalent compile happily 

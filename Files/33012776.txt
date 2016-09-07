@@ -1,0 +1,4 @@
+createdatabaseifnotexist true working properties file maven project 
+maven project connects database exists wanted change database doesnt exist created added extra code line lot errors question extra configuration missing order createdatabaseifnotexist true adding port number didnt make difference didnt expect properties file 
+
+check href http stackoverflow questions hibernate creating database mysql hibernate creating database mysql hope helps kind errors 

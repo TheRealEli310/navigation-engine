@@ -1,0 +1,4 @@
+play framework compile application option xlint unchecked 
+build application play framework message add option compile 
+
+building application simple youre sbt work href http www scala sbt org release docs basic def examples html rel nofollow heres fuller javacoptions 

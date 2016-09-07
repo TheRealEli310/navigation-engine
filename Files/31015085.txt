@@ -1,0 +1,4 @@
+chaining steps spring batch 
+reading spring documentation spring batch project box configuration chain steps means output step input step flows execute exit item processor step input mind normal step reader processor writer create flat file reader reader step inefficiently write objects jvm restore reader spring normal config jsr work 
+
+multiple steps multiple chain chain href http docs spring io spring batch trunk apidocs org springframework batch item support compositeitemprocessor html rel nofollow edit reading spring batch strategies dont found box configuration xml chain steps kind pipeline option fit itemprocessoradapter run logic steps href http docs spring io spring batch trunk reference html readersandwriters html rel nofollow compositeitemprocessor make chain 

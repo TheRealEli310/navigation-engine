@@ -1,0 +1,4 @@
+rxjava single background thread scheduler 
+fairly rxjava dumb question describe scenario code running ui thread update images images important consume bit resources generating generate single thread ui thread generate guessing trampoline scheduler problem work ui thread thread write thread queue items processes thought rxjava simple solution current code log ui thread true make code subsequent attempts thing run single thread ui thread order writing bunch code queue work 
+
+create single reusable thread create ways ul li create pool size convenient static factory method generate schedulers method li li href https github reactivex rxandroid rxandroid custom implementation schedule actions running passing factory method li ul observe main thread youre interacting ui conclusion tasks 

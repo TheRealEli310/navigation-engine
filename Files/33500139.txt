@@ -1,0 +1,4 @@
+stuck writting jcsp channel 
+simple strong jcsp strong communicating sequential processes code sample write integer em one2oneint em channel read written channel program running strong written strong printed 
+
+learned implementation stated href https docs oracle javase docs api util concurrent synchronousqueue html works similar work helped realize wrong code simply put channel process strong processes strong communicate similarly wait process call wait called difference objects objects written red conversely call directly instance personally find easier understand relates popular youre interested made code work jcsp 

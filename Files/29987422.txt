@@ -1,0 +1,4 @@
+throw exception numeric overflow 
+throw sort runtime exception integer overflow occurs failing silently print due overflow wd sort runtime exception 
+
+starting href https docs oracle javase docs api lang math html multiplyexact int int exact method throw exception lang arithmeticexception integer overflow overflow 

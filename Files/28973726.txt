@@ -1,0 +1,4 @@
+creating tcp protocol 
+bit network socket programming created simple client server application connect users enter messages talk create protocol game make game involves lights server protocol send client values depending values light turn turn light protocol work client button pressed string back server strings checked match user point trouble begin major knowledge creating protocols pointed direction send binary string client server considered protocol 
+
+protocol send server server understands responds appropriately solid application level protocol context game protocol handle error cases invalid dont worry things server message tcp handles dont depth complication tcp 

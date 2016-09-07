@@ -1,0 +1,4 @@
+handle windows unicode 
+http request byte array encoded utf decode byte array decoded char represents letter unicode problem char stands en dash windows represents control character called unicode interpreting char unicode invisible character strong question strong correctly decode byte array unicode advance 
+
+server confuses iso latin encoding proprietary windows code page encoded data result windows code page differs places iso latin fix data converting back bytes server wrongly assumed latin interpret cp1252 

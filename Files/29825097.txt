@@ -1,0 +1,4 @@
+cluster state solr cloud solrzkclient zkstatereader 
+downloaded installed solr solrcloud local system run problems index documents interact web ui command line interact zookeeper returns information solrcloud similar set information programmatically href http lucene apache org solr solr solrj org apache solr common cloud zkstatereader html getclusterstate rel nofollow zkstatereader getclusterstate returns log output missing information 
+
+solrcloud cluster state output collection 2shards 

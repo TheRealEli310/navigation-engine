@@ -1,0 +1,4 @@
+length equals check empty string 
+difference code optimization length equals check empty string true 
+
+internally checks length heres implementation class compares length 

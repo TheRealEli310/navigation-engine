@@ -1,0 +1,4 @@
+access httpservletrequest httpservletresponse spring service 
+emailservice implementation ny spring boot project send email javamailsender service access httpservletrequest httpservletresponse order instantiate webcontext passing request response thrugh mailsender methods sounds bad idea service call methods mailsender variables email template map variables printed email instantiate request response service autowire service service 
+
+starters shouldnt bothered creating resolve templates transparant href http www thymeleaf org doc articles springmail html rel nofollow turorial thymeleaf website assuming xml bean configuration spring add instance configured simply inject simply put properties template variable rewrite method anymore plain service generally dont service layer depends web effectivly solution 

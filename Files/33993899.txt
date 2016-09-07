@@ -1,0 +1,4 @@
+calling serial port class jframe class 
+experimenting javas jframe arduino serial port ran problem continue code call serial port portion class jframe code class constructors basically connect program arduino uno strong problem run code gui class em serialout write test getbytes em error exception thread main lang nullpointerexception strong strong constructor made mistakes strong class setting serial port code works test uno led lights jframe class call class 
+
+error check port null list ports make ports assigned confirm printing portname port check make null problem 

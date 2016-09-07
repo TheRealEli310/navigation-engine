@@ -1,0 +1,4 @@
+httpclient hangs request 
+problem apache httpclieint hangs request simple based solution retrieves resource fine httpclient configuration good reason httpclient request hang solution works problem bombard application logging statements determine hangs portion timeouts fails timeout slf4j jcl bridge log entries set debug expected greatly appreciated 
+
+problem caused issue set plugins slf4j dependencies excluded simple declare slf4j logback dependencies thing plugin dependencies section found declare slf4j api logback classic jcl slf4j case 

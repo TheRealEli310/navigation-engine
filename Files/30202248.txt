@@ -1,0 +1,4 @@
+creating 3d cube android opengl es 
+wanted make 3d cube sceen combining code sites unable make cube code advice wrong idea make face cube color centered screen receiving outcome img src http stack imgur rydw2 png alt enter image description 
+
+indices simply match vertices lets face coordinates vertices drawing sketch plane indices entries index array face mapping previous figure indices define triangles triangles overlap cover entire quad correct index sequence face indices match triangles enumerated counter clockwise direction important enable backface culling fix index sequence faces secondary problem code prevent colors working indices sorted youre drawing setting uniform loop end set color colors working draw face indices time inside loop introduce vertex attribute colors positions 

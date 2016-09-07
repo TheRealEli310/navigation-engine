@@ -1,0 +1,4 @@
+return error message spring mvc controller 
+methods return text message exception occurs return status null object 
+
+href http stackoverflow users sotirios delimanolis sotirios delimanolis pointed comments options h2 return error message h2 change method em em dont builder find helps keeping code readable helps remembering data response specific http status code include response status code link newly created resource header href http www w3 org protocols rfc2616 rfc2616 sec10 html rel nofollow status code definitions spring offers convenient build method em em dont logger h2 provide h2 remove catch block method throw exception create method class annotated methods annotated allowed flexible signatures href http docs spring io spring docs current javadoc api org springframework web bind annotation exceptionhandler html rel nofollow javadoc details 

@@ -1,0 +1,4 @@
+string replace replaceall working 
+parse string input opening square brackets absolutely regex output unchanged part wonders possibly caused fact back slash characters yen symbols added japanese languages year hasnt caused issues idea wrong 
+
+strings immutable make assign return variable normal method dont escape bracket 

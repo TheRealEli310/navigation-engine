@@ -1,0 +1,4 @@
+understanding merge sort works 
+code works trouble understand ol li understand purpose return executed li li understand merge function exists algorithm splitting sort ascending compare jump exchange values li ol edit played bit debugger reaches merge function values compares lt enters values correct order point line code array aux executed array odd aux array 
+
+ol li method problem divided smaller problems range sort wide method closed element sorted definition stop condition recursion href http stackoverflow questions understanding merge sort works sem comment50990398 m0skit0 li li elements swapped algorithm method trys merge sorted arrays indices reaches middle elements part added result array reaches border elements left part added result cases br cases algorithm figure current elements indexed minimum adds result array case element smaller added result array case element selected li ol 

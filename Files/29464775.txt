@@ -1,0 +1,4 @@
+sort lines arraylist elements inside line 
+bit tricky long question bear finite number lines input file form main method sets constructor file lines file lines written number tells arrange lines represented hard part dont arrange lines ascending order arrange strong elements strong ascending order question efficient havent learned tokenize 
+
+youre create class represent data work strings class simply convert line data read perform operations arraylist data convert back strings youre learning expand making class ul li add constructor parsing fields internally throwing exceptions needed pass read line constructor li li add equals hashcode methods work data class hint objects equals objects hashcode easy implementations li ul 

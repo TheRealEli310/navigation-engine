@@ -1,0 +1,4 @@
+including css javascript files spring project 
+making web app spring spring security module tomcat include css files js files jsp file working check sources tag chrome content css log form suspect spring security css file included jsp webconfig file securityconfig file answers stackoverflow work code css returns css js files inside webcontent resources 
+
+solved problem apparently ambiguous routing controllers access url started resources routed controller returned jsp css js image original controller binded url controller left requestmapping indicating route changed controller annotation put url requestmapping 

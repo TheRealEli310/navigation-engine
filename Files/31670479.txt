@@ -1,0 +1,4 @@
+advantage org springframework jdbc datasource drivermanagerdatasource oracle jdbc pool oracledatasource 
+configuration projects works fine pretty fast happened project spring configuration documentation option make connection pool reason configuration mine exists curious wheres advantage limitation 
+
+1st configuration oracle specific 2nd configuration generic explicitly define driver class major difference connection pool support oracledatasource generic behavior mentioned property values externalized explore apache jakarta commons dbcp features drivermanagerdatasource connection pool feature 

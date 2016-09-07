@@ -1,0 +1,4 @@
+netty reference counting bytebuffer connection nio single threaded 
+confused netty makes reference counting bytebuffers isnt nio supposed single threaded words selector thread connections client pooling needed missing source href http netty io wiki user guide html rel nofollow http netty io wiki user guide html 
+
+dont people bytebuf support writing threads 

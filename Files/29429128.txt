@@ -1,0 +1,4 @@
+ejb inject work vaadin class 
+inject singleton startup bean initializes customerdatamodel vaadin class vaadin class fully initialized startup bean ejb inject works nullpointer startupbean bean xml web inf href http dzone articles cdi di p1 rel nofollow http dzone articles cdi di p1 href http docs oracle javaee tutorial doc gipvi html rel nofollow http docs oracle javaee tutorial doc gipvi html wrong 
+
+problem workspace object extends vaadin ui stateless ejb instance single user start href https vaadin addon vaadin cdi rel nofollow vaadin cdi annotate cdiui inject ejb cdi managed session scoped vaadin ui 

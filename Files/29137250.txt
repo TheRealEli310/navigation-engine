@@ -1,0 +1,4 @@
+implement set data structure 
+wondered implement set implement implement hashmap linkedlist object cell holds key handle uniqueness part 
+
+set internally implements map set key map uniqueness maintained href http javahungry blogspot sets implemented internally html rel nofollow link clear idea set works internally stack answers href http stackoverflow questions internal implementation util hashmap hashset href http stackoverflow questions hash work internally 

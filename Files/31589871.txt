@@ -1,0 +1,4 @@
+javafx fade stage close 
+difficulty finding common behavior people fade extension fade entire stage imagine closing running program simply killing windows showing showing window fade seconds toast notification 
+
+create timeline keyframe opacity stages scenes root node make set stage style scene fill transparent make program exit timeline finished application single big button clicked seconds fade program close 

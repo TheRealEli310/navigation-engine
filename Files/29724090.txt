@@ -1,0 +1,4 @@
+list string list integer integer foo string 
+list function power convert applying item code works problem returns element thrown additionally solution bit inconvenient 
+
+mapping dont simple exclude nulls nulls list simply remove 

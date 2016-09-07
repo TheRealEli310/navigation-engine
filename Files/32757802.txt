@@ -1,0 +1,4 @@
+convert string yyyy mm dd date format phone language left arabic 
+code catch called wrong log exception duplicate href http stackoverflow questions parse date string parsing format simpledateformat yyyy mm dd found causing exception english ltr phone language code works change arabic rtl exception thrown 
+
+problem due invalid date locale changing locale work 

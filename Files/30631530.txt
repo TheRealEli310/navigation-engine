@@ -1,0 +1,4 @@
+kerberos ldap truncate ldap host names kerberos 
+task connect kerberized ldap server gss api small sample app test connection kerberos configuration connection parameters connect ldap server retrieve data code testkerberized properties file ldaphost property defined ldap dv2k8ad 2k8 hlp net dc 2k8 dc hlp dc net run app works charm kerberos authentication succeeds data successfully retrieved ldap server run giving exception worth noting module commit succeeded subject successfully obtained issues noticed sname field krberror message ldap 2k8 hlp net ldap dv2k8ad 2k8 hlp net ran wireshark session capture kerberos packets captured packets running testkerberizedldap tgt acquired successfully program successful rep cases tgs req kdc values server ldap 2k8 hlp net ldap dv2k8ad 2k8 hlp net dont choosing trim ldap host workaround fix short updating id grateful 
+
+yay resolved bug switched worked charm 

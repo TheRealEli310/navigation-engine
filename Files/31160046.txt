@@ -1,0 +1,4 @@
+return null values ibatis 
+lets oracle database interface call columns map entries map entries cases isnt problem generic part code call map list consisting entries entry empty string oracle happy outer list consists lists entries ibatis tells unsupported operation ibatis include columns empty string 
+
+href http stackoverflow giovannis answer noticed href https mybatis github io mybatis configuration html typehandlers rel nofollow type handlers interface add big advantage column statement generic statement future version 

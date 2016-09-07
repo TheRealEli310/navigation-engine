@@ -1,0 +1,4 @@
+getlistview replacement recyclerview 
+implementing material design app converting listviews recyclerviews tutorials method getlistview longer extend class appcompatactivity alternative 
+
+convenience method requirement regular regular retrieve layout sort widget holds true retrieve inflated layout create extend create instance set content view activity case inherits changing inherit matter adding characters base class 

@@ -1,0 +1,4 @@
+android sqlite database null pointer exception call cursor 
+problem code call showfal receive database activity public class database extends sqliteopenhelper public database context context check table records confused fault 
+
+cloumn correct check cursor null accessing 

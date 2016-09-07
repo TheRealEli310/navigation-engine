@@ -1,0 +1,4 @@
+convert string enum dynamically 
+build dynamic wrapper reflection access properties objects approach works kinds objects issue enums lets assume proper setter und getter invoke situations save code strong convert string object proper enum strong enum source code managed 
+
+enum class string convert enum object string static method defined throws enum constant invoke cast method helper function handle cast code solution loops create temporary array constants internal cache 

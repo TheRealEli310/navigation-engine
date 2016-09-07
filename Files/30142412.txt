@@ -1,0 +1,4 @@
+jaxb support soap style arraytype 
+make version server previously axis respond soap rpc requests spring ws rpc calls working stuck satisfy request expects soap body struggling write xml schema jaxb marshaller shove annotations response whats correct xml schema set annotations marhsal xml correctly 
+
+solution found works arraytype added deriving href http schemas xmlsoap org soap encoding rel nofollow http schemas xmlsoap org soap encoding schema custom schema form replaces type attribute actual type advantage jaxb qnames namespace shove element serialization main blocker working schema schema 

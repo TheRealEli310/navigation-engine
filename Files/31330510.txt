@@ -1,0 +1,4 @@
+current fragment fragmentstatepageradapter 
+surprisingly difficult current fragment pager adapters fragmentpageradapter fragment tag standard tag fragmentstatepageradapter href http stackoverflow questions access current fragment viewed viewpager related question provided couple answers suggested manually keeping cache fragments noted inadequate rotation underlying adapter stores state bundle restores created causing simple caching solution fail 
+
+found solution implemented correctly code previously launching dialog calling back activity stored dialog onattach activity needed find correct fragment problematic correct solution call settargetfragment dialog fragment onattach simply listener 

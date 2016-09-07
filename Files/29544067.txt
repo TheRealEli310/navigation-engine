@@ -1,0 +1,4 @@
+call awaittermination scheduledexecutorservice 
+multithreading thousands scheduled tasks threads executed code ideal count thread pool set pool grow needed scheduleexecutorservice api guide advance 
+
+call application supposed action makes current tasks finished application care current tasks finish dont growing thread pool size directly core pool size minimum grow till max pool size 

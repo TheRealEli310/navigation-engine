@@ -1,0 +1,4 @@
+fileoutputstream corrupt properties file 
+encountered weird problem coding class read write settings properties file prepare method load output streams file load input stream works fine load output stream em em breaks read properties object back null rid output stream start program input stream back null create properties file copy paste content works output stream guess output stream corrupts file clue open file text editor heres code 
+
+super simple mistake confused thought open output stream guess open close everytime save 

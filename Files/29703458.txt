@@ -1,0 +1,4 @@
+getstringutfchars releasestringutfchars works 
+href http stackoverflow questions stackoverflow questions states called string copied parameter good release string original jstring scope pseudo code documentation reference release object jni call finish rule valid strings retrieved 
+
+parameter attempt provide signature consistent similar jni functions jvm implementations invariably strong strong strings stored internally incompatible ucs format release knowing context 

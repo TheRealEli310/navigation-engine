@@ -1,0 +1,4 @@
+replacement org hibernate transactions isactive hibernate 
+migrating hibernate works fine method deprecated anymore heres code substituted methods find replacement error message method undefined type transaction 
+
+href http docs jboss org hibernate orm javadocs org hibernate resource transaction spi transactionstatus html rel nofollow javadoc 

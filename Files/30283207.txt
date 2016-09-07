@@ -1,0 +1,4 @@
+find symbol method int 
+game making place tetris piece 10x10 game board return occupied player put piece occupied square board made initial method returns true square occupied compile compiling error find symbol method int dont error fix appreciated 
+
+board class didnt defined int method 

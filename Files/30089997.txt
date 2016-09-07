@@ -1,0 +1,4 @@
+create list docx4j objects 
+create list objects pptx4j slides docx4j library downloaded sample code href http www docx4java org svn docx4j trunk docx4j src pptx4j org pptx4j samples createhelloworld rel nofollow http www docx4java org modifying printing slide print adding loop creates slide code creating slide loop repeats slide dont create objects adding array adding object directly errors failing basic havent created arrays objects declaring full object iteration couldnt change object object didnt work find symbol error method run program errors output 
+
+presentationmlpackages createslidepart deprecated javadoc mainpresentationparts addslide method getjaxbelement getcsld return null youved populated content model slidepart 

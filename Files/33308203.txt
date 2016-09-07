@@ -1,0 +1,4 @@
+regex remove punctuation end string 
+examples heres current solution works calling attempts creating regex failed tips 
+
+suggest match optional whitespace punctuation end string care whitespace forget strings backslashes doubled denote literal backslashes regex escape symbols href http ideone vflacv rel nofollow demo 

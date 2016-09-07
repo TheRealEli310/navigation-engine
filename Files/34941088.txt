@@ -1,0 +1,4 @@
+export spring boot project executable standalone file 
+created project spring tool suite spring boot gradle dont export make work dont gradle basics add dependencies maven repository articles apply application plugin task dont set configuration file create executable write link step step detailed explanation appreciated build gradle file 
+
+build file fine run sts create runnable jar details configuration gradle plugin href https docs spring io spring boot docs current reference html build tool plugins gradle plugin html rel nofollow spring boot documentation site 

@@ -1,0 +1,4 @@
+incremental opacity wanting constant opacity image view drawable 
+programmatically creating textviews horizontal lines view drawable created programmatically problem opacity starts light gradually increases line logged opacity getalpha drawable paint image view linear layout points methods provided drawables views dont understand behaving true setting alpha makes difference fix xml href http stack imgur 3w1mx png img src http stack imgur 3w1mx png alt enter image description 
+
+issue emulator disable hardware acceleration mind dont instantiate time draw divider setdivider press button result href http stack imgur nfcbf png img src http stack imgur nfcbf png alt enter image description 

@@ -1,0 +1,4 @@
+array arraylist dynamic 
+arraylists vectors make typical arrays internally leaves thinking arraylists technically thing arrays convenience reason performance critical applications make arraylist tips appreciated 
+
+multiple reasons prefer lists implementing lists arrays arrays important ol li lists support generics arrays em em read effective bloch href https books google books id ka2vubqhiwkc amp pg pa119 amp lpg pa119 amp dq lists 20over 20arrays 20java 20bloch amp source bl amp ots yzfijgu6m2 amp sig c6nzmm ktflpcxyceud4binrli amp hl en amp sa amp ei 4strvfyumpdeogt w4oqbg amp ved 0ccwq6aewag onepage amp lists 20over 20arrays 20java 20bloch amp false rel nofollow item li li arraylist implementing find hard youll job guys developed openjdk href http grepcode file repository grepcode root jdk openjdk b14 util arraylist rel nofollow josh bloch neal gafter li ol 

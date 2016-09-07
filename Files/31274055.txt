@@ -1,0 +1,4 @@
+extract data sheets xls file poifs api 
+understand poi api user model presently helpful dealing xls files larger mb size questions strong stack overflow strong learned em event driven approach em poifs api poifs api barely detailed explanations internet youtube videos videos struggling understand approach good understanding event driven programming manage find piece code internet newer approach successful modify code code extract data column amp row onwards sheets amp highly appreciated guidance understand learn newer approach sources 
+
+guys user model throws oom error large excel files learned ss usermodel handle older amp newer excel files time xls amp xlsx user model process excel files size 

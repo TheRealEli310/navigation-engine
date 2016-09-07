@@ -1,0 +1,4 @@
+jpa native query select outfile 
+issue executing select outfile query jpa native query code exception blockquote caused sql sqlexception resultset update data blockquote jpa treated update changed code execute update exception blockquote caused org hibernate exception genericjdbcexception execute native bulk manipulation query caused sql sqlexception issue executeupdate selects blockquote fix 
+
+found workaround direct jdbc fixed problem 

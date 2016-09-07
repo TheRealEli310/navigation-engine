@@ -1,0 +1,4 @@
+retrofit okhttp gzip decode 
+rest service consume answers gzipped encoded json okhttp encode readable text json converter throws exception href http stackoverflow questions retrofit okhttp gzip ed json jake whartons comment header okhttp decode body code creating restadapter gradle dependencies method serviceinterface 
+
+replace provide header instructing okhttp decompression omitting okhttp care adding header decompression 

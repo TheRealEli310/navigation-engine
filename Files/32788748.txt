@@ -1,0 +1,4 @@
+hybris copy data folder 
+scenario hybris developer local environment set developer board team place projects custom folder ant copy data folder developer machine fully loaded database data copying 
+
+ensure development environment built script copying things randomly check workspace repository ignore things custom code commonly location large resources hybris suite zip developer checkout workspace run script pull extract resources run ant build build deploy tools applications project check data directories copy ul li shared mysql development instance li li init impex time ensure data impex li ul highly recommend development data built impex reinit needed development 

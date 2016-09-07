@@ -1,0 +1,4 @@
+android music player inside fragment 
+implementing music player app fetch songs sd card stuck hours unable make songs play inside fragment strong mainactivity strong class tab fragments strong songlibraryfragment strong added songs user device play songs strong songadapter strong class strong song xml file strong strong error strong blockquote lang illegalstateexception find method songpicked view activity class adrianblan noraoke mainactivity onclick handler view class android widget linearlayout blockquote main problem strong songpicked strong method inside strong songfragmentlibrary strong added onclick songpicked song xml file searching songpicked method inside strong mainactivity strong problem 
+
+set onclick listener fragment xml set onclick listener view part fragment setonclicklistener strong strong simply set onitemclicklistener listview 

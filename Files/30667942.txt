@@ -1,0 +1,4 @@
+replacing globalsettings onstart onstop 
+migrate globalsettings playframework hard time understanding supposed global moved onrequest requesthandler properly 
+
+line package amp imports onstartmodule backgroundtasks application conf 

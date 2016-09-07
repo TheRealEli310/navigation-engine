@@ -1,0 +1,4 @@
+hibernate keeping inactive session oracle db closing session 
+hibernate application written code saving employeeregistration object oracle db closing session inactive sessions oracle db checked inactive session query oracle kill inactive session hibernate resolving issue 
+
+make creating times code time session database connection created needed es transaction started connection pool overcome behavior strong edit strong href https docs jboss org hibernate stable core reference en html configuration hibernatejdbc html rel nofollow docs blockquote hibernates connection pooling algorithm rudimentary intended started intended production system performance testing blockquote suggest connection pooling dealing issues defined em rudimentary em creators library 

@@ -1,0 +1,4 @@
+maven fatal error compiling invalid target release 
+upgraded project building project machine error blockquote error failed execute goal org apache maven plugins maven compiler plugin compile default compile project exception fatal error compiling invalid target release blockquote maven compiler plugin looked post related correct version configured home verified aspects couldnt find alarming version maven version checked building project maven jdk blockquote strong update strong working removing maven compiler plugin pom file ideally dont observed remove plugin maven default downloads version compiler plugin local repo whats wrong plugin source target appears correct blockquote 
+
+check javac version version javac version pointing jdk couple thing ol li ensure symbolic link pointing correct jdk remove existing link create jdk li li library extension tools jar jdk remove li ol point trick 

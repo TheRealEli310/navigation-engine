@@ -1,0 +1,4 @@
+connecting elasticsearch transport client request returns 
+elasticsearch attempting implement basic api elasticsearch documentation href https www elastic guide en elasticsearch client api html rel nofollow https www elastic guide en elasticsearch client api html transportclient connect elasticsearch understand transportclient port elasticsearch port call request cluster index type id back empty list fields created index elasticsearch sense plugin verified head plugin retrieve values implementation back portion code initial thought due difference port numbers transportclient es thoughts 
+
+simply retrieve fields href https github elastic elasticsearch blob master src main org elasticsearch action getresponse l132 rel nofollow yield 

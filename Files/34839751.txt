@@ -1,0 +1,4 @@
+initialization map beans spring javaconfig 
+class autowired variable class extends application map classes implement strategy pattern init application spring javaconfig part config class initialization child hashmap initialized field find interesting thing part test variable null field field var equals null println objects suggestion object map created context spring question strong populate map objects created javaconfig strong full code problem copypaste reproduce class abstractparent class child testconfig test em ps question heavily modified abstract em 
+
+solved problem adding annotation class spring inter bean references dont work annotation omitted methods processed em lite em mode invocation method simple method invocation href http docs spring io spring docs current javadoc api org springframework context annotation bean html rel nofollow spring bean doc 

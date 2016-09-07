@@ -1,0 +1,4 @@
+modify existing gradle task 
+gradle defines tasks substitute token parameter resource file copy task defined works fine run task run part task put logic works run resources copied token replaced dont force explicitly run add running build ideally task defines run multiple tasks execution find 
+
+view href https docs gradle org current javadoc org gradle language jvm tasks processresources html rel nofollow docs plain task type configure youre configuring copy tasks filter file href https github opalo stackoverflow tree master rel nofollow find simple demo 

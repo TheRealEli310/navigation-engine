@@ -1,0 +1,4 @@
+spring data mongodb implement multi tenancy crudrepository 
+designed db support multi tenancy document reference spring data mongodb implement data access logic handle document retrieval tenant repositories common approach implement override method match documents tenant facilities achieve 
+
+finally decided implement multi tenancy service layer suggested strong markus mahlberg strong comment repository level created query check entity document belongs proper tenant custom implementation interface storing logged user retrieve logged user service layer 

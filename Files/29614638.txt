@@ -1,0 +1,4 @@
+make war pointing database context xml 
+tomcat instance running development server pointing development database context xml connection pointing database dont staging servers war file connect staging database staging environment web server tomcat 
+
+put connection details meta inf context xml put tomcat server configuration tomcat conf server xml host determines connection utilize war file deploy war file instance itll connect proper database 

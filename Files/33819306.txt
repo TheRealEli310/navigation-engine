@@ -1,0 +1,4 @@
+spring namedparameter exception 
+insert values db named parameters spring jdbctemplate setter injection namedparameter shows exception constructor injection work fine dont wrong fix strong code strong strong employee strong strong employeedao strong strong test strong strong applicationcontext xml strong strong stacktrace strong 
+
+giving error default constructor creating bean modify bean definition hope helps 

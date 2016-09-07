@@ -1,0 +1,4 @@
+sending data logstash tcp 
+running issues sending log data logstash instance simple application case avoid log4j logback batch json events separate lines raw tcp socket reason send data aws lambda function logstash means storing logs disk work logstash configuration file code opening tcp socket logstash server sending event directly application connecting logstash host properly logstash exception thrown connecting events showing es cluster ideas greatly appreciated dont relevant logs logstash err logstash log logstash stdout pointing wrong 
+
+problem data deserialized input deserialize filter simply remove json filter recreated scenario hope helps 

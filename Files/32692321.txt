@@ -1,0 +1,4 @@
+tomcat severe exception starting filter corsfilter classnotfoundexception 
+enable cors servlet class xml deploy war tomcat instance pretty error complaining finding corsfilter class correct package tomcat instance located apache tomcat 
+
+unzip war file triple check class file 

@@ -1,0 +1,4 @@
+titaniumstudio studio login error 
+facing problem login message installed latest version problem lunching studio terminal problem problem 
+
+download bouncy castle jar href http www bouncycastle org download bcprov jdk15on jar rel nofollow http www bouncycastle org download bcprov jdk15on jar copy jar file system library javavirtualmachines jdk contents home lib ext edit system library javavirtualmachines jdk contents home lib security security add line security providers defined security provider org bouncycastle jce provider bouncycastleprovider restart titanium studio 

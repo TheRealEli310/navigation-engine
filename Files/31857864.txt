@@ -1,0 +1,4 @@
+automatically retweet twitter page 
+automate task retweetsof page strong twitter promotional sample page strong tweet posted twitter page automated script retweeted twitter account strong twitter demo account strong implemented python attached link href http www techcovered org create twitter auto retweet bot rel nofollow http www techcovered org create twitter auto retweet bot 
+
+easily python href https github geduldig twitterapi rel nofollow twitterapi steps basically ol li authenticate li ol blockquote twitterapi import twitterapi api twitterapi consumer key consumer secret access token key access token secret blockquote ol start li grab tweet retweet li li tweet li ol blockquote api request statuses update status em tweets text em print status code blockquote straight forward wont spoil posting full working code 

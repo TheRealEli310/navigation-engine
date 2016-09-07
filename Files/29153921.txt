@@ -1,0 +1,4 @@
+overload method generic parameter 
+compiler complaint understand extending class easy question compiler extend classes telling concrete case classes extending generic id compiler hey compiler classes dont classes 
+
+build show overload rule due limitation supertype case interface declares overloads translated erasure bytecode generic parameter declared method signature bytecode generated upper bound erased erased bounded works overloads erase differently specific bounds erased bytecode generated overloaded methods em subtype em whats important important declared bounds translated erased bytecode supertype class hr solution marker interfaces dont necessarily recommend elaborate interesting depends complicated actual class hierarchy href http stackoverflow questions overload method generic parameter comment46532150 louis suggested comments simpler give methods names 

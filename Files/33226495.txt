@@ -1,0 +1,4 @@
+nio incomplete file transfer 
+transmit large video files clients server nio require nio files send larger apparent file size limit regular io 2gb video files large 50gb build small program understand concepts added larger program problem lies fact hundred kilobytes file saved server time run data saved server solution suggestions nio h2 heres works h2 client collection files send server client establish connection server server reply ready client sends file header information server ready receive file contents client sends contents file file fully transmitted repeats file files h1 main client h1 h1 filesender h1 h1 mainserver h1 h1 filereceiver h1 
+
+problem socket configured blocking dont selects input itll quickly consume incoming data stop read return client hs similar problem itll burn cpu push data overloaded socket 

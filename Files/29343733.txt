@@ -1,0 +1,4 @@
+serialization object 
+android studio project serialize user object idea save load object application closes destroyed objects attributes saved stored file problem error loading object file directory named save bin create code properly create directory 
+
+assuming implementing line file object called strong save bin strong stored root filesystem location writable application application permission write locations stored stored access public api pair href http developer android reference android content context html openfileoutput lang string 20int rel nofollow openfileoutput href http developer android reference android content context html openfileinput lang string rel nofollow openfileinput retrieve mentioned androidlerner comment find info href http 20developer android training basics data storage files html rel nofollow 

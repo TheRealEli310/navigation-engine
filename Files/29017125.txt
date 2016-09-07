@@ -1,0 +1,4 @@
+mongodb embedded document rest 
+building rest service mongodb jersey jackson classes employee company rest service datasource class creates connection mongodb send json object post correctly document question commented line access embedded objects fields effect final goal force sort relationship id store company document list employees 
+
+basicdbobject basically map implemented walk employee class obtain company structure created constructor company order accept map 

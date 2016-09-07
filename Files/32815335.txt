@@ -1,0 +1,4 @@
+stateless objects thread 
+href https books google books id ek43stevfjic amp pg pt41 amp lpg pt41 amp dq stateless 20objects 20are 20always 20thread 20stateless 20factorization amp source bl amp ots uoxaa2qnga amp sig hdkapxiubzxg8 0ds5eldyi4r6w amp hl en amp sa amp ved 0cb8q6aewagovchmiznk6tekyyaiv1smich38fwug onepage amp stateless 20objects 20are 20always 20thread 20stateless 20factorization amp false rel nofollow concurrency practice section states blockquote stateless objects thread blockquote class hr h1 question h1 code multiple threads modify variable understanding memory allocation class completely thread reference put local stack calling thread actual objects stored heap shared threads 
+
+stateless object class stateless state instance fields object thread object implementing interface thread thread safety discussed 

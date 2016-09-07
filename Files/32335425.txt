@@ -1,0 +1,4 @@
+upload file aws s3 camel aws s3 producer 
+upload jpg file aws s3 bucket camels aws s3 producer make work approach ioexception figure step implement upload transfermanager aws sdk interested camels aws s3 endpoint route camel exception running route 
+
+digging found solution route works convert file contents byte array passing aws s3 endpoint s3constants content length header set file length bytes solution reads file memory ideal situation code simple aws s3 producer endpoint happy hear solutions 

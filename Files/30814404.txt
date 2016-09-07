@@ -1,0 +1,4 @@
+chinese characters properties files properly decoded 
+localisation application chinese english spring mvc application values properties file encoded jsp pages utf mentioned utf encoding web xml hardcode chinese character jsp page displayed correctly characters coming properties file garbled displayed em em wrong 
+
+problem propertie files encoded iso latin default requirement overcome ways ul li escape latin charachters utf sequences property file german word zur ck latin charachters li li encode properties files utd manipulate spring load properties files li ul standard recommend tool href http essiembre github io eclipse rbe rel nofollow resourcebundle editor encoding stuff question answers ul li href http 20to 20use 20utf 20in 20resource 20properties 20with 20resourcebundle rel nofollow utf resource properties resourcebundle li li href http stackoverflow questions properties utf encoding eclipse properties utf encoding eclipse li ul 

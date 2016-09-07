@@ -1,0 +1,4 @@
+error making fragmentpageadapter 
+working tutorial slide tabs view requires make subclass fragmentpageadapter case implemented abstract methods reason error em default constructor android support v4 app fragmentpageadapter em fix highly appreciated 
+
+dont constructor class default constructor args parent class args constructor equivalent parent class constructor defined rule constructor arguments defined default args constructor explicitly define call fails find args default constructor error handle class constructor invoke correct super class constructor 

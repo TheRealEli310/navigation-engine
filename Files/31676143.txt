@@ -1,0 +1,4 @@
+hibernate c3p0 noclassdeffounderror 
+struts app glassfish queries time error occurs resolve href http www mkyong hibernate hibernate errorinitial sessionfactory creation failed lang noclassdeffounderror commchangev2c3p0datasources rel nofollow article error occurs dependencies run app app worked perfectly maven 
+
+problem resolved add c3p0 version jar strong glassfish strong libs directory em domains domain1 libs em 

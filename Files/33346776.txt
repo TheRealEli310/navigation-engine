@@ -1,0 +1,4 @@
+weld alternative producer src test meta inf beans xml 
+weld se final swap alternative implementation injected dependency testing supplying main version supporting classes engine defaultengine car engineproducer app production version code run app print test code implementation sportsengine testengineproducer apptest weldjunit4runner test version test method run print prints output test beans xml put section test beans xml put main beans xml works dont swap beans xml main resources meta inf testing 
+
+bug weld se beans xml version src main resources meta inf solution beans xml cdi se src main resources meta inf beans xml test purpose add lt exclude beans xml production beans xml file export code deployment package jar war ear dont forget replace testing beans xml production beans xml developing web app create production beans xml web inf version beans xml exists web inf beans xml 

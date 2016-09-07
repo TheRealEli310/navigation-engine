@@ -1,0 +1,4 @@
+upgrading apache httpclient send cookies requests 
+apache httpclient send requests internal api servers servers require authentication cookie set auth token httpclient working fine stopped sending cookies requests cookie domain set subdomain mycompany works specific give full host cookie domain host subdomain mycompany works solution heres code snippet similar httpclient constructed passed code sets auth cookie similar href http stackoverflow questions cookies apache httpclient cookies apache httpclient case cookies arent server turning wire logging httpclient leads cookie domain matching ideas 
+
+debugged code problem expects strong org apache http cookie clientcookie domain attr strong set order match full host url cookie domain add line code set domain change added revision pm blockquote rfc compliant cookie spec blockquote 

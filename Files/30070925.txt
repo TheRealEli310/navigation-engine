@@ -1,0 +1,4 @@
+terminate watchservice application shutdown 
+throws code shutdown service safely exception neglect shutdown threads killed terminating application 
+
+wrong code handle gracefully shutdown thread executing blocked operation jvm shutdown execution blocked thread unblocked watch service closed prevent interrupting thread running prior calling give handle contract explicit order events account throwing exception end volatile flag application shutdown catching evaluate flag exit gracefully flag set 

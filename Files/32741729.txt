@@ -1,0 +1,4 @@
+hibernate noclassdeffounderror simple application 
+read multiple posts noclassdeffounderror didnt find satisfying answer started learning hibernate written simple application persist movie object db successfuly compiled code run code encountering error files directory heres code basicmoviemanager movie hibernate cfg xml movie hbm xml 
+
+caused relative starts home symbol path hibernate library run code absolute path successfully found hibernate code wont run paths mysql jdbc jboss logging required libraries full list href http mvnrepository artifact org hibernate hibernate core final rel nofollow 

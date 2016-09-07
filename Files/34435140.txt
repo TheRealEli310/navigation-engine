@@ -1,0 +1,4 @@
+string array android xml resources getsystem 
+convert string array strings xml array class model part mvc works android components activity fragment run emulator exception found similar questions referred problem href http stackoverflow questions resources getsystem runtime error didnt understand solution exception blockquote lang runtimeexception unable start activity componentinfo danirg10000gmail therpiststep1 danirg10000gmail therpiststep1 mainactivity android content res resources notfoundexception string array resource id 0x7f0b0000 blockquote exception link code classes class represents questions class list questions objects code didnt understand difference system level resources application level resources search androiddevelopers google found good explanation explain 
+
+suggestion work context questionm constructor initialize class level context variable received context context mcontext getresources getstringarray array array 

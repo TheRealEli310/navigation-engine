@@ -1,0 +1,4 @@
+rest versioning url jersey 
+jersey spring rest servlet url versioning mechanism versions resource solve web xml load jersey servlets v2 mapping defined spring components resource path respective packages v2 conflicting uri template error resource user solve wold appreciated 
+
+issue spring beans loaded web xml contextconfiglocation jersey load beans rest v1 rest v2 servlet conflicts resource changed application context removed scanning resource package global applicationcontext xml added applicationcontext servlet applicationcontext v1 xml applicationcontext v2 xml added reference applicationcontext file jersey configuration web xml rest v2 

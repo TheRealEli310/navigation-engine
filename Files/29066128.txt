@@ -1,0 +1,4 @@
+android custom view null references class members ondraw method 
+create android custom view facing strange problem data members set constructor string bitmap null overriden ondraw method heres code heres stacktrace strong string strong npe heres stacktrace strong bitmap strong npe wrong appreciated good day 
+
+init method empty code works instantiate programmatically custom view declare xml bitmap string initialized initialized call constructor takes parameter 

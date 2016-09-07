@@ -1,0 +1,4 @@
+int http inbound gateway pollable request channel 
+code based spring integration noticed int http inbound gateways pollable request channels explicit poller configuration channel stream pollable benefits approach give flexibility business flow transactional configurations queue capacity 
+
+transaction configuration poller http thread wait gateway reply case start transaction downstream gateway run transaction configured single thread requests task executor handle multiple concurrent requests ways run concurrent web requests transactions transactional gateway flow run web container thread concurrency managed web container 

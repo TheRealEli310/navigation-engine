@@ -1,0 +1,4 @@
+splitting large log file multiple files scala 
+large log file client id fields log line split large log file files grouped client id original file lines unique client ids end files line scala dont load entire file memory load line time scala io source getlines working nicely dont good write separate files line time options ol li create printwriter backed bufferedwriter files newbufferedwriter line inefficient li li create printwriter backed bufferedwriter output file hold printwriters writing till read lines original log file close doesnt functional scala li ol scala accomplish thoughts ideas appreciated 
+
+option pretty functional idiomatic scala track lines file production level version youd wrap operations track failures end 

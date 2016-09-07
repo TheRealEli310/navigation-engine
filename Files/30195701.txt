@@ -1,0 +1,4 @@
+nullpointerexception eclipselink initialization 
+eclipselink rc2 maven repository inheritance classes configuration failed exception removed description fail vise versa removing assign doesnt work worked mistake annotation prevented work 
+
+remove references entities move class method order persistence unit initialized entities initialized scanned setup interferes pu initializing static variables wouldnt analysis works case wrong entity manager inside entities considered anti pattern included youll find open debates web 

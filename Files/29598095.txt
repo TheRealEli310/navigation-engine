@@ -1,0 +1,4 @@
+integer parseint parsing string integer 
+length trim length replaceall discard whitespaces didnt work exception thread main lang numberformatexception 
+
+user inputting numbers href http docs oracle javase docs api util scanner html nextint rel nofollow dont write parsing youre expecting strings characters convert href http docs oracle javase docs api lang character html getnumericvalue int rel nofollow character input string individually 

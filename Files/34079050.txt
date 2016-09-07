@@ -1,0 +1,4 @@
+add subtype information runtime jackson polymorphism 
+jackson unmarshal polymorphic types json annotations similar href http programmerbruce blogspot deserialize json jackson html rel nofollow post question extend code add 3rd class original code base add subtype information modifying source code annotation update forced jsontypename solve pojo version problem facing unmarshal json type zoo dog adding class annotation runtime update found href http stackoverflow questions polymorphism jackson annotations jsontypeinfo usage rq question similar case concern annotation prevent people extending implementing base class interface extensibility base class interface make marshalling logic work future concrete types 
+
+ended reflections library find subtype class register jsonsubtypes method 

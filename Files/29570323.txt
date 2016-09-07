@@ -1,0 +1,4 @@
+searching specific node unsorted tree 
+general idea traverse tree recursive backtracking binarynode data character find specific char method output path root node data char moving left path moving path path uppermost root node empty string path left child child recursive void method base case match found method ends left child call method check call child section current root leaf node modify stored path eliminate recently added return previous recursive call 
+
+implementation binarynode provided simply basic methods provide code deeper tree searches matching node algorithm back root tree path generated backwards result correct order 

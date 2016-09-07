@@ -1,0 +1,4 @@
+jmh static object benchmark tests 
+class constructs complicated data imagine large xml json structure sort thing constructing takes time construct data tests basically object instance defined class defines refer explicitly tests code simplified awful equally evil option creating separate class hold single static object nice accepts strings pass object importantly instance object elegant global object 
+
+jmh share data benchmarks thing breaks benchmark isolation benchmark silently modify input data benchmark rendering comparison incorrect required object benchmark importantly trick build share data benchmarks field accessible break default forked mode jmh execute test vm notably thing suggesting execute vm instance initialize granted disable forking introduces problems solves idea invest time making setup costs tolerable excruciatingly painful deserialize data disk computing faster compute 

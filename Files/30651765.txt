@@ -1,0 +1,4 @@
+jacoco showing code coverage 
+pom xml maven compiler plugin v2 clean test eclipse creates target jacoco exec file created run jacoco report creates report report shows packages code coverage package run report set classes cobertura showing code coverage correctly understanding issue strong update strong adding maven log strong update strong adding maven log test cases run 
+
+powermock application play online instrumentation performed jacoco offline instrumentation excluding clousure classes worked running job mvn clean verify install changed snippet pom 

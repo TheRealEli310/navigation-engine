@@ -1,0 +1,4 @@
+array constructor references work 
+variable type returns integer array generics initialize variable constructor reference compiler translate bytecode types instruction points string constructor method special meaning work arrays special instructions constructing arrays 
+
+find decompiling bytecode compiler desugars array constructor references lambda proceeds lambda method reference heres disassembled bytecode synthetic lambda return type object erased return type intfunction object 

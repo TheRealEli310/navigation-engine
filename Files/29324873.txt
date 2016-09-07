@@ -1,0 +1,4 @@
+android recyclerview recycling working properly 
+problem scroll items disappear items disappear bottom code 
+
+reuses views lets time called row visibility called bind row view row reset rows bound statement reset state completely ensure rows visibility set correctly 

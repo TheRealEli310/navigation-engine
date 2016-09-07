@@ -1,0 +1,4 @@
+accessing specific elements arraylist 
+creating program add guests party maximum number guests set program outputs guests correctly access print elements make list party2driver called addguest method times program correctly added names list set maxguests output names werent added list read blank blank werent added list guest list full time access arrraylist elements method throws outoutboundexception appreciated party class methods 
+
+add extraguest field addguest guest methods block add extraguest 

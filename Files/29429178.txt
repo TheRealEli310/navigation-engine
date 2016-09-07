@@ -1,0 +1,4 @@
+consumer runnable callback threadsafe 
+active threads filled bunch tasks task processes chunk items task callbacks start end processed item callback triggers update database kinda long running task hr heres piece sample code illustrate omitted start end callbacks basically processed callback hr create single object simulate database access object called threads parallel thread strong opinion strong stateless object stateless method called times parallel hr edit callback synchronous testing id make async 
+
+consumer doesnt state thread shared object thread real code thread safety depend printing shared database service service thread youll problems 

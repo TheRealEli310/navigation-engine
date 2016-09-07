@@ -1,0 +1,4 @@
+disabling cookies stops session 
+building web application implemented login amp registration user register login web application working fine user clicks button servlet invoked checking credentials correct validated saving redirecting strong loginservlet strong strong homecontroller strong sudden encountered strange problem disable cookies localhost login anymore matter enter correct username password time redirected dont cookies ment stored client side session stored server side session attribute set cookies disabled strong disabling cookies built web application spring mvc production issue strong 
+
+cookies enabled session stored cookie cookies disabled container rewrite session id parameter end urls url rewriting isnt default containers documentation enable modern frameworks spring mvc thymeleaf automate make youre rewriting urls ouney directs answer 

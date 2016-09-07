@@ -1,0 +1,4 @@
+creating dynamic listview baseadapter class working 
+create dynamic list view baseadapter class code code main activity code base adapter class problem base adapter class invoked debug control inside baseadapter class parse json data put listitem access base adapter class wrong review code working advance 
+
+solve problem adding line strong setcontentview layout activity display flights strong earlier listview instance coming null issue resolved 

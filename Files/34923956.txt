@@ -1,0 +1,4 @@
+mule property placeholder access properties 
+property files deploying multiple environments mule src main resources files global property placeholder reference outlined href https docs mulesoft mule user guide deploying multiple environments rel nofollow https docs mulesoft mule user guide deploying multiple environments changing placeholder environment variable dependent server file app mule properties point works fine access properties class work properties class works fine define properties directly file referencing specific properties file questions code access properties defined local test property files accessing reference strong edit strong solution works suggested bigdestroyer 
+
+dont misunderstand file typ load proper file recycling variables guess problem test hope helps 

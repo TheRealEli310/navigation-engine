@@ -1,0 +1,4 @@
+custom deserializer class design retrofit 
+retrofit makes things easy noob api response structure requesting current project doesnt follow format unsure rewrite pojo make custom deserializer gson change json structure custom deserializer daunting json pojo request retrofit interface error json starts google gson jsonsyntaxexception lang illegalstateexception expected begin array begin object line column path 
+
+told retrofit gson figured convenient 

@@ -1,0 +1,4 @@
+generics result lang object cast ljava lang object 
+anybode exlain generic runtimeexception generics removing compilation phase effect bytecode nuance simplified post code returns understand wrong code explain behavior 
+
+telling compiler call compiler generates cast prevent bytecode cast adding cast code compiler sees cast needed reference opcode omitted 

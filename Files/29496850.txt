@@ -1,0 +1,4 @@
+reduce camel ftp component logging 
+camel ftp component guess doesnt matter specifically seconds connected logged message log file strong log4j strong set logging level strong info strong em info org apache camel component file remote ftpconsumer connected logged em reduce logging component repeated seconds ftp command added stop server closed connection message appearing replaced message advance 
+
+answered claus ibsen ticket raised href http issues apache org jira browse camel rel nofollow 

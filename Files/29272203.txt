@@ -1,0 +1,4 @@
+autowired spring beans packages 
+attempting break project modules core admin user share common code core problem spring pickup autowired beans main packages package works mickeycorp core package models services admin user modules mickeycorp admin webapplicationstarter extends springbootservletinitializer ve pickup configuration class ve misunderstood thought setting componentscan spring scan packages mickeycorp component annotations 
+
+track adding correct doesnt configure spring scan types covers annotations add pickup overriding unnecessary case class automatically picked references href http docs spring io spring boot docs release api org springframework boot orm jpa entityscan html rel nofollow title spring docs entityscan spring docs entity scan href http docs spring io spring data jpa docs release api org springframework data jpa repository config enablejparepositories html rel nofollow title spring docs enablejparepositories spring docs enablejparepositories 

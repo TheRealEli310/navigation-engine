@@ -1,0 +1,4 @@
+maven release plugin error fatal pathspec match files 
+release oss library running strange issue maven release plugin work fine updated maven git find combination things working release run issue solution maven shade plugin creating dependency reduced pom xml files build dependency reduced pom xml understand temporary file merging dependencies uber jar committed confused maven add file 
+
+figured workaround checkmodificationexcludes configuration option maven release plugin exclude dependency reduced pom xml work issue property intended documentation unclear 

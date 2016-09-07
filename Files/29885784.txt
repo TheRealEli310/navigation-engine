@@ -1,0 +1,4 @@
+writing byte array bmp 
+title suggests attempting write byte array bmp file program successfully writes data file location appears missing data opened functions listed goal fromimage takes grayscale bmp image byte data converts integer binary string stored linkedlist node toimage takes linkedlist converts binary strings back integers writes byte array back file ultimately question data missing missing fix 
+
+strong bmp href http en wikipedia org wiki bmp file format file structure rel nofollow file structure strong writing file named encrypted bmp suppose bytes encryption represent valid bmp file comply bmp file structure adding header footer bytes pixel part bmp file easiest writing image 

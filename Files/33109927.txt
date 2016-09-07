@@ -1,0 +1,4 @@
+start restful web service intellij 
+folowing href https spring io guides gs rest service rel nofollow guide build restful web service intellij gradle project content build gradle heres main class heres maincontroller run springboot configuration application exception thrown run server intellij 
+
+main method youre running wrong class 

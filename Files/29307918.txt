@@ -1,0 +1,4 @@
+thymeleaf preselected select2 options 
+render edit page multi select list select2 select2 docs simply setting option work spring thymeleaf templating bit tricky id program list programs persons id pre selected list compiles loads fine doesnt options selected html looked questions noting method doesnt work attributes dont reference outputs console wrong 
+
+model attribute list list ids wanted make list send list ids list objects 

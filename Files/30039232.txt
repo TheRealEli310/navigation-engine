@@ -1,0 +1,4 @@
+listen facebook logout loginbutton 
+reading havent found solution upgrade facebooks sdk android sdk successfully log user facebooks loginbutton code user logged user logs button login button log user logged listen successful log loginbutton log user sort callback handle 
+
+quoting facebook sdk href https developers facebook docs android change log upgrading android sdk docs replacement classes session usersettingsfragment removed replaced loginmanager accesstoken classes loginactivity replaced facebookactivity wanted mimic sessions changed listener logic looked accesstokentracker heres solved problem facebooks loginbutton log user include listen change null token meaning user logged hope helps future 

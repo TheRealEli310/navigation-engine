@@ -1,0 +1,4 @@
+spring application context loading manually autowire 
+working simple spring maven console application loading application context manually autowire annotations working listed code greeterserviceimpl sample impl empty implementation test poc sample sampleimpl applicationcontext xml maven comment autowire part code runs fine comment error applicationcontext greeterservice class 
+
+error msg issue autowire strong sample strong greeterserviceimpl class declare strong sampleimpl strong component correct change strong sample strong strong sampleimpl strong change strong public class sampleimpl strong strong public class sampleimpl implements sample strong create interface called strong sample strong change strong public class sampleimpl strong strong public class sample strong 

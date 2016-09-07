@@ -1,0 +1,4 @@
+load dictionary text file 
+load text file information text file basically huge collection words tags included save information sort data structure em program search retrieve tag statistics word em read type hashmap idea good idea scanning data text file find print dictionary text file easier scan 
+
+input json preprocess simple make valid json json widespread supported custom format hr problem json deserialization href http wiki fasterxml jacksoninfiveminutes rel nofollow jackson href https code google google gson rel nofollow gson convert input string objects simple jackson jackson gson lot options handle complex inputs ways serialize deserialize maps custom objects handle polymorphism mapping inputs objects classes hr input question simply prepend append curly bracket valid json 

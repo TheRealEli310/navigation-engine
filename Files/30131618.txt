@@ -1,0 +1,4 @@
+lang nullpointerexception error initialize listview adapter 
+created listview separate project works fine bring main app developing faced error pointing line mainactivity possibly relevant fragment fragment layout main layout files layouts add requested advance edit missing xml file vocab notes list 
+
+simply code found dont layout file line give strong null strong part layout file code function 

@@ -1,0 +1,4 @@
+access fragment layout parent activity 
+tabpager fragments frament gridview strong basedapter innerclass strong fragment parent activity set adapter gridview strong nullpointerexception strong gridview variable null solve issue fragment parent mainactivity oncreate method fragment xml mygrid xml populate adapter 
+
+acces fragment views becouse activity view hierarchy add method fragment method custom fragment 

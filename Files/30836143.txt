@@ -1,0 +1,4 @@
+linkedlist findnode method isempty method 
+linkedlist class implements iterable interface linkedlist class node class testlinkedlist class runs junit test class check functions linkedlist class linkedlistclass linkedlistiterator class testlinkedlist class test class tests testisempty testfind ran test failed tests failed testisempty assert testfind failed assert testisempty thinking implemented remove function iterator class wrong idea testfind looked function findnode pretty wrong great check code 
+
+defining iterator linkedlist creating linkedlist object list iterate call iterator iter list iterator removeviaiterator method returning data loop executed method 

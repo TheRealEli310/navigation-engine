@@ -1,0 +1,4 @@
+spring cloud config client slows metric health 
+configserver spring boot spring cloud project monitor endpoint health configclient asks configserver request invocation metric health slow due fact request configserver calls bitbucket entire request chain long slow disable check configserver monitor separately fri 
+
+checking health submit issue property disables health check work extending overriding 

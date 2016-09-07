@@ -1,0 +1,4 @@
+trouble understanding neo4j jdbc transaction 
+pretty silly question totally confused code neo4j embedded api neo4j jdbc neo4j jdbc neo4j instance hosted computer accessible create simple programs write cypher queries execute wrap transactional block issue object graphdatabaseobject assuming transactional block neo4j embedded api strong objective strong attempt multiple queries network nested transaction block fails rollback strong failed attempts till strong read project hosted github test case href https github neo4j contrib neo4j jdbc blob master src test org neo4j jdbc transactiontest rel nofollow link assuming put code transaction block functions 
+
+dont jdbc read remote api works executing statement cypher case remote api graphdatabaseservice object statements parameters tx handling tx statement set transaction runs call 

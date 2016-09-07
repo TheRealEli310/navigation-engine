@@ -1,0 +1,4 @@
+session work change object 
+recently write shopping cart session list object store products store session user change amount product changed code update session work refresh page number showing cart icon changed dont works br heres code user cancel sprcific product remove list br problem retrieve session jsp object stored session changed works 
+
+kind user servlet container maintains requests initiate session container generates unique sessionid cookie sets response instance associate session data subsequent requests container takes care identifying sessionid cookie giving instance data specific session dont call setattribute youve changed state obj map call map put 

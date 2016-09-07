@@ -1,0 +1,4 @@
+geofence library 
+open source geofence library determining point inside complex polygon google play services android 
+
+href https code google openmap source browse src openmap bbn openmap geo intersection rel nofollow https code google openmap source browse src openmap bbn openmap geo intersection blockquote public static boolean ispointinpolygon geo geoarray poly blockquote 

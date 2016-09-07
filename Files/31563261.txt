@@ -1,0 +1,4 @@
+afterall global hook cucumber jvm 
+integration tests execute code scenarios finished reading carefully posts href http ramblingsofaswtester rel nofollow reviewed reported href https github cucumber cucumber jvm issues rel nofollow issue accomplished context initialization equivalent fine working simulation good practice questions ul li avoid implement li li choices emulate behaviour cucumber jvm li ul advance 
+
+build tool ant maven gradle set tear actions part em integration tests em href https maven apache org components surefire maven failsafe plugin usage html rel nofollow maven fail plug setting integration tests phase typically setting database launch web container integration tests run phase phase run shutting closing removing cleaning things strong em info strong case cucumber tests run junit worth em case simpler smaller set stuff junit beforeclass afterclass implement junit classrule methods 

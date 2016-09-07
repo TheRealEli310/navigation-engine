@@ -1,0 +1,4 @@
+calling method generic return generic class considered unsafe javac 
+code compile returns generic method considered unsafe generic type referenced return type bug deeper reason taking account 
+
+raw types allowed ensure compatibility code written generics introduced raw types work simply ignoring strong strong type information method arguments return types type information related type parameter class lead strange results found stranger compiles 

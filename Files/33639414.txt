@@ -1,0 +1,4 @@
+make header router spring integration dsl assign default output channel 
+header router se set headervaluerouter routing spec give header param couldnt find default channel mapping spec 
+
+honest make sense introduction router simply configure config dsl kind implementation href https github spring projects spring integration dsl wiki spring integration dsl reference routers rel nofollow reference manual directly remains default channel mapping xml configuration noticed component si dsl option plays role propagate definition current aware component map ahead method chain definition routing condition doesnt meet message send implicit 

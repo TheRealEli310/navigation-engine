@@ -1,0 +1,4 @@
+osgi noclassdeffounderror apache servicemix 
+deploy osgi bundles work nice geronimo servicemix bundle exports mycompany api package bundle imports call static method getmajor mycompany api version class bundle classes api package work fine static methods fields strong version strong h2 upd h2 full stack trace line mycompany server version 
+
+problem null nullpointer exception wasnt logged reason didnt mentioned bundle wrapper api jar structure implementation version inside api jars manifest geronimo adding manifest osgi bundle fixed problem service mix guys intention 

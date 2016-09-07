@@ -1,0 +1,4 @@
+batch work cql 
+datastax driver document cql reference pdf cql reference pdf cql driver pdf understood batch success single query inside batch sucess understood batch failed single query inside batch fails exact thing 
+
+purpose strong logged strong batches atomicity query batch fails entire batch fail batch succeeds means query batch succeeded accurate 

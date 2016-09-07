@@ -1,0 +1,4 @@
+nosuchmethodexception method exist class 
+building javafx application create method receives gridpane node amount items added pane call method nosuchmethodexception test create simple method method work run error strong application strong strong buildgraphicaluserinterface strong strong stack trace strong 
+
+solve problem install fx clipse plugin eclise dont intellij add facet application javafx application add facet dont main method 

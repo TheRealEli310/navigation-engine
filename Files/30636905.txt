@@ -1,0 +1,4 @@
+gradle copy file generation 
+br build jar copy folder figure problem copyjartobin task copy jar delete build folder project run buildapp task task createjar generate jar file copyjartobin wont find jar file br 
+
+culprit task copy jar configuration time method gradle user guide href https docs gradle org current userguide userguide single html sec build phases https docs gradle org current userguide userguide single html sec build phases understand build lifecycle run actual copy operation execution phase execution task solve move call method dolast block problem approach wont benefit gradles incremental build feature copy file single time execute task file hasnt changed idionmatic writing copyjartobin task change task implementation task type improve snippet taking advantage gradles autowiring feature declare output task input writing build libs gradlejarproject jar simply dont bother task ordering gradle task executed task executed 

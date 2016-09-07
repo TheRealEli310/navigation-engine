@@ -1,0 +1,4 @@
+read string txt file compare items drop list webdriver 
+scenario create file input string sep collect drop list array array equals string loop downloads month report overwrites txt file month code unable implement txt comparision part txt overwrite part 
+
+global variable tesng method 

@@ -1,0 +1,4 @@
+pass multiple parameters command line running gradle task 
+groovy classes run gradle task managed make work pass parameters command line command line br build gradle code takes parameters arguments parameters code wondering pass parameters classes 
+
+href https docs gradle org current dsl org gradle api tasks javaexec html rel nofollow javaexec declare task pass project parameters app run simply write 

@@ -1,0 +1,4 @@
+spring reads property file values null 
+dont understand problem properties file spring application file read read values null part context xml test properties src main resources run output assume propertysources system properties change xml line filenotfound exception means file loaded load properties test properties problem 
+
+property placeholder doesnt automatically expose properties environment inject property 

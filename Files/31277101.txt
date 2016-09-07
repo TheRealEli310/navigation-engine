@@ -1,0 +1,4 @@
+static variable unique thread 
+static variable unique thread case static variables guaranteed threads occasionally update static variables main memory guaranteed type variable static thread unique essentially global thread hidden threads 
+
+javas href http docs oracle javase docs api lang threadlocal html threadlocal blockquote class thread local variables variables differ normal counterparts thread accesses set method independently initialized copy variable blockquote mind thread pooling problems thread terms starting process happening reusing thread finished working data left overs hard debug occur wild href http tutorials jenkov concurrency threadlocal html creating threadlocal tutorial threadlocal 

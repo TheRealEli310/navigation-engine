@@ -1,0 +1,4 @@
+spring mybatis integration issue 
+facing exception spring mybatis application running fine jdk amp spring spring needed jdk upgrade facing compatibility issues sample code details poc based href http blog lanyonm org articles spring mybatis config html rel nofollow blog mike app works fine change spring version case exception strong pom strong strong appinitializer strong strong appconfiguration strong strong user mapper strong strong user strong 
+
+problem remove duplicity strong solution problem strong spring amp mybatis mappers shouldnt defined explicitly youre mapperscan scan mybatis mapper implementations instantiation beans handled automatically 

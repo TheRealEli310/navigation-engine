@@ -1,0 +1,4 @@
+access h2 mem database websphere v8 jpa 
+struggling days searched dozens articles stackoverflow dev sites deployment manager interface configure websphere application server h2 jdbc provider data source application tutorial found href http wiki ivonet nl display howto creating h2 datasource websphere application server rel nofollow jdbc data source data source tested datasource test connection button dm worked fine access datasource app error access reading href http stackoverflow questions org apache openjpa persistence argumentexception running main class issue checked location persistence xml file war generated location web inf classes meta inf persistence xml persistence xml ideas advance 
+
+found full jndi names doesnt work websphere plain jdbc sgodb find context 

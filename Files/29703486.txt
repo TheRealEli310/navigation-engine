@@ -1,0 +1,4 @@
+tomcat loading jdbc connector jar catalina home app instance lib project pom 
+tomcat application needing load mysql connector jar jdbc connection put connector jar catalina home app instance lib directory loads fine import jar war maven put jar catalina home lib load fairly typical war setup imported jar web inf lib directory difference projects work context file datasources located explicit file webapp app meta inf context xml ideally put connector jar war maven happening fix connector jar imported maven greatly appreciated 
+
+parts solution ol li parts context files filled properties located catalina properties catalina properties loaded instance classloader connector jar loaded classpath couldnt put connector jar tomcat home lib li li context calling tomcat factory factory org apache tomcat jdbc pool datasourcefactory loading required dependency factory application connector jar dependency added dependencies issue resolved li ol 

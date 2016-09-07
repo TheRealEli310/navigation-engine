@@ -1,0 +1,4 @@
+background tint text view working pre lollipop devices 
+downloaded latest android support library suppose support tint working run devices lesser lollipop 
+
+researching found party library github chat bubble background color changing similar background tint effect check href https github himanshu soni chatmessageview rel nofollow https github himanshu soni chatmessageview 

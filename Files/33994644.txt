@@ -1,0 +1,4 @@
+mapstruct object class custom class mapping 
+newbie strong mapstruct strong source class attribute runtime returns custom object named ticketdetails target class attribute named map attribute ticketdetails object understanding writing normal code question achieve case strong mapstruct strong 
+
+mapper abstract method mapper case abstract class interface define mapping generated method conversion invoke manually written method converting property 

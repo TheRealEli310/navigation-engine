@@ -1,0 +1,4 @@
+jococo maven multi module project coverage 
+couple questions things changed support jacoco project structure configured main pom xml pom xml pom xml executing command jacoco exec generated html reports verify data point configuration correct projects strong update strong identified issue changed generating reports individual modules strong idea generate consolidated report strong 
+
+ability generate aggregate coverage report multiple maven modules supported open issue href https github jacoco jacoco issues rel nofollow https github jacoco jacoco issues edit found page collects information subject href https github jacoco jacoco wiki mavenmultimodule rel nofollow https github jacoco jacoco wiki mavenmultimodule 

@@ -1,0 +1,4 @@
+processdefinition jpdl jbpm 
+project existing jpdl xml definition working fine run jpdl xml definition deployment ear file read jpdl xml processdefinitionid code missing deployment steps guide deploy read jpdl xml 
+
+created batch job deploy jpdl file jbpm api internally inserts values jbpm4 xxx tables successful deployment class deploy jpdl file passing values jpdl key spring dependency finally steps worked successfully 

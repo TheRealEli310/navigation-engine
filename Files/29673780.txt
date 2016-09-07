@@ -1,0 +1,4 @@
+consistency level statement consistency level defined 
+datastax cassandra driver cassandra version statement build setting consistency level statement explicitly exception calling makes load articles organization memory work creates load cassandra removed noted comments read timeout puzzled exception message strong question strong exception telling consistency level set original statement internally query cl default 
+
+problem href https issues apache org jira browse cassandra rel nofollow https issues apache org jira browse cassandra error message failing perform read repair unrelated original consistency level fixed 

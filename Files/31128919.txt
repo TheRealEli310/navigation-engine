@@ -1,0 +1,4 @@
+create servlet context autowiring spring 
+singleton class private members servletcontext object made singleton remove spring dependency write pure code null creating object class needed manually autowired spring injecting dependency solve 
+
+spring annotation happen response annotation spring remove dependency spring pick depending spring wiring solutions follow h1 spring h1 h3 make spring bean inject h3 put spring context bean factory inject wiring strategy class h3 make spring bean h3 reason access spring bean factory lookup bean type h3 spring autowire existing object h3 good reasons instance call spring wire fields em method class references spring whats open ide make adjustments spring version em h1 spring h1 h3 instantiate em servlet em listener h3 create method takes br inside call method set field h3 store static global h3 create object static field store inside call method holder set field br inside call 

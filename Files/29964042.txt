@@ -1,0 +1,4 @@
+remove version install version 
+linux box installed tool install href http download oracle otn pub jdk 8u45 b14 jdk 8u45 linux x64 tar gz rel nofollow jdk 8u45 linux x64 tar gz remove install 
+
+ol li remove openjdk youve installed li li make directory jdk li li copy file directory file path li li extract file li li add path open profile scroll end add path jdk installed save exit li li inform linux system oracle jdk jre located notify system oracle jre notify system oracle jdk notify system oracle web start li li inform linux system oracle jdk jre default set runtime environment system set javac compiler system set web start system li li reload system wide path li li check version youre li ol 

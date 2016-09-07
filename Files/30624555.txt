@@ -1,0 +1,4 @@
+gson deserialization wrapped list objects 
+de serialize list objects json response json array key causing issues gson de serialize objects similar api method returns list objects returned json clients changing format json reasonable option point order parse type response mix methods gson cleaner method deserialization id retrofit answer href http stackoverflow questions nested json object gson retrofit nested json object gson retrofit close doesnt handle copied generic version answer goal call work 
+
+class device class update retrofit method wont require custom deserializer 

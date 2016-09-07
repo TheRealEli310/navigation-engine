@@ -1,0 +1,4 @@
+concurrently process lines text rxjava 
+wondering concurrently process lines text rxjava observable entry set subscriber entry processes entry onnext call subscriber subscribes observable line code run runs slowly sequential version processing sequentially make concurrent 
+
+call means emissions observed thread em em threads create observable item emitted source inside mapping function processing work subscription entire chain blocked processing completes ensure subscription thread output order threads processed parallel 

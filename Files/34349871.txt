@@ -1,0 +1,4 @@
+memory allocation takes place scala 
+unlike scala object ul li scala object memory allocation place li li memory heap reference variables li li class instance created methods variables class memory heap singleton objects li li heap affect performance li li memory divided sections heap stack methodarea scala memory allocation takes place li ul 
+
+strong scala strong runs strong jvm strong base library strong scala strong file scala compiled class bytecode run strong jvm strong translated decompile bytecode javap hr translated decompile bytecode javap hr translated decompile bytecode javap memory questions strong strong 

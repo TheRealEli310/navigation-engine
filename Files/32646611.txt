@@ -1,0 +1,4 @@
+change android host apdu service attribute android requiredeviceunlock runtime 
+android href https developer android guide topics connectivity nfc hce html screenoffbehavior rel nofollow nfc hce hostapduservice configured apduservice xml make requiredeviceunlock user configurable setting runtime suspect force reloading xml file restarting service change setting xml file runtime 
+
+implementing functionality making user preference require device unlock api href https developer android reference android nfc cardemulation hostapduservice html rel nofollow https developer android reference android nfc cardemulation hostapduservice html point time eligible call change requiredeviceunlock set applications apduservice xml file change future set false apduservice implementation check sharedpreference setting user accept deny process 

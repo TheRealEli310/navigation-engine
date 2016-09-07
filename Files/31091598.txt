@@ -1,0 +1,4 @@
+print duration human readable format el 
+package writing webapp work specific times day durations events wrote code classes package render jsp simple object returns human readable vale write rendered approach doesnt work duration representation case minutes exist elegant perform human readable conversion jsp directly el convert object string classes jsp searching suggested approach find point official convert method duration object thinking wrong object map duration time add subtract 
+
+exists elegant builtin format found method em bobince em describes href http stackoverflow answer prints blockquote blockquote code tuned longer durations missing method suited adding subtracting methods accepts argument 

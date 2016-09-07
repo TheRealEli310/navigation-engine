@@ -1,0 +1,4 @@
+javafx filteredlist filtering based property items list 
+case filter based properties items condition internal external found javafx set predicate filtering works property determines filtering setting predicate predicate returns boolean booleanproperty property reflected list easy solution workarounds create separate list sync reset predicate time property item retriggering filtering wanted case pretty solution workarounds 
+
+create underlying list href http docs oracle javase javafx api javafx collections fxcollections html observablearraylist javafx util callback rel nofollow extractor enable underlying list fire update events elements change observe events update quick demo 

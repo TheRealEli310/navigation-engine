@@ -1,0 +1,4 @@
+make spring transactional work junit test 
+make test work spring annotation added vm options test fails miss 
+
+check link similar problem facing href http stackoverflow questions configure aspectj load time weaving interface configure aspectj load time weaving interface link asked provide aspectjweaver jar spring instrument jar vm argument good worked 

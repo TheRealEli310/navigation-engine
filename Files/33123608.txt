@@ -1,0 +1,4 @@
+integration tests oauth2 authentication service 
+learn spring boot services decided place start oauth2 authentication service integration tests make auth running properly problem token curl fine grab error json curl command integration test code config pretty copied pasted href https github dsyer spring oauth2 integration tests blob master vanilla src main demo application rel nofollow title https github dsyer spring oauth2 integration tests blob master vanilla src main demo application insights wrong 
+
+regular persuade rest template send form encoded data request body 

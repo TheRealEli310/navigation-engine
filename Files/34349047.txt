@@ -1,0 +1,4 @@
+difference javax servlet api jar servlet api jar 
+maven repository groupid separate artifacts servlets confused build simple servlet application whats difference artifacts 
+
+add project version differ depends servlet container tomcat dont runtime servlet container 

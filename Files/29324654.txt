@@ -1,0 +1,4 @@
+create ee container deployable jar 
+main project standalone batch move container ejb timer wildfly thought building war file timer class dependencies withing web inf lib doesnt sound elegant solution isnt web app doesnt bound context jar ejb inside dependencies fat jar container throws error deploy ear guys war file fine ps maven suggestions account 
+
+dont war file web application doesnt harms put jar file dont add doesnt meaning confusing bruno sar pointed em package em ejb href http docs oracle cd e19798 gipnz index html rel nofollow youll ways package jar war ear 

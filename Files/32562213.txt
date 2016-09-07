@@ -1,0 +1,4 @@
+configure spring mvc groovy templates 
+configured file named test tpl web inf templates controller return test resolve view test servlet spring btw plain spring mvc project spring boot project 
+
+couple things wrong start ol li isnt part classpath current configuration locate files wrong directory remove configuration li li current configuration load due due fact provided prefix remove prefix li ol bit pickle wont work return url redirect forward rendering view 

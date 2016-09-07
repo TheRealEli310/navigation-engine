@@ -1,0 +1,4 @@
+edittext focus start prevent pushing layout 
+id focus view focus activity startup activity started click receive focus startup problem receiving focus pushing xml file activity id focus prevent keyboard pushing 
+
+remove android windowsoftinputmode statevisible adjustpan manifest activitys oncreate add code 

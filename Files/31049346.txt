@@ -1,0 +1,4 @@
+calling preferencefragment method api 
+android newbie apply material design app app called settings menu entry loaded activity extended preferenceactivity modernise preferencefragment shown tutorial href http www cs dartmouth campbell cs65 lecture12 lecture12 html rel nofollow http www cs dartmouth campbell cs65 lecture12 lecture12 html api compiler wont call getfragmentmanager getsupportfragmentmanager compiler wont load fragment code shown red line mprefsfragment error message wrong knowledge 2nd argument replace correct type relevant sections code shown 
+
+simply api8 added api11 launched support older apis stick stay design found href https android googlesource platform development master samples support7demos src android supportv7 app appcompatpreferenceactivity rel nofollow samples import android studio preference functionality implements methods 

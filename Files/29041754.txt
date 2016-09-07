@@ -1,0 +1,4 @@
+doesn textbook program recognise point2d objects 
+program supplied textbook compute distance coordinates x1 y1 x2 y2 point2d class looked times made correctly copied compile program terminal error messages pre class lang prettyprint override wont program recognize point2d objects 
+
+missing jar javafx runtime jar refer question href http stackoverflow questions whats location javafx runtime jar file jfxrt jar linux location javafx runtime jar file jfxrt jar linux detailed explanation location jfxrt jar hope helps 

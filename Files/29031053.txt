@@ -1,0 +1,4 @@
+onactivityresult camera null intent 
+working lovely till yesterday upgraded phone tested application emulator basically purpose user photo return open cropping return set imageview worked fine intent onactivityresult null heres code 
+
+href http commonsware blog android crop intent html rel nofollow android respect supposed quoting href http developer android reference android provider mediastore html action image capture rel nofollow documentation blockquote caller pass extra extra output control image written extra output present small sized image returned bitmap object extra field blockquote supposed image poorly documented 

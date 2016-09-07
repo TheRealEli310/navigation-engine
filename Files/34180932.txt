@@ -1,0 +1,4 @@
+error cached plan change result type mixing ddl select jdbc 
+experiencing interesting issue postgresql jdbc couldnt reproduce jdbc blockquote error cached plan change result type blockquote simplest reproduce issue code fact code works fine leads assuming subtle bug jdbc driver simply removed sixth ddl statement batch discarding cached plans href http www postgresql org docs current static sql discard html rel nofollow work makes things worse href http stackoverflow running error message blockquote error prepared statement doesnt exist blockquote workaround pointer documenting bug interesting bit related href http stackoverflow default prepare threshold 
+
+related href http stackoverflow postgresqls defaults jdbc driver setting solve work issue href http stackoverflow info stack overflow question 

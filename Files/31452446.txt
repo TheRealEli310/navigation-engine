@@ -1,0 +1,4 @@
+heapspace requirement arrays sort collections sort 
+written method sorts arraylist swaps consecutive elements arraylist facing issue implement method collections sort heapsize error arrays sort run successfully method error blockquote exception thread main lang outofmemoryerror heap space util arrays copyof arrays util arrays copyof arrays util arraylist grow arraylist util arraylist ensureexplicitcapacity arraylist util arraylist ensurecapacityinternal arraylist util arraylist add arraylist solution wave solution main main main blockquote modify runs fine desired results happening explain 
+
+swap operation call increasing list endlessly 

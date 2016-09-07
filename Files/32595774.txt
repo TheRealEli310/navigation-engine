@@ -1,0 +1,4 @@
+internal state error powermockito running junit test 
+run simple junit test stack trace run test error org powermock reflect internal whiteboximpl getinternalstate whiteboximpl suggestions appreciated 
+
+bug occurs junit powermock lt problem solved powermock update dependencies upgrade powermock junit add lines stacktrace uncover details problem 

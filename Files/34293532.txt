@@ -1,0 +1,4 @@
+vert failed create child event loop 
+creating files 5mb sizes vertx file apis exception randomly creating files failed create child event loop vertx3 java8 code snippet callback call function create file file creation concurrent exception stack trace 
+
+answer forum href https groups google forum topic vertx uyabqf1cghu rel nofollow jez culprit creates vertx time leading multiple eventloops problem cached variable time worked 

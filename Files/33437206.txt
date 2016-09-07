@@ -1,0 +1,4 @@
+sonar issue correctness call equals comparing types 
+youve encountered kind isssue comparing strings building stringbuilder blockquote correctness call equals comparing types findbugs ec unrelated types method calls equals object references class types common subclasses objects compared members class runtime application classes analyzed dynamic class loading occur runtime contract equals objects classes compare unequal contract defined lang object equals object result comparison false runtime blockquote btw sonarqube tools comparing string dont clue determine failing dont problem find ill post approaches 
+
+kind types attributes filtro getusuario getnombre filtro getmaterial getid theyre type string shouldnt compare equals string vacio cast integer checked integer getnombre equals 

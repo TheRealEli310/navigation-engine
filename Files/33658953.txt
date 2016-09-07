@@ -1,0 +1,4 @@
+performance difference equal methods 
+reading samples jmh framework question code sample called href http hg openjdk net code tools jmh file bcec9a03787f jmh samples src main org openjdk jmh samples jmhsample forking rel nofollow jmhsample forking running code results author predicted result explained blockquote c1 faster c2 slower c1 slow blockquote question c2 slower c1 code classes methods source performance difference strong update strong add implementation counter obtained results 
+
+test implementation jit compiler assume calling implementation inline code test introduce implementation call inline implementations perform dynamic dispatch iteration slower test due uncertainty choice test implementation test state world test jit implementation exists back believing implementation execute slower fashion test moral story code influences performance state world state world test optimization perspective state world tests 

@@ -1,0 +1,4 @@
+rollback transaction test apache camel 
+struggling make working junit test rolls back actions occurred camel routing camel route setup listens directory expecting csv file csv file appears creates searchanalytics data adds row table line csv file default spring transaction methods put apply actions occur camel routing code works saves data permanently rollback insert means test pass manually delete data blockquote code make roll back transaction blockquote strong route strong strong junit test strong 
+
+blockquote strong add bean context strong add javaconfig option blockquote mentioned comment section andreas add transacted route ensure transaction manager bean injected context file strong route strong strong context bean config strong hr blockquote strong alternatively add transaction dao strong blockquote annotation dao method called strong searchanalyticsprocesser strong transaction maanger bean required annotation 

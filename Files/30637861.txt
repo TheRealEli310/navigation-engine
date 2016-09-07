@@ -1,0 +1,4 @@
+maven local artifacts resolution work day 
+install artifact inside local repository command resolve artifact code thing works pretty day repository expires mvn install things work exception fact maven metadata xml inside directory disappear hr content maven metadata local xml reinstall 
+
+finally managed bug drools implementation find artifact maven repository local remote check href https issues jboss org browse drools rel nofollow drools 

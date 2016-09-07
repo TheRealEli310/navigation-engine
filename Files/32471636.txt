@@ -1,0 +1,4 @@
+populate spinner based selection arrayindexoutofboundsexception 
+string populate data strong spinners strong make selection spinner1 selected show initial spinner2 strong remove strong strong spinner2 strong selected strong october strong start strong november strong strong update strong suggested amy strong exception strong 
+
+problem code lines define array size strong arraymonths length selected position strong check signature method em arraycopy em blockquote src source array copy content srcpos starting index content src dst destination array copy data dstpos starting index copied content dst length number elements copied blockquote change length elements copied em arraymonths length selected position em h1 code snippet h1 hope helps 

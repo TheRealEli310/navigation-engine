@@ -1,0 +1,4 @@
+add step spring batch job annotations 
+href http spring io guides gs batch processing rel nofollow spring doc creating batch service tweaked href http stackoverflow store data mongodb add step reads mongodb collection processes amp writes collection found spring batch tutorials mongodb xml files define beans amp outdated error 
+
+youre missing call href http docs spring io spring batch apidocs org springframework batch item data mongoitemreader html settargettype lang class rel nofollow docs mongoitemreader details afterpropertiesset required fields 

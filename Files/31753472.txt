@@ -1,0 +1,4 @@
+null pointer exception startforeground service android 
+starting foreground service null pointer exception null reference download mp3 server show progress notification google play store application downland strong mynotification getapplicationcontext null strong dont close question explain proper handle itemclick row listview class class generate notification 
+
+issue start service foreground read href http developer android guide components services html rel nofollow android services lifecycle start service code fundamental mistakes launch href https github commonsguy cw android tree master notifications fakeplayer rel nofollow foreground service terms whats specifically wrong code simplest explanation start intent starts service service running correct context call startforeground create object call startforeground application 

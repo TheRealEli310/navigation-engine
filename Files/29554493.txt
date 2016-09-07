@@ -1,0 +1,4 @@
+close create statement time call execute 
+create statement jdbc execute query close statement create executing eclipse doesnt complain case opposed 
+
+required statement query db multiple times thing remember resultset returned statement execution closed creating statemnet quoting href http docs oracle javase docs api sql statement html rel nofollow docs blockquote default resultset object statement object open time reading resultset object interleaved reading generated statement objects execution methods statement interface implicitly close statments current resultset object open exists blockquote eclipse complaining case purpose define query structure execute query multiple times changing parameters parse insert large text file db quoting href https docs oracle javase tutorial jdbc basics prepared html rel nofollow javadocs blockquote execute statement object times reduces execution time preparedstatement object blockquote 

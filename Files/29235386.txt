@@ -1,0 +1,4 @@
+declare class nashorn 
+extend abstract classes interfaces add custom methods constructors fields class works 
+
+sundararajan correctly states add features extended class suspect nashorn implements classes created strong extend strong add statement strong print myclass class strong end script type class jdk nashorn javaadapters strong lang object strong class defined nashorn customization added defining extended class run time customization added excluding overriding wont nashorn nashorn documentation implies limitation explicitly spell href http stackoverflow questions extend class nashhorn javascript add class member variables rq related stack overflow question information 

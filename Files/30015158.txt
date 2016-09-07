@@ -1,0 +1,4 @@
+run elasticsearch service ubuntu 
+setup elasticsearch everythings running fine ubuntu upgrade os ubuntu failed start elasticsearch service run directly command logs elasticsearch find executable binary thought environment variables users add home didnt work ideas problem 
+
+difference ubuntu systemd runs services context href http serverfault questions set environment variable systemd service http serverfault questions set environment variable systemd service set environment variables systemd set href https wiki ubuntu systemdforupstartusers rel nofollow https wiki ubuntu systemdforupstartusers 

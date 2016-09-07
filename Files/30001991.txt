@@ -1,0 +1,4 @@
+performance avoid constructor delegation 
+wondering strong performance difference running constructor constructor em aka constructor delegation em strong dont interpret question supporting redundancy copying long constructors performance boost understand cases calling constructor constructor desirable reasons performance readability class recently created benefit calling simply setting variables 
+
+strong main strong strong javap output javap main class pokus1 main strong instruction offset call fundamentaly effective call constructor optimizations current jvm implementations method inlining time compilation doesnt call 

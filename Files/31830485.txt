@@ -1,0 +1,4 @@
+apache kafka producer api write messages 
+set apache kafka centos environment created topic received dummy messages command line producer consumer href http stack imgur apcol png rel nofollow img src http stack imgur apcol png alt enter image description screenshot worked writing custom producer messages topic calling shown main result message kafka topic print error message idea message arrive topic 
+
+morganw09dev found answer tested dependencies em org apache kafka kafka em em org apache kafka kafka clients em worked dependency worked em org apache kafka kafka em bug downloaded run kafka binaries 

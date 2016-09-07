@@ -1,0 +1,4 @@
+playframework intellij 
+import playframework project intellij failed import existing created pre made steps ol li created play project activator li li open created project intellij opened open dialog selected folder app set jdk li ol exception sbt log 
+
+solution delete sbt ivy m2 folders user home folder removed sbt home system variable intellij create valid project 

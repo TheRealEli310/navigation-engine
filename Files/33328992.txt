@@ -1,0 +1,4 @@
+bind uniform locations glsl 
+attempting bind uniform variables location work bind strong attributes strong vertex normal data code sort thing uniform variables automatically assigned locations binding attributes resulting loss data lighting normals worst crashing game people play 
+
+shader uniforms starting opengl set layout qualifiers bind locationn uniform location details href https www opengl org wiki uniform glsl explicit uniform location rel nofollow arb explicit uniform location extension fix uniforms location 

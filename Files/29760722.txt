@@ -1,0 +1,4 @@
+create nested rdds apache spark 
+implement nearest neighbor algorithm spark wondering work nested rdds make life lot easier code snippet error nested settings post full log allowed fist place 
+
+items rdd serializable rdd serializable makes sense transfer network rdd problem lot data lot data array dont implementing nearest neighbor careful calculating distance couple point scalable dataset size n2 

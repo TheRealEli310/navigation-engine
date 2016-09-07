@@ -1,0 +1,4 @@
+draw maze jpanel 
+making random maze generator user select algorithm press generate button resulting maze center jframe maze generated draw inside jpanel dfs backtracking algorithm cell boolean variables indicating cell wall left algorithm runs removes walls dream theater cell information needed draw maze dont play indexes draw lines draft code strong update strong solutions problem border bottom border dont drawn 
+
+href http docs oracle javase docs api awt graphics html rel nofollow docs class blockquote graphics pen hangs path traverses blockquote draw hand border cell hand edge maze pen solution bounds check coordinates line segments make lines drawn inside image 

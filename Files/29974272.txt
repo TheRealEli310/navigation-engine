@@ -1,0 +1,4 @@
+manage socket io listeners activities 
+application working multiple activities android connection server managed socket io channels moment initialising socket events common class socket class initialized app launch activities manipulate views directly avoid writing listeners activities receivers common authentication part valid app scheme ul li socket class methods init socket io listeners li li activity launches socket io connection registers listeners li li activity manipulated socket class li ul dont clear dont hesitate details alex 
+
+make interface listener called class base activity implementing listeners common implementations implemented leave rest implementation activities override activities inherit base activity share socket make singleton 

@@ -1,0 +1,4 @@
+primefaces filterfunction line table 
+filtering datatable filter custom function problem input columns datatable default signature implementing filterfunction parameter holds contents passed attribute whats making tricky field filter key values pass datatable line filter function backing bean 
+
+found solve passed attribute el expression language write filter xhtml filter function 

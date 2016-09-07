@@ -1,0 +1,4 @@
+clone object 
+clone object method clone type object visible 
+
+standard method read josh bloch cloning book href http books google books id ka2vubqhiwkc amp pg pa55 amp lpg pa55 amp dq effective 2bjava 2bclone amp source bl amp ots yxghlnv4o4 amp sig zveip5tp5kggwqo1scwgtgyj1ns amp hl en amp ei cyansqygk8jktgfm jgcca amp sa amp oi book 5fresult amp ct result amp resnum ppa54 m1 effective strong deep copy strong case create empty objects copy strong values strong fields object 

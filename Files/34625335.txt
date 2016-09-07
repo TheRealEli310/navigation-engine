@@ -1,0 +1,4 @@
+libgdx centering orthographic camera 
+working game camera game centered middle screen device lengths hope href http stack imgur abwqg png rel nofollow picture explain achieve setting position camera hasnt worked dont giving wrong coordinates setting position happening lack vertical centering appreciated 
+
+orthographic camera position libgdx means position strong game strong device screen changing wont move game screen device camera position move position camera game br response player input movement moving camera game left players input code issues setting batch projection matrix resetting camera position center viewport frame br finally centering libgdx app device screen libgdx intend spare screen libgdx app create camera work full screen render actual game camera hud 

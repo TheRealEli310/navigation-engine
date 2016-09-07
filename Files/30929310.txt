@@ -1,0 +1,4 @@
+javafx initialize scene show achieve 
+controllers initialize method scene show method invoked scene show put code method put code initialize method invoked fxml file loads controller verymuch 
+
+solution find event occurs window shown href https docs oracle javafx api javafx stage windowevent html window showing rel nofollow doc link 

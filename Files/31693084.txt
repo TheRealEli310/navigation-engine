@@ -1,0 +1,4 @@
+make method accept list objects datatype 
+goal check type convert strings add achieve 
+
+pass list objects dont call tostring string valueof message object side potential problems arise null elements messages list check loop potential pitfalls ul li messages initialised adding messages throws li li method singleton spring service working instance variables avoided li ul 

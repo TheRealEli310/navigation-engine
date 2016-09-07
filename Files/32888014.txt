@@ -1,0 +1,4 @@
+validate currency string 
+suppose currency string german format check money valid currency valid invalid invalid 
+
+snippet work 

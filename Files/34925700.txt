@@ -1,0 +1,4 @@
+setting play postgres hikaricp yields configuration error 
+set play framework server connection local postgres current build sbt newest jdbc postgres added error receive found play require hikari explicit dependecy additonally passwords username correct aswell databsename dont info frameworks websites checked extensively multiple people similar problems solutions step path 
+
+places configure connection pool ol li href https www playframework documentation settingsjdbc rel nofollow play docs settingsjdbc li li href https github playframework playframework blob master framework src play jdbc src main resources reference conf rel nofollow play jdbc file li ol pool configured notice configuration nodes nested configuration specific hikaricp file bonecp offer configuration node href https github typesafehub config rel nofollow typesafe configuration library supports configuration writing plainly 

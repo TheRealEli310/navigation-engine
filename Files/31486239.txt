@@ -1,0 +1,4 @@
+complete method swaps half array integers 
+bounds error run code wrong figure 
+
+indexes valid bounds practice debugging placing break point tracing code executes 

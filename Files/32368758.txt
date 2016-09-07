@@ -1,0 +1,4 @@
+log4j2 lang noclassdeffounderror org apache logging log4j logmanager 
+log4j application added dependency maven br running program eclipse work fine package maven run jar error find class running jar adding work program running fine eclipse missing dependency 
+
+running application jar command line dependent jar runtime include plugins pom xml dependencies runtime maven shade plugin maven dependency plugin execute generate uber jar copy dependencies outputdirectory prefer maven shade plugin generate jar dependencies 

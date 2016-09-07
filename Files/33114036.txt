@@ -1,0 +1,4 @@
+android application hangs suspends threads asynctask 
+class websites content logs tells art suspending threads number ms repeatedly application frozen log messages printing ui shows log tutorial double checked code logs lines code website websites 
+
+problem part statement means wait task completes blocking ui thread task executes background task stuff results back 

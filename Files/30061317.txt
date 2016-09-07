@@ -1,0 +1,4 @@
+gson fromjson reader json type typeoft fromjson string json type typeoft 
+working code base takes body network response feeds gson instance create pojos ill call theyre adamant call whats difference difference make 
+
+class reading stream characters parser takes character reader parse input gradually string forces store json parsing huge structure parse optimal response request read reader permits directly parse response reading stream build string feed string parser json directly string pratical lets huge json file parse syntax error line reading content string parsing error line inefficient read line malformed json 

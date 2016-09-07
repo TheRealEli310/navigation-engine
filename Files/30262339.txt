@@ -1,0 +1,4 @@
+adding quickblox android sdk httpmime 
+android project library uploading images sever multipart form request br add build project made research problem found quickblox httpmime people advices remove httpmime classes quickblox jar couldnt find needed classes quickblox jar multipartentitybuilder stringbody 
+
+solved problem adding jars files project build path deleted jar file project lib br downloaded source jar br href http www java2s code jar downloadhttpmime43sourcesjar htm rel nofollow http mime source extract br created android library project added packages packages br br finally added project library project things working great conflict 

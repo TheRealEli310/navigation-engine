@@ -1,0 +1,4 @@
+multi project gradle build pack content subproject war subproject jar 
+strong problem strong multi project strong strong build configure unpack content generated content unpacked directory classes resources deployment container packed application distribution root level classes resources dependencies structure distribution produced question copying resource answered href http stackoverflow questions gradle copy subproject resources copy content dynamically generated build artifact generally copied packed strong rationale strong standalone app running em tomcat embed server em em javafx webview em accessing web app em localhost em turning web app sort standalone desktop app lines code run nicely eclipse pose packaging challenge distribution 
+
+finally found solution posting benefit facing similar problem strong strong strong strong 

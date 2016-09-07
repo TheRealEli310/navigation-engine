@@ -1,0 +1,4 @@
+int class autobox class integer 
+question doesnt make sense dont describe code compiles fine shouldnt type shouldnt give compiler error compiler expects type runtime resolved magic compiler lets primitives compiler relaxes validation primitives doesnt lead bugs method writers expect type exact type delivered short compile produce depending perspective result runtime output control group code expect errors 
+
+strong observed direct result generics handle primitives auto boxing strong consistent cases class information generics reflection primitive types cases return examining type dereferencing href http docs oracle javase docs api lang integer html type type field enclosing wrapper class returned case find full list primitive type void href http docs oracle javase docs api lang class html isprimitive primitives em part language spec em 

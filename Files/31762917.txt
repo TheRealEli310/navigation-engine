@@ -1,0 +1,4 @@
+truncate double decimal places 
+round double decimal places esentially leaving digits follow question brought numerous times href http stackoverflow href http stackoverflow recommended approach scale avoid expensive converting string back rounding mode apparently method due loss precision returns unexpected results begs questions ol li supposed work loss precision case doesnt defeat purpose li li correctly truncate values li ol 
+
+avoide expensive conversion string back avoids loss precision arbitrary precision free arbitrary precision 

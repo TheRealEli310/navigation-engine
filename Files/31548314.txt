@@ -1,0 +1,4 @@
+lang nullpointerexception variable eclipse 
+looked web find answer error found matches error fail understand relation error running eclipse blockquote lang nullpointerexception ca sheridancollege controllers cardealership doget cardealership javax servlet http httpservlet service httpservlet javax servlet http httpservlet service httpservlet org apache tomcat websocket server wsfilter dofilter wsfilter blockquote code thinks rs null catch em em appreciated 
+
+problem call executequery throws exception rs stay null catch block doesnt stop execution itll continue rs null leading error line 

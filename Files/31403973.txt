@@ -1,0 +1,4 @@
+unit testing ejb mockito testng openejb 
+ejbs em personservice em em personserviceimpl em em remotepersonservice em em remotepersonserviceimpl em tests em abstracttest em em personservicetest em hr replace remotepersonservice implementation em personserviceimpl em mock mockito call em testpersonservice em method em personservicetest em doesnt work mock remotepersonservice injected personservice true ejb strong make work strong 
+
+dont annotations tests constructor wire dependencies create mocks pass test 

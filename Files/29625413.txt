@@ -1,0 +1,4 @@
+swing ui refresh background thread prints exception 
+jframe displaying jtree large number nodes added created threads adding node tree make newly added nodes visible ui reload frame seconds frame reloaded newly added nodes visible background thread prints exception console hinder ui output reason exception rid exception stack trace figure synchronized code nodes added frame refreshed didnt advise case 
+
+swing thread modifications swing ui components performed event dispatch thread remove threads implemented perform operations main thread 

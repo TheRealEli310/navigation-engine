@@ -1,0 +1,4 @@
+jface checkboxtableviewer content provider 
+jface tableviewer class pre class lang prettyprint override works great display checkboxes column table row native swt flag swt check work searching found class checkboxtableviewer changed pre class lang prettyprint override checkboxes displayed idea checkboxes content provider idea 
+
+separate set check boxes set provider methods values passed methods objects content provider alternatively methods 

@@ -1,0 +1,4 @@
+add multiple array list 
+created class employee variables id salary city made array list employee class object run file shows defaullt values add array list solve code 
+
+created employee class default values fields havent defined parametrized constructor setters hold employee add employee constructor iterate print employee list add parametrized constructor employee class define setter methods employee class hold values instance variables 

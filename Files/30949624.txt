@@ -1,0 +1,4 @@
+choose jdk javaee spring version 
+generally framework project spring mvc hibernate tomcat container care version concrete sdk framework version project application works tomcat meet problems deploy application tomcat ee server support javaee error method jpa2 supported javaee ee server provide shown hibernate dependency provide methods ee server solve problme javaee server support javaee consideration choosing jdk frameworks 
+
+jpa javaee7 onwards javaee compatibity jdk versions href http stackoverflow questions correlation ee j2ee j2se jdk versions previous stackoverflow question 

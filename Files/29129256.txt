@@ -1,0 +1,4 @@
+des ecb encryption results ciphertext 
+recently wrote simple application experimenting ecb cbc modes encryption noticed strange code works reason resulting ciphertext result string characters noticing difference resulting ciphertext ecb cbc modes unsure normal behavior shed light greatly edit application output closer inspection cycle collection results occasionally repeated reason 3b2bad06 ciphertext 306c8343 
+
+print encrypted string converting hex href http stackoverflow questions convert byte array hex string convert byte array hex string printing hash representation encrypted byte array contents 

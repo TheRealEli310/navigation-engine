@@ -1,0 +1,4 @@
+convert seconds years months weeks hours minutes seconds 
+struggling find solution converting seconds years months weeks hours minutes seconds 
+
+advice change time variable type int long method date class achieve remember methods deprecated 

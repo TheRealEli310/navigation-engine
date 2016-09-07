@@ -1,0 +1,4 @@
+serializable jpa entity collection member 
+previous href http stackoverflow answer explains findbugz sonarqube warning serializable class member collection fixed concrete class internally serializable interface externally guidance apply class jpa entity make serializable strong edit strong clarify problem ol li examples entity serializable collection interfaces concrete members correct approach jpa world li li change line li ol avoid findbugz sonarqube warning strong edit strong clarifying issue prompted gimby href http stackoverflow http stackoverflow blockquote link hibernate requires persistent collection valued fields declared interface type blockquote guess simply false positive sonarqube findbugz 
+
+question hibernate jpa implementation strong requires strong persistent collection valued fields declared interface type false positive static code analysis tools 

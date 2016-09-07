@@ -1,0 +1,4 @@
+finally catch return statement 
+result code finally terminate method tho compiler checks return doesnt terminate method 
+
+href https docs oracle javase specs jls se7 html jls html rel nofollow jls blockquote return statement completes abruptly preceding descriptions attempts transfer control transfers control statements method constructor blocks catch clauses return statement finally clauses statements executed order innermost outermost control transferred invoker method constructor abrupt completion finally clause disrupt transfer control initiated return statement blockquote espacially check phrases sentence return attempts transfer controll aftwerwards finally words execution finally block open execution return statement attempted transfer controll finally block higher returned inside finally block 

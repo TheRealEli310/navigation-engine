@@ -1,0 +1,4 @@
+datetimeformatters constants defined 
+href https docs oracle javase docs api time format datetimeformatter html rel nofollow class wondering constants defined specifically code href https docs oracle javase docs api time temporal chronofield html rel nofollow href https docs oracle javase docs api time format textstyle html rel nofollow return string snippet map string 
+
+source digging found pre defined called member href http grepcode file repository grepcode root jdk openjdk b132 time format datetimeformatterbuilder datetimeformatterbuilder 0field map rel nofollow datetimeformatbuilder class 

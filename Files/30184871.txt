@@ -1,0 +1,4 @@
+exception scheduled spring annotation find class org springframework scheduling annotation asyncannotationbeanpostprocessor 
+created scheduled job annotation put inside bundle class bundles imported inside bundle bs blueprint xml install bundle inside apache felix exception thrown add empty class annotation inside bundle works fine strong requestprocessorjob strong scheduled properly empty class makes error occur include module inside result reduntant class make work doesnt sounds solution ideas bug supposed work strangely 
+
+missing org springframework scheduling annotation lt import package gt section pom xml behaviour spring weird 

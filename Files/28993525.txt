@@ -1,0 +1,4 @@
+guava immutableset builder 
+href http docs guava libraries googlecode git javadoc google common collect immutableset html rel nofollow javadoc suggests ways create instances elements type collection ignoring method create existing collection ol li strong method strong li li strong builder strong li ol methods end strong prefer strong 
+
+completely depends youre build youve elements place directly method shorter youre elements places object state finalized place accumulating data flow create adding elements youre call 

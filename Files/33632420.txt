@@ -1,0 +1,4 @@
+nashorn scriptobjectmirror js type conversion 
+access javascript objects member variable nashorn scriptobjectmirror returned objects type determined runtime fits int return integer wont fit int return long instanceof check type convert long convenient members loss checking type nashorn give double throwing error case members numeric imagine narrow case shouldnt handled nashorn 
+
+recommended approach check instanceof lang number code expect javascript number casted number convert int long double calling methods intvalue longvalue 

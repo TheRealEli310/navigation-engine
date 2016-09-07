@@ -1,0 +1,4 @@
+care difference main thread ui thread lollipop 
+lollipop life easy called gui stuff avoided circumstances long running operations avoid kind hiccup long running stuff lollipop versions android iirc term point user thread animate ripples hero elements activities kind animation happen main thread processes input events busy creating stuff background android studio thread types annotation denote piece code run thread question app developer care run em em application 
+
+remember chet haases presentation years google io statement place continue animations instance method drawing animation smooth fps call slowed application logic stuff back question experience performance issues animations move drawing parts code 

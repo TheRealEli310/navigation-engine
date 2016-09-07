@@ -1,0 +1,4 @@
+android asynctask execution run synchronus tasks unchecked call execute params 
+run asynctask synchronously underline task work perfectly place directly function oncreate problem tasks start place function oncreate recalling method worked synchronus error android studio unchecked call execute params member raw type android os asynctask whats wrong fix work sync tasks 
+
+dont start asynctask method asynctask unchecked call due type check change declaration 

@@ -1,0 +1,4 @@
+logging retrofit 
+exact json request code pre class lang prettyprint override logs supposed proper logging removal retrofit 
+
+retrofit href https github square okhttp tree master okhttp logging interceptor httplogginginterceptor add dependency create object follow solution logcat logs similar set 

@@ -1,0 +1,4 @@
+soap request call correct method 
+soap request href https www openxades org wsdl rel nofollow https www openxades org wsdl generate valid soap envelope href http pastebin uhsjc8yf rel nofollow envelope requests correct data utility href http soapclient soapmsg html rel nofollow http soapclient soapmsg html request generic wsdl file method call combinations urls generate classes wsdl file work ideas h1 edit h1 similar problem commands add certificate installcert easily found google installcert host port keytool exportcert alias host installcert output keystore jssecacerts storepass changeit default file host cer keytool importcert alias host keystore path system keystore storepass keystore password file host cer 
+
+havent moment call url wsdl make xml correct test added method return xml code works 

@@ -1,0 +1,4 @@
+save mail attachment directly database saving hdd 
+found nice script connects email server emails content program download email attachments hdd save attachments pdf excel word images directly database save hdd uploading database oracle 12c database table rookie programmer tips question snip code save attachments hdd 
+
+caveat test basically youre code literally target data correctly means connection database writing sql framework insert scope single question answer handle assuming open connection working dont schema hope points direction isnt comprehensive solution bad design isnt issue youre working addressing resource management 

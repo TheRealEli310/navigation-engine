@@ -1,0 +1,4 @@
+reading dynamic file paths 
+code read write files write file locate load property files code locate file hardcoded continue read write dynamically ill switching computers work spaces special read files 
+
+property files treated resources resources end classpath read classloader packaged jar war edit answer question worked access file disk path path relative absolute run code place ide reach files project specifically files src application executed place working directory package important file code jar war access files absolute path file system access file tmp myfile txt program executes file access fileinputstream pass absolute path program run systems linux windows files present disk package files jar war files typically called resources resource files classloader mentioned code file src directory packaged src code jar resource file hope helps 

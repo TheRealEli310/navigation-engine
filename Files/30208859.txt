@@ -1,0 +1,4 @@
+spring propertysource relative path 
+folder jar app folder properties file folder conf class declaration sees file directory relative path import annotation 
+
+solution based fact extend classpath items manifest file leave properties file src main resources exclude final jar make folder conf jar copy properties file resources folder maven manifest file points conf folder part step 

@@ -1,0 +1,4 @@
+deserializing enum jackson 
+failing deserialize enum jackson dont case input strings camel case simply map standard enum conventions getter avail option reported blow wrong 
+
+annotate static method receives argument jackson calls em factory method em test factory method expects json valid syntax strings quoted 

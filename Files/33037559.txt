@@ -1,0 +1,4 @@
+spring rest security secure urls differently 
+working rest api spring basic authentication rest services api v1 url add set rest endpoints url api v2 protected token based authentication servlet configure spring security forms authentication urls 
+
+heres code sample config security configurations url endpoints 

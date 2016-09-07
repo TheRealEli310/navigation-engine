@@ -1,0 +1,4 @@
+toolbar appbarlayout pushing view offscreen view screen bounds 
+asked question previously worded poorly provided tabbed activity action bar tabs viewpager default project layout android studio button bottom fragment displayed tabs issue appbarlayout toolbar activity pushing part fragment view offscreen href http stack imgur 8fj2e png rel nofollow fragment editor button aligned bottom parent relative view href http stack imgur pcg0z png rel nofollow fragment displayed inside activity device button relative view rendered screen add padding button eventually screen caused appbarlayout toolbar pushing fragment xml parent activity prevent 
+
+apparently issue coordinatorlayout activity xml switching relativelayout fixed issue 

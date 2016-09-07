@@ -1,0 +1,4 @@
+sorting strings inserted array 
+create program takes user input sorts alphabetically operations prints final sorted array end body problem lost sort function ideas finish method 
+
+number problems code ill answer question enumerate problems method takes initialized values account loop comments writing actual code project issues ul li object point closing end methods make li li sorted array point making local variable called return attempt print fail local variable scope loop li li printing passed li ul 

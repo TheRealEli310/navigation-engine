@@ -1,0 +1,4 @@
+source code soapui maven 
+add source code code project soapui running maven wrote assertion class check response class made dir ext put jar file source code 
+
+adding jar folder made compiled class soapui test runner include code maven module project add dependency code maven project work common approach create modules directory projects root add code subdirectory lets call assertion module pom xml folder properties set sample values master run soapui tests declare assertion module adding soapui plugin section pom add dependency section run tests assertion module compiled soapui test runner longer add compiled jar folder 

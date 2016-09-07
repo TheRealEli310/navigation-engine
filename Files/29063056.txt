@@ -1,0 +1,4 @@
+create bits bitmaps bufferedimage object 
+obtain strong bits strong bitmaps rgb put multidimensional array perform tasks recreate bitmap original form code worked fine bits bit bitmaps end result shows black image bits bitmaps wrong advance 
+
+values youll image dark values rgb light values rgb appears black 

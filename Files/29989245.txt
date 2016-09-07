@@ -1,0 +1,4 @@
+android unit tests dagger 
+android app dagger dependency injection latest gradle build tools build variant unit testing instrumentation tests app mock testing classes testing dont android stuff theyre regular classes main code define class extends class unit tests defining test dagger wont generate defined application swapping build applications doesnt methods test classes provide mock implementation testing heres sample code application module base class tests test module 
+
+impossible dagger v2 workarounds read href https github google dagger issues workarounds ul li href https stackoverflow questions override module dependency unit test dagger lq override module dependency unit test dagger li li href https stackoverflow questions creating test dependencies dagger2 creating test dependencies dagger2 li ul 

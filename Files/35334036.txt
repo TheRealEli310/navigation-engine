@@ -1,0 +1,4 @@
+spring data mongodb repository findall field exclusion 
+strange issue spring data mongodb repositories exclude field request achieve works perfectly chance throws blockquote caused org springframework data mapping propertyreferenceexception property findall found type objecthistory org springframework data mapping propertypath propertypath org springframework data mapping propertypath create propertypath org springframework data mapping propertypath create propertypath org springframework data mapping propertypath propertypath org springframework data mapping propertypath propertypath org springframework data repository query parser part part blockquote 
+
+adding empty filter criteria trick apparently parameter filter results spring data derive query method recognize special meaning 

@@ -1,0 +1,4 @@
+mouselistener methods overridden compiler 
+part code imported awt awt event javax swing implemented mouselistener interface overridden methods mouselistener interface compiler throws errors class abstract override abstract method mouselistener wrong 
+
+adding override code shouldnt implement mouselistener sample code h2 code 

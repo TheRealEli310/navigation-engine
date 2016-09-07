@@ -1,0 +1,4 @@
+removing end stringbuilder 
+remove newline end stringbuilder code working tips 
+
+check ending equals desired substring reduce length calling 

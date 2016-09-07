@@ -1,0 +1,4 @@
+metaspace avoid decrease 
+short question due metaspace set initial size xx metaspacesize parameter configure minimum size target prevent full gcs due metaspace sizing mb metaspace application differ runtime mb needed happen full gc avoided clear mathias 
+
+setting prevent shrinking 

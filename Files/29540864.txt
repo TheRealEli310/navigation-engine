@@ -1,0 +1,4 @@
+print pretty json jersey trace 
+rest api jersey requests traces print json response prettier filter 
+
+configure configure href http stackoverflow format actual response logging logging prints response dont writing logger 

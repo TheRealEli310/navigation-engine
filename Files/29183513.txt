@@ -1,0 +1,4 @@
+running rest jax rs jersey intellij tomcat 
+tutorial intellij osx href http www vogella tutorials rest article html rel nofollow http www vogella tutorials rest article html running code eclipse works fine running code intellij delivers 404s uri program run apache tomcat server written tutorial figure wont work intellij searched days finding solution deployment wrong index jsp working fine hope code program class web xml project structure post pictures low reputation ul li rest ul li idea li li lib ul li javax ws rs api jar li li jersey client jar li li jersey common jar li li jersey container servlet jar li li jersey container servlet core jar li li jersey server jar li ul li li li li src ul li vogella jersey ul li li ul li ul li li web ul li web inf ul li web xml li ul li li index jsp li ul li ul li li rest iml li ul 
+
+fixed problem code href https github silvae86 intellij13 jerseyws rel nofollow github silvae86 

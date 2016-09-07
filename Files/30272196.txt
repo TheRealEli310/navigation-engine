@@ -1,0 +1,4 @@
+wait notify makes deadlock 
+run threads sleep locks deadlock whats wrong code wait notifyall object object 
+
+running code found thread generated generating synchronizing object preventing notifying found wait notify invoke stops change switch places 

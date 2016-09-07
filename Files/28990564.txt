@@ -1,0 +1,4 @@
+log tomcat slf4j util logging 
+created webapp runs tomcat slf4j case backed util logging default tomcat relevant dependencies added log statements code info debug find console output start tomcat eclipse log files created logs folder app running fine missing add conf logging properties dont package log configuration app configure logging webapp deployed tomcat 
+
+problem configuration tomcat side tomcat doesnt plain util logging config adding lines conf logging properties helped added aditional handler 5reportexport org apache juli asyncfilehandler stuff seperate file configured handler crucial part end configured handler classes package prodyna reportexport 

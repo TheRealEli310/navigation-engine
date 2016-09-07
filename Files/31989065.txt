@@ -1,0 +1,4 @@
+android setting text recycler view 
+working android application displaying data grid style added textview display data server idea put data variable class lineitem contents adding grid fashion hope problem sectionadapters activity group section hope question clear kindly explanation required lot em edit em sectionviewholder added notedata variable display notedata 
+
+added line 

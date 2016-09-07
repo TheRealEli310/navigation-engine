@@ -1,0 +1,4 @@
+spring mongorepository updating upserting inserting 
+start empty db create object set string field saves document mondodb create object set set string field save results save works updates original object expected results fail unique separate objects save defect spring wrong 
+
+save definition supposed update object upsert style update present insert read save operation documentation mongodb href http docs mongodb org manual reference method db collection save rel nofollow website insert operation mongodb behavior expect mongorepository documentation appears insert delegated save wont make difference give works check object exists index lookup fast 

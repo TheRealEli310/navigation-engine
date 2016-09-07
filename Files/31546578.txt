@@ -1,0 +1,4 @@
+atomicreference works hood 
+atomicreference works hood code based sun misc unsafe question unsafe works 
+
+em specific current implementation change isnt necessarily documents em blockquote atomicreference works hood blockquote operations single read writes atomic swaps ol li single read writes simple loads stores li li atomic swaps processor level instructions common implementations compare swap cas found sparc tso x86 ia64 ll sc found arm ppc alpha missing idea scope li ol blockquote question unsafe works blockquote unsafe works native methods leveraging processor instructions sources href http gee cs oswego dl jmm cookbook html rel nofollow http gee cs oswego dl jmm cookbook html 

@@ -1,0 +1,4 @@
+struts exclude pattern spring 
+lot homework coming experts pointers question run merged integrated app basically combined version struts2 spring base servlets combined war file errors tomcat intention based url patterns route framework beaten problem lets call single context myctx situation pre class lang xml prettyprint override leave url pattern filter mapping original struts2 actions accessible accessible spring related make struts filter url pattern noting accessible original struts component spring url accessible pointers matters struts spring ways springframework url patterns enumerate bunch advance cj 
+
+spring servlet separately struts framework configuration settings exclude servlet filter mapping pre class lang xml prettyprint override servlet mapping href http docs spring io spring docs current spring framework reference html mvc html mvc servlet rel nofollow dispatcherservlet pre class lang xml prettyprint override 

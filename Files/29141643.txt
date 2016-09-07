@@ -1,0 +1,4 @@
+stack invoke push array type 
+probelm allocate stack double size stack full tryed temp stack compilation error line error invoke push array type idea metod 
+
+call methods variable method create array larger capacity copy array assign array 

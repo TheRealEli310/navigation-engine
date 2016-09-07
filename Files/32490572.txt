@@ -1,0 +1,4 @@
+chromedriver element clickable point xxx yyy element receive click 
+dreaded error chromedriver selenium discussed href http stackoverflow situation bit sense put delay 5s click works fine dont special wait force click js actions elegant handling click button button clickable problem dont check button clickable work ideas 
+
+options strong javascript strong check property describes loading state document wait complete work cases worth strong loop strong simplest solution elegance job wasting time needed basic code 

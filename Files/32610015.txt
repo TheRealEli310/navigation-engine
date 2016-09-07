@@ -1,0 +1,4 @@
+difference request getservletcontext getservletcontext 
+class override method added context parameters statement access parameter work fine difference give output dont proper idea 
+
+call directly code class extends httpservlet httpservlet base class method defined servletcontext returned httpsessioncontains reference servletcontext session belongs long code servlet class called custom class doesnt extend servlet pass session object work custom class reference session access method 

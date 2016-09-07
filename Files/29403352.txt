@@ -1,0 +1,4 @@
+http response code munit 
+flow test basic http flow mule munit flow munit calling flow resultevent object proper payload http response code status null http response code message munit 
+
+calling runflow bypassing http listener invoking flow directly default inbound endpoints connectors disabled test http portion override test case standard http client mule client test http inbound endpoint check status code 

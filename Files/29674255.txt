@@ -1,0 +1,4 @@
+cachedrowset update record h2 
+h2 db table random data connect db em jdbc em em update em em cachedrowset em update fails message em javax sql rowset spi syncproviderexception conflicts synchronizing em wrong update record 
+
+em update em worked added em primary key em table numbers columns form key uniquely identifying row included column 

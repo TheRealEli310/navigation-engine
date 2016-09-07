@@ -1,0 +1,4 @@
+move cursor position jtextfield 
+symbol added text field cursor position pressed method works button pressed cursor appears end field position button pressed set cursor move back previous position thought didnt work 
+
+method caret set position text field focus wrapping inside call declare final work 

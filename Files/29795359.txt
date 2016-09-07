@@ -1,0 +1,4 @@
+place comma writing csv file 
+written function creates writes csv file function follow headers seperating properly headers separating bc change place case showing headers headers headers resolve place comma properly data rows working properly 
+
+returning calling header size header column count viewpoint compare size results getcolumnheaders header size 

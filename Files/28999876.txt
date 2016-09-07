@@ -1,0 +1,4 @@
+static abstract class callback 
+figure static abstract class callback androids documentation href http developer android reference android hardware camera2 cameramanager html rel nofollow href http developer android reference android hardware camera2 cameradevice statecallback html rel nofollow link cameramanager method called opencamera method requires instance static abstract callback class statecallback main question static class callback provide store cameradevice locally onopened callback static members dev static members access static members understand intended consequence api design advance 
+
+extend create class implements methods pass call references parameter passed object derives class static class means doesnt link parent object hidden inside makes easier gc collect instances static static static static heck staic languages things depending 

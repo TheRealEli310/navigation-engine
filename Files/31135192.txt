@@ -1,0 +1,4 @@
+fxmlloader constructloadexception run fx application 
+searched deepest depths interweb answer found problem javafx programm write make adding controller class tutorial find issue remains unknown exception code thre classes main class mainui fxml created scenebuilder mainuicontroller class work mainuis controller strong edit strong package structure 
+
+suggest change project structure resources resided sources suggestion project structure structure set ide set depends ide simply click folder overview mark sources resources root exact names source root resources root depend ide package package fxml file loading fxml file work hr reference explanation href http stackoverflow questions getclass getclassloader getresource nullpointerexception br starts root resources path resource relative path dealing times decided absolute paths br explained link replaced read directly dealing urls jar files tricky find reference support alternative 

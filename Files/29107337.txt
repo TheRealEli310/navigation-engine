@@ -1,0 +1,4 @@
+javafx css theming import variables 
+assigning variables frequently colors javafx css referencing variables color constants block define color variable names move separate css file swap css files runtime change applications theme strong theme1 css strong strong main css strong javafx unable find variables runtime problem statement define class selectors picked fine wildcard selector named color variables wildcard selector work css imported css 
+
+named colors fine import statement simple attach themes css manually code named colors visible import statement picking themes file giving type error ill open question 

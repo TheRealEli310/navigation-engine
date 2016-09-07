@@ -1,0 +1,4 @@
+spring resttemplate noclassdeffounderror 
+spring code line miss 
+
+missing jackson dependencies maven add refer link complete set dependencies href http www journaldev spring restful web service json jackson client program rel nofollow http www journaldev spring restful web service json jackson client program 

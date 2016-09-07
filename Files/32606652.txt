@@ -1,0 +1,4 @@
+default method grandparent interface 
+totally lost wont work weird eclipse error message cope lamdas mars isnt ready fix letting implement directly yields warning unnecessary overriding method yields warning reasons wouldnt call super method guess call directly implementing method break api shouldnt true implement call default method 
+
+eclipse bug expected behavior works fine call reimplemented superclass case implementation completely shadow implementation making inaccessible 

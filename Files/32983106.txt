@@ -1,0 +1,4 @@
+disadvantage overriding equals hashcode vice versa 
+lots similar questions satisfied answers read figure idea important set map hashset hashmap hash objects general hash mechanism storing element objects methods test objects equal objects equal hash bucket true executing equals understand override methods override hashcode override disadvantage overriding equals hashcode vice versa 
+
+correct override equals method override hashcode method reason hash base elements objects equal equals method return true hashcode method return integer hash base elements hash map make equal check objects hashcode method called return equals method called hashcode dont return simplity objects equal default hashcode method return random making objects equal specific condition overriding equals method wont equal hashcode order make hascode equal override wont make object key hash map 

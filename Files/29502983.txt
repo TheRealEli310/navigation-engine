@@ -1,0 +1,4 @@
+substring japanese utf kanji 
+substring extract single utf8 kanji string problem utf characters length instance length string substring doesnt complete character perl substr character substr character update based msandifords suggestion 
+
+extract individual unicode codepoints techniques obtain start end index codepoint require extract hr edit simplified bit judicious refactoring utility functions dont case code bit hard 

@@ -1,0 +1,4 @@
+jfilechooser open multiple files order clicked 
+application takes multiple files applies operation depends order merge user select files order ctrl click shift click list files returned chooser order user clicked id returned order user clicked disclaimer user class feel windows 64bits jdk heres minimal 
+
+point ctrl click works shift click selecting files works shift click select files upwards adds files wrong order confusing solution update file text field reflect actual order selection fix reflection img src http stack imgur ochzp png alt file text field quick solution select files correct order ctrl clicking works fine select deselect 

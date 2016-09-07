@@ -1,0 +1,4 @@
+wait notify reentrant synchronized blocks 
+understanding synchronized blocks thread owns lock object enter block synchronized object entrant synchronization underneath jvm reference count increment decrement number times thread acquired lock lock released count question encounters piece code specifically wait called decrement count release lock count case produce deadlock lock entry occurred lock wait forever thread waiting case point synchronized block documentation wait blockquote current thread objects monitor thread releases ownership monitor waits thread notifies threads waiting objects monitor wake call notify method notifyall method thread waits obtain ownership monitor resumes execution blockquote case correct wrong missing redundant synchronized block easily removed code 
+
+necessitates reacquiring lock release lock completely deadlock prone reason previously object modified mistake 

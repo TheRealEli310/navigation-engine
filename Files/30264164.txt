@@ -1,0 +1,4 @@
+strings equal 
+s1 pointing string false point present stringconstantpool s1 
+
+blockquote s2 point learnjava present stringconstantpool blockquote nope string pool em constant em strings call string pool refers string em em string pool concatenation performed execution time compile time constant expression execution time concatenation general dont compare strings bad idea 

@@ -1,0 +1,4 @@
+android app crashes back pressed surfaceview 
+working android app created background canvas app loads fine press back button close app app crashes logcat nullpointerexception fix classes pre class lang prettyprint override pre class lang prettyprint override pre class lang prettyprint override log output pre class lang prettyprint override 
+
+surfaceview lifecycle activity lifecycle check result dont draw null avoid crashes visible glitches carefully avoid potential problems surface callbacks track current state explanation found href https source android devices graphics architecture html activity rel nofollow appendix graphics architecture document examples found grafika href https github google grafika blob master src android grafika multisurfaceactivity rel nofollow multi surface test activity 

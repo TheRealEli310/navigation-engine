@@ -1,0 +1,4 @@
+jooq dslcontext correct autowiring spring 
+href http www jooq org doc manual sql execution performance considerations rel nofollow blockquote em jooqs configuration necessarily threadsafe queries attached creating dslcontext em blockquote implementing href http www codeproject articles repositorypluspattern cplusdoneplusright rel nofollow repository pattern autowire repositories reason assign instance repositories create repository instance 
+
+configuration fine sensitive state inside configuration objects configured delegates connection handling spring solves things guarantee references returned transaction aware data source proxy arent shared threads transactions blockquote jooqs configuration necessarily threadsafe blockquote means implementors required provide thread implementations means guarantee thread safety 

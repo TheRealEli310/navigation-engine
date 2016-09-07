@@ -1,0 +1,4 @@
+run selenium tests maven 
+figure run selenium webdriver tests eclipse intellij ide development plain text editor dont install learn ide sake compiling running tests selenium documentation stops short telling run tests command line experience maven amounts doesnt wanting run web server suspect set correct targets pom xml dont surprisingly find online 
+
+finally figured realising maven specific question eclipse selenium maven made run code compiles exec maven plugin adding pom xml gather snippet arguments passed listing pom xml proper package element run compile run code credit href http www vineetmanohar ways run main maven rel nofollow http www vineetmanohar ways run main maven listing ways 

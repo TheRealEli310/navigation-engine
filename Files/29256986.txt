@@ -1,0 +1,4 @@
+javax servlet servletexception web core exception servlets 
+servlet called redirect requests starting redirected servlet document annotation unidentified reason exception exception document thrown call request getrequestdispatched main html forward request response exception request servlets main html called fine 
+
+strong strong thing redirect url eventually server protocol client query url forward servlet container pass control servlet application inside context relative path requesting servlet relative url added end address current page strong strong declared page served servlet infinite loop fix ways ul li relative paths inherently dangerous reasons called called li li absolute path li ul 

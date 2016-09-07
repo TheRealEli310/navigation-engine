@@ -1,0 +1,4 @@
+autowiring inside abstract class made mapstruct 
+build rest controller spring format data readability integration mapstruct heres wrote mapper api controller function output devicedata returns fine detail couldnt function deviceservice autowired error stack trace shows nullpointerexception wondering general rule accessibility autowired resources abstract class instantiating makes function inaccessible change make work result 
+
+order work class spring bean work instantiate make spring bean pass reference controller 

@@ -1,0 +1,4 @@
+error find load main class helloworld 
+simple code filename helloworld command prompt type directory error find load main class helloworld improper installation reinstalled jdk jre strong edit strong working day change code directory started giving error 
+
+behaviour incorrect inappropriate setting classpath environment variable current directory isnt classpath default assuming works problem understanding concept classpath explained oracle documentation ul li href http docs oracle javase docs technotes tools windows html rel nofollow amp href http docs oracle javase docs technotes tools windows javac html rel nofollow javac command documentation classpath argument li li href http docs oracle javase docs technotes tools windows classpath html rel nofollow setting classpath li li href http docs oracle javase tutorial essential environment paths html rel nofollow tutorial path classpath li ul 

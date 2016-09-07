@@ -1,0 +1,4 @@
+mock couchbase lite database 
+created service layer dao couchbase document objects turn pojos id write unit test method attempted problems method stack trace wrong 
+
+run method case mocked object mocked strike id recommend mocking database create list documents manually calling strike creating set document mocks testing mocks returned 

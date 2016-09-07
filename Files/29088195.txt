@@ -1,0 +1,4 @@
+adding numbers input double type 
+make simple calculator program user enters values method add called operations class values added result displayed loop user entering values added total result displayed running user enters input type double operations class adds values displays result asks user inputs displays result problem hard figure couldnt code problem loop wrong strong output strong enter number enter number enter number enter number strong program running press press add entered total display strong enter number 
+
+issue lies order things occurring prompt input beginning makes prompt input redundant final class 

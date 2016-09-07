@@ -1,0 +1,4 @@
+error updating database lock wait timeout exceeded 
+mybatis update data database insert query works error update sqlmapconfig xml usermapper xml test 
+
+increasing lock wait timeout innodb setting innodb lock wait timeout default sec set higher restart mysql 

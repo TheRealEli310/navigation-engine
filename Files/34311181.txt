@@ -1,0 +1,4 @@
+spring boot serialize text javascript json 
+created kotlin data class em data class kotlin class auto generates equals hashcode tostring compile time saves time em populating spring fails fair json object mapper expecting mime type telling map instantiating instance hand treat returned mime type json 
+
+providing defaults properties data class href https github fasterxml jackson module kotlin rel nofollow https github fasterxml jackson module kotlin jackson module serialize deserialize kotlins data classes worry providing empty constructor spring boot application register module class extension functions mentioned documentation register module jackson supporting data classes support classes kotlin stdlib pair 

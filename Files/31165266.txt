@@ -1,0 +1,4 @@
+check user exists struts2 
+user register code exists table provide error blockquote code blockquote struts2 action class fired query selecting code resultset stored results string variable method compared method doesnt work registeraction 
+
+problem method run href https struts apache org docs validation interceptor html rel nofollow validation interceptor br executed strong reaching action strong method means null read method learn struts2 works href http stackoverflow interceptors called jsp action blockquote strong solution strong load variable inside method blockquote read href http stackoverflow retrieve database record struts2 view layer discussion make code cleaner decoupled jdbc stuff action ugly 

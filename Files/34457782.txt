@@ -1,0 +1,4 @@
+initialize webdriver groovy selenium 
+initialize webdriver instance firefoxdriver automation error blockquote testcase failed lang noclassdeffounderror initialize class org apache http conn ssl sslconnectionsocketfactory lang noclassdeffounderror initialize class org apache http conn ssl sslconnectionsocketfactory time blockquote script soapui setup script setup script initalize header dragged selenium jar soapui bin ext folder lib jars edit pst system properties st tools 
+
+snippet groovy script put selenium standalone jar file lib bin folders soapui restart soapui 

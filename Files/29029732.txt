@@ -1,0 +1,4 @@
+spring security redirect login form based configuration 
+configure based spring security redirect login page request authenticated configuration class implements setting breakpoint method shows method called startup request redirected 
+
+answer question similar problem solution add empty class extending 

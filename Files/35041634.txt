@@ -1,0 +1,4 @@
+spark column names nested json 
+column names nested json dataframes schema column names body header df columns column names body sw1 sw2 df select body columns give body column suggestion 
+
+question find nested column names inspecting dataframe schema represented href https spark apache org docs api scala index html org apache spark sql types structtype rel nofollow fields href https spark apache org docs api scala index html org apache spark sql types datatype rel nofollow objects included nested structs discover fields youll walk tree recursively walks tree prints leaf fields type 

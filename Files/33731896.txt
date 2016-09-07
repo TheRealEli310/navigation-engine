@@ -1,0 +1,4 @@
+create pojo classes xsd 
+spring maven plugin create pojo classes xml schema folder command code generating classes dealing file schema marshell unmarshelling create pojo correct generate classes xsd xsd 
+
+blockquote recommendation blockquote tested works suggestion generating pojo successful configure generate pojo tutorials learn follow link based preference ul li href http www javawebtutor articles jaxb jaxb class xsd html rel nofollow generate pojo class xsd eclipse li li href http theopentutorials examples jaxb generate class xml schema jaxb xjc command rel nofollow generate pojo class xsd schema command line li li href http www journaldev generate classes xsd xjc maven plugin rel nofollow generate pojo classes xsd maven plugin li ul youtube links ul li href https www youtube watch zgblfja 5ks rel nofollow youtube video tutorial li li href https www youtube watch qx erp8a3wo rel nofollow youtube tutorial maven li ul hope helps feel free comment encounter issue 

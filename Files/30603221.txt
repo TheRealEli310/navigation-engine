@@ -1,0 +1,4 @@
+jdbc api specification implementation 
+jdbc apis sql package writing simple jdbc programs sql declaration understanding specifications implemented database vendors form jdbc drivers sample program h2 db downloaded jdbc driver jar implementation sql connection jar jdbc driver package org h2 jdbc jdbc driver jar implement sql connection expected sql connection simply implements sql connection definition sql connection coming pointers clear doubt helpful 
+
+jdk href http docs oracle javase docs api sql connection html rel nofollow documentation href http docs oracle javase docs api index html rel nofollow jdk javadoc 

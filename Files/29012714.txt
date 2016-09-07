@@ -1,0 +1,4 @@
+spring passsing autowired object class constructor 
+problem springmvc application class annotated component fields annotated autowired component created error add depends property dont work rest servlet xml database 
+
+spring autowire field strong strong object created initialized constructor time constructor impossible spring autowired fields init method constructor injection inject data sources constructor 

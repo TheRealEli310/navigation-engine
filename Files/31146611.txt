@@ -1,0 +1,4 @@
+android displaying image surface valid 
+found logcat working loading image url h2 activity h2 h2 asynctask downloading image h2 h2 layout h2 dont logcat appeared explain solve 
+
+viewrootimpl surface valid logcat means wrong layout fixed mine writing layout make splash screen error 

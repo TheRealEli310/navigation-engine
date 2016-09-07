@@ -1,0 +1,4 @@
+wss4jsecurityinterceptor spring boot 
+eclipse complaining find wss4jsecurityinterceptor wire spring boot configuration importing heres relevant extract pom xml file missing advance simeon strong spring ws security strong dependency added pom xml deinums suggestion run time error adding dependency resolve error move direction br concerns ol li additions strong spring boot starter security strong present pom xml li li control versions added strong wss4j strong wss4j jar incompatible wss4j work correlate version spring boot required dependencies li ol comment approach heres resulting pom xml 
+
+ended working configuration 

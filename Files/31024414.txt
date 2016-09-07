@@ -1,0 +1,4 @@
+click element iedriverserver 
+element web page visible clicking parent element clicking demo list demos row icons represent actions selected demo revealed code works fine webdriver chromedriver originally staleelementreferenceexception attempted fix catch block loop continue looping icon clicked caused iedriverserver crash couple loops wrapping action results nosuchelementexception problems mentioned href https code google selenium wiki internetexplorerdriver hovering elements rel nofollow documentation browser focus hovering elements dont problem couple things adding movertoelement action hovering element success solution javascript executor avoid approach suggestions edit iedriverserver setup 
+
+disabling native events result version read href http jimevansmusic blogspot revisiting native events driver html rel nofollow learn 

@@ -1,0 +1,4 @@
+efficient manipulate threads rxjava 
+project process objects threads manipulate streams behaviour create observables change rxjava beautiful efficient process response threads google didnt find br anton 
+
+rx recommended avoid side effects blocks executed stream subscribed prefer subscribe code case leverage href http reactivex io rxjava javadoc rx observable html cache rel nofollow code identical decide fire query em connecting em stream call wiring subscriptions subscription work background computation preferred afaict code work fine line observeon statements impact stream previous statements 

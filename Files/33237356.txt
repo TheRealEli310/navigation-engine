@@ -1,0 +1,4 @@
+access controller controller class 
+root layout layouts optionspane drawarea access drawareacontroller optionspanecontroller call draw method initialize method optionspanecontroller dac null mistake code impossible load controller controller 
+
+controller null load fxmlloader href https docs oracle javase javafx api javafx fxml fxmlloader html load rel nofollow loads fxml instantiates controller instance method return em store root fxml em 

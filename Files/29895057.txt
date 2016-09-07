@@ -1,0 +1,4 @@
+add long text fillrect 
+working program add pins map pins subclasses class draws triangle map clickable click unfold show things text picture working subclass creates rectangle triangle shows place drawstring subclass show description place description long drawstring shows row clip text add description jtextarea add jscrollpane add scrollpane rect area didnt work method add jscrollpane undefined type graphics super class subclass doesnt work 
+
+jtextarea paint graphics instance 

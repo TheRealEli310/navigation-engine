@@ -1,0 +1,4 @@
+android instrumentation test lang unsatisfiedlinkerror androidjunitrunner androidjunit4 
+robolectric unit tests recently project adding dependency zendesk referenced class library exceptions robolectric unit tests adding dependency thought problem project occurring sample robolectric test project 
+
+found fix zendesk code test cases broadcast receivers added dependency zendesk added androidmanifest xml gradle build robolectrictestrunner class parses manifest internal applicationmanifest object sets application state shadowapplication class shadowapplication class registers broadcast receivers application manifest error strong fix strong custom test runner extends robolectricgradletestrunner overriden getappmanifest method removed broadcast receivers required kind workaround alternative didnt create manifest create duplication heres code snippet delete broadcast package simply string hashset package hierarchy 

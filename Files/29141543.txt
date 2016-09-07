@@ -1,0 +1,4 @@
+android print bluetooth 
+native android app print invoice waybill bluetooth default bluetooth adapter hit print button app bluetooth printer prints problem print printing text corrupted half document printer stop rewind paper print left text point switch printer switch press print app printer works fine print print copy printer fail couldnt understand whats problem code adapter couldnt print text message problem copies code edit noticed run app debug break points work flawlessly run printer skip bytes print dont understand printer skip bytes 
+
+found solution problem workaround works add thread sleep mmoutputstream mmsocket getoutputstream line works fine dont works 

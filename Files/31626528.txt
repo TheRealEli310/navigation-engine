@@ -1,0 +1,4 @@
+set id jcombobox fetching id database 
+fetch set index item 
+
+create class category hold cat id cat add category id result set item selected selection category object cat id retrieved remember override tostring combobox displays 

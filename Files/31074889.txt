@@ -1,0 +1,4 @@
+multi client socket server starvation 
+server simple server accepts clients accepting connection dispatch thread testthread order deal client incoming requests heres code testthread simple loops indefinitely reading strings sending back concatenation client simple loops indefinitely sending strings reading string works fine client start client connect facing kind thread starvation issue fix 
+
+reason simple start listener thread calling start thread main thread processing content method busy connect client change fine 

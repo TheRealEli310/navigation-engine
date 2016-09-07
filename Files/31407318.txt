@@ -1,0 +1,4 @@
+find hierarchy 
+lets class parentid foreign key relates id object created objects put values obtain hierarchy objects means give id complete parent hierarchy child hierarchy give id entity e4 parent hierarchy e4 e3 e2 e1 child hierarchy e4 e5 e6 explanation parent hierarchy add initial e4 object find object id e4s parentid e3 process continues untill parentid null child hierarchy add initial e4 object find object parentid e4s id e5 process continues untill parentid null strong solution strong parent hierarchy child hierarchy found method solve scenario efficent solution core concepts solve 
+
+found java8 ish solution smell functional programming entities set id list parents hierarchy children hierarchy idea method creating stream means functional iteration parents created function returns parent children created returns child perform searches simply searches 

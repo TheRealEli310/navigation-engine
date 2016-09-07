@@ -1,0 +1,4 @@
+breadth algorithm adjacency matrix premature ending search returns queue size 
+adjacency matrix maps adjacency maze side element adjacency matrix traverse elements maze heres breadth search algorithm traverse matrix returns queue specifically queue case algorithm produce queue inserting opening shows iterates algorithm stop prematurely tweak desired output goal device algorithm finds shortest path scenario 
+
+hit condition iteration temp starts inserting element queue adjacent inserting condition equal return inserted iteration outer loop iterations loop suggest modification 

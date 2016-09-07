@@ -1,0 +1,4 @@
+generate xjb file wsdl 
+wsdl file generate binding wsdl xjc find command line args xjc 
+
+tito generally create bindings file xjb extension resolve conflicts wsdl schema tow elements distinguish rename bindings file 

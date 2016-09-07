@@ -1,0 +1,4 @@
+javafx flowpane autosize 
+problem flowpane leaving lot excess space possibly popup popup size content size sake debugging wrapped text borderpane show bounds text component focusing error popup img src http stack imgur 0auue png alt screenshot css code advance 
+
+strong background strong issue facing default flowpane set strong strong property sets flowpane em docs em blockquote flowpanes prefwraplength property establishes preferred width horizontal preferred height vertical blockquote strong solution strong decrease wraplength desired 

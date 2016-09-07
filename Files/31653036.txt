@@ -1,0 +1,4 @@
+primefaces tree show context menu selecting multiple nodes 
+working primefaces web app started bear tree multiple types nodes context menu problem show context menus single node selected multiple trees selection mode code 
+
+solved purely client side changing css menu items wanted hide single context menu single selection multiple hide items dont show multiple selection menu item wanted hide case multiple selection context menu event tree tree context menu hide menu items adding css class multiple tree cm class menu items css 

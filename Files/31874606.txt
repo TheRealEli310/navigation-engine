@@ -1,0 +1,4 @@
+unable store retrieve image data database jdbc struts2 
+struts2 store images path database store image server retireve image data jsp page guidance error blockquote lang nullpointerexception blockquote created class registraton bean class registrationservice jdbc code registrationaction registration getter amp setter registrationservice registrationaction jsp glass fish server 
+
+design requirement store image path database br store images server access images path fphoto registration class type string storing image path actual image db file path create file object pass fileoutputstream show image jsp 

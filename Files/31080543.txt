@@ -1,0 +1,4 @@
+initiate hazelcast open shift environment server socket bind failed permission denied 
+launch hazelcast instance tomcat running openshift envrionment aware openshift doesnt bind ports bind port public address openshift diy ip fails permission denied instance configuration spring command line arguments public ip refers openshift diy ip jvm started openshift start hook expection trace 
+
+finally long struggle figure set variable strong hazelcast local localaddress strong openshift diy ip adding dhazelcast local localaddress openshift diy ip node startup solved 

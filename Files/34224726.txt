@@ -1,0 +1,4 @@
+maven surefire plugin skip tests log message run configuration 
+understand maven surefire plugin doesnt run junit4 test pom add post code href http pastebin jj3ijzpy rel nofollow http pastebin jj3ijzpy execute cmd window shows test class maven surefire plugin runs doesnt run test class run test case 
+
+pom linked included question link broken future ul li maven surefire plugin runs configured additional execution plugin providing element default called execution runs box maven configuration surefire consequence executions removing section surefire plugin configuration execution li li typo surefire configuration configuration points class question named additional li li test class folder dont configure inclusion follow default convention surefire li li message element surefire plugin element means applied plugin executions default li ul remove surefire plugin section pom issue fixed 

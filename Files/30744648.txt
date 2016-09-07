@@ -1,0 +1,4 @@
+jvm iconst iconst opcodes 
+reading jvm specification surprised opcodes byte play rarely write literals code understand treated specially amazing designers blow precious opcodes numbers happen small good reason underestimating benefit 
+
+assumption correct make bytecode smaller interpreter tiny bit faster jit compiler times bytecodes expect code effectively compiled constants source code 

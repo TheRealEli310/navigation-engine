@@ -1,0 +1,4 @@
+map flatmap optionalint 
+methods optionalint primitive optional flavors map operations conversion objects primitives optional exploit 
+
+primitive optionals havent em map em em flatmap em em filter em methods design href http rads stackoverflow amzn click rel nofollow java8 action shouldnt justification primitive streams performance reasons case huge number elements boxing unboxing overhead significant senselessly element optional usage method reference change return type somemethod strong optionalint strong method reference code compile 

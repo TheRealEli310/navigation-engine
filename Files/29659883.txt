@@ -1,0 +1,4 @@
+longest substring time limit exceeded 
+string find length longest substring repeating characters longest substring repeating letters abcabcbb abc length bbbbb longest substring length test long repeatable string time limit exceeded optimize seek improvement 
+
+heres fairly simple solution quicker solution work walk add characters character add contained duplicate current substring case starting beginning current substring length size walk find character isnt duplicate found duplicate searching find duplicate stop searching sort visualise process unique unique unique unique duplicate start unique substring find luckily dont remove unique unique duplicate start unique substring find luckily dont remove unique unique duplicate start unique substring find luckily dont remove unique longest unique substring 

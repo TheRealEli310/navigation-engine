@@ -1,0 +1,4 @@
+spring security simple memory login issue 
+fairly spring security implement simple authentification system login form web application running application error error stems main config files advance strong spring security xml strong strong web xml strong strong pom xml strong 
+
+spring security requires spring update pom pre class lang xml prettyprint override id updating spring security versions release easily manage dependency versions href http docs spring io spring security site docs reference htmlsingle maven bom rel nofollow boms provided spring framework spring security pre class lang xml prettyprint override remove versions spring security spring framework dependencies 

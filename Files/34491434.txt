@@ -1,0 +1,4 @@
+connection database jdbctemplate 
+create table h2 jdbctemplate execute queries usersdaoimpl class create table application class jdbctemplate connect database read add dependency group spring boot starter jdbc automatically generate datasource witch jdbctemplate connect doesnt work missed find application class usersdaoimpl class controller class spring xml pom xml 
+
+couldnt find exact problem code solution worked blockquote simplest configure datasource spring boot create application properties file src main resources content update correct url username password blockquote reading found question href http stackoverflow questions spring boot autoconfiguration jdbc template autowiring datasource issue spring boot autoconfiguration jdbc template autowiring datasource issue answer comments helpful cases 

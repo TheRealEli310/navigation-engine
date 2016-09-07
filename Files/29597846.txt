@@ -1,0 +1,4 @@
+mockito nullpointerexception method code 
+mockito junit testing facing issue guys assist test class written unit test secondmethod works perfectly nullpointerexception em activity secondmethod thenreturn someobj em traced error stack null preparedstatement object ps occured em ps setbytes em secondmethod understand part exception ps null written rule secondmethod code mock preparedstatement obj doesnt make sense mock internal objects defined rule method guys 
+
+youre calling actual implementation function avoid mock internal objects case function function sample hope helps 

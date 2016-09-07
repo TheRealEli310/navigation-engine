@@ -1,0 +1,4 @@
+register stream completion hook 
+api register completion hook lines reason wrap resource api clients consume clean resource automatically consumed client call whats needed ideally id methods easy existing jdk api 
+
+solution intercepting terminal operations based solution proposed holger fragile code usage absolutely legal specification forget terminal stream operations execution access stream source perfectly valid abandon state advicing users code internally stream abandons closes resulting stream called explicitly users internally library pretty revisit places problems plenty libraries short circuit incompatible feature based solution works call dumps strong entire strong stream content intermediate buffer closes original stream source depending stream size waste intermediate memory keeping objects monitoring case completion triggered garbage collector drawbacks conclusion advice stay resources 

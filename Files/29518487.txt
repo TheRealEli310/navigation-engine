@@ -1,0 +1,4 @@
+fileutils copyfile creating file destination newtork path windows 
+apache commons href https commons apache org proper commons io apidocs org apache commons io fileutils html copyfile io file 20java io file rel nofollow fileutils copyfile copy file local disk network share location share location folder exists user running app permission fileutils copyfile executes exceptions file doesnt created network share path destination doesnt work map network drive windows write network map works whats odd call file exists copy operation reports file exists doesnt show fileutils copyfiletodirectory destination directory file issue destination network path 
+
+destination additional escape characters 

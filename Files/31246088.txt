@@ -1,0 +1,4 @@
+recursive observable call rxjava 
+href https github reactivex rxjava rel nofollow rxjava reactive paradigm general bear suppose nested data structure suppose api endpoint lets assume h2 children comment recursively comments id h2 searched stumbled href https jkschneider github io blog recursive observables rxjava html rel nofollow https jkschneider github io blog recursive observables rxjava html recursion function shows recursive observable calls function blocking operation doesnt return observable case function blocking function returns observables appreciated 
+
+practically thing article start comment id pass checks comment children iterates child id loads child api child passed procedure comment doesnt children immediately returned pseudo code wasnt tested idea hr comments aggregate 

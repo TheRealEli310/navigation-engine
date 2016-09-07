@@ -1,0 +1,4 @@
+generate keys rsa 
+code encrypt decrypt string rsa project understand encryption build learning purposes fixed key application build method generates valid key based entered bitsize current class 
+
+wikipedia artcle href http en wikipedia org wiki rsa cryptosystem key generation rel nofollow rsa key generation shows step step generate valid key ol li choose distinct prime numbers probableprime li li compute pq li li euler totient function href http en wikipedia org wiki euler 27s totient function rel nofollow http en wikipedia org wiki euler 27s totient function li li choose public key exponent li li determine existing gcdextended method extended euclidian algorithm li ol 

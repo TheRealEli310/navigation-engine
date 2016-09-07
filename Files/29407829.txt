@@ -1,0 +1,4 @@
+jvm thread objects tied directly cpu cores mapper 
+wondering documentation find helpful figuring cpu core thread executing transfers control hardware device stuff disk controller network stuff cpu core core executing threads stall wait threads cpu work scheduling oft advice threads cores suggest 
+
+control scheduling os scope jvm core reclaimed os waiting io simple advice thread core processor cpu intensive operations time youre waiting io create threads cores enabled hyper threading counts number em processors em quad core processor enabled hyper threading reported processors href https stackoverflow questions enable intel hyperthreading question 

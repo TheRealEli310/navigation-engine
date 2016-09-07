@@ -1,0 +1,4 @@
+hadoop streaming libjars include jar files 
+learning hadoop wrote map reduce steps process avro files problem due hadoop install test standalone mode laptop distributed cluster bash call run job heres output lot fixes idea reason hadoop find jar files libjars successfully run wordcount posted href http www michael noll tutorials writing hadoop mapreduce program python rel nofollow hadoop install configuration works strong edit strong contents hdfs site xml core site xml 
+
+cluster running distributed mode input path path doesnt exist 

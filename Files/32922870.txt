@@ -1,0 +1,4 @@
+sql error integrity constraint violation foreign key parent 
+struggling find wrong query create database structure tables strong vehicule strong brand motor price id strong option strong id description price strong vehicule option strong id vehicule id option guess vehicule option foreign keys find problem addings heres code part works fine basically insert values columns exception 
+
+inserted record id record dont youre creating 

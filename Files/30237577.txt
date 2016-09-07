@@ -1,0 +1,4 @@
+lambda format map string 
+map key transform format foreach format element collect list string join doo shorter good lambda practice lambdas 
+
+youre bits turn ul li iterable sequence entries li li creates stream iterable li li converts stream entries stream strings form key li li joins entries stream single string separator href http docs oracle javase docs api util stream collectors html joining lang charsequence method returns href http docs oracle javase docs api util stream collector html work input sequence strings giving result single string li ul order em em guaranteed isnt ordered values key order 

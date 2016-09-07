@@ -1,0 +1,4 @@
+angularjs standalone web server error calling cxf rest service 
+call cxf rest service angularjs works fine deploy angularjs client web application access html files directly web server problem invoking cxf rest services angularjs rest service works fine call directly browser angularjs accessed html file browser url strong angular js code strong strong error strong strong cxf spring configuration strong strong browser logs f12 strong 
+
+dont cors enabled server include cors filter configuration annotate endpoints invocations testing purposes run instance browser web security disabled start chrome flag btw errors backend client disconections related problem 

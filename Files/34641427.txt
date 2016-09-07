@@ -1,0 +1,3 @@
+http request callback leaking memory 
+trouble app leaking memory application service looping secs downloading data putting database callback listener leaking memory isn library volley httpok guess dbhelper suppose weakreference code refactored request class weakhashmap success isolating runnable handler weakhandler lib cry writing versions code days 
+

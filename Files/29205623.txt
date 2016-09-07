@@ -1,0 +1,4 @@
+enable session replication wso2 api manager 
+instances wso2 api manager instance deployed ubuntu instance fronted haproxy load balancer enable session replication api manager instances user logged api manager user automatically logged api manager session replicated instances problems user logged api manager instance haproxy redirect user api manager instace em href https docs wso2 display as520 clustering http session replication rel nofollow guide wso2 application server api manager em 
+
+api manager doesnt support session replication configure load balancer session affinity sticky session jsessionid sticky session 

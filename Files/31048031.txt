@@ -1,0 +1,4 @@
+exchange getin getbody returns empty string camel call 
+identical calls msg1 correct expected msg2 empty string setting strong strong message exchange strong strong message intact explain happening camel routes processor statements processing route1 correct route2 behaviour call valid string call empty string httpmessage conversion 
+
+href http camel apache org jetty html http camel apache org jetty html blockquote jetty stream based means input receives submitted camel stream means read content stream blockquote convert input string times 

@@ -1,0 +1,4 @@
+issue reading email body email attachments 
+found nice code read email inbox email server code works fine couple issues ol li capture message body email email attachment receive string strong strong strong strong body message email plain text attachments works fine problem reading web find solution li li ignore attachments size exceed mb li ol class comments important novice programmer advance 
+
+ol li javamail faq ul li href http www oracle technetwork javamail faq index html mainbody rel nofollow find main message body message attachments li ul li li define ignore href https javamail net nonav docs api javax mail part html getsize rel nofollow getsize method li ol 

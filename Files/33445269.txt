@@ -1,0 +1,4 @@
+logging entry exit exceptions methods aspects 
+code log entry exit exceptions aspects define bean class application applicationcontext cumbersome maintain length bean definitions properties simplify dont design define bean everytime create class appreciated advance logentry class logreturn class exceptionlogger class main method 
+
+springs component scan autowire beans simply add applicationcontext xml replace package scan beans annotate beans hey bean spring inject dependencies beans simply tag field injected hope fabian hr edit spring aop aspectj add applicationcontext xml define class aspects class basic spring bean annotated define join points execute logging pointcuts continue execution joinpoint proceed important return result method return null throw thrown exception suppressed 

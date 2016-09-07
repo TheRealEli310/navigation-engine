@@ -1,0 +1,4 @@
+datastax cassandra driver object mapper auto create tables 
+actual case working classes persisted basically sensor types create table hand sensor type isnt mechanism driver auto create respective tables existent hibernate deploy app systems recreating tables handy quick prototyping 
+
+moment planned feature href https datastax oss atlassian net browse rel nofollow 

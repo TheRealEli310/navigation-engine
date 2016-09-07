@@ -1,0 +1,4 @@
+jasypt asymmetric encryption 
+jasypt library decrypt properties spring encryptablepropertyplaceholderconfigurer class encrypt decrypt properties asymmetric public private key approach confirm jasypt support box jce library providing spring integration asymmetric public private key approach 
+
+finally solution find ol li wrote simple helper class decrypting data rsa find href http www reindel asymmetric public key encryption rsa openssl rel nofollow li li implemented version propertyplaceholderconfigurer class extending original org springframework beans factory config propertyplaceholderconfigurer calling helper class decode data encrypted property found li ol 

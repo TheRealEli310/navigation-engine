@@ -1,0 +1,4 @@
+android multi threading 
+threads run em concurrently em android application architecture dependent thing determine 
+
+blockquote threads run concurrently android application blockquote depends definition run concurrently start threads subject primarily memory limitations threads executing simultaneously depends number active cores device blockquote architecture dependent thing blockquote architecture depends android devices power cores save battery power depending threads blocking threads cores reasonable typical multi core thread pool sizing algorithm 2n threads number cores href https android googlesource platform frameworks base refs heads master core android os asynctask rel nofollow approach thread pool grow number cores 

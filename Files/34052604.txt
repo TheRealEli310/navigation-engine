@@ -1,0 +1,4 @@
+sort array element form pair 
+array objects sort indices order array size power array size indices sort basically alternating element sorted thought pairs wrong order work power array int array indices values make simpler output 
+
+single loop algorithm creates final array setting values time ul li index result array mapped values initial array li li odd index result array mapped values initial array li ul 

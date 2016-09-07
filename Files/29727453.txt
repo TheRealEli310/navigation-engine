@@ -1,0 +1,4 @@
+save valid active transaction hibernate spring 
+searched similar questions couldnt figure mistaken eclipse building simple hibernate spring mysql maven project recently trouble stage database amp connection run project error main class hbm xml file hibernate cfg xml file applicationcontext xml file fix 
+
+forgot begin transaction easier problem unrelated spring youre spring posted code youll fix spring configuration dont classes hibernate3 package youre hibernate4 learn annotations hbm xml files map entities xml noaw 

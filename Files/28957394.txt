@@ -1,0 +1,4 @@
+read properties file hdfs 
+read properties file hdfs doesnt work properties file found exception replace path local file works fine read file read hdfs file fileinputstream 
+
+hope hadoop jars filesystem read hdfs put code refer href http stackoverflow questions fileinputstream generic file system fileinputstream generic file system 

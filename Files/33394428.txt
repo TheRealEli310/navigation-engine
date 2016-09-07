@@ -1,0 +1,4 @@
+javafx version executorservice 
+made utility searches inside xml inside number fancy zip files twx originally command line utility threading moved javafx ran freeze issues moved searches task object fix needed track progress implemented progress property progressbar track worked great multithreading create thread zip search worked track create array tasks main task handles progress total properties handles updates code main thread clunky hung loop searching zip files time unknown number tasks javafx executorservice add bunch tasks kick monitor progressproperty 
+
+javafx specific executor service regular works fine subclass list tasks compute progress function progress sum progress divided number tasks task number items process sophisticated heres simple sscce 

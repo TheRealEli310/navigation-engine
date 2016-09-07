@@ -1,0 +1,4 @@
+android resources found exception 
+error resource source verified file includes resource id listed line fbutton fbutton importing packages file verified resource color fbutton default color file 
+
+ah found solution apparently inside app src main res directory folders em colors xml em file inside strong values w820dp strong resource found solved moving strong values strong directory 

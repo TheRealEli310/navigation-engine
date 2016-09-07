@@ -1,0 +1,4 @@
+javafx data selected row tableview 
+data selected row code run app error scene builder create tableview solved problem 
+
+exception clear meaning href http docs oracle javase docs api lang classcastexception html rel nofollow http docs oracle javase docs api lang classcastexception html method call make href https docs oracle javase javafx api javafx scene control tableview tableviewselectionmodel html getselecteditems rel nofollow https docs oracle javase javafx api javafx scene control tableview tableviewselectionmodel html getselecteditems returns reference object stlpe implement extend stlpe reference point object stlpe class type class observablelist find stlpe object list 

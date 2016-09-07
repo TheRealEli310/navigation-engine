@@ -1,0 +1,4 @@
+request mapping issue spring mvc 
+facing issue request mapping href questions tagged spring mvc class post tag title show questions tagged spring mvc rel tag spring mvc br url response ol li li li li ol form successfully submitted url strong strong url browser displayed br url strong strong error browser url problem url mapping strong controller strong strong jsp strong em uploadpage jsp em 
+
+common problem relative urls jsp reason rule generally absolute urls posts expected correctly processed controller posts error rid problem simplest absolute url tag prepending context path em hand em spring attribute 

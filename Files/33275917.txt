@@ -1,0 +1,4 @@
+remove getparameter page refreshed 
+remove parameter refresh page f5 reload expected result jsp sends status back jsp make empty user hits refresh page jsp jsp 
+
+html page posted servlet jsp kind web resource headers headers requests parameters user hits refresh f5 browser browser post header issue browser specific deal number ways store current session variable request request paramater session attribute treat refresh action code newjsp jsp invoke newjsp jsp param xyz123 hitting refresh 

@@ -1,0 +1,4 @@
+org springframework context applicationcontextexception database connection pool configured correctly 
+spring boot application created jhipster run integration test cases configured test case class annotations mentioned exception stack trace 
+
+mentioned href https github jhipster generator jhipster issues rel nofollow https github jhipster generator jhipster issues bug workaround make working add activeprofiles dev class level annotation test case class dev parameter signals application dev yml file tests configuration depending type environment configured 

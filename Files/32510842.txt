@@ -1,0 +1,4 @@
+import opencv 
+include opencv library href http stackoverflow questions opencv grab webcam picture stream osx code ide compile command installed opencv brew compiles fine moment run throws line edit result 
+
+finally solve loading lib directly code replacing 

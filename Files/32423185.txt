@@ -1,0 +1,4 @@
+javassist field variable exists 
+inject code minecraft jar javassist amp methods work perfectly fine insert method work expected error href https gist github czaarek99 dda36426318f331ce6b0 rel nofollow https gist github czaarek99 dda36426318f331ce6b0 code handles injection commented lines grabs mapping essentially minecraft obfuscated variable amp function names inserting alright logical explanation exist true code obfuscated class href http stack imgur or2qz png rel nofollow img src http stack imgur or2qz png alt enter image description 
+
+alright figured turns javassist local variable defined assumed field solved creating variable setting source href http jboss javassist github io javassist tutorial tutorial2 html rel nofollow http jboss javassist github io javassist tutorial tutorial2 html 

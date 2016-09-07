@@ -1,0 +1,4 @@
+peculiar feature exception type inference 
+writing code answer site peculiarity confused call compiler type infer mention unchecked exception type accepting works compiler complain call alike 
+
+inferred langauge spec type inference href http docs oracle javase specs jls se8 html jls html http docs oracle javase specs jls se8 html jls html firstly section blockquote bound form purely informational directs resolution optimize instantiation checked exception type blockquote doesnt affect points resolution section information inferred exception types special case blockquote bound set proper upper bounds ti blockquote case applies upper bound inferred spec compiles body method immaterial unchecked cast succeeds runtime doesnt happen leaving method defeat compile time checked exception system compile methods lower bound supertype checked exception due type called inferred 

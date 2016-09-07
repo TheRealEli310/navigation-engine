@@ -1,0 +1,4 @@
+set message selector api 
+write simple test case pull messages queue based message property hitting qmgr client jars online message selector open queue fine ways open message selector running command line batch application app server jms selectors ibm documentation selectors href http www ibm support knowledgecenter ssfksj ibm mq dev doc q022990 htm rel nofollow websphere mq message selectors shows selection happen part mqopen call 
+
+mq jms api type message selection syntax base mq api message selection based messageid correlationid provide type selection syntax documentation link provided mq api mq jms api message selection shown 

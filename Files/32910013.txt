@@ -1,0 +1,4 @@
+antlr v4 java8 grammar outofmemoryexception 
+publicly grammar href https github antlr grammars v4 blob master java8 java8 g4 rel nofollow https github antlr grammars v4 blob master java8 java8 g4 generated class files parse crashes strong crashes strong parse single file solved handle files strong loc strong correct assumption ul li changing assigned memory multiple steps strong 256mb 4gb strong lang outofmemoryerror heap space li li ensure syntactical problem input file br strong removed half strong file strong parsing strong br undid action strong removed half file strong strong parsing strong li ul 
+
+grammar repository based wrote grammar relies functionality href https github sharwell antlr4 releases optimized fork antlr order perform addition release youll things maximize performance ol li stage parsing strategy assuming start rule called li li enable global context dfa included previous code block miss li ol 

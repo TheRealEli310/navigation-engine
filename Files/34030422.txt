@@ -1,0 +1,4 @@
+make mdb activation spec contextual properties configurable 
+project mdb listens message specific queue defined annotation order change maxsessions code compiled everytime configure ejb jar xml annotation compile code generate ear file make user configurable read properties file recompilation code required changing maxsession restarting jboss working kindly reference code 
+
+started write gist wildfly8 websphere mq integration allowing configure maintain environment contextual configuration mdb jms messages producers basically declare jboss ejb3 xml custom deployment descriptor application system properties contextual configuration mdb system properties configured wildfly standalone full xml file system properties element property file view standalone full xml configuration good location configuration link href https gist github remibantos 33c366803f189db9b225 rel nofollow https gist github remibantos 33c366803f189db9b225 

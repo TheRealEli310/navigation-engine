@@ -1,0 +1,4 @@
+libgdx fps android device low 
+game created loops methods inside fps range laptop ranges run android os galaxy range fps ranges render thread render synchronously solve problem 
+
+low end laptop processing power high end smartphone performs smoothly laptop lag terribly galaxy youve provided information question things suggest general approaches ul li strong profile strong game phone find bottlenecks deal br href http developer android tools debugging debugging tracing html rel nofollow http developer android tools debugging debugging tracing html li li strong opengl profiling strong helpful monitor context switches br href https github libgdx libgdx wiki profiling rel nofollow https github libgdx libgdx wiki profiling li li general rule thumb create objects render loop absolutely initializing strong pool reusable objects strong start lot br href https github libgdx libgdx wiki memory management rel nofollow https github libgdx libgdx wiki memory management li ul 

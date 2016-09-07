@@ -1,0 +1,4 @@
+run maven tests sequentially 
+class class tests run maven tests class sequential order testing xml testing xml ran command runs test run test testing xml sequential order 
+
+missed configuration maven surefire plugin testing xml works 

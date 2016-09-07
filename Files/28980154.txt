@@ -1,0 +1,4 @@
+ssl socket communication sending receiving 
+client send message server server replies client client code server code client sends message server communication stuck client server code server completes receiving message client stopped order complete communication 
+
+server reading file socket end stream client doesnt close connection read response server end stream peer closed connection end stream arrives sides blocked read implemented networked deadlock send length file ahead file server stop reading strong em em strong youre send file connection client shutdown connection output give server eos read loop terminate send reply close connection give client eos em em fall em em read loop close connection 

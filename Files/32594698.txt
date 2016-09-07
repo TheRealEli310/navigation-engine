@@ -1,0 +1,4 @@
+generate random rdd spark 
+basically theoretically spark working overwhelmed choices syntax correct documentation sparse confused 
+
+simplest solution complete test locally small cpu overhead generate initial set random numbers takes care creating partitions avoiding small overhead important generate million rows partitions ol li create empty rdd jsc emptyrdd li li set partitioning repartition create partitions li li mappartition function create 1milion partition rows partition rdd ready li ol side notes ul li randomrdds randomrdd class exposed make simpler li li randomrdds randomvectorrdd exposed generate randomized vectors asked strings apply li ul 

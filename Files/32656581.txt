@@ -1,0 +1,4 @@
+pb jdbcbatchitemwriter compositeitemwriter code spring batch 
+extended batch service code provided official spring batch site href https spring io guides gs batch processing rel nofollow batch processing service modified itemwriter generate csv write database compositeitemwriter write csv database jdbcbatchitemwriter working correctly compositeitemwriter code shown comment line mwriter add writer run code shows compositeitemwriter working good flatfileitemwriter jdbcbatchitemwriter error resolve jdbcbatchitemwriter work correctly compositeitemwriter 
+
+problem jdbc auto config running case multiple itemwriters pls add line sequence 

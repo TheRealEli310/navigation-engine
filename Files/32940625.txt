@@ -1,0 +1,4 @@
+check host reachable 
+eventually call user inputs unreachable host error code make host returns false host good standing shown methods 
+
+strong httpurlconnection strong okhttp library prefer easier implementation 

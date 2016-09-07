@@ -1,0 +1,4 @@
+maven archetype file pattern underscore 
+creating maven archetype generate files project todo messages properties todo replaces filtered property created file project todo messages properties filtered property todo archetype metadata xml archetype properties files underscore rename files underscore filtered property idea maven archetype plugin org apache maven archetype archetype packaging question lowercase filtered filename file content todo tolowercase 
+
+accomplish adding required properties default values set filter case file case add property folder file names 

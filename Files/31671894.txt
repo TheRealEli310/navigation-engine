@@ -1,0 +1,4 @@
+camel ambiguousmethodcallexception abstract classes 
+classes reportdetails extends basedetails basedetails extends foundationdetails camel xml section call body details type results assumed incorrectly concrete implementation getdetails report class exception work 
+
+strong update strong marked answer solved problem current version camel claus ibsens answer bug fix address situation subsequent camel releases hr found workaround ognl simple pretty works replaced thinking access object rely expected getter signatures based variable work 

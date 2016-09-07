@@ -1,0 +1,4 @@
+query getresultlist method affect badly performance 
+persistence api develop standalone software single results multiple results database questions strong query getresultlist strong method retrieving single result multiple results weather method retrieve entire result set part result set executing limit query select limit offset affect badly performance case thinking database records tables impact strong query getresultlist strong strong query getsingleresult strong 
+
+separate db side server side parts ol li rows db side server side matter server side execution huge table li li understand overhead row imho bother li li based href http www objectdb jpa query execute rel nofollow docs small difference rows result li ol blockquote strong query getsingleresult strong results noresultexception thrown blockquote strong upd strong persistance api create query 

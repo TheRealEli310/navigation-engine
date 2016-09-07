@@ -1,0 +1,4 @@
+configuration depending launch mode 
+play launched dev mode production mode test mode provide config file depending mode launched 
+
+base configuration extra configs environment extending href https www playframework documentation scaladependencyinjection guiceapplicationloader merging base conf environment specific conf step forward provide guice modules environment scala version version forget include lower versions similar achieved class overriding mind depracted dont including production build files href http www scala sbt org docs howto defaultpaths html source include filter sbt 

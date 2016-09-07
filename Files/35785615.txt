@@ -1,0 +1,4 @@
+modulo slow 
+implementation jdk curiosity found fairly implemented simple guys stuff idea code highly oriented performance custom map holding thread local mappings weak references gc clever guess matter performance modulo slow 
+
+performance reasons operations slower cpu architecture level minimum latency instruction haswell cycles cycle lets benchmark href http openjdk net projects code tools jmh jmh results 6x slower conditional expression jit optimize automatically discussed code divisor variable 

@@ -1,0 +1,4 @@
+add multiple application properties files spring boot 
+spring boot application divided modules main module runs application file resources folder wondering add properties file submodule separate properties belonging module make working current situation properties file module read causing put content properties file works fine 
+
+work maven gradle reason artifact jar spring boot created file root suggest change properties file support module configure spring boot file href http stackoverflow href http stackoverflow questions merge properties files maven assembly answer pointers kind merging task build tool href http stackoverflow 

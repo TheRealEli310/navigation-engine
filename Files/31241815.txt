@@ -1,0 +1,4 @@
+javamail message set folder open read mode 
+imap opened set specific message read specific point program find change mode fly apparently closing opening wrote hefty method achieves unhappy situation open folder beginning messages marked processing point time message marked peek method wrote dont giggle achieve neatly manner 
+
+conventional solution open folder read write mode href https javamail net nonav docs api sun mail imap imapmessage html setpeek boolean rel nofollow peek functionality fetch data setting flag commands peek set flag 

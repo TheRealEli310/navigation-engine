@@ -1,0 +1,4 @@
+jsch scp host file stricthostkeychecking 
+copy files windows machine linux machine working fine jsch copy files file linux machine copy code project send files automatically unknown linux machines username password ip publickey machine authenticate file publickey security issues switch jcraft jsch jschexception unknownhostkey 
+
+make sense host public key verify file programmatically access instance hr host public key create secure connection option hr em em article href http winscp net eng docs ssh verifying host key rel nofollow verifying host key understand importance article winscp client valid general ssh client 

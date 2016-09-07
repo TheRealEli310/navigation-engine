@@ -1,0 +1,4 @@
+tomcat fails starting war services 
+link issue href https github jenca cloud docker bimserver issues rel nofollow https github jenca cloud docker bimserver issues link dockerfile href https hub docker connoralexander docker bimserver rel nofollow https hub docker connoralexander docker bimserver problem tomcat starting services tomcat successfully installing set username password successfully wget ing latest war file release bimserver autodeploying config bimserver service starting tomcat manager manually start service throws error previous versions tomcat errors idea issue starting listeners catalina log manager log localhost log 
+
+blockquote org bimserver web warserverinitializer lang unsupportedclassversionerror org bimserver web warserverinitializer unsupported major minor version unable load class org bimserver web warserverinitializer blockquote run tomcat strong strong em em recompile offening classes produce compatible bytecode 

@@ -1,0 +1,4 @@
+androidannotation rest handling callbacks 
+working android application androidannotation app make rest calls remote api setup aa rest client write generic code handling response data restclient class rest annotation defined restcall class functions call params callback function guess code interface called responsehandler eventslistener restclient simple javascript dont build handler interface listening receive datas event restclient dunno pass generic objects types hope clear explanations lot 
+
+answer recommend href http square github io retrofit rel nofollow title retrofit retrofit handle rest calls 

@@ -1,0 +1,4 @@
+joining strings limit 
+standard library simple mechanism join strings limit append ellipsis limit results shorter string efficiency desirable joining strings consume excessive memory time mechanism stream pipeline preferable strings past limit created purposes happy limit expressed ul li maximum number strings join li li maximum number characters result including separator characters li ul enforce maximum number joined strings standard library simpler approach 
+
+write custom collector based href http stackoverflow wrote similar case code encoutered strings element accepted size current list tested limit strictly element added equal ellipsis added combiner part bit tricky handle properly size sublists limit finally finisher joins list delimiter implementation works parallel streams head elements stream href http stackoverflow encounter order consume elements stream element added limit reached working 

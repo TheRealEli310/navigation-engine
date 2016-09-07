@@ -1,0 +1,4 @@
+add postgresql datasource wildfly 
+tutorial href http www mastertheboss jboss server jboss datasource configuring datasource postgresql jboss wildfly rel nofollow mastertheboss ol li li li li li li li li ol tutorial works wildfly doesnt work wildfly 3rd step fails error message add postgres datasource wildfly 
+
+encountered error behavior wildfly complete newbie wf research found trouble module naming actual package names module resolve path module xml br changed steps worked br br br 

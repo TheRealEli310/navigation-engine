@@ -1,0 +1,4 @@
+post json request body jetty http client 
+stuck adding json post request body isnt method sets body request achieve drop jetty make post request appreciated 
+
+figure solution staring time added line worked hope helpful 

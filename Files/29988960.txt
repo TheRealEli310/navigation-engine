@@ -1,0 +1,4 @@
+ignoring hostname verification android ssl sockets httpsurlconnection 
+em turn hostname verification httpsurlconnection class em debug mode strong em em strong debug mode find convenient ignore hostname verification team member virtual servers debugging pain neck signed certificates easy achieve today related objects web socket client dont support web sockets connections failing certificate verified good correct behaviour make carry die set trust manager certificates accepted find switch hostname test 
+
+httpsurlconnection sethostnameverifier equivalent raw ssl sockets isnt required simply ignore bit basically preempt problem doesnt exist threw long set trustmanager sslcontext fine 

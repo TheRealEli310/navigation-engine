@@ -1,0 +1,4 @@
+parse nested json response 
+json response format categories beauty personal care eye ware respective urls field loop dont proceed give suggestions parse json 
+
+read href http developer android reference org json jsonobject html rel nofollow documentation class android documentation find method href http developer android reference org json jsonobject html keys rel nofollow keys returns iterator string names object call method iterator generating json changing bit data em listingsavailable em array 

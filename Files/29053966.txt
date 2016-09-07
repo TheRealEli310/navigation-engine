@@ -1,0 +1,4 @@
+make javafx wait timeline finishes 
+timeline runs inside function affect object problem play timeline timeline starts line code wait fist timeline finish play timeline 
+
+asynchronous mdash starts animation background returns immediately ways achieve sequential execution fits depends case ol li move timeline adjusted start duration li li start timeline finished li li wrap li ol 

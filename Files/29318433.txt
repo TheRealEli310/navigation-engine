@@ -1,0 +1,4 @@
+nullpointerexception calling mocked method 
+mock final method href http docs oracle javase docs api io datainputstream html readchar rel nofollow readchar class datainputstream strong myclasstest strong strong myclass strong works calling mocked method testmymethod mymethod nullpointerexception raises strong edit strong complete failure trace 
+
+system class jvm loaded jvm remove modifier methods mock loaded classes hotspot jvm doesnt support class signature loaded classes exception luckily interface implemented mocking dont powermock mockito 

@@ -1,0 +1,4 @@
+jackson key deserializer called recognized 
+error implemented custom key deserializer error occurred invocation handlers chain class reference chain entity interface extends inferace element class implements element map written mixin class element annotations map source exception implemented key deserializer registered objectmapper simplemodule deserializer objectmapper config deserializer registeration mixinmodule extends jacksons simplemodule point missing deserializer called struggling lot context write rest api top api modifying classes scope jackson v1 greatly appreciated 
+
+finally found wrong added annotated map field super class mixin field present class assumed mixin class add field super class end created mixin class class added annotated field worked 

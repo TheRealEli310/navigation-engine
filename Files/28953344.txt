@@ -1,0 +1,4 @@
+javacard keyagreement differs bouncycastle keyagreement 
+problem generated keys card terminal sides terminal side card public private keys terminals public private keys card side tests terminal card generate keyagreement terminal side card private terminal private secters generation bytes bit secret generate secrets card cases terminal secrets ale shorter bytes bit generation codes terminal card side 
+
+problem implementation terminal side correct length output method key agreement bytes sha performed derived output terminal side perform sha generating secret data 

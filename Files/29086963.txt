@@ -1,0 +1,4 @@
+hibernate unable load class 
+href http www tutorialspoint hibernate hibernate quick guide htm rel nofollow http www tutorialspoint hibernate hibernate quick guide htm hibernate guide error 
+
+grab mysql connector jar href http dev mysql downloads connector rel nofollow add classpath folder maven including pom xml 

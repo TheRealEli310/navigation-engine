@@ -1,0 +1,4 @@
+issues managing multiple stacks 
+investigating solution manage multiple stacks posted problem code debugging question function popat int index shift bottom stack element order stack push top stack bottom element stack behavior correct expected behavior pop element stack element pop element stack previous top bottom stack imagine literal stack plates stack high topple real life start stack previous stack exceeds threshold data structure setofstacks mimics setofstacks composed stacks create stack previous exceeds capacity setofstacks push setofstacks pop behave identically single stack pop return values single stack function popat int index performs pop operation specific stack advance lin 
+
+em leftshift em code called recursively increasing index call index pop stack case stacks element size continue stack 

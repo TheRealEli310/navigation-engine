@@ -1,0 +1,4 @@
+error parsing xml schema 
+parse file file syntactically correct generated href http www khronos org files collada schema rel nofollow schema file begins code load parsing throws error fairly syntax correct adding recommendation href http stackoverflow questions xml validation error root element match doctype question threw exception strong edit strong errors suggestions setting namespace aware adding 
+
+declare documentbuilder namespace aware dom shouldnt declare setvalidating dtd validation distinct schema validation 

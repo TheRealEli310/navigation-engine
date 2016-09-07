@@ -1,0 +1,4 @@
+sending buffer mb socket chunks 10mb 
+converting details function strings char socket buffer size mb send 10mb shot split send chunks smaller memory difference approaches send smaller memory chunk size 
+
+call function provide buffer number bytes write guaranteed os send write bytes write single shot case blocking sockets call block copies entire chunk tcp buffer case blocking write return block write bytes tcp ip stack runs os os implemenation stack stack determine buffer sizes tcp ip care low level statistics mss receiver window size tcp run flow control congestion control related algorithms tcp decide send data breaking data chunks tcp stack careful thing check number bytes returned call 

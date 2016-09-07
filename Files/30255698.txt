@@ -1,0 +1,4 @@
+camel producertemplate injected annotation config 
+similar questions href http stackoverflow questions camel producertemplate injected spring mvc camel producertemplate injected spring mvc href http stackoverflow questions initializing camel spring annotation config initializing camel spring annotation config dont case bean sends messages producertemplate annotation driven configuration trhows npe send method activemqproducer injected equivalent xml configuration sucessfully sends message activemq initialized playing camelcontext implementation bit defaultcamelcontext springcamelcontextfactory luck problematic code href https github makasprzak camel producer testing tree 87453fa63da1fd427ebfb6f3c743e5882adcc2a9 rel nofollow github miss annotation configuration 
+
+extend org apache camel spring javaconfig camelconfiguration annotationconfigapp class 

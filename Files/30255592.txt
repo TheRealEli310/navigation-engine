@@ -1,0 +1,4 @@
+maven compile project aspectj project 
+project wrote pom jar compiled project run didnt desirable result maven compile jar respect aspects upd app package badmitrii trace aj 
+
+configuring plugin href http mojo codehaus org aspectj maven plugin examples libraryjars html rel nofollow documentation describes blockquote order apply compiled aspects sources setup jar files weave plugin configuration shown blockquote hr updated code post pre compiled aspect dont configuration aspectlibraries goal add version maven plugin compile aspect comment printf lines written correctly scope question test system println inside aspect inside aspect works 

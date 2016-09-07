@@ -1,0 +1,4 @@
+ejb singleton lock mode calling methods instance 
+singleton class method accessed concurrently calls private method class annotated default lock mode question guess scenario call practically concurrent 
+
+method private business method default applicable business methods 

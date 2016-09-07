@@ -1,0 +1,4 @@
+set mongoclientoptions mongoclienturi 
+current mongodb api constructor accepts set options client built uri convert set options construction client accepts int documentation method doesnt explain int supposed href http api mongodb org mongodb mongoclient html rel nofollow http api mongodb org mongodb mongoclient html href http api mongodb org mongodb mongo html setoptions int rel nofollow http api mongodb org mongodb mongo html setoptions int 
+
+href http api mongodb org current mongodb mongoclienturi html mongoclienturi lang string mongodb mongoclientoptions builder rel nofollow variant constructor takes uri href http api mongodb org current mongodb mongoclientoptions builder html rel nofollow methods setting option create constructor takes 

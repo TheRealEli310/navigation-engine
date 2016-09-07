@@ -1,0 +1,4 @@
+change request url jsp servlet 
+index jsp web xml file run app href http localhost jspapp index jsp rel nofollow http localhost jspapp index jsp work fine change url href http localhost myfirstapp index jsp rel nofollow http localhost myfirstapp index jsp change jspapp myfirstapp change 
+
+eclipse run application change context root project properties web project settings context root deploying app server tomcat rename war file context root desire 

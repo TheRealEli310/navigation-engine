@@ -1,0 +1,4 @@
+grizzly web server nio based framework 
+official documentation grizzly nio based framework build scalable web servers realize grizzly http connector front end glassfish v3 specific glassfish connector custom written exposed apis box reference implementation run grizzly standalone webserver glassfish grizzly integration documentation pretty limited link explains diagrammatically architecture grizzly fit glassfish architecture message flow share 
+
+project grizzly nio framework http server module dont glassfish run grizzly http server href https grizzly net httpserverframework html rel nofollow https grizzly net httpserverframework html 

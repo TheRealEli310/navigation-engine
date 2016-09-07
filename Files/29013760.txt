@@ -1,0 +1,4 @@
+spring boot add external property files 
+simple mvc application springboot created config dont web xml br application db connection based jpa great move db properties inside war location os variable config location br br href http docs spring io spring boot docs current reference html boot features external config html rel nofollow spring doc written posible set spring application br suppose initializer br br options br springapplication place insert files location os variable find br annotation understond os variable add files spring context entitymanager created open suggestion 
+
+found created class return propertysourcesplaceholderconfigurer br pspc os variable scan files location br scan add files properties extension pscs locations br method bean class configuration works fine pre class lang prettyprint override 

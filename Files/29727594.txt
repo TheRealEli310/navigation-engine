@@ -1,0 +1,4 @@
+spark word count sorting sorting 
+learning spark extend wordcount sorting words number occurrences problem running code results unsorted sorting failed reason similar effect wordsortedbycount command limiting execution thread class comparison point wrong code 
+
+problem code comparator fact returning method return negative element change put parameter youll ascending order lowest greatest opposite 

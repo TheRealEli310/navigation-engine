@@ -1,0 +1,4 @@
+avoid multiple database queries hibernate projection 
+classes unidirectional relationship querying classes based criteria projection generates extra queries strong hibernate projection query avoid queries strong heres model pre class lang prettyprint override heres criteria query pre class lang prettyprint override heres hibernate log running criteria hibernate query ids query individually roundtrips expensive part web site request id avoid href https github burkemw3 hibernate projection nplusone rel nofollow published full reproduction github experiment 
+
+subquery pre class lang prettyprint override heres generated query subquery reduces round trips efficient query execute database 

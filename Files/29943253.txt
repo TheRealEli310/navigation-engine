@@ -1,0 +1,4 @@
+unable view hystrix metrics dropwizard app hystrix metrics event stream servlet 
+dropwizard app added number classes calling external services visualize stats related calls services app play nice href https github netflix hystrix wiki dashboard rel nofollow title hystrix dashboard hystrix dashboard documentation imply servlet working app work call servlet endpoint directly long stream lines implying metrics published cron job repeatedly calling objects generate stats avail added dependency integrated servlet dropwizard manually publish metrics data picked tweak config dev environment appreciated 
+
+sorted turned version artifact version didnt spot stored pom file version hystrix packages data fine servlet related found href https github zapodot hystrix dropwizard bundle rel nofollow title hystrix dropwizard bundle hystrix dropwizard bundle easier flexible integrate dropwizard hystrix people scratch complex tenacity includes support people dropwizard metrics 

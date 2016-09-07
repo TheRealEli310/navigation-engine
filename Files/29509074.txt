@@ -1,0 +1,4 @@
+reading line breaks csv quoted file flatfileitemreader spring batch 
+parse csv file flatfileitemreader csv quoted newline characters shown parsing failing required fields actual missing flatfilereader configuration 
+
+box flatfileitemreader href http docs spring io spring batch trunk apidocs org springframework batch item file separator simplerecordseparatorpolicy html rel nofollow simplerecordseparatorpolicy usecase ul li commented part lines li ul set href http docs spring io spring batch trunk apidocs org springframework batch item file separator defaultrecordseparatorpolicy html rel nofollow defaultrecordseparatorpolicy cited javadoc blockquote recordseparatorpolicy treats lines record endings long unterminated quotes end continuation marker blockquote xml configuration 

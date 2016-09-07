@@ -1,0 +1,4 @@
+javafx keyevent mouseevent 
+learn javafx code trouble start method wanted add spots screen clicking press future spots added change color methods isnt internet 
+
+reason circle accepting focused nodes respond key events href http docs oracle javafx api javafx scene node html focustraversableproperty rel nofollow focustraversable calling setfocustraversable true node edited start method code ended answers links ul li href http www coderanch javafx handling keyboard events rel nofollow handling keyboard events li li href http stackoverflow questions listen keyevent javafx listen keyevent javafx li ul 

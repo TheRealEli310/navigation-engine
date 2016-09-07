@@ -1,0 +1,4 @@
+add number stored digit array 
+negative number represented array digits number digits stored significant digit head list h3 h3 represents return represents return code working input output 
+
+input code blockquote blockquote 8765435e9 substring decimal point result work changed type converted string approach creating adding converting string converting array awkward error prone work larger arrays subject integer overflow change type solution pass tests programming interviews alternative simpler work arbitrarily digits permitted array size worrying integer overflow 

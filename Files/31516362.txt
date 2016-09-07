@@ -1,0 +1,4 @@
+gradle include source files 
+project projects main library compiler programming language directory structure build gradle problem run task build fails compiler hundreds errors places compiler source code references classes library make compiler dependant library classes theoretically copy bad idea reasons include source files library compiling compiler em duh em 
+
+similar question href http stackoverflow questions gradle custom source set dependency main test replicated situation locally fix add line sourcesets 

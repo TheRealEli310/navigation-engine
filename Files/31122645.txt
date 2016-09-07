@@ -1,0 +1,4 @@
+create checkbox button press 
+create checkbox button clicked error code creates error incompatible types 
+
+working passing context view onclicklistener change 

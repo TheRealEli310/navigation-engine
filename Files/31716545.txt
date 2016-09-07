@@ -1,0 +1,4 @@
+session attribute servlets 
+made login environment user retrieved username password database login set user string session user servlet string servlet session attribute servlet code session userid 
+
+storing retrieve values variable href https tomcat apache org tomcat doc servletapi javax servlet http httpsession html method summary rel nofollow httpsession getattribute href http www mkyong jdbc jdbc preparestatement select list records rel nofollow preparestatement follow avoid sql injection href http stackoverflow questions difference request getsession request getsessiontrue session 

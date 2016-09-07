@@ -1,0 +1,4 @@
+check database pool spring boot 
+spring boot mysql logs full stack href https docs spring io spring boot docs current reference html boot features sql html rel nofollow spring boot docs tomcat pool automatically depend jpa starter check endpoint returns bean tomcat pool href http stackoverflow questions spring boot web app loses ability connect mysql rds question talks set avoid problem 
+
+spring boot starter jdbc referenced jpa data depending tomcat pooling strong default tomcat pooling strong easily verify checking maven dependency list em stacktrace posted confirms em means href https tomcat apache org tomcat doc jdbc pool html common attributes rel nofollow tomcat pooling parameters ul li testwhileidle li li validationinterval li li validationquery li ul 

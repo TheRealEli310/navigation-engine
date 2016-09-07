@@ -1,0 +1,4 @@
+org hibernate dialect postgresqldialect deprecated 
+added configuration hibernate application intellij idea complaining dialect deprecated pre class lang xml prettyprint override clear solution internet suggestions 
+
+href https docs jboss org hibernate orm javadocs org hibernate dialect postgresql82dialect html documented href https docs jboss org hibernate orm javadocs org hibernate dialect postgresqldialect html javadoc blockquote deprecated br postgresql82dialect blockquote dialect matches postgresql jdbc driver href https docs jboss org hibernate orm javadocs org hibernate dialect package summary html list postgresql href https docs jboss org hibernate orm javadocs org hibernate dialect postgresql94dialect html 

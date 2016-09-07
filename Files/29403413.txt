@@ -1,0 +1,4 @@
+implement namedquery web application jsf ejb 
+noob created web application netbeans created strong entity classes data base strong lets table data base named strong user strong generated ol li user li li usercontroller li li userfacade li li abstractfacade li ol created jsf pages entity classes generated ol li create xhtml li li edit xhtml li li list xhtml li li view xhtml li ol user blockquote namedquery users findbyname query select users blockquote jump inplement query view xhtml show users give instruction 
+
+difficult implement query view xhtml doesnt make sense namedquery return list users view xhtml show user make sense list xhtml easier datatable filtering em em namedquery create method ejb userfacade call method dont requirements clear 

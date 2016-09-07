@@ -1,0 +1,4 @@
+aligning textview autocompletetextview side side android 
+align autocompletetextview type group location textview radius left top imageview href http stack imgur 2pibxm jpg rel nofollow img src http stack imgur 2pibxm jpg alt enter image description doesnt work heres xml layout failed aligning textview regard autocompletetextview aligning views regard parent view suspect autocompletetextview transparent trailing missing 
+
+found solution reason autocompletetextview default padding set paddingleft fixed problem 

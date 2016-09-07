@@ -1,0 +1,4 @@
+parse custom column excel file poi 
+parse excel file date time mm dd yyyy hh mm ss stored custom format check cell type indicating numeric retrieve displaying exception read date cell getdatecellvalue exception retrieve string exception reversed idea make work 
+
+similar issues apache poi suggestion force cell text read string end parse string meaningful data hope helps apache poi limitations hack 

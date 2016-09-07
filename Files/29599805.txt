@@ -1,0 +1,4 @@
+making class abstract making constructor private 
+design question mind suppose class static methods design option ul li make class abstract li li make constructor private code class make object class li ul choice depend situation 
+
+making class abstract assumes strong strong class inherited happen make abstract static methods kind utility class br wrong creating instance class benefit disadvantage practice make constructor private utility classes 

@@ -1,0 +1,4 @@
+replace string brackets 
+working small program ul li reads excel document xlsx smartxls saves content long string line cell li li reads config file converts substrings long string replaceall adds prefix examples config file li li outputs final string txt file li ul conversion tab parts bracket itsabracket config file replaced tag tells columns converted original substring string converted problem brackets round curly square config file dont single longer phrases letters digits brackets writes output file reading config file saves convert array throws patternsyntaxexception unclosed character class index outputs ideas make work 
+
+href http docs oracle javase docs api lang string html replace 28java lang charsequence 20java lang charsequence rel nofollow string replace accepts character sequence unlike replaceall dont escape characters strong input strong br bracket br tagname strong output strong br itsaa bracket hope achieve code 

@@ -1,0 +1,4 @@
+define font styles pdfcells pdftable 
+assistant applying font styles make font bold alignment center header cell cells bold alignment left current code set header cell bold align header content center modify font cells generated dynamically change alignment left current code 
+
+wrap font amp alignment attributes arguments constructor pass 1st arg alignment amp 3rd font left align set element attribute amp bold font make remember class 

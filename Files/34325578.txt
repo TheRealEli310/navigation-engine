@@ -1,0 +1,4 @@
+install run spark framework aws elastic beanstalk 
+build web app tomcat glassfish war web app archive file file easily deployed aws elastic beanstalk clicks integration simple elastic beanstalk deploy web app tomcat glassfish recently started lightweight framework called spark www sparkjava deploy elastic beanstalk clicks alternative easily deploy spark web app aws create ec2 instance copy jar app launch jar web app command line 
+
+deploying war href http docs aws amazon elasticbeanstalk latest dg tomcat platform html rel nofollow tomcat platform run fat jar href http docs aws amazon elasticbeanstalk latest dg se platform html rel nofollow se platform 

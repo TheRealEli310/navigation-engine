@@ -1,0 +1,4 @@
+declare connection properties combopooleddatasource basicdatasource 
+declare hibernate properties bean configuration file 
+
+workaround long data types change manually sad usefetchsizewithlongcolumn working time href http docs oracle cd e11882 appdev e13995 oracle jdbc oracledriver html rel nofollow property make long columns retrieving big run memory jpa hibernate add lob annotation 

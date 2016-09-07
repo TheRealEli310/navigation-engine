@@ -1,0 +1,4 @@
+add checkbox jtable populated rs2xml 
+dont frame populate jtable add checkbox 
+
+assume add additional column found database check box select rows wrapper tablemodel untested model works model code 

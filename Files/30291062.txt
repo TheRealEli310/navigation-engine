@@ -1,0 +1,4 @@
+inflating framelayout inside viewholder item oncreateviewholder 
+create custom adapter dynamic view data retrieved set differentiate data coming implemented set type implemented needed recyclerview assume pick strong postitemview strong concerned xml layout part inflate inflate specific layout framelayout type iterate 
+
+heres dynamic approach assuming adapter turn abstract class create abstract method called framelayout layout add framelayout inflated create strong postitemview strong object instantiate viewholder view abstract method implement subclass adapter eventually create class called extend pass context assume constructor implement current solution complete class approach decide main adapter 

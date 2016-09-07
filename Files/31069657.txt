@@ -1,0 +1,4 @@
+logging spark 
+spark distribute job distributed classes generate logging log4j classes supposed spark specific implement filtering operations stuff code executed slaves dont logging back master clever spark related code classes minor ps tags show working api 
+
+dont change code configuring log4j deliver log messages central location choose href https logging apache org log4j manual appenders html flumeappender 20flumeappender rel nofollow flumeappender href https logging apache org log4j manual appenders html jmsqueueappender 20jmsappender rel nofollow jmsappender href https logging apache org log4j manual appenders html jdbcappender 20jdbcappender rel nofollow jdbcappender dont implement appender 

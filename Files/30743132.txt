@@ -1,0 +1,4 @@
+mocking static methods aem mocks 
+maven build test code installing instance aem written unit tests benefit aem mocks href http wcm io testing aem mock rel nofollow implementation wcm io unit tests require mocking static methods powermockito maven dependencies aem context sling mocks powermock class setting rule aem context preparing static classes mocking run mvn test command line received exception dont prepare static classes test remove preparefortest annotation test runs fine add annotation empty issue left questions ol li setup change work li li aem context work static mocking potentially library li ol 
+
+issue resolved tweaking version numbers test dependencies 

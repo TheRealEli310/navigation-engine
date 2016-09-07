@@ -1,0 +1,4 @@
+method call future blocks desirable 
+read question carefully marking duplicate snippet pseudo code question code defeat notion parallel asynchronous processing reason ego low code main thread submit task executed thread submitting task queue blocks future method task return task executed main thread submitting thread waiting results gained executing task thread aware wait limited time care result problem worse multiple tasks executed work synchronously aware guava library blocking listener interface interested understanding correct future api correct future designed block defeating process parallel processing record 
+
+offers method blocking returns true computation completed false retrieve result computation couple options ul li call isdone result ready invoking notice blocking li li block indefinitely li li block timeout li ul thing easy obtaining values threads executing parallel tasks synchronously asynchronously prefer bullets 

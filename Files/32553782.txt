@@ -1,0 +1,4 @@
+open launch fragment activity 
+adapter recyclerview contained activity launch fragment element recyclerview pressed code tested launching testing activities created fragment launching works fine error launching fragment activity run app crashes tells declare mainfragment activity manifest launch fragment activity 
+
+start method recommend information href http developer android guide components fragments html transactions rel nofollow fragments transactions documents 

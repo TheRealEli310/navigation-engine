@@ -1,0 +1,4 @@
+custom jsondeserializer inheritance stackoverflowerror 
+issue custom jsondeserializer implementations abstract class depending json message received rest service call data deserializer inheritance implementations inheriting annotation call calles method ending stackoverflowerror avoid end calling actual class thought itd default implementation 
+
+finally found solution annotating subclasses 

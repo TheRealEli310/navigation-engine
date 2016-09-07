@@ -1,0 +1,4 @@
+decrement hashmap 
+player board game making remove walls player basically sharing walls figured make hold key dont decrement keys supposed wall ill show snip code issue heres initialize map method decrement walls problem decrement works player work players 
+
+objects primitives insert mapped immutable class directly modify replace discarding 

@@ -1,0 +1,4 @@
+implementation bernoulli numbers method 
+trouble editing existing implementation href http introcs cs princeton 96optimization bernoulli html rel nofollow bernoulli numbers href http introcs cs princeton 92symbolic bigrational html rel nofollow bigrational helper class original implementation puts calculation bernoulli numbers inside main method made class return calculation individual bernoulli numbers wrong order calculate href https en wikipedia org wiki values riemann zeta function rel nofollow zeta function numbers href http stack imgur d62gk png rel nofollow img src http stack imgur d62gk png alt enter image description test method created calculates denominator equation bigdecimal upcoming problem convert bernoulli bigrational bigdecimal adjust href http introcs cs princeton 92symbolic bigrational html rel nofollow bigrational class found 
+
+alternative solution 

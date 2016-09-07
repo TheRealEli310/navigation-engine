@@ -1,0 +1,4 @@
+spring data redis cluster support 
+spring data redis clustered setup redis pure code jedis connect cluster redis nodes outputs correct clear order cluster redis jedis provide ips ports master nodes redis cluster coming spring backed redis options reality classes opportunity give list ips ports gave missed handling redis cluster spring data sentinel cluster correct wrong practical implementation aspect dont provide examples sentinels advance 
+
+support redis clusters integrated spring data redis jira ticket href https jira spring io browse dataredis rel nofollow title dataredis dataredis created track request cluster capability exposed jedisconnection jedisconnectionfactory classes spring feature 

@@ -1,0 +1,4 @@
+exception thread main lang noclassdeffounderror org slf4j loggerfactory spring tool suite 
+spring tool suite version release create simple spring maven project added dependencies pom xml desktop working fine thing laptop gave error downloading jar files manually luck pom xml attached bellow 
+
+upgrade gave jre run time environment sts solved problem 

@@ -1,0 +1,4 @@
+retrofit requests good practices 
+retrofit android application pretty figure handle simple requests messy client communicating server json retrofits jacksonconverter ended route takes simple json returns simple string body bad afraid things messy time creating object json inside body request retrofit missing javadoc library website clear youve didnt find sample exists 
+
+href http square github io retrofit rel nofollow http square github io retrofit form encoded multipart methods declared send form encoded multipart data form encoded data formurlencoded present method key pair annotated field object providing case hope helps 

@@ -1,0 +1,4 @@
+fx suggestions aligning checkbox grid 
+converting swing fx checkboxes label appears left side checkbox accomplishing calling problem gridpanes label column node column row checkboxes row ideally checkbox node aligned accomplishing setting checkboxs columnspan adding padding align fields easier previous solution separate label checkbox caused lose functionality selecting deselecting checkbox clicking label edit img src http stack imgur jcwer png alt enter image description figure align checkbox field 
+
+nice separate label check box register mouse listener label toggle state check box elegant sscce img src http stack imgur dr2zg png alt enter image description 

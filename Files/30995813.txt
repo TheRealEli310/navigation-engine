@@ -1,0 +1,4 @@
+instantiate bean inject vaadin cdi 
+inject components beans vaadin cdi code simplified bit mypanel mysubpanel class finally mybean class bean beeing injected empty wildfly 
+
+constructor class variables injected bean injected initialising null constructor possibilities ul li inject bean constructor li li bean init method annotated postconstruct li ul id recommend approach find injection methods href http www javacodegeeks ee cdi dependency injection inject tutorial html rel nofollow http www javacodegeeks ee cdi dependency injection inject tutorial html 

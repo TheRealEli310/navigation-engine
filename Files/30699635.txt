@@ -1,0 +1,4 @@
+jax rs custom json representation primitive resource return type 
+suppose service contract map return type produce json ps method http post request annotation assumes annotations response representation 
+
+good idea youll create jax rs resource designated entity class response br mix marshalling model write messagebodywriter keypoints br dont forget register writer configuration dont writer resource returning int create special annotation resource intasid dont forget set correct retention policy check presence annotation method br add annotation resource annotation jax rs provider dont check writer cases resource produce json br dont care method result jersey br dont close method br 

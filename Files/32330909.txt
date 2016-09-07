@@ -1,0 +1,4 @@
+rabbitmq consume json message convert object 
+put test puts message queue returns string achieve convert object signupdto stripped code question strong question strong modify test convert object hr strong signupclass strong strong application config class strong strong test strong 
+
+configure outbound conversion sets content type application json headers type information tells receiving converter object type create send simple string json set content type inbound conversion set type headers converter source information configure converter determine type strong edit strong config simply inject template definition strong edit2 strong send plain json string inbound converter headers set headers bear mind strong sending strong template strong strong json message converter default json double encoded 

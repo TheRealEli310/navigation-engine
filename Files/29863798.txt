@@ -1,0 +1,4 @@
+exception thread main lang indexoutofboundsexception index size 
+problem problem list error correctly list iterate exceeding size list int advance mess code erros hugh fixed works 
+
+listkey list integer youre mixing keys values list entry loop values list listkey attempt find 3rd list exceed bounds loop give behaviour expect 

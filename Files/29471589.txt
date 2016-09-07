@@ -1,0 +1,4 @@
+jsonpath jackson deserialize json array single object vector3d instance 
+strong abstract strong jsonpath select parts json file deserialize pojos works fine strings figure jackson deserialize element array single instance class vector3d examples jackson documentation involve element json converted object ideas strong documentation strong href https github jayway jsonpath blob master readme md rel nofollow jsonpath documentation mentions blockquote configure jsonpath jacksonmappingprovider map jsonpath output directly pojos book book jsonpath parse json read store book book class blockquote work strong strong class constructor pre class lang prettyprint override actual file work complex location vector element array code overly verbose step small pre class lang prettyprint override vector3d int line exception read call confused construction doesnt work deserialization works added constructor takes ideas 
+
+dont issue static classes works 

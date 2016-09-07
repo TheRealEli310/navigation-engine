@@ -1,0 +1,4 @@
+test class public getters private setters junit 
+lets class test class eclipse test public methods test getters setting setters valid set setter methods class testing purposes 
+
+code good code written enable easy unit testing adopt mindset design structure write code makes easier test shouldnt questions short answer expose setters public enable testing package default scope dont setters part public api alternatively add constructor parameters set values create instance 

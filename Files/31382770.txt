@@ -1,0 +1,4 @@
+mvn clean warning mvn install error 
+guys issues warning msg blockquote problems encountered building effective model souq marketplace selling center services war snapshot warning dependencies dependency systempath souq servicemanager jar point files project directory project basedir src main webapp web inf lib servicemanager jar unresolvable dependent projects line column warning build plugins plugin groupid artifactid unique found duplicate declaration plugin org apache maven plugins maven deploy plugin line column blockquote install blockquote unable locate javac compiler error opt jre1 lib tools jar error ensure jdk error jre sun tools javac main class required error cases change location error installation setting home environment variable error blockquote blockquote opt jre1 blockquote 
+
+jre installed jdk openjdk linux jre compiler 

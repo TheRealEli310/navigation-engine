@@ -1,0 +1,4 @@
+jax rs service response returning double fields decimal places 
+working jax rs web service returns pojo json pojo double integer fields problem double fields numbers fields returned json decimal point decimal places preserved numbers service interface uniform double fields decimal point returned json decimal points numbers fix code operation pojo actual expected 
+
+jax rs marshall response javascript works console output part ecma specification find exact place method number client side preserve decimal point convert number string 

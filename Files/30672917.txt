@@ -1,0 +1,4 @@
+maven clean install site fails jpa metamodel generated classes 
+working jpa hibernate application generates jpa metamodels maven processor plugin execute strong mvn clean install site strong fails error metamodel classes execute strong mvn clean install strong strong mvn site strong works fine appreciated 
+
+fixed issue required plugin work added configuration strong maven processor plugin strong 

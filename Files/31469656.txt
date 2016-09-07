@@ -1,0 +1,4 @@
+spring data mongodb closing mongodb connections 
+spring data mongodb release spring webmvc framework web application basic crud functions mongorepository closing mongo connections code thought spring data mongodb close opening connections closing connections ares crashing application restart tomcat day overcome spring application amp mongod server log crashing log restarting tomcat increase sends request app tomcat log crash development server traffic lesser call minute suggest close connections 
+
+mongoclient maintains connection pool open db connection mongoclient reuse application setting tcp connection expensive timewise memory wise reuse connections connection thread created mongodb memory db ul li point noted race condition connecttomongo method synchronize access method ensure instance mongoclient created li ul 

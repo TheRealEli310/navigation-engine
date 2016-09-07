@@ -1,0 +1,4 @@
+long running tasks message driven beans timeouts 
+process long running tasks mdbs hours mdbs backed jms timeout minutes tomee make things worse jobs persistent catch timeout exception mdb option manually deal jms consumer manually dealing ways synchronously asynchronously asynchronously ill fall back stateless bean implements messagelistener ill treat timeout synchronously guess deal timeout catch block implement pool instances workers inside tomee listening queue waiting job process remember timeout time wait message queue time execute long running task 
+
+dont fork long running process separate object control pool size separate objects answer uncontrolled object growth time hmmm thing fixedthreadpool concurrent framework spawn thread executing long running task ensure mdb returns immediately handing work thread pools controlled profiling application test environment application servers weblogic websphere give sophisticated frameworks workmanager tasks 

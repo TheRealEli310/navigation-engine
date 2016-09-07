@@ -1,0 +1,4 @@
+null typed 
+encountered bug codebase narrowed caused behavior test case fails succeed overloaded method variants takes takes primitive type suspect happening auto boxing case dont converted valid type moved asked understand behavior 
+
+invocation href http docs oracle javase docs api lang boolean html valueof 28boolean fails unboxing fails words process jls href http docs oracle javase specs jls se8 html jls html jls blockquote reference type unboxing conversion converts blockquote invoking href http docs oracle javase docs api lang boolean html valueof 28java lang string overloaded version accepts href http docs oracle javase specs jls se8 html jls html jls valid expression type blockquote returns represented string boolean returned represents string argument equal ignoring case string blockquote 

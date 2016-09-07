@@ -1,0 +1,4 @@
+convert part json hashmap jackson objectmapper 
+unmarshall json file properties json mapped hashmap present model class rest properties mapped respective fields class find json model class map json map keys rest properties json mapped respective fields objectmapper jackson library 
+
+jsonanysetter annotate method called properties jsonanygetter kind reverse serialize deserialize 

@@ -1,0 +1,4 @@
+failing mutual auth android javax net ssl sslhandshakeexception handshake failed 
+mutual authentication request work android testing server signed ca client certificate untrusted server cert asynctask perform request tested request browser ios client work android untrusted server certificates blockquote javax net ssl sslpeerunverifiedexception blockquote edit add sslsocketfactory trust signed server cert blockquote javax net ssl sslhandshakeexception handshake failed blockquote edit lollipop apache web server apache web server config problem href http stackoverflow questions httpclient fails handshake failed android lollipop httpclient fails handshake failed android lollipop change looked recommend config edit full stack trace 
+
+put client cert keymanager 

@@ -1,0 +1,4 @@
+intellij web application tomcat server shows http localhost index jsp http localhost myapp index jsp 
+tutorial udemy tutorial eclipse intellij thing works fine thing noticing runs servlets jsp pages shows project servlet href http localhost myapp index jsp rel nofollow http localhost myapp index jsp create web application intellij shows href http localhost index jsp rel nofollow http localhost index jsp question project index jsp add web xml file work 
+
+enter application url edit connfiguration tomcat server ul li click edit configuration li li enter application url start page li ul img src http stack imgur 5qtfs jpg alt enter image description solution work doesnt change application context myapp deployment tab 

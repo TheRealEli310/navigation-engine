@@ -1,0 +1,4 @@
+recyclerview inside nested scrollview 
+multiple view holder inside recycler inside nested scroll view change natural behaviour strong onbindviewholder strong recycler view nested scroll strong getitemviewtype strong items called inside strong onbindviewholder strong initiate recycler adapter items means normal scenario items called initiate case nested scroll view views create load xml file 
+
+remove set 

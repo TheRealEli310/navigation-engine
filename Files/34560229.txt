@@ -1,0 +1,4 @@
+convert byte image display jsp 
+display uploaded picture byte array jsp page byte column exists database converted image part table jsp page part controller takes array bytes multipartfile object additional information needed 
+
+add tranisent property hold base64 encoded string image access jsp method encoding somethig handy util classes shouldnt problem finding 

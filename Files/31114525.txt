@@ -1,0 +1,4 @@
+finding path elements grid 
+plz question unable blockquote grid comprising tiles numbered set start end point pairs pair find path start point end point paths meet conditions br horizontal vertical moves allowed br paths overlap br paths cover entire grid input br input consist lines line space separated integers starting ending point output br print lines line consisting space separated integers path start end pair assume path exists case multiple solution print sample input sample output blockquote 
+
+logic solution coding stuck post complete code trick find start end pair edges matrix br pairs pairs find pair plot path edge edges matrix calculated reflect plotted path plotted numbers edge numbers numbers removed pair edge process repeat pairs accounted edit dry running pair edge includes diagonal position matrix status plotting pair position edge south east bottom corner matrix 

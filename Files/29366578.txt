@@ -1,0 +1,4 @@
+proper session hibernate 
+english learn javaee dont proper session hibernate pattern property session strong hibernateutil strong class class makes operation db strong categorydaoimpl strong servlet results strong indexuser strong 
+
+main contract creation session instances application single sessionfactory instance threads servicing client requests obtain session instances factory internal state sessionfactory immutable created internal state set internal state includes metadata object relational mapping basically session physical connection database performing db operations open session sessionfactory session physical connection database perform operation performing operation close session light weight 

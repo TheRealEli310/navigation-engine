@@ -1,0 +1,4 @@
+disable direct access pages url jsp pages 
+created web application works fine user logged access jsp pages url stop url access shows usage filters filters dont implement servlets dao jsp pages suggests make filter jsp servlets pages web xml loginservlet myfilter loginpage jsp pages web pages folder web inf folder web inf folder web xml init header jsp 
+
+firstly jsps serve requests render views servlets serve requests forward jsp heres web xml servlet forwards jsp web inf directory putting jsps web inf directory means requested directly servlet set servlet filter web xml url fits pattern filtered login required 

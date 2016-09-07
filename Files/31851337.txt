@@ -1,0 +1,4 @@
+spring spring cache working 
+working spring mvc application profiler backend noticed getcurrentlyauthenticateduser hotspot reason thought cache working user logs null user user logged wrong ofcourse remove cacheable annotation config xml works fine nice personserviceimpl config cache call method logged null back nice 
+
+code line place put condition caching work person null caching work person null happy coding 

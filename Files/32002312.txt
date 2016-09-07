@@ -1,0 +1,4 @@
+injecting arquillian test class null 
+install jboss tools plugin eclipse ide create project em jboss central ee ear project em em wildfly final em server ejb module project template href http stack imgur jhs3n png rel nofollow img src http stack imgur jhs3n png alt enter image description dependencies arquillian project created project template didnt modify anythings created test class console log totally newbie testing arquillian find study examples arquillian testing examples fine whats wrong mine reading question happy helping newbie 
+
+error message suggests jboss unable create instance reason missing dependencies add 

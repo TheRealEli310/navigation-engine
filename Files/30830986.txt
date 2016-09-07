@@ -1,0 +1,4 @@
+android studio libgdx fatal error 
+develop android game libgdx tween engine animations run phone error strong classes strong main class jetskirider splash splashscreen mainmenu main menu splash screen finished sprite accessor accessor tween engine 
+
+edit build gradle load tween lib repository newer version project works remove tween jar libs folder 

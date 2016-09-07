@@ -1,0 +1,4 @@
+org hibernate instantiationexception instantiate abstract class interface 
+entity rest inherit parent entity collection main entity collection entities strange work suddenly started working reason updating existing adding persisting main works hitch method save main entity persist entire thing shown throwing exception compensationfileformservice compensationfilerepository exception thrown appreciated 
+
+turns entities inherited properties relations missing cascade annotations property received load parent entity closest thing associate entity fields werent cascaded means problem due missing cascade annotations changed 

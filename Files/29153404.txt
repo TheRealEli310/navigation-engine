@@ -1,0 +1,4 @@
+access array thread safely 
+operations arrays thread make access array thread reads writes 
+
+operation array thread suppose populate synchronized arraylist string add item list access block thread variant arraylist href http docs oracle javase docs api util concurrent copyonwritearraylist html rel nofollow copyonwritearraylist good found href http beginnersbook synchronize arraylist rel nofollow hope br lot 

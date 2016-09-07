@@ -1,0 +1,4 @@
+jackson json exception collection nested class 
+jackson json problem serializing deserializing class exception deserializing blockquote fasterxml jackson databind jsonmappingexception suitable constructor found type simple type class test myclass nested instantiate json object missing default constructor creator add enable type information source io stringreader line column reference chain test myclass nestedlist util arraylist blockquote case jackson problem dealing instance nested class case write custom deserializer test code jackson 
+
+recognition static classes properties directly bean line intervening collection deserializer past custom deserializer simplest option jackson read properties implement construction custom deserializer em em deserializing list objects annotate list custom deserializer ol li parsing context called find instance li li encapsulate default root level deserializer delegate work deserializing content li ol 

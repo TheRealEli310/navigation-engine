@@ -1,0 +1,4 @@
+spring data jpa crudrepository returns iterable cast list 
+writing code gen tool generate backend wiring code spring boot applications spring data jpa mildly annoying methods crudrepository return iterable list iterable doesnt provide functionality list convert iterable list href http stackoverflow questions easy change iterable collection post changing iterable collection wondering library guava implementing function conversion cast list wrong dont edit code gen tool reasonable make generate code introduces dependencies 3rd party libraries writing function conversion isnt reasonable live id generated code simple cast work ugly wondered missing 
+
+dont guaranteed means cast fail runtime works guarantee continue work future change versions spring data jpa breaking interfaces contract cast declare query methods return 

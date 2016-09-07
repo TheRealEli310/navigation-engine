@@ -1,0 +1,4 @@
+strange behaviour static variables 
+class print variable uninitialized 
+
+em compile time constant em initialized class initialized loaded line executed code changing final change result edit sample code show ops scenario byte code code program em run em output em byte code em byte code constructor byte code static init block static descriptor flags acc static code stack locals args size class sample dup invokespecial method putstatic field lsample bipush putstatic field return linenumbertable line line line localvariabletable start length slot signature check carefully initialized static init class set static constructor constant directly pushed stack add code byte code observe em fetched referred em indirectly 

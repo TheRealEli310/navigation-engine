@@ -1,0 +1,4 @@
+table class hierarchy superclass criteria api discriminator working 
+hierarchy classes class extends class extends save entities em discriminator em column save academies elements expect list created unit test shows tree structure list list bu matter problem thought em discriminator em column cares distinguishing class instances create criteria academies solution base class instances criteria api hierarchy 
+
+resolved distinguish parent entity child entity decided remove explicite inheritance create class inherits inherits hibernate inheritance class inherits dont good solution moment works 

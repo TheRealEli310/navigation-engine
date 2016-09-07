@@ -1,0 +1,4 @@
+time complexity trivial recursive function 
+wrote recursive function takes array positive integers integer returns number ways obtain integers array array integers thought change integer amount money pay function returns number ways pay cashier return tested function works fine calling function arguments passed function compute time complexity function hit brick wall recursive call inside loop inside loop made things confusing determine time complexity function 
+
+generally speaking worst case spend time proportional number denominations sets counts denominations maximum count denomination number real case stop process earlier dont amount geometric average denomination avoid exponential time dynamic programming approach version algorithm requiring amount time idea fill matrix size amount element number solutions amount subset denominations indexes fill element matrix reuse defined 

@@ -1,0 +1,4 @@
+broken pipe exception dropwizard application 
+broken pipe exception server left running long time http requests investigation found exception occures server closes database connection occurs client requests resources connection close fix added jdbc conenction url upped heap memory machine case http clients requesting resources dropwizard server error message reference configure connection pool dropwizard application good practice change interactive timeout wait timeoutproperty mysqld hours 
+
+fixed issue adding yaml file ol li checkconnectionwhileidle true li li checkconnectiononreturn true li li checkconnectiononborrow true li ol making transations commited rolled back case exceptions sessions closed 

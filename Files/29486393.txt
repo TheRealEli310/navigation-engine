@@ -1,0 +1,4 @@
+map reduce program implement data structure hadoop framework 
+data structure implementation hadoop implement indexing hadoop map reduce programming part store text file word index number table complete part perform hashing newly created table complete 1st part complete 2nd part facing difficulty suppose text file lines job family store text file indexing map reduce code returns index word index store index table hash table output index values word job store hash table apply hashing word index modules number distinct elements file index word apply hash function modules store hash table collision location location store 
+
+create hashtable object put key find key ans total distinct words count words index key index distinct word word insert record hashtable check collision occur key check collision occur ans collision true linearly check key key collision false insert key hashtable line 

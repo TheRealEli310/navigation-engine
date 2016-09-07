@@ -1,0 +1,4 @@
+android make button dialog caps 
+alert dialog android make positive button capital letters text 
+
+set reference href http developer android reference android app alertdialog builder html setpositivebutton int 20android content dialoginterface onclicklistener rel nofollow http developer android reference android app alertdialog builder html setpositivebutton int android content dialoginterface onclicklistener 

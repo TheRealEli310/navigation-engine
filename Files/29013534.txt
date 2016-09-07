@@ -1,0 +1,4 @@
+selenium grid chrome driver webdriverexception path driver executable set webdriver chrome driver system property 
+selenium grid running chrome driver started hub node jar selenium server standalone jar role hub jar selenium server standalone jar role node hub href http localhost grid register rel nofollow http localhost grid register launch test error org openqa selenium webdriverexception path driver executable set webdriver chrome driver system property wrong code 
+
+executable avaiable physically node machine set path exe starting add line command configure json file found easier strong json file defaultnode json strong strong start node json config strong notice strong iedriverserver exe strong directory file 

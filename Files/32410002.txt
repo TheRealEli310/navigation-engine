@@ -1,0 +1,4 @@
+getters setters loops 
+program working class flips coin counts number heads tails lands finally working properly implement set coins nickel quarter dime set give values create loop repeatedly flips coins time lands head adds specific coin pool total loop supposed end equal greater dollar coin class inheriting methods work class problem set values private integers freely loop creating add total apologize incomplete loop lost ahead time hr rid errors everyones problem run code loop printing print statement loop wrong part wonders inheriting flip method properly inheriting class program works fine 
+
+called setter methods call values remain uninitialized wouldnt adding values calling start loop strong setter strong function strong set passed strong pass usual practice initialize member variable variable effectively setter function call method function assuming definitions snippet 

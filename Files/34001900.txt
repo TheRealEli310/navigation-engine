@@ -1,0 +1,4 @@
+render 3d graphics properly 
+make rubiks cube ended bad model href http stack imgur 8rcev png rel nofollow image giving source code class create rectangles transformed 3d fix graphics build rectangles class adding materials transformed 3d end bad graphics occur rid 
+
+blockquote h2 edit h2 reason rendering artifacts originally wrong proposed solution details found href http stackoverflow revisions revision history actual solution simpler apologies inconveniences blockquote reason rendering artifacts camera clip planes setting sensibly represented normal buffer changing lines fix rendering errors hr original solution suggested model boxes instances advantage defining normals achieve realistic 3d effect involves bit effort href http stackoverflow revisions revision history real 3d solution 

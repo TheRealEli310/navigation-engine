@@ -1,0 +1,4 @@
+show login dialog authenticated 
+homepage login dialog current spring security config access protected resource logged ticket list redirected homepage interceptor redirected login url defined config file question ol li understand beginner spring security li li show login dialog user havent logged user access protected resource simple solution make ajax request check user logged good solution li ol current spring security config file 
+
+spring security takes log details passes authentication provider user details service attempt retrieve user details database solution return information required user access session spring security credentials incorrect user account banned event negative case key line tells spring security url mapping redirects login page set root context generally home page wanted redirect web page log form create jsp add method controller mapping update spring security config match method url handler controller 

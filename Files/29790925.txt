@@ -1,0 +1,4 @@
+eclipse rcp list running plugins 
+improve rcp application startup time br startup time enabled plugins startup time enabled plugins plugins lazy initialized startup plugins loaded log br understand makes difference id plugins running br list running plugins eclipse debug view 
+
+href http stackoverflow users anton anton href http stackoverflow answer osgi console solves problem things osgi console instance application youre debugging br include dependencies product ul li strong org eclipse equinox console strong li li strong org apache felix gogo runtime strong li li strong org apache felix gogo command strong li li strong org apache felix gogo shell strong li ul dependencies added add strong console strong argument program arguments launching configuration launch rcp application eclipse osgi commands regular console view application br strong ss strong command lists loaded bundles status 

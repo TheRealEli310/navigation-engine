@@ -1,0 +1,4 @@
+spymemcached serializable object authentication object 
+spymemcached successfully created memcachedclient mc set token authentication token string authentication object interface spring authentication extends serializable href http docs spring io spring security site docs current apidocs org springframework security core authentication html rel nofollow http docs spring io spring security site docs current apidocs org springframework security core authentication html throws serializable object exception save token authentication object ehcache works perfectly key serializable ehcache put element token authentication doesnt work spymemcached 
+
+figured reason classes flowed authentication object serializable make authentication serializable classes authentication object serializable implemented serializable specific object class spymemcached worked 

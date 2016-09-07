@@ -1,0 +1,4 @@
+viewpager adapter getsupportfragmentmanager returns null 
+make sliding tabs stuck main activity main xml debuged code problem line blockquote viewpager setadapter fragmentadapter getsupportfragmentmanager blockquote function returns null made class fragmentadapter extends fragmentpageradapter stacktrace advance 
+
+return instance null change 

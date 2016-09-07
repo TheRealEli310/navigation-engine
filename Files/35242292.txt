@@ -1,0 +1,4 @@
+spring mvc default controller 
+temporary solution ill explain bellow solution basic spring mvc app web xml configurations maven web xml dispatcher servlet xml deleted part create simple xml controller index view simply index page backend work requests handled class requests handled class spring default makes path controller primary url path question make class default controller dont class familiar asp net mvc times reference controller create spring automatically connects route class hope clear ill answer unclear questions answers documentations 
+
+havent work create class extends override method controller annotated annotations path controllers annotate class level method level bean definitions em dispatcher servlet xml em replace springs 

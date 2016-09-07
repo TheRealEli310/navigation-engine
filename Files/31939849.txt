@@ -1,0 +1,4 @@
+spring boot default log location 
+application custom log file dont couldnt find folders strong strong extra log dependencies hoping similar default configuration runs embedded tomcat 
+
+spring boot commons logging internal logging leaves underlying log implementation open default configurations provided util logging log4j log4j2 logback case loggers strong pre configured console output strong optional file output href http docs spring io spring boot docs current reference html boot features logging html rel nofollow spring boot logging documentation default log configuration echo messages console written explicitly file stays console 

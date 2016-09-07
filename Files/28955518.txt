@@ -1,0 +1,4 @@
+jscrollpane gridbaglayout 
+create editable textboxes line fixed size scrollable horizontally text long buttons define textbox row problem shows buttons work expected textbox wont scroll drag select rest text box isnt visible dont labels scrollable option code 
+
+ol li dont overriding information order make decisions components scrolled href http stackoverflow questions avoid setpreferredmaximumminimumsize methods swi avoid set preferred maximum minimum size methods swing details constructor provide hints text longer characters display horizontal scroll bar li li dont add container adding automatically removes isnt li li control number columns component expand fix layout li ol hoping simple make ui created modified context edt href http docs oracle javase tutorial uiswing concurrency initial html rel nofollow initial threads details 

@@ -1,0 +1,4 @@
+create array english letters order set input 
+create array english letters order input problem array couldnt code 
+
+guard bad input letters repeated letters uppercase lowercase letters build desired result rely behavior ignore duplicate inserts add letters input text letters alphabet duplicates eliminated main problem work boxed objects plain values track letters added testing input produces pre class lang prettyprint override 

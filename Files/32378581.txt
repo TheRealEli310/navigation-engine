@@ -1,0 +1,4 @@
+jersey process regular html form array post 
+jersey endpoint mywrapper request post entity string issue obtain parent field param1 beanparam annotation obtain list custom classes process regular html form array class evaluated classes endpoint array list objects works 
+
+afaik type syntax supported jersey custom types meet requirements listed href http docs oracle javaee api javax ws rs formparam html rel nofollow javadoc options constructor string argument send request indices duplicates allowed allowed lists arrays types property map dont work jersey recommend json complex types stick simple keys 

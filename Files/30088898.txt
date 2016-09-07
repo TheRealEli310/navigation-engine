@@ -1,0 +1,4 @@
+recursive random password generator 
+attempting write recursive password generating program returning randomly generated password console spits combination passwords required capital letter password randomly generating strong question strong make recursive method print randomly generated password length make char upper case depending strong code strong 
+
+youre generating combination passwords youre char array level recursive stack picking random array 

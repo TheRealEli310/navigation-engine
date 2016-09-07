@@ -1,0 +1,4 @@
+select scope identity createsqlquery hibernate 
+forced insert values tables identity column column primary key hibernate hibernate classes option tables created fly customer added system run query successfully inserts table execute select scope identity returns null select identity works guaranteed correct append select scope identity insert query throw hibernate exception results simple table defined missing scope identity 
+
+href http grepcode file repo1 maven org maven2 org hibernate hibernate core final org hibernate dialect sqlserverdialect sqlserverdialect rel nofollow class hibernate scope identity reason working execute statement stored procedure execute scope identity call separate statement sql server give inserted identity hibernate jdbc accomplish task wrote test github emulate works code lambdas anonymous classes easily port 

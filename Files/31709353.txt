@@ -1,0 +1,4 @@
+jms messageproducer settimetolive textmessage setjmsexpiration 
+difference calling documentation href https docs oracle javaee api javax jms messageproducer html settimetolive long rel nofollow javax jms messageproducer settimetolive blockquote sets default length time milliseconds dispatch time produced message retained message system blockquote href https docs oracle javaee api javax jms message html setjmsexpiration long rel nofollow javax jms message setjmsexpiration blockquote sets messages expiration blockquote sound ahead set 
+
+key difference sets message expiry time messages producer hand sets message expiry time message basis expiry time set message overrides expiry set jms specifies set message expiry time calling method set message expiry set 

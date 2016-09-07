@@ -1,0 +1,4 @@
+glassfish runs netbeans eclipse luna 
+work eclipse export web apps made netbeans add server download glassfish tools shows error launch process failed exit code blockquote launching glassfish felix platform error error creating bundle cache lang exception unable create bundle cache lock file io filenotfoundexception program files x86 glassfish 1glassfishdomainsdomain1osgi cachefelixcache lock acceso denegado lang exception unable create bundle cache lock file io filenotfoundexception program files x86 glassfish 1glassfishdomainsdomain1osgi cachefelixcache lock acceso denegado blockquote 
+
+guess problem access rights file folder mentioned error message check process start eclipse administrator start glassfish administrator fix problem move glassfish installation folder write access adminstrator account update location glassfish installation eclipse make work 

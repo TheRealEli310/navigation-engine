@@ -1,0 +1,4 @@
+spring 
+recently migrated service spring version jdk jdk issues lambdas spring version service spring heavily object autowiring hibernate related annotations 
+
+href http spring io blog spring framework m1 rel nofollow blogpost blockquote m1 ve released spring framework fixes recently reported issues coming openjdk runtime support spring framework support deployment jdk runtimes applications compiled jdk target earlier won support jdk bytecode format target needed lambdas upgrade spring framework purpose blockquote supported runtime starting spring code compiled jdk features lambdas upgrade spring 

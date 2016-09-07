@@ -1,0 +1,4 @@
+lock free wait free thread lazy initialization 
+perform lock free wait free lazy initialization works pretty thing threads instance create object lucky set cas operation leads waste resources suggest strong lock free strong lazy initialization pattern decrease probability creating expensive objects concurrent threads 
+
+true lock freedom spinning thread win creation rights spin ready problems busy spinning put sleep yield recommend href http en wikipedia org wiki initialization demand holder idiom rel nofollow initialization demand 

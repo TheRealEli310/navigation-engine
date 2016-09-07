@@ -1,0 +1,4 @@
+log4j2 auto rollover duration 
+rollingfile appender log file rolled minutes irrespective logging event instance hour log files logging hour log4j2 provide configuration log4j2 xml required config work 
+
+referred plugin href https github mushkevych log4j2plugin rel nofollow https github mushkevych log4j2plugin br br runnable thread ftimebasedtriggeringpolicy sleep upto rollover logrotatethread sleeps indefinite time br br added initialize rollingfilemanager logrotaterunnable br br wont roll empty files good part atleast valid log entry rollover time 

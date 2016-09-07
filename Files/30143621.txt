@@ -1,0 +1,4 @@
+xssfworkbook xssfsheet working netbeans 
+downloaded em poi em package apache repositories website added project added em xmlbeans em em ooxml schemas em netbeans ide shows error declare core guy treat novice domain 
+
+pretty awkward truth br found solution strong netbeans ide strong manually typed code ide br strong showed error strong clicked strong suggestion strong ctrl space provided ide miraculously strong worked strong logical clue thing br hope strong netbeans apache poi developers strong br br 

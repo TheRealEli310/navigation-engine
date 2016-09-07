@@ -1,0 +1,4 @@
+store multi column data apache geode 
+apache geode sample program store date empid col1 col2 br written sample program runtime giving error error registering instantiator pool logs record inserted regions query time error sharing complete code dataentry consumervalue output logs 
+
+customervalue class servers classpath refer href http geode docs cfapps io docs configuring cluster config deploying application jars html rel nofollow geode documentation deploy jars server 

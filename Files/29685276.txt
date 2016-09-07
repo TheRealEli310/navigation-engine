@@ -1,0 +1,4 @@
+choose item jlist getselectedindex returns 
+make todolist create remove task check update create method strong strong code working perfectly making methods size sizing directly inside 
+
+action listener remove button calls method retrieving selected index refill todo list clear selection list call return update todo list removing selected item 

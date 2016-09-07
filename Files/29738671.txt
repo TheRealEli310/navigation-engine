@@ -1,0 +1,4 @@
+jackson json serialization write pairs root nested property 
+write json string basic format class present data instance class serialized jackson objectmapper serialize instance class resulting json makes sense based naming conventions method payloaddata map jsons root context duplicate property identifier nesting em lot em annotations forms disabling objectmapper wrap root serializationfeature honestly feel throw computer window set eyes point painfully advance attention advice strong edit strong updated actual output json data duplicated id remove duplicate nested property 
+
+problem accessors exposed public property getter serialized recommend restructuring data class immutable give desired output configuration objectmapper 

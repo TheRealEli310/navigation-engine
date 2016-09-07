@@ -1,0 +1,4 @@
+marshalling unmarshalling superclass subclasses jaxb 
+experimenting jaxb tutorials managed code working generates xml file object xml generate object moment reads multiple instances class create xml file similar jaxb technology work subclasses car van bicycle objects subclasses vehicle manipulate jaxb class write xml file produce similar provided code working main class vehicle class car class jaxb class list class 
+
+input feedback answers ultimately combination worked created seperate answer problem future work ensure getter methods super classes marhsalled unmarshalled annotated determine xml tag variable superclass annotated bind subclasses code superclass classes extended super subclasses annotated class required annotations list class garage code determine xml tags populated root xml tag set applying annotation top class vehicle root xml tag finally list declared annotation class required xml tag supplying xml tag list declared getter method collection 

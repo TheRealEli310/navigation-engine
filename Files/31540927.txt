@@ -1,0 +1,4 @@
+android xml rsa error security invalidkeyexception unknown key type passed rsa 
+problem encrypting string rsa rsa xml format encrypt string class bouncycastles jar error strong security invalidkeyexception unknown key type passed rsa strong part problem hours research didnt find solution advance 
+
+blockquote problem blockquote means em optimal asymmetric encryption padding em scheme defined href http www ietf org rfc rfc3447 txt rel nofollow pkcs1 replaced em message digest em algorithm em mask generation function em examples reference href http docs oracle javase docs technotes guides security standardnames html cipher rel nofollow standard names href http www ietf org rfc rfc4055 txt rel nofollow rfc problem em public key em generation key xml base64 encoded ul li separate modulus exponent li li base64 decode modulus exponent li ul decoding strong em byte array em strong modulus exponent easily prepare public key object procedure 

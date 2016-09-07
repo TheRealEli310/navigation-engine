@@ -1,0 +1,4 @@
+executable application jar database packaged inside 
+developing application swing mysql distribute clients run application end pc worrying installing mysql technical stuff thought bundling jre mysql href http stackoverflow correctly distributing application database preferable increase application size disk issue questions ol li achieve tool resources li li sqlite good option li ol strong appreciated strong 
+
+opinion sqlite apache derby href http db apache org derby rel nofollow http db apache org derby good plan years ago stuff derby running time packaged folder contained jre program libs jars data folder derby br br remember sqlite easy derby overhead learn 

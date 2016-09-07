@@ -1,0 +1,4 @@
+convert xml string json string apache camel xmljsondataformat marshalling 
+convert xml string program json string convert file string idea 
+
+call start xmljsondataformat object add xom jar class path worked work source getserialiser returning null searched xmljsondataformat serializer initialised dostart method called super classs start method disclaimer youre supposed xmljsondataformat meant camel route dont specific case 

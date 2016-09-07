@@ -1,0 +1,4 @@
+travel expenses assignment 
+required assignment class travel expenses create gui application calculates displays total travel expenses business person trip information user provide ul li number days trip li li amount airfare li li amount car rental fees li li number miles driven private vehicle li li amount parking fees li li amount taxi charges li li conference seminar registration fees li li lodging charges night li ul company reimburses travel expenses policy ul li day meal text field needed input li li parking fees day li li taxi charges day li li lodging charges day li li private vehicle mile driven li ul application calculate display ul li total expenses incurred businessperson li li total allowable expenses trip li li excess paid businessperson li li amount saved businessperson expenses total allowed li ul code issue braces main issue run netbeans errors ideas fix calculations program gui run descriptive 
+
+basically move classes method 

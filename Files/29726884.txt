@@ -1,0 +1,4 @@
+exception adding custom tag library jsp 
+problem href http stackoverflow questions jstl core lib fails creating custom tag unanswered question years ago lines jsp originally jstl core library worked add custom library exception remove taglib directives works correctly tld minimal working offer insight problem edit found source problem problematic part jsp works fine reason works fine dont import custom tag library ideas values applicationscope problems 
+
+alright figured problem attribute called sun jsp taglibrarycache applicationscope class concurrenthashmap importing tag library tostring method class give nullpointerexception fixed problem catch catch exception 

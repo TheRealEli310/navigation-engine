@@ -1,0 +1,4 @@
+difference resource injection dependency injection cdi 
+learning ee found ee types injection mechanisms ol li resource injection li li dependency injection li ol guide understand difference resource injection amp dependency injection 
+
+ee injection mechanisms enable objects obtain references resources dependencies instantiate directly explicitly keyword simply declare needed resources amp dependencies classes drawing fields methods annotations denotes injection point compiler container required instances runtime advantage injection simplifies code decouples implementations dependencies methods facilitates achieving inversion control href http dzone articles resource injection rel nofollow article wrote 

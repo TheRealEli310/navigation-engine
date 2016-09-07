@@ -1,0 +1,4 @@
+hashmap internal implementation bins large 
+internally find queried belongs dont understand access time constant long dont constant access time linear access time library manage guarantee constant access time bins large reason internally internally minimize negative effects 
+
+average number elements bin bound small constant maintained keeping number bins high total number entries multiplied load factor default number bins increases number entries order invariant heres relevant code number entries number bins default load factor load factor lt number bins higher number entries bad hashcode key class bin wont entry average 

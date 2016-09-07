@@ -1,0 +1,4 @@
+spring mvc angularjs ui router 
+set spring mvc catchall requests return page index html intention spring mvc intercept api make calls backend url return index html ui router attempt show correct view current setup navigate site ui router attempt navigate url resolved ui router error setup strong basecontroller strong strong web xml strong strong mvc dispatch servlet xml strong strong index html strong 
+
+solved ul li moved views renamed li li strong controller class strong li ul manages handle requests arent prefixed api return index page ui router handle urls 

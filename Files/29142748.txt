@@ -1,0 +1,4 @@
+programmatically stop ee application initializaton 
+ee standard application server cross compatible stop ee application initialization running postconstruct anotated method singleton startup class pre class lang prettyprint override search soft stop application application server 
+
+throw kind runtimeexception illegalargumentexception configuration errors postconstruct annotated method startup annotated singleton entire application fail deployment singleton session bean initialization ejb specification blockquote startup annotation appears singleton session bean class singleton session bean designated deployment descriptor requiring eager initialization container initialize singleton session bean instance application startup sequence container initialize startup time singleton session beans external client requests client requests originating application delivered enterprise bean components application blockquote satisfied initialisation fails 

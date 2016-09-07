@@ -1,0 +1,4 @@
+handle dynamic osgi service dependencies 
+optional service dependency service unbound testservice performsometask running problem correct add sychronization blocks functions handle sort scenario 
+
+dont synchronization strong strong atomic references recommend atomic references ds references dynamic policy problems code ol li field initialised initialise construction ideally make li li implementation incorrect dynamic service replacement bind service strong strong unbind service check service unbound bound calling li ol 

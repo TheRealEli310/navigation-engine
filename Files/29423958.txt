@@ -1,0 +1,4 @@
+singleton pattern static access singleton spring 
+code requires spring bean construction dont inject class classes access singleton instance statically 
+
+accessing spring bean static context problematic initialization beans isnt tied construction spring instrument injected beans wrapping proxies simply passing references result unexpected behaviour rely springs injection mechanism em em access legacy code 

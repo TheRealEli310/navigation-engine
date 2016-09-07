@@ -1,0 +1,4 @@
+google cloud endpoint dependency injection 
+issue inject service endpoint class guice manage dependency injection endpoint class gateway end point test class pass dont inject gateway endpoint override endpoint initialized 
+
+problem konqi guessed calling doesnt arg constructor dont expected instantiated guice suspect configuration error registered google cloud infrastructure 

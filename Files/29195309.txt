@@ -1,0 +1,4 @@
+lang nullpointerexception session getcurrentsession 
+import successful project maven eclipse doesnt work decided cut leave essential part find whats wrong class test works test class calling class pom update spring initialize beans error 
+
+youre instantiating directly allowing spring create bean 

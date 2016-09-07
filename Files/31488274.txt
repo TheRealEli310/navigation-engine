@@ -1,0 +1,4 @@
+spark submit 
+told spark cluster running remote host num1 multiple nodes remote host num2 remote host num3 write program create javardd myrdd sc textfile perform operation counts myrdd count operation taking advantage machines remote cluster make dont spark submit myjarfile avoid spark submit advantage distributed nature spark multiple machines programatically 
+
+support added spark submitting scala spark apps child process check details javadocs org apache spark launcher class link referenced spark documentation href https spark apache org docs latest programming guide html launching spark jobs scala rel nofollow https spark apache org docs latest programming guide html launching spark jobs scala 

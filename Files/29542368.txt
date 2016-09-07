@@ -1,0 +1,4 @@
+blocking queue implementation questions 
+common implementation href http tutorials jenkov concurrency blocking queues html rel nofollow javas built implementation href http www docjar html api util concurrent linkedblockingqueue html rel nofollow questions implementations implementation key word put methods means thread access method lets thread call put found queue full waiting call method lock released implementation javas built locks takelock putlock put interval queue linked list thread 
+
+mentioned comments implementation traditional wait notify mechanism thread waits releasing lock notified threads locks put operations individual operations simultaneous put synchronous communicate queue full empty interact checkout private methods method signals threads poll empty queue method signals threads put elements full queue 

@@ -1,0 +1,4 @@
+accessor mutator 
+instance main method call strong contact strong class contact class find work dont method accessor mutator method correct 
+
+idea accessor reads modify convention consistently makes reasoning code dont lot easier shouldnt expect weird side effects named lazy initialization clearer lazy getters named similar give user hint bit longer involve expensive operation mutator returns users class hint returns error code previous people dont expect return values named surprised signature documentation class summary code code moment dont things surprising hand code future picking names explain method implementation setter returns passed 

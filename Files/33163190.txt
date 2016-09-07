@@ -1,0 +1,4 @@
+convert binary string decimal string 
+working homework thought finished teacher told wasnt convert binary number stored string decimal string built function length charat power function floor ceiling beginning 
+
+convert base binary representation base decimal multiply bit bit position sum values binary read left lsb significant bit rightmost bit msb significant bit leftmost bit traverse string reverse order bit subtract char subtract ascii character ascii giving integer bit calculate bit position count bit position increment count iteration lt lt count obtain bit position alternatively math pow count efficient shift left instruction heres code implements pre class lang prettyprint override 

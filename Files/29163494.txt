@@ -1,0 +1,3 @@
+parse string space integer array 
+error adding space integer array result works fine throw exception error solve 
+

@@ -1,0 +1,4 @@
+handle ambiguous token grammar rule antlr 
+grammar parsing person normalizing pre class lang html prettyprint override parse mr john smith works correctly title tokens appears mr john mr smith error pre class lang html prettyprint override token position rule neglect appeared location 
+
+long lexer neglect parser rule changed modifying lexer rule fix problem generate error 

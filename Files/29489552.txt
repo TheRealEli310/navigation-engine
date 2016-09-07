@@ -1,0 +1,4 @@
+infinite bogus pages outpout docx apache poi 
+basically docx file formatting paragraphs save file essentially part working fine output docx opening allright libreoffice ubuntu transfer output docx windows system open output docx ms word infinite growing garbage pages guesses wise poi community guesses line endings files confusing ms word ubuntu lf line endings windows crlf issue fix code scala similar apply code poi users community adding tag 
+
+things finally solved issue basically problem caused simple thing setting font size instance lets return instance weird unexpected results moment removed bits thing solved issue 

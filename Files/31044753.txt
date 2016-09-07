@@ -1,0 +1,4 @@
+verify browser exists selenium webdriver 
+webdriver open firefox browser iteratively pass url spreadsheet urls cells column suppose manually close firefox browser urls opened script handle situation continue execution conditions everytime null pointer exception suggest handle situation 
+
+inbuilt method workaround 

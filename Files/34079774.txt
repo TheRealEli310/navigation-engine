@@ -1,0 +1,4 @@
+lang string incompatible type 
+code string inside switch statement error code incompatible types required lang string found lank string pretty confused searching online results lang string found int required 
+
+change blockquote incompatible types required lang string found lang string blockquote object expecting array 

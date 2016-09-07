@@ -1,0 +1,4 @@
+read multiple lines bufferedreader socket 
+read threads stackoverflow tutorials dont find solution problem client connects server sends line server lines response code problem read line response program wont exit line em clientsocket close em called wrong 
+
+server isnt closing connection underlying stream reader isnt closed point server em em send information returns stream closed data dont protocol expected behaviour client wont send information server close connection bug server protocol states server connection open bug client code work detect end data send sort ack server close connection 

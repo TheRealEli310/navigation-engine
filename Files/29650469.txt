@@ -1,0 +1,4 @@
+current remote game controller 
+current input device application remote game controller android application run amazon firetv unlike amazon kindle touchscreen remote game controller detect kind input device user code standard cordova application code detect current input device make plugin pass javascript code problem 
+
+mentioned comments provide steps code written address functionality tweak answer general rule official docs identify controllers fire tv href https developer amazon public solutions devices fire tv docs identifying controllers rel nofollow https developer amazon public solutions devices fire tv docs identifying controllers basically write identification code cordova plugin find gamepad fire tv remote code inputdevice class android developer site href http developer android reference android view inputdevice html rel nofollow http developer android reference android view inputdevice html basically import plugin class ensure code works fine 

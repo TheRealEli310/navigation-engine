@@ -1,0 +1,4 @@
+jna detect audio device arrival remove 
+questions helpful jna detect usb device inserted removed events received inserting removing usb drives dongles inserting removing audio interface events received received hold information device lparam guess detect events enumerate usb devices identify changed gain access usb devices jna code stripped edit started work devices reception arrival removal events manually detect device attached removed calling setupdigetclassdevs works fine iterate setupdienumdeviceinfo calling setupdienumdeviceinterfaces sp device interface data calling setupdigetdeviceinterfacedetail finally gain access vendor product information device problem error items instantly calling setupdienumdeviceinfo code 
+
+solve problem current implementation lucky stumble library implemented needed simply post link rules post complete class approach completely point parts code implementation work 

@@ -1,0 +1,4 @@
+gradle junit error find symbol 
+attempting run simple junit test gradle proof concept class compiled deployed aws lambda class takes pojo single property compiles fine works aws run receive error access objects property problem failing grasp key gradle concept refactored things ways receive find symbol error ideas heres simplified code hr src main auth src test testauth build gradle 
+
+constructor param type object class doesnot variable called change parameter type 

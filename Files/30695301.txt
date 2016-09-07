@@ -1,0 +1,4 @@
+error deploying ear jboss as7 
+migrating ejb application oc4j jboss as7 deploy ear jboss missing unsatisfied dependencies error console console log mentioned guide error resolve 
+
+create module jdbc connections href https developer jboss org wiki datasourceconfigurationinas7 rel nofollow https developer jboss org wiki datasourceconfigurationinas7 create module dependency war ear module create manifest mf line dependencies mysql href https docs jboss org author display as7 class loading as7 rel nofollow https docs jboss org author display as7 class loading as7 info 

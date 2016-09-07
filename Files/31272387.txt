@@ -1,0 +1,4 @@
+pass object google maps android api v2 marker 
+api witch returns json data href https github google gson rel nofollow gson library convert json objects objects list filled objects holds information id long lat status street add markers map works fine show additional information status street info user clicks href https developers google maps documentation android marker rel nofollow markers markers display information pass object data activity show information marker suggest 
+
+create managing mapping markers related information strong strong class thet include information id long lat status street add markers map add map related informations data list supposing information marker click info window strong strong data implement href http developer android reference android os parcelable html rel nofollow parcelable pass id information retrieved json persisted database activity receives id information database 

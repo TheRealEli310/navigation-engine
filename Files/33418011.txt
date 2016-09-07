@@ -1,0 +1,4 @@
+pause thread resume left 
+solution thread pause resume left heres sample code emulating problem threads running background amp strong system busy area strong alt pause immediately resume left paused task finished resume wait notify taskthread success 
+
+classes concurrency package behaviour reset thread await notified thread counted thread block threads block threads waiting strong edit strong modifying code unclear expected behaviour keyword important cache initial object block 

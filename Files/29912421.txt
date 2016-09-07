@@ -1,0 +1,4 @@
+blank space strings webservice json yields byte arrays 
+writing acceptance tests jersey webservice json refactoring methods project stumbled problem asserting blank space strings webservice output webservice convert response jsonobject webservice test normal asserts problem assert fails byte arrays yield results byte created webservice encountered problem convert method worse result byte array webservices header properly set explain 
+
+character normal space break space character html unicode utf representation byte array assert work 

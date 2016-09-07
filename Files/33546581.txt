@@ -1,0 +1,4 @@
+mongotemplate criteria query 
+generating complicated mongo query depending multiple parameters criterion make criteria helper class make generates strong achieve exact query strong hardcode query string type criteions generated dynamically field1 fieldn combined 
+
+href http docs spring io spring data data mongo docs current api org springframework data mongodb core query criteria html lang string rel nofollow strong strong add multiple criteria field href http docs spring io spring data data mongo docs current api org springframework data mongodb core query criteria html andoperator org springframework data mongodb core query criteria rel nofollow strong strong 

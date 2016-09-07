@@ -1,0 +1,4 @@
+spring amqp rabbitmq topic exchange working 
+set topic exchange spring app heres context configuration receiver class sender code sending message topic exchange binding key ru interosite queue bound pattern ru interosite key pattern sample href https www rabbitmq tutorials tutorial html rel nofollow https www rabbitmq tutorials tutorial html worked fine inside string amqp work receiver called called binding key pattern completely directexchange missing 
+
+dont show config guess default options send message directly 

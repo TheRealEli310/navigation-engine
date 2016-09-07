@@ -1,0 +1,4 @@
+corba nameservice configuration websphere 
+part application requirement configure attribute called websphere earlier jboss applciation deployment configure attribute admin console orb properties file root folder approach 
+
+follow steps configurable corba service admin console environment space bindings provide corba details strong strong corba url corbaloc iiop abcde012 nameservice provide lookup rootcontext lookup jndi strong code strong initialcontext context initialcontext org omg cosnaming namingcontext rootcontext namingcontext context lookup testing rootcontext fetch server stubs preform operation required 

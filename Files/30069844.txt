@@ -1,0 +1,4 @@
+meaning regex 
+regex href http www tutorialspoint regular expressions htm rel nofollow tutorial found regex escaping brackets expected inside brackets helpful clear doubts 
+
+characters inside called href http www regular expressions info charclass html rel nofollow character class treated set characters choose em leading em negates result means range characters examples ul li matches li li matches single digit range li li matches character em em digits range li li matches em character em li li matches em dot em li ul match string change regex prints regex equivalent regexes 

@@ -1,0 +1,4 @@
+send util date json 
+send data strong json strong whats important locale preserved receiver date local time simply wont parse back date receiving end locale day month names solution 
+
+util dates gettime method timestamp convert back date receiver display local time zone remember date blockquote represents specific instant time millisecond precision blockquote tostring method formats href https docs oracle javase docs api util date html tostring rel nofollow specific chosing send timestamp means bandwidth 

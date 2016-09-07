@@ -1,0 +1,4 @@
+pass friend list object id graph api activity 
+fetch friend list object id dont pass activity intent pass data empty result activity code advance 
+
+multiple solutions declare friend list static access directly ol start li put friend list application class set data li ol create modal class implementing serializable parceable 

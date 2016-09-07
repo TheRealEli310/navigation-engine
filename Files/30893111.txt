@@ -1,0 +1,4 @@
+designing multi thread matrix 
+matrix implements john conways life simulator cell represents life lack life cycle rules ol li live cell fewer live neighbors dies caused population li li live cell live neighbors lives generation li li live cell live neighbors dies overcrowding li li dead cell live neighbors live cell reproduction li ol cell strong thread strong perform rules listed implemented classes hr hr trouble synchronize threads cell thread change life death state threads checked neighbors user invoke life cycle clicking button logic understood method cell thread run wait action state represented variable class ahead execute needed action struggle pass messages threads wait execute action strong suggestions change design program long cell implemented separate thread strong 
+
+href https docs oracle javase docs api util concurrent cyclicbarrier html rel nofollow cyclicbarrier easy understand updated barriers make class make cell shorter cleaner psuedo code 

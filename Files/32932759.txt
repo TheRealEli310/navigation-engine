@@ -1,0 +1,4 @@
+convert opencv hsv equivalent matlab hsv 
+develop android code opencv code equivalent matlab read image convert hsv iterating pixels pixel returned range hue matlab returns range dont write equivalent code beginner dont image processing 
+
+range values rgb images hsv images depends image type href http docs opencv org modules imgproc doc miscellaneous transformations html cvtcolor rel nofollow opencv doc ul li strong bit strong images li li strong 32bit strong images li ul convert hsv scale values differently href http docs opencv org org opencv core core html split org opencv core mat util list rel nofollow split href http docs opencv org org opencv core core html merge util list org opencv core mat rel nofollow merge channels matrice apply correct scaling opencv stores rgb images bgr hr split merge 

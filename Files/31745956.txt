@@ -1,0 +1,3 @@
+swt ui thread freeze run thread 
+problem long running task dialog shown scan ftp directory task takes time run task ui thread idea execution scanftpserver dialog movable click unresponsible wrong 
+

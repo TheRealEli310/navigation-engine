@@ -1,0 +1,4 @@
+intelij sbt auto import scala project binary incompatibility plugins detected 
+working happily intelij scala process upgrade scala ubuntu javac shows installed import play project intelj sbt auto import error progress investigating thinking href https stackoverflow questions sbt plugin binary incompatibility sbt plugin binary incompatibility relate version sbt intelij thought intelij scala plugin specific version make intelij correct installing plugin didnt change brent 
+
+ah update project settings 

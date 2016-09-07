@@ -1,0 +1,4 @@
+spring autowired aop circular dependency 
+config order initialize beans cglib proxies project lots generated services autowired works pretty services added added class guess spring injecting service method aop creates proxy problem fix order clarify problem lets service amp autowired amp autowired amp autowired amp method marked async spring initialize applicationcontext initialize amp initializes aop make proxy async detects autowired proxy fails hope explain happening 
+
+finally sorted services methods annotated strong strong autowired guess spring initialize autowires services theyre required application context initialization 

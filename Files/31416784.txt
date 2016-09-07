@@ -1,0 +1,4 @@
+thread lambda expression 
+error line strong thread t1 thread prod test strong strong thread t2 thread cons test strong em unhandled exception type interruptedexception em quickfix created catch catch em exception em error fix continuing surround catch 
+
+created functional interface method declared throw checked exception call body lambda expression parameter href https docs oracle javase docs api lang thread html thread lang runnable constructor takes href https docs oracle javase docs api lang runnable html run method declared throw checked exceptions exception caught body compiler error occurs incidentally confusing interface href https docs oracle javase docs api util function predicate html built functional interface functional method returns throw exception handle log exception stack trace wrap exception catching checked exception code compile 

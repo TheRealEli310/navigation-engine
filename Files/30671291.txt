@@ -1,0 +1,4 @@
+rotation android fragment replacement fail 
+put simple program fragment replacement single activity fragments fragment button pressed replaces fragment fragment works expected application started button clicked img src http stack imgur x2bnk png alt fragment img src http stack imgur fjpu0 png alt fragment replacement success application started device rotated landscape continuing back portrait button clicked fragment replacement fails fragments displayed simultaneously img src http stack imgur od6ca png alt fragment replacement failure fragment lifecycle issue failing address mainactivity mainactivityfragment replacementfragment activity main xml fragment main xml fragment replacement xml 
+
+answer simple ui state retained screen rotations meaning screen show fragment rotate add fragment activity oncreate method added shown fragments overlap 

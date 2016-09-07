@@ -1,0 +1,4 @@
+tostring method printing correct values object 
+book class defines point display values displays heres code 
+
+youre initializing class members theyre initialized automatically output means parameter parameter class member set 

@@ -1,0 +1,4 @@
+handle polymorphic stddeserializer jackson 
+classes inherits super class sensordata convert json input classes depending parameter jackson stddeserializer create custom deserializer problem determine correct type mapping concrete class mapper call custom stddeserializer broke cycle correct type stacktrace input include stacktrace show mapper calling deserializer reason nullpointerexception objectmapper called input exception threw dont information determine type doesnt check input correct avoid jsonsubtypes jsontypeinfo posible advance hr partial solution case sensordata wrapped class servicedata rid jsondeserializer sensordata class put field avoiding cycle solution isnt case helps case class isnt wrapped problem collection annotate jsondeserialize field handle collection modification case hope helps 
+
+dont polymorphic handling specific case case handle resolution type bind contents data prefer type matches 

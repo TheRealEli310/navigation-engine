@@ -1,0 +1,4 @@
+android scale animation reverse issue 
+managed add scale animation image makes grow original size bigger size add copy animation code makes scale back original size strong loop animation boolean true strong played parameters bit couldnt make work heres code make guys 
+
+android animation ui update happen thread uithread main thread br remove asynctask viewpropertyanimator scaleanimation matter performance line scale unscale strong update strong 

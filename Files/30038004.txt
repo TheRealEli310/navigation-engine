@@ -1,0 +1,4 @@
+fast current calendar object 
+method values current day month year invocation invoked millions times faster implementing functionality creating object current time invocation time field recalculation overly expensive times standard solutions preferable party libraries 
+
+current date time find faster localdate class found package maintain compatibility versions option 

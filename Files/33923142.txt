@@ -1,0 +1,4 @@
+android ndk prebuilt shared libraries depends 
+writing android application relies prebuilt shared libraries libraries configured work armeabi armeabi v7a architectures prebuilt library libsodium prebuilt library rust library depends libsodium compiling rust prebuilt library libsodium dependency prebuilt libraries amp android application loading system loadlibrary works fine load error find method defined android mk rust manager file wrapper generated javah functions map native functions rust library negligible point appreciated 
+
+days worth work problem version libsodium found undefined symbols running ndk build vary based version libsodium v1 solved problems 

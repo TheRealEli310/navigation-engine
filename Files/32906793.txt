@@ -1,0 +1,4 @@
+generate antlr4 lexer 
+people antlr generate command line call call tool class class exits program exception 
+
+working implementation btw xtext checked modified antlr3 implementation 

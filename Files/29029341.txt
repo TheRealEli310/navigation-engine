@@ -1,0 +1,4 @@
+wicket refresh listview panel ajax 
+hy guys newbie wicket start playing framework useless learn wicket basics situation page strong indexpage strong composed basically panel strong listcheesepanel strong basically show list cheese price button add cart selected cheese strong cartpanel strong essentially cart selected cheeses proceed checkout basically add cheese list cart ajax behaviour strong listcheesepanel strong method ovverride order cheese target strong cartpanel strong strong indepage strong question strong reference component update cartcontainer add directly listview component target component located panel strong advance 
+
+work events define global ajaxupdateevent h2 ajaxupdateevent h2 subclass events interested components cheese added h2 onevent h2 h2 usage h2 

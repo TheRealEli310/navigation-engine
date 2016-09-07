@@ -1,0 +1,4 @@
+javafx change tablecell column selected tablerow tableview 
+tableview custom column image columns filled observablelist custom double clicking row change image don tablecell object observablelist data columns todo code sample code give advice change image column wiesi 
+
+question isnt precise helps shows table maintains set validated successfully item valid column shows image red rectangle item successfully validated valid validation performed green rectangle validated validation performed double clicking row table perform validation item successfully validated double clicking valued item turn image green double clicking odd valued item effect double clicking validated item remove validated set makes testing easier works maintain representing validated items cell factory returns boolean binding observes set evaluates true item set false cell factory returns cell checks boolean sets image 

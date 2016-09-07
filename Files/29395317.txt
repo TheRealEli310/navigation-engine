@@ -1,0 +1,4 @@
+add animated objects paintcomponent jpanel 
+class creates animated object wormlike animation repainting timer class frame panel create mov mov2 instances object add panel separeted panels heres code create movimento objects separeted animated panels side side worms inside panel concept totally wrong 
+
+default jpanel flowlayout components area added side side components randomly positioned panel responsible setsize setlocation component component painted properly panel approach create class implements painting method create component paint movimento objects class responsible animation 

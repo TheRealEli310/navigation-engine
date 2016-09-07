@@ -1,0 +1,4 @@
+set printer pagelayout margin 
+created small javafx application user print node margin code didnt work documentation parameters margins left top bottom made print test printed document whats idea 
+
+facing margin applied paper depends hardware printer access case javafx pass margin values assigned support printers minimum values href https docs oracle javase javafx api javafx print printer html createpagelayout javafx print paper javafx print pageorientation double double double double rel nofollow javadocs blockquote client margin values legal obtain pagelayout hardware minimum margins printer support layout adjust returned layout supported configuration blockquote href https docs oracle javase javafx api javafx print printer margintype html hardware minimum rel nofollow creating layout check minimum margin allowed 

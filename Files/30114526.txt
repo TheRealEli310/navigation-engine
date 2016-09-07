@@ -1,0 +1,4 @@
+identifying bullets ms word apache poi 
+make application read word file docx stuff pretty identify bullets find isbold isitalic isstrike find strong isbullet strong identify bullets em application built em 
+
+method list styling word lot complicated indent levels styles bullets numbered lists bulleted lists easiest method call case href https poi apache org apidocs org apache poi xwpf usermodel xwpfparagraph html getnumfmt rel nofollow xwpfparagraph html getnumfmt blockquote returns numbering format paragraph bullet lowerletter returns null paragraph numeric style blockquote call null isnt list youll bulleted number letter 

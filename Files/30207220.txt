@@ -1,0 +1,4 @@
+track seemingly random crashes 
+homework works swing gui components program started crashing seemingly random starts runs short time crashes dont errors console straight crash dont doubt wrote happy show code track crashes information ul li eclipse debugger doesnt helps program crashes li li didnt notice issues started add event handling li li windows li li occasionally drawn window create exiting running program work li ul 
+
+heuristics ul li crashes occur em seemingly random em suggest incorrect synchronization href http docs oracle javase tutorial uiswing concurrency initial html rel nofollow em event dispatch thread em violation approaches cited href http stackoverflow li li verify exception handlers produce diagnostic output run command line ensure diagnostic output inadvertently redirected li li running aegis debugger netbeans li li running aegis href http stackoverflow profiler li li version jdk jre li li host os li ul 

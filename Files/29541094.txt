@@ -1,0 +1,4 @@
+spring boot actuate instantiation error 
+run spring boot application jboss container similar problem href http stackoverflow questions spring boot war doesn c2 b4t work jboss spring boot war doesn work jboss solution remove actuate pom file work actuate functionality stack trace idea fix debug changing versions spring boot actuate individually spring boot starter actuate spring boot actuate luck 
+
+resolved issue adding jboss deployment structure xml file web inf webapp folder full steps edit pom file build war jar suppress embedded container add init method dispatcher servlet webconfig file steps deploying jhipster generated app jboss eap hope helps real pain 

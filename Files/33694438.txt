@@ -1,0 +1,4 @@
+hibernate org hibernate hql internal ast querysyntaxexception client mapped 
+hibernate solve problems understand query client hbm xml table db called client column client id mapping hibernate cfg xml problems query application executer select query exception dont client mapped correctly cfg file advance 
+
+add full class query changed late binding preferable problem 

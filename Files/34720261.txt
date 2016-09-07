@@ -1,0 +1,4 @@
+aws lambda call lambda function simple class 
+created simple lambda function upload aws lambda invoke lambda function project class call function succeed invokelambda class separate project call lambda function 
+
+information comment client code invoke function fine problem appears configuration function specifically aws lambda find handler youve doesnt match package handler class method class update function handler aws console choose function configuration tab handler property change href http stack imgur 3rnla png rel nofollow img src http stack imgur 3rnla png alt update handler console testing function client test directly console ensure function configured correctly 

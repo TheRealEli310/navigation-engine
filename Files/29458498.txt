@@ -1,0 +1,4 @@
+hashset hashmap work 
+bit confused internal implementation understanding correct wrong duplicate elements backed call calling method element internally internal key actual object add object replace inconsistent read works storing objects keys case override methods make consistent find keys bucket distinguish entries iterate list entries call method key find match case create bucket list objects find replace bit confused clarify 
+
+correct behavior wrong implementation backed internally element adding key backing dummy simply calls backing 

@@ -1,0 +1,4 @@
+webparam parameter interface method 
+annotation webparam method parameter interface method interface code give access annotation web service framework data interface 
+
+limitation interface types href https docs oracle javase docs api lang reflect method html getparametertypes rel nofollow returns array parameter types simply method parameter type youll href https docs oracle javase docs api lang reflect method html getparameterannotations rel nofollow parameters annotation href https docs oracle javase docs api lang reflect executable html getparameters rel nofollow href https docs oracle javase docs api lang reflect parameter html getannotation lang class rel nofollow 

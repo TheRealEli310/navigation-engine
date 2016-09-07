@@ -1,0 +1,4 @@
+hardcoded relative path file 
+written code relies project included build path issue project reference xsl files accessed relative path dealt local workspace simply copying xlst folder project time gravy jarred put server dont inside jar relative path find error log clarify path question automatically started logs aka current working directory appended relative path force start logs proper folder drop xsl files edit adding file file mypathtoxsltfolder call project method affect current working directory path didnt affect modifying project unable suggestion change relative path getclass getresource 
+
+paths relative property set start jvm affects entire program paths relative path relative paths good idea thing configurable properties resources changing affect put things server server web server simply server machine expect layout user dir case test problems guess 

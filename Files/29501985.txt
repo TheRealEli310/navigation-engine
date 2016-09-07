@@ -1,0 +1,4 @@
+jdbi error ora invalid sql statement usestringtemplate3statementlocator 
+create dao interface links dao sql stg string template file query simple select id mydao groovy mydao sql stg backend db oracle query oracle sql developer works fine run query app sql stg file suspect finding sql stg file included resources dir pom jdbi find correct sql stg string template file daos app exact setup edit hardcode query string sqlquery annotation dao interface stringtemplate file works fine problem dao find process stringtemplate file correctly full stack trace 
+
+wow turned couldnt find stringtemplate file directory corresponded package dao thought dao package meaning directory stringtemplate file directory directory displayed intellij 

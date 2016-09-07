@@ -1,0 +1,4 @@
+mock class inside rest controller mockito 
+spring boot application exposes rest interface controller controller write unit tests class mock processor processing takes long time avoid step testing controller behavior provided simplified sake question mockito framework task fails give hint mock injected controller 
+
+shouldnt passing instance set field class 

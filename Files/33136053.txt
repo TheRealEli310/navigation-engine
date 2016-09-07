@@ -1,0 +1,4 @@
+android webview page loading page correctly 
+load page android app webview android studio emulator nexus page loading correctly stuck loading screen page require geolocation permissions enabled code xml app mainactivity activity main xml androidmanifest xml update geolocation issue dont gps config file find concrete create javascript website location setup webview android pass users current location 
+
+href http stackoverflow questions geolocation load webview users approach works fine strong problem testing emulator strong strong order working gps location api emulator command strong href https github dpdearing android gps emulator gui tool easly set fake gps position emulator detailed information command found href http stackoverflow 

@@ -1,0 +1,4 @@
+persist classes util currency 
+hibernate persist data financial application hard time persisting fundamental entity application money jodamoney immutable find good persist persisting money database point making application immutability store state object started creating money fields bigdecimal amount util currency currency wanted currency util doesnt public constructor hibernate persist guide deal edit1 code basic class make object class store database doesnt work hibernate throws org hibernate instantiationexception default constructor entity util currency problem facing 
+
+workaround 

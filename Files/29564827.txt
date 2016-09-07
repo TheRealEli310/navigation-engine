@@ -1,0 +1,4 @@
+adding sqlite database listview 
+add sqlite database listview record exists text edittext heres code databasehelper class code activity class 
+
+mistakes result cursor interpret return youre putting list result query assign result query directly insert 

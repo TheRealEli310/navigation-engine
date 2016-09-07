@@ -1,0 +1,4 @@
+start activity permissions 
+simple exercise permissions define enforce custom permission app called dangerousapp set app permissionslab dangerousapp start dangerousapp permissionlab error permissionslab stopped androidmanifest xml permissionslab androidmanifest xml dangerousapp activity start dangerousapp clarifications 
+
+permission protect service application activity documentation href http developer android guide topics security permissions html declaring rel nofollow http developer android guide topics security permissions html declaring href http developer android guide topics security permissions html manifest rel nofollow http developer android guide topics security permissions html manifest instance protect activity permission androidmanifest declare permission put activity application call activity protected permission add androidmanifest 

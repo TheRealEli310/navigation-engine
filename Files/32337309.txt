@@ -1,0 +1,4 @@
+poi provide event driven api read xls xlsx files 
+title understand newer ss model supports xls xlsx format files doesnt event driven implementation read files write cell contents data type 
+
+apache poi provide ways read excel file formats streaming low memory event driven file formats stored ways bits xml held zip file binary records isnt read formats event code options buy memory usermodel approach hides differences providing common interfaces write lots event code handle formats xls files hssf follow href http poi apache org spreadsheet html event api rel nofollow apache poi docs hssf event api xlsx files xssf follow href http poi apache org spreadsheet html xssf sax api rel nofollow apache poi docs xssf sax event api examples found apache poi source examples 

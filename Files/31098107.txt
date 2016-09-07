@@ -1,0 +1,4 @@
+objects class refer memory location 
+starting learn reading lot memory allocated jvm memory freed garbage collector thing unable find create objects refer location memory similar string pool works 
+
+blockquote thing unable find create objects refer location memory similar string pool works blockquote answer strong strong ol li create objects keyword point memory location li li holds true objects create objects references objects point memory locations li li literals special case literal stored literal pool references literal point memory location li li special cases class prints true values cached jvm values strong strong cached jvm implementations upto individual jvm implementation cache values range li ol 

@@ -1,0 +1,4 @@
+bukkit mysql money system 
+make money system mysql player joins server profile created mysql works perfectly flaws trouble making actual money system support mysql add money player throws sql error breaks users mysql profile fields mysql strong uuid bits money bans strong heres error bits money class adding money playerquitevent 
+
+forgot set uuid field bits class resulting nullpointer prevent sqlinjection preparedstatement class href http docs oracle javase docs api sql preparedstatement html rel nofollow http docs oracle javase docs api sql preparedstatement html edit youve updated question error problem method updatesql method run update query returns affected row count youre aiming suggest read bukkit documentation 

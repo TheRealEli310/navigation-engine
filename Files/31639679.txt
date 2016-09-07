@@ -1,0 +1,3 @@
+print number array 
+figure print int array numbers put parentheses order system print array 
+

@@ -1,0 +1,4 @@
+properly call akka http client multiple 10k 100k requests 
+write tool batch data upload akka http m2 facing isolate problem sample code fails fails guess create lot futures execute isnt akka supposed enable backpressure guess wrong superpool methods changed understand pool inside reuse http instance calling loop correct firing batch requests planning execute batches requests 
+
+akka absolutely enables backpressure youre taking advantage dispatching multiple single requests single send requests href http doc akka io docs akka stream http experimental snapshot http client side connection level html opening http connections rel nofollow documentation flow process objects 

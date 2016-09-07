@@ -1,0 +1,4 @@
+spring executors executing method thread specific index 
+application receiver processing messages threads sender module putting messages stack receiver module taking stack works threads sending receiving receive messages threads messages kind group number process group messages thread messages groups threads handle spring framework kind executor find good showing problem 
+
+ensure message group id run parallel executor interface concept messagegroupid write class ordinate exists 3rd party library post suggestion class maintains queue thread ensure tasks message group id queue single thread created queues process tasks perfect good starting point job submitted method message group id select queue put job worker threads process queues basic class hope helps 

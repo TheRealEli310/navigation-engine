@@ -1,0 +1,4 @@
+list restful ejb 
+project maven ear restful jax rs work jersey consuming json list restful ejb bring add list rest works restful list class works implement ejb found application deployed stateless resource accepted resources ejb dto facade interface facade restful fails exception nullpointerexception 
+
+isnt injected coursemock rs reason ejb annotation intended ejbs put arbitrary classes list jaxrs interfaces hold object jndi lookup caveats assuming ejb implements jndi address depend deployment href https docs oracle javaee tutorial doc gipjf html rel nofollow full details 

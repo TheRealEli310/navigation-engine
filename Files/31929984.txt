@@ -1,0 +1,4 @@
+spring integration content enricher implemented javaconfig 
+find configure part message transformation family implement transformer headerenricher found works options 
+
+correct config works implementation method accepted thought wrong isnt part strong black box strong extract additional data external system add request message information href http www enterpriseintegrationpatterns dataenricher html rel nofollow http www enterpriseintegrationpatterns dataenricher html case addition pay attention href https github spring projects spring integration dsl rel nofollow spring integration dsl project notation 

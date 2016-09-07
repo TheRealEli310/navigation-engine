@@ -1,0 +1,4 @@
+load json file android app local unit test 
+android project displays data json file file read assets directory approach local unit tests require json file order avoid slowness instrumentation tests loading duplicate file approach json file stored location whilst running unit tests local jvm 
+
+youre robolectric href http stackoverflow answer assets directory android concept resources move json file android jvm form application 

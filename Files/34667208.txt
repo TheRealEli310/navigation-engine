@@ -1,0 +1,4 @@
+spring propertysource read file classpath web inf 
+spring version config replacement config files results runtime error variations avail xml configured based application converting config 
+
+spring paths starting delegates overriden superclass handles create href http docs spring io spring framework docs current javadoc api org springframework web context support servletcontextresource html rel nofollow successfully locate resource relative servlet context 

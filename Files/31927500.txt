@@ -1,0 +1,4 @@
+style method references scala 
+developing javafx8 application scala couldnt figure pass method reference event handler clarify scalafx library build application directly top javafx heres related code snippet strong inputcontroller strong wrote test class isolate issue consume method reference strong works strong strong doesnt work scala strong heres error message compiler scala scala m2 error message native scala leverage method references introduced aware implicit conversions approach lambda expression method reference similar needing lambda decleration 
+
+syntax isnt supported needed scala short syntax lambdas work depending context lambdas method references sam single abstract method interface expected interface scala default scala experimental support lambdas sam interfaces enabled scalac flag 

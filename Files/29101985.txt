@@ -1,0 +1,4 @@
+generic supplier 
+today href http docs oracle javase tutorial javaoo methodreferences html rel nofollow reference constructor generic incorrect error text href http docs oracle javase tutorial generics erasure html rel nofollow type erasure wrong 
+
+compile time bound subtype dont class corresponds reference constructor reference constructor class youre construct fail work reason call constructor true declares case youd extends dont class access virtual member work method 

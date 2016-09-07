@@ -1,0 +1,4 @@
+buttons onclick method restarts clicked fast 
+application fortune actualy random edittextfields type button choose edittextfields remove pretty simple problem presses button multiple times fast code onclick method doesnt execute called prevent happening code onclick method execute called code 
+
+dont onclick started onclick finished qoute android documentation blockquote system create separate thread instance component components run process instantiated ui thread system calls component dispatched thread methods respond system callbacks onkeydown report user actions lifecycle callback method run ui thread process blockquote href http developer android guide components processes threads html rel nofollow http developer android guide components processes threads html onclick method makes trouble code hard 

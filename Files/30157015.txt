@@ -1,0 +1,4 @@
+create linked list hash table specific index 
+implementing hashtable scratch wondering create linked list hashtable code pretty wrong hope illustrate thinking collision create linked list starting collided index give guidance pls 
+
+hashmap internally entry class maintains internal property building linked list colliding keys basically key pair stored internally instance entry class collision entry instance added node item slot pseudo code hr 

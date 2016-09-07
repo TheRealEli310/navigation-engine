@@ -1,0 +1,4 @@
+persist collection strings play framework 
+model compile run database evolution database postgresql heroku didnt persist collection strings play framework 
+
+supported ebean play framework ships href https www playframework documentation javaebean rel nofollow ebean orm framework ebean apparently implements subset jpa specification missing jpa2 features open enhancement request github feature implemented released href https github ebean orm avaje ebeanorm issues rel nofollow https github ebean orm avaje ebeanorm issues boring answer wait play ships orm implementation supports annotation option patch play distribution jpa provider supports 

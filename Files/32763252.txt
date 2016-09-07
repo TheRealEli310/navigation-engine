@@ -1,0 +1,4 @@
+safely change session cookie domain production 
+recently realized session cookie written fully qualified domain site switch cookie shared cross subdomain server session cookie wed cookie store changing session cookie domain works fine em em cases finding users login deploying code situations problem arises user ul li logged site current browser session arent logged li li login li ul appears session cookies browser ul li stale cookie previous session fully qualified domain li li session cookie session logged domain setting li ul whats manage cookie weve adding code delete cookie user doesnt session paths app doesnt work open renaming cookie work suggestions 
+
+approach works youre apache shiro deletes cookie fully qualified domain creating cookie h3 shirosessionmanager h3 youd set session manager security manager 

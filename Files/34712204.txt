@@ -1,0 +1,4 @@
+check duplicate inserting set 
+learning sets question sets duplicates insert duplicates throw error automatically removes duplicates good practice check inserting set exists code internally check big complexity cases em em elements set 
+
+href https docs oracle javase docs api util hashset html add 28e docs blockquote adds element set present formally adds element set set element e2 null e2 null equals e2 em set element call leaves set unchanged returns false em blockquote method returns true false dont additional check 

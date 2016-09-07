@@ -1,0 +1,4 @@
+set log level class log4j2 properties 
+log4j class properties file log debug level log4j2 property file xml json tia 
+
+href https logging apache org log4j manual configuration html properties log4j2 configuration documentation states blockquote version log4j supports configuration properties files strong property syntax syntax log4j strong blockquote substantial types configuration elements question loggers element configure hr log4j2 doesnt configuration file default youll configure location system property path 

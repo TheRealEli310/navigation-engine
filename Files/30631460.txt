@@ -1,0 +1,4 @@
+simulate startup ejb weblogic 11gr1 
+goal set scheduled job starts running startup ejb problem ejb updated version supported weblogic 11gr1 implies bean constructed calling method read solution define injected bean override method put file method project ejb module dont web context solution thought change bean put message queue startup require extra action deploy replicate annotation option bean automatically starting startup script add automatic 
+
+option ejb project ejb module suggestion create war module drive startup servletcontextlistener servlet dont endpoint war ab application start notification 

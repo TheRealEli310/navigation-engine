@@ -1,0 +1,4 @@
+nullpointerexception constructor controller class javafx 
+post hope question isnt duplicate hobbyist javafx create application manage debating tournament create singleton object tournamentcreation tournamenteditor access manipulate singleton object created holds tournament inside accessed edited thrown debugging managed figure occurring calls default constructor code time error begins line singleton class finally class ignore exact error occurs default constructor 
+
+programming error messages helpers resolving issues root exception actual problem case tells error occurred method line class continue read rest exception tracktrace message actual root error type error line class hints determine problem strong update strong based updated question problem variable initialized uninitialized object throws null pointer exception tournaments constructor 

@@ -1,0 +1,4 @@
+vertx future wait 
+vertx stack thinking future feature tools brings read api pretty limited find make future wait observable code oncomplete observable checking results finish finish future unblock operation future result block future complete invoke expecting returning null idea wrong 
+
+vertx future doesnt block work handler invoked result injected outer layer code requires observable dont wrap future return doesnt make sense youre mixing ways async results ways collapse observable future difficulty observable emit items future hold single item care collecting results single emission map emits item call method define handler call 

@@ -1,0 +1,4 @@
+googleapiclient null pointer exception 
+learn android development developing app fused location service runfragment class put googlemap fragment textviews latitude longitude widgets connect googleapiclient created class job leave runfragment clear good idea run app error relevant classes strong runfragment strong strong googleapi strong 
+
+sounds initial problem fixed comments complete functionality fix npe make null reference problem high tendency return null register location listener declare location listener register listener href https developer android reference google android gms location locationrequest html rel nofollow documentation set values add location changed callback 

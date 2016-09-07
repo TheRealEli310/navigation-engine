@@ -1,0 +1,4 @@
+reading nested key json jackson 
+programmer coming background python weather data collected returned json nested keys dont understand pull values situation question asked swear googled great deal find answer json simple switching jackson couldnt figure jackson gson libraries id love libraries sample data code written main function function historical calls function returns jsonobject 
+
+jacksons tree model literal accessor methods returns missing accessors path traverse missing nodes return path path missing default conveniently json pointer expression ways convenient model structure plain object pojo content fit traverse resulting objects objects 

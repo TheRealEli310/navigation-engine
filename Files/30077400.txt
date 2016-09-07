@@ -1,0 +1,4 @@
+numberformatexception reading system 
+exception running code unable resolve error code input sample run program 
+
+program errors change code close bufferedreader automatically close input stream dont scanner bufferedreader time solution catch bufferedreader change code 

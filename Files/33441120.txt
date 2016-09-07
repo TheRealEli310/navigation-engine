@@ -1,0 +1,4 @@
+http post wininet api delphi 
+delphi sending http request application specifically sending json object sending request dont whats happening object correct send object sniffer reads object application doesnt read object causing null pointer exception code 
+
+blockquote sniffer reads object blockquote json data encoded utf alias delphi sending raw bytes string encoding utf jsons default charset mjn misusing regard input json string appears url encoded passed url encode raw data dont url encode json pass original json valid flag show code calling show fix url encoding issue actual post pre class lang pascal prettyprint override 

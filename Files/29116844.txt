@@ -1,0 +1,4 @@
+serve gif image http server displaying browser 
+built simple concurrent web server tcp sockets works fine serving html txt css content problems serving image files gif case process browser image status data path file size accomplish browser shows image shows empty image alternative text path images differents methods serve image client worked code serve image gif 
+
+adding responsetype arraybuffer header browser interprit files correctly 

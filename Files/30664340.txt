@@ -1,0 +1,4 @@
+google cloud bigtable 
+connecting bigtable local machine href https cloud google bigtable docs samples simple cli rel nofollow running project jdk works perfect running jdk sun libraries workaround run code 
+
+hbase hasnt certified run time stick hbase hadoop tracking bugs href https issues apache org jira browse hadoop rel nofollow https issues apache org jira browse hadoop href https issues apache org jira browse hbase rel nofollow https issues apache org jira browse hbase 

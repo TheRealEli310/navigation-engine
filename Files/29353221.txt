@@ -1,0 +1,4 @@
+execute batch jcl 
+past bpxbatch execute class files jcl move custom jvm launcher ibm recommends link href http www ibm developerworks systems library es batchz html rel nofollow http www ibm developerworks systems library es batchz html wrote world program compiled mainframe packaged jar jcl member bpxbatch works features custom jvm launcher brings detailed article executes class files article suggest jar files needed custom jvm launcher job created custom jvm launcher jar file helloworld helloworld jar omvs output job fails cc specific output region size dont region size issue incorrectly 
+
+resolution wound change stdenv dd statement code work environment areas changed pre class lang jcl prettyprint override 

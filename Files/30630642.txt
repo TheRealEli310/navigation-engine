@@ -1,0 +1,4 @@
+querying nullable onetoone relationship jpa 
+onetoone nullable relationship strong query objects null strong jpa engine join tables put useless clausule resuming executes useless native sql strong current solution strong reading openjpa documentation found native queries workaround jpa limitations easy native query avoid 
+
+simply run jpql query 

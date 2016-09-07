@@ -1,0 +1,4 @@
+hot deployment location wildfly 
+jboss hot deployment location unpack war ear change content configuration file works restart similarly wildfly hot deployment location unpacking war folder picking unpacked war folder considers file war extension good guide usage share 
+
+full documentation found href https docs jboss org author display wfly8 deployment scanner configuration rel nofollow https docs jboss org author display wfly8 deployment scanner configuration enable automatic deployment exploded unpacked archives set em standalone xml em configuration file pre class lang xml prettyprint override scan deployments directory seconds exploded archives stated documentation property manually create em dodeploy em file blockquote controls exploded deployment content automatically deployed scanner requiring user add dodeploy marker file setting true recommended basic development scenarios ensure deployment occur middle content blockquote 

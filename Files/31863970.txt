@@ -1,0 +1,4 @@
+find pattern arraylist coordinates 
+hava class called cell properties extends jbutton code class called grid create 20x20 grid extends jpanel find create method checks winner basically functionality changing turn player changing color button selected player move player select cell change color similar collect pattern colored button bit user win buttons pattern checks north north east east southeast south southwest west northwest colored cell colored cells connected color user wins valid pattern highlighted yellow circle connected form pattern red circle cell dropped case program noticed cells color means exceeded matching rule winner img src http imgur uwdoefh jpg alt image 
+
+suggestion maintain game status update player marks cell dont performance concern kind 2d game optimized complex algorithm introduce class track cell blocks adjacent class maintain game status call markcell method user click cell 

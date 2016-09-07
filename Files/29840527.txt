@@ -1,0 +1,4 @@
+run hadoop copy file local fs hdfs installing hadoop file system 
+installed linux file system run copy file installing linux file system created sample code wrong fs expected file pom xml looked solution found case install liunx file system path home user hadoop prefer make run jar files 
+
+choice case strong webhdfs strong api supports systems running hadoop clusters access manipulate hdfs contents doesnt require client systems hadoop binaries installed manipulate remote hdfs http curl refer href https hadoop apache org docs r1 webhdfs html rel nofollow https hadoop apache org docs r1 webhdfs html href http hortonworks blog webhdfs e2 http rest access hdfs rel nofollow http hortonworks blog webhdfs e2 http rest access hdfs 

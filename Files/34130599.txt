@@ -1,0 +1,4 @@
+mapstruct mapping objects 3rd 
+object1 object2 map object3 attributes amp object map amp user object city amp state address object strong question strong manually write mapping strong avoid strong strong preferred handle situations strong 
+
+declare mapping method source parameters refer properties parameters annotations city state property names match source target mapping href http mapstruct org documentation section def mapper rel nofollow section reference documentation details 

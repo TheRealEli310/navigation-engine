@@ -1,0 +1,4 @@
+springboot restcontroller generic post type 
+experimenting building microservices spring boot back end api receives responseentity post requests processes saving database data object created class top level api handles authentication end users communicate back end services top level api api basically forward requests back end apis top api dont include classes data class case send string json data results question forward requests back end include object classes api figured web browser sends requests json format knowing kind object data back end handling 
+
+posting backend service header spring deserialize object header 

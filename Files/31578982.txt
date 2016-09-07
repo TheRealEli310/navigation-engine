@@ -1,0 +1,4 @@
+autowired custominterceptor null spring boot 
+make check database receive request interceptor custominterceptor application class databasservice customwebconfiguration nullpointer wrong spring autowire databaseservice interceptor autowire works fine interceptor strong solution deinum strong change customwebconfiguration 
+
+spring autowire beans creating instance control spring inject configuration class add method make spring managed instance instance add list interceptors 

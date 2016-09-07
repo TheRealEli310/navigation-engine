@@ -1,0 +1,4 @@
+make joptionpane top fullscreen window 
+couldnt find spesific solution fullscreen window make joptionpane top fullscreen window taking fullscreen window constructor parameter press esc window sending background pressed alt tab click start menu bar top window end sending background problem fix code making window fullscreen 
+
+works 

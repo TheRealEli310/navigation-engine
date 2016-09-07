@@ -1,0 +1,4 @@
+mongodb provide generate sequential values 
+developing web application storing data mongodb morphia br persist sequential document collection sequential unique collection approach create collection store sequential synchronize method increments ways 
+
+generally mongodb auto increment pattern scale databases large numbers documents separate counters collection track number sequence create function return number sequence 

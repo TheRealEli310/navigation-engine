@@ -1,0 +1,4 @@
+extract date date text excel poi streaming sax xml 
+parsing excel xlsx sheets web application apache poi streaming api large files excel internally stores dates number xml parsing access dateformatting methods provided poi ideas parser href https poi apache org spreadsheet html xssf sax api rel nofollow https poi apache org spreadsheet html xssf sax api changed 
+
+gagravarr reply reason overlooked helped solve problem href https svn apache org repos asf poi trunk src examples src org apache poi xssf eventusermodel xlsx2csv rel nofollow https svn apache org repos asf poi trunk src examples src org apache poi xssf eventusermodel xlsx2csv 

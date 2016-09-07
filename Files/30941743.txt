@@ -1,0 +1,4 @@
+guava splitter onpattern split string split 
+recently harnessed power em ahead regular expression em split string printed console expression returns pleased result wanted transfer guava development looked surprise output changed 
+
+found bug method split href http grepcode file repo1 maven org maven2 google guava guava google common base splitter area interest logic works great empty match end empty match em em occur end end skipping character part notice 

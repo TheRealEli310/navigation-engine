@@ -1,0 +1,4 @@
+types project valhalla 
+started reading href http en wikipedia org wiki project valhalla language project valhalla dont understand understand objects compare reference href https blog oio de autovalue released google code states wikipedia em highly efficient small objects inheritance em vt scenario nutshell em typed object object identity objects considered equal respective internal state equal em question state implement em object identity em assertion correct jvm gain memory tracking methods calls part initial project ready 
+
+final assertion correct variables copied passing parameter function typically copy reference object treat small object type int boolean 

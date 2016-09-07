@@ -1,0 +1,4 @@
+send latitude longitude data textview 
+wrote code search latitude longitude performed based address entered enduser class responsible seeking users address method set result field textvfield set mentioned field class called method passing parameter address entered running problem started class set result fields strong cadastroclientes strong code called strong buscageolocalizacao strong class responsible return lat long attempt implement sending activity system started explode message blockquote clubee doggywalker androidruntime fatal exception thread process clubee doggywalker pid lang runtimeexception create handler inside thread called looper prepare android os handler handler android os handler handler android app activity activity clubee doggywalker cadastroclientes cadastroclientes clubee doggywalker buscageolocalizacao run buscageolocalizacao blockquote 
+
+post ui thread handler reference cadastroclientes 

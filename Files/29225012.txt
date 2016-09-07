@@ -1,0 +1,4 @@
+total cost arraylist 
+dont total cost code purchaselist class array field store purchased items keeping track size number items list purchaselist class methods purchaselist constructs empty purchase list public void add itemprice item adds purchase item list list full fewer items public double gettotalcost returns total sum cost purchased item list write class named itemprice represents price item quantity itemprice class store item quantity price unit itemprice object methods itemprice string int quantity double priceperunit constructs purchased item quantity price unit public double getcost returns total cost item quantity public void setquantity int quantity sets purchase item quantity lastly create test class code 
+
+dont initialize constructor running total items added list strong strong iterate calculate total called 

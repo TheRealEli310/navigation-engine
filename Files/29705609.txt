@@ -1,0 +1,4 @@
+tcp client socket filling heap 
+socket library server accepts tcp connection read data buffer meantime client pumping heavy data client side heap size grows max crushes client application limit socket buffer size heap violated connection killed client detect client detect connection client side server side 
+
+socket memory leak application behaviour describe eventually block method consume heap memory whatsoever 

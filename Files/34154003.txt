@@ -1,0 +1,4 @@
+taking long time generate excel file poi 
+project generate excel file columns rows increase day day 6k records generating file giving heap space exception heap space setting blockquote xmx2048m xmx6144m blockquote code improve performnce 
+
+create xlsx file xls files simply swap hssfworkbook sxssfworkbook guys apache poi good job keeping things interfaces specific classes hssfcell hssfrow dependencies project 

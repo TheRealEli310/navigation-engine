@@ -1,0 +1,4 @@
+androidrx run method background 
+created simple activity infinity progres bar iam run time consuming method rxjava prevent ui thread blocking everytime ui thread blocked solution problem emitting observable iam begginer rx 
+
+doheavystuff executes computation calling thread wrap result observable order wrap computation observable em defer em threads em subscribeon em em observeon em methods 

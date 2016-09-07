@@ -1,0 +1,4 @@
+globally defined variable jbpm 
+differences usage local global variables jbpm variable named persist single process instance pass variable task task tasks workflow set variable start process access variable custom work item handlers global variable suitable access global variables custom work item handler 
+
+recommend mappings tasks dont pass process variables work items human tasks mapping exists recognise default access variables restriction defined bpmn spec 

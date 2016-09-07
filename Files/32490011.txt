@@ -1,0 +1,4 @@
+gson retrofit library 
+retrofit send request receive response android problem convert response sever give response server give list movies put movies list model class class configuration strong userdeserializer strong strong json response strong 
+
+h3 dont make custom deserializer h3 rid needed query returning list movies make callback object reads list movies class problem em em written incorrectly dont strong strong default deserialization behavior work fine code work fine 

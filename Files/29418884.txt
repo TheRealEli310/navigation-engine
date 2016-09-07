@@ -1,0 +1,4 @@
+jpql check greater date today query annotation 
+check weather date greater jpql achieve pass parameter strong wanted strong annotation spring code segment dont put place todays date 
+
+found evaluated current date sql date instance evaluated current time sql time instance evaluated current timestamp date time sql timestamp instance 

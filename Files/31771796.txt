@@ -1,0 +1,4 @@
+fortify integration maven install 
+run fortify scan maven eclipse project start understand update file include fortify plugin require fortify sca installed machine running macos find place download fortify sca find share links point direction setup complete 
+
+dont fortify installation required pretty hard maven sca plugin install machine copy plugin wouldnt audit workbench application work generated fpr eric hp work license installed add profiles pom xml execute sca targets run scan command line figure buildid artifactid naming varies depending youre parent aggregator 

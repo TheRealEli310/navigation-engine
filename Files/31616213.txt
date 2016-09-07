@@ -1,0 +1,4 @@
+jacoco coverage objects created jackson map objectmapper 
+gradle project jacoco plugin applied run tests create jacocotestreport classes matching error classes match clean build test locally suspect mismatch fact em jackson map objectmapper em create object json classid stored jacocos exec file match compiled class id test event class extensively coverage due class mismatch coverage scenario 
+
+jacoco limitation jacoco relies checksum runtime bytecodes matching checksum bytecodes report generation typically libraries instrumenting bytecodes powermock jacoco jpa jacoco referenced jacoco issue href https github jacoco jacoco issues rel nofollow coverage missing class fact tested labeled wontfix limitation 

@@ -1,0 +1,4 @@
+throttle number calls method 
+code send batch requests custom database response time batch milliseconds limitation number batches send max batch case additional batches batch dropped desired hit database batch pseudo code limit number times called achieve throttling library 
+
+ratelimiter guava br href http docs guava libraries googlecode git javadoc google common util concurrent ratelimiter html rel nofollow http docs guava libraries googlecode git javadoc google common util concurrent ratelimiter html 

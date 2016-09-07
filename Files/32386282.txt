@@ -1,0 +1,4 @@
+oncreateview called android 
+activity called mainactivity pre made android studio br br fragment auto generated br br oncreateview method doesnt execute run br br fragment detail xml br br activity detail xml 
+
+post show create fragment case 

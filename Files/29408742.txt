@@ -1,0 +1,4 @@
+maven sql plugin execute scripts conditionally 
+project sql maven plugin execute sql scripts profile part works execute execute sql scripts strong conditionnally file folder names strong typically structure project folders correspond version project projects pom sql maven plugin execute scripts folder lt project version achieve sql maven plugin href http mojo codehaus org sql maven plugin execute mojo html rel nofollow doc usefull ants task solution 
+
+project version match v2 recommend database migration tool flyway liquibase ul li href http flywaydb org rel nofollow http flywaydb org li li href http www liquibase org rel nofollow http www liquibase org li ul 

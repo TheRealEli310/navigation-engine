@@ -1,0 +1,4 @@
+tomcat serving wrong content type text html svg resource 
+configured web xml fetch resource content type response header set text html conflicting factors causing behavior 
+
+method mapping file extension mime type string configure mapping server configuration tomcats web application deployment descriptor default servlet servlet container serve static content mapping set content type response derived filename served resource application servlet generates response servlet strong strong responsible set content type 

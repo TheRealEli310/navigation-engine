@@ -1,0 +1,4 @@
+lang outofmemoryerror heap space hive 
+hadoop hive netbeans error solve problem code error 
+
+set container heapsize hive resolve error tools operate top hadoop mapreduce framework provide ways tune hadoop level settings jobs multiple ways hive shown pass directly hive command line set env variable invoking hive set command hive cli 

@@ -1,0 +1,4 @@
+jetty working integration tests 
+running integration tests jersey jetty jetty maven plugin maven failsafe plugin integration tests worked jetty m0 jetty maven plugin version rc1 jetty starts integration tests run heres pom xml web xml minimal web service br app webservice minimal integration test shows problem br appitcase switching jetty versions pom xml mvn clean verify work run case run integration tests newer jetty version edit jetty started failsafe make output console usual jetty m0 br console output maven clean verify jetty rc1 
+
+means running project jetty project sitting deployed ready hit browser inside maven process simple kbd ctrl kbd kbd kbd stop jetty instance thinking meant start jetty block waiting jetty process stopped exited href https www eclipse org jetty documentation current jetty maven plugin html jetty start goal rel nofollow https www eclipse org jetty documentation current jetty maven plugin html jetty start goal 

@@ -1,0 +1,4 @@
+android memory error listview bitmap 
+viewholder bitmap decodes compress imagecache listview longer memory error back listview activity activity current listview activity listview activity missing heres code img src http stack imgur tj3da png alt logcat 
+
+problem lru cache reference bitmaps create screen android garbage collect resuse reference lru cache answer stated library care caching recommend href http square github io picasso rel nofollow title picasso picasso href https github bumptech glide rel nofollow glide personally glide load images bit faster perfect loading images listview simple 

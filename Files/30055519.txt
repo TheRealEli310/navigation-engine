@@ -1,0 +1,4 @@
+executing method loop asynctask android 
+kinda noob programming advice making app serves system informations cpu load ram works problem push button starts activity system info activity run method strong getsysteminfo strong oncreate method information takes time means black screen user wait id start load activity executing getsysteminfo method running background loop users pressed goback button href http stackoverflow questions asynctask correctly android asynctask correctly android difficult apreciated million times code 
+
+easy man call oncreate method line async execute set text update ui onpostexecute return params doinbackground method onpostexecute 

@@ -1,0 +1,4 @@
+set custom jre system library path spring tool suite 
+set default jre system library spring tool suite setting version xx default set home javajdk1 xx path variable set javajdk1 xx configured build maven projects successfully command line attempt build maven project sts error strong error occurred initialization vm lang noclassdeffounderror lang object strong workaround error 
+
+window preferences preferences dialog appears installed jre add jre list check mark apply 

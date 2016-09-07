@@ -1,0 +1,4 @@
+convert encoded base64 image file object android 
+href https github daimajia androidimageslider rel nofollow androidimageslider library populate images downloaded base64 string library accepts urls drawable values file object parameters convert image string file object order passed library function decode base convert byte 
+
+youll save object disk work method save string disk return object creates temporary file applications cache directory responsible deleting file longer 

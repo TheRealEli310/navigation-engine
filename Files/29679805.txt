@@ -1,0 +1,4 @@
+unable resize correctly nested pane javafx 
+current situation main windows main center objects inside distribute objects equally inside height pane pane resized problem falled things works resize increase height pane decrease size window panes height continue increase reproduced error application simple line application line avoiding nesting works expected whats wrong find direction 
+
+explanation resize children layout careless nesting line ending point matched height automatically obeys restricted nest care kids bad marriage put contract marriage manually check individuals height alignment height increases respect matching parent reference manually position children means children street kids wondering hope helpful 

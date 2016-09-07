@@ -1,0 +1,4 @@
+spring data rest add custom endpoint specific reposiotry 
+add custom search endpoint existing user repository user repository custom controller returns correct search endpoint users endpoints invites restricted users 
+
+assume invites endpoint returns invoked spring data rest serializes links users invites alternatives ul li return types search endpoints implementations li li put logic inside differentiate invites users case li ul 

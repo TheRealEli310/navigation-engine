@@ -1,0 +1,4 @@
+eclipse paho implementation auto reconnect 
+implement project connect mqtt broker subscribing publishing purpose problem subscribing feature implementing interface couldnt figure reconnect connection lost mqttcallback interface connectionlost method debug connection lost searched couldnt find establish auto reconnect suggest document problem advanced 
+
+structure connection logic lives method called callback instance method passed throwable exception triggered disconnect make decisions root effect reconnect connection method connect subscribe topics require 

@@ -1,0 +1,4 @@
+spring boot mongodb repository db 
+spring boot mongodb repositories manage data src main resources application properties file timeouts insert repositories mongoconfig exception occurring main class commandlinerunner application properties file responsible setting database location case 
+
+found problem mongo client creating default client changed 

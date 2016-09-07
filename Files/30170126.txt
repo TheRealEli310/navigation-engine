@@ -1,0 +1,4 @@
+setbounds method jframe 
+setbounds method open window whith size size pass argument size window including bars frame set dimensions content 
+
+ways fix ul li account border frame setting bounds frame li li override content pane call frame li ul demo techniques 

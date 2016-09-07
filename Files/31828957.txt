@@ -1,0 +1,4 @@
+unable read jvm arguments spring boot 
+running spring boot jar command prompt passing jvm arguments read application system getproperty environment giving null 
+
+youll pass parameters make accessible application app jar work work 

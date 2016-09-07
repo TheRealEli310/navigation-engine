@@ -1,0 +1,4 @@
+add numbers threads 
+question create threads thread perform addition operation ul li thread1 add li li thread2 add li li thread3 add li li thread4 add li li thread5 add li ul accomplish sec time delay addition operation written code output wrong changing time problem synchronized solve output 
+
+problem btw dont synchronization delay additions 

@@ -1,0 +1,4 @@
+android app mp3 file mimetype resolving null 
+attempting mimetype mp3 stored downloads problem mimetype back null unsure making extension lowercase mp3 doesnt make difference 
+
+check piece code required output make difference based making file extension lowercase construct uri files absolute path hardcoding path 

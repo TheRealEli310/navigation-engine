@@ -1,0 +1,4 @@
+orientdb register hooks 
+hooks orientdb register orecordhooks graph myhook class creating deleting bunch vertices edges hooks fire getpriority oncreateclass onclose dont orecordhooks fire 
+
+register strong hook strong strong orientgraph strong instance 

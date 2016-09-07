@@ -1,0 +1,4 @@
+avoid dependency conflict dropwizard jersey client 
+dropwizard rest api written works resource endpoints writes email add dependencies dropwizard starts fail start dropwizard dependency error startup long summarised guessing dropwizard conflicting dependency deal advance 
+
+dropwizard jersey naturally conflicts jersey dependencies fine long dont dependency conflict points dropwizards jersey dont fix dont youd sending email jersey jersey version dropwizard 

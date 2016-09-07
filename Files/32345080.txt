@@ -1,0 +1,4 @@
+convert numeric attributes binary weka 
+id convert numeric attributes binary order attribute selection j48 tree numeric types allowed convert type attributes advance 
+
+weka framework numerictobinary class href http weka sourceforge net doc dev weka filters unsupervised attribute numerictobinary html rel nofollow numerictobinary class 

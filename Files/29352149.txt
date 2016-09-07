@@ -1,0 +1,4 @@
+stanford parser memory 
+run stanford parser ubuntu python code text file mb parse ram 32gb increasing jvm size dont increasing time error 
+
+divide text file small pieces give parser time parser creates memory representation document time orders magnitude bigger document disk bad idea give mb document gulp avoid super long sentences easily occur casual web scraped text lacks sentence delimiters feeding big tables gibberish safest avoid issue set parameter limiting maximum sentence length neural network dependency parser scales large tasks href http nlp stanford software nndep shtml rel nofollow http nlp stanford software nndep shtml 

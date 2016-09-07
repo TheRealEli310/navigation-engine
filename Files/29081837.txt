@@ -1,0 +1,4 @@
+mockdataprovider jooq set lastid returned 
+em code generator jooq em dao unit test dao tested ensure object inserted dao sets id returned insert id database actual database contacted mockconnection mockdataprovider jooq executed dao jooq executes query mockdataprovider check query executed return result mockresult returned exception correct populate mockresult insert id query 
+
+working implementation essentially things wrong approach h3 field h3 field field youre selecting called jooq mock field h3 record h3 create record field table field fact jooq generates query irrelevant fact produce field h3 warning h3 youre making strong assumption jooqs implementation guarantee exact query generated 

@@ -1,0 +1,4 @@
+calling class forname mysql jdbc driver register mysql jdbc 
+explained href http stackoverflow questions difference class forname class forname newinstanc difference quot class forname quot quot class forname newinstance quot method class forname em calling class forname string returns class object class interface string em neccesary call method order mysql error 
+
+registers loads class memory runs classs static initializers static initializer code calls jdbc framework jdbc driver calling href http docs oracle javase docs api sql drivermanager html registerdriver sql driver rel nofollow driver class em vaguely em loads class runs static initializer creates instance registers 

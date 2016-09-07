@@ -1,0 +1,4 @@
+convert color css javafx color object 
+wondering convert color defined css color object javafx css definition setstyle node set color 
+
+styleableproperties main class sscce css file 

@@ -1,0 +1,4 @@
+insert remove row node jxtreetable 
+swinglabs library problem insert remove node table fact expected method fire jxtreetable data model change didnt find add remove node parent child jxtreetable ps model class extends pass constructor populate jxtreetable data contained list 
+
+protected member variable type offers variety event methods ul li firenewroot li li firetreestructurechanged treepath li li firepathchanged treepath li li firechildchanged treepath int object li li firechildrenchanged treepath int object li li firechildadded treepath int object li li firechildremoved treepath int object li li firechildrenadded treepath int object li li firechildrenremoved treepath int object li li addtreemodellistener treemodellistener li li removetreemodellistener treemodellistener li ul 

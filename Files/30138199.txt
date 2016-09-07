@@ -1,0 +1,4 @@
+ant runtime apache nutch 
+tutorial href https wiki apache org nutch nutch2tutorial rel nofollow https wiki apache org nutch nutch2tutorial run message blockquote build failed usr local nutch framework apache nutch build xml error occurred executing line usr local nutch framework apache nutch src plugin build xml error occurred executing line usr local nutch framework apache nutch src plugin build plugin xml compile failed compiler error output details blockquote line build plugin xml blockquote deprecation javac deprecation blockquote fix 
+
+finally solved problem needed ran path blockquote usr lib jvm openjdk amd64 blockquote ran set home folder path blockquote home usr lib jvm openjdk amd64 blockquote finally ran 

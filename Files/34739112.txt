@@ -1,0 +1,4 @@
+jvm gc move objects middle reference comparison causing comparison fail sides refer object 
+gcs move objects memory understanding long references updated object moved user code called perfectly mention reference comparison unsafe due object moved gc middle reference comparison comparison fail references referring object situation code print true googling lack reliable results leads person stated wrong find assortment forum posts href https community oracle thread tstart correct thread people shouldnt case 
+
+bytecode instructions atomic relation gc cycle happen single instruction executed time gc run bytecode instructions bytecode javac generates instruction code simply check gc effect aditionally gc run execution bytecode instruction references object change object cycle short answer question output true 

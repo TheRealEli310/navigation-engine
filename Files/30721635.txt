@@ -1,0 +1,4 @@
+deletelocalref object called newglobalref 
+creating objects thread owned responsible call needed code native code creates byte array multiple threads calls call buffer question call deletelocalref globalref complete ownership object 
+
+garbage collected system thing object ownership root object references object references reachable directly indirectly roots weak references considered jni local references jni global references root references creating additional references affect existing references remove list root references local reference deleted global reference deleted explicitly jni native method returns jni effectively calls automatically 

@@ -1,0 +1,4 @@
+recursive method optimised 
+write recursive method called power takes double integer returns code works expected extra mile perform optional exercise optional challenge make method efficient implement formula recursion implement work double power int point direction feel missing appreciated 
+
+principle insert recursive function make dont enter infinite recursion alternatively intermediate variable id handle special case avoid condition extra variable work 

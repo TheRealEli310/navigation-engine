@@ -1,0 +1,4 @@
+android nullpointerexception storage null 
+problems android app building tutorial online crashing run mentioned exception stop error heres main activity chatarrayadapter heres logcat 
+
+problem lies line passing null dataset null reference super constructor calls causing exception fix provide empty dataset change constructor 

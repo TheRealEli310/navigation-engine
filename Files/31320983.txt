@@ -1,0 +1,4 @@
+jackson serialise map extra fields 
+class extends map includes extra fields modified date jackson ignore thing contained property map class thing runs outputs include modified date adding annotations property getters doesnt include extra field correct make jackson include extra field 
+
+generally considered bad practice extend hashmap create class strong strong map additional field solve problem additional advantages ul li encapsulate rules preventing keys values added li li change map implementation needed linkedhashmap synchronized map concurrent map li ul 

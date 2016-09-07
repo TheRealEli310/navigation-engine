@@ -1,0 +1,4 @@
+set comp defaultdatasource wildfly 
+jee spec default data source provided applications wildfly box provide data source spec find changing point changing mapping application container jpa subsystem default datasource setting connection thing jpa application wanted default data source raw jdbc calls working lot lob data em dynamic table names em raw jdbc test yields 
+
+open standalone xml favourite editor locate line subsystem set physical datasource mapped 

@@ -1,0 +1,4 @@
+web service architecture rest 
+designing web application deployed wildfly tomcat decided basically offline application rest interface communication accept json data idea application runs strong time strong processes requests stored redis cache received json data stored spring mvc framework web site past dont mvc pattern rest interface point spring framework framework strong add capability recieve post requests existing offline application strong write strong rest service cache strong existing application illustrate question attaching simplified diagram architecture href http stack imgur m49lg png rel nofollow img src http stack imgur m49lg png alt existing application extension 
+
+answers andres esala kervin pointed direction solution found suitable ul li implementation rest services strong spring mvc strong li li transformation main process existing application strong spring scheduled task strong li ul 

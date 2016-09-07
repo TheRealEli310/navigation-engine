@@ -1,0 +1,4 @@
+sending messages gwt errai framework 
+href http docs jboss org errai latest errai reference html single sid messagingapibasics sendingmessageswiththeclientbus rel nofollow send message client client strong helloserver strong click button send message server strong userserviceimpl strong server receive message callback method click button subscribers deliver error message annotate strong userserviceimpl strong class doesnt error add strong helloserver strong error message messaging client server gwt applications show basic 
+
+answer href https developer jboss org thread rel nofollow thread forgot add strong erraiapp properties strong file 

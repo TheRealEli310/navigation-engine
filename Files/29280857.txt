@@ -1,0 +1,4 @@
+synchronisation atomically moving money account pairs 
+make moving money account atomic expect pseudo code update accounts safely multithreading environment danger case easiest solution make blocking shared object inefficient cases expect independent moves performed parallel dependent sequence strong update strong suggested solution lead deadlock locks acquired sequentially strong update strong em update accounts safely multithreading environment worry accounts wont end minus funds problem em expect consistency intermediate account simultaneous execution em concurrent transaction expecting time em lock shared object isnt efficient 
+
+simple solution lock account avoid deadlock acquire locks order final account id acquire lock account id 

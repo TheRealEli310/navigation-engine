@@ -1,0 +1,4 @@
+gson parent multiple children 
+json youll objects groups child groups child named items depending groups parent question make groups class added multiple objects correct items class parsed gson avoid writing ton redundant groups classes advance strong pasting json string put character limit posted pastebin find href http pastebin btc1yad5 rel nofollow clicking strong 
+
+problem json youre deserialize mixed elements items impossible write pojo fit structure fact youll point field change actual type item item list point build general father class put pojo model json field youre ready create items type crazy part youll write custom gson deserializer class genericgroup finally mainactivity write 

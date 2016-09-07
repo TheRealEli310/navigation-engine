@@ -1,0 +1,4 @@
+set isolation level transaction postgres 
+stored procedures class call call change isolation level read commited repeatable read class trough call establishing connection database postgres jdbc tought establish isolation level stored procedures found question mention isolation levels side calling procedures psql naive question havnt find answer question edit call stored procedure create queue stored procedure 
+
+href http docs oracle javase docs api sql connection html settransactionisolation 28int rel nofollow http docs oracle javase docs api sql connection html settransactionisolation 28int 

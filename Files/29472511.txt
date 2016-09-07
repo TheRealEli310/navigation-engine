@@ -1,0 +1,4 @@
+unable resume activity null pointer exception error inflating class fragment 
+guys problem map fragment integrated google maps fragment called drawer main activity problem click display map fragment app crashes fallowing code ull find main activity home fragment map fragment layout appreciated advance mapfragment xml logcat img src http stack imgur 0sngs png alt enter image description error occurs click img src http stack imgur 5smjv png alt enter image description 
+
+found solution problems null pointer exception unable resume activity occurs change phone orientation landscape portrait solution remove map fragment error inflating class fragment duplicates calling map fragment loading solution found create statement controls loading process cases added case lead fragment doesnt hope 

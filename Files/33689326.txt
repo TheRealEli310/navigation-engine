@@ -1,0 +1,4 @@
+save dataframe spark cassandra table changing schema adding additional properties 
+spark sql retrieve data cassandra database filtration save data cassandra table add additional properties save table practice shard cassandra long row expect 4k 6k records sharding long row counting records changing number items practice spark cassandra 
+
+dataframe define case class structure schema added properties create case class map convert structure case class 

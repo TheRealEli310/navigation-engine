@@ -1,0 +1,4 @@
+translate javas println assembly printf 
+code translate assembly code managed system println sorts input sys write call allowed print mov command code supposed work debugger access gdb tui em filename em rest code supposed print 
+
+bit variables handle bit registers bit system generally avoid bit registers bit registers bit registers forgot initialize initialization wrong sys write syscall int 80h pointer string character store character load pointer load strong correct strong amount characters print works 

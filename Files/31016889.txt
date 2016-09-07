@@ -1,0 +1,4 @@
+approach create multiple xml elements 
+lets create xml loop trouble creating jdom element iteration element called element read attached create element clone havent figure fairly simple missing code strong edit lazy added code exemplify needed worked rolfl understood wanted problem solved lazy strong code thought calling element everytime call subelementx loop worked 
+
+add instance multiple times create instance element element output element outputter nice whitespace results 

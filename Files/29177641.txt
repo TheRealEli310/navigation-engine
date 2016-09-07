@@ -1,0 +1,4 @@
+lang classnotfoundexception org jivesoftware smack smackexception notconnectedexception smack 
+smack working servlet works perfectly fine copy paste code run desktop application error occurs chatserver heres code servlet chatserver connection class connection full stack trace 
+
+youre missing jar class place jar classpath appears servlet running tomcat package jar application deploying 

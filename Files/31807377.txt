@@ -1,0 +1,4 @@
+stackoverflow error run iterative program spark 
+implement hierarchical agglomerative clustering algorithm spark run local mode input data large thrown href https issues apache org jira browse spark rel nofollow cut super long serialization chain strong serialization chain strong long added checkpoint iterations doesnt work encountered problem strong code strong strong part stacktrace strong part stacktrace error warnings 
+
+finally found problem strong checkpoint strong spark strong checkpoint strong users truncate lineage rdd checkpoint created rdd computed strong action strong em collect count em program actions invoked strong clusters strong rdd checkpoints created serialization chain strong clusters strong growing result strong stackoverflowerror strong finally fix invoke em count em em checkpoint em 

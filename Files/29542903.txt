@@ -1,0 +1,4 @@
+iterator arraylist style loop 
+iterating linkedlist operation makes sense iterator object traverse list arraylist case correct arraylist doesnt make difference style loop iterator object 
+
+correct avoid loops process matter explicitly object foreach loop background explicitly rare situations filtering traversing parallel 

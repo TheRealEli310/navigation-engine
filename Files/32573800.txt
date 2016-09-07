@@ -1,0 +1,4 @@
+android add icon listview list item change text color background color 
+navigation drawer list item add icon list item change text color background color code xml navigationdrawerfragment strong import bellow answer strong 
+
+purpose create custom adapter find implementation custom adapter link href http www androidhive info android custom listview image text rel nofollow http www androidhive info android custom listview image text nice tutorial custom adapter add icons change colors text background list row good tutorial custom adapter href http androidexample create custom listview android index php view article discription amp aid amp aaid rel nofollow http androidexample create custom listview android index php view article discription amp aid amp aaid activitys xml activity main xml activity class public class mainactivity extends activity create layout row row xml create class customadapter 

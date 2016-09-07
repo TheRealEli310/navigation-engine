@@ -1,0 +1,4 @@
+object custom serialization ormlite 
+store field type parentclass json string database dont serializable interface datatype serializable ties full class serialized class code persister class kind issues met ol li didnt custom convertion object string ormlite calls object tostring order string representation object great method persister convert object string json case override tostring method myfieldclass convenient perform conversion persister method override order convertion model object db object li li mark custom field type string type li ol ormlite crashes saving object message doesnt crash omit datatype specification avoid crash types explicitly 
+
+basically persister implemented register method class model 

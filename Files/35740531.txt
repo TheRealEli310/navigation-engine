@@ -1,0 +1,4 @@
+elastic search content exception 
+put data elastic search code error blockquote sending put request url href http localhost testindex2 test rel nofollow http localhost testindex2 test put parameters content type text plain charset iso content encoding text content length chunked false response code error root type mapper parsing exception reason failed parse type mapper parsing exception reason failed parse caused type content exception reason compressor detection called xcontent bytes compressed xcontent bytes status blockquote code rest client runs fine problem happening 
+
+replaced working 

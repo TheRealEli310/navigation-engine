@@ -1,0 +1,4 @@
+avoid rename key entry tag jaxb 
+jaxb model saved xml model string hashmap problem exporting hashmap xml donot entry tag key xml expect achieve 
+
+suggest change xml format element names col1 col2 bad idea structured accept format xml data give guess class defined marshaled jaxb produce output change add classes fill data marshal output xml strong edit strong keeping make class create class classes 

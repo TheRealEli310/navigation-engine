@@ -1,0 +1,4 @@
+placement onactivityresult onclicklistener 
+implemented 3rd party camera scanning app project mine adaptor extends viewholder custom layout view button create view add onclicklistener image make clickable onclicklistener call camera call startactivityforresult confused placement onactivityresult calling current attempts create seperate class scan activity extends activity couldnt onclicklistener start class attempted declare setonclicklistener guess failed guessing call class forward easy fix advance class 
+
+option work create object activity component parameter android create object manually android manage lifecycle activity starting activity result android call callback request code activity closed handling activity 

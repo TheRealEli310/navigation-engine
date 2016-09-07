@@ -1,0 +1,4 @@
+writing zipped byte file 
+write zipfile memory write disk resulting zipfile corrupt works broken creates corrupt zip file work fix assuming operate raw create zip file directly file purposes 
+
+flush writing wont closed resources necessarily flushed youre writing bytes file edit call finish compression method call 

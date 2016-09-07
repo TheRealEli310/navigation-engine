@@ -1,0 +1,4 @@
+cxf method found wsdl operation 
+struggling days multifaced maven project spring project compile problem mvn install problem lies ws module problem cxf configuration deploy module tomcat v7 warning operations wsdl operations included wsdl drives mad configuration files ws context xml pre class lang xml prettyprint override cxf context xml pre class lang xml prettyprint override wsdl xsd refered wsdl deployed properly send soap request soap gui tool working needed understanding edit post 
+
+fact missing cxf code generation part generate service interface required annotations webservice 

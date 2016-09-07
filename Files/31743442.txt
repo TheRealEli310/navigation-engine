@@ -1,0 +1,4 @@
+attach jprofiler running app android device 
+profile application developed android platform jprofiler web application development android studio eclipse adt plugin ddms check cpu heap memory comsuption connect jprofiler running application android device 
+
+jprofiler tool profiling applications running virtual machine android language runs virtual machine profilers jprofiler yourkit profile applications google provided tools ddms 

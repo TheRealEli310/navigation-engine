@@ -1,0 +1,4 @@
+add jdbc drivers configure jdbc resources payara micro 
+options set jdbc drivers resources ee payara micro 
+
+add datasource definition web xml add jar file jdbc jar web inf lib deploy war file usual payara micro complete payara examples github repository href https github payara payara examples tree master payara micro datasource rel nofollow datasource payara github 

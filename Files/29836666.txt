@@ -1,0 +1,4 @@
+jackson writevalueasstring slow 
+create json string object objects large takes long time create json string create 8mb json string 15secs improve 
+
+make memory string storing mb serialized json megabytes em contiguous em memory heap importantly creating memory huge string write json content file methods similarly writing network socket write output takes memory cases incremental writing external stream requires memory seconds slow gc problems initial warmup jackson write megs fraction milliseconds simple object consisting standard types strong edit strong realized construction result string temporary memory usage doubled buffered content cleared constructed mb mb construct string default heap mb work 

@@ -1,0 +1,4 @@
+solr throws exception index spatial data 
+encountered problem solr installation indexing spatial fields index documentation href http wiki apache org solr solradaptersforlucenespatial4 indexing rel nofollow http wiki apache org solr solradaptersforlucenespatial4 indexing geo type definition field type error found logs blockquote org apache solr common solrexception org apache solr common solrexception parse point lang numberformatexception input string blockquote point dropped works previous installation solr dont rely index point direction indexing rectangular data solr library 
+
+index rectangles solr jts topology suite cql envelope syntax cql envelope syntax briefly documented href https cwiki apache org confluence display solr spatial search spatialsearch bboxfield rel nofollow bboxfield solr wiki format seemingly standard ordering index assuming original minx miny maxx maxy format syntax filtering searching documents hope helps 

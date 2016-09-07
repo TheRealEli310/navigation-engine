@@ -1,0 +1,4 @@
+defining default global object nashorn script engine 
+javas nashorn script engine provide objects context eval bindings id simplify javascript providing default object javascript write accomplish somemethod method object static method 
+
+object bindproperties extension nashorn bind properties arbitrary object js global object user invoke methods access properties default object script qualification object bindproperties documentation href https wiki openjdk net display nashorn nashorn extensions nashornextensions object bindproperties rel nofollow https wiki openjdk net display nashorn nashorn extensions nashornextensions object bindproperties code 

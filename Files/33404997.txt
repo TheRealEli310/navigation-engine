@@ -1,0 +1,4 @@
+add string object linkedlist 
+add string objects linked list error return list 
+
+return list method change em signature em method 

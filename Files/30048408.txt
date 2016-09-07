@@ -1,0 +1,4 @@
+missing override libraries 
+considered good practice blockquote em override em annotation methods strong overriden strong subclass blockquote applied classes library strong string class strong overrides methods object class em override em annotation methods maintain backward compatibility previous releases 
+
+cosmetic annotation generating documentation give hints ide explicitly state method overriden runtime standard library implementors point view worth effort modify existing classes add cosmetic backward compatibility annotations general annotations optional extended attribute present file retention policy previous releases jvm simply ignore attribute file parsing performed time class needed jvm class parser reach point annotation attribute located inside structure parsing end abruptly jvm notice version greater supported 

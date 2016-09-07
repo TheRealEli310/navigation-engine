@@ -1,0 +1,4 @@
+good practice gradle flavors class 
+informations gradle flavors define behaviors android application blockquote lets start activity flavor1 flavor2 blockquote gradle doesnt override classes define activity flavors define main folder enum constant class return flavor1 flavor2 guess mix solutions ul li create unique activity flavor1 create class flavor2 li li call activity li ul opinion coolest gradle flavors ways discovered deal final implementation blogged give opinion love read advance 
+
+place androidmanifest files flavor define lets call optional activity inside flavor1 class extends optional activity inside flavor1 youre flavor androidmanifest file main androidmanifest case include inside empty 

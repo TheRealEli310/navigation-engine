@@ -1,0 +1,4 @@
+project reactor netty tcp server bytebuff size stuck decoding messages 
+spring boot version managed dependency reactor version issue facing inside custom codec buffer capped bytes message exceeds limit attempt decode messages full message partial decoding fails expects full message question increase apply function works correctly simple question make apply function chunked means nettys buffer reaches limit apply function create buffer manage buffer eventually decode message reactory netty pass consumer main method setup environment netty server running windows client linux related windows implementation tcp 
+
+debugging code figured issue btw found documentation found reactor project tisk tisk apply function called message message 2k apply called time 1k time 2k advanced buffer position append buffer advanced buffer position removed apply called 

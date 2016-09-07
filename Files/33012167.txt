@@ -1,0 +1,4 @@
+understanding super keyword abstract classes 
+class clear prohibited error occured consulted href https docs oracle javase specs jls se7 html jls html jls jls didnt find restriction preventing code compiled ol li li ol blockquote compile time error forms keyword super declaration class object object superclass blockquote ol start li impossible instance strong em concrete em strong subclasses valid li ol blockquote forms keyword super valid instance method instance initializer constructor initializer instance variable class compile time error occurs blockquote ol start li case li ol blockquote compile time error current class class class blockquote 
+
+super keyword work declared abstract suitable implementation parent class remember classes extend outer class type include reference working class calling outer class meant syntax compile work intended 

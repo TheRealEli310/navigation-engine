@@ -1,0 +1,4 @@
+spring security angularjs returns forbidden login 
+big applikation involved spring security br href https spring io blog login page angular js spring security part ii rel nofollow guide mimic id login login forbidden guide luck strong error request strong img src http stack imgur h5cja png alt error request picture strong security config strong 
+
+faced scenario wanted return unauthorized response case log failure handled adding log failure handler 

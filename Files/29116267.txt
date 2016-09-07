@@ -1,0 +1,4 @@
+unable create jaxb context webfault error 
+error method initiatebatchprocess unreported exception caught declared thrown custom exception class webfault annotation handle jaxb exception suggested href http stackoverflow questions jax ws map exceptions faults link method extending custom exception class showing error custom exception class faultbean class responseinfo class 
+
+declares throw checked exception handled declare throw catch rethrow responseinfo wt class strong edit strong option implementation added constructor simplicity modify code 

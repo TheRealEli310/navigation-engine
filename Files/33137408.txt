@@ -1,0 +1,4 @@
+close stream reusing fileoutputstream 
+stated title close stream reusing fileoutputstream variable codes call assign file 
+
+confusion revolves concept simply em identifier em variable associating syntactic meaning compiler em object em referred simply dropped floor eventually garbage collected unspecified point time doesnt matter variable referred assign set scope calling explicitly flushes buffered data file releases resources garbage collector release dont happen throw matters point operation call function explicitly 

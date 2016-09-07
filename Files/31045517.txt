@@ -1,0 +1,4 @@
+download jasper report automatically website startup computer 
+scenario open browser log website generate download pdf jasperreport built report everyday create client script local computer automatically background start computer pop report automatically achieve expert advice appreciated 
+
+1st create servlet web xml 2nd test servlet br type url browser br href http yourserver port context jasperexample rel nofollow http yourserver port context jasperexample 3rd create batch file open browser url br start href http yourserver port context jasperexample rel nofollow http yourserver port context jasperexample 4th run batch file startup 

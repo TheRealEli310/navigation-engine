@@ -1,0 +1,4 @@
+facing issues navigating reports serenity 
+run serenity test cases gradle command reports generated click links provided reports fails navigate error message created package structure mentioned link href http thucydides info docs articles introduction serenity bdd cucumber html rel nofollow http thucydides info docs articles introduction serenity bdd cucumber html resolve runner step definition repository class runner class pre class lang prettyprint override step definition class pre class lang prettyprint override repository class pre class lang prettyprint override advance 
+
+fortunately solution build gradle plugin added handle reporting part 

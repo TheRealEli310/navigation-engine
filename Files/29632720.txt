@@ -1,0 +1,4 @@
+thymeleaf hot swapping intellij 
+issues thymeleaf templates hot swap update intellij moment full server restart order tedious slows work flow gradle intellij tomcat running application debug mode setting thymeleaf cacheable property file code reading setting applicationinitializer worked 
+
+select exploded war deployment simply update resources classes resources hit cmd f10 assume ctrl windows linux 

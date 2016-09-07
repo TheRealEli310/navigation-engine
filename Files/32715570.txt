@@ -1,0 +1,4 @@
+memory leak hibernatesessionimpl spring batch 
+written spring batch application jpa hibernate model read write operations outofmemory error due hibernatesessionimpl object jpa entity manager factory singleton bean configured spring xml error 
+
+problem fetching records queries record batch running successfully number records table time passed total records overflowing heap memory changed query fetch record latest works fine 

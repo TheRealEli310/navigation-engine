@@ -1,0 +1,4 @@
+continue code execution jframe created closed 
+silly question figure basically mainwindow press button window named partselectionwindow jtable jtable filled custom table model select row press back mainwindow work info selected heres problem jframe partselectionwindow window closed code execution continue mainwindow button event jdialog jtable filled custom model button respond closed clicking jdialog disabled debugging noticed fill table closing jdialog read code paused setvisible set true putting code fill jtable setvisible set true work obligatory code constructor jdialog window appreciated 
+
+ilustrate comment code simplified passed text end pass table info create 

@@ -1,0 +1,4 @@
+reliance default encoding 
+findbugs error generating blockquote reliance default encoding found call method perform byte string string byte conversion assume default platform encoding suitable strong application behavior vary platforms strong alternative api charset charset object explicitly blockquote scanner code stack works fine 
+
+findbugs worried default character encodings windows default character encoding iso linux utf macos macroman read href http www joelonsoftware articles unicode html rel nofollow charset encodings find href https docs oracle javase docs api nio charset charset html rel nofollow encodings clicking links line default platform encoding reading text console make code works environments findbugs suggests change favorite encoding guarantee input file encoding utf parsed machine executing program case safely ignore warning interested feeding text files application 

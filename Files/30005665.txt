@@ -1,0 +1,4 @@
+strings immutable replace works 
+replace letter char string abcd dbca strings immutable explain behavior program final output str1 char final output appears unexpectedly argument frontback string abcd 
+
+understand variables primitive types objects strong references strong objects class immutable means object created change content object em em make variable refer object lets happening line line start referring object content makes variable refer object content makes variable refer object character object refers refers object content method takes arguments substring find string replace strong strong change original object returns object occurrences argument replaced argument href http docs oracle javase docs api lang string html replace lang charsequence lang charsequence rel nofollow api documentation line equivalent line refers original content refers content line argument letter refers argument line equivalent line refers content refers object letters replaced 

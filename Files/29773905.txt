@@ -1,0 +1,4 @@
+spring multithreading atomic issue 
+class autowired class singleton bean state access state controlled atomic variable class thread 
+
+wont atomic race imagine scenario number thread hits em em increment incremented thread em em increment em em compareandset read atomic references offered hr compareandset function href http docs oracle javase docs api util concurrent atomic atomicinteger html compareandset 28int 20int rel nofollow takes parameters method update atomicinteger thread matter expect update update atomicinteger expect safely update expect dont update notify didnt update lets enter em em thread update atomicinteger em em threads expectation em em parameter thread thread win means fail compareandset return false failure case compareandset succeed exceed threshold 

@@ -1,0 +1,4 @@
+android webview app resetting rotation 
+issues webview rotation app resets default url hunted round solution number run issues code code post comment line showing unable resolve symbol error thing error webview app rotated resetting back default page 
+
+problem oncreate method code check bundle object null load url restoring state bundle object null 

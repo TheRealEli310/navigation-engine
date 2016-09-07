@@ -1,0 +1,4 @@
+tcp ip server listening port working 
+written code interface computer transmitter transmitter device communication board implemented ready connect tcp ip server specific address ip listening specific port number exact strep create server side application offering listening port connect transmitter dont understand debug code blocks line throws timeout exception find error code greatly appreciated code 
+
+blockquote find error code blockquote error code problem havent configured device connect server correctly device isnt running isnt connecting firewall investigate isnt simply true server em hasnt em connected point create listening socket reading line throwing printing em em line thrown odd line correct write loop server service client exit loop multiple devices start thread accepted socket handle 

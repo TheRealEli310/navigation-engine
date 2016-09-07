@@ -1,0 +1,4 @@
+declaring variable loop array length 
+recently reviewing code noticed syntax loop opposed reasoning efficient dont myarray length property loop created test check case tests loop approach significantly faster curious syntax isnt widely adopted correct thinking approach loop array 
+
+caching optimization preventing noted reads frequently perform kind micro optimization explain engineers happy examine loop caching high performance code written inverting loops direction avoiding variable hold arrays length 

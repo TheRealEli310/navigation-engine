@@ -1,0 +1,4 @@
+set items tableview controller class javafx 
+fxml files controller classes maincontroller playlistcontroller class tableview displayed default tab tabpane aplies tab created button select items default table add table tab single action buttons clicked tab created guessing make program waits tab created setting items dont method 
+
+defining constant similar fields place controller define method list display table call load fxml 

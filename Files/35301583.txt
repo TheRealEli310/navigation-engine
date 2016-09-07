@@ -1,0 +1,4 @@
+hikaricp hibernate spring boot project 
+beginner simple spring boot project time connection pool hikaricp case working hibernate ways spring boot project structure correct edit working remove class connection pools working project follow bankmanagerapplication hikaricpconfig clientserviceimpl application properties advance 
+
+project structure standard correct hikari hikari great choice pooling work hikari successfully smaller set params applying case working fine info hikaru setup recommend reading href https github brettwooldridge hikaricp wiki configuration rel nofollow official wiki havent property loading make springboot features read db parameters apply runtime beans code application properties define custom prefix myproject db pool params create spring configuration class clientrepository class options manage datasource beans creation databases vary properties prefix databases annotate datasource primary mandatory datasources spring context 

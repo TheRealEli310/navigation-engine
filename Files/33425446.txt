@@ -1,0 +1,4 @@
+creating rsa public key string 
+generated test public key rsa encoded der base64 coding platform copied key string android eclipse turn public key keyfactory giving invalidkeyspecexception matter advice appreciated 
+
+simply prefix bytes rsa subjectpublickey write simple ber decoder bouncy castle lightweight api solve issues requires single class interface backed entire asn ber decoder functionality required change base decoder href http developer android reference android util base64 html rel nofollow android specific 

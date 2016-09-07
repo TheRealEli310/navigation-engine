@@ -1,0 +1,4 @@
+bad practice entity objects layers web application 
+developing web application layered architecture ol li application layer controllers li li service layer services li li data access layer daos li ol connects backend oracle database jpa hibernate implementation create entities model object view relational database tables question considered bad practice entities objects layers data access layer service amp application layers people dtos service amp application layers conversion dtos entities service amp data access layers wondering practice approach 
+
+entity objects layer object layer tight coupling ui form data database tables change field ui modify column table advised dtos vos carry data dao front end types mappers market orika mapper 

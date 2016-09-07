@@ -1,0 +1,4 @@
+wrong tostring method 
+writing simple sudoku solver constructors 2d array parameter initialize sudoku variable recieves string numbers length initialises 2d array string tostring method test class zeros print string 
+
+posted full code constructor assign array instantiate assuming intended eliminate space input string output 

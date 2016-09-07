@@ -1,0 +1,4 @@
+error injecting feignclient project 
+trouble auto wiring feign client project appears implementation feign client generated injected error feign client pretty straight forward removed imports brevity added component scan project include application controllers include feign client project rest controller imports removed brevity defining feign client interface projects packages success put package application make component scan issue including package scan feign client interface shared project define reusable contract project unique package structure defining feign client application wes 
+
+feign scanner locate interfaces 

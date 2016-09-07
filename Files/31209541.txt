@@ -1,0 +1,4 @@
+convert awt geom area awt polygon 
+convert polygon shuld describe area 
+
+worth converting polygon class store integer coordinates lose precision pathiterator shape iterate add points polygon 

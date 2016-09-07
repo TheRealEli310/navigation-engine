@@ -1,0 +1,4 @@
+json localdatetime format spring boot 
+small problem formatting localdatetime spring boot application normal dates problem localdatetime fields converted convert code annotations dont work date formatted suggestions 
+
+finally found href http blog chris ritchie localdate jackson serialize html fix needed dependency including dependency spring automatically register converter href http docs spring io spring docs current javadoc api org springframework http converter json jackson2objectmapperfactorybean html 

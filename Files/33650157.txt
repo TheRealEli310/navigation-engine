@@ -1,0 +1,4 @@
+httpclient stop executing httpget method loop executing 
+main method executing times httpclient stop executing httpget instantiate httpclient loop wont stop wander strategy preventing httpclient executing httpget method times grateful 
+
+client pool connection reach web server href http grepcode file repo1 maven org maven2 org apache httpcomponents httpclient org apache http impl client httpclientbuilder rel nofollow httpclientbuilder build creating default httpclient creates pool size waits indefinitely connection pool read response close connection order client object updated code sample 

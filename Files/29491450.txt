@@ -1,0 +1,4 @@
+neo4j server mode 
+developed application neo4j basically user write cypher query obtain results graph database problem access graph database user time graph database accessed users time accessing graph db embedded mode neo4j api read access de graph db user time neo4j server mode dont start neo4j server mode neo4j api executing application user time vicente 
+
+command line run href http neo4j docs stable re01 html rel nofollow documentation details youve installed windows version handy gui tool starts stops server command line youre mac linux youll run youll set init script servers work differently embedded databases generally server run href http localhost rel nofollow http localhost accessible rest services regular api 

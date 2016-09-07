@@ -1,0 +1,4 @@
+spring boot default logger format 
+spring boot logs format format configure log4j properties similar format advance 
+
+found href https github spring projects spring boot blob master spring boot src main resources org springframework boot logging log4j2 log4j2 file xml rel nofollow 

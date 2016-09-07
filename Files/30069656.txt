@@ -1,0 +1,4 @@
+scope prototype working spring bean implements beanpostprocessor 
+strong bean strong configured spring bean configuration file run code output observed makes container create object bean marked 
+
+prototype scope work beanpostprocessor implementations discovered instantiated registered spring application context startup beans sorted type instantiation stored lists postprocessor beans applied bean creations compared ordinary beans service beans theyre retieved context time startup scope theyre applied considered 

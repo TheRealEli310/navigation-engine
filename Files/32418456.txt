@@ -1,0 +1,4 @@
+primitive types polymorphic return types 
+classes code produce error strong strong incompatible overridden methods return type strictly speaking true em directly em equal implicitly converted auto boxing fact compiler generates bridge method jvm differentiates return types resolving methods erased return type compiler generated bridge method signature method wondering wouldnt work primitive polymorphic return types doesnt reason feature fact screenshot repl session shows implement href https github dyvil dyvil custom programming language compiles bytecode href http stack imgur ualjm png img src http stack imgur ualjm png alt repl session 
+
+questions answer youd language designers reason couldnt opinion feature fairly pointless point question invoked variable static type primitive returned variable type returned achieve essentially thing personally boxing place proposal return depending static type variable extremely confusing 

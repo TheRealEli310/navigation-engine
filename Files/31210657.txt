@@ -1,0 +1,4 @@
+returning iterator private list class considered bad practice 
+suppose classes animal zoo private list instances animal reason return iterator avoid defining setters getters removal methods break encapsulation 
+
+extremely uncommon iterator iterable interface id advise practice dont introduce unnecessary type relations preferred practice stream iterable 

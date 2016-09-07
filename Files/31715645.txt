@@ -1,0 +1,4 @@
+correct attr pre lollipop devices 
+developing android application support jelly beans onwards style defined drawable home button xml defined style works flawlessly lollipop pre lollipop android add style style home button crashes logcat shows errors remove line app crash color rendered strong suppose wrong style realise strong build configuration libraries build gradle 
+
+youve wrong theme attributes drawables case simply arent supported pre lollipop devices href https code google android issues detail id rel nofollow issue reference reference color directly create em home button xml em color support add themes set activity code 

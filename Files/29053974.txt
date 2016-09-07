@@ -1,0 +1,4 @@
+write unit test spring boot controller endpoint 
+sample spring boot app boot main class controller whats easiest write unit test controller complains failing autowire webapplicationcontext 
+
+spring mvc offers href http docs spring io spring docs current javadoc api org springframework test web servlet setup mockmvcbuilders html standalonesetup lang object standalonesetup supports testing simple controllers context blockquote build mockmvc registering controllers instances configuring spring mvc infrastructure programmatically full control instantiation initialization controllers dependencies similar plain unit tests making test controller time blockquote test controller simple 

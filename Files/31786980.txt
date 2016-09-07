@@ -1,0 +1,4 @@
+javafx windows combobox error 
+recently upgraded windows javafx code worked windows appears freeze tracked issue opening combobox dialog appears freeze javafx program issue windows computers good confirm bug javafx issue attached code combobox main stage fine open dialog combobox thing freezes 8u51 eclipse 
+
+href https bugs openjdk net browse jdk bug report temporary workaround setting system property applications code alternately run windows narrator screen reader accessibility left enabled bug appears introduced jdk 8u40 affects windows systems touchscreen installed enabled quick testing solved problem 

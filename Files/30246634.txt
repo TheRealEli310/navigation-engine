@@ -1,0 +1,4 @@
+lazy streams implemented 
+reading specifically streams api wanted streams lazy streams added library language support laziness shocked tells achieved reflection 
+
+reflection laziness class call lazy seq filtering happen immediately content sequence calling filter youll calling terminal operation filtering consumer print principle source chain operations certains properties operations intermediate returns lazy stream terminal terminal operations short circuiting traverse pipeline early return loop returns index array calling terminal operation chain operations start execute end expected result laziness achieved storing state pipeline intermediate op applied call terminal op states data stream api implemented bit complex principle 

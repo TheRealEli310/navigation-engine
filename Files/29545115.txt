@@ -1,0 +1,4 @@
+array primitives stored jvm memory 
+jvm memory divided method area heap area stack pc register native stack ol li suppose class property int dealcodes array int primitive memory management deal code initialized contiguous memory allocation total elements bytes memory array size bytes allocation jvm memory question area bytes allocated heap stack understanding array object resides heap area dont primitives array points li li similar scenario array holds references array type employees case heap area references array hold bytes reference bit system references point objects varying size array memory allocation calculated basis reference size object size li ol clarity points 
+
+objects heap allocated allocated total memory allocated bytes thing applies array objects array element reference employee object occupied employees array bytes depends size employee object jdk home bin directory snapshot program application memory occupied object shallow retained heap sizes 

@@ -1,0 +1,4 @@
+exception retriving opentok session object play framework 
+createing session mentioned tokbox href https tokbox developer sdks rel nofollow documetation play framework code br session opentok createsession line giving exception br stuck day 
+
+bit long wasnt exact solution couldnt understand exact problem play play libraries integrating tok box api open href https tokbox developer rest rel nofollow toks rest api integrate play application href https www playframework documentation javaws rel nofollow play ws api support 

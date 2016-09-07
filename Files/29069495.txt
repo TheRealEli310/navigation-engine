@@ -1,0 +1,4 @@
+spring complete shutdown web application 
+web application shut executing method context executing application appears continuing running health page produces exception shudown thing spring resort kindly appreciated 
+
+questions line href http stackoverflow questions manage tomcat manage tomcat href http stackoverflow questions start stop web application start stop web application chrylis suggested easiest shutting server running embedded mode runtime class 

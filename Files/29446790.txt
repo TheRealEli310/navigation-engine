@@ -1,0 +1,4 @@
+viewpageradapter tab title translations android library neokree materialtabs 
+app materialtabs library neokree app support multiple languages tab titles support translations dont work viewpageradapter method charsequence getpagetitle int position made switch position doesnt work string title1 returns int getstring getresources helper class context sais class extend multiple classes solutions code viewpageradapter mainactivity called recordingactivity strings xml error log 
+
+viewpageradapter recordingactivity replace 

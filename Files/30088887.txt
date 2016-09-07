@@ -1,0 +1,4 @@
+jframe freezes true looping thread 
+simplified code share guys classes jframe jinternalframe thread jframe creates jinternalframe jinternalframe creates thread constructor thread instance jinternalframe mess buttons create interface internalframe create start thread unluckily jframe freezes code completely remain thread rid true loop thread jframe freezes amount time sleep function long story short thread run paralell main code waiting sleep times thread stuff classes advance stupid noob mistakes learning h2 jframe h2 h2 jinternalframe h2 h2 thread h2 
+
+issues code ul li dont invoke method directly call thread li li shouldnt start thread constructor lead problems li li find class lowercase thread bug poor naming li ul run method super invocation unnecessary add annotation improve clarity code 

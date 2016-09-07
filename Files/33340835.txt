@@ -1,0 +1,4 @@
+javafx change color circle mousepress 
+working simple app school javafx supposed make white circle black mouse button pressed back white released life find wrong code compiles fine warnings errors eclipse blank white window simple missing staring long appreciated heres code 
+
+add scene 

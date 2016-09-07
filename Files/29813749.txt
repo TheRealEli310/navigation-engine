@@ -1,0 +1,4 @@
+apache olingo odata library support actions 
+call database procedure cud operation direct insert update delete table question mapped entities jpa call separate function action bounded operation function import unbounded operation url olingo 
+
+olingo v2 library supports odata v2 features actions kind odata v3 onwards part olingo v2 

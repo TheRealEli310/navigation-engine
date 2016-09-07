@@ -1,0 +1,4 @@
+webview event handles watches url android 
+app login web application webview webview appears handle based users clicks review event url specific logout url return user app user logs web application webview webview stay active view webviewclient shouldoverrideurlloading view ontouchlistsner class implement public didnt heres code call method check url 
+
+href http developer android reference android webkit webviewclient html onpagestarted rel nofollow https developer android reference android webkit webviewclient html onpagestarted android webkit webview lang string android graphics bitmap event notify url page starts load point verify current url 

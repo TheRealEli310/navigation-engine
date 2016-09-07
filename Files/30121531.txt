@@ -1,0 +1,4 @@
+convert arraylist vector3f bytebuffer 
+create jbullet parse vertices model vertices model parse list 
+
+follow declaring vertices set vertices float buffer vertices 

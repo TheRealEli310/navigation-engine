@@ -1,0 +1,4 @@
+swing component resizing gridbaglayout 
+trouble swing gui created panel gridbaglayout added labels created panel jpanel adds button sliders suppose match labels problem jlabels smaller components panel makes water option strong jslider strong jslider lot bigger make components larger adding bigger set grid width labels panel bigger work doesnt respond code 
+
+change thinking layout labels components separate containers putting container laid layout calculations made relationship components single context href http stack imgur 01hg4 png rel nofollow img src http stack imgur 01hg4 png alt sliders 

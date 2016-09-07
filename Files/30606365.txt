@@ -1,0 +1,4 @@
+overflow occurs multiplication 
+code creates overflow doesnt print correct result lines print correct result questions ol li matter compiler li li starts multiplying left left computed li ol 
+
+line line evaluates multiplication operator href http introcs cs princeton 11precedence left evaluated doesnt overflow time multiply product promoted multiplying overflow doesnt place mentioned comments factors overflow data type multiplying number yielding incorrect answer literal left number avoid overflow start alternatively cast literal 

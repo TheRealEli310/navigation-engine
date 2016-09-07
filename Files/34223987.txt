@@ -1,0 +1,4 @@
+encryption caesar cipher methods 
+create method encrypt word caesar cipher code class methods returns number character returns letter number problem encrypt word encrypts letter correctly save array methods output code strong cdefg strong br strong cjogf strong class 
+
+youre adding key position current encrypted character integer character youre encrypting wrap alphabet doesnt alphabet characters long 

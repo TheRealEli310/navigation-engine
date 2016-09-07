@@ -1,0 +1,4 @@
+soap namespace response spring boot 
+href https spring io guides gs producing web service rel nofollow build web service soap remove targetnamespace soap response soapui response target namespace sending empty request list myitems xsd myitem class generated automatically annotated response target namespace purpose happened processed tool target namespace advance 
+
+blockquote response target namespace blockquote hope soap web service defined published interface response sends conform interface interface wsdl document blockquote target namespace blockquote pedantic absence namespace prefix namespace default namespace force em em achieve xml myitem class tags empty namespace blockquote purpose blockquote purpose namespace xml document web service response xml avoid polluting global namespace class meaning applications schema define version blockquote happened processed tool target namespace blockquote valid xml whats problem output produced tool tool handle 

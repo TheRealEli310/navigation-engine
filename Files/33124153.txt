@@ -1,0 +1,4 @@
+mockito nullpointerexception stubbing method 
+started writing tests spring project junit mockito thenreturn option mock services simulating set matter clause nullpointerexception makes sense input null mock method object nullpointer method variable isnt set thenreturn creating variable make class calls method matter return true list basically misunderstanding side wrong strong code strong test class 
+
+default return methods havent stubbed boolean methods empty collection map methods returning collections maps applies method calls youre nullpointerexception stubbed option create mocks intermediate return values stub alternatively default answer creating mock make methods return mock null read javadoc href http docs mockito googlecode hg org mockito mockito html returns deep stubs rel nofollow mockito returns deep stubs explains detail warnings usage hope helps code issues missing assert verify statements calling setters mocks effect 

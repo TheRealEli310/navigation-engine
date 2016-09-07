@@ -1,0 +1,4 @@
+initializing filter values application properties 
+secure rest api jersey2 based ip addresses trouble spring security simply whitelist ips granted full access rights implement thought putting ips application properties enforcing restriction filter works perfectly fine embedded jetty server fails deploying application war tomcat read properties filter constructor init method constructor shown snippet lead nullpointerexception accessing class field string ips store ips enviroment variable appreciated stacktrace 
+
+youre spring boot setup pretty standard stick propertysource environment load ips application properties noticing comment environment blockquote environment variable refering org springframework core env environment included di autowired environment env class member blockquote inject class member initialization constructor youll run scoping issue environment set constructor called inject environment constructor class member 

@@ -1,0 +1,4 @@
+ejb schedule annotation method called 
+working j2ee project short sends automated email user designated time user download files webpage emailed works pretty timer method annotation invoked method executes immediately run time dont designated time included code servlet loaded application deployed schedule class web xml file 
+
+unwanted call caused working server dont instantiate remove lines form servlet work container responsible initializing bean calling methods marked 

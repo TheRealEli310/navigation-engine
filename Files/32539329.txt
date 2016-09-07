@@ -1,0 +1,4 @@
+update custom field jira rest api 
+resolution description custom filed updated resolution changed fixed transition rest api call passes jason string rest api call sign working expected change fields transition rest api call errors variable hard coded 
+
+found answer question put question href https answers atlassian questions answers comments rel nofollow update custom field rest api basically write jason string information follow href https developer atlassian jiradev jira apis jira rest apis jira rest api tutorials updating issue jira rest apis rel nofollow link site include access jira custom fields rest api 

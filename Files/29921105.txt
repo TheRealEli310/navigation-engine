@@ -1,0 +1,4 @@
+print joda time datetimeformatter optional parser 
+project joda time parses dates fractions prints fractions upgrade recent version joda time guess error wanted behavior making error null printer printer doesnt print work 
+
+eventually figured solution construct complete parser printer separately 

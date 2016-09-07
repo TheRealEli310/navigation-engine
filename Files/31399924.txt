@@ -1,0 +1,4 @@
+spring boot autowired main class null 
+connect sonic broker topic listen incoming xml message application jmstopiclistener msglistener run code nullpointer line mistake made improve work code mainpack classes msgpack jms error logger 
+
+called servlet container early applications lifecycle called instance class created servlet container spring boot overriding method annotated called spring created instance em em injected dependencies 

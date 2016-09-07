@@ -1,0 +1,4 @@
+implement similar override annotation 
+jdk code annotation declaration compiler intelligent detect error compile time problem code annotation declaration compiled syntax compiler detect error compile time 
+
+implementation triggers compile error doesnt lie annotation lies compiler write similar annotation processor annotation processor api href http docs oracle javase docs api javax annotation processing processor html http docs oracle javase docs api javax annotation processing processor html 

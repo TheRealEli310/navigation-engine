@@ -1,0 +1,4 @@
+set custom color android 
+em res values color xml em em em file giving error strong required android graphics color found int strong handle 
+
+href http developer android reference android content res resources html getcolor int rel nofollow getcolor method returns int store color object suggest simply href http developer android reference android widget textview html settextcolor int rel nofollow settextcolor takes int parameters 

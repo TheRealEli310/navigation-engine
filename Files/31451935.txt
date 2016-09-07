@@ -1,0 +1,4 @@
+adding method implementation inside interface 
+writing interface noticed behavior define method interface compile time error explain happening aware implement methods inside interfaces 
+
+java8 ability create default method implementations href https docs oracle javase tutorial iandi defaultmethods html rel nofollow https docs oracle javase tutorial iandi defaultmethods html 

@@ -1,0 +1,4 @@
+docker linking db container spring boot environment variables 
+springboot application container mongodb container docker running mongodb container springboot container environment variables springboot app application properties file constant configuration ip port connect mongodb container problem application properties file environment variables btw notation app couldnt connect mongodb container good practise situation implement systemenvironment variables annotation 
+
+advise discard ip inside environment variables properties blockquote links mymongo container host mongodb manages docker inside host config blockquote adjust properties blockquote manage ips inside container blockquote 

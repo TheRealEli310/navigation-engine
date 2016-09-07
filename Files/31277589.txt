@@ -1,0 +1,4 @@
+redirect spring controller method app deployed local server 
+local tomcat server develop projects write spring mvc redirect request method controller deployed app tomcat prefix strong strong make work server prefix 
+
+sounds youre trouble youve app running root context environments methods objects redirect environment independent spring controller method part solves problem youre talking return app running root context return app running 

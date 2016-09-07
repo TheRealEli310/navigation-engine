@@ -1,0 +1,4 @@
+persist method called 
+service level create object entity1 class persist call setters object entity1 created inserted database rows entity1 table inserted database myentity1 relationship set calling persist method problem find additional entity1 object created application service class myentity1 class onetomany relationships manytomany relation additional column myentity1 class 
+
+understood correctly hard code persist entity add relationship instance call entity means jpa provider manages lifecycle means longer call order save jpa provider automatically entity persisted 

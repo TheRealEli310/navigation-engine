@@ -1,0 +1,4 @@
+http post returns code bad request http post method 
+server returns response code bad request http returns code 
+
+check response code writing outputstream server returned bad request code code works 

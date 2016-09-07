@@ -1,0 +1,4 @@
+javafx reset back default css adding style 
+basically changed css text field javafx adding style class revert back original appearance original appearance case default skin javafx find original layout textfields found textfieldskin properties href http grepcode file repo1 maven org maven2 net openjfx backport openjfx backport ea b96 sun javafx scene control skin textfieldskin rel nofollow jungle find color fx control background fx text box border fx focus color remove css doesnt apply 
+
+comments ulukbiy varren solved issue great allowed check style classes applied text field default pointed comments restore text field css default 

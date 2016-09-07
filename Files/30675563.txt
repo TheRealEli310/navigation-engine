@@ -1,0 +1,4 @@
+set encoding httpexchange response 
+modify server code object handle servers response client issue responses characters supported iso chinese characters place characters id set encoding response utf unsuccessful adding line successfully puts charset header response send characters response set encoding response characters 
+
+header encoding 

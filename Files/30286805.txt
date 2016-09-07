@@ -1,0 +1,4 @@
+variables fxml file 
+knowledge swings applets started javafx fxml coding sample stuck show menu file language german german variable inside controller file code make filemenuname variable 1st line googled build ui components fxml javafx scene builder tool fxml files variables advance 
+
+youre wrong ill assume code package strong abc def strong translations package strong abc bundles strong create file mystrings properties blockquote filemenuname file blockquote place create mystrings de properties blockquote filemenuname datei blockquote change fxml notice instruct fxml loader variable found resources add assume fxml file strong abc view strong wont hardcode translations code easier translate app future mystrings properties default file match found wont mystrings pl properties pl language fallback defaults mystrings de properties de language translations code 

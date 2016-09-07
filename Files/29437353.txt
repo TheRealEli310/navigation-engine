@@ -1,0 +1,4 @@
+passing mocked static method class 
+mocked static method class powermock test class problem face static method called directly test class class skeleton myhelperclass getdetails calls method mocked dependent service myhelperclass pass mocked object helper class powermockito mockstatic returns void powermockito mock doesnt mock static methods figure pass mocked object helper class getdetails method 
+
+powermock isnt capable youre achieve mocking framework mock literally instrumenting bytecode href http jmockit org rel nofollow jmockit problem href http jmockit org tutorial behaviorbasedtesting html staticfactories rel nofollow 

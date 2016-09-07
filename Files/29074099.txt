@@ -1,0 +1,4 @@
+faultcode argument createfault passed null metro 
+metro invoking webservice request jax ws part flow faultresponse handling exception tcpdump response back forums suspect namesapce issue simulated response soap ui combinations response works fine system parse properly displayed error response basically removed soap env faultcode faultstring xml tags xml part finding difficult problem link reg faultresponse spec href http www w3 org tr soap toc478383510 rel nofollow http www w3 org tr soap toc478383510 clear reponse 3rd party system reponse complaint standards find reason behavior 
+
+found reason soap fault code schema href http schemas xmlsoap org soap envelope rel nofollow http schemas xmlsoap org soap envelope space prefixed faultcode faultstring tags fault prefixed namespace 

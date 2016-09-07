@@ -1,0 +1,4 @@
+oracle compiler infer bounds eclipse 
+seemingly innocent code simplified junit test case problem lies line eclipse compiler doesnt problem happily compiles runs test succeeds compile command line maven oracle jdk8 case doesnt work javac directly compile error thrown return type signature infer required type fact eclipse compiler jdk compiler infers fails jdk bug eclipse compiler bug 
+
+bug code compiles fine jdk 

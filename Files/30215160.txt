@@ -1,0 +1,4 @@
+calling base derived static methods type variable 
+href http ideone jnkn9u ideone method base class called derived signatures methods perfectly static methods dont inherit shouldnt compile time error thrown case explain behavior 
+
+reason compiler strong doesnt strong exact subtype replacing runtime binds method call method problem youre mixing inheritance features classes order working correctly rid modifier methods instance class instance runtime specific subclass strong actual strong method executed 

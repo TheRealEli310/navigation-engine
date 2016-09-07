@@ -1,0 +1,4 @@
+app crash everytime receive push notification 
+simple web view app based push notifications app registers background stuff send push phone supposed show push notification app crashes debug set breakpoint method set breakpoints everywere app crashes dont stop anywere android studio dont understand error messages find error greatly appreciated logcat mainfest build gradle mainactivity 
+
+afaik class work fact marks static class href https stackoverflow https stackoverflow 

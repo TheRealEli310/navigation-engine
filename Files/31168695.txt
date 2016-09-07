@@ -1,0 +1,4 @@
+current timestamp android updating clock 
+timestamp android code create variable display timestamp string timestamp gettimestamp save current timestamp string print string timestamp continues updating real time clock current timestamp dont loop updating printed 
+
+change format yyyy mm ddthh mm ss date format 

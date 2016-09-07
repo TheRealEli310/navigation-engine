@@ -1,0 +1,4 @@
+spring boot fails start hsqldb 
+create simple spring boot app connect hsqldb work user table start console output href http pastebin 7hminjfl rel nofollow http pastebin 7hminjfl files ares application account accountrepository application properties 
+
+stack trace direction problem blockquote caused org hibernate annotationexception identifier entity account blockquote switch annotation import class import exchange start application hr convenient start springboot application dont add enableautoconfiguration blockquote springbootapplication link configuration configuration class declares link bean bean methods triggers link enableautoconfiguration auto configuration link componentscan component scanning convenience annotation equivalent declaring code configuration code enableautoconfiguration code componentscan blockquote 

@@ -1,0 +1,4 @@
+usaco algorithms complete search 
+link problem statement href http train usaco org usacoprob2 zsmwtxwq7ro amp combo rel nofollow http train usaco org usacoprob2 zsmwtxwq7ro amp combo href http train usaco org usacoprob2 zsmwtxwq7ro amp combo rel nofollow problem statement edit problem lock valid digit combinations lock set user master key set manufacturer lock tolerance errors open numbers dials positions valid combination suppose user set key master key manufacturer set keys valid key difference digit position key user set key strong atmost strong invalid combo difference digits key user set key master key basically pretty naive generating lock combinations checking validity combination code inputs keys masterkeys output correct output sample test case give hint wrong logic 
+
+arent taking account fact numbers wrap debug printed program counting solutions comparing output listed problem site give details extra information validate thought process 

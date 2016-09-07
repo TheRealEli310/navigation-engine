@@ -1,0 +1,4 @@
+integer values list view android 
+created list view integer values set inside textview layout integer values pass activity android 
+
+store contents list variable call getcount determine size list loop add item arraylist youre store list item selected user implement onitemclicklistener grab selected item adapter index list 

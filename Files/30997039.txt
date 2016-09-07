@@ -1,0 +1,4 @@
+jtable align data center set row background color alternate 
+set row background color align data center dynamic setting data background color read render class understand renderer class 
+
+custom renderer 

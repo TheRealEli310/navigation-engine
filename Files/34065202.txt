@@ -1,0 +1,4 @@
+failure jbas014771 services missing unavailable dependencies jboss eap 
+make work jboss developer studio ga jboss eap hope idea problem h2 console h2 stanalone xml file 
+
+error application referring security domain security domain configured configure section add existing 

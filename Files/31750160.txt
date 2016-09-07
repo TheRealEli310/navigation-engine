@@ -1,0 +1,4 @@
+unsigned integer byte array 
+unsigned integer byte array understand doesnt support unsigned primitives higher primitive long unsigned int people suggest solution smart signed integer convert unsigned result overflow exception solutions biginteger unsigned feature couldnt 
+
+basically create empty long shift bytes action method 

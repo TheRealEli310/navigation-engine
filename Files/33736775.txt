@@ -1,0 +1,4 @@
+chaining web service calls rxjava retrofit 
+rxjava retrofit basic requirement chain api calls called response received api input calling api reading stuff internet flatmap achieve carrying operation showing loader runs smoothly occasions loader freezes ddms shows log skipped frames application work main thread suspect network call running main thread figure chain calls smoothly called background hampering main thread greatly appreciated advance 
+
+equivalent code make clear evaluated em rxjava involved chance intervene em words move em emission em address calling thread em creation em address happened main thread point easiest move thread executed 

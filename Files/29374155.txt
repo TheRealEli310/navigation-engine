@@ -1,0 +1,4 @@
+spring batch multiresourceitemreader custom itemreader reads file ad infinitum 
+multiresourceitemreader custom itemreader delegate problem facing launch job file read delegate class spring batch xml configuration file pre class lang xml prettyprint override spring batch move file 
+
+custom reader show spring batch href http docs spring io spring batch trunk apidocs org springframework batch item itemreader html read rel nofollow http docs spring io spring batch trunk apidocs org springframework batch item itemreader html read blockquote reads piece input data advance implementations strong strong return null end input data set blockquote case private attribute save state em resource reader instance processed em allegato object large reader stateful design state attribute problem 

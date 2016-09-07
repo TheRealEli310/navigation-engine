@@ -1,0 +1,4 @@
+dispose method javafx controls 
+control react kinds events adds listener list constructor remove swing rcp methods find javafx dont hung static class thought matter control adds static important parts application connected general event system listening part vanishes window closed listener disposed listener directly connected life cycle control control registered javafx wont work due loosely coupled fxml files information control window close event good clean controls longer 
+
+recommend global event bus suggested puce registering listeners encapsulated objects automatically subscribe events showing automatically unsubscribe node removed scene window closed solution makes reactfx helper href http www reactfx org javadoc m4u1 org reactfx eventstream html conditiononshowing javafx scene node rel nofollow eventstream conditiononshowing method didnt provide signature assume signature hr 

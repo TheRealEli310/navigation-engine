@@ -1,0 +1,4 @@
+send data runnable thread 
+difficulties app created class functions handle http post starting thread issue send data thread class variable set variable thread running code 
+
+issue solved asynctask passed variables onpostexecute string trick 

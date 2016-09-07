@@ -1,0 +1,4 @@
+authenticate system user scheduled processes spring 
+quartz spring batch job audit logging purposes wed authenticated system user methods rely fetching securitycontext ways running job trusted authenticated dont password token process basically spawned quartz resulted runasusertoken parameters key giving credentials authenticate set security context authenticated user 
+
+runasusertoken intended authenticated application execute user href http thatjavathing blogspot ca spring security run html rel nofollow found dont case admin authenticated dont wont checked dont create security context exists default 

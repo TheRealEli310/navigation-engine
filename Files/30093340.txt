@@ -1,0 +1,4 @@
+find proper solrconfig xml file configuration solr 
+setup strong solr strong configured em solrconfig xml em file core dataimport requesthandler working fine setup strong solr strong location em solrconfig xml em file core located 
+
+solrcloud time bin solr cloud related configset uploaded zookeeper automatically linked newly created collection command start solrcloud default collection gettingstarted default configset data driven schema configs uploaded linked path config files dont mention configset default data driven schema configs find config files 

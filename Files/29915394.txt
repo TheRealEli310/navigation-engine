@@ -1,0 +1,4 @@
+onetomany hibernate 
+entities relationship address employees mysql database strong address strong ul li address id int pk autoincr li li city varchar li li country varchar li ul strong employee strong ul li id pk autoincr li li varchar li li varchar li li email varchar li li registration date date li li employee id int fk li ul entities hibernate list employees location hibernate cfg xml error compiling wrong 
+
+specific implementation relation problematic part kind ordering criteria 

@@ -1,0 +1,4 @@
+error find symbol capturing contents url storing string array 
+learning servlets capture url content store string array bellow code put tutorials work servlet environment part exercise error line complete code 
+
+initialize array strings set null assume method array doesnt commented solution method shouldnt list arrays list strings add cookies 

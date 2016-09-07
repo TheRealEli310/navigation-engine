@@ -1,0 +1,4 @@
+jersey client process json data 
+create simple jersey client process data public api program read process data convert json response object structure build object structure based response 
+
+google gson parsing doesnt parse start 

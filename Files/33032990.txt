@@ -1,0 +1,4 @@
+proper configure spring security oauth client credentials 
+application standard form authentication username password configure oauth2 application configuration xml problem client id client secret users login password user strong em abc123 em strong password strong em qwerty em strong set client id strong em abc123 em strong client secret strong em qwerty em strong separate client id client secret username password configuration 
+
+resolve problem configuration authentication managers xml authentication managers filed isnt authentication works set username password change authentication manager resolve problem authenticate token client id client secret href http stackoverflow questions spring security oauth2 correct authorization manager linked problem 

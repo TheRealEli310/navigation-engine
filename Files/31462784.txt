@@ -1,0 +1,4 @@
+allure environment file target folder deleted maven clean generate build 
+instructions add environment xml allure results directory href https github allure framework allure core wiki environment rel nofollow https github allure framework allure core wiki environment folder deleted mvn clean files deleted generate file build 
+
+put copy results directory href https maven apache org plugins maven resources plugin rel nofollow maven resources plugin 

@@ -1,0 +1,4 @@
+unsafe implementation interface x509trustmanager google 
+hava app google play received mail google blockquote app listed end email unsafe implementation interface x509trustmanager specifically implementation ignores ssl certificate validation errors establishing https connection remote host making app vulnerable man middle attacks properly handle ssl certificate validation change code checkservertrusted method custom x509trustmanager interface raise certificateexception illegalargumentexception certificate presented server meet expectations blockquote app https modify function custom sslsocketfactory httpclient function modify code email sloved problem warning solve 
+
+found href http stackoverflow questions signed ssl acceptance android solution works strong x509trustmanager strong strong sslsocketfactory strong strong strong 

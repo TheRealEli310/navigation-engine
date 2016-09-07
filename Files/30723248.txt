@@ -1,0 +1,4 @@
+time complexity simple piece code 
+simple piece code whats time complexity strong lt strong code giving simple code 
+
+strong complexity strong ignoring jit optimizations possibly online judges turns tle expected hr explanation time complexity code pay special attention comment added iteration loops takes time length br recall immutable string concatination creating object copying underlying resulting linear time operation lets examine length br length increasing iteration loop reset iteration outer loop time taking iteration outer loop execute summation iterations loops summing values href http www wolframalpha input sum 28n 28n 2b1 2f2 rel nofollow equation variant sum squares hr significantly improved href https docs oracle javase docs api lang stringbuilder html rel nofollow 

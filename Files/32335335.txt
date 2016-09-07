@@ -1,0 +1,4 @@
+remove elements list lambda based list 
+list file paths refers file id obtain ids application handle functionality elements acceptable ids contained collection set words retain filepaths paths ids set list removed 
+
+efficient extract id path attempt find set making filter execute constant time giving number paths reverse approach searched path answers filter number average path length giving perform poorly moderate sizes collections 

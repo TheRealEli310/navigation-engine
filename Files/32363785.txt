@@ -1,0 +1,4 @@
+convert user input string pig latin 
+convert user entered string starts consonant pig latin buy moving consonants end word till word starts vowel adding ay end word loop supposed reason outputs wrong stumped heres code 
+
+equal lt greater equal piglatin length 

@@ -1,0 +1,4 @@
+cucumber steps testing ejb service persistence context 
+stateless ejb writing cucumber step definitions class service perform steps testing finding users based supplied criteria feature file steps definition class understand service ejb injected question steps definition dealing dependency mocking injecting mock setter create words steps definition essentially href https github cucumber cucumber jvm blob master examples spring txn src test cucumber examples spring txn seemessagesstepdefs rel nofollow spring option service ejb entitymanager steps pros cons approaches 
+
+digging discovered ejbcontainer steps class additional thing required ejb container pom glassfish dependency 

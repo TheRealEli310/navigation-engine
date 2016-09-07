@@ -1,0 +1,4 @@
+ldap integration cas spring 
+integrating ldap cas exception correct credentials properly exception expected due war deployed correct reason ldap connection established war face problem deployment application accessible exception thrown user login ldap credentials suggest achieved find stack trace deployerconfigcontext 
+
+youve set failfastinitialize false give desired behavior configuration issue causing war deploy disable ldaptive logs catches eye 

@@ -1,0 +1,4 @@
+read server response netty channel pool 
+channel pool api client connect server send request server accept amp work successfully server replies client doesnt data strong client channel pool strong strong clientinitializer strong strong clienthandler strong strong sending data server channel pool strong channel pool work fine amp proper response clinethandler class suggestion breaking netty final 
+
+answer netty irc channel remove line clientinitializer simplechannelpoolhandler method 

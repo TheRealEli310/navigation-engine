@@ -1,0 +1,4 @@
+jsch esc commands encoding 
+writing application connect server ssh open application runs shell jsch managed connect open app send commands facing problems ol li windows encoding problems app linux ide console output run problem shows bash heres screehshot img src http stack imgur ubncj jpg alt wrong encoding heres screenshot show img src http stack imgur 1nwd8 png alt encoding li li app running makes esc key app write writes output code application li ol ps server sh bash 
+
+question ansi escape codes create jsch shell session default pseudo terminal allocated sequences send disable pseudo terminal href http stackoverflow questions funny shell output 0132mtestfile txt00m testfile txt discussion regard question problem windows javas buffered relay escape key easily read lines text send remote application youll resort native code actual key presses href http www darkcoding net software blocking console io rel nofollow discussion details operating systems 

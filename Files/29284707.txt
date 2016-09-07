@@ -1,0 +1,4 @@
+sequential thread execution print 1a 2b 3c 4d 
+implemented threads print integers print english alphabets threads supposed work tandem synchronized block thread hold lock time atomicinteger working expected count variable made thread visible thread hows missing strong implementation strong import util concurrent atomic atomicinteger public class threadwaiteg strong output strong main thread br printnumber br br printnumber br main thread completes br printchar 
+
+main problem create instances main threadwaiteg class copy monitor count objects objects shared threads quickest fix create single instance replace main method 

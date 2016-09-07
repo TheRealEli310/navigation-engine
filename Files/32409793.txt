@@ -1,0 +1,4 @@
+returned response status unsupported media type rest client 
+make post request rest webservice pass strong customer object post request strong response shows error code unsupported media type br rest client strong rest service strong guide fix 
+
+problem thing missed strong resource type application json strong points paid attention br convert customer object json manually convert issue br br strong consumes mediatype application json strong strong problem strong tells method accept mediatype dont consumes annotation rest service method consume format coming parse data coming client model object argument successfully parsed problem data format sync model object throw exception 

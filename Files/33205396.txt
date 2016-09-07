@@ -1,0 +1,4 @@
+json http request gson 
+lat lng cords separate string values decided gson issues points id prefer add extra classes deal breaker dont care easier solution gson results string lat lng extra classes avoid json returned url 
+
+parse json string fastest creating model map json string object 

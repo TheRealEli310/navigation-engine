@@ -1,0 +1,4 @@
+parse google protocol buffers direct memory allocating heap byte array 
+parse bytebuf jvm heap google protocol buffer object fact direct memory byte buffer netty passed work found type parsing introduce byte array message lot gc avoid heap byte arrays creating parse google protocol buffer bytes directly native memory 
+
+href https github google guava blob master guava src google common escape platform rel nofollow guava guys store small buffer bytes threadlocal suffices put bigger buffer tl thisll work fine long requests served average median size big soft weak reference real testing hard helps combine approaches strongly referenced small buffer weakly referenced big buffer tl pool buffers em dark side wasted memory prolonged buffer lifetime leading promoting generations garbage collecting expensive em 

@@ -1,0 +1,4 @@
+parsing json object invalid key values spring boot 
+spring boot pretty comfortable problem solve spring boot server consume json object coming front end requestbody json object create pojo main controller simply requestbody work key json object matches attribute user object current project consume json objects keys jason case create pojo object attribute called objects attribute start spaces faced problems json object keys troublesome easier parse json objects keys invalid lot 
+
+annotating member deserialiser match key json payload pojo member 

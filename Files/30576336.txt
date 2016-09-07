@@ -1,0 +1,4 @@
+http basic authentication jersey 
+created secured working fine run browser open webservice close reopen browser work wanted authentication webservice username password run matter web page open idea 
+
+basic authentication scheme href http leastprivilege implicit explicit authentication browser based applications rel nofollow implicit authentication scheme authenticated browser automatically include credential subsequent requests prevent open anonymous session close browser authentication schemes vulnerable href https www owasp org index php cross site request forgery 28csrf prevention cheat sheet rel nofollow csrf attacks reasons prefer authentication schemes basic authentication discuss answer href https stackoverflow questions bad idea send username password request mo 

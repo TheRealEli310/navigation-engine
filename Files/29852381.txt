@@ -1,0 +1,4 @@
+spring security logging user credentials correct 
+point mistake login registered user thought encrypting password removed encoding user login plaintext password web xml login jsp security context xml logindao console output 
+
+log output shows problem found user found authorities default expects authority user authorities represented defined href http docs spring io spring security site docs release reference htmlsingle user schema rel nofollow user schema representation user authority data field implement custom 

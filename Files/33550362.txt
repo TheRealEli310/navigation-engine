@@ -1,0 +1,4 @@
+converting date time epoch time losing hour scala 
+convert date time string seconds unix epoch weirdly back heres code wheres hour offset coming rid local timezone gmt utc moment 
+
+apparently parsing gmt utc add 

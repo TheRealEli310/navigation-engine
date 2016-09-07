@@ -1,0 +1,4 @@
+jsoup crawling image width height amazon link 
+amazon link crawl images width height href http images amazon images sclzzzzzzz jpg rel nofollow http images amazon images em sclzzzzzzz em jpg jsoup code html fetched extract width attribute returns null printed html fetched garbadge characters guessing actual image information calling garbadge characters paste document tostring result editor 
+
+problem youre fetching jpg file html call ignorecontenttype true clue href http jsoup org apidocs org jsoup connection html ignorecontenttype 28boolean rel nofollow documentation states blockquote ignore documents content type parsing response default false unrecognised content type ioexception thrown prevent producing garbage attempting parse jpeg binary image blockquote obtain width actual jpg file href http stackoverflow answer 

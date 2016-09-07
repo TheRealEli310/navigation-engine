@@ -1,0 +1,4 @@
+autowire field sessionfactory load context manually 
+load context error diiferent situation load context web xml works fine content avoid exception load context manually 
+
+forgot set profile spring code 

@@ -1,0 +1,4 @@
+count number lines string bufferedreader behavior 
+function strong countlines strong count number lines string stringreader bufferedreader result expected string strong test strong verify scenario bufferedreader behaves expected expected countlines return strong strong cases returns strong strong string background strong line strong fill array strings expected element empty string strong edit strong give correct expected number lines performance reasons bufferedreader behaves correctly 
+
+check href http ideone brz2mg rel nofollow code solve problem code splits string return number lines additional blank space added line counted empty behaving correctly condition causing problem string strong strong read loop terminates output string strong blank space strong iteration output 

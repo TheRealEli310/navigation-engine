@@ -1,0 +1,4 @@
+foreach cases 
+lets collection strings return characters string manipulation case methods stream collection important personally primarily associate mutating collection avoid created small test performance improvements perfectly understand small tests give reliable results cases choose 
+
+choice youre em em strings map strings designed final operation doesnt return mutating em em state necessarily original collection instance write elements file constructs including elements 

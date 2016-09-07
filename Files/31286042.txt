@@ -1,0 +1,4 @@
+singleton synchronization multi thread hashmap 
+class thought avoid concurrent access error threads class throws error approximately time call whats wrong singleton 
+
+problem simply href https docs oracle javase docs api util hashmap html rel nofollow hashmaps thread read linked docs changing href https docs oracle javase docs api util concurrent concurrenthashmap html rel nofollow concurrenthashmaps change singleton implementation handle multi threading wikipedia page href https en wikipedia org wiki double checked locking rel nofollow double checked locking lot good examples declaring variables hashmaps declare maps change specific implementation easily refactor called href http stackoverflow questions program interface programming interfaces 

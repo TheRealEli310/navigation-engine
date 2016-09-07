@@ -1,0 +1,4 @@
+hornetq honoring queue wildfly restarted 
+queue definition standalone xml queue persistent address settings pushing queue hornetq retaining multiple values output jmx console hq lvq repeated br strong reproduce follow steps strong pushed queue processed stop wildfly server restarted server pushed queue strong queue queue multiple entries shown strong strong resolution strong resolved bug hornetq behaviour solution problem h2 output jmx h2 
+
+bug raised wildfy jira link href https issues jboss org browse wfly rel nofollow https issues jboss org browse wfly 

@@ -1,0 +1,4 @@
+g1gc strange behavior 
+decided g1gc eclipse mars rc3 javaee developers installation observed strange behavior img src http stack imgur t1l70 png alt gcviewer statistics run full gcs lifecycle application minor gcs noticed minor gcs executed application load starts loads lot stuff full gcs idle idle hours expect application gc leas minor gc monitored memory consumption eclipse idle time incresed mb reason full gcs strange eclipse ini jvm config gc log href http pastebin svbe4w1a rel nofollow http pastebin svbe4w1a version openjdk bit server vm b02 linux amd64 jre internal b14 built buildd gcc idea g1gc full gc gc 
+
+suffering calls log calls happen minute run weird plugins periodic calls due rmi runtime calling older versions minute increased hour setting properties jvm options 

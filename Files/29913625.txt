@@ -1,0 +1,4 @@
+spring security bean named springsecurityfilterchain defined error 
+trouble setting spring security maven webapp project run app server displays error question asked solutions proposed yesterday avail strong spring security xml strong strong spring database xml strong inside folder named spring web inf directory strong applicationcontext xml strong web inf dir config files strong web xml strong strong spring security xml strong strong applicationcontext xml strong strong spring database xml strong strong edit strong applicationcontext spring security configuration files context parameteres correct url web xml 
+
+found problem context param strong contextconfiglocation strong strong contextconfiguration strong applicationcontext xml init param servlet correct web xml 

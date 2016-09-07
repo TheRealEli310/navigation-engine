@@ -1,0 +1,4 @@
+org testng testngexception execute tests 
+working project android studio long today refactored code started break reverted reverting debug code ending exception open project clues 
+
+discussion juherr suggests solution testng validating xml file href http testng org testng dtd php rel nofollow dtd problem default testng xml template intellij setting parallel suite link href https youtrack jetbrains issue idea rel nofollow bug 

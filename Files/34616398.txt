@@ -1,0 +1,4 @@
+double counting accumulators spark streaming 
+simple lines program input kafka saving input file counting input received accumulator code run code accumulator count input remove saveastextfile correct count line double counting 
+
+garanty strong spark trasformation strong accumulator called deep answer read spark guide href http spark apache org docs latest programming guide html accumulators nameaccumlinka rel nofollow http spark apache org docs latest programming guide html accumulators nameaccumlinka extracted accumulator updates performed inside actions spark guarantees task update accumulator applied restarted tasks update transformations users aware task update applied tasks job stages executed hope 

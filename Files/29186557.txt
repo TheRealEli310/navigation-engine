@@ -1,0 +1,4 @@
+datastax driver loadbalancingpolicy 
+understand decide load balancing policy heavy batch workload cassandra datastax driver datacenters write cluster consistency quick reliably extent choosing load balancing options tokenawarepolicy latencyaware dcaware srivatsan 
+
+consistency level care data centre write quick minimise latency practice select node local data centre remote node provide performance local node overloaded minimize number network hops storage nodes write coordinator write chain policies passing constructor call cassandra driver provide directly base policy child policy choices child policy queries acquire latency information 

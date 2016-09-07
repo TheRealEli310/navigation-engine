@@ -1,0 +1,4 @@
+aes encryption decryption final block properly padded 
+write methods encrypt decrypt string numeric works fine texts error blockquote javax crypto badpaddingexception final block properly padded blockquote code string encrypted read file written file encryption encrypted text decrypted back calling methods manner 
+
+pass encrypted data string fatal encrypted data bytes string base64 conversion utilities convert encrypted bytes base64 string encryption plaintext encrypted bytes base64 text decryption base64 text encrypted bytes decrypted text 

@@ -1,0 +1,4 @@
+serving source jar jws static file 
+put jar file source static file client launch jws update app receive error unable update app class file max supported path jar gae recognizing classes jar servlets written arent dont intend run servlets appengine web xml fix 
+
+href https code google googleappengine source browse trunk src main google appengine tools admin application rel nofollow source code switch check version serve jar file execute check introduced app engine sdk version reverted back app engine sdk deploy 

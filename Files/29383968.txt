@@ -1,0 +1,4 @@
+android listview onclicklistener working 
+problem click list item main layout time triggered time dont solve problem code layout file main layout file appreciated 
+
+textviews stealing focus parent list view make upermost linear layout 

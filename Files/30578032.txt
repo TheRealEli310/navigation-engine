@@ -1,0 +1,4 @@
+google guava checking item cache 
+google guava cache program works loading cache stage check item exists cache code doesnt work getifpresent returns null doesnt exist load calls bombs error exception thread main google common cache cacheloader invalidcacheloadexception cacheloader returned null key means check presense item cache explain wrong 
+
+javadoc href http docs guava libraries googlecode git javadoc google common cache cacheloader html load 28k rel nofollow states blockquote strong parameters strong ul li strong key strong null key loaded li ul strong returns strong ul li key strong null strong li ul strong throws strong ul li strong exception strong unable load result li ul blockquote youve implemented returning breaks contract 

@@ -1,0 +1,4 @@
+unit testing android xmlpullparser jvm 
+set unit test cases application critical part app parses xml files part low level isolated independant activities context views wanted make run locally jvm avoid plug emulate device time running jvm famous 
+
+managed problem href http robolectric org started rel nofollow robolectric android studio href http www vogella tutorials robolectric article html rel nofollow tutorial stumbled href http stackoverflow questions lang nosuchmethoderror lang system arraycopy xmlpullparser problem works fine href http stackoverflow questions gradle dsl method found test standard output running tests 

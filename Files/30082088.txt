@@ -1,0 +1,4 @@
+apache spark mysql javardd foreachpartition classnotfoundexception 
+save data partition mysql database created class implements main method class calling error worker log wrong grateful 
+
+export external class jar add sc addjar path jar sc javasparkcontext main wont error error spark program find class spark greater simple map options jdbc load jdbc options create data frame load data rdbms handy method works connecting rdbms spark question 

@@ -1,0 +1,4 @@
+hibernate warnings fix 
+moment boot hibernate application warnings crazy rid heres configuration file pre class lang xml prettyprint override heres entire output 
+
+problem declaring deprecated namespace hibernate configuration points pre class lang prettyprint override point pre class lang prettyprint override change beginning hibernate configuration file places url written pre class lang xml prettyprint override hr warning connection pool href http stackoverflow refer question add custom connection pool classpath href http sourceforge net projects c3p0 rel nofollow c3p0 lot 

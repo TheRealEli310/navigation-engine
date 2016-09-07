@@ -1,0 +1,4 @@
+send sms body transmitted lollipop 
+lines open sms dialog order send sms api body transmitted dialog lollipop remains blank idea 
+
+commonsware trick 

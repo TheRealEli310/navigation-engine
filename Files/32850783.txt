@@ -1,0 +1,4 @@
+pkcs12 keystore generated openssl badpaddingexception 
+configure undertow keystore cacerts error properties properly set steps generate keystore firstly generate private key csr internal ca signed create keystore resulting cert file crt read error caused problem passwords code correct passwords key keystore store pass key pass correclty content inside keystore hints investigate 
+
+strong store pass strong doesnt support separate storepass keypass pkcs jks fact prevent passwords recently missed case wasnt involved importantly em creates em pkcs password decrypt input key file output pkcs passwords prompted mac blobs didnt read result alternatively passwords convert jks 

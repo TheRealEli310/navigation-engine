@@ -1,0 +1,4 @@
+converting list map entry key list key 
+convenient conversion loop order preserved 
+
+streams convert makes href https docs oracle javase docs api util stream stream html stream entries map method convert strings collects list href https docs oracle javase docs api util stream collectors html tolist alternatively method changed helper function times code works map advantage dont convert list converted stream back list 

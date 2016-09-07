@@ -1,0 +1,4 @@
+check string random letters form word exists file 
+figure method tackle problem luck file called dict txt 2mb size list acceptable words randomly generated string letters form word file letters fastest good method solving problem great language advance 
+
+simplest implement filter file letter words making strings constructed sorting letters word alphabetically dictionary words put words sort letters incoming word query set matches random sequence sort letters find form word combination find letter words construct letters hash map list strings multiple words produced set letters planning continue generating random sequence hit valid process storing valid sequences upfront picking random performing random shuffle sequence picked faster selection 

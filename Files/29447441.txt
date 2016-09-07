@@ -1,0 +1,4 @@
+obfuscate class names main methods 
+href http proguard sourceforge net rel nofollow obfuscate executable files decompile code href https bitbucket org mstrobel procyon downloads rel nofollow classes main methods original names due default configuration remove proguard wont process obfuscate class names main methods good reason 
+
+obfuscate classname main method longer call class run jar theory modify jar refer obfuscated classname benefit pretty clear calling point em em obfuscate method find run application pretty good reason obfuscate em rest em class members classname main method href http proguard sourceforge net manual examples html application rel nofollow proguard manual 

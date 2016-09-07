@@ -1,0 +1,4 @@
+annotation spring meta annotation injecting 
+properties file configuration spring bean someproperties create annotation meta annotation behaves directly requires hardcode hoping override annotation bean expecting work properly injecting declared dont default ideas 
+
+solved build snapshot override values 

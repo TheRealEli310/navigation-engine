@@ -1,0 +1,4 @@
+error jre home variable defined correctly run startup bat apache tomcat 
+start tomcat server cmd prompt startup bat error jre home variable defined correctly environment variable needed run program defined environment path catalina home program filesjavaapache tomcat 59apache tomcat br home program filesjavajdk1 br jre home program filesjavajre1 
+
+solution working set environment variables ul li catalina home program filesjavaapache tomcat 59apache tomcat em address apache tomcat em li li home program filesjavajdk1 em address jdk em li li jre home program filesjavajre1 em address jre em li li classpath home jre home catalina home lib li ul 

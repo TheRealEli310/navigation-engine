@@ -1,0 +1,4 @@
+change backend adapt jpacontext xml hibernate oracle mysql 
+pluralsight video spring jpa hibernate video helloworld fitnesstracker app work local mysql instance convert oracle database error show overcome copied connection specific information working program simplejdbcinsert class hibernate event helpful program successfully connect db heres error hibernate oracle heres jpacontext xml file pom xml full error log 
+
+add oracle jdbc driver pom xml find maven central repository add manually href http www mkyong maven add oracle jdbc driver maven local repository rel nofollow http www mkyong maven add oracle jdbc driver maven local repository install oracle jdbc driver issue command pom xml edit add oracle jdbc lib project references 

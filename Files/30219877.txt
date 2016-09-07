@@ -1,0 +1,4 @@
+rxjava android zip operator 
+lot trouble understanding zip operator rxjava android project problem send network request upload video send network request upload picture finally add description responses previous requests upload location urls video picture description server assumed zip operator perfect task understood response observables video picture requests final task occur envision answer conceptually bit psuedo code 
+
+zip operator strictly pairs emitted items observables waits items arrive merges suitable chain result observables notice approach simpler retrofit api interface return observable create observable 

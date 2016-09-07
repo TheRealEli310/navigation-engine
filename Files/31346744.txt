@@ -1,0 +1,4 @@
+load content dynamic servlet 
+load data database main page user submit post request suppose jsp home page popular articles database servlet connet db return object populate jsp suppose method connects database returns list article servlet ill put statement servlet invoked post request return object jsp strong edit strong jsp dont recovery datas 
+
+ul li servlet handle database list article li li user servlet li li jsp page li li dont forget import required classes jsp li ul 

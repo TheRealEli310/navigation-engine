@@ -1,0 +1,4 @@
+add maven dependency 
+add dependency pom xml file build mvn package steps maven dependency code physically grab code dependencys package put jar add dependency maven import statements fully qualified names figure dependencies 
+
+general found dependency keys jar uniquely identified combination works coordinate system uniquely identifying point space coordinates issue command add jar file indicating dependency build path maven steps ol li maven search local repository default m2 dependency jar found add jar file build path required class file compilation li li dependency found m2 local private repository configured file maven central remote repository dont local private repository directly maven central remote repository li li jar found local remote repository downloaded saved m2 li ol forward issue command search dependency repository 

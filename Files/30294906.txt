@@ -1,0 +1,4 @@
+find jar loaded slf4j 
+strange problem webstart application slf4j logback logging framework users runs webstart application log4j warning message em em including log4j jars webstart application log4j possibly coming find import log4j classes call methods compile jar file dont details slf4j logback classic core main class output program users mac os yosemite remember webstart program jnlp file launched browser jnlp file commons logging jar transitive dependency jar dont related mac os yosemite warning log4j expect output mac os systems properly run webstart app fail users system systems running update thing users system application installed log4j location loaded classpath webstart loading webstart application possibly jar library extensions library extensions find log4j message coming jar file jar file stored filesystem 
+
+find jar classpath entry slf4j bridge implementation code 

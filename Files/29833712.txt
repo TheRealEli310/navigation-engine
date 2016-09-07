@@ -1,0 +1,4 @@
+convert string multiple strings ranges byte array 
+set strings fields userid email byte array size bytes love find method function simply index variable bufferposition blockquote bytearray bufferposition userid email bufferposition length userid length email length blockquote found ways convert strings byte arrays directly seemingly tedious ways solving problem treating element string character converting byte creating looping construct inserting element edit follow fields string arrays consisting elements tedious part similar loop assume extremely clever figure 
+
+href http docs oracle javase docs api lang system html arraycopy 28java lang object 20int 20java lang object 20int 20int rel nofollow system arraycopy loop field names ensure dont exceed bounds array simple 

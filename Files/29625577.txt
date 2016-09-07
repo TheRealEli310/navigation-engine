@@ -1,0 +1,4 @@
+spring hibernate localsessionfactorybean working 
+integrate hibernate spring codes main spring xml config local bb config package finally hibernate cfg xml errors doesnt read data database replace main works fine problem approach isnt good database connection working records inside ending paste console result 
+
+hibernate hmb xml hibernate cfg file case required created config declared localsessionfactorybean sessionfactory method config passing asfb setmappingresources hibernate cfg xml setmappingresources method expecting hbm file mapping hbm xml 

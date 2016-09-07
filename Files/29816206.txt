@@ -1,0 +1,4 @@
+apache mina sshd setpasswordauthenticator execute 
+setup apache mina sshd sftp server add user permission test winscp connect server typing correct password user strong setpasswordauthenticator strong method called setup username password apache mina sshd sftp server start secured server server code mypasswordauthenticator code maven dependency apache mina sshd 
+
+finally found wrong removing code snippet execute strong sshd setpasswordauthenticator strong server security code snippet proper implementation adding set basic password authentication server 

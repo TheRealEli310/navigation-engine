@@ -1,0 +1,4 @@
+unexpected token end file position parsing json 
+order find weather json element jsonarray jsonobject type em unexpected token end file position em error json code run code shows output dont understand exception occurring strong details edit strong code working fine json file output code dynamically parse json knowing json structure 
+
+youre repeatedly parsing call exhausts subsequent call sees empty stream 

@@ -1,0 +1,4 @@
+long timeout playframework app 
+created working app change things hit reload button browser app takes forever time 300000ms strong minutes strong exception browser error console time simply stop activator ctrl console restart activator run app works activator offline distribution computers avail scala ide eclipse strong edit strong compiled asap change timed simply added line brackets end timeout stopped activator run ctrl started change code start complete program functioned intended timeouts code annoying fix long timeout 
+
+found answer googling edit post write similar problem activator fork run settting added activator ui adds line project simply remove comment change line fixed timeouts worth mentioning compiling project faster dont understand fully timeouts happen insight gladly hear functioning workaround 

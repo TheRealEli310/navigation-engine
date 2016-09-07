@@ -1,0 +1,4 @@
+documenting json url 
+rest api retrieve data inside bounding box bounding box coordinates design requests accept bounding box json send document json strings url parameter test works document requests spring restdocs rc1 reproduced problem simpler method remove test passes stacktrace received suggestion encode url problem remains string create uri test checked class appears stacktrace line code executed problem encoded string case creation uri fails strong remark strong andy wilkinsons answer solution problem david sinfield jsons avoided url simple bounding box comma separated string href http docs geoserver org user services wms basics html rel nofollow wms 
+
+havent mentioned version spring rest docs youre guess problem jdks works spring rest docs rc1 server side original json 

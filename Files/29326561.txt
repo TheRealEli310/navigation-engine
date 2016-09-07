@@ -1,0 +1,4 @@
+minmax connectfour 
+implement minmax algorithm create ai connect bit trouble feel overcomplicated things doesnt work properly post code issue initial call minmax algorithm initial minimax method inside connectfour class initial method called separate ai class called subclass holds column user moves min maxed score moves column methods min max score set moves actual minimax method bunch commented code shows return range values depending good board clear cut win loss make decisions based win loss requested depth makes random move finally method called ai move list minimax added columnandscores couple logic errors thing difficulty moment put separate instance make move branch tree corrupt actual game played isnt case changing actual state game passed 
+
+issue caused implementation copy game state reference em em modifications apply states 

@@ -1,0 +1,4 @@
+make bean validation api works gwt 
+bean validation api server side works found gwt user artifact dependency bean validation conflict exclude gwt user maven dependency complain gwt compiling exclude server side stuck find method workaround server side btw gwt maven plugin pom 
+
+dont share classpath client server code id bad practice maven land means separating client server code distinct maven modules href https github tbroyer gwt maven archetypes rel nofollow https github tbroyer gwt maven archetypes examples latest snapshot older commits examples plugin 

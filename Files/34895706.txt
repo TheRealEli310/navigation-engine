@@ -1,0 +1,4 @@
+integrate database migration tools flyway liquibase application code base 
+good practice application modify db database migration externally application code base input appreciated gradle build application 
+
+href http flywaydb org rel nofollow flyway author end day important forces play ol li strong schema tightly coupled application code strong application expects tables columns present read amp write varies release application li li strong dont database based integration applications services strong breaks encapsulation database private implementation detail service integration services happen api layer proper validation business rules enforcement li ol light strong belongs strong letting application href http flywaydb org documentation api rel nofollow strong migrate database startup strong ensure database schema sync applications expectations find 

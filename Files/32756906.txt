@@ -1,0 +1,4 @@
+spring failed load applicationcontext tests 
+web xml web xml load configuration files copied files write integration test signature execute method test error configurations ideas test context cannon loaded h2 h2 inside lines datacontext 
+
+datacontext xml sessionfactory bean declared profile test configuration declare bean loaded application context causing error declare active profile 

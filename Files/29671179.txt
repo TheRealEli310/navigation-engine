@@ -1,0 +1,4 @@
+entity manager null spring mvc jpa 
+code null wrong injected automatically object model servlet persistence controller error 
+
+controller class order spring inject entitymanager spring inject entitymanager generally call href http docs oracle javaee api javax persistence persistence html rel nofollow persistence createentitymanagerfactory running container blockquote bootstrap class obtain entitymanagerfactory strong se environments strong blockquote persistence xml changing entitymanager configuration 

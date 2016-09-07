@@ -1,0 +1,4 @@
+testing websockets gretty gradle plugin 
+created simple war includes servlet defined web xml jsr websocket defined annotations deploy tomcat tomcat manager servlet websocket work correctly gretty gradle plugin test war servlet works jsr websocket tomcat tomcat jetty v20150224 gretty wrong assume latest gretty version adding gretty gradle build file 
+
+check gretty href https github akhikhl gretty rel nofollow https github akhikhl gretty supports websockets box configuration needed gretty includes working examples websockets href https github akhikhl gretty tree master examples websocket rel nofollow https github akhikhl gretty tree master examples websocket href https github akhikhl gretty tree master examples springbootwebsocket rel nofollow https github akhikhl gretty tree master examples springbootwebsocket 

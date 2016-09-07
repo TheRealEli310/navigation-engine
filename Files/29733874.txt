@@ -1,0 +1,4 @@
+gradle error coud find property file 
+posted previous question comments received response struggling finding solution couple weeks add jar files program uploading document android app gradle unsuccessful find property file strong error strong error find property file org gradle api internal artifacts dsl dependencies defaultdependencyhandler decorated strong code strong 
+
+firstly gradle work zipped jar files youll unzip jar files include line means file ending included dependency long directory lines libraries included line include single jar file directory youre missing parentheses 

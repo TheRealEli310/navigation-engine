@@ -1,0 +1,4 @@
+return multiple responseentity including jsonobject spring mvc 
+return multiple responseentity including jsonobject spring mvc 
+
+createendpoint propably simple bean class getters setters standard mapper problem serializing json jsonobject wrapper map provide simple getters setters mapper br br provide additional mapper invokes tostring operation types getters setters solution simple 

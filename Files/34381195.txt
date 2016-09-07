@@ -1,0 +1,4 @@
+javafx change label text 
+make gui application written made fxml document scene builder set fx id properly make simple form documentcontroller fx main file set labeldatum actual timestamp run fx main file paul update fxmldocument labeldatum actual timestamp scene shows initial label text doesnt change date 
+
+fxml file controller add attribute root element replace actual package controller class defined 

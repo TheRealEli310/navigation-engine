@@ -1,0 +1,4 @@
+public protected variable values inside inherited subclass null 
+access variable declared protected superclass subclass values displayed subclass displays correctly superclass superclass variable static works loop values correctly code output 
+
+youre dealing matter scope instance app running instance running loop setting variable specific instance creating instance maintaining instance var singular instance var shared instances app make assuming homework assignment wont pros cons static vars things sort app 

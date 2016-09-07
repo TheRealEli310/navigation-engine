@@ -1,0 +1,4 @@
+return rsa encrypted string openssl jni 
+android app openssl lib jni encrypt data program encrypt data successfully rsa public encrypt return string error blockquote jni detected error application input valid modified utf illegal continuation byte 0x5c blockquote 
+
+problem respected difference bytes characters bytes simply bit values valid character hand representation href http en wikipedia org wiki utf rel nofollow utf format unicode character byte values represent utf character case larger values characters consist bytes strict rules sequences form valid characters encrypting work bytes guarantee encryption produce valid character sequence fact sequence valid 

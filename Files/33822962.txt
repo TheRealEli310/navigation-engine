@@ -1,0 +1,4 @@
+disable default log configuration jboss eap jboss eap log4j configuration stdout statements 
+file configured log problem dont statements file mylogs log file stdout logs dont stdout statement file statements excepts stdout 
+
+remove logging file disable default logging configuration work 

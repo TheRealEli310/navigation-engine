@@ -1,0 +1,4 @@
+spring data mongodb credentials 
+spring data mongo object username password credentials set programmatically xml examples found deprecated system current dont set database spring data handles dont mongocredentials object find good documentation understand guess work connection throws missing openshift requirement unaware flaw credentials code 
+
+working code requires mongodb drivers version section pom xml ended 

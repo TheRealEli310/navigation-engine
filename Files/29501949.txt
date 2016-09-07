@@ -1,0 +1,4 @@
+hadoop installation directory 
+directory hadoop installed cloudera distribution usr bin hadoop software packages installed inside opt directory apache recommend 
+
+parcels cloudera cdh recommended install opt cloudera parcels cdh turn symlink actual cdh parcel directory find structure similar open source apache hadoop hase browse find hadoop normal binaries symlinks point cdh active parcel alternatives check installation strategy brings cloudera ability activate cdh normal apache hadoop structure parcel directory find layer binaries structure contrast normal apache hadoop entry point cdh entry point actual script libraries proprietary manner jars jars common library directory product specific symlinks check specific libs 

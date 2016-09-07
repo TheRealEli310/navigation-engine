@@ -1,0 +1,4 @@
+accumulate create collection 
+create collection list accumulate sum source list consists objects list resulting list ul li desc1 li li desc2 li li desc3 li ul sum final sum case create result list time accumulate sum java8 
+
+run pipeline sequentially hack strong aware youll wrong results stream run parallel strong pipeline run parallel pass assuming underlying list fast access element index apply reduction sums stream indices map event accumulated sum 

@@ -1,0 +1,4 @@
+return back webview activity 
+setting interac payment app user interac website success itll internal server called failed itll working success failure back activity response success failure back previous activity response 
+
+override onactivityresult previous activity bundle setresult method back 

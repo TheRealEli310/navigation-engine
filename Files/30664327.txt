@@ -1,0 +1,4 @@
+join existing peergroup jxta jxse 
+problem jxse lets rendezvous peer edge peer local network rendezvous peer create peergroup test publish advertisement group test advertisement lets edgepeer connected rendezvous peer find existing group test netpeergroup getremoteadvertisements dont join existing group netpeergroup newgroup testadv testadv founded peergroupadvertisement find advertisement test advertisement test peergroup things locally works dont understand difference jxta works locally internet code creating joining group 
+
+finally found problem start rendezvous service groups netpeergroup software works locally internet 

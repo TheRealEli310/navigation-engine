@@ -1,0 +1,4 @@
+cumemcpydtoh yields cuda error invalid 
+simple scala jcuda program adds large array compiles runs fine copy bytes device host cuda error invalid copy bytes give context actual program bellow kernel code compiles runs fine translated sample code scala code bellow entire program runs specs computer running ubuntu optimus setup gtx 770m card compute capable running nvcc version lastly running scala version noob greatly 
+
+allocating bytes bytes size int writing bytes device pointer mess things similarly call question parameter 

@@ -1,0 +1,4 @@
+junit issue testing exception 
+simple method fetch file test file existent problem begins test failing method tests separate solutions success ol li style suggested href http stackoverflow questions junit test analysing expected exceptions answer solution li li method exceptions tested li ol exception thrown shown question make test pass ofcourse junit3 catching exception 
+
+tested works expected class exception test class tests work expected downloading project comment dont strong strong strong strong problem assume leads executing unit tests stacktrace implies executed remove dont call asserts static imports dont write assert part solves problem tests succeed possibility fixes problem default runner testcase isnt 

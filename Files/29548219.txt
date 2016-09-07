@@ -1,0 +1,4 @@
+finding combinations hashset strings 
+stores person stores list people friends person data dave friends steve line line dalton friends bob sue bob sue necessarily friends program input bob sue friends words bob added sues friend list sue added bobs friends list daltons friends list infinite amount people allowed store friend list data solution havent edit method strong runner class method called called strong short method reads friendships adds friendship map block thinking add code existing friendlist call heres method solution title thread find combinations friendlist dalton bob sue dave friend list method finds combinations friendships remember order doesnt matter dont code suggestions 
+
+solution equivalent href http en wikipedia org wiki disjoint set data structure rel nofollow disjoint set data structure friends end sets set friends set tricky part implementing data structure merging sets discover people sets friends naive implementation 

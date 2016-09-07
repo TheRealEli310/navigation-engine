@@ -1,0 +1,4 @@
+skip test iterations testng dataprovider 
+testng dataprovider read datapool xls file test cases columns class called readdata pass string parameters test annotation separate class called enterdata created loop test perform actions ceratin iterations work entering test cases total problem end run shows total tests run loop realize shows total number tests run entire datapool technically passed ran datapool figure show number tests ran basically put test annotation loop possibly edit current code reading datapool readautodata class edit heres test cases show skips adding beginning loop showing tests run 
+
+strong achieve understand testng framework executes strong means ol li solution count test cases skipped li li number tests number rows returned method li ol strong solution return correct number test cases method annotated strong work running test concurrently small modification 

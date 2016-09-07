@@ -1,0 +1,4 @@
+jscrollpane add jpanel jtable 
+googled hours issue work jtable jpanel inside frame table data database considerable amount data store require jscrollpane code href http stack imgur gr8zy png rel nofollow img src http stack imgur gr8zy png alt enter image description image jscrollpane visible area marked red square data table visible thought add jscrollpane table buttons panel table wanted add panel code great tutorials overcome problem kind mashed appreciated edit noticed added scrolls panel removed resolve issue thought image happened added gridlayout panel href http stack imgur rho1z png rel nofollow img src http stack imgur rho1z png alt enter image description 
+
+firstly dont create jscrollpanes order vertical horizontal scrollbar scrollpane seperated rest components add jtable scrollpane add jpanel original code added empty scrollpanels table jpanel 

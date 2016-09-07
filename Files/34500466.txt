@@ -1,0 +1,4 @@
+min max string list 
+string list alphabetical order solve problem power streams collectors work compiler error blockquote type mismatch convert optional string blockquote explain show 
+
+href https docs oracle javase docs api util stream collectors html minby util comparator href https docs oracle javase docs api util stream collectors html maxby util comparator return href https docs oracle javase docs api util optional html stream empty empty returned result returned default stream empty call youre stream empty directly call retrieve hr side return minimum calling href https docs oracle javase docs api util collections html min util collection resp href https docs oracle javase docs api util collections html max util collection creating stream pipeline throw exception list empty 

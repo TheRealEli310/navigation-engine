@@ -1,0 +1,4 @@
+set delimiter punct excluding quotation mark 
+set scanners delimiter dont quotation mark included list simple exclude quotation mark bracket closing quotation mark 
+
+call method href http docs oracle javase docs api util scanner html usedelimiter util regex pattern rel nofollow matches characters covered double quote escaped 

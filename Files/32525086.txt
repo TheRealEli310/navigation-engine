@@ -1,0 +1,4 @@
+javafx rendering issue osx upgrade 
+app javafx 3d objects working fine upgraded 8u51 8u60 upgrade ui displayed upside test code axis reversed rendering functionality put dprism order sw vm option fixes test problem javafx 3d objects rendered fix javafx issue download install 8u51 read href http stackoverflow questions javafx mac os strange rendering javafx mac os strange rendering href http stack imgur kuras png rel nofollow img src http stack imgur kuras png alt enter image description 
+
+shorter reproduce bug found 8u60 mac href http stack imgur uo19s png rel nofollow img src http stack imgur uo19s png alt balanced antialiasing problem camera antialiasing workaround mac work usual add 3d objects 

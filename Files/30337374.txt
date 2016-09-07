@@ -1,0 +1,4 @@
+fix redirect looping servlet url pattern users 
+problem setting url pattern servlet set users forwart include jsp redirect looping code 
+
+add jsp page made difference directly strong user jsp strong server check user jsp default directory tomcat webserver server checks user jsp webapp folder applications resides user jsp located application jspturorial reference user jsp application give relative path strong user jsp strong server check href http localhost jsptutorial user jsp rel nofollow http localhost jsptutorial user jsp server executing files jsptutorial directory check href http localhost user jsp rel nofollow http localhost user jsp path 

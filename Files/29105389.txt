@@ -1,0 +1,4 @@
+maven clover2 triggers duplicate class exception 
+reference jira ticket href https jira atlassian browse clov rel nofollow https jira atlassian browse clov problem similar posted jira dashboard maven projects source directory default directories added build helper plugin clover2 setup goal instruments source folders sets generated directories source folders maven project results compile errors source files present clover instrumented sources original location heres build helper maven plugin clover2 plugin build profile clover plugin build compiles fine adding clover plugin errors duplicate classes found missing 
+
+caused fact youre clover2 instrument clover2 setup goal clover2 instrument forks custom build life cycle build cycle performs instrumentation validate phase due fact add source goal bound generate sources phase build helper maven plugin runs clover suggest clover2 setup bounded validate initialize phase generate sources 

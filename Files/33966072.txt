@@ -1,0 +1,4 @@
+add external library spring mvc framework gradle pyramidio 
+trouble adding external library pyramidio spring mvc program project github page pyramidio shows add repository maven gradle gradle build works figure import project statements heres import gov nist isg pyramido big fan repositories work internet connection thought simply adding jar pyramidio find github download properly compile jar library project 
+
+download releases project page href https github nist isg pyramidio releases rel nofollow github youve downloaded place project path add dependency import resolved clear usefull dont worry internet connection youre repositories gradle local dependencies cache dowloaded library line project build dependency provided 

@@ -1,0 +1,4 @@
+multi threaded server sending receiving data clients time 
+server receive data client send clients connected looked internet fails server run single port send strings format clients receive split server threaded support multiple clients 
+
+managed solution scales guess works clients perfectly create thread client thread infinite loop waits queue items queue empty client threads blocked busy waits message broadcasted add message queue clients 

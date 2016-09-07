@@ -1,0 +1,4 @@
+refresh parent window closing child window javafx 
+parent window displays people firsname john lastname brown age click edit button child window opens change click accept child window closes mysql database saved parent window shows values refresh method works call child window set called closing child window parent child windows controller fxml appreciated 
+
+h2 james ds answer em em h2 strong james strong href http docs oracle javase javafx api javafx stage window html onhiddenproperty rel nofollow href http docs oracle javase javafx api javafx stage window html oncloserequestproperty rel nofollow call called hr h2 answer h2 make invoke close request child form implement close button child stage 

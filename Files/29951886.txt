@@ -1,0 +1,3 @@
+convert jspinner int 
+windowbuilder create gui kinda jframe problem added jspinner save number put spinner int 
+

@@ -1,0 +1,4 @@
+builder pattern nested objects created builders 
+lets assume objects created builder pattern nested usage simple common make update child id due late binding errors thrown parent builder build method 
+
+pass instance instance change properties simply construct concerned design builders ddd ubiquitous language builder part choice introduce technical concepts design forgetting ddd building blocks blockquote builders validation domain entity app parent longer child tahar bakir comments blockquote rules describe encapsulated enforce construction domain concepts implemented objects classes work concepts strings 

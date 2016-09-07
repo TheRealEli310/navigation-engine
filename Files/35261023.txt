@@ -1,0 +1,4 @@
+jni error lang unsatisfiedlinkerror xxxx 
+rough time today basically integrate project precompiled binaries work perfectly run file telling locate added path build path system path started experiencing documentation means library test program running looked forums talked author resolve issue similar problem fix advance 
+
+href https github openalpr openalpr blob master src bindings src openalpr jni alpr rel nofollow openalpr jni alpr line find method matched header href https github openalpr openalpr blob master src bindings openalpr jni alpr rel nofollow openalpr jni alpr experiencing method signature method returns takes parameters type broke examples added workspace check package names aware dll compiled recommend learn jni concepts href https www3 ntu sg home ehchua programming javanativeinterface html rel nofollow find good starting point 

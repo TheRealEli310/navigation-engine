@@ -1,0 +1,4 @@
+single observable notify sequentially observers 
+coded based everytime client add element list observers notified method subject coded sample observers subscribed noticed notification sequential blocking observers subscribed ul li observers notified order subscribed li li observer blocking observer notified previous ended execution li ul dont care id invocation sequential understand notification blocking make blocking code 
+
+blockquote understand notification blocking blockquote implementation rxjava assumes executing method observer fast cheap calls methods observers introducing concurrency blockquote make blocking blockquote subscribing observers insert scheduler depending calls executed thread pool 

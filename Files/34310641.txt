@@ -1,0 +1,4 @@
+configuring postgresql driver spring xml datasource 
+configure connections made postgresql datasource declared xml spring configuration file shouldnt class spring move c3p0 dbcp real pooling set sockettimeout postgresql connection href https jdbc postgresql org documentation head connect html rel nofollow https jdbc postgresql org documentation head connect html sockettimeout property datasource doesnt work datasource xmls configuration data source manages connection dont ill drivermanagerdatasource search didnt find usefull lot people 
+
+deinum find knowing property named connectionproperties didnt found lot answers people rarely posting complete answer ill check 

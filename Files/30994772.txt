@@ -1,0 +1,4 @@
+unable edit netbeans conf 
+modify em netbeans conf em located path program filesnetbeans 2etc modify file add notepad allowing save original file notepad em echeck file opened program em netbeans installed path program filesnetbeans modify file issue privileges 
+
+copy file paste desktop edit paste program filesnetbeans location works 

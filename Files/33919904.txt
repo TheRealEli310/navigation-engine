@@ -1,0 +1,4 @@
+spring boot oauth2 sso return redirect authorization server 
+spring boot autoconfiguration oauth2 spring boot href https spring io guides tutorials spring boot oauth2 rel nofollow spring guide nice examples achieve solution problem bases provided href https spring io guides tutorials spring boot oauth2 social login click rel nofollow click redirected authorization server visiting login endpoint request protected resource authentication unauthorized instant redirect authorization uri code click adding custom authenticationentrypoint full source code click found href https github spring guides tut spring boot oauth2 tree master click rel nofollow github achieve redirect 
+
+spring boot impossible due issue order applying custom configurers combination href https github spring projects spring boot issues rel nofollow resolution starting spring boot request header signals caller prefers 

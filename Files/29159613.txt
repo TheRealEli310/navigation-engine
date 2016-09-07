@@ -1,0 +1,4 @@
+hashcode equals methods contract 
+override method override dont understand strong strong strong joshua bloch book strong written strong strong deal hash based collections crucial satisfy strong em hashcode contract em strong admit dealing hash based collections required 
+
+joshua bloch book blockquote common source bugs failure override hashcode method override hashcode class overrides equals failure result violation general contract object hashcode prevent class functioning properly conjunction hash based collections including hashmap hashset hashtable blockquote failing override hashcode overriding equals violation contract object hashcode wont impact objects hash based collection prevent developers object eligible element collection provide support collections dont strong half baked strong objects project fail anytime future caught contacts implementing 

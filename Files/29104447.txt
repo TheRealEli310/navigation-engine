@@ -1,0 +1,4 @@
+spring boot multi module testing 
+question testing multi module spring boot application multi module spring boot rest application application structured application structured springbootmainapplication main project springbootmodule subproject inside springbootmainapplication springbootmainapplication war war built springbootmodule jar inside war separate test cases projects make projects individually testable test cases springbootmainapplication performing test cases springbootapplicationinitializer test cases springbootmodule performing test cases springmoduleinitializer packaged war springmoduleinitializer play bearing achieve completely avoid springmoduleinitializer perform unit tests module integration testing springbootapplicationinitializer gradle build packaging 
+
+understand correctly springmoduleinitializer src main jar dependency root project dont spring app guess test submodule independently move em springmoduleinitializer src main test em show war 

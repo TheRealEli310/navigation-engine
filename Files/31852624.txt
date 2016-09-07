@@ -1,0 +1,4 @@
+jvm parameters whilst creating executable jar executing jar 
+strong em building em strong executing executable jar 81k clases building jar file big gradually slowing building process thrown give jvm building jar extra memory headroom blockquote jar blockquote command accept command line parameters setting em em helped jar command work clear fact applied 
+
+setting strong strong resolve issue answers vote close jumped conclusions op em executing em jar file problem stated op tens thousands classes include overwhelming default jvm settings leading oome watch command slow end gave adding jvm opts issues strong building strong jar 

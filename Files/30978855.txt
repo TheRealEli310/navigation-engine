@@ -1,0 +1,4 @@
+veracode xml external entity reference xxe 
+finding veracode report improper restriction xml external entity reference xxe cwe id referring code bellow researching havent found reason finding making disappear 
+
+href https www owasp org index php xml external entity xxe processing rel nofollow owasp guide xxe disabling features disable importantly 

@@ -1,0 +1,4 @@
+parallel sort slower serial sort 
+reading features arrays parallelsort method made tests sorting array doubles strings strings parallelsort slower content test method strings result code computer result computer run tests i5 cpu idea kind results 
+
+benchmark tells important things microbenchmark ul li give jit chance optimize code running tests multiple times li li input sizes li li print results prevent jit optimizing calls li ul points fact em em points consult href http stackoverflow questions write correct micro benchmark write correct micro benchmark information profound information tools href https code google caliper caliper href http openjdk net projects code tools jmh jmh effort create microbenchmark shows rough indication actual performance strong simplest strong forms microbenchmark reasonable option trade effort jmh benchmark running reliability results test print showing parallel sort em em faster 

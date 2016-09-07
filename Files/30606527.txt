@@ -1,0 +1,4 @@
+twitter package identifier resource number 0x00000000 
+implement twitter login android app instructions href https dev twitter twitter kit android twitter login rel nofollow https dev twitter twitter kit android twitter login call fabric twitter authconfig exception occur redo process fabric plugin android studio redo steps manually problem persists exception occur tap login button code androidmanifest xml mainactivity loginactivity hr idea loosing time dont twitter app installed supposed work webview 
+
+found issue exception apparently problems androidmanifest xml missing attribute android icon hope 

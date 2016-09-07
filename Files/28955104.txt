@@ -1,0 +1,4 @@
+pig h2 jar dependency build gradle 
+maven dependency project provide em em em group id em em version em dependency project save href http search maven org artifactdetails org apache pig pig jar rel nofollow pig multiple jars artifact proper nomenclature maven specifically provide dependency downloaded h2 jar correct work version hadoop gradle generally maven compile dependency requires em exact jar em included classpath 
+
+em href https gradle org docs current userguide dependency management html classifier rel nofollow classifier em script job 

@@ -1,0 +1,4 @@
+unsatisfiedlinkerror compiling api21 
+project ndk r10d code compile project api19 works great compile api21 crashes runtime lib loaded blockquote dlopen data app lib app libmycode failed dlopen failed locate symbol stpcpy referenced libmycode blockquote crashes blockquote lang unsatisfiedlinkerror dlopen failed locate symbol stpcpy referenced libmycode blockquote oneplus running android4 test cases ideas 
+
+android libc headers changed api functions didnt exist previously redirected functions older headers build api run older devices great care work issues newer native apis api compatible older devices manual work achieve newer api side set separate building side newer sdk href http stackoverflow questions load library reloc library1285 locate rand load library reloc library locate rand details issue 

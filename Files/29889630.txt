@@ -1,0 +1,4 @@
+sharepoint rest service found 
+unauthorize execption connecting share point rest web service errors reading url 
+
+add request property request method solved problem 

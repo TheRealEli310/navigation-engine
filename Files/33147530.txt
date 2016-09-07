@@ -1,0 +1,4 @@
+jnlp nosuchmethodexception 
+struggling issue class main method works perfectly fine ran eclipse matter jar maven jar plugin run jnlp file manage work error main method package main method public static returning type void array strings parameter order generate jar file pom include finally jnlp including codebase correctly required resources correctly jar file em main true em attribute checked manifest file jar strong main class package ishere mainclass strong give hint check nuts package class aint real advance edit mainclass code request applet converted stand application update managed make work running main jar added classpath maven manifest command prompt ran yay worked matter havent managed run straight jnlp nosuchmethodexception 
+
+finally solve big deal jnlp syntax wasnt correct induced nosuchmethodexception didnt read parameters stuck solution rebuild completely jnlp set parameters worked spent time reading stuff 

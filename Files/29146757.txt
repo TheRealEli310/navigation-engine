@@ -1,0 +1,3 @@
+set windowtranslucentstatus true android lollipop higher 
+id set windowtranslucentstatus true user lollipop kitkat app bar appears inside system bar lollipop fine making separate styles xml version apparently shouldnt anymore set code mainactivity dont hot windowtranslucentstatus ideas 
+

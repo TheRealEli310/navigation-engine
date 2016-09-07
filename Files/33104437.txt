@@ -1,0 +1,4 @@
+javafx empty window displayed attempt 
+preface newbie javafxml application working perfectly issue simple solution run application empty window href http stack imgur k7aec png rel nofollow empty window resize window order required href http stack imgur ahncy png rel nofollow resized window fxml code 
+
+working days finally solved simply putting entire fxmls structure anchor pane dont solved solved wrapped entire gui anchor pane started working fine 

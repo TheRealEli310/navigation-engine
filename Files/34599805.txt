@@ -1,0 +1,4 @@
+rabbitmq connection close abruptly localhost 
+abrupt connection close issue rabbitmq localhost dev testing scenario development environment rabbitmq installed developers windows machine connect client spring amqp library works fine point time connection dropped message rabbitmq log client log exception client start create dynamic queue attach consumers connection drop queue removed subsequent attempt recreate fails exception problem rabbitmq spring amqp interesting thing qa production environment rabbitmq installed separate server appreciated 
+
+fails queue listen anymore isnt queue drop dynamic queue manually recreate manually dont follow bean contract dont choice create manually dont worry listener case reconnect correctly queue back strong update strong starting version spring amqp emitted attempts catch listener container declare back container queue isnt bean wont redeclared automatically 

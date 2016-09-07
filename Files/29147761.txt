@@ -1,0 +1,4 @@
+mail rest api send message error 
+send message httpclient v4 message provided href https msdn microsoft office office365 api mail rest operations messageoperationssendmessages rel nofollow constantly error error code errorinvalidrequest message read request body code wrong suggest 
+
+url correct headers http method payload wrong format wrong nesting elements service responds correct message payload ready code properly escaped strongly encourage library converting pojos jsonrepresentation href https code google google gson rel nofollow gson href https github fasterxml jackson rel nofollow jackson 

@@ -1,0 +1,4 @@
+simpledateformat behaviour change android marshmallow 
+encountered issue date formatting android marshmallow code throwing exception noted pure library built separately application api requests client library built related code trimming code worked good days froyo unit tested marshmallow throws exception offset space explain failure em update em switched joda time spat informative error message pm aspect string parsed back href https docs oracle javase tutorial i18n format simpledateformat html rel nofollow docs 
+
+uk locale appears definitions pm altered marshmallow uk locale represented pm offer explanation locale works pm uk strong edit strong appears part locale updates march locale pm definitions replaced href https android googlesource platform external icu 1b7d32f919554dda9c193b32188251337bc756f1 5e icu4c source data locales en gb txt source diff 

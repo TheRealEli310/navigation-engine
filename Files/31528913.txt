@@ -1,0 +1,4 @@
+minimax connect ai trouble 
+making connect ai game continues spaces filled br score row point feel stumbled feels terrible code attempted input wrong evaluation function point row find state main function calls min function start things depth attempting return column heuristic hope provided information insight 
+
+allright implementing methods shown evaluation playmove remove debug assuming functions implemented correct version mistake call evaluation function depth reach depth leaf minimax tree board evaluated returned excactly minimax modification parts min max shuold allright problems feel free 

@@ -1,0 +1,4 @@
+fix canvas recycled bitmap error 
+creating show grid pictures selecting open activity transition glide library load pictures transition awful reloads picture activity save cache transition code picture doesnt load throws canvas runtimeexception log code open activity save picture cache fix issue advance 
+
+suspect bitmap recycled state chance draw quick solution call strictly required href https developer android training displaying bitmaps manage memory html recycle android reclaim memory forcefully youll find check bitmap longer needed chance finish drawing operations 

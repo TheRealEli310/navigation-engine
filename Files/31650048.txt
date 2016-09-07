@@ -1,0 +1,4 @@
+long overflowing minimum type 
+code returns number nodes tree complete binary tree layers tall odd thing input function minimum produces back back caused overflow shouldnt give back minimum javas long amount overflowed input give passed return seemingly random number id expect overflow debug recursive interested evaluated function reached base case 
+
+correct overflow error bit signed integer reason minimum integer doubling simply adding href https en wikipedia org wiki 27s complement twos complement double binary simply perform left shift number twos complement add returning result 

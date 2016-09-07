@@ -1,0 +1,4 @@
+binary serializing fails jackson 
+jackson convert json object good hazelcast distribute objects cluster beans io serializable read object json exception hazelcast wondering fasterxml jackson databind deser impl typewrappeddeserializer coming object plain bean inheritance abstract class child idea serailizer serialize mixins part bean make serializable test luck 
+
+stupid serialization chain completely unnecessary objectmapper object hard find posting object real reason object stacktrace fasterxml jackson databind deser impl typewrappeddeserializer exception completely miss leading clustered software painful debug 

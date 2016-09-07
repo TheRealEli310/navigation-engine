@@ -1,0 +1,4 @@
+spring boot injecting facebook bean returns null 
+connect spring boot app facebook spring social integration facebook href https spring io guides gs accessing facebook rel nofollow https spring io guides gs accessing facebook build gradle includes line application properties br spring social facebook appid br spring social facebook appsecret controller restcontroller single page app restcontroller calling method button front end error null pointer exception occurs debug mode facebook object null line 
+
+happened downgrade spring boot maven plugin needed gradle 

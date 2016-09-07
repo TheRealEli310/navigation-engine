@@ -1,0 +1,4 @@
+javafx splash screen showing 
+developing application show splash screen seconds problem splash window blank seconds splash image shown main stage appeared screen appreciated heres code problem splash image shown window stage shown 
+
+strong strong call sleep javafx application thread hang ui happening code href http docs oracle javase javafx api javafx animation pausetransition html rel nofollow dont call call stages function windows real reasons forgo functionality window hr work splash screen displayed computationally intensive task load hobbits pie find dwarves case javafx concurrency utilities demonstrated href https gist github jewelsea rel nofollow splash screen sample 

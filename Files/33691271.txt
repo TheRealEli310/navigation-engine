@@ -1,0 +1,4 @@
+join query hibernate sql queries support iteration 
+hibernate sql query works perfectly items isoccupied porting hibernate return posti disponibili exception solve find equivalent hql query 
+
+suggest href http docs jboss org hibernate orm api org hibernate query html uniqueresult rel nofollow query uniqueresult give single result return single result 

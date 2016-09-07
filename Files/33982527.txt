@@ -1,0 +1,4 @@
+stop fragments actionbar viewpager 
+image updates fragment textview written actionbar make text sits tabbar youd expect href http stack imgur 4hsdr jpg rel nofollow img src http stack imgur 4hsdr jpg alt enter image description main activity layout coordinatorlayout typical appbarlayout viewpager viewpager filling screen understand change layout fragment sits tabs fills remaining part screen activity main xml fragment updates xml androidmanifest xml styles xml 
+
+correctly identified part problem comments inherits current layout file simply tells fill entire screen top content photo strong edit strong realised posting advice quotes isnt relevant question stands important create collapsing toolbar behaviour blockquote resolve assign behaviour content layout nested scrolling wrapping layout file fragments inside inside blockquote additionally adding 

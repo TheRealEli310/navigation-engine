@@ -1,0 +1,4 @@
+spring restcontroller 
+extend spring hibernate jpa href https github fruzenshtein spr data rel nofollow sample code github working add restcontroller json listing objects attempts successful existing continues work fine recognised requests result 404s simple package existing expect picked component scan made code missing edit forgot mention upgraded spring version pom xml release app works restcontroller 
+
+spring href https docs spring io spring docs current javadoc api org springframework web bind annotation restcontroller html rel nofollow annotation documented exist version youve kind classpath pollution make annotation picked wont working web mvc version link points strong update strong downloaded linked project tested removing repository data related classes tomcat made work pom file pre class lang xml prettyprint override class returning fake shop string list json 

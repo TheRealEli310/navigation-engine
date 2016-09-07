@@ -1,0 +1,4 @@
+compare csv files fetch data 
+csv files master em csv file records em em dailycsv file records em dailycsv files misses columns fetched master csv file dailycsv file mastercsv file read files match records present master file fetch write csv file achieve 
+
+current parsing approach painfully slow csv parsing library dedicated speed things href https github univocity univocity parsers rel nofollow univocity parsers process 500k records solve problem h3 lets define utility methods read write files h3 h3 start reading daily csv file generate map h3 h3 code generate map list daily records h3 h3 map records process master file generate list updates h3 h3 finally merged data write file h3 work charm hope helps disclosure author library open source free apache v2 license 

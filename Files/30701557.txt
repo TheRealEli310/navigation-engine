@@ -1,0 +1,4 @@
+base64 encode script user data aws sdk api 
+turn bash script file base64 encoded string work amazons api code expresses results exception caused amazonaws amazonserviceexception invalid base64 encoding user data service amazonec2 status code error code invalidparametervalue edit amazonaws util base64 encodeasstring quells exception script doesnt execute string formatted carriage returns 
+
+encoding encoding class provided amazon strong amazon webservices common encoding strong api encodebase64 returns encoded data 

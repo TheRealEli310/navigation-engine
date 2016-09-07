@@ -1,0 +1,4 @@
+arrayindexoutofboundsexception issue glassfish resolve 
+linux glassfish deploy war project made eclipse kepler error deploying server log find strong dont understand arrayindexoutofboundsexception appearing error doesnt exist debug project eclipse strong strong edit1 strong requested pom xml pom xml wanst post 
+
+found solution creating project machine jdk8 deploy machine glass fish version running jdk6 simply switched glass fish version jdk8 running 

@@ -1,0 +1,4 @@
+netty write channel writable 
+href http normanmaurer presentations twitter meetup netty slides html rel nofollow determine strong writability strong channel call write channel strong writable strong correct effect writability channel call write 
+
+data written underlying socket call flush call flush iswritable continue return false oome call flush depends buffer flush 

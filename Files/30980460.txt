@@ -1,0 +1,4 @@
+client doint http post tls 
+consumed payment gateway http post payment gateway changed tlsv1 http post code tls v1 current server tomcat sources move true guide httppost tls v1 refrence 
+
+blockquote sources move true blockquote move jdk6 supports tlsv1 img src http stack imgur z2y5c png alt supported tls protocols jdk version cf href https blogs oracle platform group entry diagnosing tls ssl https rel nofollow https blogs oracle platform group entry diagnosing tls ssl https tlsv1 tls1 href http docs oracle javase docs technotes guides security sunproviders html tlsprotonote rel nofollow default enabled client connections blockquote sunjsse se release supports tls tls version enabled default client connections servers implement forward compatibility correctly refuse talk tls tls clients interoperability sunjsse enable tls tls default client connections blockquote 

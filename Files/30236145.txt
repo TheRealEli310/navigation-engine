@@ -1,0 +1,4 @@
+catch org hibernate staleobjectstateexception 
+catch staleobjectstateexception catch block staleobjectstateexception method throwing error coming catch block throwing exception reason exception coming catch exceptiion proceed 
+
+catch exception problems occur exception propagate place catch ul li thrown thread li li stack thrown exception li ul judging stacktrace id explanation original exception caught created wraps exception specifically handle original exception catch superclass call exception objects extract original exception diagnosis 

@@ -1,0 +1,4 @@
+stream optionals optional stream 
+convert output empty empty functional solve problem collect method success 
+
+tricky thing youre stateless avoid redundant copying catch simple inversion find empty element traverse consumes youre source stream traverse collecting interesting approach prone race condition thread adds empty element problem 

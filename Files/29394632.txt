@@ -1,0 +1,4 @@
+javafx circle object registering mouse events properly 
+user drag move circles pane circles dont register mouse events defined end exact code empty pane works fine change works fine manipulate circles ideas hide part circle overlaps adjacent elements center close pane border code hand supposed thing works perfectly 
+
+posted id show mine general ways works shows drag circles bind node line modified drag circles drag line separately node handled differently case problems hr general advisable add node order understand events happen check console output screen hr main problem mustnt set fill null case click event wont registered color transparent verify event difference mentioned method 

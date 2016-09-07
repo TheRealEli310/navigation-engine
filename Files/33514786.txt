@@ -1,0 +1,4 @@
+spark submit code 
+spark submit code referring href https github mahmoudparsian data algorithms book blob master misc submit spark job yarn code md rel nofollow https github mahmoudparsian data algorithms book blob master misc submit spark job yarn code md code pom xml dependency section ant appreciated 
+
+shared pom xml problem version spark yarn library replace version spark core spark dependency youll needing incompatible version libraries scala wise important specific scala compiled version dependency careful 

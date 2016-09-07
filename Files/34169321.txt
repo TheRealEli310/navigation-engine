@@ -1,0 +1,4 @@
+spring autowired wire jpa repository 
+missing making simple app inluded face follwing error code application pom xml controller personservice personserviceimpl personrepository autowired searched web didnt found thing ideas 
+
+problem solved solution entity classes repositories package annotations pre class lang prettyprint override 

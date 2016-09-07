@@ -1,0 +1,4 @@
+convert html string org w3c dom document 
+convert html string blockquote org w3c dom document blockquote blockquote jtidy r938 jar blockquote code library work incorrectly tag lost good open library task 
+
+dont library doesnt give good result working regularly html files extract data main problem encountered fact tags valid closed solution found resolve api htmlcleaner href http htmlcleaner sourceforge net index php rel nofollow htmlcleaner website make html file formed transform document w3c strict format file easier htmlcleaner refer domserializer htmlcleaner 

@@ -1,0 +1,4 @@
+sqlite3 connection failing 
+trouble connecting script sqlite3 database directory holding script inside directory files code classpath inside bin directory sqlite jdbc driver connect script postgresql database isnt connecting sqlite3 error message wrong 
+
+found answer fix compile script normal driver executing run fine 

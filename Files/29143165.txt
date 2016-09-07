@@ -1,0 +1,4 @@
+sorting arraylist created generic class 
+created class called generic type basically store pairs store type sort potentially search elements arraylist based print arraylist class 
+
+heres working code features swapped youre restricted lower version hope helps duncan 

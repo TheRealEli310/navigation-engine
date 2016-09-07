@@ -1,0 +1,4 @@
+javamelody monitoring path param jdk upgrade 
+upgrade java7 java8 u60 javamelodys param defined log information exploring javamelody guide found monitoring section defined path upgrade default location experiences issue conf technologies em javamelody apache tomcat spring em 
+
+mentioned comment solution href https code google javamelody issues detail id c4 rel nofollow issue ul li config javamelody default javamelody configured jar file context params override settings li li filter monitoring case filter settings settings application activated li ul 

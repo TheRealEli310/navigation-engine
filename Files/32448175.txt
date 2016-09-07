@@ -1,0 +1,4 @@
+write guice module spring framework configuration 
+wondering sort compromise allowed emulate leverage google guice style edsl writing modules binds interfaces implementations spring google guice module looked binds interface implementation utilizing springs configuration class wondering broke increasingly complex usage google guice dependency injection kind spring lot dependency injection mechanism nice guice undeniably great projects utilize spring data spring data rest eliminate writing ton boilerplate code 
+
+include implementations interface simple easily extended interfaces multiple implementations production declare profiles active start application context 

@@ -1,0 +1,4 @@
+overwriting spring boot autoconfiguration 
+bit confused behaviour spring boot overwriting specific autoconfigurations partly overwrite batchautoconfiguration guess question specific batchautoconfiguration overwrite methods class written code package ch test autoconfig autoconfigure mentioned code exact annotions class methods definend exception adding precedence batchautoconfiguration assumed kind overwrite original test pom xml simple job main method expect overwritten methods called auto configuration report states javabatchautoconfiguration class negative match missing joblauncher instance report states original batchautoconfiguration class positive match check comment class method works expected explanation behaviour hansj rg 
+
+making complex thing create configuration defines specific beans 

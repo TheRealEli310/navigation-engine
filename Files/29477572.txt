@@ -1,0 +1,4 @@
+hadoop single node cluster error 
+step installing hadoop website href https www digitalocean community tutorials install hadoop ubuntu rel nofollow https www digitalocean community tutorials install hadoop ubuntu steps fine step start hadoop lot errors errors 
+
+user account doesnt correct permissions directory hadoop failing create logs running username username command 

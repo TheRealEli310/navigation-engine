@@ -1,0 +1,4 @@
+resource files webapp web inf src main resources 
+project xmls convention kind file location 
+
+src main resources application library resources servlet specification web inf special directory exists application hierarchy named web inf directory things related application aren document root application web inf node part public document tree application file contained web inf directory served directly client container contents web inf directory visible servlet code getresource getresourceasstream method calls servletcontext exposed requestdispatcher calls 

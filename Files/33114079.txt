@@ -1,0 +1,4 @@
+junit assume command put inside setup method ignore tests 
+set test cases entire file condition met setup method ensure precondition false test run entire file setup method hope test run end goal condition met ignore tests file ignore expert opinion dont assume method affect tests file called 
+
+thinking good practice understand annotation put tests quarantine conditioning flag implement href https gist github yinzara rel nofollow https gist github yinzara annotation details href http www codeaffine junit rule conditionally ignore tests rel nofollow 

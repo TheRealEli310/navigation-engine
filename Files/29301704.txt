@@ -1,0 +1,4 @@
+apache spark simple word count sparkexception task serializable 
+tests apache spark v1 simple class run exception mi pom file run class eclipse wrong strong edit strong mark91 replacing line exception 
+
+reason classes precessing objects stored rdd classes functions passed spark means implement interface provide serialize kryo dont lambda function defining considered serializable due fact takes parameter make working defining comaprator passing instance function parameter 

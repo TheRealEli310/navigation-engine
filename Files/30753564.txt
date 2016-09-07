@@ -1,0 +1,4 @@
+excel display decimal opening exported csv file 
+export csv file wrong content type opened excel object excel sheet displays omits decimal works fine problem caused solve 
+
+code verbose force text format href http stackoverflow http stackoverflow verify solution works open notepad enter save desktop double click 

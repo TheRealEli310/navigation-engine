@@ -1,0 +1,4 @@
+dynamic grouping specific attributes collection stream 
+group list objects mulitple attributes collection stream works pretty make dynamic string array list groupby call make groupby method dynamic 
+
+main problem making code dynamic dont advance elements group case group elements works lists equal elements equal order case grouping type module group list consisting data type module part code transforms array field names href https docs oracle javase docs api lang invoke methodhandle html field retrieved field obtaining lookup href https docs oracle javase docs api lang invoke methodhandles html lookup handle field href https docs oracle javase docs api lang invoke methodhandles lookup html findgetter lang class lang string lang class blockquote produces method handle giving read access static field blockquote rest code creates classifier group handles invoked data instance return list collected serve classifier sample code output overriden return 

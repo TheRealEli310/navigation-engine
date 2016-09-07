@@ -1,82 +1,87 @@
 package com.adaptiveWeb;
 
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Servlet implementation class Login
- */
+import com.db.DBConnector;
+import com.db.UserTags;
+
 @WebServlet("/Login")
 public class Login extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
-    public Login() {
-        super();
-        // TODO Auto-generated constructor stub
-    }
 
-	/**
-	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
-	 */
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+	public Login() {
+		super();
 	}
 
-	/**
-	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
-	 */
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		try{
-		doGet(request, response);
-		String type = request.getParameter("type");
-if(type!=null && type.toLowerCase().equalsIgnoreCase("signup"))
-{
-	String fName = request.getParameter("fName");
-	String lName = request.getParameter("lName");
-	String pwd = request.getParameter("pwd");
-	String emailId = request.getParameter("emailId");
-    //Authenticate the user and set email Id
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		doPost(request, response);
+	}
 
-User user =new User();
-user.setEmailId(emailId);
-user.setfName(fName);
-user.setlName(lName);
-
-request.getSession().setAttribute("user", user);
-    response.sendRedirect(request.getContextPath() + "/main.html");
-	//Store in Database
-   // request.getRequestDispatcher("/WEB-INF/main.html").forward(request, response);
-
-}
-if(type!=null && type.toLowerCase().equalsIgnoreCase("login"))
-{
-	String pwd = request.getParameter("pwd");
-	String emailId = request.getParameter("emailId");
-	//validate user
-    //Authenticate the user and set email Id
-    User u = new User();
-    u.setEmailId(emailId);
-
-request.getSession().setAttribute("user", u);
-    response.sendRedirect(request.getContextPath() + "/main.html");
-}
-		}
-		catch(Exception e)
-		{
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		try {
+			DBConnector dbConn = new DBConnector();
+			String type = request.getParameter("type");
+			if (type != null && type.toLowerCase().equalsIgnoreCase("signup")) {
+				String firstName = request.getParameter("firstName");
+				String lastName = request.getParameter("lastName");
+				// String password = request.getParameter("password");
+				String username = request.getParameter("userName");
+				if (dbConn.isUserNameAvailable(username)) {
+					User user = new User();
+					user.setFirstName(firstName);
+					user.setLastName(lastName);
+					user.setUserName(username);
+					int userID = dbConn.getNewUserID();
+					dbConn.createNewUser(userID, username);
+					request.getSession().setAttribute("user", user);
+					request.getSession().setAttribute("userID", userID);
+					response.sendRedirect(request.getContextPath() + "/main.html");
+				} else {
+					// User Name exists - show error message
+					response.setContentType("text/html");
+					PrintWriter out = response.getWriter();
+					out.println("<HTML><HEAD><TITLE>Access Denied</TITLE></HEAD>");
+					out.println(
+							"<BODY>The username is invalid/already in use. Click <A HREF=\"/AdaptiveNavigationSupport/\">here </a>to go back.");
+					out.println("</BODY></HTML>");
+				}
+			}
+			if (type != null && type.toLowerCase().equalsIgnoreCase("login")) {
+				String username = request.getParameter("userName");
+				// String password = request.getParameter("password");
+				if (!dbConn.isUserNameAvailable(username)) {
+					User user = new User();
+					user.setUserName(username);
+					int userID = dbConn.getUserID(username);
+					ArrayList<UserTags> tags = dbConn.getUserTags(userID);
+					String userTags = dbConn.getTagsforPostCSV(tags);
+					request.getSession().setAttribute("user", user);
+					request.getSession().setAttribute("userID", userID);
+					request.getSession().setAttribute("userTags", tags);
+					//request.getSession().setAttribute("storedTags", userTags);
+					System.out.println(userTags);
+					response.sendRedirect(request.getContextPath() + "/getExplicitData.html");
+				} else {
+					response.setContentType("text/html");
+					PrintWriter out = response.getWriter();
+					out.println("<HTML><HEAD><TITLE>Access Denied</TITLE></HEAD>");
+					out.println(
+							"<BODY>Username does not exist. Click <A HREF=\"/AdaptiveNavigationSupport/\">here </a>to go back.");
+					out.println("</BODY></HTML>");
+				}
+			}
+		} catch (Exception e) {
 			request.getRequestDispatcher("/WEB-INF/login.html").forward(request, response);
-
-			
 		}
-
 	}
-
 }

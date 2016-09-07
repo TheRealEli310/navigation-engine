@@ -1,0 +1,4 @@
+activiti information values custom form type extends enumformtype 
+created custom form type extends presumed id method returns basically values set form property window activiti designer eclipse custom form type jsp code 
+
+ran issue today cents registering custom type create instance default constructor explicitly set values encourage activiti call constructor custom implementation initialization manually make class activiti configure href http mwenus blogspot ch create custom form property html rel nofollow blog post href https github mateuszwenus activiti custom form types rel nofollow code github helped lot 

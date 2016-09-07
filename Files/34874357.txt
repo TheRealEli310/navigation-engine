@@ -1,0 +1,4 @@
+spring boot overriding server port property 
+spring boot project server port set server port property properties server port overridden correctly property configuration bean means classpath application properties default dev properties overridden jvm argument dproperties location applicationconfig server port property defined classpath properties file defaults dev environment fine test port external properties file property logs 
+
+spring actuator project default points change application properties mention management port 

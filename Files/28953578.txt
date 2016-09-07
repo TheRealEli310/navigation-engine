@@ -1,0 +1,4 @@
+camel cxfrs cross origin resource sharing filter configurable origin list 
+question configure cors filter href http stackoverflow questions camel jax rs cross domain request camel jax rs cross domain request mentioned comments ideal solution production placing origin defined set urls dev testing needed configurable setup loose option dev strict testing production show configured cxfrs emeka 
+
+mind found answer make configurable annotations based approach crossoriginresourcesharing class provided filter approach wrap filter class factory implementation built filter factory method referenced spring blueprint normal 

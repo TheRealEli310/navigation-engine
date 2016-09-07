@@ -1,0 +1,4 @@
+web crawler storing visited urls file 
+issues figuring store scan large amounts visited urls web crawler idea number visited urls eventually store memory store file wondering doesnt inefficient batch urls check url visited check visited file line line match thought cache problem remains url found cache check file check file line line url efficient 
+
+key data structure href https en wikipedia org wiki bloom filter rel nofollow bloom filter href http docs guava libraries googlecode git javadoc google common hash bloomfilter html rel nofollow guava implementation bloom filter visited url havent surely result check file visited visit url store file bloom filter optimise file seeks hash url fixed size unfixed string length md5 database hash primary key access time check key exists implement href http www cs sfu ca coursecentral zaiane material notes chapter11 node1 html rel nofollow index 

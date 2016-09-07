@@ -1,0 +1,4 @@
+hibernate reestablish connection lost 
+work hibernate oracle error didnt application period goal reestablish connection lost added code baserootdao make config applicationcontext db xml 
+
+good getsession method br deal connection level datasource connection pool manage connections br answer problem datasource configurations href http commons apache org proper commons dbcp configuration html rel nofollow documentation datasource br guess play time understand parameters datasource link 

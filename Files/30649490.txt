@@ -1,0 +1,4 @@
+javafx imageview 
+clear contents imageview object pixelwriter object redraw image 
+
+argb color model represents transparent creates array length values initialized make pixels transparent pixels white fill array option create set image view 

@@ -1,0 +1,4 @@
+deploying war file microsoft azure web app 
+created microsoft azure web app configured version tomcat latest href https azure microsoft en documentation articles web sites add app rel nofollow documentation uploaded war file homesitewwwrootwebappsroot href http stack imgur bezjr png rel nofollow screenshot directory wen iam access giving error fix 
+
+documentation blockquote upload application placing war webapps folder blockquote tomcats webapp folder copy war files tomcat detects presence files unzip folder chose file copy toto war tomcat home webapps tomcat deployed war file folder root folder special case webapplication served context 

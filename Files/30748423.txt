@@ -1,0 +1,4 @@
+cache array length calculation loops 
+lets array iterate length aray caclulated iteration optimized calculate iterate arrays calculating length advance pass loop 
+
+performance write simplest code test performs element index encourage enhanced loop href http docs oracle javase specs jls se8 html jls html jls rel nofollow jls basically equivalent piece code code talks youre interested em em index assuming dont change jit compiler optimize native code fetch length obtaining length operation basically field array involve hitting memory em eventual em code doesnt em em code wouldnt expect compiler perform optimization id expect jit fact good jit code optimize array bounds checks recognize accesses array object time possibly fail array bounds error avoid check em em thing clever code fetches length jit optimizations deliberately target common code patterns order biggest bang buck iterating array em em common 

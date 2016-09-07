@@ -1,0 +1,4 @@
+define multiple property files resourcebundlemessagesource spring 
+define property files resourcebundlemessagesource resourcebundlemessagesource property files bean file till property file bean injecting em messagesource em access property files bean 
+
+properties files included message source bean access 

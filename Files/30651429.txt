@@ -1,0 +1,4 @@
+popular error org sqlite jdbc 
+error missing jdbc driver install fedora dont add path step step explanation time met problem 
+
+ol li download sqlite jar href http search maven org remotecontent filepath org xerial sqlite jdbc sqlite jdbc jar rel nofollow http search maven org remotecontent filepath org xerial sqlite jdbc sqlite jdbc jar li li add jar file class path open eclipse project properties youll find build path li li run program li ol maven gradle manual dependency management linux package managers limited support 

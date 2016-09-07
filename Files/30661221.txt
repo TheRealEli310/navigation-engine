@@ -1,0 +1,4 @@
+android studio recognize setadapter method 
+understand populate listview making simple app takes string array puts listview created listview object mylistview calling setadapter function object setadapter part turns red error message resolve symbol setadapter source code mainactivity 
+
+remove setcontentview put end code 

@@ -1,0 +1,4 @@
+sftp class net connectexception 
+sftp library called jsch code copy file directory local machine jsch library give error adding cygwin href http stackoverflow questions jcraft jsch jschexception net connectexception connection refused link didnt work 
+
+clear line throwing exception surround jsch action catch jsch add session properties make connection sessionread connect 

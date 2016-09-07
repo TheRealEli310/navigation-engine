@@ -1,0 +1,4 @@
+enable html popover tooltip gwtbootstrap3 
+write text popover bold gwtbootstrap3 make text content written bold normal bootstrap data html true enable html instance lt strong gwtbootstrap3 doesnt work error lt allowed 
+
+add attribute true 

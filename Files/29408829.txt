@@ -1,0 +1,4 @@
+inheritence mapping jpa 
+href http docs oracle javaee tutorial doc bnbqn html rel nofollow jpa specification strategies map inheritance relationship relational model didnt quiet understand statements spec strong single table class hierarchy strategy strong strategy good support polymorphic relationships entities queries cover entire entity class hierarchy strong table concrete class strategy strong strategy poor support polymorphic relationships clarify meaning statements polymorphism affected stratergies advance 
+
+strong single table class hierarchy strong strategy good polymorphic relationships entity query jpa predict entity query entity jpa class class youre table easier create entity adding column table people strong table concrete class strong strategy poor support polymorphic relationships table class create entity create table 

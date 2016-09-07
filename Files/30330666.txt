@@ -1,0 +1,4 @@
+spring mvc form handling object request params 
+assume entities application create html form users process payments instances class create instance controller method add controller method argument filled values form names filled object filled objects save object server page thymeleaf matters 
+
+thymeleaf file long respect field structure class spring smart fill fields controller pass payment object 

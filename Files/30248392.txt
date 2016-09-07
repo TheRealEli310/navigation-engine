@@ -1,0 +1,4 @@
+read txt file system eclipse 
+working problems code chef stuck problem wrong answer test program output reads input text file figure eclipse code 
+
+add folder eclipse project folder add input file read bufferreader bufferedreader br null pass path argument program shown bellow run application run configuration find args add path myinput txt 

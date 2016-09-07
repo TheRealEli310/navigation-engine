@@ -1,0 +1,4 @@
+spring boot multi project maven application context error 
+struggling multi project setup maven spring boot annotations project data access configuration file repositories tests running fine run tests eclipse service project depends data access project configuration run tests service project eclipse working fine run project maven maven acting differently eclipse 
+
+apperently simple error change 

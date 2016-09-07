@@ -1,0 +1,4 @@
+tomcat jndi resouce accessible 
+posts subject resolve situation defined set resources conf server xml globalnamingresources tomcat declared resourcelink tomcat conf context xml web application bound exception understanding resources declared server xml accessible context mapped resourcelink conf context xml loaded web applications resources missing files exception server xml context xml 
+
+post findings problems problem resources internal reference resource bound jndi tree creation resources attempt made resources resolve jndi tree common resource tis time context loading jndi tree context exist error round declare factory method common resource resources reference common resource factory method general principal feel resources resolve resources jndi 

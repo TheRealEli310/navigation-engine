@@ -1,0 +1,4 @@
+spring data mongodb access dynamic fields document 
+spring data mongodb providing strict schema lets document person created bean hierarchy level document dynamic fields hobbies friends create bean document object access dynamic fields hash manner mongorepository support 
+
+href http docs spring io spring data mongodb docs current reference html mongo custom converters rel nofollow documentation 

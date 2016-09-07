@@ -1,0 +1,4 @@
+set holo light theme android application 
+accidentally layout activities dark colored white text inside textviews grey color black text searched internet changed activities holo light holo dark default theme back ps dont problem layouts didnt touch ps manifest styles xml inside values folder 
+
+set activities style give holo dark theme replace 

@@ -1,0 +1,4 @@
+en decryption output card apdus 
+topic card code examples understanding found sample aes usage href https community oracle thread rel nofollow oracle forum problems part understanding code takes data bytes incoming apdu encrypts puts byte array takes data bytes decrypts puts commands dont output data output data correct understand wrong simple command apdu encrypting small text answer 
+
+code oracle forum good follow basic rules memory usage real world slow damage smart card firstly read card tutorials learn apdu structure question href http stackoverflow questions started cards started cards proceed card encryption decryption em em initialize key input command key stored ram means disappears card reset applet selection fit business case wiser generate secret key card store persistent memory keytype 

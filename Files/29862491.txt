@@ -1,0 +1,4 @@
+bodies colliding properly box2d libgdx 
+game box2d dynamic body polygon shape player box2d static body chain shape static box debug renderer showing boxes correctly player collides box top collides side trough polygons static boxes acts weirdly figure whats wrong code player body fixture definition static box body fixture definition edit problem problem setting player position transforming dont make player move push button stop release 
+
+moving smoothest set position itll depends kind movement href https github libgdx libgdx blob master tests gdx tests src badlogic gdx tests box2dtest rel nofollow excellent place start 

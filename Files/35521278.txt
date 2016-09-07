@@ -1,0 +1,4 @@
+printing integer front 
+output output explain process output 
+
+href https docs oracle javase specs jls se7 html jls html rel nofollow jls describes ways define integers blockquote integer literal expressed strong decimal strong base strong hexadecimal strong base strong octal strong base strong binary strong base octal numeral consists strong digit digits strong decimal numeral single digit representing integer consists digit optionally digits blockquote summary integer literal starts assume href https en wikipedia org wiki octal octal decimal conversion rel nofollow octal notation href http stack imgur o6o30 png rel nofollow img src http stack imgur o6o30 png alt octal conversion h1 solutions h1 integer hold dont fancy assign notation doesnt change mathematical point view formatting matters print convert formatter add leading zeroes href http stack imgur ywvdl png rel nofollow img src http stack imgur ywvdl png alt formatter alternatively line method 

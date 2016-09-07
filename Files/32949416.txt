@@ -1,0 +1,4 @@
+implement multi file appender log4j2 
+migrating application find class takes input mode application current thread appends log file creates appender updates log files strong class strong strong appender content log4j xml strong parameters create multi file appender configuration log4j2 
+
+scenario class instantiated times id instance logging respective id file file id values id writing code writing class hr hr configuration log4j2 hr idea href http logging apache org log4j faq html separate log files rel nofollow log4j2 faq href https logging apache org log4j manual lookups html rel nofollow lookups hr custom appender work log4j2 href http stackoverflow questions create custom appender log4j2 question answer good hints proceed 

@@ -1,0 +1,4 @@
+database times waiting free connection 
+play framework version call stored procedure throws exception blockquote strong error strong application error occurred tryning loading pictures gift timed waiting free connection sql sqlexception timed waiting free connection jolbox bonecp defaultconnectionstrategy getconnectioninternal defaultconnectionstrategy bonecp release jar na jolbox bonecp abstractconnectionstrategy getconnection abstractconnectionstrategy bonecp release jar na jolbox bonecp bonecp getconnection bonecp bonecp release jar na jolbox bonecp bonecpdatasource getconnection bonecpdatasource bonecp release jar na play api db dbapi class getconnection db scala play jdbc jar blockquote strong code strong strong application conf strong 
+
+call jdbc driver creates connections close 

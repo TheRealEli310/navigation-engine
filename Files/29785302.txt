@@ -1,0 +1,4 @@
+add action listener buttons loop 
+time button pressed 4x4 grid increments creating 4x4 layout buttons time buttons pressed increment basically creating memory game flip cards match count total amount player solve puzzle 
+
+pretty simple add bit code equivalently version test em em work lemme ill fix youre concerned memory href http stackoverflow questions add action listener buttons loop noredirect comment47700952 christian points creates instance button terrible bad habit handle pun intended making object loop buttons top code youd simply write single created handle events youll create buttons faster doesnt allocate memory object memory efficient uh doesnt allocate memory object case pretty trivial good nonetheless 

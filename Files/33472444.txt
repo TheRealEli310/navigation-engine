@@ -1,0 +1,4 @@
+read stream s3 clojure 
+large file s3 decode parse downloads happen clojure href https github mcohen01 amazonica rel nofollow amazonica library library easily stream read stream read line time decompressed contents json lines ambiguity question concerned reading stream part gzip decoding 
+
+href http docs aws amazon awsjavasdk latest javadoc amazonaws services s3 model s3objectinputstream html rel nofollow extend ol li href http clojuredocs org clojure io reader rel nofollow clojures function li li read data reader clojure ul li href http clojuredocs org clojure core line seq rel nofollow lazy sequence lines makes sense json li li lazy json parser href https github michalmarczyk clj lazy json rel nofollow handle bare stream step safely skipped li ul li ol 

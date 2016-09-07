@@ -1,0 +1,4 @@
+spring security oauth form login 
+configure spring boot application form login verify credentials oauth authorization server sending credentials form login user authorization url resource form login redirects authorization server credentials basic authentication redirects back application providing method doesnt work configuration file configuration work redirect authorized work form login stead redirect oauth2 authorization server 
+
+sso point user authenticates auth server localhost case form login implement client app 

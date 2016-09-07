@@ -1,0 +1,4 @@
+lang illegalstateexception arrayadapter requires resource id textview 
+display values spinner contact number initially displays parsed jsonarray moment click spinner app crashes illegalstateexception array adapter code blockquote spinner customer xml blockquote strong error log strong 
+
+modify adapter class 

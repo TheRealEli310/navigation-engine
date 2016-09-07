@@ -1,0 +1,4 @@
+create dynamic spinner 
+populate area spinner based city selected spinner attached code fell free advance select location layout xml string xml locationselection logcat populate areas spinner2 based city selected spinner1 
+
+working sample bit longer expected works idea text cityspinner resource id string array needed areaspinner code handle item selection onstart event fires h3 mainactivity h3 h3 activity main xml h3 h3 strings xml h3 h2 code animated hamburger menu h2 h3 mainactivity h3 h3 activity main xml h3 h3 styles xml h3 

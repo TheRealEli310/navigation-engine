@@ -1,0 +1,4 @@
+running sample app javaaccessability bit sdk bit windows 
+sample app downloaded makes accessibility access bridge calls successfully returns correct hwnd verified inspect tool bit sdk installed windows bit system code windowsaccessbridge dll behavior vmid acparent returned values read href http stackoverflow questions bit accessibility bit machine similar post didnt solve issue 
+
+worked selecting target platform combination building projects involved windowsaccessbridge dlls lot permutations worked link code load proper dlls worked href https github jdog3 javaaccessbridge net sample rel nofollow https github jdog3 javaaccessbridge net sample 

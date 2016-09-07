@@ -1,0 +1,4 @@
+multiple sql queries jsp 
+bad practice novice creating jsp perform multiple updates statement queries code work update sql jsp heres code div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override var1 var2 div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override doesnt work tomcat localhost running jsp internet explorer href http localhost filename jsp rel nofollow http localhost filename jsp blank screen running suspect issue update query review wrong 
+
+connecting multiple database create connection objects achieve requirement creating single object found executequery method updating record executeupdate method connection object performing dml operations returns integer working jsp code 

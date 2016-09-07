@@ -1,0 +1,4 @@
+tomcat database connection pool issue 
+precondition hostb connectable context xml data connection checked tomcats start throwing errors initialization data connection pool hostb context xml checked database connection errors happening context xml context xml 
+
+initilsize set minidle tomcat open connections initlization sits idle till needed 

@@ -1,0 +1,4 @@
+passing data back previous activity android studio 
+learning open activities class activity runs logic class wanting return directly activity activity run function find matter effectively write back button needing pass string int originally activity activity compare received int int confirm coming source biggest problem taught strong work returning activity oncreate runs instance created creating instance move back function work strong 
+
+startactivityforresult method topic href http stackoverflow questions manage start activity result android manage start activity result android hope helps 

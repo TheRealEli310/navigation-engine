@@ -1,0 +1,4 @@
+recursive json view entity relationship rest controller jpa spring 
+springboot jpa build rest interface strange json returned list products fetched db jpa repository defined controller driving crazy call service recursive output due relationship tables wrong 
+
+youre wrong code level conceptual json serializer ol li product serialize wait category field serializer serialize category field li li category serialize wait products field serializer serialize product list li li product collection product amp product category endless loop untill timeout li ol view skip ol li href https spring io blog latest jackson integration improvements spring rel nofollow li li view pojo return fields product reference category end point collection products li li collection products li ol side youre invoking products bit unusual return list wrapping response map redundant rest clients expect list invoke method 

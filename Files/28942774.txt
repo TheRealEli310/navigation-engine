@@ -1,0 +1,4 @@
+net socket outputstream bufferedoutputstream flush confirmation 
+knowing flush method bufferedoutputstream thread finished successfully case sending simple string net socket code flush method run parallel bufferedreader read method socket output immediately blocked input read resulting resembles deadlock wait output end start reading input em update em serversocket em update em global variable reason read blocking socket waiting made work initial question knowing flush method finished successfully stephen provided answer blockquote based socket outputstream apis normal sort assurance remote application send reply response read local side blockquote reply implemented code sample works 
+
+code reading writing writing append string writing 

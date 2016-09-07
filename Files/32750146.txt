@@ -1,0 +1,4 @@
+mocking class verticle depends 
+playing vert framework library written simple verticle object dependencies managed spring ioc verticle snippet spring configuration snippet working great wanted write tests vertx unit testing mock dao run test npe line triggers exception access dao mockdao injected verticle ideas case strong update strong removing mockito automatically creating classes adding setter method dao changed setup method unit test approach npe strong update strong removed vertx mix testing method dependencies vertx dao class works great interfering mockito 
+
+good news mockito works turns maven command line eclipse messing switched embedded maven maven install command line things started working details answer href http stackoverflow questions succesful build maven showing errors eclipse succesful build maven showing errors eclipse 

@@ -1,0 +1,4 @@
+bouncycastle calculating message digests 
+playing hashing href http www bouncycastle org rel nofollow bouncycastle online installed ide hash text algorithms found href https www bouncycastle org specifications html rel nofollow section algorithms digest algorithms defined section blockquote gost3411 md2 md4 md5 ripemd128 ripemd160 ripemd256 ripemd320 sha1 sha sha sha sha sha3 sha3 sha3 sha3 skein skein skein tiger whirlpool blockquote 
+
+completely edited answer clarification original question hash string sha digest algorithm register bouncycastle jvm apis bouncycastle classes directly apis alternately bouncycastle api directly imo apis portability find library bouncycastle doubtful point 

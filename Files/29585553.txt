@@ -1,0 +1,4 @@
+spring boot resolve view 
+heres spring boot configuration heres gist spring boot application properties controller read gist pom xml error message configured wrong 
+
+encountered error extending wrong class check href https github spring projects spring boot blob master spring boot samples spring boot sample web jsp src main sample jsp samplewebjspapplication rel nofollow link extend class 

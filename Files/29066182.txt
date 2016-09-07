@@ -1,0 +1,4 @@
+configure jersey javax ws rs reuse ssl sessions 
+written test client sends requests tls jersey library hard time figure configure code jersey client reuses ssl sessions make tests faster jersey client default http keepalive meaning tcp connections open reuses doesnt ssl sessions experience code snippet setting jersey client code sending request 
+
+apache connector configure href https hc apache org httpcomponents client ga httpclient apidocs org apache http impl conn poolinghttpclientconnectionmanager html rel nofollow httpclientconnectionmanager depending connections pool long pool disclaimer dont code code work 

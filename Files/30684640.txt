@@ -1,0 +1,4 @@
+standalone ssl web service jax ws jre web server 
+developed simple web service wsgen works fine http ssl working https ssl code located href https alesaudate wordpress develop standalone ssl web service rel nofollow ssl process runs running application eclipse access secure connection failed page view shown authenticity received data verified intermediate ssl wrong keystore explorer tool created jks keystore generated key pair exported key pair pk12 file opened browser imported pk12 cer browser wouldnt unsigned cert jks opened directly code works verified debug eclipse ssl service starts fine error browser difficulty locate logfile kind exception error begin trace issue dont issue ssl issue didnt start greatly appreciated 
+
+sslv3 vulnerable nowerdays browser wont accept server configured option option connect server 

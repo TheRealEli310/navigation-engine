@@ -1,0 +1,4 @@
+inject bean serializable type bean passivating scope 
+learning ee store user session backing bean ide telling error inject bean serializable type bean passivating scope bean stateless ejb code inject ejb backing bean ide intellij idea 
+
+false error ide question apparently isnt smart detect ejb simple cdi jsf managed bean ejbs implicitly serializable youve options ol li ignore itll run perfectly fine li li bow false error ejb class implement li li inject itll inject ejb average ide smart complain serialization ide ejb cdi managed bean li li upgrade ide newer version fixed ability ejbs ee althouth support complete referencing wont work fixed latest ide version claims ee compatible report bug li ol 

@@ -1,0 +1,4 @@
+edit strings xml file content android 
+users enter text settings template android studio display textview set settings activity settings xml retrieve data 
+
+approach correct change resource files runtime strings hard coded string xml file changed runtime suggest read href http developer android guide topics resources overview html rel nofollow understand android framework dont edit file runtime solution problem simple save string user shared preference load int text views 

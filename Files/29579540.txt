@@ -1,0 +1,4 @@
+executing phantomjs inside jar 
+href http phantomjs org download html rel nofollow phantomjs headless testing website bundled inside file decided read write temporary file access absolute path heres code converting referring temporary file works launch phantomjs itll give dont read relative path works fine question read execute jar file workaround reading writing temporary file work 
+
+execute jar entry jar zip file operating systems dont support running executables inside zip file principle boil copy exe zip run exe corrupted youre storing string strings arent binary data theyre utf read straight inputstream string encoding conversion required code reading exe utf converting utf writing back default character set default character set utf machine result mangled data exe isnt valid utf size introduced nio things lot convenience methods common file operations including putting inputstream file temp file api prevent collisions multiple instances app run time 

@@ -1,0 +1,3 @@
+javafx disableproperty conditions working 
+problem loginbutton disabled fields email password empty moment loginbutton enabled enter character field leaving field ideas mistake 
+

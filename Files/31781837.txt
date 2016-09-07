@@ -1,0 +1,4 @@
+running jzy3d demos result classnotfoundexception 
+problem startup jzy3d demo scatterdemo configuration netbeans jzy3d api jzy3d swt log4j gluegen rt latest stable jogl latest stable jdk1 aware change moving javax media opengl jogamp opengl href https jogamp org bugzilla show bug cgi id rel nofollow https jogamp org bugzilla show bug cgi id usual process including jar files project project compiles fine run question redirect javax media opengl jogamp opengl correct resolve problem 
+
+href https github jzy3d jzy3d api blob master jzy3d api src api org jzy3d plot3d rendering canvas voidcanvas l6 rel nofollow code master branch isnt based latest version jogl martin pernollet make replace javax media jogamp rebuild jzy3d test modifications import clauses correct solving simple problem 

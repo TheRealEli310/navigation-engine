@@ -1,0 +1,4 @@
+setting axis series jfreechart 
+jfreechart plot series data xyseries linechart complicating factor data series values typically higher values data series lets series values order magnitude millions series values order magnitude hundreds existence high values data set range plot values data set comprehensible anymore adding axis plot data series axis solve problem jfreechart current code completeness 
+
+manually create jfreechart object chartfactory generate datasets plot setting dataset index customize plot axis renderer heres dummy data datasets magnitude values 

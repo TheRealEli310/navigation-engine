@@ -1,0 +1,4 @@
+copying data dialog box text field jtable 
+project requires user inputs data text fields dialog box accessed menu bar places data text fields jtable problem user clicks dialog box putting information text field dialog box longer visible appears jtable jtable headers info submitted camping registration program classes compile working taking information rv reservation eventually tent reservation classes correspond rv check rv constructor parameters string string check day int days staying string leave day int site number int power needed dialog box class gui table guessing problem actionperformed method site model class information show jtable 
+
+misinterpreting code dont areextracting information user enters dialog extracting information fields held guicampingreg newrv object shouldnt calling methods newrv extract data needed create rv object 

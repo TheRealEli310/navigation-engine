@@ -1,0 +1,4 @@
+setting hibernate property hibernate jdbc batch size explicitly calling session flush 
+batch processing document hibernate href https docs jboss org hibernate orm reference en html batch html rel nofollow https docs jboss org hibernate orm reference en html batch html setting batch size property strong hibernate jdbc batch size strong hibernate configuration file flush clear thing set flushes records batch control batch size loop set strong hibernate jdbc batch size strong property explain difference approaches setting property calling flush explicitly 
+
+understanding loop operate levels loop operates entities choice single customer multiple inserts customer multiple adresses inserts executed simple single inserts loop approach prevent session grow limit hand bundle insert statements identical differ parameter values single statement list parameter sets execution batched statement processed efficient database equivalent single statements 

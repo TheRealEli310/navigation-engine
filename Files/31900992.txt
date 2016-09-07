@@ -1,0 +1,4 @@
+unrecognized vm option 
+running command scrollbar blockquote xms3g xmx3g xmn1g xx targetsurvivorratio xx maxtenuringthreshold xx useparnewgc xx useconcmarksweepgc xx disableexplicitgc xx maxgcpausemillis xx gcpauseintervalmillis strong xx agressiveopts strong xx tieredcompilation xx reservedcodecachesize 1g xx usecodecashflushing xx compilethreshold jar spigot jar blockquote running error blockquote unrecognized vm option agressiveopts agressiveopts error create virtual machine error fatal exception occured program exit blockquote command wrong pinpoint issue 
+
+typo argument youre 

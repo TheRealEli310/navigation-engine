@@ -1,0 +1,4 @@
+chaining asynctasks considered bad practice 
+writing app ol li parses webpage extracts image urls li li decodes shows li ol dont run ui thread 2nd point performed 1st completed chain asynctasks achieve starting method considered bad practice theoretical question code 
+
+wrong chaining multiple emphasise strong strong bring overhead chain overhead dont amount case solution simple perform work separate description doesnt code run lot efficiently hr short operations seconds started response user action perform long running operation background solution description suited work doesnt fall criteria alternative solution 

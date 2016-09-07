@@ -1,0 +1,4 @@
+jframe updating thread sleep 
+creating board game gui jframes jpanels play computer method called showpieces updates board gui changing image icons array buttons laid grid format icons updated methods update gui showpieces method parameter passed time called main issue human make move update gui wait computer makes move loop wins basic code issue human player makes move gui freeze delay moves made time hope makes sense novice threading dont understand 
+
+thread sleep event dispatch thread lock gui wait specific amount time dont sleep event dispatch thread strong href http docs oracle javase docs api javax swing timer html rel nofollow timer strong 

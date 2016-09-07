@@ -1,0 +1,4 @@
+log4j2 configuration found running standalone application builded shade plugin 
+application run maven log4j2 working run jar standalone application shows error log dont understand error shows log4j2 configuration file found complain format configuration file configuration located root directory jar file update jar created maven shade plugin libraries mb run jar arguments 
+
+found href https issues apache org jira browse log4j2 rel nofollow issue problem end advice add shade plugin solve problem 

@@ -1,0 +1,4 @@
+intercept slf4j logging junit test 
+intercept logging slf4j logback readable junit test case 
+
+create custom appender configure logback test xml check logging events test 

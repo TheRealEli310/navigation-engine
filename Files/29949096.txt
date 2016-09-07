@@ -1,0 +1,4 @@
+move log4j properties jar file 
+build file gradle app initially embedded jar file moved modify production updated file embedded jar file reflect filetree windows7 32bit machine start app command log4j find property file embed file jar works idea 
+
+curious class path definition manifest work jars standard work log4j properties 

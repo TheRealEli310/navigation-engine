@@ -1,0 +1,4 @@
+removal values hashmap 
+early stages learning collections remove hashmap leave key deemed bad practice written test check hoping return returns find javadocs answer conundrum understand fyi reasons wanting hashmap store person key ticket person buys ticket theyre added hashmap reference people ticket theyre allowed ticket person ticket longer valid remove key person ticket map person purchase ticket point create key person hashmap ticket find key person add ticket efficient deleting adding time purchase ticket btw tickets mutable theyre values persons immutable 
+
+reason blockquote blockquote map key pair blockquote blockquote pair part map feel map situation bad practice hr suggest alternative make object hold values ticket collection objects change remove ticket getters setters good object oriented design 

@@ -1,0 +1,4 @@
+google sign button null pointer exception 
+implement google sign button app initially runs error fixed implementing methods google sign ran problem fairly android implementing googleapiclients wondering error order methods idea talking homeactivity code 
+
+set mstatustextview findviewbyid call bound null method widgets 

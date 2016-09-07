@@ -1,0 +1,4 @@
+alternatives mock static method 
+developing desktop application test method scenario br myclass static method interface program jtextarea swing component printing information send br testing junit dont graphic user interface test test pretty straight forward nullpointer exception calling printing method hasn instantiated null br question clean avoiding error thrown br mockito href http stackoverflow questions mocking static methods mockito static methods mocked br cases set br finally workaround clean basically declared static boolean flag set beginning setting true class constructor print flag true happen class previously instantiated br approach works wondering solution mockito mocking testing techniques familiar br dont good option adding code application make test work test adapt code code test 
+
+putting null pointer check static method avoid npe thrown bit code smell suggest declared static turns implies method static leads mocked 

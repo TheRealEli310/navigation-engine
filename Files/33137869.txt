@@ -1,0 +1,4 @@
+entitymanager returning null 
+time request entitymanager null persistence xml resource server xml tomcat context xml wrong entitymanager null time ago spring cdi applicationcontext defined worked 
+
+cdi doesnt understand change define lets code transaction management tip slash allowed datasource referenced inside check cdi similar spring 

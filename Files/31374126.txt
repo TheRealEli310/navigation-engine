@@ -1,0 +1,4 @@
+javafx load image css jar 
+load image file background javafx application filestructure style css trouble loading style css program runs displays styles correctly image loaded error console greatly appreciated 
+
+dumb mistake part image file corrupted inserting code works charm 

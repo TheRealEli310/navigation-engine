@@ -1,0 +1,4 @@
+copy byte array directly clipboard 
+workaround directly copy byte clipboard code works fine string reason byte lengthy memory time convert string strong string barray strong copying 
+
+href http docs oracle javase docs api javax activation datahandler html rel nofollow datahandler capable handling input streams byte array 

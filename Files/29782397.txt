@@ -1,0 +1,4 @@
+setting arrayindexoutofbound exception array length 
+set catch arrayindexoutofbound exception check array size greater parameter array args holds values exception show error code 
+
+comment copeg answer 

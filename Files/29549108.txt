@@ -1,0 +1,4 @@
+jboss maven maven build fails due libraries opening 
+building jboss ea quickstart project greeter run project dir instructed whilist jboss server running errors checked files open maven repo 1kb large wont open winrar windows file corrupt damaged examples jsf worked fine 
+
+removed files maven couldnt open maven redownloaded worked fine 

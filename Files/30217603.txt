@@ -1,0 +1,4 @@
+org mangosdk spi providerfor dependency writing custom lombok transformation 
+writing lombok custom transformation stuck lombok handlers require annotation find maven repositories supposed dependency making custom lombok transformation dependency retrieved href https github rzwitserloot lombok rel nofollow https github rzwitserloot lombok copy library directory inflexible manage dependencies wouldnt project maven project lombok extension class 
+
+lombok ant ivy maven lombok require usage providerfor annotation annotation automatically generate meta inf services file past standard set apis maintain file hand information service provider interface href https code google spi wiki gettingstarted rel nofollow documentation spi project href http metainf services kohsuke org rel nofollow similar project maven support nb google code project process href https github rspilker spi rel nofollow migrated github disclosure lombok developer 

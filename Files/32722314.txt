@@ -1,0 +1,4 @@
+execute suite testng integration tests contained side test jar 
+testng command line order perform suite integration tests local development server integration tests executed integration tests executed hr package test dependencies opted assemble test jar assembly descriptor defined order perform assembly part maven install phase attached assembly descriptor part work perfectly unable execute integration tests contained test jar testng suite xml file defined missed step expected result tests defined testng suite executed executed 
+
+testjar xmlpath options cp myproject jar dependencies jar myproject jar myproject tests jar org testng testng similar requirement documented href https niharikawhatsnext wordpress running maven testng tests jar rel nofollow 

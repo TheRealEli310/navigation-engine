@@ -1,0 +1,4 @@
+copy layout view add child programatically 
+mainactivity set orientation horizontal includes framelayout mainactivity framelayout1 add buttons programmatically buttons set position random code belows make framelayout2 layout framelayout1 image img src http stack imgur xkfx1 png alt enter image description copy layout framelayout1 framelayout2 recognize onclick event buttons framelayout1 framelayout2 
+
+sample code 

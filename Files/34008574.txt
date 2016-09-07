@@ -1,0 +1,4 @@
+spring boot test field injection raises nullpointerexception 
+writing test rest app spring boot test interface categoryservice categorycontroller autowired running test nullpointerexception raised strong categoryservice injected field level strong classes strong categorycontroller strong strong categoryservice strong strong categoryrepositoryimpl strong strong test strong strong apptestconfig strong strong categorycontrollertest strong constructor injection works fine whats problem 
+
+hard project adding annotations ol li apptestconfig ensure beans li li case spring boot li li categorycontrollertest web app context needed servlets spring mvc li ol 

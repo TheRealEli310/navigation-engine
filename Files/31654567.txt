@@ -1,0 +1,4 @@
+mongodb bson stores date utc time 
+put date field document bson write mongo bson writes utc date stored mongo retrieve driver great solution store date query db time zone results date field important part mongo rich set operators wrapped doesnt mongo provide flexibility 
+
+problem solved setting timezone utc code 

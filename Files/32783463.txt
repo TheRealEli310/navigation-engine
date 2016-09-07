@@ -1,0 +1,4 @@
+spring boot eurekaclient application working external tc server 
+spring boot rest service recently updated discovery client leverage auto discovery routing provided spring cloud service working fine running sts deploying external tc server starting throwing error catalina log dependencies pom related adding depency luck suggest edit application class controller implementation 
+
+error result cases case statement org glassfish jersey server resourceconfig including project org glassfish jersey pls 

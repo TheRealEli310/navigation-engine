@@ -1,0 +1,4 @@
+check jcombobox selection selected 
+strong portion code strong stackoverflow novice programming problem figured solve make statements check textfields comboboxes empty return showmessagedialog telling input figured textboxes combobox understand syntax netbeans 
+
+href http docs oracle javase docs api javax swing jcombobox html getselectedindex rel nofollow return selected href http docs oracle javase docs api javax swing jcombobox html getselecteditem rel nofollow return selected href http docs oracle javase tutorial uiswing components combobox html rel nofollow combo boxes details 

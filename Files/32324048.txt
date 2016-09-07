@@ -1,0 +1,4 @@
+finding kth largest array 
+interview facebook asked question blockquote suppose unordered array distinct values input implement function finds kth largest return return blockquote method tested method works fine based question interviewee hint suggested based knowledge child heap root case assume root child grater roots wrong implementation based 
+
+answer hint understanding based workings explanatory strong min heap strong root strong minimum strong children iterate array populate elements strong min heap strong heap automatically lowest root strong strong element read array check greater root min heap remove root min heap add traverse array root strong min heap strong automtically largest element elements elements precise heap larger 

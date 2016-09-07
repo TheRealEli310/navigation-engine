@@ -1,0 +1,4 @@
+spring boot auto configuration order 
+create spring boot auto configuration class conditionally creates single bean challenge created bean created spring boots default auto configuration classes bean depend didnt work expected judging href http stackoverflow questions spring boot autoconfiguration order comment43752147 comment dave syer shouldnt background aforementioned bean alters mongo database happen created 
+
+turns dynamically make instances depend achieved href http docs spring io spring docs current spring framework reference html beans html beans factory extension factory postprocessors rel nofollow alter bean definitions beans works independent spring boot complete auto configuration add bean definition configuration class instantiates bean 

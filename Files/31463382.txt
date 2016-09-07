@@ -1,0 +1,4 @@
+increase heap size spark yarn 
+increase heap space spark yarns extra options code works work add spark yarn extrajavaoptions default string extra jvm options pass yarn application master client mode input xmx2g wrong 
+
+command spark href https spark apache org docs latest configuration html rel nofollow configuration documentation blockquote spark executor extrajavaoptions string extra jvm options pass executors instance gc settings logging illegal set spark properties heap size settings option spark properties set sparkconf object spark defaults conf file spark submit script heap size settings set spark executor memory blockquote set heap size settings option configure strong spark defaults strong script layout found href https github apache spark blob master conf spark defaults conf template rel nofollow git repo 

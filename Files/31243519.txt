@@ -1,0 +1,4 @@
+depth breadth algorithm printing nodes print nodes path 
+adjacency matrix form adjacency matrix maze rules ol li li li adjacent li li wall maze li ol maze element numbers dfs algorithm display nodes traverse displays unnecessary nodes prints wracking head modifying print wrong 
+
+major issues code addition fixes needed dfs algorithm ul li start end wrong decreased indices based li li strike adjanecy matrix wrong size squared matrix strike edit fixed li li solution print elements path return populates nodes current path reached destination create list return attach elements recursive call returns code attached li ul prints nodes correct order reversed order result expected hr side solution em complete em find solution exists em optimal em return longer solution shortest find shortest path source target switching href https en wikipedia org wiki breadth search rel nofollow bfs 

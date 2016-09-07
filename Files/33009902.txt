@@ -1,0 +1,4 @@
+skip sql maven plugin execution command line 
+prevent executing command line touch pom file 
+
+href http www mojohaus org sql maven plugin index html rel nofollow provide href http www mojohaus org sql maven plugin execute mojo html skip rel nofollow property user property modify pom file scenarios ol li plugin configured pre class lang xml prettyprint override case run skip execution plugin li li plugin configured case youre luck skip execution href https github mojohaus sql maven plugin blob master src main org codehaus mojo sql sqlexecmojo l226 rel nofollow source code user property property move make enhancement request implement href https github mojohaus sql maven plugin rel nofollow github repo provide pull request change add attribute annotation li ol 

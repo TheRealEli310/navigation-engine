@@ -1,0 +1,4 @@
+creating text inside bubble javafx bubblechart 
+javafx bubblechart visualization create display text bubble chart visualization numerous xychart series bubble series series series setname xxxx xxxx unique series display series inside bubble implemented tooltip mouse event bubble chart displays series text visible inside bubble requiring mouse sake code work basic series adding text inside bubble 
+
+node data stackpane stackpane shaped ellipse radius ellipse orientation add label stackpane set minwidth property label display dots property hold dynamic font size pretty resize chart code work href http stack imgur obuxp png rel nofollow img src http stack imgur obuxp png alt application h3 update h3 james mentioned loop isnt robust case changing shape changed bit ellipse instance bit original layoutplotchildren method bubblechart 

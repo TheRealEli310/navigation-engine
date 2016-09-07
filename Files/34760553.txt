@@ -1,0 +1,4 @@
+aws lambda access s3 bucket lambda function 
+written lambda function function uploaded s3bucket lambda mapped role lambda role regionname west wanted access s3bucket mapped policy lambda role region eu west api class href http docs aws amazon awsjavasdk latest javadoc amazonaws services s3 amazons3client html rel nofollow amazons3client intention file bucket make connection class list bucket 
+
+code test dont provide credentials create role lambda authority access s3 bucket region s3 bucket shouldnt matter bucket uniquely identifies bucket region lambdas typically triggered event call href http docs aws amazon awsjavasdk latest javadoc amazonaws services lambda awslambdaclient html invoke amazonaws services lambda model invokerequest rel nofollow run manually deploy aws mylambda invoke remotely 

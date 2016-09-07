@@ -1,0 +1,4 @@
+android persistent listview recycling 
+fighting problem days solution stackoverflow solution recyclerview helped problem listview textview listitem click list item visibility textview scroll clicked heres code customadapter class mainactivity 
+
+setting text update visibility textview visible listitems listview recycled strong updated strong public class customadapter extends baseadapter private arraylist list arraylist private context context onitemclick activity 

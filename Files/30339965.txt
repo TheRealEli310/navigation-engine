@@ -1,0 +1,4 @@
+click listview android custom adapter 
+newbie android create simple custom listview header section run program listview item isnt clickable code strong mainactivity strong strong customadapter strong strong header row xml simillar strong strong activity main xml strong sory screenshoot aplication href http s9 postimg org bdvxom12n screenshot png rel nofollow screenshoot 
+
+applied problem worries change code required implement attach override method implement functionality clicked face trouble 

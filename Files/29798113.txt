@@ -1,0 +1,4 @@
+vm crashes mac os spring persistence layer startup 
+developing spring application spring data working eclipse luna update problem occurs higher versions starting application eclipse windows works fine mac os error occurs error occurs initializing database connection mysql database running general ideas fix stretch information situations occur update contents error log href http pastebin cg5rsgjn rel nofollow pastebin hs err pid5336 log 
+
+exact problem occur embed library javafx dependency headless environment initially built javafx boot wrapper swing container setup caused jvm crash mentioned crash dump found solution href http stackoverflow http stackoverflow idea remove swing wrapper launch javafx environment code called main application boot time spring application runs smooth osx windows 

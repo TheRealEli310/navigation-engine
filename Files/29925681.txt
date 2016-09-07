@@ -1,0 +1,4 @@
+tomcat connector relationship connectiontimeout keepalivetimeout 
+relationship connectiontimeout keepalivetimeout properties tomcat connectors set default effect keepalivetimeout connectiontimeout 
+
+defines long tomcat wait client request client connected long tomcat wait request closing connection words connectiontimeout long tomcat wait http request tcp connection established keepalivetimeout long wait request connection 

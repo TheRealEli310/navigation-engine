@@ -1,0 +1,4 @@
+index bounds 2d array 
+error making game board create fill 2d array entities added random spots board created successfully stored entity array populate game board symbols entities part doesnt work part bold error appears work gamecontroller class room class package charworld game entity class package charworld game 
+
+youll initialize arraylist data guessing missing sort position objects statement blowing series loops meant initialize array random numbers arent coming youre expecting arraylist items added fail early fail late add loops 

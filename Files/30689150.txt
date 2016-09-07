@@ -1,0 +1,4 @@
+framedemo error find load main class 
+starting learn attempting run framedemo tutorial code found href https docs oracle javase tutorial uiswing components frame html rel nofollow https docs oracle javase tutorial uiswing components frame html compile fine run error thought classpath error recompiling error running running heck wong downloaded installed latest jdk source code demo link 
+
+move class files folder run blockquote components framedemo blockquote remove source file recompile run blockquote framedemo blockquote 

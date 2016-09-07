@@ -1,0 +1,4 @@
+unsatisfiedlinkerror running netbeans project 
+tryng build programm capture picture people save tryng picture webcam opencv library beginner tryng import opencv project run tutorials found internet execute line error happen code main problem guess dealing libraries find error hope youll forgive poor english edit adapt tuto eclipse netbeans succes href http docs opencv org beta doc tutorials introduction desktop dev intro html rel nofollow http docs opencv org beta doc tutorials introduction desktop dev intro html 
+
+fixed tutoriel href http www codeproject tips opencv netbeans ide rel nofollow http www codeproject tips opencv netbeans ide changing vm options add native library djava library path opencv uildjavax86 

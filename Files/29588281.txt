@@ -1,0 +1,4 @@
+akka microkernel 
+reading akka docs curious explained href http doc akka io docs akka intro deployment scenarios html rel nofollow mention called em akka microkernel em allude kind app bootstrapper launcher dont explain em em docs href http doc akka io docs akka microkernel html rel nofollow entire page dedicated microkernel equally mysterious vague stating blockquote akka microkernel included akka download found downloads blockquote blockquote run application microkernel create bootable class handles startup shutdown application included blockquote explanation microkernel ideas 
+
+viktor klang inventor microkernel blockquote primary case create bundle easily package akka application deploy run write launcher scripts installing kind app server blockquote blockquote lightweight packaging akka application distributable archive blockquote href https groups google forum topic akka user hjiziex 6v8 google post shed light matter 

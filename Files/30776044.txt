@@ -1,0 +1,4 @@
+suggested pass hardcoded absolute path file object constructor file string 
+creating file object absolute path file works perfectly fine functionality point view frequently ends static analysis defect specific reason suggested constructor 
+
+general rule thumb hardcoding absolute paths makes program flexible configuration file located end user install application absolute path break application general statement true time makes absolutely sense file location waive suppress warning static analysis tool 

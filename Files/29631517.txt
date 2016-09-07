@@ -1,0 +1,4 @@
+string user split 
+write program ul li store string variable called inputstr integer variable called inputint li li pass inputstr inputint method called splitter splitter method splits input li li string inputint characters time prints line splits li li inputint characters printed li ul code program br enter string thisisanexample br enter integer br thi br sis br ane br xam br ple example2 br enter string thisisanotherexample br enter integer br thisis br anothe br rexamp characters le printed don characters 
+
+change code increments loop number entered user times print string position break string loop avoid beacuse user break letter word letters final string letters throw exception edit match 

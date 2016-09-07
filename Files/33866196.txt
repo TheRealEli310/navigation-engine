@@ -1,0 +1,4 @@
+android studio ndk workaround 
+integrate ndk project android studio tells workaround blockquote warning native source code found ndk option configured android mk compilation recommended workaround remove default jni source code directory adding build gradle manually compile code ndk build place resulting shared object src main jnilibs blockquote ndk build find places find files armeabi v7a mips x86 folders strong folders actual files copied strong configure make work imported project android studios import adt method 
+
+suggested workaround assumes manually copy contents strong libs strong directory strong src main jnilibs strong alternative workaround add enchantment strong build gradle strong file line strong jni srcdirs strong stated message quote 

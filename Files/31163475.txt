@@ -1,0 +1,4 @@
+activate secure cookies wildfly 
+add secure flag cookies web app wildfly version href http wildscribe github io wildfly final subsystem undertow servlet container index html rel nofollow documentation page servlet container settings ll find children servlet container ol li jsp li li persistent sessions li li session cookie li li websockets li ol em jsp em em websockets em access session cookie settings add secure flag cookies strong update strong access web xml files inside wars wildfly configuration files 
+
+command jboss cli standalone xml ref href http wildscribe github io wildfly final subsystem undertow servlet container setting session cookie index html rel nofollow http wildscribe github io wildfly final subsystem undertow servlet container setting session cookie index html 

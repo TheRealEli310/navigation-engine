@@ -1,0 +1,4 @@
+jboss alternative jre 
+problem start server jboss problem jdk project jre working jboss project jre jboss error unsupported major minor version change jdk jboss 
+
+found posting jboss developer developer forum short version backport bug fixes jboss order run jre easier upgrade wildfly hr blockquote tomaz cerar apr response matija vizintin big reason upgrade wildfly core issue prevents boot as7 jdk8 href https issues jboss org browse wfly rel nofollow https issues jboss org browse wfly fixed href https github wildfly wildfly commit fa93ceff49c3e84851cb8b00157e4fbed1d2cdb7 rel nofollow https github wildfly wildfly commit fa93ceff49c3e84851cb8b00157e4fbed1d2cdb7 apply commit href https github wildfly wildfly releases tag final testsuite fix rel nofollow https github wildfly wildfly releases tag final testsuite fix tag rebuild make server starts jdk8 ware handful fixes needed address make testsuite passes properly case recommend wildfly final blockquote 

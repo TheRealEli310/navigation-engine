@@ -1,0 +1,4 @@
+androidstudio robolectric unit tests invaild default 
+unit testsfor android application unit tests robolectric template project deckard gradle master worked fine wanted integrate testing existing android application added libraries hamcrest core jar junit jar robolectric jar robolectric gradle plugin jar start testclass project exception dont anymore missing dont gradle files testclass thankful whats problem whats missing timon 
+
+changing config solved problem 

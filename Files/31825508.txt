@@ -1,0 +1,4 @@
+spring integration dsl invoke int http outbound gateway 
+piece flow rest api call made replicate dsl find adequate documentation appreciated 
+
+spring integration dsl doesnt provide namespace factory http ahead generic components side mentioned documentation demonstrate sample strong update strong feel free raise href https jira spring io browse intext rel nofollow jira ticket adding http support dsl 

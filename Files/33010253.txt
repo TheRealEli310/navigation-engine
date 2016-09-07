@@ -1,0 +1,4 @@
+make selenium firefox driver screenshots viewed page 
+running series automated gui tests selenium tests regularely takes screenshots works excellently chrome firefox large pieces whitespace screenshots suspect whitespace part page hidden view browser scrollbar stops whitespace quick test found firefox driver entire page captured screenshot chrome driver whats shown browser captured force firefox driver screenshot browser actual user 
+
+based answers href http stackoverflow questions partial screenshot frame selenium webdriver question add lines code crop image browser size solve problem nicer solved driver cropping screenshot 

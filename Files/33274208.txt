@@ -1,0 +1,4 @@
+jdbc connect rac database jdbc details properties file 
+connect rac database jdbc connection string properties file properties file reading properties file code create connection exceptions wrong advance edit odbc14 jar thought jar odbc7 jar exceptions vanished exception exception generated jdk version 
+
+finally working posting properties refer odbc7 jar changed url driver class hope helps 

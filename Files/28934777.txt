@@ -1,0 +1,4 @@
+netty writeandflush method doesnt work 
+behold code code modified nettys securechatclient class href http netty io wiki user guide html rel nofollow http netty io wiki user guide html added line loop output server read line understand ch writeandflush method doesnt work loop supposed ch writeandlfush loop send message server startup solution writeandflush statements end order flush dont flush dont understand code solution ch writeandflush 
+
+solution writeandflush statements end order flush dont flush dont understand code solution ch writeandflush 

@@ -1,0 +1,4 @@
+display airplane seating chart 
+code numbers display top user enter number number rows open section int line give hand output output 
+
+couple errors code loop start end included added loop start included end excluded included changed addition row present seats code prints empty plane print current plane configuration empty seat empty seat code assuming airplane row seat free seat occupied seat 

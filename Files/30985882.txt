@@ -1,0 +1,4 @@
+util logger file day 
+util logging framework implement logging jsf application successfully implementing requirement rotate logs create log file day figure implemented hints implementation highly appreciated configured logger 
+
+code setup filehandler href http stackoverflow questions manually roll logfile jdk logging add code close recreate filehandler work automatically simply create href http stackoverflow questions create log file record specific format util proxy handler filehandler handle closing recreating files day 

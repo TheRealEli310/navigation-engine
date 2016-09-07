@@ -1,0 +1,4 @@
+javafx platform runlater running 
+basically launch javafx window stage inside lwjgl glfw thread starts basically thread game thread runs inside check runs run fix edit clarify thread started whatnot outputs 
+
+found solution run situation scenes end thread managing peter prevent happening add line long runs scene ends thread alive run problem runlater failing 

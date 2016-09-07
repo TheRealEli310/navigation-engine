@@ -1,0 +1,4 @@
+print random character string 
+assignment due part assignment asks blockquote suppose string write sequence statements print random character blockquote basic concepts learn understand write code successfully confused specific lines code charat method loop 
+
+main issue part cast misplaced read href https docs oracle javase docs api lang math html random rel nofollow javadoc returns double greater equal casting values range simply cutting decimal places result prints character string solution multiply strings length cast print em em random character dont loop sort delete code href https ideone xen76b rel nofollow fiddle working input string hint read finally show class href https docs oracle javase docs api util random html rel nofollow class replace line grasp href http stackoverflow questions math random versus random nextintint difference approaches completely irrelevant assignment scope 

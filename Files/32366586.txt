@@ -1,0 +1,4 @@
+log4j2 slf4j 
+href http stackoverflow questions slf4j log4j2 maven setup query maven implementation requirements href https logging apache org log4j log4j slf4j impl index html rel nofollow web site adding slf4j log4j code added library ul li log4j api jar li li log4j core jar li li log4j sl4j impl jar li li log4j sl4j jar li li slf4j api jar li ul running error idea wrong 
+
+youre creating call loop implementation adapter sends slf4j calls log4j sending log4j calls back slf4j em remove em 

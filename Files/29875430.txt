@@ -1,0 +1,4 @@
+jvm integer stored byte short 
+snippet code partial byte code integer range push byte stack integer range wrapper class integer jvm byte short store integer 
+
+understood remaining byte code instruction doesnt store bytes opcode range tp power saves space time execution remianing code compiler creates reference variable integer type similar store range beacuse byte instruction set byte opcode rest byte hold power jvm type constant pool byte code requires data time data large store directly byte codes stored constant pool byte code reference constant pool push constant index constant pool string int float stack consumes extra time cycles rough comparision operation operation img src http stack imgur zso4j jpg alt enter image description img src http stack imgur xb7xh jpg alt enter image description href http wensiqun github io jvmref ref ldc html rel nofollow jvm bytecode ref blockquote efficient bipush sipush const instructions ldc blockquote 

@@ -1,0 +1,4 @@
+gwt maven plugin fails nullpointerexception 
+downloaded href https github arcbees gwtp samples rel nofollow gwtp samples github build maven mvn clean install find helpful information npe gwt maven plugin wrong direction find reason error 
+
+blockquote blockquote href https github gwt maven plugin gwt maven plugin blob gwt maven plugin src main org codehaus mojo gwt classpathbuilder l71 rel nofollow line logger hasnt initialized maven version br plugin built validated maven developed maven integration tests pass maven versioning issue youre versions 

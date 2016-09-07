@@ -1,0 +1,4 @@
+create backward triangle loops 
+make triangle working loop making work attempt 
+
+line print chars index print space print asterisk output hr 

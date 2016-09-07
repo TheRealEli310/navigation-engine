@@ -1,0 +1,4 @@
+defining hashmap bean 
+define hashmap bean blueprint xml original problem works problem class extends class1 class1a blueprint xml file means defining map maintain blueprint xml instantiate initialize values import reference beans acmemap created search examples initializing blueprint bean maps internet find solution 
+
+make parent tag inheritance control properties defined class reuse define refer 

@@ -1,0 +1,4 @@
+create instance pageobject 
+option creating instance em pageobject em class loginpage create instance pageobject class tests steps required create class static method return instance requested em pageobject em class method check instance null creating instance requested class advise 
+
+multiple ways create instantiate href https gist github safrrhmn 519dddc33fbf0bb0d78a rel nofollow gist public repository href https github safrrhmn seleniumtestng rel nofollow 

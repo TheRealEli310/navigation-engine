@@ -1,0 +1,13 @@
+<div id="question-summary-36897881" class="question-summary narrow">
+    <div class="cp" onclick="www.stackoverflow.com/questions/##postId##'">
+        
+       
+    </div>
+    <div class="summary">
+        
+                    <h3><a title="##data##" class="question-hyperlink" href="www.stackoverflow.com/questions/##postId##">##title##</a></h3>
+        <div class="tags t-memory t-cpu t-cpu-architecture">
+            <a rel="tag" title="" class="post-tag" href="www.stackoverflow.com/questions/tagged/memory">memory</a> <a rel="tag" title="show questions tagged 'cpu'" class="post-tag" href="www.stackoverflow.com/questions/tagged/cpu">cpu</a> <a rel="tag" title="" class="post-tag" href="www.stackoverflow.com/questions/tagged/cpu-architecture">cpu-architecture</a> 
+        </div>
+    </div>
+</div>

@@ -1,0 +1,4 @@
+vaadin columns data gridlayout field label data wrapping text 
+create columns possibly columns rows column identifier firstname lastname column actual identifier john smith data line nicely john lined smith line problem column remainder space width wise text wrap line long comments paragraph long text wrap screen understand href https vaadin forum thread rel nofollow defined width wrap text figure make text labels grid wrap code text wrap work assign specific sizes success additional stuff data isnt option line forms arent fields perfect work input fields case implement text wraps 
+
+answer combination things biggest tip offer href http stackoverflow questions consume space vaadin gridlayout line breaks consume space vaadin gridlayout line breaks code shouldve combining things resolved issue text wrapped 

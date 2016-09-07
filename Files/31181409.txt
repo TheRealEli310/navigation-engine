@@ -1,0 +1,4 @@
+hivecontext spark maven project 
+hivecontext table spark sql configure hive metastore details make working set somethikng shankar 
+
+directly href https spark apache org docs latest sql programming guide html hive tables rel nofollow documentation blockquote configuration hive placing hive site xml file conf blockquote href https github apache spark blob master sql hive src test resources data conf hive site xml rel nofollow hive site xml 

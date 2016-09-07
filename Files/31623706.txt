@@ -1,0 +1,4 @@
+salting hashing passwords php compatibility 
+make game tie website content users accounts shared site multiple versions client problem password salt hashed verify find information secure ensuring generation identical info combining suggested javas handle individual hashing set methods generate salt hash store verify passwords javas hashing functions prefer stick suggest equivalent work cross compatibility deserved crypto se figured specific languages id 
+
+turns wasnt complicated thinking found href http stackoverflow questions hashing php question equivalent function algorithm matter transferring heres ended copied guys function generated salt hash needed happen bit change bytecode conversion worked fine needed modify code fit server client setup including secondary session hashing work bugs surrounding encoding decoding network transmission works perfectly slightly detailed answer question 

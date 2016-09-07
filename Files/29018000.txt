@@ -1,0 +1,4 @@
+sonar false coverage jacoco 
+running jacoco sonar multimodule java8 project unit tests modules save resources collect integration tests integration tests runner run wrapping tests measuring coverage ut generates exec file module target jacoco ut exec generates exec file target jacoco exec run sonar reuse exec files giving path jacoco exec weird image img src http stack imgur rdvqc png alt enter image description coverage lower 
+
+found problem solution href http docs codehaus org display sonar jacoco plugin sonar website blockquote default coverage report found jacoco plugin set coverage metric behaviour overriden force coverage case lack report setting property blockquote br means ut analysis skipped modules tests set parent pom modules analyzed integration tests coverage coverage bottom line setting property parent pom fixed numbers 

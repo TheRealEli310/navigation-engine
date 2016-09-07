@@ -1,0 +1,4 @@
+catching error code sqlplus 
+execute set sql scripts folder sqlplus issue return code sql script errors ideally expecting error code exitvalue heres script violates pk constraint edit add scripts work perfectly return cmd exe sqlplus bubble error code sql cmd 
+
+ultimately found hack entire issue heres iterating sql scripts directory directly executing call script test sql file location scripts iterating parameter script call desired script run contents test sql file amp represents parameter passed test sql file represents file iterating start command runs file sqlerror exit conditions code back 

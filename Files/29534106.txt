@@ -1,0 +1,4 @@
+shifting double biginteger 
+proper converting double biginteger back case loosing data problem dont decimal places double values conversion algorithm works decimal values algorithm finishes convert back easy sum double values sum function works biginteger 
+
+program based bigdecimal scale idea href http stackoverflow assyliass answer modified unconditionally maximum required scale scale stream numbers numbers processing cost return unnecessarily large biginteger values scale factor 1e1074 based observation finite double numbers integer multiples double min decimal digits decimal point double decimal digits decimal point 

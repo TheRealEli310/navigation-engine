@@ -1,0 +1,4 @@
+jsch sftp transfer encoding 
+jsch transfer utf encoded xml file windows machine running bitvise ssh server local directory linux machine ubuntu code verified file retrieved stored utf bom server characters correctly encoded transferring file code file utf encoding target machine outputs viewing contents file longer readable converted character sequences problem occurs program href http www jcraft jsch examples sftp html rel nofollow http www jcraft jsch examples sftp html scp command line code transfer file development machine running windows file intact make encoding stays intact operating system client machine 
+
+pointed vgr comment transfer working fine editor wrong encoding open file 

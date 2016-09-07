@@ -1,0 +1,4 @@
+making slideshow program 
+make slideshow program slide click slides add errors sorted code compiles fine click possibly wrong 
+
+main problem manage single component locations manages adding component position issues component added wont displayed case remain interfere component solution slide simply supply property property approach place simply counter determines slide current click slide simply increment counter array apply label solution href http docs oracle javase tutorial uiswing layout card html rel nofollow cardlayout details h1 icons h1 img src http stack imgur oknlm gif alt slideshow h1 simply adding components bad h1 img src http stack imgur f1npl jpg alt badlayout called create assign add sized frame labels transparent remain visible shouldnt simply add components case simply update properties existing meet changing 

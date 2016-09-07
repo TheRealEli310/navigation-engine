@@ -1,0 +1,4 @@
+replace specific row csv file 
+access specific row csv file replace specific field pseudo code href https commons apache org proper commons csv rel nofollow apache commons csv href http opencsv sourceforge net rel nofollow opencsv figure iterate file store object create file doesnt good suggestion 
+
+sounds href http stackoverflow questions editing csv files design implementation duplicate apache mechanisms opencsv create csvreader source file csvwriter destination file read record time make desired write file small readall writeall file read comments href http stackoverflow questions editing csv files design implementation duplicate 

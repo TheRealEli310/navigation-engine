@@ -1,0 +1,4 @@
+sqlexception retrieve transation read status server 
+problem mysql days explanation exception dont understand error server version strong strong mysql connector strong strong idea edit jdbc url 
+
+finaly found root problem database inside url consequence problem jdbc parameters ul li cacheprepstmts true li li prepstmtcachesize li li prepstmtcachesqllimit li li strong useserverprepstmts true strong li ul mysql recommended bugs remove statement cache parameters code run correctly 

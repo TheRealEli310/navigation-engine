@@ -1,0 +1,4 @@
+circular layout resolve method oncreate android os bundle 
+circularlayout android app error mainactivity file strong em resolve method oncreate android os bundle em strong extended appcompatactivity access methods appcompatactivity view nested classes error due warning strong private class activity strong extend classes found answers including href http stackoverflow questions extending classes extending classes href http stackoverflow questions extend classes extend classes work make code work mainactivity file content main xml file 
+
+ol li suggest call subclass view meaningfully case private class activity extends view li li source doubts put inside subclass view method called compiler complains solution move method content outer class li li subclass view private doubt reference xml li ol 

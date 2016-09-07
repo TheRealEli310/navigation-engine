@@ -1,0 +1,4 @@
+decode asn1 sequence rsa public key 
+rsa public key asn1 sequence import sequence rsa public key implemented work addition bouncycastle manually decode sequence initialize approach clumsy easier 
+
+bouncycastle library code fragment attractive alternative roll asn decoder href http stackoverflow questions light weight api read pkcs1 rsa public key answers beware asn decoding tricky simple element sequence complicated asn structure attempt parse code 

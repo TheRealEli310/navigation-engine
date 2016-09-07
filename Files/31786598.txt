@@ -1,0 +1,4 @@
+send data server multiple clients sockets 
+simple server clients programm server handler send message stream client side receives message works client start client problem receiving message server arises wrong 
+
+found answer clienthandler serverhandler class thread added client class works fine assume main method called thread automatically created class sends data clients works make sendmessage thread sleep flushing data main server starter main client starter 

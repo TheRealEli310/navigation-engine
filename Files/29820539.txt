@@ -1,0 +1,4 @@
+multi term solr synonym issue 
+defined synonyms search facebook parsed query search face book parsed query shouldnt parsed query keywords snippet config find contents synonym txt 
+
+issue solr lucene find ul li href https issues apache org jira browse lucene rel nofollow lucene ticket li li href http nolanlawson synonym handling solr rel nofollow blog post part titled strong multi word synonyms won matched queries strong li ul fix options ol li apply plugings parsers mentioned resources downside redo work everytime upgrade solr li li move synonyms index time preferred downsides li ol 

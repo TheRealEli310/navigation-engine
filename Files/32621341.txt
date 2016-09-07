@@ -1,0 +1,4 @@
+hive metastore connection refused errors hive shell 
+shell errors 
+
+firstly error key blockquote unable instantiate org apache hadoop hive ql metadata sessionhivemetastoreclient org apache hadoop hive ql session sessionstate start sessionstate blockquote solution error ol li check configuration file hive site xml ensure permission valid file directory paths li li delete metastore db directory metastore db important information li li run hive shell li ol strong em ensure hive site xml enable access hive process em strong 

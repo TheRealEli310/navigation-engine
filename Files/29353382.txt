@@ -1,0 +1,4 @@
+instance abstract class hidden constructor 
+create instance abstract class hidden constructor class creating concrete class work constructor visible calling constructor reflection api doesnt work class abstract create instance android print printdocumentadapter layoutresultcallback 
+
+ran precisely problem precisely class solution replacing android jar framework jar suggested answer solution href https github crittercism dexmaker rel nofollow dexmaker library dexmaker jar dexmaker dx jar library generates bytecode runtime dalvik vm vm android library class called generates em proxy em abstract class proxy object strong extends abstract class strong implements methods dispatching instance identical works interfaces dexmakers works abstract classes problem code callback logic implemented provide directory dexmaker store files 

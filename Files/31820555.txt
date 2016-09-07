@@ -1,0 +1,4 @@
+load test timer task scheduler 
+execute load test test strategies require threads fired period time minutes constant totalthread amount threads running load test duration total threads start threads intervals threads started continue threading running finished execution restart duration test hour attempted timer task limiting thread pool scheduler option approach 
+
+decided threadpool executor timertask class executors newscheduledthreadpool int method control amount threads run concurrently timer task set increase threadpool size amount time amount concurrent threads increase incrementamount intervallength 

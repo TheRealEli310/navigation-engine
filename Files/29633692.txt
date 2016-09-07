@@ -1,0 +1,4 @@
+local jmx invokation fails classcastexception 
+invoke jmx service locally simple code works fine jconsole command line throws exception line pasted code stack trace 
+
+jmx service url 

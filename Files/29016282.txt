@@ -1,0 +1,4 @@
+jreddit lang noclassdeffounderror error 
+write application android studio browse reddit found api wrapper jreddit initialize restclient method called click button error code initialization libs compile needed libs mistake strong update strong project add dependency run project error error occurs android studio maven dependency eclipse jreddit work great 
+
+current maintainer jreddit project recently created sample android makes jreddit library havent android app work fine jreddit jar figure things basically dependencies order make android app work pay attention version posted latest jreddit release includes android developers apply plugin android application checkout full href https github jreddit jreddit tree android examples jreddit sample project rel nofollow 

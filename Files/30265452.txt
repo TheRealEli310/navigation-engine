@@ -1,0 +1,4 @@
+fetching correct data csv file 
+bit weired scenario fetch data products product ids p1345 p3453 p2345 froduct options skus store products csv file options csv file fetch relevant skus option file 
+
+explain csv files structured products csv row product id option code option code option code options csv row product id option code sku product id p1345 products csv list option codes product option code list product id options csv obtain sku specific product option pair simple structure products csv record p1345 option1 option options csv records p1345 option1 sku234 p1345 option2 sku345 product id p1345 parsing csv files code figure valid skus product id sku234 sku345 hope makes sense checking understanding correct 

@@ -1,0 +1,4 @@
+vertx eventbus working 
+os linux jdk vert started wiring vertx examples found github due manual simple sender lt receiver eventbus hours ping world idea missing simple code strong sender strong strong receiver strong running seperate jvm instances machine cli command console 
+
+youre running vertices wont theyre essentially started completely separate processes clustering disabled default run vertices cluster mode order locate communicate option enable hazelcast clustering continue problems bus communication enable hazelcast logging ensure nodes alter hazelcast configuration network support multicast 

@@ -1,0 +1,4 @@
+convert jama matrix object double 
+object matrix package jama stored double array return values method matrix inverse pass values matrix object double array 
+
+strike hard answer knowing class approach write method class operate similar method words classes implement return simple returning internal stored instance strike edit clarified jama class simply keeping reference inverse object general access internal array directly 

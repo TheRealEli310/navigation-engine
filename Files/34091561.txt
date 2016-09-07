@@ -1,0 +1,4 @@
+javafx setting label text array 
+make multiple choice quiz javafx label displaying question array strings hold questions array togglegroups displaying answers user presses button label change text display element array strings text answers change work label current code iterates array displays element start question display question time user presses appreciated 
+
+store current question instance variable increment button click plain sorts fun things 

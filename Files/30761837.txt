@@ -1,0 +1,4 @@
+processing serial object null pointer exception 
+apologize answer processing read input values coming usb port custom class set values call getcurrentvalue method throws nullpointerexception throws error line seisport error message stuck awhile feedback appreciated 
+
+constructor notice youve included strong void strong keyword method signature constructors return type treated strong method strong constructor strong strong called create instance null fix simply remove keyword 

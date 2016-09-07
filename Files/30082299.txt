@@ -1,0 +1,4 @@
+libgdx temporary sprite movement spawned 
+method called sprite rendered basically enemy spawned move downward screen happening enemy move 
+
+youve confused things introducing member variable method creates enemy adds enemies list reason reference separately list reference discarded remove line class declare method list vector2s positions sprite class stores position move individual sprites remove related method finally method wrong place updates youre move recent enemy created moving iteration loop affecting instance enemy created heres revise class movement speed constant measured world units declare top class bottom method add enemies move add check screen remove iterator instance avoid concurrentmodificationexception remove youre pooling put back pool finish method remove loop handling position update method 

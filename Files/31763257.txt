@@ -1,0 +1,4 @@
+spring based configuration static method 
+advice declare propertysourcesplaceholderconfigurer bean strong static strong method found static url set null taking property file 
+
+objects responsible resolving annotations current spring environment set propertysources class implements container lifecycle object instantiated earlier object annotated class annotated class instance method returning object container instantiate object instantiating annotated class object case resolved object exist moment instantiation object annotated class annotated field takes default bootstrapping part href http docs spring io spring docs javadoc api org springframework context annotation bean html rel nofollow javadoc information 

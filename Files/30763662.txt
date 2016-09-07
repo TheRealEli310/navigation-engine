@@ -1,0 +1,4 @@
+sum arraylist types 
+write single method sum elements type write error erasure automatically extends vice versa code inside identical 
+
+implement method extend href https docs oracle javase docs api lang number html rel nofollow href https docs oracle javase tutorial extra generics wildcards html rel nofollow wildcard type list element type works integral types variable return type ideally method return object type list element type easy reasons ol li thing primitive number types sum number dependent li li create object class li ol hr strong edit strong em em fun lets nice thing manually provide operations mentioned kind operation called href https en wikipedia org wiki monoid rel nofollow monoid context algebra functional programming problem solved creating objects represent monoid operations method implemented object type addition list provide implementations numeric classes lets create simple helper class implementations written neatly method called 

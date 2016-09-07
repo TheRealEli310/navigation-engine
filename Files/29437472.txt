@@ -1,0 +1,4 @@
+org bouncycastle asn1 dlsequence cast org bouncycastle asn1 asn1integer 
+bouncycastle classes encrypt decrypt password written test program generated test key cert pem format der format read key cert program public key encrypt setup decrypt error org bouncycastle asn1 dlsequence cast org bouncycastle asn1 asn1integer creating asymmetrickeyparameter pull data cert cert getencoded pulls header values reading file removing begin end certifcate lines dashes netted error security cert certificate x509certificate code greatly appreciated upload key file helpful test key generated local machine thrown working 
+
+certificate public key private key public key private key certificate certificate distribute parties working microsoft code mentioning microsoft net code certificate class internally private key making oversimplified api decrypt read private key separately certificate option put pkcs key store read 

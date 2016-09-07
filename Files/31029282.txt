@@ -1,0 +1,4 @@
+resource stream returns inputstream null 
+image guess place image folder set path image class find path set put image 
+
+maven content src main resouces automatically added jar file eclipse adds folder calls path source folder running eclipse work 

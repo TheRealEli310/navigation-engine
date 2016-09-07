@@ -1,0 +1,4 @@
+kill jvm process transaction execution 
+postgresql kills jvm process exectuion transactional batch update batch size queries batch executed database 
+
+expected behaviour transactions committed time db side rolled back transactions committed committed integrating answers comments blockquote executed batch transactional batch executed reality peter lawrey blockquote blockquote imagine jvm starts transaction database process jvm sends commit end transaction kill jvm matters database run commit rollback jorge campos blockquote lastly postgresql blockquote em database em successfully committed wont make batch process doesnt transactions db inconsistent state business perspective strict data perspective postgresql decent acid rdbms guarantee durability aka committed inserted remains committed inserted acdcjunior blockquote 

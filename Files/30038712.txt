@@ -1,0 +1,4 @@
+read data load game text file 
+working game saves states save button cliked totalscore saved load game starting time read data text file print screen dont load labels begin game ideas code loading text file call method load button click ideas greatly appreciated 
+
+reading single save file working memory wrote method write file implicitly data write function looked sort pseudocode ish point instance character class read function build empty instance class fileio setup housecleaning dont forget return read function 

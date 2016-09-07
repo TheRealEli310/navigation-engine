@@ -1,0 +1,4 @@
+spring boot starter security post methods working 
+added spring spring boot starter security existing spring boot project post methods spring rest controller working properly shows error controller method pom file remove security related stuff code working great thing wrong configuration security login form functionality working great post methods working 
+
+solved problem 

@@ -1,0 +1,4 @@
+error publishing saving api wso2 
+wso2 bam jdk mysql connector bin jar save publish api api publisher alert appears error occurred updating api wso2am repository logs wso2carbon log file idea solve 
+
+ol li remove existing mysql connector jars directories li li copy version directory restart li ol 

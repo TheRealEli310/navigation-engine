@@ -1,0 +1,4 @@
+set method arraylist throwing indexoutofboundsexception 
+working found setting initial size array constructor throw exception array created size isnt set correctly wont work based array side effects static make work add time required constructor check code throwing exception behaviour expected return set work actual throws exception set method causing problem 
+
+statement throws exception empty return statement set ith element doesnt add elements order valid doesnt create size creates empty initial capacity 

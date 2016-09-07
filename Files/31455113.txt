@@ -1,0 +1,4 @@
+converting nested loops streams 
+nested loops convert declarative code achieve doesnt efficient earlier loop break matching entry simpler code difficult understand 
+
+personally solve streams make task easier complicated reason didnt loop refactor href http ideone db57c8 rel nofollow link ideone run methods 

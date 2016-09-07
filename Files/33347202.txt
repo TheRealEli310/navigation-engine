@@ -1,0 +1,4 @@
+rest api returning json string correct format 
+rest url resource returns string convert class myclass problem returning whilst gson expects string returning string additional beginning end string exception blockquote caused lang illegalstateexception expected begin object string line column path google gson stream jsonreader beginobject jsonreader google gson internal bind reflectivetypeadapterfactory adapter read reflectivetypeadapterfactory blockquote issue 
+
+attribute class json 

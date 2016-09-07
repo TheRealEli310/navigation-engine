@@ -1,0 +1,4 @@
+unable submit spring boot application spark cluster 
+developed web application spring boot apache spark querying data datasources oracle beginning planned run application submitting spark submit script connect master cluster submitting jar successfully generated uber jar includes dependencies projects spark spring boot applications submit app spark shows error sparks default log4j profile org apache spark log4j defaults properties exclude slf4j log4j12 dependency pom file error pom file configuration submit spring boot application cluster type project taking account expose restful api connecting spark cluster submitting jar advance 
+
+similar issue solving removing spring boot logging exclusion error initializing servlet blockquote lang nosuchmethoderror javax servlet servletcontext getvirtualservername ljava lang string blockquote release version starter parent caused servlet api version spark cluster 

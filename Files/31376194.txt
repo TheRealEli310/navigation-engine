@@ -1,0 +1,4 @@
+downloading file spring rest web service 
+url restful web service url loads json file responseentity load url returns json addition prompts user download json data csv format essentially return files 
+
+rest based http based request response model request response expected client code return json link csv download url client javascript prompt user download link 

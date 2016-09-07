@@ -1,0 +1,4 @@
+glfw lwjgl glfwgetkey 
+developing game lwjgl3 dont understand fix problem search internet information lwjgl minimal didnt find glfw lets menu buttons game options credits exit count variable selected time arrow key pressed subtract select select de previous arrow key adding problem frame press arrow key dow count variable added frame key pressed added dont fix change glfw press glfw release action key pressed code throw array index bounds exception 
+
+register key callback method called time key event generated parameter values ul li key pressed li li key pressed li li key wast released li ul returns key callback time key pressed allowing differentiate frame key pressed subsequent 

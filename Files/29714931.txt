@@ -1,0 +1,4 @@
+maven eclipse dependencies 
+maven eclipse project runs fine eclipse attempt run command line fails find dependencies pom xml file project directory myapp notice put full path cloudant jar file command resolves exception raise ideas painful 
+
+default maven builds thin jars project dependencies project classes fat jar href http stackoverflow questions build fat jar maven build fat jar maven hope helps 

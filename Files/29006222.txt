@@ -1,0 +1,4 @@
+solve org apache http nohttpresponseexception 
+apache httpclient https requests constantly heres code create httpclient execute request added read answer href http stackoverflow questions apache httpclient interim error nohttpresponseexception question 
+
+finally figured previous response header connections close request exception header put lines connection manager close connection connection wont request 

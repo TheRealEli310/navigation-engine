@@ -1,0 +1,4 @@
+x11 display variable set mac 
+running application terminal expected launch application specific debugger gui internally talks gdb export display localhost amp export display doesnt work linux machine run application heck setting display 
+
+mac dont run x11 default core desktop environment mac href https en wikipedia org wiki quartz 28graphics layer rel nofollow quartz youll install run server href https support apple en gb ht201341 rel nofollow apple support blockquote x11 longer included os x11 server client libraries os xquartz project blockquote href http xquartz macosforge org landing rel nofollow xquartz 

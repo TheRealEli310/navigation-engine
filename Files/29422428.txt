@@ -1,0 +1,4 @@
+read txt file array list 
+read txt file array list import gui data txt file separated data consists words definitions gui display definition user input answer jtext field program check user answer actual word txt file record score displayed end extremely confused wrong code displayed gui answers suggestions gui code 
+
+code exception 

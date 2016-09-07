@@ -1,0 +1,4 @@
+simple program neo4j api error 
+ol li version version tm se runtime environment build b18 hotspot tm bit server vm build b02 mixed mode li li neo4j version neo4j community rc1 li li imported jar files neo4j community rc1lib direcory classpath eclipse li li find messages log file tpneo4jdb log li li windows li ol program runs error 
+
+guess missing libraries places neo4j directory libraries ul li li li li ul build management tool href https maven apache org rel nofollow maven neo4j documentation href http neo4j docs stable tutorials embedded html rel nofollow neo4j embedded applications section overview neo4j href http neo4j docs stable tutorials embedded setup html add neo4j dependency rel nofollow add neo4j dependency 

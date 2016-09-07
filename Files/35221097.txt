@@ -1,0 +1,4 @@
+migrating compilation error 
+code compiles test methods javac jdk7 jdk8 compile method error method type applicable arguments 
+
+compiles rawtypes bottom doesnt method accepts gave reflection generic types class return raw class object fix problem casting return result solution solves runtime problem problems fact create instances jdk strict comparison casted return result scenes code allowed compile href https stackoverflow users holger holger jdk turns generics types lines raw types return result meaning method returns 

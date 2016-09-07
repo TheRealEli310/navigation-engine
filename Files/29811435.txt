@@ -1,0 +1,4 @@
+missing images servlet jetty 
+created small maven project servlets jetty servlet works fine outputs html page linked image displayed missing small piece code setup server piece servlet ouputs html image file img jpg build located subfolder img root jar file images css files javascripts embeded jar file experience displaying images ouput servlet images located jar file 
+
+great feedback joakim fix problem problem post solution strong step strong created folder build located root level inside jar file folder webroot image css javascript files folder strong step strong created basic setup servlet strong step strong servlet changed url exteral files correct location hope 

@@ -1,0 +1,4 @@
+couchbase view empty 
+retrieve list documents couchbase server view sdk empty result list pre class lang prettyprint override web console view empty filtered result list retrieval document id hand works flawlessly pre class lang prettyprint override query defined pre class lang prettyprint override img src http stack imgur yztdj png alt enter image description wrong 
+
+finally found solution reading href http tugdualgrall blogspot de couchbase create views mapreduce html rel nofollow blog entry problem parameter method prefix avoided calling pre class lang prettyprint override pre class lang prettyprint override leaves empty array rows 

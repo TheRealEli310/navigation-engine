@@ -1,0 +1,4 @@
+hibernate arg constructor 
+read href http docs jboss org hibernate core reference en html persistent classes html persistent classes pojo constructor rel nofollow hibenate requires arg constructor classes isnt true class implicit default constuctor dont declare explicitly project dont declare arg constructor classes eveything works fine hand guess hibernate specification written carefully declaring explicitely default constructor benefits 
+
+special benefits defining arg constructor explicitly entity classes mandatory hibernate entity bean classes require arg constructors defined explicitly programmer auto generated 

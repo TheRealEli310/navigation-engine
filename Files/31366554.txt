@@ -1,0 +1,4 @@
+placename lat long place picker show maps 
+make simple program button clicked placepicker opened place picked mainactivity opened button clicked pass place lat long pass showinmaps activity activity opened application stopped mainactvity showinmaps activitymain xml showinmaps xml androidmanifest xml logcat 
+
+oncreate method showinmaps activity shouldnt getintent intent started activity intent holding extras intent extras nullpointerexception refer href http developer android reference android app activity html getintent rel nofollow android documentation getintent 

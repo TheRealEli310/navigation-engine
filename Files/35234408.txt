@@ -1,0 +1,4 @@
+handling loop special cases 
+suppose common situation iterate large amount times execute function dox iterations execute function doy situations real performance issue break loop painful loops body large compiled code check condition iteration optimized compiler constant compile time optimizations 
+
+wont huge performance issue due href https en wikipedia org wiki branch predictor branch predicting refer href http stackoverflow questions processing sorted array faster unsorted array famous question branch predicting basically assemblys guessing statement evaluate guesses time guesses wrong backtrack performance issues branch predictor generally previous branched route guess branch statement evaluates false time branch predictor predict correctly time answer question compiled code check condition iteration strong strong optimized compiler assembly pipeline 

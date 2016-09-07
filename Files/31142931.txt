@@ -1,0 +1,4 @@
+length longest run error 
+write program returns longest run array program runs fine empty parameter produces showing bounds error fix current code error lang arrayindexoutofboundsexception 
+
+line produce exception array empty add check array empty general good idea state methods assumptions content parameters form parameter checks top method method work passed empty collection add check top return immediately throw exception strong strong fix code include resetting length 

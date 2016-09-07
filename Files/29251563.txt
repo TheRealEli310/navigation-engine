@@ -1,0 +1,4 @@
+wrapper class increases size object 
+simple question suppose class primitive integers int class wrapper class integer objects size greater 
+
+instances classes typically size jvms bit references wrapper bit values int references bytes total bit jvm bit jvm default header size bytes references bit compressed oops byte alignment total size bytes references bit gb heaps bytes reference total size bytes alignment heaps gb pair wrapper bytes concerned total space consumed integer cached integer total space bytes integer integer cached doesnt space 

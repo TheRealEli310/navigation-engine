@@ -1,0 +1,4 @@
+sort list student grade 
+exercise oop define abstract class human define class student derived human field grade define class worker derived human property weeksalary workhoursperday method moneyperhour returns money earned hour worker define proper constructors properties hierarchy initialize list students sort grade ascending order initialize list workers sort money hour descending order merge lists sort create classes human student worker sort list student grade code 
+
+href https docs oracle javase docs api util comparator html rel nofollow comparator sorting collection fashioned lambda expression 

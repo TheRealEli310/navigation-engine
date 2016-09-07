@@ -1,0 +1,4 @@
+error fragment provide default constructor public constructor arguments 
+class extends activity calling 
+
+newer version android sdk forces empty args constructor good practice save instance state bundle android recreates fragment calling default constructor case solutions create default constructor create instance set edittext setter method edittext parcelable set arguments strong edit strong suggested ignore errors configuring stop build application default constructor fragments 

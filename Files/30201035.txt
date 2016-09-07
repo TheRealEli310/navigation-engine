@@ -1,0 +1,4 @@
+token based spring security filter called 
+working project angular js spring rest services days security system href http stackoverflow questions implement basic spring security session management single page angu previous post implementing token based security basic stuff working xauthtokenfilter doesnt called requests idea simple overlooking relevant classes xauthtokenfilter dofilter strong strong called request xauthtokenconfigurer securityconfiguration clue doesnt called wrong url statements context good include webappinitializer 
+
+check href https github kpentchev spring security test rel nofollow git repo prepared basic setup test security filter implementation mock setting valid authentication header present application conformant configuring servlet container programmatically web xml 

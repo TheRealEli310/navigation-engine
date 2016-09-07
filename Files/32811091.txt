@@ -1,0 +1,4 @@
+concatenate elements sets delimiter stream 
+sets set consists elements set concatenated elements delimiter output delimiter initially thought streaming set applying elements wont solve 
+
+guava case simply method output collect 

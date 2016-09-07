@@ -1,0 +1,4 @@
+org apache spark sparkexception task serializable javasparkcontext 
+run simple spark code throwing error executing statement jsc object object inside functions spark workers understand instance workers change code avoid scenario 
+
+reference pulling outer class scope closure taking full object graph case create gson object closure declare spark context creation gson instance costly 

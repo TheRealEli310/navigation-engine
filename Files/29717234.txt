@@ -1,0 +1,4 @@
+adding string existing hashmap key overwriting 
+wondering adding existing key understand add key pair method overwrites existing multiple values stored paired key 
+
+hoping achieve case direct mapping key means return type return means make key overrides original assigned changing variable override original assigned map replaced multiple objects mapped single key object store multiple objects array list wanted assigning called check key hasnt create add add list assume values 

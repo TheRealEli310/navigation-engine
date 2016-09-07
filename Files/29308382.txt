@@ -1,0 +1,4 @@
+conflicts jdk6 xml apis 
+upgrading opensaml xerces impl dependency stack appears startup xerces impl redefine jre classes xml apis redefine jre interfaces org apache xerces jaxp datatype datatypefactoryimpl xerces impl weblogic jdk read href http stackoverflow questions dealing xerces hell maven dealing quot xerces hell quot maven exclude xml apis xerces impl throws noclassdeffounderror copying xml apis xerces impl jre lib endorsed throws classcastexception href http docs oracle javase docs technotes guides standards rel nofollow http docs oracle javase docs technotes guides standards adding djavax xml datatype datatypefactory sun org apache xerces internal jaxp datatype datatypefactoryimpl startup command throws adding djavax xml parsers saxparserfactory sun org apache xerces internal jaxp saxparserfactoryimpl throws dont idea 
+
+addition javax xml bind prefer application weblogic xml adding jaxb dependencies solved problem 

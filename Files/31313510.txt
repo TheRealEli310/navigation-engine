@@ -1,0 +1,4 @@
+initialize bean class spring 
+develop rest code spring mongodao class error blockquote caused org springframework beans factory beancreationexception error creating bean mongodao defined file usersuserdesktopitau77abc icoe walitaubankingtransac est client argetclassescomabcwalitaudemomongodaomongodao class instantiation bean failed nested exception org springframework beans beaninstantiationexception nstantiate bean class abc wal itaudemo mongo dao mongodao constructor threw exception nested exception lang nullpointerexception org springframework beans factory support abstractautowirecapablebeanfactory instantiatebean abstractautowirecapablebeanfactory blockquote 
+
+field autowired creating bean perform constructing actions constructor omitted generally custom constructors component classes 

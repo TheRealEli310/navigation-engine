@@ -1,0 +1,4 @@
+constant expression 
+understand href https docs oracle javase specs jls se8 html jls html jls jls expression considered constant expression compile program openjdk error error isnt constant expression missing bug openjdk 
+
+compiler constant folding precomputing trivial literal expressions case expression completes abruptly jls verbiage disqualifying meeting definition constant expression bug consistent jls expression doesnt evaluate warning user result constant expression compiler doesnt evaluating completing abruptly hand hand adding variable declaration doesnt compiler error switch forces expression evaluated compile time checked version oracle ibm jdks openjdk jdk8 specific 

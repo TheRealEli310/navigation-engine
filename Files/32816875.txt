@@ -1,0 +1,4 @@
+jdbc connections close finally block 
+question closing connection object cases problems ol li assume exception occurred strong block strong closing connection object li li exception occured strong catch block strong closing connection object li li closing connection object strong finally block strong li li difference closing connection object close method closing pooled connection close li ol strong strong dont closing connection object finally block good close connection block catch block problems explain 
+
+database consuming resources recommended close connection processing successfully adding fine query runs exception query issues connection closed recommended close connection finally block executed irrespective exception occurred put closing statement block handle multiple exceptions repeat code recommended 

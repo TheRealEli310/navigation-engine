@@ -1,0 +1,4 @@
+pass structure argument function return jni 
+questions structure jni ol li pass structure argument call back function li li return structure function li ol give 
+
+pass data structure object create jni side fill parameter object passed jni create pass jni function store result store pointers native structures cast pointer int long pass garbage collector free memory explicitly addition call jni function free memory play em finalize em id recommend explicit deallocation predictable times predictable threads 

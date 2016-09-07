@@ -1,0 +1,4 @@
+lang nosuchfielderror instance httpclient running oozie 
+app maven project httpclient accessing rest api writes response hdfs json works fine eclipse ide heres dependencies integrate oozie planning make rest api call hdfs write periodic encounter restcontroller app classes trace problem lies line code probing libraries source code deprecated searched problem multiple version conflict httpclient httpcore culprit httpclient dependency hadoop client hunch multiple version conflict resolve alternative solution opening httpclient avoid issue library httpclient 
+
+alternative worked jersey httpclient hadoop client jersey core jersey client dependency whats existing upgraded hadoop client hadoop version removed http client pom xml noticed http client version suddenly appears confirms hadoop client dependency suspected earlier reverted httpclient solution adjusted lines suit older version runs successfully oozie 

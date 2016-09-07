@@ -1,0 +1,4 @@
+send email linux jar file 
+schedule job linux run runable jar file written send emails command run jar file works send email gmail account crontab schedule job run min code didnt work expected didnt email gmail check var spool mail mail question receive email gmail schedule job update watch email var spool mail messages test test job tue apr return path test test job original test delivered test test job received test job postfix userid id b7d276b1e8d tue apr mdt cron daemon test test job test test job cron env xdg runtime dir run user cron env lang en utf cron env shell bin sh cron env home home test cron env path usr bin bin cron env logname test cron env user test message id 20150413195002 0e0356e778c test job date mon apr mdt bin sh command found idea 
+
+suspect path properly set cron runs bash profile full path 

@@ -1,0 +1,4 @@
+concurrentlinkedqueue iteration element order 
+element processed loop head queue strong strong preferable 
+
+correct orders elements fifo order strong href https docs oracle javase docs api util concurrent concurrentlinkedqueue html rel nofollow docs strong blockquote queue orders elements fifo head queue element queue longest time tail queue element queue shortest time blockquote 

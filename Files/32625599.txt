@@ -1,0 +1,4 @@
+wait multiple asynctask complete 
+parallelizing operation splitting exact number cores start number asynctask performing operation portions data order parallelize execution thread finishes job combine results perform operations 
+
+simply decrement counter shared object part runs thread main thread wont worry synchronization strong update strong shared object strong update strong comments answer op solution avoid building class sharing spawned 

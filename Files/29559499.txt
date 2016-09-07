@@ -1,0 +1,4 @@
+implements runnable extends thread ejb 
+lets class logic app needed called thread create thread call continue application br class ejb annotated class call thread code hr em working fine em point solution interface wanted time approach hr doesnt work server start crashes inject dependencies implement interface ejb isnt strong strong anonymous class 
+
+ejb spec blockquote enterprise bean attempt manage threads enterprise bean attempt start stop suspend resume thread change thread priority enterprise bean attempt manage thread groups blockquote href http www adam bien roller abien entry conveniently transactionally legally starting rel nofollow adams blog 

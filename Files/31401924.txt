@@ -1,0 +1,4 @@
+arquillian wildfly8 embedded jbas014670 failed initializing module org jboss logging 
+set project arquillian kind integration testing tutorials test running exception pom xml arquillian xml 
+
+reason maven eclipse settings completely working eclipse jvm settings unit test run add djava util logging manager org jboss logmanager logmanager 

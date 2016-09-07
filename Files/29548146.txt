@@ -1,0 +1,4 @@
+joda time sum times 
+joda time add times localtime format ignoring timezone todatetimetoday input string times expected output millis expected output millis strong ideia strong pre class lang prettyprint override strong edit update strong strong solved strong meno hochschild pre class lang prettyprint override strong soluction strong dexter pre class lang prettyprint override times sum solutions work ignoring time zone limitation hours 
+
+dont parse durations formatter designed formatting parsing points time process time overflow mangle calculated durations strong timezone issues strong root problem timezone europe berlin expression yields minutes hour ten minutes duration formatter joda time called strong updated comment op fix mishandling day overflow strong alternative fix expression order clock units 

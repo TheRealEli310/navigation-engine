@@ -1,0 +1,4 @@
+javafx stage wont show android 
+deployed javafx application android gluon plugin show stage wont show heres code stage code works run desktop application android 
+
+javafxports change scenes stages running android modified gluon href http gluonhq gluon plugin netbeans rel nofollow plugin netbeans default sample achieve switching scenes switching stages possibility gluon href http gluonhq products charm rel nofollow charm manage views href https github jperedadnr hellocharm rel nofollow project started 

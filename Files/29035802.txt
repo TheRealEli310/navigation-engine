@@ -1,0 +1,4 @@
+hibernate criteria list causing lang classcastexception 
+coming back years 2nd day hibernate dont fully understand criteria performing join creating valid sql query generate list results construct list pointers appreciated 
+
+criteria api exception thrown attempting results case problematic line check part methods field implements function returns 

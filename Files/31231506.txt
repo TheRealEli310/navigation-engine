@@ -1,0 +1,4 @@
+share spring boot yaml configuration applications 
+applications maven project configuration file setting property invoking springapplication run application set set share logging configuration logging configuration imported propertysource logging configured property sources read href http docs spring io spring boot docs current reference html boot features logging html rel nofollow logging section spring boot manual 
+
+spring boot default logback put logback xml file src main resources configure log applications automatically file configure logging engine learn configure logback href http logback qos ch manual configuration html rel nofollow http logback qos ch manual configuration html simple set log level info log console 

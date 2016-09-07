@@ -1,0 +1,4 @@
+response addcookie requestdispatcher forward cookie 
+issue cookies webapp jsp form log user user clicks submit loginservlet dopost method verifies username password correct adds cookies redirects homeservlet check cookies home servlet jsessionid code home servlet cookies jsessionid tomcat 
+
+forwarding request redirect servlet response sendredirect url request forwarding transfers request internally server side redirecting request makes client browser make request url cookies domain 

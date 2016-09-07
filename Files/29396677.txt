@@ -1,0 +1,4 @@
+play fork test false config options 
+play build sbt conf files arent loaded play running tests line build sbt load test conf running tests happening workaround run activator pass param command line remove good play finds conf resources step tests sucks missing build sbt bug play 
+
+forking tests means run separate jvm forking tests means run jvm sbt change parameters jvm started started solution fork pass flags jvm sbt runs start mention end question 

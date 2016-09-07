@@ -1,0 +1,4 @@
+recyclerview programmatically click 
+programmatically click item recyclerview perfectly works index visible item item visible position recyclerview istance exception thrown 
+
+call directly assuming view manages click listener click listener located reference object method call correct view parameter 

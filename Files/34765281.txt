@@ -1,0 +1,4 @@
+lang nosuchmethoderror org springframework orm jpa localcontainerentitymanagerfactorybean setpackagestoscan 
+building maven web mvc application configuration xml error unable find solution 
+
+update pom xml previously explicitly set version guess aforementioned method missing jar 

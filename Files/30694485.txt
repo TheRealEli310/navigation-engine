@@ -1,0 +1,4 @@
+spring map resolve property placeholder 
+spring creating beans resolving property placeholders easiest 
+
+spring href http docs spring io spring framework docs current javadoc api org springframework core env mappropertysource html rel nofollow register youll implementations provide registered values resolvers order find placeholder names heres complete 

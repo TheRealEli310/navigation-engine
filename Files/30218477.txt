@@ -1,0 +1,4 @@
+jaxb marshalling child class inheritance 
+object department root element aggregated object employee specialisations manager factoryworker set employee specialised objects employee object attributes marshalled id tips snippet code show marshalling jaxb output specialised attribute factory worker values parent employee 
+
+output demo href http ideone gw07mi rel nofollow http ideone gw07mi 

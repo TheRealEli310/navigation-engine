@@ -1,0 +1,4 @@
+tomcat7 starts incorrect version 
+questions stackoverflow provide solution problem solutions stuck app runs fine locally machine work ubuntu server tackle problem ol li understand means conflict version fixed installing ubuntu server making default li li ubuntu server local machine li li path ubuntu server li li restarted tomcat postgres matters li ol errors deploying war file edit don mark duplicate feel problem compiled running versions 
+
+showing ubuntu server noticed reason tomcat visited manager gui bottom issue fixed href http askubuntu questions jdk tomcat7 question ubuntu basically updated strong strong tomcat set mine restarted tomcat shows correct version tomcat 

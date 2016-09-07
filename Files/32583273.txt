@@ -1,0 +1,4 @@
+spark streaming warn replicated peer peers 
+spark streaming receive twitts twitter warning warning code 
+
+reading data em spark streaming em incoming data blocks replicated node worker fault tolerance happen case runtime reads data stream fails piece data lost read erased stream lost worker side failure referring href https spark apache org docs latest streaming programming guide html spark documentation blockquote spark streaming driver program running system receives data sources divides batches batch data treated rdd immutable parallel collection data input rdds saved memory replicated nodes fault tolerance blockquote warning case means incoming data stream replicated reason run app instance spark worker running local mode start spark workers warning 

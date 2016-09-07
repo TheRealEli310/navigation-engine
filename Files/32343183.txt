@@ -1,0 +1,4 @@
+retrofit locate converter class crashing app 
+retrofit recently released updated examples implement basic api call caused make api call 
+
+facing issue fixed adding build gradle converter creating retrofit instance 

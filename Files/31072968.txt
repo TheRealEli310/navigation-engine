@@ -1,0 +1,4 @@
+write read pgm p5 file 
+read pgm file image content byte array accessed pixels values negative applied amp 0xff byte hope write file isnt original image read write pgm p5 file 
+
+mind p5 format em binary em cast good text binary data write directly stream hr ps dont feel implementing pgm format created href http haraldk github io twelvemonkeys netpbm portable map pnm rel nofollow imageio plugin netpbm formats pnm open source bsd license 

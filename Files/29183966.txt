@@ -1,0 +1,4 @@
+runtime error anagram exception thread main lang stringindexoutofboundsexception string index range 
+solve question href https www hackerrank challenges anagram rel nofollow https www hackerrank challenges anagram heres code error exception thread main lang stringindexoutofboundsexception string index range lang string substring string anagram main anagram picking correct index substring looked fine 
+
+substring indexes string input1 input substring string input2 input substring parameter end index inclusive based testing time stringindexoutofboundsexception test empty string change mentioned wont error 

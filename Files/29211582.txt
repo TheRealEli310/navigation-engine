@@ -1,0 +1,4 @@
+bcprov bcprov ext differ 
+noticed bouncycastle provider libraries em bcprov em em bcprov ext em differ choose 
+
+em bcprov em typically library em bcprov ext em includes obscure crypto algorithms havent part main release v1 briefly explained href https www bouncycastle org latest releases html rel nofollow latest releases page blockquote release implementations encryption algorithms removed regular jar files request number users jars names form strong strong include moment list ntru blockquote ntru href http en wikipedia org wiki ntru rel nofollow algorithm personally id heard 

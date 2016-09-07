@@ -1,0 +1,4 @@
+strange error jpa openshift 
+error worrying days hard test occurs ee application hosted openshift connecting mysql cartridge jpa hibernate handle connection orm purposes connection application working fine access database hours guess openshift hibernated servlet doesnt work anymore exception excerpt important part exception thrown database access class persistence xml looked examples tutorials find problem advance 
+
+keeping references instances good practice static variable case keeping stall object connection closed practices advice scope current transaction 

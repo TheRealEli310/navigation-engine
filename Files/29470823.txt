@@ -1,0 +1,4 @@
+hashmap dto 
+wrong hashmap dto calling beans setters getters put hashmap pass services hashmap implements serializable interface bad practice scenario face issue advance 
+
+ul li compile time checking pull returned hashmap compile time validation youre casting valid li li difficult refactoring ides intellij great facilities refactor class method names variables difficult dictionary pattern li li greater ambiguity return values phase project back user object getusername method phase sudden access password attribute user object accessible simply class hashmap necessarily case dont access source class generates hashmap case ejb youll data attributes li ul hoping helpful 

@@ -1,0 +1,4 @@
+ignore field serialization deserialization 
+pojo class deserialize json object read fields values serialize object json ignore 
+
+javadoc href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsonignore html rel nofollow states blockquote addition starting jackson annotation property property setter annotation getter annotations getter effectively strong accessors annotations getter accessors setter field explicit annotation prevent ignoral jsonproperty strong blockquote annotate getter setter appropriately 

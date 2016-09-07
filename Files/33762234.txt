@@ -1,0 +1,4 @@
+make schema created spring jdbc default schema 
+spring boot jdbc database connection schema sql classpath initialize schema tables schema doesnt exist connecting datasource configure datasource application properties schema sql select schema creating doesnt persist long configure properly select default schema create script change datasource url 
+
+jdbc switch databases jdbc driver aware database operating 

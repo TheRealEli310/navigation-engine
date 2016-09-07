@@ -1,0 +1,4 @@
+remove tabs pagerslidingtabstrip 
+created application android pagerslidingtabstrip created tabs adapter fragments remove view view hidden application shows empty view tab title persist 
+
+didnt test lines 

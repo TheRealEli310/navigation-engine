@@ -1,0 +1,4 @@
+deserialize enum jsoncreator factory method 
+de serialize json enum jackson factory method argument works fine add arguments stops working code code deserialize json exception versions jackson databind jackson annotations dont write custom deserializer mistake approach option supported jackson thing works 
+
+feature missing jackson library opened issue href https github fasterxml jackson databind issues rel nofollow jackson databind github project wait fix upcoming release 

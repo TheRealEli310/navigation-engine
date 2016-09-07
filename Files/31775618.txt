@@ -1,0 +1,4 @@
+difference boolean true true 
+firstly mem true statement error line lang nullpointerexception understant wrapper class give guidance 
+
+null compared primitive boolean make autoboxing means call npe 

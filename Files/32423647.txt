@@ -1,0 +1,4 @@
+save float file android 
+simple game store highscore float file read time user app saved device found persist data device chosen location 
+
+internal storage create files written read create separate class handles files methods read write highscore set highscore sethighscore float highscore gethighscore 

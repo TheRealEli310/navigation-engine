@@ -1,0 +1,4 @@
+minmaxpriorityqueue streams 
+memory efficient find top elements huge collection instance word distance method collection words implemented class pair implements compareto pairs sorted values streams naive solution understanding process intermediately store element words sorted applying limit memory efficient collection stores elements element added removes smallest element comparable objects natural order grows larger guava href http docs guava libraries googlecode git javadoc google common collect minmaxpriorityqueue html rel nofollow minmaxpriorityqueue current solution problem sorting top elements remains converting queue stream list issue small question streams 
+
+heap based structure efficient sorting entire huge list luckily streams library perfectly happy specialized collections solution easy parallelize idiomatic java8 replaced reason wont compile conditions comments 

@@ -1,0 +1,4 @@
+request runtime permissions v4 fragment callback fragment 
+weird issue causing conflict switch native fix bugs original problem navigation drawer setup permission fragments call prompt shows fine accept deny permission callback called called activity fragments attached useless callback work fragment mind told works changed navigation drawer work native fragments v4 support library fragments em em appcompatactivity things work back previous fragment long story short call permission callback feel bug android hasnt addressed longwinded code standard methods runtime permissions work v4 fragments doesnt work understanding advice offer 
+
+behavior present v4 fragment support class href http developer android reference android support v4 app fragment html requestpermissions lang string 20int activity fragmentcompat implementations exist people native classes extended functionality api levels 

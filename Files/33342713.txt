@@ -1,0 +1,4 @@
+error compilation code lambda expression 
+code runs fine run main method throws error compile eclipse ide compile command line 
+
+default compile classes quoting href http maven apache org plugins maven compiler plugin documentation blockquote present default source setting default target setting independently jdk run maven change defaults set source target setting source target compiler blockquote configure pre class lang xml prettyprint override 

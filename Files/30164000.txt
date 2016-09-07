@@ -1,0 +1,4 @@
+running ssh executing commands remote machines 
+developer assigned work project programmatically linux boxes run commands run output commands collected displayed ui library called sshxcute accomplish questions ol li solution based kind requirements nodejs ruby rails li li real time logs system command executed logs commands run li li run multiple parallel process machines asynchronously li ol 
+
+href https github hierynomus sshj rel nofollow sshj open ssh connection send commands read output 

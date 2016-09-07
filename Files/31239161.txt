@@ -1,0 +1,4 @@
+save spark rdd local file system 
+rdd generated spark write rdd csv file provided methods saveastextfile outputs csv file hdfs write file local file system ssis process pick files system load db unable sqoop writing shell scripts clarity needed 
+
+local file system paths running distributed cluster data back cluster save standard file operations 

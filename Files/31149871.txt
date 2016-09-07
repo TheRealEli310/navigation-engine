@@ -1,0 +1,4 @@
+programmatically invoke infinispan cache loader 
+setup cache loading strategy infinispan cache seeded content dat created infinispan human readable txt file created manually exporting cache entries based system property programmatically invoke infinispan cache loader load dat file parse txt file load cache seed cache dat file 
+
+cache loaders writers created startup add fly create cache put cache loader programmatic configuration youd call read cache contents including data store feed target cache clear cache loading dont run memory file large create cache loader class call read entries find instantiate testsuite code format simple magic bytes beginning file entry size bytes key length bytes data length bytes metadata length bytes expiration timestamp bytes header key data metadata objects marshalled bytes back 

@@ -1,0 +1,4 @@
+run tomcat jersey refuses load 
+basically create simple world program rational software architect create server tomcat jersey found create server putting jersey jar files web inf lib create custom user library jar files tomcat compile fine url load world text error simple href http localhost rel nofollow http localhost em project em rest em class path em dont jersey files web inf lib put jersey jar files folder run tomcat server server tomcat v7 server localhost failed start error advance code web xml 
+
+unsupported class version error suggests newer version jersey supported tomcat installation jre version mismatch jersey library requires newer jre older version 

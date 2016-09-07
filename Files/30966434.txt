@@ -1,0 +1,4 @@
+id column pojo reflection 
+reflection primary key column pojo defined annotation id find property annotation 
+
+solution heads wont work compound primary keys 

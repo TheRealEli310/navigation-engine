@@ -1,0 +1,4 @@
+adding custom component scenebuilder 
+selection listener select method pane monitor present highlight node clicked works great work scenebuilder anymore fxml references panewithselectionlistener pane custom pane scenebuilder looked questions combination fxml controllers pane swap pane panewithselectionlistener initialization time 
+
+issue make custom class scenebuilder steps ol li bundle custom class supporting classes jar file li li scenebuilder activate drop button library top left pane img src http stack imgur vrdmg png alt enter image description li li choose import jar fxml file li li select jar file created step li li make class access scenebuilder checked li li press import component li li scenebuilder custom left pane img src http stack imgur tz5ie png alt enter image description li ol youll notice drop scenebuilder custom library folder option open folder jar files stored quick option copy jar files folder short delay contained classes custom list 

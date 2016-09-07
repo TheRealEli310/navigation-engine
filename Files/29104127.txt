@@ -1,0 +1,4 @@
+storing multiple rows select queries 
+older question mine completely redone question confuse people written program queries database intended retrieve rows data previously written program informix 4gl sql cursor loop database store row dynamic row record understand row records ended code code works hit database data store variables work feel suited lines code informix 4gl give advice achieve similar result 
+
+order effectively custom objects lot static methods inside class coming procedural background procedural language create type plop inside class create separate file loop doesnt necessarily address number lines people dont interact databases low level api general fewest number lines questionable goal isnt choice 

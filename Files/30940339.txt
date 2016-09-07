@@ -1,0 +1,4 @@
+array json list view 
+listview display json array receiving error logcat follwoing mainactivity class understand problem causing json displayed listview 
+
+worked commented code make work 

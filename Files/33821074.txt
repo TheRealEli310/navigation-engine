@@ -1,0 +1,4 @@
+read properties file multi module project 
+project modules structure module1 dependency war module2 module2 independent war file problem abc jsp module1 submits action module2 access prop properties null pointer exception propstream null find file giving path wrong called module classloader access module files 
+
+problem resources files put wind subdirectory war file set work em reliably em jws mind classloader class present jar war read blockquote proper introduce module dependency put shared resources modules depend blockquote jws web start frameworks similar classloading strategies anchor approach strong anchor approach classloading strong hold classloader class requires loaded class trick put dummy class jar resources files lets structure jar file throw dummy class jar making code classloading works expected robust 

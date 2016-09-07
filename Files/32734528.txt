@@ -1,0 +1,4 @@
+intermittent issue stored procedure execution spring 
+exception application logs application restart app server restart issue occurs time days time application working fine intermittent issue spring framework version release calling stored procedures org springframework jdbc object storedprocedure 
+
+issue resolved ojdbc6 jar ojdbc14 jar jdk environment 

@@ -1,0 +1,4 @@
+force dependency include artifact specific version number 
+error build gwt project maven blockquote project declares dependency gwt user plugin designed gwt version blockquote found gwt user downloaded google gwt eventbinder force google gwt eventbinder gwt user strange thing build worked git pull pom xml 
+
+strong solution strong problem eventbinder dependency gwt user artifact default command href http stack imgur dofbs png rel nofollow img src http stack imgur dofbs png alt enter image description add dependency block pom href http stack imgur fcoi6 png rel nofollow img src http stack imgur fcoi6 png alt enter image description means project gwt user time havent tested version compatibility problem solved strong solution strong thomas broyers comment force eventbinder gwt user gwt dependency add dependency management pom result href http stack imgur olnc4 png rel nofollow img src http stack imgur olnc4 png alt enter image description 

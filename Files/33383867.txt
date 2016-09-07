@@ -1,0 +1,4 @@
+run job hour thread 
+run job thread hour job read files folder created simple thread runs hour call function read files approach good approach good 
+
+href http docs oracle javase docs api util concurrent scheduledthreadpoolexecutor html rel nofollow scheduledexecutorservice task href http docs oracle javase docs api util concurrent scheduledexecutorservice html rel nofollow sample 

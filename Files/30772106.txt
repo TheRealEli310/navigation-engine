@@ -1,0 +1,4 @@
+programmatically delay android 
+didnt work app stops responding put delays code handler looping continue waiting sec delay stop looping sec line continue looping 
+
+reason doesnt respond call sleep current thread current thread youre dealing ui thread basically change background sleep thread preventing changed sleeps run loop thread sleep doesnt affect main thread background change handler create strong strong starting thread handler created current thread ui thread message posted run thread basically loop wait thread background changing ui thread 

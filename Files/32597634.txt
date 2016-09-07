@@ -1,0 +1,4 @@
+check linked list equal 
+basically completing hacker rank excercise return list completely equal meaning number nodes lists values nodes equal return method wrote reason failing test case wrote test cases book hand tracing figure found solutions online curious solution working 
+
+code compare element list element list loop stops early loop condition makes check element adaption check check em em comparison order avoid comparison personally write part easier understand symmetric usage makes compare actual em content em payload references id return type 

@@ -1,0 +1,4 @@
+scriptengine clear dispose 
+application offer plugin ability end users user makes script application replaces engine instane instance strong closely related questions strong ul li strong reuse engines strong perform kind li li replace engine instance strong dispose previous instance strong avoid memory leaks imagine user manage create script starts thread li ul problem strong find method strong current approach correct 
+
+single engine instance separate objects acts top level program environment evaluate script basically global scope href http docs oracle javase docs api javax script scriptengine html eval lang string javax script bindings rel nofollow api docs takes argument takes argument script code surviving previous evaluation youll save initialization time script engine predefined javascript data holder classes property maps hidden classes garbage collected explicit disposal api 

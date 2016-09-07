@@ -1,0 +1,4 @@
+javafx glow shatter animation 
+starting code learn javafx easy project problem add glow effect graphic context animation slows dramaticly 
+
+apply glow href http docs oracle javase javafx api javafx scene canvas canvas html rel nofollow node href http docs oracle javase javafx api javafx scene canvas graphicscontext html rel nofollow animation occur normal speed slideshow speed change internal implementation javafx applying effects href http docs oracle javase javafx api javafx scene effect glow html rel nofollow orders magnitude efficient file issue href https javafx jira kenai rel nofollow javafx issue tracker developer test environment 8u40 os 

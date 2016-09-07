@@ -1,0 +1,4 @@
+find manhattan distance continuous dimensional matrix 
+lets matrix goal configuration sorted manhattan distance algorithm calculate distance destination steps matrix continuous shift rows columns directions step spot modify manhattan distance algorithm reflect property 
+
+usual case grid wraparound define manhattan distance means absolute wraparound grid horizontal lines rows vertical lines columns calculate manhattan distance function takes minimum values reasoning formula distance row row direct distance rows wraparound distance img src http stack imgur ypyxv png alt distance rows wraparound distance rows minimum direct distance wraparound distance argue likewise distance columns manhattan distance simply sum distance rows distance columns rows columns calculate manhattan distance img src http stack imgur v1ivi png alt manhattan distance wraparound manhattan distance wraparound manhattan distance 

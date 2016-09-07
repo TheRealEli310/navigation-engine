@@ -1,0 +1,4 @@
+selenium grid register remote machine node giving failed connection refused error grid console 
+grid console href http localhost grid console rel nofollow http localhost grid console error message blockquote defaultremoteproxy unknown version connect failed connection refused connect blockquote requirement register machinea hub machineb node hub run selenium scripts simultaneously machines browsers steps reproduce ul li step1 execute hub machines cmd prompt register hub li li step2 execute hub machines cmd prompt register remote machine node li ul 
+
+defaultremoteproxy unknown version connect failed connection refused connect message longer exists remote sharing enabled hub node desktop 

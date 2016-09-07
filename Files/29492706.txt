@@ -1,0 +1,4 @@
+set unique id item android listview 
+code onitemclick listener send expense id activity set individual expense id item code added expense id item splitting id bad approach set hidden id attribute listitem listitem add expense id string object index equal expense id work arraylist start index answers br user custom adapter implemented arrayadapter properly br settag gettag works entire listview object doesnt work individual items 
+
+create separate list expense id added expenseid list loop expense id int onitemclick method code 

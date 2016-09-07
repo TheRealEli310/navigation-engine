@@ -1,0 +1,4 @@
+error inflating class android support design widget navigationview 
+tutorial implementing navigationview design support library error read solutions posted site worked activity main xml mainactiviy build gradle edit stack trace caused android view inflateexception binary xml file line error inflating class android support design widget navigationview caused lang reflect invocationtargetexception caused android view inflateexception binary xml file line error inflating class android widget relativelayout caused lang reflect invocationtargetexception caused lang outofmemoryerror failed allocate byte allocation free bytes 174mb oom edit problem header xml 
+
+start image header elements navigationdrawer higher resolution application allocated memory handle reduce images sizes check resolve issue add stack trace find element causing problem 

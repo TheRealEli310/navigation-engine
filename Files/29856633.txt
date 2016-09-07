@@ -1,0 +1,4 @@
+driver connection problems hibernate oracle 
+hibernate problems connect oracle database step step href https netbeans org kb docs web hibernate webapp html rel nofollow tutorial href https netbeans org kb docs web hibernate webapp html rel nofollow errors oracle driver establish connection exact error img src http stack imgur 3k2jh png alt enter image description hibernate cfg xml set jdbc oracle driver dont idea wrong advance 
+
+oracle driver classpath oracle site download oracle thin driver page 11g href http www oracle technetwork apps tech jdbc html rel nofollow http www oracle technetwork apps tech jdbc html netbeans instructions talking oracle href https netbeans org kb docs ide oracle db html oci rel nofollow https netbeans org kb docs ide oracle db html oci youll install oracle database instant client make ojdbc6 jar file classpath 

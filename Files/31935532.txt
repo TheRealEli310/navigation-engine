@@ -1,0 +1,3 @@
+return number times string appears string 
+problem passes test cases 
+

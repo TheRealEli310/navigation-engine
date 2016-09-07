@@ -1,0 +1,4 @@
+failed load en semi model sphinx4 
+recently tasked rewriting server meant migrating speech recognition capabilities pocketsphinx api sphinx4 api dictionary language model files working pocketsphinx default en semi acoustic model provided cmu sphinx site acoustic model required pocketsphinx chose en semi model thinking satisfactory error initializing spring bean code error thrown constructor assertion failing dictionary file ordinary english words potato alongside internet service names hotmail facebook twitter hugely appreciated 
+
+latest version sphinx4 5prealpha href http cmusphinx sourceforge net wiki tutorialsphinx4 rel nofollow http cmusphinx sourceforge net wiki tutorialsphinx4 default en generic ptm model accurate model default sphinx4 model en semi latest pocketsphinx works model en semi supported sphinx4 

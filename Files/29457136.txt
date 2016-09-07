@@ -1,0 +1,4 @@
+materialdesign toolbar back arrow showing versions lollipop 
+setup custom black back arrow themes application shown toolbar homeasupindicator themes xml file v21 general themes xml lower versions relevant code lollipop works fine prior versions kitkat arrow appears toolbar arrow click location behavior problem custom arrow display prior versions themes 
+
+appcompat prefix remove prefix native platforms implementation appcompat fro mthe support library attribute prefix 

@@ -1,0 +1,4 @@
+spring mvc test mockito modelattribute nullpointer 
+unit test simple spring mvc controller simplest unit test fails throws question mock set mocking method repository fails classes strong testcontext strong strong standalonebenutzercontroller strong strong benutzercontroller strong part throws nullpointer 
+
+solution si mo hinted set mock repository tested benutzercontroller constructor 

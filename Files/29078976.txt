@@ -1,0 +1,4 @@
+ejb application deploying websphere 
+installing application server server start application error log relevant part stack trace enterpraise application ejb jar added ear compilation error build successfull maven added log4j jar file dependecy project miss 
+
+ways deployed application find dependent jar include correctly ejb jar inspect contents packaged ejb jar file confirm log4j jar fact included winzip adding log4j jar file shared library websphere server instance case applications deployed server instance maven ensure set log4j dependancy option option include log4j jar packaged application 

@@ -1,0 +1,4 @@
+ignition ignite returns grid instance properly started stopped 
+node apache ignite cluster call scala shell program running machines naming cluster didnt work nodes started started thing worked works instance running machine bugged work 
+
+client application start node join topology provide connectivity cluster dont node store data execute jobs case start client mode topology snapshot servers client added method reference instance started started thrown 

@@ -1,0 +1,4 @@
+osgi missing requirement osgi wiring package 
+write project modules create intellij idea maven add osgi framework support modules maven bundle plugin configure export package import package run error launcher module bundle activator org gxkl server package service module similar pom configure modules service module wrong pom file launcher pom file service 
+
+error message means bundle imports package bundle framework exports package remove sections poms needed 

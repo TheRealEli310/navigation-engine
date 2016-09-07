@@ -1,0 +1,4 @@
+write logs specific file appender log4j 
+log4j properties multiple file appenders make logs written specific file class write messages lets success file messages temp file 
+
+access 

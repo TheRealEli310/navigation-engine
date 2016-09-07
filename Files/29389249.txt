@@ -1,0 +1,4 @@
+set root directory apache mina sshd server 
+strong apache mina sshd api strong start local sftp server sftp client strong jcraft jsch api strong create sftp client successfully start server problem write unit test cases check client put files servers root directory sftp server doesnt root directory approach set servers root directory strong sftp strong set path server root directory client read write files time connect server div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override 
+
+default takes root path system property called inorder change override return path 

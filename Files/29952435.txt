@@ -1,0 +1,4 @@
+find list escape character sqlite 
+list add backslash 
+
+sql backslashes escaping string literals written directly sql command delimited single quotes single quote inside string doubled table column names delimited double quotes double quote table column doubled parameters stronly recommended escape 

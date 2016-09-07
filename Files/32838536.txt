@@ -1,0 +1,4 @@
+jboss start address localhost 
+strong environment strong ul li jboss li li intellij idea li li li li javaee li li windows x64 li ul capable staring jboss server complains port strong error strong nmap port result dont clue process idea 
+
+netstat command find process flag display connection ports executable pid kill process alive reconfigure jboss server bind jndi service port 

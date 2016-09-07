@@ -1,0 +1,4 @@
+performance difference raspberry pi open oracle jdk 
+raspberry performance tests caffeinemark scimark jvms huge performance difference heard differences small calculating floating numbers oracle jdk score support hard float abi os program counts float steps test performance jvm handling floats openjdk 257ms br oraclejdk 151ms steps openjdk 457ms br oraclejdk 263ms enhancements mentioned slipperyseal put test loop c2 compiler results 
+
+openjdk vm interpreter jvm hand easier port architecture specific assembly code hand performant architecture specific assembly code oraclejdk takes advantage platforms floating point abi soft float rp1 hard float rp2 imagine amount assembly code specific arm architecture scores jit compiler named shark based llvm introduced openjdk vm early systems openjdk build shark compromise assembly code running efficient native code shark enabled building icedtea shark enabled improve performance shark enabled reason openjdk suck 

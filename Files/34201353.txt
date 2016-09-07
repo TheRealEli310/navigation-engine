@@ -1,0 +1,4 @@
+passing parameter observable create 
+rxjava android asynchronously access database save object database created method final parameter object save returns observable point dont care emit call end code thing answer final keyword parameter reason dont approach declare final variable order thread alternative 
+
+suggest avoiding simple violate advanced requirements rxjava factory methods case factory method wanted final parameter 

@@ -1,0 +1,4 @@
+mongocursor count method 
+code documents href http stackoverflow questions limiting results mongodb full count answer exact question api methods href http api mongodb org mongodb client finditerable html rel nofollow finditerable href http api mongodb org mongodb client mongocursor html rel nofollow mongocursor classes strong update strong workaround making call mongodb href http stackoverflow philipp 
+
+href http api mongodb org mongodb client mongocollection html count org bson conversions bson rel nofollow count method found href http api mongodb org mongodb client mongocollection html rel nofollow mongocollection returns total number documents collection returns number documents collection match criteria 

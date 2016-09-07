@@ -1,0 +1,4 @@
+android receive usb bulk transfer 
+created app sets usb accessory sends data bulk transfer android device print data textview moment android device sees connection accessory launches app bulk transfer fails suggestions utility reports endpoint information android device attempting write 0x02 endpoint android code app code androidmanifest xml 
+
+issue aop standards android device entered accessory mode vid pid change setting accessory device handle interface reclaimed 

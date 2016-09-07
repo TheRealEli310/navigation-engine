@@ -1,0 +1,4 @@
+multiple cxf endpoints call webservice camel 
+endpoints implement separate web service call defining endpoints consume endpoints routes endpoints override comment endpoint running successfully messagecontentlist web service response information hr route definition 
+
+solved problem found endpoints beanid cxfendpoint defined camel config xml defined id cxfendpoint1 camel config xml endpoint solved problem web service calls working fine hassles respective endpoints 

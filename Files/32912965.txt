@@ -1,0 +1,4 @@
+undefined commonname certificate 
+working certificate added soapui project gave access pre production server ready move production environment check production certificate soapui error error log difference found pre production production certificates commonname field defined field mandatory solve problem certificate option suggestion appreciated 
+
+check soapui project href https github smartbear soapui blob soapui pom xml rel nofollow versi commons ssl versi check method href http juliusdavies ca svn commons ssl tags commons ssl src org apache commons ssl keystorebuilder rel nofollow class exception thrown error log youll youre problem certificate common returns alias throwing dont mandatory href https www ietf org rfc rfc5280 txt rel nofollow rfc5280 code software purposes commons ssl certificate version test environment hasnt cn soapui test environment youve reissue certificate generating csr cn report problem soapui include latest version hope helps 

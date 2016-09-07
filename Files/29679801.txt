@@ -1,0 +1,4 @@
+chaining rxjava observables callbacks listeners 
+retrofit observables chain observables works functions returns observable task case ol li getkey li li returned key library wait callback called li li callback returns send result li ol id single chained call subscribe guessing wasnt approach handle callback make 
+
+adapting clemp6rs solution nested general possibly wrap callback based asynchronous operation 

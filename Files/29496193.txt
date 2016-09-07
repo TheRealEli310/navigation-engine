@@ -1,0 +1,4 @@
+setup jersey tomcat restful web app 
+excuse lack naivety web applications understand setup application strong problem strong building restful api application locally jersey amp tomcat setup tomcat intellij endpoint methods method application working fine deploy application heroku heroku build open urls checking logs basically telling web application running part application launch tomcat locally configured intellij heroku editing strong em procfile em strong problem start method strong question strong deploy web application tomcat strong strong method work fine locally wild doesnt people similar tomcat doesnt make sense launch tomcat locally href http blog sortedset embedded tomcat jersey rel nofollow http blog sortedset embedded tomcat jersey case helps file 
+
+launch war file article setting href https devcenter heroku articles webapp runner rel nofollow https devcenter heroku articles webapp runner 

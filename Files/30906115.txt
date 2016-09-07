@@ -1,0 +1,4 @@
+android kryonet client wont connect pc server 
+made basic server eclipse created client android studio installed library correctly google put kryonet jar libs folder rebuilt project kryonet classes code client exact code normal client running directly android device error connect ip port forwarded wont connect read online add manifest file absolutely avail wrong network ip public ip idea wrong works fine normal program android app bugs 
+
+working 

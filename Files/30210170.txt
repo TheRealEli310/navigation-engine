@@ -1,0 +1,4 @@
+fxml needed declaration 
+fxml needed declaration img src http stack imgur 1j18f png alt enter image description img src http stack imgur p6ozd png alt enter image description 
+
+annotation enables inject values defined fxml file references controller class words annotate initialized method called element fxml file pointed comments means write code initialized create code immediately initialized defined fxml file redundant worst misleading dont correctly match variable names variable referring wrong error difficult track actual question loads fxml file attempt inject elements attribute controller ol li field variable matching attribute em em li li field variable matching attribute annotated li ol fields omit annotations work follow good practice make fields declaration annotated injection work work 

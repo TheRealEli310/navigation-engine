@@ -1,0 +1,4 @@
+encoding numbers words 
+task writing program finds phone number encodings words prints mapping letters digits dictionary txt file words program number input output dictionary txt words mir tor firstly decided create special structure quick searching word dictionary key number word dictionary list words dictionary number structure initialized starting program entry search quickly dictionary receive words numbers curious part input number combinations consecutive substrings split input number list combinations check entry bucketword dictionary input numbers length long spend time combinations substrings solving problem solution task information task href http poj org problem id rel nofollow strong edit strong spiderpig advised recursion small change helps find words subsequent digits added numbers buckets working case 
+
+recursive backtracking algorithm faster doesnt combinations promising 

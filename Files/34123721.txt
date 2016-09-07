@@ -1,0 +1,4 @@
+gson de serialization wrapper class 
+convenience class wrapper map reason map directly wrapper methods access map indirectly de serialize object json serialize wrapper class wasnt json output default passing gson matters object contained gson contextual deserialization object mapwrapper map 
+
+implement custom jsonserializer jsondeserializer type register construct gson instance call print 

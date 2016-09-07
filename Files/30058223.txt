@@ -1,0 +1,4 @@
+profile status secondary mongodb driver 
+profile status secondary s132 driver looping eventually times profile status primary s124 works fine code mongo shell problems status replset 
+
+direct command primary node underneath executes write command explicit read commands supply read preference 

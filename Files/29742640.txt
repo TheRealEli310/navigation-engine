@@ -1,0 +1,4 @@
+checkboxtablecell tableviewercolumn 
+unable find examples provide implementation grateful working model shows string values unable represent boolean checkbox show string tableviewercolumn 
+
+href http www vogella tutorials eclipsejfacetable article html tutorial jfacetable rel nofollow checkbox image represent bolean cell creates custom view extends static fields hold image method return images depending boolean check link details editable checkbox create href http eclipse org juno index jsp topic 2forg eclipse platform doc isv 2freference 2fapi 2forg 2feclipse 2fjface 2fviewers 2feditingsupport html rel nofollow editingsupport object column checkbox add editing support specific column table href http www vogella tutorials eclipsejfacetableadvanced article html jfacetable editor rel nofollow turotial column editing support detailed post href http blog csdn net ycnanevol article details rel nofollow add editable checkbox jface tableviewer 

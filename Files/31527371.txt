@@ -1,0 +1,4 @@
+toolbar widget overlaps scroll view 
+implemented scroll view android toolbar widget deployment toolbar appears overlap scrollview reason strong fragment xml strong strong activity xml strong strong aboutactivity strong 
+
+activity xml framelayout framelayout responsibility child views linearlayout framelayout h3 activity xml h3 

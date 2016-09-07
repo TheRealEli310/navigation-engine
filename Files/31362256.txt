@@ -1,0 +1,4 @@
+return arraylist strings minimum number occurrences 
+duplicates wanted make function returns strings occur number times return dog cat heres current code problem read collections library slow drag method reduced hashsets tables kind loss 
+
+sort map required carry written hashmaps depending length strings hashmap efficient collections difference negligible 

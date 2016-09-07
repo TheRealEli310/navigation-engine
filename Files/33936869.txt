@@ -1,0 +1,4 @@
+apache cxf plugin results empty target node 
+generate stub webservice code wsdl file ran mvn install command originally referenced wsdl problems duplicate names looked online realised needed binding file setup code compile relevant details strong pom file plugin entry strong strong binding file mybinding xml strong strong wsdl file myservice wsdl strong run mvn install errors idea resolve 
+
+propose version mybinding xml order resolve errors encounter moment replaced ul li strong em em strong strong em em strong li li strong em em strong strong em em strong li ul file hope 

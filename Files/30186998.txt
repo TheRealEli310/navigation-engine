@@ -1,0 +1,4 @@
+line check string bannedsubstrings 
+perform line check free approach method streams solve problem line solution 
+
+sounds read href http docs oracle javase docs api util stream stream html anymatch util function predicate inversely href http docs oracle javase docs api util stream stream html nonematch util function predicate isnt efficient long string titles arent supposed long suppose 

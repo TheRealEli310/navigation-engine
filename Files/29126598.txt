@@ -1,0 +1,4 @@
+deployment jbpm console war eclipse service service jboss ejb default resource adapter service found 
+successfully start jboss server kie workbench ant start demo configure eclipse start jboss server kie workbench eclipse downloaded jboss marketplace eclipse created jboss server home directory server eclipse wildfly final folder jbpm installer folder start jboss server eclipse error describing jbpm console war file unable start failed process phase parse deployment jbpm console war caused org jboss msc service servicenotfoundexception service service jboss ejb default resource adapter service found correctly configure eclipse jboss server kie workbench jbpm console started eclipse 
+
+standalone full profile starting server manually command line parameters starting server installer copy href https github droolsjbpm jbpm blob final jbpm installer build xml l487 rel nofollow https github droolsjbpm jbpm blob final jbpm installer build xml l487 

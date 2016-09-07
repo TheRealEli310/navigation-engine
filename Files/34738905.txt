@@ -1,0 +1,4 @@
+deploy play framework application glassfish read application conf 
+deploy play framework application glassfish maven play2 plugin made war file instruction href https play2 maven plugin github io play2 maven plugin beta4 war packaging html rel nofollow https play2 maven plugin github io play2 maven plugin beta4 war packaging html deploy war glassfish console returned error mybatismodule application read application conf containts db setting give advices strong update strong disabled implicit cdi option glassfish console deployed application dont error error conf application conf works local environment glassfish read application conf war file give advice strong update strong part full log 
+
+problem href https www playframework documentation migration24 jdbc connection pool rel nofollow https www playframework documentation migration24 jdbc connection pool add setting application conf works sql oracle db 

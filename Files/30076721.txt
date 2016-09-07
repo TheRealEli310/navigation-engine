@@ -1,0 +1,4 @@
+akka create actor constructor taking parameters 
+create actor customized constructor searched documentation didnt found actor doesnt work 
+
+docs href http doc akka io docs akka snapshot untyped actors html props http doc akka io docs akka snapshot untyped actors html props 

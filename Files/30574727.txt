@@ -1,0 +1,4 @@
+table names query types sql statement 
+jsqlparser parse sql statement table query type br eg1 br br query table query type br similarly table query type br eg2 br br query table query type br similarly table query type br eg3 br br knew query simplified pasted br query table query type br similarly table query type br table names query type table query type complex sql query br br br br comment provide details 
+
+question filed tricky jsqlparsers api lacks extension points correct created issues github sample running output main tool strong tablesnamesfinder strong strong jsqlparser strong table names sql modify select statement based table names separate strong tablesnamesfinderext strong correct subselect problem strong insert strong statement short finder recognizes subselects sets global flag strong inselect strong fill separate strong myselecttablelist strong subsequent calls strong visit table strong 

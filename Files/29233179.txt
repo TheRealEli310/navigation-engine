@@ -1,0 +1,4 @@
+synchronous queue fairness policy threadpooltaskexecutor bean 
+bean href http docs oracle javase docs api util concurrent synchronousqueue html synchronousqueue boolean rel nofollow oracle documentation synchronousqueue blockquote class supports optional fairness policy ordering waiting producer consumer threads default ordering guaranteed queue constructed fairness set true grants threads access fifo order blockquote question order fairness bean configuration 
+
+fair synchronous queue manage thread access fifo order real application work correctly manage fifo extend override 

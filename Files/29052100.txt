@@ -1,0 +1,4 @@
+nettyio disconnect client server 
+disconnect netty client server executes method server side completely stops running client connected server method missing noticed connect server reachable connection refused time connect real server connects send messages 
+
+network programming general netty dont true efficient major basic fact network programming client server directly linked order execute method server send message client server instance client server receives bye command hope helped iv answered question stack overflow hope sound 

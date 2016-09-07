@@ -1,0 +1,4 @@
+run quartz job synchronous 
+situation dont handle job start nested job results nested job process run job asynchronously thread start nested job wait result nested job passed solution 
+
+quartz thread pool running jobs read href http www quartz scheduler org generated html qs index html page quartz scheduler documentation set thr threadpool configuration html rel nofollow addition mind quartz run jobs distributed manner run cluster active active servers case assumption servers job triggered implementing singleton jbh stated tricky warned general quartz good run jobs dont implementing complicated logic top good idea question understand youre run job job runs job makes sense trigger assigned implemented quartz job refactor code job logic executed implemented class related quartz class case assign triggers jobs inside execute code class approach suggestion hope helps 

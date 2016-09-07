@@ -1,0 +1,4 @@
+read xlsm file poi 
+written code access xlsm file fails file strong xssfworkbook strong generic workbook strong workbookfactory strong h1 scenario h1 h2 error h2 supplied spreadsheet encrypted xlsx file decrypted xssf hssf left generic reading file xssf h1 scenario h1 h2 error h2 org apache poi poixmlexception org apache poi openxml4j exceptions invalidformatexception package content type part m1 scenarios work xlsm files properties data working working files fixing 
+
+promoting comment answer upgrade version apache poi view href http poi apache org html rel nofollow apache poi changelog years ago number pages fixes 

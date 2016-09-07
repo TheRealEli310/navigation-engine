@@ -1,0 +1,4 @@
+jersey gradle sql sqlexception suitable driver found 
+trouble sql working webapp working issue jersey loading sql driver strong sql sqlexception suitable driver found jdbc h2 testdbname strong call endpoint ol li connection string valid works run webcontainer li li gradle script configured correctly place sqldriver h2 case lib directory li ol simplified code testresource build gradle webapp xml 
+
+peeskillet explicitly loading driver fixed problem 

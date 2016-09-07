@@ -1,0 +1,4 @@
+jpa cascade persist relationship 
+bidirectional relationship id entities id code entity persist userprofile error userpreferences id null jpa understand userprofile id userpreferences id error wrong code jpa solve persist separately advance 
+
+dont id column user id private string userid user id act primary key foreign key onetoone primarykeyjoincolumn user id userprofile user reference times onetoone id column user id userprofile user 

@@ -1,0 +1,4 @@
+pass return unsigned int jna 
+function interface problem dealing values valid mismatched types int unsigned int recommended href http stackoverflow answer recommends intbyreference misunderstood theyre talking long actual unsigned int passed trimmed code syntax error comments ill update question 
+
+href http native access github io jna rel nofollow jna class unsigned integer size youll hold native primitive form values range general pass object pull primitive needed 

@@ -1,0 +1,4 @@
+javax ejb ejbexception inject form data database 
+inject data database based form input submit form facing nasty exception wrap head scalable solution program ul li netbeans li li glassfish li li ee li ul warning lines code referring controller controllerservlet dopost controllerservlet refers code session ordermanager addcustomer ordermanager refers code session ordermanager placeorder ordermanager refers code 
+
+constraint violated model detected persisting datastore means customer related entities validation notnull size honored level lower stack trace give info violation 

@@ -1,0 +1,4 @@
+resolve placeholder 
+spring maven wanted create environment specific build main idea create profiles maven profile set variables load proper property file profile maven ftpproperties class build exception greatly appreciated 
+
+found solution deleted ftpproperties class moved configuration applicationcontext xml updated maven profiles created ftpservice class working perfectly intended 

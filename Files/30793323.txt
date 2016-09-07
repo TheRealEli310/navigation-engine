@@ -1,0 +1,4 @@
+convert string days hours minutes date object 
+application string day min hours min convert string date object thing invalid integer exception string words hours min br 
+
+ideal solution change data source provide json reliable format json library parse data youre stuck dealing string regex route saka1029 mentioned simpler manually parse string 

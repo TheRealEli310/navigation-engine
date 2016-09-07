@@ -1,0 +1,4 @@
+onpause onresume method sharedpreferences 
+save seekbar values onpause reappear onresume code works reason list saved change reds seekbar saves leave red move green green save change red red save happening onresume onpause make variables static 
+
+problem method seekbars suggest implement seperate check ids seekbar saving values basically method based users comment question hope helps 

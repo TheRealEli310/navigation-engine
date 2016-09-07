@@ -1,0 +1,4 @@
+turn authentication websockets spring security 
+ee application spring security authentication configured config application websocket server implemented package question turn spring security authentication incoming websocket connections turning http authentication 
+
+requests matching pattern bypass security filter ws endpoint add configuration dont configure spring programmatically dont code feet classes href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web builders websecurity html rel nofollow websecurity href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web configuration websecurityconfigureradapter html configure 28org springframework security config annotation web builders websecurity rel nofollow websecurityconfigureradapter setup 

@@ -1,0 +1,4 @@
+foreach iterate varargs 
+varargs 
+
+varargs behave similarly arrays varargs iterate 

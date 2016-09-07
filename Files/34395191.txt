@@ -1,0 +1,4 @@
+cassandra driver error host query failed connection closed 
+noded cluster cassandra digital ocean version cassandra strong show version strong cql shown strong cqlsh cassandra cql spec native protocol v4 strong connnect node cluster node cqlsh run commands connect driver exception version driver maven configuration checked cassandra yaml found settings set correctly configured correctly completely lost appreciated 
+
+href https datastax github io driver compatibility rel nofollow driver documentation version driver compatible apache cassandra compatibility added href https github datastax driver tree beta1 compatibility rel nofollow driver beta1 protocol compatibility error shown cassandra server logs downgrade cassandra version beta driver downgrading cassandra safer choice system production 

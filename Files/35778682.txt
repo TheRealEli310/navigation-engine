@@ -1,0 +1,4 @@
+jackson deserialize array implementation 
+array implementation make jackson deserialize json array exception 
+
+dariusz mentioned good advantage fact class constructor accepting normal array default serializer array serialized json waste space fields preserved suggest changing serialize object normal array end deserialization build object add pair serializer deserializer transparent conversion types 

@@ -1,0 +1,4 @@
+android update viewpager whith child heights 
+viewpager implemented fragment view page list elements list hasnt size set viewpager dimension code extends viewpager override function problem set height page custom height page depending height list calling viewpager size remains wrong code part pageradapter part xml layout lot helping 
+
+find job moved scrollview inside set page size pages scroll list long viewpager inside page size fixed scrollview trick viewpager inside fragment page item onmeasure function set attribute info href http stackoverflow questions call getmeasuredwidth getwidth layout onresume return 

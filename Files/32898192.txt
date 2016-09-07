@@ -1,0 +1,4 @@
+swing adding mouse listener class array buttons leads malfunction 
+program build simple buttons named buttons pressed number printed console href http stack imgur jwrs1 png img src http stack imgur jwrs1 png alt enter image description gridlayout place buttons frame set button created method method creates array buttons inside loop ul li create instance button cell array buttons li li set mouselistener button print listener determined index loop index li li add button main frame li ul surprisingly simple program doesn work properly print number matter button pressed href http stack imgur 6knt6 png img src http stack imgur 6knt6 png alt enter image description strong strong put var method order fulfill var scope listeners dont problem related h2 code h2 advance idea welcomed jes 
+
+dont mouselistener actionlistener works buttons remember listener class variable store index final loop index actionevents actioncommand property match text button anonymous class 

@@ -1,0 +1,4 @@
+mocking urlencoder static method 
+trouble mocking urlencode encode method inside static method myencodeclass method force throw exception urlencode encode method called exception 
+
+version conflict powermockito mockito artifacts mockcreationsettings isusingconstructor method removed versions correct versions powermockito version mockito version version missing method 

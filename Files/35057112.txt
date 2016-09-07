@@ -1,0 +1,4 @@
+android okhttp retry policy 
+create simple wrapper call server download information parse binary data connection library called okhttp connection 3g reliable decided implement simple functionality function method called background thread strong library implement strong method execute 
+
+avoid retrying catch dont retry attempts fail make constant doubt change variable point implement href https en wikipedia org wiki exponential backoff rel nofollow exponential back retry times time multiply delay cap minutes ol li call failed li li wait li li call failed li li wait seconds li li call failed li li wait seconds li li li li call succeeded li ol typical behaviour event short outage call made quickly succeed event longer outage dont calling constantly seconds code chance call attention made annoy user call required ui change 

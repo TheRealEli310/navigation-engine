@@ -1,0 +1,4 @@
+add servlet spring framework web application 
+thought pretty apparently missing figure add servlet existing web application written spring heres added web xml created file web inf settingservlet servlet xml created controller package path settingcontroller wrong found exception request setting fruit setting family foods 
+
+declared url pattern dispatcher setting controller declared setting root requestmapping controller access controller url setting setting fruit setting family foods 

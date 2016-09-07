@@ -1,0 +1,4 @@
+words average length lambda expression 
+word list text file min max average word lengths file stream method main method testing printing max min works expected strong questions strong br average word length min max case lambda expression strong strong starting learning functional programming 
+
+method stream lines words call href https docs oracle javase docs api util stream stream html flatmap util function function replace lines words supplying lambda expression split words correct implementation affects correctness average calculation implement obtain average call href https docs oracle javase docs api util stream stream html maptoint util function tointfunction map stream words lengths yielding call href https docs oracle javase docs api util stream intstream html average returns 

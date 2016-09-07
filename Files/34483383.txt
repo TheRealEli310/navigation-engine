@@ -1,0 +1,4 @@
+bind variables websocket route paths spark web framework 
+implement websocket server spark web framework version added support bind variables route paths http routes chat city create conversation channels users make work retrieve variable 
+
+simply add userid somekey end path client side initialize websocket path spark websocket chat server side obvi client hit url chat userid blah server side youll receive connection socket simply grab incoming uri socket connection string userkey session getremote getquery method pull field user split 

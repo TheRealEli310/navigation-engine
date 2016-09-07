@@ -1,0 +1,4 @@
+push notification apple devices 
+sending push notification apple devices working code snippet app strong error log strong issue keystore file 
+
+finally found problem due p12 certificate causing ssl handshake error refer href http stackoverflow questions send push notifications javapns javaapns ssl handshake failure send push notifications javapns javaapns ssl handshake failure solution correct p12 file 

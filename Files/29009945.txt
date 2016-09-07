@@ -1,0 +1,3 @@
+create variable mobile element 
+attempting automated test appium create variable element test fail print text box attempt followings nosuchelement error displayed declare variable order test 
+

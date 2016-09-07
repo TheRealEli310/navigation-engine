@@ -1,0 +1,4 @@
+creating quicksort recursion stack 
+task write quicksort posivite numbers algorythm imports scanner recursion stack br question ol li understeand iterative quicksort stack recursive version imagine heard place implementation dont solution problem br show dont post implementation understeand copy someones code recommend book find similar problem li li implementing sort insertion small arrays good idea big code li ol 
+
+task finding posivite numbers algorithm array sort satic array class based finding creating negative numbers partition created middle element array median good depends array hope find usefull 

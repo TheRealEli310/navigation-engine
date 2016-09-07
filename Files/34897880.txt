@@ -1,0 +1,4 @@
+scanning annotated classes work instant run 
+href http tools android recent androidstudio20preview5available rel nofollow android studio preview android gradle plugin em alpha5 em scan annotated classes anymore em instant run em em apk em sliced parts loading dex file leads exception dont disable em instant run em ways load em dexfile em splitted em dexfiles em 
+
+short answer work anymore long answer custom generate code integrate processor href https bitbucket org hvisser android apt rel nofollow title android apt android apt gradle build process simple href https github mohlendo android apt rel nofollow shows collect classes annotation generate static registry 

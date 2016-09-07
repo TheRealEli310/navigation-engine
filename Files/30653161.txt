@@ -1,0 +1,4 @@
+android crash start styling actionbar theme app compat 
+dont post simple sake simplicity ill provide detail throwing bunch logcat expecting cure google tutorial styling action bar win7 android studio android api kitkat min sdk version support library gradle mainactivity excerpt logcat excerpt supernotcalled logcat excerpt put super androidmanifest xml excerpt ul li oncreate put strong debug line throws error people commented inherit previous overriden oncreate strong ul li li error debugging checked manual define listview error listview defined commented li li changed style li pretty tutorial project identify problems great resort skip tutorial edit customactionbartheme themes xml 
+
+method ul li call super method li li define layout method li li method li ul change style requires theme finally suggest switching app compat changing version deprecated 

@@ -1,0 +1,4 @@
+access payload rest response camel cxfrs 
+camel route accesses rest service things work rest response response rest service returns additional info payload find access part debug log running route set bean called response exception payload original http response 
+
+working main issue defined rest operation changed return type string response complete response throwexceptiononfailure false option worked newbie error 

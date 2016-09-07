@@ -1,0 +1,4 @@
+median image filtering 
+short preamble id apologize positively stupid question proper problem tasked program simple median filter study program serve introduction basis advanced filter types studied kernel 2d matrix works flows image data matrix hope understand supposed work running problem code image filter code shows flat colour colour top left corner error tiny find id grateful guys hr edit added full minimal compilable code helps purposes edit removed code answer turned simple silly loop limits 
+
+source image taking pixel coordinates simplicity assume loop executed median updated dealing borders borders reduced kernel values pixels image constant white black border 

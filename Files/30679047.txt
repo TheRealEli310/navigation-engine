@@ -1,0 +1,4 @@
+code running hackerrank 
+piece code supposed head linked list add element end linked list return head updated linked list giving runtime error run hacker rank reason 
+
+null throw initialise node node object 

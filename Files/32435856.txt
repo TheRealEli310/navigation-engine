@@ -1,0 +1,4 @@
+optional parameter pathparam annotation 
+facing issue related making path parameter optional original url service work urls applied solutions luck 
+
+logically doesnt make sense optional uri handle type request supposed post make optional small hack regular expressions href http www nakov blog jax rs path pathparam optional parameters rel nofollow http www nakov blog jax rs path pathparam optional parameters separate endpoint method controller pass call services optional parameter 

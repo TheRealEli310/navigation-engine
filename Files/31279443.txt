@@ -1,0 +1,4 @@
+subscribe navigation drawer observable 
+populate navigation drawer subscribing data db notifies subscriber similar class extends navigation drawer separate fragment defined mainactivity subscribe mainactivity 
+
+mdrawerlayout instance class implement cast implement interface create manipulate navigation drawer declare final 

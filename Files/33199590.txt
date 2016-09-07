@@ -1,0 +1,4 @@
+cloudera upload file hdfs exception 
+mac os yosemite vm cloudera quickstart vm virtualbox type hdfs dfs put testfile txt put text file hdfs strong datastreamer exception strong notice main problem number nodes null copy complete error message solve 
+
+strong stop hadoop services describe strong href http www cloudera content www en documentation archive cdh cdh4 installation guide cdh4ig topic html rel nofollow stopping services strong remove files strong strong strong strong format namenode strong strong start hadoop services strong strong ensure system running low diskspace confirm warning low diskspace log files strong strong create tmp directory strong strong create user directories strong 

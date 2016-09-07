@@ -1,0 +1,4 @@
+wrong method isreverse 
+write recursive method called isreverse word1 word2 accepts strings parameters returns true strings sequence characters opposite order ignoring case returning false call return true eat desserts stressed null empty letter strings return true parameters homework trouble making code work appropriately returns true matter 
+
+exercise recursion doesnt option youre trimming word trim words expect compare char recursive call youre passing trimmed words parameter recursive function basic thing youre missing base case recursion return case youre reducing string size step recursion base case check size hope code clear mind 

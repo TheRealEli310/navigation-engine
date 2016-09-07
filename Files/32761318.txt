@@ -1,0 +1,4 @@
+session context null jboss 
+strong update question strong jboss develper studio jbos server based jre j2ee project ejb web projects ejb project identical ejb web project servlet servlet call simple test method ejb ejb thing test method dependency injection resource session context code ejb works return null session context comlete code firstservlet firstejb secondejb problem 
+
+rule injection server container creates objects inject case lifecycle ejb instance complete control container code instance created replaced instance created container instance remains created missing annotation subjected proper lifecycle management fully constructed injection processed simple change servlet code give desired result 

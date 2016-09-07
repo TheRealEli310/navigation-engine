@@ -1,0 +1,4 @@
+getmethod throws method found exception 
+getmethod string class types method method method found int parameter inside class array lang integer class wrapper int class generic object getclass dont change easily part code solve 
+
+suppose class methods class rely autoboxing method object passing argument type print autoboxing works invokation case extract type argument stored case primitive types autoboxed theire respective wrapper types find method corresponds argument output primitives method found called remove solve problem change method invoke reflection wrapper type pass correct argument types deriving values finally thrown method accessible make method public 

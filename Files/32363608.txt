@@ -1,0 +1,4 @@
+mockmvc streaming endpoints additional bytes stream close 
+spring test spring boot small scala application apologies long intro short question worked fine decided modify endpoints support streaming added object request handler copy source data apache commons work retrieve binary data endpoint verify md5 checksum matches source datas md5 checksum noticed longer case rest controller spring tests mockmvc fact request performed mockmvc response bytes bigger usual simple assertions fail debugger determine mockmvc appending response closed fact appending return request handler number bytes fact mockmvc appending closed bug library incorrectly 
+
+return controller method interpreted ways depending return type method annotations cases input arguments exhaustively listed requestmapping annotation reference documentation streaming case taking combination httpservletresponse input argument outputstream void return type spring mvc youre handled response 

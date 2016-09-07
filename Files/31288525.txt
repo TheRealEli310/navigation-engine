@@ -1,0 +1,4 @@
+nosuchmethoderror org apache log4j logger setlevel lorg apache log4j level 
+log4j slf4j ch qos logback dependencies pom xml project recently wanted external servlet library defined dependency pom init method servlet weblogic server shows exception init method start server blockquote lang nosuchmethoderror org apache log4j logger setlevel lorg apache log4j level blockquote eclipse open healthpageservlet jar content log4j jar inside web inf lib folder exclude dependency pom xml exception server start problem 
+
+log4j version external jar incompatible slf4j version parent project logger setlevel update slf4j version 

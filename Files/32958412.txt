@@ -1,0 +1,4 @@
+passing custom server xml file standalone tomcat embedded tomcat 
+href https tomcat apache org maven plugin trunk tomcat7 maven plugin exec war mojo html rel nofollow exec war ony plugin create standalone tomcat jar file maven plugin picks server xml file default directory src main tomcatconf successfully run jar file generated build pass server xml file argument standalone tomcat jar file running time build jar file server xml included looked plugin documentation mentions serverxml parameter user property blockquote user property maven tomcat exec war serverxml blockquote passing property argument running jar file blockquote jar standalonetomcat jar dmaven tomcat exec war serverxml pathtoserverxml server xml blockquote didnt work achieve 
+
+check url scenerio href http javamanikandan blogspot embedded tomcat customer serverxml html rel nofollow http javamanikandan blogspot embedded tomcat customer serverxml html 

@@ -1,0 +1,4 @@
+sql timestamp jsf view converter 
+model property type jsf date component primefaces component instance input return type create converter case implement converter convert jsf converter dont conversion case displayed rows set startdate enddate directly table model property directly latest updated data table process sample model sample bean sample xhtml model directly model property type type 
+
+practice creating model separated persistence layer types mentioned baulusc found solution trick fit case creating model binding view requires work put values map model mapper actual model ol li li ol sample bean xhtml page ol start li creating model li ol sample model binding view bean xhtml page workaround modification actual model things moving values actual model works hope 

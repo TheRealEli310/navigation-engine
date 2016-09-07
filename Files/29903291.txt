@@ -1,0 +1,4 @@
+calling hashcode equals 
+defined class lengthy list class attributes contract implement equals implement simply comparing inside avoid extra code dangers 
+
+dont contract objects equal hashcode doesnt guarantee objects equal means objects completely chance happen hashcode breaking hard hashcode collisions strings core loop jdk href http docs oracle javase docs api lang string html hashcode rel nofollow implementation initial numerical character em ith em position string string length loop written choose arbitrary string subtract adding string resulting collision implementation check comparing objects type supposing statement return 

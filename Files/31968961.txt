@@ -1,0 +1,4 @@
+add directories jars dependencies intellij idea 
+folder multiple directories jar file simplified structure files add jars recursively dependencies list inside project strucutre intellij idea quick achieving expand directories select artifacts manually 
+
+based href http stackoverflow questions add jars repository dependencies intellij post years ago adding jars recursively directory supported intellij request feature added future release question duplicate post cited intellij version version evidence feature made version add comment answer 

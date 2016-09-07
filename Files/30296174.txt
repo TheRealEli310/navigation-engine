@@ -1,0 +1,4 @@
+beancreationexception spring annotation context loggable 
+web application spring apache cxf jetty spring doesnt addition annotation called methods classes annotation links class logs request response messages guessing annotation injected class implementation restful service private member annotation addition annotation method exception taking request adding setter method exception ideas solve edit show entire pom xml line release build works fine annotations autowired works fine 
+
+received resolve issue short annotation moved method interface class implemented solution ol li removed private member annotation li li add parameter methods public response registeruser httpservletrequest request li li add annotation rest interface path register user br post br consumes application json response registeruser context httpservletrequest httpservletrequest li ol 

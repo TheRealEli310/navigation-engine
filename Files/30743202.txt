@@ -1,0 +1,4 @@
+faking ajax request form testing 
+playframework project methods write junit tests methods ran problem don recreate ajax requests call methods application fake ajax requests integrate needed fields request successfully test methods 
+
+passed call chapters href https www playframework documentation javatest rel nofollow em testing application unit testing controllers em href https www playframework documentation javafunctionaltest rel nofollow em writing functional tests testing router em play documentation details 

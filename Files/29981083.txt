@@ -1,0 +1,4 @@
+rotating bit matrix 
+lets char array size represent collision mask image bit char represents pixel reality long array 64x64 matrix box output degrees rotations degrees shape accurate degree rotation hand output small rotation degrees values wrong mathematically dont itll rotate assume bit coverage shape itld rotation finding collisions bit masks fast bitshifts defined stackoverflow reply href http stackoverflow http stackoverflow past path2d rectangles shapes affinetransform rotate objects path2d class offer complex shapes desired linked list behavior accessing point isnt fast rotating binary map libraries matrices arent fastest 
+
+solution based href http stackoverflow prior answer mapping input point output point maps output point location input matrix space version simply closest integer index point results sophisticated calculation distance weighted sum values neighbor points results test program 

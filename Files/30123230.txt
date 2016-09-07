@@ -1,0 +1,4 @@
+spymemcache memcachedclient built connection pool 
+connect strong question strong built connection pool reuse instance class concurrent operation memcached create instance time 
+
+documentation blockquote memcachedclient instance establishes maintains single connection server cluster br thread processing number requests threads client servers client connected thread allocated memcachedclient blockquote details found href https code google spymemcached wiki optimizations rel nofollow https code google spymemcached wiki optimizations projects implement connection pooling initialized list size memcachedclient randomly making put call 

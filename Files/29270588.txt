@@ -1,0 +1,4 @@
+make hibernate ignore fields http requests 
+class defined perform request hibernate fetch fields user return full object perform request return list users strong strong jackson ignore fields serialization strong hibernate fetch data strong fetching roles user costly join table write sql queries loose benefits hibernate strong elegant strong solving problem 
+
+elegant solution hibernate criteria methods inside dao method fetch single user based id fetch list users populated code hibernate fetch fields database map results back class method ideal confusing fields arent populated ideal solution lazily load collection roles hibernate loads request information set refer amp href http stackoverflow 

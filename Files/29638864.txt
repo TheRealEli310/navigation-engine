@@ -1,0 +1,4 @@
+spring validation messages picked resource bunlde 
+custom spring validator rejecting values inside mavens folder resource bundle called file custom message validation registered message source spring configuration controller manually calling validator problem object doesnt custom error messages file words 
+
+shouldnt call extends implements pass returning interface code doesnt youre parameter ends part instance binding result youve passed null 

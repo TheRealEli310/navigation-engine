@@ -1,0 +1,4 @@
+convert jsonnode pojo custom constructor 
+similar href http stackoverflow questions jackson convert jsonnode pojo jackson convert jsonnode pojo href http stackoverflow questions converting jsonnode array converting jsonnode array find exact solution problem heres pojos declaration tests list buildings convert bind json list list real object building heres error remove constructor building class add setter field type works requirement forcing avoid setter constructor initialize type bind convert json easily list buildings success 
+
+error messages class default constructor jackson unable create instance add default constructor class 

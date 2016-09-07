@@ -1,0 +1,4 @@
+consuming secured webservice spring session 
+implemented application shown href http spring io blog resource server angular js spring security part iii rel nofollow http spring io blog resource server angular js spring security part iii port strong strong port authentication works shown spring session redis szenario ul li user logged li li user send request li li recieves request consume li ul problem unauthorized session user request 
+
+dont session reuse token authentication system youd inject headers send resourceapplication resttemplates suppose clienthttprequestinterceptor dont call 

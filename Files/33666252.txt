@@ -1,0 +1,4 @@
+spring restcontroller interacting classes 
+spring make rest api purpose addition hosting rest service program repeatedly opens file scans patterns maintains structure finds starting control flow restcontroller reference parser object http request methods understand creates instance instance method meant spring framework call constructor rest controller pass reference 
+
+create sshparser object spring bean make inject autowired annotation change application class code addition reuse created instance objects managed spring container default spring creates bean singleton scope youll instance sshparser 

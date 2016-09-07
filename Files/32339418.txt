@@ -1,0 +1,4 @@
+android uri camera 
+issue taking photo camera nexus photos gallery problem save back end picture camera picture select tick app crashes intent passed onactivityresult empty dont fix 
+
+log code track null caused activity recreate screen rotation app run portrait camera force landscape rotated camera solve save restore modify fragment edit noticed problem change followings 

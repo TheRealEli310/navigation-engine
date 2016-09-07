@@ -1,0 +1,4 @@
+reproduce net socketexception connection reset 
+reproduce net socketexception connection reset exception wanted program simulate server client programs simulate exception java8 server code client code scenario ul li start server program locally li li start client program locally li li close client program abruptly ctrl output server program client null li ul scenario ul li start server program locally li li start client program locally li li client connected server client program waiting close server program abruptly exception li ul produce connection reset exception working sample code 
+
+works client connects disconnects closing socket results exception server 

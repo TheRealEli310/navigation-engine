@@ -1,0 +1,4 @@
+common access card cac authentication vaadin application 
+creating vaadin web application requires users authenticate login password add cac authentication authentication strong summary goal access website user authenticated cac require standard login password user cac authenticated strong searching googling found href http docs oracle javase docs guide security p11guide html login rel nofollow pkcs library desktop integration href http stackoverflow questions common access card cac authentication rq href http stackoverflow questions connect https server common access card posts similar situation talks requirement certification web application configuring web server presents pkcs desktop solution parallel login browser sends cac certificate server server require standard login cac certificate server retrieve data cac owners 
+
+correctly configured servlet container read client certificate exists 

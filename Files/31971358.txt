@@ -1,0 +1,4 @@
+unknown reason lang classnotfoundexception 
+application declared action class spring bean working fine struts mapping pre class lang xml prettyprint override multiple struts mapping pre class lang xml prettyprint override action mapping declaration working fine declaration breaking throwing exception happening eclipse test environment happening qa environment thoughts inputs issue 
+
+blockquote caused lang classnotfoundexception plantadminapprovalaction blockquote expects valid class fqcn action class pre class lang xml prettyprint override 

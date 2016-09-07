@@ -1,0 +1,4 @@
+recursion catalan number memoized 
+asked write recursive function calculate catalan number monotonic lattice paths edges grid square cells pass diagonal href https upload wikimedia org wikipedia commons thumb f4 catalan number 4x4 grid svg 1035px catalan number 4x4 grid svg png rel nofollow pic br br allowed loops recursive calls br dont code works convert function memoized function understand amp make function efficient understand fibonnaci memoized efficient end path return matter store inside array br br kind 
+
+memoization basically create table stores reach dont calculate recursion similar wont recursion find calculated em memoized em hope code memoized spirit andreas question great visuals understand br br 

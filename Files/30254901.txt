@@ -1,0 +1,4 @@
+initialize vector ejml matlab style 
+mablab octave create vector range style br put ejml equation doesnt work br works explicit initialization br suggest workaround 
+
+work matrix vectors normal operators loops ans det solving linear system adding elements setting range vector columm row hope helps result enter number 

@@ -1,0 +1,4 @@
+working simple choose adventure text game 
+coding general started working href http programmingbydoing rel nofollow tutorials great success href http programmingbydoing choose short adventure html rel nofollow code entered option upstairs wanted make kitchen option worked correctly code compiles fine run cmd line choose option kitchen choose view pantry takes cmd lines pantry execute choose option run pantry println text run option easier ways learned 
+
+logic section user enters kitchen prompt enter straight empty prompt youve handled eventuality user enter entire logic chain broken youre separating sections individual blocks logic handle current scenario group logic block group lead ability methods isolate logic problem dont enter youre expecting problem face return work wont work 

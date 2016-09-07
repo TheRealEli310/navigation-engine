@@ -1,0 +1,4 @@
+maven basedir replace backslash frontslash 
+replace basedir basedir doesnt change ideas 
+
+groovy plugin solve 

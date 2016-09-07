@@ -1,0 +1,4 @@
+streams peek api 
+snippet code printed console outputs peek foreach invocation output 
+
+href http docs oracle javase docs api util stream package summary html streamops javadoc mentions blockquote intermediate operations return stream lazy executing intermediate operation filter perform filtering creates stream traversed elements initial stream match predicate traversal pipeline source begin terminal operation pipeline executed blockquote intermediate operation applying terminal operation results printed 

@@ -1,0 +1,4 @@
+refer nested types generics 
+create generic class refers nested generic types create comparator class compare types wanting expose types compiler warning raw casting nested values comparable represent values safely casting things ul li creating wildcard comparable uncompilable li li declaring secondary generic parameter type simply postpones problem li ul comparator isnt compare instances classes part contents 
+
+wildcard solution work loose make compare types 3rd solution restricts specific works perfectly site deducible annoying problem asked cases good answers fortunately case isnt needed site simply wildcard fact comparator create convenience method hide ugliness 

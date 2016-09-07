@@ -1,0 +1,4 @@
+parse audio src jsoup 
+attempting parse code extract src attribute audio element attempted parse code success 
+
+trick 

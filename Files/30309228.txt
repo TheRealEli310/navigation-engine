@@ -1,0 +1,4 @@
+creating music player javafx scene builder 
+create version itunes create music player method hours importing libraries maven hard coding working id show whats playing basic functions play pause rewind forward progress bar error showing static method accessed static context part causing error stop play bits dont understand method static id guide library spent hours head luck 
+
+lines line calling static function doesnt work function static youre error youre questions post separate questions specific 

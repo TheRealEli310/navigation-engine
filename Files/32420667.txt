@@ -1,0 +1,4 @@
+spring mvc implement dao custom interface 
+purpose implement custom dao interface work interface implementation told doesnt work due spring scanner find dao class work works fine strong spring scanner configuration strong strong error strong 
+
+change implementation usage 

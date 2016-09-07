@@ -1,0 +1,4 @@
+implement long running process spring hibernate 
+struts interceptor execute wait care long running process request timeout destroy sends wait desired response implement long running process spring hibernate 
+
+recommend deferredresult spring future implementation http long poling technique href http docs spring io spring framework docs build snapshot api org springframework web context request async deferredresult html rel nofollow http docs spring io spring framework docs build snapshot api org springframework web context request async deferredresult html make request server return deferredresult request open internal process hibernate finish task timeout configurable constructor href http www javacodegeeks deferredresult asynchronous processing spring mvc html rel nofollow http www javacodegeeks deferredresult asynchronous processing spring mvc html 

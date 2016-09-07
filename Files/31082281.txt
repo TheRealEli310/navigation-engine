@@ -1,0 +1,4 @@
+spring retryable provide retry 
+setup simplest spring application retryable annotation spring documentation href https github spring projects spring retry rel nofollow https github spring projects spring retry method runrest run times throws exception org springframework web client resourceaccessexception observe retry argument resourceaccessexception retryable 
+
+easy answer needed enableretry class main method 

@@ -1,0 +1,4 @@
+setting active profile config location command line spring boot 
+spring boot application profiles application strong development staging production strong files ol li application development yml li li application staging yml li li application production yml li ol strong application yml strong resides inside set active profile application yml profile specific config files present folder gradle plugin eclipse strong bootrun strong setting command line arguments gradle configuration eclipse command line property reflected active profile set development mentioned applications yml file config folder searched profile specific config files missing figure past days luck 
+
+add bootrun picks profile config locations lot jst pointer 

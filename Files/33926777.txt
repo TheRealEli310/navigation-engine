@@ -1,0 +1,4 @@
+parallel stream threadlocal 
+figure copy threadlocal parallel stream outputs clone threadlocal main method threads spawned parallel execution result 
+
+href http stackoverflow questions parallel stream threadlocal comment55614607 louis stated comments reduced capturing local variable lambda expression full cases threads strong started strong main thread href http docs oracle javase docs api lang inheritablethreadlocal html rel nofollow blockquote class extends provide strong inheritance values parent thread child thread strong child thread created child receives initial values inheritable thread local variables parent values blockquote case declaring instances created created lazily inherit method thread wouldnt case pool terminal operation called set origin thread 

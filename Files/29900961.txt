@@ -1,0 +1,4 @@
+tweak mapfragment android 
+made mapfragment basically googlemaps fragment called activity fragmentmanager fragment transaction tweak map add markers dynamic zoom aswell bit struggling moment mapsactivity mapfragment updating code error stacktrace provide extra information 
+
+activity call h2 h2 adding markers activity clearing map h2 edit h2 change part code 

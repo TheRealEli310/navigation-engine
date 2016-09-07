@@ -1,0 +1,4 @@
+calculate average inputs loop stopping 
+main gist script grades user inputs negative number negative number input calculates average grades grade input user hours figure enter invalid inputs valid inputs works fine mix script stops enter valid input script asks grade enter invalid input script input invalid asks valid input enter stops working supposed enter negative number make start calculating average valid inputs 
+
+doesnt work loops separated false works stops 

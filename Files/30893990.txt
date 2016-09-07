@@ -1,0 +1,3 @@
+unidirectional mapping hibernate generates redundant updates 
+defined classes parent child parent list children add bunch children list persist parent works expected hibernate sequence values stores parent stores children updates children setting parent id set insert generated sql make association bidirectional works fine reference parent child class avoid repository spring data jpa repository simplified code creates saves objects suggestions 
+

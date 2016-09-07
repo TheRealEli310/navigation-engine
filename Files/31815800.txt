@@ -1,0 +1,4 @@
+inject property jndi 
+app spring runs tomcat class context xml spring xml inject values properties field context xml string field 
+
+context xml environment map type legal types lang boolean lang byte lang character lang double lang float lang integer lang long lang short lang string include property file deployment reference files path environment element matter injecting property files contents bean 

@@ -1,0 +1,4 @@
+drawing individual pixels libgdx 
+writing program libgdx update screen frames pixels screen pixelmaps doest work code run returns black screen advance 
+
+problem code problem drawing pixels rendering create commented things changed modifiers beginning class left problematic parts code intact add condition loop infinite create time code run bad design wasteful missed ill update answer 

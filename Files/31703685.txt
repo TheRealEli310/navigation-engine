@@ -1,0 +1,4 @@
+spring el spel code execution 
+spel evaluating user input opens security hole spel enginge executes code start classes access static objects system exit exits system prevent type code executions 
+
+avoid evaluate user input expression language pretty enumerate prevent execution bad code user input environment variables strings numbers fixed el expressions 

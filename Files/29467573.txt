@@ -1,0 +1,4 @@
+searchview actionbar 
+create searchview android app examples implementing searchview actionbar disabled actionbar create searchview inside linear layout searchview inside linearlayout xml preview show rendering problems run application works fine idea nullpointerexception thrown xml code provide code instantiate searchview file 
+
+thrown ide application render doesnt problem app working correctly ignore 

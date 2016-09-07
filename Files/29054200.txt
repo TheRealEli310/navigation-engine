@@ -1,0 +1,4 @@
+set text jtextfield class documentfilter 
+created texfields writing text filed space number typed user show message textfield user entered number space giving lang nullpointerexception class mydocumentfilter lang nullpointerexception error occurring block replace method 
+
+documentfilter reference displayed newdemo gui object dont create instance suggested create displayed separate instance pass displayed reference yeah follow recommendation madprogrammer swing backwards forwards avoid null layout component placement makes inflexible guis good platform terrible platforms screen resolutions difficult update maintain hr strong edit strong madprogrammers suggestion allowing gui add propertychangelistener documentfilter class listen state documentfilter created boolean state called valid notifies listeners time boolean variable 

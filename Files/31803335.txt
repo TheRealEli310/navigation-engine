@@ -1,0 +1,4 @@
+export publickey privatekey pkcs12 file 
+p12 file export public private keys method method openssl command convert cer file method load cert cer file keystore key question public key method method export key reply 
+
+reading pkcs12 type keystore file keystore private key inserted private key entry certificate certificate chain certificates exist giving correct alias keystore password private key certificate certificate public key br br certificate keystore file public key certificate public key order public key certificate run command command certificate file read reading certificate public key certificate br br hope clears confusion 

@@ -1,0 +1,4 @@
+mvc architecture dto model mapping conversion 
+spring mvc controller service repository layer repository layer entity model mapping database thought ol li service layer entity model li li service layer separate domain model fro mapping service layer li li controller layer domain model li li controller layer separate dto model fro mapping controller layer li li simple mapping writing verbose code dozer times past li ol question asked find excuse duplicate question 
+
+ol li li li service work entity model returned repository object li li controller dto dto form fields validation annotations jsr303 li li dtos controller layer dtos expose constructor accepts entity model conversion entity model dto constructor case entity model entity model expose overloaded constructor accepts dto object argument conversion dto entity model happen li li overloaded constructor dto entity model arg entity model dto arg verbose li ol 

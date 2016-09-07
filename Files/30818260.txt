@@ -1,0 +1,4 @@
+log4j2 rc defaultrolloverstrategy overwrites files 
+lo4j2 rc1 rollingfile holding timebasedtriggeringpolicy sizebasedtriggeringpolicy defaultrolloverstrategy max files rolled back files overwritten files configuration missing configuration 
+
+element wrong place policy doesnt belong element fact logs pre class lang prettyprint override move level direct child element 

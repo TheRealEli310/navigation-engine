@@ -1,0 +1,4 @@
+hashset calls overridable method constructor 
+bad practice call overridable methods constructor href http www javapractices topic topicaction id rel nofollow link call method defined class derived class method javas href http grepcode file repository grepcode root jdk openjdk b14 util hashset hashset 3cinit 3e 28java util collection rel nofollow constructor accepts method delegates method question wont break derived classes blockquote constructs set elements collection hashmap created default load factor initial capacity sufficient elements collection parameters collection elements set throws lang nullpointerexception collection null blockquote 
+
+answer em em break subclasses potentially easy show brokenset main run youll superconstructor running calls expects null subclasses written carefully avoid issue 

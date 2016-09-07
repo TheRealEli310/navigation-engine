@@ -1,0 +1,4 @@
+date format yyyy mm dd hh mm ss ms 
+receiving date string wrote parsing code output reading wrongly issue code recognize date format 
+
+ul li wrong minute hour month year li li millisecond means li li id recommend hour day li ul outputs 

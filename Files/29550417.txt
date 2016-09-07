@@ -1,0 +1,4 @@
+dozerconverter working 
+dozer version configure custom converter loading spring usage custom converter called 
+
+refer href http dozer sourceforge net documentation customconverter html rel nofollow dozer documenttion add mapping bean description 

@@ -1,0 +1,4 @@
+spring data redis lang classcastexception 
+test project build cache system spring data redis jedis question range list cache type lang long reason confused long time redis config detail code detail redis service method 
+
+h2 short h2 default jackson returns number smaller h2 explanation h2 json limited number data types type information attached originally json default setting number smaller multiple options fix issue ol li interface data back li li configure providing configured li li serializer type details li ol find details json deserialization href https github fasterxml jackson databind wiki deserialization features rel nofollow 

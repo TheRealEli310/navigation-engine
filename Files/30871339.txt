@@ -1,0 +1,4 @@
+jbas011445 failed adapter persistence provider wildfly 
+process migrate jboss wildfly process error ear file deployed server started ear file created subdeployment deployed root directory main deployment persistence xml installed ojdbc7 jar tested connection required jars connected jboss worked jboss dont work wildfly 
+
+removed hibernate property worked 

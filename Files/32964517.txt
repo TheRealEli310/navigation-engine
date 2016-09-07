@@ -1,0 +1,4 @@
+recipient list router spring integration 
+spring integration configuration spring integration class csventreprise definied method boolean return return true channel channel1 3true return false channel channel1 3false 
+
+header router href http docs spring io spring integration reference html messaging routing chapter html rel nofollow http docs spring io spring integration reference html messaging routing chapter html csventerprise bean set boolean messageheaders set header header router determine channel route order 

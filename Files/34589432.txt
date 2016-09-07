@@ -1,0 +1,4 @@
+unable create session factory hibernate 
+learning hibernate stuck creation strong session factory strong review code find problem hibernate core mysql connector log4j jta jar dom4j jboss logging jar code session factory error simple terms strong errororg hibernate internal util config configurationexception locate cfg xml resource strong things error due log4j log4j properties src folder code property file solve error error appreciated 
+
+create strong hibernate cfg xml strong add code strong servlet xml strong create strong properties strong file code create hibernate session code 

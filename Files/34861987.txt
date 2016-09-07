@@ -1,0 +1,4 @@
+setting background custom color working xssf apache poi 
+wrote code create excel file xlsx xls set custom background color cell creating xls file background color works fine case xlsx background color set color wrong code 
+
+indexed color code hssf indexed color found xssf part return black method color check color indexed makes sense poi color object make work xssf indexed colors full color set actual color resulting workbook correct background 

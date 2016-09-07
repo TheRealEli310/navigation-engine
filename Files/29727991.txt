@@ -1,0 +1,4 @@
+jprogressbar update loop 
+studying things es doesnt work properly relevant piece code clicked show jprogressbar relevant portion method added jpanel panel jframe problem press jbutton jprogressbar uncomment block press program freezes moment continues time jprogressbar stays moving block thing happened adding inside loop printed numbers terminal loop runs solve problem 
+
+ul li swing single threaded li li updates edt li li events current edt painted gui moment li li lock execution event edt repaint painted end loop lock executed oracle trail href http docs oracle javase tutorial uiswing concurrency index html rel nofollow concurency swing href http docs oracle javase tutorial uiswing concurrency dispatch html rel nofollow eventdispatchthread li ul hr output awt swing listener events inside executed executed doesnt matter hr ul li wrapped li li sooner post short runnable compilable li ul 

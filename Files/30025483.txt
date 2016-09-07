@@ -1,0 +1,4 @@
+nice factory method pattern inheritance 
+suppose class hierarchy id create dto objects child factory method em nice em checks statements strong edit strong factory method work generates 
+
+insist factory dto creation simple method overloading running app application ide outputs parentdto br firstchilddto br secondchilddto 

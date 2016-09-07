@@ -1,0 +1,4 @@
+error image view displaying image camera capturing 
+android make phone cam picture display image view image captured saved correctly app stops working image displayed image view appreciated searched topics works code pre class lang prettyprint override stacktrace blockquote caused lang runtimeexception failure delivering result resultinfo null request result data null activity myfirstapp myapps camera myfirstapp myapps camera mainactivity lang nullpointerexception android app activitythread deliverresults activitythread android app activitythread performresumeactivity activitythread android app activitythread handleresumeactivity activitythread blockquote 
+
+code 

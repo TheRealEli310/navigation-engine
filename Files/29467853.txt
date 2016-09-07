@@ -1,0 +1,4 @@
+detect vocabulary word cmu sphinx 
+problem sphinx voice recognition library input handle grammar file wrote grammar simple includes words play pause previous sphinx detect sucessfully app show message unrecognized word speak words belong grammar speak microphone belong grammar stop show word detects nearest result code add detect unrecognized word work 
+
+latest cmusphinx return word grammar 

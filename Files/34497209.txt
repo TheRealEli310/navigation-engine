@@ -1,0 +1,4 @@
+scale sprites libgdx screen resolutions 
+scale texture fit screen width simply repeats texture scale init method render method idea wrong 
+
+apparently happened mipmaps mipmapping sprites scale appropriately strike strike 

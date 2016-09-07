@@ -1,0 +1,4 @@
+apply android cordova app source file phonegap cli 
+insert native functionality android app built phonegap cordova v4 specifically override class app dont plugin em building kiosk application collapse status bar opened code works app native em edited file located rebuilt project cli command generate apk successful oddly purposely type erroneous invalid code file rebuild error messages displayed led file compiled build process edit main activity file compile apk 
+
+figured erroneous code added main activity file cordova compile fails silently exits phonegap runs cordova npm module build process successful error output compiler youd add verbose debug flag calling output managed wrong code fix 

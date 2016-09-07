@@ -1,0 +1,4 @@
+spring force bean attribute post variable 
+wondering force spring populate em autowired em bean post data problem form mapped bean class setters getters processed requestmapping function explain problem lets suppose variable mybean send parameter em custom url strong foo em strong em bean em populated shouldnt imho fix advance 
+
+stop requests hitting method http method accept default dont rejected hit method sounds annotation works binding values url string bean showed posts spring bind em body em post bean slightly annotation 

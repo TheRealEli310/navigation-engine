@@ -1,0 +1,4 @@
+hibernate fetch lazy initialize hql 
+today learned tutorial author explained hibernate association dont write code focus main entities strong team strong strong player strong code main thing interested type fetch inserted em team em em players em belongs em team em dao class marked load em team em entity database filled collection em players em result resolve problem load collection players hql solutions real development question initialized collection players matter solutions player entity field team initialize em team em filled players collection circular dependencies normal 
+
+lazyinitializationexception session closed load lazy object detached object team detached object session closed call load lazy object players approach kind problem requirement call hibernate initialize proxy call generate query joint require query approach query lots data information href http www laliluna de jpa hibernate guide ch02s02 html rel nofollow link 

@@ -1,0 +1,4 @@
+set content header response 
+write code write jasper report rtf format works open save default file rtf set report 
+
+check public href http jasperreports sourceforge net api net sf jasperreports view jrviewer html jrviewer 28java lang string 20boolean rel nofollow jrviewer create jrviewer lang string filename setparameter reference code 

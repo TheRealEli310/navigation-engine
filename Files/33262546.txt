@@ -1,0 +1,4 @@
+spring mvc thymeleaf 
+thymeleaf integrate spring mvc href http www thymeleaf org doc tutorials thymeleafspring html integrating thymeleaf spring rel nofollow tutorial ran problem jars depend attached configuration file spring mvc config xml href http stack imgur ossu8 png rel nofollow img src http stack imgur ossu8 png alt jars 
+
+problem lack jar thymeleaf loaded spring mvc 

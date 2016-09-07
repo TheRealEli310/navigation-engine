@@ -1,0 +1,4 @@
+read proto partly full parsing 
+define file received network objects inputstream bytes parsing object hold full memory data object travel string integer values object bad object size big issue 
+
+parse part protobuf youve em em em em parse entire message values order interleaved care memory usage cpu time theory hand written parser parse message ignore fields dont care work parsing discard immediately keeping memory youd study href https developers google protocol buffers docs encoding rel nofollow protobuf wire format write parser protobufs class lot work manually protobuf library isnt designed protocol framework href https capnproto org rel nofollow capn proto extremely similar design protobufs features ability read part message care capn proto incurs overhead fields dont examine bandwidth memory receive raw message bytes reading file memory mapping parts message read disk disclosure author google protobufs v2 version capn proto 

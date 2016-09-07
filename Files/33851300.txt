@@ -1,0 +1,4 @@
+android view inflateexception binary xml file line error inflating class hamweather aeris maps aerismapview 
+building app aeris weather api tutorial provided error code strong fragment map xml strong strong activity map xml strong strong mapactivity strong strong mapfragment strong override methods project builds error run exception stack trace read blogs couldnt find android learning strong manifest xml strong strong dependencies strong 
+
+problem youre running resource string missing reported mapping library set properly strings xml file library maven central aar includes resources dont worry jars dependencies recommend adding project instructions bottom href http www aerisweather support docs toolkits aeris android sdk started installation rel nofollow installation instructions replace aeris jar stuff file 

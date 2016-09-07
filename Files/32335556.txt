@@ -1,0 +1,4 @@
+exception handling parent class exception catch child exception 
+href https docs oracle javase docs api org xml sax saxexception html rel nofollow saxexception extended href https docs oracle javase docs api org xml sax saxnotrecognizedexception html rel nofollow saxnotrecognizedexception href https docs oracle javase docs api org xml sax saxnotsupportedexception html rel nofollow saxnotsupportedexception lets code throws happen saxnotrecognizedexception occurs happen empty block similarly parserconfigurationexception parserconfigurationexception exception parserconfigurationexception thrown basically occurs 
+
+parent exceptions catch child exceptions catch strong exception strong block catch sorts child exceptions nullpointer 

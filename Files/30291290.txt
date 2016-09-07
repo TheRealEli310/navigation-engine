@@ -1,0 +1,4 @@
+udp datagram packet slicing data suit buffer size 
+udp datagram packets fixed size byte array send receive streams network ol li data send bigger buffer slice data suit datagram packet li li data sliced client side suitable datagrams number packets receive li li client side send data buffer server exact length packet data receive data receive li ol udp packet long exceeding byte means slicing data client efficient 
+
+ol li choose maximum datagram size em em send larger values li li split data chunks size em em li li chunk bytes datagram number bytes datagram length remaining bytes send total number datagrams wastes bytes datagrams makes code simpler li ol datagram received bytes reassemble datagrams complete data 

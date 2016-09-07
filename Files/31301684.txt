@@ -1,0 +1,4 @@
+connect url socket 
+stomp websocket server accepting connections localhost price stream ws attempting connect href https github pedroteixeira gozirra rel nofollow gozirra library net socket connect socket method accepts host port parameters connection code href https github pedroteixeira gozirra blob master src main net ser1 stomp client l48 rel nofollow define full resource location socket parameters include price stream ws location failing server side forward request spring websocket connection words server spring webapp running tomcat forward requests root server localhost case resource location tomcat versed linux server configuration assume tweaking 
+
+ended spring stompclient connect host code configured wsclient class subscribe channel connection established 

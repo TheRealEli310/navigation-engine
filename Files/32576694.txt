@@ -1,0 +1,4 @@
+arraylist printing null character element 
+main idea program generate tweet randomly characters chars problem generate add char list fine added line check char added print result time null 140other chars heres code 
+
+initialize field constructor 

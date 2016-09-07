@@ -1,0 +1,4 @@
+inject securitycontext info request body beanparam 
+rendering command object id ol li inject field derived hook conversion li li field inject materialised li ol 
+
+strong update guess em em inject bean extract info strong hr achieve corrected em em imo hack achieve framework components supposed involves custom parameter injection achieve things provide parameter values custom annotation wont explaining find good explanation ul li href http stackoverflow jersey custom injection annotation attributes li ul run junit test included class dependencies test read request body inside json request hr h3 update h3 surprise em em bean test difference previous test inject entire inject manually thing surprised inject entity didnt complete test strong strong ul li href https jersey net documentation latest ioc html rel nofollow custom injection lifecycle management li ul 

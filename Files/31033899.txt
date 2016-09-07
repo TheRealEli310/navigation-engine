@@ -1,0 +1,4 @@
+hashset show error message inputing duplicate integer values 
+write program user enter integers displays error message time user enters integer previously input hashset problem error message appears time input number 
+
+returns true element exists false checking result null change code 

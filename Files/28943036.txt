@@ -1,0 +1,4 @@
+completable future 
+problem completable future class implements callable earlier return dont future anymore idea dont poll completablefuture dont wait block ready completable future call function thread finishes 
+
+kick synchronous asynchronous task run completion dont result 

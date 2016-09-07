@@ -1,0 +1,4 @@
+sslhandshakeexception aws sdk api 
+api upload download files amazon s3 working perfectly week ago stopped working altogether hadnt touched code wondering solution heres code worked fine heres error id bit research suggested problem permissions instructions href http docs aws amazon awstoolkiteclipse latest gettingstartedguide tke setup creds html d0e387 http docs aws amazon awstoolkiteclipse latest gettingstartedguide tke setup creds html d0e387 pretty stuck guys appreciated 
+
+problem solution turned device wrong date device date updated reason ssl certificates issuance expiry date verified device date 

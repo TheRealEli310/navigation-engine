@@ -1,0 +1,4 @@
+concurrency stream behavior 
+methods class invoked concurrently part web app internal maps populated concurrency tested apaches utility log set times change steps result size smaller 
+
+inside parallel stream body executed simultaneously times threads elements href https docs oracle javase docs api util treeset html thread fix problem quickly synchronize modification href https docs oracle javase docs api util stream stream html foreachordered util function consumer cleaner performant href https docs oracle javase docs api util stream stream html flatmap util function function stream collect version 

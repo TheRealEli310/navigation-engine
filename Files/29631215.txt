@@ -1,0 +1,4 @@
+closing bufferedoutputstream 
+develop simple file transfer application tcp current server code current server code downlloding work expected code sends part file client entire file flush method flush buffer replace flush method close method file fully client whithout loss explain behavior strong update strong code client behavior socket code copy file source destination code copy file location loss close stream 
+
+close stream client wil end stream exit read loop case stream socket scope dont close resource leak 

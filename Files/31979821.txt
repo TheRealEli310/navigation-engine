@@ -1,0 +1,4 @@
+string array list numbers int array leave words string array 
+problem txt file numbers words separated spaces create arrays filling array words array numbers inserted ints words populated content txt file move numbers words numbers homework learn textbook programming questions answers appreciated 
+
+solution public class testclass 

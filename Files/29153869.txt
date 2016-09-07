@@ -1,0 +1,4 @@
+eclipselink select entity database maven project 
+query database entity eclipselink maven project error class definition found query result noclassdeffounderror exception implementation edge class drop create tables enabled project persistance xml exception thrown pom xml 
+
+missing eclipselinkd dependency href https wiki eclipse org eclipselink maven rel nofollow https wiki eclipse org eclipselink maven 

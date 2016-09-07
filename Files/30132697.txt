@@ -1,0 +1,4 @@
+installing chef solo ec2 
+recipe chef solo simple recipe install install oracle version multiple failure messages fix heres configuration solo rb web json testapp recipe default rb dependency metadata rb run fresh ec2 node 
+
+sudo dpkg configure 

@@ -1,0 +1,4 @@
+class structure selenium slowloadablecomponent 
+designing application selenium pagefactory page object classes inherits base class standard methods pages require slowloadablecomponent implemented abstract class extend base page class downside making base page class extend slowloadablecomponent implement base page class interface default methods 
+
+href https en wikipedia org wiki multiple inheritance rel nofollow multiple inheritance workaround multiple inheritance href https en wikipedia org wiki delegation pattern rel nofollow delegation refactor code 

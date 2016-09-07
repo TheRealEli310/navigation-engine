@@ -1,0 +1,4 @@
+android listview setonscrolllistener working 
+working baseadapter custom arraylist successfully adaptered custom listview listview baseadapter source wrote setonscrolllistener method check scroll position load check position setonscrolllistener method whats wrong setonscrolllistener method solution 
+
+update scroll listener 

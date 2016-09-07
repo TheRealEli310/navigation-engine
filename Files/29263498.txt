@@ -1,0 +1,4 @@
+classpath find mysql driver 
+run code classnotfoundexception mysql jdbc driver error class forname line classpath prints jar myprojectdir mysql connector bin jar classpath restarted program case classloader loading program starts error thoughts 
+
+project directory class path mysql connector bin jar file rules include classpath ul li class files unnamed package include directory class files li li class files named package include directory root package package full package li li jar zip file class files include zip jar file li ul pick mysql driver youll add driver jar class path information href https docs oracle javase tutorial essential environment paths html rel nofollow tutorial path classpath oracle documentation href https docs oracle javase docs technotes tools windows classpath html rel nofollow setting class path 

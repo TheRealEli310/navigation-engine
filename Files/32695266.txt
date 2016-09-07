@@ -1,0 +1,4 @@
+running program appium eclipse session created error 
+installed appium android visual studio set path env varibales running fist sample program eclipse giving error testng running usersakash srivastavaappdatalocaltemp estng eclipse estng customsuite xml failed configuration beforeclass setup org openqa selenium sessionnotcreatedexception session created original error find adb set android home environment variable android sdk root directory path warning server provide stacktrace information command duration timeout milliseconds wrong 
+
+issue resolved package calculator app devices testing calculator app sony wasnt working google mobile worked researched issue found answer 

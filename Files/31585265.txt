@@ -1,0 +1,4 @@
+catching throwable handling specific exceptions 
+catching throwable good idea recently reading open sourced code interesting piece code doesnt bad wrong approach 
+
+reasons catch throwable includes application appears throwable reduces chances finding happened bad happened catastrophe nuisance aproach catch throwable catch specific exceptions catching sort kind bad thing happened written reduce amount blocks needed author decided catch big bucket dont choice 

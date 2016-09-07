@@ -1,0 +1,4 @@
+start activity searchview widget actionbar 
+start activity user presses enter href http developer android guide topics search search dialog html usingsearchwidget rel nofollow search widget function called indirectly click enter query enter search set manifest file main activity perform search searchresultsactivity receives search query concerned moment search open searchresultsactivity couple tips overriding onoptionsitemselected call search activity searchable configuration searchview oncreateoptionsmenu adding code returns idea wrong 
+
+guess chose wrong import import 

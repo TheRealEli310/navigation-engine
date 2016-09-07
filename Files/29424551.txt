@@ -1,0 +1,4 @@
+unmarshall localdatetime error 
+adapter class object class store date reason compile shows problem error xml part href http blog bdoughan jaxb joda time dates times html rel nofollow 
+
+youre href https docs oracle javase docs api time localdatetime html rel nofollow class constructor string youre href http www joda org joda time apidocs org joda time class localdatetime html rel nofollow href http www joda org joda time rel nofollow ways ul li import jodatime dependency li li change method li ul inform href https docs oracle javase docs api time localdatetime html parse lang charsequence time format datetimeformatter rel nofollow date time format default format href https docs oracle javase docs api time localdatetime html tostring rel nofollow output iso formats ul li uuuu mm ddthh mm li li uuuu mm ddthh mm ss li li uuuu mm ddthh mm ss sss li li uuuu mm ddthh mm ss ssssss li li uuuu mm ddthh mm ss sssssssss li ul 

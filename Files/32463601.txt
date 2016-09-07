@@ -1,0 +1,4 @@
+compile time checked exception 
+compile time checked exceptions catch block catch block reason 
+
+catch checked exception thrown block behavior href https docs oracle javase specs jls se8 html jls html jls jls section blockquote compile time error catch clause catch checked exception class e1 case block catch clause throw checked exception class subclass superclass e1 e1 exception superclass exception blockquote 

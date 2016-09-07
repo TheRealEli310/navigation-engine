@@ -1,0 +1,4 @@
+set 2d arrays equal 
+2d array return method call method set 2d array equal values method basically 2d array make map move character map changing values character moving leaving return array 2nd method replace original array 
+
+h3 actual copy contents h3 part href https docs oracle javase docs api util arrays html copyof 20int rel nofollow clear blockquote copies array truncating padding nulls copy length indices valid original array copy arrays identical values indices valid copy original copy null indices exist length greater original array resulting array class original array blockquote h3 reference reference passed h3 practical 

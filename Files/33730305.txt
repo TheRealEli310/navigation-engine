@@ -1,0 +1,4 @@
+premain class manifest mf starting jvm javaagent 
+experiment instrumentation trouble starting jvm javaagent arg classnotfoundexception simple test project called testinstrumentation src folder package called testinstrumentation inside testinstrumentation testagent jar contents testagent jars manifest mf testagent testinstrumentation stacktrace run pretty error specification premain class manifest mf jar suggestions corrected appreciated 
+
+sounds packaging issue general manifest testinstrumentation testagent class file reside jar stacktrace strong em src testinstrumentation em strong code supposed put strong em testinstrumentation em strong package recommend read href https www captechconsulting blogs secret agents part rel nofollow secret agents series tutorials parts pretty good overview capabilities agents hope helps 

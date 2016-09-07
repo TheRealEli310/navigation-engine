@@ -1,0 +1,4 @@
+convert blob image display jlabel 
+table xy mysql db saved image png load image convert blob image display jlabel converting image 
+
+code block jlabel bufferedimage 

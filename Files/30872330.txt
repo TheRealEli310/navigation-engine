@@ -1,0 +1,4 @@
+make dependency transitive gradle 
+downloaded javax mail api jar file copied app libs folder click add library line appears dependency pre class lang groovy prettyprint override make dependency transitive mention javax mail api library dependencies pom xml file pre class lang xml prettyprint override pre class lang groovy prettyprint override error occurs dont build gradle file pre class lang groovy prettyprint override 
+
+downloaded existing repositories jcenter mavencentral build file arent tied downloaded version build file default behavior case download transitive dependencies heres reference repository href http mvnrepository artifact javax mail javax mail api rel nofollow http mvnrepository artifact javax mail javax mail api 

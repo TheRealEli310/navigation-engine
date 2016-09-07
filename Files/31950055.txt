@@ -1,0 +1,4 @@
+passing path gradle dependency compiler 
+playing checker framework annotation processor requires path annotated jdk jar passed add type annotations jdk classes gradle path jar pass compiler pretty simple gradle running task works problem work inside config block doesnt work block configuration runs dependencies resolved adding options block work hack improve 
+
+explanation putting checker framework separate configuration obtain jars classpath format natural gradle reuse checker jars compile classpath duplicate lines 

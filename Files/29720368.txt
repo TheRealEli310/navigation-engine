@@ -1,0 +1,4 @@
+junit running selenium test command line 
+bit nightmare scirocco record macro test selenium life figure run manage compile code load required compiles test script compiles nicely theory work create test runner run point tips 
+
+recommend development ide eclipse intellij href https maven apache org guides introduction introduction standard directory layout html rel nofollow standard directory layout ide catch kinds problems guess doesnt package statement default package default package compile error kind problem ide ready build command line build tool maven gradle minor problems code ul li lot hard codes test run recommend build tool easily configure maven gradle run tests print nice stack traces tests fail work continuous integration tools junit href http cloudbees rel nofollow http cloudbees runner delegate li li junit4 style tests tests annotations extend directly indirectly fact junit4 style tests reference classes package li ul 

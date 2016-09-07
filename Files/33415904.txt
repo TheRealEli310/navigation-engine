@@ -1,0 +1,4 @@
+apache poi parsing error 
+question asked couldnt find suitable solution working end error people suggested open retry didnt jars loaded 
+
+href http poi apache org faq html faq n1019c apache poi faq blockquote strong mix poi jars versions strong supported poi jars version combination poi jar poi ooxml jar supported fail work unpredictable ways blockquote pom dependencies apache poi jars href http poi apache org faq html faq n1019c faq explained isnt supported change itll work id suggest ensure poi jars version 

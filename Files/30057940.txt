@@ -1,0 +1,4 @@
+javamail synchronization opening mailbox reading existing starting messagecountlistener 
+bullet proof open imap mailbox javamail read existing unread messages add href https javamail net nonav docs api javax mail event messagecountlistener html rel nofollow event listener read subsequent arrivals app writing process message miss emails listener add listener grab unread messages chance email arrive starting listener unread messages read change add listener unread messages search chance email arrive unread messages listener added missed solution problem 
+
+open folder process messages folder check messages arrived message count increased loop add listener wait messages calling idle method part key understanding works understanding server allowed notify client messages javamail notifications number messages adding listener javamail wont notifications messages time operation javamail notification listener place 

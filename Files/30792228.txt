@@ -1,0 +1,4 @@
+pass obtained jbutton variable 
+problem making simple number guessing game swing added jbutton jtextfield click button written text field pass loop gonna make operation display jlabel dont jframe gonna send class class jframe adding jpanel hope clear code 
+
+main recommendation rid loop loop works linear console type program event driven guis work loop tie swing event thread rendering gui frozen useless rid loop change state variable class based users response base behavior state actionlistener text jtextfield convert int parsing check decent guess notify user results guess issues ul li understand class creates strong strong jpanels jpanel instance class add referenced variable strong strong add components youre panel variable jpanel class extend jpanel li li whats rid compiling code helpful code jtextfield youre shoe horn console code gui wont work li li similar code user interaction temporary debugging user interaction gui final production code printlns li ul 

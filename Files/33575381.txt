@@ -1,0 +1,4 @@
+converting zoneddatetime mysql timestamp crudrepository 
+code simplified clarity brevity crudrepository interface implemented springboot column field timestamp table activitydetecteddate save database call error wrong code correctly converted zoneddatetime timestamp 
+
+find solution problem require hibernate specific annotations code implement adding jars classpath gradle hibernate correctly handle java8 types 

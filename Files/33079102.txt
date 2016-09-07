@@ -1,0 +1,4 @@
+android attempt invoke virtual method button setonclicklistener null object reference 
+problem class public class insertnoteactivity extends actionbaractivity error attempt invoke virtual method void android widget button setonclicklistener android view view onclicklistener null object reference 
+
+move 

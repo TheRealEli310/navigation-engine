@@ -1,0 +1,4 @@
+lucene null adding field docvalues 
+changed document field sortable search throws exception field null verified email null string add field exception lucene code field suspicious constructor accept custom fieldtype string fields sorting fix lucene edit code searching 
+
+separately add href https lucene apache org core core org apache lucene document sorteddocvaluesfield html rel nofollow advantage faster sorting lucene indexing add field document youre find documents emails search href https lucene apache org core core org apache lucene search fieldvaluequery html rel nofollow 

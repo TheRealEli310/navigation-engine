@@ -1,0 +1,4 @@
+serialize output custom method json jackson 
+serialize output specific method method doesnt start prefix em json em output serialized json field achieve serialization output strong adding strong strong prefix strong 
+
+jsonproperty annotation method jackson2 output hope helps 

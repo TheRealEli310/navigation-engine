@@ -1,0 +1,4 @@
+string conversion uint8 recognized 
+server running expecting data client arduino original type data uint8 string conversion data array type uint8 print stringdata server shows question mark inside box works fine create normal string string stringdata assuming conversion heres code pertains arduino id fine conversion side convenient 
+
+issue uint8 convert char youre changing href http www asciitable rel nofollow acii number character represents number href http stackoverflow questions conversion uint8 string thread explains conversion question mark print ascii doesnt exist 

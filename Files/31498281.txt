@@ -1,0 +1,4 @@
+sql sqlexception connection null 
+save object hibernate database receiving exception session open connected code unable commit strong code strong service repository strong output console strong strong configuration strong 
+
+okies dont close flush session case session opened automatically thread initiated request closed automatically request finished request number transactions transactions committed end request closing session transaction committed end request commit session null closed earlier 

@@ -1,0 +1,4 @@
+logback print perf4j log file 
+application logback perf4j current application configuration href http perf4j codehaus org apidocs org perf4j logback package summary html rel nofollow http perf4j codehaus org apidocs org perf4j logback package summary html em myapp log em worked em myapp timer em empty file logs console href http stackoverflow questions perf4j settings logback xml perf4j settings logback xml idea strong update strong application logs 
+
+pass logger constructors default constructor change config file default logger stopwatches elements capitalized 

@@ -1,0 +1,4 @@
+multi threaded udp server netty 
+implement udp server netty idea bind creating initialized handler dispatches processing incoming datagrams multiple threads questions ol li received method class duplicated worker thread packet destroyed method returns reference worker thread li li share worker threads call concurrently li ol 
+
+ol li nope object live longer turn youre shouldnt executor service register handler li li channel objects thread called threads li ol 

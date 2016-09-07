@@ -1,0 +1,4 @@
+elasticsearch disable logging 
+run local elasticsearch instance spamming console sorts messages code build settings create node creating logger yml log4j properties file set logging level error href http stackoverflow questions elasticsearch turn logging single local node question didnt work wrong simple setting put settings builder preferably create settings file reason find people config file prefer code 
+
+ended key call copy custom file directory simply disables console logger suspect settings included wouldnt custom file youd logging 

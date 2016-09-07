@@ -1,0 +1,4 @@
+web application created threadlocal failed remove tomcat severe 
+error tomcat console leading outof memoryerror blockquote mar severe http nio exec org apache catalina loader webappclassloaderbase checkthreadlocalmapforleaks web application xxxx created threadlocal key type net jawr web context threadlocaljawrcontext net jawr web context threadlocaljawrcontext 7c709f7a type net jawr web context jawrcontext net jawr web context jawrcontext 45f64269 failed remove web application stopped threads renewed time avoid probable memory leak blockquote net jawr dependecy compressing js css files suggest advance 
+
+bug href https net jira browse jawr rel nofollow jawr fixed v3 release 1st january release notes blockquote issue fixed memory leak restarting server due missing reset threadlocal blockquote 

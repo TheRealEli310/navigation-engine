@@ -1,0 +1,4 @@
+android sslhandshakeexception sslsocket connection 
+fairly simple client android server app add ssl strong working fine android strong failing android havent tested lollipop server telling strong cipher suites common strong heres basic code strong full source strong href https github krishnaraj sslsocketpoc rel nofollow strong server strong strong mainactivity strong strong exception stacktrace android strong strong server side exception strong 
+
+google forked openssl api href https boringssl googlesource boringssl rel nofollow boringssl href https developer android intl es versions marshmallow android html behavior keystore rel nofollow dsa support ecdsa href https github krishnaraj sslsocketpoc blob master server src main resources client public rel nofollow public client key dsa key check change keys href https developer android intl es training articles keystore html supportedkeyfactories rel nofollow supported algorithm 

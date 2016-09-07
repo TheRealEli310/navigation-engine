@@ -1,0 +1,4 @@
+passing list iterator multiple threads 
+list roughly 200k elements pass iterator list multiple threads iterate lot accessing elements thinking moment main mythread desired outcome thread process roughly elements locking iterator threads accessing element sound doable 
+
+em em manipulate threads iterators manually job default thread processors result edit maven add piece configuration order 

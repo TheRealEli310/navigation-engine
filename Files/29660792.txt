@@ -1,0 +1,4 @@
+return class instance generic type 
+heres simple demonstrates type erasure related issue running class implementation return valid syntactically making generic type parameter subtype returning doesnt work return type looked href http docs guava libraries googlecode git javadoc google common reflect typetoken html guava method promising returns workaround time generic type parameter workaround perform forced cast elegant strong edit strong response answers change signature method control source 
+
+reason doesnt cast directly unchecked cast legal cast unchecked cast add 

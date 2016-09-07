@@ -1,0 +1,4 @@
+dicom router implementation dcm4chee kit 
+dicom develop dicom router pacs pacs send specific study server1 sever2 dcm4chee kit 
+
+move dicom sop class dcm4che3 older dcm4che2 utilities run move scu operation send study pacs aet mind move aet receiving system source pacs aet host port data 

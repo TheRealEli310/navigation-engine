@@ -1,0 +1,4 @@
+lang classnotfoundexception org hibernate engine transaction spi transactioncontext 
+developing integration downgrade hibernate version works inorder hibernate configuration change refer details find exception configuration configurations package dont configurations guide configurations change order pom xml 
+
+change definition transaction manager upgrade spring framework 

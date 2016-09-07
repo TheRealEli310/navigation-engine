@@ -1,0 +1,4 @@
+read input file 
+series tutorials learn make game pretty code prints stack trace run code game spritesheet bufferedimageloader stacktrace shows btw sprite sheet png exist 
+
+figured sprite sheet png res folder needed add build path 

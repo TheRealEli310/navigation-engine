@@ -1,0 +1,4 @@
+configuring liquibase spring project 
+strong db changelog master xml strong file spring configuration file expecting table created database empty dont errors logs wrong change spring configuration class 
+
+fixed problem everytime run script change tag strong db changelog master xml strong file 

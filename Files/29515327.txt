@@ -1,0 +1,4 @@
+perform update operations gridfs 
+stored pdf file em size 30mb em strong gridfs strong perform insertion deletion find operation easily data persisted collections strong update strong ul li case pdf file li li case title author li ul blockquote perform update operations strong case strong gridfs blockquote maintain multiple versions files pick version put clarity strong edit strong update metadata title author easily 
+
+gridfs removing deleting single document bunch documents files split chunks chunk separate document means replacing file simply atomic manner ol li insert file li li happened em replica acknowledged em write concern update references file point li li confirmation delete file li ol gridfs kind hackish feature separate fileserver real filesystem store file content store metadata mongodb 

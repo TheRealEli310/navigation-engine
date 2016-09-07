@@ -1,0 +1,4 @@
+android app architecture rxjava 
+working android app basically head rxjava android requirements ul li maintain persistent global state logged user li li user state update views li ul singleton instance maintain global state persistence rxandroid notifying views clueless track setters emit observables provide code samples sample class definition havent setters sample skeleton user class stripped setters fields approach considered alternatives information 
+
+href http reactivex io rxjava javadoc rx subjects publishsubject html rel nofollow http reactivex io rxjava javadoc rx subjects publishsubject html rxjava onresume onpause activtiy subscribe unsubsribe create publishsubject inside user method setname user class singleton mentioned thing subscribed steam recive answer 

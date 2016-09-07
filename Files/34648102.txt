@@ -1,0 +1,4 @@
+unexplainable amazons3client getobject accessdenied exception 
+amazon aws sdk unexplainable accessdenied exception calling method odd uploading object object resource owner acl call accessdenied exception ve tested including acl grantee users call call exceptions permissions issue amazon docs specifically resource owner access resource default amazon s3 resources buckets objects related subresources lifecycle configuration website configuration private resource owner aws account created access resource strong edit strong mentioned originally riakcs client connect s3 time edit issue riakcs 
+
+strong riak cs strong s3 endpoint support configured aws v4 signatures getobject special respect default v4 signature current sdk version configure client v2 signatures discussion href https github aws aws sdk issues rel nofollow https github aws aws sdk issues 

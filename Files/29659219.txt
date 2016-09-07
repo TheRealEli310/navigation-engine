@@ -1,0 +1,4 @@
+close midi device 
+close midi device initialising midihandler object device stays open program terminates unplug midi controller program running wont send notes reconnected reinitialising terminate start program anew order work midi fundamentally misunderstanding concept main class simply instantiates midihandler works fine issues 
+
+checked href http docs oracle javase tutorial sound midi messages html rel nofollow oracle midi messages blockquote closing connections youre connection free resources invoking close method transmitter receiver youve obtained transmitter receiver interfaces close method invoking transmitter setreceiver doesnt close transmitters current receiver receiver left open receive messages transmitter connected youre devices similarly make application programs invoking mididevice close closing device automatically closes transmitters receivers blockquote 

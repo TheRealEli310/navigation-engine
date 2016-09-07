@@ -1,0 +1,4 @@
+maven package packaging classes 
+maven generate program jar everytime run package classes made looked pom file made mavan jar plugin goal point continuously ignores classes pom file running mvn package mvn clean package wrong update folder img src http stack imgur qaaiu png alt enter image description 
+
+made lot customizations arent remove problem source files arent default location maven expects sources found override location setting element 

@@ -1,0 +1,4 @@
+android clear view button 
+disclaimer android tutorial href http creative punch net make basic single touch drawing app android rel nofollow http creative punch net make basic single touch drawing app android added couple buttons buttons display toasts buttons working make button access maindrawingview class clear view rid previous drawing mainactivity class maindrawingview class activity main xml file 
+
+handler button locate view activitys findviewbyid method em id id single touch view em matches id assigned view activity main xml hr comment asked 2nd question clear view suggestion href http stackoverflow questions android canvas clear delete contents canvas bitmaps livin android canvas clear delete contents canvas bitmaps living surfaceview maindrawingview class add instance variable maindrawingview class add method maindrawingview class update ondraw method button handler simply call method 

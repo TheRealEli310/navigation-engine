@@ -1,0 +1,4 @@
+generate javadoc osgi bundle 
+newbie osgi world camel osgi bundles tasks middleware made proof concept refactor part code start writing osgi bundle common functionalities shared osgi bundles make clean decide write comments javadoc sleek documentation stuck error run javadoc camel component local repository dependency maven javadoc plugin add dependency maven javadoc plugin project running ideas doesnt work wrong osgi bundle wrong strong update strong 
+
+finally found response digging deeply javadoc page href https maven apache org plugins maven javadoc plugin javadoc mojo html rel nofollow javadoc documentation add lines build section 

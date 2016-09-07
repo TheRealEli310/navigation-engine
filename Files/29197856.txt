@@ -1,0 +1,4 @@
+org springframework beans factory beancreationexception lang noclassdeffounderror atomikos diagnostics console 
+blockquote org springframework beans factory beancreationexception lang noclassdeffounderror atomikos diagnostics console blockquote main interface accountinter implement class accountimpl applicationcontext xml application directory structure complete exception details happening 
+
+runtime find class class path building maven add dependency href http mvnrepository artifact atomikos atomikos util rel nofollow http mvnrepository artifact atomikos atomikos util download site add class path edit version console class download href http mvnrepository artifact atomikos atomikos util rel nofollow http mvnrepository artifact atomikos atomikos util 

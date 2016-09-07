@@ -1,0 +1,4 @@
+support local lambda variables 
+code compilable line compiled define local variable em inside em lambda expression forbidden design 
+
+multi statement lambdas wrap code block braces correctly semicolons ends statements keyword single statement lambdas implied save typing makes lambda readable 

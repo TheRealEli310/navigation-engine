@@ -1,0 +1,4 @@
+typing text field appending text area weird output gui 
+implement simple gui program user types text field presses enter text appended text field kind output img src http stack imgur fwtrv png alt enter image description heres codes textfield main textfieldtest 
+
+youre appending jtextfield content youre result calling jtextfield object fix small simple change side recommendation ul li put jtextarea jscrollpane add em em gui li li dont set sizes components gui layout managers components size li li instance id borderlayout default jframes contentpane add jtextfield borderlayout page start jscrollpane holds jtextarea borderlayout center li ul 

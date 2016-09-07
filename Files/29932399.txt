@@ -1,0 +1,4 @@
+jackson unrecognized field class 
+json string convert json class exception understand employee considered property wrong assuming class members considered properties 
+
+problem json object maps class properties json map properties json unmarshal property class property error unmarshal enclosed work properties dont control json configure unwrap root problem unwrapping based annotation class make jaxb annotation support href https github fasterxml jackson module jaxb annotations rel nofollow jackson module jaxb annotations register module applies jaxb annotations youre module wont work 

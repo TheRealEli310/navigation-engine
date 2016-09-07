@@ -1,0 +1,4 @@
+element gettext method working selenium 
+xpath line html source xpath method text critical succeed line page xpath xpath doesnt retrieve text doubted close tag line problem text 
+
+question answers explains problem initial confusion closing elements moving real problem problem element tag ends tells element closes point hr lets fragment document show xpath expression beginning expression return element order ul li whitespace text node li li closing element content attribute li li text node project updated li ul surprising select end strong strong text nodes result text content element xpath expression return individual elements separated solutions ol li retrieve text nodes exclude whitespace li li xpath expression targets text nodes directly excludes whitespace standard li ol hr general guarantee text content element single text node encounter html xml elements text nodes whitespace characters 

@@ -1,0 +1,4 @@
+building shadow jar gradle locally 
+href https github johnrengelman shadow rel nofollow shadow plugin gradle build jar file added build script fetch shadow jar href http jcenter bintray github jengelman gradle plugins shadow rel nofollow http jcenter bintray github jengelman gradle plugins shadow build locally put libs folder build script working 
+
+piece code work configuration gradle dependencies 

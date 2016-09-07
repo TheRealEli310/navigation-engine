@@ -1,0 +1,4 @@
+insert values working hibernate sessionfactory 
+working spring mvc hibernate orm module calling form action store values table data inserted table havent errors log code sessionfactory insert values jdbc driver point problem 
+
+check hibernate cfg xml file default package setting exist operation correct commit operation didnt correct result class save pass 

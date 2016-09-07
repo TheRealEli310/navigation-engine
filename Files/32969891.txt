@@ -1,0 +1,4 @@
+android listview hide data 
+text site reads textfile data address number textfile id person id press listview item store data listview item 
+
+write custom adapter arrayadapter href https github kweaver00 android learning blob master listview customadapter 20custom 20rows customadapter app src main weaverprojects customadapter customadapter rel nofollow https github kweaver00 android learning blob master listview customadapter 20custom 20rows customadapter app src main weaverprojects customadapter customadapter write customadapterclass click action activity file 

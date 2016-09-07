@@ -1,0 +1,4 @@
+outgoing call android 
+working app android intent class make calls successfully create call number working show outgoing call number show textview made textview clickable click redial number calllog calls getlastoutgoingcall getapplicationcontext called number works application start application enter number makes call outgoing called number set textview enter number successfully set textview strong strong click redial app calls number outgoing number calling number restart app redials outgoing number code 
+
+href http developer android reference android app activity html rel nofollow activity lifecycle called run time app appears correct time wouldnt necessarily work time youd run time activity appears move ensures date 

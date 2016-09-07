@@ -1,0 +1,4 @@
+run multiple jobs spring batch annotations 
+spring boot spring batch annotation scenario run jobs employee salary records updated spring batch configured classes tutorial href http spring io guides gs batch processing rel nofollow spring batch started tutorial employee salary objects named batchconfigurationemployee amp batchconfigurationsalary defined tutorial mentioned start spring boot application job runs run batchconfigured classes achieve salary class 
+
+names beans unique spring context jobs instantiating reader writer processor methodname methodname identifiy bean context job definitions reader writer processor overwrite give unique names readeremployee readersalary solve problem 

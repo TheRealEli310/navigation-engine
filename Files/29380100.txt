@@ -1,0 +1,4 @@
+servlets make world button press 
+school learning servlets understand idea unsure practice part piece work create web page netbeans button pressed invoke servlet display message world web page gethellomessage xhtml helloworldservlet invoke servlet user presses button 
+
+working edit glassfish web xml located project web inf add lines code gethellomessage xhtml 

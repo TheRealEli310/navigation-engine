@@ -1,0 +1,4 @@
+hibernate onetomany unexpected row count update actual row count expected 
+jpa hibernate spring mysql save person order person database fix added onetomany resulting error blockquote batch update returned unexpected row count update actual row count expected blockquote database script order person entity save objects stack trace 
+
+youre setting orders person null null constraint id irrelevant annotating entities makes sense remove annotations edit additional problem youre creating order assigned id told hibernate id supposed automatically generated consequence saving updating order hibernate decide save update checking entity id decides update save fails order id database 

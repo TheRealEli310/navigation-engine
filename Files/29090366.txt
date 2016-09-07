@@ -1,0 +1,4 @@
+hibernate extract data mysql hibernate 
+bothering newbie hibernate silly problem deal time select data db syntax error decided dummy table problem hibernate config file test hbm xml test main error message 
+
+finally found solution enabled realized hibernate sql query removed catalog training attribute works 

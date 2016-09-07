@@ -1,0 +1,4 @@
+language javafx color picker 
+change language texts custom color current color color hue saturation brightness opacity save cancel img src http stack imgur brhv7 png alt enter image description 
+
+edit answer em exotic em language sergey grinev provided sufficient answer hr solutions rely file create based examples found provided jre examples polish locale built hr h1 solution h1 create jar file structure change suffix place license placing custom files packages heres solution h1 solution h1 create file place lets create classes href https docs oracle javase tutorial i18n serviceproviders resourcebundlecontrolprovider html create implementations resourcebundle control rel nofollow read compile classes put jar file resource folder folder structure text file line path class case complete jar put 

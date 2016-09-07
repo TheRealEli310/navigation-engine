@@ -1,0 +1,4 @@
+garbage collection asynchronous calls future objects 
+sample code utilizes future interface make asynchronous call clarification method future variable initialized method variable cleared gc methods execution longer case code enters statement state jvm jvm handle wrapped result case read back affect thread pool thread executor 
+
+blockquote jvm handle wrapped result case read back blockquote program read back gc care garbage collection executed completely complete normal method completes 

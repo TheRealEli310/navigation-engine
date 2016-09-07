@@ -1,0 +1,4 @@
+spring bind data jsp controller 
+page bind data modelattribute post methods controller attributes entity unable form data jsp controller wrong find appreciated 
+
+figured answer jsp form needed configuration bean called commonsmultipartresolver bean written 

@@ -1,0 +1,4 @@
+http unsupported media type 
+created sample web service make post call jersey jax rs maven web xml pom xml method call raw request referred article href http stackoverflow questions rest webservice returning unsupported media type rest webservice returning unsupported media type issue 
+
+deleted dependency code pom xml added code jersey core jersey bundle jersey json 

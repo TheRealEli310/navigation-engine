@@ -1,0 +1,4 @@
+random maze generation 
+creating game practice stumped generate random maze limitations mind store maze dimensional array generate sizes mazes designated starting tile ending tile details storing maze 2d int array pathway wall starting block ending block attempted find online algorithms found met criteria suggestions 
+
+make rule blocks build 2d array ints block element cell represents blocks randomly preempt 2d array integers rule block top left make add direction existing block remove direction check block maze link algorithm preempt full grid randomly choosen selections left choosen randomly additively block respect previous blocks top left youll checks iteration stage previous grid draws path left randomly reaches side stage takes path blocks beautify add ways point dead end rest visual afraid 

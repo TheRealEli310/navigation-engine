@@ -1,0 +1,4 @@
+call main method maven package 
+main class scan generates files maven call main method maven package place generated files target directory 
+
+configure run method executing phase configuring pom xml run command phase maven life cycle execute method class mentioned ways href http www vineetmanohar ways run main maven rel nofollow ways run main maven 

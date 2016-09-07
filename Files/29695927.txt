@@ -1,0 +1,4 @@
+classnotfoundexception running cmd 
+digestutils class org apache commons codec digest imported run eclipse works run command prompt simhash total newbie downloaded commons codec jar file put project folder imported build path configure build path add external jars idea 
+
+add jar file command line runtime classpath simply run directly eclipse youve added file classpath 

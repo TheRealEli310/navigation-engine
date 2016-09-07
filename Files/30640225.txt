@@ -1,0 +1,4 @@
+extract parameter values url android 
+method works extract parameter hashtable api namevaluepair urlencodedutils deprecated replace method 
+
+android href http developer android reference org apache http client utils urlencodedutils html rel nofollow urlencodedutils deprecated good alternative href http developer android reference android net uri html rel nofollow uri class retrieve query parameter keys iterate retrieve 

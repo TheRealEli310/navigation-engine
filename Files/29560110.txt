@@ -1,0 +1,4 @@
+android eclipse create project appcompat v7 
+everytime create android project eclipse starts error resources found matches attr xxx addition appcompat v7 added project found resolve issue current app totally removing actionbar avoiding api modifying xml files removing created appcompat v7 project solution tedious everytime create simple project question appcompat v7 question create project error everytime 
+
+create project compatibility apis app work devices create project eclipse create strong uncheck strong step configure project 

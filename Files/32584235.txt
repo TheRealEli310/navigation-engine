@@ -1,0 +1,4 @@
+unit test raises hsqlexception user lacks privilege object found rownum 
+issue hibernate executing unit tests issue function testing perfectly working production environment dont case testing tested function raise error test entity persistence finally complete stack trace main concerns problem ul li perfectly working production li li absolutely code li ul basically dont understand hibernate advance 
+
+hsqldb unit tests oracle production run hsqldb oracle dialect enable oracle syntax compatibility mode hsqldb runtime error produced limit imposed result size query oracle implemented pseudocolumn href https docs oracle cd b19306 server b14200 pseudocolumns009 htm rel nofollow rownum hsqldb understands rownum compatibility mode 

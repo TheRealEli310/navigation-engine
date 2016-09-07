@@ -1,0 +1,4 @@
+pass parameter esper epl query 
+esper epl query change epl query run time means form change time length number records esper simply increase time length epl query number records event likewise change parameter pragmatically give hint start 
+
+depending actual requirement href http www espertech esper release esper reference html epl clauses html variable create rel nofollow esper docs blockquote addition creating variable create variable syntax runtime engine configuration api adding variables code snippet illustrates runtime configuration api create string typed variable blockquote href http www espertech esper release esper reference html epl clauses html variable rel nofollow variables queries instance esper docs blockquote statement assumes variable named var threshold created hold total price threshold statement outputs event total price symbol greater current threshold blockquote parametrize make queries dynamic 

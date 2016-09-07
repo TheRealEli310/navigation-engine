@@ -1,0 +1,4 @@
+jpa load list values table 
+tables vehicle table master data vehicles vehicle image table meta information images base64 encoded string image vehicle images query vehicle object id object information vehicle image table pretty jpa examples find read table list simplest adding attribute vehicle object image data 
+
+jpa supports associations entities href https docs oracle javaee api javax persistence onetomany html rel nofollow onetomany vehicle id vehicle class collections mapping jpa topic 

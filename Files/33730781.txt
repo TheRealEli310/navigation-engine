@@ -1,0 +1,4 @@
+android wifimanager getscanresult complains access coarse location access fine location permission declared permission 
+developing app check wifi points error lang securityexception access coarse location access fine location permission scan results wifimanager getscanresults declared permissions main activity manifest sdk observed similar href http stackoverflow questions securityexception wifi scan results question solution apply declared permission problem 
+
+android permission defined dangerous permissionmodel user start time add activity load runtime evaluate results permission request override onrequestpermissionsresult method 

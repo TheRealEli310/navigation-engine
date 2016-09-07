@@ -1,0 +1,4 @@
+hashmap serializable 
+key supposed working io streams works suggestion strong test code strong strong stack trace strong pre class lang prettyprint override 
+
+exception message tells problem serialize instance class class serializable created anonymous class extends serialize instance class classes references relevant instance outer class default serialization traverse observe double brace syntax sort special significance important understand separate constructs outer pair braces appearing immediately constructor invocation mark boundaries class definition pair bound instance initializer block em em class body unusual contexts anonymous classes ordinarily include method implementations overrides inside outer pair initializer block 

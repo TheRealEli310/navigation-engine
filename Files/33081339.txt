@@ -1,0 +1,4 @@
+sqlexception stack trace 
+sort strange situation spring webapp jndi datasource defined tomcats server xml connect mysql database mysql connector maven pom application works start localhost deploy remote tomcat call database exception occurs avoid classnotfoundexception full stack trace explicit error mysqlnontransientconnectionexception reach 
+
+import required version dont preference latest 

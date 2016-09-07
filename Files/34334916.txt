@@ -1,0 +1,4 @@
+return modelandview spring mvc pdf object saveable attachment 
+spring mvc experience inherited restful controller code finds record database heres method lots supporting objects methods cut paste code ill leave heres problem url called pdf generated pops browser edit browser preferences pdf pop adobe acrobat popup window asks open save file make happen set content disposition attachment added httpservletresponse response method parameters added code luck adding content type luck learn send back modelandview object file attachment convert byte stream manually stream back clue thoughts greatly appreciated 
+
+default href http docs spring io spring docs current javadoc api org springframework web servlet view jasperreports jasperreportspdfview html rel nofollow jasperreportspdfview sets header isnt preconfigured property named configure override headers send generated pdf include header set case trick element 

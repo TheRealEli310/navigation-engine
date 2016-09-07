@@ -1,0 +1,4 @@
+tomcat connectors definition server xml file 
+understand tomcats connectors definitions server xml file difference configurations href https tomcat apache org tomcat doc config http html rel nofollow tomcat connectors documentation address property server ip address configuration leads exception tomcat startup connectors listen ip port reason define connectors 
+
+bind tcp port multiple times em em bind specific ip address fails test makes valid blockquote tomcat connectors documentation address property server ip address blockquote doesnt isnt relevant host addresses real ip address case ipv6 loopback address 

@@ -1,0 +1,4 @@
+stream collection collect multiple results depending independent predicates 
+staring imperative code convert purely functional style basically iterative loop check predicates fill depending predicate matches output sets overlapping pure functional streams map filter 
+
+easiest solution leaving easier create separate streams list predicates create list sets result set resulting list corresponds predicate process input single pass reason write special collector heres universal takes list predicates returns list downstream collector results predicate usage 

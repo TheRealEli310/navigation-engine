@@ -1,0 +1,4 @@
+android studio gui broken 
+issue android studio context menus code editor generate override methods gui broken shown attached screenshot dont android studio nvidia driver bug href http stack imgur 50b6n png rel nofollow img src http stack imgur 50b6n png alt enter image description system ul li windows x64 li li android studio li li update x64 li li nvidia gtx driver li ul update thought compatibility issue windows th2 launched eclipse happened nope android studio bug send bug report devs finds workaround fix reply 
+
+solved issue searching lot found href http tools android tech docs configuration rel nofollow title page page explains options change android studio changing options solved issue solved ul li created idea properties file android studio configuration folder located users username androidstudio versionnumber li li added line sun java2d d3d false li ul 

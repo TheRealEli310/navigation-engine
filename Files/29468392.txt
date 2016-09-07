@@ -1,0 +1,4 @@
+mapreduce heap space error reduce phase 
+simple mapreduce job building tfidf index end heap space error reducer approx approaches sorts structures telling job memory command running job smaller sample changed slightly end ideas tips mapper produces output reducer fails due heap space error command running amount memory mapreduce code edit stacktrace 
+
+solved larger number reducers implementing combiner 

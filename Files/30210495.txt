@@ -1,0 +1,4 @@
+visualize plot jframe javagd 
+jri rjava javagd problems drew simple plot jri include plot customized jframe added gdcanvas plot jframe plot displayed gdcanvas opens frame visualize plot jframe appearing frame possibility modify frame plot pops couldnt add modify special modify frames javagd advance 
+
+sys setenv sys putenv found integrate plot customized frame add buttons stuff directly plot standard frame opens automatically code worked fine hope people problem 

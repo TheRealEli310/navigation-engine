@@ -1,0 +1,4 @@
+dropwizard jersey sse server side events 
+href https jersey net documentation latest sse html rel nofollow jersey sse feature dropwizard application dw exception startup authentication authorization href http www dropwizard io docs manual auth html rel nofollow securitycontext simple authentication authorization app problem register sse dont solves problem jersey documentation automated registering version output solve problem ideas 
+
+strange problem dont works problem msgbodywriter write writeto method empty works strange 

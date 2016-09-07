@@ -1,0 +1,4 @@
+angular http post servlet 
+lot stackoverflow answers googled lot find post request working jsp controller servlet null pointer exception wrong 
+
+request url parameter named data request getparameter data returns null nullpointerexception send javascript object url parameters shallow objects recommend send data request payload client make data proper json 

@@ -1,0 +1,4 @@
+sql sqlsyntaxerrorexception row column count mismatch 
+error idea number columns rows match syntax idea wrong 
+
+forgot comma change 

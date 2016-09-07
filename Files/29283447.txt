@@ -1,0 +1,4 @@
+jvm lot max heap 
+issue jvm lot max xmx xmx2048 17gb os memory realise jvm max heap 15gb crazy top dump 017tb 17gb jmap debug app play app weird things classloaders permstat account stumped ideas john 
+
+figured developer error suggested answering case helps future issue simply closing stream open resource read class getinputasstream confusion arose jvm heap usage negligible unclosed stream left native code allocated released file handle leak reading main jar file time handle jvm heap usage tiny didnt spot heap dump moral story dont make mistake assuming jvm heap usage low point heap dump case thousands objects allocated gave clue 

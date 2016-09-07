@@ -1,0 +1,4 @@
+play raw pcm audio received udp packets 
+remote device sending live raw pcm audio header included udp packets implement program receive packets play pc live raw pcms attributes 16bit mono sampling rate 24khz add wav header raw pcm audio play problem dont file size audio implemented program based href http www wikijava org wiki play wave sound rel nofollow link noise output bound udp raw pcm remote device library api play raw audio pc 
+
+simple obtaining output line playing pcm run plays long annoying beep roughly ten lines handling line half code section generate pcm ignore pcm somehwere pay attention creation correct audioformat screw booleans signed endian pcm sound garbled possibly recognizable 

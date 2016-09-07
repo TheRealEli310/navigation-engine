@@ -1,0 +1,4 @@
+android studio libgdx adding kryonet library noclassdeffounderror 
+working android game implement multiplayer wanted kryonet ul li downloaded library href https github esotericsoftware kryonet releases rel nofollow https github esotericsoftware kryonet releases li li created libs folder core module li li copied kryonet jar li li added module build gradle li ul android studio work access imports running app device crashed gradlew clean cmd stuff helped give hint stuck hours 
+
+strong found solution strong wrong approach add kryonet libgdx android project ul li root build gradle li li add li ul ul li sync project gradle files li ul strong important point add kryonet exclude kryo adding kryo separately strong avoid exception em hope em 

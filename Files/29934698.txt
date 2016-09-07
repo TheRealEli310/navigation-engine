@@ -1,0 +1,4 @@
+typesafe config load configuration src test resources 
+beginner question app structure strong application conf strong strong test module conf strong test surely spot strong update strong overriding working 
+
+load test config file base method load application conf load file file 

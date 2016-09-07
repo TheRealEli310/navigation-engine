@@ -1,0 +1,4 @@
+access restful web service methods volley library 
+created restful web service tutorial href http www tutecentral restful api android part rel nofollow http www tutecentral restful api android part running auto generated file code calling class async task working good volley async task slow class url dont understand call url individual methods code bad url exception show access methods rest api separate urls 
+
+volley volleyservice volleyservice activity fragment 

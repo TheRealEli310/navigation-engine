@@ -1,0 +1,4 @@
+converting byte array publickey ecdsa 
+ecdsa algorithm sign message send receiver receiver verify senders signature receiver senders public key byte array format converting byte array command bellow format public key ecdsa algorithm converting byte array follow public key problem convert byte array usable format verify signature receiver general solution verify signature converting byte array word problem verify signature senders public key method 
+
+blockquote problem convert byte array usable format verify signature security publickey receiver blockquote solve problem href https www bouncycastle org latest releases html rel nofollow bouncycastle provider question remains generate private key full running code ec sign verify href https github rakeb ecpsingverify rel nofollow github understanding 

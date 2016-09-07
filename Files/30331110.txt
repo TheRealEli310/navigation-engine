@@ -1,0 +1,4 @@
+building apache roller windows 
+kind error build apache roller windows service pack bit suspect strong outputdirectory oller trunkapp target dbscripts templatepath oller trunkapp src main resources sql strong problem idea fix ran mvn clean install command prompt 
+
+succeeded building roller source code current svn trunk snapshot windows box errors output building version jdk maven output strong update strong github distribution roller built error detail check href https issues apache org jira browse rol rel nofollow https issues apache org jira browse rol 

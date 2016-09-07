@@ -1,0 +1,4 @@
+comparable overriding compare method sorting array lists objects 
+wanted sort array list objects based properties object lets code searched found comparator option class objects override compare method sort method problem confused implementing comparable code sort method work code gave error remove implement part works 
+
+strong comparable strong br ol li comparable single sorting sequence words sort collection basis single element id price li li comparable affects original class actual class modified li li comparable compareto method sort elements li li sort list elements comparable type collections sort list method li ol strong comparator strong ol li comparator multiple sorting sequence words sort collection basis multiple elements id price li li comparator doesnt affect original class actual class modified li li comparator compare method sort elements li li sort list elements comparator type collections sort list comparator method li ol 

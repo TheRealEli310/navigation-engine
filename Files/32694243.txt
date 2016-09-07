@@ -1,0 +1,4 @@
+read hdfs sequence file spark 
+read file case spark rdd file decode contents file string code output read contents file spark 
+
+sequence files hadoop types textwritable byteswritable longwritable rdd type turn string call 

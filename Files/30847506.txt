@@ -1,0 +1,4 @@
+elasticsearch numberformatexception running consecutive tests 
+test class query tests number results returned values verified run tests separately tests pass work perfectly strong run tests strong strong passes fails strong em searchphaseexecutionexception failed execute phase nested numberformatexception input string 01t00 396z em strange behavior appears rangefilter publishdate type em fieldtype date em applied similar queries boolfilter termfilter applied tests pass run queries inside method exception thrown thought improper cache initialization cleanup behavior happen queries method class delete indexes elasticsearchtemplate deleteindex article class method redo bulk indexing refresh wrong path missing full stack trace mapping article index 
+
+exception complains sending date long date object dates stored internally calling code 

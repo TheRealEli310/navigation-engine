@@ -1,0 +1,4 @@
+interrupt underlying execution completablefuture 
+completablefutures design control execution interruptioons suppose problem completablefutures good compose async execution case underlying execution interrupted stopped future cancled accept cancled manually completed completablefuture impact thread working complete useless work takes time executor worker approach design case strong update strong simple test 
+
+href https docs oracle javase docs api util concurrent completablefuture html rel nofollow related asynchronous action eventually complete blockquote unlike class direct control computation completed cancellation treated form exceptional completion method effect blockquote em em separate thread working completing em em threads working link thread reference interrupt thread running task complete youll write logic tracks instances acquire reference intention complete hr heres type execution assumes task executed setup handle interruptions correctly 

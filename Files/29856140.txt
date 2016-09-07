@@ -1,0 +1,4 @@
+receiving float scanner input 
+method check users input float string int throw exception declare scanner method method definition problem exception thrown matter user types question wrong input interpreted double float console misunderstand working method hasnextfloat scanner havent found helpful 
+
+youre enter floating number clear scanner results img src http stack imgur i2xey jpg alt enter image description h2 update h2 handle inputmismatchexception throw exception catch block results img src http stack imgur hyypd png alt enter image description 

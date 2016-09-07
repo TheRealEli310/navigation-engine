@@ -1,0 +1,4 @@
+jfxtras add listener dragging appointment 
+find information jfxtras javadoc add listener click drag appointment disable dragging appointments appointments directly database user drags shows time agenda appointment stored database catch drag appointment advance 
+
+appointments dragged start end time updated agenda rerendered prevent dragging good feature mind creating issue github simply accept start end times respective setters default appointment implementations easily class implementing appointment 

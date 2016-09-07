@@ -1,0 +1,4 @@
+rx reactive streams connectable observables 
+reading document href https github reactivex rxjava wiki connectable observable operators rel nofollow https github reactivex rxjava wiki connectable observable operators questions governing rules connectable observables work explained wiki ol li observable subscribers case li li deal scenarios subscriber slow li ol 
+
+answer question calls made answer question concern apply backpressure algorithms observers slow rxjs repo href https github reactive extensions rxjs blob master doc gettingstarted backpressure md rel nofollow good introduction backpressure options rxjs mentioned operators exist rxjava 

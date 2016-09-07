@@ -1,0 +1,25 @@
+ Released on 28 July 2011. Feature additions for Java 7 include:[5] 
+JVM support for dynamic languages, following the prototyping work currently done on the Multi Language Virtual Machine
+Compressed 64-bit pointers[6] Available in Java 6 with -XX:+UseCompressedOops
+Small language changes (grouped under a project named Coin):[7]
+ 
+
+
+Strings in switch[8]
+Automatic resource management in try-statement[9]
+Improved type inference for generic instance creation[10]
+Simplified varargs method declaration[11]
+Binary integer literals[12]
+Allowing underscores in numeric literals[13]
+Catching multiple exception types and rethrowing exceptions with improved type checking[14]
+
+
+ 
+Concurrency utilities under JSR 166[15]
+New file I/O library to enhance platform independence and add support for metadata and symbolic links. The new packages are java.nio.file and java.nio.file.attribute[16][17]
+Library-level support for Elliptic curve cryptography algorithms
+An XRender pipeline for Java 2D, which improves handling of features specific to modern GPUs
+New platform APIs for the graphics features originally planned for release in Java version 6u10
+Enhanced library-level support for new network protocols, including SCTP and Sockets Direct Protocol
+Upstream updates to XML and Unicode
+ Lambda (Java's implementation of lambda functions), Jigsaw (Java's implementation of modules), and part of Coin were dropped from Java 7. Java 8 will be released with the remaining features in summer 2013.[18] 

@@ -1,0 +1,4 @@
+net bindexception address jvm bind 
+server program client program execute program error net bindexception address jvm bind works fine issue 
+
+youre restarting server side program multiple times sockets time wait hanging prevent listening port set enable reuse option socket option reuseaddr 

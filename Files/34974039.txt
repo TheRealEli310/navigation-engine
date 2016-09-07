@@ -1,0 +1,4 @@
+run kotlin script kts files kotlin 
+noticed intellij parse files kotlin code editor picks free floating kotlin files run script intellij kotlin file main method script executes top bottom form perfect project working knew easy kotlin whats idiomatic run scripts kotlin 
+
+script files support kotlin pretty experimental undocumented feature process designing whats working today change break disappear tomorrow ways invoke script command line compiler invoke script directly intellij idea clicking editor project view kts file selecting run href http stack imgur 7nsgw png img src http stack imgur 7nsgw png alt run kts intellij idea 

@@ -1,0 +1,4 @@
+load rtf jtextpane 
+created class type jtextpane text editor program subclass text richtext inherts main jtextpaneclass unable load rtf richtext method reading fileinput stream isnt superclass jtextpane read rich text jtextpane simple missing lots examples rtfeditorkit filling jtextpane instantiated class line tells blockquote method read inputstream document type jeditorpane applicable arguments fileinputstream document int blockquote 
+
+access editor kit reference fact methods setter fact convinced set method exist define field constructor insist keeping method code constructor remember set initially create extra object immediately discarded 

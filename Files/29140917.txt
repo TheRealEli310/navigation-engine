@@ -1,0 +1,4 @@
+rxjava combining multiple web service calls 
+working basecamp api return display lists heres sample moment retrofit web service calls return observables subscription loop bcxtodolist call attach bcxtodo objects original list verbose separate statements make bit readable rx rxjava improve readability lambdas make compact stage interested features rxjava advantage 
+
+break chain rxjava calls flatmap chain observable lets split list elements separate observables tolist elements back list heres 

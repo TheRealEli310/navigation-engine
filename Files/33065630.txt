@@ -1,0 +1,4 @@
+spring mvc hibernate integration 
+problems integrating spring mvc hibernate assume missing configuration spring hibernate arent errors running application database updated entities configuration files web xml mvc dispatcher servlet xml spring configuration xml package class annotated database exists user exists run application database updated table corresponds class fix edit output running application server starting omitted errors pom xml 
+
+ve created simple application strong spring release strong application running main method configuration similar difference database choosen postgresql mysql additional bean created called configuration stackoverflow app resources properties database properties resources spring datasource xml 

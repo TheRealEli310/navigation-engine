@@ -1,0 +1,4 @@
+kotlin object expressions comparator 
+kotlin tutorials reached object expressions code basically sorts array descending order world overriding compare method works kotlin means put lt duplicated question simple understand 
+
+kotlin related apis comparator interface collections sort href https docs oracle javase docs api util comparator html compare rel nofollow documentation compares arguments order returns negative integer positive integer argument equal greater lets arguments gave ul li negative integer li li positive integer greater li li li ul collections sort doesnt em em means simply respects defined contract comparator interface implementor respect work em em implementation respect contract math 

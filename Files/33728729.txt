@@ -1,0 +1,4 @@
+multiple threads objects runnable class overlap 
+creating object everytime runnable class passing thread create multithreading problems thread overlap t1 
+
+instance construct thread em initially em set instance initially set variable shown method fields change depends method 

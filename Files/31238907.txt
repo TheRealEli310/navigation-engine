@@ -1,0 +1,4 @@
+play jpa hibernate postgresql create tables 
+create simple small application play framework jpa hibernate connect postgresql database application create database tables based models created application success content build sbt content application conf describing database conection content persistence xml small model class database application compiles runs errors ruta table created database missing edit appears console accessing application localhost 
+
+generated hbm2ddl database called hibernate created starting application create underlying hibernate database made call jpa entitymanagerfactory created start entitymanagerfactory app starts create href https www playframework documentation javaglobal rel nofollow global class jpa call pre class lang prettyprint override 

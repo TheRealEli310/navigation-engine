@@ -1,0 +1,4 @@
+lang outofmemoryerror background 
+report google plays applications running smoothly phone s4 s5 devices reported background images 100kb debug show problem reduce memory 
+
+excellent avoid writing question stackoverflow youre developping app allocate large memory heaps add manifest tag application blockquote android largeheap true blockquote 

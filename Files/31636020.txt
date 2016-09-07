@@ -1,0 +1,4 @@
+simple maven setup creating jax ws webservice 
+id strong create maven project build webservice file ready deployed glassfish strong piece cake find tutorial explain outdated latest glassfish maven goal world web service running glassfish code maven plugin 
+
+annotation maven setup heres minimal project deployed glassfish full profile strong pom xml strong strong service endpoint implementation class sampleservice strong strong web xml strong deploying local glassfish context wsdl href http localhost mvnjaxws sampleserviceservice wsdl rel nofollow http localhost mvnjaxws sampleserviceservice wsdl full project including folder structure basic unit test href https github scottheaberlin mvnjaxws rel nofollow pushed github 

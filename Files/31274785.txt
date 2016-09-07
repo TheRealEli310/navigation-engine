@@ -1,0 +1,4 @@
+errors running application maven project command line eclipse 
+run project machine eclipse run application eclipse command line hr error miss command line hr error complains org apache hadoop mapreduce job found pom xml wrong pom xml 
+
+hadoop core scope provided pom xml means maven assuming provide jar classpath remove provided tag add jar classpath running command 

@@ -1,0 +1,4 @@
+unable connect ssl server received fatal alert certificate unknown readdatarecord sslsocketimpl 
+situation client connect server server connect server connection secure socket successfully established connection individually establish connection simultaneously raising error code certificates connection code code sending data code connection receiving data finally tool generate certificates thing wrong iam ssl programming correct iam wrong 
+
+iam posting answer full modified code suggested strong em dave thompson em strong blockquote set ssl properties defaultsslcontext default sslsocketfactory sslserversocketfactory constructed time changing relevant system properties files point effect set javax net ssl properties calling factory blockquote code code sending data code 

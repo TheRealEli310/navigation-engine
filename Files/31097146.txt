@@ -1,0 +1,4 @@
+drag drop visual editor eclipse 
+current project write high level specification reference parsing grammar written antlr stringtempate generate equivalent programming code client finds writing textual high level specification difficult provide equivalent visual drag drop programming constructs editor programming constructs question strong eclipse provide drag drop workbench develop visual programming constructs editors strong easy integrate antlr sample link 
+
+graphiti lighter gmf easier setup href https eclipse org graphiti rel nofollow https eclipse org graphiti case leverage existing tools eclipse manipulate models absolutely metamodel integrate emf xtext develop based existing antlr grammar 

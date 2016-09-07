@@ -1,0 +1,4 @@
+create standalone tyrus client websockets inside wildfly server communicate wildfly instances 
+ol li make websocket connection separate deployable wars wildfly instances li li tyrus standalone client make websocket connection war li li snippet make web socket connection li ol question make websocket connection deployable war couldnt find exceptions ran errors handshake errors 
+
+snippets removing credentials part clientmanager createclient adding tyrus dependencies wildfly instance setup websocket connection 

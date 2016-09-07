@@ -1,0 +1,4 @@
+connectexception connecting server ip 
+written simple client server program create socket br connect server transfer data console input server pass localhost ip socket error error server side code client side code hosts file 
+
+faced similar problem make code client side server side stefan answered binding listen interfaces 

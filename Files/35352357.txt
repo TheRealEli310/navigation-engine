@@ -1,0 +1,4 @@
+android webview crashing error bad egl bad display 
+creating simple webview successfully loaded webpage internet trouble load html doc downloads folder created super simple html doc put download folder activity loaded clicking button mainactivity triggers intent webview loaded oncreate path log storage emulated download index html logcat reference html file 
+
+passing url path add scheme 

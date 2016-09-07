@@ -1,0 +1,4 @@
+slf4j log file missing 
+log file maven project found howto href http stackoverflow questions slf4j log file saved slf4j log file saved doesnt work find log file reason whats mistake app 
+
+project dependency file override properties supply order check file log4j configuration rename launch work conflict remove dependency 3d party lib making outlined change log4j configuration file permanent general directory launch program launched ide idea log file created project directory command line log file written directory 

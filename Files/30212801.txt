@@ -1,0 +1,4 @@
+split util stream stream 
+text file urls emails extract file url email found result shouldnt duplicates extract urls code extract emails code extract urls emails reading stream returned time splitting stream lines stream urls stream emails 
+
+collector elegant solution dont apply regexp make intermediate pair object free href https github amaembo streamex streamex library step shorter 

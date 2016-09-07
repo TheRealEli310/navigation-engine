@@ -1,0 +1,4 @@
+autowire fails deploying spring modular application tomcat 
+find solution google modular spring app run command line springboot problem created war command installed tomcat server postgresql database jre put war webapps folder external conf files conf folder modules present libs folder war file run tomcat error part main conf file security configuration defines persondetailsservice bean part persondetailsservice class personservice interface package implementation tags grateful hints provide logs information 
+
+problem configuration loaded declared accessible loaded beans reference beans vice versa putting component reacheable 

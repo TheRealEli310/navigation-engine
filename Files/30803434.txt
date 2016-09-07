@@ -1,0 +1,4 @@
+exclude dependencies subproject gradle build 
+developing project part huge multi project gradle build classes projects dependencies drag libraries require versions initially configured needed subprojects case task adds projects project tree dependencies class path causing application pick wrong versions eclipse included projects priority libraries working solution build jars required projects existing maven build libs attached means run build building subproject gradle gradle build needed projects add references final jars eclipse configuration 
+
+exclude transitive dependencies dependency recommend exclude dependency hand 

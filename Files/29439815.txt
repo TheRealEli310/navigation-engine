@@ -1,0 +1,4 @@
+map query results pojo constructor 
+set sql queries pojo object constructor mapping column result set field manually make generic student rs getrow map kind configuration file number fields select query order doesnt necessarily match order defined constructor control sql lot joins orm work strictly map resultset columns field add annotations student class mapping 
+
+perfect map field colum type getstring 

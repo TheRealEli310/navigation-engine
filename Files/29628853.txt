@@ -1,0 +1,4 @@
+adding jsonarray jsonobject generated escape characters gson 
+href https github google gson rel nofollow gson library create json object add json array code output unexpected slashes 
+
+add key pair slashes gson serialize list string informations values json object array strings quotes escaped backslashes observe behavior setting output array correct mapping method give parameter change youll output 

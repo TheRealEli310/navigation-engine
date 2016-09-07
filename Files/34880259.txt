@@ -1,0 +1,4 @@
+servlet execution threw exception lang nosuchmethoderror org glassfish jersey client clientproperties getvalue 
+maven web application project facets enabled ul li dynamic web project li li jax rs rest web services li li li ul basically expose functionalities restful web service jersey packages hit rest url exception guess issue version jersey list dependencies snippet pom xml jersey packages earlier changed maven clean maven build eclipse ides clean build project multiple times jersey client documentation find method class identify issue occurs 
+
+resolve kind errors update sources dependencies pom command fetch sources jar files back eclipse ctrl shift find file verify method find method correct order parameters run time issue check server find older versions jar 

@@ -1,0 +1,4 @@
+android ignore read sms permission 
+playing reading inbox android api stuck problem app activity main launched default code code fetches data prepares cursor iterate error error occures line code urges read sms permission manifest xml permission included causing strong edit strong working android emulator android studio concretely android api emulated devices android version code works bug android emulator a6 sms permissions 
+
+problem mentioned tdg permission model android href http inthecheesefactory blog things android permission developer edition en rel nofollow article helped understand issue clear href https developer android preview features runtime permissions html rel nofollow official android doc simply sms permission related code executed permission present 

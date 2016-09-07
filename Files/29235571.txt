@@ -1,0 +1,4 @@
+calculate sum elements jlist 
+creating shopping cart simulation list products add display total added cart basket implemented jlist main class button action listener items stocklist add basket addition jtextfield set basket dynamically update total cost add items cart question cart item class 
+
+naive approach possibly update general adding checks exception handling numeric conversions good idea change price property modifying code class 

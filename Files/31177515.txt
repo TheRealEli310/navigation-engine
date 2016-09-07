@@ -1,0 +1,4 @@
+initialize initial context jms 
+create message queue standalone application jms queue kind container tomcat jboss arguments passed initial context object completely standalone application wishes give vote question give reason comment give vote 
+
+resolve connectionfactory jndi container provide instantiate connectionfactory providing transport parameters dont retrieve ee container behavior covered related jsr provider specific hornetq connections sessions producers reused created released strong shared threads strong ideally pooled href https developer jboss org wiki shouldicachejmsconnectionsandjmssessions rel nofollow https developer jboss org wiki shouldicachejmsconnectionsandjmssessions 

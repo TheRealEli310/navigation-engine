@@ -1,0 +1,4 @@
+soft keyboard stays initiating webview 
+app logs web application credentials login initiates webview heres issue emulator nexus google nexus api samsung tablet keyboard webview desired behavior phones samsung 5s samsung galaxy keyboard strong strong phones work invoke behavior dont understand works tablet emulator phones heres manifest activity xml mainactivity webview url 
+
+lot solve issue created method called onclick submit button 

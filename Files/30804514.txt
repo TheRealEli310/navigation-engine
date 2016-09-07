@@ -1,0 +1,4 @@
+alertdialog builder setview call requires api level 
+radius numberpicker running class extends dialogpreference lot trouble setview work lets start code error builder setview call requires api current min support devices apis changing option override method override method superclass question set view doesnt necessarily onpreparedialogbuilder long supports api ps code displayed xml add 
+
+youre call function added api added api href http developer android reference android app alertdialog builder html setview 28android view view documentation layout instance context object create dialog recommend storing variable class future href http developer android reference android view layoutinflater html docs layout set dialogs code helps 

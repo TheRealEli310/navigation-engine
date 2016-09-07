@@ -1,0 +1,4 @@
+android menu items inflated 
+making android app apply code xml menu items inflated menu items defined menu xml file stored res menu main xml defined main activity code override menu inflator createanimatorsets function access buttons simply returns null put break point point code watch variables id action edit returning id expected findviewbyid id action edit toolbar getchildat findviewbyid id action edit returning null toolbar variable toolbar buttons stored inside reason inflated order utilised onstart method oncreate work fix 
+
+lot testing menu inflated onresume led hacky solution problem future people struggle stuff onresume set buttons hidden initially xml needed 

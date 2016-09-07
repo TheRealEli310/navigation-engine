@@ -1,0 +1,4 @@
+app crashes launch unable instantiate activity componentinfo 
+android development programming classes udacity problem decided start create app tip calculator app opens run emulator galaxy s6 simply crashes review logs search past threads stackoverflow sites solution worked absolutely lost written button display tip ran error testing attached mainactivity activity main xml logcat added androidmanifest xml people similar problem past solution work appreciated strong activity main xml strong strong mainactivity strong strong androidmanifest xml strong strong logcat strong h1 updated logcat h1 app runs terminate onclick working resolve issue start separate question arise 
+
+problem dont call findviewbyid global variable initialization called oncreate activity content view set oncreate br change code 

@@ -1,0 +1,4 @@
+matchers null mockito 
+suppose object objectdemo calls method objectdemomethod parameters string null verify method called mockito written giving error blockquote invalid argument matchers null blockquote pass null 
+
+mockito href http docs mockito googlecode hg latest org mockito matchers html isnull 28java lang class rel nofollow matcher parameter class expected method type replace method declaring parameter error message expected argument matcher argument href http docs mockito googlecode hg latest org mockito matchers html rel nofollow javadoc blockquote argument matchers strong arguments strong provided matchers blockquote 

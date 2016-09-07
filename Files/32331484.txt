@@ -1,0 +1,4 @@
+difference segment concurrenthashmap buckets hashmap theoretically 
+understand hashmap entries key buckets based hash key hashcode index denotes bucket location case entry location linked list created entry key equals method beginning linked list ol li relate concept concurrenthashmap buckets segments individual threads lock entries hashentry ies similar fashion linked list created key pair inserted based equals key end linked list li li correct put chm synchronized thread access method put method calculates hash key passed segment index kinda buckets segment calls put method segment put method specifies lock thread alter data segment concluding concurrency level threads threads strong put strong values segment time li ol 
+
+ol li bucket individual slot maps array conceptually array broken segments segment array references chm longer segments single array li li scheme em segmented locking em reduces inter thread contention eliminate li ol 

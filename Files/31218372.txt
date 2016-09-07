@@ -1,0 +1,4 @@
+buy sell stock log time complexity 
+edit br stay bound log time completicty divide conquer technique binary recursion make clear initial posting unsorted array ints buy stock ith day sell jth day maximum profit ith smaller day jth larger day found solution returns purchase sell days index values array max profit time complexity hard time log time complexity implementing divide conquer params start array end array profit class class created hold buy sell profit values case found account largest profit half array largest profit half array case smallest 1st half array largest 2nd half array completed part problem simple min max function solves final case stuck divide conquer implementation tips tricks greatly appreciated 
+
+pretty simple edited divide conquer 

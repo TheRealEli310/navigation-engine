@@ -1,0 +1,4 @@
+util nosuchelementexception scanner 
+noob working project supposed display data obtained text file grids project essentially written output displays exception links line code main method superclass boggle line supposed call methods class readdatafile line reads comments context main method links line method called populatedata inside subclass readdatafile line finally component catch finally created class context populatedata method basically trouble figuring exception actual goal project display data grids notice exception found output code compiles fine worried misplaced semicolons incorrect data types language books stackoverflow questions solved problems exception stuck provide feedback exception showing output whats causing steer direction id helpful comments 
+
+meant href http docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow href http docs oracle javase docs api util scanner html rel nofollow 

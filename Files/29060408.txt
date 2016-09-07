@@ -1,0 +1,4 @@
+maven execution plugin goal 
+maven learning phases goals executed plugin code snippet pom execute mvn install phases goals phase modello prior install executed strong strong modification introduce specific goal goal goal executed phase prior phase strong correct strong 
+
+doesnt work install project copied local repository plugin em em part default lifecycle maven compiler plugin default lifecycle jars compile happen goals executed execution block cases goal default phase bind href http modello codehaus org modello maven plugin mojo html rel nofollow modello binds default phase case dont execution block 

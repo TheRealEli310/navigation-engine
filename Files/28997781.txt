@@ -1,0 +1,4 @@
+bit shift operations byte array 
+shift byte array positions instance shifting byte array positions read long long work long k1 byte array long k2 byte array rotating longs long rotateright long number rotations longs joined back byte array 
+
+math biginteger supports shifts arbitrarily large numbers advantage simplicity disadvantage padding original byte array size input bytes output requiring additional logic h2 biginteger approach h2 output h2 long manipulation h2 dont youd rotateright makes life difficult blank bits left hand side k1 youd shift imo describe shift divisible easier nibbles move output bytebuffer form longs byte array shift long bits determine bits k1 pushed edge join k1 carry bits k2 hand side write longs back bytebuffer extract byte array 

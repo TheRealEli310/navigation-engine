@@ -1,0 +1,4 @@
+javafx creating interactive map 
+problem setup interactive map make visual feedback mouse moved map users areas click mouse cursor change clickable area town area highlighted glow direction start grateful answers map regions href http s29 postimg org q5sika0dz capture png rel nofollow http s29 postimg org q5sika0dz capture png 
+
+question bit difficult answer map drawn geometry shown map raster image map scanned paper map things complicated similar task wrote program geo reference map determine outlines interesting areas form polygons polygons draw outlines map display added listeners polygon notified mouse enters exits area 

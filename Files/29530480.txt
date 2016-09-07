@@ -1,0 +1,4 @@
+storing result select statement arraylist good bad approach 
+starting learn sql server wondering approach good implemented generic arraylist method values database good displaying wondering good set easy understand suggestions 
+
+fine approach works larger result set rows turn row object kind add array list work retrieve rows due memory constraints add return collection 

@@ -1,0 +1,4 @@
+retain xmlgregoriancalendar date format converting json jackson lib 
+object xmlgregoriancalendar objects date time jackson object mapper convert date json format date converting amp time converting json date 1392008400000 time retain date amp time format date time printing json strong working code mixins strong 
+
+youre printing object formatted method youre printing object formatted method youre printing represents converted json default conversion simply takes timestamp time millis epoch strong things strong serialize date types differently href https fasterxml github io jackson databind javadoc fasterxml jackson databind objectmapper html setdateformat text dateformat rel nofollow method required href https fasterxml github io jackson databind javadoc fasterxml jackson databind serializationfeature html write dates timestamps rel nofollow enabled default 

@@ -1,0 +1,4 @@
+spring boot sperate configurations multiple application contexts 
+id run spring boot application listen multiple ports aim apache forward multiple domains spring boot application tomcat ports understood threads launching multiple annotated classes main class href http stackoverflow http stackoverflow didnt grasp configure applications separately lets launched applications shown linked post separate spring security classes applications classes application assigned properties passed applications startup resources responsible context hope totally wrong direction experience spring mvc configured simplistic spring applications multiple contexts id glad lead direction advance strong update strong mentioned iamiddys answer xeons comment spring profiles provided springapplicationbuilder profile application contexts startup contexts 
+
+great spring feature loads beans associted profile start applications strong strong times arguments start rest strong strong 

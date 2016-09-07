@@ -1,0 +1,4 @@
+cacerts file missing ubuntu openjdk jdk 
+installed ubuntu openjdk jdk apt missing cacerts file link usual location ssl certs cacerts 
+
+due bug reported href https bugs launchpad net ubuntu source ca certificates bug ubuntu bug ticket ticket links similar href https bugs launchpad net ubuntu source ca certificates bug issue workaround 

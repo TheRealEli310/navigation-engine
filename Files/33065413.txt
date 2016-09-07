@@ -1,0 +1,4 @@
+separating rabbitmq messaging logs log file 
+working spring hibernate project spring amqp rabbitmq implementation messaging rabbitmq configuration separate xml imported root application context rabbitmq listener receiver polls queue important log messages buried truckloads debug level polling messages dumped log file separate polling logging file stop polluting logs log4j logging configuration 
+
+add statements omitted full configuration file logger put log entries log file hr logs href http stackoverflow questions log4j log output specific class specific appender log4j log output specific class specific appender 

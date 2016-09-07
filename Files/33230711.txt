@@ -1,0 +1,4 @@
+spring mvc rest delete method clicked link 
+creating web page user add addresses delete update address list add address working delete address working check interface design understanding appreciated working code add address working delete address code controller html page member service 
+
+dont ajax call delete record created anchor pointing url expecting browser infer http verb url semantics optimistic whats happen youll fire http url time instruct container register url http delete verb youll error delete write javascript code attach delete button click ajax call similar code work elements btn delete class add button selctor find include delete url id properly identify record href https jquery download rel nofollow jquery include html page easier proceed switch method annotation honestly prefer verb retrieve stuff deleting 

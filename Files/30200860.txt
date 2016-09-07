@@ -1,0 +1,4 @@
+files upload aws s3 bucket android studio 
+upload files android studio aws s3 bucket created aws account validation authorization code issue figuring root solved detail required bucket policy warning debug log code 
+
+log shows empty string role arn iam copy sample code console exception credentials provider makes request sts assume role session credentials role isnt set trust cognito judging role created generated cognito console forget trust relationship iam console edit role scroll click edit trust relationships make replace pool id cognito identity pool id pre class lang js prettyprint override 

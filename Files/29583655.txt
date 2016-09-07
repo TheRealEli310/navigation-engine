@@ -1,0 +1,4 @@
+thinks convert char string integer parseint 
+error message code error convert passed integer 
+
+adding empty string convert string type 

@@ -1,0 +1,4 @@
+preserve newlines reading file stream 
+replace multiple text patterns line file observing byte equivalent replaced comparison tests failing preserve newlines input file dont touch suggest separate default replacement 
+
+problem implemented top reads line line terminator throws write lines supplies system specific line terminator line differ line terminator read preserve line terminators theyre mixture line terminators regex define pattern matches line including valid line terminators eof special linebreak matcher matches usual line terminators unicode line terminators heard usual strong crlf strong strong cr strong strong lf strong terminators include order match potential line file doesnt line terminator make regex matches character match found scanner reaches end file read lines returns 

@@ -1,0 +1,4 @@
+json serialization class 
+common problem class serialize ways case include output method case dont output chose jackson views maximum flexibility created class serialized method serialization returns cases entire object serialized view happening documentation tutorials find online older versions jackson setting missing understand methods annotated view strong strong included default configuration temporary code joda money objects isnt invoked case avoid mixins means static configuration output isnt ul li jackson li li li li gae sdk li li objectify li ul 
+
+blockquote understand methods annotated view included default mapper blockquote true provide view mapper serialize blockquote default view exclude things included specific full view enable view processing view explicit basic view setting object class blockquote href http wiki fasterxml jacksonjsonviews rel nofollow 

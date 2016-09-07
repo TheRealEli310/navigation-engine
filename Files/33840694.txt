@@ -1,0 +1,4 @@
+public static void main string args throws exception 
+meaning dont throws exception 
+
+ul li public access specifier means accessed class program li li static access modifier means program load create space memory automatically li li void return type return li li main method function method execute jvm li li string args command line argument collection variables string format li li throws exception exceptions notify things li ul 

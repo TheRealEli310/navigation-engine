@@ -1,0 +1,4 @@
+spring data jpa zoneddatetime format json serialization 
+problem json serialization converted json produces enormous object dont data transfered time format iso doesnt work format entity class 
+
+guess jackson json serialization jackson module date time api href https github fasterxml jackson datatype jsr310 rel nofollow https github fasterxml jackson datatype jsr310 add dependency pom xml usage output jackson version hope helps 

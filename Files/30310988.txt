@@ -1,0 +1,4 @@
+load jpa properties datasource spring 
+spring boot data jpa persistence properties exists load jpaproperties automatically spring build add jpa property persistence properties wouldnt noticed change put property properties object 
+
+denium suggested dont configure beans springboot configure properties application properties separate datasource jpa properties testing environment profiles create application dev properties application uat properties application prod properties configure respective environment settings activate desired profile springboot supported properties list href http docs spring io spring boot docs release reference htmlsingle common application properties rel nofollow http docs spring io spring boot docs release reference htmlsingle common application properties configure jpa properties h1 jpa jpabaseconfiguration hibernatejpaautoconfiguration h1 follow naming convention dont configure beans 

@@ -1,0 +1,4 @@
+deserializing gson converting sql date incorrectly 
+gson deserialize json string object date json string format date read sql date field object month ends january strange code json string deserializing gson code testobject public class testobject run piece code dates object printed plain weird set date format idea wrong 
+
+format stay minutes months javadoc explaining letter date format functions href http docs oracle javase docs api text simpledateformat html rel nofollow link infact conventions blockquote pattern abide convention provided simpledateformat class documentation simpledateformat information valid date time patterns blockquote 

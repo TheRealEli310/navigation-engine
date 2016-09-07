@@ -1,0 +1,4 @@
+android marshmallow denying permissions permission request dialog shown user 
+reading android docs decided play read sms messages device setting permissions manifest writing code request permissions code setting breakpoint app crashes permission denied permission denied declared docs told declare em em implemented thing os user grant deny permission doesnt happen doesnt present dialog grant deny permissions app crashes shows figure whats strong user strong permission specifically permission bashing head desk fix em days em code latest code complete writes missing removed didnt work removed order troubleshoot works doesnt manifest main oncreate main permission methods 
+
+place fix simply returning show permission request usual aproach snackbar dialog simply immediately call testing purposes edit 

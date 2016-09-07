@@ -1,0 +1,4 @@
+deploy ee application payara41 docker container maven 
+deploy simple maven based web application payara application server running docker container glassfish maven plugin configuration host property domain configuration deploy docker container remote domain wrong correct thing deploy app output maven deploy app locally wrong configuration maven glassfish plugin netbeans apache maven strong edit strong ran maven debug option output matter system rights whats interesting maven execute command localhost set host option maven picked option configuration missing thing local payara running create payaradomain docker container running domain exists 
+
+treat docker container remote deploy publish needed ports host option run command deploy locally 

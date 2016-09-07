@@ -1,0 +1,3 @@
+spring data jpa query set 
+entity class set entities class manytomany relationship scope object class retrieve object class object set class repository sqlgrammarexception correct syntax 
+

@@ -1,0 +1,4 @@
+convert immutable set hashset 
+writing algorithm set undirected graph objects adding removing edges correctly specific elements graph reach point error program allowed add edges graph changed input objects addedge method code addedge running debugger found beginning code mgraph called returns hashset error occurs returns collections unmodifiableset happening 
+
+dont mgraph populated entries unmodifiable sets views data structures error message chagrin lot developers operations collections classes optional supported implementors collections unmodifiablecollection returns read views method views collections map keyset ensure hashset instances put mgraph explicitly create source set constructor 

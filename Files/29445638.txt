@@ -1,0 +1,4 @@
+volatile getter synchronized setter synchronized 
+concurrent program guaranteed threads acquires lock monitor object code confirm true explain 
+
+code thread inside synchronized method passed threads made volatile threads cache latest copy thread helpful href http stackoverflow questions volatile modifier synchronized blocks volatile modifier synchronized blocks 

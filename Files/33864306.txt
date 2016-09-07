@@ -1,0 +1,4 @@
+convert string bit ascii 
+convert string bit ascii numbers store arraylist output make 
+
+complete solution fix problem output 

@@ -1,0 +1,4 @@
+read files directory hashmap recursive 
+read filenames nested folder structure hashmap br structure hashmap foldername key amp filenames arraylist make recursive call amp save things hashmap missing things saved hashmap find wrong strong em input path parent directory em strong expected output 
+
+minute code ol li loop entire list files folder listfiles filenames arraylist populated names files move map put operation end loop li li creating map object iteration returning map object function recursive call process map objects global map object li ol 

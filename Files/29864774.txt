@@ -1,0 +1,4 @@
+list manipulation 
+basic map filter operations list method working fashioned iterate ifs wanted write method commented part doesnt give result fails filter categories correctly working implementation 
+
+version added category list subsequent occurrence category isnt added time added list version doesnt thing make categories unique stream dont collect temporary list 

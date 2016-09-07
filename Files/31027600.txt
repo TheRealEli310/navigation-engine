@@ -1,0 +1,4 @@
+itext image breaks cell alignment 
+table row images row descriptions images handle creating table size columns amount images filling cells tables size rows 1st row image 2nd row description setting cell alignment 1st row center row apply align description stays left bug result image centered text addelement removes previously set alignments table cell elements bug set alignment added content cell table 
+
+wrong wrong mixing em text mode em em composite mode em approaches explained documentation 

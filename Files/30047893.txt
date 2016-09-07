@@ -1,0 +1,4 @@
+timer schedule run method 15th minute 
+run method minutes made mistaken code working properly 
+
+clarification task run specific minutes hour recommend proper job scheduling library href http www quartz scheduler org rel nofollow title quartz quartz hand stick timer problem find correct running time timer run min joda suggested ben code work 

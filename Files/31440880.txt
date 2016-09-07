@@ -1,0 +1,4 @@
+processing detect mouse dragged variable 
+understand code inside function run mouse moved pressed time wondering detect movement variable doesnt provide variable unlike 
+
+solution specific create variable stores user dragged mouse variable set strong true strong inside function mouse pressed variable set strong false strong em em 

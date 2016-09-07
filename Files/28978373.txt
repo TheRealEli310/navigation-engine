@@ -1,0 +1,4 @@
+mutex object issue 
+code collections synhronizedmap found implementation question em synchronized mutex em em synchronized em understanding synchronized thread access map edit clarifications relevant question strong strong keyword refer current instance method putting mutex keyword lock current instance object lock current instance thread grateful explain meaning statement holistic manner 
+
+case thread access map contents time style mutex separate map map passed threads synchronize doesnt affect object separating lock map lets user lock separately user share lock class written lock lock apparent context assume case coarse grained locking needed map prefer option lock exclusively control object referring synchronizedmap object btw doesnt private lock support client side locking 

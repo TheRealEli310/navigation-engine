@@ -1,0 +1,4 @@
+enable query logging spring data elasticsearch 
+spring data elasticsearch framework query result elasticsearch server code raw http query elasticssearch server enable logging add log4j spring data elasticsearch doesnt log query 
+
+dont answer spring data elasticsearch es bump default settings slow query logging queries slow log details slow log href https www elastic guide en elasticsearch reference index modules slowlog html rel nofollow change thresholds command kindof smallest set 

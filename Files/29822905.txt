@@ -1,0 +1,4 @@
+implementing pause resume function game 
+managed pause game unable unpause doesnt work unpause pressed line pause 
+
+moment set false game thread exits run method returns changed differentiate running paused break loop 

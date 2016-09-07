@@ -1,0 +1,4 @@
+register spring bean apache camel route builder config 
+href http camel apache org spring html rel nofollow apache camel documentation describes register route builder component springroutebuilder jumps xml code config component picked spring created part fine register route bit missing camel context pick route managed spring bean 
+
+turns pretty close solution add componentscan annotation camelconfiguration class remove application class routebuilder picked automatically 

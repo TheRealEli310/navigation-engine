@@ -1,0 +1,4 @@
+websockets spring sockjs stomp magnolia cms 
+implement websocket functionality web app running tomcat tech ul li server spring websocket spring messaging li li client sockjs stomp js li ul guide roughly href http g00glen00b spring angular sockjs rel nofollow http g00glen00b spring angular sockjs configuration similar guide ill add snippets code client server controller set vanilla spring app works great port code magnolia module code stops working errors strong client side error strong href http stack imgur wqbvi png rel nofollow img src http stack imgur wqbvi png alt client side error strong server side error strong connection reset broken pipe changing transport protocol websocket doesnt idea magnolia causing long lived websocket session connection closed 
+
+solution lay simply bypassing magnolia filter chain altogether needed create global bypass object magnolia admincentral configuration server filters bypasses connection doesnt reset interrupted anymore 

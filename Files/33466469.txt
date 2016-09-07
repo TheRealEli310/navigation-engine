@@ -1,0 +1,4 @@
+android studio openimaj 
+build android studio project dependency openimaj library module build file reports errors syncing ide construct classes source files android studio recognize classes openimaj dependency appreciated 
+
+youve jar openimaj dependency specifically youve told link openimaj master pom file references modules choose specific modules application image processing add dependency strong edit strong batik svg libraries circular dependency breaks gradle href https issues apache org jira browse batik rel nofollow https issues apache org jira browse batik eventual additionally pulling xml apis conflict android assuming dont mind svg image support work add additional exclusions dependencies needed app including pulls lots things needed created issue href https github openimaj openimaj issues rel nofollow https github openimaj openimaj issues 

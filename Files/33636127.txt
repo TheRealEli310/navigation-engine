@@ -1,0 +1,4 @@
+jackson objectmapper unexpected character json valid 
+write read simple class file jackson read file create blockquote org codehaus jackson jsonparseexception unexpected character code expected valid number string array object true false null source io stringreader f2dec59 line column blockquote object pretty basically container hashmap resulting json file checked jsonlint code read file 
+
+error jackson deserialize string content file call 

@@ -1,0 +1,4 @@
+pdf file opening browser servlet jsp 
+open pdf file browser window servlet jsp button click jsp calling servlet servlet display pdf file browser heres code jsp file servlet section dopost method kindly wrong advance 
+
+opening outputstream file obtaining reference servlet reaponses writer writing assume serve file resides server read contents write servlets output stream servlets outputstream writer 

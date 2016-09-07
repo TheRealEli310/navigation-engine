@@ -1,0 +1,4 @@
+dropwizard hibernate configuration 
+dropwizard till started messing hibernate mysql problem hibernate wont create tables columns db warning running jar file configuration mapping application class yaml file configurtion class entity tutorials explains configure hibernate advance 
+
+finally solved problem big deal small mistake expected problem book class ide automatically imported library called book libraryapplication class db mapping hand book class named query mistake writing book small letter 

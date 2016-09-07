@@ -1,0 +1,4 @@
+spring jaxb2rootelementhttpmessageconverter working jaxb annotations 
+spring set jaxb2rootelementhttpmessageconverter message converter convert object xml rest service response generated adhere jaxb annotations provided model classes br baseresponse addmemberresponse point code save xml database manually convert string saved jaxbmarshaller class works fine stores database jaxbmarshaller returns response postman connect external service data relevant return initial app servlet xml message converters configured update1 showing logs isnt converter marshaling response 
+
+remove jackson dependency classpath mappingjackson2xmlhttpmessageconverter 3f767117 takes precedence jaxb converter classpath marshaling converter jaxb 

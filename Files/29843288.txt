@@ -1,0 +1,4 @@
+apache kafka producer store data 
+access kafka deployed aws server public ip connect send data receive response server connection closed producer code adding advertise host server properties config file kafka shows error resolve issue 
+
+ec2 ip addresses internal face issues dealing ec2 server running kafka zookeeper setting variables file ip address ec2 server kafka port default 

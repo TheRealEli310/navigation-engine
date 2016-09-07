@@ -1,0 +1,4 @@
+parse comma separated line csv items quotation marks 
+parse comma separated string notice input lines inside quotation mark data clean fields inside quotation marks dont hr split line 
+
+comments parsing csv files notoriously tricky due behaviour quotes commas quotes included quoted values recommend pulling library regarded dealing robustly edge cases options include href https github tototoshi scala csv scala csv href http labs encoded io reading csv files scala traversable traversable csv library href http opencsv sourceforge net opencsv dont library href http stackoverflow questions scala parser combinator parse csv files answer href http stackoverflow questions whats simple scala read write small csv file answer tackled roll csv parsers 

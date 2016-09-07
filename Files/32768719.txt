@@ -1,0 +1,4 @@
+queryparsingexception mobapp failed find geo point field location position 
+created index index query 
+
+location data dont type simply normal type default wipe current index recreate command reindex data query work 

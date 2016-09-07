@@ -1,0 +1,4 @@
+apache camel stop retrying failed move file route completion 
+route picks file performs series operations completed noted field route instructed move file directory alternatively failed move folder problem occurs process lock file excel camel unable move file infinitely retrying undesired behaviour adding solver specific issue retry entire route em em retry file move clarification purposes ignore dealing issues data integrity quality process strong tldr strong retry camels file move completion executing entire route 
+
+file component handle route configure file component handle locked files option related options option extensive description href http camel apache org file2 html rel nofollow file2 component documentation page 

@@ -1,0 +1,4 @@
+design class tells number prime 
+homework design class named myinteger conditions ul li int data field named stores int integer li li constructor creates myinteger object int li li method returns int li li method isprime returns true prime number section text code detects prime numbers vary depending edition li li static isprime myinteger returns true prime number method takes object reference variable parameter li ul problems static boolean isprime method stating undefined arguement type main method statement isprime true change static static boolean isprime method supposed isprime methods conditions 
+
+dont till half number check prime loop checks numbers square root number href http stackoverflow questions check upto square root prime number determine pri stackoverflow question checking prime numbers 

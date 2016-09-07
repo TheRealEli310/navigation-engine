@@ -1,0 +1,4 @@
+access sharedpreference thread 
+application login saving user details username id email sharedpreference file access application spawned thread run independently sync accessing sharedpreference values preference returned null wrong ps kill app thread spawned acess values strange happening user logs time details accessible feels sync issue sharedpreferences 
+
+thread accessing shared preference turned service running process changing shared preference mode worked perfectly access shared preference 

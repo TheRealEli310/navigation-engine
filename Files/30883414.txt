@@ -1,0 +1,4 @@
+android listview arrayadapter string cast holderview 
+application listviews custom arrayadapter crashes scrolling listview error slidemenuadapter custom adapter bind arraylist objects code strong getview strong solve issue entire logcat 
+
+returns root layout xml view hierarchy assuming root view id line overwrites viewholder tag recycling view wont work store additional data id view holder field necessarily put view tag 

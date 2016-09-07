@@ -1,0 +1,4 @@
+spring security config login return url based user role 
+return pages user logs system based role method logging dont return urls don add controller redirect login redirect url base role 
+
+href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web configurers abstractauthenticationfilterconfigurer html defaultsuccessurl rel nofollow defaultsuccessurl href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web configurers abstractauthenticationfilterconfigurer html failureurl rel nofollow failureurl functions redirect user role suggest page redirects based users role 

@@ -1,0 +1,3 @@
+method class android onclick 
+call method call main onclick button class dont finished main 
+

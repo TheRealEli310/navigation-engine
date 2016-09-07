@@ -1,0 +1,4 @@
+nosuchmethoderror thrown finishaftertransition called 
+creating android application xamarin appcompat v4 v7 packages xamarin android support v7 appcompat reverse scene transition animation finish activity pressing back button found solution href http developer android training material animations html rel nofollow method overriden class derived press back button activity subclassed error matter order call methods inside app crashes rebuild project call methods googling tells person earth error wrong 
+
+finishaftertransition activity appcompatactivity method api href http developer android reference android app activity html finishaftertransition rel nofollow http developer android reference android app activity html finishaftertransition run app api youll run error doesnt exist part appcompatactivity youll find solution achieve result call api hope helps 

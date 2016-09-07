@@ -1,0 +1,4 @@
+servlet url valid strava authorization callback domain 
+connect strava api oauth2 registration application requires authorization callback domain href http testapp rel nofollow http testapp locally testing url href http localhost testapp servlet rel nofollow http localhost testapp servlet strava wont validate error filed domain slashes paths put servlet url callback 
+
+set authorization callback domain requesting access provide strava starts callback domain case strava doesnt work em hostname port em format youll setup local application server run default port youre running tomcat youll make change em tomcat home conf server xml em file check web application server documentation 

@@ -1,0 +1,4 @@
+accessing scanner client side web page applet 
+acces scanner client side applet problem chrome decided support solution js jquery language 
+
+atalasoft web scanning toolkit meet href https www atalasoft products wingscan rel nofollow atalasoft wingscan product page product browser specific plugins works nicely modern browsers ie8 chrome firefox architecturally small local component installed exposes restful web service web page standard javascript jquery communicate service scan import enhance images online demo href http www atalasoft demos wingscandemo rel nofollow wing scan demo page scanning component based href http www eztwain rel nofollow eztwain library includes number image processing algorithms improve quality scanned images deskew autorotate blank page detection optionally license embedded vrs technology impressively good cleaning scans 

@@ -1,0 +1,4 @@
+convert jsonnode objectnode 
+object data manipulation data googled answer didnt properly suggest manipulate jsonnode data convert giving exception 
+
+solution dont good approach 

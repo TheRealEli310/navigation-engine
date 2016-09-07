@@ -1,0 +1,4 @@
+newfixedthreadpool newcachedthreadpool 
+case creates thread pool creates threads needed reuse previously constructed threads case size create thread pool size isnt implemented fashion thread pool creates thread required limit thread size clarrification helpful 
+
+newfixedthreadpool creates threads lazily test difference fixedthreadpools threads expire cachethreadpool expire secs cachethreadpool active max active threads unlimited 

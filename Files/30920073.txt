@@ -1,0 +1,4 @@
+configure hikaricp hibernate guicepersist jpa runtime 
+java8 desktop app guicepersist hibernate hikaricp communicate postgres db success app send receive data db meta inf persistence xml pre class lang xml prettyprint override tricky part configuring guice jpapersistmodule runtime override properties meta inf persistence xml file setting properties map object jpamodule properties properties pass guicepersist combinations property names map luck looked pgsimpledatasource docs hikaricp docs topic datasource properties set bunch 
+
+removing persistence unit jpa properties 

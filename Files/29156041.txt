@@ -1,0 +1,4 @@
+spring session persist web flow state 
+couple wizards good fit spring web flow web flow stores significant flow state server side rapid integration deployment cycle durability server restarts web flow store flow state spring session persist state external session store correct configuring spring session adding web flow components application 
+
+default web flow stores conversation state attribute spring session persist external store servers sharing session repository synchronized state flows 

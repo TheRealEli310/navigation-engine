@@ -1,0 +1,4 @@
+unable read jar manifest util jar jarfile 
+trouble reading contents manifest jar file class ultimately problem solve determine specific jar file entry manifest manifest empty minimal test case testing appears creating jar correctly run command manual inspection manifest appears correct read manifest correctly class 
+
+contents manifest mf href http docs oracle javase docs technotes guides jar jar html rel nofollow main attributes function attributes key set iterate key 

@@ -1,0 +1,4 @@
+program terminate frame video 
+working program takes video webcam input detects movement video drawing lines objects show theyve moved run program display image webcam pretty good idea happening statement evaluated false statement runs changing terminates loop leaving output find happening hoping posted code check problems running video make wasnt fault webcam found problem time 
+
+exception console output window opencv error assertion failed scn scn cv cvtcolor file opencvmodulesimgprocsrccolor cpp line exception thread main cvexception org opencv core cvexception cv exception opencvmodulesimgprocsrccolor cpp error scn scn function cv cvtcolor org opencv imgproc imgproc cvtcolor native method org opencv imgproc imgproc cvtcolor imgproc capturevideo main capturevideo references line source file problem hasnt initialized bombing work locally adding block effect frame painted subsequent code open diff frame quickly kill machine ready kill process 

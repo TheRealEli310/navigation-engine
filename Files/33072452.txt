@@ -1,0 +1,4 @@
+log configurationproperties springboot prior startup 
+find log application properties injected beans configurationproperties prior context startup exact properties beans initialized create listener applicationenvironmentpreparedevent retrieve properties defined short retrieving individual properties time easy initialize log contents retrieve application startup properties prior context creation 
+
+application properties simply custom class implementing applicationlistener defining startupup class spring factories entry execute application load steps br br create file called spring factories resource classpath srcmain esourcesmeta infspring factories content create custom listener class proj customconfiglistener custom configurationproperties class finally application properties 

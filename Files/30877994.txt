@@ -1,0 +1,4 @@
+android drawing line points 
+developing app line drawn point button click bitmap heres code mainactivity lineview class draws line draws line start defined coordinates line drawn coordinates points declared main activity function work onclick advance 
+
+customview extending view class achieve lets call custom class lineview line lineview youll instantiate mainactivity code xml code 

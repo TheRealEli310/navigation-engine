@@ -1,0 +1,4 @@
+mule setting property spring bean 
+mule v3 moment bean called flowcontextenricher sets object eventcontext session information flow information audit logging reuse contextenricher online services mock services mock services additional boolean propery mock set true adding separate enricher mockcontectenricher call additional component mock flows total flow works weird isnt reuse xxxcontextenricher online mock services set property bean whats implement 
+
+solved adding message properties transformer component mock flow default isnt set false mock flows set property true cleaner set spring bean object 

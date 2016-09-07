@@ -1,0 +1,4 @@
+junit tests run eclipse 
+similar question asked href http stackoverflow unaccepted href http stackoverflow answer states blockquote test class started directly link suite expected blockquote explain means prevent tests running run tests command line run strong update strong test suite defined 
+
+run tests eclipse project level package level eclipse searches projects source folders junit classes selected package classes annotations classes classes runs tests result behavior suite class references tests classes project tests run suite run times understand behavior running suite test case instance accepted strategy define suite suites project run exclusively start tests project level run selected suites maven concerned suspect default configuration picks suite class omits test cases configured differently behave eclipse 

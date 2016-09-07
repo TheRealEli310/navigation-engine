@@ -1,0 +1,4 @@
+android studio manifest errors 
+run app errors manifest file followig errors error resource identifier found attribute versioncode package android error resource identifier found attribute versionname package android error resource identifier found attribute minsdkversion package android error resource identifier found attribute targetsdkversion package android posted code 
+
+manifest simply incorrect manifest version information located project build 

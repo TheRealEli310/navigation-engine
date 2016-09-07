@@ -1,0 +1,4 @@
+publishing commands device ibm iot mqtt 
+publish command specific topic ibm iot foundation mqtt broker web application application listen device events act publishing commands device problem device listening proper topic commands problem specifically command call publish topic app publish method defined enter method send printed console code specifies actual client publish topic mqttmsg call blocks program indefinitely eventually blocking error 
+
+publishing application device type device id refer section documentation publishing commands connected devices href https docs internetofthings ibmcloud cli app html rel nofollow https docs internetofthings ibmcloud cli app html 

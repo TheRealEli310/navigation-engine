@@ -1,0 +1,4 @@
+unchecked warnings removed javac suppresswarnings annotation 
+remove warnings unchecked cast strange added annotation method javac showing warnings create throws warnings oracle jdk update 
+
+bug doesnt reproduce 0u45 quick search related instance href https bugs openjdk net browse jdk rel nofollow jdk href https bugs openjdk net browse jdk rel nofollow jdk hg bisect find exact changeset resolved issue possibly related ul li href http stackoverflow questions generics suppresswarningsunchecked mystery generics suppresswarnings quot unchecked quot mystery li ul 

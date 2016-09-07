@@ -1,0 +1,4 @@
+commit transaction spring data jpa 
+downloaded spring data jpa href https spring io guides gs accessing data jpa rel nofollow accessing data jpa works expected change memory database real added current directory file single line run application expected directory database file created customers stored database restart application removed lines customers saved database beginning listen suppose transaction commited figure adding simply annotation application class method solution add commit transaction problem 
+
+deinums comment question adding solution 

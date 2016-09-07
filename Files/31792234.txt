@@ -1,0 +1,4 @@
+establishing jdbc connection freeze ui thread 
+code open connection sql database jdbc works freezes ui thread till connection opened ideas move separate thread wont stop ui thread android dont 
+
+strong short answer strong change statement strong long answer strong program begins execution em main em thread words run program method myprogram execution stack created method bottom stack program creates instance method calls method thread instance execution stack created method bottom stack execution stacks method bottom stack method bottom stack stacks continue execution parallel hand call thread instance method simply called execution stack method execution stack created calling thread instance good calling method object special meaning 

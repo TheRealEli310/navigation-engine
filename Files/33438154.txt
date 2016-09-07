@@ -1,0 +1,4 @@
+camel camelfailureendpoint set sending exchange deadletterchannel 
+developing project involves camel version dealing files folders messages form files consumed bean performs actions moved proper output folder file assumed strategy deal exceptions resolves folder configured route error route configured problem bean throws exception expected variable gracefully set endpoint failed reported href http camel apache org dead letter channel html rel nofollow camel dead letter channel documentation kind information order correctly dispatch message proper error folder log set returns missing 
+
+mention saves message filesystem picked filesystem exchange failure exception headers exchange caused error join camelcontext set errorroute processes exchange caused error camel failure exception headers 

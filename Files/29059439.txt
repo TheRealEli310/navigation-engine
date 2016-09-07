@@ -1,0 +1,4 @@
+extending spring mvc controller adapter pattern 
+controller request mapping controller class controller component overrides request mapping methods custom implementation request mapping request mapping methods sample code 
+
+override method parent controller retain urls controller methods prevent spring mapping urls parent controller duplicate url mappings add child controller assuming controllers exclude parent controller class managed spring allowing child class managed spring class mapped child urls 

@@ -1,0 +1,4 @@
+removing duplicate code spring job configuration 
+step configuration add similar steps readers writers change reader writer ideally reader writer parent level refer steps overriding mapper extractor 
+
+href http docs spring io spring docs current spring framework reference htmlsingle beans child bean definitions rel nofollow bean definition inheritance create abstract bean definition actual definitions parent beans reference attribute configure properties needed modified default 

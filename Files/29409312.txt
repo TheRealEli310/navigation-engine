@@ -1,0 +1,4 @@
+external folder content classpath gradle 
+gradle add folder content resource folder classpath didnt find resource folder project total path account files resources folder xml properties configuration build gradle lot 
+
+passing path wont work good idea path environment variable make cooperation easier developers workstations 

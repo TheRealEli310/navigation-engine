@@ -1,0 +1,4 @@
+pom errors manually downloaded dependencies 
+working web app group started ago make run newbie em sts spring tool suite em em em installed dependencies manually em jar em files em pom xml em showing errors guess resolve maven dont em pom xml em pre class lang xml prettyprint override errors resolve errors 
+
+blockquote installed dependencies manually jar files blockquote main points maven automatically dowloads dependencies typically em jar em files words suspect dont specific reason manual download files dependencies maven downloads stored local repository typically em m2 em tested em pom em file errors dependencies downloaded correctly resolve errors simply remove folders local repository build project letting maven download dependencies 

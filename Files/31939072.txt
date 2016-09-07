@@ -1,0 +1,4 @@
+net malformedurlexception unknown protocol classpath 
+import xsd schema local drive schemalocation classpath spring added required file classpath added reference file header applicationcontext xml spring spring bean version 
+
+shouldnt messing locations defaults spring social facebook preferably version spring load xsd jars classpath spring ships custom href http docs spring io spring docs current javadoc api org springframework beans factory xml pluggableschemaresolver html rel nofollow files directory spring jar files reasons error work ol li havent included spring social facebook needed dependencies li li included wrong spring social facebook dependencies li li incompatible spring spring social versions li ol bet option versions spring social facebook mixing versions jars 

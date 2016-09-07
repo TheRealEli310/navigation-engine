@@ -1,0 +1,4 @@
+rx divide stream segments lists condition 
+rx producer creates stream strings simplified version real stream stream endless ordered strings start run starts runs starts run move unknown number typically instances letter divide stream blocks bs cs block observable ill turn list simply list approaches rxjava failed things didnt work ul li strong group strong stream endless letter observable doesnt complete run bs start observable doesnt complete increasing number observables li li strong window buffer distinctuntilchanged strong distinctuntilchanged original stream output item group stream input buffer operator boundary windows buffers didnt work empty lists li ul whats correct solution rx id prefer solution solutions implementations rx easily converted 
+
+id solve works ul li defer subscriber buffer global li li concatenate buffering emission buffer source finite li li concatmap add buffer key emit empty observables key changed emit contents buffer start li ul 

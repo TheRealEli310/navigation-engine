@@ -1,0 +1,4 @@
+accessing s3 aws lambda 
+list keys s3 bucket aws lambda function written running code locally works fine hardcoded credentials running code lambda hangs hardcoded user credentials lambda execution role full access s3 s3 access hangs error permission configuration wrong running comparable lambda nodejs works 
+
+solution give lambda memory work runs lambda report arround mb execution simple s3 command mb 512mb works fine 

@@ -1,0 +1,4 @@
+spring data rest cascade 
+jpa entities user authority user parent authority child relationship user authority user authority exposed user spring data rest repository href http localhost api users rel nofollow http localhost api users list authorities create user authorities json error underlying exception wrong hibernate complains username null mapping json converted properly vijay 
+
+finally found solution issue jackson json unmarshalling missing object mapper relationship create parent child objects properly hibernate handles rest stuff luckily jackson annotations jsonmanagedreference jsonbackreference object mapper relationship updated code user authority point set lt list lt hold child objects alter equals hash code methods properly mentioned href http stackoverflow questions jackson bug feature util set myset size jackson bug feature util set myset size 

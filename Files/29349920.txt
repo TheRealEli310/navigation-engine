@@ -1,0 +1,4 @@
+implementation removefirst method slinkedlist 
+code book implementing singly linked list dont understand lines code method removes node linkedlist statement omitted garbage colletion suggestions ideas 
+
+depends entire implementation linked list included question objects hold reference node removed list line suppose long chain nodes suppose nodes removed list hold reference nodes held reference prevent nodes garbage collected simply setting node ensures garbage collected implementations linked list em em references nodes retained implementations hold reference current node code code searches list occurrence found removes list breaks loop trouble scope remaining code holds reference node node middle list occurred setting prevent subsequent nodes garbage collected scope list cleared generally make iterator local loop 

@@ -1,0 +1,4 @@
+polymorphism arraylist objects 
+bit general question understand concept polymorphism creating efficient program working program program add remove search display plants lets create super class plant plants flowers fungus weed extend plant question create plant arraylist array logical thing code point means correct explain add tree types plants array arraylist 
+
+default put object list generics makes limit types object insert list list plant instances inserted polymorphism arrays annoying aspect topic subtype doesnt subtype point generics add compile time type safety kind answers approach type safety 

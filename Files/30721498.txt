@@ -1,0 +1,4 @@
+tabs tablayout filling entire actionbar 
+tablayout viewpager display actionbar tabs guide href https guides codepath android google play style tabs tablayout rel nofollow tabs squished left side actionbar shown img src http stack imgur laazh png alt squished tabs bar equal widths made minor guide activity main xml style created show actionbar styles xml code mainactivity extends appcompatactivity fragmentactivity 
+
+read href http developer android reference android support design widget tablayout html tablayout gravity lay tabs center tablayout gravity fill tablayout fixed tabs display tabs concurrently content benefits quick pivots tabs scrollable tabs display subset tabs moment longer tab labels larger number tabs set code layout xml generally code blow work setting 

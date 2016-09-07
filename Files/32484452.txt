@@ -1,0 +1,4 @@
+fix issue spring data neo4j deleting previous relationships adding 
+sdn4 facing issue previous relationships deleted adding scenario step create node relationships relationship entities save relationship entity step node based properties spring repository cypher add relationships fetch api save relationship entity relationships added step lost step persist debugging node entities returned fetch cypher spring repository null relationship entity step relations step reflected correctly missing issue depth case cypher 
+
+reference option suggested luanne code snippet 

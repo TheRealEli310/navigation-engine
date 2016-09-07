@@ -1,0 +1,4 @@
+replace whitespace json keys 
+thinking solution replace whitespaces json keys underscore converted shown suggestions library predefined function 
+
+strong replacing keys strong code googles json parser extract keys reformat create json object read gson href https code google google gson rel nofollow strong replacing values strong depending json data set switch jsonarray jsonobject jsonarrays begin end jsonobjects begin end short methods travel entire array object replace spaces underscores theyre recursive dive child jsonarrays jsonobjects json data encoded jsonarray short method travel entire array replace spaces underscores recursive dive child jsonarrays read jsonarrays href http www json org javadoc org json jsonarray html rel nofollow data encoded jsonobject youd read jsonobjects href http www json org javadoc org json jsonobject html rel nofollow 

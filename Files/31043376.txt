@@ -1,0 +1,4 @@
+protect web application csrf adding hidden input forms 
+recent security scan web application found csrf vulnerabilities newer app security framework spring security easily add hidden input form required configurations solve problem app acegi security 100s forms written jsps adding input type hidden csrf token forms tedious smarter securing application hard work 
+
+feedback answers solution created filters setcsrftokenfilter dofilter method verifycsrftokenfilter dofilter method added filters urls web xml finally jsp pages injected code jquery forms solved problem scan find csrf issues complete source code filters server side javascript code client side created git project href https github anilpank oldwebappcsrfprotection rel nofollow https github anilpank oldwebappcsrfprotection 

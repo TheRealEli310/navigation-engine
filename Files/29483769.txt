@@ -1,0 +1,4 @@
+implement interface polymorphism 
+order pointer precisely type classes data polymorphism work classes pointer points part derived class data parent class unaware additional data work interfaces interface data guaranteed set methods unifying data base class pointer point doesnt make sense make clearer 
+
+depends jvm implementation implementation interfaces tricky simplest solution involves passing em em pointers parameter interface type pointer points object pointer points virtual table specific derived class interface combination solution finding pointer interface cast involves walking list linearly bounded linearly number implemented interfaces interfaces implemented wasting lot memory sparse tables 

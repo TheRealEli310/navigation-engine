@@ -1,0 +1,4 @@
+add war file web application dependencies 
+web maven project projects output file add file dependency project br project bs file plugin add web application project 
+
+maven adding dependency piece cake pom xml setting dependency importing project banana jar project apple maven web application project called project orange packaging type equals war adding dependency linkage work war file classpath solve problem approaches ol li create maven module classes project orange jar packaging treat maven module normal dependency li li configure maven war plugin build jar file building war file add code node war project li ol running mvn install find archive files target folder ul li project orange war li li project orange classes jar li ul edit pom xml project apple adding dependency strong reference strong href http eureka ykyuen info maven dependency jarwar package http eureka ykyuen info maven dependency jarwar package 

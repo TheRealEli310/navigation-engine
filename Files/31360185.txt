@@ -1,0 +1,4 @@
+creating log4j log file run date timestamp 
+question posted multiple times havent proper solution problem referred href http stackoverflow questions setting log file include current date log4j href http stackoverflow questions create log file appended date time log4j working property file file created everytime date create log file format generated everytime application executed strong logfilename mm dd yy hh mm ss log strong logfilename log yyyy mm dd hh mm ss 
+
+edit removed suggestion create naming file perfect idea 

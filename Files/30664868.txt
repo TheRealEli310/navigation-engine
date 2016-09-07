@@ -1,0 +1,4 @@
+time sign 
+creating project login screen user login application login screen visible time user fill log user opens application time application show main activity shared preferences 
+
+save login information user sharedpeference save boolean loggedin false user logs splashactivity sharedprefence call respective activities 

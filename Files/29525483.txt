@@ -1,0 +1,4 @@
+javafx imports resolved eclipse 
+creating small javafx library run issues imports programming pc laptop hosting eclipse workspace dropbox working fine installed fx clipse machines making javafx program couple months issues recently started project laptop working fine pc discovered bunch import resolved errors weird thing javafx classes importing fine classes package issues class importing javafx classes work fine bit research success ul li uninstalled reinstalled fx clipse li li manually added jfxrt jar file project li li cleaned rebuilt refreshed project times li li removed jre build path added li li recreated project javafx project copying code li ul working understand classes package missing computer solution 
+
+figured minutes posting question looked installed builds program features computers looked realized laptop 8u40 pc 8u25 looked javadocs javafx scene control dialog labelled installing jdk 

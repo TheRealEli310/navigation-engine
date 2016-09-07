@@ -1,0 +1,4 @@
+fix findbugs http parameter directly written http header output 
+class requestfilter override methods dofilterinternal add header response findbugs show error http parameter directly written http header output fix problem 
+
+hrs request parameter http header error fix 

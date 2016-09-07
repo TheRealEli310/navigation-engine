@@ -1,0 +1,4 @@
+test dropwizard resource returns collection objects 
+building service dropwizard endpoint expected return unit tests wont parameterized collection response directly clear convert update test work 
+
+jersey client collections frustrating solution easy simply 

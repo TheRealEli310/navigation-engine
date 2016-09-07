@@ -1,0 +1,4 @@
+add delete method restful web service 
+making restful web service mysql dont remove records table id ol li search person id return result id full age xml format li li search person id return result id full age json format li li output persons return result id full age json format li li insert person database li li edit person database li ol 
+
+delete resource long deletebyid method constructed suggestions ul li insert post creating li li update put fun li ul 

@@ -1,0 +1,4 @@
+modifying xml element 
+element storage hostname modifying element piece code error xml issue clue error coming running jre7 jre8 code working fine jre8 project supports jre7 upgrade jre8 nodes1 setnodevalue hostname didnt work highly appreciated 
+
+notice href http docs oracle javase docs api lang abstractmethoderror html rel nofollow abstractmethoderror reference blockquote thrown application call abstract method error caught compiler error occur run time definition class incompatibly changed executing method compiled blockquote fear issues apache xerces library runtime older version implement href http docs oracle javase docs api org w3c dom node html settextcontent lang string rel nofollow node settextcontent string dom level hr previously modified code create minimal reproducible case fact worked fine works read filesystem full xml eclipse ee fresh setup code irrelevant display case outputs 

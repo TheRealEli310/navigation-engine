@@ -1,0 +1,4 @@
+regular expression localsessionfactorybean mappinglocations 
+application configuration automatically picking hbm files specific folder classpath requirement create multiple hbm files named queries specific database hbm file names pattern test db hbm xml em test oracle hbm xml em em test db2 hbm xml em addition regular hbm files mapping tables format table1 hbm xml table2 hbm xml present folder pattern hibernate loading files fails due duplicate named queries hbm files files requirement load regular hbm files db specific hbm files achieve regular expression em dbtype em spring environment property attempt resulted hbm files loaded including wrong regular expression xml configuration 
+
+options ol li database specific config files stored separate folder config li li follow pattern provided change configuration li ol load common files rename include match configuration 

@@ -1,0 +1,4 @@
+creating immutablemap immutablemultimap stream collector 
+frequently running situations map multi maps sake efficiency id prefer guavas accomplish borrowed created implementations guava leverage streams collector create similar collector current problem collector create parent key main map child key child map lambdas provided map keys item easier productive create method stub guava immutable collection builders lookups found mutable hashmaps previously captured values create immutablemultimap key absent process dizzying quickly efficient 
+
+approach strong update strong code works fine jdk eclipse compiler complaining heres version eclipse accept 

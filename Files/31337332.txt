@@ -1,0 +1,4 @@
+jaxb generateelementproperty false desired effect 
+running wsimport task bindings file resulting classes shown entry xsd file class generated heres maven plugin pom file shed light happening found suggests work isnt 
+
+mandatory elements occur type simple string isnt mark element marshalled required element global elements named 

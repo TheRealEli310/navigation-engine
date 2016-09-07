@@ -1,0 +1,4 @@
+create cxfservlet 
+prior instantiate servlet configuration upgrade class found anymore servlet created cxf 
+
+simple spring boot application works correctly cxfservlet extract pom xml simply create servlet 

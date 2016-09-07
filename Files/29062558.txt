@@ -1,0 +1,4 @@
+compare datetime objects dates 
+hope joda time pretty code blockquote blockquote javadocs api compare blockquote returns order matter negative lhsobj lt rhsobj positive blockquote wrong 
+
+youre excluding year comparison makes br blockquote returns datetimecomparator lower upper limit fields magnitude lower limit excluded comparisons fields magnitude greater strong equal strong upper limit excluded comparisons limit null unbounded limit blockquote 

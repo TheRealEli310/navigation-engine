@@ -1,0 +1,4 @@
+unit testing fluent interface mockito 
+mock dao interface builder pattern shown run test passes indicating mock object called wrong 
+
+powermockito define call constructor dao return mocked object returning actual dao object br refer href http benkiefer github io blog powermockito constructor mocking rel nofollow learn powermockito 

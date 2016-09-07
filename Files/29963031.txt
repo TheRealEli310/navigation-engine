@@ -1,0 +1,4 @@
+building android camera application 
+create android application record video capture images tutorials success lack knowledge android sdk issue doubt feel stupid figures learn end mainactivity camerapreview androidmanifest xml logcat 
+
+couple things sorted ol li remove constructors classes extend activities work read href http developer android training basics activity lifecycle index html rel nofollow activity life cycle works li li add activity manifest li ol 

@@ -1,0 +1,4 @@
+tomcat servlet start request 
+vaadin app method servlet class called start app make request web app url browser intellij idea starting web app local tomcat instance run configuration idea start servlet war file deployed make request 
+
+instantiate servlet request server 

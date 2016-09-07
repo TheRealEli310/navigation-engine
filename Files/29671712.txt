@@ -1,0 +1,4 @@
+run jar files versions 
+running hadoop power pc machine bit runs ibm jdk hadoop map reduce program processes spawned processbuilder class execute jar programs problem programs problem running ibm jdks virtual machine require open jdk likewise hadoop problem running openjdk power pc wondering execute jar file version case hadoop ibm jdk jar files executed map reduce program open jdk basically virtual machines programs running simultaneously 
+
+gave important bits information comment spawning class class makes calls os level start process completely separate process started general answer make calls installation 

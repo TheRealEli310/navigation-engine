@@ -1,0 +1,4 @@
+spring aop pass argument called method advice method 
+designing system pass argument called method advice method providing simple code make point clear aopmain employee logging design system ways pass argument advice method aopmain amp amp args find sample code specific problem violating basic design principle advice method loosely coupled spring support advance 
+
+ways information advised method ul li return returned advice li li joinpoint access original object method called pass arg object attribute makes sense advised object statefull considere service controller shared objects li ul 

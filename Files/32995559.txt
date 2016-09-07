@@ -1,0 +1,4 @@
+reverse comparator 
+arraylist sort descending order method description api blockquote returns stream consisting elements stream sorted provided blockquote methods return sort ascending order parameter change descending order 
+
+href https docs oracle javase docs api util comparator html reverseorder rel nofollow comparator imposes reverse natural ordering reverse ordering existing comparator href https docs oracle javase docs api util comparator html reversed rel nofollow sample code 

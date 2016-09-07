@@ -1,0 +1,4 @@
+forward slash mandatory forwarding servlet jsp 
+request dispatcher servlet forward jsp jsp denoted forward slash forward slash exception tomcat request dispatcher redirecting servlets omit forward slash code fragment works fine provided servlet mapped url pattern means root web app isnt required servlets jsps servlets belong web app 
+
+servlet objects running place container jsp place servlet location deployement find servlets apache tomcat 55webappstestweb infclassescomitservlet maincontroller class abc class jsp location deployement apache tomcat 55workcatalinalocalhosttestorgapachejsp apitester jsp class 

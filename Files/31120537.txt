@@ -1,0 +1,4 @@
+spring property default system property 
+spring annotation system property default property exists works default case doesnt work default give exception time spring create bean 
+
+worked missing parts needing href http stackoverflow answer blockquote property placeholder syntax dereference properties spel syntax capable complex handle property placeholders lot blockquote basically happening telling spring interpret property placeholder syntax syntax called href http docs spring io spring docs current spring framework reference html expressions html expressions operator elvis rel nofollow elvis operator elvis operator applies spring expression language expressions property placeholder syntax part statement telling spring interpret expression spring expression system properties 

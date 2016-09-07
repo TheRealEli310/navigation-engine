@@ -1,0 +1,4 @@
+rest assured json schema validation working 
+working spring boot rest assured test rest apis json schema validation throws error documentation schema href https github jayway rest assured wiki releasenotes21 rel nofollow located classpath schema located project structure schema location href http stack imgur 0lkz2 png rel nofollow img src http stack imgur 0lkz2 png alt project structure code schema validation works fine 
+
+schema file package havent mentioned calling move file root classpath put change string youre passing 

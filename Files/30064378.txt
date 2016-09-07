@@ -1,0 +1,4 @@
+measure response time web service 
+measure response time process requesting data server presenting data measure time takes data press send button data displayed txtbox ant works time send request time added time request takes seconds seconds reality circumventing problem reseting putting reset button made things bit crazy thoughts solve problem 
+
+awful lot setting create button click results stay reset things bit crazy equal round trip years time currenttimemillis set click button result 

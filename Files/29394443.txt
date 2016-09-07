@@ -1,0 +1,4 @@
+mapreduce reducer combine keys 
+simple map reduce job building reverse index mapper works correctly checked outputs key pair word docid tfidf mapper output shown job reducer combine values implementation combine output basically form mapper lines output key reducer supposed combine basically keys output file supposed unique reducer sample reducer output simplified expected sake completeness including run method glad hint map reduce debugging tips 
+
+annotation defined reduce method 

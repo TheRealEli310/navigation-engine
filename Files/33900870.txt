@@ -1,0 +1,4 @@
+spring profiles working linux 
+web application develop windows deploy linux staging nad production created properties files environment ul li application dev properties li li application staging properties li li application prod properties li ul decided implement sollution create enviromental variable machine relevant dev staging prod load corect properties file solution works perfectly windows work linux code web xml configurableapplicationcontextinitializer class contextsconfiguration class linux defined variable app env million places environment file bash file setenv sh file printenv create simple class main prints system getenv app env staging printed application allways dev staging staging adding hard coded active profile web xml dont work recognized automatically dinamycally 
+
+apparently correct place setenv sh file dev fixing file works perfectly 

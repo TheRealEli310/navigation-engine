@@ -1,0 +1,4 @@
+android currency format returning currency symbol 
+currency formatting text editor wrote code problem numberformat returning currency symbols devices heres source code goal return symbol remove devices symbols devices symbol symbol change code return dollar symbol remove change working solution 
+
+problem static method works returns object default setting means depends user device settings hr calling statically returned instance default effectively strong strong instance strong youve strong set 

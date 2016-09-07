@@ -1,0 +1,4 @@
+simple connection manager thread 
+create simple connection manager small web application runs tomcat7 server found examples implement requires jndi jee complete connection manager deliver connection connection pool call getconnection thread connection close application call connectionmanager getconnection rest service connection database calls request close finally clause code good fullfill risk rest calls connection tomcat datasource handle proper make class datasourcemanager getdatasource method deliver data source rest service connection datasourcemanager getdatasource getconnection make difference technically make work properly 
+
+depends thread dont itll blow chance youll call youll method 

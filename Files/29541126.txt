@@ -1,0 +1,4 @@
+annotation element inside custom constraint validator 
+wrote custom annotation project called cgc validator class annotation basically validation wanna check field null annotation field canbenull element true cgc canbenull true question access canbenull element inside validator class validator 
+
+capture canbenull initialize function 

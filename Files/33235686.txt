@@ -1,0 +1,4 @@
+multi threaded approach convert tiff pdf itext 
+essentially convert tiff file pdf itext fairly simple taking lot time execute larger files requirement provide multi threaded solution current code convert method problem execution waiting tiffimage gettiffimage tifffile pageno finish unable create image list appreciated stack trace 
+
+happening strong thread strong exception youre call underlying exception call happening method isnt happy tiff data passed field possibly image height width happening consumed multiple threads time thread moves pointer file screws threads href http api itextpdf itext itextpdf text pdf randomaccessfileorarray html createview rel nofollow view file pass thread 

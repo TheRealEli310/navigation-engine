@@ -1,0 +1,4 @@
+generics calling class explanation 
+href http stackoverflow users dave syer dave syer wrote class package difficulties understanding code explain usage generics dave achieve 
+
+called em recursive type bound em defined terms type declared appears satisfy type parameter general explanation found href http www angelikalanger genericsfaq faqsections typeparameters html faq106 rel nofollow http www angelikalanger genericsfaq faqsections typeparameters html faq106 good pattern definition makes subtypes implementations automatically return children type parameter strong actual type strong return type callers expecting subtype cast 

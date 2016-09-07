@@ -1,0 +1,4 @@
+send data jsp servlet keeping parameter hidden 
+jsp page form user enter criteria query users database search button pressed data passed servlet queries database returns list matching users relevant information display servlet passes data arraylist outputs table jsp page row button navigated users personal profile page implementation button clicked passes username servlet query database individual users data link source blockquote href servlet username lt user username blockquote displays username url form hidden parameters doesnt shows jsp code developer console pass username show user misunderstanding concept 
+
+approach hidden parameters post request correct wrong youre responding users selection username passed em servlet em selected pass query parameter request users bookmark profiles directly url script collect valid usernames post requests harder simulate 

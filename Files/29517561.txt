@@ -1,0 +1,4 @@
+happen schedule timertask everyday pm time 
+code schedule timer util timer timer task run everyday pm question happen application running lets timer task run day 
+
+documentation timer class states method href http docs oracle javase docs api util timer html schedule util timertask 20java util date 20long rel nofollow strong public void schedule timertask task date firsttime long period strong blockquote fixed delay execution execution scheduled relative actual execution time previous execution execution delayed reason garbage collection background activity subsequent executions delayed long run frequency execution generally slightly lower reciprocal period assuming system clock underlying object wait long accurate consequence strong scheduled time past scheduled execution strong blockquote understand task immediately scheduled executed program executed hours executed immediately executed day 

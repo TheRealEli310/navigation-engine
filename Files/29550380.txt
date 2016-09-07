@@ -1,0 +1,4 @@
+display json file browser mule 
+json file show schema give config running download file chrome safari instruct mule display content browser dont download 
+
+browser determines resource href http www restpatterns org http headers content type rel nofollow content type header set header creating outbound property content type application json href http www mulesoft org documentation display current http static resource handler rel nofollow static resource handler deprecated switch href http www mulesoft org documentation display current parse template reference rel nofollow parse template processor 

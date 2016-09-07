@@ -1,0 +1,4 @@
+gradle distribution create file 
+gradle build desktop app create distribution app application plugin inherit distribution plugin call task create file zip configuration file values passed arguments gradle command call generate properties file inside zip distribution content approach success creates file root project root distribution zip create file inside distribution zip 
+
+invocation configure task prepares distribution case task type careful referencing properties found exception thrown 

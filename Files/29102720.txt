@@ -1,0 +1,4 @@
+maven resolver management dependencies errors 
+project development environments windows linux br works windows linux pom defined management dependences arquillian run unit tests deployment method loads dependences pom loadpomfromfile method throw invalidconfigurationfileexception blockquote error resolvable import pom failed resolve pom org wildfly bom jboss javaee final due repository system offline artifact org wildfly bom jboss javaee pom final local repository package projet snapshot home workspace projet pom xml blockquote management dependencies resolved 
+
+error message maven download dependency found local repo configure maven work offline solve problem fails problem configure maven tests special local test repo default fix problem make maven place expect 

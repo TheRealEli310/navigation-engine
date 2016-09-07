@@ -1,0 +1,4 @@
+issue restcontroller application www form urlencoded charset utf media type 
+task trivial client sends request post application www form urlencoded media type server receives response status difference media type strong application www form urlencoded strong strong application www form urlencoded charset utf strong server part client part result output client side request response server debug mode interesting thing href http stack imgur 2gfdt png rel nofollow img src http stack imgur 2gfdt png alt enter image description 
+
+add formhttpmessageconverter manually dont forget correct requestbody type ul li strong org springframework util multivaluemap strong li li org apache commons collections map multivaluemap li ul 

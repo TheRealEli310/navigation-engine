@@ -1,0 +1,4 @@
+android studio textview text update 
+modified myfirstapp slightly turned handy simple app takes miles travelled fuel pressing button starts activity displays fuel usage litres 100km br br problem facing output shows 100km matter values entered button click guessing result calculation updating strings xml menu display message xml menu xml activity xml activity display message xml myactivity displaymessageactivity androidmanifest xml greatly appreciated edit add log appears click button 
+
+displaymessageactivity arent reference textview layout provide id textview layout file edit figured problem dont myactivity set string constants make hope works 

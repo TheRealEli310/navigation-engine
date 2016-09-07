@@ -1,0 +1,4 @@
+jaxws soaphandler filtering invalid xml chracters 
+webservice client passes string invalid xml characters parsing request server side jaxws throws exceptions parse invalid xml characters solve issue create soaphandler soaphandler iterate child elements means parsing xml exception handler remove invalid xml characters message 
+
+change xml parsing figured necessarily easy problem generic message bare string string result input case prettier ways adjusting invalid xml href http stackoverflow questions removing invalid xml characters string removing invalid xml characters string href http stackoverflow questions parsing malformed incomplete invalid xml files parsing malformed incomplete invalid xml files 

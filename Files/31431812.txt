@@ -1,0 +1,4 @@
+text change listener edittext fields 
+project edittext fields text change listener put number field1 field2 works fine put code field2 put number field2 app crashes stacktrace fix advance 
+
+attempt textwatcher edittexts generally good idea change text ontextchanged textwatchers method strong avoid infinite loop changing texts edittexts strong perform time calculation text update field type activity define boolean variable control calling settext textwathers methods prevent infinite loop update textwatchers hr fail type strong invalid text strong 

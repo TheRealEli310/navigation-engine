@@ -1,0 +1,4 @@
+springfox dependency breaking spring context 
+recently swagger documentation free camel expose rest apis ditch camel problems playing nice jackson set springfox simply adding springfox dependency wrecks spring context throws vague incorrect error claiming dont explicit objectmapper bean inability make camel bean remove clear making code adding dependency problem jackson spring boot release fwiw heres interesting part stack trace 
+
+exact issue finally narrow root case turned dilip pointed hypermediasupport enabled project include dependencies didnt annotation explicitly project spring enabling automagically main configuration class overcome issue excluding hypermediaautoconfiguration annotation config class step exception hope helps 

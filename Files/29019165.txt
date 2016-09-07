@@ -1,0 +1,4 @@
+program monadicaly java8 comparable performance 
+monadic programming slower test biased creates instances computation imperative version times faster program monadicaly java8 comparable performance main 
+
+dont understand effort ndash apparently side effects dont alternative result unboxed type ndash measured work jmh usage wrong corrected code result difference 

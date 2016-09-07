@@ -1,0 +1,4 @@
+breakpoint throw silentexitexception eclipse spring boot 
+everytime run spring boot project debug mode eclipse ide spring tool suite thread stops throw silentexitexception line breakpoint solution avoid behavior org springframework boot devtools restart silentexitexceptionhandler exitcurrentthread line starts happening upgrade milestones spring tool suite version release build id 201506290649 platform eclipse luna sr2 
+
+issue module href https github spring projects spring boot issues https github spring projects spring boot issues trick kill main thread replace loadable version found prevent debug breakpoint triggering toggle suspend execution uncaught exceptions checkbox debug preferences prevent happening 

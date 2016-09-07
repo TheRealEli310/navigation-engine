@@ -1,0 +1,4 @@
+add http header user agent http connect request 
+strong prerequisites strong ul li apache tomcat li li spring release li li apache camel li li camel http4 endpoint camel http4 li ul strong problem strong call https encrypted site http4 component proxy server internet target server checks header user agent rejects request empty connect request http header user agent org apache http impl execchain mainclientexec method called adds header host proxy connection http connect request user agent add header user agent http connect request max 
+
+problem solved httpclient class org apache http impl client httpclientbuilder httpprocessor initialzed httprequestinterceptor user agent solution update httpclient version maven define dependency verson camel choosen 

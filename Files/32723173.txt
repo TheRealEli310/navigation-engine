@@ -1,0 +1,4 @@
+open file clicking open button jfilechooser 
+jfilechooser swing code opens window clicking open button select file window order open file operations window 
+
+dont embed chooser top level frame add action listener add button menu option frame trigger show chooser wait showopendialog return call getselectedfile 

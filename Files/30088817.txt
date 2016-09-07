@@ -1,0 +1,4 @@
+decrypt property propertysourcesplaceholderconfigurer 
+properties file values jdk spring configuration class achieve translate em em values properties file encrypted actual values encrypted wont attempted place breakpoint argument empty make sense point loaded properties files achieve similar logic working older applications wanted newer spring configuration noticed jasypt similar behaves fashion confused 
+
+reason annotation work expected called autowired entries properties files references listed properties files limitation removed annotations explicitly loaded resources config class reads change introduced issue autowired change injection order configure properties works expected receives properties values files 

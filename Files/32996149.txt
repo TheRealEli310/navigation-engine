@@ -1,0 +1,4 @@
+run mysqldump command code 
+test run mysqldump command function create aaadumpdb sql file code give advice edit code run code enter structure problem editted code solve problem 
+
+stacktrace debug check mysqldump path application simple find executable dont mess path hardcode path executable create file error 

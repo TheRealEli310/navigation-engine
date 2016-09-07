@@ -1,0 +1,4 @@
+testing controller mocked dependencies play 
+migrating play application controller unit tests set controller mocked dependencies test getcontrollerinstance method removed globalsettings play override return controller instance call method directly controller instance test approach work fine somemethod relies form data request someway test route requests include form data controller instance guice mockito junit 
+
+pointed href https github playframework playframework issues rel nofollow https github playframework playframework issues correct play helpers invokewithcontext test controller mocked dependencies code side beleive invokewithcontext changed static method future 

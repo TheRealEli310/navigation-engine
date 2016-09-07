@@ -1,0 +1,3 @@
+apache spark dataframe rdd partitioning 
+spark docs sparks touch pretty enjoyable faced problem method mind convert fine wrote code approach noticed code produces code transformation absolutely inefficient force repartitioning rdd takes good piece time makes bigger overhead code works partition deal wrote specific sql pager create partitions make 
+

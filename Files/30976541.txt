@@ -1,0 +1,4 @@
+receive arraylist google cloud endpoints 
+api endpoint method request made check log problems caused app expected output putting elements array mytest populate array correctly 
+
+issue doesnt occur latest sdk wondering youre creating request youre joining strings commas single element array send sounds crazy deliberately dont youre layer abstraction code possibility youre generated client library endpoints api lot work youd end replicating youre forming raw json send case request ultimately expect collapsing values inside array testarray key comma separated list advice examine form request href http stackoverflow access raw request inside endpoints method 

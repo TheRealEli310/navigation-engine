@@ -1,0 +1,4 @@
+compare org codehaus jettison json jsonarray regard order 
+jsonarray full integers compare equal content regard order true true jsonarray returns false rolled basically check jsonarrays length make element outputjsonarray inputjsonarray vice versa workhorse method strikes awful lot code simpler 
+
+convert arrays method source code underlying map check equality implementation underlying map disregarding order content 

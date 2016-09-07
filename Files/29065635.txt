@@ -1,0 +1,4 @@
+google api exception runtime 
+guys problem logging google click login state imported apis google turned apis site start activity logcat 
+
+problem current flow ul li connect googleapiclient li li googleapiclient connecting msigninclicked true li ul check resolve error change googlepluslogin root error code correct user interactive login make work activity creation difference purely time googlepluslogin called human pressing button onstart googleapiclient completed connection setup activity starts youre pretty guaranteeing wont connected case stuck code stands 

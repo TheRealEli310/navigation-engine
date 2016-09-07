@@ -1,0 +1,4 @@
+logging retrofit logback logger 
+developing client rest api retrofit client set log level creating adapter retrofit log console redirect log generated logback application output logger log 
+
+support passing href https github square retrofit blob parent retrofit src main retrofit restadapter l112 rel nofollow log href https github square retrofit blob parent retrofit src main retrofit restadapter l659 rel nofollow setlog method simply interface create logback implementation interface pass builder creating 

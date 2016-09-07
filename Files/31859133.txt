@@ -1,0 +1,4 @@
+logback rollingfileappender working concurrent writing log 
+desktop application recently introduce logback system logs place rolling nicely single client run client application log file rolling exceed limit client close rolling nicely 
+
+default writing multiple applications file supported work unexpected behavior write time solve enable href http logback qos ch manual appenders html prudent rel nofollow prudent mode appender setting attribute tag href http logback qos ch manual appenders html prudentwithrolling rel nofollow extra restrictions apply means file property change 

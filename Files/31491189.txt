@@ -1,0 +1,4 @@
+maven unable fetch dependencies upgrading spring 
+issue understanding invested time upgraded spring dependencies project version version release project spring hibernate amp dependencies updating dependency maven fetch spring amp dependencies maven repo upgrading started giving error spring dependencies instance add spring repository pom download adding repository maven stopped fetching dependencies giving error clue happening maven download spring dependencies maven repo strong strong deleted m2 folder amp build project anew error occuring pom xml 
+
+groupids artifactids versions href http search maven org search 7cga 7c1 7cg 3a 22org springframework rel nofollow http search maven org search 7cga 7c1 7cg 3a 22org springframework youll groupid correct version misspelled artifactids 

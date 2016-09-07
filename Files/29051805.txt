@@ -1,0 +1,4 @@
+implementation generic bst 
+set object oriented bst class private node class classes generic compilation errors explanation nice copied code mistakes fix set constructor bst 
+
+default constructor fine youve originally commented fine case mind doesnt satisfy node class private class doesnt generic type parent class assume node class doesnt search method search reason doesnt iterator iterate designing abstract data type bst good envision operations support aka api implementation supports operations insert search extensions include remove operation operations tree typically recursive start root traverse nodes viewed roots respective subtrees walking inserts searches convince works 

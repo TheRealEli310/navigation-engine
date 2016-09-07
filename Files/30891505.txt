@@ -1,0 +1,4 @@
+spring batch custom itemreader 
+spring batch project simple custom reader writer run code end endeless loop printing item item wrong code strong reader strong strong writer strong 
+
+call begins call means list time call read create list based implementation code github href https github spring projects spring batch blob master spring batch infrastructure src main org springframework batch item support listitemreader rel nofollow https github spring projects spring batch blob master spring batch infrastructure src main org springframework batch item support listitemreader 

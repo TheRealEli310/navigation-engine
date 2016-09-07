@@ -1,0 +1,4 @@
+dynamodb jsonmarshaller deserialize list object 
+class data model table dynamodb items dynamo member class serialize de serialize field list successfully serialized retrieve entry back read list throws exception de serialize data rid problem mcve hr hr hr 
+
+part problem dynamodb mapper sdk deals generics method class deserialize passed parameter problem href http stackoverflow type erasure sdk doesnt provide easy deal jackson smarter cases jackson explains method works correctly provide implementation deserialization implement interface extending opinion control type serialized essentially copy paste minor tweaks deserialization give idea 

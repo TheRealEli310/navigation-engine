@@ -1,0 +1,4 @@
+maven jaxb2 plugin class generation xsd version error 
+pom xml build maven netbeans works fine eclipse luna error blockquote execution default goal org jvnet jaxb2 maven2 maven jaxb2 plugin generate failed required class missing executing org jvnet jaxb2 maven2 maven jaxb2 plugin generate sun xml bind api errorlistener blockquote works change version whats wrong missing jdk1 eclipse 
+
+problem eclipse started jre jdk changing eclipse start jdk runs fine hope helps 

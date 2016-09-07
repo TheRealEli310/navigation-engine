@@ -1,0 +1,4 @@
+stepped combobox refresh 
+href http www java2s code swing components steppedcomboboxexample htm rel nofollow stepped combobox make drop pop wider text field content added list pop initial width back em default em img src http stack imgur tckik png alt enter image description em refresh element em img src http stack imgur x4t8x png alt enter image description strong sscce strong 
+
+combobox previous preferredsize needed set preferred size back size preferred content list blockquote strong void javax swing jcomponent setpreferredsize dimension preferredsize strong sets preferred size component preferredsize null ui asked preferred size blockquote em result em img src http stack imgur jyvyc png alt enter image description 

@@ -1,0 +1,4 @@
+jtable jcombobox editor handle mouse clicks 
+jtable jcombobox editor column ul li click time cell column combobox popup shows immediately li li click cells column combobox shows popup remains closed li li click cells back cell column combobox popup shows immediately li ul ul li click cell column combobox shows popup list remains closed li li click cell popup list shows li ul case click performed short time avoid limit 
+
+ul li click cell column display popup call li li click cell popup shows li li click cells call li ul 

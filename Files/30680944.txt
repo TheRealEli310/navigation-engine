@@ -1,0 +1,4 @@
+spark akka storm rxjava 
+case 10k messages sec 5k push rabbitmq messages parse run sort aggregation run statistics product data pipeline deployed single machine business constrain explored spark akka storm rxjava suggest dont plain handle threading 
+
+based experience akka create pools actors perform tasks concurrently messages leverage power consumer storm dont experience recommend personally wouldnt user learn configure buffering window correctly case 

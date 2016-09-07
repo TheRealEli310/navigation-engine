@@ -1,0 +1,4 @@
+apache mina sshd set user directory mapping 
+set home directory user apache mina sshd embedded solutions deprecated br href http stackoverflow questions set root directory apache mina sshd server br href http stackoverflow questions override getvirtualuserdir apache mina sshd core version br worked fine 
+
+found br em class em result youre em os em em linux em dont forget path 

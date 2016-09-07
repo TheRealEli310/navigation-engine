@@ -1,0 +1,4 @@
+sunshine app displaying live data 
+udacitys android development tutorial moment finished lesson app supposed download information internet heres code mainactivity class heres code forecastfragment class problem press refresh screen wont display live data displays dummy data strings array copy paste code github repository app doesnt work href http imgur csjegk1 png rel nofollow http imgur csjegk1 png top drop menu action bar duplicated href http imgur qeqvmxv png rel nofollow http imgur qeqvmxv png made mistake placing method order totally android development 
+
+youre missing call inform adapter underlying data updated launch task inside good choice 

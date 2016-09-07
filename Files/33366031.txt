@@ -1,0 +1,4 @@
+obtain modification date time file local date time string 
+returns equal number milliseconds epoch gmt based simple convert representing system local date time attempt terrible mess wrong idea time api works 
+
+modified time file nio api directly resolves problem access properties access time creation time read basic attributes path 

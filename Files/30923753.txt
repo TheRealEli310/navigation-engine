@@ -1,0 +1,4 @@
+whats simplest writing reading 2d boolean array csv file 
+id write dimensional boolean array csv file apache commons csvparser problem couldnt find built turn array written csv file converted back writing complicated error prone function parse array great existed 
+
+href http www univocity pages parsers tutorial rel nofollow univocity parsers write read booleans code produces shouldnt explicitly set headers writing found fixed href https github univocity univocity parsers rel nofollow master branch project 

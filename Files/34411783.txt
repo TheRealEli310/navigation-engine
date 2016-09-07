@@ -1,0 +1,4 @@
+jmx client ssl 
+configured apache tomcat tutorial href https tomcat apache org tomcat doc monitoring html https tomcat apache org tomcat doc monitoring html generated ssl certificate extend jmx client order ssl certificate find good internet 
+
+youre code correct start jmx client command line added ssl certificate href https docs oracle cd e19509 6nf1il6er index html trust store href https docs oracle javase docs technotes tools solaris keytool html keytool command line utility 

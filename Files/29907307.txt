@@ -1,0 +1,4 @@
+align jpanel bottom jframe swing 
+long story short making simple audio player starting gui events functionality kind jpanel buttons controls align bottom center main window jframe heres code flowlayout jframe covers center alignment covers bottom 
+
+put panel 

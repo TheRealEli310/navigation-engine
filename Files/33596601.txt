@@ -1,0 +1,4 @@
+gluon eclipse plugin access android sdk 
+wondering access android sdk android specific code src android folders created gluon javafx project android context class import classes android sdk eclipse mars newest gluon plugin android sdk plugin installed 
+
+added android jar jfxdvk jar eclipse build path manually works moment 

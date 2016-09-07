@@ -1,0 +1,4 @@
+nested generics inheritance 
+classes class question related accepted compiler understand create instance picks work br allowed understand br approach em smell em 
+
+parameterized instances fine instantiate defined info related topic ul li href http www angelikalanger genericsfaq faqsections parameterizedtypes html faq106 class literal concrete parameterized types li li href http stackoverflow questions class instance generics type class instance generics type li li href https docs oracle javase tutorial generics gentypes html erasure generic types li ul 

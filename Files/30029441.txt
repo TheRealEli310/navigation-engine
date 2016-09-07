@@ -1,0 +1,4 @@
+issue spring setapplicationcontext official 
+run issues link guide href https spring io guides gs producing web service rel nofollow https spring io guides gs producing web service reason error piece code checked api reference inherit reason isnt greatly appreciated 
+
+wrong version version classpath method introduced release official href http docs spring io spring docs current javadoc api org springframework web servlet frameworkservlet html setapplicationcontext org springframework context applicationcontext rel nofollow documentation 

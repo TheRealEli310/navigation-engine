@@ -1,0 +1,4 @@
+ibm mq publish subscribe send message subscriber 
+build publish subscribe program compute matrix manipulation cluster publisher send message topic message copies subscribers copy message send subscriber message deletes send subscribers 
+
+ways ol li make administrative subscription subscribers read messages queue subscription points li li mq v8 jms interface href http www ibm support knowledgecenter ssfksj ibm mq dev doc q119140 htm rel nofollow shared subscription feature li ol cases subscribers connected queue manager pub creates single logical message broadcast queue managers multiple physical messages consumption subscribers coordinated network 

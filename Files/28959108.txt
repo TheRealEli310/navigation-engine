@@ -1,0 +1,4 @@
+seperate logs jars war file 
+war file deployed jboss server war jar files create seperate logs jars log4j logging purpose intergrated log4j properties file jar log4j jar paths logs generated server log jboss generate seperate logs jar 
+
+make log file jar configure file related jar assume jar package naming convention log message file package starts based requirement create log daily basis size basis change configuration mind jar package jars start logs written file 

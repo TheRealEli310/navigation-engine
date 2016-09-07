@@ -1,0 +1,4 @@
+paths robot 
+imagine robot sitting upper left hand corner nxn grid robot move directions imagine squares limits robot step design algorithm paths robot reference implementation implementation wrong find path paths details line robot valid path find paths robot confirm understanding correct advance lin 
+
+heres simple href https en wikipedia org wiki backtracking rel nofollow backtracking idea visit state recursively make call state back previous state call popping element notice simplicity introduce class make code readable return nicer redefining signature argument redundant fact youve defined make 

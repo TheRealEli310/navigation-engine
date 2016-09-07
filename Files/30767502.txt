@@ -1,0 +1,4 @@
+loading owl file jena 
+load owl files rdf xml serialization jena files error reading classpath file poses problem href http www ontologydesignpatterns org cp owl timeindexedpersonrole owl rel nofollow ontologydesignpatterns org cp owl timeindexedpersonrole owl saved protege rdf xml extensions code 
+
+binary download put jars lib directory classpath org apache httpcore sources jar isnt jar missing httpclient jar httpcore jar maven artifact set managed maven builer 

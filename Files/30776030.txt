@@ -1,0 +1,4 @@
+bit fp implementation math sqrt 
+standard method pretty fast inherent drawback involve bit operations reduce speed dealing bit values custom method parameter performs bit operations returns result href http stackoverflow questions fast sqrt expense accuracy fast sqrt expense accuracy reinforce notion math sqrt generally hard beat href http www codeproject articles square root method algorithm function precisi http www codeproject articles square root method algorithm function precisi showed bunch interesting asm hacks simply ignorant port directly sqrt14 interesting part jni call looked apache commons fastmath library defaults standard math sqrt yeppp href http www yeppp info http www yeppp info havent bothered 
+
+speed bit values hotspot jvm automatically jit compiler smart recognize pattern replace faster cpu instruction href http hg openjdk net jdk8u jdk8u hotspot file 8b16790cd73a src cpu x86 vm x86 ad l1654 source benchmark results 

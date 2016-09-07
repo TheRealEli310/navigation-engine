@@ -1,0 +1,4 @@
+subscribe spring metrics channel 
+documents spring publish metrics rest endpoint message channel rest endpoint works fine expected result handle change metrics default publish messages channel called metricschannel create class listen channel fire default spring boot application 
+
+tested works href https github spring projects spring integration samples tree master basic web sockets rel nofollow sample part added project gradle config console started app code good 

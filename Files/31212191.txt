@@ -1,0 +1,4 @@
+hibernate postgresql throws excption jdbc driver class found org postgresql drive 
+write maven project restful webservice jersey hibernate errror follow root poml xml file compatibility javax servlet javax servlet api provided jdbc drivers classpath hibernate cfg xml file connection url jdbc postgresql localhost logindb dialect org hibernate dialect postgresqldialect cache provider class org hibernate cache nocacheprovider eliminate error thankful 
+
+add postgresql maven dependency pom file add missing em driver em 

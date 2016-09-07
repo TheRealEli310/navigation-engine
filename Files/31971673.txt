@@ -1,0 +1,4 @@
+pem base pfx 
+webservice requires pkcs12 base64 certificate string pfx file suppose convert pem base bash command method load cer file base64 encode string exception exception 
+
+pfx file certificate keystore convert pem certificate resorting openssl simply convert pfx file base64 openssl question string writing result file 

@@ -1,0 +1,4 @@
+streams peek debugging 
+reading streams discovering things things found function read peek debug streams stream account username password field login loggedin method bad intended ul li takes list accounts li li log account li li filters account arent logged li li collects logged accounts list li ul downside reason shouldnt proceed lastly solution original version filter method 
+
+key takeaway strong dont api unintended accomplishes goal strong approach break future unclear future maintainers hr harm breaking multiple operations distinct operations em em harm api unclear unintended ramifications behavior modified future versions operation make clear maintainer em intended em side effect element performing operation mutate conventional sense intermediate operation doesnt operate entire collection terminal operation runs terminal operation make strong arguments behavior flow code opposed questions behave context 

@@ -1,0 +1,4 @@
+javafx textinputdialog disable button 
+jdk8u45 text input dialog disable button enable checked docs disable feature work 
+
+lookup button invoke href https docs oracle javase javafx api javafx scene node html setdisable boolean href https docs oracle javase javafx api javafx scene node html disableproperty property bind condition explicitly calling setters disable enable 

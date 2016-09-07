@@ -1,0 +1,4 @@
+pattern layout log level output system 
+log4j2 pattern layout log level output system log4j2 xml info level message shown infomsg debugmsg pattern remove duplicate item merry xmas 
+
+latest versions log4j2 pattern selector single pattern log4j selector based markers based levels create jira issue add log4j script select pattern simple write selects based level configuration debug appender output info level events duplicates havent tested configuration 

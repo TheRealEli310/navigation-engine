@@ -1,0 +1,4 @@
+calculate text dictionary words 
+trouble transforming algo view composed articles article composed side map words article article calculated based words title abstract text added hope didnt make mistake calculate article inside array reducing time process br thinking lambdas bad approach br learn em developing em make streams meantime wanted sort list greatest article lowest article imagined list unsorted wrong case 
+
+dictionary keys lower case create lower cased version article quickly compute stream pipeline flexibility folding words href http docs oracle javase docs api text collator html rel nofollow index lowercase words similar enhancement made href http docs oracle javase docs api text breakiterator html rel nofollow tokenizing text simply splitting spaces 

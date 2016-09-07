@@ -1,0 +1,4 @@
+oauth2 security expressions method level 
+oauth2 security expressions method level request resource receive thing works access resourceserverconfiguration controllers methods standard security expressions preauthorize permitall preauthorize denyall work expected aspectjmethodsecurityinterceptor oauth2websecurityexpressionhandler ideas 
+
+enable oauth2 security expressions needed set default expression handler oauth2methodsecurityexpressionhandler defaultmethodsecurityexpressionhandler oauth2methodsecurityexpressionhandler extends previous functionality remains configuration globalmethodsecurityconfiguration websecurityconfigureradapter 

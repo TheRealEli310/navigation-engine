@@ -1,0 +1,4 @@
+spring requestbody load nested object 
+object param load classes unable work outer object loads expected due inside object clarity simplified entity class mobiledevicedata class json coming someway load object create object wouldnt hold class hoping modify inform object inside object modifying json option asked 
+
+check href http stackoverflow questions jackson process deserialize nested json thread answers suggesting fit custom solution creating annotation implementation code clean dummy wrapper objects good elegant solution 

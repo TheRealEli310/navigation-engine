@@ -1,0 +1,4 @@
+play framework m3 issues unit testing 
+running play framework m3 write unit test running application work code problem running ways require play application returning play api application giving incompatible type error examples documentation working work 
+
+oops finally figured wrong guess accidentally ide import scala version guiceapplicationbuilder version didnt notice changed version working 

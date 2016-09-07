@@ -1,0 +1,4 @@
+print sql query executing mybatis mapper xml console 
+suppose executing query mapper xml xml empid dynamic returns key hashmap passed parameter mapper xml mybatis print sql passed param console select query mapped method getdata ran pass data empid console select emp empid 
+
+add log4j properties sql debug 

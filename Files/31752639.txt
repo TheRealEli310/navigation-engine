@@ -1,0 +1,4 @@
+library java2d games 
+begin game programming havent found good 2d library slick2d good people outdated good recommandations newbie 
+
+good br strong lwjgl br strong href http www lwjgl org rel nofollow http www lwjgl org br opengl cross platform nice community make 2d 3d games br making flabby bird clone href https www youtube watch 527br2jhsr0 rel nofollow https www youtube watch 527br2jhsr0 br personlly love strong libgdx strong br href https libgdx badlogicgames rel nofollow https libgdx badlogicgames br game engine started quickly fairly simple understand cross platform tou create game run desktop android html browser reason recommend libgdx availability good documentation articles community 

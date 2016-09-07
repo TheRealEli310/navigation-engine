@@ -1,0 +1,4 @@
+remove bottom divider lines layout 
+layout bottom widgets rigid line separator remove 
+
+set property 

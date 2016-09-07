@@ -1,0 +1,4 @@
+webdriver accept js alert chrome 
+webdriver learnt handle js alert things blogs find problem solution accept js alert firefox code works fine changed browser chrome raises exception put wait driver work wrong 
+
+finally culprit alert executes iframe main window iframe urls page url iframe alert url chrome raising exception code works fine 

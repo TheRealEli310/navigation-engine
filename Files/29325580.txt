@@ -1,0 +1,4 @@
+change file log4j rolling appender 
+change file names rolling file appender file reached max limit displaying names files sample code 
+
+added file increment part works version support code logic extending rollingfileappender override rollover method straight forward 

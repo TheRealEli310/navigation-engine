@@ -1,0 +1,4 @@
+insert sort alphabetically list nodes 
+create program sort provided list magazine titles alphabetically refresh sorted list magazine inserted specific assignment instructions modify magazine rack program add magazines alphabetical order youll modify magazine make implement comparable compareto method bonus implement delete method demonstrate driver program list magazine driver program 
+
+answer href http stackoverflow questions linked list insert integers order question change function compare magazine titles ints 

@@ -1,0 +1,4 @@
+android current location google map 
+developing app related google map steps successfully ol li created api key access google map li li added google play services library app li li added required permissions li li added map activity li li added separate class manipulate map li li passed tow parameters class main activity object li li turned wi fi gps ran app li ol map nice controls strong mymap strong strong problem strong class toast current location toasting toast connected event wrong implementation advance 
+
+seemingly href https developer android reference google android gms common api googleapiclient html connect rel nofollow connect client real suprise called create client client add 

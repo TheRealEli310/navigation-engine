@@ -1,0 +1,4 @@
+maven cyclic references 
+good morning timezone maven structure multi module project dependecy mod3 mod2 pom xml classes module classes module solve problem change classes module advance 
+
+fundamental layering issue dependency layering principle web layers dependencies pointing downward services depend domain domain depend services specifically services class depending domain fix 

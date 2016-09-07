@@ -1,0 +1,4 @@
+hadoop browsing filesystem 
+installed basic hadoop cluster centos write basic programs browse filesystem delete add files struggling basic app working running basic code list contents directory console error pom xml dependencies code error thrown calling fs initialize issue missing dependencies wrong version 
+
+running calling jar app jar hadoop jar app jar worked intended ran correctly 

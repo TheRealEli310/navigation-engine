@@ -1,0 +1,4 @@
+authentication provider list authenticators weblogic server version 
+created authentication provider weblogic server version put jar lib domain list providers select build xml file opening generated ear missing folders files 
+
+wls providers nightmare developed spring security shake simplicity portability read result strange thing lack argument inside ant rule work recommend redo provide samples h1 edit h1 response comment include sample working real project file run run sample required wls 12c installed run run script prepare environment adapt global properties beginning file hope helps 

@@ -1,0 +1,4 @@
+android select strings xml localization 
+manually select file changing language device switch languages found build feature android studio create selected localization 
+
+switch localization programmatically highly recommended mess system create resource xml file put strings give unique id fetch id string edit create xml file put res values file declare strings strings xml ids values code conditionally change strings string strings xml strings string string file xml info check href https developer android guide topics resources string resource html rel nofollow documentation 

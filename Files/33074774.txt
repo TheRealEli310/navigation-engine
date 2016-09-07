@@ -1,0 +1,4 @@
+javafx image serialization 
+serialize strong javafx scene image image strong found method create serializable class stores image data pixel format byte javafx built mechanism image serialization serializableimage class 
+
+typically persist stream image storing regular image format creating representation api argument href http docs oracle javase docs api javax imageio imageio html write awt image renderedimage lang string io file rel nofollow href http docs oracle javase docs api javax imageio imageio html write awt image renderedimage lang string io outputstream rel nofollow class make serializable create custom serialized form 

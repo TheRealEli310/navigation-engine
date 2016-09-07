@@ -1,0 +1,4 @@
+passing information constructor 
+working program takes user input password checks conditions chars uppercase lowercase digit writes information file compiles runs review instructions assignment object call methods throwing statement password passwordcheck pwd work put method tostring charge building string display info user calling method acceptable change object call 
+
+understanding question objects reference variable call methods calling methods inside constructor call main method shown strong info strong calling methods inside constructor freedom calling methods main method application password characters long necessarily digit lowercase uppercase alphabet call required method constructor main method 

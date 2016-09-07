@@ -1,0 +1,4 @@
+app stopped android implement recylerview 
+href https www youtube user slidenerd rel nofollow slidenerd material design tutorial android recyclerview part1 amp real device test android application successfully build navigation drawer amp add recylerview adding adapter thalakazadapter app stopped navigationdrawerfragment adapter thalakazadapter information class view entire project href https drive google file 0b3vmceqdc7sdcgndrfdzntnqenc view usp sharing rel nofollow logcat fragment navigation drawer xml 
+
+oncreateview wrong id change noticed constructor assingn data change shouldnt size data null 

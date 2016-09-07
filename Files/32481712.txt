@@ -1,0 +1,4 @@
+object hit searching array elasticsearch 
+object json array stored elasticsearch layout search hits objects specific object matches api searching return object hit return field places numbers return object palces array matched query 
+
+couple ways handle href https www elastic guide en elasticsearch reference current mapping nested type html rel nofollow nested type href https www elastic guide en elasticsearch reference current search request hits html rel nofollow hits youve shown question href https www elastic guide en elasticsearch guide current parent child html rel nofollow parent child relationship nested docs set simple index added couple simple documents search returns heres code test href http sense qbox io gist ef7debf436fec2a10097ba2106d5ff30ff8d7c77 rel nofollow http sense qbox io gist ef7debf436fec2a10097ba2106d5ff30ff8d7c77 

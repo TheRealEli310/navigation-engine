@@ -1,0 +1,4 @@
+binary tree checking node leaf node 
+written code find node leaf node works fine positive case entered node leaf node code code traverse till node leaf node output stops negative scenario failing entered node leaf node code traversing complete tree passed node leaf node condition stop recursion node found leaf node 
+
+br main problem implemented line br execute edit check node leaf 

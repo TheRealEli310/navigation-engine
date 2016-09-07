@@ -1,0 +1,4 @@
+trouble posting data form data angular js rest web service 
+create web service accepts lists parameter angualr js service mentioned href http stackoverflow questions post data form data request payload answer object object rest service server endpoint accepts data classe typea classe typeb endpoint hitting correctly list request structure blockquote request type blockquote blockquote form data blockquote correct mistake server part resolve strong strong mock data exact format 
+
+yeah dont form encoded data work reason key pairs form keys imagine values send entire list isnt pretty complex data viable send data format json problem case unrelated objects arrays send solution multipart youre luck posted href http stackoverflow late answer yesterday handled angular wont explanation code explained link read answer jersey jax rs implementation link offers alternative implementations resource angular result expected built string methods implemented classes hope helps 

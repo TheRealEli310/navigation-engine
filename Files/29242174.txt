@@ -1,0 +1,4 @@
+ary tree depth 
+tree node class node parent node child node execute program give em stackoverflowerror em recursive function cld dit loop infinitely 
+
+knowing setting tree correctly testing works main issue classes recudit cld generalization object method constantly looping list recursively moving index changed loop loop easier debug length root length leaf correct 

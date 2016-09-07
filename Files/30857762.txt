@@ -1,0 +1,4 @@
+android attempt invoke virtual method ontouch null object reference 
+set gesture detection linear layouts view app problem app crashes test fling gesture error message receive notorious attempt invoke virtual method null object reference research understand problem stems call methods activity properly passed scope code dont understand fix code relevant bits code strong playfrets strong strong loadnotefiles strong strong gesturelistener strong strong constructor gesturelistener properly pass instance activity causing ontouch method called null object strong log detailing error strong log file strong 
+
+learn read logcat telling problem problem line class method basically null attempt call method causing npe problem create instance method version constructor doesnt initialise constructor takes parameter pass initialised create 

@@ -1,0 +1,4 @@
+jfreechart custom axis labels 
+multiple series data ul li series years li li data date year li li data categorized years day year values axis range values year li ul diagram img src http stack imgur aqxbc png alt enter image description problem axis day year values put month names simple dateaxis option values day numbers dates afaik date format convert december problem dateaxis represents points time separate axis label point time write labels exact points time begining months img src http stack imgur skqqa png alt enter image description putting ticks beginning end month display regions makes harder months lengths february days leap years fixed points day year values write custom axis renderer easier solution problem 
+
+usage output hungarian month names img src http stack imgur tf7we png alt enter image description 

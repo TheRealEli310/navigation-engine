@@ -1,0 +1,4 @@
+bigdecimal overflow bug 
+testing boundary conditions code involving noticed initialized string behaves unexpectedly calling max integer system wrong problem 
+
+legit bug bug presents jdk7 fixed jdk8 values correctly representable behave correctly dont tracing href http www docjar html api math bigdecimal html source code line overflows overflow handled correctly bug href http hg openjdk net jdk8 jdk8 jdk rev 216a4b93cee8 fixed jdk8 href http grepcode file repository grepcode root jdk openjdk b132 math bigdecimal bigdecimal comparemagnitude 28java math bigdecimal subtraction arithmetic 

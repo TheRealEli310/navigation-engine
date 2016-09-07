@@ -1,0 +1,4 @@
+set local variable inside callback function android 
+set local variable strong publicipaddress strong inside onresponse callback line publicipaddress response error em final local variable publicipaddress assigned defined enclosing type em 
+
+recommended request making asynchronous return null initialized publicipaddress method returning immediately placing stringrequest queue chance execute onresponse method return code called publicipaddress response read href http arnab ch blog asynchronous http requests android volley rel nofollow asynchronous http requests android volley 

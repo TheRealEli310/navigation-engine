@@ -1,0 +1,4 @@
+nullpointerexception array newinstance passed generic parameter 
+method call implementation iterface line parameters null whats problem 
+
+href http docs oracle javase docs api lang class html getcomponenttype rel nofollow javadoc blockquote returns representing component type array class represent array class method returns null blockquote 

@@ -1,0 +1,4 @@
+logging log4j2 spring boot app 
+learn spring boot completely mess loggers dependencies simple pom created log4j2 xml srcmain esources logging app starts log4j2 config dont work qute popular question googled lot answers works 
+
+multiple slf4j bindings classpath ul li logback classic included default spring boot li li log4j li ul single classpath maven dependency exclusion 

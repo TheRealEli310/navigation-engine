@@ -1,0 +1,4 @@
+activemq receiving messages producer 
+jms producer consumer broker activemq refer code sender code receiver code problem activemq queue receive message sender refer screenshot img src http stack imgur 5zovr jpg alt enter image description send message web console received queue producer lands queue funny behaviour queue receiver code receiver exits receiving message start receiver receives message till shut server restart running windows time encountering problem activemq 
+
+creates transacted session auto ack mode creating transacted sessions handling jms transactions received message calling open jms transaction rolls back jms transaction href http docs oracle javaee api javax jms session html close rel nofollow http docs oracle javaee api javax jms session html close 

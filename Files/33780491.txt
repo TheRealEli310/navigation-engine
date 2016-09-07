@@ -1,0 +1,4 @@
+skipping splash screen 
+designed splash screen button code layout splash texts animation button named skipped splash screen user presses button splash screen stop immediately open activity open splash screen press skip button activity opens duration splash screen run activity opens stop splash screen user presses skip button 
+
+lets suppose activity background thread open activity finished sleeping order achieve make thread global variable custom class define class activity class definition write change onclick method thread starting activity started clicking button 

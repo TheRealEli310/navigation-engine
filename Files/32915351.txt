@@ -1,0 +1,4 @@
+rxjava observable delay work strange lacks items end 
+understand rxjava test code output output lacks documentation delay emits items emitted source observable shifted forward time delay 
+
+overload schedules work thread results implicit race condition temporal operators scheduler schedule effect result unexpected race conditions arent aware carefully case delay operator schedules work downstream separate thread pool order execution main thread test ol li observable subscribed waits millis li li received delay schedules downstream onnext seconds li li control flow returns immediately observable waits millis li li observable delay delay schedules onnext seconds li li repeat li li observable calls schedules work immediately returns subscribe terminates test causing scheduled work disappear li ol order execute asynchronously schedule delay trampoline scheduler implementation 

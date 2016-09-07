@@ -1,0 +1,4 @@
+rxjava event bus 
+start learning rxjava fragment communicate activity button click replace current fragment fragment google recommends href http developer android training basics fragments communicating html rel nofollow interface fragments communicate activity verbose broadcast receiver works generally drawbacks learning rxjava good option communicate fragments activities fragment fragment whats rxjava type communication make event bus href http nerds weddingpartyapp tech implementing event bus rxjava rxbus rel nofollow case make single instance bus globally subjects 
+
+pretty amazing learn singleton class activity ready receive events oncreate fragment pass event occurs activity tip change string object type tip works great dependency injection 

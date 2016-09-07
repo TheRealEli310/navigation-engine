@@ -1,0 +1,4 @@
+declare dependency war file gradle 
+based gradle href https docs gradle org current userguide dependency management html file dependencies rel nofollow docs define external jars means adding snippet project root libs foo jar place dependency declaration files doesnt work project depend builds war file 
+
+war layout jar file standard layout declare war dependency file project ideas ol li clone project define dependency stupid idea ashamed suggest sth li li contact author copy class copy class credits li li contact author make sense make codec open source release standalone jar library classes project li ol 

@@ -1,0 +1,4 @@
+gridgain run multiple nodes jvm 
+understand run hadoop applications gridgain single jvm context memory accelerator hints programmatically href http www gridgain micro cloud jvm code rel nofollow run eclipse error modification made changing line clue running node time objective scripts words run gridgain bin ggstart sh launching multiple node share jvm version advance 
+
+run works error means nodes didnt start exception start shown executed thread pool suggest surround call catch print stack trace starting scripts create main class start nodes set full environment variable automatically default main class starts node vm 

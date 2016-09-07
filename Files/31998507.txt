@@ -1,0 +1,4 @@
+android speech recognition startactivityforresult work 
+dialog button button pressed start speech recognition mainactivity dialog created class handle clicks interface relevant code mainactivity problem dialog appears input speech dialog wont tested shows test toast error input dialog strong edit strong finally test device finally error google closed protocol null pointer exception guess wrong intent 
+
+finally fix problem manifast singleinstance launch mode activity purpose singletask alternative 

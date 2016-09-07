@@ -1,0 +1,4 @@
+builder pattern stream 
+building object simple loop thing java8 stream api figure makes struggle target reassigned time simple foreach work guess collect reduce single return lost moment 
+
+method stream api reason explained href http stackoverflow users stuart marks stuart marks href http stackoverflow questions combiner needed reduce method converts type answer blockquote finally doesnt provide operations imply ordering operations inherently sequential clashes design principle stated providing apis support sequential parallel operation equally blockquote ultimately youre procedural sequential dont stream api good fit case loop posted good strong update strong tagirvaleev points href http stackoverflow em em fact solve stream api href https docs oracle javase docs api util stream stream html foreachordered util function consumer rel nofollow code stand original answer claim good loop approach case 

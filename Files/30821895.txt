@@ -1,0 +1,4 @@
+libgdx texture size android 
+problem scaling images device screen resolution figure scale libgdx platform today made small game android problem facing img src http stack imgur rkbcw png alt enter image description offcurse scale tablet butttons fit perfect libgdx layouts sw600dp large xlarge scale depend screen width height 
+
+youre relying asset size imaginary pixel units href http blog xoppa pixels rel nofollow post shouldnt href https github libgdx libgdx wiki viewports rel nofollow viewport meaningful units actual size screen inches centimeters viewport size button inches centimeters call depending skin 

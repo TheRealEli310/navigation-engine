@@ -1,0 +1,4 @@
+spring mvc blocking queue initializing huge library 
+huge library application initialize library time request put initialization configuration implemented queue service managing queue application loaded instances running problem stucks response back strong application context xml strong strong service strong strong queue strong controller controller time making queue working threads appriciate kind error stucks response send back strong edit1 strong answers changed code luck stucks problem send single request works response applicationcontext strong solution strong lot digging library assumed multithreading blockingqueue service nlp working nicely edit1 variable michal 
+
+youre essentially make pool youre wsd isnt thread safely throw queue garbage correct ready made version href http docs oracle javase docs api util concurrent blockingqueue html rel nofollow blockingqueue necessarily solve actual problem itll working version youre attempting 

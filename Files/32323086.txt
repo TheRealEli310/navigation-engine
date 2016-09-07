@@ -1,0 +1,4 @@
+jasper compiler xml external entities web xml 
+tomcat project pre compiles jsps jasper ant run href https tomcat apache org tomcat doc api org apache jasper jspc html rel nofollow input jsps part jaspers thing process problem set include bunch shared boilerplate xml entities litte bit makes jasper explode error message blockquote caused io filenotfoundexception resolve xml resource null public id null system id common context params entity base uri path project webapps root web inf web xml local entity blockquote looked detail class avail scoured internet luck people problem restriction called tomcats context build stage isnt problem strong configuration item change make jasper accept external entity strong heres heavily edited stack trace 
+
+run jspc undocumented command line parameter effect context hr href https tomcat apache org tomcat doc jasper howto html web application compilation rel nofollow jasper ant task set flag parameter 

@@ -1,0 +1,4 @@
+set cookie google http client library 
+started href https code google google http client rel nofollow google http client library lot dont easy handle case server sends header set cookie looked documentation sample code javadoc started implementing solution process common google implemented solution server sends client manually parse library method handle stuff implementing 
+
+parse cookies store parsed cookies send cookie header plenty solutions cookie handling internet odd google doesnt provide library 

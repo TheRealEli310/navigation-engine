@@ -1,0 +1,4 @@
+geoserver develop integrate geoserver 
+develop map server logic entities postgres database user management specific layers types wfs wms br strong springframework strong strong geoserver strong geoserver open source project question develop separated server user management problem integrate project security geoserver 
+
+typically develop front end completely separate geoserver offer ogc services clients case customize geoserver fully pluggable architecture build version modules standard security subsystem custom data sources lot configured replaced id suggest options mind detail geoserver gpld code develop depends geoserver api similarly gpld develop based geotools custom data store part closed source 

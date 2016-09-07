@@ -1,0 +1,4 @@
+sonar test coverage include indirect classes 
+classes separate module create test sonar complain strong strong coverage testing indirectly strong ecclema strong coverage plugin eclipse considered covered reason sonar acts change behavior sonars code test coverage include indirectly tested classes 
+
+easily achieve matter configure jacoco sonarqube sonarqube eclipse project unit tests separate module configured jacoco dump file modules default jacoco maven plugin separate dump module href https github sonarsource sonar eclipse blob master pom xml l373 rel nofollow https github sonarsource sonar eclipse blob master pom xml l373 configured sonarqube jacoco plugin report href https github sonarsource sonar eclipse blob master pom xml l357 rel nofollow https github sonarsource sonar eclipse blob master pom xml l357 

@@ -1,0 +1,4 @@
+add space left tab javafx tabpane 
+javafx application move tab tabpane slightly add button created gap managed adding style strong fx translate 20px strong tab tabpane result expect tab shows partially small fxml sample reproduce problem wrong achieve 
+
+apply css file scene gain access substructure tabpane indent tabs setting left padding 50px cssfile css project 

@@ -1,0 +1,4 @@
+stackpane main class controller class 
+familiarize scene builder added linechart numberaxis nodes stackpane scene builder parent node loaded mainapp div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override operations stackpane parent fxmldocument fxml dont stackpane container fxmlloader load getclass getresource fxmldocument fxml root node stackpane controller pass 
+
+put root element fxml file inject controller elements fxml file controller 

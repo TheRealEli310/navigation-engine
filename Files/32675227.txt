@@ -1,0 +1,4 @@
+multiple inputs line white space 
+program cs class wasnt hard setup supposed problem inputs line white space program supposed digits isbn find tenth print taking numbers string parsing separate ints set loop properly time make change code problem business check isbn isbn international standard book number consists digits d1d2d3d4d5d6d7d8d9d10 digit d10 checksum calculated digits formula d1 d2 d3 d4 d5 d6 d7 d8 d9 checksum digit denoted isbn convention write program prompts user enter digits displays digit isbn including leading zeros program read input integer code loop taking inputs white space 
+
+idea ol li user input index array ints li li sytem print yourarrayname print 10th number array li ol apply strategy achieve 

@@ -1,0 +1,4 @@
+call static method static class static class 
+question asked times answers post solved problem implemented service static broadcast receiver class calling static method class problem static method instance database class static log shows null exception accessing database passing context solved issue 
+
+id answer comprehensively included android support library v4 early releases instructions strong create broadcast receiver strong strong register receiver onresume activity strong strong unregister receiver onpause strong localbroadcast applications activity service called info href http developer android reference android support v4 content localbroadcastmanager html rel nofollow http developer android reference android support v4 content localbroadcastmanager html 

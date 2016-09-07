@@ -1,0 +1,4 @@
+spring boot rest controller test requestmapping properties 
+unit testing spring boot rest controller problem requestmapping application properties working profiles application files file property set present spring context configuration testing differs bean productive version unit test junit mockito restassured problem rest controller working started production mode unit test mode set exception thrown building mockmvc object approaches exceptions ul li test li li li li build mockmvc li li autowiring restcontroller test li li defining rest controller bean springcontextconfigtest class manually li ul combinations work order make work context configuration issue config classes dont solve 
+
+solved issue file profile properties yml file standard definition profile defined top file 

@@ -1,0 +1,4 @@
+spring boot aop working afterthrow 
+dont understand code working changed pointcut org springframework boot commandlinerunner run works 
+
+spring aop works public methods make method public revert aspectj blockquote due proxy based nature spring aop framework protected methods definition intercepted jdk proxies isn applicable cglib proxies technically recommendable aop purposes consequence pointcut matched public methods interception include protected private methods constructors spring driven native aspectj weaving spring proxy based aop framework constitutes mode aop usage characteristics make familiar weaving making decision blockquote href http docs spring io spring framework docs current spring framework reference html aop html aop pointcuts designators rel nofollow source 

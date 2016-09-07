@@ -1,0 +1,4 @@
+android runonuithread place 
+separate thread handles information user error execution calling runonuithread order create dialog user question happen instructions runonuithread happen called wait ui thread finish ill graphics order update screen regularly ui thread loop update redraw screen 
+
+blockquote instructions runonuithread happen called blockquote blockquote wait ui thread finish blockquote extent main application thread ui thread work queue posts queue reaches head queue run runs depends size queue 

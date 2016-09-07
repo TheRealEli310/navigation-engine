@@ -1,0 +1,4 @@
+maven adds hibernate jars dependency spring data 
+add dependency maven adds strong pom xml strong isnt spring data hibernate jpa impls 
+
+pom dependency pulls jpa depedencies including hibernate official href http docs spring io spring boot docs current reference html boot features sql html rel nofollow spring documentation blockquote spring boot starter data jpa pom quick started strong key dependencies strong hibernate popular jpa implementations br spring data jpa makes easy implement jpa based repositories br spring orms core orm support spring framework blockquote spring data jpa jar intended pull hibernate dependencies project 

@@ -1,0 +1,4 @@
+finding webelement relative webelement 
+find webelement relative webelement child selenium snippet source working find element title add item relative element foo bar element child immediately parent relative element heres ideas wrong playing slashes bit work 
+
+change strategy bit href https developer mozilla org en docs web xpath axes sibling rel nofollow selenium element text checking parents classes parent sibling class desired element start found element href https developer mozilla org en docs web xpath axes ancestor rel nofollow find parent apply sibling check selenium 

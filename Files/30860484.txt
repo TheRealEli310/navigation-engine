@@ -1,0 +1,4 @@
+recently nur page replacement algorithm 
+implement nur recently page replacement algorithm high level programming language 
+
+page replacement algorithms put buffer size fixed adding pages buffer buffer ignore page inserted buffer insert space space search replacement element case frequently calculate frequently count array 

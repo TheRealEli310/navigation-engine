@@ -1,0 +1,4 @@
+server encountered internal error prevented fulfilling request lang nullpointerexception 
+newbie created simple registration page mvc framework jsp servlets register database run error heres source code registrationview jsp controller javabean connect database 
+
+guess assigned null due failure method throwing exception failure simply printing stack trace continuing happened find review generated stack trace additional clues connection failing invalid connection string username password issue local database throw exception catch declare thrown part method rely return valid connection fail exception check null attempting nullpointerexception thrown call null 

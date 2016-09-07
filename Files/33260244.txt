@@ -1,0 +1,4 @@
+handle connection reset error socket program 
+written program accept data client amp returns success response throws connection reset error amp due socket connection remain unclose result idea handle connection reset error client code communicate amp connection closed client automatically code error connection reset applied timeout 60sec 
+
+em handle em closing connection real question common ul li wrote connection closed peer li li closed connection reading data arrived socket receive buffer reset peer li ul application protocol errors fixed isnt point sending data wont read 

@@ -1,0 +1,4 @@
+mapping list yaml list objects spring boot 
+spring boot app application yaml configuration file content injected configuration object list channel configurations configuration object populated list paymentconfiguration objects injecting normal bean autowired constructor xyz populated correctly spring parse yaml list objects clues wrong 
+
+reason spring boot box configuration em works em repo break href https github konrad garus yaml rel nofollow https github konrad garus yaml yaml file pasted extra whitespace characters special characters mis indentation sort file search path youre expecting 

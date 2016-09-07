@@ -1,0 +1,4 @@
+mock vending machine program data file 
+working program mimics vending machine pull data txt file information program user input amount money give change store prices 2d arrays item names user pick item buy blockquote item list file food txt blockquote 
+
+thoughts ul li array create simple href https en wikipedia org wiki plain object rel nofollow pojo holds items price li li read line input file create li li store array li li user input precise item emulate real vending machine assign item number iterate array index represent item number print item price li li applications main function ul li read file create array li li print options li li user select option li li user provide money li li return product print heres em item em li li calculate return change print heres em xx em back li ul li ul heres pseudocode change calculation object 

@@ -1,0 +1,4 @@
+spring data cassandra map maps 
+cassandra table defined place data interact pojo code retrieve records simple test throws exception funky column types work nested map type columns work fine map maps working wondering support exception appears datastax code pojo exception thrown 
+
+dont spring cassandra framework bit access data datastax driver directly href https github datastax driver rel nofollow https github datastax driver digging spring framework driver cluster object instantiated leverage maps functionality exposed spring cassandra functionality added 

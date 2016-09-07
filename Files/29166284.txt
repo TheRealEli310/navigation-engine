@@ -1,0 +1,4 @@
+unable mock interface generic return type jmockit 
+write junit unit test mocks interface extends spring data jpa interface crudrepository lt id extends serializable interface method call expectations wrongly records return type type mocked interface resolved mocked interface class cast exception debugged generic signature records lot code figuring return type eventually wrong answer fairly bug hope confirm wrong thing successfully mock calls interface return ul li jmockit li li junit li li spring data jpa release li ul strong update strong put scaled test case demonstrates issue uncovered strange quirk test myentity objects expectations change save expectation return objecct findone call bug occur strong myentity strong strong myrepository strong strong dataaccess strong strong dataaccesstest strong strong exception strong 
+
+error test reads fix test pass hand occurs bug jmockit href https github jmockit jmockit1 issues rel nofollow issue opened 

@@ -1,0 +1,4 @@
+maven add required dependencies hibernate 
+downloaded zip hibernate website folder required jars maven check required libraries hibernate version add manually add hibernate maven add required libraries 
+
+jpa hibernate single maven dependency refer href http hibernate org orm downloads maven repository rel nofollow download page pre class lang xml prettyprint override dependency pull required artifacts transitive dependencies jpa api hibernate core lot power maven dont add manually classpath figure jars add maven dependency declare transitive dependencies 

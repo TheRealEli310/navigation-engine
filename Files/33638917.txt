@@ -1,0 +1,4 @@
+migrate code recent jdk 
+em migrate code em older jdk em recent version em provide features improvements large jdk code base migrate jdk lot compiler warnings hints improve performance code readability netbeans ide plugins migration scripts 
+
+found em netbeans em offers transform complete code base parts configuration works ol li select project li li click menu li li click menu item li li select configure button li li choose desired transformations li li click li li review proposed refactoring suggestions click li ol complete code base refactored selected features idioms em intellij idea em similar feature em eclipse em called configuration menu 

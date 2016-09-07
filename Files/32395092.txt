@@ -1,0 +1,4 @@
+code sort list objects 
+explain code compiles prints expected understand integer instances created list entry object reference integer instance object class doesnt implement comparable interface collections sort throw classcastexception cast object references comparable references point missing 
+
+creating literals passing boxed objects implements sort strong update strong comment list declared list synonym doesnt implement answer generic type list method checks objects class extends list type compiler give warning work fine comparable strong source code sort method strong strong update strong execute piece code class implements cast line fail 

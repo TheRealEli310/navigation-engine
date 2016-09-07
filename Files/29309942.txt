@@ -1,0 +1,4 @@
+compute height profile tetris stack efficiently 
+h2 problem statement h2 array integers length tells lowest bits entry set compute array length maximal bit set achieve efficient h2 current solution h2 columns check bit separately shows current implementation scala feel free give answers languages interested algorithmic part optimized current cpus scala code h2 typical values h2 ul li array size li li width li ul h2 gist benchmark code h2 href https gist github ziggystar b4ffc2565b7302a7f5a3 rel nofollow find code current results 
+
+wrote solution hope port algorithm scala 

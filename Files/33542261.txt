@@ -1,0 +1,4 @@
+apache camel test fails project created camel archetype blueprint 
+add tests camel project decided create clean project maven camel archetype blueprint archetype samples created project editing test fails default exception building mvn package tests run 
+
+appears bug camel blueprint testing dependency change version fixes null input stream error 

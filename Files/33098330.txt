@@ -1,0 +1,4 @@
+jaxb marshal unmarshal xml elements class 
+lets class element request element response request element marshaled root element called response configure marshaling algorithm jaxb engine 
+
+finally implemented unmarshaling intercepting stax events code test classes real structure production complicated payments elements root annotation marshaling implemented manner write streamwriterdelegate scratch 

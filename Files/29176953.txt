@@ -1,0 +1,4 @@
+easymock verify method order set values order set matter 
+test set specific values methods execute set check methods called specific order relation relation order set values matter order verify called set called create control expect depends specific order elegant 
+
+interested solved issue intended easymock functionality solution make custom iargumentmatcher verify collection values enforce times matched consecutively custom matcher addition strict mocking solves original problem class tested test test fail ul li serviceone servicetwo called wrong order li li serviceone servicetwo called consecutively li li serviceone servicetwo called list li li call made number expected times list li ul 

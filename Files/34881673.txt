@@ -1,0 +1,4 @@
+clicking tile changing color libgdx 
+click tile change color tile coordinates assuming correctly draw blue square tile assets folder helps drawn pictures screen anymore information needed feel free tiledmaptilelayer 
+
+approach problem list custom class storing locations blue square drawn sprite drawn storing sprite list give flexibility basically render method draw tiles looping list code spritemap lets list spritemap class render access list istouched method inside istouched render method loop list draw sprite list spritemap objects strong strong blue box texture make draw blue box drawn map hidden map strong strong positions clicked adjusted sprite drawn exact tile change directly click change hope helps 

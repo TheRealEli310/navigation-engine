@@ -1,0 +1,4 @@
+functional programming beginner currying 
+reading currying functional programming basic question functions create method code wrote function curry 
+
+partially applied related currying languages support partial application functions curried default write code curried function partially apply function directly doesnt support kind thing extra machinery strong edit strong lambdas define curry function edit wrong corrected modified answer sepp2k pointed partial function application concepts related confused defense section currying wikipedia page mixup 

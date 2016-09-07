@@ -1,0 +1,4 @@
+dataflow gzip textio zipexception length distance symbols 
+href https cloud google dataflow model text io rel nofollow textio read transform large collection compressed text files files sizes 100mb 5gb error searching online zipexception lead href https developer jboss org thread tstart rel nofollow reply blockquote zip file errors happen hot deployer attempts deploy application fully copied deploy directory fairly common takes seconds copy file solution copy file temporary directory disk partition application server move file deploy directory blockquote run similar exception fix problem 
+
+href https github madler zlib blob master inflate l907 rel nofollow code produces error message problem library jdk supporting format gzip files bug href https github madler zlib issues rel nofollow codes reserved symbols rejected unused suggest producing compressed file utility produce small gzip file reproduce issue work wouldnt rely succeed 

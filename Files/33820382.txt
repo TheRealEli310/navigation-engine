@@ -1,0 +1,4 @@
+android mvp rxandroid retrofit 
+recently started reading lot mvp practicing projects correctly understand rx retrofit code model layer interactors share light rx callback onnext oncompleted onfailure passes data back presenter implement listeners pass presenter persist data realm storio onnext pass datalayer decouple rx callbacks post href https davidguerrerodiaz wordpress introduction cleaner android architecture mvp pattern rel nofollow https davidguerrerodiaz wordpress introduction cleaner android architecture mvp pattern seperate github repo antonioleiva href https github antoniolg androidmvp rel nofollow https github antoniolg androidmvp 
+
+pointed rxjava functionality defines case model layer interactor layer create interactor case lets pulling list users server case interactor rxjava retrofit observable presenter observer interested users list subscribed observable finally observer data observable oncompleted transform data needed pass view charge display 

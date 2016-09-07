@@ -1,0 +1,4 @@
+selenium firefox modal displays pop window modal 
+selenium test form website consists multiple pages modals suppose pages based options selected trouble selenium work properly fireforx modals chrome acts expected havent bothered ul li work pages manually firefox works expected li li run selenium script modal displays windows pop window modal li ul strong driver switchto alert accept strong handle modals modal encounter close page selenium code unable find elements page code click button 
+
+buy real issue modals longer fade blocking interact page bet waiting modal completely disappear dom interacting elements similar mechanism href https seleniumhq github io selenium docs api org openqa selenium support ui expectedconditions html invisibilityofelementlocated org openqa selenium rel nofollow 

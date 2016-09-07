@@ -1,0 +1,4 @@
+exception implement aws sdk 
+running error implement aws sdk web application write simple method save image s3 bucket error trigger method strong stack trace strong based google feeling issue related error build path configuration included aws jars party jars removed older versions libraries strong classpath strong 
+
+turns couple library versions inside projects webcontent web inf lib directory causing dependency issues important remove duplicate older libraries build path strong strong lib directory 

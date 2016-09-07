@@ -1,0 +1,4 @@
+unable add array element array json 
+generate json sample format created pojo add array elements unable add array inside element suggest pojo logic generate json 
+
+elegant simple solution adding method pojos handle serializing convert json calling dont worry recursive structure resulting json add constructor takes ensure consistent serialization deserialization place gson library google achieve essentially work hr create common superclass datatype array json array objects properties expanded children objects properties fileicon 

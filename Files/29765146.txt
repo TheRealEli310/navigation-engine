@@ -1,0 +1,4 @@
+receiver charging status returning false 
+detect user plugs unplugs device charge receiver determine plugged false reading status code manifest powerconnectionreceiver class whats working powerconnectionreceiver properly called phone plugged print status returns default entered batterymanager extra status isnt coming properly reference logs printing reference page developers site href http developer android training monitoring device state battery monitoring html rel nofollow http developer android training monitoring device state battery monitoring html 
+
+answer post site issue battery answer isnt totally elegant familiar access properties intent getaction battery information cheers 

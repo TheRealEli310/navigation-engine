@@ -1,0 +1,4 @@
+display selected listview item textview 
+stackoverflow android studio good code silly question lets point listview select txt file content inside manage code internet forget source select txt file dont display textview heres code xml strong activity main xml strong textview id result put selected txt file display content textview onclick method method select item question gettext txt item selected 
+
+youll create object youll text item clicked display text text simply h2 edit h2 option youll follow steps create result continue inside show text file h2 final edit h2 method read simply add lines inside works 

@@ -1,0 +1,4 @@
+httpservletrequest equivalent apache cxf 
+wanted web services clients locale ip endpoint method interceptor protocol header info havnt checked web service strong strong avoid setting stuff cxf request context 
+
+inject href https cxf apache org javadoc latest org apache cxf jaxrs ext messagecontext html rel nofollow messagecontext method http servlet request ways http servlet request hope helps 

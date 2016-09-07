@@ -1,8 +1,9 @@
 <HTML>
 <HEAD>
-<TITLE>Adaptive Navigation Support </TITLE>
+<TITLE>Adaptive Navigation Support</TITLE>
 <link rel="stylesheet" type="text/css" href="css/searchBar.css">
 <link rel="stylesheet" href="css/reset.css">
+ <link rel="stylesheet" href="css/searchResults.css">
 
 <style>
 
@@ -27,24 +28,23 @@ clear: left;
 }
 
 #faq-result {
-	margin: 0px auto 0px;
-	width: 50%;
-	line-height: 30px;
-	border-radius: 5px;
-	min-height: 300px;
+    border-radius: 1px;
+    line-height: 31px;
+    margin: 0 auto;
+    min-height: 300px;
+    width: 70%;
 }
-#results{
 
-position: relative;
+#results {
+	position: relative;
 }
 
 #pageTab {
-	position: absolute;
-	bottom: 0;
-	 left: 0;
-    right: 0;
-
+    bottom: -650px;
+    left: 0;
     margin: auto;
+    position: relative;
+    right: 0;
 }
 
 #loader-icon {
@@ -55,13 +55,17 @@ position: relative;
 	text-align: center;
 	display: none;
 }
+
+
 #results button {
- margin:0 auto;
-    display:block;
-	background: transparent;
-  border: 0;
-  outline: 0;
+    background: #bf1e2e none repeat scroll 0 0;
+    border: 0 none;
+    color: black;
+    display: block;
+    margin: 0 auto;
+    outline: 0 none;
 }
+
 #next {
 	margin: 0 auto;
 	display: block;
@@ -211,121 +215,141 @@ button {
 	font-size: 30px;
 	font-family: Helvetica, sans-serif;
 	text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.2);
-	color: #fff;
+	color: #BF1E2E;
 }
 </style>
 <script type="text/javascript"
 	src="https://code.jquery.com/jquery-1.2.6.pack.js"></script>
 <script>
-	
-	 $(document).ready(function(){
-	 //alert("hello");
-	 $("#next").hide();
-	 $("#pageTab").hide();
-	 
-	 function getresult(url) {
-	 $.ajax({
-	 url: url,
-	 type: "GET",
-	 data:  {rowcount:$("#rowcount").val()},
-	 beforeSend: function(){
-	 $('#loader-icon').show();
-	 },
-	 complete: function(){
-	 $('#loader-icon').hide();
-	 },
-	 success: function(data){
-	 $("#faq-result").html(data);
-	 },
-	 error: function(){} 	        
-	 });
- 
-	 }
-	
-	/* $(window).scroll(function(){
-	 if ($(window).scrollTop() == $(document).height() - $(window).height()){
-		// alert($(".pagenum:last").val());
-		// alert($(".total-page").val());
+	$(document).ready(function() {
+		//alert("hello");
+		$("#next").hide();
+		$("#pageTab").hide();
 
-	 if($(".pagenum:last").val() <= $(".total-page").val()) {
-	 var pagenum = parseInt($(".pagenum:last").val()) + 1;
-	 alert(pagenum);
-	 getresult('gotoResults?page='+pagenum);
-	 }
-	 }
-	 }); */
-	 
-	 
-	 $("#search").submit(function() {
-		   var url="gotoResults?page=0";
-	      //  alert("button");
-	        $.ajax({
-	       	 url: url,
-	       	 type: "GET",
-	       	 data:  {rowcount:$("#rowcount").val()},
-	       	 beforeSend: function(){
-	       	 $('#loader-icon').show();
-	       	 },
-	       	 complete: function(){
-	       	 $('#loader-icon').hide();
-	       	 },
-	       	 success: function(data){
-	       	//	$("#faq-result").clear();
-	       	 $("#faq-result").append(data);
-	       	 index = $(".pagenum:last").val(); 
-		       // alert(index);
-		        total = $(".total-page").val();
-		       // alert(total);
-		        slide(index);
-		        $("#pageTab").show();
+		function getresult(url) {
+			$.ajax({
+				url : url,
+				type : "GET",
+				data : {
+					rowcount : $("#rowcount").val()
+				},
+				beforeSend : function() {
+					$('#loader-icon').show();
+				},
+				complete : function() {
+					$('#loader-icon').hide();
+				},
+				success : function(data) {
+					$("#faq-result").html(data);
+				},
+				error : function() {
+				}
+			});
 
-	       	 },
-	       	 error: function(){} 	        
-	       	 }); 
-	        $("#next").show();
+		}
 
-	       // resizeIframe(this);
-	      
-	         return false;
+		/* $(window).scroll(function(){
+		 if ($(window).scrollTop() == $(document).height() - $(window).height()){
+			// alert($(".pagenum:last").val());
+			// alert($(".total-page").val());
 
-	    });
-	   
-		 
-	   
-	   
-	   $("#left").click(function(){
-		 /*   alert($(".pagenum:last").val());
-		   alert($(".total-page").val()); */
+		 if($(".pagenum:last").val() <= $(".total-page").val()) {
+		 var pagenum = parseInt($(".pagenum:last").val()) + 1;
+		 alert(pagenum);
+		 getresult('gotoResults?page='+pagenum);
+		 }
+		 }
+		 }); */
 
-		//   if($(".pagenum:last").val() <= $(".total-page").val())
-		   {
-		   //var url="gotoResults?page=0";
-		   var pagenum = parseInt($(".pagenum:last").val()) - 1;
-			//alert(pagenum);
-			 getresult('gotoResults?page='+pagenum);
-			 
-		   }
-		  
-	    });
-	   
-	   $("#right").click(function(){
-		   alert($(".pagenum:last").val());
-		   alert($(".total-page").val());
+		$("#search").submit(function() {
+			var url = "gotoResults?page=0&query=" + $("#query").val();
+			console.log(url);
+			$.ajax({
+				url : url,
+				type : "GET",
+				data : {
+					rowcount : $("#rowcount").val()
+				},
+				beforeSend : function() {
+					$('#loader-icon').show();
+				},
+				complete : function() {
+					$('#loader-icon').hide();
+				},
+				success : function(data) {
+					//	$("#faq-result").clear();
+					$("#faq-result").html(data);
+					index = $(".pagenum:last").val();
+					// alert(index);
+					total = $(".total-page").val();
+					// alert(total);
+					slide(index);
+					$("#pageTab").show();
 
-		  // if($(".pagenum:last").val() <= $(".total-page").val())
-		   {
-		  // var url="gotoResults?page=0";
- //alert($(".pagenum:last").val());
-//		   alert($(".total-page").val());
-		   var pagenum = parseInt($(".pagenum:last").val()) + 1;
-			 getresult('gotoResults?page='+pagenum);
-			 
-		   }
-		 
-	    });
-	   
-	 });
-	 
+				},
+				error : function() {
+				}
+			});
+
+			$.ajax({
+				url : "getTagsResults?query=" + $("#query").val(),
+				type : "GET",
+				data : {
+					rowcount : $("#rowcount").val()
+				},
+				beforeSend : function() {
+					$('#loader-icon').show();
+				},
+				complete : function() {
+					$('#loader-icon').hide();
+				},
+				success : function(data) {
+					var some = $("#hidden-tag").text();
+					$("#hidden-tag").html(some + data);
+				},
+				error : function() {
+				}
+			});
+			$("#next").show();
+
+			// resizeIframe(this);
+
+			return false;
+
+		});
+
+		$("#left").click(function() {
+			/*   alert($(".pagenum:last").val());
+			  alert($(".total-page").val()); */
+
+			//   if($(".pagenum:last").val() <= $(".total-page").val())
+			{
+				//var url="gotoResults?page=0";
+				var pagenum = parseInt($(".pagenum:last").val()) - 1;
+				//alert(pagenum);
+				getresult('gotoResults?page=' + pagenum);
+
+			}
+
+		});
+
+		$("#right").click(function() {
+			alert($(".pagenum:last").val());
+			alert($(".total-page").val());
+
+			// if($(".pagenum:last").val() <= $(".total-page").val())
+			{
+				// var url="gotoResults?page=0";
+				//alert($(".pagenum:last").val());
+				//		   alert($(".total-page").val());
+				var pagenum = parseInt($(".pagenum:last").val()) + 1;
+				getresult('gotoResults?page=' + pagenum);
+
+			}
+
+		});
+
+	});
 </script>
 <script src="js/prefixfree.min.js"></script>
 
@@ -333,19 +357,25 @@ button {
 <BODY>
 	<div id="wrapper">
 		<form method="get" action="" id="search">
-			<input type="text" id="df" value="" /> <input type="submit"
-				value="Search" />
+			<input type="text" id="query" value="" name="query" /> <input
+				type="submit" value="Search" />
 		</form>
 	</div>
-<div id="results">
-	<div id="faq-result"></div>
-	<div id="pageTab">
-	<div class="counter"></div>
+	<input type="text" id="hidden-tag" value="" style="visibility: hidden" />
 
-<button id="left" class="paginate left"><i></i><i></i></button>
-<button id="right" class="paginate right"><i></i><i></i></button>
-</div>
-</div>
+	<div id="results">
+		<div id="faq-result"></div>
+		<div id="pageTab">
+			<div class="counter"></div>
+
+			<button id="left" class="paginate left">
+				<i></i><i></i>
+			</button>
+			<button id="right" class="paginate right">
+				<i></i><i></i>
+			</button>
+		</div>
+	</div>
 
 	<div id="loader-icon">
 		<img src="LoaderIcon.gif" />

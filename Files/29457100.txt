@@ -1,0 +1,4 @@
+unable find interceptor class referenced ref jsonvalidationworkflowstack 
+struts2 application action pre class lang xml prettyprint override extending ma struts xml file struts json pluggin classpath running application error strong unable find interceptor class referenced ref jsonvalidationworkflowstack strong idea wrong appreciated href http www javawebdevelop rel nofollow link h2 web xml h2 pre class lang xml prettyprint override 
+
+error struts2 json plugin jar file classpath put classpath fix issue downloaded struts2 jars jar file part downloaded package checking href http www javawebdevelop rel nofollow link provided observed issues strong strong declaration correct named login class package testing declaration validation xml file proper coming plugins json plugin classpath runtime exception fix add application classpath jsp pages jquery tags place classpath tested version correct code fixes issue 

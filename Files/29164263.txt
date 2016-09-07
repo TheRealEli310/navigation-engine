@@ -1,0 +1,4 @@
+add option menu child fragment fragmenttabhost inside outer fragment 
+nested fragments application child fragment application add option menu overriding oncreateoptionsmenu menu menu menuinflater menuinflater method hit method class hierarchy application follow mainactivity extends sherlockfragmentactivity mainactivity include child fragments ol li fragment1 extends sherlockfragment li li fragment2 extends sherlockfragment li ol fragment2 include fragmenttabhost adding child fragments add optionmenu fragment1 fragment2 adding sethasoptionsmenu true oncreate bundle savedinstancestate overriding oncreateoptionsmenu menu menu menuinflater menuinflater add optionmenu childfragment1 childfragment2 childfragment3 oncreateoptionsmenu menu menu menuinflater menuinflater method child fragment classes called 
+
+call oncreateoptionsmenu child fragments call onoptionsitemselected code fragment2 basetabspagerchildfragment childfragment1 extends basetabspagerchildfragment 

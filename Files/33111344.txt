@@ -1,0 +1,4 @@
+eclipse mars method found setdefaulteditor 
+plugin work eclipse indigo kepler luna mars supports frege programming language href http www frege lang org fregide rel nofollow http www frege lang org fregide based imp framework maintained anymore dont source code tonight checked updates found eclipse updating eclipse fancy splash screen mars initialize plugin anymore error log message stack trace method vanished eclipse api questions ol li method li li restrict installation plugin luna kepler indigo li li supply fake setdefaulteditor method register editor plugin li ol 
+
+method exist takes argument class internal class part api valid change href https wiki eclipse org imp rel nofollow imp wiki imp project moved href https github impulse org rel nofollow github project date code source 

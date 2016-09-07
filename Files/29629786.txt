@@ -1,0 +1,4 @@
+robolectric shadow working 
+create test strong robolectric strong goal replace functionality class library modify code custom behaviour created small test simulate pre class lang prettyprint override em originalmessenger em class library default functionality em shadowmessenger em class custom behaviour apply em originalmessenger em run test fails content em message em original messenger em shadowmessenger em wrong 
+
+original shadow android classes custom robolectric test runner shadow classes robolectric robolectric project href https github nenick android gradle template https github nenick android gradle template 

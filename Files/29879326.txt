@@ -1,0 +1,4 @@
+generics serializable 
+created abstract class dealing redis set values happy interfaces list map extending class extend serializable concrete classes needless share problems migrating concrete class instance call practice alternative flexibility work interfaces remove bounded typing check runtime extends serializable leaves compile time checking extending serializable nice thing solve elegantly bounded type parameter runtime checking compromise container class holding collection end problem compile time checking responsibility lies shoulders developers collections implement serializable strong edit strong classes extending spring version component classes called similar add generics component classes end declarations opposed reason escape developers theyll lines code find ugly started nonetheless works requested jesper 
+
+syntax means type implement specific implementation implements 

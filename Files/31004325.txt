@@ -1,0 +1,4 @@
+including html jsp viewresolvers simultaneously 
+utilize thymeleafs application order resolve views returned controller set order template resolver resolver highest order resolver chain views resolved html additional piece logic include resolvers arent configured properly pass modelandview objects make jsp views mapped internal view resolver html vies mapped template resolver resolves mypage html jsp 
+
+servletcontexttemplateresolver impl templateresolver pattern files method href http www thymeleaf org apidocs thymeleaf org thymeleaf templateresolver abstracttemplateresolver html setresolvablepatterns util set rel nofollow applicable method strong update strong thymeleaf resolver spring app totally bean defined href http www thymeleaf org doc tutorials thymeleafspring html views view resolvers spring mvc rel nofollow http www thymeleaf org doc tutorials thymeleafspring html views view resolvers spring mvc 

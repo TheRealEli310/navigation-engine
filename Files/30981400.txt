@@ -1,0 +1,4 @@
+spring data mongodb connecting default parameters 
+mongodb spring accessing test environment perform junit tests object validation dont load mongo related configuration reason log bean definition connection log prevent 
+
+spring loads automatically disable disabling auto configuration classes 

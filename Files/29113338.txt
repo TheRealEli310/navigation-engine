@@ -1,0 +1,4 @@
+refactoring legacy code java8 optional 
+simple models userinfo passport user older years passport java7 pretty java8 strong optional lt strong optional handy action nullable ol li throw exception null strong orelsethrow strong li li computation case exists case em findpassportbyid em strong ifpresent strong li ol ugly practice refactor common case clean 
+
+assume wont wrapping doesnt make sense dont continue age mind main point strong avoid strong exceptions essential property mandatory age working corrupt data place hand isnt mandatory throwing exception doesnt make sense dont make mandatory suggest make directly conventional getter add method propertys common practice jdk insist throwing exception 

@@ -1,0 +1,4 @@
+rxjava oncompleted onterminate main thread 
+rxjava retrofit android network requests creating observable add add similar callbacks executed io thread executed main thread callbacks main thread execution stay io thread elegant solution manually wrap implementations block post main thread 
+
+place callbacks theyll stay previous thread 

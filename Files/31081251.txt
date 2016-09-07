@@ -1,0 +1,4 @@
+ant innosetup place directory installation javafx 
+working bundling application exe inno setup working thing project structure properties file external vendor specific location generate ant inno resulting file structure accomplish 
+
+section work ways prepare directory structure means create folder structure present installation utilizing machine innosetup include files folders extract work project folder structure innosetup include files specific locations project copy specific destination directories 

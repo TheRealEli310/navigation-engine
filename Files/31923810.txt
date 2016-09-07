@@ -1,0 +1,4 @@
+error multiple servlets map path embedded jetty jerseyservlets 
+questions arround helped single class startingpoint running embedded jetty jersey provide webpages json interfaces step failed provide multiple pages works fine adding content failed provide multiple pages providing content types solution added content single entrypoint class advance hint needed change 
+
+found solution missing key info simple handler put handler list voila jetty documentation finding 

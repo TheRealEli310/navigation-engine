@@ -1,0 +1,4 @@
+set content type text xml response message header spring 
+developed spring webservice return empty response problem content type text palin set content type text xml searched options couldnt exact code explin blocking current work 
+
+spring add produces attribute amp set content type put method 

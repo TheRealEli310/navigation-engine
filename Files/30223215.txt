@@ -1,0 +1,4 @@
+runnable pause resume thread 
+app working fine figure void run runs background click home button thread pause thread onpause start thread onresume called figure wrong code class 
+
+youre catching ignoring thrown interrupt thread dont ignore exceptions href http developer android reference lang thread html interrupt rel nofollow relevant docs interrupt thread waiting call exception thrown interrupted status em cleared em return false thread spends time sleep call interrupted 

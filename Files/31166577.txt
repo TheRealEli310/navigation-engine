@@ -1,0 +1,4 @@
+rxjava apply function element observable return observable 
+retrofit service returns observable save everytime loaded retrofit service function save return object simpler 
+
+invokes action simply accepts emitted item br calls observers thread 

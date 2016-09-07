@@ -1,0 +1,4 @@
+creating class testing class 
+learning deitel amp deitels book program learning attempting exercises back specific exercise working create class rectangle attributes length width defaults provide methods calculate rectangle perimeter area set methods length width set methods verify length width floating point numbers larger write program test class rectangle class created test class drive class run test class ide warning showing incompatible types lossy conversion double float understand ide coming warning 
+
+literal normal decimal considered double bit floating point constructor takes floats bit floating point values inputs pass bit numbers function takes bit numbers lose precision passing float int method double float method adding tells literal bit float bit double add cast notation greatly preferable 

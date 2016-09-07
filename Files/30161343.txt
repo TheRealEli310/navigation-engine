@@ -1,0 +1,4 @@
+run selected junit tests parameters 
+run selected test methods test class parameters classa test methods classb test methods run tests br testa classa times diff params test1 amp test2 br testc classb times diff params test3 amp test3 test count show 
+
+junit parameterized testing href http www tutorialspoint junit junit parameterized test htm rel nofollow http www tutorialspoint junit junit parameterized test htm 

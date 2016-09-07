@@ -1,0 +1,4 @@
+org apache poi unsupportedfileformatexception missing 
+problem read sheet xlsx xssfworkbook add external jars project poi jar poi ooxml jar xmlbeans jar throws exception blockquote em lang noclassdeffounderror org apache poi unsupportedfileformatexception em blockquote forgot 
+
+missing jars br download jars link add project br href http archive apache org dist poi release bin poi bin zip rel nofollow http archive apache org dist poi release bin poi bin zip 

@@ -1,0 +1,4 @@
+download local file angularjs 
+application works angularjs create pdf files store implement functionality lets user strong download strong pdf clicking link button manage path pdf file hr h2 edit solved problem h2 strong post strong method sends file back angularjs client service calls method controller call service open window pdf hope helps 
+
+serving angular portion webserver access filesystem server severe security problem provide serves file directly user proper mime type similar question href http stackoverflow questions return generated pdf spring mvc return generated pdf spring mvc answer 

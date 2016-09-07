@@ -1,0 +1,4 @@
+forcing tcp socket flush 
+developing protocol requires handshake consists pieces information back direction pieces dependent previous pieces ssl tls handshake implement lot packets bytes computer buffer hundreds bytes sends wait seconds thread sleep wont send close socket computer send whats buffer forums lot people arguments tcp works shouldnt send packets depends waits 300ms tcp stack 6s handshake completely unusable mind send matter call flush socket close socket considered sending packet useless padding force tcp implementation force bad solution simplified extracted code printwriter outputstreamwriter dont 
+
+create simple server run client code measure time output milliseconds round trip including read write run dramatically fix network configuration milliseconds difference code code settcpnodelay effect wasnt noticeable 

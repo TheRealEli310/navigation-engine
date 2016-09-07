@@ -1,0 +1,4 @@
+read chunked file netty 
+making project learning netty send file server client chunkedfilehandler server side code file file logged console coming back client side logger receiving files chunks bytes absolutely fine file server sending mb time chunk received firstly channelread fired channelreadcomplete fired question assemble chunks form file file information intact looked netty website dont client side code reading chunked file 
+
+chunkedfile api transmits contents file transmit file information information protocol transmit information addition file data alternatively existing protocol http includes header transmitting file contents write data file simply create fileoutputstream destination path write received data 

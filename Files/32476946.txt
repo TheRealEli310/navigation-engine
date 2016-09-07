@@ -1,0 +1,4 @@
+unable resolve class android builder core defaultmanifestparser 
+build android project gradlew failed error message happen 
+
+found file build gradle missing script added script build process success 

@@ -1,0 +1,4 @@
+xws security incompatible 
+implemented soap web service server client based href http spring io guides gs producing web service rel nofollow http spring io guides gs producing web service communication encrypted symmetric bit desede key client compiled target runtime successfully exchange messages server changing runtime exception thrown maven dependencies pom encryptionprocessor xws security jar href http mvnrepository artifact sun xml wss xws security rel nofollow http mvnrepository artifact sun xml wss xws security xmlcipher class loaded bug update dependencies 
+
+confirm xws security jar incompatible ended fix class dependency href http stackoverflow questions replace class maven dependency replace class maven dependency 

@@ -1,0 +1,4 @@
+unit testing methods implemented abstract class specific implementation 
+trouble deciding unit test set classes writing game working abstract class written methods unit test correctness abstract havent created implementation em em depends classes implement idea test thees methods utility methods dont implementation work wrong class test 
+
+shortest answer approaching problem wrong end start simple works youll test add abstractions develop program dont start abstractions wont utility methods dont depend player implementation shouldnt part player class 

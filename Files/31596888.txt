@@ -1,0 +1,4 @@
+dining philosophers 
+today decide solve dining philosophers problem write code correct pleased tells wrong forks locks read dont put access synchronized blocks class extends thread locks wrong philosopher eating fourth philosophers eat advance 
+
+problem called thread starvation threads competing resource continually denied access figuring avoid deadlocks aspect dining philosophers puzzle figuring philosopher fair amount eating time aspect jp moresmaus answer suggested force philosopher break called thinking classic puzzle philosophers turn eat works philosophers worker threads application eating corresponds worker thread work resting thinking corresponds thread sitting idle youd avoid takes locks make philosophers fair share eating time hungry heres hint higher level synchronization objects make kind fairness guarantee queues implementation 

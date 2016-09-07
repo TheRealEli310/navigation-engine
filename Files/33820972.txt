@@ -1,0 +1,4 @@
+classnotfoundexception servlet project 
+classnotfoundexception class oracle jdbc driver oracledriver present ojbc14 jar file found answer question solution worked project structure href http stack imgur 06uly png rel nofollow img src http stack imgur 06uly png alt enter image description suggested added ojdbc14 jar file click project build path configure build path add external jar error server window eclipse open ojdbc14 jar file package explorer path href http stack imgur rh9vs png rel nofollow img src http stack imgur rh9vs png alt enter image description resolve issue 
+
+libraries directory inside war provided screenshot shows library directory missing alternatively place libraries shared web applicatons directory preferred jdbc driver libraries 

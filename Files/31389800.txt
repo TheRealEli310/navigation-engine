@@ -1,0 +1,4 @@
+npe obtaining keystore instance 
+simple code working back basically keystore instance enable ssl problem null pointer exception find solution openjdk ubuntu bit exception thrown proceed 
+
+qs top google results problem ill debug npe javas codebase make source code ide check hint null jdk line servicekey init method constructor npe parameter passed constructor passed layers algorithm param passed unwrap param pass called type whats passed bug youre passing null param call doesnt match source code listed compiled code properly add sanity check println earlier code line number em em code stack trace 

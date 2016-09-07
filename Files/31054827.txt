@@ -1,0 +1,4 @@
+parse nested multiple json objects retrofit 
+json parsing json data set endpoint control json read class code unable work make retrofit call information inside data empty iterations implementing including deserializer restructuring pojo code current state data class item class main issue json content isnt set vary times values inside vary amount things item tags cost code data class empty dont errors log figure gson isnt working case wanted construct restclient rest query works content version inside data null 
+
+officially dumb scrub completely looked easiest fix account developer title revoked reference future reason works json format means objects objects opposed objects list treat correct map basically collection pairs imitate map map object key pair object key pair object key pair object 

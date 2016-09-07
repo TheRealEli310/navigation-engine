@@ -1,0 +1,4 @@
+implementing classes define shapes 
+implemented asked set instructions design implement set classes define shapes roundshape sphere cone class store fundamental data size provide methods access modify data addition provide methods compute area volume sphere cone design shapes related inheritance implemented dont create duplicate instance variables create main method instantiates sphere objects parameters cone objects parameters display tostring change parameter choice display code main question refer back tostring method content main method additionally tostring found correct class place class create tostring class 
+
+implement methods amp methods put details specific classes fields superclass invoke cone 

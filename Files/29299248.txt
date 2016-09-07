@@ -1,0 +1,4 @@
+auto class generators restful services 
+strong strong db schema tables basic relationships tables strong strong create webservices access db data lets ignore business logic layer basic crud operations strong strong jpa generate entities jackson map json pojo classes tool takes db schema input generates restful service classes jpa entities jackson annotations strong strong spring achieve dont spring j2ee framework reasons 
+
+considered href http forge jboss org rel nofollow jboss forge tool things generate jpa entities table generate rest services personally tested jpa entities generation doesnt rely framework ee standard jpa jax rs creating project call generate entities jpa classes generate rest endpoints 

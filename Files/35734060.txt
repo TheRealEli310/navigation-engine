@@ -1,0 +1,4 @@
+rxjava convert list objects list objects 
+list sourceobjects convert list resultobjects fetch object method resultobject show strong rxjava strong 
+
+href http reactivex io documentation operators html rel nofollow observable factory method convert collection objects observable stream stream href http reactivex io documentation operators map html rel nofollow map operator transform emitted item finally subscribe resulting observable order transformed items 

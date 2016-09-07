@@ -1,0 +1,4 @@
+android setting float values 0f 0f 
+browsing android source code noticed set float values implicitly converted knowledge effort type extra 
+
+reason style identical values details href https docs oracle javase specs jls se8 html jls html jls jls 

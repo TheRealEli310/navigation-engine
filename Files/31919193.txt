@@ -1,0 +1,4 @@
+add packages deployment jar shrinkwrap arquillian test 
+arquillian unit test creating deployment jar shrinkwrap add packages project lot number test file addpackage hundreds packages project code size increasing enormously making big mistake 
+
+id recommend string representation package path root core methods latest guess possibility add packages recursively avoid repeatedly including package instance 

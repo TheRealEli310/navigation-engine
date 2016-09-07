@@ -1,0 +1,4 @@
+mybatis log4j confiure log4j print sql log file 
+spring mybatis confiure log4j print sql log connection select insert update delete statement preparedstatement resultset log file log4j properties prints sql log console doesnt print sql log log file log 
+
+view details href http www mybatis org mybatis logging html rel nofollow http www mybatis org mybatis logging html hope works 

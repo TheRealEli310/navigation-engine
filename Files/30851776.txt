@@ -1,0 +1,4 @@
+jacoco report cucumber tests gradle 
+working gradle project run cucumber tests gradle task someway jacoco code coverage report cucumber tests configuring gradle junit test task jacoco automaticly creates exec file jacoco exec report someway lets cucumber exec file report 
+
+add jacoco agent jar jvm argument generate exec file report generation based collected exec files reports created execution data collected agent report generation original class files supplied instrumented copies href http www eclemma org jacoco trunk doc agent html rel nofollow http www eclemma org jacoco trunk doc agent html 

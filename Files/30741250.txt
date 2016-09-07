@@ -1,0 +1,4 @@
+list custom object parcelable give nullpointerexception 
+understand principles parcelable android wrote simply code find parcel list custom object nullpointerexception code class list mystring test activity click class navigationdrawer error customsmall line solution solve days big advance 
+
+didnt initialized list constructor 

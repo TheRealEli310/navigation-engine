@@ -1,0 +1,4 @@
+akka member actor lookup cluster 
+situation actor a1 started seed node cluster situation actor a2 possibly node actorref a1 perform br avoid hardcode seed nodes network addresses br run actor subscribed cluster events dont force nodes cluster started br find actor looping actorselection seed nodes list akka cluster closest found br scala syntax classes exception avoid exception 
+
+check href http doc akka io docs akka rc2 distributed pub html rel nofollow http doc akka io docs akka rc2 distributed pub html send messages actor cluster locally remotely actors path simple routing multiple cluster node running actor 

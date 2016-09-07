@@ -1,0 +1,4 @@
+intercept webview request android 
+app intercept requests follwing code pre class lang prettyprint override code works fine cases login outlook shows email password incorrect cases requests broken works fine remove intercept requests 
+
+issues code ol li incorrect extension detection li ol code resource extension url return wrong special method extension url href http developer android intl ru reference android webkit mimetypemap html getfileextensionfromurl lang string getfileextensionfromurl ol start li documentation method href http developer android intl ru reference android webkit mimetypemap html getmimetypefromextension lang string return case code set wrong mime type page li ol method code account issues 

@@ -1,0 +1,4 @@
+javac installing openjdk 
+additional jdk installed configured rhel5 appeared work version points desired javac version points sudo update alternatives config javac lists option find additional javac install configure javac 
+
+package jre openjdk devel package 

@@ -1,0 +1,4 @@
+adding datasource wildfly web console 
+searched days assign mysql datasource wildfly server web console add resource ill error testing resource due bug wildfly creates resource max pool size edited fine lookup resource webapp classic servlet application produces json data error javax naming namenotfoundexception jndi resource mysqlds xml generated web console app class manages connections hashmap reasons produces error strange part removed resource web console added resource ds xml file web inf folder works question add resources web console find app find resource add resource xml web console 
+
+feel retarded simply reload server configuration add resource ready single page deep inside wildfly reload configuration works dump 

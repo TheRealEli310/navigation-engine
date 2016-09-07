@@ -1,0 +1,4 @@
+prime connecting vshell jsch 
+written client jsch username password based logging relevant lines code connecting vshell server error pre class lang prettyprint override connect cli client putty xshell vshell server works setting missing jsch find vshell jsch forums posted 
+
+possibly limitation version jsch library successfully perform key exchange bit prime contacting jcraft version supports larger primes diffie hellman group exchange dont contact vshell administrator modify vshell primes txt file include bit prime numbers part logjam href https www schneier blog archives logjam html rel nofollow research potential vulnerability diffie hellman group exchange bit smaller primes vshell href https www vandyke products vshell history txt rel nofollow history file light potential vulnerability ssh key exchange similar tls logjam vulnerability diffie hellman group1 key exchange algorithm longer enabled default bit primes removed vshells primes txt file 

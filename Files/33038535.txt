@@ -1,0 +1,4 @@
+hadoop mapreduce io ioexception job failed 
+execute program blockquote io ioexception job failed org apache hadoop mapred jobclient runjob jobclient vasa books bookdriver main bookdriver blockquote strong bookdriver strong strong bookmapper strong exception occur 
+
+jobclient source calls returns boolean boolean false meaning job failed prints useless error message failed solve options faster check logs failure info printed logs dont logs dont logging enabled dont dig logs rewrite bit code equivalent code fails error message guess underlying problem arg arg input output files found 

@@ -1,0 +1,4 @@
+secondary indexes low cardinality columns cassandra 
+table million records node cassandra cluster column close repeatable values advisable build secondary index column 
+
+assuming completely uniform distribution column column map rows datastax doc href http docs datastax en cql cql ddl ddl index html index states blockquote built indexes table rows indexed blockquote rows qualifies remember youre talking rows cassandra em ignore em fulfilling query rf doubt nodes incur network time cassandra works nodes required fulfill query rows timeout efficient restrict query partition key secondary index restricting partition key cassandra find rows quickly dataset big evaluate data model figure table fulfill query requiring secondary index 

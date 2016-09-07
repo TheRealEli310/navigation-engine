@@ -1,0 +1,4 @@
+android list file directory 
+build application lists files directory user tap file open specific app depending file extension written code list files directory doesnt work crashes application advise replicate code snippets found places work advance edit added stack trace 
+
+strong strong put manifest strong strong check path exists strong strong return null directory check null 

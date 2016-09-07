@@ -1,0 +1,4 @@
+drools rule language api 
+platform requires drools rule language drl convenient thing create rules api create rules api convert transfer drl thx answer 
+
+drools fluent api building rules geoffrey mentioned public api stable years aware time due features added engine api drools parser unit tests examples href https github droolsjbpm drools blob drools compiler src test org drools compiler lang api descrbuildertest l451 l465 rel nofollow https github droolsjbpm drools blob drools compiler src test org drools compiler lang api descrbuildertest l451 l465 

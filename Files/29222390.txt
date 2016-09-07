@@ -1,0 +1,4 @@
+rsa aes decryption junk characters 
+decrypt saml response aes rsa decrypt saml assertion properly decrypted text embedded junk characters causing parsing exceptions code message 
+
+iv prefixed ciphertext iv bytes ciphertext dont forget exclude encryption explains garbage start configured padding pkcs padding doesnt work youll update question plaintext em hexadecimals em determine padding explain garbage end href http crypto stackexchange perform pkcs padding 

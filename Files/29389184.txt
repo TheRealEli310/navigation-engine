@@ -1,0 +1,4 @@
+docker connect apache tomcat web server mysql server 
+connect web server runs apache tomcat container mysql database runs container order linking mechanism docker running container containers linked environment variables exposed properly order connect web application running tomcat container database configuration file problem establish connection database environment variables exposed docker recognized tomcat environment make environment variables exposed docker visible apache tomcat environment 
+
+dns declaration db hard code reference hosts file updated db ip address link technique skydns registrator ip port dns srv record dont remember tomcat access variables tomcat evaluates url definition 

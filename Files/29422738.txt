@@ -1,0 +1,4 @@
+verify rsa signpkcs1v15 signature generated golang 
+verify signed sha hash returning false code generates rsa key pair signs returns message hits sign endpoint hex encoded hash public key modulus exponent android side code sending relevant bits hits function unparsed json object signature verify part returns false 
+
+dont hash message signing verifying means bytes sig update shouldnt hashedbytes inputbytes 

@@ -1,0 +1,4 @@
+javax persistence persistenceexception unable locate persistence units 
+maven project converted jpa project works maven persistence xml entities error occures error javax persistence persistenceexception unable locate persistence units included jars hibernate validation persistence hibernate jpa hibernate entitymanager build path class path project copied persistence xml resource folder lots things work error advance suggestions 
+
+problem xml schema jpa version solution hope works href http stackoverflow questions jpa persistence xml jpa persistence xml 

@@ -1,0 +1,4 @@
+jaxb maven jax ws global bindings xml references wsdl 
+maven jaxws plugin bindings xml file override type jaxb class field generated wsdl problem generating classes multiple wsdls jax ws maven plugin project structure references references wsdls xsd common wsdls xsds modified override type field type maven configuration build module configuration jax ws processes wsdls fails processing due reference select processing jax ws plugin works fine solve issue 
+
+create execution wsimport wsdls wsdl2 wsdl execution wsdl2 wsdl configurations execution jaxb bindings differently 

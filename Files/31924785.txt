@@ -1,0 +1,4 @@
+change column row index node gridpane 
+gridpane matrix resize horizontal bars circle added child gridpane action listener resize horizontal bars working correctly index anchor call newcol returned depending increased decreased size circle node move gridpane col returned correct position move node added gridpane 
+
+working expected problem observing moving app due empty column cell gridpane width debug visually set gridlinesvisible true add row column constraints 

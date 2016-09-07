@@ -1,0 +1,4 @@
+deserializing objects gson expected begin array begin object line column 
+working deserialization feed coming server encountered weird issue gson library code found stack similar issue thread doesnt work class json dont problem point direction error 
+
+json array format correct exception lot extra properties properties doesnt match model types code generate json format valid format 

@@ -1,0 +1,4 @@
+integer parseint numberformatexception android 
+ran code android app href https en wikipedia org wiki android lollipop android lollipop strong em em strong throw exception integer href https en wikipedia org wiki android version history android kitkat 28api level android kitkat lower versions throws blockquote numberformatexception invalid int blockquote version android causing difference 
+
+support explicit added href https android googlesource platform libcore 6b40837ee3a023bba698c38fd6d6e46ae0065a55 5e commit included starting fetched git repository verify documentation give insights em em change made achieve behavior answers point analyzing history source code accurate answer em em behavior changed documentation necessarily match implementation 

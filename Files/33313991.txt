@@ -1,0 +1,4 @@
+retrieving time zone date stored database 
+j2ee application deployed cluster servers multiple timezones server est server cst scenario request server est store date time database timezone request retrieve date request server cst determine time zone date stored database ps oracle hibernate 
+
+store time zone query time zone developer decide time zones handled remember time zones ul li database server time zone li li web application server time zone li li client browser time zone li ul user los angeles enters time user paris user sydney performs action action timestamp user toronto answer questions define requirements solution implementation impossible code verify mentioned comment basically ways handle time zones ol li store dates fixed time zone utc convert needed pretty li li store dates timezone convert needed display time zone users prefer conversions design decision make li ol 

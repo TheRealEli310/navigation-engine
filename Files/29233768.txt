@@ -1,0 +1,4 @@
+android removing item gridview 
+developing application gridview filling grid customized adapter image text click item dialog opens button click button item removed checked solutions change adapter code putting data arrays loading adapter grid custom grid adapter function method removing item creating adapter add customgrid class 
+
+make adapter remove item gridview call strong update strong add method adapter clear items 

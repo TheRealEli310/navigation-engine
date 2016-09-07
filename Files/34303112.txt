@@ -1,0 +1,4 @@
+android actionbar searchview item getitemid working 
+developing application api add items menu item added searchview ofcourse support api mainactivity class handle click searchview longer working fix strong menu xml strong strong mainactivity class strong code fire toast menu item clicked working searchview happen started add menu searchview item 
+
+youll listeners searchview class href https developer android reference android support v7 widget searchview html setonsearchclicklistener android view view onclicklistener rel nofollow onsearchclicklistener fit edit heres code 

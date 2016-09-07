@@ -1,0 +1,3 @@
+exact sum long array 
+order exact sum snippet works fine processing numbers split halves finally combining partial sums surprisingly method works em dont em work em em work final step passes tests including large random tests em prove works find counterexample em 
+

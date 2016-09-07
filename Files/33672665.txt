@@ -1,0 +1,4 @@
+finish activity softkeyboard visible onbackpressed 
+activity screen dedicated sending message edittext top half softkeyboard visible bottom half press back softkeyboard hides press back leave activity behavior struggling finishing activity press back button hiding keyboard find behavior twitter app writing tweet overriding onbackpressed function keyboard visible function called appreciated 
+
+things worked subclass edittext override onkeypreime function send call back heres code subclass activity textview 

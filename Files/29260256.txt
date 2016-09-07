@@ -1,0 +1,4 @@
+opengl context found current thread lwjgl 
+strong error strong class error strong main strong strong staticshader strong strong shaderprogram strong stuck dont throw error lot 
+
+classs constructor moving initialization object body constructor depending whats classes dont method code isnt posted writing assuming case reason exception thread isnt assigned opengl context call current opengl context calling href http legacy lwjgl org javadoc org lwjgl opengl display html create rel nofollow pre lwjgl href http javadoc lwjgl org org lwjgl glfw glfw html glfwcreatewindow int 20int 20java lang charsequence 20long 20long rel nofollow lwjgl creates opengl context 

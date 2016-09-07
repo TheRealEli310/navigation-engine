@@ -1,0 +1,4 @@
+liberty profile binding jndi values programmatically 
+read ee programmatically bind values app env comp env global env attempt javax naming operationnotsupportedexception startup bean liberty problem liberty coding premise programmatically bind namespaces simplified code 
+
+liberty profile support write operations namespace ee platform specification mentions write operations namespace discusses applications declaring resources application server applications read ee compliance test suite apparently require write operations reasonable implementation disallow capability important open href https www ibm developerworks rfe brand id rel nofollow websphere rfe recommend finding alternative solution youre singleton session bean store data member variable consuming code singleton session beans jndi call getter method 

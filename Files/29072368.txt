@@ -1,0 +1,4 @@
+android actionbar popupmenu error 
+create popupmenu actionbar strong mainactivity strong strong menu main xml strong strong menu popup xml strong strong activity main xml strong works emulator api min sdk android logcat errors understand message log 
+
+strong restart emulator strong strong check real device strong blockquote emulator behave good test real device blockquote 

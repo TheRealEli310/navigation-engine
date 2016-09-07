@@ -1,0 +1,4 @@
+writing single thread lmax 
+introduced lmax wonderful concept called ringbuffer guys writing ringbuffer thread performance multiple producers dont find tipical application thread writes ringbuffer dont understand lmax number traders put orders exchange asynchronious requests transformed orders put ringbuffer possibly write thread question missing misunderstanding aspect concurrent producers merge lock question recall rxjava observables observables merge href http reactivex io documentation operators merge html rel nofollow observable merge blocking maintaining lock 
+
+impact ringbuffer multi treaded writing slight heavy loads significant ringbuffer implementation holds node addition made thread writing ring process complete minimum time handle multi threading avoiding locks generally tight loop continue execute threads interfering storing data slowing town throughput pseudo code implementation href http codereview stackexchange real 

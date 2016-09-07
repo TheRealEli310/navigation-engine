@@ -1,0 +1,4 @@
+change textarea background color 
+javafx program user set background color figure change background color external file default setting user select color menu change code doesnt change depth change background multiple times modify file 
+
+external css file define background color href http docs oracle javase javafx api javafx scene doc files cssref html typecolor rel nofollow looked color scroll link color swatches essentially arbitrary variable choosing programmatically update definition looked color heres sscce css file text area background css 

@@ -1,0 +1,4 @@
+set jars skip order speed tomcat maven plugin startup 
+simple directly em tomcat7 maven plugin em configuration jars skipped tomcat startup order speed tomcat documentation encourages system property href http wiki apache org tomcat howto fasterstartup jar scanning rel nofollow http wiki apache org tomcat howto fasterstartup jar scanning set maven configuration work 
+
+inspecting sources em tomcat7 maven plugin em found workaround achieve jars skipping stop working future releases maven tomcat plugin related bug href https issues apache org jira browse mtomcat https issues apache org jira browse mtomcat problem tomcat blindly overrides system properties properties result system property plugin configuration overridden 

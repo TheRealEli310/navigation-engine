@@ -1,0 +1,4 @@
+android game remove padding side screen 
+android process making pretty basic game remove padding side main game screen game screen device originally thought dimens xml file changing 0dp white padding remains screen activity play game xml thinking wrong 
+
+add activit layout screen filled black add inside add relativelayout textview combination attributes update layout margin change layout positioned parent padding change layout positioned 

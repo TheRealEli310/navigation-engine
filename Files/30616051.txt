@@ -1,0 +1,4 @@
+post generic objects spring controller 
+create website displays form fields form depend request parameter form backing bean controller renders forms view fragment displays form fields looked bean form rendered correctly receive form back controller validate submitted bean method work spring creates instance submitted values lost accomplish task 
+
+wanted deal limited number beans method bean delegating private method em job em find href http stackoverflow accept bean dynamically em hand em spring automagically ul li request model attribute li li find bean registry li li explicitely binding li ul spring offers subclasses helpers 

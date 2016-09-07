@@ -1,0 +1,4 @@
+converting pointer string send char array working properly 
+problem sending directory names socket client server sending ordinary messages world works great doesnt figure problem server receives directory names understand missing client prints send file windows strlen sizeof server problem receive normal strings messages perfectly code request leave comment fix 
+
+solved added works 

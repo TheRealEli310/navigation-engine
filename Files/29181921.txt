@@ -1,0 +1,4 @@
+installing mahout maven os eclipse 
+play mahout simple instructions apache website weird dependency errors created project maven added pom xml suggested running mvn clean install hard ruby guy artifactid mahout alleged maven repositories error wrong 
+
+href https mahout apache org users basics quickstart html rel nofollow documentation apache mahout appears version mix exist version href https issues apache org jira browse mahout rel nofollow exist version version dependency href http mvnrepository artifact org apache mahout mahout core rel nofollow released 

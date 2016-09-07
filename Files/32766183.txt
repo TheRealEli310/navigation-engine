@@ -1,0 +1,4 @@
+retrieving class hibernate throws nullpointerexception 
+lang nullpointerexception retrieving class database hibernate method servlet handles login sessionfactory optimal lines session class arg correct values surpose successfully retrieve object add works fine excpetion thrown make requestdispatcher assuming arraylist user heres user heres console log whats wierd work changed database connection computer 
+
+onetomany fetch fetchtype eager basically loads relationships main entity loaded good approach links href http stackoverflow questions difference fetchtype lazy eager persistence difference fetchtype lazy eager persistence amp href http stackoverflow questions lazy loading eager loading hibernate lazy loading eager loading hibernate give idea 

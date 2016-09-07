@@ -1,0 +1,4 @@
+classnotfoundexception microsoft sqlserver jdbc sqlserverdriver 
+issue href http stackoverflow questions fix package exist error seasoned devs tired telling newbies howto set classpath setting classpath environment variable cp option success sample applications bundled sqlserver jdbc driver running ubuntu compile app command line run familiar havent modified sample class file including completeness path sql jdbc jar correct add class file dont complaints compiling runtime read newer versions jdbc dont load drivers remove line predictably wrong jar loaded class found details 
+
+youre halfway include jdbc jar classpath compile include classpath execute cp path sqljdbc42 jar connecturl 

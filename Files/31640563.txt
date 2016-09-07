@@ -1,0 +1,4 @@
+change tab background color tablayout 
+code main activity public class filteractivity extends appcompatactivity code xml change background color tab selected 
+
+finally worked similar dj suggested tabbackground layout file strong strong inside style res layout somefile xml selector res drawable tab color selector xml 

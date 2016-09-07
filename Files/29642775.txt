@@ -1,0 +1,4 @@
+jdatechooser setdateformat input database 
+code convert date format mmm yyyy default format jdatechooser yyyy mm dd 
+
+strong correction strong 

@@ -1,0 +1,4 @@
+lang classnotfoundexception javax enterprise event event 
+problem deploy ee application wildfly ways created app maven archetype wildfly javaee7 webapp ear archetype run wildfy idea admin console error deploy log dont cdi api jar dont wildfly jars removed provided cdi api jar packaged app ear app run wildfly call href http localhost dtest web rest members rel nofollow http localhost dtest web rest members error inject object null href http stack imgur prdps jpg rel nofollow enter image description whats happening minimal rest ejb hr 
+
+problem deployment solve problems directly simplest solution change deployment model ear war archive ps make unstable wildfly version 

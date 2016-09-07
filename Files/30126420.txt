@@ -1,0 +1,4 @@
+lang abstractmethoderror org jboss jpa hibernate3 hibernateannotationscanner scan 
+maven javaserverfaces jpa spring hibernate error pom xml lib folder ul li hibernate commons annotations final jar li li hibernate core final jar li li hibernate entitymanager final jar li li hibernate infinispan final jar li li hibernate jpa api final jar li ul ideas solve problem 
+
+remove dependency hibernate annotations final needed compatible hibernate 

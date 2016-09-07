@@ -1,0 +1,4 @@
+tyrus client reconnect server restart client shared container enabled 
+scenario ol li websocket server li li tyrus client shared container enabled li li tyrus client connects server good li li websocket server restarts li li tyrus client connect server throws exception server li ol ol start li client application restarted connect server li ol issue happen href https tyrus net documentation latest user guide html d0e1188 rel nofollow tyrus client shared container disabled stacktrace npe coming line grizzly project file roundrobinconnectiondistributor 
+
+interested issue fixed href https github tyrus project tyrus releases tag rel nofollow tyrus href https github tyrus project tyrus pull rel nofollow pull request pavel team taking action 

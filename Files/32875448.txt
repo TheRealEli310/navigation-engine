@@ -1,0 +1,4 @@
+calculating interest rate 
+making method supposed calculate interest rate amount period years values defined parameters code make nested loop missing code ran trouble loop runs years supposed calculate total amount clear years defined variable int year lets program supposed calculate growth amount year main method 
+
+heres change make lot mentioned comment written drop loop doesnt strong em edit em strong guess objective output reasonable assume objective 

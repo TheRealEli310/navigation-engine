@@ -1,0 +1,4 @@
+http found rest v2 jasper server url 
+working rest web services connect application jasper report server href http localhost jasperserver rest login username jasperadmin amp password jasperadmin rel nofollow http localhost jasperserver rest login username jasperadmin amp password jasperadmin working fine href http localhost jasperserver rest v2 login username jasperadmin amp password jasperadmin rel nofollow http localhost jasperserver rest v2 login username jasperadmin amp password jasperadmin working giving http found rest v2 url rest called v1 api deprecated allowed 
+
+rest v2 href http host port jasperserver pro rest v2 login username userid 7corganization id amp password password rel nofollow http host port jasperserver pro rest v2 login username userid 7corganization id amp password password 

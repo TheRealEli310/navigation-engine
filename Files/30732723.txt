@@ -1,0 +1,4 @@
+xmlgregoriancalendar displayed format marshalled 
+dates database putting objects classes derived xsd schema jaxb marshalling objects xml file derived classes xmlgregoriancalendar field date put written xml file yyyy mm ddthh mm ss format instructions answers href http stackoverflow questions date xmlgregoriancalendar specific format question solve problem function copied answer linked question date xml marshal objects filled date format 03t00 strong things strong ul li replacing br yyyy mm dd hh mm ss br br yyyy mm ddthh mm ss li li replacing li ul 
+
+strong comment answer strong jaxb shown relevant file set data type annotation xmlschematype datetime set date datetime time part object suppressed jaxb layer strong advise strong presented part double work usage input object type dont format parse pass argument method 

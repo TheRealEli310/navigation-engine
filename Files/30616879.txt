@@ -1,0 +1,4 @@
+apache commons cli handle options depend 
+kinda struggling apache commons cli v1 havent found practical solution problem command line tool depending parameters creates string reads local file edits inline optionally displays writes string local file sends http request server options create read edit cli display write push server combinations create string push reading writing file create write pushing semantics parameters string reated ead reating id interactive input cli parser eading user dit interactive input cli rest parameters kinda optional eading filename path riting file read file write arguments filenames optional resulting syntax bit lost configure commons cli arguments filenames required based parameters options 
+
+commons cli interdependent options handle checks pre class lang prettyprint override 

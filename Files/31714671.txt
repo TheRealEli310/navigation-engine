@@ -1,0 +1,4 @@
+modelandview object controller 
+working pass data controller class annotated controlleradvice handle exception application processing exception adding custom class modelandview adding passing controller redirect controller added object dont idea object trick success code strong exceptionhandler class strong strong home controller strong idea object data controller 
+
+lot googling searching forums article found solution combined data code forums made requirement fulfill href http docs spring io spring docs current javadoc api org springframework web servlet flashmap html rel nofollow flashmap context request add flashmap add data flashmap code hand controller href http docs spring io spring docs current javadoc api org springframework web bind annotation modelattribute html rel nofollow modelattribute data exception handler method code bingo work idea guys 

@@ -1,0 +1,4 @@
+generic tuple de serialization jackson 
+support json data coming external data sources common pattern array fixed number elements types call tuple de serialization element tuple expected types elements fasterxml jackson hr hr hr hr approach means make class time face type configuration tuple size define deserializer dealing generic typing tuple class tuple size instance generic tuple size defined usage doable 
+
+simpler tuple style annotate pojos serialized arrays theyll written arrays read arrays handle custom generic types type parameters resolved method superfluous needed general case type accessors em direct em type parameters 

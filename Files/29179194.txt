@@ -1,0 +1,4 @@
+compare objects operators 
+make objects comparable lt made myobject class header created method comp gain sort list objects compare objects directly 
+
+operator overloading means define custom behaviors operators classes noted implementing method case option create href http docs oracle javase docs api util comparator html rel nofollow docs specially doesnt make sense class implement needed compare objects class ways improve code readability custom methods natural 

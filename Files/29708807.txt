@@ -1,0 +1,4 @@
+multithreading make rest call mutiple times 
+rest calls zephyrs api dont api affect possibility question wondering make rest call multiple times time multithreading call retrieving data grabbing data strictly retrieving data writing risks recommended 
+
+improve performance implement mentioned careful implementation avoid security performance issues id suggest thread pool manage threads performing rest calls youre time helpful works fine create task implementing perform rest invokation call include list tasks hope helps 

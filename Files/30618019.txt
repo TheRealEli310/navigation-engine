@@ -1,0 +1,4 @@
+libgdx bitmapfontcache draw crashing due index bounds 
+recently updated libgdx project bitmapfontcache dialogue game drawing string character character bitmapfontcache draw start end working fine making build crash wrapping enabled character displayed strangely problem line strings add text increment character count draw currentcharacter stops reaching end string based length worked fine multi line wrapped strings bounds exception lines wraps line crashes drawing character line causing crash spritebatch calculating length string drawing return glyphlayout bug 
+
+issue lies pretty bug libgdx workaround hacky strong problem strong wraps line space character optimises terminating space space removed total number glyphs layout number characters string lines wrapped space character bigger discrepency strong workaround strong order work length rendering full text count number glyphs glyphlayout number characters string heres code pass returned method 

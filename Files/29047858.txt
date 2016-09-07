@@ -1,0 +1,4 @@
+entitymanager thread safety ee 
+ejb hibernate confuses contradiction search definite answer question thread inject entity manager directly stateless bean stateless bean instance shared instance injected hibernate docs inexpensive thread object single business process single unit work discarded ejb container make thread ejb docs stateless session beans inherently thread allowing clients operate bean time read examples injected injected directly stateful bean inject ejb directly stateless bean shown case wouldnt work 
+
+blockquote em stateless bean instance entitymanager shared instance injected em blockquote injects strong proxy strong instance actual instance proxy method call delegate instance current thread context words container worries h3 h3 ul li href http stackoverflow questions ejb managed bean ejb instance ejb managed bean ejb instance li li href http stackoverflow questions stateless session beans stateless session beans li ul 

@@ -1,0 +1,4 @@
+set delay system exit 
+code function run seconds system println statement examples creating delay println exit 
+
+specific href http docs oracle javase docs api util concurrent timeunit html sleep long rel nofollow method href http docs oracle javase docs api util concurrent timeunit html seconds rel nofollow information trivial find google search term pause sleep throws number links relevant question 

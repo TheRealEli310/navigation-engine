@@ -1,0 +1,4 @@
+fail maven build inside logic 
+developing project maven execute main class part build process main classs job validate hardcoded files valid raml files perfect world build fail build classs logic invalid failure report back terminal build failure message maven natively added tho org codehaus mojo exec maven plugin plugin pom allowing execute main class mentioned earlier section pom signal logic inside mainclass build fail read href https maven apache org guides plugin guide plugin development html rel nofollow maven guide developing plugins throw fail build hoping order class inside mainclass havent find jar understand maven works fixed kind addition pom jar insight id ryan 
+
+appears throwing exception build fail href http stackoverflow answer access add dependency 

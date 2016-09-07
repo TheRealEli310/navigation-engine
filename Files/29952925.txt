@@ -1,0 +1,4 @@
+bind enums arbitrary types jdbi 
+jdbi support binding enum types annotation assuming dao included method equal expect query utilized determine substituted jdbi type extends 
+
+href https github jdbi jdbi blob 4c2eeb3792005beaabfc67b2f479dc2ee1dd3d22 src main org skife jdbi v2 enumargument rel nofollow source code object bound jdbi jdbc driver youre experience postgresql successfully binds arrays postgresql postgresqls jdbc driver handle specific kind objects specific implement documentation href http stackoverflow questions jdbi accept uuid parameters stack overflow href http jdbi org sql object api argument binding rel nofollow binderfactory discovered 

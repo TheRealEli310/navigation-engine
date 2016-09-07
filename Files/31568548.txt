@@ -1,0 +1,4 @@
+printwriter bufferedwriter filewriter output txt true printing 
+write output txt clearing appending end methods called methods saxparser parse overloaded methods defaulthandler declaration called program start system println output txt remains unchanged edit writes file appending clears writes edit misunderstood testing writes file call analyze subsequent calls edit solved problem flush close printwriter close printwriter closing caused failure subsequent writes 
+
+bufferedwritter doesnt write data file time println point save buffer buffer full write problems happen reach buffer maximum size dont call flush writer bufferedoutputstream call writer flush closing 

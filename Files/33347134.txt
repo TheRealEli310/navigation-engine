@@ -1,0 +1,4 @@
+fix deprecated oracle sql arraydescriptor oracle sql struct oracle sql structdescriptor 
+jdbc code call oracle stored procedure takes array input classes deprecated replace strong code strong 
+
+oracle api documentation strong href https docs oracle database jajdb oracle sql arraydescriptor html rel nofollow arraydescriptor strong blockquote factory method oracleconnection createoraclearray create instance sql array directly blockquote strong href https docs oracle database jajdb oracle sql struct html rel nofollow struct strong blockquote sql struct interface declaration concrete class oracle sql struct blockquote strong href https docs oracle database jajdb oracle sql structdescriptor html rel nofollow structdescriptor strong blockquote factory method connection createstruct create instance sql struct directly blockquote full list href https docs oracle database jajdb deprecated list html class rel nofollow deprecated classes mentioned oracle api documentation 

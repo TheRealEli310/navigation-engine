@@ -1,0 +1,4 @@
+http status error instantiating servlet class 
+created dynamic web project tomcat installed run time making website completely clueless problem code web xml index jsp app prints submit clicked made wanted make servlet working 
+
+servlet mapped xml annotation remove portion web xml clean build project 

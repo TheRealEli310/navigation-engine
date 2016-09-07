@@ -1,0 +1,4 @@
+collection double doublestream 
+elegant create sum average moment code suggest shorter 
+
+obtain statistics classes href https docs oracle javase docs api util doublesummarystatistics html rel nofollow obtained collecting stream href https docs oracle javase docs api util stream collectors html summarizingdouble util function todoublefunction rel nofollow collector collector takes argument function return analyze statistics obtained href https docs oracle javase docs api util intsummarystatistics html rel nofollow href https docs oracle javase docs api util longsummarystatistics html rel nofollow href https docs oracle javase docs api util doublesummarystatistics html rel nofollow values general case converting code 

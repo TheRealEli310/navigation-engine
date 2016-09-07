@@ -1,0 +1,4 @@
+org postgresql util psqlexception error syntax error 
+psqlexception run code println function displays console wrong query console runs fine pgadmin isnt syntax error 
+
+syntax valid write sql directly console considered strong interval literal strong wont work string word literal string prepared statements postgresql implemented server side href http www postgresql org docs static sql prepare html rel nofollow actual variable server complains wrote statement literal syntax work prepared statement dont string representation result prepared statement confuse server sees server sees variable syntax takes string variable literal converts interval em em bug 

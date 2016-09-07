@@ -1,0 +1,4 @@
+javafx listview add edit element 
+add edit directly element listview correct working modify item newly added item index dont 
+
+bug horrible interplay focus editing basic problem list cell loses focus cancels editing clicking button focus shift button rendering pulse list cell sees lost focus cancels editing explain item list appears editing state suspect due interaction lists manages focus individual items ugly hack delay call additional rendering frame case youre familiar href http docs oracle javase javafx api javafx animation animationtimer html rel nofollow defines method invoked rendering pulse count frame call edit stop timer calling index item robust items equal bit cleaner 

@@ -1,0 +1,4 @@
+jaxb unmarshalling xml file jlist 
+marshalling unmarshalling save load xml file program post wrapper class save method works save method originally line set output xml console unsure unmarshall ideas finally load method unmarshal correctly error hit load button answer question ahead time edit forgot clarify unmarshall list objects jlist gui sofar save list objects jlist xml 
+
+ensure doesnt return null initializing field lazy init getter jaxb unmarshals lists bit unusual doesnt call setter assumes getter returns mutable list add unmarshaller essentially element xml 

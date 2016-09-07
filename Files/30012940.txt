@@ -1,0 +1,4 @@
+missing beans introspector spring libgdx android application 
+run libgdx based android application built spring framework spring android plain spring exception android runtime fully featured beans package regular jre workaround issue 3d party jar missing classes change package annotationbeannamegenerator class introspector part spring context 
+
+finally appears normal spring spring android run android cglib cglib manipulate byte code android special dalvik byte code issue missing classes fixed manual adding classes open source jre implementation href https github apache harmony rel nofollow apache harmony passing option dex pass option put section gradle android plugin configuration add parameter 

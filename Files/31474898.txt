@@ -1,0 +1,4 @@
+android cookiehandler cookies closing app 
+cookies request httpurlconnection add cookiehandler app starting app closing opening cookies empty save cookies closing save sharedpreferences file back opening tryed cookiestore worked save load 
+
+default persist disk implement href https gist github manishk3008 2a2373c6c155a5df6326 rel nofollow implementation saves cookies directly sharedpreferences 

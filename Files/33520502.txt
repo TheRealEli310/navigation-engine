@@ -1,0 +1,4 @@
+put limit memory usage parsing json string 
+rule calling org json implementation json parser decode bad json string put upper limit memory usage possibly cpu usage exception recover alternatively memory usage parsing exceed ratio compared input string length limit alternate library offers 
+
+approaches reading serialized data json xml parse entire input object memory navigate stream provided api pieces interested org json doesnt streaming api sophisticated libraries href https sites google site gson streaming rel nofollow gson put limits input depends protocol transferring json payload 

@@ -1,0 +1,4 @@
+android studio threaded debugging 
+trouble debugging multithreaded app android studio breakpoint hit threads stop breakpoint created simple test app method activitys oncreate set breakpoints log lines thread thread run debug mode lollipop nexus app starts hits breakpoint thread problem notice apps ui blank main thread paused breakpoint thread hit pull threads view android studios debugger expand thread arrow expand main thread shows paused onstart img src http stack imgur 79t8m png alt android studio screenshot wrong debugger incapable debugging multiple threads 
+
+intellij idea android studio based intellij place breakpoint click dialog displayed select pause threads default thread pausing threads default setting 

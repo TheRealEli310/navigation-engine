@@ -1,0 +1,4 @@
+regular expressions 
+bit confused don understand written string pattern learning tutorialspoint understand code output blockquote found order qt3000 br found order qt300 br found blockquote 
+
+pattern capture groups ul li means character capture group li li means digits capture group li li means character capture group li ul called attempts find subsequence input sequence matches pattern href http docs oracle javase docs api util regex matcher html rel nofollow matcher find call lines ul li means entire string regex evaluated li li refers capture group character li li refers capture group digits li li youre outputting capture group character li ul youll returned left capture group digit add capture group output display remaining string words display hope helps 

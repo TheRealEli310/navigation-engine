@@ -1,0 +1,4 @@
+java8 string replaceall changed behavior 
+map goal replace keys relative values br test regex replaceall method result concatenation regex replaceall method complete string compare pattern quote method strings concatenated strings complete test code test code test code explain results 
+
+variation output due order iteration iterating vars text string replaced iteration replaced didnt find index string debug code find answer values sorted order linkedhashmap insertion order treemap sortedmap custom order designed util hashmap unordered shouldnt assume class makes guarantees order map guarantee order remain constant time util linkedhashmap insertion order implementation differs hashmap maintains doubly linked list running entries linked list defines iteration ordering order keys inserted map insertion order util treemap sortedmap natural custom ordering keys map sorted natural ordering keys comparator provided map creation time depending constructor 

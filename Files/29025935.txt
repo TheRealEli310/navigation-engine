@@ -1,0 +1,4 @@
+error swipe tabs android app 
+developing android app swipe tabs fragments amp works fine code step add list view fragment populate list view main activity file error mainactivity file classes adapter error runtime app stopped code alternate app logcat 
+
+hey vinesh null pointer exception line setadapter check titles images descr null check null 

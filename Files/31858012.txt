@@ -1,0 +1,4 @@
+project eclipse build path 
+multiple versions maven project checked perforce make change older version import older version perforce disk compile eclipse clicking orject give build path options make project classpath checked contents folder project settings files 
+
+fixed running mvn eclipse eclipse command line 

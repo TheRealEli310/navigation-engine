@@ -1,0 +1,4 @@
+hbase key store extract 
+working hbase key store column family single filter row retrieve takes seconds give pointer helpful code 
+
+dont scan exact key href https hbase apache org apidocs org apache hadoop hbase client htableinterface html org apache hadoop hbase client rel nofollow super efficient reason taking long trigger call call trip href https hbase apache org apidocs org apache hadoop hbase client scan html setcaching int rel nofollow setcaching number rows single trip 

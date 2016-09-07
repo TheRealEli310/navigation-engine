@@ -1,0 +1,4 @@
+kafka cluster zookeeper failure handling 
+implement kafka cluster consisting machines zookeeper brokers consumer machines hundred producers broker fails data loss avoided replication feature zookeeper fails machine started questions ol li noticed zookeeper failure producers continued push messages designated broker longer retrieved consumers consumers unregistered case data lost permanently li li change zookeeper ip broker config run time shutdown change zookeeper ip li li zookeeper machine brought cluster previous previous data lost li ol 
+
+running instance zookeeper fault tolerant behavior predicted href http hbase apache org book html zookeeper rel nofollow hbase reference setup ensemble servers official documentation page href https zookeeper apache org doc r3 zookeeperadmin html sc zkmulitserversetup rel nofollow zookeeper clustered setup 

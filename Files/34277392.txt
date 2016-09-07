@@ -1,0 +1,4 @@
+load json files spring boot application 
+create rest webservice application load json files exist folder passed parameter application yml priori application startup methods webservices list beans json file corresponds bean sample explain requirements strong application yml strong strong myapplication strong json files structure strong restapi strong strong contextoperatorbean strong json file infos priori class called operator operator infos method initialize object list infos json files application startup webservice methods restapi class 
+
+idea na ve implementation satisfies criterium create service deals responsibility left handling failures unexpected conditions implementation details controller call filter matching entries 

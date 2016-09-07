@@ -1,0 +1,4 @@
+executorservice store result task array 
+read href http www javapractices topic topicaction id rel nofollow post fill fixed size collection results order matters fill array task store result built store results order tasks submitted fill list array 
+
+href http docs oracle javase docs api util concurrent executorservice html invokeall util collection rel nofollow method javadocs blockquote parameters tasks collection tasks returns list futures representing tasks sequential order produced iterator task list completed blockquote returns submitted tasks finished execution iterate returned futures invoke order results match collection liner 

@@ -1,0 +1,4 @@
+creating array graphs time evolving 
+working graphs time evolving graph snapshots graph instance time compute basic network metrics density size centrality wondering basic data structures store perform computation graph adjacency matrix node size large dynamic leads inefficiency libraries notably jgrapht hold undirected graphs graph create array undirected graphs missing store time evolving graphs 
+
+options create array list set graphs object timesteps fit easily memory timesteps nodes edges work fine heres jung nodes graph edges changing store nodes store list sets edges set timestep graph static store original graph store deltas added removed nodes edges timestep considerably space efficient requires reconstruct steps order state time finally single graph annotate node edge interval present apply filter time apply algorithm graph 

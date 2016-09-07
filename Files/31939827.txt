@@ -1,0 +1,4 @@
+stream return element 
+write code stream code works fine rewrite doesnt work anymore back stream values strong edit strong devices back empty wrong stream devices javaee application devices entity 
+
+eclipselink prior version hit href https bugs eclipse org bugs show bug cgi id bug field replaced href http grepcode file repo1 maven org maven2 org eclipse persistence eclipselink org eclipse persistence indirection indirectlist reflection extends class performs lazy initialization written older version method called uninitialized list returning empty stream bug href http git eclipse org eclipselink eclipselink runtime git commit id a364dc5a19dfc84966c7415342427741bbde51e8 fixed update eclipselink version eclipselink class href http grepcode file repo1 maven org maven2 org eclipse persistence eclipselink org eclipse persistence internal indirection jdk8 indirectlist running jdk stream friendly 

@@ -1,0 +1,4 @@
+gdx freetype slow generate fonts 
+gdx freetype library generate bitmapfonts game convenient handle screen sizes android problem takes long time font made startup generate bitmapfonts sizes ttf file time spent generating fonts adds loading time problem easily seconds generate fonts speed process alternative gdx freetype approaching problem wrong 
+
+tenfour04 correctly points comments generate fonts game loads save files subsequent runs simply load files faster heard good things href https github jrenner gdx smart font rel nofollow gdx smart font project add blockquote class benefits creating fonts screen sizes hiero bmfont troublesome fonts sizes targeting screen sizes generate bitmap font pngs generated fonts dynamically scaled time creation based screen size generating fonts cuts app download size include pngs generating fonts add significant time app startup time caching generated fonts file regenerating needed fast app startup time blockquote 

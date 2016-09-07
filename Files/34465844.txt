@@ -1,0 +1,4 @@
+gradle build failed android studio 
+unable run app time run app emulator android studio shows error br strong blockquote error execution failed task app transformclasseswithdexfordebug android build api transform transformexception android ide common process processexception org gradle process internal execexception process command program files x86 javajdk1 injava exe finished exit strong br blockquote heres files br br br br br apply solution question similar mine solve issue advance 
+
+add file find explanation error happened href http stackoverflow questions unexpected top level exception android dex dexexception multiple dex files unexpected top level exception android dex dexexception multiple dex files define wouldnt work delete files folders duplicated dependencies versions command check hope 

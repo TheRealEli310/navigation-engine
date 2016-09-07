@@ -1,0 +1,4 @@
+nested loop returning map streams 
+started streams find write code 
+
+convert iterative solution directly stream make solution flexible cost additional allocations collect remove force exception duplicate ids silently overwriting entry 

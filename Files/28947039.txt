@@ -1,0 +1,4 @@
+delete detached entity merge 
+problem remove entity heres code dont understand remove statement fails throwing entity manager entity merge executed time remove fails objects passed wrong stacktrace caught exception 
+
+annotation private method called class class service class provide details method internally calling delete function spring transactional annotations private protected methods supported public methods strong edit strong make method public entry point bean call private method entry method isnt called spring bean instance autowired field isnt annotated transactional problem 

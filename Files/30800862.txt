@@ -1,0 +1,4 @@
+android parcelfiledescriptor returned uiautomation executeshellcommand instrumentationtestcase 
+written generic function subclass call works command executed wrong returned return rubbish heres generic function heres snippet showing calling hoping receive commands output string list top level directories log blockquote shellcommand buf 1391fd8d blockquote great write automated tests wrong explain 
+
+href http docs oracle javase docs api lang object html tostring rel nofollow tostring method doesnt convert contents byte array string returns string representation object case 1391fd8d means byte array hashcode 1391fd8d convert byte string href http developer android reference lang string html string byte rel nofollow string byte constructor easier href http developer android reference io bufferedreader html readline rel nofollow bufferedreader readline string directly line output 

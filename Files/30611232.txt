@@ -1,0 +1,4 @@
+upsert document mongodb driver 
+idiomatic upsert document version mongodb driver specifically v3 collection sessions session created modified upsert operation query document exists inserting replacing upsertion code scala driver casbah looked current project plain driver make typsafe replace throws error lang illegalargumentexception invalid bson field error covered href http stackoverflow questions mongodb update driver question op question wasnt upsert operation context decide replace update insert happy code samples scala 
+
+mongo driver series added crud api explicit beginner friendly initiative rolled number mongodb drivers compared older api updating existing document href http docs mongodb org manual reference operator update rel nofollow update operator method operation describe href http api mongodb org current mongodb client mongocollection html replaceone org bson conversions bson tdocument rel nofollow operation run 

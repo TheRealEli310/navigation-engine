@@ -1,0 +1,4 @@
+gson typetoken work 
+understand contrary generics compile time feature removed type erasure gsons work generic type object 
+
+img src http stack imgur wqbgp jpg alt trick href https docs oracle javase specs jls se7 html jls html jls jls emphasis mine blockquote type erasure mapping types possibly including parameterized types type variables types parameterized types type variables write erasure type erasure mapping defined erasure parameterized type erasure nested type erasure array type erasure type variable erasure leftmost bound strong erasure type type strong blockquote declare class anonymous subclass parameterized type erased code outputs notice declare class anonymously erasure superclass parameterized type 

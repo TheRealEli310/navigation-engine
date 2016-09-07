@@ -1,0 +1,4 @@
+jpa entitymanager find method returns proxy 
+entities inherited call find entitymanager existing cars id back proxy object access special methods carentity class set parameters problem specifically call find checking instance returned object carentity set parameters dont inherited classes carentity procedure solve find specific object classes call find times vehicleentity interested actual object global solution 
+
+understood proxy object type vehicleentity target object proxy object carentity opinion deproxy proxy object hold real object carentity call special member carentity found link deproxy proxy object generic manner lot inherited classes href http stackoverflow questions converting hibernate proxy real object converting hibernate proxy real object hope 

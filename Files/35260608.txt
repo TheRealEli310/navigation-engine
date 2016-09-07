@@ -1,0 +1,4 @@
+wicket springbean spring autowired injection constructor 
+wicket panel inject bean springbean blogsummarymailgenerator injection constructor defined somepanel instantiated exception adding empty args constructor blogsummarymailgenerator solves issue adding code make injection work wrong avoid suggestions make springbean work beans injection constructor 
+
+h2 solution h2 advantage constructor injection em wicket em components add href http mvnrepository artifact org objenesis objenesis rel nofollow em objenesis em compile time dependencies h2 explanation h2 em objenesis em byte code manipulation library opposite em cglib em provided em wicket em create proxy object class default args constructor add compile dependency project em wicket em switch internal lazily initializable proxy creation logic advantage em objenesis em em cglib em requires args constructor instantiating proxy feature documented confirm works case 

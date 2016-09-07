@@ -1,0 +1,4 @@
+performance aspect util property hashmap 
+class concern performance methods property input parameter methods invoked time execution replacing property hashmap increase performance hashmap sufficient scenario 
+
+extends kind hashtable couple differences relevant case synchronized threaded application hashmap perform hashtable null keys values null key null values differences project decision 

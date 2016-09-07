@@ -1,0 +1,4 @@
+jbehave dependencies central maven repo 
+difficulty expected accessing jbehave dependecies maven central repo search maven org grab href http search maven org artifactdetails 7corg jbehave 7cjbehave distribution 7c4 7cpom rel nofollow http search maven org artifactdetails 7corg jbehave 7cjbehave distribution 7c4 7cpom method paste dependency code dependencies section pom trouble error message forcing dependencies strong mvn clean install strong avail popular request tidying pom 
+
+felt answer achieves goal answers pom works jbehave jbehave core essential optionally jbehave gherkin write user scenarios gherkin cross framework language jbehaves user scenario language 

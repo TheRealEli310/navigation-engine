@@ -1,0 +1,4 @@
+encode json request parameter spring mockmvc 
+couple hours encode json request parameter test writing springs mockmvc luck test string reaches controller encoded 7b 22key 22value 7d deserialized json missing spring understand encoded parameters 
+
+json encoded controller receives string encoded decoded href http docs spring io spring docs release javadoc api org springframework test web servlet request mockmvcrequestbuilders html lang string lang object rel nofollow javadoc states parameter blockquote urltemplate url template resulting url encoded blockquote dont encode json work 

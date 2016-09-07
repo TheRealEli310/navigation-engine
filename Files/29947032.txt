@@ -1,0 +1,4 @@
+user download pdf file visits jsp page 
+simple question pdf generated page load subsequently user download file show download dialog pdf created define file user download code leads user downloading corrupted empty pdf file 
+
+suggest servlet jsp control code fragile handle response content jsp single space line feed scriptlets written output stream corrupting file content href http balusc blogspot ro fileservlet html rel nofollow fileservlet adapt 

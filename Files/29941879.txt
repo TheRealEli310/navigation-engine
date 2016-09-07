@@ -1,0 +1,4 @@
+rxjava okhttp okio file downloader android 
+convert working file download code reactive stuck due knowledge rxjava make reactive written result error 
+
+code errors explain expected behaviours strong observable contract error strong reactive extensions rxjava implemtation based contract notified multiple times onnext notified error completion observable code rewriten emit fact stream error completed strong unsubscribe earlier strong unsubscribe subscription observable time executed complete unsubscribe wont unsubscribe case 

@@ -1,0 +1,4 @@
+lang illegalstateexception unable retrieve entitymanagerfactory unitname horizonpu arquillian 
+hope extremely frustrating issue arquillian test webapp developing hard time jpa tests run pretty arquillian admit find tricky test case pretty persistence unit separate test folder shrinkwrapped archive structure order pom run test absolutely idea wrong wasted day advice greatly appreciated 
+
+bottom eventually deploying web app persistence xml file web inf classes meta inf words meta inf top level archive typically documentation arquillian terribly clear achieve solution problem change deployment method tests persistence xml added beans xml added 

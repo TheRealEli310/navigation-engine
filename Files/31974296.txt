@@ -1,0 +1,4 @@
+thread join method main thread complete threads 
+thread join method works sample question code t1 t2 t3 t4 block main thread complete t5 t6 t7 t8 start running main thread completes t5 t8 remain runnable state produce 
+
+term answer question daemon threads long daemon threads running application terminate threads run terminated state case t5 t8 run complete daemon threads documentation href http docs oracle javase docs api lang thread html rel nofollow blockquote virtual machine starts single daemon thread typically calls method named main designated class virtual machine continues execute threads occurs exit method class runtime called security manager permitted exit operation place threads daemon threads died returning call run method throwing exception propagates run method blockquote em fact original single daemon thread started jvm enter terminated state t5 t8 stop t5 t8 running completion case em 

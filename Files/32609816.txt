@@ -1,0 +1,4 @@
+consuldiscoveryclient zuul sidecar spring cloud 
+spring cloud microservice architecture sidecar zuul components netflix href https github kbastani spring cloud microservice rel nofollow kbastani github environment services deployed running consul service service discovery configuration eliminate config service eureka wire api gateway microservice consul code results exception pom xml service bootstrap yml application yml shed light spring cloud consul discovery configuration service create aan api gateway 
+
+sidecar intended services serve service discovery client enable discovery client error stating autowire interface context spring boot autoconfigures created shouldnt create client autoconfiguration dependencies classpath sample working consul client href https github spring cloud spring cloud consul tree master spring cloud consul sample rel nofollow https github spring cloud spring cloud consul tree master spring cloud consul sample 

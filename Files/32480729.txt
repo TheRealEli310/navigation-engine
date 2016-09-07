@@ -1,0 +1,4 @@
+jersey filter implementation work 
+add response header implementing containerresponsefilter work code deployment descriptor response header href http stack imgur j5kc8 png rel nofollow img src http stack imgur j5kc8 png alt enter image description descriptor 
+
+init param wrong href https jersey net apidocs jersey org glassfish jersey server serverproperties html provider classnames rel nofollow thing couldve simply annotate filter class long class package package listed picked automatically registered filter annotated default picked registered dont explicitly list xml configuration 

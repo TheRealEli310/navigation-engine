@@ -1,0 +1,4 @@
+externally ending infinite loop 
+writing program mark algorithm submitted group students plan copying algorithm method program running results required algorithm run seconds constructed executorservice end algorithm works userinput algorithm commented work infinite loop threads interrupting require altering algorithm add flag stopping thread depreciated end infinite loop altering algorithm heres code 
+
+href http docs guava libraries googlecode git javadoc google common util concurrent simpletimelimiter html rel nofollow google guavas simpletimelimiter simply wrap method timeout period handle timeout reached finally call method wrapped 

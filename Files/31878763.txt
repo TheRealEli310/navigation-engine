@@ -1,0 +1,4 @@
+specific actions catching multiple exceptions 
+handle exceptions types differently make actions exception types code shows correct exception caught syntax 
+
+construct block check handle exception types separately common handling types block 

@@ -1,0 +1,4 @@
+android bitmap byte array memory leak 
+problems memory leak android app based hprof analysis appears caused array class mat analysis arrays href http stack imgur gp0g8 jpg rel nofollow img src http stack imgur gp0g8 jpg alt mat analysis code offending class called activitys created line activity 
+
+make thread renderthread stopped active holds reference androidfastrenderview object free memory 

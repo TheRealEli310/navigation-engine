@@ -1,0 +1,4 @@
+null values swagger json file 
+troubles json swagger document generated annotation rest exposed jersey serialization handled jackson generated swagger includes null values swagger ui crash generated yaml doesnt issue extract json href http stackoverflow questions jackson ignore field serialization null solution suggest set object mapper omit null solve issue reality dont easily access mapper null annotations rest service class pointless similar question href http stackoverflow questions swagger json produces null stops ui asked dont spring dont place set custom mapper setting swagger past configuration settings combined wink jersey didnt issue case misconfiguration web xml pom xml confused swagger dependencies finally completeness extract class ideally id class called wrap swagger logic declaring web xml simple solves troubles dont 
+
+spent week found solution hours posted question missing class servletcontainer full portion bit working expected 

@@ -1,0 +1,4 @@
+system library load opencv library 
+opencv library project simple project compiles jar manually adding opencv library put code blockquote system loadlibrary core native library blockquote works application running server made maven simple project compiles war added opencv dependency line error guess true maven dependency fix pom xml strong update strong added library hand war compiling execute line fails error read add opencv system variables didnt work 
+
+solve issue adding file opencv java249 dll folder bin installed answer troubles thing 

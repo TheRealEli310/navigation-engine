@@ -1,0 +1,4 @@
+load test jmeter selenium parralel 
+jmeter integrated selenium webdriver created code runs perfect change open fireforx browser idea load testing good browser 10th start sec run parallel strong simulate users clicks site time strong lets page opened time 
+
+put webdriver sampler href https blazemeter blog jmeter synchronizing timer rel nofollow synchronizing timer set number simulated users group webdriver sampler youre supposed create main load jmeter href http jmeter apache org usermanual component reference html http request rel nofollow http request samplers separate thread group webdriver sampler measure real life user experience scripts execution time layout 

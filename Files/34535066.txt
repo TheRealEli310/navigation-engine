@@ -1,0 +1,4 @@
+android asynctask wait finished 
+calling web service android app figure wait finished 
+
+getstatus method call inside method runs ui thread call block current thread running 

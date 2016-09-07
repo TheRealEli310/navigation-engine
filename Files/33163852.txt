@@ -1,0 +1,4 @@
+set filename dynamically fileoutputstream android 
+requirements file format filename extension png mp4 mp3 txt br sample code line approach 
+
+returns actual external storage directory object calling returns absolute path simply concatenate desired file path create ceck file exists youll create 

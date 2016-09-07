@@ -1,0 +1,4 @@
+connection time making aws cli call stsassumerolesessioncredentialsprovider 
+running code unix box attached readonly role ec2 instance cross account access setup hop instance run command manually works setup http proxy https proxy manually run program session unix exception assuming role exception pass proxy information set manually linux session running command setting proxy code fyi dont methods passing credentials 
+
+pass proxy information aws client declare href http docs aws amazon awsjavasdk latest javadoc amazonaws clientconfiguration html rel nofollow clientconfiguration passing credentials 

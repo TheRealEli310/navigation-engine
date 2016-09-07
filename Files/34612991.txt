@@ -1,0 +1,4 @@
+openssl key generation os failing 
+attempting run unit tests clean mac spring project test requires generation ssl keys installed openssl homebrew error continues persist error 
+
+solved issue google searches consultation colleague recently moved mac symlinks openssl created homebrew installation run receive message leads solution homebrew explicitly told create correct links check notice points brew installed version 

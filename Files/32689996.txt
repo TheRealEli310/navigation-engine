@@ -1,0 +1,4 @@
+add expandablelistview android studio categoryfragment 
+android studio add submenu call expandablelistview category hope code mainactivity navigationdrawerfragment idea add expandablelistview code activity main xml fragment main xml fragment navigation drawer xml android built navigation drawer activity android studio check image sample href http stack imgur sukd7 png rel nofollow img src http stack imgur sukd7 png alt enter image description 
+
+category layout file activity main xml fragment navigation drawer xml add code custom class implementing href http developer android reference android widget expandablelistadapter html rel nofollow http developer android reference android widget expandablelistadapter html extend existing implementation complicated 

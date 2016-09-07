@@ -1,0 +1,4 @@
+unable build project android studio 
+created project android studio default activity settings project loads ide throws error message notice layout folder activity xml missing error unable start daemon process problem caused incorrect configuration daemon unrecognized jvm option refer user guide chapter daemon href http gradle org docs userguide gradle daemon html rel nofollow http gradle org docs userguide gradle daemon html h2 read process output find h2 failure build failed exception ul li wrong create service type daemoncontext daemonservices createdaemoncontext li li run stacktrace option stack trace run info debug option log output li ul throw light weird problem 
+
+br file invalid caches restart invalidate caches restart android studio restarts reloads check works 

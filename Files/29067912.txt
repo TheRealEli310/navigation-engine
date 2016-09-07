@@ -1,0 +1,4 @@
+aws dynamodb multiple ne string filters 
+scan query aws dynamodb table list items id single string equal strings appears happen time add filter overwrites previous values scan checks itemstring missing limitation dynamodb matters listed values production list hundreds values 
+
+correct overwrites previous values relevant code sdk win case opinion poor behavior lean bug reported documentation state duplicate added method makes unexpected behavior dont good work building entire filter expression href http docs aws amazon amazondynamodb latest apireference api scan html rel nofollow documentation dont length constraint long filter expression allowed request account filter ton attribute values havent found documentation limit behavior expect 

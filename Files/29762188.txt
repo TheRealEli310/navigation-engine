@@ -1,0 +1,4 @@
+javafx activate datepicker dropdown 
+activate dropdown calendar datepicker focused letter fxml fxmlcontrollerletter date format converter wanted format datepicker mmmm dd yyyy set stringconverter desired output format 
+
+invoke method implicit full 

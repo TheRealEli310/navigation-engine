@@ -1,0 +1,4 @@
+difference autowired keword application context create object 
+difference 
+
+difference statements statements manage lifecyle created object dependencies case manage lifecycle object dependencies difference case spring bean depending autowiring mode bean configured href http docs spring io spring docs current spring framework reference htmlsingle beans dependencies rel nofollow spring documentation dependency injection detailed explanation 

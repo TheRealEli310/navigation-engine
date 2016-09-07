@@ -1,0 +1,4 @@
+shows requirement threadlocal usage 
+threadlocal class enables create virtual thread scope thread accesses anothers variable give piece code coder threadlocal usage threadlocal 
+
+strong scenes threadlocal object created creates hashmap internally strong strong thread add thread local object insert current threads threadid key hashmap strong strong fetch thread local object operation strong thought create instance threadlocal object make local thread strong check piece code strong creating threads passing runnable object setting thread constructor thr run method setting threadname thread local object thread put sleep thread enter run method set thraedname thread local instance thread awake fetching data back thread local object printing 

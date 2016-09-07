@@ -1,0 +1,4 @@
+jpa persistence xml eclipse depending production test environment 
+working gradle default project structure run junit tests gradle fine special gradle configuration source paths persistence xml test run junit tests eclipse peristence xml main configure eclipse persistence xml main launch configuration persistence xml test junit tests 
+
+thing general problem resources loaded classpath eclipses project properties build path order export put test folder src folder deployment assembly exclude test folder ensure launch tests directly eclipse search test folder classpath resources launch webapp test folders excluded 

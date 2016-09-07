@@ -1,0 +1,4 @@
+int 2d array count char array 
+didnt finish question named getrows metthod int counts count char array rows print wrong isnt work 
+
+resolved arrayindexoutofbounds exception caused counts array size set small size length original array ends size small ajb mentioned count dimensional array code count basically youre dimensional array index count count thing dimensional approach work serve teach interesting ways dimensional arrays generally speaking simpler approach approach problems exist getrows function increment counts iteration loop outputting number xs row counts set counts counts default statement loop dont check lt length outer loop checks condition isnt incremented loops incremented loop executed test condition checks array length redundant check statement return true increment body loop working version getrows dimensional array program work properly repost entire program dimensional array minute 

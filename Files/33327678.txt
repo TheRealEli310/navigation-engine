@@ -1,0 +1,4 @@
+springboot controller redirect working 
+quick prototype spring boot controller code minus imports strong html invoke gotonextpage server inside gotonextpage print statement nextpage doesnt load dont redirect type href http localhost gotonextpage rel nofollow http localhost gotonextpage html content loads fine index html loads fine strong spring boot mvc thymeleaf angularjs project structure shown href http stack imgur qccvp png rel nofollow enter image description pom xml file dependencies shown advance 
+
+id simplify method return simple 

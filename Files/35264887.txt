@@ -1,0 +1,4 @@
+difference unsing fx swing 
+swing develop application finish design bad found advice tells fx difference fx swing change line code 
+
+main difference release date javafx recent considered successor swing features added javafx key features href https docs oracle javase javafx started tutorial jfx overview htm a1131418 rel nofollow https docs oracle javase javafx started tutorial jfx overview htm a1131418 list main features ul li styles set css similar li li bindings easy bind ui width text input field class changing field updates ui boilerplate li li animations transitions easy make animation ui components blinks moves li li 3d easy manipulate model make animated 3d view li ul making application scratch javafx swing outdated imho 

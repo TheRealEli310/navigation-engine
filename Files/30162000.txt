@@ -1,0 +1,4 @@
+setup dynamic web application multiple developers github eclipse maven 
+build web application sources managed href https github tamimcsedu19 amaderbari rel nofollow github maven tomcat eclipse spring mvc jsp problem setting project create server tomcat eclipse give absolute path pc ubuntu create server windows give absolute path question upload tomcat server maven m2 repository github manage 
+
+lot ways youre server problem part application part infrastructure needed platform dependent component suggestion spring boot developers run application inside tomcat embedded starting jar yourapp jar deploy standalone generating war approach spring boot application profiles dev development configuration prod production configuration matters platform running teammate download application start local configuration jhipster good starting point spring boot href https jhipster github io rel nofollow https jhipster github io 

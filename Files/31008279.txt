@@ -1,0 +1,4 @@
+android button background color button size 
+built theme android app happy theme change background color button default img src http stack imgur wq7qv png alt default heres add background color button img src http stack imgur todvg png alt enter image description hey basically changed buttons size padding margins managed expected result property img src http stack imgur hubae png alt enter image description supported version api acceptable questions ul li changing background messes rest buttons properties li li expected result li ul bonus question expected result programmatically dynamic buttons app 
+
+change color file main class loads object button change color define button manifest file file adding xml layout color color red code work setbackgroundcolor int color 

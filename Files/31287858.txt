@@ -1,0 +1,4 @@
+rtf field domino json 
+make json save domino document works fine handling rich text format field problem html editor puts newline tabs html beginning tag rtf html saved newlines tabs replacing happened rtf changed data rtf replacing newline tryed approach jsongenerator hadle returns json full chars problems jsongenerator json level depth returning string newline tab simpliest solution idea solve problem 
+
+imagine things involved suspect interprets string regular expression safer situation spite replaces occurrences treats contents literal string string character windows crlf finally assigning result call back string variable doesnt modify string place common pitfall wary youre content mime rt field work content text attachments embedded images added mime structure top level entity content moved child safest seek body content depth recursive search 

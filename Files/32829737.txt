@@ -1,0 +1,4 @@
+javafx tableview togglebutton show hide password 
+create tableview button row show hide password row href http stackoverflow questions javafx table add components rq question order figure stumped question work wrong person main moment buttons show showed row person null showing work href http stack imgur mrwnv jpg rel nofollow img src http stack imgur mrwnv jpg alt http imgur gandrgs jpg 
+
+approach ol li dont masked password password masked part class intrinsic part data part view data li li showing password custom cell factory displays actual password masked password depending toggle button pressed li li access toggle buttons directly part virtualized cells data tracks passwords shown hidden simplest items password shown li ol make toggle state matches observable set listener toggle button updates observable set listener observable set updates toggle button cell factory password column observe update text column heres sscce 

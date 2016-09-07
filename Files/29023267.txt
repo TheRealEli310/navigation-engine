@@ -1,0 +1,4 @@
+connecting socket server receiving response 
+writing simple multi threaded proxy server display send back code hr hr communication server happening tcpserverthread class tcpclient class talk server send http request print server sends back input http request parses blank appreciated 
+
+youre calling calling understand written howver proxy wont work youve created initial connections threads connection read write direction assume request response read single read generally assume single request response pair request response 

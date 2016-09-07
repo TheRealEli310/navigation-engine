@@ -1,0 +1,4 @@
+composite key query hql separate idclass 
+hibernate entity defined composite key id class id annoation columns works fine href http stackoverflow composite key query syntax hql defined entity embeddedid syntax 
+
+href http www thejavageek jpa embeddedid rel nofollow embededid override methods hql 

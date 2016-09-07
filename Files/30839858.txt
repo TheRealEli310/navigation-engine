@@ -1,0 +1,4 @@
+rxjava retry based logic 
+case api call usign retrofit fail due network error fails show error message retry button user presses retry button retry latest observable solutions ol li retry retry subscribing observable immediately resubscribe error dont resubscribe user pressed retry button li li retrywhen emit items emit observable error stop issue start retry process decides li li resubscribe observable solution start emitting observable items problem cache operator observable failed failed item cached subscribe error li ol solutions 
+
+retrywhen parameter func1 returns observable retry happen time retrybuttonclicked emmits event observable retried heres href https gist github benjchristensen 3363d420607f03307dd0 rel nofollow https gist github benjchristensen 3363d420607f03307dd0 

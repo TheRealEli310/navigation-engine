@@ -1,0 +1,4 @@
+javafx error event invokes 
+newbie javafx started ran bunch error event called button scenebuilder netbeans jdk1 created basic layout scene builder created simple method controller class text textfield sets textarea set button program runs build fine click button errors heres code heres main class heres error div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override dont causing error handlebuttonaction method working fine apologize presentation question wrong asked 
+
+elements correctly connected fxml check chatarea chattext set fx id fxml 

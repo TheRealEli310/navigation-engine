@@ -1,0 +1,4 @@
+jersey throws parseexception uploading file multipart form data request 
+send mp3 file metadata jersey rest service multipart form data content type strong text parseexception event separator strong send request response remove mp3 file request working properly assume problem request constructed paw generates request serverside handler send file content type multipart form data application octet stream works fine handler accepts octet stream request similar ill post request code octet stream helps method idea wrong found approach multipart places online guess work btw removing metadata send recording problem 
+
+found issue peeskillets comment case exact thing bad import formdatacontentdisposition wrong correct 

@@ -1,0 +1,4 @@
+observable return type parameterized observable foo observable extends foo 
+retrofit beta2 debug build working properly error release build proguard heres updated logcat errors interface fragment graddle proguard 
+
+working putting attributes inside proguard heres full settings 

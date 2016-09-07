@@ -1,0 +1,4 @@
+android call intent permission 
+implement call function application code added manifest file required permission error fix 
+
+target sdk version users permissions run time include permissions awesome tutorials started href http inthecheesefactory blog things android permission developer edition en rel nofollow tutorial href http code tutsplus articles understanding permissions android cms rel nofollow tutorial 

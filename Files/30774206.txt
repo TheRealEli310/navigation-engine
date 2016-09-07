@@ -1,0 +1,4 @@
+spring security oauth custom token end point url 
+integrate spring security oauth2 project added configuration related part working fine problem request token oauth token change api v1 token searched find solution adding adding custom filter class override passing url constructor didnt worked error request api v1 token blockquote authentication object found securitycontext blockquote configuration xml based spring security xml file solve issue days appreciated 
+
+finally working thing missing question bean definition tag reference bean bean property defined id desired url case solves problem basically changing token endpoint url change place ol li adding definition li li change li li change li li adding property li ol 

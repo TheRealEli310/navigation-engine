@@ -1,0 +1,4 @@
+testing private void method jmockit 
+private void method class test jmockit 
+
+private method called invoking deencapsulation class jmockit case similar 

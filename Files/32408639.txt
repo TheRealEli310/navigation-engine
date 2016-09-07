@@ -1,0 +1,4 @@
+simple program allowing user input 
+make simple program basically taking user input values printing neatly organized output console continue add inputs program doesnt input heres code supposed put huge chunks code stackoverflow feel parts lead solution problem level check comments print statement quote input line input string quote acts hit enter key didnt taking type explaining 
+
+newline character remains buffer rid 

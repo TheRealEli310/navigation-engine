@@ -1,0 +1,4 @@
+fileoutputstream outputstream 
+save form file methods guess pieces codes writes form file path question whats difference 
+
+depending question answers difference outputstream objects created difference object types em em fileobjectstream subclass abstract objectstream object created subclass constructor inherit subclass functionality outputstream abstract class classed em object fileoutputstream em call overridden functionality specific output sink added simply fileoutputstream subclasses outputstream outputstrem object outputstream fileoutputstream object 

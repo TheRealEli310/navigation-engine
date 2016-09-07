@@ -1,0 +1,4 @@
+android simple tabs toolbar 
+struggling tab implementation application lot resources matter appears working simple tabs icons toolbar achieving heres code needed xml file 
+
+toolbar slidingtablayout tabs toolbar tabfragment fragment swipe xml myactivityadapter fragment1 fragment2 slidingtablayout slidingtabstrip 

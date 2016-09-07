@@ -1,0 +1,4 @@
+methods ambiguous takes array takes varargs 
+methods ambiguous strong update strong varargs equivalent array inside method method equivalent strong update strong pass array vararg didnt knew workarounding hmmm beginning varargs 
+
+href http docs oracle javase docs guide language varargs html docs blockquote periods final parameters type final argument passed array sequence arguments blockquote ambiguous array maps varargs 

@@ -1,0 +1,4 @@
+net bindexception assign requested address heroku 
+deploying heroku spark server crashes exception procfile understand heroku assigns port time app deployed port environment variable set heroku requested address edit error logs correcting procfile dserver port port happened adding port port basically change error 
+
+figured problem setting domains ip address main method shouldnt setting setting port environment variable port 

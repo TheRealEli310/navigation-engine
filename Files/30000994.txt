@@ -1,0 +1,4 @@
+difference jface treeviewer setcomparer method setsorter method 
+explain conceptually working difference jface method method 
+
+obsolete method replaced class supported sorting class supports class class set method viewer searching internal matching elements call methods actual object suitable lookup provide alternatives sorting view methods 

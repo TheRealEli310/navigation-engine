@@ -1,0 +1,4 @@
+transaction completed commit call 
+code change fragment android studio warn strong transaction completed commit call strong dont correct solve warning 
+
+false positive android lint sees chained fragment transaction calls commit fails commit row ol li ignore warning li li suppress li li remove method chaining replace li ol 

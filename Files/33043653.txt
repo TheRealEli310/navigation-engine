@@ -1,0 +1,4 @@
+2d navmesh generation 
+working polygon clipper href http www lighti de projects polygon clipper rel nofollow http www lighti de projects polygon clipper amp libgdx delaunaytriangulator generate 2d navmesh works add obstacle polygon completely inside walkable polygon supposed happen href http imgur lbsksxm png rel nofollow http imgur lbsksxm png 
+
+supposed happen clipper dont triangulate shapes holes purpose poly2tri library href https code google poly2tri rel nofollow https code google poly2tri 

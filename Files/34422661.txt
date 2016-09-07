@@ -1,0 +1,4 @@
+selenium implicitlywait working 
+learning maven selenium selenium ol li open website href https www facebook rel nofollow https www facebook li li click email field login li li wait seconds li li enter email li ol simple code code working simply open facebook click email field amp enter email id waiting seconds entering email 
+
+doesnt work maximum wait element time duration find element step executed test wait exact time duration refer href http stackoverflow questions difference implicit wait explicit wait selenium webdriver diff implict wait explicit wait strong explicit waits strong explicit waits code define wait condition occur proceeding code strong implicit waits strong implicit wait webdriver poll dom amount time find element elements immediately strong thread sleep strong sleep code wait mentioned seconds case page ready interact sec slow tests 

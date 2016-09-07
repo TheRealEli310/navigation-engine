@@ -1,0 +1,4 @@
+javafx listview celllayout scaling 
+custom factory simplicity sake scaling size parent workaround solution moment pass size set width list cells optimal resizing resized code resizeliste improve layout growing bounds hr h2 ssce code h2 em main em em controller em em sample fxml em em listview listcell layout fxml em 
+
+default list cell utilizes render cell ideally set overriden method case skin code fails calculate virtual flows height option layout setting graphic node list cell binding layout panes account children preferred sizes wrap shrink long text cell item manage width long text layout pane 

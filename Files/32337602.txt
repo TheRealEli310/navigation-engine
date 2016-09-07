@@ -1,0 +1,4 @@
+android action bar menu options missing 
+href http stack imgur jpucs png rel nofollow img src http stack imgur jpucs png alt enter image description difficulty showing action bar suppose top everytime listview actionbar menu options top disappears shed light happening listview mainactivity class manifest file layout activity main xml file menu menu main xml file styles xml file simple straight forward app missing actionbar menu options app shed light problem searching problem hours advance 
+
+replace activity appcompatactivity 

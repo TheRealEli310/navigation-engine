@@ -1,0 +1,4 @@
+null annotation processor eclipse 
+eclipse jdt null annotation processor weird behaviour lang class package info warning expression type nonnull class unchecked conversion conform nonnull class lt nullable dont understand warning method signatures passed conversion inferred method 
+
+href https bugs eclipse org bugs show bug cgi id rel nofollow bug ecj combination type inference null inference ecj eagerly inferred type parameter bug fixed href http download eclipse org eclipse downloads drops4 5m5 201501291830 rel nofollow 5m5 upcoming href https projects eclipse org releases mars rel nofollow release mars accept program expected 

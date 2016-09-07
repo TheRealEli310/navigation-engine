@@ -1,0 +1,4 @@
+jdbc4connection jdbc4preparedstatement locked 
+thread dump lot threads show locked jdbc4connection jdbc4preparedstatement threads showing locked connection prepared statement 
+
+mysql jdbc driver lot synchronized blocks threads locked sync blocks acquire locks wait 

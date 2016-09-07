@@ -1,0 +1,4 @@
+inputstream ole2 stream ooxml stream reading xslx file 
+read excel files passed rest class run works fine class rest exception wrap stream dont exception href http stackoverflow isnt read excel files apache poi stream rest wrong 
+
+general guide sort problem saving file received server disk check source received file sizes match checksum md5 surprisingly problem turns transfer loosing bit file bit corrupting characters uploading ascii binary specific case bug meaning data good news href http svn apache org r1677562 rel nofollow r1677562 helpful href https poi apache org apidocs org apache poi emptyfileexception html rel nofollow emptyfileexception thrown place general exception invalid types make easier spot style bug code exception poi final 

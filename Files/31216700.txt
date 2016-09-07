@@ -1,0 +1,4 @@
+pass browser instance class selenium framework 
+basic doubt selenium framework working driver class chrome driver initialized classes extends driver class finally testsuite class create single browser instance call methods classes throwing null pointer exception error function call 
+
+ul li create constructor class instantiate driver li li instantiate driver class inheriting inherited li ul href https github safrrhmn seleniumtestng tree master src main github pageobjects rel nofollow 

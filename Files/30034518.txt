@@ -1,0 +1,4 @@
+make static reference static field student 
+working project creates partially filled array type student exceed student objects code list portion print students order array unable compiling due static reference issues print method created file unable code methods separate file 
+
+dear code messy place start ide eclipse line issue recommend static modifier properly initialize static object ill give quick rundown static modifiers static method called class depending visibility restrictions private public protected default call static method class correct access nameofclasswheremethodis methodname static method object called doesnt instance class classname classn classname draw back static objects initialized start time continue guides continue working hard code remember ide cough href https www eclipse org downloads rel nofollow https www eclipse org downloads edit student wanted print array 

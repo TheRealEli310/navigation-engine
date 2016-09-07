@@ -1,0 +1,4 @@
+add filter bean servletcontext 
+configuration add custom filter works fine feels hacking edges spring add cors filter delegationfilterproxy root config added removed adding custom filter onstartup work add bean filter chain make called 
+
+add adding onstartup method 

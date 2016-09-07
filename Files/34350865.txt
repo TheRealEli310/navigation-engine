@@ -1,0 +1,4 @@
+spring choose bean implementation runtime 
+spring beans annotations choose implementation runtime windowss platform linux platform horrible solution annotation xml config 
+
+move bean injection configuration alternatively profiles annotate service implementations annotation provide profiles application 

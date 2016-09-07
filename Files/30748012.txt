@@ -1,0 +1,4 @@
+manage session spring mvc 
+spring controlle called controller method called method user entered correct userid password page redirect view session values user check profile details created method call usercontroller method previously set session values implementation method method method method test veriable show view problem method session veriable 
+
+add spring security libs create class implements userdetailsservice public class userdetailsserviceimpl implements userdetailsservice implement loaduserbyusername add lines spring configuration file define authentication manager define authentication manager login controller finally controller userinfo 

@@ -1,0 +1,4 @@
+running jvm code setting classpath 
+create jvm code struggling setting classpath classpath wildcards path include jars folder classpath setting classpath class found backslashes windows semicolon helped work command line provide cp option case jvm failed created helped idea provide classpath wildcards creating jvm advance 
+
+perform expansion feature launcher feature jni api href http hg openjdk net jdk7u jdk7u dev jdk file 70e3553d9d6e src share bin l691 rel nofollow setclasspath function launcher source calls internal jli wildcardexpandclasspath function adds djava class path option 

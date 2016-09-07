@@ -1,0 +1,4 @@
+building chained comparator list functions 
+thinking replacing comparator code modern 8s comparator methods bit annoying write comparison ideally id pass list multiple lambdas closest commented sections isnt valid due generics matching sticking point pass multiple wildcard pinned single capture guessing side thencomparing write utility class hr hr solution tagir valeev end dropped custom comparator class methods return comparator 
+
+solve unchecked cast declare replaced perfectly normal constructors code works produce warnings 

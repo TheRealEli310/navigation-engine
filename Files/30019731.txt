@@ -1,0 +1,4 @@
+hibernate jpql throws update delete queries typed 
+delete entity hql failing stacktrace seller generated spring roo seller roo jpa entity aj seller roo jpa activerecord aj changing delete method dont typedquery giving exception method annotated dont inside transaction href https stackoverflow questions hibernate delete hql question href https stackoverflow questions hibernate hql delete query question hql delete query missing 
+
+change delete query dml jpql queries typed return affected rows dont return type 

@@ -1,0 +1,4 @@
+spring security lang noclassdeffounderror org springframework security context delegatingapplicationlistener 
+upgrading spring security version stumbled road block posting error log securityapplicationcontext xml pom xml kindly error log securityapplicationcontext xml pom xml required kindly lot 
+
+firstly dependency pom xml error message receiving incompatible versions spring spring security thought work fine noticed line href http docs spring io spring security site migrate current html5 migrate xml html rel nofollow spring security documentation migration spring security blockquote spring security requires spring means step update spring blockquote configuration spring version release works spring security id bet upgrade strong version strong 

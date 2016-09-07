@@ -1,0 +1,4 @@
+mahout spark shell initial job accepted resources 
+initiating mahout spark run mahouts page link href https mahout apache org users sparkbindings play shell html rel nofollow playing mahouts spark shell appears start run follow command returns error blockquote stage warn taskschedulerimpl initial job accepted resources check cluster ui ensure workers registered sufficient resources blockquote environment set mahout local true 
+
+made work setted environment variable intead worked 

@@ -1,0 +1,4 @@
+grouping list map 
+list lambda convert list formatting 
+
+entry set map create stream collected href https docs oracle javase docs api util stream collectors html groupingby util function function util stream collector rel nofollow collector classifier returns key entry downstream collector maps entry collects code static imports full 

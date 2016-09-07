@@ -1,0 +1,4 @@
+mapping sequence observable rxjava 
+observable sequence source objects map multiple output objects input object rxjava mapping list dishes representing items compose order restaurant transform dish orderline dish map creates orderline price orderline topping orderline functional programming reactive programming imperative 
+
+youre href http reactivex io documentation operators flatmap html rel nofollow operates stream outputting observables href http stackoverflow questions map flatmap rxjava heres discussion importantly heres full draw dish orderline functionality method test make briefer 

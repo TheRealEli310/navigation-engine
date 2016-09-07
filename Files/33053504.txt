@@ -1,0 +1,4 @@
+apply touppercase empty string 
+thought run returns empty string touppercase fail case isnt 
+
+fail converts character input string upper case character equivalent characters javadoc doesnt fail empty string means shouldnt fail blockquote converts characters string upper case rules default locale method equivalent touppercase locale getdefault strong strong method locale sensitive produce unexpected results strings intended interpreted locale independently examples programming language identifiers protocol keys html tags instance title touppercase turkish locale returns tu0130tle u0130 latin capital letter dot character obtain correct results locale insensitive strings touppercase locale english strong returns strong string converted uppercase blockquote 

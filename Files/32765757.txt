@@ -1,0 +1,4 @@
+glsurfaceview opengl es context 
+working android opengl custom derivate classes create opengl es context method opengl es context create context opengl es 
+
+explicitly request create context based understanding handled context type separate essentially context supporting context supports additional features means check verify version supported context query context running h3 background h3 latest version egl context creation attributes major minor version attributes versions including mechanism minor version creating context latest released version android supports egl question providing interface lower native layers support minor version adding support contexts option time answer written 

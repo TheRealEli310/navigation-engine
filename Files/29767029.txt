@@ -1,0 +1,4 @@
+android studio doesn recognize fragment facebook button 
+make aplication button login facebook adding facebook button insaid fragment xml class add loginbutton setfragment fragment shows error dont understand myfragment 
+
+comment issue change support library 

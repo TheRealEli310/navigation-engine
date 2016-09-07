@@ -1,0 +1,4 @@
+hashmap key based objects type 
+write class count occurrence rules rueleid based timestamp input output suppose make hashmap key based ruleid type string timestamp type calendar count key based objects approach wrong 
+
+create em composite key em essential objects modified key immutable class achieves goal final providing setters cloning timestamp immutable important thing key classes provide proper methods class place 

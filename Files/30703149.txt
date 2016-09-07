@@ -1,0 +1,4 @@
+mock private static final field mockito jmockit 
+strong private static final logger strong field class strong logger isinfoenabled strong method return strong false strong mock static final field mockito jmockit class junit run result jmockit junit case run successfully jmockit mockito powermockito 
+
+reflection rid modifier field replace field mocked 

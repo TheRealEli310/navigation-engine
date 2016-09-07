@@ -1,0 +1,4 @@
+javax crypto cipher working differently android marshmallow 
+successfully javax crypto cipher getinstance desede cbc nopadding authenticate desfire cards android href http stackoverflow http stackoverflow working devices android stopped working nexus updated marshmallow working device updating cipher working differently giving results key data running code output normal worked card ends authenticating correctly card expects devices android give result nexus marshmallow authentication ends failing changed libraries 
+
+changed default provider marshmallow simple shows androidopenssl marshmallow bc bouncycastle suppose getinstance overload expected result nexus marshmallow 

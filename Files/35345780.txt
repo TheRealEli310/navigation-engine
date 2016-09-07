@@ -1,0 +1,4 @@
+intermediate stream operations encapsulated breaking pipeline 
+streams encapsulate reuse intermediate stream operations wont break stream pipeline href https docs oracle javase tutorial collections streams tutorial streams suppose filter maptoint operations places code encapsulate logic reused nice make mess stream pipeline average age men named bob thinking lines 
+
+href https github amaembo streamex rel nofollow streamex library enhances standard stream api features method works proposed alternative return function easily parameterize encapsulated operation 

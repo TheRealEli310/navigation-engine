@@ -1,0 +1,4 @@
+aspect weaved correctly 
+method aspect basically adds sys print previous method pom xml plugins compile mvn clean install run generated jar file weaved code desired method alternatively run ajc compiler manually results warning println doesnt solve debug efficiently strong strong maven class file aspect generated code weaved actual method 
+
+aspect works plain aspectj project eclipse problem weaving configuration thing sticks immediately apply aspect resources code src main default maven projects changing line removing includes excludes aspectj maven plugin advice applied reason specific includes excludes make pretty impossible advise code excluding code compile time weaving id suggest removing includes excludes adding piece piece iff specific problem solved includes excludes usecase describe unnecessary problematic current configuration 

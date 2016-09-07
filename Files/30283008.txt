@@ -1,0 +1,4 @@
+custom textview font applied setting text android 
+created custom textview font awesome support working fine add text unicode layout xml set text adapter dynamically applying font strong fontview class strong strong xml layout strong strong adapter strong whats wrong 
+
+struggling hrs found answer unicode issue changing adapter fixed issue href https groups google forum msg android developers bcpfla12avy lcp991vzd4kj rel nofollow read hope guys find 

@@ -1,0 +1,4 @@
+fastest create array length fill repeating array 
+allocate array length fill repeating array interface clarify small programmer solution simplicity array generation specific type chosen faster 
+
+generic solution h1 theory h1 native call fast doesnt fastest solution copys array element element solution copys larger blocks iteration duplicates existing elements array means loop run strong log2 strong times h1 profiling reports h1 h2 input h2 benchmark code reproduce results h2 results h2 native call method fastest repeat array h2 additional results h2 asked benchmark methods inputs h3 input ranges h3 means tests results expected native call ahead times faster loop version 

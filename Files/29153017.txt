@@ -1,0 +1,4 @@
+numeric literals 
+reading book found points unclear ol li integer literal expressed base base 0b 0x suffix stands long li li floating point base decimal float double bases bases scientific notation decimal point allowed li ol 
+
+hexadecimal octal binary href http docs oracle javase specs jls se8 html jls html jls rel nofollow jls hexadecimal notation restricted em binary exponents em exponent strong required strong href http docs oracle javase specs jls se8 html jls html jls rel nofollow jls examples print literals meaning binary exponent front multipled integer integer em decimal em format stands 

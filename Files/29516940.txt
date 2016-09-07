@@ -1,0 +1,4 @@
+wake thread condition 
+activity running ui thread thread running background communicating activity handler post method looper br screen turned application hidden continues work br stop thread onpause method wake onresume mehtod br thread condition pause stop br put thread sleep onpause method wake activity foreground br object monitor calling wait method notify object br good approach elegantly 
+
+android suggests services long term background tasks youre opening thread tied android lifecycle dont bad monitor call wait notify specific overview stop resume stopped thread implement runnable 

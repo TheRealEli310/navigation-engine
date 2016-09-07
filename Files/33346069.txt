@@ -1,0 +1,4 @@
+close websocket connection 
+close websocket connection websocket api websocket api server client end points application working fine dont close websocket main thread ends clientendpoint code start clientendpoint ps havent javascript 
+
+href https javaee spec net nonav javadocs javax websocket websocketcontainer html connecttoserver lang class 20java net uri rel nofollow method returns websocket href https javaee spec net nonav javadocs javax websocket session html rel nofollow object href https javaee spec net nonav javadocs javax websocket session html close rel nofollow href https javaee spec net nonav javadocs javax websocket session html close javax websocket closereason rel nofollow close methods trick 

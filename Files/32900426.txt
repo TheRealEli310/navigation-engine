@@ -1,0 +1,4 @@
+display contents arraylist ljava lang string 232204a1 
+attempting output contents arraylist matter approach location array contents array running heres code snippet whats causing contents display strong edit strong heres entire method answer question href http stackoverflow questions arrays null information loop advised arraylist approach adapted suggestion felt problems question edit question strong edit strong class variables strong edit strong benefit read question late confused comments correct answer part issue related issue text file formatting text file arraylists store correct strings change sortcount set store account number string 
+
+problem displaying read contents file code prints correctly addresses strings accountnumbers instance values put array strings single string temp2 string temp1 tostring wrong delimiter default whitespaces assign values temp2 sort variables needed bit weird collections suggest 

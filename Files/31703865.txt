@@ -1,0 +1,4 @@
+shutdown executorservice fixedthreadpool 
+created threadpool application call vendor websrvice code wanted care shutting threadpool basically dont hanging threads production environment 
+
+ul li strong newfixedthreadpool strong li ul blockquote public static executorservice newfixedthreadpool int nthreads creates thread pool reuses fixed number threads operating shared unbounded queue point nthreads threads active processing tasks additional tasks submitted threads active wait queue thread thread terminates due failure execution prior shutdown place needed execute subsequent tasks strong threads pool exist explicitly shutdown strong blockquote javadocs href http stackoverflow questions reason calling shutdown executorservice good explanation 

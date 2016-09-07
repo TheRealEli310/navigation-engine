@@ -1,0 +1,4 @@
+mapping found http request uri dispatcherservlet 
+performing request href http localhost squirrelauth api groups json rel nofollow http localhost squirrelauth api groups json error mar pm org springframework web servlet pagenotfound nohandlerfound warning mapping found http request uri squirrelauth api groups json dispatcherservlet dispatcher spinning forever find answers work strong pom dependencies properties strong strong web application intializer strong strong persistencejpaconfig strong strong groups controller strong strong webmvcconfig strong 
+
+ended solving finally night added webmvcconfig class 

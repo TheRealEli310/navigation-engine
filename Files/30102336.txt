@@ -1,0 +1,4 @@
+spring batch itemreader executing multiple times record 
+implement job database cleanup delete entry table scheduled ol li fetch rows table li li removing entries table li ol scheduled batch interval launch batch surprisingly thread read data table configuration 
+
+design process record records bound means record individually committed suggest set processor processes record commit interval reached writer called mentioned make read method itemreader synchronised 

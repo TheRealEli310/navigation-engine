@@ -1,0 +1,4 @@
+compiler produce unreachable statement error unreachable statement 
+compile compiler produces error add em unreachable em statement make compiles produce error em wrongs strong strong make em 
+
+behaviour defined href https docs oracle javase specs jls se8 html jls html jls jls description unreachable statements blockquote statement reachable iff statement reachable blockquote compiler determines statement reachable condition bit emphasis mine blockquote basic statement complete iff true ul li statement reachable condition expression condition expression constant expression true li li strong em reachable statement exits statement em strong li ul blockquote complete statement noticed work replaced hr rationale explained end section substance special treatment constructs debug compile time constant 

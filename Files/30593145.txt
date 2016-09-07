@@ -1,0 +1,4 @@
+restcontroller found main class top level package 
+class annotated main class annotated top level package works work 
+
+assume annotation equivalent configuration enableautoconfiguration componentscan href http docs spring io spring docs current javadoc api org springframework context annotation componentscan html rel nofollow documentation blockquote strong componentscan strong configures component scanning directives configuration classes support parallel spring xmls element basepackageclasses basepackages alias define specific packages scan strong specific packages defined scanning occur package class annotation strong blockquote default settings scanning takes place package class annotation move basepackages componentscan 

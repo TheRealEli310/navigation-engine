@@ -1,0 +1,4 @@
+hibernate unable access transactionmanager usertransaction make physical transaction delegate 
+servlets postgresql hibernate entitymanager build web app working moved project maven based project weird exception time create entitymanager entitymanagerfactory configuration hibernate persistance unit create entitymanagerfactory call method servletcontextlistener create entitymanager information origin jtaplatforminaccessibleexception found whats missing 
+
+error persistance unit xml configuration removed transaction type jta persistence unit tag added automatically ide 

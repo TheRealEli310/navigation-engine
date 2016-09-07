@@ -1,0 +1,4 @@
+insert line text middle text file 
+program writing requires string entered specific line text file key lines preserved file looked operation lines shift accommodate string line loop failing tips appreciated code 
+
+reading contents file list inserting line middle file simply matter calling index 

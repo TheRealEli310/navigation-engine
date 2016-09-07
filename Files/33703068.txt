@@ -1,0 +1,4 @@
+declare doctype xml version encoding xml file dom parser 
+dont attempt thing code write body xml greatly appreciated add xml version encoding doctype dtd reference dom parser 
+
+code showing default behavior change em output em pre class lang xml prettyprint override 

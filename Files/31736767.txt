@@ -1,0 +1,4 @@
+android http separate thread 
+background android programming simply http request local server pass request parameter return json issue execute main thread main class seperate class file good task idea call 
+
+asynctask perform background operation thread manipulating threads handlers execute asynctask reference href http www vogella tutorials androidbackgroundprocessing article html concurrency asynchtask1 rel nofollow androidbackgroundprocessing href http developer android reference android os asynctask html rel nofollow android developer asynctask 

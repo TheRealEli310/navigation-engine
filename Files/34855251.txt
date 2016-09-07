@@ -1,0 +1,4 @@
+jersey client file upload exception noclassdeffounderror org glassfish jersey message internal headersfactory 
+create jersey client upload files ve searched net find proper solution exception client code add multipart exception ways fix problem error imported jersey files href http stack imgur s2l83 jpg rel nofollow jersey files send normal post request server send files hope 
+
+youre href https repo1 maven org maven2 org glassfish jersey media jersey media multipart rel nofollow missing dependency 

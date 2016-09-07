@@ -1,0 +1,4 @@
+solved error inflating class android support design widget navigationview crash startup 
+app supposed navigation drawer pulls left shows activities navigation bar added xml activity homescreen doc app crashes starts strong homescreen strong strong activity homescreen xml strong files app crashes change activity homescreen xml commenting navigation view widget strong em activity homescreen xml em strong works fine exception navigation drawer included working issue fix navigation drawer working crash app logcat spilled maximum number characters heres href https gist github anonymous 5c6c28376a93f2c4e985 rel nofollow github gist 
+
+problem missing method logcat 

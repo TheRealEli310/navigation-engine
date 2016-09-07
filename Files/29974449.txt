@@ -1,0 +1,4 @@
+apache camel scheduler error failed resolve endpoint 
+scheduler component href http camel apache org scheduler html rel nofollow http camel apache org scheduler html error fire scheduler 60s call bean picked documentation implement fails error href http camel apache org timer html rel nofollow timer component works flawlessly scheduler code works timer component ideas missing 
+
+mistake scheduler documentation option named set trigger updating documentation website correct time generated href http camel apache org scheduler rel nofollow http camel apache org scheduler exception message tells unknown parameters period 

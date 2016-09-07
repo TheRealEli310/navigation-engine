@@ -1,0 +1,4 @@
+sending email spring boot spring boot starter mail 
+send emails spring boot maven entry application properties code appears straight forward dont missing 
+
+version classpath addition pulled common culprit geronimos javamail spec jar whichever jar exclude applications dependencies youre coming running application 

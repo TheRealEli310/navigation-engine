@@ -1,0 +1,4 @@
+android errors project appcompat v7 
+appcompat v7 face problem heres add appcompat workspace chose library project run project receives errors appcompat styles file changed project build target appcompat errors resolved appcompat received errors project changed projects compile versions nothings change faced errors console alot errors refresh build clean project times issue idea thing update support library yesterday 
+
+guess appcompat library update version strong android support appcompat v7 strong support library android sdk manager import project attribute android colorbuttonnormal appeared starting v21 

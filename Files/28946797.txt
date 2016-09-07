@@ -1,0 +1,4 @@
+hadoop build windows fails ant buildexception 
+build hadoop windows luck installed ul li jdk1 added variable home program filesjavajdk1 user variables li li cygwin64 added installation directory cygwin64 path variable system variables li li maven added installation directory maven path variable system variables li li protocol buffer added installation directory protobuf path variable system variables li li visual studio li ul visual studio command prompt started administrator changed drive folder hadoop src starting point hdp set home short notation set platform build hadoop maven command building fails apache hadoop common stating slightly changed file protocmojo hdphadoop maven pluginssrcmainjavaorgapachehadoopmavenpluginprotoc inserting afer line file helps build apache hadoop hdfs fails stating stucked solve problem appreciated hadoop building general elro 
+
+error fixed making cmake wasnt cygwin reason cmake doesnt recognize visual studio 

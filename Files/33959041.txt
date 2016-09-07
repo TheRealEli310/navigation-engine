@@ -1,0 +1,4 @@
+convert double int loss precision 
+convert double price integer losses making program processes money input doubles convert integers proccess euros convert cents cents advance 
+
+check details doubles floats behave href https docs oracle javase specs jls se7 html jls html jls rel nofollow jls round desired precision long youre href https en wikipedia org wiki double precision floating point format rel nofollow formats precision digits double float youll good results idea lose precision 

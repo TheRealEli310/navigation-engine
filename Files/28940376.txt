@@ -1,0 +1,4 @@
+inject spring beans based system property 
+project framework designed dont access springs applicationcontext inject beans based system property property set true inject beans inject possibility btw spring version short property read propertyplaceholderconfigurer beans load based object instance id property defined property file located system property 
+
+spring profiles achieve functionality bean constructed profile activated activate profile strong annotations strong strong system property strong 

@@ -1,0 +1,4 @@
+nested exception caught outer catch block 
+type exception thrown method call outer catch type parameter nested exception caught outer catch block 
+
+relevant rules language specification href https docs oracle javase specs jls se8 html jls html jls rel nofollow execution finally catch finally result exception block depend block completes completes complete abruptly due block completes abruptly reason completes abruptly due discarded program demonstrating output outer catch exception abrupt completion block minimize risk abrupt completion block handle exceptions inside complete fatal program 

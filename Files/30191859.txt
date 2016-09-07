@@ -1,0 +1,4 @@
+iterative hashing returns values python 
+port python script iterates sha256 hash times end results noticed time return result differs python implementation outputs python reason difference edit answers dcsohl alik understand reason porting python script python modified program 
+
+languages run differently python documentation blockquote update hash object string arg repeated calls equivalent single call concatenation arguments equivalent blockquote tested shell command started x01 byte rest bytes hash 0x01 resultant hash matches python output omitted initial x01 hash back matches output shouldnt initial x01 included javadoc blockquote completes hash computation performing final operations padding digest reset call made blockquote initial x01 dropped call simply digesting digest initial x01 entry 

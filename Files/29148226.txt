@@ -1,0 +1,4 @@
+static methods properly 
+creating simple game plays music background music class static methods ul li playmusic li li stopmusic li li changevol int vol li ul begin crating object em music em class calling static method em playmusic em reason methods static start playing music application starts chose music played settings static methods provide easiest em settings em class em main em method em music em class code works perfectly fine wondering correct oop standards full music class code href http pastebin d9xyx1gg rel nofollow http pastebin d9xyx1gg 
+
+static methods instance accessed places singleton 

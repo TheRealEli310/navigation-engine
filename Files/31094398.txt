@@ -1,0 +1,4 @@
+disk perform slower equivalent code written 
+ssd disk supply 10k iops specification benchmark confirms give 20k iops create test run iops work slower test strong update strong python code 20k iops strong update2 strong nio code piece duplicate method 
+
+question based false assumption code analogous code perform iometer assumption false discrepancy performance performance explain question code performs badly relative iometer answer iometer doesnt issue requests time code full performance ssd request queue empty waiting read finish issuing possibly pool threads issue requests 

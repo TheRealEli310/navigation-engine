@@ -1,0 +1,4 @@
+nonuniqueobjectexception object identifier session 
+mappings beans strong parent bean strong strong child bean strong service method perform find application bean create child application bean reference parent application update parent bean service method error service code stripped ideas resolve issue 
+
+problem caused fact saving child save parent add child parent save parent add method exist beware implementations applicationbuildvo based id surpises adding saved elemnts set 

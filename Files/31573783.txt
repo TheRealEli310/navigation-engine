@@ -1,0 +1,4 @@
+multiple infowindows android maps v2 
+application requires create route bus accomplished created custom info window marker asked add feature show map pois points interests marker successfully created info window poi markers info window wanted default pois called called info layout calling info window marker map info window appreciated 
+
+multiple info windows marker ids markers created arraylist takes id marker populated add markers map infoadapter added condition marker id arraylist created put inflater thinking 

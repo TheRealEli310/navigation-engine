@@ -1,0 +1,4 @@
+hashcode object change 
+classes assume object change href http docs oracle javase docs api lang object html hashcode rel nofollow documentation clear relationship poor design implement objects life time 
+
+point application hashcode frozen collection cares typically hashcode change build object adding arraylist add collection stop changing remove collection mutate generally practice immutable data structures ala string type finals collections rely hashcode hashmap key hashset 

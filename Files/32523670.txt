@@ -1,0 +1,4 @@
+mailsender spring 
+run simple mailsender service run recieve error 
+
+error telling wrong main issue fact field service type annotated bean class add bean definition configuration wouldnt recommend simply create inside method strong pro tip strong spring boot remove class put configuration spring boot href http docs spring io autorepo docs spring boot current reference htmlsingle boot features email rel nofollow mail support spring boot 

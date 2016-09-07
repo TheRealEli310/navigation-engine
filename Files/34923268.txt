@@ -1,0 +1,4 @@
+jackson prettyprint spring 
+goal make jackson format response controllers prettyprint configuration controller matter prints straight configurations success pom file jackson spring version release make jackson prettyprint format 
+
+ve faced similar problem config jackson object mapper roo generated project put snippet webmvc config replace default objectmapper custom hope helps configure jackson code based config setup webapplicationinitializer find info link href http docs spring io spring docs javadoc api org springframework web webapplicationinitializer html rel nofollow http docs spring io spring docs javadoc api org springframework web webapplicationinitializer html 

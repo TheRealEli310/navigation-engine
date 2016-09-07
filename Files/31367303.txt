@@ -1,0 +1,4 @@
+broken pipe calling request getinputstream jetty 
+running high volume web app href http www eclipse org jetty rel nofollow jetty server 4k 5k qps servlet myservlet simple class extends request object httpservletrequest invoke getinputstream method stack ioexception broken pipe means client closed connection calculating amount time request spent server ti 1ms client timeout configured result load configuration jetty play affect 
+
+appears problem load balancer delayed requests causing client close connection due timeout 

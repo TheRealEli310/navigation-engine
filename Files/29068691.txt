@@ -1,0 +1,4 @@
+limit text input textfield 
+limit input text textfield valid characters numbers letters plenty answers reason backspace class terrible regex idea add backspace valid character class slightly modified purpose works fine 
+
+deleting characters performed calling empty string indexes representing character position deleted regular expression doesnt match empty string deletion accept valid characters recognize empty string supporting copy paste multiple characters regex 

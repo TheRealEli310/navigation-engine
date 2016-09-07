@@ -1,0 +1,4 @@
+restrict method calling specific method 
+peculiar requirement ensure method class allowed call public static method class inheritance option stacktrace strong classa strong strong classb strong solution works fine due quality control code audit solution achieve 
+
+improve method dont create exception stacktrace thread methods class handwriting package dont changing logic inheritance 

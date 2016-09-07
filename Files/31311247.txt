@@ -1,0 +1,4 @@
+shorter code make performance difference interpreted languages 
+source code interpreted running make difference performance br long lines code cut spaces linebreaks make program run faster br apply languages bytecode 
+
+python sourcecode py compiled representation whitespace pyc transformation run pyc files whitespace doesnt matter performance thing optimize algorithm ul li dont start peephole optimizing early clear designed code aim li li code comprehensible designed insight change find bottlenecks em big em complexity algorithms improve li li profiler find remaining bottlenecks improve easily code structured li ul short leaving whitespace good understandable code optimization 

@@ -1,0 +1,4 @@
+run selenium grid test browser machine chrome firefox 
+tests run tests chrome firefox code 
+
+create xml file testing xml desired parameters add parameters annotation parameters loginfailed method pass desired parameters required tests testing xml xml runs tests parallel threads browsers code pass parameters testing xml 

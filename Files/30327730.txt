@@ -1,0 +1,4 @@
+nullpointerexception customarrayadapter 
+custom array adapter populate method method custom array adapter customadapter xml file defines appearance single row listfragment singlerow xml fragment class fragment1 fragment1 xml post mainactivity error message blockquote graph prathya materialdesign androidruntime fatal exception main process graph prathya materialdesign pid lang nullpointerexception attempt invoke virtual method android view view android view view findviewbyid int null object reference graph prathya materialdesign customadapter getview customadapter android widget abslistview obtainview abslistview android widget listview measureheightofchildren listview android widget listview onmeasure listview android view view measure view blockquote 
+
+customadapter assign inflated layout update set holder newly inflated view 

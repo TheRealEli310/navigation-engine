@@ -1,0 +1,4 @@
+uppercase accented characters displayed 
+string db table latin1 collation text utf characters web server logic resolve weird characters fine uppercase accented characters displayed uppercase problem resolved displaying correctly resolve uppercase accented characters 
+
+solution surely worked fulfill problem related getbytes method mapping encoding simply mapped column byte avoid conversion webserver hibernate side call string mybytearray standardcharsets utf output good 

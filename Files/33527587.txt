@@ -1,0 +1,4 @@
+jetty server disable directory listing servlet maps url pattern 
+war application deployed jetty server access view directory structure navigating localhost myservlet folder include web xml file rebuild war run access directory structure browser expect defined web xml servlet causing jetty handling returning directory structures find turning jetty 
+
+eventually discovered set code base webapp web application context setup code simply set initiation parameter 

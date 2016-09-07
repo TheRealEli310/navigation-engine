@@ -1,0 +1,4 @@
+make javadoc doclava doclet works gradle 
+building project gradle plugin build javadoc href https code google doclava issues detail id rel nofollow doclava doclet relevant part modules build gradle run gradlew javadoc error make work doclava gradle 
+
+taking javadoc options mentioned error log problem gradle passing doctitle windowtitle arguments javadoc command supported doclava doclet diving org gradle api tasks javadoc javadoc code found workaround worked simply added title null javadoc task build gradle file hope helps 

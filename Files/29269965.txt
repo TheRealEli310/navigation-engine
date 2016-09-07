@@ -1,0 +1,4 @@
+import ksoap2 android studio 
+added ksoap2 ksoap2 android assembly jar dependencies jar app libs folder project structure window add ksoap2 dependencies tab build gradle section import ksoap2 clue 
+
+remove ksoap project structure steps bellow br problem work br 1st make folder libs app libs br 2nd copy ksoap jar folder br 3rd click jar file chose add library br import ksoap2 code br create object ksoap2 library imported automatically br type strong soapobject tempresponse null strong br ksoap library latest href https www youtube watch fhevi g6uti rel nofollow https www youtube watch fhevi g6uti 

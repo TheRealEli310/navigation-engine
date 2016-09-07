@@ -1,0 +1,4 @@
+graphhopper retrieve set edges contained route 
+graphhopper application detects customers route past specific point interest poi poi roads customer pass predefined poi fastest find customer route edges route include edges pass poi code finds edges closest points stored ghresponse object called route code end points road searches closest edge return edges node id prefer list edgeids route compare edges poi advice appreciated cheers 
+
+advice karussell created custom graphhopper object implements specific method return edges route method doesnt return route means modified routes edges running method custom graphhopper object inefficient 

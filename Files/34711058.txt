@@ -1,0 +1,4 @@
+google analytics api v4 android app crash start 
+set things google analytics api v4 mentioned href https developers google analytics devguides collection android v4 rel nofollow https developers google analytics devguides collection android v4 href http www javacodegeeks working google analytics api v4 android html rel nofollow http www javacodegeeks working google analytics api v4 android html steps run app crashing strong global tracker xml strong pre class lang xml prettyprint override strong androidmanifest xml strong pre class lang xml prettyprint override strong analyticsapplication strong mainactivity class strong build gradle strong strong build gradle strong strong logcate strong 
+
+manifest reported basing stack trace class 

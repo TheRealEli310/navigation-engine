@@ -1,0 +1,4 @@
+jsp search bar function 
+make web interface jsp tomcat table students information user search student display students information table displayed entire student table created search box loss user clicks search thinking creating function search database jsp call function code 
+
+train thought calling function correct function invoke javascript executes client side retrieve data database happen server side youre simplest implement submit jsp html form post data jsp defined removing attribute altogether differentiate jsp retrieve data students specific change code check request attribute query parameterized highly recommended helps avoid sql injection attacks clunky error prone string concatenation em scrptlets em deprecated long ago approach put em servlet em handles jdbc code populates object results em forwards em jsp handles results presented user 

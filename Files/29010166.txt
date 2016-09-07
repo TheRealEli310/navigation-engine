@@ -1,0 +1,4 @@
+pooledconnectionfactory endless reconnect loop 
+piece code broker url valid host port opened starting infinite reconnection loop set number reconnections reduce retry interval advance 
+
+failover url maxreconnectattempts defaults retry forever maxreconnectattempts failover url 

@@ -1,0 +1,4 @@
+linkedhashmap implementation 
+understand strong hashfunction strong hashmap implementation strong hashfunction strong find index internal array justified strong hashfunction strong contract em key hashcode distinct key hashcode em questions strong hashfunction strong strong put strong method works maintains strong doublylinkedlist strong internally whats wrong internal implementation maintain separate strong array list strong indexes strong entry array strong sequence insertion response references 
+
+em em fact extends identify hash bucket array hash buckets work references iterating entries updated differently implementations reason insertion order keeping addition removal middle operation move subsequent items place addition removal middle break links make point separate make objects reference previous objects works 

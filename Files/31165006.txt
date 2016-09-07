@@ -1,0 +1,4 @@
+javacv ffmpegframegrabber preload audio 
+application streams video data rtmp server javacvs ffmpegframerecorder add audio stream separate file short sound clip play repeat sound clip short preload audio data memory loop avoid excessive io attempted add audio stream javacvs ffmpegframegrabber prescribed multiple tutorials addition audio works perfectly dont attempt preload cache audio data preload audio data garbage sound played deep copy frame object ffmpegframegrabber grabframe recycles single frame object explain doesnt work achieve desired result 
+
+found solution code shortbuffer duplicate doesnt deep copy causing issues create shortbuffer copy contents 

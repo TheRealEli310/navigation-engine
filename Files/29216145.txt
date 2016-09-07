@@ -1,0 +1,4 @@
+bouncy castle unable load keystore p12 file version osgi 
+code exception org bouncycastle jce provider jcepbekey cast org bouncycastle jcajce provider symmetric util bcpbekey problem edited code works version mentioned problem appears osgi environment 
+
+jcepbekey exist versions bouncy castle class path 

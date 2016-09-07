@@ -1,0 +1,4 @@
+http status running tomcat 
+
+
+apache tomcat version doesnt support jdk8 upgrade newer version apache tomcat supports jdk8 class format jdk8 changed reason tomcat compile jsps 

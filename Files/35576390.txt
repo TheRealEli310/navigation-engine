@@ -1,0 +1,4 @@
+low level difference int large small int small large 
+question require compiler knowledge answer working project creating array makes difference logically thinking form size memory differ question compilers clever rearrange arrays suit 
+
+implements single dimensional arrays multi dimensional types dimensional arrays implemented array arrays array overhead bytes minimise overhead avoid issue helper methods provide object hash unique generate hashcode stored object header href http ideone ogbdj0 http ideone ogbdj0 nested array object prints internal representation hashcode stored header address object address hashcode object moved time gc jvm moves objects memory turn tlab href https github peter lawrey performance examples blob master src main vanilla memory arrayallocationmain https github peter lawrey performance examples blob master src main vanilla memory arrayallocationmain prints 

@@ -1,0 +1,4 @@
+playing multiple sound clips clip objects 
+developing program numerous jbutton objects correspond file sounds work overlap buttons sounds overlap clicking button sound playing restart sound single clip object trouble accomplishing stated result resorted declaring clip object button feeling inefficient solution issue accomplish stated paragraph efficient fashion 
+
+couple ways achieve basic idea register monitor event reenable button files directory creates button clicked button importantly underlying disabled audio played button extension enabled sound api play multiple sounds simultaneous nb background thread worked clip subsequent clips basically skipped method reason h1 resource management h1 

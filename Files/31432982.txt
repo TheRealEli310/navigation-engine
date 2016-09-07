@@ -1,0 +1,4 @@
+unauthorized error immediately google marketplace app install works 
+recently started problem users installed google app google apps marketplace app installed user clicks launch app button redirected site check user admin requires connecting google directory api oauth2 click launch app button appears unauthorized response google verify user wait couple seconds click works fine solve adding delay seconds retry attempt fails works cases reproduce error wait seconds ideal solution running version google api client stacktrace running refreshtoken method verify connection work 
+
+lag fairly common due fault end workaround retry logic application handle situation 

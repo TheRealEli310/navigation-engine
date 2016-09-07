@@ -1,0 +1,4 @@
+type inferred leaving generics operator 
+read creating collections type side statement bad style compiler infer type left side question initializing list compiler find type unchecked type warning 
+
+compiler doesnt em infer em type youre instantiating em raw em smart warn problems working raw object worth mentioning reason warning due href https docs oracle javase tutorial generics erasure html rel nofollow type erasure parametric information completely runtime variable hold elements type snippet snippet compile generate warnings raw list add primitive type list including assigning collection list hold strong strong integers problem runtime youll fetch element supposed reality long story short strong strong mix raw types generics case compiler strong possibly strong inferred type diamond 

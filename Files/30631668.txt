@@ -1,0 +1,4 @@
+change line txt file reading writing file 
+text file open file change age reading writing file buffered reader writer memory intensive file huge 
+
+short answer long answer text youre inserting directly replaces text youre removing perform substitution seeking portion file reading small block substituting text replacing block work em em age replacement youre replacing difficulties variable length lines dont seek read file place make substitution block time discard unwanted complexity multi byte character sets utf ingoing text display length outgoing text shorter longer depending substitution codes byte 00e9 codes youre memory intensive method read file line time write line file process youre delete file rename slow buffering reads writes lines choose improve performance 

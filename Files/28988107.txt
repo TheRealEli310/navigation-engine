@@ -1,0 +1,4 @@
+logback ignore logger parent package 
+logback ignore logger parent package appenders strong appender strong loggers strong logger strong strong logger strong strong logger strong ul li logger works definitive li li delete loggers write info level highest info li ul strong config strong logback root logger collects prints appender em trace em log messages logger collects prints em debug em messages package package logger collects prints em info em messages package 
+
+level filter logback xml strong update strong error warn thresholdfilter warn shown info error warn threshold filter info default behaviour 

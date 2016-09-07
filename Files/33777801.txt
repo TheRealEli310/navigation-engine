@@ -1,0 +1,4 @@
+tomcat server start dcevm patched jre 
+steps mentioned href http tirthalpatel blogspot uk steps setup hotswap agent eclipse html rel nofollow ol li install jvm dll dcevm patch jdk successful dcevm patch folder created li li eclipse tomcat server runtime environment jre mapped jre jdk decvm patched step li li tomcat add xxaltjvm dcevm javaagent hotswapagent jar vm arguments vm arguments li li disable auto reload tomcat web modules li ol exception thrown stack trace version installer file downloaded href https github dcevm dcevm releases tag full jdk7u79 2b7 rel nofollow 
+
+solved issue changing jdk1 jdk1 

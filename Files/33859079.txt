@@ -1,0 +1,4 @@
+display odd numbers based user input 
+write program displays odd numbers based user input loops forever print statement whats wrong 
+
+couple issues loops dont decrement loop greater loop forever stick 

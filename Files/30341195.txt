@@ -1,0 +1,4 @@
+org apache tiles util tilesioexception 
+working struts project deployed project linux tomcat server clicking page giving error page working local machine 
+
+problem jsp foreigntransfer jsp duplicate attribute element exception explains org apache jasper jasperexception pages customer foreigntransfer jsp line column attribute qualified names unique element 

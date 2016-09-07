@@ -1,0 +1,4 @@
+instance class 
+whats happening code basically current state code outputs expecting output part commented 
+
+making instances state time dont constructor implicit default sets object constructed storing variable creating setting reading back em em declare fields href https docs oracle javase tutorial javaoo classvars html static make accessible shared instances likewise make method called instance class instance directly access static fields 

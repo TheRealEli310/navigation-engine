@@ -1,0 +1,4 @@
+liquibase cdi unsatisfied dependencies type datasource 
+migrating jboss wildfly deploy module liquibase scripts db error producer set documentation add annotation href http stackoverflow questions running liquibase cdi wildfly answer luck didnt helped initially liquibase due href https liquibase jira browse core rel nofollow jira issue upgraded enabling debug liquibaseproducer registered thoughts working wildfly idea producer produces datasource liquibase expects rt jar makes sense greatly appreciated 
+
+ear deployment make visibility cdiliquibase producer log producer located war cdiliquibase inside module problem 

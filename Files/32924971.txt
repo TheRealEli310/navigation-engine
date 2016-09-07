@@ -1,0 +1,4 @@
+attempt invoke virtual method null object reference 
+error blockquote attempt invoke virtual method void android widget stackview setadapter android widget adapter null object reference blockquote line complete fragment strong eventsfragment strong strong stack adapter strong strong stack items strong 
+
+returns load xml tauqir mentioned inflate xml 

@@ -1,0 +1,4 @@
+reading number node text file graph 
+read nodes text file consists edges add top text file read number vertices heres text file problem number nodes reading file thinking finding maximum nodes add starts couldnt reading nextint compare nextint heres change 
+
+method youre counting user give graph consecutive integer node numbers picks node number nodes graph fix node numbers symbols fixed questionable practice code havent functional features make verbose output nb brevity omitted niceties production public private getters setters 

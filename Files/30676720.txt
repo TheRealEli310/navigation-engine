@@ -1,0 +1,4 @@
+javafx tab order scenebuilder 
+set tab order focus order elements text field scenebuilder 
+
+answer sb hierarchy panel set order nodes tab order 

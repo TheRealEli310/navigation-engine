@@ -1,0 +1,4 @@
+aggregate runtime exceptions streams 
+lets method throws runtime exception call method items list items list processed runtime exceptions individual items collected aggregate runtime exception thrown end real code making 3rd party api calls throw runtime exceptions make items processed errors reported end ways hack function catches returns exception em shudder em native implement cleanly 
+
+simple case method care exceptions things simple requirements complicated prefer stick standard library serve represent success failure albeit warts 

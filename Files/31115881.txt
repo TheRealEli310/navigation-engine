@@ -1,0 +1,4 @@
+load properties file spark 
+store spark arguments input file output file property files pass file spark driver spark submit submitting job couldnt find parameter pass properties file suggestions 
+
+found solution strong props file strong mypropsfile conf strong prefix key spark props strong strong launch strong strong call code strong inside code 

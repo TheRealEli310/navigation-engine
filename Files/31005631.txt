@@ -1,0 +1,4 @@
+hiddensidespane fxml 
+construct hiddensidespane fxml controller basic controller code understand create fxml structure code 
+
+made fast offical fxsampler controlsfx mind h2 assumptions h2 set fxml project added controlsfx jar dependency build path h3 fxmldocument fxml h3 watch import statements h3 fxmlcontroller h3 inject variables pane pinlabel set h3 javafxapplication17 h3 javadoc hiddensidespane href http controlsfx bitbucket org org controlsfx control hiddensidespane html rel nofollow http controlsfx bitbucket org org controlsfx control hiddensidespane html download zip href http fxexperience downloads controlsfx zip rel nofollow http fxexperience downloads controlsfx zip unzip file controlsfx samples jar inside double click show sources 

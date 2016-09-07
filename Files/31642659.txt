@@ -1,0 +1,4 @@
+find duplicate elements 2d array 
+suppose array 2d array result 
+
+heres brute force straight forward counting duplicates turn 2d array 1d array loop 1d array counting duplicates find removing dont count results h2 streams h2 youre interested streams route groups numbers array map number key frequency number key pairs duplicates results 

@@ -1,0 +1,4 @@
+read text sjis file 
+characters read csv file sjis encoding characters back running program h2 input h2 contents h3 actual output h3 h3 expected output h3 
+
+shift jis character set characters file saved standard href http en wikipedia org wiki shift jis rel nofollow shift jis encoding windows href http en wikipedia org wiki code page rel nofollow code page microsoft specific extension shift jis em em include encoding 

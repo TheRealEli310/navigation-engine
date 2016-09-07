@@ -1,0 +1,4 @@
+method getjsonobject string undefined type jsonobject 
+returning class json parse exists convert search key1 errors arrows 
+
+verify existence field 

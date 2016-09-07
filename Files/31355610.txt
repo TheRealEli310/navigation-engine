@@ -1,0 +1,4 @@
+elasticsearch return raw json api 
+requirements spring web app br ul li find objects elasticsearch display google map json format preferred li li find objects query elasticsearch display list objects format preferred display jsp page li ul written search api searchrequestbuilder works fine displaying google map prefer json object elasticsearch searchresponse object json response api searchrequestbuilder rest api 
+
+api map json entity matter ul li href http docs spring io spring data elasticsearch docs current reference html rel nofollow spring data elasticsearch deserialize directly entity li li response api parse json href https github fasterxml jackson rel nofollow jackson li li href https github searchbox io jest tree master jest rel nofollow jest api return gson googles json li ul 

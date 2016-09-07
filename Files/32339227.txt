@@ -1,0 +1,4 @@
+content type pdf file returned html 
+content type web url code interestingly content type url returned pdf document understand code 
+
+access page attempt load page strong forbidden strong error error pages html pages pdf files youre content type youre site detecting browser mechanism prevent automatic downloads works chrome firefox code works fine url case webserver typical browser make connection adding line immediately href http stackoverflow answer information setting make violating websites terms service typically check website explicitly forbidding apps downloading content file case href http www jbssinc robots txt rel nofollow http www jbssinc robots txt case file doesnt forbid robots program downloading file spoof user agent case fact blocked user error reading href http stackoverflow faked user agent allowed 

@@ -1,0 +1,4 @@
+gson mapping lat lng class 
+server returns json object gson class works fine case latlng class names latitude longitude server respond lat lng saves space sending large sets latlng objects problem latlng object part google library unable add field map annotation remain original google latlng class time server return smaller response lat lng achieved 
+
+write deserializer tested configure gson deserializer parse lat long object server href http stackoverflow questions write custom json deserializer gson thread 

@@ -1,0 +1,4 @@
+ssh change password login 
+asked change password time log server jsch accomplish understand commands forced change password 
+
+solved issue calling channel setpty true added sleeps input consistency wait output entering password 

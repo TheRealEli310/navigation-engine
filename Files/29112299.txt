@@ -1,0 +1,4 @@
+check time day times 
+app create object represents high school class object holds calendar objects represents classs start stop time day user creates assignment check current time times classes assignment created class current code work gettime returns date includes month day compare hours minutes trim returned dates include time day easier joda time classes 
+
+mentioned answer compare minutes href http docs oracle javase docs api util calendar html minute rel nofollow compare minutes day current time start end times work times day 

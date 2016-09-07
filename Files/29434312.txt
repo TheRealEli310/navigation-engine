@@ -1,0 +1,4 @@
+jersey access injected httpservletrequest proxy 
+injecting jersey jax rs resources injected proxy inject object requested access actual instance object container specific features proxied interface jersey access actual object injection older versions jersey inject achieve doesnt supported jersey anymore rationale code depends functionality implements adds functionality http push jersey jax rs 
+
+dont make resource class singleton choice proxy request scope blockquote br blockquote blockquote br blockquote ways class singleton registering instance aslo inject method parameter singleton actual instance hr strong strong ul li href http paulsamsotha blogspot injecting request scoped objects html rel nofollow injecting request scoped objects singleton scoped object hk2 jersey li ul 

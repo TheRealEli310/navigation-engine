@@ -1,0 +1,4 @@
+bufferedreader read array 
+beginning learn unsure bufferedreader read array assignment working getsalesdata method understand bufferedreader user input number strings store data unsure proceed fix errors tips appreciated 
+
+br readline return string setting ticketssold buffer lets examine closer buffer string ticketssold array strings produce error post error stack trace helpful ticketssold ticketprice arrays strings strings arrays strings change declartion ticketprice ticketssold strings hope helps stack overflow 

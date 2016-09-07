@@ -1,0 +1,4 @@
+class path resource classpath xxxxx properties opened exist 
+implement sort conditional import bean context files current spring application make work similar solution extend add web xml make current application load properties file properties defines condition resides configuration coding returns error strong weblogic strong strong websphere strong makes miserable fix io filenotfoundexception class path resource classpath application env properties opened exist pattern establish classpath failed potentially application load init properties properties file inside application system properties server properties dont necessity add properties file servers classpath dont reason application server blocks access internal properties file 
+
+classpathresource directly resource path 

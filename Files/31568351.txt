@@ -1,0 +1,4 @@
+configure embedded mongdb integration testing spring boot application 
+fairly simple spring boot application exposes small rest api retrieves data instance mongodb queries mongodb instance spring data based repository key bits code pre class lang prettyprint override pre class lang prettyprint override pre class lang prettyprint override pre class lang prettyprint override pre class lang prettyprint override pre class lang prettyprint override idea integration tests empty moment connect embedded mongo instance live doesnt work tests connecting live instance mongo shut build simply fails attempting connect live instance mongo tests connect embedded instance 
+
+works simple test simple mongodb repository mongodb test configuration pom xml 

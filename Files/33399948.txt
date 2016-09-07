@@ -1,0 +1,4 @@
+statements inside factory 
+developing application lots design patterns follow good practice basically code smells factory method print random types objects statements inefficient happen wanted print objects add statements ultimate method factory return random object ball type 
+
+approach apply href https en wikipedia org wiki prototype pattern rel nofollow strong prototype pattern strong class named creates random unique instances cloning registered prototypes advantages ul li add subclasses change implementation li li create objects type parameters li li statements li ul strong strong strong strong 

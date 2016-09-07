@@ -1,0 +1,4 @@
+fix main class found error classpath set 
+application structure ul li project li li main package li li main class path li ul build application netbeans windows launching windows applications starts perfectly applies launching jar windows copying jar ubuntu mate raspberry pi oracle jdk arm32 v7 launch jar tells main class found loaded successful ol li setting variable export classpath classpath path classes folder li li setting classpath cp classpath li li absolute path jar file classpath li li path classes folder fully qualified class goodmanagement goodmanagementlauncher li ol launch application ubuntu edit1 output building application manifest file 
+
+problem run javafx application vm javafx support arm32 jdk1 compile source code discovered compiler unable find javafx classes 

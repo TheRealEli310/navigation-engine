@@ -1,0 +1,4 @@
+exec maven plugin error compile run project 
+asked concluded post br blockquote href http stackoverflow questions exec maven plugin error working exec maven plugin error working blockquote br current situation br ol li modified jdk path fixed forcibly eclipse build path project build path br li li compile br li li run maven find mainclass br li li explicitly declared main class error result br br li ol data br full code including open project eclipse blockquote href https github arincblossom maventestproject rel nofollow https github arincblossom maventestproject blockquote error log shown run project edit5 previous post br br solve stuck days 
+
+run compiled classes removed find class execute run remove compiled classes previous biuld compile source codes execute class output expect describe achive strong output strong 

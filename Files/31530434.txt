@@ -1,0 +1,4 @@
+load netezza jdbc driver 
+configured netezza db spring added dependent nzjdbc jar classpath spring config 
+
+put local maven repository execute directory located normal dependency href https maven apache org guides mini guide 3rd party jars local html rel nofollow guide installing 3rd party jars 

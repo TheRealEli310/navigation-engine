@@ -1,0 +1,4 @@
+accessed stale local reference passing short jni 
+writing program android jni caching javavm global ref running separate thread ref environment cashed javavm pass back error heres code wrong time 
+
+problem create object wrong class function constructor change part nativereceiverconstructor jmethodid class constructor finally sendwavedata jmethodid function call pass array create jshortarray setshortarrayregion hope helps 

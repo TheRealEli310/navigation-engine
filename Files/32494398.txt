@@ -1,0 +1,4 @@
+unable autowire service inside authentication filter spring 
+authenticate user token auto wire services inside null pointer exception strong autowired service null strong fix issue class adding follwing appconfig annotations 
+
+made work adding strong springbeanautowiringsupport processinjectionbasedoncurrentcontext strong unsure adding explicit qualifier code 

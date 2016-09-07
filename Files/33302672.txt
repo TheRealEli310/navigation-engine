@@ -1,0 +1,4 @@
+creating hash map employee class 
+asked interview create employee class create class field key 
+
+creation map solely depends unique attribute object considered key key type hashcode change immutable implementations object creation documentation code id field considered key employee object treated based case requirement key attribute 

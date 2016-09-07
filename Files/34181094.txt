@@ -1,0 +1,4 @@
+set logging level spring boot environment variable 
+set logging levels environment variables spring boot application dont running cloud foundry pick deploy app restarted restaged precise setting env vars effect putting work 
+
+idea setting theoretically passed default jvm argument affect jvm instance environment 

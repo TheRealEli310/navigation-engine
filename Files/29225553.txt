@@ -1,0 +1,4 @@
+standalone ee application server 
+developing standalone application application started deployed embeddable application server found jetty href http eclipse org jetty rel nofollow http eclipse org jetty doesnt support ee features alternatives 
+
+href http tomee apache org index html rel nofollow tomee basically tomcat bit steroid j2ee code tested local laptop works download tomee embedded jar href http www java2s code jardownload tomee tomee embedded jar zip rel nofollow link source code embedded jar found href http svn apache org repos asf tomee tomee trunk tomee tomee embedded rel nofollow understand happen code 

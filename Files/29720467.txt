@@ -1,0 +1,4 @@
+simplest serve static content jboss war file 
+deploy static content html css js existing jboss server war file simple web xml create work jboss jboss specific gotchas 
+
+war serving static files web xml optional leave web app element blank context root war file default create jboss web xml file web inf directory change app war deploy href http localhost app rel nofollow http localhost app default directories files web inf war directory structure made public br jboss web xml context root 

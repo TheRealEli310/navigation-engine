@@ -1,0 +1,4 @@
+cassandrasqlcontext key found 
+error table cassandra data spark query data sql execute code error problem column case sensitive ut query result data table column case sensitive 
+
+cql3 treats columns names case insensitive names converted lower case order avoid double quote names create query executed query quotes escaped case userid sessionid saved lower case hope helps zoran 

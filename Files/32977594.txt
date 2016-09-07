@@ -1,0 +1,4 @@
+cdi unit produces working 
+googled intensively href http jglue org cdi unit user guide rel nofollow http jglue org cdi unit user guide producing stuff inject unit test work fine setup exception org jboss weld exceptions deploymentexception exception list exceptions exception org jboss weld exceptions deploymentexception weld unsatisfied dependencies type logger qualifiers default injection point backedannotatedfield inject private fhhagenberg unittesting beans surveybean log means cdirunner build surveybean inject logger find object inject specifically produce base class entitymanager fix ps tags allowed add cdi unit jglue 
+
+put producer methods separate class dbunitbasetest class abstract cdi producer producer methods em logger class producer methods fields cdi bean instance class created cdi prior calling producer methods cdi create beans abstract class annotations inherited methods inherited treated producers 

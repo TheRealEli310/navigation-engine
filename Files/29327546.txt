@@ -1,0 +1,4 @@
+place jlabel specific position jpanel 
+code place jlabel word demo center upper horizontal axis jpanel run time word demo aleays place center left vertical axis modify code set word demo center upper horizontal axis jpanel strong code strong 
+
+understand correctly label top frame centered horizontally place label top align label center left 

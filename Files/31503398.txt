@@ -1,0 +1,4 @@
+google spreadsheet api google gdata util parseexception invalid root element 
+created project console developers google created p12 key created client id email address code authentication successful facing problem feed url read data google spreadsheet mentioned error code point problem 
+
+shuffling finally managed make work turns change spreadsheetfeed spreadsheetentry edited code hope helps people frustrated googles poor documentation 

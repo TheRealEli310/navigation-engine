@@ -1,0 +1,4 @@
+testing exceptions reflection junit4 
+function returns exception writing unit test case junit4 issue reflect invoke wraps exception invocationtargetexception unable check exception expectedexception class test output 
+
+throw expected error recommended 

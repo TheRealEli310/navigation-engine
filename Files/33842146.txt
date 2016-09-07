@@ -1,0 +1,4 @@
+destroy object sessionscoped bean 
+object save current user website destroy object time navigation clicking button injection injecting simple bean object login user 
+
+lifespan href http docs oracle javaee api javax enterprise context sessionscoped html rel nofollow bean depends http session http session destroyed timeout manually session invalidation href http docs oracle javaee api javax enterprise context sessionscoped html rel nofollow bean destroyed href http docs oracle javaee api javax enterprise context sessionscoped html rel nofollow documentation blockquote session context shared servlet requests occur http session session context destroyed http session times called end request called filters called blockquote hr jsf invalidate http session destroy beans 

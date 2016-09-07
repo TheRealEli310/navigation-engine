@@ -1,0 +1,4 @@
+cancel alarms app closed 
+programmed app multiple alarms alarmmanager method cancels current pending alarms works user closes app recents alarms active intended cancel alarms method doesnt work anymore app crashes solution cancel alarms user closed app alarms cancel method guess empty close app saved dont work 
+
+array pending intents correctly diagnosed array empty app closed crash access set earliest alarm save id alarm temp storage easier constant id alarm alarm fires set earliest alarm task performed cancel alarm id saved recreate cancel alarm id alarms set cancellation required 

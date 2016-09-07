@@ -1,0 +1,4 @@
+difference game screen applicationadapter libgdx 
+tutorials people extends game implements screen auto generated extends applicationadapter difference 
+
+create listener forced implement method youre familiar swing check idea handle application events execute code events application life cycle destroy blockquote applicationlistener called application created resumed rendering paused destroyed methods called thread opengl context current safely create manipulate graphics resources blockquote supports multiple screens create multiple screens switch em blockquote applicationlistener delegates screen application easily multiple screens blockquote sounds displayed time main menu actual game blockquote represents application screens main menu settings menu game screen blockquote recommended class base game create multiple instances game states eill 

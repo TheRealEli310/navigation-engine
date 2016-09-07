@@ -1,0 +1,4 @@
+set stdin mode binary 
+equivalent line code sets em stdin em mode binary 
+
+strong strong windows switch text mode binary mode prevents replaced reading input href https docs oracle javase docs api lang system html rel nofollow generic href https docs oracle javase docs api io inputstream html read rel nofollow method returns byte assuming type input blockquote reads byte data input stream byte returned int range byte end stream reached returned method blocks input data end stream detected exception thrown blockquote disabling text mode enabled place hr youre convinced contract read source code binary mode activated stdin stdout stderr jvm initialized href http hg openjdk net jdk7u jdk7u hotspot file 34aea5177b9c src os windows vm os windows cpp l3716 rel nofollow http hg openjdk net jdk7u jdk7u hotspot file 34aea5177b9c src os windows vm os windows cpp l3716 pre class lang prettyprint override 

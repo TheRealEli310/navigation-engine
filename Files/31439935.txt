@@ -1,0 +1,4 @@
+ssl performance issue connection downloads 
+working small swift client hard performance issues downloading files thousands checks localized problem downloading files ssl normal downloads http works fine problems performance issues ssl downloads blow cpu single core load single thread wrote small testclass entire program confirm previous observations version idea solving issue 
+
+blockquote normal downloads http works fine problems performance issues ssl downloads blow cpu single core load single thread blockquote depend cipher client server agreed common aes ciphers aes fast special hardware terrible slow cpu bound software historically hardware acceleration theyve added server jvm information href http stackoverflow questions aes acceleration aes acceleration href http stackoverflow questions aes ni intrinsics enabled default aes ni intrinsics enabled default 

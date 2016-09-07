@@ -1,0 +1,4 @@
+segmentation fault destructor called jni 
+working research project build library image processing tools wrapped languages working implementation jni native interface core built singleton pattern calls pointer singleton returns pointer long method requires access object object located longer holds pointer result works fine end session asks close work delete objects happends infinite loop delete pointer destructor code 
+
+delete object recursively destructor time call call destructor delete destructor call object destructor empty case meyers singleton case singleton destroyed automatically exit 

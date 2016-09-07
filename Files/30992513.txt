@@ -1,0 +1,4 @@
+code fails decrypting salt iv 
+ciphertext bit key decrypt aes salt iv implemented solutions online salts input vectors builds fine fails runtime salt found salt 
+
+decrypt ciphertext exercise simple ecb mode aes iv key salt key derivation aes ecb mode pass key shown openssl commands command line show work convert hex shown book string bytes key string bytes openssl command line converts hex bytes argument convert resulting binary plaintext back hex string viewing result class strip padding result bytes plaintext jump classes reproduce result wanted show work aes ecb iv salt involved 

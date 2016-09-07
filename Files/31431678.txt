@@ -1,0 +1,4 @@
+apache maven installation window 
+install apache maven system steps ol li downloaded apache maven window machine copied program files li li added maven path program filesapache maven m2 home system variable added program filesjavajdk1 home li li added m2 home default path li li run mvn version cmd li ol result mvn recognized internal external command advance 
+
+remember similar issue time ago windows windows behave similarly solution work correctly reason working add path directory inside maven directory system variable semicolon case save variable close terminal run type 

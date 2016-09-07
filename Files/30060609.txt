@@ -1,0 +1,4 @@
+hibernate psqlexception bad type int admin 
+desktop application hibernate strong strong entities user role searching researching days h2 user h2 h2 role h2 shown href http docs jboss org hibernate core reference en html types html types basic rel nofollow http docs jboss org hibernate core reference en html types html types basic href http alenovarini wikidot mapping custom type hibernate rel nofollow http alenovarini wikidot mapping custom type hibernate database type column admin boolean postgres strong strong run strong caused org postgresql util psqlexception bad type int admin strong 
+
+finally found error error message hibernate returning bad type int admin strong strong problem message completely crazy relation issue strong real problem database primary key pk role varchar type entity put integer type strong vlad supposing version jdbc driver put configuration equal project working pretty error knew error code make wasting time mistake fine body god bless 

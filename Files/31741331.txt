@@ -1,0 +1,4 @@
+check free disk space file creation 
+suppose create file check size disk space operation href http docs oracle javase docs api io file html createnewfile rel nofollow throw free space approach 
+
+blockquote blockquote ul li public long gettotalspace li li public long getfreespace li ul check href http docs oracle javase docs api io file html gettotalspace rel nofollow document blockquote blockquote ul li gettotalspace li li getunallocatedspace li li getusablespace li ul check href http docs oracle javase docs api nio file filestore html rel nofollow document blockquote blockquote ul li getfreespace li li getusablespace li ul check href https docs oracle javase docs api io file html rel nofollow document check href http www mkyong free disk space rel nofollow code strong edit strong intresting bug searching problem href http bugs bugdatabase view bug bug id rel nofollow printwriter throw ioexception full floppy disk 

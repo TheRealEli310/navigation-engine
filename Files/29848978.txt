@@ -1,0 +1,4 @@
+generating random output sqlite database 
+database questions answers stored randomly output questions time app runs code app crashes loads 
+
+issue selected id table entries random select questions random questions finally loop add multiple wheres query multiple questions make query finally change cursor movetonext code 

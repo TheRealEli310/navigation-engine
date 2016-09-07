@@ -1,0 +1,4 @@
+lang nullpointerexception org eclipse persistence platform server serverplatformutils createserverplatform serverplatformutils 
+eclipselink final throws exception deploying ee application glassfish server happening prior upgrading level href http grepcode file repo1 maven org maven2 org eclipse persistence eclipselink rc1 org eclipse persistence sessions factories sessionmanager sessionmanager init rel nofollow defined grepcode shows rc1 href http grepcode file repo1 maven org maven2 org eclipse persistence eclipselink rc1 org eclipse persistence platform server serverplatformutils serverplatformutils createserverplatform 28org eclipse persistence sessions databasesession 2cjava lang string 2cjava lang classloader rel nofollow throws appears normal code 
+
+exception appears normal longer reproducible eclipselink released december happened worry exception upgrading eclipselink version strong strong 

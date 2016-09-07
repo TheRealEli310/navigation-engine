@@ -1,0 +1,4 @@
+building api artifact maven 
+maven projet api clients interact interfaces implemented interal codebase build jar publish internal classes implementation interfaces published dto classes pick files build jar create artifacts product jar war product api jar prupose limit misuse code teams 
+
+make separate modules maven represent modules interfaces separately implementation makes testing easier good choice separation concerns 

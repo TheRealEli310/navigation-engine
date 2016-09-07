@@ -1,0 +1,4 @@
+parse statement compiler tree api 
+find parse code source netbeans tree api learned href http wiki netbeans org developersguide 22guide rel nofollow guide access high level language elements classes methods fields parse statements start apply em replace type code state strategy em refactoring important condition deeply appreciated 
+
+diving compiler tree api doc found access low level code condition selected statement case code snippet thankfully code naming intuitive documentation doesnt debugging println kind tree deal 

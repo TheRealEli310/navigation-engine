@@ -1,0 +1,4 @@
+graphics keypress movement 
+code working small find wrong move red rectangle left created separate method call method working main 
+
+main issues ol li register recipient key events li li focusable meaning eligible receiving keyboard focus trigger key events li ol solution dont lot issues api solved key bindings api href http docs oracle javase tutorial uiswing misc keybinding html rel nofollow key bindings details 

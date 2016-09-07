@@ -1,0 +1,4 @@
+mapping sqlquery plain object entity 
+strong method strong strong class source strong strong class test strong strong hibernate mapping strong strong working fine strong dont understand thing object mapped signed tag reflection real sql server couldnt plain object delete reports error 
+
+doesnt youve explicitly marked entity result hibernate calling href https docs jboss org hibernate orm devguide en html ch13 html d5e3709 rel nofollow entity query href https docs jboss org hibernate orm devguide en html ch13 html d5e3832 rel nofollow return managed entity query write case em test em class plain pojo properties matching select columns 

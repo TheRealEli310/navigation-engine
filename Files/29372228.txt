@@ -1,0 +1,4 @@
+ljava lang object cast error 
+list display object inside list error line blockquote lang classcastexception ljava lang object cast lcom model commerce action commerceaction searchcommerces commerceaction blockquote code business service action class 
+
+statement produces unchecked type conversion warning strong code href http programmers stackexchange questions heap pollution polluting heap unchecked type conversion strong returns raw href http docs jboss org hibernate orm javadocs org hibernate query html list rel nofollow relevant hibernate documentation blockquote return query results query multiple results row results returned instance blockquote href http stackoverflow questions quick question casting array objects array intended cl strong strong cast array array type couple ways fix problem ol li transform result method usable form preferably method passing rest code preferable method select object li li add beginning query cast li ol 

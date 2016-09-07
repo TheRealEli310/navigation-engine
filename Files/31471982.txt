@@ -1,0 +1,4 @@
+hashset order program 
+tutorial blockquote hashset doesn maintain order elements returned random order blockquote write test program result output times order hope advance 
+
+reason behaviour backed turn backed objects find order elements order dont guarantees order code order determined affected order computed elements simple inputs single character string assume strict ordering give natural ordering complex objects complex computations spread ordering random pointed guarantee ordering imply guaranteed random ordering method class play single character values ordered alphabetically computed single 

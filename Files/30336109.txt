@@ -1,0 +1,4 @@
+lock file filelock 
+write file href https docs oracle javase docs api nio channels filelock html rel nofollow filelock prohibit processes threads reading writing finished href http stackoverflow questions lock file question answers perfect tool mutex file access concerned text href https docs oracle javase docs api nio channels filelock html rel nofollow javadocs blockquote file locks held behalf entire virtual machine suitable controlling access file multiple threads virtual machine blockquote alleviate fears point direction sounds wont work thread file thread obtained case canonical method protect threads 
+
+process level lock protect file concurrent access multiple threads process lock combination protect concurrent access processes synchronization mechanism method accessing file process protect concurrent access threads 

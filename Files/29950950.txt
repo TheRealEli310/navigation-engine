@@ -1,0 +1,4 @@
+validating certificate chain truststore 
+certificate chain der encoded byte array verify truststore file create x509certificate byte array initializing trustmanager trustmanager verify x509certificate proper sample code 
+
+youll enable ocsp system properties obtain crls certificate chain order check revocation status alternatively disable revocation checking attendant risks 

@@ -1,0 +1,4 @@
+abstracting catch function 
+recently found writing blocks form methods signal throw exceptions eclipse yells dont surround methods catch blocks wrote function pass tryopt enclosed catch block safely executed result returned optional eclipse yells question eclipse compiler em em indirectly enclosing offending method catch block misunderstood works case mind enlightening hand safely ignore eclipses red line warnings case 
+
+throw exception compiler complains pass lambda expression resolve issue functional interface throw exceptions interface exists util packages 

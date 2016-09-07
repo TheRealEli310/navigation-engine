@@ -1,0 +1,4 @@
+command thermal printer 
+set command thermal printer command write printer command explanation add command printer make text center 
+
+hex plain sample sequence character codes send printer text left aligned centered aligned escape sequences simply embedded regular text initial esc resets formatting dont produce similar experiment write escape sequence store byte array write regular text strong strong wrap printwriter outputstream makes simple 

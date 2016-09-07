@@ -1,0 +1,4 @@
+rmi noclassdeffounderror javax json jsonvalue remote object 
+running exception caused call em javax json jar em classpath places application problems part application worked fine added method returned jsonvalue remote object ideas running rmiregistry codebase pointed directly javax json jar exception remains 
+
+blockquote running exception caused call blockquote arent stack trace happening run em server em property set file codebase url isnt work clients running server host case dont codebase feature points shared folder form registry clients http question codebase feature ensure relevant jar file classpath registry clients simplest ensure registry server jvm external program wondering youre json rmi built object serialization dont add serializer 

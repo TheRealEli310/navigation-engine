@@ -1,0 +1,4 @@
+error find symbol class recyclerview 
+recyclerview linearlayoutmanager compile older version time error resolve symbolrecyclerview 
+
+add v7 recyclerview library add dependencies 

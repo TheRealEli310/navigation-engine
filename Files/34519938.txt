@@ -1,0 +1,4 @@
+jackson serialization ignore timezone 
+code serializing response external service return json response back part service external service return time timezone jackson converting ignore timezone 
+
+create custom deserializer jackson custom deserializer jackson custom serialization add timezone information service response 

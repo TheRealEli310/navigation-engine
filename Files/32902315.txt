@@ -1,0 +1,4 @@
+spring data cassandra java8 stream support 
+implement spring data cassandra spring boot application href http docs spring io spring data cassandra docs release reference html repositories query streaming rel nofollow documentation stream support mentioned work spring data cassandra make data connection fire query exception repository spring data cassandra support streams wrong greatly appreciated 
+
+documentation blockquote spring data modules support stream return type blockquote doesnt work cassandra module youll return type 

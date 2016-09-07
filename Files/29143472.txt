@@ -1,0 +1,4 @@
+sorting arraylist arraylist string row fields 
+function reads csv file processing put data guessing sort rows string values field rows field final string structure sorting action reverse rows fields equal field determines order tips greatly appreciated answer arnaud denoyelles answer led generic solution assumes rows compared number columns case valid assumption 
+
+comparators sort list sorting lt create anonymous implementation write easier sort 

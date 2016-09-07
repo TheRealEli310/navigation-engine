@@ -1,0 +1,4 @@
+jackson deserialize json array single property class 
+json array classes named team profile deserialise json list team json properties mapped profile property class team 
+
+writing custom deserializer register deserializer modify list hth 

@@ -1,0 +1,4 @@
+share lock threads 
+advisable implement extrinsic lock attrubite class shared threads implementation assume threads called customer cook cook empty linkedlist shared order object customer constantly check order fulfilled empty purpose lock inside shared order object cook finish job call order getisdone signal awake customer thread awaiting condition order isempty order getisdone await reason idea share lock threads bounding order object order object shared threads concurrent issue impelementation wise choice alternative replacing order getisdone await yield performance loss simplier 
+
+idea locks shared threads lock lock field object condition check order completed remember unlock lock locking pattern wait condition loop lock dont synchronized methods isempty add lock faster 

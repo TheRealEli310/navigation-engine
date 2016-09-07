@@ -1,0 +1,4 @@
+hashmap key return false key exists 
+made hashmap entered values keys successful containskey method returns false attached screen shot img src http stack imgur ghvwr png alt enter image description 
+
+assigning values map datatype checking key integer wont work return false 

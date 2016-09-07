@@ -1,0 +1,4 @@
+page default spring data jpa 
+application shows comments sort comments create time asc show latest comments default page default page default 
+
+strong set max result page strong strong count total number pages table divide page size strong projection strong move page strong href http hibernate 20paging rel nofollow http stackoverflow questions client side sorting hibernate paging reference href http stackoverflow questions spring data jpa page pageable spring data jpa page pageable 

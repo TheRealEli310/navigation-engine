@@ -1,0 +1,4 @@
+return enum 
+return enums returing int wasnt good code 
+
+dont scanner methods return type add values enum constants method 

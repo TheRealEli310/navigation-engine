@@ -1,0 +1,4 @@
+remove duplicate xml declaration 
+receiving xml response jersey client saving xml file premature end file error parsing xml malformed duplicate xml declarations remove duplicate entry output code snippet 
+
+ideally fix problem source youre receiving xml xml declaration violates xmls basic grammar making data formed impossible properly fix problem source attempt repair treat data text xml remove extra xml declaration text level operations xml parsing 

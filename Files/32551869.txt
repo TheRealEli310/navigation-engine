@@ -1,0 +1,4 @@
+npe getservletconfig getservletcontext getattribute 
+servlets long time problem terminate servlets create small web project add service dao objects servletcontext web xml file servletcontext listener class login controller class service object servletcontext added line npe make npe exception clientservice work lot read proposes asnwers hope problem 
+
+initialize field overriden method instance initialization time href https docs oracle javaee api javax servlet servlet html init javax servlet servletconfig rel nofollow javadoc blockquote called servlet container servlet servlet service servlet container calls method instantiating servlet method complete successfully servlet receive requests blockquote href https docs oracle javaee api javax servlet genericservlet html init javax servlet servletconfig rel nofollow javadoc implementation specifies blockquote implementation stores object receives servlet container overriding form method call blockquote 

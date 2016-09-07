@@ -1,0 +1,4 @@
+avoid internal nashorn classes implementations jsobject 
+provide implementation jsobject href https wiki openjdk net display nashorn nashorn extensions rel nofollow https wiki openjdk net display nashorn nashorn extensions jsobject jdk nashorn api package classes objects api methods nativearray jo4 part internal package question handle objects recommended internal functions cast objects api package simple output 
+
+filed bug jdk href https bugs openjdk net browse jdk rel nofollow https bugs openjdk net browse jdk automatically handle wrapping workaround suggested attila szegedi 

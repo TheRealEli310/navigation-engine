@@ -1,0 +1,4 @@
+view pager slide page programmatically static variable 
+make slide programmatically viewpager problem event slide called button inside fragment hold viewpager code thought make viewpager variable public static access child fragment static variable accessible child fragment achieve make slide clicking button inside page 
+
+interact hosted exposing fields inside create implement interact directly variable access fragments 

@@ -1,0 +1,4 @@
+retrieve http status promise jsonnode play 
+project json data transmission front backend basically creating requests preparing wsrequestholder play doc tells href https www playframework documentation javaws rel nofollow https www playframework documentation javaws posting json string wsresponse mapped asjson returned promise unlike wsresponse jsonnode http status returned backend promise distinguish status codes code proper response handling factory class prepared objects wsrequestholder held url header content type set post json data implemented post factory controllers returned promise unwrapped retrieve actual json response jsonnode yeah controller level check status code lot advance greets tim 
+
+check status response wsresponse object return promise jsonnode simple 

@@ -1,0 +1,4 @@
+convert multipartfile image data uri 
+site uploading image return data uri image work server side code encode file data uri image 
+
+searching found answer href http stackoverflow trick br methods returned string characters long improperly formed data uri 

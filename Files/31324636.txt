@@ -1,0 +1,4 @@
+camel exchange body set xml pojo object 
+simple camel route takes incoming message calls processor body object send back client cxf soap route processor problem occurs line set pojo object instantiated body setting pojo object exchange body pojo transformed xml form due conversion cxf marshall soap response exchange realises invalid body disregards back empty body soap response populated response lost ideas highly appreciated 
+
+future turns bug causing behavior downgraded cxf v3 works 

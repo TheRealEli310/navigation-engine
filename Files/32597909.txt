@@ -1,0 +1,4 @@
+spring boot getvirtualservername jar tomcat sts runs fine 
+spring boot app runs fine eclipse build run command line fails exceptions problem appears servlet version mismatch dont understand important maven gradle run command exception manifest mf tomcat jar set classpath present accessible locations weird files removed startup exception related servlet getvirtualservername versions servlet versions tomcat confusing files eclipse classpath dont trouble suggestions missing 
+
+andy answered comments verbose class loading allowed issue 

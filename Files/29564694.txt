@@ -1,0 +1,4 @@
+spring rabbitmq simplerabbitlistenercontainerfactory usage 
+href http docs spring io spring amqp reference htmlsingle listener concurrency rel nofollow docs consume queues dynamically changing consumers restarting application spring rabbitmq latest version supports clue explanation change couldnt proper source code pass params xml based configuration spring rabbitmq spring integration guide dynamically configure consumers 
+
+shouldnt share adapter wins side reason adapters single adapter case change options runtime inject service invoke missed 

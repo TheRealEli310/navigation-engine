@@ -1,0 +1,4 @@
+authenticate active directory user unboundid username 
+building application connect active directory unboundid href https code google ldap sample code source browse trunk src main samplecode bind simplebindexample rel nofollow https code google ldap sample code source browse trunk src main samplecode bind simplebindexample managed connect user distinguishedname password authenticate domain username similar windows browsing ad tool called jxplorer samaccountname property replacing distinguishedname samaccountname resulted acceptsecuritycontext error uid syntax shown yielded error logon domain username samaccountname password search ad find distinguishedname user authenticate bind connection distinguishedname password 
+
+ioplex comment ad accepts bind username samaccountname domain appended dn bind pre class lang prettyprint override final userid eharris contoso local 

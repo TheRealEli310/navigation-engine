@@ -1,0 +1,4 @@
+spring hibernate jetty null pointer exception entering entity manager 
+null pointer exception entity manager hibernate create query entity manager null context debug exact exception strong persistence config xml strong strong imported application context strong pre class lang xml prettyprint override strong persistence xml strong pre class lang xml prettyprint override strong dao impl class strong exception 
+
+semicolon incorrect remove query string 

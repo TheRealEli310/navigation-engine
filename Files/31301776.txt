@@ -1,0 +1,4 @@
+extract data html tags 
+html page shown extract data code working wrong 
+
+regex select json html code prints blockquote url href http schema org rel nofollow http schema org title title blockquote href https regex101 zn5cp8 rel nofollow demo explanation 

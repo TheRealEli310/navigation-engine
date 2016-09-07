@@ -1,0 +1,4 @@
+selenium timed waiting page load proxys 
+proxys connect website selenium test things issue proxys incredibly slow makes things inefficient issue catch error carry matter sorts suggestions stack posts avail set timeout seconds navigate pages proxys seconds load page considerably longer catch error question easier alternative selenium issues selenium judging peoples posts 
+
+scriptss explicitwaits validate navigation implicit configuration driver explicitwaits flexible solution depending environment experience webdriverwait class combination expectedconditions solved problems proxy support drivers consistent information acquired point youre exception thrown similar issues wrap webdriver eventfiringwebdriver onexception message webdrivereventlistener hit cases sample fill constants proxy ip port actual url createparameters method update strings title partial url fit case built selenium good luck hope helps 

@@ -1,0 +1,4 @@
+junit tests failing ant build system 
+gentle ant build system run junit tests running tests ant passes ant build run junit tests tests failing ant file stack traces ant build test file main file directory structure directories files advance 
+
+managed working build file ant attempting run junit style test language level defaulting compile tests noclassdef error solved adding hamcrest jar lib strong fix strong ol li set source version li li compile test classes li li add href https code google hamcrest downloads detail hamcrest jar amp amp rel nofollow hamcrest jar li ol strong build xml strong 

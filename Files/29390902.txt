@@ -1,0 +1,4 @@
+awt panel rendered jfx 
+add javafx8 application panel doesnt rendered attached simple testapplication jpanel awt components doesnt show add awtpanel swingnode explain isnt working awt panel hwnd additonal libraries 
+
+href http docs oracle javase javafx api javafx embed swing swingnode html rel nofollow javadocs blockquote hierarchy components contained jcomponent instance heavyweight components swingnode fail paint blockquote embed heavyweight component awt component javafx depending requirements reversing things swing awt frame main window embed javafx part application 

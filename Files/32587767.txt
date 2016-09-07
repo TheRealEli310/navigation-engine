@@ -1,0 +1,4 @@
+inject instance multiple verticles guice vertx 
+vertx verticles created class aimpl implements class verticle myverticle2 myverticle3 guice code run vertx instances aimpl console abusing guice dont aimpl instance ray 
+
+guice wrong creating myverticle instances create injector inside start message end injectors holding singleton create injector main method guice handle creation myverticles injector creates instance aimpl reuses locations remove injectors start methods completely rules thumb working guice ol li avoid li li single injector located main method li ol 

@@ -1,0 +1,4 @@
+decision stream loop 
+writing applications cases introduced cases difficult decide write util methods writing methods produce result interfaces implementation vary custom streams collectors loads implementations fashoined loop answer stream loop case implementations updated provide ways implementing util methods provide mthed returning stream filtering process work required 
+
+implementation stick specific resulting collection type poor performance compared user method resulting list random access manner user method array passed api method accepts array user objects hashcode present input collection create resulting list return streams methods collections caller decide collect method simple dont sofisticated filtering transformation dont change api return change implementation advantage stream api change return type 

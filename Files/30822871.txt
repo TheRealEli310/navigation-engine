@@ -1,0 +1,4 @@
+parsing android resources xml 
+facing problems parsing xml file android app layout ids color ids xml file problems reading string values dont convert xml layout reference layout id xml file parsing code works parsing color layout work 
+
+href http developer android reference android util attributeset html getattributeresourcevalue lang string 20java lang string 20int rel nofollow em getattributeresourcevalue em return referenced resource id stored 

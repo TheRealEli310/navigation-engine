@@ -1,0 +1,4 @@
+scala multi module project 
+ul li background thinking learning li li things make project multi maven module li ul blockquote blockquote nice thing modules dependencies tested independently running monolith application achieve similar ecosystem 
+
+called href http www scala sbt org docs started multi project html rel nofollow sbt multi project build define master project multiple child projects docs link project built separately package separate jar combine single master jar project define dependencies shared needed basically full control project build file href https github izmailoff spray mongo rest service blob master project build scala rel nofollow 

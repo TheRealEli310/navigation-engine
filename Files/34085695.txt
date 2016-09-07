@@ -1,0 +1,4 @@
+send email zohomail spring mvc configuration correct zoho mail send email 
+bean configuration sending email zohomail running program error blockquote org springframework mail mailsendexception failed close server connection message failures nested exception javax mail messagingexception send command smtp host nested exception net socketexception connection closed remote host failed messages sun mail smtp smtpsendfailedexception relaying disallowed message exception details failed message sun mail smtp smtpsendfailedexception relaying disallowed lt zandig zandig pc blockquote 
+
+mention bean id bean change ensure address listed sender list 

@@ -1,0 +1,4 @@
+grails mongodb aggregation 16mb buffer size limit 
+run mongo db aggregate query strong strong buffer size exceeding 16mb adjust buffer size workaround option create collection mongo server side mongo utility mongo exe mongoexport exe client system part code 100k records field query strong fields strong 100k records result success make query 100k records fields throwing error issue access documents collection including strong fields strong document exceeding 16mb limit size strong actual error strong resolve issue mongodb strong strong gridfs suitable criteria retrieve documents request document 
+
+options resolve issue creates collection write result good idea process time consuming complex implement simple implement time consuming href http stackoverflow questions mongodb resolve error exception pipeline element obj href http stackoverflow questions mongodb implement mongodb 

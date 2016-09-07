@@ -1,0 +1,4 @@
+exchange signals applications 
+unconnected applications main app performs business logic crud database 2nd app periodically rebuilds database cache long running taks send signal main app rebuild starts finished main app specific actions rebuilding takes place achive 
+
+spring boot jms simply adding active mq dependencies yml config start amq jms broker application broker url spring activemq memory property defaults true href http docs spring io spring boot docs current reference html common application properties html rel nofollow http docs spring io spring boot docs current reference html common application properties html configuring connect application messages persistent reliable delivery meaning send message application running message start 

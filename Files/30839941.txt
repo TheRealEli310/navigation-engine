@@ -1,0 +1,4 @@
+meaning connectiontimeout tomcat 
+parameter tomcat declared change didnt notice effect expected page load takes milliseconds produce connection timeout error didnt eclipse modify file 
+
+href https tomcat apache org tomcat doc config http html rel nofollow https tomcat apache org tomcat doc config http html connectiontimeout number milliseconds connector wait accepting connection request uri line presented infinite timeout default seconds standard server xml ships tomcat sets seconds disableuploadtimeout set false timeout reading request body 

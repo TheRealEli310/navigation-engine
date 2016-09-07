@@ -1,0 +1,4 @@
+soapaction passed spring integration 
+create simple soap web service proxy spring integration work pass soapaction client calling service service proxying lost conversion spring integration message object message object payload header expecting find soapaction header ws soapaction headers replychannel errorchannel id timestamp standard spring integration headers set ws soapaction hardcoding makes service dynamic soap soap application gateways 
+
+href https jira spring io browse int rel nofollow jira release candidate due week actual release early september jira work earlier versions 

@@ -1,0 +1,4 @@
+infinite loop performance 
+thread work circumstance iterates empty infinite loop affect performance loop check calculation iteration creating thread needed option class implements runnable visual object shown time strong edit strong good solution method performance 
+
+putting thread sleep waking ball variable true multiple ways low level statements classes provide error prone documentation href https docs oracle javase docs api util concurrent locks condition html condition interface data structure href https docs oracle javase docs api util concurrent blockingqueue html blockingqueue solution 

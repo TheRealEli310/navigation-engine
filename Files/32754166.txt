@@ -1,0 +1,4 @@
+location operator mobile number program 
+working project figure state operator phone number entered user making url connection jsoup reterive location operator working code 
+
+looked network traffic browser compared document code turns webserver useragent string set common webbrowser fortunately href http jsoup org apidocs org jsoup connection html useragent lang string rel nofollow jsoup works common useragent strings found places web href http whatsmyuseragent commonuseragents rel nofollow http whatsmyuseragent commonuseragents href http www useragentstring pages firefox rel nofollow http www useragentstring pages firefox 

@@ -1,0 +1,4 @@
+jpa entity id spring data jpa constraintviolationexception thrown bean validation 
+failed save attempt persist leaves entity id case returning view thrown error messages original entity view checks entity id include form action url submitting event controller attempts load entity id code run spring mvc action method unsaved event throws exception caused event entity springs strong id strong exetends spring data jpas heres snippet entity bean 
+
+find behaviour transaction rollback jpa specification href http stackoverflow questions entity state entity id jpa hibernate rollback imagine operations transaction jpa compliant id entity1 transaction rollback called entity1 id persistentcontext remain unconsistent state jpa check href http stackoverflow questions jpa entitymanager persist merge diffference perist merge persist return entity1 managed call 

@@ -1,0 +1,4 @@
+caesar cipher 
+make caeser cypher stringbuilder main problems encrypt decrypt dont cancel isletter function skips lot characters ignore white spaces 
+
+hints ol li test testing index symbol symbol li li make taking em positive em add computing li li separate methods eliminate li li unnecessary check li ol 

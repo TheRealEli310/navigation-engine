@@ -1,0 +1,4 @@
+add multiple suggesters definition solr search components 
+solr configure multiple suggester definition solr search component href https cwiki apache org confluence display solr suggester rel nofollow apache solr wiki configured single suggester perfectly works perfect configure multiple suggester errors strong solrconfig xml strong pre class lang xml prettyprint override 
+
+answer dhanesh radhakrishnar changing analyzinginfixlookupfactory fuzzylookupfactory works purpose lost found solution thing add indexpath analyzer implementation suggester 

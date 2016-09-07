@@ -1,0 +1,4 @@
+list string occurrences count sort 
+developing em em application reads lot strings data likes couple string occurrences strong order read read strong br br string nbsp occurrences br horse nbsp nbsp print br cat nbsp nbsp nbsp nbsp br dog nbsp nbsp nbsp nbsp br fish nbsp nbsp nbsp nbsp print br list br add data br insert strings sorted list possibilities trick works good slow millions input br english isn language excuse mistakes 
+
+href http stackoverflow users radoslaw grebski radoslaw pointed insertion sorting href https docs oracle javase docs api util linkedhashmap html rel nofollow href http stackoverflow questions class implements map insertion order blockquote keys order inserted sorted comparator natural comparable ordering elements blockquote imagine strings array call iterate array string map exists put map exists sum actual result 

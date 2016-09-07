@@ -1,0 +1,4 @@
+bitset thread concurrent readonly operations 
+multiple threads application accessing bitset concurrently href http docs oracle javase docs api util bitset html rel nofollow documentation blockquote bitset multithreaded external synchronization blockquote doesnt reading writing explain 
+
+read operations relationship action initializes actions read simplest achieve sufficient ensure safely published dont guarantee threads read fully initialized state alternative explicit synchronization variable hold reference inserts memory barrier read write variable hr reasoning applies thread effectively immutable objects objects mutable state dont mutate 

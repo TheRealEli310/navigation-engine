@@ -1,0 +1,4 @@
+alternatives orientdb schema 
+orientdb documentation describes api enabled schema graph databases ways alternatives creating enforcing schema orientdb xml json xsd api 
+
+orientdb studio web ui simple sql statements executed studio console programmatic api rest protocol href http orientdb docs orientdb rest html rel nofollow http orientdb docs orientdb rest html href http orientdb docs sql create class html rel nofollow http orientdb docs sql create class html href http orientdb docs sql create property html rel nofollow http orientdb docs sql create property html 

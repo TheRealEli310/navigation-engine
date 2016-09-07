@@ -1,0 +1,4 @@
+javafx android port google play services 
+written game javafx ported successfully android include google ads created platformservice androidplatformprovider href https bitbucket org javafxports samples rel nofollow shown gluon plugin netbeans added build gradle file androidmanifest xml added error build apk file searched bit found include google play services lib library dont time working gradle android sdk manager installed newest play services repository 
+
+complete solution workaround google play services lib fat jar services copy jar libs folder wont dependencies build project youll meta data manifest file google play services lib folder youll find folder file find editing file replacing string androidmanifest xml resources jar approach copying res content android res folder build apk 

@@ -1,0 +1,4 @@
+bad practice return super equals super hashcode class 
+lets class field attribute verified equals create hashcode working list people memory stored objects database null objects hashcode return object solved issue adding equals hashcode metods worked class relies database field equality check 
+
+noted jeroen vannevel end objects stored database holding exact information technique identifying solver true subclass meant behavior superclass shouldnt return theyre equal extending class assumption true exclude possibility persisted memory basic href https docs oracle javase docs api lang object html equals lang object rel nofollow equals method blockquote null reference values method returns true refer object blockquote href https docs oracle javase docs api lang object html hashcode rel nofollow hashcode method object blockquote practical return distinct integers distinct objects blockquote definitions make clear youre extending technique 

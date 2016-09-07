@@ -1,0 +1,4 @@
+spring autowired null 
+simple code understand spring di functionality code pre class lang prettyprint override pre class lang xml prettyprint override declared bean refers class 
+
+annotation doesnt work field change 

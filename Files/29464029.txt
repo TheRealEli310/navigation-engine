@@ -1,0 +1,4 @@
+socketserver communication server php client 
+establish communication socketserver server socket client php client connect host client send message server reads message successfully strong problem strong arises strong socketserver writes client strong client receive message server read questions scenario php socket communication find causing problem socket client communication works perfectly ways strong server strong strong client strong guide problem 
+
+server side code expects line terminated linefeed php send check data send making send linefeed character 

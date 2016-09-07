@@ -1,0 +1,4 @@
+strut2 textfield retaining submit 
+struts2 hidden fields pass jsp textfield action implementation steps ol li action1 jsp jsp submit action2 li li action jsp jsp previous textfield display plain text put hidden field retain submission li li action2 jsp back button control back action1 considered action1 button action2 back button back li ol issue click back textfield set scenario ol li action1 textfield jsp li li click button takes control action2s jsp li li action2 plain text displays jsp li li click back button takes control action1s jsp li li expected result textfield retain li ol f12 browser developer mode generates tag type displayed actual screen 
+
+fixed found issue related jscript jsp file occured js written jsp erasing input field page loaded accessed lesson learnt times js culprit 

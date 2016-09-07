@@ -1,0 +1,4 @@
+preferred size control 
+attempt playing javafx understand bit layout management access preferred size control attempting set maximum width pixels greater preferred width button grow maximum width frame increased run code preferred width adding preferred width maximum width run code click button resize width frame button large click button hoping access preferred size width control 
+
+returns flag default internally computed preferred width preferred width calculated node layed layout pane hbox time stage shown multiple options maximum width depend preferred width set preferred width fixed prior setting maximum width implement custom layout algorithm node layout pane custom button 

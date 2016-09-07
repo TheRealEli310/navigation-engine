@@ -1,0 +1,4 @@
+write program compress string 
+question run length encoding rle simple compression algorithm algorithm takes block data reduces size producing block information space works replacing repetitive sequences identical data items short tokens represent entire sequences applying rle string involves finding sequences string character repeats sequence replaced token consisting character repeat left string applying rle algorithm string converted dont count characters times character repeated 
+
+output 

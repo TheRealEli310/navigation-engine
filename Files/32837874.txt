@@ -1,0 +1,4 @@
+include resources jar dependency project war file 
+maven project webapp war packaging depends core project jar packaging inside webapp access resources src main resource dir core project mvn clean install doesnt put core resources war classpath poms inclusion 
+
+maven include jar dependency resources building war archive plugin achieve href http stackoverflow questions maven copy resources multi module project question copying resources copy literally href http maven apache org plugins maven remote resources plugin examples sharing resources html rel nofollow page plugin documentation resources wanted include webapp located core pom xml plugins section add webapp pom xml plugin section add webapp project directory content directory correctly accessible classpath resources 

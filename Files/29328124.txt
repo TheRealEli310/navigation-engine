@@ -1,0 +1,4 @@
+bean resolver registered context resolve access bean 
+implement method security config error method config class definition methodsecurityconfig checked autowire bean class found default haspermission methods working implemented problem reading bean spel whats wrong pointers spring spring security 
+
+ensure set applicationcontext defaultmethodsecurityexpresssionhandler alternatively concisely define single permissionevaluator bean spring security automatically pick override expressionhandler 

@@ -1,0 +1,4 @@
+sdn4 classcastexception util hashmap cast entitynode 
+issue appeared code updating sdn4 code exception loop appears case parts code shows issue strong update strong item class entity class repository query method appreciated cheers 
+
+bug track href https jira spring io browse datagraph rel nofollow https jira spring io browse datagraph temporary workaround 

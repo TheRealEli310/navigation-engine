@@ -1,0 +1,4 @@
+mybatis inverse relation duplicated objects 
+map inverse relation collection strong mybatis strong mybatis duplicates objects id mapping xml file junit test strong objb getobja strong strong obja strong instance reference obja configure result map working 
+
+pojos em em lets class class implement comparable interface sort objects alternately sql queries written desired sort order rows returned heres artist class artist holds collection recordings heres recording class recording holds reference artist strong configuration strong mapped statements defined xml files referenced sqlmapconfig xml file heres file specifies statements related artists table heres file specifies statements related recordings table href http ociweb mark programming ibatis html rel nofollow find complete 

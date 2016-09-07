@@ -1,0 +1,4 @@
+mockito notamockexception 
+facing issue mockito junit testing bit confused problem facing appreciated exception code aware activity mock method class write rule unit testing definition consists external dependencies mocking external dependencies present writing rules rule found post href https stackoverflow questions mockito spying object unit tested mockito spy ing object unit tested separating secondmethod class make sense method related class creating class testing mocking actual class spy correct explained post dont creating mock activity class class testing insights 
+
+noted mock record behavior href http docs mockito googlecode hg org mockito mockito html spy rel nofollow spy partially mock object record behavior execute actual code matchers calls regardles youre ing ing object return concrete object slightly elegant syntax annotations explicitly calling matter taste 

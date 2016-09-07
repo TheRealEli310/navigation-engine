@@ -1,0 +1,4 @@
+converting utf8 gb2312 
+code bellow print false run code jdk7 jdk8 code style ide utf8 
+
+encoding decoding output input kalpesh internally unicode read stream specific encoding write encoding conversion bytes stream strings strings bytes output stream proper exception handling make properly closed 

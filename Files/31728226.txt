@@ -1,0 +1,3 @@
+print numberformatexception occurs 
+print command line argument integer occurs program takes command line arguments prints text depending heres code 
+

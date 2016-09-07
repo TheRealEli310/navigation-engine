@@ -1,0 +1,4 @@
+dateformat parse string datestyle timestyle 
+code write console blockquote error parse date string nov pm blockquote dont understand 
+
+states documentation getdatetimeinstance int datestyle int timestyle method date time formatter date time formatting styles default locale pass locale object getdatetimeinstance int datestyle int timestyle locale alocale method 

@@ -1,0 +1,4 @@
+android studio issue build gradle uncaught translation error executionexception outofmemory 
+strange problem android app android studio working fine today adding em files em making updates strong build gradle strong error message issue build gradle lines strong dependencies added line strong set multidexenabled true 
+
+run script option android closure increase maximum heap size dex operations find explanation href http stackoverflow questions android gradle javamaxheapsize 4g question 

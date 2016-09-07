@@ -1,0 +1,4 @@
+spring security beans access global authenticationmanagerbuilder 
+set boilerplate spring security configurer access authenticationmanagerbuilder bean access beans instance automatically passed method 
+
+authenticationmanagerbuilder meant building authentication objects userdetails authenticationprovider authenticationmanager intended application recommend userdetailsmanager api create userdetailsmanager bean provide userdetailsmanager authenticationmanagerbuilder creating authenticationprovider amp authenticationmanager userdetailsmanager directly code thing leverage global instance authenticationmanagerbuilder order ensure configureglobal method invoked building authenticationprovider authenticationmanager enableglobalauthentication enablewebmvcsecurity enablewebsecurity annotations configuration class 

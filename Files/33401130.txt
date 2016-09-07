@@ -1,0 +1,4 @@
+convert lambda parameters usable objects 
+stream list doubles keys doubles original list values computed code intellij complaining valid lambda expression complaining cyclic inference error call lambda parameter double cast call fails cast missing lambda parameters 
+
+problem simply collecting operation returns type forgot give parameter assume typo writing question 

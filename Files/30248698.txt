@@ -1,0 +1,4 @@
+division integers set precision 
+ints dividing answer convert answer string expecting string interested make string character make result character 
+
+multiply result digit youre interested digit integer division result base digit prints 

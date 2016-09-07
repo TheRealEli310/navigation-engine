@@ -1,0 +1,4 @@
+rolling back transactions exception thrown 
+throw exception service method expected transactional annotation service rollback save operation working service data xml configs dispatcher servlet xml declared scan spring data jpa release 
+
+problem configuration declared services transaction manager spring contexts transaction manager root context services child dispatcher servlet xml context 

@@ -1,0 +1,4 @@
+exception thread main lang runtimeexception unable construct application instance class view 
+instantiate object type wrote static main method exception hr stack trace 
+
+invoking constructor wrong javadocs href https docs oracle javase javafx api javafx application application html launch lang string rel nofollow https docs oracle javase javafx api javafx application application html launch lang string blockquote launch method return application exited call platform exit application windows closed blockquote worked hang constructor method static instantiator 

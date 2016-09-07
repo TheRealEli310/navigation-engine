@@ -1,0 +1,4 @@
+tcpconnectionfactoryfactorybean support circular references 
+create simple work result missing 
+
+change code spring specific handling instances bean breaks invoking initialized call initialize inline code spring care initialization 

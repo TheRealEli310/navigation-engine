@@ -1,0 +1,4 @@
+store multiple movie titles array loop 
+working project school prompt multiple movie titles amount copies movie store array appears time title writes title files contents included bottom prompting movies entered blockquote title video br lion king br number copies br br title video br finding nemo br number copies br br title video br monsters br number copies br blockquote input answers iteration put em monsters em prints spaces array blockquote title copies br br monsters br br monsters br br monsters br blockquote find overwriting previous values array position show em lion king em position show em finding nemo em code 
+
+inside loop youll adding instance array multiple times 

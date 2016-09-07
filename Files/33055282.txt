@@ -1,0 +1,4 @@
+nested loops variable reset 
+weve learning loops nested loops question variable loop resets increment outer loop variable maintains case program runs times whilst incrementing count increments back time explain 
+
+loop counters local variables scope extends structure created leave loop counter longer exists 

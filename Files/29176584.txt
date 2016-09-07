@@ -1,0 +1,4 @@
+set content type camel restlet producer request 
+consume simple rest service implementation breaks request content type application www form urlencoded set application json faced status restlet producer component hit sweet spot functionality simplicity set header route effect content type request remains application www form urlencoded test code missing find point 
+
+call processor call restlet set content type exchange tested works result 

@@ -1,0 +1,4 @@
+stanford core nlp entity type deterministic 
+built parser stanford core nlp finding issue consistent results corenlp object entity types input text bug corenlp wondering stanfordnlp users encountered issue found workaround service class instantiating reusing 
+
+looked code resolve solve load serialized crfs useknownlcwords set false serialize supply serialized crfs stanfordcorenlp command loading serialized crf useknownlcwords set false dumping mx600m cp stanford nlp crf crfclassifier loadclassifier classifiers english 3class distsim crf ser gz useknownlcwords false serializeto classifiers english 3class distsim crf ser gz put names command assumes stanford corenlp full directory classifiers serialized crfs change set command load serialized crf override useknownlcwords set false dump crf english 3class distsim crf ser gz original code works working deeply 

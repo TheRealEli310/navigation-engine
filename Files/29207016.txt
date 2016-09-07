@@ -1,0 +1,4 @@
+aes cbc pkcs5padding secretkey php 
+convert code php convert iv salt byte string php requires 
+
+solution php lt pbkdf2 function provided php framework api php function hash pbkdf2 

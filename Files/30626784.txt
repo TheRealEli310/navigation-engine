@@ -1,0 +1,4 @@
+adding keylistener jmenubar 
+code jmenubar add key listener entire jmenubar adding pick typed jmenu added jmenubar strong edit show full customkeylistener strong 
+
+bad idea user find confusing find enter key menu invokes action doesnt menus suggestion gave comment solution curious didnt work found focus jrootpane menu displayed events dispatched component focus add keylistener root pane easier approach method interface keylistener methods include menu 

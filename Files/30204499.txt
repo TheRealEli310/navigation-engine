@@ -1,0 +1,4 @@
+modify delete list arraylist addressbook 
+kind learning creating addressbook added names arraylist problem modifying deleting listing arraylist class file test file 
+
+href http docs oracle javase docs api util arraylist html rel nofollow arraylist doc information href https docs oracle javase tutorial nutsandbolts html rel nofollow loop addressbook object modify entry hope hints started strong beginner tip strong remember steps small create single entry modify delete notice duplicate code program loop strong errors strong populating person creating person values populated person simply pass original person arraylist 

@@ -1,0 +1,4 @@
+osgi structure project 
+develop system order manage readings text file main structure based bundles ul li provide li li generate provide data li li add values file li li visualize generated file readings li ul question organized familiar work working current structure img src http stack imgur beaqt png alt enter image description ul li interface files services provided li li activator files register li li impl files implement supposed implement package li ul correct advance 
+
+youre separate interfaces packages implementations generally youll bundle export packages interfaces implementation packages minimise coupling bundles services project result osgi bundle separate project manifest file services developed deployed independently communicate service interfaces 

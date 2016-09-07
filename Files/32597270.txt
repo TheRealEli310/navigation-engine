@@ -1,0 +1,4 @@
+arraylist time complexity copy shift elements needed time 
+figure difference time complexity methods understand big defined terms worst case scenario worst case addition arraylist involves resizing copying elements array method element array possibility copy elements larger array method order things copying elements inserting element combined wouldnt add elements larger list shift elements needed add element case method works 
+
+backed array insert element head array shuffle element make room means single call em em element added moved br times adding element end backing array requires putting unused element array array full bigger array allocated copied decreasing frequency array grows specifically operation times times 

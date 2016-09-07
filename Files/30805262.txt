@@ -1,0 +1,4 @@
+recyclerview view position scrolling 
+working recyclerview custom manager href https github devunwired recyclerview playground blob master app src main android recyclerplayground layout fixedgridlayoutmanager rel nofollow found interested change recyclerview position displayed problem dont user screen scrolling position load views long story short recyclerview change whats displayed positioned view scroll built functionality hoping give guidance dale 
+
+href http developer android reference android support v7 widget recyclerview html rel nofollow recyclerview methods result instant jump position scrolling strong edited strong apparently direct links work fixed fairly 

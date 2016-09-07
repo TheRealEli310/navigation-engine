@@ -1,0 +1,4 @@
+fill recyclerview adapter firebase 
+made lot research couldnt find resource recycler view vice versa firebase list adapter extends found href https github firebase androidchat rel nofollow firebase chat application href https github firebase androidchat blob master app src main firebase androidchat firebaselistadapter rel nofollow firebaselistadapter class adapter recyclerview extended overcome problem suggestion 
+
+moment provide implementation recyclerview adapter firebaselistadapter inspiration roll heres chat app recyclerview href https github thaleslima chat firebase tree master app src main gdgcampinas chat firebase rel nofollow https github thaleslima chat firebase tree master app src main gdgcampinas chat firebase h2 update h2 library called href https github firebase firebaseui android rel nofollow firebaseui includes highly recommend apps basis adapter suits 

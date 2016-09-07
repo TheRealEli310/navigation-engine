@@ -1,0 +1,4 @@
+hibernate found representations collection 
+working hibernate entitymanager hibernateexception found representations collection scenario entities relationship entity relationship lets make clear onetoone onetomany loaded transactions interceptors make setxxx entitymanager merge instance represent instance id primary key error fact instances represent entity pk solve thought setxxx getxxx sounds messy suggestions 
+
+tobb mihir figure call entitymanager merge situation points points list points instance turn points list instances represent object db pk applies lists fair message representations collection ill remove cascade relationship merge wont transverse branch graph 

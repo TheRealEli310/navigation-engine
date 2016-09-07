@@ -1,0 +1,4 @@
+printing raspberry pi usb4java 
+advance reading app send bytes usb interface epson tm t88v receipt printer esc pos commands behaviour executed raspberry pi compared executed dev laptop super strange bytes printed raspberry pi stops completing code things investigated ol li read java8 heavy processing pi lose power usb devices upgraded power source pi receiving 2a li li comparing bytes printer dev machine pi identical bytes number bytes identical li ol provide info bytes printer esc pos commands laptop work expected dont wrong 
+
+found solution splitting array sending bytes time allowed printer pi communicate successfully printer randomly stopping dont actual problem shed light amazing facing issue solved 

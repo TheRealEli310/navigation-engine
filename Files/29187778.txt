@@ -1,0 +1,4 @@
+capital state guessing game 2d arrays 
+online found people sort code provided solution issue directly task program user capital arizona user enter capital phoenix award point move question tallying number correct answered displaying bottom output running program asks capital state list provide point spits rest states correct give chance enter state missing part move back original question enter capital state listed state answered assist statement apply loop couldnt loop work properly suggestions code 
+
+move question input inside loop input correct print correct lines inside loop states change condition lt arrayindexoutofbounds 

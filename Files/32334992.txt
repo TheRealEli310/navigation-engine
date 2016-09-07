@@ -1,0 +1,4 @@
+hibernate classcastexception org hibernate type serializabletype cast org hibernate type versiontype 
+odd exception appearing run unit test stack trace libraries frameworks ol li jpa li li org hibernate hibernate entitymanager final li li h2database h2 li li junit junit li li intellij ide running test li li org hibernate hibernate envers final li ol bet persistense xml file classes cut things readable unit test basic finds record code finally entity complex posting code guess relationship fault entity 
+
+answer entity class jodatime fields required persistence xml file additional properties set jodatime fields finally fixed persistence xml file classes cut things readable 

@@ -1,0 +1,4 @@
+spring security authentication providermanager throwing notserializableexception 
+building jsf2 web app spring security security things everytime restarting tomcat notserializableexception thrown providermanager spring security webapp working perfectly afraid problems deploying production make providermanager serializable exception 
+
+loginbean simply replace ther save entered user informations logging session variable access spring security features 

@@ -1,0 +1,4 @@
+reading text file character character 2d array 
+part object oriented class design battleship game tui eventually implement gui design read ais ship locations text file similar div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override letters represent ships current implementation game dimensional array characters read text file create 2d array built functions read string integer read character character advance 
+
+simplest opinion read file line line read lines character character built utility avoid complexities handling lines vary os editor href http docs oracle javase docs api io bufferedreader html rel nofollow bufferedreader docs 

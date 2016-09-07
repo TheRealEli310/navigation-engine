@@ -1,0 +1,4 @@
+net socket inputstream bufferedreader read char blocks thread 
+bufferedreader read char method easier versatile bufferedreader readline method receiving answer server bufferedreader parallel bufferedoutputstream code read char method blocks console output em buffer waiting read em client server main works fine long bufferedreader read called code output doesnt server strong update strong answered jb nizet problem lies server script readline waits eol character connection end adding message client side solved deadlock 
+
+server accepts connection client thing blocks client sends complete line text server line complete reads eol character stream closed client client starts thing line text eol client waits response server waiting eol client implemented networked deadlock 

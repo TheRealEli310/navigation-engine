@@ -1,0 +1,4 @@
+querydsl mongodb usage 
+mongo configuration spring project start building queries querydsl mongodb module href http www querydsl static querydsl latest reference html ch02s07 html rel nofollow documentation ideia create instance morphiaquery class object inject mongo instance object href http www hascode creating elegant typesafe queries jpa mongodbmorphia lucene querydsl rel nofollow tutorials found online create instance build queries inside fully functional 
+
+morphia spring data mongodb alternative object mappers querydsl mongodb querydsl bundles morphia integration spring data mongodb refer href http docs spring io spring data data mongo docs release reference html rel nofollow references docs set 

@@ -1,0 +1,4 @@
+view flipper imageview 
+android viewflipper id imageview create arraylist images multiple imageviews good practice images 
+
+h2 mainactivity h2 h2 activity main xml h2 

@@ -1,0 +1,4 @@
+class arrays 
+arrays objects objects class execute code output execute output questions ol li class arrays li li result li li operator execute works perfectly li ol 
+
+href https docs oracle javase specs jls se7 html jls html rel nofollow jls arrays dynamically created implement reason youre due object href http docs oracle javase docs api lang class html getname rel nofollow represented href https docs oracle javase specs jls se7 html jls html jls rel nofollow reifiable types array reifiable concrete generic arrays issue isnt em em primitives primitives compile time error 

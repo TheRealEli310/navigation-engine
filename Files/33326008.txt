@@ -1,0 +1,4 @@
+find time complexity recursive method 
+havent grasp concept complexity fully wondering calculate method code understand recursive method confusing time function called called run times calls dont start great 
+
+common technique determining runtime recursive functions write em recurrence relations em describe runtime quantity defined terms lets start denote runtime ul li calling takes constant amount work li li calling constant amount work calls li ul couple values spot pattern ul li li li li li li li li ul generally speaking formalize proof induction youd faith means runtime lets runtime calling notice ul li calling constant amount work li li calling calls requiring work calls li ul expand pattern ul li li li li li li li li ul generally formalize induction youd famous sum works quantity theta runtime theta 

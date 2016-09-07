@@ -1,0 +1,4 @@
+tic tac toe 
+lost trouble building game guys struggling days figure classes driver board player driver board class control struggling player class goal computer player randomly input array player input choice play board class player class struggling prints 
+
+code board put position string getrandomfreeplace scan player movement print board update initialize board make double 

@@ -1,0 +1,4 @@
+webdriver getcurrenturl returning malformed uri 
+involved writing groovy browser automation app selenium firefox driver issue urls find wild apparently em bad em uri syntax specifically curly braces construct string returned thrown em encoding em constructing work understand em em url encoded doesnt preseve pieces parse normal fashion uri string difference query string param delimeter encoded content single qs param solution constructing running groovy code dirty wrong guess strong question strong multi part ol li firefoxdriver return string uri li li string malformed li li strong practice dealing kind thing strong li ol 
+
+partially encode query string parameters discussed comments work href https github smola galimatias rel nofollow galimatias library output 

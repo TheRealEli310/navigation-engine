@@ -1,0 +1,4 @@
+directory path content uri 
+sdks href http developer android reference android content intent html action open document tree rel nofollow intent user select directory heres code uri pointing folder selected heres output absolute path translating case found code href https github ipaulpro afilechooser blob master afilechooser src ipaulpro afilechooser utils fileutils l257 rel nofollow afilechooser work sd cards main case split uri preceding part primary external storage path feels wrong deterministic achieve edit heres background dont path manage files present user show scary 
+
+blockquote absolute path translating case storage sdcard1 images blockquote requirement point file file access content read significantly handle url web server web page content blockquote present user blockquote dont href http developer android guide topics providers document provider html metadata rel nofollow suggested display content 

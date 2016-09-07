@@ -1,0 +1,4 @@
+moving graphics 2d object threads 
+boat moving explain detail great creates shows boat sailboat class draws boat poly lines 
+
+based snippets code things jump ol li extend calling method li li calling displayable component added based ul li remove confusing matter li li move call method update internal position object call li li call custom painting li li swing updates context edt making safer update state ui href http docs oracle javase tutorial uiswing concurrency rel nofollow concurrency swing href http docs oracle javase tutorial uiswing misc timer html rel nofollow swing timers details li li avoid applets bunch issues dont deal li li move core logic override method call double buffering free add panel top level container li ul li ol 

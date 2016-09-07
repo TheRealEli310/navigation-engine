@@ -1,0 +1,4 @@
+parse database initialization app crashes navigating back mainactivity 
+project starts fine mainactivity starts navigates page navigate back mainactivity error href http imgur fvhwmhn rel nofollow http imgur fvhwmhn positive calling code mainactivity local data store called initialize crashes dont communicate data base fine navigate back main crashes 
+
+initialize parse sdk separate class strong important strong put class info androidmanifest xml file hope helps 

@@ -1,0 +1,4 @@
+lang noclassdeffounderror stanford nlp parser lexparser lexicalizedparser 
+working stanford parser api system specifications listed os win8 ide intellijidea14 jdk stanford parser version imported stanford parser jar ejml jar module dependencies classpath parser models saved jar file named stanford parser models stanford support team blockquote recent distributions models included jar file inside parser distribution distribution models included stanford parser models jar easiest access models include file classpath parser read models jar file blockquote import stanford parser models jar file extracted save model address drive finally changed code strong strong give exception errors don change code receive exception 
+
+youre missing parser jar classpath add parser jar model jar classpath program work 

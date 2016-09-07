@@ -1,0 +1,4 @@
+jackson serialize null property include null set class level 
+model class ignore values property dynamically run time set included 
+
+override class level field level 

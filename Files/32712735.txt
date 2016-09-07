@@ -1,0 +1,4 @@
+simpledateformat returns wrong timezone 
+processing print simple timestamp arduino outputs values working simpledateformat returns actual time mvce output doubt issue plug values online epoch converter correct time issue code 
+
+object parameter accepts time long milliseconds seconds multiply make supply long 

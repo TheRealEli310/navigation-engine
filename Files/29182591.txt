@@ -1,0 +1,4 @@
+index jsp working shows source code browser 
+spring mvc application pass list jsp page show table em index jsp em isnt rendered shows source code browser controller jsp wrong 
+
+annotate controller class annotation implies request handling method assumes semantics javadoc blockquote method return bound web response body blockquote check annotation inernals ul li href http docs spring io spring docs current javadoc api org springframework web bind annotation restcontroller html rel nofollow li li href http docs spring io spring docs current javadoc api org springframework web bind annotation responsebody html rel nofollow li ul 

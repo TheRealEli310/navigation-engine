@@ -1,0 +1,4 @@
+parse incoming string bufferedreader 
+working program collecting information database translator connection redirect work stuck part suppose parse incoming information grab piece case called abstractnote json parser incoming buffer json object grab null results json structure codes parse 
+
+problem didnt realise jsonarray jsonobject start creating jsonarray fill information reader array jsonobject grab abstractnote 

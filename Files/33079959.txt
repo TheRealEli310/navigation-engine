@@ -1,0 +1,4 @@
+vaadin customize valo theme 
+scss customize valo theme vaadin application read topic book vaadin find style structure based href https github vaadin dashboard demo tree master src main webapp vaadin themes dashboard rel nofollow official vaadin dashboard demo compiling scss styles css file customized entries valo menu strong original strong strong customized strong define rules scss compiler takes automatically everytime compile theme lost 
+
+href https vaadin book vaadin7 page themes creating html book vaadin add code end blockquote actual theme defined mixin includes base theme blockquote case lines 

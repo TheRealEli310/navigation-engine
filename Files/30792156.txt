@@ -1,0 +1,4 @@
+jce unlimited strength policy ssl handshake tls 
+server supports fails make secure socket connection cent os strong version strong strong source strong version jvm makes handshake successfully osx fails centos failure reason default jvm doesnt lower protocol debug notes strong question strong ul li choose osx centos li li jvm protocols specific order considers order version li ul strong edit strong unlimited strength jce policies installed jre causing works osx centos difference make work strong edit strong output 
+
+limiting protocols page details href https docs oracle javase docs technotes guides security jsse jsserefguide html descphase2 rel nofollow https docs oracle javase docs technotes guides security jsse jsserefguide html descphase2 hope helps yuri 

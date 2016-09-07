@@ -1,0 +1,4 @@
+activate gravity compensation kuka lbr iiwa 
+activate gravitation compensation kuka lbr iiwa class gravcomp gravcomp command bring lbrs gravitation compensation find command method start 
+
+gravitation compensation officially means possibility pseudo gravitation compensation impedance mode stiffness handguiding 

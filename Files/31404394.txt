@@ -1,0 +1,4 @@
+jwt token encryption transferring http 
+id validate security approach wed applications wed pass data jwt token make redirect pllication pass sensitive information token purpose created jwtsigner shared secret sign claims understanding preferable additionally encrypt information signing pervent tampering info question secure pass token parameter url 
+
+depends applications issue valid tokens wrong worthless tm ul li payload jwt generally encrypted read parties base64 decoding signing prevents tampering disclosure li li jwt alg field encryption algorithm href https auth0 blog critical vulnerabilities json web token libraries rel nofollow attacker friendly trust contents li li make immune replay attacks verifying request counter time stamp li li strong encryption public key encryption advantage allowing endpoint verify knowing private key symmetric encryption option li li protect secret keys keys testing deployment check keys source control li ul 

@@ -1,0 +1,4 @@
+hibernate criteria query vararg method 
+objective entities specific ids create vararg method entity ids return entity list ids usage create criteria query 
+
+variable number clause clause href https docs jboss org hibernate orm javadocs org hibernate criterion restrictions html lang string lang object rel nofollow method 

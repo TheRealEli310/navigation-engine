@@ -1,0 +1,4 @@
+jooq record mapper maps wrong id join 
+tables asdf qwer tables primary key named id join tables result columns named id jooq unable map records correctly pojos asdf instance id qwer instance tuple clever aliasing trick solve problem miss jooq documentation bug jooq 
+
+href http www jooq org javadoc latest org jooq impl defaultrecordmapper html rel nofollow maps href http www jooq org javadoc latest org jooq record html rel nofollow columns pojo attributes column columns distinct table references table information pojo workaround map respective href http www jooq org javadoc latest org jooq record html org jooq table rel nofollow 

@@ -1,0 +1,4 @@
+change version cordova subprojects 
+cordova project building android plugin plugin library diamond operation lt run receive error run research posting people resolved changing ant didnt worked make file set appears resolve main project subproject plugin 
+
+worked adding projects libraries plugin main libraries yout cordova project copy libraries libs eclipse build path order export mark create build extras gradle file root platforms android folder put code file keeping referencing subprojects make reference project subproject worked 

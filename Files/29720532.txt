@@ -1,0 +1,4 @@
+abstractly deserialize enum types jackson based common field 
+h3 problem h3 deserializing jackson dont match code sample json explain solve issue em individually em making deserializer annotation setter method foo h3 question h3 strong abstractly strong added hastext enums hopes compile wont annotate setter method class pre class lang prettyprint override strong deserialize based gettext method strong 
+
+order deserialize string executing code serialize deserialize 

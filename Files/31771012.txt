@@ -1,0 +1,4 @@
+javaagent classnotfoundexception 
+javaagent called loggeragent details log applications classnotdefinedexception interestingly run javaagent loggeragent class intentionally defined main function test program works case pasting manifest file javaagent named agent jar ideas wrong 
+
+compare classpath main class wrote intentionally classpath class exception class path manifest relative executable jar youve written 

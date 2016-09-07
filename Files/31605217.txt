@@ -1,0 +1,4 @@
+jackson exception writevalueasstring method 
+integrate jackson code convert object json back project web application developed tomcat7 java7 downloaded version jars jackson convert object json run exception oposite converting json object result research found references posible dependency problem find missing included jars obtained maven repository ideas problem 
+
+comments problem initializing correctly object data nullpointerexception 

@@ -1,0 +1,4 @@
+fixing net bindexception address jvm bind 
+creating program server multiple clients accept incoming client connection port exception track individual client send messages single client wanting add socket arraylist connected 
+
+listen accept times 

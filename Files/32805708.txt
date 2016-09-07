@@ -1,0 +1,4 @@
+extract jpg metadata metadata extractor exif 
+pose date time picture jpg found web deal issue metadata extractor brings effects direct possibly simplest tool trials brings result build successful total time link href https drewnoakes code exif rel nofollow metadata extractor advance 
+
+add library project xmp core version needed follow step xmp core version strong builder download jar file add project strong href http www java2s code jar downloadxmpcore512jar htm rel nofollow xmpcore jar strong maven add dependency strong href http mvnrepository artifact adobe xmp xmpcore rel nofollow url access maven repository xmp code library 

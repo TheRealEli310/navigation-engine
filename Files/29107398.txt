@@ -1,0 +1,4 @@
+remove items arraylist 
+created list objects people added figure remove person list id number wanted remove person id number didnt fell list 
+
+arraylist entire list person id number larger datasets efficient avoided change data structure sort href https docs oracle javase docs api util map html map href https docs oracle javase docs api util hashmap html hashmap typically good choice id number key associate person query map key con key id number keys edit br efficient arraylist sorted id number href https docs oracle javase docs api util collections html binarysearch util list collections binarysearch quickly access elements id number con expensive remove insert sorted array greater element moved compared number reads viable 

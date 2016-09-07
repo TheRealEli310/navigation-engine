@@ -1,0 +1,4 @@
+sending data android app mysql database 
+newbie attempting send data android app mysql database set localhost server xampp method supposed put username password phone number age arraylist type namevaluepair run application receive exception research leads problem url string dont specifically issue advance aware awful security implications storing password plain text database learn interact apps databases thx 
+
+issue simply wrong ip address reason localhost work figured systems ipv4 address worked 

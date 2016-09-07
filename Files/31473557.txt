@@ -1,0 +1,4 @@
+android display splash screen loading 
+android app shows splash screen seconds mainactivity loaded mainactivity takes additional seconds load startup longer app loaded runs smooth achieve mainactivity loaded display splash screen display image thing loaded completely read async task put properly strong splashscreen strong strong mainactivity strong 
+
+specific constraints time splash screen shown resulting data nature string put object extra activity retrieve data 

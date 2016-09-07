@@ -1,0 +1,4 @@
+htmlunit outofmemory heap space exception 
+solve heap space outofmemory exception thrown program htmlunit api visit pages pages extensive javascripts choosed htmlunit program runs hour memory exception encountered methods suggested posts solved issue program runs linux linux top command shows memory usage program continuously increasing reaches outofmemory exception thrown methods solve issue br increased heap space br run jdk1 br run open jre1 br latest version html unit htmlunit2 br webclient close method finally block list count increases page visit close windows increased memory usage htmlunit program release memory webclient close method called suggestions related appreciated edit 
+
+memory leak youre adding objects instances collection theyre time case issue library examine code btw href http htmlunit sourceforge net apidocs index html rel nofollow webclient autocloseable syntax 

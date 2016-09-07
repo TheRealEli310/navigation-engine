@@ -1,0 +1,4 @@
+multiple dispatcher servlets web contexts spring boot 
+created spring boot application parent context services child context spring webmvc controllers add client context dispatcherservlet apitwo class configuration things ol li move servletcontainer mainapiapplication class configuration child context li li add path mapping apione class apitwo class li ol spring boot 
+
+josh ghiloni register isolated web context create create application context xml config class annotation add shared services parent context 

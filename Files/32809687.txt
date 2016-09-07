@@ -1,0 +1,4 @@
+adding relativelayout child parent layout dynamically work 
+inflate child views parent view dynamically throws error strong add relativelayout child strong heres code strong parent layout strong strong child layout strong strong inflation code strong error blockquote caused lang illegalstateexception child parent call removeview childs parent hellotest testingdynamics oncreate testingdynamics blockquote line points line wrong wrong whats correction code guys 
+
+true returns em existing em child layout create constructor 

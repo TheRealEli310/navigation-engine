@@ -1,0 +1,4 @@
+properly asynctask android 
+checking phone app running connected internet started pinging ip check connection looked allways threw networkonmainthreadexception asynctask code correct dont call missing doesnt work lot previous questions didnt find answer problem asked question youve answered question solve problem link mind experienced android unclear preffer correct code answer explaination didnt work phone connected internet network connectivitymanager wont wor edit answers permissions required results android studio highlights code incorrect simply wont call function wrong missing parameters defined params void illogical edit onpostexecute suggested vandaics works call calling oncreate method works apps checks internet connected reacts properly work easier guys vandaics sunil superclass 
+
+check internet connection call return asyntask set boolean variable approach status internet connection beacause run asyntask exact status 

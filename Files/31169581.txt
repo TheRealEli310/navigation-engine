@@ -1,0 +1,4 @@
+supply initialization log4j2 spring mvc webapp config web xml 
+spring mvc web app log4j2 webapp web xml takes care configuration config strong log4j2 configuration place external config file classpath strong previous incarnation web xml worked web xml world work happen late event doesnt work logs show log4j logging occurs replace context param declaration web xml web xml spring mvc app strong update strong make problem adding web xml surely 
+
+reconfigure log4j2 config file runtime add onstartup 

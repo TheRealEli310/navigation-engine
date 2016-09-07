@@ -1,0 +1,4 @@
+combobox tableview cell javafx 
+add basically class called tableviewtest stores description display theses names descriptions bother add column cell user select number options person created type values added object add table bear mind code pretty rough working ill refactoring code date 
+
+james ds answer works requires user click item es column shown custom h3 h3 

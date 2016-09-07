@@ -1,0 +1,4 @@
+spring rest web service input validation 
+spring rest webservice controller class map parameters http request custoom request object request object spring reflection set values incomming request object question annotation thing validate field documenttype accept list acceptable values doc txt pdf request spring throw invalid request exception 
+
+write custom validator custom validator finally annotate bean custom annotation read href https docs jboss org hibernate validator reference en html validator customconstraints html rel nofollow post 

@@ -1,0 +1,4 @@
+flip image vertically 
+flip image horizontally put code flips half reflects halfway image wrong 
+
+code doesnt work copying flipped bottom half image top half keeping original data top half image processes bottom half image effectively copying data back bottom half swap values temporary variable assignment effectively op update loop outer loop flip image flip back 

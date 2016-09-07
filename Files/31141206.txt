@@ -1,0 +1,4 @@
+put key pair map dynamodb 
+dynamodb attribute map number string put key pair read dont assume solution similar link href http stackoverflow questions update map list aws dynamodb document api update map list aws dynamodb document api putting item map show put item map edit item locally make put back working multiple clients interact concurrently assume update dynamo ensures race conditions 
+
+arguments updateitem condition adding map entry number map number exist map 

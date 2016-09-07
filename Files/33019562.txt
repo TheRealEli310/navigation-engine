@@ -1,0 +1,4 @@
+usage default switch enum 
+suppose enum values suppose switch statement enum code values code block values enum usage code throw exception code reaches block 
+
+good practice throw exception shown improve maintainability code failing fast case years add enum reaches switch statement immediately discover error default set code run enum possibly undesired behavior 

@@ -1,0 +1,4 @@
+default consumes rest web service 
+rest web service consumes web service post class level consumes web service accepts mime media type default consumes 
+
+blockquote defines media types methods resource class accept container assume media type acceptable blockquote href https docs oracle javaee api javax ws rs consumes html documentation href http docs oracle cd e19798 gipzh index html 6nmq2cp2i oracle tutorial detailed description 

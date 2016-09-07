@@ -1,0 +1,4 @@
+generate kaprekar number range 
+problem simple kaprekar number positive number digits split square pieces hand piece digits left hand piece remaining digits sum pieces equal original number task positive integers lower write program determine kaprekar numbers range inclusive display input format lines input lowest highest constraints output format output kaprekar number range space separated single line kaprekar numbers exist range print invalid range clear test cases range range follwoing numbers generated code 
+
+changing type loop index int long fixed problem square computation overflowing upper limit int changing long required computation rup pointing code cleared test cases 

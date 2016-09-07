@@ -1,0 +1,4 @@
+sqlite table returning null date 
+working android activity reads date birth entered user instantiates object date stored sqlite table problem null date query table date date received correctly constructor object returns null queried great point error strong method reads date instantiates object stores sqlite read edittext dob strong strong method queries sqlite date birth getdob strong strong instantiation code strong strong method returns date birth strong strong method adds entry database table strong strong method data database strong strong method setting date birth client instance strong 
+
+ol li issue date format format amp parse date li li specific date format mm dd yyyy li li solution ul li format date inserting client sqlite li li parse date reading client sqlite li ul li li string store date data long datatype convert date timestamp long data type reason ul li string greater wrong li li long long timestamp long timestamp correct li ul li ol 

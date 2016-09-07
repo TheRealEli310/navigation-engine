@@ -1,0 +1,4 @@
+android studio working properly 
+installed android studios sync error gradle project sync failed basic functionality work error console searched online answers sdk correct issues solutions 
+
+similar message gradle project sync failed basic functionality work searching online found work perfect fix case refer correct version jdk android studio bit windows task manager studio64 exe referring bit jdk check file settings default project structure jdk location check path windows shows bit location program files x86 javajdk1 bit path program filesjavajdk1 xx change correct dont bit jdk download install 

@@ -1,0 +1,4 @@
+socket multithreading reading input stream pauses thread 
+testing sockets local machine run socket server program threads server echo server sends back message receives problem start threads client server freeze reach part read input stream works fine part client sends message simply stops appears client waiting message server message server writing outputstream whats wrong code client server 
+
+writing string end line end string include end line typed write server server read line waiting client sends newline client waiting answer server deadlocked add client servers echo suffers issue recommended write server client wait buffer full writing deadlock result 

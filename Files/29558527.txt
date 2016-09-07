@@ -1,0 +1,4 @@
+send inputstream play framework project chunked responses 
+play project send chunked response directly client remote service stream directly client blocking buffering local file size reading input stream chunked response return result input stream size preferable scala default method returning file objects deep play internals accessible scala play internal execution context accessed nice work identical 
+
+fwiw found serve inputstream basically duplicates logic method directly passing key scala call create enumerator inputstream 

@@ -1,0 +1,4 @@
+srve0207e error occurs web service bluemix 
+runtime log web service call api returns error blockquote error javax servlet servletexception srve0207e uncaught initialization exception created servlet page log shown blockquote code works web service merge web service doesnt work part wrong 
+
+reason error nosuchmethoderror log blockquote myapp lang nosuchmethoderror javax ws rs core application getproperties ljava util map blockquote method doesnt exist jax rs liberty server loading blockquote app audit cwwkf0012i server installed features json jpa icap managementconnector beanvalidation jdbc managedbeans cloudautowiring jsf jsp servlet strong jaxrs strong jndi appstate ejblite cdi blockquote fix stop method push packaged liberty server configuration bluemix app server xml load feature feature details push packaged liberty server href https www ng bluemix net docs starters liberty index html optionsforpushinglibertyapplications rel nofollow 

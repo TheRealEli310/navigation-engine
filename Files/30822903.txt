@@ -1,0 +1,4 @@
+starting selenium server background 
+make easy selenium tests run file starts server connects run tests close server exit windows dont user selenium console hide run background log output start selenium server directly 
+
+wasnt hard windows start selenium server start console strong javaw strong 

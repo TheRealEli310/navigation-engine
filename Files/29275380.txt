@@ -1,0 +1,4 @@
+connect couchbase server 
+connect couchbase server runs computer local network machine ip address href http docs couchbase developer couchbase html rel nofollow title official couchbase tutorial official couchbase tutorial sdk code pre class lang prettyprint override line triggers narrow reason connection failure webclient localhost browser remote machine tells server running 
+
+sounds problem firewall telnet client machine couchbase server port command prompt type telnet blinking cursor test succeeded firewall problem install telnet client isnt windows telnet installation href http www wikihow activate telnet windows rel nofollow http www wikihow activate telnet windows 

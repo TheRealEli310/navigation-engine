@@ -1,0 +1,4 @@
+runonuithread touch view exception 
+posted multiple times fix problem create loading dialog ui thread start thread networking stuff interface class callback networking problem remove loading dialog runonuithread code function called networking stuff stack trace 
+
+calling method time ui thread change code override 

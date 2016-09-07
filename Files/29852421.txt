@@ -1,0 +1,4 @@
+hbase client api connecting 
+writing simple world application api hbase heres code result hbase version instance running localhost dont run distributed mode hdfs single instance check status opening href http localhost rel nofollow http localhost browswer applications nutch href https github nicesystems hrider rel nofollow rider working fine instance hbase connect options setting enviroment variable setting hbase env sh application version included pom xml version conflict make run edit changed log debug 
+
+solution disabling ipv6 os ubuntu helped href http askubuntu http askubuntu remember restart system simple config wasnt case 

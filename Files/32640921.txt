@@ -1,0 +1,4 @@
+jna invalid memory access running 32bit jvm 
+recently ran issue jna program writing run code 64bit jvm runs fun run code 32bit jvm error read process memory method edit turns 32bit jvm kernel32 64bit library 64bit os dont agree question jna direct mapping 32bit kernel32 syswow64 running 32bit jvm 64bit kernel32 system32 64bit jvm 
+
+fixed issue changing long pointer assume due long size difference changed 

@@ -1,0 +1,4 @@
+memory cache heap configuration neo4j windows 
+understand explicit configuration mapped memory cache heap running neo4j large graphs provide pointers change settings realise test settings good starting point neo4j community version 2rc01 embedded database machine 8gb ram graph size 20m nodes properties 220m edges properties 
+
+manual config rc01 set page cache size 2g provide settings heap configured run program jvm parameters 

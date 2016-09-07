@@ -1,0 +1,4 @@
+entitymanager injection crashes hibernate mysql ee application 
+developing small web application rest service handle registration add users database ee injection work glassfish deploy application hibernate database handling mysql database xampp important crashes accessing glassfish log bottom comment line doesnt crash pretty injecting strong files project strong strong registercontroller strong strong user strong strong registerservice strong strong application strong strong persistence xml strong strong beans xml strong strong pom xml strong strong glassfish log strong 
+
+strong solution strong ol li switch jta data source configure jdbc connection database glassfish great guide href https computingat40s wordpress setup jdbc connection glassfish rel nofollow li li properties set persistence xml turns bug hibernate glassfish href https hibernate atlassian net browse hhh rel nofollow li ol strong persistence xml strong 

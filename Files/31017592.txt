@@ -1,0 +1,4 @@
+reduce time live udp packet sending multicastsocket 
+send udp packets reach destination time live small working dont hassle writing compiling native code windows ubuntu mac set ttl values packets noticed net multicastsocket set time live option extends datagramsocket send short lived packets multicastsocket small ttl datagramsocket short lived packets multi cast work 
+
+work packets multicastsocket settimetolive affect normal udp traffic multicastsocket affects packets part multicast 

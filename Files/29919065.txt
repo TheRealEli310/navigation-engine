@@ -1,0 +1,4 @@
+call singleton method pojo 
+wondered call pojo singleton beans method interface idea wrong architecture accomplish architecture project notice call getinstance method singletons interface pojo error occuring telling method static make method static write implementation interface singleton instance 
+
+current approach interface flawed default methods interface static implemented instance methods implementing class means option youll run method create instance meaning dont instance instance call putting static method abstract class extend solution super class aware subclasses static method class static method abstract class anonymous implementation abstract class return instance abstract class instance subclass order method subclass inherit super class return instance super class youll overwrite method subclass correct solution add straight singleton class 

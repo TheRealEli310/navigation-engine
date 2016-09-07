@@ -1,0 +1,4 @@
+fix memory leak 
+write program stringified json object steam object determine buy item steam market works massive memory leaks idea solve problem beginner programmer code narrowed problem checkmarket method figure point fix possibly point flaws code jalertwindow object displays jframe buy special edit updated code posting users informed resource blocks existed helped understand garbage collection works 
+
+provbably memory leak outofmemoryexception constant garbage collection 18mb minutes doesnt memory leak works make turn verbose gc collecting dont real issue 

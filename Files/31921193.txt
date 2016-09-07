@@ -1,0 +1,4 @@
+unable display list view adapter fragment 
+logcat remove fragment code works doesnt work debugger couldnt find class android didnt workout mainactivity activity main xml newsfragment fragment news xml 
+
+pedro oliveira thought problem inflating view fragment 

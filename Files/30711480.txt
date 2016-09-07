@@ -1,0 +1,4 @@
+javacv maven project 
+downloaded javacv project href https github bytedeco javacv rel nofollow https github bytedeco javacv import netbeans error install manually error shoud solve problem 
+
+href http search maven org search ga bytedeco rel nofollow http search maven org search ga bytedeco exists version change dependencies list version javacpp author forgot publish version 

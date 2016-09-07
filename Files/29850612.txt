@@ -1,0 +1,4 @@
+implement counting variable lambda expression 
+question lambda expressions class pair hold string int pair string file int representiv line number input file numbers pairs lambda expression perform 
+
+ways counter technique suggested href http stackoverflow saloparenators answer implemented mutable counter object assuming class problem stream run parallel counter wont incremented order lines read occur file thousand lines stream source batch bunches lines dispatch threads number batches parallel interleaving calls lines wont numbered sequentially work guarantee stream run parallel bad idea write streams return results sequentially parallel heres approach youre reading lines memory matter read list stream number 

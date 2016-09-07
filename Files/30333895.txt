@@ -1,0 +1,4 @@
+add triangle meshes javafx 
+making 3d model volume generated functions base intersection axis height volume achieved approximating volume small parts drawing mesh adding meshes figure add meshes mesh creator supposed create series trapezoidal prisms ends drawing mesh series advance 
+
+approach correct failing updating info faces array volume section add add vertices final mesh vertices indices face array shifted counter total points added volumes modify faces array 

@@ -1,0 +1,4 @@
+unable start activity componentinfo mainactivity navigation drawer 
+issues mainactivity starting fragment navigation drawer working google maps error errors fragment file post mainactivity thinks reason error wasnt error started changing fragment file edit updated code issues getsupportfragment 
+
+changing dont forget imports edit moving code inside onactivitycreated remove oncreateview 

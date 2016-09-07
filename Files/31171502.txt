@@ -1,0 +1,4 @@
+scroll jscrollpane dragging mouse swing 
+making map editor game working jpanel jscrollpane displays map edited make user holding spacebar dragging mouse jpanel jscrollpanel scroll dragging works scrolling smooth moving mouse lot time fine small drags makes scrollpane berserk ideas improve enjoy visual editor img src http stack imgur hirwt png alt map editor strong addition notes edit strong ul li li li dragging fidgety moving mouse slowly big movements smooth li li scrollrecttovisible luck li ul 
+
+ended simpler dont mess directly component acting contents attached simply calculates difference point user clicked amount dragged applies delta update viewable area simple img src http stack imgur gdpxl gif alt enter image description 

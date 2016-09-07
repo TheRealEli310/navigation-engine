@@ -1,0 +1,4 @@
+processbuilder limits 
+program connects local server sockets start server manually detects isnt running connected server processbuilder start starts server runs minutes server process doesnt respond interesting send commands takes time happen wondering hitting limitation processbuilder possibly memory print communication server server side called processbuilder assume directed lies problem 
+
+read output throw stdout stderr output buffer fill leading odd behavior simplest approach redirect bit bucket assuming lower roll projects call constructor takes varargs create pass manually 

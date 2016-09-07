@@ -1,0 +1,4 @@
+deploy javaee jpa dynamic web application ibm liberty profile web xml 
+dynamic web application access db2 v10 zos database hibernate jpa provider access entitymanager cdi spring framework web xml file configure persistence context persistence unit web xml deploying application websphere application server liberty v9 beta 
+
+result google websphere liberty hibernate gave link sample app liberty hibernate href https developer ibm assets wasdev asset osi persistence api jpa hibernate sample rel nofollow wasdev liberty hibernate sample jpaapp war web xml easily avoided proper annotation changing point server defined datasource component defined datasource 

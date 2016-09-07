@@ -1,0 +1,4 @@
+activemq starting 
+downloaded activemq zip file windows system extracted run activemq bat file started showing shared log file issue start activemq 
+
+start activemq command activemq admin bat start activemq bat managment set arguments 

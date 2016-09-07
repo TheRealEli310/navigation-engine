@@ -1,0 +1,4 @@
+multiple bean referring class 
+spring config file created bean class scope default singleton print employee object showing objects bean scope singleton creating objects 
+
+return employees singleton slightly meaning spring guaranteeing instance class means time call context getbean emp1 youll object opposed prototype means instance time call context getbean emp1 emp1 singleton youll reference prototype youll separate instances 

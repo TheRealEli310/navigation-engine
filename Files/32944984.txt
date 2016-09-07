@@ -1,0 +1,3 @@
+streams sort nested lists hierarchically 
+stream function sorts list nested list returns bar whilst list foo 
+

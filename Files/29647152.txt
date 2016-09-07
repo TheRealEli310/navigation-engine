@@ -1,0 +1,4 @@
+integrate groovy haskell gradle 
+work projects based groovy gradle start introducing projects haskell beginning spike scripts initially manage cabal usage integrated remaining core base manage compiling test deployment phases gradle plugin manage haskell gradle talking frege solution found googling haskell 
+
+weve released href https github prezi gradle haskell plugin rel nofollow gradle haskell plugin week announcement release found href http vigoo github io posts gradle haskell plugin html rel nofollow months multiple haskell projects successfully 

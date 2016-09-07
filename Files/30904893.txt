@@ -1,0 +1,4 @@
+sftp processbuilder 
+invoke unix commands href http docs oracle javase docs api lang processbuilder html rel nofollow processbuilder login sftp key authentication sftp file local directory remote location content commands txt give localfiledirectory remotedirectory processbuilder dynamic give processbuilder 
+
+approaches ol li command ssh based file transfer source destination command line recursive needed transferring folder needed youre transferring single file li li generate file code li ol 

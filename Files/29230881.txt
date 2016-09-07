@@ -1,0 +1,4 @@
+gradle unit tests google app engine expect persistence xml 
+created google app engine project maven archetype project datanucleus jpa provider essentially google app engine documentation works fine running maven goal test integrate project android studio wanted migrate build script gradle copied dependencies project builds fine tests access google datastore fail test output message blockquote warning meta inf persistence xml files found classpath current thread blockquote checked folder created build folder maven correctly put folder copying gradle copy task locations worked 
+
+file directory doesnt automatically classpath place meta inf folder 

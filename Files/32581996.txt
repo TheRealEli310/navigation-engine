@@ -1,0 +1,4 @@
+verify specific constructor class called 
+suppose class test verify constructor called method invoked parameter jmockit answer manual automated answer employs automated unit testing tools junit testng mocking spying tools preferably jmockit 
+
+jmockit expectations api test verify constructor invocations method invocations test class recommend avoid mocking low level classes internal implementation details class test test actual file check read expected 

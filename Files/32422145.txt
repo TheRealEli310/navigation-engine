@@ -1,0 +1,4 @@
+simulate mouse click board jpanel 
+writing simple tictactoe game basic implementation player player working flawlessly implementing ai problem calculated move computer make computer click location coordinates jpanel robot class doesnt click required place click window code draws board jpanel mouselistener jpanel make computer click calculated location ideas link full source code href http www mediafire download 1z6b85nj1bd44ss tictactoe zip rel nofollow download source difficult reproduce situation 
+
+id give suggested comments em dont add mouselistener cell em em dont robot class em dont easier code amp understand computer picks random cells restart win lose wanted show concept em wouldnt robot class case program shouldnt control cursor em 

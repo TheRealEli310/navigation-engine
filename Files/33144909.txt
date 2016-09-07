@@ -1,0 +1,4 @@
+validate jtextfield accept pakistan cnic format 
+validate jtextfield allowing user input cnic number format regular expression worked function kindly provide guidence validate jtextfield 
+
+alternative solution validating post input href http docs oracle javase docs api javax swing jformattedtextfield html rel nofollow combined href http docs oracle javase docs api javax swing text maskformatter html rel nofollow restrict input begin code create lines format mask accepts digits specifically accepts character returns forbids digit entered 

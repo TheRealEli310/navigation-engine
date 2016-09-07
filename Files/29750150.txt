@@ -1,0 +1,4 @@
+string utf bytes 
+generate string method apply returns max byte array ends generating size byte string returns 
+
+em bytes em converted unicode string attempts create utf em char em sequence bytes byte treated ascii char captured byte form legal unicode char replaced char transformed bytes calling adding extra bytes resulting output youre lucky generate ascii chars return byte array resulting array longer code snippet returns array bytes long 

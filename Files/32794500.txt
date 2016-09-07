@@ -1,0 +1,4 @@
+serialize javafx model gson 
+tutorial learn javafx works tutorial theyre building small app manage peoples information tutorial xml loading saving xml json model issue load save saving unnecessary fields loading gson throwing error h2 person h2 h3 saving h3 saving produces save lot unnecessary fields load string gson produces error h2 loader h2 googled getters setters gson doesnt stuck 
+
+faced issue gson javafx property model resolved linkedhashmap model class loader convert json notice gson maps int double generic cast postal code double int refer question info href http stackoverflow questions prevent gson expressing integers floats prevent gson expressing integers floats 

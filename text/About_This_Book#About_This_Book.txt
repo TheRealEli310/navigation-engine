@@ -1,0 +1,29 @@
+<div id="question-summary-36897881" class="question-summary narrow">
+    <div class="cp" onclick="www.stackoverflow.com/questions/36897881/does-word-length-number-of-bits-transferred-between-memory-and-cpu-per-access'">
+        <div class="votes">
+            <div class="mini-counts"><span title="0 votes">0</span></div>
+            <div>votes</div>
+        </div>
+        <div class="status answered">
+            <div class="mini-counts"><span title="2 answers">2</span></div>
+            <div>answers</div>
+        </div>
+        <div class="views">
+            <div class="mini-counts"><span title="27 views">27</span></div>
+            <div>views</div>
+        </div>
+    </div>
+    <div class="summary">
+        
+                    <h3><a title="I am really confused about the concept of the &quot;word length&quot;. 
+I know that in 32-bit machine, the memory address has 32 bits. And each memory access transfers 32 bits (4 bytes) to the CPU. 
+In 64-bit ..." class="question-hyperlink" href="www.stackoverflow.com/questions/36897881/does-word-length-number-of-bits-transferred-between-memory-and-cpu-per-access">Does Word length == number of bits transferred between memory and CPU per access?</a></h3>
+        <div class="tags t-memory t-cpu t-cpu-architecture">
+            <a rel="tag" title="" class="post-tag" href="www.stackoverflow.com/questions/tagged/memory">memory</a> <a rel="tag" title="show questions tagged 'cpu'" class="post-tag" href="www.stackoverflow.com/questions/tagged/cpu">cpu</a> <a rel="tag" title="" class="post-tag" href="www.stackoverflow.com/questions/tagged/cpu-architecture">cpu-architecture</a> 
+        </div>
+        <div class="started">
+            <a class="started-link" href="www.stackoverflow.com/questions/36897881/does-word-length-number-of-bits-transferred-between-memory-and-cpu-per-access/?lastactivity">answered <span class="relativetime" title="2016-05-03 06:08:23Z">37 secs ago</span></a>
+            <a href="www.stackoverflow.com/users/224132/peter-cordes">Peter Cordes</a> <span dir="ltr" title="reputation score 22,823" class="reputation-score">22.8k</span>
+        </div>
+    </div>
+</div>

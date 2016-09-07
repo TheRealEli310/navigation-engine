@@ -1,0 +1,4 @@
+implementing machine learning methods text mining 
+texts mine implementing strong machine learning strong methods weka libraries purpose code long show key methods idea train test dataset interpret results fyi processing tweets twitter4j fetched tweets saved text file arff format manually labeled sentiments positive neutral negative based selected classifier created test set training set strong cross validation strong finally classified print summary confusion matrix classifiers naive bayes code fyi crossvalidationsplit method end results interpret results training test sets obtain text files sentiment percent positive neutral negative infer demand results reading 
+
+code bit confused train model full set set retrain model inside loop calculate confusion mtx unnecessary opinion apply method 

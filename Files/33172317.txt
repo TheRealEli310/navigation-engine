@@ -1,0 +1,4 @@
+spring boot projection restcontroller 
+class details hide wrote doesnt work writing school lt teacher em em model set shouldnt visible main path school default handle rest path controller projection working fix 
+
+dont spring data rest repositoryrestresource essentially controller repository combined produce hateoas service endpoint customize base uri refer href http stackoverflow answer 

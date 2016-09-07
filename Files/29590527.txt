@@ -1,0 +1,4 @@
+analyze mat eclipse 
+web application running apache tomcat classloader component occupies bytes memory accumulated instance loaded problem analyzing heapdump analyze 
+
+provide information provide advice find largest objects case contents find objects referenced limit size depending framework code easy configuration change frameworks cache medium refactor code difficult deeply buried library control culprit expect object instance case accumulates lot memory owner object root problem levels object tree completely location cases crucial application strong update strong inspect contents clicking selecting em collections em em hash entries em general objects em list objects em em incoming references em list objects reference selected object em outgoing references em list object referenced selected object hr memory analysis easy task require lot time assistance provide details application frameworks heap mat 

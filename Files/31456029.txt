@@ -1,0 +1,4 @@
+avoid fullscreen searchview keyboard landscape 
+avoid fullscreen keyboard editing landscape order access suggestions read lot threads explaining add editorinfo flags strong flagnofullscreen strong strong flagnoextractui strong added programmatically helpful figure 
+
+figure simple initially created custom class extended searchview class override couldnt working eventually working simple added lines code call current configuration result call dont existing options dont search completion button lower button full override test searchview xml solution work youre inflating searchview xml xml searchview menu main xml result call img src http stack imgur jvnrs png alt result call img src http stack imgur cg5hj png alt enter image description 

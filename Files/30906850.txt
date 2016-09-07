@@ -1,0 +1,4 @@
+encode raw bytes image simple image fomat file 
+image encoding learn lot basically taking greyscale byte array byte equals pixel data mnist 28x28 byte images bellow code understand accomplish format consecutive pixel bytes laid question library function convert raw bytes jpeg gif format 
+
+write create simple methods added benefit allowing observe image writing 

@@ -1,0 +1,4 @@
+add tika project classpath 
+tika class instructions href https tika apache org gettingstarted html rel nofollow https tika apache org gettingstarted html os eclipse mars jar files built dont understand make classes class dont maven dependency ant project added tika core jar tika parsers jar project properties build path libraries code make classes compiler 
+
+add tika core version jar tika parsers version jar build path clicking project choosing build path add external archives directions work eclipse kepler tika versions similar make import org apache tika parser autodetectparser referencing code full functionality make added jars listed build artifacts tika started page href https tika apache org gettingstarted html rel nofollow https tika apache org gettingstarted html 

@@ -1,0 +1,4 @@
+run war generated gradle bootrepackage jhipster based web application 
+run war file produce task successful concludes folder war war original files created permissions build gradle run jar strong update strong unziped war looked manifest mf correct 
+
+heres build gradle works bootrepackage commented diff manifest inf action 

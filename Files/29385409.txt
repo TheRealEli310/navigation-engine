@@ -1,0 +1,4 @@
+stop embedded tomcat gracefully tomcat stopped current processing requests complete 
+implemented embedded tomcat model application running war file jar command problem stop server server stopped fired requests server processed stop server implement advance 
+
+make application finished write file somedir yoursecretfile linux make cron job check periodically file somedir yoursecretfile exist file exists stops web server ps grep xargs os replacement cron os script stops webserver 

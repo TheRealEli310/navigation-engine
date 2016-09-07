@@ -1,0 +1,4 @@
+convert map list 
+convert wrote implementation efficient works dont understand 
+
+collect elements means map href https docs oracle javase docs api util stream stream html map util function function rel nofollow operation blockquote returns stream consisting results applying function elements stream blockquote case function function converting finally collect built href https docs oracle javase docs api util stream collectors html tolist rel nofollow collector replace comparator 

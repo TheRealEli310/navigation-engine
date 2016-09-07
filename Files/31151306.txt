@@ -1,0 +1,4 @@
+show dialog android studio 
+total noob googles developer reference didnt find detail understand make dialog box hitting action bar item classes dialogfragment alertdialog builder positive button negative button 2nd class activity call dialogfragment display dialog onoptionsitemselected function code resolve method line error 2nd line line missing 
+
+inside function construct alertdialog dont create class 

@@ -1,0 +1,4 @@
+error rest service jersey tomcat8 
+past couple days examples make rest service running tomcat8 ubuntu jersey idea pom xml snippet web xml snippet errors tomcat startup blockquote jul info localhost startstop sun jersey server impl application webapplicationimpl initiate initiating jersey application version jersey jul info localhost startstop org apache catalina startup hostconfig deploywar deployment web application archive home apcuser tomcat8 apache tomcat webapps exprocess war finished ms blockquote rest service class result blockquote http status rest restservice testname blockquote update couldnt figure whats wrong project started scratch href http javabrains koushik org courses javaee jaxrs lessons setting rel nofollow http javabrains koushik org courses javaee jaxrs lessons setting works 
+
+http file found error didnt append annotation strong edit update strong added 

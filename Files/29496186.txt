@@ -1,0 +1,4 @@
+mapping byte blob jooq null query 
+map blob field mysql database heres relevant code ul li interface generated jooq sql table li li extension interface support api temporarily store data li li extends implements li li receives base64 encoded string api call li li byte userrecordext avatar li ul field database save reach debugger property present populated problem called generated sql query console set absolutely clueless reason losing faith jooq id expect fields present object call update written db ideas hr heres code error message isnt exception handled logs isnt point failure generated 
+
+problem current approach apparently added sort field subtype jooq supposed call isnt part record implementation answers question hand ol li download resource wire generate binary representation url content li li personally dont implement kind logic data access layer discussion scope question li ol 

@@ -1,0 +1,4 @@
+convert string datetime date 
+convert strings date exception unparseable date 03t15 03t17 08z formats yyyy mm ddthh mm ss sssxxx yyyy mm ddthh mm ss sssz 
+
+reason wrong format represents timezone time format work fine mark single quotes string parsing edit 03t15 pattern yyyy mm ddthh mm ss sss date time 03t17 08z pattern yyyy mm ddthh mm ssx denotes iso time zone version simpledateformat supports iso time zones uppercase letter href http docs oracle javase docs api text simpledateformat html rel nofollow http docs oracle javase docs api text simpledateformat html youre stuck earlier answer recommending jodatime bet correctly recognizes utc timezone joda times extensive manipulation methods 

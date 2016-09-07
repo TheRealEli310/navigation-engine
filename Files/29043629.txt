@@ -1,0 +1,4 @@
+googlecredential missing access token 
+service account model googles api retrieve modify users successfully create googlecredential object code similar googles mention examples explicitly create access token assuming code takes care true successfully create instance directory retrieve specific user fails throwing nullpointerexception inspect googlecredential object call user object appears access token missing access token service account model advance 
+
+accesstoken running credentials href https developers google oauthplayground rel nofollow oauth2 playground works playground wrong implementation 

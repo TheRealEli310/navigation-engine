@@ -1,0 +1,4 @@
+single curly bracket properties file 
+read text single curly brace properties file exception escape exception 
+
+org apache struts util messageresources text messageformat interprets things curly braces patterns placeholders replaced strings exception clear find closing brace opening curly brace key workaround working struts light unicode escaping escaping working refer text messageformat applypattern method escaping possibles key message resources file read key code action class assuming read encrypted properties file struts j2ee environment 

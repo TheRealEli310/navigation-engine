@@ -1,0 +1,4 @@
+converting sql date values retrieved jdbc time localdate 
+retrieve date information microsoft access database ucanaccess put localdate column tableview causing problems nullpointerexception date null remedy replace displays date 
+
+fix npe fix date turning 

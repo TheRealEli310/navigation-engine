@@ -1,0 +1,4 @@
+apache ignite loading spring boot 
+prototyping spring boot release apache ignite noticed odd logging configuration apache ignite start spring comment springapplication run line starts spring apache ignite correctly strong pom xml strong strong ignitedemoapplication strong strong output strong 
+
+ignite starts cases commented uncommented line ignite node prints current topology snapshot line log 

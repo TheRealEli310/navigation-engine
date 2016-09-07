@@ -1,0 +1,4 @@
+spring data cassandra set consistency level 
+spring data cassandra release connect cassandra database change consistency level spring data cassandra default level href http stackoverflow questions default consistency level spring data cassandra default consistency level spring data cassandra change 
+
+set custom consistency level crudrepository interface spring data cassandra open issue href https jira spring io browse datacass rel nofollow https jira spring io browse datacass reason simplecassandrarepository implements methods interface calls cassandraoperations methods writeoptions parameter strong solution strong wrote custom crudrepository implementation set consistency level 

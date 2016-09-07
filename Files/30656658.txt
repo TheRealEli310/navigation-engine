@@ -1,0 +1,4 @@
+esapi clickjackfilter sitemesh filter 
+application opensymphony sitemesh assemble pages weve added owasp esapi clickjackfilter add frame options header responses works clickjackfilter mapping sitemeshfilter mapping web xml clickjacking filter frame options header isnt added works doesnt work ordering filters matter 
+
+opinion esapi method written incorrectly implemented pre class lang prettyprint override strong em output em strong filter wrapping response written pre class lang prettyprint override written manner work order applied strong caveat strong verified fact havent compile wrong theory sitemesh filter funky confirms wrong ill file esapi bug report 

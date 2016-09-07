@@ -1,0 +1,4 @@
+nosuchelementexception line found reading text file 
+working building text adventure game run problem read text files descriptions room run program properly read assign text file throws error causing moving things avail function calling room object assign information figuring happening greatly appreciated youve questions feel free answer ability edit input function 
+
+dont closing std input time call method closes underlying stream create create lives till time call pass object method 

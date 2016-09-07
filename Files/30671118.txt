@@ -1,0 +1,4 @@
+android display data array list view 
+android development android studio building app create view records clicking create redirects home page click view app closes mainactivity home page buttons create view data input activity create records view activity grateful fix bug 
+
+make added activities manifest xml initialized database object addactivity2activity add oncreate function issues code bit cursor null invoke requery function remove lines dont activity viewactivity initialize helper create tables mydbhelper class replace string create fact missed couple space characters cheers edit addactivity2activity mydbhelper viewactivity cheers 

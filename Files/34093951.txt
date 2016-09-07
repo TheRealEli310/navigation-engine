@@ -1,0 +1,4 @@
+exception thread main javax ws rs processingexception javax net ssl sslprotocolexception handshake alert unrecognized 
+rest recently developed small rest client consume api ssl https jersey challenged error exception thread main javax ws rs processingexception javax net ssl sslprotocolexception handshake alert unrecognized caused javax net ssl sslprotocolexception handshake alert unrecognized read posts disabling sni clear eclispe ide appended djsse enablesniextension false eclipse ini file error appears point direction 
+
+realised handle exception javax net ssl sslprotocolexception handshake alert unrecognized setting security context tlsv1 employing trustmanager hostnameverifier snippet solved issue 

@@ -1,0 +1,4 @@
+jacoco code coverage affected aspectj 
+aspectj project jacoco test coverage report facing issue due aspectj changed byte code compiling phase makes code coverage report correct due aspectj adds extra statement branch coverage shows condition branch source code good jacoco ignore code generated aspectj lot 
+
+copying answer wrote jacoco mailing list options aspectj avoid compiling source ol li ltw weaving agent li li move aspects separate maven module compile modules normal maven compiler plugin aspect module aspectj maven create module aspectj maven order binary weaving module previously created artifacts dependencies scenario make jacoco offline instrumentation bound phase binary weaving li ol easiest test aspects isolation code aspects measure coverage issues 

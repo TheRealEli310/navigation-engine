@@ -1,0 +1,4 @@
+channel stubs grpc thread 
+grpc cache stubs clients call multi threaded environment channels thread safely cached network outage recreate channel smart reconnect couldnt find relevant info href http www grpc io docs rel nofollow http www grpc io docs 
+
+answer question channels thread marked annotation stubs thread reconfiguration creates stub answer question network outage dont recreate channel channel reconnect exponential backoff roughly href https github grpc grpc blob master doc connection backoff md rel nofollow connection backoff doc conform algorithm doesnt increase connection timeouts retries confused exponential backoff implemented small gotcha dns resolution netty v0 channel created performed version issue 

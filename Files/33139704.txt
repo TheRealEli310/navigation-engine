@@ -1,0 +1,4 @@
+error lang nullpointerexception jsf 
+jsf primefaces npe invoking method registrar form appears wrong class profesorbean view edicion xhtml part form submitted edicion xhtml error 
+
+problem initializing member variable dont inside registrar object initilized nullpointerexception calling check 

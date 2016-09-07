@@ -1,0 +1,4 @@
+atlas render images order libgdx 
+class render atlas screen beginner libgdx program images rendered order random images earlier atlas file working properly hints wrong adapt program href https libgdx badlogicgames nightlies docs api badlogic gdx utils viewport screenviewport html rel nofollow screen viewport headings implement edit atlas file located href https gist github anonymous 17c168c67d8dbb53874d rel nofollow 
+
+atlas file isnt ordered call code ordered checking atlas regions isnt ordered 

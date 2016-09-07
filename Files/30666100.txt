@@ -1,0 +1,4 @@
+jersey client memory leak static concurrency 
+jersey client v2 make external calls app found href https net jira browse jersey rel nofollow memory leak bug cpu consumption high made write code make client static concurrency problems class called multiple threads suggestion prevent memory leak client 
+
+dont create arbitrary number objects object thread override return automate creation objects threads make methods synchronized means request time heres code 

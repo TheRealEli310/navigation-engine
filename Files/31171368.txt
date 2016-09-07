@@ -1,0 +1,4 @@
+empty list throw null pointer exception 
+list array details historydetails object strings check size positive access element throws null pointer exception invoking element line check size reset wrong 
+
+list items item null object item check null 

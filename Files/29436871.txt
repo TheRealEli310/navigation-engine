@@ -1,0 +1,4 @@
+classes arraylist 
+moment write program make minheap arraylist work properly classes connect class problem occurs class add elements arraylist classes separated hr hr hr error 
+
+declare field variable variable local constructor mind constructor argument maximum size initial size lists dont maximum sizes hr type accepts error blockquote object converted integer blockquote type heap class variety type id personally give type parameter create heap specific type data assign list type simply declare type argument beware href https docs oracle javase tutorial data autoboxing html rel nofollow auto boxing primitive types generic type arguments href http en wikipedia org wiki primitive wrapper class rel nofollow primitive wrapper classes wraps primitive object uoi declare boxed object constructors parameters prevent auto boxing auto unboxing issue depending situation 

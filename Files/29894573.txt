@@ -1,0 +1,4 @@
+current database transaction id jdbc hibernate 
+looked google couldnt find relevant basically hold long running transactions output find turn queries running hold code log server logs 
+
+postgresql simply run native query current transaction id mysql href http dba stackexchange questions mysql support querying current running transaction id run mysql 

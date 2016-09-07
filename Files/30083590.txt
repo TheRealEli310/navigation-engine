@@ -1,0 +1,4 @@
+postgresql hibernate persisting entity 
+building application hibernate postgresql call persist entity method appears table persistence xml persistmethod log output missing entity dont persist postgres 
+
+manage transaction 

@@ -1,0 +1,4 @@
+write image byte array hdfs 
+pig udf function written creating chart save chart hdfs code udf save image byte array hdfs 
+
+solved 

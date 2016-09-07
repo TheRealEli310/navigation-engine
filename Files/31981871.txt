@@ -1,0 +1,4 @@
+lang nosuchmethoderror org jboss logging logger debugf ljava lang string weblogic deployment 
+deploy application weblogic server firstly building war archive maven deploying intellij idea weblogic plugin error wrong dependencies 
+
+version dependency method update dependencies newer version 

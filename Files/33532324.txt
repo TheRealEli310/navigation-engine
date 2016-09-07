@@ -1,0 +1,4 @@
+updating flatmap concurrent limit subscription 
+android service downloads files publishsubject receives download events eventbus limit number concurrent downloads based setting service instantiated creates publishsubject subscription setting obtained subscription made setting effect update approach queue emissions subscribe 
+
+href https gist github akarnokd afc689617afbcedaa2b1 rel nofollow runnable class custom operator wanted race conditions scenarios cover operator doesnt coordinate backpressure 

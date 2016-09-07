@@ -1,0 +1,4 @@
+loop input numbers print positives 
+make loop asks user input numbers print positives trouble controlling amount inputs infinite inputs add negative number 
+
+syntax point view youve problems code ul li statement loop larger specifically youre introducing kind condition decrement li li youre redeclaring scanner declare loop reuse times li li youre href http stackoverflow avoid weird issues scanner alternatively parse line li ul ways control loop approach things finicky print ten positive numbers negative numbers entered propose loop em em enter ten values move increment statement statement hint wanted store positive values reference sort data structure hold array youd add values array read positive print end loop 

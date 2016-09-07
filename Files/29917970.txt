@@ -1,0 +1,3 @@
+remove parameters url 
+url run project href http localhost blog1 title uname rel nofollow http localhost blog1 title uname remove query string url href http localhost blog1 title rel nofollow http localhost blog1 title suggest 
+

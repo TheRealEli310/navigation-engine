@@ -1,0 +1,4 @@
+correct managing transactionality rxjava services 
+recently started experiment rxjava presentation netflix engineer suggested moving business apis observable apis instance havent found place explained transactionality managed services annotated service implementation execution code inside lambda happened transaction strong strong ol li call executes transactional returning cold observable li li executes atomic transaction li ol makes sense spring proxy applies serviceimpl methods thought ways expect starting programmatic transaction recommended managing transactions working reactive apis 
+
+spring data jparepository method signatures marked transactional dont special hr combine multiple repositories transaction class factory bean defined hr service hr test screenshot showing proxy href http stack imgur 4i6ot png rel nofollow img src http stack imgur 4i6ot png alt enter image description 

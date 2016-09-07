@@ -1,0 +1,4 @@
+make sense static method instance variable 
+compiler static method call static method understand static method ends instance variable make sense static method instance variable behavior affect isnt affected instance state shouldnt method marked static 
+
+times method doesnt touch instance state reason tie instance static methods inherited overridden time instance method doesnt instance state href https en wikipedia org wiki strategy pattern strategy pattern classic case tie instance public api imagine tie method instance state future case backwards compatibility concerns people api make difficult impossible turn static method instance method 

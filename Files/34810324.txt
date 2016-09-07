@@ -1,0 +1,4 @@
+offset date parsing 
+parse string format localdate smth utc problem code outputs ignoring offset desired output advance 
+
+simplest answer represent data default time dealing time zones dealing offsets simpler general application code hold variables type generally 

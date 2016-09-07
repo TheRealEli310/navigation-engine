@@ -1,0 +1,4 @@
+simplify program inheritance 
+learning inheritance superclass called students subclasses undergradstudents amp graduatestudents method called deanshonourlist undergrad deanshonourlist method checks gpa greater qualify deans list graduate subclass gpa greater remove methods subclasses create method superclass determines student qualifies deans honour list code exercise worth hint direction question specifies make work instanceof getclass adding statements instance variables deanshonourlist method graduatestudent undergraduatestudent getgpa method removed hint add instance method superclass override subclasses call method deanshonourlist method hr put instance method make override subclasses reading question hints give 
+
+youll possibly abstract method returns minimum gpa score acceptable considered honours list implement acceptable pass minimum gpa score constructor parent class 

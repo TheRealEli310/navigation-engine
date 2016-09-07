@@ -1,0 +1,4 @@
+spring bean map duplicate key 
+create spring bean map entries key entry key1 throw error large map bean hundreds entries duplicate keys accidentally 
+
+element attribute behavior implement subtype throws exception entry existing key added class 

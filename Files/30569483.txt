@@ -1,0 +1,4 @@
+import netbeans project eclipse ignoring package declaration 
+legacy project id import maintain sake provide backwards compatibility netbeans project recourses problem source folders hirarchie classes themself package imports opening project netbeans ide em em complain package source mismatch eclipse question overcome move classes package declaration packages left untouched compatibility reasons 
+
+configure source folders eclipse ol li click project select li li navigate li li open tab li li click button select folder order add source folder li ol change adds entry eclipse specific file em project em context netbeans structure project eclipse maven ide plugins helpful 

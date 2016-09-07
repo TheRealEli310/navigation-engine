@@ -1,0 +1,4 @@
+jax ws maven plugin working jdk 
+maven plugin creating wsgen importing wsimport web service projects working jdk compile project jdk reason annotationprocessorfactory class deleted jdk pom normal exception exception mvn clean install solve 
+
+reproduce problem dummy webservice class obsolete version href http mvnrepository artifact sun xml ws jaxws tools rel nofollow inside plugin dependencies upgrade latest version pre class lang xml prettyprint override side updating version href https jax ws commons net jaxws maven plugin rel nofollow latest 

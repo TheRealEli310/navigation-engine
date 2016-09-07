@@ -1,0 +1,4 @@
+killed infinite loop thread 
+title suggested code wrapped infinite loop fully caught block thread started main method long run worker thread vanished mysteriously check jstack causing work accumulated code understanding structure thread running consumer consume methods failed restart infinitely mentioned thread disappear silently error log provide clue information helpful ol li checked consume method shutdown consumer close socket server continuously connect server fail li li analysed heap dump found memory leak project causing memory occupation extremely high gc main method running li ol 
+
+href http docs oracle javase docs api lang outofmemoryerror html outofmemoryerror exception error derived throwable thrown finally called delaying inevitable 30s error passed upward loop terminated 

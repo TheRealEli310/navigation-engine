@@ -1,0 +1,4 @@
+spring mvc pass variable url pathvariable 
+pass int spring controller read pathvariable capture controller worked error spring doesnt log failed controller code pre class lang prettyprint override mapping common tasksummary taskid work mapping path variable common tasksummary work web xml pre class lang xml prettyprint override found problem web xml mapping urls spring add requestmapping url common tasksummary taskid change web xml map spring dispatcher 
+
+issue dispatcher mapped url pattern end handle resolve 

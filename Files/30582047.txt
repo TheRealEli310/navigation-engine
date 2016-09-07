@@ -1,0 +1,4 @@
+test weighted graph negative cycle 
+create test returns true graph directed graph parameter cycle negative weight false created theoretically check generic cycles negative cycles change method easier efficient hr edit method written implement algorithm bellman ford pseudocode 
+
+apply bellman ford algorithm proper pseudocode apply properly problem solved 

@@ -1,0 +1,4 @@
+antlr parser error runtime 
+building simple grammar programming laguange learning purposes run strange error make sense prebuild lexer parser grammar parsing code finally string parse 
+
+error message means expected token type void match actual token type produced consuming string void input lexer rules suggests input string void consumed identifier rule producing token type identifier void general lexer rule matches longest input string wins rules match length listed wins move keyword rules identifier rule helpful unit test form dump lexd tokens show actual token types matched token tostring method good override token subclass fit 

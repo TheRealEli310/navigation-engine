@@ -1,0 +1,4 @@
+write program prompts user input sequence characters outputs numbers vowels 
+code works suppose input spring break year spaces program find vowels spring make skip spaces read sentence 
+
+stops reading whitespace read complete phrase press enter 

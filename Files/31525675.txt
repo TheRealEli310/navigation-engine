@@ -1,0 +1,4 @@
+amazon sqs sdk stops consuming messages 
+consuming messages amazon sqs queue thousands messages queue start application written spring framework starts polling messages queue receiving messages stops start application consume messages code strong connection factory strong strong listener strong configure amazon queue connection factory bean br strong updated strong added thread dump strong application consuming messages strong br defaultmessagelistenercontainer thread dump br consumerprefetchthread thread dump strong application stops consuming messages strong br consumerprefetchthread thread dump br consumerprefetchthread thread dump 
+
+kind pool exhaustion code container thread stuck session returning sessions pool code talk jms avoids issues 

@@ -1,0 +1,4 @@
+selenium webdriver unable find element page refresh redirect 
+write ui test cases sap webui web based application login shows dashboard workcenters screen problem open page enter pwd login selenium press login button url page redirected refreshed url login href https htm sap client amp sap sessioncmd open https htm sap client amp sap sessioncmd open url successful login href https bdsdfsdsf1lg htm https bdsdfsdsf1lg htm unable perform action press link part page attributes css xpath id webdriver unable find element page shows error element found selenium web driver find html structure webpage click linkmenu abcd inside iframe frame shown html code code code error element kindly suggest siva 
+
+blockquote driver switchto frame driver findelement xpath iframe a1 switching iframe blockquote blockquote driver switchto frame f1 switch frame blockquote desired action blockquote driver findelement id abcd click blockquote 

@@ -1,0 +1,4 @@
+android error resolve getsharedpreferences lang string int 
+access sharedpreferences activity class error getsharedpreferences normal activity class dont error fix heres code 
+
+simon accessing shared preferences context order make code work add line indented properly hope helps calling class call 

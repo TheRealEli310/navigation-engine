@@ -1,0 +1,4 @@
+android sqlite throws failed read row column cursorwindow 
+today wanted implement simple sqlite database messaging app care saving messages read back data database display listview looked database adb emulator data saved correctly code initialisation table empty column creating column chat contact column sqlite recognizes column names send multiple messages client debug messages readout wont work exception sqlite column matches saving messages reads column didnt find solution behavior 
+
+problem field understood engine table field separator words getcolumnindex find numeric index org table test zapp reason type field names clue gave sqlitecursor requesting column table test zapp org question idea dynamically adding columns table based growing table horizontally normal method letting expand vertically makes slower slower bigger unwieldy 

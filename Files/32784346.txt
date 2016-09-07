@@ -1,0 +1,4 @@
+cassandra datastax savequery lightweight transactions 
+persist object cassandra batchstatement strong exists strong clause implement exists savequery 
+
+mapping api supports simple crud operations light weight transaction context ways work ol li mapping accessors code accessor interface code put statement li li query builder subtype put attention driver case lower driver version li ol 

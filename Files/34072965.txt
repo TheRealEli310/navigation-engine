@@ -1,0 +1,4 @@
+spring config jta transaction 
+writing simple project spring jta transaction class base config xml search internet good configuration dont find interesting tutorial config class start application warnings persistence xml configure spring jta code good persist simple method user saved good jta configuration spring class based configuration 
+
+add property persistence xml file 

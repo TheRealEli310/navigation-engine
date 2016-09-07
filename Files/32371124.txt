@@ -1,0 +1,4 @@
+poi cell loop 
+implement poi jxl cell content passing method row code inside loop collect row stored string variable passing method loop continue upto row loop 
+
+google thousands examples reading excel files apache poi give start explore javadocs stuck facing issue debug search issue back details 

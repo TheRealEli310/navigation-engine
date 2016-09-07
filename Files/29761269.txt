@@ -1,0 +1,4 @@
+setting allure results directory runtime 
+change file directory allure xml reports generated change runtime testng 
+
+class allure properties href https github allure framework allure core blob master allure model src main ru yandex qatools allure config allureconfig rel nofollow https github allure framework allure core blob master allure model src main ru yandex qatools allure config allureconfig answer 

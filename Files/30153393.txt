@@ -1,0 +1,4 @@
+spring boot working 
+generate standard spring boot sample command outcome plain project pom hit kicks error message explain wrong 
+
+tags question spring mvc assume web spring features enable spring web features add spring boot dependency pom havent spring cli familiar didnt generate project web dependencies bet explicitly generate web project generated plain spring boot project web dependencies added web related configuration application properties spring boot auto configurer find web dependencies classpath 

@@ -1,0 +1,4 @@
+adding redirectattributes parameter model key exception spring mvc controller method 
+spring mvc controller method click submit button form exception works remove redirectattributes parameter add flash attributes case error understand url template doesnt work removing redirectattributes spring version 
+
+point providing parameters handler method actual issue ol li spring mvc request handling process single holds reference li li provide argument handler method spring mvc returns default li li provide argument handle method spring mvc creates instance overwrite default model li li add attribute wont access component process view li ol choose dont 

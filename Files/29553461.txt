@@ -1,0 +1,4 @@
+firebase query equalto work 
+understand method works set pushed strings root firebase made reference firebase make query object word string pushed firebase simply print console weird thing console hangs infinite loop force terminate put print statement line code reached question wrong edit forgot mention static words pushed firebase test functionality 
+
+created minimal sample ran jdk prints work fine 

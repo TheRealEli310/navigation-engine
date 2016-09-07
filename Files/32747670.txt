@@ -1,0 +1,4 @@
+successfully destroy process takes time 
+executing shell script program kill destroy process script takes long time code 
+
+update class doesnt waitfor method timeout youre alternative starting thread waits process finish join thread proof concept code modified work thread 

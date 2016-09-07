@@ -1,0 +1,4 @@
+vaadin combox beancontainer 
+beancontainer fill combobox en show loginname selection field dto select combobox thought userdto string loginname retrieve selected userdto directly 
+
+public class simplebean private string 

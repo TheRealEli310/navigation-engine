@@ -1,0 +1,4 @@
+google contacts api access service account authentication 
+access href https developers google google apps contacts v3 rel nofollow googles contacts api attempt failed authorized web languages apiconsole public api key authorization refresh token unsure public key href https developers google api client library google api client oauth2 googlecredential rel nofollow accesstoken href https developers google identity protocols oauth2serviceaccount jwtsample rel nofollow service account exception hint 
+
+calling code worked perfectly fine href https developers google api client library google api client reference google api client googleapis auth oauth2 googlecredential builder setserviceaccountuser lang string rel nofollow impersonated account service account mail personal contacts source unauthorized exception leaving call write access code reference finished class 

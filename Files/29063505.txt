@@ -1,0 +1,4 @@
+flume elasticsearch sink ttl 
+question ttl elasticsearch sink apache flume working elastic search flume integration elasticsearch version flume version running locally machine flume elasticsearch sink configured ttl 1m minute sake test events added es deleted minute mapping query doesnt show ttl ttl disabled default enable minutes ttl sink definitions add events deleted minute shed light work bug manually enable ttl 
+
+turned works ttl enabled mapping api elasticsearch ttl flume ttl enabled elasticsearch level presented definitions work index platformtype ttl default minutes disable ttl flume level messages deleted minutes ttl event flume default play alternatively explicit ttl supplied flume precedence default ttl definition case record deleted minute mentioned hope question closed 

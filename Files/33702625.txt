@@ -1,0 +1,4 @@
+memory visibility constructors 
+simplified class guess general question mutable variables guarded synchronization synchronize setting initial constructor 
+
+youre block constructor visibility guarantee final fields href https docs oracle javase specs jls se8 html jls html jls rel nofollow practice fields classes situations strong update strong important mention order program defined jls publish reference object manner cited doesnt wrong final fields publish object reference correctly assigning field object creating calling guaranteed object date time publishing making block constructor unnecessary 

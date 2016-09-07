@@ -1,0 +1,4 @@
+storing longitude latitude values 
+ship coordinates theyre longitude amp latitude coordinates wondering store ship ship unknown amount coordinates br initially thinking double 2d array similar idea size br dont work real key thinking implementation viable option 
+
+make class store objects list 

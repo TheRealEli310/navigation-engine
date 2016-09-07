@@ -1,0 +1,4 @@
+option long constructor throws nullpointerexception 
+function supposed return return converted scala thought trivial scala constructor spit nice feel scala thing constructor hr update heres reproduce problem imho fixed href https github scala scala blob v2 src library scala option scala rel nofollow sources types scala 
+
+href https docs oracle javase docs api lang long html rel nofollow lang long null turn option href http www scala lang org api current index html scala long rel nofollow scala long lang long null 

@@ -1,0 +1,4 @@
+resource datasource breaking db connection 
+recently wrote class web application parsing huge xml file feed db table content application running wildfly9 jpa hibernate provider handle mysql db configuration pretty standard added datasource conf heres persistence xml worked fine jpa entities manage domain model back parser reasons native jdbc queries insert data db heres code xmlfeedparser injected inject ejbs call parseandwritetodatabase method works pain starts end parsing application begins giving errors points randomly stacktrace didnt close connection true suggestions 
+
+possibilities wrong opening connection closing finally exception thrown connection closed resources potential problem class thread instance synchronization call times lose reference closed ejb injects edit resources depends open connection pass methods dont explicitly call preparedstatements resultsets wrapped resources variables members class dont worry threads accessing 

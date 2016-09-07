@@ -1,0 +1,4 @@
+proxy handle connect requests 
+network programming implement simple http proxy supposed forward clients requests transfer back response handle requests simply read client socket inputstream create socket desired host read socket write request client outputstream socket thing retrieve response write back response inputstream host socket outputstream client socket troubles handle connect requests instance access www google browser results reading client socket understanding connect host www google port create socket request simply wireshark host immediately terminates connection sending back fin rst tcp segments proceed correctly handle requests retrieve content webpage 
+
+request client sends connect respond connect request http status line start copying bytes directions dont care request response 

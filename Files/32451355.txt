@@ -1,0 +1,4 @@
+jersey client problems date api jsr310 
+poc jersey client consume rest service problems field localdatetime format rest service response entity class dependencies pom xml code api info jersey client exception missing resttemplate spring rest client works perfectly configuration 
+
+jsr310 module registered jackson href http docs oracle javaee api javax ws rs ext contextresolver html rel nofollow href http stackoverflow register register client happen call method retrieve de serialization server side functionality client simple construct bit simpler 

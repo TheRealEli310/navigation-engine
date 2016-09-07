@@ -1,0 +1,4 @@
+making request parameter binding case insensitive 
+requirement make requestparams bind properly cases param spring username xxx strong username strong xxx strong username strong xxx map properly requestparam urls call method bind user properly give suggestions implement implementing argument handler resolver overriding spring config classes implement generically preferred changing logic code requestparam 
+
+spring href http docs spring io spring framework docs release javadoc api org springframework util linkedcaseinsensitivemap html rel nofollow case insensitive lookups implementation 

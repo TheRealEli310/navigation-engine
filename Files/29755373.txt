@@ -1,0 +1,4 @@
+maven issue surefirereportparameters 
+build app run maven catch exception blockquote lang classnotfoundexception org apache maven plugin surefire surefirereportparameters blockquote installed maven plugin manually issue continues suggestion appreciated 
+
+things check problem enumarate check ol li check defined jdk jre path enviroment variables maven work properly jre check console se command works li li check strong m2 home strong variable defined enviroment variables path installed maven li li class check correspondent jar local repository folder versions inside jar file li li jar files corrupted events ide leading difficult find corrupted jars recomend redownload entiry repository strong strong depending size project number dependencies operation time complete order repository folder rename repository folder delete repository folder project run li ol options solve problem discussed comments 

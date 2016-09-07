@@ -1,0 +1,4 @@
+aes ctr double encryption reverses ciphertext plaintext 
+encrypt ciphertext key produces original plaintext algoritm strong aes strong strong counter mode strong strong key strong strong iv strong remains algorithm supposed behave strong cipher encrytmode strong parameter cipher init sample program tested 
+
+expected behavior href https en wikipedia org wiki block cipher mode operation counter 28ctr rel nofollow ctr mode operation block ciphers makes stream cipher block cipher stream ciphers work generate keystream xor keystream plaintext produce ciphertext xor operation works xoring key results reason encryption decryption operation block ciphers ctr mode sans nonce generation putting ciphertext dont encryption decryption algorithm mode cbc wrong kind thing beware ctr mode secure nonce iv key encryption 

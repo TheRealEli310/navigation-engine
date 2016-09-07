@@ -1,0 +1,4 @@
+spring security custom authentication authenticationprovider userdetailsservice 
+understand custom authentication spring security implement custom custom authenticationprovider check username password return custom object username return custom userdeatails framework performs check password produce similar results question difference user 
+
+answer inside question authentication system password provided database data model authenticationprovider worked project customer centralized authentication system cas system idea password implement authenticationprovider send password cas act answer system storing password database implementing userdetailsservice check user exists database spring security rest 

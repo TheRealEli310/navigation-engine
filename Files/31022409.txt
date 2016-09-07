@@ -1,0 +1,4 @@
+spring injection working ff4j web console 
+ff4j href http ff4j org rel nofollow ff4j org web console work documentation website configuration pre class lang xml prettyprint override implementation problem matter autowiring work method call class member servlets ff4j console defining bean ways defined pre class lang xml prettyprint override work found solution problem share 
+
+comments constructor wasnt invoked access bean spring loads beans defined solve problem remove modify function initialize ff4j constructor strong edit strong add constructor hope solve issue 

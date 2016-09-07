@@ -1,0 +1,4 @@
+stream sentences 
+streams stream strings read plain text file produce stream sentences assume sentences cross line boundaries stream parts sentences produce stream join fragments sentences lazy needed original stream read ideas 
+
+breaking text sentences easy dots don split mr smith thankfully jre class takes care href http docs oracle javase docs api text breakiterator html rel nofollow doesn support order streams support code required support class simply 

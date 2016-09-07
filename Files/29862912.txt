@@ -1,0 +1,4 @@
+error gdal binding 
+binding gdal project set coordinate points utm lat log coordinatetransformation class gdal written code run main function error exception thread main lang unsatisfiedlinkerror fixed 
+
+executing source code error blockquote native library load failed lang unsatisfiedlinkerror osrjni library path blockquote adding project build path sufficient executing program external native library dependencies check link href https trac osgeo org gdal ticket rel nofollow https trac osgeo org gdal ticket mentioned blockquote gdaljni dll ogrjni dll gdalconstjni dll osrjni dll gdal17 dll dependant libraries path blockquote order generate dll windows os include build path steps mentioned href https trac osgeo org gdal wiki gdalogrinjavabuildinstructions rel nofollow https trac osgeo org gdal wiki gdalogrinjavabuildinstructions steps mentioned link straight forward face issues hope helps 

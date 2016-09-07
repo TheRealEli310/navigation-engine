@@ -1,0 +1,4 @@
+set timer showing result time jtextfield 
+click jbutton final output jtextfield set timer result show slowly number jtextfield result sec sec sec output jtextfield thread sleep dont result click jbutton sec code timer changing button addactionlistener actionlistener thread sleep timer 
+
+swing timer timers actionperformed method repeatedly called loop rid loop inside method rid 

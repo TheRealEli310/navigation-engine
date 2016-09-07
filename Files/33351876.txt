@@ -1,0 +1,4 @@
+exception thrown 
+issues understanding exception thrown exception thrown handles ensure program crash instance href http www javaworld article learn virtual machine handles exceptions html rel nofollow tutorial deal thrown 
+
+tutorial link emphasizes important difference types exceptions exception em checked em em unchecked em strong checked strong exception requires developer catch deal declare thrown dealt upstream expectation recover sorts exceptions strong unchecked strong exception crop natural execution application introduce natural application recover catching frowned indicative poor design allowed make division operation illegal argument scenario method declares throwing upstream callers em em handle exception caveat form em em deal exception application crash hr blockquote deal thrown blockquote em em dealing placing block youre simply throwing checked exception deal actual error resulting dividing 

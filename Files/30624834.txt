@@ -1,0 +1,4 @@
+unbind external service android paho mqtt serviceconnectionleaked error 
+whats proper unbind external service located jar file android declare service located manifest file service source href http git eclipse org paho org eclipse paho mqtt git tree org eclipse paho android service org eclipse paho android service src org eclipse paho android service rel nofollow service runs properly exiting app error searching found call method activity strong log strong pass manually starting service obtain service unbind 
+
+put code ondestroy activity 

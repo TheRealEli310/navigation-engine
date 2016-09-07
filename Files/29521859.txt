@@ -1,0 +1,4 @@
+add document solr index solrj 
+reindex entire solr core code insert single document index index thing 
+
+adds single document index httpsolrserver refereces 

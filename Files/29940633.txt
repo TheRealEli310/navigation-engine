@@ -1,0 +1,4 @@
+configuring data source url spring xml 
+simple web mvc application spring boot communicates database db h2 memory change url needed add xml configure application id prefer stay figure jdbc url obtained inspected data source passing method newlines mine setup bean intricate interfere replace default jdbc url strong configure individual properties spring create datasource strong preferably concise xml happy avoid adding lines boilerplate equivalent 
+
+auto configured spring boot influence properties set prefixed list href http docs spring io spring boot docs current reference html common application properties html rel nofollow spring boot reference guide full list case simply add file spring boot url default h2 considered memory database regular database jpa lead database dropped application stopped fix simply add dialect simply add simpler 

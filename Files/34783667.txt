@@ -1,0 +1,4 @@
+spring mvc create bean hibernate session factory 
+pom br error wheni creating hibernate session bean strong error creating bean sessionfactory defined servletcontext resource web inf spring root context xml invocation init method failed nested exception lang noclassdeffounderror javax transaction systemexception strong spring configuration file error 
+
+due missign jta library add dependeny pom xml solve issue change dependency modify configurations hibernate jpa 

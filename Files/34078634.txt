@@ -1,0 +1,4 @@
+hibernate generatedvalue attempt modify identity column 
+problem hibernate figure wrong simple table user entity class generated automatically creating user object setting id field save database moment error fix persistence xml dispatcher service xml 
+
+change create table query replaced changed id annotations entity class working 

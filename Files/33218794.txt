@@ -1,0 +1,4 @@
+enabling popup windows chrome selenium 
+apologies advance question sounds primary qa selenium selenium write test tests step click button supposed open window chrome blocks popup window enable popup selenium 
+
+initialize customized configuration disable flag block popups href http peter sh experiments chromium command line switches disable popup blocking rel nofollow site command line switch href https seleniumhq github io selenium docs api org openqa selenium chrome chromeoptions html rel nofollow href https seleniumhq github io selenium docs api org openqa selenium remote desiredcapabilities html rel nofollow add desired config href https seleniumhq github io selenium docs api org openqa selenium remote desiredcapabilities html setcapability lang string lang object rel nofollow function strong edit strong found solution href https www browserstack automate enable disable popups rel nofollow site 

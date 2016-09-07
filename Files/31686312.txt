@@ -1,0 +1,4 @@
+bean instance inside managed spring class retrieving applicationcontext getbean method 
+autowired annotation managed spring class notice bean instance inside managed spring class retrieving applicationcontext getbean method explain options spring doesnt managed class 
+
+managed spring class usage internal aspect weaving spring manage autowired referenced beans configurable class constructed operator article works href http www javacodegeeks spring configurable magic html rel nofollow http www javacodegeeks spring configurable magic html class configurable spring notice instance created autowire references applicationcontext em central interface provide configuration application em access spring managed beans due accessing applicationcontext href http docs spring io spring docs current javadoc api org springframework context applicationcontext html rel nofollow http docs spring io spring docs current javadoc api org springframework context applicationcontext html 

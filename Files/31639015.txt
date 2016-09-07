@@ -1,0 +1,4 @@
+noclassdeffounderror adding commons lang3 library struts 
+working struts project br br br added libraries lib folder project br ul li commons collections jar li li commons fileupload jar li li commons io jar li li commons lang jar li li commons logging jar li li freemarker jar li li javassist ga jar li li ognl jar li li struts2 core jar li li xwork core jar li li commons lang3 jar li ul ant build tool build ear br errors compilation time deploy ear error br adding jar web inf lib folder project exception br add jar weblogic server strong included commons lang3 jar lib folder project duplicate question posted stack overflow strong 
+
+finally found commons lang3 jar supported commons lang3 jar 

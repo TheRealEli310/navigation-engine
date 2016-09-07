@@ -1,0 +1,4 @@
+reference final field lambda expression 
+recently found subtle difference anonymous class lambda expression lambdas equivalent anonymous classes eclipse ide refactoring convert lambda convert anonymous class lambda compilation error anonymous class perfectly compiled error message question difference 
+
+href https docs oracle javase specs jls se8 html jls html jls jls dealing forward references fully qualified compiles condition rule false em simple instance variable initializer instance initializer em case anonymous class fourth condition em innermost class interface enclosing em true enclosing class anonymous class 

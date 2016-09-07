@@ -1,0 +1,4 @@
+badpaddingexception decryption error 
+writing program takes input console zip file zip file made containig de en crypted files generated zip file public key exception decrypting figure exception public key private key code program bellow wellcomed ps updated method error 
+
+jozef create cipher default parameters defaults rsa ecb pkcs1padding padding explicitly dont nasty surprises security providers default parameters advance security settings specific jre pkcs1 padding adds bytes original data increasing bytes bytes account numbers specific bit rsa keys marginally secure longer keys loading key file checking length prints finally aes rsa file encryption fix problem buffer size public key length encryption public key size decryption change buffer read bytes size dofinal result bytes buffer input streams reading file slow inputstream read data buffer bufferedinputstream ensures data read call returns decryption crucial full block data 

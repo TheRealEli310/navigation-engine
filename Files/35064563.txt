@@ -1,0 +1,4 @@
+schedule task spring boot application 
+current developing application based spring boot annotation scheduled schedule tasks users application wanna send mails time send read post href http stackoverflow questions spring scheduling task run spring scheduling task run weird localexecutor spring based application user schedule sending email localexecutor task ways 
+
+put business logic code spring boot quartz integration href https github davidkiss spring boot quartz demo rel nofollow https github davidkiss spring boot quartz demo 

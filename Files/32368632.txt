@@ -1,0 +1,4 @@
+error bonecp connection watch thread connection obtained thread http bio exec closed 
+error calling store procedure bonecp driver connect hibernate jpa exception exception occurring transaction completed turned connection monitoring throwing exception jpa cal stored procs storedprocedurequery query entitymanager createstoredprocedurequery procname full stack trace highly appreciated 
+
+faced issue check code transactional annotation class javax transaction transactional spring frameworks transactional class org springframework transaction annotation transactional spring defined transactional annotation make spring bean methods transactional 

@@ -1,0 +1,4 @@
+defining array list integers 
+array element array store multiple integers make array integer pointers pointer make list make array object list integers blockquote type mismatch convert arraylist list blockquote 
+
+typically avoid mixing collections arrays reason array strong covariant strong collections generics general strong invariant strong create list lists ensure type safety issue creating generic array 

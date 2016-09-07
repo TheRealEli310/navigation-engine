@@ -1,0 +1,4 @@
+broadcasting data socket thread existing socket threads 
+serversocket listen connections address port connection client make thread order implement stateful protocol thread client messages process thread problem send data thread client socket simply broadcasting message sort blockingqueues threads threads broadcasting model private messages synchronized block solution share data resource threads code idea implement hr entry point server serversocket initialized listen hr client socket threads create classes data sufficient add code commenting tnx 
+
+understand requirement correctly passes message client thread client threads observer pattern removed things code required show message broadcasting concept change back requirement client thread notify client threads asynchronously observable notify threads observable call method client thread 

@@ -1,0 +1,4 @@
+execute insert query deploy ee application 
+ee application web application ejb module tables populated automatically deployed entities set sql file queries executed feel persistence xml file include server wildfly execute sql queries deploy similar persistence xml drop create table generation strategy makes difference postgres database provider ee wildfly final server 
+
+solution belongs persistence xml properties section href http docs oracle javaee tutorial persistence intro005 htm rel nofollow database schema creation link techniques 

@@ -1,0 +1,4 @@
+testng set configfailurepolicy true 
+set configfailurepolicy continue testng gradle run tests br didnt work dont test cases failing beforeclass method fails 
+
+define task property gradle version href http gradle org docs groovydoc org gradle api tasks testing testng testngoptions html rel nofollow http gradle org docs groovydoc org gradle api tasks testing testng testngoptions html href https issues gradle org browse gradle rel nofollow https issues gradle org browse gradle dont newest version generate wrapper task 

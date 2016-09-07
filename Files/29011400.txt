@@ -1,0 +1,4 @@
+coping file inputstream outputstream results bad copy 
+made upload file servlet summed streams file isnt loaded memory files uploaded smoothly open resulted file error differs depending file type size resulted file larger original types stream readers writers couldnt closer couldnt find similar problem ruled encoding receiving writing bytes encoding doesnt matter problem 
+
+youre writing content buf array problem read change loop 

@@ -1,0 +1,4 @@
+check code coverage jacoco agent 
+deploy application jacoco agent production environment work time result identify parts code rid started research topic prepared helloworld application compiled class javac helloworld helloworld class file run app command javaagent jacocoagent jar helloworld program executes jacoco binary generated file binary data fine coverage report shows coverage faced issue correct bad 
+
+generated full report steps maven kind operations added maven steps created helloworld copying question follow steps outputs created executing created pom xml file contents created directory copied executed generates report correct coverage information maven sound good simple application dont generate reports jacoco exec maven plugin version jacocoagent version match result img src http stack imgur qaluc png alt result 

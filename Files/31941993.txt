@@ -1,0 +1,4 @@
+apache ioutils breaks file content 
+encode decode pdf file base64 format read file disk string receive file string base64 format future doesnt opens adobereader read file straight byte array works fine file sucessfuly opens adobe reader thath change inside file content convert file string content breaking 
+
+encode pdf encoded string send rest service receive encoded string decode save works perfectly fine files limited images pdfs ol li read pdf string pretty destroys data reading binary data string li li encode spring likelyhood valid representation original pdf anymore li li decode save disk li ol 

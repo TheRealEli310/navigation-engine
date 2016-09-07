@@ -1,0 +1,4 @@
+jetty httpclient request content 
+jetty http client send request bellow test case test payload successfully added find request method test test case test href http download eclipse org jetty v20150827 apidocs org eclipse jetty client api request html rel nofollow http download eclipse org jetty v20150827 apidocs org eclipse jetty client api request html 
+
+put youll back getcontent dont afaik jetty client contentprovider interface bytebuffer ways find documentation easily bytebuffer standard jetty specific 

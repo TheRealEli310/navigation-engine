@@ -1,0 +1,4 @@
+exact difference net connectexception connection timed net sockettimeoutexception connect timed 
+logs find stacktraces exceptions occur webservice calls jaxws ri reference implementation exact difference exceptions configure timeouts set properties context connect timeout logs respect settings occurs seconds 
+
+question answered href http stackoverflow mentioned exceptions coming native code href http stackoverflow users user5436 user5436 mentioned href http hg openjdk net jdk8 jdk8 jdk file tip src solaris native net plainsocketimpl l436 rel nofollow occurs timeout set connection established desired time href http hg openjdk net jdk8 jdk8 jdk file tip src solaris native net plainsocketimpl l500 rel nofollow thrown error occurs establish connection confusingly em connect timeout em 

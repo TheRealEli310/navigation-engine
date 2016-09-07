@@ -1,0 +1,4 @@
+remove certificate certificate chain keystore 
+tomcat server certificate chain https stored keystore chain includes signed root ca certificate apparently href http tools ietf org html rfc5246 rel nofollow tls spec validation services warn href http security stackexchange questions ssl root certificate optional leave edit keystore remove signed root ca certificate leave rest chain private key intact 
+
+convert keystore jks pkcs12 commands require password entry export pem file key certs pkcs12 file simply text editor edit remove offending certificate preceding bag attributes load edited pem file pkcs12 file youll give cert key keystore alias tomcat point finally convert back pkcs12 jks file 

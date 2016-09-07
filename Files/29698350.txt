@@ -1,0 +1,4 @@
+jackson jaxb json processor javaee application 
+articles questions dont working goal jackson json processor javaee application h2 pom xml h2 ul li li li correct end li li due href http blog dejavu sk jax rs find providers aka message body writer utm source jersey amp utm medium home amp utm campaign latest rel nofollow article auto discovery exist jackson packages anymore li ul h2 web xml h2 simple rest registration h2 simple object h2 h2 rest resource h2 hr output expected strong update strong glassfish application server 
+
+guess youre glassfish moxy default json provider disable auto discoverable feature automatically register auto discoverable feature case glassfish lower version jersey internally register configured web xml enable classpath scanning jackson provider picked strong fyis strong ul li wraps enables auto discovery li li doesnt work create feature handle registering disabling li ul 

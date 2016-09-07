@@ -1,0 +1,4 @@
+nar maven plugin javah failing invalid byte tag constant pool 
+adding jni nar maven plugin existing spring tools suite sts project maven nar maven plugin osx yosemite error javah goal paired native class basics diffs pom xml existing sts version run javah mvn nar nar javah successfully nar maven plugin examples debugging tips workarounds alternative jni maven configuration tool options greatly appreciated 
+
+problem caused due href https issues apache org jira browse bcel rel nofollow bug apache bcel version dependency class features lambdas native methods greeted message created href https github maven nar nar maven plugin pull rel nofollow pull request switch admittedly officially unreleased bcel version recompiled plugin fixed resolved problem 

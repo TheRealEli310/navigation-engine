@@ -1,0 +1,4 @@
+json output sorting order 
+created web service netbeans called mysql data rest web service edited code loop shows areas sorting order json output data displayed ascending order method advance edit code works perfectly giving direction answser 
+
+code hypothesis probable stores information ordered data structure maintain values order additional data structure values solution sort values immediatly returning href https docs oracle javase docs api util collections html sort util list rel nofollow javadoc strong pay attention strong method class implement advise dont put code interacts database class responsibility receive external rest calls violates em single responsibility principle em application unmaintainable quickly structure em controller em em service em em repository em 

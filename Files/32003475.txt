@@ -1,0 +1,4 @@
+calling jni functions const method 
+call bindings class jni calls const jni provide const functions const methods removing const attributes solve problem 
+
+short answer version jni functions question answer jni functions potentially change state jvm minimum capability create error jvm internal state em em violates contract implied attribute design flaw jni header files 

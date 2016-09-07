@@ -1,0 +1,4 @@
+nullpointerexception proguard spring boot 
+null pointer exception ideas overcome issue obfuscate code ideas working obfuscate libraries maven spring boot project proguard proguard proguard maven plugin stack trace pom build plugin 
+
+mentioned stacktrace href http central maven org maven2 github wvengen proguard maven plugin rel nofollow source code plugin strong strong version nullpointerexception thrown block class means invocation method reference plugin configuration mentioned maven properties set passed empty null causing error check properties valid supposed passed command line case 

@@ -1,0 +1,4 @@
+matching javascript regex nashorn 
+evaluate input ecma compliant regular expression br reading found 8s javascript engine br nashorn script engine match regular expression 
+
+assume file method determine string matches regular expression pre class lang js prettyprint override evaluate function nashorn script engine call code order call function cast script engine href https docs oracle javase docs api javax script invocable html rel nofollow interface implemented nashornscriptengine defines method href https docs oracle javase docs api javax script invocable html invokefunction lang string lang object rel nofollow call javascript function rest method arguments directly passed arguments javascript method external javascript file avoid cast script engine evalute string code ideas passing variables javascript careful proper escaping characters rule languages 

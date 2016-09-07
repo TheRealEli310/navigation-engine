@@ -1,0 +1,4 @@
+jenkins maven build running junit tests 
+exact code compiled ways maven build spring maven build jenkins spring build produces jenkins build produces jenkins run unit tests stop build case fails adding maven opts dskiptests false dmaven test failure ignore false work 
+
+turns missing plugin pom xml 

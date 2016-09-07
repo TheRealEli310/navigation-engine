@@ -1,0 +1,4 @@
+jms message persistence wildfly server 
+achieve message persistence case jms wildfly server jboss final persist messsgaes database wildfly provided services appreciated working jboss wildlfy migration requirement 
+
+hornetq jms implementation bundled wildfly persistent storage default true final didnt check earlier releases persistent database synonymous hornetq filesystem persistence shouldnt make difference application 

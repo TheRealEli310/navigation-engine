@@ -1,0 +1,4 @@
+kafka consumer receiving messages running kafka apache org 
+kafka run consumer examples href https cwiki apache org confluence display kafka consumer group rel nofollow https cwiki apache org confluence display kafka consumer group doesnt receive messages output eclipse console code consumer consumermsgtask producerdemo created topic test1 command kafka running centos release final openjdk 
+
+code main removing solve issue hit issue main thread shutdown consumer seconds implement gracefully shutting starting apache commons cli apache commons daemon 

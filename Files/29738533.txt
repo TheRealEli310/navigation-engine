@@ -1,0 +1,4 @@
+transactions camel routes splitter parallel processing 
+xml file consists multiple customer elements save customer information db transactions understanding transactions run single thread roll back transaction case errors heres xml route method runs lot business logic saving customers database reason exception thrown customers multiple rollback messages happening thread transactions camel routes parallel processing work save customers parallel db single db transaction 
+
+parallel work transaction work occur thread 

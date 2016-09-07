@@ -1,0 +1,4 @@
+android sqlite query multiple optional conditions prepared statement 
+android query database table houses columns size owner city implement method em city em em size em null method supposed return rows em size location city em fields match parameters parameter null return rows owner john columns return rows owner john san francisco current implementation statements cover variation feels horribly clumsy simpler results prepared statement read vulnerable sql injections queries 
+
+vulnerable sql injections insert string values directly sql string parameters construct sql statement dynamically pre class lang prettyprint override 

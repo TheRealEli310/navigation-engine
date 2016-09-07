@@ -1,0 +1,4 @@
+based telnet application 
+create based telnet application send telnet command server capture response simply command line telnet emulator kindly provide tutorial create couple tutorial required telnet server client case send command capture telnet output variable write text file 
+
+apache commons net href https commons apache org proper commons net examples telnet telnetclientexample rel nofollow telnetclient easily provide behaviuor instance call method work remote server input outputstreams href https commons apache org proper commons net examples telnet telnetclientexample rel nofollow find official bit redundant imo href http twit88 blog writing automated telnet client rel nofollow 

@@ -1,0 +1,4 @@
+generate concentric layers matrix 
+generate matrix aspect img src http stack imgur nto0g png alt enter image description layers find understand color layers colors matrix green follow spiral pattern image wrong color yellow case start surrounding previous matrix starting top left filling layer continuing layer top left colors arent important important numbers cell ideas ps forget green modifications ps2 filled hand size matrix 256x256 impossible 
+
+strategy start innermost layer fill outwards core loop simple walk relevant part matrix fill fields em em filled relevant part matrix computed easily loops colors layers layer total size width height rectangle covered layer increases desired number layers filled counter fill matrix reset color starts case depicted question prints 

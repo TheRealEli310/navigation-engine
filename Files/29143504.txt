@@ -1,0 +1,4 @@
+inputstream read full byte array data 
+embedded system project response microcontroller android device bluetooth module bytes line convert byte buffer string dont data microcontroller properly charactors missing 
+
+href http docs oracle javase docs api io bufferedreader html readline rel nofollow bufferedreader blockquote reads text character input stream buffering characters provide efficient reading characters arrays lines blockquote older code younger code approach disadvantages read href http www oracle technetwork articles trywithresources html rel nofollow 

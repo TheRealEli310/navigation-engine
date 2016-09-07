@@ -1,0 +1,4 @@
+cron expression list dates timepoints 
+wondering efficient library parse cron expression return list time points cron expression list array epoch times date format returned correspond times trigger fires 
+
+href http quartz scheduler org api org quartz cronexpression html getnextvalidtimeafter util date rel nofollow org quartz cronexpression getnextvalidtimeafter method iteratively trigger times decide starting point iteration current moment epoch smth parse string cron expression constructor href http quartz scheduler org api org quartz cronexpression html cronexpression lang string rel nofollow cronexpression string cronexpression br br strong edit strong find similar functionality spring frameworks href http docs spring io spring docs current javadoc api org springframework scheduling support cronsequencegenerator html rel nofollow cronsequencegenerator similar iterative fashion check suits performance 

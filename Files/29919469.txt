@@ -1,0 +1,4 @@
+intercept incoming jms messages activemq reject approve based rules 
+feature activemq camel ul li intercept incoming message strong broker strong li li validate headers body based arbitrary rules li li throw exception sender message validated li li reroute invalid messages rejection queue li ul 
+
+activemq broker camel component interceptor messages broker route camel routes ul li href http activemq apache org broker camel component html rel nofollow http activemq apache org broker camel component html li ul 

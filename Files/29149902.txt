@@ -1,0 +1,4 @@
+set throwablerenderer log4j xml 
+set custom stacktrace format log4j property works fine accomplish format article found log4j xml format throwablerendered href http osdir ml log4j user logging apache org msg00016 html rel nofollow doesnt work property isnt setting logger breakpoints dont work debug set find documentation read 
+
+turned log4j doesnt support throwablerenderer extend href https logging apache org log4j log4j core apidocs org apache logging log4j core pattern throwablepatternconverter html rel nofollow throwablepatternconverter create href https logging apache org log4j log4j core apidocs org apache logging log4j core pattern converterkeys html rel nofollow converterkey afterwords add key convertorpattern 

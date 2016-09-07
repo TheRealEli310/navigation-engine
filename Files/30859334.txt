@@ -1,0 +1,4 @@
+compare protocol swift interface 
+ios tutorial href https developer apple library prerelease ios referencelibrary gettingstarted developiosappsswift lesson1 html apple ref doc uid tp40015214 ch3 sw1 apple developer page functionality ul li differences li li difference usage project li ul strong updated strong strong strong read link differences usage question simple explanation topic tough documentation 
+
+essentially protocols similar interfaces ul li swift protocols properties implemented fields li li swift protocols deal reference strong mutating strong keyword protocols implemented structs classes li li combine protocols point protocol lt keyword declaring function parameter adhere protocol li ul immediately apparent differences developer spotted 

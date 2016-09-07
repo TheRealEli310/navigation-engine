@@ -1,0 +1,4 @@
+differing sizes string representation 
+comparing ways storing breaking constituent parts code snippet href https github dweiss sizeof rel nofollow sizeof measure size objects results show bits bits results bytes bytes overhead object size underlying osx 
+
+data hotspot numbers vary jvms versions additional fields takes bytes memory due internal things object header string number bytes brackets ul li object header li li reference assuming compressed oop bit jvm li li li ul bytes objects padded multiples bytes bytes top actual content array header length char padded multiple total header length byte padded multiple numbers number bytes depends encoding retry byte array bytes hr href http openjdk net projects code tools jol rel nofollow jol visualise memory usage confirm calculation output header lines length line chars line padding line similarly string excludes size array 

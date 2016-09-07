@@ -1,0 +1,4 @@
+close jms session connection message received 
+stateful session bean send receive jms messages connection setup handled manually bean holding instances javax jms connection javax jms session bean implements messagelistener receive messages send message create temporary queue session createtemporaryqueue set message setjmsreplyto temporary queue creates consumer queue sets messagelistener stateful session bean implemented abel receive message onmessage method close session connection message received apparently allowed onmessage method strong question strong close session connection message received handle connection setup manually mdb strong strong executed ee environment glassfish edit 
+
+personally havent tested added error handling code ol li make connection static reuse connection beans specific reason li li close session thread li ol 

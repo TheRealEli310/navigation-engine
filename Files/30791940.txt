@@ -1,0 +1,4 @@
+spring xml find spring configuration class 
+release spring xml configurations beans faced unique situation getters setters bad legacy code spring configuration class xml workaround problem class found exception read configuration class blockquote caused lang classnotfoundexception v1 inventory item myjavaconfig blockquote xml file failing configuration class read applicationcontext make beans found bug spring release code record pulling configuration parentitem scanned xml 
+
+figured issue maven spring wasnt resource directory file directory moved file directory spring found file fine tests passing junit pass maven compiler throwing error test phase 

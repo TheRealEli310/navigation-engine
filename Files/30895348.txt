@@ -1,0 +1,4 @@
+package visibility priority subclass visibility 
+href http stackoverflow answer shows javas visibility modifiers meaning question allowing visibility subclasses imply give visibility classes package words creators make opposed 
+
+package supposedly written maintained team looser access control package assuming programmer intimate knowledge code subclass written stricter constraint api 

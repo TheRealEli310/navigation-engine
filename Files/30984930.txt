@@ -1,0 +1,4 @@
+possibly lossy conversion int byte 
+write hexadecimal data serial port convert hexadecimal data byte array code shows error message code writing serial port solve problem javax comm plugin 
+
+error message small caret pointing reason issue javas signed meaning range 0x80 0x7f fix casting negative range 0x3a equivalent 0x36 twos complement notation 

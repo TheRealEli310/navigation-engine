@@ -1,0 +1,4 @@
+run libgdx application gui server environment 
+built libgdx application runs pc desktop run ubuntu server raises error blockquote lwjglapplication couldnt initialize audio disabling audio lang unsatisfiedlinkerror tmp libgdxroot 31ce78a2 liblwjgl64 usr lib jvm openjdk amd64 jre bin lib amd64 libjawt symbol awt unlock version sunwprivate defined file libmawt link time reference blockquote server running gui mode run libgdx app environment heard libgdx headless backend dont advance 
+
+answer question whos added libraries build gradle file started libgdx entrypoint getheadlessmygdxgame return inherited headlessapplication 

@@ -1,0 +1,4 @@
+caused lang noclassdeffounderror javax servlet http httpservlet starting springboot project intellij 
+created simple springboot project spring initializr starting springboot project intellij exception running terminal maven dont exception mvn spring boot run solving adding pom xml exceptions solve exception solve 
+
+springboot project runs fine running terminal command mvn spring boot run running intellij exception changed spring boot starter tomcat pom xml older version runs exception issue compatibly latest maven embed tomcat release pom xml 

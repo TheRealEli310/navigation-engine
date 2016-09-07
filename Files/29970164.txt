@@ -1,0 +1,4 @@
+reuse results computation computation 
+write computation flink requires phases phase start text file perform parameter estimation obtaining result object representing statistical model data phase id object generate data simulation unsure works locally deploy job cluster surprising flink code exception 
+
+latest release milestone method added flink fetches driver program trigger execution program dont call size limitation data sets mb evaluate models driver program chain programs emit model side attaching data sink efficient data wont round trip client machine 

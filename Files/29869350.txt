@@ -1,0 +1,4 @@
+reading text file url illegalstateexception 
+read text file android multiple codes single code line permissions hope give explanation happening full error 
+
+issue exception states android honeycomb version perform network operation main ui thread network operations href http developer android reference android os networkonmainthreadexception html rel nofollow docs turn workaround recommended 

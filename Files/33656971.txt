@@ -1,0 +1,4 @@
+custom pmd rule violations showing sonarqube 
+run custom pmd rules sonarqube success created plugin extends sonar pmd plugin plugin pmd ruleset file custom rules xml sonar rules file pmd extensions xml classes custom rules sonarqube identifies rules enabled default quality profile finally run sonar analysis project custom rules properly executed find violations project analysis violations shown project dashboard sonarqube version sonarqube version pmd plugin created minimal issue custom rule strong custom rules xml strong strong pmd extensions xml strong strong rulejavaassert strong strong assertviolation strong output sonarqube analysis console run project class assertviolation console message found violation rule executed properly sonarqube issues thoughts 
+
+reason sonarqube doesnt show violations violation recorder sonar pmd plugin searches rule key attribute file equal attribute rule provided fixed changing pmd extensions xml content 

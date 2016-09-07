@@ -1,0 +1,4 @@
+open downloaded file pdf specific program adobe reader 
+create pdf files server servlet jsp home screen button clicked client open pdf file downloaded server adobe reader call adobe reader open pdf file 
+
+adobe reader default application handle pdf files os set response http header content disposition force browser download file opening browser opening downloaded pdf open adode reader 

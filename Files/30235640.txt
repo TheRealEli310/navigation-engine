@@ -1,0 +1,4 @@
+unsupported media type send json spring controller 
+send post http request content type controller dependencies controler method classes inside default constructors spring log spent lot time debug spring understand wrong 
+
+found problem fields names respecive set methods jackson accept mess naming spring confusing error message 

@@ -1,0 +1,4 @@
+register servlet enabled async supported spring boot 
+planing migrate app spring boot br stop web xml descriptor register pure servlet async supported enabled servletcontextlistener 
+
+spring boot automatically register beans application context servlet container default async supported set creating bean reason control servlets registration exposing servlet bean wrap 

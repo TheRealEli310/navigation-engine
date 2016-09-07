@@ -1,0 +1,4 @@
+fix error inflating class android support v7 widget cardview 
+question asked times solved issues cardview inside recyclerview luck code adapter added required dependencies cardview works perfectly fine recyclerview 
+
+case error cardview tag start lowercase xml replace 

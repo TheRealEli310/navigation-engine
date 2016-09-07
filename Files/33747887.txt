@@ -1,0 +1,4 @@
+remove element array 
+array nth element removed arr desired output code work lists find importing 
+
+creates array length iterates elements original array copies array index exact multiple part handles based indices 

@@ -1,0 +1,4 @@
+configure glassfish ssl certificate nickname 
+glassfish lets set ssl certificate nickname admin console highlighted pic img src http stack imgur f6qjh jpg alt glassfish admin console ssl configuration ui tutorials web mention replace occurrences default ssl nickname file proper setting certificate nickname 
+
+admin console updating domain xml file case good practice avoid modifying domain xml file official advice security guide gf4 mention certificate nickname blockquote enable secure admin ssl enabled glassfish server installation secure admin existing das admin alias secure admin blockquote href https glassfish net docs security guide pdf rel nofollow https glassfish net docs security guide pdf changing nickname isnt functional perspective import key cert keystores replace existing cert perfectly valid hr strong edit strong change alias names command default default 

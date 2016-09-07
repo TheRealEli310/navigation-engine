@@ -1,0 +1,4 @@
+org postgresql util psqlexception error syntax error 
+craeted web application deployed heroku maven eclipse group id org glassfish jersey archetypes artifact id jersey heroku webapp version tested appication localhost works fine pushed heroku test servlet container number return sqlexception heroku log found error database class 
+
+sql query change create statement afaik sql standard command youre postgresql change postgresql create statement 

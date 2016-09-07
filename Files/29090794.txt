@@ -1,0 +1,4 @@
+android start activity lang runtimeexception unable start activity componentinfo 
+heres problem launch applications main activity error logcat blockquote lang runtimeexception unable start activity componentinfo kworden atic kworden atic mainactivity android content res resources notfoundexception resource id 0x7f0c00a9 blockquote stack trace problem method frustrating control superclass method content layout dont xml file post request similar problems answers clean rebuild project hasnt android studio ver problem havent bugs mainactivity stripped code order pinpoint problem culprit extremely barebones app fails start app stopped full stack trace 
+
+stumbles future make answer problem tags material android styles made folder put settings fixed issue 

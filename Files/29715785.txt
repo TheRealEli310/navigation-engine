@@ -1,0 +1,4 @@
+multilingual jpa entity mapping 
+pre class lang sql prettyprint override jpa representation country model iterate attribute find matches language code retrieve based language code achieve simpler approach pull information language code entity achieved 
+
+comments solution separate query dao avoid loading unnecessary country names option field loaded country names map key interesting option relation access 

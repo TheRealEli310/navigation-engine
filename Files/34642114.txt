@@ -1,0 +1,4 @@
+error lang outofmemoryerror unable create native thread loop 
+rare error thing threads app loop task dont understand threads basically line text file make request api obtain json data error log code updated suggested makes sense async request sdk provided api class 
+
+disclaimer asynchttpclient author dont answer validated wrong suspect youre creating tons melis instances completely missed point asynchttpclient instance singleton specific cases melis instance creates asynchttpclient instance end creating tons blow resource usage asynchttpclient instance closed shut application underlying resources freed 

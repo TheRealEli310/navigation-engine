@@ -1,0 +1,4 @@
+internationalization support sightly 
+projekt working standart i18n internationalization custom created time ago migrating aem sightly custom system sightly href https github adobe marketing cloud sightly spec blob master specification md i18n rel nofollow i18n support wondering create similar system templates struggled data sly tags call data sly attribute make mistake make work interface href https docs adobe docs en aem ref javadoc index html rel nofollow runtimeextension work system basically xml file tags strings data problem service questions problem feel free 
+
+define sightly tags advantage directive template custom tag basically working libs granite sightly templates clientlib html basically structure html html 

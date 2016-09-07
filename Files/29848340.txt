@@ -1,0 +1,4 @@
+hibernate manytoone mapping multiple underscores working 
+create mapping hibernate entity manytoone relationship campaignitemslot class log file table sql advertslot class hibernate advert slot id 
+
+answer create custom naming strategy extending org hibernate cfg defaultnamingstrategy referencing hibernate config hibernate ejb naming strategy div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 

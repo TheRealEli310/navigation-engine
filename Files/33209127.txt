@@ -1,0 +1,4 @@
+regex string matches match date format 
+validating date format dd mm yyyy br valid br valid br example1 br input br output br example2 br input br output br br br problem code returns br enters catch block parseexception br problem regex br 
+
+problem line date strong wasnt leap year strong making date invalid strong lenient strong set false date parse call failing throwing problem fixed comment line valid date leap year making 29th feb valid date 

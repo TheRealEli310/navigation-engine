@@ -1,0 +1,4 @@
+print apache storm bolt 
+working code storm topologies bolts running weird goal set kafka storm storm process messages kafka bus bolt defined essence output kafka message cleanup function called message looked worker logs find final message final kafka messages found simple printer bolt wrong workers logs connected kafka bus fetches offset short showing worker logs strong edit strong 
+
+bolt chained spout storms grouping order typically returns href https storm apache org javadoc apidocs backtype storm topology inputdeclarer html rel nofollow inputdeclarer object case telling storm interested consuming tuples emitted component id read href https storm apache org documentation concepts html stream groupings rel nofollow stream groupings choose based 

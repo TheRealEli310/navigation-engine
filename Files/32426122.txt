@@ -1,0 +1,4 @@
+struts supports utf encoding multiple languages 
+encoding encode character support characters provide internationalization working struts2 struts2 encoding means support characters struts2 supports internationalization question encoding supports internationalization characters 
+
+utf utf encodings unicode character set 0x0 0x10ffff codepoints unicode utf encodes unicode codepoint bit code units utf encodes unicode codepoint bit code units ascii characters set encoding codepoints design unicode codepoints unicode characters ascii unicode bit complicated character sets unicode grapheme symbol presented location composed base codepoint sequence number combining codepoints umlaut cedilla javascript net utf internally string counted sequence utf code units means uncounted number codepoints uncounted number graphemes makes iteration difficult indexing impossible standard functions reading writing files utf save space text western languages 

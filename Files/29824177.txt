@@ -1,0 +1,4 @@
+guice assistedinject configured 
+issue assistedinject instructions link href https github google guice wiki assistedinject rel nofollow https github google guice wiki assistedinject run application error module configuration factory interface declared implementation dropwizard guice bundle error occurring 
+
+common problem solution documented javadoc blockquote strong making parameter types distinct strong types factory methods parameters distinct multiple parameters type named assisted annotation disambiguate parameters names applied factory methods parameters concrete types constructor parameters blockquote 

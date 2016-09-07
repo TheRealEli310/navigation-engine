@@ -1,0 +1,4 @@
+kill long running queries timeout 
+application apache web server entry point application run server apache configured timeout secs application query taking time fetch records secs due reason apache throwing 5xx error query fetching records db response apache web server kill query transaction secs apache timeout advance 
+
+hibernate transaction managers setdafaulttimeout method timeout expire hibernate throw transaction timeout expired exception requirement handle exception 

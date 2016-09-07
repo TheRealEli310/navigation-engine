@@ -1,0 +1,4 @@
+change android layout simple list item custom layout 
+part code everytime change custom layout crashes dont losing dialog window text reading custom dialog creating adapter class solve problem 
+
+ctrl left click open br copy contents xml layout file edit br change 

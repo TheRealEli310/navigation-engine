@@ -1,0 +1,4 @@
+parallel stream collected sequentially 
+prints numbers random order collects elements original order parallel stream output 
+
+kinds ordering makes discussion confusing kind em encounter order em defined href http docs oracle javase docs api util stream package summary html ordering streams documentation good em spatial em em left em order elements source collection source earlier elements left elements em processing em em temporal em order isnt defined documentation time order elements processed threads elements list processed parallel threads thread process rightmost element list leftmost element time computations parallel terminal operations carefully arranged preserve em encounter order em source destination independently em temporal order em threads process element terminal operation strong strong preserve encounter order run thread produce result preserves encounter order href http www lambdafaq org order elements stream lambda faq discussion ordering issues 

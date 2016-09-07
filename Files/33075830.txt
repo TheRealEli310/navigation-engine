@@ -1,0 +1,4 @@
+find artifact javax sql jdbc stdext jar central https repo maven apache org maven2 
+build rest api web services created project web services working problems deploy services distant server generate strong war strong file eclipse maven dependencies make strong clean install strong problem failure solution didnt face problem testing added strong jdbc stdext jar strong manually troubles pom xml 
+
+listed artifact exclusion pom pre class lang xml prettyprint override remove block fine 

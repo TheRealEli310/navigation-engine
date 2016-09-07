@@ -1,0 +1,4 @@
+akka version playframework 
+integrate existing code href https www playframework rel nofollow play framework downloaded href https downloads typesafe typesafe activator typesafe activator minimal zip ga rel nofollow minimal typesafe activator package created project modified file lines added reference existing classes ran downloaded large number jars including manually added successfully compiled code run error version numbers akka actor rc2 activator activator wait release activator adding gave warning evicted dependency class found error overly familiar interaction make work rid adding lot additional work fine 
+
+problem version problem slf4j add akka slf4j strong update strong akka actor add version slf4j 

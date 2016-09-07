@@ -1,0 +1,4 @@
+ebean query 
+perform sql query writing ebean query documentation clear idea refine query match 
+
+href http www avaje org static javadoc pub avaje ebean expr html rel nofollow javadoc em em expression makes bit easier understand code results blockquote user user id user user id blockquote speak em em expression em inside em condition em em conditions put method put em em paranthesises em em condition inside 

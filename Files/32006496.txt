@@ -1,0 +1,4 @@
+actionlistener adding action arraylist jbuttons 
+building simple calculator generate buttons made arraylist initialized loop numbers manually rest added actionlistener class called strong eventhandling strong initiate action based number pressed created works fine handling button event statement work objects buttons answers 
+
+event getactioncommand returns string assigned source event case jbutton 

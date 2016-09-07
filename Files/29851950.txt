@@ -1,0 +1,4 @@
+android toggle button toolbar open close navigation drawer fragments 
+android development reading tutorials documentation spending time finally managed create navigation drawer toolbar problem open drawer swiping left side screen capable open close drawer toolbar dont oncreateview access navigation drawer id set oncreateviews setcontentview set oncreates setcontentview class fragments attach entire code button toolbar id burger btn change code open close drawer dashboardactivity strong dont navigation drawer id layout connected oncreate oncreateview strong navigationdrawerfragment navigation drawer xml fragment navigation drawer xml dashboard activity xml intent id burger btn layout dashboard activity open close navigation drawer code 
+
+open close navigation drawer toolbar change layout move toolbar related codes fragment activity 

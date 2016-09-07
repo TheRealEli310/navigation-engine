@@ -1,0 +1,4 @@
+write junit test cases spring based rest api 
+spring based rest api order write junit test cases established database connection mock database suggestions technology stack si spring mvc hibernate 
+
+depends testing testing service layer establish actual connections database mock repository objects mockito href http stackoverflow questions spring data junit wire mock repository objects test data access logic memory database hsqldb define test data source test configuration sofisticated integration testing connect actual database 

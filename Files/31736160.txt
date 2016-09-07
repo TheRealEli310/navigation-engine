@@ -1,0 +1,4 @@
+spring mvc targetbeanname nosuchbeandefinitionexception 
+filter defined web xml bean defined servlet context xml org springframework beans factory nosuchbeandefinitionexception bean named wrofilter defined missing 
+
+apparently missing spring listener context param configuration adding configurations web xml check href https github wro4j wro4j examples tree master wro4j spring rel nofollow project spring wro4j 

@@ -1,0 +1,4 @@
+javacv videocapture read stops taking pictures repeats 
+open cv library series consecutive images camera frame captured passed thread saves image reason takes amount stops taking images repeats previous stops stops isnt time code inside thread affecting current code put camera open inside loop fix issue decrease performance greatly dont works breaking point feedback greatly appreciated 
+
+found solution moved line inside loop means time capture frame capturing null frame fix issue 

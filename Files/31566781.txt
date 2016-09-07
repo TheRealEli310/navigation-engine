@@ -1,0 +1,4 @@
+sftp mule flow writing file 
+orchestration flow calls subflow write file flow flow ref sftp writesubflow call flow ref kicks sftp process problem ol li file written flow executes logger file outbound endpoint file written fileconnector spits write file make logger wait file writing li li file inbound endpoint flow sftp executed immiediately file isnt ready throws exception expecting inputstream byte string arraylist original payload orchestration flow exception printed finally file ready inbound file connector kicks reads sftps fine related question make rest flow wait file writing finish li ol create sftp flow flow subflow source dont create flow file connector source outbound connector appreciated 
+
+finally figured questions answered blog post href http www sixtree au articles advanced file handling mule rel nofollow http www sixtree au articles advanced file handling mule key ryan mentions mule requester module 

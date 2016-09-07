@@ -1,0 +1,4 @@
+proper handle subscriptions rxjava rxandroid activity lifecycle 
+started rxjava rxandroid avoid context leaks created basefragment inside fragment extends basefragment guess question fold ol li stop context leaks unsubscribing ondestroy li li properly keeping track wether observable running setting subscription null completion checking nullity li ol 
+
+ol li stop set subscription error wont load items forget fragment stopped destroyed back stack observe case move forget initialise time view created compositesubscription unsubscribed longer add subscriptions li li correct omitted check null li ol 

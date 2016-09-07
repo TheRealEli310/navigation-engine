@@ -1,0 +1,4 @@
+parse custom log file scala extract key pairs patterns 
+building spark streaming app takes logs coming server log line follow sample app written databricks href https github databricks reference apps blob master logs analyzer chapter1 scala src main scala databricks apps logs apacheaccesslog scala rel nofollow kind stuck pattern apacheaccesslog scala log custom log key pairs typical log line dont understand pattern means change suit app aggregation times based source type keys log 
+
+case class expects variety things ip address log doesnt modify case class definition include fields add illustrate lets make case class replace regex finds play regex href https regex101 np5ya6 rel nofollow regex101 prepared start producing regex capturing groups characters fix instantiation groups hth 

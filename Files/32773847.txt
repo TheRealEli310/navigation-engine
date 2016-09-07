@@ -1,0 +1,4 @@
+scene lookup returns null search vbox 
+basically retrieve vbox fxml file scene lookup search crashes nullpointerexception print scene lookup finds finds null duh understand main class fxml file 
+
+shouldnt inject controller address question directly lookups work css applied typically rendering pulse happen stage displayed earliest move lookup code show stage em em work lookups general robust access elements fxml controller give option elements fxml things doesnt creating controller controller created redundant controller scene 

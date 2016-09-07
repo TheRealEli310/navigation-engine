@@ -1,0 +1,4 @@
+exception selenium webdriver testng 
+create properties file retrieving information lang nullpointerexception catch coding null pointer exception 
+
+small typo instantiating driver instantite driver shown setting driver exe system property 

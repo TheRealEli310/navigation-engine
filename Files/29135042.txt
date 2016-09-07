@@ -1,0 +1,4 @@
+spring data redis atomic integer variable key 
+missing big atomic decrement key spring data redis bound key instantiating atomic decrement key choice resort multi exec vanilla redis atomically decrement key resorting multi exec simple decr command missing richard 
+
+decrement dynamic keys 

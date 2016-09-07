@@ -1,0 +1,4 @@
+paypal certificate upgrade sha256 
+paypal updated sandbox api endpoint certificate sha256 sha1 migrate application connects paypal express checkout sha256 deleted downloaded certificate paypal account converted p12 format openssl confirmed certificate sha256withrsa confirmed ssl certs ca certs crt verisign g5 ca certificate link href https gist github robglas 3ef9582c6292470a1743 rel nofollow https gist github robglas 3ef9582c6292470a1743 unable connect paypal sandbox code httpclient failing handshake code sslcontext getinstance ssl custom truststore keymanagerfactory instance sunx509 initializing pkcs12 keystore missing 
+
+issue open jdk version open jdk default jce unlimited strength policy files required support bit ciphers versions ciphers disabled bug upgrading open jdk version resolved issue 

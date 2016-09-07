@@ -1,0 +1,4 @@
+simpledateformat parsing time date wrong minutes seconds 
+explain whats wrong code put notice difference minutes milli seconds input time 
+
+href https docs oracle javase docs api text simpledateformat html rel nofollow milliseconds format capital characters lowercase characters seconds blockquote minute number millisecond number blockquote interpreting seconds adds seconds seconds minutes seconds milliseconds dont create create save variable call multiple times date time string parse 

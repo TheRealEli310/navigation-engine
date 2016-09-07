@@ -1,0 +1,4 @@
+runtimeexception unable pause activity triggered ondestroy 
+exception time start activity traced problem ondestroy method call ondestroy starting activity exception crash dont call ondestroy works fine leaves activity running heres section code ondestroy called causing exception fix 
+
+calling shouldnt invoke place invoke destroy running activity instance 

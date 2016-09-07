@@ -1,0 +1,4 @@
+spring jaxb2marshaller external binding file 
+spring declaring org springframework oxm jaxb jaxb2marshaller declare external binding file binding file strong setup works fine xjc generate objects schema external binding file setup spring configuration strong error stuck binding file separate schema find setup online love properly configure external binding file jaxb2marshaller question incomplete information required jp 
+
+bindings file compilation time derive classes xml schema make sense configure runtime marshaller spring jaxb configured bindings file classes 

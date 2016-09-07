@@ -1,0 +1,4 @@
+jboss eap module deployment class found 
+structure deployed module ear ear war module war module jar module jar generated classes parent folder source folder path target generated sources problem killing deployed application throws classnotfoundexception server start classes question generated trick explicitly change deployment assembly war project eclipse jar project project archive jars project target folder jboss sees generated classes starts solution works eclipse maven project update manual edit deployment assembly solution ideas deploy reorganise packages correctly 
+
+found solution looked build path mentioned jar file entry strong output folder strong pointed changing entry application deploys starts missing generated classes 

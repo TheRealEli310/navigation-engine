@@ -1,0 +1,4 @@
+datepickerdialog implement ondatesetlistener materiallibrary 
+datepickerdialog href https github rey5137 material rel nofollow rey5137s material library implement method ondatesetlistener code code give error implement ondatesetlistener method dialog doesnt support ondatesetlistener dialog 
+
+href https github rey5137 material blob master lib src main rey material widget datepicker l430 rel nofollow https github rey5137 material blob master lib src main rey material widget datepicker l430 function called implement href https github rey5137 material blob master lib src main rey material widget datepicker l72 rel nofollow https github rey5137 material blob master lib src main rey material widget datepicker l72 interface implement 

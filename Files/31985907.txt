@@ -1,0 +1,4 @@
+conditional expression compiles branches returning types 
+started learn confrunting conditional expression book found syntax error convert numerical boolean pages test exercises including writing compiling eclipse output read things operator expressions booleans arithmetics problem eclipse 
+
+problem ternary operator return types lets unwrap conditions pseudo code expression valid conditions instance compile fine warnings part boxed primitives 

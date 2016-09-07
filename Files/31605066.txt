@@ -1,0 +1,4 @@
+javamail time connection failure connect host port 
+sending mails ee project javamail testing localhost send mail time code time console shows connect localhost doesnt happen time 1st time console messages 2nd time console message stops smtp segment mail sender code heres question strong connect smtp server port time connects localhost port strong totally weird edit open lightbox modal angularjs send email email lightbox closed main page shown found dont refresh main page send email refresh works fine figure hoping find answers 
+
+code href http www oracle technetwork javamail faq index html commonmistakes rel nofollow common javamail mistakes javamail faq problem caused href http www oracle technetwork javamail faq index html getdefaultinstance rel nofollow session getdefaultinstance session getinstance youll fix problems link 

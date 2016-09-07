@@ -1,0 +1,4 @@
+android expected resource type id 
+code create layout main class call title id review id error blockquote supplying wrong type resource identifier br calling resources getstring int id passing string drawable br passing wrong constant method expects specific set constants calling view setlayoutdirection parameter android view view layout direction ltr android view view layout direction rtl blockquote dont problem running code wondering error idea 
+
+compiler error editor validation error lint warning common deal ids app supporting api higher call href http developer android reference android view view html generateviewid view generateviewid strong api lt strong ol li open projects folder li li create xml file called li ol content code hr disable warning android studio click light bulb line error select strong disable inspection strong submenu 

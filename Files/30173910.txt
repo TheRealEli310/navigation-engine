@@ -1,0 +1,4 @@
+gridview getitematposition null list displays items 
+gridview object showing photos users library working list scrollable screen item clicked null position prints correct tap item tells position item null makes sense displaying fine phone advise missing 
+
+main reason version returning null supposed return item position dataset calls internally rid cast 

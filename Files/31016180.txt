@@ -1,0 +1,4 @@
+failed execute maven enforcer plugin 
+install uima jdk maven waring hr error blockquote error failed execute goal org apache maven plugins maven enforcer plugin enforce enforce compatibility project uimaj core enforcer rules failed specific messages explaining rule failed blockquote fix issue 
+
+switch semantic versioning changed configuration uima trunk yesterday check semantic versioning version change compatibility check back stable release maven central building change back open set em disclosure broke build em 

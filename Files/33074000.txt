@@ -1,0 +1,4 @@
+scala string 
+scala code concatenating strings scala tested written href http www scala lang org api index html scala collection immutable stringops scala doc understanding string powerful types parameters universal things list understanding correct differences string concatenation 
+
+helps href http www scala lang org api current scala predef check scala alias words method translated javas operator scala method exist id answer implicit conversion provided method notice takes instance adds elements instance original docs incorrectly state method returns incorrect doesnt type parameters youll back thing add examples add string add fact elements follow call shows finally add back reason inherits convoluted adding back alexey noted subtle tool youre href http docs scala lang org overviews core string interpolation html string interpolation href http www scala lang org api current index html scala collection mutable stringbuilder good reason 

@@ -1,0 +1,4 @@
+remove faster hashmap 
+written benchmark produces result result faster slightly remove element retrieve element doesnt faster missing strong update strong latest jmh result 
+
+trouble benchmarks measure things populated map eventually empty map comparison meaningless throw benchmark guarantee operation requires bad read javadoc sucking construction costs benchmark extra careful peel map creation separate inlineable method todays compilers optimize calls i7 4790k ghz linux x86 jdk 8u66 drastic difference fact generated code yield quantifiable differences quickly characterize workloads case em em answer method real maps argument made modify map memory stores load factors faster single benchmark paragraph text fruitful discussion 

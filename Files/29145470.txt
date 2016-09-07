@@ -1,0 +1,4 @@
+type mismatch convert hssfworkbook workbook 
+code running properly standalone file ant compile throwing error checked classpath duplicate instances jars 
+
+firstly error suggests older copy main apache poi jar classpath mis matched poi jars href http poi apache org faq html faq n10006 rel nofollow poi faq entry code track jar href http poi apache org faq html faq n10006 rel nofollow poi faq entry mixing poi jars versions supported code isnt ideal href http poi apache org apidocs org apache poi ss usermodel workbookfactory html rel nofollow workbookfactory instantiate correct workbook class change code identify file type create 

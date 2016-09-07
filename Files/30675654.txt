@@ -1,0 +1,4 @@
+elasticsearch spring boot integration test 
+add embedded elasticsearch spring boot integration test looked elastic search integration test work spring boot test runner class test work error blockquote lang illegalstateexception context information thread thread id main state runnable group main thread running class carrotsearch randomizedtesting randomizedrunner runner context add runwith class carrotsearch randomizedtesting randomizedrunner class test class make code accesses random contexts beforeclass afterclass boundary static test class initializers permitted access random contexts blockquote ideas make run alternatives 
+
+additional elasticsearch testing dependencies idea basically create embedded node href https www elastic guide en elasticsearch client api current client html node client communicate created class spring configuration lets call autowire client test 

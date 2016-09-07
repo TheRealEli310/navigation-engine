@@ -1,0 +1,4 @@
+dagger appengine gradle configuration 
+move dagger dagger appengine project strong strong android dagger simple trick dagger work source generated mixed class files build classes main package 
+
+found solution href https github tbroyer gradle apt plugin rel nofollow https github tbroyer gradle apt plugin additionally intellij configuration recommended blockquote gradle integration intellij idea idea task youll manually enable annotation processing settings build execution deployment compiler annotation processors check enable annotation processing obtain processors project classpath mimic gradle behavior generated files behavior configure production test sources directories build generated source apt main build generated source apt test choose store generated sources relative module content root blockquote remove exclude build directory mark generated source apt main directory source 

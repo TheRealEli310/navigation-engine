@@ -1,0 +1,4 @@
+fix basic program loop 
+writing guessing game enables user enter number maximum number random generator pick number max number entered user save display number high guesses low guesses problem looping program validating program loop back user entered wrong input integer loop back guess displaying error message catch error message program user enter number continue game 
+
+catch code 

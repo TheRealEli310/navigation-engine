@@ -1,0 +1,4 @@
+std set support swig 
+code call default constructor insert code swig href https github swig swig tree master lib rel nofollow support stl containers support found href https chadretz wordpress stl collections swig rel nofollow solution involve wrapper wrapper work find convenient proposing minimal swig interface handle basic set constructor insertion interface std set create wrappers specific template instantiation cases stuck iterator issue simple solution play href https github swig swig tree master lib std rel nofollow swig lib std success moment 
+
+finally decided drop iterator simple wrapper header interface instantiate versions template care methods parameters extend class 

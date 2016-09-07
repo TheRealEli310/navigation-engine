@@ -1,0 +1,4 @@
+android set textcolor listitem alertdialog list programatically 
+alertdialog user choose options default color scheme white text darkgrey background app users configure color suppose match white changing background white isnt issue set textcolor items havent found solution code building dialog illustrate issue default color scheme href http stack imgur nmkaa png rel nofollow http stack imgur nmkaa png changing background color white makes text unreadable white href http stack imgur peabc png rel nofollow http stack imgur peabc png edit understand create custom adapter creating adapter editing text color items bit overkill solution trouble creating adapter appreciated ill close question 
+
+create custom dialog link href http stackoverflow questions android executing custom listview custom dialog properly android executing custom listview custom dialog properly 

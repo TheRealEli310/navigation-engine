@@ -1,0 +1,4 @@
+javafx setting text textarea setting scroll bottom separate thread working 
+created javafx application updating log background process setting log text textarea setting scroll bottom scrollbar set bit bottom textflow inside scrollpan setting scroll bottom giving result run code separate thread working br whats wrong br edit br problem threading issue scrollbar updating previous text retrieving scroll retrieving latest older scrollbar set end previous message actual line 
+
+dont actual problem issue found alternative solution setting carets position end text length text working 

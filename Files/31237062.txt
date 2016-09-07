@@ -1,0 +1,4 @@
+class forname autowire members target class 
+requirement framework reads class configuration file string methods inside class solution reflection reflection call methods wanted problem variables inside target class autowired understand letting spring autowire fields reflection href http stackoverflow questions spring class forname spring class forname autowire class variables creating instance deadlock situation 
+
+strong option strong access current spring means class instance load spring managed bean concrete hr strong option strong manually create instance required class spring populate dependencies requires access 

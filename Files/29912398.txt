@@ -1,0 +1,4 @@
+preparedstatement throws syntax error 
+preparing query preparedstatements runs fine hardcode te query condition parameter throws error parameter passed setstring method error log query fine wrong preparedstatements 
+
+remove parameter line statement prepared inherited href http docs oracle javase docs api sql statement html execute lang string rel nofollow statement execute satement sql prepared 

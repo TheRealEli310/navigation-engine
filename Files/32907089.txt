@@ -1,0 +1,4 @@
+spring bean initializing application startup 
+application initialize bean hitting application url store common values drop declaration bean blockquote bean blockquote observed initializes application startup update master calling calls jsp page calling map displays drop jsp save master executes successfully means calls jsp page showing drop time initializing bean application startup 
+
+actual problem accessing spring em bean em class staticly bean instance spring initalize access calling static method dependant beans populated autowiring works instances static context application strong update strong realized line fundamentally wrong em em autowire static fields makes absolutely sense spring similar framework spring beans instances framework set autowired fields references spring beans 

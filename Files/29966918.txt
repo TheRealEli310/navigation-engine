@@ -1,0 +1,4 @@
+stop main thread events javafx event queue executed 
+debugging application main thread wait runnable put javafx event queue wait executed visible twists standard gui driven javafx app script showing updating javafx stage structure easy disable feature wait runnable executed problem current approach alternative approach blocking version execute runnable javafx thread easy check events event queue executed eventqueue empty 
+
+based general idea href http stackoverflow questions javafx2 pause background task service javafx2 pause background task service basic idea submit call block task completed strong em em strong execute code block fx application thread result deadlock easily configurable application replace calls depending configurable create conditionally based command line argument properties file dependency injection framework inject 

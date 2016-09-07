@@ -1,0 +1,4 @@
+periodic http requests rxjava retrofit 
+rxjava rxandroid retrofit perform periodic http requests update data seconds intentservice recursive handler runnable fires seconds id remove rxjava handle requests strong edit strong ended code updates 
+
+prevent overlapping requests subscribe single threaded 

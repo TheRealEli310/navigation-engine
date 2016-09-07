@@ -1,0 +1,4 @@
+spring resttemplate working 
+created application spring resttemplate rest template consuming external webservice header accept application json rest template added header giveing exception code solution strong update strong code working fine 
+
+youll add list supported mimetypes 

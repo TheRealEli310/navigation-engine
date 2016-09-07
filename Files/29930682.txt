@@ -1,0 +1,4 @@
+akka actor bounded mail box 
+configuration configured actor initate actor code sending messages actor expect exception queues full messages printed inside onreceive method half happened mailbox configuration applied wrong strong updated strong created actor subscribes dead letter events installed kamon queues monitoring sending messages actor kamin shows 
+
+default akka discards overflowing messages deadletters actor doesnt stop processing href https github akka akka blob 876b8045a1fdb9cdd880eeab8b1611aa976576f6 akka actor src main scala akka dispatch mailbox scala l411 rel nofollow https github akka akka blob 876b8045a1fdb9cdd880eeab8b1611aa976576f6 akka actor src main scala akka dispatch mailbox scala l411 sending thread blocked interval configured discarding message decrease 1ms test pass 

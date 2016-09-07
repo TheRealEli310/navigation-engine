@@ -1,0 +1,4 @@
+jackson json library jersey jetty 
+implemented strong jersey strong service embedded strong jetty strong strong jackson strong resource consume produce json works post resource message console reads post resource model implemented configuration class detailed jersey specs pom xmls dependencies 
+
+including jackson json provider dependencies 

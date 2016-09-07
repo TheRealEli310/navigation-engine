@@ -1,0 +1,4 @@
+android getmenuinflater fragment subclass resolve method 
+inflate menu class inherits class method raises error blockquote resolve method getmenuinflater blockquote android studio highlights red states blockquote method override method superclass blockquote create method class return error thrown blockquote error incompatible types forecastfragment converted context error method override implement method supertype blockquote 
+
+signature doesnt docs href http developer android reference android app fragment html oncreateoptionsmenu android view menu 20android view menuinflater rel nofollow code 

@@ -1,0 +1,4 @@
+xsd mapping pojos 
+lets xml source web service control structure xsd xsd jaxb generates class refactor annotate pojo em wrapper em em foo em object list em bar em objects helps consuming web service spring ws default jaxb2marshaller 
+
+add strong xmlelementwrapper strong annotation check href http stackoverflow questions xmlelementwrapper unwrapped collections strong answer strong information 

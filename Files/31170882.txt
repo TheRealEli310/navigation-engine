@@ -1,0 +1,4 @@
+findviewbyid referenced static context 
+access method text field ui activity file game normal file background static variables changed time variables reflected actual ui access method changename displaymessageactivity reflect display message activity xml method displaymessageactivity call game call game change static method error static method accessed static context findviewbyid making instance displaymessageactivity game access changename method making static throws nullpointerexception resolve issue 
+
+create static reference initialize game access static method strong edit strong btw npe thrown created instance displaymessageactivity 

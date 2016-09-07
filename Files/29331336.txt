@@ -1,0 +1,4 @@
+things mind overriding hashcode 
+blockquote definition hashcode method class person return super hashcode br return hashcode age br return hashcode comment hashcode br return hashcode comment hashcode age blockquote answer em em explain wrong 
+
+return result instances method returns equal return hash codes violates href http docs oracle javase docs api lang object html hashcode contract blockquote objects equal equals object method calling hashcode method objects produce integer result blockquote age comment return produce values implicitly descends class doesnt extend explicit superclass result equal invoked instance docs blockquote practical hashcode method defined class object return distinct integers distinct objects typically implemented converting internal address object integer implementation technique required programming language blockquote instances class age comment return return values violating contract practice means class key 

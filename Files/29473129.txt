@@ -1,0 +1,4 @@
+onclicklistener setting correctly 
+make onclicklistener work added view open activity doesnt work made displays error resolve constructor fix btw pretty android development edit error log heres code onclicklistener bottom 
+
+replace lines 

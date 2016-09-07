@@ -1,0 +1,4 @@
+size initialization vector needed aes256 encryption 
+aes256 encryption cfb mode byte key bit confused initialization vector bytes initialization vector aes256 bytes bytes code appreciated 
+
+size iv depends mode em typically em size block size modes differ notably gcm mode default size bytes sized iv school modes cbc cfb simply require iv size block size ctr commonly requires bytes principle iv size case commonly padded valued bytes block size aes bytes key size aes key bytes spurious information aes key size em em bytes iv cfb mode stated earlier bytes aes bit block cipher aes restricted block size compared rijndael cipher rijndael configured block sizes 

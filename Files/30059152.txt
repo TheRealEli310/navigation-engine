@@ -1,0 +1,4 @@
+wkt sdo geometry 
+transform data strong text oracle sdo geometry strong found method sdo util wktgeometry oracle perfect porpuses takes long time transform lot geometries sdoapi didnt found method dont reinvent wheel api sql method solve 
+
+found solution package oracle spatial util sdoutl jar sdoapi jar included oracle convert wkt sdo geometry vice versa 

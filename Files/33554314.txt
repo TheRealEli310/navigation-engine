@@ -1,0 +1,4 @@
+highest grade printing arrays 
+write program read scores scores assign grades based general idea problem figuring incorporate problem figuring change line string s1 input final answer print number entries entered equation grade score grade score grade score grade score strong solution strong enter number students em em enter em em scores em em em em em em em em student score em em grade student score em em grade students 
+
+public class lab 

@@ -1,0 +1,4 @@
+servlet server encountered internal error prevented fulfilling request 
+iv created registration page jsp page servlet error description server encountered internal error prevented fulfilling request register jsp page createservlet registeruser getcon 
+
+actual problem connection find connection failing check url give jdbc mysql localhost database localhost db machine ip make required jdbc driver classpath edit latest comments code missing jar problem add connector library runtime classpath windows classpath separator systems linux assumes mysql connector bin jar located folder case put path library plain 

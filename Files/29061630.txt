@@ -1,0 +1,4 @@
+struts tags tiles resolved web xml jar files 
+struts2 eclipse ide jboss5 server maven build tiles simple login application include taglib imported jars dependencies file list jars included maven file ul li struts2 core li li struts2 tiles plugin li li commons beanutils li li struts taglib li li commons digester li li commons beanutils li li tiles api li ul included combinations ol li tiles api jar li li tiles core jar li li tiles jsp jar li li struts tiles jar li ol working errors import tiles jsp page blockquote uri resolved jar files deployed application blockquote google solutions didnt work 
+
+servlet api version tiles taglib definition dont mess struts taglib tiles jars href http tiles apache org rel nofollow tiles artifacts 

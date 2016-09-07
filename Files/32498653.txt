@@ -1,0 +1,4 @@
+time complexity pascal triangle algorithm 
+tasked solving problem pascal triangle successfully implemented code tough time figuring time complexity solution number operations list number operations reduce math work translate big notation thinking similar gauss formula wrong appreciated 
+
+complexity calculation element code constant time arraylist accesses constant time operations insertions amortized constant time href http docs oracle javase docs api util arraylist html source blockquote size isempty set iterator listiterator operations run constant time add operation runs amortized constant time blockquote triangle elements href https en wikipedia org wiki arithmetic progression sum arithmetic progression sums 

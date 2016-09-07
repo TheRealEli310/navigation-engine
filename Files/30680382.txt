@@ -1,0 +1,4 @@
+import javax ws resolved gwt eclispe 
+javax annotation gwt app download javax ws rs api jar href http www java2s code jar downloadjavaxwsrsapi20jar htm rel nofollow include project em project properties build path libraries add external jars em clean project refresh project build launch em run em button error eclipse show error source file miss 
+
+gwt libraries server side restricted small href http www gwtproject org doc latest refjreemulation html rel nofollow jre emulation subset consequence librariy standard classes emulation subset special gwt libraries purpose dont error eclipse eclipse interprets code standard doesnt gwt restrictions common pitfall everbody gwt 

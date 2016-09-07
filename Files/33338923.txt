@@ -1,0 +1,4 @@
+parse retrofit json response 
+typical href http square github io retrofit rel nofollow retrofit api request returned json parse json wrong tedious create model class response app 
+
+write model class method parse response convert class 

@@ -1,0 +1,4 @@
+max 
+writing program finds taxes based persons income problem running numbers dont round decimal places dont max numbers income amount amount amount amount write program named incometax ol li generate random number people range li li user enter amount taxable income person li ol displays tax due ol start li display max taxes screen li ol code 
+
+track maximum array solution initialize maximum number maximum previous maximum current number algorithm href https docs oracle javase docs api lang math html max double double rel nofollow returns maximum 

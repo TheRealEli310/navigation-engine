@@ -1,0 +1,4 @@
+cell reference cell 
+apache poi cellreference rowindex column index code rowindex columnindex generated dynamically cellreference rowindex columnindex 
+
+create cellreference instance cellreference int prow int pcol constructor cellreference class formatasstring method created instance 

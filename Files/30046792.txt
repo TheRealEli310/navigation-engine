@@ -1,0 +1,4 @@
+spring context loaded 
+migration project mine spring release release changed pom xml dependency moment facing problem dispatcherservlet find beans application context files strong web xml strong bootstrap config xml beans inserted spring context read strong bootstrapmanager strong child strong servletcontextlistener strong inserted spring context contextloaderlistener contextloader worked perfectly spring replace jar strong beans strong defined springhttp servlet xml find beans defined bootstrap config xml suggestion highly appreciated stuck weeks 
+
+found problem overridding method strong deprecated strong strong spring version strong removed strong spring version strong due custom context loaded parent context strong solution strong override class class set custom created strong context strong parent strong child context strong 

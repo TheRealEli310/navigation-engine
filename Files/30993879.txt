@@ -1,0 +1,4 @@
+retrieve subject alternative names certificate 
+solution provided href http stackoverflow questions read alternative certificate link error reading subject alternative names certificate blockquote lang nosuchmethoderror org bouncycastle asn1 asn1inputstream readobject lorg bouncycastle asn1 derobject blockquote line code blockquote asn1inputstream decoder asn1inputstream byte item toarray derencodable encoded decoder readobject blockquote der file create certificate solution link mentioned proper jar file jar bcprov jdk16 jar suggest wrong 
+
+code working tested certificate exported internet explorer exported cer made code saved file aa1 cer output www google google check certificate problem certificate 

@@ -1,0 +1,4 @@
+fatal error creating navigation drawer inflateexception binary xml file line error inflating class drawerlayout 
+attempting follow guide implementing android navigation drawer href http codetheory android navigation drawer rel nofollow http codetheory android navigation drawer error source line contents layout ss home shed light happening resolve greatly appreciated stumped point resource missing exists cleaning project restarting eclipse 
+
+xml change dont forget integrate support library 

@@ -1,0 +1,4 @@
+size bitset 
+store memory minimum space store millions memory converted gave program run strong question strong br differ assume correct br href http stackoverflow memory measurer learn size confused 
+
+advise tool analyze object layout schemes jvms href http openjdk net projects code tools jol rel nofollow jol case jol produces result calculations correct static fields empty reserves bytes calculations exact account size object results means empty bytes including long array estimated object layout vm modes 

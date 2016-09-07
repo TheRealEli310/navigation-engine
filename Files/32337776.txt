@@ -1,0 +1,4 @@
+overload spring controller method variable request parameters 
+create overloaded controller method spring filtering multiple request parameters answers found provide solution identifying request parameters passed annotation insufficient accepting multiple parameters filter declare request params implement add additional filter url 
+
+set optional logic case 

@@ -1,0 +1,4 @@
+related maven gav naming jar naming 
+gav defined pom xml exception program maven resource blockquote org eclipse aether resolution artifactresolutionexception find artifact org test test spring kie pom snapshot local file home superseed77 m2 repository blockquote blockquote org eclipse aether resolution artifactresolutionexception find artifact org test test spring kie jar snapshot local file home superseed77 m2 repository blockquote reference jar named directory mechanism transformation rules find jar location 
+
+directory hierarchy group artifact version jarfile commons lang location youre maven build jar file ensure correct location 

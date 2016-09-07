@@ -1,0 +1,4 @@
+build error compiling methods jni 
+run methods class visual studio environment error related createjavavm find solution steps strong step strong jdk installed path program filesjava directories jdk1 jre6 strong step strong write simple program strong step strong compile code strong step strong create visual studio program visual clr console application strong step strong add additional dependencies jvm lib jvm dll choose project properties linker input additional dependencies jvm lib choose project properties linker input delay loaded dlls jvm dll strong step strong add include directories choose project properties configuration properties general additional include directories program filesjavajdk1 45lib program filesjavajdk1 45includewin32 program filesjavajdk1 45include strong step strong write code run methods strong step strong build project error solve error 
+
+solved error working code 

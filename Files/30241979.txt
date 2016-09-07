@@ -1,0 +1,4 @@
+dropwizard guicebundle governator forcing resources class singleton 
+href http dropwizard github io dropwizard rel nofollow dropwizard observed resource object created time belonging path called resource registered class application bootstraped force resources singleton href https github ingenieux dropwizard governator rel nofollow governator work fix 
+
+guice override bindings class annotation href https github google guice wiki scopes rel nofollow documentation blockquote conflicting scopes type statement statements scope type annotated scope dont bind blockquote fix singleton binding 

@@ -1,0 +1,4 @@
+list object map 
+transform results query map keys categories values count records belonging category persistence frameworks return results query object arrays elements category count returned result set row find readable convert list map traditional approach involve creating map putting entries manually liner mind utilize box collector find syntax bit readable traditional approach overcome create util method reuse situations perfect liner cast key type inference bit difficult grasp readers code util method signature wondering toolbox achieved readable elegant 
+
+current liner fine dont magic indices built command encapsulate enum youre extraction code bit clearer ideally youd add type field column check correct method called scope question ideally create class representing rows encapsulates query skipped getters clarity puts dependency query decoding rows class hides unnecessary details user creating map 

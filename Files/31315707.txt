@@ -1,0 +1,4 @@
+implement websocketcontainer standardwebsocketclient class 
+attempting connect sockjs web sockets server href http docs spring io spring framework docs rc2 spring framework reference html websocket html websocket stomp client rel nofollow spring websocketclient support client provide connection subscribe channel run code exception understand provide websocketcontainer project meta inf folder instructed comments failing method understand wire file constructor arguments attempted follow examples href https github spring projects spring integration blob master spring integration websocket src test org springframework integration websocket server websocketservertests rel nofollow test case luck understand container implement project 
+
+javax websocket specification provide implementation full implementation href http repo1 maven org maven2 org glassfish tyrus bundles tyrus standalone client rel nofollow tyrus standalone client maven add dependency 

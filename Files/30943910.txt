@@ -1,0 +1,4 @@
+integer receiving null mysql hibernate jpa spring 
+hibernate jpa spring related question storing int persist db works fine bind values back object integer receive null application crashes hr code shortened easier reviewing application works long db int loop hits null program breaks nested exception lang nullpointerexception appreciated 
+
+found solution problem entitymanager retrieve entity id null slipped mind table represents object foreign key table catch solves problem didnt realize sooner guess strange things happen days 12hours day coding 

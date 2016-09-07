@@ -1,0 +1,4 @@
+appium initialize driver launched programatically 
+initializing appium command line selenium running test android chrome browser process runs infinite time code line doesnt executed code dont output console process doesnt line setting chrome doesnt launched device strong strong execute command command line start test line test runs fine chrome initialized successfully wrong code 
+
+problem latest appium version appium server launched programatically creating deadlock driver initialized issue solved appium replacing line code 

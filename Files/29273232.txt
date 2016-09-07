@@ -1,0 +1,4 @@
+longitude latitude values google geocoding api android studio 
+getcurrentlocation method prints json json correct error nullpointerexception line private void getforecast double latitude double longitude works put doubles parameters works pretty android geolocator studio api nullexception pointing appreciated methods helps oncreate getlocation getforecast 
+
+assuming print object class currentlocation 42c49c78 hope helps 

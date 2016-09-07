@@ -1,0 +1,4 @@
+spring security custom authenticationprovider called fails 
+implement form login spring security custom authenticationprovider spring release spring security release tomcat security context xml implementing custom authenticationprovider custom authenticationentrypoint implementation reason page href http localhost reporting ui reports view sport rel nofollow http localhost reporting ui reports view sport redirected href http localhost reporting ui spring security login jsessionid 74c6120f66a978df57a4eb764de3b313 rel nofollow http localhost reporting ui spring security login jsessionid 74c6120f66a978df57a4eb764de3b313 springs default login form enter credentials stops custom authenticationprovider works reason server method authenticate called time blank password authentication getcredentials fails logs idea wrong behavior 
+
+make trusted adding role pre class lang prettyprint override arguments constructor return true 

@@ -1,0 +1,4 @@
+convert string character array tochararray instance method 
+program prompts user input string outputs entire string uppercase letters 
+
+code snippet convert string char array output uppercase 

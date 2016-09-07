@@ -1,0 +1,4 @@
+libavcodec text relocations 
+testing android nexus metaio service end 15th december date move ar platform problem start aractivity error solution workaround struggling find solution understand problem 
+
+today error messages testing app android nexus motorola solved issue checking targetsdkversion manifest file targetsdkversion solved checked build gradle files compile version targetsdkversion hope short term workaround hope feedback metaio christin 

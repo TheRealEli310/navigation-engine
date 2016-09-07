@@ -1,0 +1,4 @@
+jpa commit persist required 
+working jpa project saving class objects object saved db executes colleagues standard transaction approach follow whats logic throw lights 
+
+autocommit db reason permanently stored db irrespective commit transaction application production autocommit generally set hampers performance response time db developers generally encouraged control commit rollback transaction application link details command handle autocommit db2 href http www db2util administration options db2 command line disable autocommit rel nofollow http www db2util administration options db2 command line disable autocommit 

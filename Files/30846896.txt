@@ -1,0 +1,4 @@
+findby select element 
+run code null pointer select element code driver findelement function find work arround find putted sout dropdown gave null 
+
+fixed problem today problem needed pagefactory webdriver page object define webdrivers browsers needed place pagefactory function doesnt return null pointer anymore function driver works fine 

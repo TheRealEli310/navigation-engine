@@ -1,0 +1,4 @@
+number quarters dates 
+fromdate jan todate apr find number quarters fromdate todate code giving output q1 q2 missing enter todate apr giving q1 q2 wrong 
+
+apr isnt anymore loop stop doesnt make iteration give quarter 

@@ -1,0 +1,4 @@
+autocomplete trie 
+working assignment implements autocomplete dictionary sucessfully implemented spellcheck addword isword functions implement function predicts words autocompletions code trienode class algorithm implement kind greatly appreciated 
+
+solve part courseras university san diego follow algorithm written comment inside class added copy implementation method dont copy paste part solution guidance added comments code understanding algorithm 

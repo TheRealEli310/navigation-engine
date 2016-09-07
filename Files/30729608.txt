@@ -1,0 +1,4 @@
+generate checksum war file maven 
+inherited project maven pom file build war file request generate checksum war file question maven pom file plugin needed configure building generate checksum output war file searching subject provide checksum functionality isnt clear integrate existing pom file 
+
+maven install plugin href https maven apache org plugins maven install plugin plugin info html rel nofollow https maven apache org plugins maven install plugin plugin info html set property configuration createchecksum true common practice plugins href http nicoulaj github io checksum maven plugin rel nofollow http nicoulaj github io checksum maven plugin 

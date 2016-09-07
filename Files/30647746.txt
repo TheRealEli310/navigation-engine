@@ -1,0 +1,4 @@
+create excel sheet workbook apache poi 
+copy multiple files singe excel file sheet excel file carry contents file files copy resultant file sheets run code sheet generated single file debugging figure reason code 
+
+reduced main problem write added sheet closing stream writing xls file complex work properly append bytes complete xls workbook sheets stream time complete xls workbook file adding sheets close stream resulting file bytes complete xls files sheet sheets sheets opened excel read work recommend creating bufferedoutputstream call write added sheet bufferedoutputstream close creates complete xls file sheet overwrite existing file writing complete workbook time sheet added create bufferedoutputstream method dont pass write close bufferedoutputstream added sheets 

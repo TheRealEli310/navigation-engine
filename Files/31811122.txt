@@ -1,0 +1,4 @@
+call jsp stand program 
+call file application pass bean result rendered code output program stand application runs servlet 
+
+servlet amp stand application string template velocity freemaker jsp 

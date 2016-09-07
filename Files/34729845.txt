@@ -1,0 +1,4 @@
+io ioexception illegal utf sequence initial byte 11111xxx eclipse postgresql 
+tutorial href http examples javacodegeeks core postgresql rel nofollow http examples javacodegeeks core postgresql eclipse added latest postgresql jdbc driver project renamed postgres jar code shown tutorial postgresql server running windows run pg ctl start path correct server working checked pgadmin database encoding utf8 
+
+issue solved setting password user connect older version jdbc driver provided error message 

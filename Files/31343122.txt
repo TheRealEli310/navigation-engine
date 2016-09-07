@@ -1,0 +1,4 @@
+jpa entity manager correctly injected weblogic 
+ear app deploy weblogic 12c persist componenent persist component jpa implementation eclipselink persist objects bean entitymanager declared entity manager injected annotation problem time access entitymanager meaning correctly injected persistence xml factory instance regular code mybeanlocal interface mybean inject instance annotation fails nullpointerexception supposedly injected instance application deployed weblogic server dont mdbs componenents em deployments mydomain configuration settings persistence em connected startup log weblogic server suspect problem bean correctly processed weblogic server idea fix id thankful code config context 
+
+problem youre hold ejb reference construct instance youll pojo ejb means wont access ejb services dependency injection transaction management hold genuine ejb href http www java2s tutorial ejb3 useinitialcontexttolookupejb htm rel nofollow bean initial context 

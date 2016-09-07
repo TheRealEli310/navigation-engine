@@ -1,0 +1,4 @@
+define javah task gradle 
+fairly gradle groovy task generates jni headers works feel bit ugly improve suggestions remove variables hardcoded make task generic generates jni header main class run files task fails classpath wrong doesnt print error message build succeed misleading 
+
+ol li gradle task type type strong href https gradle org docs current dsl org gradle api tasks exec html rel nofollow exec strong command line property task configuration action youre unfamiliar gradles build lifecycle recommended reading strong href https gradle org docs current userguide build lifecycle html rel nofollow strong section user guide li li replaced li li needed cleanups execute task fails li ol 

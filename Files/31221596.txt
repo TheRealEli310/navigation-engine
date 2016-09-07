@@ -1,0 +1,4 @@
+spring creating beans interface 
+package classes implement interface policy method policies implement property file describe policies applied service polices simple loop service person loop property file run polices persons main part code ii make catching policy classes easier spring decided hashmap key create mimic problem 
+
+define interface called base interface policy implementations spring bean policy implementations make bean ensure matches properties file make class checks policies spring bean spring autowired policy bean ensuring bean implements policy interface parameter method hope helps 

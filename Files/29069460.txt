@@ -1,0 +1,4 @@
+configure internationalization application properties spring boot 
+wondering configure spring boot handles internationalization application properties file writing code define declare bean properties documentation shows values configured internationalization achieve convention map properties file 
+
+blockquote convention map properties file blockquote isnt single bean definition optional prefer leave 

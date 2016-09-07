@@ -1,0 +1,4 @@
+multi module component scanning working spring boot 
+module web business included business web include service interface business web giving basically scan business module simple missing add bean service springbootapplication class working fine code class module calling class module module 
+
+scans packages class annotation packages class springbootapplication annotation package packages scanned services package beans wont scanned case add annotation application class add packages scan annotation 

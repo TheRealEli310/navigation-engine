@@ -1,0 +1,4 @@
+android getfromlocationname returns size address list 
+database locations convert coordinates place map errors addresslist type address size researched topic manifest permissions correct phone connected internet rebooted phone google issue solutions dont locations accurate error message android database cursorindexoutofboundsexception index requested size strong edit strong fetchalladdresses 
+
+youre results cursor returning false case typically check result returns false empty cursor empty cursor separate issue hard happen code order rid cursor empty fix check cursor make greater make close cursor memory leak 

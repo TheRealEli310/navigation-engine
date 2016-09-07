@@ -1,0 +1,4 @@
+forbid user login android devices time 
+lets android app user login functionality php based back end server user fills required fields mail information press login button request made back end server lets user successfully logged question exist common mechanisms solutions design patterns similar web blockquote sessions blockquote android apps server side order implemement functionalities login logout prevent users login account time 
+
+similar php sessions php sessions give id client make appears requests client application makes server load session id basically usage web browsers cookie store session id client application set php sessid cookie application automatically send request 

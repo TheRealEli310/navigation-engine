@@ -1,0 +1,4 @@
+implement equivalent waitformultipleobjects windows api 
+cleanup thread cleanup repeatedly cleanup triggered ol li time period li li event li ol windows wait specific events time wait released event occurs time occurs similar implementation countdownlatch cyclicbarrier countdownlatch reset couldnt cyclicbarrier dependency number threads cyclicbarrier timer timertask 
+
+option href http docs oracle javase docs api util concurrent blockingqueue html rel nofollow multiple implementations provided package event producers put events queue cleanup thread poll event timeout method href http docs oracle javase docs api util concurrent blockingqueue html poll long util concurrent timeunit rel nofollow 

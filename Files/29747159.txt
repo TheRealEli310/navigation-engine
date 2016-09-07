@@ -1,0 +1,4 @@
+convert readable cyrillic 
+tryed convert utf working dumbness confused 
+
+assuming editor compiler set utf correct erroneous string literal treats characters single bytes abusing iso windows encoding cyrillic string unicode write text file utf bom windows notepad identify file utf writing cyrillic encoding problem 

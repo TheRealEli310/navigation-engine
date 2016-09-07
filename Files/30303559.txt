@@ -1,0 +1,4 @@
+component found camel bean validator 
+route added dependency manually initializing hibernatevalidationproviderresolver camel version adding line camel context xml validator bean called called class hibernatevalidationproviderresolver include separately class call call validator pom file clear idea 
+
+doesnt setting version camel mentioned href http camel apache org bean validation html rel nofollow documentation 

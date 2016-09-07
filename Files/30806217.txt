@@ -1,0 +1,4 @@
+close closed connection 
+reading database access logic found connection closed row duplicate instruction reason concerned closing connection closed 
+
+sql connection issue href http docs oracle javase docs api sql connection html close rel nofollow connection documentation blockquote calling method close connection object closed op blockquote stand proper implementation conceivable implementation odd behavior matter 

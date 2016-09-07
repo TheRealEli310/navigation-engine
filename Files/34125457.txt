@@ -1,0 +1,4 @@
+nullpointer injecting entitymanager guice persist sparkjava application 
+problems inject entitymanager spark guice application persistence xml main method app inject object managed guice deputyservice important facts ol li run method app start persistservice li li wrong dont problem sqlite inject entitymanager application boots alright create database tables li ol feeling extra helpful details setup feel free reach project href https github vitallan politicaaberta api rel nofollow https github vitallan politicaaberta api 
+
+mistake google guice injects provider entitymanager specifically speaking changing injection solved problem 

@@ -1,0 +1,4 @@
+ghostdriver hide console logs 
+hide console log ghostdriver webdriver loglevel webdriver loglevel cli args doesnt works jar myjar jar myfile txt doesnt works ways error code logs vm arguments 
+
+found answer install jar windows service 

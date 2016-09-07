@@ -1,0 +1,4 @@
+exponentiation squaring 
+searching href http en wikipedia org wiki exponentiation squaring rel nofollow exponentiation squaring recursive method stumbled pseudo code unable understand fully give insight simple terms great 
+
+code relies fact loop dividing exponent squaring base strong strong lets computing result write exponent sum binary powers decomposition binary powers code rationale exponained strong step step strong start multiply result answer strong strong factor divide exponent square base means answer strong doesnt strong factor divide exponent square base multiply result answer strong strong factor divide exponent square base multiply result answer strong strong factor 

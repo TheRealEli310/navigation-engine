@@ -1,0 +1,4 @@
+set waiting timeout jmsmessagingtemplate sendandreceive 
+sendandreceive jmsmessagingtemplate mvc controller reply message waiting reply forever documentation states blockquote returns reply possibly null message received due timeout blockquote figure long timeout configure explain em fyi spring integration spring messaging em 
+
+pass href https docs spring io spring docs current javadoc api org springframework jms core jmstemplate html rel nofollow jmstemplate creating href http docs spring io autorepo docs spring release javadoc api org springframework jms core jmsmessagingtemplate html jmsmessagingtemplate org springframework jms core jmstemplate rel nofollow jmsmessagingtemplate configure href https docs spring io spring docs current javadoc api org springframework jms core jmstemplate html setreceivetimeout long rel nofollow property time milliseconds 

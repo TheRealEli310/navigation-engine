@@ -1,0 +1,4 @@
+spring data jpa deleteby query working 
+create custom deleteby method query repository deleting hibernate making select statement pre class lang prettyprint override hibernate blockquote hibernate select contact0 id id1 contact0 emailaddress emailadd2 contact0 name3 contact contact0 contact0 emailaddress blockquote missing make special configuration order make delete work 
+
+delete working working youd expect typically entity managed deleted jpa provider hibernate case load query entity issue delete youre query delete possibilities ol li delete make record db li li delete part transaction spring data crud ops transactional default make calling transactional li ol avoid select removing entity modifying query delete 

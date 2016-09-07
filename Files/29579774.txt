@@ -1,0 +1,4 @@
+string identityhashmap hashmap performance 
+identity hashmap special implementation compares objects reference equals identityhashcode hashcode addition string keys identifyhashmap faster tune correctly added basic code basic performance check reading dictionary words 235k amp pushing maps prints good improvment ignore wrong 
+
+h3 work h3 make work arbitrary strings youll keys potential keys pass equivalent mechanism em unlike stated m3th0dmans answer dont values em interning string ultimately requires kind hash table interned strings intern strings reason paid cost wont actual performance boost h3 test show h3 test unrealistic exact list keys iterate list order achieved inserting elements simply calling entry set h3 whats point h3 scenarios guaranteed practically guaranteed object identity imagine implement class youll write threads notion equality identity map keys enum values 

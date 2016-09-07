@@ -1,0 +1,4 @@
+constructor object context int list draweritem undefined 
+resolve issue making drawer app receiving errors adt ul li constructor object context int list undefined li li method getview int view viewgroup type customdraweradapter override implement supertype method li ul code customdraweradapter class 
+
+fix problems make class extend arrayadapter 

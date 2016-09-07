@@ -1,0 +1,4 @@
+create file compile class file runtime 
+generating bunch files xsd file xjc compile files class files runtime reflection problem generate files compile compiler compile properly error assuming fact jvm doesnt package generated find referenced classes solved simply restarting program generating files curious steps runtime restart looked ways refresh packages classpath runtime luck method compile files 
+
+finally figured apparently pass files compiler solves symbol error stupidly simple solution 

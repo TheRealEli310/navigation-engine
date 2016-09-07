@@ -1,0 +1,4 @@
+control time javafx 
+started javafx problem simple solution controls ol li main content strong center strong li li footer strong bottom strong li ol img src http stack imgur qr2eq png alt concept appears happen em deletes em references box output img src http stack imgur losvx png alt gui testing simply reuse button results made questions ul li work problem creating button instances li li em em nodes li li em em controls reused li ul 
+
+javadocs href https docs oracle javase javafx api javafx scene node html class blockquote node occur scene graph specifically node root node children clip program adds child node including node child root node automatically silently removed parent blockquote youre button shown button places make clear method return instance places impossible instance exist place copy button reuse 

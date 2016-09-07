@@ -1,0 +1,4 @@
+raw property placeholders 
+define property properties files read config class exception return string literal attempting resolve 
+
+work takes pretty unintuitive syntax essentially split expression parts wrap thing parent spel expression join change property work works youre splitting character spel wont evaluate expression concerned youre concatenating strings 

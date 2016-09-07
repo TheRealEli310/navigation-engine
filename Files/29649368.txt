@@ -1,0 +1,4 @@
+run test cases sequentially maven testng 
+ol li run test cases sequentially maven testng li li run test suite sequentially li ol 
+
+href http maven apache org surefire maven surefire plugin examples testng html rel nofollow maven surefire plugin testng suite xml files configure testng xml follow href http testng org doc documentation main html dependencies xml rel nofollow testng documentation hope information guide properly 

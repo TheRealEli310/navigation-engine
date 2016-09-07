@@ -1,0 +1,4 @@
+program extract coefficents quadratic equation 
+problem program split coefficients quadratic equation input string split coefficients input string output output 23x2 4x actual output needed 
+
+regex pattern work match quadratic extract parameters lets work works ul li capturing group li li matches number digits preceded optionally li li matches li li matches spaces li ul ul li matches argument li li matches x2 x2 li li matches optional whitespace li li matches argument li li matches li li matches optional whitespace li li matches argument li li matches optional spaces li ul lets wrap required quick test output 

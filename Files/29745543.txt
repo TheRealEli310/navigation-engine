@@ -1,0 +1,4 @@
+find nodes connected edge weighted graph adjacency matrix 
+project reads external file statements stores weighted edge directed graph adjacency matrix program beginning reads statements file stored arraylists main class nodes edges operations added graph problem check nodes graph connected display weights main class heard breadth search depth search implement weighted edges nodes edges made strings integers 
+
+weighted version bfs called href http en wikipedia org wiki dijkstra 27s algorithm rel nofollow dijkstras algorithm supposed find shortest paths origin vertices pseudo code wikipedia page implement pseudo code easier 

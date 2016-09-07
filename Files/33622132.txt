@@ -1,0 +1,4 @@
+create stanford corenlp model training 
+stanfords corenlp train creating model folder dev txt train txt test txt jar file named stanford corenlp models jar href http stackoverflow questions train stanford nlp sentiment analysis tool question create model executing command terminal run terminal error provide step step instructions training corenlp stanford href http nlp stanford software crf faq shtml rel nofollow website training confused thought needed create model model ser gz text files jar file appreciated 
+
+include corenlp jar file classpath command root corenlp distribution include jars directory 

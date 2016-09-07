@@ -1,0 +1,4 @@
+nullpointerexception adding jpanel class jframe 
+creating schedule program enters class periods click enter classes button user pick jcombobox schedule names school knowledge swing swing project issue user clicks enter class button content pane text entered jtextfields added array attempt set content pane invisible add panel class set panel visible wall errors starting awt event queue nullpointerexception strong main class guiretry strong strong class schedulegettergui strong strong full error occurs click enter classes strong 
+
+havent initialized variable guiretry class causing exception update quick fix class cardlayout click strong enter classes strong button panel shown references href https docs oracle javase tutorial uiswing layout card html rel nofollow https docs oracle javase tutorial uiswing layout card html 

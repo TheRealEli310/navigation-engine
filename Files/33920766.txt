@@ -1,0 +1,4 @@
+configuring groovy sdk intelij repeat time project built 
+error compile application solved issue selecting module prompted inteli library adds library module issue time em build em project em refresh gradle projects em intelij configure groovy sdk set project em dont em step time 
+
+add groovy dependency pom xml youre maven build gradle gradle time refresh sync intellij remove extra dependency finds 

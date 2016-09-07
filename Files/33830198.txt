@@ -1,0 +1,4 @@
+spring hibernate avoid statements registering closing repeatively 
+process optimizing algorithm noticed hibernate creates releases update statements repetitively reusing query algorithms main method annotation expected behavior wrong algorithms updates beneath algorithm service hibernate update database documentation default nested transactions reuse transaction exists ul li strong affirmation correct strong li li strong scope change create problems strong li li strong hibernate reuse statement transaction strong li ul attention 
+
+understanding correct scope related transactions propagated spring wrap beans proxies control transactions scope reuse statements hibernate writing jdbc code manually recommended approach due entanglement code approach forces common answer prepared statement cache jdbc connection pool apache dbcp pool control pools bundled application servers similar settings 

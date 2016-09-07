@@ -1,0 +1,4 @@
+null id property deserialize json jackson jackson2halmodule spring hateoas 
+entity file test json response rest webservice test class test passes dont understand id property user missing mail enabled properties empty fix bug jackson spring jackson2halmodule reproduce cloning spring hateoas fork href https github mfalaize spring hateoas rel nofollow repository launching unit tests 
+
+due class built wrap content bean content property annotated class map bean property json bean properties level property annotation property conflict wrapper bean case class property inherited class property sadly annotated workaround issue create class inherited class override method annotation add class solve problem 

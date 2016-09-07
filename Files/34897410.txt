@@ -1,0 +1,4 @@
+auto generate data schema jpa annotated entity classes database connection 
+years ago working project ul li spring release li li jpa li li hibernate final li li li ul project maven task hibernate3 maven plugin generate database schema connection database mysql upgrading project ul li li li jpa li li spring release li li hibernate final li ul understand hibernate3 maven plugin work jpa hibernate solution found connection database instance href http stackoverflow questions auto generate data schema jpa annotated entity classes auto generate data schema jpa annotated entity classes generate database schema offline persistence xml entity classes listed 
+
+mix hibernate solution jpa2 add entity classes persistence xml generate sql file jar entities located temporary solution till hibernate fix href https hibernate atlassian net browse hhh rel nofollow bug 

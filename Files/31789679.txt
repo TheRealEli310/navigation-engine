@@ -1,0 +1,4 @@
+appium error testdroid lang noclassdeffounderror org openqa selenium internal hasidentity 
+code works appium client locally version fails testdroid cloud fails create appiumdriver instance exception lang noclassdeffounderror org openqa selenium internal hasidentity appium log successful appium testdroid runs apppium version info appium v1 code worked sample code testdroid version appium runs successfully href https github bitbar testdroid samples blob master appium sample scripts src test testdroid appium android sample sampleappiumtest rel nofollow https github bitbar testdroid samples blob master appium sample scripts src test testdroid appium android sample sampleappiumtest version appium client code version appium client features testdroid appium version latest code worked 
+
+appium client version dependable selenium remove lines pom xml 

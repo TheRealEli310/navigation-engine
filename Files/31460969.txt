@@ -1,0 +1,4 @@
+jackson serializing enums traditional setters getters 
+serialize class enum members setters getters enum class serialize follow classic format serialize deserialize similar error properly serializing deserializing changing setter getter adding json tags 
+
+problem jackson setter handling null correctly throwing nullpointerexception read full stack trace exception posted avoid forcing guess problem noticed replace 

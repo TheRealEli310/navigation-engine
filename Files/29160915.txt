@@ -1,0 +1,4 @@
+deployed spring boot application tomcat 
+deployed spring boot application tomcat loaded properly webservletinitializer loading show exceptions deployed application tomcat loading webapplicationinitializer ol li exception occuring due webapplicationinitializer reason fix li li webapplicationinitializers impact li ol advance 
+
+file named application properties management port property commented post tomcat management port equal tomcat port run tomcat port reason exception 

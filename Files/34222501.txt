@@ -1,0 +1,4 @@
+run selenium tests closing browser junit 
+testcases signup login login signup basetest test suite named alltests run alltests open browser run testcase close browser open browser execute testcase question run test suite browser close executing tests open close browser testcases open browser execute signup execute login close procedure 
+
+open drivers close drivers check driver instance initialized run suite initialize put variable running suite decide close browser running suite dont close close 

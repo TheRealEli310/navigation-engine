@@ -1,0 +1,4 @@
+sonar complains spring boot configuration 
+class start spring cloud config server spring boot application application runs fine unit tests fine bamboo pipeline initial sonar process analyze code minor warnings indicating minor issue tasked removing code ideally mark class final provide private constructor searches provide solution spring configuration class made final private constructor ideas resolve 
+
+afraid isnt problem spring boot spring cloud solve add exceptions sonar configuration 

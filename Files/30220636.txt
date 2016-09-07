@@ -1,0 +1,4 @@
+batch increment hbase 
+batch increment hbase table rowkey duplicates exception hbase 
+
+tempolary solution split increment batch smaller chunks 

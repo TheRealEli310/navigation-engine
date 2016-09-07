@@ -1,0 +1,4 @@
+hashmap handle weak reference keys values 
+recently read book memory modelling strong hashmap weak reference keys values objects hashmap avoid memory issue hasnmap stores key pairs strong problem keys values gc rumtime key pair strong strong method hashmap execution code chance gc key happen key longer exist hashmap 
+
+weakhashmap removes entries keys longer referenced map gc cleared key 

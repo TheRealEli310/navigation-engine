@@ -1,0 +1,4 @@
+arrayadapter requires resource id textview listview android studio 
+working figure multiple errors greatly appreciated created class strings form shared preferences folder assigned data members class made custom adpater order assign items listview linear layouts texviews layout error id error cast layout textview exception 
+
+view items dual items displayed resource returning words number items resource display equal number items view displayed 

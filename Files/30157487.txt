@@ -1,0 +1,4 @@
+generics strange behavior 
+code output hand list2 doesnt add method objects string hand references list objects 
+
+compiler doesnt care kind objects list em instance em accepts byte code level reference accepted type erasure variables type parameterized generic type variables assignable checked forgotten add generic type accepted type sees doesnt match throws compile error program isnt problem restrict objects add remove list variable reference impossible retrieve list referenced variables cast 

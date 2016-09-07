@@ -1,0 +1,4 @@
+jsp socket refreshing page 
+communicate tcp sockets creating client jsp page problem everytime submit form page refresh page create client socket erasing information previously nomeutilizador searched ways submit form refreshing ajax worked ways solve making socket created variable nomeutilizador made refresh 
+
+code submitted variable session variable refresh problem server youre sending tcp messages knew variable communication longer made client youre concurrent server solution sending variable programming server receive 

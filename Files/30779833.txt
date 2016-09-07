@@ -1,0 +1,4 @@
+removing activity backstack flag activity history work 
+start button mainactivity click button activity infoactivity remove mainactivity backstack click button removes mainactivity backstack removes infoactivity backstack insert flag androidmanifest preferencesactivity mainactivity flag androidmanifest mainactivity removed return preferencesactivity back mainactivity remove mainactivity backstack click button start 
+
+add finish 

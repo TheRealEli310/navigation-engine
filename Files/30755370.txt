@@ -1,0 +1,4 @@
+javafx close alert box dialog box programatically 
+javafx application display alert box alert executes displayed till user presses close dialog problem close dialog programatically elaborate lets user chose option sec lets alert box shown background process close alert box setting user pressing button method swing event fireevent href http stackoverflow http stackoverflow write correct event advance edit including sample code ol li mainapp class responsible handling application li li controller controller file li li design fxml fxml file application loaded mainapp controlled controller li li compute class perform computations public class compute alert alert li ol alternate solution originally wanted clean javafx code couldnt figure 
+
+general hr full 

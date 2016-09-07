@@ -1,0 +1,4 @@
+applying transition node time group javafx 
+fade object time javafx loop loop nodes group nodes group displayed time faded time figure problem edit playing nodes time time 
+
+reason circles showing time duration duration frame absolute duration start animation transitions happen 0s 3s fix code set pair keyframe durations 0s 3s pair 3s 6s pair 6s 9s alternatively 

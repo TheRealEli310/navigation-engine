@@ -1,0 +1,4 @@
+illegalargumentexception java8 base64 decoder 
+wanted base64 encode decode files worked runned slowly code throws changed code worked buff size encode file wrong file encoded means paddings added middle file jon skeet tagir valeev mentioned ignore return modified code mention code run faster noticed speed difference coded intensively base64 encodefile decodefile long jdk8 released buffed jdk8 code runs fast original code special jon skeet tagir valeev 
+
+strongly suspect problem youre ignoring return check end stream wouldnt em expect em faster 

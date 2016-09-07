@@ -1,0 +1,4 @@
+akka stops logging stack traces 
+strange issue akka play bunch actors standard slf4j logging akka conf errors indeterminate hours amount time stack trace errors output errors caused conditions thrown place code determine reason stack trace vanishes log output restart fixes problem eventually back 
+
+normal behavior jvm switch usage preallocated exceptions 

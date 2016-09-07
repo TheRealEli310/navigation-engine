@@ -1,0 +1,4 @@
+debug leshan code eclipse 
+referring leshan code href https github eclipse leshan rel nofollow leshan server successfully downloaded compiled built jar file maven command line steps unable make code run eclipse unable find option choose run menu eclipse make jar binary leshan code eclipse jar binary created steps mentioned url command line debug code eclipse 
+
+import leshan projects import existing maven projects wizard img src http stack imgur vugdg png alt import existing maven projects select location cloned leshan locally repository cloning eclipse egit img src http stack imgur ltvii png alt select location leshan projects projects imported maven plug complain missing replacer plug wont prevent debugging entry point launch leshan server leshan standalone class img src http stack imgur nlsjr png alt debug leshan leshan running href http localhost rel nofollow http localhost debug 

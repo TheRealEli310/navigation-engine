@@ -1,0 +1,4 @@
+converting date localdate returning strange results 200ad 
+inconsistent results converting year code conversion matches test test case run expected output consistently incorrect values actual results rolled back slightly possibly hours timezone happen case experiment year produce error 
+
+stephen provided explanation comment basically calendar system cuts href https en wikipedia org wiki julian calendar rel nofollow julian calendar system href https en wikipedia org wiki gregorian calendar rel nofollow gregorian calendar system skipping days dates exhibit discrepancies size discrepancy vary time days years average 400ad em dont em corresponds discrepancy heres short complete program demonstrate problem output machine complicated problems initial code assuming cat africa harare point time africa harare regarded offset incorrect day names strings bug causing issue suggest perform parsing classes id em hope em wont inconsistency 

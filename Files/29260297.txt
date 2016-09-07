@@ -1,0 +1,4 @@
+constructor inside static class 
+wrote code class file disassembler javap compiled code strong question readerfound static class default constructor allowed strong allowed kind constructor found inside class reader1 readerfound static constructor implicitly called initilize object readerfound static class object point question 
+
+kinds nested classes em static member classes em em nonstatic member classes em em anonymous classes em em local classes em static member class ordinary class declared inside class instance enclosing class instantiated instance required access instance methods variables enclosing class access class members private static nested class strong strong create instance default constructor created create custom 

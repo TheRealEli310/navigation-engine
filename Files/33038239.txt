@@ -1,0 +1,4 @@
+lambda expressions reference instance method object 
+code method reference instance method object works understand em em em em understand method reference object argument method signature line ol li creating instance class implements interface li li implementing method reference invoke method li ol scope reference wrong translate solution traditional explicit implementation explicit counterpart 
+
+lambda compiled private synthetic method runtime lambda expression translated runtime representation time execute code current runtime representation openjdk anonymous class takes captured variables constructor parameters stores fields calls lambda body method generated compiler generated call site technically replaced constructor call effectively lambda capture context works efficient object created reused lambda behavior depends external state time instance created 

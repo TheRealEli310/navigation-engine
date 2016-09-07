@@ -1,0 +1,4 @@
+open return database connection application 
+utility class problem strong return em null em method strong force callers check time open connection find null checks error prone avoid costs approach follow manage database connections application 
+
+jdbc calling longer br href http stackoverflow questions class forname mechanism needed class forname dont bury exceptions throw stack callers decide exceptions handled depending called ul li display error popup box user li li database connection li li run script check status database attempt restart appears li li retry getconnection completely li ul point dont afraid throw exceptions stack caller handle exception appropriately method store db url username password realistically rarely throw sqlexception scenario em em throw sqlexception credentials incorrect database 

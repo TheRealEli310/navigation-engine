@@ -1,0 +1,4 @@
+jaspertreport font extension working international language 
+jasper report display thai characters pdf font extensions reason characters displayed researched issue official documentation href http jasperreports sourceforge net sample reference fonts rel nofollow http jasperreports sourceforge net sample reference fonts didnt work tibco jaspersoft studio design displayed correctly preview design jaspersoft studio applied generated jrxml file code thai characters displayed pdf file html file worked fine official documentation generate pdf recommended export jar file ttf files jasperreports extension properties fonts xml files code snippets fontsfamily1445966397265 xml jasperreports extension properties code jrxml file jar file maven classpath jaspersoft studio version final jasperreports library version peeranat 
+
+solved issue forgot point jasper file variable file solution displaying international characters worked 

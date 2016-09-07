@@ -1,0 +1,4 @@
+refactoring import statements shade relocations maven 
+shade relocate dependency build maven complains due incompatible types change import statements inside code match changing imports making intellij complain basically breaks ide integration shade modify imports 
+
+main case shade plugin generate uber jar relocating packages inside prevent conflicts rule dont developing uberjar develop shaded jar youre solely shade relocate existing jar youll list shaded jar lieu original jar imagine clean cyclic dependency 

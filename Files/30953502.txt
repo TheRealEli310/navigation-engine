@@ -1,0 +1,4 @@
+javafx unstable interactive tabpane adding tab 
+making highly interactive tabpane viewing contact lists javafx made subclass tab editabletab functionality changing tab double clicking overview user clicks sign create contact list program create tab select focus select text natural contact list similar create file windows problem unstable times kind animation transition problem arises tab ends empty screenshot em em button clicked img src http imgur ynxkilt jpg alt screenshot img src http imgur v1nrmps jpg alt screenshot2 code editabletab code functionality implemented suspect problem animation transition timings guess wrapping call luck small test app replicate issue 
+
+code class code issued tab button tab selected overcame 

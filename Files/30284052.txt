@@ -1,0 +1,4 @@
+spring resource folder filenotfoundexception 
+access files resource directory problem homecontroller web xml default 
+
+oups strong strong correct access resources web application resource paths relative servetcontext path file system absolute paths addition exist true files servlet specifications servlet container explode war file prodided correctly serve resources means resources read true files 

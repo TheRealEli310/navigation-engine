@@ -1,0 +1,4 @@
+implementing abstract classes scala 
+starting learn scala programming oop programming dont understand concept abstract class read blockquote task writing class sets integer numbers operations incl incl return set element elements set return true set element return false interface sets blockquote blockquote plan implement sets binary trees forms trees tree empty set tree consisting integer subtrees implementations blockquote blockquote emptyset nonemptyset extend class intset implies types emptyset nonemptyset conform type intset type emptyset nonemptyset type intset required blockquote clear introducing anonymous class class extends anonymous definition incl 
+
+main advantage abstract class anonymous class defines type element instances implement allowing abstract implementation details managing case set objects great list sets indistinctly contract abstract class code makes wrote constructor expects actual parameters type type scala feature basic principle oop 

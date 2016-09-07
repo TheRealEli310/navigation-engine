@@ -1,0 +1,4 @@
+javafx import statements 
+top javafx programs wondering simply import em em javafx statement strong import javafx strong similar easy find required import statement piece api learn 
+
+generally regarded bad practice bring wilcards inadvertently wrong class classes cleaner explicitly import finding import ides assist suggesting list imports 

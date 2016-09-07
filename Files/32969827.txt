@@ -1,0 +1,4 @@
+hystrixcommand annotation causing controllerlinkbuilder break 
+apply strong hateoas strong spring boot application worked fine untill wrapped rest calls assembler class wraps data object resource object throws error comment annotation error works fine assembler class implements springs interface overrides method solve 
+
+answer work put content method http request wrapped method works clean solve 

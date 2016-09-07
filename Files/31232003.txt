@@ -1,0 +1,4 @@
+org springframework jdbc cannotgetjdbcconnectionexception sql sqlexception suitable driver found jdbc mysql 
+creating maven spring mysql application facing issue blockquote org springframework jdbc cannotgetjdbcconnectionexception jdbc connection nested exception sql sqlexception suitable driver found jdbc mysql blockquote pom file bean xml default schema created mysqlserver creation appreciated 
+
+small typo bean xml file change 

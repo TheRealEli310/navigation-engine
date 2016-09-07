@@ -1,0 +1,4 @@
+jackson ignore unknown enum values 
+deserialize json object obtained restful webservice class webservices returns std synchronize set accessrights defined enum type exception set flag objectmapper problem arise jackson add null set simply ignore unknown values 
+
+manage reproduce problem jackson ace class test case deserializedace object read correctly set std synchronize null missing 

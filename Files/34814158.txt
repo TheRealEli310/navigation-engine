@@ -1,0 +1,4 @@
+cipher suites common error jetty 
+set ssl connector jetty works fine dev machine running windows fails linux dev server chrome client open webpage cipher suites common displayed jetty debug log fetched javax net ssl sslengine sslconnectionfactory printed list supported chipher suites windows linux machine running suggest chiphers ssl handshake upd interesting behavior import certificate works fine ssl warning browser certificate signed provided import certificate chain error upd ran ssl checker problematic server list chiphers provided server connect browser difference certificates upd checked certificate cn san unix server works fine throw invalid certificate host error cn san record matches runs additional validation leads error 
+
+fix keystore certificates inside keyfile separately removed separate copies start work dont explain issue depends hostname posting solution issue 

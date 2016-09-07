@@ -1,0 +1,4 @@
+fetch file list gcs 
+googles href https cloud google appengine docs googlecloudstorageclient getstarted rel nofollow started code list files remote directory code fails exception suspect authorize gcs reason failure havent found proper init gcs work 
+
+ozarov mentioned href https cloud google appengine docs googlecloudstorageclient rel nofollow client specific app engine added dependency href https developers google api client library apis storage v1 rel nofollow rest api client dependency code fetch files list 

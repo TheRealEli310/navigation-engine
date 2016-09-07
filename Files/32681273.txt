@@ -1,0 +1,4 @@
+android swipe fragment click 
+fragment pager built button fragment make swipe fragment click button built work solve issue edit activity main xml xml button change fragment 
+
+button click smooth scroll strong edit strong current page view pager number amp add put nextposition strong edited strong strong mainactivity strong inside mainactivity initialize static instance mainactivity inside oncreate method mainactivity additions mainactivity 

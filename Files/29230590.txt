@@ -1,0 +1,4 @@
+monitoring activemq polling queue 
+program monitors activemq queue means log message enqueued queue message dequeued program send messages receives messages log found push messages receive messages log external process puts messages queue make clear made drawing img src http stack imgur nqmth png alt enter image description apache camel make integration routebuilder calls folowwing processor dao handles database connection makes insert record actual problem push message queue program runs message logged polled immediately make insert message polled 
+
+finally writing runner class queuebrowser wanted class ol li make connection avtivemq start li li make endless loop controls queue list items queue loop check li li list bigger size queue items dequeued means loop check items dequeued otherwhise loop enumeration queue add elements list dont exist li ol works perfect small logical issue 

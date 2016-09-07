@@ -1,0 +1,4 @@
+lang classcastexception scala tuple2 cast lang iterable 
+working spark parse text document called artist data txt created javardd javardd rawartistdata sc textfile src main resources artist data txt parse document tab sperator bad lines number lines corrupted dont tab inadvertently include newline character flatmap method running code error lang classcastexception scala tuple2 cast lang iterable div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override 
+
+happening expects list lists truncate internal lists list splitting parsing function return directly typical usecase return array split directly result arrays truncated list words bunch separate lists words comment sounds code sample shown display true usecase possibility returning due bad data notice return list items split successfully split items 

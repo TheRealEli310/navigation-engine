@@ -1,0 +1,4 @@
+classes activity 
+class activity components activity spread bunch classes android strong em mainactivity em strong strong em em strong wasnt listeners werent working buttons passing activity class listeners added buttons didnt work fact application wont start emulator wanted mainactivity handle gui class handle listeners matter make communicate form activity strong em logcat em strong 
+
+encountered problem benefit problem needed pass activity constructor initialize main activity pass activity make instance execute code call click work 

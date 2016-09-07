@@ -1,0 +1,4 @@
+gradle maven plugin conversion 
+write equivalent maven plugin gradle plugin defined pre class lang groovy prettyprint override 
+
+depends achieve case writing maven plugin general youll href https maven apache org guides plugin guide plugin development html rel nofollow read documentation case filter system properties maven jvm passes test jvm dont option extending plugin add option mapping default maven passes system properties test jvm doable achieve goal maven offers pass additional system properties test jvm maven documented href http maven apache org surefire maven surefire plugin examples system properties html rel nofollow http maven apache org surefire maven surefire plugin examples system properties html case set command line invoking maven surefire pass multiple properties jvm instance execute maven case youll properties values test jvm 

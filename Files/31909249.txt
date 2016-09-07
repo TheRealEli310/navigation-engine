@@ -1,0 +1,4 @@
+run sql query hibernate sessionfactory creates connection 
+server hibernate order connect mysql db c3p0 connection pooling execute specific sql query connection created detect session created found run query enabling test connection checkout set query run preferred test query run elegant accomplish strong edit strong make db accept utf8mb4 characters acceptable applying cnf file problem dont access db solution execute connection 
+
+c3p0s href http www mchange projects c3p0 connection customizers rel nofollow connectioncustomizer interface override method href http www mchange projects c3p0 apidocs mchange v2 c3p0 abstractconnectioncustomizer html rel nofollow abstractconnectioncustomizer called connection acquired database made check clients c3p0s built sort case href https github swaldman c3p0 blob master src mchange v2 c3p0 initsqlconnectioncustomizer rel nofollow mchange v2 c3p0 initsqlconnectioncustomizer c3p0 properties 

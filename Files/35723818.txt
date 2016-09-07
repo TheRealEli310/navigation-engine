@@ -1,0 +1,4 @@
+abstract class solve 
+abstract class tophandler classes extends tophandler userhandler merchanthandler method sendmessage unsure place option put inside tophandler create object userhandler merchanthandler option make sendmessage abstract classes implement create duplicate similar code 
+
+personal opinion class aware subclasses happen create class inherit change behaviour class simply overriding method class find opinion href http programmers stackexchange questions class subclasses programmers stackexchange answer issue solution simple overide method subclasses duplication refactor classes move class ps static method feel weird instanciate wrong handler hard dont full code 

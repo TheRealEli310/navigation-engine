@@ -1,0 +1,4 @@
+build classpath jar inside war file 
+dynamically extract configuration war file goal find class implement interface war file classpath create temporary classloader inspect classes works fine find implementation webapp jar present unfortunatelly found build classloader case classloader ignore href http docs oracle javase docs api net jarurlconnection html rel nofollow jar urls run code class found href https github ronmamo reflections rel nofollow reflections avoid extract war file analyze separately missing create classloader lead reflections library 
+
+ugly problems ol li elegant foolproof convert class file path inside jar case ugly load classes situations li li reading class data belong utility method messy li li anonymous class war jar passed constructor iterate externally li ol positive side works 

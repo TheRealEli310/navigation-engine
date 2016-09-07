@@ -1,0 +1,4 @@
+jetty websocket server working locally remote connections fail host error fix 
+running websocket server embedded jetty works intended make connections machine localhost strong connect machine error host strong logs jetty listening address accept connections port allowed protocols temporarily disabling effect code simple websocket echo server removed irrelevant issue dont 
+
+stupidity forgot port strong clients strong router bad delete close question 

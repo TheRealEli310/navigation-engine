@@ -1,0 +1,4 @@
+runtime exception applicationexception rollback false transaction finally rolled back 
+runtime exception ejb code ejb client explain rolled back similar case exception checked transaction committed working href https github michaldo ejb transactions rel nofollow github link clear explanation link proper part ejb specification 
+
+section ejb specification blockquote illegal associate jta transactional interceptors enterprise javabeans ejb container fail deployment applications restriction removed future release specification blockquote annotation incorrectly jta transaction interceptor ejb annotation effect annotation 

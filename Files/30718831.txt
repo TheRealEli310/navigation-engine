@@ -1,0 +1,4 @@
+midi midimessage program change instrument bank 
+soundbank default synthesizer variety instruments code snippet pre class lang prettyprint override prints pre class lang prettyprint override play instrument banks method plays instrument bank carillon add program change event sequences track play carillon instrument sequence instrument instrument bank tubular bell instrument bank attempting change arguments shortmessage constructor resulted data byte range midimessage subclasses dont option load instruments banks instrument bank midievents midimessage 
+
+midi protocol bank numbers split bit parts transmitted href http www midi org techspecs midimessages php rel nofollow controllers bank select bank select lsb standards gs xg gm2 parts bank select number differently case carillon gs standard defines variation number msb controller controller matter correct instrument long set controller 

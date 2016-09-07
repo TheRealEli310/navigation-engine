@@ -1,0 +1,4 @@
+system getenv returns null super user 
+run ubuntu cases write returns run program super user privileges returns run output 
+
+wrong expanded executing root preserve setting user running define environment variable preserved sudo configuration run command show setting calling user case 

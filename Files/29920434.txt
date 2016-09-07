@@ -1,0 +1,4 @@
+maven adding mainclass pom xml folderpath 
+working jar file maven project build part problem dont implement mainclass properly pom xml jar file folder structure src main org jis main add line doesnt work advance 
+
+configure maven jar plugin maven compiler plugin jar plugin responsible packaging creating manifest mf href http maven apache org shared maven archiver examples classpath html rel nofollow http maven apache org shared maven archiver examples classpath html 

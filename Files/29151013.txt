@@ -1,0 +1,4 @@
+jfilechooser inside jframe makes setvisible freeze 
+assignment show jfilechooser part jframe showing dialog box basic approach adding component invisible frame call freezes showing frame irks time ten frame appears filechooser fine makes concurrency issue heres minimal source code issue put println final doesnt called comment frame displays fine display file chooser 
+
+blockquote irks time ten frame appears filechooser fine blockquote swing component created event dispatch thread gui creating code wrapped read section swing tutorial href http docs oracle javase tutorial uiswing concurrency initial html rel nofollow concurrency information code works problem jdk7 windows version platform issue make code executes edt class names lab7 start upper case character doesnt matter sscce consistent 

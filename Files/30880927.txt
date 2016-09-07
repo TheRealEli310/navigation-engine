@@ -1,0 +1,4 @@
+spring boot extending crudrepository 
+hibernate spring boot app making crudrepository model objects basic crud tasks additional things custom search queries inequalities follow pattern question combine concepts single class making abstract class spring didnt create bean accomplish 
+
+lots ways accomplish absolute control possibility simpler route query auto generated based method add foobarcrudrepo spring rest assuming foobar property named createddate reference spring generate queries based method href http docs spring io spring data jpa docs current reference html repositories query methods query creation rel nofollow http docs spring io spring data jpa docs current reference html repositories query methods query creation 

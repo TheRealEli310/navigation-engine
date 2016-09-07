@@ -1,0 +1,4 @@
+cdi correct bean xml format 
+question correct format usage bean xml file projects typically content bean xml files explizit bean declaration works wildfly deployment issues glassfish question href http stackoverflow questions glassfish simple cdi fails weld unsatisfied dependenci glassfish simple cdi fails weld unsatisfied dependencies wrote alternative format namespaces glassfish4 care correct format empty bean xml file jee7 
+
+correct empty strong totally empty strong file add content notice xml deployment descriptor namespaces updated ee href http antoniogoncalves org ee deployment descriptors rel nofollow post describes details added btw sample notice usage attribute freely set serves reminder reader project cdi fact em maintenance release em strong cdi strong specification 

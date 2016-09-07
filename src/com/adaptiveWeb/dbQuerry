@@ -1,0 +1,38 @@
+show databases;
+use adaptiveweb;
+show tableS;
+
+create table qtags
+select * from tagtopost,posts_answers where tagtopost.postid= posts_answers.parent_id;
+
+
+
+select * from qtags
+
+
+show columns from posts_answers;
+show columns from posts;
+question_difquestion_dif
+drop table question_dif
+
+select * from userprofile
+
+create table userprofile 
+select user,subtag,sum(dif) as dif from (select a.owner_user_id as user, a.ques as qid, b.supertag as tag, b.subtag as subtag, a.dif  from question_dif a, qtags b where a.ans = b.Id) p group by user,subtag 
+select * from qtags
+ 
+select * from qtags where o
+ 
+ select * from question_dif
+select * from qtags
+
+create TABLE question_dif  (select * from (select (a.CREATION_DATE - b.CREATION_DATE) as dif,b.ID as ques,a.ID as ans, a.owner_user_id from posts b, posts_answers a where a.ID = b.ACCEPTED_ANSWER_ID order by dif ASC) s where s.dif>0); 
+
+
+select *question_dif from posts where ID=30946127
+
+select * from posts_answers where PARENT_ID=30946127
+
+select count(*) from posts_answers  select count(*) from (select DISTINCT PARENT_ID from posts_answers) a 
+
+select * from question_dif

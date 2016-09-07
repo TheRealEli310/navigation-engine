@@ -1,0 +1,4 @@
+android development register unregister onclick resolve method 
+code app basically listens bunch buttons sets visible invisible adaptive ui based buttons br save memory sensoreventlistener isnt listening single sensor time enclosed onclick method intention register unregister click br arrow registers em accelerometer em arrow unregister accelerometer register sensor br grab event info display handler wrote flagged error thought handler updated code shows added handler needed set final android studio flagged error added code handler oncreate method inserting handler brought unsure difficult sensor manager listen sensor select clarification matter greatly appreciated 
+
+parameter reason inside onclick method refer context method implementing 

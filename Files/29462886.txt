@@ -1,0 +1,4 @@
+jpanel repaint 
+working multiple bufferedimages paint function jpanel draws currentimg jpanel currentimg easily switch image equals normalimg beginning redimg bufferedimage normalimg paint redimg half normalimg code jpanel repainted code works show message dialog repaint properly helping 
+
+ol li avoid overriding top level containers based components override method href http www oracle technetwork painting html painting awt swing href http docs oracle javase tutorial uiswing painting performing custom painting details panting swing li li call paint method overriden li li dont context event dispatching thread prevent processing events including repaint events li li dont modify ui context event dispatching thread li ol href http docs oracle javase tutorial uiswing concurrency concurrency swing details href http docs oracle javase tutorial uiswing misc timer html swing timers solution href http stackoverflow questions swing timer animation put 

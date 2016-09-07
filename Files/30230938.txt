@@ -1,0 +1,4 @@
+store mark mouse clicked point image loaded jpanel 
+till code load image jframe coordinates pixels image hard coded code dynamically mark points clicked mouse store coordinates array code running properly image chosen jfilechooser class path passed parameter class 
+
+understood solve store coordinates strong update strong order draw point method href http docs oracle javase docs api awt graphics html rel nofollow graphics class btw event clicks effect click doesnt draw store program detecting event href https docs oracle javase docs api awt event mousemotionlistener html rel nofollow mousemotionlistener interface solve change current event event href http docs oracle javase docs api awt event mouselistener html rel nofollow mouselistener interface code bigger point increase radius decrease smaller 

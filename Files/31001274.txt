@@ -1,0 +1,4 @@
+create bean start application 
+facing issue creating bean error assist retrieve files sftp resource read file spring task scheduler job app config xml stacktrace 
+
+visit href http docs spring io spring integration api org springframework integration sftp session defaultsftpsessionfactory html rel nofollow defaultsftpsessionfactory 

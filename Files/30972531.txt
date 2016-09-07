@@ -1,0 +1,4 @@
+netty running cpu 
+references issue href https github netty netty issues href https github netty netty issues reference versions netty latest branch alpha branch alpha3 local linux jdk fine remote linux jdk b17 cpu linux kernel version calling offer suggestions references bug versions netty jdk bug netty bug process immediately startup stays update upgraded difference href https gist github stevenbenjamin 3dca326810e680a397b0 jstack output runnable threads rabbitmq stuff included completeness common applications problem 
+
+identified comments thread consumed cpu busy stack managed reproduce similar behavior creating configuring core threads time scheduling lot repeating tasks short delay yields lot cpu machine output similar deeper method code reproduces identify code sets broken searched rabbitmq netty source code finding obvoius code strong edit strong mentioned comments root initialized apparently cpu spin om platforms ops code 

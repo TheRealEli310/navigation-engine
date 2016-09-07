@@ -1,0 +1,4 @@
+reflection specific attribute extended instance 
+make generic method list parameter object problem declared object instance class extends declared class dont solution number classes extends limitedvalue big thought reflection solution dont instance object part code full code classes limitedvalue class storeitem class supermarketitem class store class supermarket class 
+
+reflection achieve reconsider design object oriented design solves problem hand lets adding method called getitems class returns list items structured correctly wont actual type code abstracted polymorphically weve defined method weve introduced item thing share similiar attributes single class represent weve completely abstracted reflection accessing objects simply call item getvalue item list type item youll refactor store supermarket classes returning change main code work cleaner long term solution 

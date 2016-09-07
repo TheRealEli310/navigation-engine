@@ -1,0 +1,4 @@
+onclicklistener issue android studio 
+attempting build simple puzzle app prove simple tile puzzle tile missing tiles adjacent missing tile moved slot attempted grid layout imageviews tiles tile moved instantiate tenth imageview passing tiles image source location original tile set invisible mover tile moves location point passes data recieving tile invisible find offset adjacent imageviews onclicklistener check move valid call method created move moveme heres moveme method method called tile fits criteria call method issue toast message lastly noticed tile set spaces directly axis blank tile doesnt display text advance 
+
+week found problem turns gridlayouts supply animations order enable put gridlayout item xml simply make change call layoutanimator mover imageview temporarily takes image views moves grid coordinates thegrid resource id gave grid layout issue tiles fault statements 

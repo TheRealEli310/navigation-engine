@@ -1,0 +1,4 @@
+orm jpa hibernate entitymanager null 
+started orm hibernate se application read modern jpa hibernate persistence provider entitymanager null dependencies entities work database persistence xml tutorials sessionfactory transaction hibernate looked book deprecated code whats 
+
+error persistencemanager class entitymanagerfactory member static method obtain entitymanager invoke method static dont instance persistencemanager means constructor called wont call createentitymanager null reference question definitive answer depends personal choice tutorials sessionfactory refer hibernate entitymanagerfactory entitymanager refer jpa spec hibernate implements jpa api 

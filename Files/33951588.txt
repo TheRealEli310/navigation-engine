@@ -1,0 +1,4 @@
+youtube api video ids youtube channels 
+read similar href https stackoverflow questions youtube api fetch videos channel post correct answer easy extract video list youtube channel query extract full video list channels url results video requests scrape videos channel 
+
+request return video results including nextpagetoken make request passing pagetoken results href https developers google youtube v3 docs search list pagetoken rel nofollow https developers google youtube v3 docs search list pagetoken 

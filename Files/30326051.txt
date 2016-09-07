@@ -1,0 +1,4 @@
+load properties files dynamically servlet war file 
+jboss properties files download everytime translations external folder deploying servlet war file properties files random temp folder disk problem properties classpath edit tempdir location temp folder reportlocale changed dynamically based selected language doesnt work util missingresourceexception find bundle base xxxxxxx properties locale en 
+
+finally making module credits href https developer jboss org thread tstart rel nofollow https developer jboss org thread tstart 

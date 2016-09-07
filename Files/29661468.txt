@@ -1,0 +1,4 @@
+dialogfragment show throws nullpointerexception 
+making major android app show dialog created subclass dialogfragment show method similar android developer tutorials explain dialog supposed button clicked changing making object passing android development poor design choices code find exception make dialog show properly 
+
+dialog isnt attached activity access attached valid component invokes method 

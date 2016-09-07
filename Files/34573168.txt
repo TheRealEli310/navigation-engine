@@ -1,0 +1,4 @@
+authenticationprovider found usernamepasswordauthenticationtoken spring boot oauth2 restful api 
+build restful api spring boot oauth2 hibernate made customauthenticationprovider authenticate users database response server strong strong json response customauthenticationprovider websecurityconfiguration 
+
+configure spring security custom authentication provider add code websecurityconfiguration class 

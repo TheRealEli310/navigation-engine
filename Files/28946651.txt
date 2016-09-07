@@ -1,0 +1,4 @@
+javafx pass parameter values controller 
+javafx find solution solve problem suppose application structure optimal display text secondcontroller passing firstcontroller enter text press button pressing button text displayed controller read lot solve unable implement working solution humbly thankful experts correct give working solution project structure advance 
+
+observable model make controllers access model slightly tricky part controllers dont arg constructor means default mechanism create wont work easiest set manually strong remove attributes fxml files strong class prefer attributes fxml files essentially instructs create controller make controller factory flexible reflection basically implement logic controller type constructor taking call constructor call arg constructor creating large application lot href http afterburner adam bien rel nofollow afterburner fx framework essentially inject model controllers annotations 

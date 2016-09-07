@@ -1,0 +1,4 @@
+iterate stream perform operations 
+code perform operations iterating stream notice reduce identity 
+
+create custom class mutable reduction doubt gain simply iterating youre edit combine method invoked parallel stream produce results inconsistent sequential stream problem caused holger mentions comments fact operation doesnt respect identity preconditions reduction applying reduction identity supposed produce produces identity make parallel stream compute result 

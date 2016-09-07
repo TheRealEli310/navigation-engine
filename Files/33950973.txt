@@ -1,0 +1,4 @@
+kotlin create refer true arrays jna 
+jna kotlin ran problem direct mapped object issue lay calling jna doesnt kotlins class assuming doesnt map refer real arrays jna map function construct calling 
+
+direct mapping support arrays arrays href https github native access jna blob master www directmapping md rel nofollow docs manually construct buffer pointers pass 

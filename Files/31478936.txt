@@ -1,0 +1,4 @@
+appium test launch fails multiple devices 
+working windows machine implement appium test launch real android devices parallel launch devices separately test executed expected simultaneous launch junit fails stacktrace devices launch perform actions ul li launch selenium grid br li li launch appium nodes br br br li ul config file em node json em android driver idea problem point direction problem strong edit strong ageoffan suggestion fixed problem connection reset problem 
+
+dealing problem week finally focused stacktrace line figured instances connect socket port tcp forwarding commands equal instances managed find define forwarding custom ports bootstrap port parameter added node command set custom ports launch simultaneous parallel tests devices real time ageoffan 

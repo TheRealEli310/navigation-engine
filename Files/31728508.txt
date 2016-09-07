@@ -1,0 +1,4 @@
+adding jersey moxy fails jetty run 
+testing rest jersey hibernate embedded jetty initially start wanted support json read docs moxy jerseys default json provider added file build jar start jetty issue heres file helps 
+
+bit gradle builds fat jar solved issue fix block 

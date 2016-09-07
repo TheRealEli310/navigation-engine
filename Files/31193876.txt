@@ -1,0 +1,4 @@
+apache httpclient persistent connection usage 
+tcp connection apache httpclient code code times vary run figure keeping connection open explain connection open 
+
+messing href https technet microsoft en library bb897437 aspx rel nofollow title tcpview tcpview figured placing lines inside loop tcp connection time turns httpclient automatically reuse connection httpclient object 

@@ -1,0 +1,4 @@
+update replace fields spring data mongodb 
+mongodb capability update document href http docs mongodb org manual reference method db collection update update replace fields rel nofollow replacing fields passing modifier operators operation spring data mongooperations update methods href http docs spring io spring data mongodb docs current api org springframework data mongodb core mongooperations html upsert org springframework data mongodb core query query org springframework data mongodb core query update lang class rel nofollow javadoc supported box blockquote update strong update document updated object strong operators manipulate existing object blockquote examples found update parameter created operators create update object directly pojo 
+
+found method javadoc meant code 

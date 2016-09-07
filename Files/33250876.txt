@@ -1,0 +1,4 @@
+paths top staircase 
+pretty classic question heard google question interviews problem make recursive method prints unique ways base staircase top staircase stairs step steps time sample output staircase stairs staircase stairs order outputs matter similar questions posted asked total number paths recursive method print paths restriction recursion method method 
+
+stair left youve reached end stair move size stairs ahead move stairs recursion simple represents previous path stores number stairs left print ways step stairs call easily code refactored generalized form step size number receive result call argument 

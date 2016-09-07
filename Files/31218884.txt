@@ -1,0 +1,4 @@
+command line arguments hh mm ss format 
+make simple program user input starttime stoptime command line arguments format hh mm ss prints duration clock runs looked api time section couldnt find format read pass arguments constructor didnt work code method 
+
+parse arguments localtime objects pass realskeptic needed 

@@ -1,0 +1,4 @@
+jradiobuttons jcheckbox 
+specific question struggling working specific application user choose insurance options jcheckboxes buttongroup user select insurance types hmo health maintenance organization ppo preferred provider organization regular single jcheckboxes dental insurance vision insurance options user select option options option user selects option price displayed text field hmo costs month ppo costs month dental coverage adds month vision care adds month user deselects item text field made blank code wrote 
+
+main issue werent implement logic properly strong itemstatechanged strong method code solve problem 

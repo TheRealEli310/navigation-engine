@@ -1,0 +1,4 @@
+refresh navigation drawer fragment android 
+question navigation drawer fragment navigation drawer multiple sections lets sections home profile log intent user click log navigation drawer refresh home log play code couldnt figured files strong mainactivity strong notice static variable logged user clicked log updated file strong navigationdrawerfragment strong android studio created beginning step asked choose type activity choose blank chose slide menu created navigation drawer fragment code strong navigationdrawerfragment strong great guys 
+
+alright guys solved issue calling part responsible drawing side menu bar mainavtivity time user click log execute drawing function special mcadam331 

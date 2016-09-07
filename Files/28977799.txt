@@ -1,0 +1,4 @@
+equivalent arraylist method removeall 
+method takes collection argument removes collection calls method equivalent action accomplished 
+
+method design philosophy standard library dont implement inside class plenty algorithms operates containers href http en cppreference cpp algorithm rel nofollow http en cppreference cpp algorithm equivalent standard algorithms write algorithm basing usage ps dont misleading 

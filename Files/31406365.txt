@@ -1,0 +1,4 @@
+disabling jetty timeoutexception warning messages logs 
+hide timeout exceptions showing log heres log4j properties idea showing logs 
+
+jetty logging system doesnt automatically log4j properties file href http www eclipse org jetty documentation current configuring logging html rel nofollow read documentation href http www eclipse org jetty documentation current logging log4j html rel nofollow set jetty log4j jettys built logging add lines jetty logging properties pass command line starting jetty 

@@ -1,0 +1,4 @@
+faster method elements findelement method selenium 
+writing automated tests selenium test search engine results webpage noticed findelement calls tend run pretty slow call lot iterate displayed results make displaying properly tests faster method recommendations speeding process calls wondering function slower functions function automated testing feel tests running shouldnt slow appreciated 
+
+ended function iterating generated list lot repetitive tasks needed perform check formatting search results lists html needed webpage initial call iterations operations performed executed memory checking lack elements selenium documentation href https selenium googlecode svn trunk docs api org openqa selenium webelement html rel nofollow https selenium googlecode svn trunk docs api org openqa selenium webelement html making tests average speedup smaller tests negligible 

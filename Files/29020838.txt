@@ -1,0 +1,4 @@
+android listview adapter working correctly 
+attempting upgrade app made college including adding listview show data fm idea main text subtext adapter put isnt working good number options recent giving attempt invoke virtual method null object reference error previous cast activity application error relevant code sections main activity adapter section custom adapter commented sections previous attempts item class simply holder text urls parsed fm api request realize question asked days attempts searching hasnt helped appreciated 
+
+youre passnig adapter pass 

@@ -1,0 +1,4 @@
+android studio memory error activity lifecycle 
+app creating buttons main activity button activity drawable animation clicked click buttons activity drawable animation appears expected back main activity click button message box pops application stopped error logcat lang outofmemoryerror failed allocate byte allocation free bytes 6mb oom activity lifecycle buttons work switch statement starts buttons activity putting finish ondestroy logical location luck idea activity pass animation activity depending button pushed method require bit code changing 
+
+issue size animations timing loaded whilst memory initialise animation onresume clear memory onpause order make animation consuming resources needed 

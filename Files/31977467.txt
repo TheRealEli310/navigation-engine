@@ -1,0 +1,4 @@
+managing multiple async tasks android 
+hey starting part online training app adapt async task movie reviews movie db totally async task current async task implementation movie data question add async task order retrive movie reviews url movie id videos suggested retrofit multiple async tasks good idea lot trouble understanding supposed work webservice class interface retrieve movies add reviews trailers issue set base url href http api themoviedb org rel nofollow http api themoviedb org url start logcat current code 
+
+ended retrofit library web service thoughts web service public class webservice 

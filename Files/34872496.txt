@@ -1,0 +1,4 @@
+file src main resources classpath 
+created simple program check spring context define file src main resources folder file structure access files test class understand filenotfound exception classpathresource getinputstream classpathxmlappcontext working execution log project built gradle classpath detect systemproperty class path project bin jars spring resources folder access resources src main resources access src main resources spring config xml 
+
+dont add classpath prefix constructor works 

@@ -1,0 +1,4 @@
+hibernate naming strategy 
+configured hibernate application persistence xml entitymanagerutil class create enitymanagerfactory configure naming strategy improvednamingstrategy persistence xml config overrides doesnt work hibernate generates tables camelcase table names idea wrong 
+
+mapping fine suspect configuration overridden bootstrap process adding break point method code block configuration 

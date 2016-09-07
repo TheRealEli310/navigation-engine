@@ -1,0 +1,4 @@
+mongodb getindex amend ttl index 
+mongodb mongo driver created collection ttl index expireafter property amend code error check index exists check expireafter attribute index deciding drop index create version mongocollection object listindexes method return collection index check expireafter property code creates index place problem occurs change expiration days constant rerun code 
+
+href http docs mongodb org manual tutorial modify index rel nofollow mongodb docs modify existing index drop create specific index looping list collection index exists youll read property seconds days 

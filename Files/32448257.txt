@@ -1,0 +1,4 @@
+optimize algorithm working chars 
+task strings length modify perform operations contiguous segment current string shift letter segment forward alphabet backward alphabet complete minimum number steps goal algorithm heres stab close optimized kind lost optimize determine segment letters implementation letter time time complexity algorithm loop makes minimum loop run times worst case wanted thinking 
+
+youre supposed learn program wont give code em em algorithm case ill goal minimize number shift operations optimize block size shifted identify number shifts needed character starting position shift positive find largest consecutive block positive shifts negative find block negative shifts apply shift repeat character index shift index shift index shift index shift index shift shift operations strong update strong optimization program doesnt identify number shifts front illustrate algorithm 

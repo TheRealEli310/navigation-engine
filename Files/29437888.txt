@@ -1,0 +1,4 @@
+gradle native dependencies 
+href https support hyperic display sigar home sigar gradle project sigar distribution default provided types files ul li jar classes li li native files dylib dll li ul purpose repackage files dependencies deployed downloaded demand personal maven repository define dependencies files order check application working expected repackage gradle code test works repackaged sigar native files jar renamed match rules maven artifacts deploy maven repository ul li sigar jar class files li li sigar native jar dylib dll files root li ul step deploy files custom repository updated dependencies fetched native libraries longer found runtime exception solution fetch link native files app dependencies advice comment suggestion solution 
+
+solution define gradle configuration unzips jar files desired location location put tasks depend native libraries 

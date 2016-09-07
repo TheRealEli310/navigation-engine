@@ -1,0 +1,4 @@
+replace class maven dependency 
+class maven dependency incompatible properly fix problem ol li create package li li create class package li li copy paste code li li fix incompatible api call li ol problem class api calls restricted classes changed eclipse compiler settings window preferences compiler error warnings deprecated restricted api forbidden reference access rule error warning access project compile doesnt compile ill find symbol error edit details asked ul li dependency href http mvnrepository artifact sun xml wss xws security rel nofollow http mvnrepository artifact sun xml wss xws security li li class encryptionprocessor li li change li ul edit maven build error 
+
+general solution ul li download project sources li li apply modification li li ul li version control change isnt lost li ul li li change version li li launch maven build li li copy generated artifacts repository artifactory li li change dependency version project li ul 

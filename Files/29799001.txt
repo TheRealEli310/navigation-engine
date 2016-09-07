@@ -1,0 +1,4 @@
+functionality automatic retry exception 
+made abstract class automatically retry network calls exception thrown ul li care retry amp li li retry times failure perform exponential back starting 300ms upto 1500ms li ul pre class lang prettyprint override pre class lang js prettyprint override implementation good correct hr h2 edit h2 moved href http codereview stackexchange questions http codereview stackexchange questions 
+
+pretty good split running task retry generics dont throw lambda method strong real strong logger usage lambda throw exception youll define method signature youll handle generic pre usage 

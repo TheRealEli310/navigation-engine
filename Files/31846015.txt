@@ -1,0 +1,4 @@
+jackson builder pattern 
+questions jackson serialize deserialize objects builder patter figure code wont work jackson version output string representation prints empty list 
+
+default expects builder methods starts prefix override annotation mark field annotation add getter href http wiki fasterxml jacksonfeatureautodetect rel nofollow jacksonfeatureautodetect feature jackson json property 

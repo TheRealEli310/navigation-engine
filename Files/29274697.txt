@@ -1,0 +1,4 @@
+run code springjunit4classrunner context initialization 
+application initialize property spring application startup reference logging set spring starts initialize run logging configuration code test executed initialize code starts work executed spring context startup 
+
+run initialization static initializer static initializer run junit loads test class junit reads annotations alternatively extend springjunit4classrunner runner initialize run springjunit4classrunner 

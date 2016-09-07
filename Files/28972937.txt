@@ -1,0 +1,4 @@
+jpa functionality deployed war tomcat 
+working project aims user add film details database displays list existing films created dynamic web project eclipse jpa communicate remote database works fine run project eclipse ide export war deploy tomcat server jpa functionality longer works error thrown package exporting deploying 
+
+jpa libraries native j2ee containers jboss glassfish tomcat servlet container j2ee container include jpa implementation seeking dependency deploy war 

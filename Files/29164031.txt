@@ -1,0 +1,4 @@
+import executable jar talend open studio run par 
+import executable jar talend project executable jar parameter run goal call tjava tjavaflex passing param tloadlibrary create routine success 
+
+ol li create routine code section save li li click routine edit routine libraries locate add jar li li edit dependecies job add created routine li li add required import tjava component li li library tjava li ol managed external jar 

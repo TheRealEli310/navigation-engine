@@ -1,0 +1,4 @@
+configure esapi security encoding library prevent xss cross site scripting issue 
+esapi security encoding webapp jsps prevent xss added esapi jar web inf lib added lines jsp encoding exception understand problem missing esapi properties file download file esapi jar esapi properties esapi jar create default file unsure 
+
+recent public configuration files located href https github esapi esapi legacy tree master configuration esapi rel nofollow read comments code href https github esapi esapi legacy blob master src main org owasp esapi reference defaultsecurityconfiguration rel nofollow file youll handle file location esapi properties validation properties order properly library heres excerpt documentation 

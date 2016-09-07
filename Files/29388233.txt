@@ -1,0 +1,4 @@
+disable back button browser javascript servlet 
+facing problems application built jsp servlet user clicks browsers back button servlet coded detects browsers back button event performs action allowed javascript 
+
+apparently pages requested browser cache youll disable client side caching pages question creating filter listens url pattern pages youd disable cache jsp dofilter method 

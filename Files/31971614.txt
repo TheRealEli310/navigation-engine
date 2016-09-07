@@ -1,0 +1,4 @@
+base64 encode decode padding golang appengine 
+encode decode string base64 padding end ending base64 urlencoding encodetostring encode works perfectly didnt decide padding end 
+
+go1 href http tip golang org pkg encoding base64 encoding withpadding option add pre defined encodings href http tip golang org pkg encoding base64 pkg variables padding youre app engine wont access go1 make helper function add remove padding needed encode decode strings easily adapted work efficiently 

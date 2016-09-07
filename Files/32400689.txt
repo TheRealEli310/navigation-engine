@@ -1,0 +1,4 @@
+crash casting androidkeystorersaprivatekey rsaprivatekey 
+tutorial href http www androidauthority android keystore store passwords sensitive information rel nofollow android keystore store passwords sensitive information loosely ties google sample app href http developer android samples basicandroidkeystore index html rel nofollow basicandroidkeystore encrypt data public key decrypt devices running lollipop nexus running marshmallow crashes giving error code crashes reluctant put android oddity reason crypto libraries changed release app immediately crashes ill big trouble wrong error specifically cast rsaprivatekey rsaprivatekey entry 
+
+managed working removing provider cipher getinstance strong strong casting rsaprivatekey reason change marshmallow openssl boringssl href https developer android preview behavior html behavior apache http client https developer android preview behavior html behavior apache http client worked 

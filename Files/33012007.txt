@@ -1,0 +1,4 @@
+nullpointerexception insert app layout behavior 
+working app android studio create blank activity default line content main xml line destroys layout preview happened updaten run app device emulator works fine ill nullpointerexception event log preview error message api api cleaned rebuild project reinstalled sdk impact line code xml file 
+
+solution simple bugger causing exception tools showin layout lay main refer tools showin layout lay main xml problem caused hours outcome learned dont error android studio update created project xml time make rendering work project ad xml tools showin rendering works fine idea causing 

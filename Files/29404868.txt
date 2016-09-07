@@ -1,0 +1,4 @@
+android switching back ui thread 
+separate class run code methods constructor passing class converting strong myclass strong fine written code situation executing body back myclass context switching back current thread 
+
+question run code ui thread background thread modify pass 

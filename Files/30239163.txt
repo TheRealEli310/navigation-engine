@@ -1,0 +1,4 @@
+configure custom resttemplate spring cloud config client 
+spring cloud config client read configuration properties spring cloud config server application startup application spring boot application adding specific header request config server read documentation href http cloud spring io spring cloud config spring cloud config html rel nofollow http cloud spring io spring cloud config spring cloud config html find customize configservicepropertysourcelocator provided resttemplate 
+
+configuration class add method set 

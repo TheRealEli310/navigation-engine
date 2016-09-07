@@ -1,0 +1,4 @@
+secure mvc controller methods secured annotation 
+heres single security config api made springboot urls mapped spring web mvc controllers manually access levels controllers methods perform api resource requests anonymous user application responses status code expect method call strong secured annotation effect authorization controller methods allowed role user strong tokenauthenticationfilter action token present guess effect strong update strong comments question realized secured annotation part global method security concept general part web security folowing tradeoff ol li secured annotation method access level info spread controller classes lead situation diffucult determining method access level fufture api grown li li method access info place config support equality requestmapping urls config li ol approach missed 
+
+order spring watch secured annotation security config add 

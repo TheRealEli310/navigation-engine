@@ -1,0 +1,4 @@
+spring gae util resourcebundle control restricted class 
+move spring release release google app engine raises spring security throws affirmativebased access requested resource expect spring show login page spring work 
+
+run spring gae global method security set message source staticmessagesource resourcebundlemessagesource caused problem declaring messagesource bean thing affirmativebased access decision manager created method globalmethodsecurityconfiguration accessdecisionmanager spring bean setmessagesource method executed solution set messagesource manually 

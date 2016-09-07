@@ -1,0 +1,4 @@
+repository interfaces created repository pattern 
+assume classes models create repository multiple repository pros cons 
+
+strong strong create app repository interface business object generic interface clean clear abstraction proper decoupling domain persistence generic abstraction save keystrokes em em common extension methods common generic interface purposes doesnt count dry 

@@ -1,0 +1,4 @@
+jsonignore working upgrading spring 
+solutions provided href http stackoverflow questions spring jsonignore working href http stackoverflow questions jacksons jsonignore solve problem exception spring previous version previous spring version release current spring version release 
+
+opposite recommended links youve posted change package jackson classes em spring framework em minimum jackson version href https github spring projects spring framework wiki migrating earlier versions spring framework libraries rel nofollow recommended relevent change suspected issue jackson package shift blockquote ul li package fasterxml jackson li li org codehaus jackson maven group ids begin fasterxml jackson org codehaus jackson li ul blockquote youre maven replace current jackson dependencies single 

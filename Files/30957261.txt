@@ -1,0 +1,4 @@
+aspectj compile issues java8 lambda expression switch statement 
+aspectj aop programming ajc compiler throw errors javac compiler works perfectly source file maps applicationtype 
+
+strong fix strong reason errors aspectj unable discover type result lambda expressions evaluated lazily collect operation performed fix error variation code store results operation explicitly user strong fix strong overloaded constructor enum incorrect simplify enum code shown rid error added method case enum back based hope helps 

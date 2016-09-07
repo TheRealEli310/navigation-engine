@@ -1,0 +1,4 @@
+error inflating class appcompatbutton 
+making project requirement user interface android device achieve requirement googled solution newly appcompact library ui android version question button layout strong appcompatbutton strong strong button strong activity layout extends appcompatactivity run project error app crash code activity layout layout error 
+
+build gradle 

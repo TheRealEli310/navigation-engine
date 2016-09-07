@@ -1,0 +1,4 @@
+reading stdout stderr simultaneously lang process completablefuture 
+suppose object representing process start output process combined single purpose question chosen store based current understanding reading simultaneously sounds good task presume code snippets strong output strong strong helper method strong nicer task understand href https docs oracle javase docs api lang processbuilder html redirectoutput lang processbuilder redirect rel nofollow href https docs oracle javase docs api lang processbuilder html redirecterror lang processbuilder redirect rel nofollow methods dont suppose redirect 
+
+pointed comments missed href http docs oracle javase docs api lang processbuilder html redirecterrorstream boolean rel nofollow method pipe internally stream deal case completely overkill pun unintended ill 

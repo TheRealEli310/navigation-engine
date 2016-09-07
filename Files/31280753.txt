@@ -1,0 +1,4 @@
+installing gradle docker image container 
+strange error end process creating docker image relevant part command strange thing ul li run container previous image commenting command li li log container command li li manually check gradle environment variables finding li li manually run commented command running container li ul eventually expected output compiled code folder docker version 
+
+solved problem docker instructions href https docs docker reference builder env rel nofollow link documentation 

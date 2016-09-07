@@ -1,0 +1,4 @@
+exception thread main util nosuchelementexception line found 
+code supposed read data cars file called carlist txt print data cars correct format text file program supposed print program compiles doesnt run correctly shows error posted top 
+
+youre nextline method wrong speed acceleration line youre nextline methods read read lines file lines 

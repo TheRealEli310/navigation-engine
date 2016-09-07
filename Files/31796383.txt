@@ -1,0 +1,4 @@
+workaround broken contravariant bounds 
+discussed href http stackoverflow questions bounding generics super keyword bounding generics super keyword type system broken incomplete lower bounds method generics optional part jdk starting problems guava encountered optional starting pain decent work setup declare method work workaround static utility method final question type ideal code 
+
+youre effectively view returned changing return type href https docs oracle javase docs api util optional html map util function function rel nofollow href https docs oracle javase docs api util function function html identity rel nofollow identity function dont wrong approach 

@@ -1,0 +1,4 @@
+hazelcast predicate return sorted collection 
+sorted collection hazelcast predicate found hazelcast offers pagingpredicate purpose interested paging behavior pagingpredicate make collection sorted items page disable paging completely interested results sorted form sorting distributed data structure 
+
+ran tests pagingpredicate wanted pagesize selected carefully small page size big data huge number comparisons lots data travel hazelcast nodes end items resulting collection perfectly sorted including page hope find 

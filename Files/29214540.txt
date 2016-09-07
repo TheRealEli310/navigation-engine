@@ -1,0 +1,4 @@
+set stackfrombottom recyclerview 
+set listview recyclerview element list element view list elements top view element index bottom view element index call elements added bottom view listview setstackfrombottom method recyclerview alternatives 
+
+setreverselayout boolean method recyclerview linearlayoutmanager choice setstackfromend boolean method added support listview 

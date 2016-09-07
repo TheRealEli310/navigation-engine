@@ -1,0 +1,4 @@
+jackson library array element string 
+deal strange json messages arrays schema element array string overcome jackson afraid control source code generation parse parse type reference list strings string 
+
+specific config option ancient jackson accomplishes configure instance deserialize json values matter values array single element href http www atetric atetric javadoc org codehaus jackson jackson mapper lgpl org codehaus jackson map deserializationconfig feature html accept single array rel nofollow javadocs deserialization feature enable href http www atetric atetric javadoc org codehaus jackson jackson mapper lgpl org codehaus jackson map objectmapper html configure org codehaus jackson map deserializationconfig feature 20boolean rel nofollow javadocs activate deactivate feature instance bear mind method returns instance 

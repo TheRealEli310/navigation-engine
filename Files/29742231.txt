@@ -1,0 +1,4 @@
+prevent users entering integers 
+intentions string input user accept integer values approach case changing program lets user enters values preventing error 
+
+throws input number href https docs oracle javase docs api lang integer html parseint lang string javadoc 

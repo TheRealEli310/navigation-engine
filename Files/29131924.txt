@@ -1,0 +1,4 @@
+detect ctrl swing app original function 
+wrting chat application user send images clipboard catch keyboard input pasting text default original ctrl function pasting text strong strong overridden approaches works 1st href http docs oracle javase tutorial uiswing events keylistener html rel nofollow official documentation key listener 2nd key binding ideas foreign keyboard layout german make difference pretty application work internationally cheers edit correctly recognized keylistener edit2 changing keyboard layout problem persists 
+
+stick keybindings low level api keybindings provide consistent predictable robust behaviour solution easy simply combine actions adding class execute original action bound custom action execute small combining actions custom action sysout 

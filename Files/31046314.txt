@@ -1,0 +1,4 @@
+rest endpoint apache camel 
+create en rest endpoint apache camel rest service return json content endpoint problem dont whats happening camel route built moment doesnt code running rest service local tomcat port full url blockquote contextservices rest contextservices document collection id blockquote read documentation syntax dont work dsl rest dsl whats difference lot 
+
+rest component rest implementation declares language describe rest endpoints actual implementation rest restlet full list href http camel apache org rest dsl html rel nofollow wrong afair rest endpoint case listen rest requests application make request rest endpoint process question trigger request event check external rest service periodically case pattern component simply copy pasted working project pure suppose rewriting restlet cxf component 

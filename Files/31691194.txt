@@ -1,0 +1,4 @@
+spring mvc webapplicationinitializer mapping found http request 
+setup sample code base spring mvc eclipse jboss href http localhost rest simple main rel nofollow http localhost rest simple main jboss log blockquote error controller simplecontroller http request warn org springframework web servlet pagenotfound http mapping found http request uri rest web inf views main jsp dispatcherservlet dispatcher blockquote directory initconfig servletconfig jboss web xml simplecontroller 
+
+change difference br request handled case retrieval forwarded controller requests mapped tells container requests handled h3 update h3 hmm found doesnt overriding logger reason simple mapped check add works fine checked make work options br change mapping br switch configuration initialize pass annotated class contextconfiglocation href http stackoverflow questions register spring configuration annotated class applicationcont check ref 

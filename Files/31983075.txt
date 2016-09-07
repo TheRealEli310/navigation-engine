@@ -1,0 +1,4 @@
+property files spring 
+spring maven project property file property file ui labels messages source code property file location src main resources message applicationresources properties output project war file location property file inside war web inf classes message applicationresources properties property file time exception lot google options worked options 
+
+finally figured solution configurations worked 

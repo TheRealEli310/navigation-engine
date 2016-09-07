@@ -1,0 +1,4 @@
+getactivity fragment null change orientation single pane layout 
+problem solutions found work check null simple activity hosts fragments landscape mode framelayout portrait mode change orientation device change back click handler working getactivity detailfragment null code 
+
+creates instance fragment reusing instance fragment getfragmentbytag dont tag empty string calling add 

@@ -1,0 +1,4 @@
+cast inside overridden clone 
+understand cloning works arguments lets dead set sake convenience write clone method class foo noticed cloneable classes api reason bad style 
+
+back covariant return types werent allowed wouldnt compile lot classes written long time ago reason majority cases suspect newer classes dont simply handful people rarely dont cast find implement clone question write code fashioned 

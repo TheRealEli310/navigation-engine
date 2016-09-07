@@ -1,0 +1,4 @@
+codility brackets determine string parentheses properly nested 
+strong problem description codility strong string consisting characters considered properly nested conditions true empty form properly nested string form vw properly nested strings string properly nested write function class solution public int solution string string consisting characters returns properly nested function return function return explained assume integer range string consists characters complexity expected worst case time complexity expected worst case space complexity counting storage required input arguments strong figure problem strong img src http stack imgur tkzkf png alt enter image description strong code strong 
+
+condition closing brackets block checks stack size assume meant check dont leftover opening brackets good idea youll miss entire check char isnt closing bracket paren fail input simple fix replacing condition check em em loop ends stack empty 

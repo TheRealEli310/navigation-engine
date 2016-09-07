@@ -1,0 +1,4 @@
+find symbol method required javax xml bind annotation xmlelementref 
+error jdk working idea 
+
+check documentation xmlelementref annotation href https docs oracle javase docs api javax xml bind annotation xmlelementref html rel nofollow element exception 

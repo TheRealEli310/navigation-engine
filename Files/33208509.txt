@@ -1,0 +1,4 @@
+redblacktree insertion implementation 
+implement clrs pseudocode red black tree run program thrown review code find whats wrong suggestion stacktrace blockquote exception thread main lang nullpointerexception redblacktree rb insert fixup redblacktree redblacktree insert redblacktree redblacktree main redblacktree blockquote 
+
+initialize null 

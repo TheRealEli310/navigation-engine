@@ -1,0 +1,4 @@
+simplest jersey client xml restful issue 
+webresource returns xml written simple class simple main class pass authentication xml wrong xml unmarshelling exception understanding set annotation correctly wrong 
+
+jaxb namespace handling mechanism guessing fails due lack proper annotating class handle namespace fix creating file package class annotation declare namespace namespace handling href http www javacodegeeks applying namespace jaxb unmarshal html rel nofollow href http www javacodegeeks applying namespace jaxb unmarshal html rel nofollow 

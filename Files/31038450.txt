@@ -1,0 +1,4 @@
+android httpclient works similar httpurlconnection post 
+apps httpurlconnection httpclient work past api code httpclient successfully posts server comment swap httpurlconnection post possibly wrong code httpurlconnection similar code httpclient works perfectly httpclient works httpurlclient make work url 
+
+problem youre calling connection open href http developer android reference net urlconnection html setdooutput boolean rel nofollow documentation blockquote sets flag indicating urlconnection output set connection established blockquote moving call fixed issue error original code fully working tested code added catch blocks moved things bit added code read result server 

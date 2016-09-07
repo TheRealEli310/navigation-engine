@@ -1,0 +1,4 @@
+sum digits digital root recusrion 
+add digits code input output blockquote digital root br br br br blockquote call sum function recursively till sum consists single digits 
+
+close algorithm mod transforms number string adds numeric values characters pass easier understand performant tested fix code add return recursive call return sum digits initial number digit left 

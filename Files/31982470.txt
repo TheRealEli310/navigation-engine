@@ -1,0 +1,4 @@
+show coordinated keypoints flandmark javacv 
+flandmark javacv refer href https github bytedeco javacv examples blob master flandmark demo src main flandmark example1 rel nofollow https github bytedeco javacv examples blob master flandmark demo src main flandmark example1 managed run code display coordinated key point face eye mouth nose key points detected flandmark library 
+
+find landmarks function bottom function draw detected landmarks face coordinates face bounding box coordinates points landmark sequence reference image href http cmp felk cvut cz uricamic flandmark rel nofollow flandmark homepage href http stack imgur djisj png rel nofollow img src http stack imgur djisj png alt enter image description total number landmarks stored basics print coordinates landmarks 

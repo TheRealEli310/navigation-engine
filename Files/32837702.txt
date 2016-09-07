@@ -1,0 +1,4 @@
+error message caused lang nosuchmethodexception onclickshare class android view view 
+receiving error message click image button issue text text box ad share strong xml strong pre class lang xml prettyprint override strong strong pre class lang prettyprint override 
+
+solution add onclicklistner inside getview class listadaptor 

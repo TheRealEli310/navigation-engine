@@ -1,0 +1,4 @@
+search method char list chars 
+search list added chars return answer character appears list start greatly appreciated 
+
+code elegant readable loop recursive solution 

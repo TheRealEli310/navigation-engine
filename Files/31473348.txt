@@ -1,0 +1,4 @@
+hibernate search multifieldqueryparser date property 
+upgraded hibernate search sucessfully migrated issues href http hibernate org search documentation migrate rel nofollow hibernate search migration guides encountering error date property date property pretty standard versions ul li hibernate li li hibernate search li li explicitly import maven wouldnt find li ul found issue href https hibernate atlassian net browse hsearch rel nofollow hsearch date values related missing declaration edit missed migration requirement answer bellow 
+
+turns missed migration requirement enconding set numeric hs default ul li href http relation hibernate search candidate release spotted wild numericfieldsbeingusedbydefault rel nofollow numeric field default li li href https developer jboss org wiki hibernatesearchmigrationguide jive content id hibernate search 500cr1 rel nofollow numbers dates indexed numeric field default li ul setting mimic behavior previous versions fixed 

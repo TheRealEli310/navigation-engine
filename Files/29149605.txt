@@ -1,0 +1,4 @@
+c3p0 database pooling failover configuration 
+database automatically ip port switch db server configure c3p0 connection pooling web apps follow database failover mechanism c3p0 db failover pool connections failed reestablished 
+
+reestablished failing request attributes helps ul li testconnectiononcheckin true li li preferredtestquery select version li li acquireretryattempts li ul 

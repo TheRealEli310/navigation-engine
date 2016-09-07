@@ -1,0 +1,4 @@
+arraylist hashmap android 
+hashmap contacts numbers saved arraylist error missing method body declare abstract private static arraylist getcontacts contacts numbers show toast save move sqlite database 
+
+remove methods calling constructors initialize objects initialize 

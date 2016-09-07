@@ -1,0 +1,4 @@
+conditional spring bean creation 
+question spring annotation configurations bean property file property file special boolean property signs bean observationwebsocketclient created property false dont establich web socket connection technical possibility realize 
+
+functionality appears spring 4s href http docs spring io spring docs current javadoc api org springframework context annotation conditional html rel nofollow annotation create class access annotate bean strong edit strong annotation implemented generically source code evaluate href https github spring projects spring boot blob master spring boot autoconfigure src main org springframework boot autoconfigure condition onpropertycondition rel nofollow github interested find needing funcitonality similar implementation advisable making lots custom implementations 

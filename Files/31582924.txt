@@ -1,0 +1,4 @@
+jersey swagger configuration 
+issue swagger doc generation work maven deps pre class lang xml prettyprint override added swagger ressources resourceconfig class declared servlet configure swagger config swagger servlet picked browse api docs url change api package swagger servlet configuration real exception dont understand lot 
+
+apprently issue related jersey jackson libs version end make work ul li increased swagger version ron didnt notice version li li replaced jackson jars version time found href http repo1 maven org maven2 fasterxml jackson rel nofollow li li deleted osgi cache domain restarted server li ul 

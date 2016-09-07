@@ -1,0 +1,4 @@
+properties file multi line values propertiesconfiguration 
+project read properties file propertiesconfiguration apache edit values edit save change file comments formatting thing change taking multi line values formatted turns array style print lines formatted br method 
+
+created work case functionality solution works set propertiesconfiguration delimiter line character iterate update properties set format method format list data shown correct save function takes double backslash stored list turns back slashes file replace single backslash 

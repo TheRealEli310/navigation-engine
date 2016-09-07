@@ -1,0 +1,4 @@
+set session cookie attribute domain spring tomcat 
+set session cookie attribute domain spring project tomcat server spring security https put domain attribute web xml withing cookie config spring session cookiehttpsessionstrategy doesnot work tomcatcontextcustomizer doesnot work made mistake configuring running localhost domain set correct 
+
+tomcat configuration attribte blockquote domain session cookies created context set overrides domain set web application set web application blockquote global config application specific context file href https tomcat apache org tomcat doc config context html rel nofollow tomcat configuration documentation 

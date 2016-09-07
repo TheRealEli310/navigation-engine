@@ -1,0 +1,4 @@
+apache poi evaluate formula sxssf workbook 
+project apache poi class manage large spreadsheet evaluate formulas cells formulaevaluator exception thrown direct error clear method takes object internally casts passing exception thrown question implement formula evaluation streaming workbooks sxssf 
+
+tl dr support isnt older version youre youll upgrade beta problem youre version apache poi youre exceptions evaluate sxssf cells href https poi apache org spreadsheet eval html sxssf rel nofollow detailed end formula evaluation documentation sxssf formula evaluation beta thing aware formula evaluation cell formula memory cells refers refer call work youll evaluate cells writing youll struggle formulas refer place theyll work cells refer current window havent flushed disk 

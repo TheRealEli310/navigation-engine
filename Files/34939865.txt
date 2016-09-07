@@ -1,0 +1,4 @@
+ejb transaction rollback undo revert database 
+suppose written transaction related code strong ejb strong bean method strong begin strong starting transaction br changed variable br changed database strong segment strong insert update db br execute calculation strong segment strong br br strong commit strong commit br exception arise strong segment strong br br strong rollback strong catch block catches exception strong segment strong execute transaction rollback strong question strong br rollback br database variable br strong strong database br strong strong rollback variable 
+
+database made rolled back effect variables 

@@ -1,0 +1,4 @@
+cleaner resource preparedstatement 
+em h2 database simplicity file based easy create test em works resources cleaned expected feel cleaner set parameters inside resources block dont nested catch blocks awkward exists helper class jdbc find preferably lambda function initialize require allocating object inside resources 
+
+class awkward ul li typed class type li li constructor explicitly calling overridable method href http stackoverflow bad practice li ul interface inspired href http docs spring io spring docs current javadoc api org springframework jdbc core preparedstatementsetter html spring interface interface defines contract supposed set values creation initialization inside single method addition inside class static method write notice written lambda expression advantage interface abstract class functional interface case single abstract method written lambda 

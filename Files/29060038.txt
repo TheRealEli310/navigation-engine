@@ -1,0 +1,4 @@
+menu driven program implement binary search tree tree structure add nodes root insert function 
+root couldnt add nodes permanently tree object created insert function entry insert function nullified root present find problem driving crazy preferable data structures code 
+
+associating subtree lets call node element existing tree creating node moving tree find current node null associate node current stay step ahead meaning moving tree left check left subtree null act code run code test case 

@@ -1,0 +1,4 @@
+couchbase reading documents bucket 
+read documents bucket active bucket access newly created document br people suggested view query bucket br create view updated updated documents br newly created views map function reduce function empty query view returns results back 
+
+returning results issue promote view production view common mistake development views small subset data possibly overwhelm server strong strong emit entire document documents bucket emit ids documents content objects operation bulk operation give direct link bulk operations sdk sdk specific href http developer couchbase documentation server sdks documents bulk html rel nofollow questions equivalent select bucket planning data lots options solve 

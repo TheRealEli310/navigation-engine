@@ -1,0 +1,4 @@
+hsqldb add column automatically update 
+application spring hsqldb database evolution add column existing table adding attribute entity class info deploy app tomcat database updated start app add column automatically configuration database applicationcontext xml 
+
+hibernate make auto generation object model good production suggest database migration tool provide means auto execution sql scripts order href http flywaydb org rel nofollow flyway href http www liquibase org rel nofollow liquibase 

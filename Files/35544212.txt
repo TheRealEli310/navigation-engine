@@ -1,0 +1,4 @@
+gson nested class parameters values 
+issue parsing string nested classes json string classes converting code devices parameters converted correctly null values geography object inside device ideas receive list devices geography object objects parameters null hope understand edit changed works fine error writetoparcel method ideas fix 
+
+definition tells gson youre expecting geography type object named lastlocalization store member called lastlocalization input array objects object named lastlocalization object called geography gson encounters lastlocalization object json sees em explicity annotation em match lastlocalization member creates geography object assigns creates geography object type member em makes sense em json lastlocalization object properties match geography object properties geography default values object realize gson doesnt care json object object object explicitly annotated receive json 

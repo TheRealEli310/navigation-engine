@@ -1,0 +1,4 @@
+date string parsing validation needed 
+trouble changing date field string works output tostring validation piece doesnt recognize wrong code users posting true yyyy date validation isnt working thoughts posted start date code end date code thought present advance tostring working perfectly comments trial error change things work deal 
+
+format simply doesnt make sense thing check correct format youve check formatted version parsed equal text field date valid id auto valid text swinglabs swingx library lazy 

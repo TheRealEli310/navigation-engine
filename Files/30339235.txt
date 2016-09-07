@@ -1,0 +1,4 @@
+namespace declaration checks unused namespace declarations location hints xml 
+problem namespace declaration buttons warning popping strong i18n hardcoded string open activity string resource ctrl f1 hardcoding text attributes directly layout files bad reasons strong ul li creating configuration variations landscape portrait repeat actual text date making li li application translated languages adding translations existing string resources android studio eclipse quickfixes automatically extract hardcoded string resource lookup li ul 
+
+error warning delete line leave string resource considered practice define string values inside strings xml file reference project strings xml file inside res values folder inside strings xml file string resources present add line file inside layout file buttons define string values inside strings xml layout 

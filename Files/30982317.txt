@@ -1,0 +1,4 @@
+parsing xml simple xml framework 
+parse xml simple xml framework trouble work model tagmodel file heres xml parse error current code data including tagmodel id daniel 
+
+realised error due constructor models tagmodel needed add 

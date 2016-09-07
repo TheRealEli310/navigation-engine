@@ -1,0 +1,4 @@
+map entities associate link entity 
+record businesses cities branches city business cities city branches em bank em cities city branches city suppose branch table branchid foreign keys primary keys join table make branch associate combination city business strong sample data strong businesses city business branches city business branch map branch business city 
+
+mappings intermediate entity mapping href http vladmihalcea beginners guide jpa hibernate cascade types rel nofollow manytomany association generate efficient sql queries wouldn add additional columns link table 

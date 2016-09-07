@@ -1,0 +1,4 @@
+xwpfdocument getpagecount 
+microsoft formats doc apache poi hwpfdocument number pages object needed xwpfdocument docx method exist similar getpagecount found 
+
+test suggest href https poi apache org apidocs org apache poi poixmlproperties extendedproperties html rel nofollow https poi apache org apidocs org apache poi poixmlproperties extendedproperties html 

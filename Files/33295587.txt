@@ -1,0 +1,4 @@
+maven sonar exclude dependancy jar stored local repository 
+run sonar analysis maven project set repo folder run check sources dependency jar due build failing sonar exclusions property didnt find internet sonar ignore multiple jar focus source error message blockquote error failed execute goal org codehaus mojo sonar maven plugin sonar default cli project abc files directories matching abcrepocomabc yrframeworksecurityabclogin2 snapshotabclogin snapshot jar directory abccustomsourcebuildxyzmavenbuildabc ear blockquote sonar version appreciated 
+
+worked skip specific module referring jar 

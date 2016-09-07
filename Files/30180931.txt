@@ -1,0 +1,4 @@
+moving spring autowiring breaks 
+recently started migrating spring spring reason dependency issue autowiring idea error worked perfectly fine spring suspicions spring doesnt lazy load dependencies default added initlazy true componentscan references issue cyclic dependency shouldnt causing stackoverflowexception working fine older version missed configuration setting altered spring applications relevant setup classes href https gist github bendol 080169ee25e8d4f231f4 rel nofollow https gist github bendol 080169ee25e8d4f231f4 
+
+prototype scope create object time injected singleton instantiate instance instance time injected everytime transactiontemplate bean requested created eventservice emailservice cyclic dependency depends transactiontemplate pretty answered questions comments ol li cyclic dependency li li prototype pattern dependency item li ol result infinite transactiontemplate creation 

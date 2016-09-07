@@ -1,0 +1,4 @@
+parse sql sql builder 
+easy convert sql string sql builders jooq querydsl ability modify query add joins additional clauses limit offset 
+
+option href https github jsqlparser jsqlparser rel nofollow jsqlparser past project wasnt difficult 

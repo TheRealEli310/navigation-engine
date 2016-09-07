@@ -1,0 +1,4 @@
+setter conventions return void 
+writing year conventions people implement setters illustrate examples conventions love concise names patters classes convention return set methods classes alternative convention return setter methods difference alternative approach syntax em em classic set factory method debatable readable usable question performance difference patterns exist big difference arise performance difference considered practice 
+
+href http en wikipedia org wiki method chaining method chaining nice situations overuse lot builder pattern mentioned comment degree matter personal preference disadvantage method chaining opinion debugging breakpoints tricky step code filled chained methods depend ide find ability debug absolutely crucial generally avoid patterns snippets make life harder debugging 

@@ -1,0 +1,4 @@
+c3p0 releasing connection max size reached 
+execute database times method hibernate spring c3p0 hibernate cfg xml works fine debugging c3p0 quickly secs add extra change connection times springs transaction manager basically calls findone information diagnose incorrectly 
+
+hibernate c3p0 max size connections thread hibernate c3p0 max size set thread guess c3p0 releases connection thread completed tested method sleep secs executed method method ran connections secs method completed execution ran successfully connections released secs guess understand guess refactor redesign connections strong update strong found hibernate connection release mode property set statement release connection execution href https docs jboss org hibernate orm reference en html session configuration html configuration optional rel nofollow info 

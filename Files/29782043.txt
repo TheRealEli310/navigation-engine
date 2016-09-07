@@ -1,0 +1,4 @@
+writing tablerow ui thread data asynctask thread 
+implemented json parser background thread write data series tablerows ui thread embedded code includes handler put back normal ui thread code continually back stack trace moving code asynctask demands ui thread code appreciated update shows v1 initialization 
+
+loop suppose add view iteration guess didnt post declaration time give error parent create object time deeper dont connected thread advantage fact method executed main thread write implementation 

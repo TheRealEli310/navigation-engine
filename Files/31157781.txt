@@ -1,0 +1,3 @@
+find key dynamic json 
+key dynamic json br input json object string key br output json element corresponds key br jsonobject jmsg string key status br jsonelement jvalue jsongetvalueformkey jmsg key br return created jsonelement string type string key features br br jsonelement jvalue jsongetvalueformkey jmsg key br return jsonelement jsonarray type key found return null br jsonobject jmsg 
+

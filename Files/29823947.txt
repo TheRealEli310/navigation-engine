@@ -1,0 +1,4 @@
+activemq filequeuecursor heap size 
+acvitemq persistent message problem blockquote outofmemory heap size blockquote kind issue site find specific issue persistent message stored memory error increase xms xmx fix problem bit messages error read activemq site cursors filequeuecurosr write stored message file set configuration cursor doesnt work similar problem cursor enaugh set xmx xmx default set 1gb 1gb strong update strong kartik answer 
+
+ol li filequeuecursor memorylimit broker case gb total broker ram memorylimit 1500mb producerflowcontrol false li li set memory usage broker push messages kahadb tmp files li ol 

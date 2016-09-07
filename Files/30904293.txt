@@ -1,0 +1,4 @@
+accessing files inside jar file 
+programming simple webserver works eclipse export jar package files binaries inputstream read jar time work access chrome empty response means jar read decided start dont heres code problematic class duplicate solutions similar posts jar resources works perfectly doesnt 
+
+file em inside em jar longer accessible file system files treat resource work packaged jar place file classpath package prefix path em path file em put directory em html em root classpath 

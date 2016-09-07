@@ -1,0 +1,4 @@
+spring mvc requestmappinghandlermapping application starts 
+recently converted spring mvc web application xml configuration based configuration controllers mapped feel component scans figure post xml configuration setup application works fine prints controller mapping logs loaded root context loaded message dispatcher context web xml mvc configuration rootconfig configuration classes package 
+
+solve problem ignoring configuration classes component scan 

@@ -1,0 +1,4 @@
+class public accessed package 
+code class sacindiahelper inside class sacindiadatabaseadapter package access helper object compile shows error shows error problem 
+
+inspection public static alternatively make class variables 

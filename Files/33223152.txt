@@ -1,0 +1,4 @@
+manage javardd labeledpoint data structure spark 
+data file column represents id label case column represents binary outcome variables logistic regression model havent normalised read file spark unfamiliar labeledpoint data structure easy solve dont understand related questions ul li rid file header eliminate file li ul strong edit strong eliasah comment trick strong end edit strong ul li map column row names exclude points regression model li li finally map predictions id retrieve predictions regression model li ul strong edit strong answer pity basically redoing map correct strong edit strong comments eliasah filter data training retrieve probabilities case 
+
+header header rdd fetch header filter rdd question scala map part depending vector sparse dense create vector track id labeledpoint rdd int labeledpoint familiar scala mapreduce rdd predict labeledpoint feature 

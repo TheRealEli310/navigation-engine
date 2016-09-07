@@ -1,0 +1,4 @@
+tomcat8 loading wrong sql server driver sqlserverxadatasource found 
+set connection pool tomcat8 fine tomcat claims correct driver jar loaded correctly working driver driver loaded locate similar problem windows os solve update setting datasource code 
+
+em em code managed set 

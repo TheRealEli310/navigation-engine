@@ -1,0 +1,4 @@
+apply bold text style range text inside cell apache poi 
+make range text bold text style apache poi img src http stack imgur mabgn png alt enter image description applying style entire cell vb net lines code find apache poi appreciated 
+
+href http poi apache org spreadsheet quick guide html workingwithfonts rel nofollow create bold styling object grab call href http poi apache org apidocs org apache poi ss usermodel richtextstring html applyfont int 20int 20org apache poi ss usermodel font rel nofollow overload takes range indexes apply reuse object convert text workbook bold 

@@ -1,0 +1,4 @@
+pretty print write xml utf encoding 
+xml document string prettyprint newlines tags indentation file solution href http stackoverflow http stackoverflow working problem system write output file ensuring utf encoding modified code runs outputs xml file test xml string shown href http stackoverflow http stackoverflow questions flush close writer part code worried flushing closing cases xml output 
+
+em flush close writer em close flush href https docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow resources accomplish easily jvm closes gracefully close resources reliable mechanism reason good practice close resources open finished free resources jvm dont resource closed jvm resource youve written read 

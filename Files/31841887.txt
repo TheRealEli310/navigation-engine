@@ -1,0 +1,4 @@
+pipes working 
+project make simple text based game pipes work enter doesnt work restart start begin works letter lowercase doesnt restart type pipes idea causing 
+
+check lower upper cases dont call equals method optimize code readability hope solve issue 

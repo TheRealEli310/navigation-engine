@@ -1,0 +1,4 @@
+liquibase set default schema programaticaly 
+run liquibase appliction code problem table ale created public schema point liquibase schema postgres 
+
+schema changeset attribute dont write programaticaly href http www liquibase org documentation index html rel nofollow review official documentation refactor changeset schema target refactor add column changeset 

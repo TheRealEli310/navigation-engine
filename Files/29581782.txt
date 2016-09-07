@@ -1,0 +1,4 @@
+scrollposition recyclerview layoutmanager 
+scrollposition measure scrollposition adding orientation 
+
+exist layoutmanager views screen views size number count scroll listener reliable data recyclerview fresh layout calculation calculate real offset youll receive onscroll views moved recyclerview estimates scrollbars methods view class methods vertical counterparts 

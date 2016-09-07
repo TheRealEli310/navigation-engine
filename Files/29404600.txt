@@ -1,0 +1,4 @@
+bytecode generation 
+writing programming language compilation bytecode graduation work troubles part bytecode generation googled libraries wrote code asm library unhappy library event visitor dont correctly call based architecture breaks brain ul li generate bytecode comparisons looked talked transforming dont li li understand bytecode jvm works li li big deal performance acceptable li ul bytecode generation library suitable case dont fully reject asm good case understand architecture imagine properly work 
+
+blockquote understand bytecode jvm works blockquote major reason youre trouble asm library documentation assumes familiar skimming virtual machine specification give basic idea bytecode stuff works 

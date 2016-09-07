@@ -1,0 +1,4 @@
+method parameter injection work 
+strong background strong frameworks spring possibility methods called injected parameter values good controller action spring web mvc receives post redirect attribute similar application spring included end hacked strong problem strong solution supports void parameter parameter methods string argument strong question strong spring feature spring huge array method invoke suitable common methods dynamic solution problem strong final solution strong ended unfinished solution based seelenvirtuose answer 
+
+injection dependency frameworks general spring specifically reflectively call methods arbitrary number parameters href https docs oracle javase docs api lang reflect method html invoke lang object lang object rel nofollow methods signature provide parameters em array em simply assemble argument array provide em varargs em treated arry respect comments string behaviors 

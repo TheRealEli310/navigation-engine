@@ -1,0 +1,4 @@
+spring data insert data depending previous insert 
+save data tables entity association table simply save entity method entity repository performances insert rows association table strong native sql strong rows reference entity saved issue strong integrity constraint exception strong foreign key entity saved isnt query code repo service queries transactions set annotation execute query result 
+
+invoke execute native queries specific case recommend important native queries transaction transaction isolation level hr wrote blockquote dont understand flush action default blockquote flushing handled hibernate configured default auto hibernate flush data point time commit transaction execute sql statement hibernate problem case bypass hibernate native query hibernate statement flush data answer mine href http stackoverflow http stackoverflow topic 

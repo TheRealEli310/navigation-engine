@@ -1,0 +1,4 @@
+getsession closes socket 
+find reason android opensslsocketimpl closing socket debug android internal libraries background source create sslcontext found href https sourceforge net silvertunnel ng code ci master tree src main org silvertunnel ng netlib layer tls tlsnetsocketutil 20in 20tlsnetsocketutil rel nofollow tlsnetsocketutil call resultsocket getsession underlying socket closed logged stacktrace socket closed nailed lines href https android googlesource platform external conscrypt 2a8db490ab83165520a6b4f0bf07a4e6e1add86d src main org conscrypt opensslsocketimpl rel nofollow opensslsocketimpl handshake didnt worked running jvms android works fine suggestions update stacktrace starthandshake method 
+
+native code checking provided underlying class easily fake implement make work hr 

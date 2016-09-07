@@ -1,0 +1,4 @@
+android application 
+question successfully setup executing respective threads problem put delay threads execute t1 low priority t2 lets seconds pause t1 t2 start executing code 
+
+task timer case stop code youre pause set time duration executing em update em 

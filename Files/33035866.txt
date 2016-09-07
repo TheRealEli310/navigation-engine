@@ -1,0 +1,4 @@
+android marshmallow static initialization exception getdeclaredfield 
+problem code href https github japgolly svg android svg android throws excpetion blockquote androidruntime caused lang runtimeexception lang nosuchfieldexception field class ljava lang string declaration lang string appears system framework core libart jar blockquote continue job android marshmallow idea strong solved strong solved static initialization issue changed initialization 
+
+private field called holds array chars renamed marshmallow lines class href https github japgolly svg android rel nofollow discontinued chance projects author fix issue push jar maven make fork svgandroid library merge href https github meghneelgore svg android commit c4515da355dca63b3d3b45ab98b68dafcd0d5506 rel nofollow pull request build jar mavenized version push fixed version mvnrepository 

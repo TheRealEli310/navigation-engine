@@ -1,0 +1,4 @@
+drools integration spring issue loading drl files test case 
+drools spring maven eclipse project pom sample class ol start li test main class li li testrule drl li ol run project file found exception find drl file drl file stored put rule file package test main class error 
+
+classpath resource expected directories collected part classpath dont put file package test main class chances change package statement drl file services dms model account found jvm directory services dms model account rooted part classpath put drl file expect found conversely prefix directory levels filename test2 main call knowledgebuilder methods haserrors geterrors adding resource show problem drl file double fault 

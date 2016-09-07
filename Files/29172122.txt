@@ -1,0 +1,3 @@
+splitting array subarrays streams stateful mapper 
+double elements split stream list array long arrays size found solution dirty requires stateful mapper meant stateless code work longer streams version code violates stateless requirements mapper achieve thing 
+

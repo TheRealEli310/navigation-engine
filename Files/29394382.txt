@@ -1,0 +1,4 @@
+operation time error cqlsh console cassandra 
+nodes cassandra cluster created table rows execute query cqlsh error blockquote operationtimedout errors host blockquote run count function row limit works fine 
+
+count pages data limit expected timeout rows details href http planetcassandra org blog counting key cassandra http planetcassandra org blog counting key cassandra maintaining count spark ball park number grab jmx grab jmx tricky depending data model number partitions grab mbean sum values outputs give number exist sstables make accurate flush estimate number memtables mbean 

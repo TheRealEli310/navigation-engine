@@ -1,0 +1,4 @@
+rendering box2d libgdx 
+game world size 800x480 fitviewport initally rendering box2d bodies fixtures pixels physics appeared floating slow documentation realised box2d metrics units converted box2d positions sizes factor end box2d world 25x15 metres issue box2d objects rendered incredibly small scale back regular size screen 
+
+conversions factor world box2 create youll conversion factor world box create camera draw sprites body youll box world factor render spritebatch draw sprite square exact size position render youll hope answers question 

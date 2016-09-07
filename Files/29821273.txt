@@ -1,0 +1,4 @@
+remove object instance memory removing map 
+keeping reference locally created objects publicly map remove object map removed memory nullified code exists printend mymap remove key means object exists memory remove memory 
+
+takes care removing objects memory optimal moment dont worry make thread terminated reference shut thread gracefully abruptly object removed memory asap href https docs oracle javase docs api lang system html gc rel nofollow system gc system gc considered href http stackoverflow questions bad practice call system gc bad practice trickery involved parent instance variable involved makes thread terminate smarter surely explain 

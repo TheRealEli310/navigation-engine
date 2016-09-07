@@ -1,0 +1,4 @@
+joda time maven 
+stupid question href http www joda org joda time rel nofollow joda time easy explanation user guide don find answers web method joda time calculate duration dates compare current date date class exist created duration implement class interface exist write install joda time dependency href https en wikipedia org wiki apache maven rel nofollow maven version explain newbie 
+
+h1 time h1 time api reworked jdk resembles lot joda time joda time implementation jsr citation href http www joda org joda time rel nofollow http www joda org joda time blockquote joda time de facto standard date time library se onwards users asked migrate time jsr blockquote create jdk project localdate localtime classes package time follow official oracle tutorial href http www oracle technetwork articles jf14 date time html rel nofollow http www oracle technetwork articles jf14 date time html glhf 

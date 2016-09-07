@@ -1,0 +1,4 @@
+sorting array based number occurrences 
+sort array based number occurrences array array array count count based array count array stores count stores count stores count stores number occurrences count store number number occurrences based number occurrences sort array question trouble storing counts occurrences array count array based number occurrences storing array 
+
+step array storing times number appears assume array elements array store elements array initialized default position takes time space equivalent initial count elements count elements array takes time result weve array sorted true takes time space outputs total time space complexity algorithm means runs linearly number items difference maximum minimum key values 

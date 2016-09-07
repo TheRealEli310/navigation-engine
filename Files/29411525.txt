@@ -1,0 +1,4 @@
+orient db create orient db password check 
+create orient db create orientdb database password remote type checks database exists found overwrite 
+
+youre href http www orientechnologies docs orientdb wiki document database html remote server hr strong update strong database exists exception thrown youll find methods 

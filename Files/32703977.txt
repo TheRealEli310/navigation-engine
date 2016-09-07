@@ -1,0 +1,4 @@
+implement interface fly method reference 
+learn features playing examples found strange behaviour code compiles successfully idea works acceptable supplier supplier interface simple 
+
+href https docs oracle javase docs api util function supplier html interface single functional method ul li parameters li li returns object li ul method comply points comply functional contract methods signature method question method reference takes parameters returns instance rewrite syntactic sugar lambda expression 

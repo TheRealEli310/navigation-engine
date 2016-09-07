@@ -1,0 +1,4 @@
+hibernate joined strategy inheritance polymorphism 
+hibernate joined strategy hibernate support polymorphism derived class fields include getter setters br main ill fact employee type hibernate created row employee person tables hibernate generate queries person employee words hibernate support polymorphic behavior 
+
+understand question correctly hibernate case automtically return employees query persons additionally inserts employee object declared person employee short answer detailed insert operation based actual type object type written sourcecode related querying persons hibernate left outer join subtypes employess back 

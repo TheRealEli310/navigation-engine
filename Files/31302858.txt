@@ -1,0 +1,4 @@
+jersey client send list form post request 
+jersey client send post requests web server generally building em form em object key pairs send em list em request heres abridged version code doesnt work bad request error send request directly problems advance 
+
+based typical pojo serialization isnt class member type payload jersey client json serialization feature include dependencies maven create client assuming variable pojo call 

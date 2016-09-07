@@ -1,0 +1,4 @@
+static text html returning response jersey 
+working jetty jersey latest hosted google app engine service correctly receive application json content type body returning 4xx 5xx status receive text html content type html body object put entity edit web xml responsemodel basic serializable class 
+
+configuration href https jersey net documentation latest appendix properties html rel nofollow flag defines jersey sending 4xx 5xx response status flag flag calling resets response entity headers returns text html error page status code return custom error entity set flag 

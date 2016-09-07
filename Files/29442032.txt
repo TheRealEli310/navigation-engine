@@ -1,0 +1,4 @@
+rxjava debug chain block forever 
+running code step code android studio code blocks indefinitely trap exceptions whats debug whats strong update strong dwursteisens advice emitting creating output expected oncompleted notification href https github reactivex rxjava issues rel nofollow href https github reactivex rxjava issues rel nofollow tickets rxjava design groupedobservable dealt order tolist operator work heres revised code elegant code snippet longer blocks make code snippet readable id advice 
+
+debug tricky rxjava add doonnext call display rxjava notification whats code code block tolist operator emit observable complete stream doesnt complete tolist emits code block forever 

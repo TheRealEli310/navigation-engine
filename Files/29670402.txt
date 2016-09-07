@@ -1,0 +1,4 @@
+check sequence letters string order 
+working method input array string letters lower case method find words start letter letters order inserted letter inserted word word legal word word legal code input legal wrong 
+
+easier implement regex 

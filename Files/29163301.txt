@@ -1,0 +1,4 @@
+maven build test run docker machine 
+question hope problem build run machine created docker machine ridiculously short time issue maven questions generate jar remote machine container powered kitematic mac jdk environment machine edit develop mac launch build remote machine local docker container kitematic vm 
+
+youre compile source local mac container boot2docker installed works assuming folder current directory file compile test file place output folder boot2docker vm shares home directory mount folder volume inside container code compiled compiler environment image 

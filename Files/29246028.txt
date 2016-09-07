@@ -1,0 +1,4 @@
+prevent access reflection 
+docs mentioned method violate principal encapsulation writing class full security instance private variable prevent accessed reflection class full secured instance variable modify instance variable reflection code prevent immutable class changed reflection 
+
+jvm security mechanisms built define restrictions code security policy file security manager security policy file enforce set permissions granted classes permissions classes running instance jvm permit permit runtime operations enable security manager security policy file security manager default security policies defined security policy files home jre lib security directory defining policy file found href http docs oracle javase docs technotes guides security policyfiles html rel nofollow http docs oracle javase docs technotes guides security policyfiles html 

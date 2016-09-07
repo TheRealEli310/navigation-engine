@@ -1,0 +1,4 @@
+thrift server client eclipse noclassdeffounderror 
+href http wiki apache org thrift thrift 20eclipse 20junit 20with 20tservlet rel nofollow http wiki apache org thrift thrift 20eclipse 20junit 20with 20tservlet tutorial step step part execute client server serverexample added imports clientexample added imports run server errors run client errors case added eclipse thrift plugin awesome 
+
+explains guess add slf4j dependency 

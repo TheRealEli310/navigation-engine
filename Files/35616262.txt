@@ -1,0 +1,4 @@
+custom logger log access log spring boot 
+spring boot log access log file filesystem custom logger log4j2 log access log undertow spring boot checking spring boot source code undertow logger initialized defaultaccesslogreceiver writing file accessloghandler avoid writing web filter logs access easy writing pull request 
+
+trick kind hard coded customizeable problem hide class kick package provide log4j based make search classloader undertow library 

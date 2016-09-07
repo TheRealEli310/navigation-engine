@@ -1,0 +1,4 @@
+hibernate postgis data stored bytes spatial types 
+setup project combination technologies ul li hibernate spatial li li postgresql postgis li li spring li li jts li ul entity found removed appears moved geo latte jar spring setup database setup ul li windows zip version li li copied postgis installation li li postgis database created extensions postgis postgis topology fuzzystrmatch postgis tiger geocoder li ul result persist retrieve area entities issues type column byte data postgis spatial type ideas wrong 
+
+hibernate dont type annotation including error removing fixes issue polygon column postgis type geometry 

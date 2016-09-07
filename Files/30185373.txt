@@ -1,0 +1,4 @@
+maven mojo execution failed building 
+run href http hg openolat org openolat102 file 00480d4073f6 rel nofollow openolat lms project open source learning platform written source maven error netbeans output build project heres full stack trace errors run appreciated advance 
+
+problem maven version run run testcases including selenium tests test configuration test database environment read top level project learn running unit tests started quickly run build war file run openolat eclipse development cheers florian 

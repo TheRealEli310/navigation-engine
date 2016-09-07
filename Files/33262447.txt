@@ -1,0 +1,4 @@
+reading remote file jsch sftp failure 
+read file sftp protocol href http www jcraft jsch rel nofollow jsch library problem exception line code googling found error sftp server upload space setup logging sftp server debug level idea investigate relevant logs sides remote machine debian openssh 
+
+turned missing 

@@ -1,0 +1,4 @@
+lang unsatisfiedlinkerror native method found package classname stringfromjni ljava lang string 
+working android application ndk library works fine cleaning project warning activity result native code exception activity class header files manifest hellojni class android mk file application mk file jni manifest file 
+
+correct signatures native functions automatically create jni header avoid warning add strong edit strong adjust path installation android sdk 

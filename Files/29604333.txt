@@ -1,0 +1,4 @@
+creating jsch hostkey instance public key pub format 
+send file windows machine linux machine jsch copied host public key linux machine windows machine added key reason invalid key type exception code 
+
+file format pre class lang prettyprint override href http epaul github io jsch documentation javadoc jcraft jsch hostkey html hostkey 28java lang string 20byte rel nofollow constructor public key part binary form base64 encoded jsch convert part hr check jsch implementation file parsing file similar format file additional part front included pre class lang prettyprint override implementation complex parse specific format file 

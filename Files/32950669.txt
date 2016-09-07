@@ -1,0 +1,4 @@
+failed create task type antlib org apache maven artifact ant mvn error ant 
+ant build failed run running ant tasks error console pre class lang prettyprint override maven ant tasks jar file eclipse plugins folder winant ant home lib directory included classpath didnt solve problem href http stackoverflow answer couldnt solve issue 
+
+ol li create directory root project place href http search maven org artifactdetails 7corg apache maven 7cmaven ant tasks 7c2 7cjar rel nofollow maven ant tasks jar file inside li li include import statement li ol steps solved issue hope helpful future alternate solutions ul li place file folder solve issue li li eclipse plugins folder br li ul 

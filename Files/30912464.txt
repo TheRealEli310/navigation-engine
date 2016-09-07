@@ -1,0 +1,4 @@
+mark jenkins build failed junit test error 
+workaround href https issues jenkins ci org browse jenkins rel nofollow jenkins issue junit report doesnt distinguish test failures errors thought href https wiki jenkins ci org display jenkins groovy postbuild plugin groovypostbuildplugin example9 28thankstokenbertelson rel nofollow groovy postbuild plugin jenkins philosophy deeply integrated href http javadoc jenkins ci org hudson tasks junit testresultaction html rel nofollow testresultaction doesnt provide tests error ideas 
+
+work create simple script parsing xunit file case find error exit mark build failed similar href http stackoverflow questions execute shell mark build failure jenkins ticket 

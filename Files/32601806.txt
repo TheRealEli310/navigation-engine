@@ -1,0 +1,4 @@
+jaxbexception occurred unexpected element calling rest service postman client 
+rest service written spring cxf method shown student class call service cxf client data posting jackson generate json entry calling service postman soapui error calling post method context type raw set header values working pointers 
+
+posting facing issue add jackson provider service listing needed add maven dependency newer version package dependency page solution href http cxf apache org docs jax rs data bindings html rel nofollow http cxf apache org docs jax rs data bindings html 

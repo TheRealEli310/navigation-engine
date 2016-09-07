@@ -1,0 +1,4 @@
+jena sparql dbpedia query optional filter results http dbpedia org snorql query works 
+query site working href http dbpedia org snorql rel nofollow http dbpedia org snorql jena queryfactory class works remove optional filter thumbnail line jena method works add optionnal keyword line result returned ps work optional filter edit dbpediaquery class 
+
+figured logging things loged resultset size optional filter gave results put optional filter optional noticied empty null loop dont continue stoped results gave return method checked loop continued problem solved hints carefull empty reslutset columns jena 

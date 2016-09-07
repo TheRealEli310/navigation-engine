@@ -1,0 +1,4 @@
+buffered reader android streaming bluetooth 
+hey guys read stream bluetooth device continuously streaming integers working code found online processing numbers ints opposed strings parseint taking cpu buffered stream avail current method makes difference data coming arudino modify streams 
+
+wrapped method assumes network byte order integers forget stuff 

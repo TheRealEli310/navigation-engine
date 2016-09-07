@@ -1,0 +1,4 @@
+mongo server accepts credentials shell scala interface 
+working scala framework connect local mongodb instance mongo library fails uri connect exception raised update collection extract parameters uri give mongo shell lets suggest possibly relevant working fine original environment ran framework dell laptop running ubuntu run mac laptop running ubuntu virtualbox virtually ha identical isnt 
+
+version mismatch apparently uninstalling ubuntu provided downloaded mongodb org library finally connect spotted line log memory credentials found user document man breakage expected crossing major version number preventing older clients connect pretty extreme 

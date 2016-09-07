@@ -1,0 +1,4 @@
+schedule tasks specific thread looper handler 
+timer creates thread pool thread task executed directly marshal code bad idea explain thread busy problem looper handler approach curious 
+
+create single thread optionally pass parameter control single thread thread factorys method called time executor instance run identical pass executors methods reuse existing thread inject code running thread general href http www qt io developers rel nofollow qt thread event queue timing facility freely decide existing thread process timed task href http doc qt io qt timers html rel nofollow timers qt feature box 

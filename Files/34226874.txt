@@ -1,0 +1,4 @@
+count syllables large string 
+codes order write program counts number syllables string codes ol li countsyllables string word counts number syllables single word li li gettokens string pattern separates words string list strings li ol count number syllables string blew code errors lines logic number syllables correct improve code result helper codes em update em countsyllables1 method modified working detect syllables correctly giving results heres changed shifted code class inherited class countsyllables gettokens changed method getnumsyllables method argument string doc removed line declared input string tolowercase method method countsyllables class iteration loop modified variable result declared count return number syllables 
+
+method appears current class correct wrong calling method add syllable count word return sum replace loop 

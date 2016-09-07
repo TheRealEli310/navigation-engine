@@ -1,0 +1,4 @@
+insert exists update mongo 
+question asked answered upsert option longer insert easy update document exists insert exists approaches avail thing collection updateone takes parameters type bson youll convert object int bson tobsondocument parameters passed great temporary workaround find insertone updateone 
+
+strange api documentation upsert option exist dbcollection update edit guess mongocollection href http api mongodb org mongodb async client mongocollection html updateone org bson conversions bson org bson conversions bson mongodb client model updateoptions mongodb async singleresultcallback rel nofollow updateone method href http api mongodb org index html ga rel nofollow updateoptions set true 

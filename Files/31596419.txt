@@ -1,0 +1,4 @@
+convert asynctask multiple parameters rxjava 
+multiple calls asynctask convert rxjava asynctask code works explore rxjava title sucks ul li loop myimagebutton pojo extending imagebutton list li li myimagebutton current bitmap getdrawable li li icon url li li combine images bitmaputils combine li li assign newly combined bitmap imagebutton li ul convert rxjava heres bindimagetask rxjava produced bad rxjava works wanted happen ul li save newly combined image imageloaders cache li li subscribe callback references strong bitmap strong strong reference myimagebutton strong simple myimagebutton setimagebitmap newbitmap li ul dont ul li bitmap reference inside myimagebutton class serialize li ul 
+
+h1 helper class em data em h1 create class process buttons class lambda expressions h1 reactive h1 create dst bitmap create src bitmap operator href http reactivex io documentation operators zip html link strong strong didnt test examples work problems 

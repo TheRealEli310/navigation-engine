@@ -1,0 +1,4 @@
+difference ojdbc6 jar ojdbc7 jar 
+ojdbc6 jar work jdk oracle 12c ojdbc7 jar advance 
+
+included ojdbc6 jar latest 12c driver difference ojdbc6 jar ojdbc7 jar compiled db solo include ojdbc6 jar terms functionality versions identical href http www oracle technetwork eol html rel nofollow link 

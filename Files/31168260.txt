@@ -1,0 +1,4 @@
+download gzip file s3 
+looked href http stackoverflow questions aws s3 sdk download file aws s3 sdk download file href http stackoverflow questions working zip gzip files working zip gzip files provide ways download deal files s3 gzipped files dealing gzipped file located s3 handling compressed nature file output implement href http stackoverflow questions working zip gzip files question file located locally requires downloading s3 
+
+solved issue scanner takes gzipinputstream reads unzipped file line line 

@@ -1,0 +1,4 @@
+sending signature data response apdu card 
+sign data message byte array card return signature response apdu code works fine returns line em apdu sendbytes bas ssignlen em uncomment unknown error em 0xc000002b unknown error em send data response apdu works flawlessly code wrong missing 
+
+larger ne incorrectly called javacard specifications abusing ne maximum number bytes expected send back 

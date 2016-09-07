@@ -1,0 +1,4 @@
+split remove delimiters sentence 
+split method provided text book meant remove delimiters sentence white space character working throws regex exception disappointment wondering make work requirement split method string words english words delimiters attaching whitespace character thx lot 
+
+missing closing character class btw option split word character 

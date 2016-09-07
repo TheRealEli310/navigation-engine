@@ -1,0 +1,4 @@
+programmatically determine scope bean 
+find scope bean found case find bean request scope internal methods spring framework wondering proper 
+
+good question method request scope relevant web find failed suggest work work annotations bean instance returns call scientific method good edit approach request scope beans stored request attribute remember easily find examine request debugger check reference bean method requires efforts investigate request attribute data structure spring framework 

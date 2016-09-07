@@ -1,0 +1,4 @@
+lang nullpointerexception org apache maven internalerrorexception starting jetty server 
+project structure parent pom file base pom xml auxiliary pom xml finally webapp pom xml code compiles successfully starting jetty error kindly advance 
+
+strong variable undefined strong change meaningful map webapp root context access 

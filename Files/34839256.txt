@@ -1,0 +1,4 @@
+failed bounce type firebase 
+href http stack imgur n3sqg png rel nofollow data data write pojo class makes code pojo blockquote update blockquote json logged small problem lies 
+
+stack trace blockquote caused fasterxml jackson databind jsonmappingexception suitable constructor found type simple type class net simplifiedcoding imageuploadsample processimages retriveuserdata instantiate json object add enable type information blockquote youve nested inside class case adds implicit reference outer class youre storing reference firebase complains finding rid error message mark static tells generate reference 

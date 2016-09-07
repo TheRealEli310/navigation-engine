@@ -1,0 +1,4 @@
+volley ssl hostname verified 
+developing android app access https address volley request data error ssl factory make queue initialization heres stacktrace searched error didnt find case 
+
+lets assume server app hosting inside server machine server certificate inside verify method verify read links ol li href http developer android reference javax net ssl hostnameverifier html rel nofollow hostnameverifier blockquote handshake urls hostname match peers identification hostname blockquote li li href https developer android training articles security ssl html commonhostnameprobs rel nofollow common problems hostname verification blockquote reason happen due server configuration error server configured certificate subject subject alternative fields match server reach blockquote li ol strong volley strong app create overriding hope helps 

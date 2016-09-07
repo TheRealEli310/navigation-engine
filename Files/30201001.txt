@@ -1,0 +1,4 @@
+recursive serialization 
+working serialization time read recursively serializes objects class holds fruit apple banana pineapple understood serialize object type stores objects vein classes intend serialized implement top class 
+
+classes implement class root object mark fields dont serialization traverse fields href http stackoverflow questions marking field transient make serialise object marking field transient make serialise object 

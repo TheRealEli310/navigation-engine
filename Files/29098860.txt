@@ -1,0 +1,4 @@
+modelmapper generic type runtime weird behavior 
+facing strange behavior classes hierarchical connection class template type hierarchy object template class templatedto object templatedto modelmapper org modelmapper modelmapper mapping classes default mapping field names identical code line throws weird debugging section mapping resultdtos list type list list blows mind clean tomcat maven clean install ideas 
+
+implements generics em type erasure em meaning runtime code knowing supposed href http modelmapper org user manual generics rel nofollow http modelmapper org user manual generics describes problem lists 

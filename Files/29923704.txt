@@ -1,0 +1,4 @@
+javafx combobox drop menu cut screen 
+application developing recently issue javafx combobox dropping fashion makes screen issue application small window space window drop window bottom screen partly cut images img src http stack imgur j4bee png alt dropdown cut believed issue due custom cell renderer image shown text official javafx modena demo experiences issues combobox display img src http stack imgur zxkf7 png alt combo box display cut investigation tested application public computer appears combobox exhibits correct behaviour lower version check version screenshot combobox menu appeared main box solving issue fixing behaviour 
+
+issue injected 8u40 release href https javafx jira kenai browse rt rel nofollow reported fixed 8u60 release find relevant discussion comments section question href http stackoverflow questions javafx combobox dropdown edges screen javafx combobox dropdown edges screen 

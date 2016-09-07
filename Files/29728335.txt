@@ -1,0 +1,4 @@
+guice multibindings manually obtain set injector 
+guice multibindings extension inject set type single instance type obtain set manually injector injector getinstance attempt leads configurationexception message blockquote util set lt key fully blockquote 
+
+snippet create similar conveniences href https github tavianator sangria blob master sangria core src main tavianator sangria core typeliterals rel nofollow https github tavianator sangria blob master sangria core src main tavianator sangria core typeliterals 

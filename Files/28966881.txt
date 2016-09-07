@@ -1,0 +1,4 @@
+realm share database apps 
+application comprised apk apps share database apps assuming reason visible apps passing contexts 
+
+christian realm feasible pointed approaches expose contentprovider require map realmresults cursor trivial effort planning exposing realmcursor line things priority havnt looked details put realm database shared location apps read sounds easy approach realm doesnt support multiple processes required multiple apps realm file open time implement locking scheme apps decide open file answer sorta require lot hacks recommended positive side aware multiprocess support actively worked atm 

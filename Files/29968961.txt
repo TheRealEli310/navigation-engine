@@ -1,0 +1,4 @@
+camel routebuilder timeout 
+camel routebuilder route defined add timeout route reply myuri takes longer seconds throws exception sort moment response application appears hang request waiting 
+
+ways ol li explained soilworker href http localhost myservice httpclient sotimeout rel nofollow http localhost myservice httpclient sotimeout unit test href http svn apache org viewvc camel trunk components camel jetty src test org apache camel component jetty httpproducersotimeouttest view markup amp pathrev rel nofollow li li work simple scenario li ol basically routes starts running context automatically shutdown 10s ideal option method work 

@@ -1,0 +1,4 @@
+runtime type mismatch 
+reading ocaml wiki understand special ocaml fp runtime type mismatch return error compile time edit haskell isn case guarantee argument type called 
+
+wiki discussing static type systems general contrasting dynamically typed languages statically typed languages specific ocaml haskell runtime type mismatches doesnt apply statically typed languages em impossible em disingenuous pretty statically typed languages give ability runtime typing limited tasks extremely difficult fact paragraph youre quoting lists couple cases serialization answers provided good examples vast majority code easily avoid runtime type mismatches 

@@ -1,0 +1,4 @@
+display table data mysql jsp page 
+added external jar project code results normal file wrong 
+
+place mysql jar inside lib folder local external jar 

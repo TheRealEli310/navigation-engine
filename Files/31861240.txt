@@ -1,0 +1,4 @@
+activemq broker factory find factory class failover 
+error create activemq broker brokerfactory pathing error similar figure root code causing url calling pathing error including required jar url formatted properly lost edit added bounty 
+
+isnt classpath jar issue active mq documentation brokerfactory supports uris xbean broker properties support failover uri documents give information setting configuring broker factory href http activemq apache org broker configuration uri html rel nofollow http activemq apache org broker configuration uri html href http activemq apache org embed broker inside connection html rel nofollow http activemq apache org embed broker inside connection html 

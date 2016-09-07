@@ -1,0 +1,4 @@
+plugin org springframework boot spring boot maven plugin build snapshot dependencies resolved 
+error plugin org springframework boot spring boot maven plugin build snapshot dependencies resolved find artifact org springframework boot spring boot maven plugin jar build snapshot pom xml file div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override debug logs div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 
+
+add version part works 

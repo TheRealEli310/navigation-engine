@@ -1,0 +1,4 @@
+scale font size based screen density 
+android scale images based screen densities instance mdpi baseline ul li hdpi mdpi li li xhdpi mdpi li li xxhdpi mdpi li li xxxhdpi mdpi li ul similar values font size 
+
+perform conversion href http developer android reference android util displaymetrics html scaleddensity rel nofollow documentation member href http developer android reference android util displaymetrics html rel nofollow displaymetrics class documentation blockquote scaling factor fonts displayed display density adjusted smaller increments runtime based user preference font size blockquote 

@@ -1,0 +1,4 @@
+reversing generic array situ 
+generic array added method reverse reverse array additional array elements perform reverse situ swap operations wrong reversed situ swap operations 
+
+manually code shouldnt compile btw reverse parameter traverse array beginning middle swapping elements opposite sides range info href https en wikipedia org wiki place algorithm rel nofollow em situ em algorithms wikipedia implementation ensures space 

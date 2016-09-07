@@ -1,0 +1,4 @@
+protobuf serialization binary 
+program serializes data protobuf writing binary data byte array saving txt file receiving data side stringstream parse binary data protobuf parsing method parsefromstring doesnt work fields test message set wrote test show code serialization parsing returns decoded t2 empty shouldnt parse binary data 
+
+problem operator reads em text em string delimited whitespace encoded protobuf text returning false couldnt parse data incomplete read file easiest case make check returns true option check file size create array size lot work thing file extension protobuf file text confusingly put binary text data byte container em em put binary data deal binary data returns textual representation message meant debugging purposes em em transmit 

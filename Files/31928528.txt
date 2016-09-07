@@ -1,0 +1,4 @@
+error prone enum refactoring 
+refactoring code constants reviewing code noticed comparing wont throw exception delete constants projects override equals jls specifically forbids blockquote equals method enum final method invokes super equals argument returns result performing identity comparison blockquote code regular object override equals throw exception return false method getgender returning string return enum places missed string compared enum error prone findbugs reporting bug protect 
+
+noted comments typesafe prevent users api passing object wrong type situation simply return eventually theyll notice returning false bug deprecate constants draw attention preferred things 

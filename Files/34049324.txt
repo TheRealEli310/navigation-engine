@@ -1,0 +1,4 @@
+filling 2d array 
+struggling immensely written code errors moment fill 5x5 matrix letter heres post errors greatly appreciated 
+
+arrays em based em means start index range index code starts means youre skipping initialization row column problems coming youre 5x5 array rows columns 4x4 array rows columns fact method doesnt make assignments array initialize issues original code entries comments individual explanations 

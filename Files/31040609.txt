@@ -1,0 +1,4 @@
+checking null attribute thymeleaf template 
+thymeleaf check null attribute template form submits fine editing existing user id defined form add user controller thought check null id plug unique make set user objects id id good shape strong edit strong including user edit form method returns form pre populated users model attributes strong edit strong including form id hidden user 
+
+discussion assuming method call populate user object form fails submission reason method doesnt work potentially passing empty user object begin remediate implement checks ensure object null prior calling page solution ensure passing user object model 

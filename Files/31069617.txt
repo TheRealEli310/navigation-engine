@@ -1,0 +1,4 @@
+spring mvc realise custom response multiple controllers based variable 
+couple controllers annotated requestmapping side requests responses de serialized jackson requests handled exists connection server connection breaks receive notification retry establishing connection return status code cleanest advance edit wasnt clear lose jmx connection server controllers work return error codes range receive notification connection lost controllers return achieve set flag statement controller controller code redundant unmaintainable hope solution 
+
+solution problem adding filter key put response back filter chain error supposed returned simply added filter web xml 

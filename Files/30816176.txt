@@ -1,0 +1,4 @@
+prevent gson serializing json string 
+gson newby question found answer bear stackoverflow google friend class user properties externalprofile string serialized json gson serializes user object treat externalprofile primitive escaping json adding extra slashes gson leave string valid usable json distinguish json string created simple class called jsonstring reader writers registertypeadapter works en externalprofile hold string store jsonstring user object convert user object json json hold externalprofile jsonstring serialized gson string primitive adding extra slashes front doublequotes gson leave jsonstring usable json type adapter reader writer work 
+
+stated alexis store externalprofile jsonobject gson serialize outputting user object produce json 

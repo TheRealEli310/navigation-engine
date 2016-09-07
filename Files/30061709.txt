@@ -1,0 +1,4 @@
+quicksort wikipedia implementation working 
+implement quicksort algorithm wikipedia href https en wikipedia org wiki quicksort rel nofollow https en wikipedia org wiki quicksort missing heres code wrong returns staring greatly figure wrong 
+
+problems ol li choose pivot partition element array li li swap loop putting pivot element place traversing partition lines li ol img src http stack imgur gxrei png alt enter image description fixed partition method 

@@ -1,0 +1,4 @@
+springboot skip datasource configuration running tests 
+simple springboot application runs perfectly issue made tests running computer jenkins reason datasources protected firewall mvn clean install computer works ip trusted jenkins tests dont datasources mocked application context loaded fails database connection timeout firewall skip database part tests executed profiles success advance responses main classes application strong myapp strong strong firstdatasourceconfig strong class datasource strong abstracttest strong strong abstractcontrollertest strong 
+
+test found solution issue created application test class changed class springapplicationconfiguration myapptests add dependency pom xml add en embedded database 

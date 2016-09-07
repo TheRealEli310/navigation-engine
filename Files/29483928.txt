@@ -1,0 +1,4 @@
+jsmpp enquirelinktimer session dies long time inactivity 
+property class jsmpp library rebings session milliseconds automatically rebing session time interval face problem long time therere messages send session dies messages dont send 
+
+connection smsc alive sending alive messages rebring reconnect broken connection smsc decides close connection didnt send sms reconnect manually discarding session creating reconnect immediately set state change listener session 

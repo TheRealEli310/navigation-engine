@@ -1,0 +1,4 @@
+maven ear plugin resolving dependencies 
+create ear file maven plugin failing ear project pom staring hours figure eclipse projects including parent directory parent pom xml ear pom xml module pom xmls begin error playing dependencies found error remove dependencies section ear pom xml module listed ear throws error silly mistake spot appreciated 
+
+error configuration strong edit strong hr tips related problem ul li href http maven apache org pom html maven coordinates rel nofollow default packaging declare li li href http maven apache org pom html dependencies rel nofollow default scope declare li ul tips strong directly strong related problem ul li modules mandatory declare modules remove modules running li li avoid errors youre maven modules modules projects dependency project li ul 

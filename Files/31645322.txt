@@ -1,0 +1,4 @@
+function printf 
+create custom function work printf return age return items 
+
+create function function string line object args 

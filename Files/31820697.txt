@@ -1,0 +1,4 @@
+reset jspinner min 
+reset jspinner min model illegalargumentexception 
+
+happen model doesnt minimum minimum 

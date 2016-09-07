@@ -1,0 +1,4 @@
+multithreading split calculation number threads 
+simple method calculates pow number array returns numbers array question split calculation number threads speed execution method totally noob plz 
+
+high level ol li create callable class implementation pow method li li create executor based max processors figured li li create callables submit executor li li futures returned collate results li ol links started href https blogs oracle corejavatechtips entry netbeans rel nofollow https blogs oracle corejavatechtips entry netbeans href http www journaldev callable future rel nofollow http www journaldev callable future 

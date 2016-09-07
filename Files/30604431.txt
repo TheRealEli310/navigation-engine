@@ -1,0 +1,4 @@
+instance class access private fields instance type 
+instance class access private fields instance type listing argument semantics designing language 
+
+private fields private fields primarily encapsulation user class shouldnt internals class implementation fact em shouldnt em relied specifics implementer forced support break backwards compatibility words protects user designer class ul li user protected implementation breaking code li li designer protected implementation details features unchanged forever li ul class doesnt protected doesnt worry case bit code bit bit change backwards compatibility concern class developed single atomic chunk code words protections needed protect fields instance compare objects equal theyre visible class 

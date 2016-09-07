@@ -1,0 +1,4 @@
+return intermediate results thread 
+strong strong build watcher watches data store collection type return items points case time stamps timestamp passes current time returned starting thread code read future callables stop thread return return stop thread start task callable techniques wide range 
+
+put intermediate results em blocking queue em results consumer threads made consumer threads simply call method intermediate results advantage em blocking queue em dont reinvent wheel typical producer consumer scenario solved blocking data structure strong strong em pojo em represents intermediate result object 

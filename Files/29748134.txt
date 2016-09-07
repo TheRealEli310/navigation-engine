@@ -1,0 +1,4 @@
+assigning policy s3bucket order cloudfront distribution 
+script shows create cloudfront origin access identity bucket hold webapp assign bucket policy order access bucket cloudfront distribution scenario surprising annoying fact strong code works debug line line eclipse strong launch line line setting breakpoint policy assignment exception appears hope 
+
+found problem create cloudfront origin access identity oai assign bucket policy inmediately error appears oai change propagated inmediately valid workaround implement retry condition policy 

@@ -1,0 +1,4 @@
+libgdx crop texture circle 
+achieved goal android development shown link href http stackoverflow questions cropping circular area bitmap android cropping circular area bitmap android strong strong achieve libgdx framework succeeded achieve 
+
+dont easier made method working masks combining mask original pixmap resulting pixmap thing looked mask pixmap alpha channel samples alpha mask combines alpha original pixamp writes result pixmap case draw filled circle mask pixmap color long alpha 1f result pixmap original pixmap cropped circle strong strong invertmaskalpha boolean flip masks alpha channel set boolean true original pixmap circle cut leaving edges circle 

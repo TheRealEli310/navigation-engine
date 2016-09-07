@@ -1,0 +1,4 @@
+spring rest practice method types 
+building spring restfull service method retrieves place object based zipcode practice return type place imagine difficult error handling 
+
+latest versions spring restfull web service returning object good practise simplify code specific returning strongly typing api response good practise error handling controller advice utility supplied spring read href https spring io blog exception handling spring mvc rel nofollow https spring io blog exception handling spring mvc throw exceptions service layers produce nice helpful error response 

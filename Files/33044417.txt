@@ -1,0 +1,4 @@
+compute rotation matrix based direction vector 
+3d world implementation direction vectors unit vector decide orientation 3d objects 3d object direction vector default orientation v3 origin v3 apply directional rotation matrix em matrix rotate 3d objects direction vector axis work fine em calculate current directional rotation matrix strong problem strong create correct directional rotation matrix rotates 3d objects direction respective direction vectors wrong idea rotate cube direction rotate cube axis direction position transformation guys 
+
+sounds move 3d object direction forward facing vector position object vectors forward rotate vectors pitch yaw roll based vector math link forward movement add position object speed multiplied forward vector position speed forward complete code posted figure implemented version href http cs lmu ray notes flightsimulator rel nofollow http cs lmu ray notes flightsimulator 

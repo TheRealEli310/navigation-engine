@@ -1,0 +1,4 @@
+automatically screenshot page selenium webdriver 
+listener screenshot page loads taking screenshot problem happen automatically dont manually enter screenshto method time clicked listener detect page loads previously element clicked page load 
+
+achieve easily href http selenium googlecode git docs api org openqa selenium support events eventfiringwebdriver html rel nofollow eventfiringwebdriver eventfiringwebdriver wrapper arbitrary webdriver instance supports registering webdrivereventlistener logging purposes create webdriverlistener class implementing href https selenium googlecode git docs api org openqa selenium support events webdrivereventlistener html rel nofollow webdrivereventlistener interface methods methods automatically called respective actions called automatically finding element similarly override methods checking title afternavigateto screenshot title page hope helps kindly back 

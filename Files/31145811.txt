@@ -1,0 +1,4 @@
+android response string callback okhttp 
+code code store response body string onresponse method variable responsestring access 
+
+activity implement callback create okhttp request pass instance ourself oktthp call back class class easily reduces classes make button click illustrate http call made time instance happen screen created oncreate careful screen rotations assumes callback main thread positive okttp return results response main thread call runonuithread pass runnable work updating views 

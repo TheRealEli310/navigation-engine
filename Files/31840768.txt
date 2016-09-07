@@ -1,0 +1,4 @@
+insert comma separated hibernate mysql 
+store integer type list comma separated format hibernate city table cityid cityname table employee details employee tagged multiple city created table employee city mapping store cities comma separated format kind actions hibernate mysql database backend 
+
+represent strong relationship strong conventional sql represent relationship multiple rows join table case join table strong employee city strong table modified design multiple rows city multi valued columns jpa hibernate supports direct support mapping relationships strong collection strong fields strong employee strong class strong cities strong field type strong list lt city gt strong annotated strong onetomany strong guide href https en wikibooks org wiki persistence onetomany rel nofollow https en wikibooks org wiki persistence onetomany 

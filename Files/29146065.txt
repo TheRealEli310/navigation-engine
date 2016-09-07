@@ -1,0 +1,4 @@
+create virtual machine starting mule enterprise inmule bat 
+downloaded mmc distribution mule console bundle starting mule bat location giving error provide 
+
+error means jvm couldnt reserve memory run set heap size smaller clear memory computer run edit batch script line run paste script lines run add set heap size 64mb change works 

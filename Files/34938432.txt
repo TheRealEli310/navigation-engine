@@ -1,0 +1,4 @@
+logging processed logger 
+web application log default logging provided logging properties file unable influence logs server startup shutdown examples logs normal wrong logging application methods problem logs hit double logging logs processed line printed run logger resulting timestamps log levels sources changing line log4j properties file feel poor solution results source shown make logs show correct method line number formatted choose server time dont lose logging provided server maven dependencies 
+
+problem application fixed adding jboss deployment structure xml web inf web application 

@@ -1,0 +1,4 @@
+write configuration xml configuration 
+middle converting appconfig xml tp javaconfigurations annotationconfigs converting beans javaconfig stuck couple beans listed bean list element takes values properties file xml configuration convert config taking values dbuser properties convert factory configuration javaconfigs configuration spring advance noushad ali 
+
+propertyplaceholderconfigurer ol start li ooziejobfactory class config li li entitymanager class config li ol 

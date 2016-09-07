@@ -1,0 +1,4 @@
+find jlabel clicked show imageicon 
+code clicked frame display imageicon getsource working 
+
+add mouselistener directly jlabels display pressed labels icon easily joptionpane 

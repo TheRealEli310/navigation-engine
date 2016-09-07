@@ -1,0 +1,4 @@
+set hibernate hbm2ddl auto deployment wildfly persistence xml 
+deployment schema generation webapp jpa server wildfly hibernate jpa provider achieve adding persistence xml set property strong webapp strong strong deployment strong wildfly hibernate properties effect 
+
+em webapp specific em deployment property box set webapp specific system property reference persistence xml system property set drawback set system property em em environment default option create integrator sets settings config read em settings em object beginning em settings setautocreateschema em em hibernate hbm2ddl auto em specific properties package protected set reflection write full qualified class integrator option determine hbm2ddl setting dynamically 

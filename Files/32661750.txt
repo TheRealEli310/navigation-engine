@@ -1,0 +1,4 @@
+mybatis session reused commit 
+question simple session reused transaction committed close session commit open session 
+
+starting mybatis similar question session management heres learned ol li sessions open long accomplish transactions closed li li mybatis session level local caching beneficial applications performance naturally depends applications design generally longer session active cache mybatis handles cache flushing commits rollbacks li ol simple fine session open transactions mybatis sessions effectively dao layer means finding balance guidelines time official documentation session management caching href https mybatis github io mybatis api html sqlsessions rel nofollow https mybatis github io mybatis api html sqlsessions 

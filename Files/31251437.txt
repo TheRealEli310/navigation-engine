@@ -1,0 +1,4 @@
+tomcat character encoding working differently server local development 
+issue character encoding working differently development environment netbeans local tomcat installation versus server tomcat server side servlet client server side code works locally machine actual server character set breaks code work versions tomcat versions character set tomcat connector uriencoding jvm argument make difference code executes checked default character set windows utf inputstreamreader constructor idea works server request getcharacterencoding returns utf ideas advance 
+
+needed start jvm dfile encoding utf trick actual string object encoded windows default read stream encoding messed string printed fine console checked unicode point wrong characters 

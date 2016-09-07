@@ -1,0 +1,4 @@
+javafx dynamic node scaling 
+implement scene user drag node scale dynamically dragging scaling mouse wheel working reset zoom trouble calculations fit node width parent code href http sscce org rel nofollow sscce ol li works mouse wheel zoom mouse pointer li li works left mouse press drag rectangle li li works left double click reset zoom li li doesnt work double click fit width li ol zoom change window size fit width work calculations fit node width parent strong em edited em strong ul li marked method working correctly invoked mouse button double clicking li li edited text question clarity focus li ul clear 
+
+found answer wrong calculations assuming related translations real culprit calculation difference scale simply changed 

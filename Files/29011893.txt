@@ -1,0 +1,3 @@
+annotate array nonnull 
+iam strong org eclipse jdt annotation nonnull strong add extra informations static null analysis didnt annotate arrays correctly ol li array reference null li li array consists null elements li ol tested eclipse doesnt mark wrong 
+

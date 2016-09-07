@@ -1,0 +1,4 @@
+string matrix 
+input string size number integer root create dimensional matrix store dimensional array store dimensional array dont upload dimensional array elements string correct lets assume characters order guess loop 
+
+good approach calculating square root string length find matrix sizes split string rows columns matrix swap matrix switch rows columns hope helps 

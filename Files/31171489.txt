@@ -1,0 +1,4 @@
+collect operation stream close stream underlying resources 
+code wrapped resources make underlying file closed 
+
+javadoc overloaded href https docs oracle javase docs api nio file files html lines nio file path nio charset charset method states blockquote returned stream encapsulates timely disposal file system resources required construct ensure streams close method invoked stream operations completed blockquote wrap returned statement href https docs oracle javase docs api util stream basestream html close close appropriately 

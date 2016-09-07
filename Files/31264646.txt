@@ -1,0 +1,4 @@
+cassandra spring mvc pass 
+work fine pass string write query file separately 
+
+select method build href http docs spring io spring data cassandra docs current api org springframework data cassandra core cassandraoperations html rel nofollow spring data cassandra documentation experience spring data cassandra work directly datastax driver work strong select strong dynamic pulled object strong update strong cqloperations examples found href http docs datastax en developer driver driver reference querybuilder html rel nofollow 

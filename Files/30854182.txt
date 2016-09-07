@@ -1,0 +1,4 @@
+servlet jsp button click whats error 
+simple form jsp page clicking button servlet loginvalidation doesnt work heres func xml mapping loginvalidation package controller basically login func runs true ideally loginvalidation servlet function running thing running project mine earlier wrong 
+
+code separate jsp picking sections pasting removing extra divs make work 

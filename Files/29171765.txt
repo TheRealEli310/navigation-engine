@@ -1,0 +1,4 @@
+javafx lang reflect invocationtargetexception scene builder 
+make program log register person exception invocationtargetexception code startschermcontroller controller fxml file code fxml file generated javafx scene builder code domeincontroller code set language set choice language resourcebundels advance hope bad english 
+
+controller declaring fxml declaring coerce conversion types doesnt set leaving null make types match files corrects issue 

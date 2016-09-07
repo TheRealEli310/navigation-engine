@@ -1,0 +1,4 @@
+intellij completion contributor 
+developing plugin intellij add custom suggestions xml editor based xsd required suggestions xsd file implemented completion contributor xml provide suggestion implement custom language works objective view context cursor position provide suggestion based user starts tag xml file plugin provide attributes code completion custom language completion contributor 
+
+finally found solve problem code case obtain cursor position tokens related curser position completion parameters inject suggestions cpmpletion resultset implemented scala language register completion contributor plugin xml 

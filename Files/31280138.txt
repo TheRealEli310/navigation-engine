@@ -1,0 +1,4 @@
+mix tcp connection factory tcp inbound gateway router 
+send distinct messages distinct serialize deserialize tcp server host port differentiate tcp inbound gateway header payload router add router select correct tcp inbound gateway depends field header payload named typedata order enter request message router tcp inbound gateway tcp connection factory serialize deserialize problems serialization deserialization chose tcp inbound gateway correct advance hr strong edit strong server operationsimpl resultone amp resulttwo implements resultbase serialize customserializerdeserializer client customgateway 
+
+server connection factories listening port tcp doesnt network stack wouldnt server socket route request problem client side single socket server understand deserialize data types easier combine serializers deserializers sides add header message deserializer type payload decode 

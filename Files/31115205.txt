@@ -1,0 +1,4 @@
+add headers websocket client 
+connecting websocket server classes initial http handshake add extra http headers request strong em client side em strong server side similar solution client side 
+
+usable javadoc argument blockquote mutable map handshake request headers implementation send start handshake interaction blockquote dont override method pass 

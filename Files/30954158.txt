@@ -1,0 +1,4 @@
+deploy spring mvc project openshift 
+wanted deploy simple spring mvc app open shift googled found href https blog openshift spring mvc jboss rel nofollow spring mvc jboss project structure basic spring mvc project structure br img src http stack imgur djfov png alt enter image description br br href https github arshadalisoomro blog rel nofollow repo openshift created application configured br br em home jsp em file file goto app url default traditional page br suggestion configure project work correctly 
+
+major problem pom xml makes app working openshift add lines pom xml havent tested code change server worked correctly 

@@ -1,0 +1,4 @@
+spring boot maven failing run package application 
+package application maven spring boot error command line called main part pom xml run tomcat8 eclipse error cheers 
+
+problem reported maven fixed changing unnecessary param removed springapplicationbuilder constructor conflicting logging directories check href http stackoverflow answer maven gradle exclude offending libraries differ work 

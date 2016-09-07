@@ -1,0 +1,4 @@
+wildfly make resourceadapter global 
+resource adapter installed wildfly9 running classcast exceptions nocalssdeffounderrors make resource adpater global putting susbsystem ee modulenotfoundexception put deployment part rar thing wrong ideas full stack trace 
+
+youre add deployment global modules resource adapter define subsystem href https docs jboss org author display wfly9 resource adapters rel nofollow documentation shows raw xml generally dont advocate updating manually generally youd web console cli update configuration 

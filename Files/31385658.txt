@@ -1,0 +1,4 @@
+jpa make composite foreign key part composite primary key 
+tables map jpa entities event table relationship meeting table map bi directional relationship jpa 
+
+discussed jpa spec section 

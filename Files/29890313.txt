@@ -1,0 +1,4 @@
+findbugs handling null check encoding reading input stream 
+added findbugs plugin project suddenly started bug code reads http request line line rewriting nullcheck stuck forever rewritten correctly basic question thing marked bug encoding inputstreamreader 
+
+fixed loop remote side client closes connection return outer check guards wont return client stops sending data long client connection open fixed loop hangs comparing string literals put fails readable youre comparing variable check informative 

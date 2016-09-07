@@ -1,0 +1,4 @@
+classnotfoundexception jar class properly present classpath 
+configuring project eclipse project modules including named eas core buildpath eas core module added jar file common jcr jar class named codes runtime shown 
+
+project click project choose left pane check dependencies exists entries jars restart server 

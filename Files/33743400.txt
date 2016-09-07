@@ -1,0 +1,4 @@
+make app run receive sms 
+making app launched phone receives sms specific content password lot code doesnt work code smsreceiver androidmanifest xml ooh simulate sms dont text check wether working 
+
+compilesdkversion targetsdkversion buildtoolsversion greater api level action sms received broadcast receiver permission denied br lower configuration works compilesdkversion br buildtoolsversion br targetsdkversion 

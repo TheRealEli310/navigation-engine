@@ -1,0 +1,4 @@
+springmvc controller layer scope prototype scope singleton 
+controller code springmvc request output meaning request instance created default request output meaning instance created 
+
+lets del code pig del controller controller stateful state shared requests controller thread anymore called concurrently handle concurrent requests race condition avoid problem making controller prototype request handled separate controller thing make code stateless case creating controller request useless controller stateless thread scope default singleton 

@@ -1,0 +1,4 @@
+making local variable final static method called times memory leak 
+lets memory leak occur scenario understanding final local variable means local variable reassigned declaring final put heap memory instance variable unique nested class final local variable final local variable 
+
+wasnt memory leak wont em em thing local variable prevent assigning variable earlier effect memory leaks 

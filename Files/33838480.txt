@@ -1,0 +1,4 @@
+constructor classroll string assignment identify display roll 
+basically assignment requires write program maintain class roll program classes student exams classroll assignment4 main developed classes classroll constructor performing correctly run program prompted file option enter file null options modify display list enter command work error output classes 
+
+classroll constructor pseudo constructor constructors return type rid bit side recommendations ul li mixing user interface model logical classes classroll shouldnt id user interface code including scanner file separate classroll code create collection classes add remove collection classes query collection li li care learn follow code formatting rules youve deviations standard including class declaration lines indented method body variable declaration lines bunching end braces makes code hard coders read understand li ul 

@@ -1,0 +1,4 @@
+account servlet path mapping rendering paths swagger service description 
+problem configuring swagger link servlet web xml swagger shows url rest swagger ui testing url pattern swagger ui dont work configuration class 
+
+appears youre pre version springfox solution tricky tested guarantees working worth shot pre class lang prettyprint override easier move href https github springfox springfox blob master docs transitioning v2 md rel nofollow document describes migrate pre class lang prettyprint override mind planned updates good idea move library 

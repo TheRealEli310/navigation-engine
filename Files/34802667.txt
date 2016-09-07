@@ -1,0 +1,4 @@
+unit test class loads native library 
+running unit tests android studio class loads native library code test class inside directory make find path native libraries located order unit test errors inside directory subdirectores armeabi mips x86 proper file strong experimental version strong building ndk libs dont wanna 3rd party testing libraries pure classes unit tested fine open alternatives test code throws error 
+
+solution found works hacks junit instrumentation testing androidtest directory class tested fine android device emulator 

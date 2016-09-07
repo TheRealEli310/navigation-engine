@@ -1,0 +1,4 @@
+send text html email 
+set content text html reason error code changed code advance 
+
+syntax error correct 

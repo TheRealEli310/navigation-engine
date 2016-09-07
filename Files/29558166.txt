@@ -1,0 +1,4 @@
+cross context request forwarding tomcat results lang classcastexception org glassfish jersey message internal tracinglogger 
+forward request webapp jersey requestdispatcher forward request response webapps reside tomcat webapps context xml set shows output set execute exception forwarding compatible jersey current version jersey jersey thing actual forwarding work strong update strong interestingly error thrown matter request method post app setup forwarding works assume jersey problem se depending setup figure 
+
+changed jersey versions forwarding finally requested webapp consistent trick pretty simple bad didnt recognise problems jersey versions 

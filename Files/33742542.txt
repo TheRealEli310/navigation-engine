@@ -1,0 +1,4 @@
+hibernate jpa optional bidirectional mapping 
+tables describe information object coming systems object exist ideally id jpa entities references exist repository lookup object service extra information service needing lookups hand examples web thought work application starts serviceadata object results changing serviceadatas annotations servicebdatas mappedby attribute onetoone adding joincolumn results essentially problem case convert text string common identifier column uuid missing simple wrong bi directional mapping googling heh clear dont object simply object supplemented present 
+
+jpa hibernate works mapped object members annotations entities implement serializable part 

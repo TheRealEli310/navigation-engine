@@ -1,0 +1,4 @@
+cancel rest api request 
+rest api based system requests long time complete give user option cancel request 
+
+support return reference status request add support clients cancel request hasnt finished request create kind resource return status object pointer requests response clients poll request complete 

@@ -1,0 +1,4 @@
+bukkit spigot player configuration files 
+working bukkit spigot plugin separate configuration files research tests peoples answers found solution work href http stackoverflow questions minecraft player config minecraft player config adapted didnt work heres instantiate end errors set end errors results give hand appreciated 
+
+lets start beginning load configuration strong strong extension bukkit main folder plugin folder create configuration leave null created file datafolder additional folder variable didnt created folder inside datafolder suggest missing results caused saving configuration disk 

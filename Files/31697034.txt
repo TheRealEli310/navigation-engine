@@ -1,0 +1,4 @@
+parallelized collection spark context method arguments incorrect 
+creating rdd parallelized collections apache spark call parallelize method spark context method takes multiple arguments method documented taking single list parameter unable understand additional parameters spark documentation doesnt provide clear understanding message pass single parameter code 
+
+javasparkcontext scala youd parallelize list href http spark apache org docs api core spark api javasparkcontext html rel nofollow http spark apache org docs api core spark api javasparkcontext html 

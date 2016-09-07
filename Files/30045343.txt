@@ -1,0 +1,4 @@
+listview showing layout android studios 
+udacity isnt list showing fragment android learning hope studying driving insane days errors havent found faith community community taught mistakes javascript css 
+
+inside getview method view inflates layout view declare listview return view end getview method 

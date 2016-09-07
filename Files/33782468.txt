@@ -1,0 +1,4 @@
+connect multiple client server android 
+create strong chatroom strong device connect server tcp protocol hotspot server clients talk code app start connected server existed dont find server run server socket wait client strong strong strong client strong connect server send receive message multi thread handle 
+
+code total mess commonly make class clientclass implements runnable managing clients socket socket hope helps 

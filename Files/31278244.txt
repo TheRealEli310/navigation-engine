@@ -1,0 +1,4 @@
+hasnextint returning false 
+time scanning file read list integers text file operate read file initial file loop reading hasnextint running program checking initial text file values output text file assume hasnextint returning false simply skipped scan operated directly arraylist element loop output written file perfectly heres code 
+
+close inwriter prior reading numbers file inwriter wont output text file closed reader isnt technically 

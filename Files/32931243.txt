@@ -1,0 +1,4 @@
+catch finally bad 
+block code execute exception bad wanted bad practice matter 
+
+short answer depends block catches finally finally required opening resources block files streams network close exception thrown 

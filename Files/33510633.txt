@@ -1,0 +1,4 @@
+document min max specific field spring data elasticsearch 
+spring data elasticsearch distinct documents min max fields document max based examples found bit tinkering achieve min max values document max strong update strong figure full code case future 
+
+youre path document maximum add href https www elastic guide en elasticsearch reference current search aggregations metrics top hits aggregation html rel nofollow aggregation inside aggregation takes single document sorted decreasing order 

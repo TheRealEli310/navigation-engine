@@ -1,0 +1,4 @@
+android change imageview programmatically 
+making android app imageview displayed time user enters imageview changed time user enters wrote code problem image displayed face black screen takes page app doesnt crash shows black screen imageview code xml file changed imageview file 
+
+found solution finally black screen appeared images drawable file needed add images drawbridge folders drawable ldp drawable ldpi app work phone sizes 

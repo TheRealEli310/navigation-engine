@@ -1,0 +1,4 @@
+reference unit test classes maven dependency project 
+reference junit tests src test project test package src test project maven dependecy projects controll advice 
+
+pom project include plugin access project changing type test jar access test classes dependency 

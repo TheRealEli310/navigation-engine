@@ -1,0 +1,4 @@
+access sql server r2 database netbeans 
+completely make connection remote sql server r2 database load data suggest alternative ways 
+
+jdbc driver ms sql jars jtds jar sqljdbc4 jar added classpath create connection br 

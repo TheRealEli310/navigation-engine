@@ -1,0 +1,4 @@
+narrow casting int smaller types 
+operand assignment mathematical operations expression performed promote doesnt flags putting smaller primitive type assignment works integer putting byte casting 
+
+works hand side href http docs oracle javase specs jls se8 html jls html jls rel nofollow assignment context constant expression blockquote narrowing primitive conversion type variable constant expression representable type variable blockquote blockquote literals primitive type blockquote href http docs oracle javase specs jls se8 html jls html jls rel nofollow constant expression href http docs oracle javase specs jls se8 html jls html jls rel nofollow range byte blockquote inclusive blockquote 

@@ -1,0 +1,4 @@
+javafx alert dialog cancel button 
+made javafx alert dialog box prompt user save output console closing application options care user clicks cancel close dialog box leave open hit cancel close gui code overriding close button gui 
+
+href http docs oracle javase javafx api javafx stage window html oncloserequestproperty rel nofollow documentation oncloserequest blockquote called external request close window installed event handler prevent window closing consuming received event blockquote aware throw exception user closes alert dialog pressing buttons href http docs oracle javase javafx api javafx scene control dialog html rel nofollow dialog documentation explains 

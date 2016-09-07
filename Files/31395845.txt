@@ -1,0 +1,4 @@
+javafx fxml textfield variables null 
+practicing small chat box window make user enter textfield box username problems time nullpointerexception time variables textfield initialize blank string type username app fxmlapp fxml deleted needed login button calls file fxmlappcontroller 
+
+annotate fields defined fxml file 

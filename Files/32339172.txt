@@ -1,0 +1,4 @@
+add external resources folder spring boot 
+id add resource folder relative location jar addition packaged resources jar accessing setup leads whitelabel error page resolve 
+
+approach work em em launched spring boot relative path nice pack jar reference external resources href http docs spring io spring docs current spring framework reference html resources html resources filesystemresource caveats rel nofollow absolute paths avoid problems 

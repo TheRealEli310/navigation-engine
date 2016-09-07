@@ -1,0 +1,4 @@
+set onclicklistener multiple imageview 
+making kind puzzle game lot blocks made imageview case setonclicklistener imageview1 writing block setonclicklistener imageview write setonclicklistener imageview heres sample code mainactivity suggestions improvements codes greatly welcomed advance 
+
+implement custom onclicklistener activity 

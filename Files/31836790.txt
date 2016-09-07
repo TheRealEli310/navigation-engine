@@ -1,0 +1,4 @@
+spark map method throws serialization exception 
+issue serialization inside function heres element code heres error log declare static method runs 
+
+exception pretty explanatory simply make work works static takes function case entire object 

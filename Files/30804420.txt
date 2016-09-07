@@ -1,0 +1,4 @@
+spring mvc point host 
+setting spring mvc project knowledge hitting bit bump file web service set work pretty nicely localhost zfgc hitting file id localhost hit call web services similar manner zfgc havent find tutorial explains properly enlighten web xml pom xml zfgc servlet xml img src http stack imgur yfq7c png alt directory structure 
+
+youre running application inside eclipse tomcat step configuration follow steps stop tomcat youll find folder servers project list displayed eclipse expand strong servers tomcat v8 strong youll list configuration files open strong server xml strong scoll bottom youll line simply change line save mention accurately changed start tomcat access application href http localhost rel nofollow http localhost 

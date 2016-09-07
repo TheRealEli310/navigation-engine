@@ -1,0 +1,4 @@
+make treetableview uncollapseable javafx 
+make treetableview collapsable treetable opens expanded mode strong setexpanded true strong collapsed 
+
+add listener tree items expanded property set false set back true tree item displayed expanded 

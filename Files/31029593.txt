@@ -1,0 +1,4 @@
+hibernate criteria join 
+learning hibernate spring jpa week stuck create criteria scenario lets tables strong game strong ul li id li ul strong playedgame strong ul li id li li account ref reference account table li li game id reference game li ul entity mapping query scenario find games specific player played player part specifically people belonging game sql query neatly criterias hibernate cheers 
+
+hibernates criteria api straight forward simple case require association path join em em em em wont work due href https hibernate atlassian net browse hhh rel nofollow hhh jpa query code criteria api href https hibernate atlassian net browse hhh focusedcommentid amp page atlassian jira plugin system issuetabpanels comment tabpanel comment rel nofollow deprecated 

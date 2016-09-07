@@ -1,0 +1,4 @@
+instanceid service automatically start preven 
+android application gcm tutorials class attempting fire subscription page user enters information preliminary code firing prior subscription page splash screen scenes constructor called subsequently onhandleintent splashscreen activity subscriptionactivity intent service start service registered file comment lines trigger instance created automatically app works intended instance strong splashscreen strong strong subscribeactivity strong 
+
+shouldnt starting system call em em refresh instance id tokens callback href https developers google android reference google android gms iid instanceidlistenerservice ontokenrefresh rel nofollow ontokenrefresh havent created instance id tokens youd work call work service 

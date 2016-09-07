@@ -1,0 +1,4 @@
+bin hadoop namenode format error 
+error execute command directory pid files stored default br set directory written users run hadoop daemons potential symlink attack 
+
+set home incorrectly hadoop env sh give absolute path home find current path command give version installed pick proper version set path hadoop env sh approach set home users bashrc required set hadoop env sh 

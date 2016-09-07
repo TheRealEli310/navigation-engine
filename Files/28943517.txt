@@ -1,0 +1,4 @@
+configure jenkins run selenium test case 
+running jenkins windows service approximately selenium test cases package run test case configure jenkins run test 
+
+depending jenkins build configured maven goals configured test execute href http maven apache org surefire maven surefire plugin examples single test html rel nofollow blockquote mvn dtest testcircle mytest test blockquote require surefire junit testng blockquote surefire run subset tests test class feature supported junit testng blockquote older versions surefire plugin junit control class level specific test class blockquote mvn dtest testcircle test blockquote 

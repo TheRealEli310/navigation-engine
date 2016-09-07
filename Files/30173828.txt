@@ -1,0 +1,4 @@
+javafx linechart appears blank high 
+encountered issue javafx scene chart linechart populating chart data double values 5e13 series happen disapear screenshot strong strong img src https pp vk c628829 v628829493 95tkfnmxcna jpg alt chart strong strong img src https pp vk c628829 v628829493 115d lbmzpg zdvg jpg alt chart case adding data folowing code appeared upperbound property axis sets nan numberaxis axis numberaxis chart getyaxis axis upperboundproperty addlistener changelistener lt number gt override public void changed observablevalue lt extends number gt observable number oldvalue number newvalue double isnan newvalue doublevalue system println quot upperbound nan quot 
+
+make divisor call axis billions set range provide formatter heres snip numberaxis 

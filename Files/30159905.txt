@@ -1,0 +1,4 @@
+activity implementing runnable posts looper times 
+implemented application android components mainactivity myworker publishservice myworker takes sensors data androids sensormanager broadcasts mainactivity mainactivity obtains message call publish function order push publishservice diagram img src http stack imgur cy3j6 jpg alt enter image description shown demonstration code problem application runs logcat shows times instance circle starts produces appears expectation time produce time dont idea happnes due runnable solve give proper advice advance 
+
+solved show answer meets issue reason multithreading isnt managed thread efficiently fact system guarantee multithreading run simultaneously instance put lines code onreceive thread myactivity higher priority called time myworkerservice 

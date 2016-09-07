@@ -1,0 +1,4 @@
+outputstream class writing files 
+code quoted href http examples javacodegeeks core io fileoutputstream io fileoutputstream rel nofollow http examples javacodegeeks core io fileoutputstream io fileoutputstream outputstream abstract method code outputstream object writing file files newoutputstream filepath returns outputstream type outputstream references outputstream outputstream abstract class 
+
+em declared em type doesnt implementation doesnt create instance em concrete em subclass time interfaces basically distinguish api exposed abstract class implementation choose subclass implemented 

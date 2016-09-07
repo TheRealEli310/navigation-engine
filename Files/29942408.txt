@@ -1,0 +1,4 @@
+jee7 wildfly hornetq pause queue application 
+wildfly hornetq application server jms message queue requirement pause resume queues application 
+
+jmx hornetq core management api purposes wildfly final running standalone full ha profile required maven dependencies test class demonstrating jmsqueuecontrol jmx access hornetq management jms 

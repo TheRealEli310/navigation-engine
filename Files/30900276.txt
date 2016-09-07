@@ -1,0 +1,4 @@
+create advanced search jpa user defined dynamic clause conditions 
+id create search user defines clause conditions user enters parameter search form parameter included clause parameter left blank omitted clause entire form blank query returns select entire table query successively precise parameters entered user code require parameters input returns results actual data matches predicates predicates included array null empty missing written questions search form left blank predicates excluded array wouldnt query default select query contacts class similar question didnt achieve appears logic code correct href http stackoverflow questions jpa clause jpa clause advance guidance 
+
+solved code create predicates cases explicit conditions excluding predicates array list executing select event predicates exist rewrote code explicitly parameter typedquery object resulting desired behavior predicates result select predicate included clause condition null empty hope helps 

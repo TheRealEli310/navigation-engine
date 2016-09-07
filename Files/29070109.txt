@@ -1,0 +1,4 @@
+read properties file inside jar 
+config properties file package abc properties class present abc util read property file files present inside jar doesnt work verifyfolderstructure class load properties file 
+
+obtain stream dont fileinputstream properties file stream 

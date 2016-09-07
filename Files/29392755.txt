@@ -1,0 +1,4 @@
+convert util date sql date 
+convert hours minutes seconds code giving year month day object current output desired output 
+
+href http docs oracle javase docs api sql date html rel nofollow type store date time information maps sql type doesnt store time href http docs oracle javase docs api sql date html tostring rel nofollow method blockquote formats date date escape format yyyy mm dd blockquote achieve desired output href http docs oracle javase docs api sql timestamp html rel nofollow stores date strong strong time information mapping sql type href http docs oracle javase docs api sql timestamp html tostring rel nofollow method outputs blockquote formats timestamp jdbc timestamp escape format yyyy mm dd hh mm ss fffffffff ffffffffff nanoseconds blockquote 

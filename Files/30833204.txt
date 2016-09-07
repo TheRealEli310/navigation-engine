@@ -1,0 +1,4 @@
+extracting double byte characters substring utf formatted string 
+extract emojis special characters strings processing string characters work original string formatted utf means escaped form emoji encoded ud83dude05 receive ud83d ude05 position causing positions iterating string solution problem 
+
+john kugelman solution codepoints string string method 

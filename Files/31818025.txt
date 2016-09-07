@@ -1,0 +1,4 @@
+lang noclassdeffounderror org apache http nio conn nhttpclientconnectionmanager 
+jars ul li httpasyncclient beta3 jar li li httpclient jar li li httpclient cache jar li li httpclient win jar li li httpcore jar li li httpcore nio beta2 jar li li httpmime jar li li slf4j api jar li ul method error guessing plugin missing find rest error log 
+
+include httpasyncclient beta strong strong jar httpasyncclient beta strong strong jar href http www java2s code jar downloadhttpasyncclient40beta4jar htm rel nofollow http www java2s code jar downloadhttpasyncclient40beta4jar htm 

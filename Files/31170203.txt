@@ -1,0 +1,4 @@
+calculating carry flag 
+writing x86 interpreter python script tests implementations x86 instructions real counterparts nasm test flags set correctly carry flag interesting part em max em 4294967295l bits set br answers found didnt realize carry overflow things implement carry flag correctly 
+
+absolute business unnecessary frankly confusing edge case negative weird doesnt code expects calculate carry simpler ways result unsigned operand result signedness irrelevant addition href https docs oracle javase docs api lang integer html compareunsigned int int rel nofollow integer compareunsigned identity unsigned signed calculate result cast carry flag 33th bit 

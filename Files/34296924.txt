@@ -1,0 +1,4 @@
+set depth simple web crawler 
+wrote simple recursive web crawler fetch url links web page recursively figure limit crawler depth limit crawler specific depth limit crawler top links limit depth inputs appreciated edit1 thought worklist modified code set depth set number webpages crawl depth suggestions appreciated 
+
+based recursive approach worklist urls type initially entering loop loop updating links enhance crawlurl meta data link referrer strong alternative strong upper comment mentioned generational approach bit complex basic idea lists generation variable starting increasing time empty crawled urls put queue lists switched generation variable reaches 

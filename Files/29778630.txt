@@ -1,0 +1,4 @@
+apache poi sxssf xssf 
+question workbook created constructor change constructor workbook wb passed argument make work lof answers solution depends classes streaming class gathers stream buffers hold thing wont work 
+
+youre difference implementations stream version writes data directly stream stores number rows memory default stored sxssfworkbook default window size wont row data writing output stream big benefit stream implementation memory usage export lot data sxssfworkbook output row accessible writing output stream sxssfworkbook 

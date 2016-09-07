@@ -1,0 +1,4 @@
+javafx format double property binding 
+double properties bind label displayed number commas separators shown ideally idea property solve 
+
+javafx high level binding api change format string pass locale flag format string options possibilities documented href http docs oracle javase docs api util formatter html syntax rel nofollow util formatter api doc low level binding api 

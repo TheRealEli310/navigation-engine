@@ -1,0 +1,4 @@
+liquibase inserting bit column mysql data long column 
+liquibase define table column type bit subsequent changeset insert data table inserting data active column type bit mysql complains data truncation data long column correct insert bit column 
+
+answering question figured posted insert bit column define valueboolean 

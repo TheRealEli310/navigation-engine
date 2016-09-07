@@ -1,0 +1,4 @@
+chain retrofit observables rxjava 
+execute network calls network calls return observable call data successful result call method successful result call data strong strong successful result call handle strong strong onerror events differently achieve avoiding callback hell zip strong avoid strong creating combiner class strong update strong implement akarnokds answer inside method compiler resolve methods authresponse users rx programming lambdas whats problem code cleaner strong update strong network calls arent executing 
+
+addition anthony answer flatmap overload takes func2 pairs primary flattened values addition onerrorxxx onexceptionxxx operators error manipulation chain observables 

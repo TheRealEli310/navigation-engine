@@ -1,0 +1,4 @@
+compare field lists objects 
+lets suppose object lists supermarkets local retrieved cloud find pairs objects solution mind iterating inside iteration iterating time checking element id element add object list clearer em greatly em inefficient handle situation 
+
+solution ol li construct map local supermarkets supermarketid key running list li li loop cloud list comparison local supermarket map li ol heres line solution 

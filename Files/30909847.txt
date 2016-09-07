@@ -1,0 +1,4 @@
+solve sun org apache xml internal security package exist netbean javafx application 
+build jar netbean developed small project based javafx application br project packages br project runs netbean warning error build project jar file error occurred solve problem 
+
+project href https maven apache org rel nofollow maven add maven dependency href http mvnrepository artifact sun xml security xml security impl rel nofollow maven project file 

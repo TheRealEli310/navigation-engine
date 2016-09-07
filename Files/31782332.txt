@@ -1,0 +1,4 @@
+access ejb web module restful services ear application 
+ear application consists ejb jar web application war ejb jar ejbs beans interfaces war rest web services access ejbs war module injecting ejbs doesnt work null pointer exception asked times working glassfish v2 upgrade difficult code fragment returns nullpointerexception supposed validate user code check access ejb didnt mention code works include ejb jar ear applications lib folder war module access ejb classes intellij application ee application includes web module war strong edit strong couldnt avoid glassfish upgrade v2 v4 decision made problems ejb injection code worked charm suggestions accepting hugh answer jndi worked upgrading glassfish solution long run 
+
+bean isnt injected class isnt ejb copy jndi lookup jndi lookups href https docs oracle javaee tutorial doc gipjf html rel nofollow link possibility make bean managed bean jsf afraid dont edit jax rs jsf bkails answer 

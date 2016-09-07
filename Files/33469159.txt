@@ -1,0 +1,4 @@
+android fragment null object reference 
+fragment working error blockquote lang nullpointerexception attempt invoke virtual method void android widget textview settext lang charsequence null object reference blockquote code idea doesnt work testing class text changed textview id checked times problem textview null object doesnt find id 
+
+called access strong solution strong move picture overview href http developer android guide components fragments html rel nofollow fragment lifecycle snippet href http stack imgur encua png rel nofollow img src http stack imgur encua png alt fragment lifecycle 

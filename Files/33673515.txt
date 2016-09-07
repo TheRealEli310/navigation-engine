@@ -1,0 +1,4 @@
+start jboss server netbeans 
+run jboss server netbeans log blocked blockquote org jboss jbas015899 jboss final brontes starting blockquote entire log jboss repertory source environment variables good home program filesjavajdk1 jboss home jboss final jboss conf default added server netbeans chose jboss application server chose server location jboss final properties domain standalone domain path jboss finalstandalone host localhost port whats wrong 
+
+start jboss supported wrote home set program filesjavajdk1 log shows jboss started jdk1 blockquote program filesjavajdk1 injava blockquote home variable picked start script starting jboss 

@@ -1,0 +1,4 @@
+spring boot import trust store 
+import trust store spring boot system setproperty application properties file structure project href http stack imgur diqg1 png rel nofollow img src http stack imgur diqg1 png alt enter image description add string strong server ssl trust store cacerts strong run spring boot application error message strong error main boot springapplication application startup failed lang illegalargumentexception resource location null strong solved 
+
+found solution property file trust key store property null application throws exception 

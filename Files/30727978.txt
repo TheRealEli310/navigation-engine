@@ -1,0 +1,4 @@
+integer type constant declaration primitive object 
+whats benefit int constant declared object classic basic difference objects primitives autoboxing declaration companys code reason declaring integer constant object 
+
+depends plan constant api requires form small performance penalty auto boxing primitive unboxing isnt expensive easy avoid methods added api give compiler common auto box primitives 

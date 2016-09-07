@@ -1,0 +1,4 @@
+spring boot configure spring security application proerties 
+security configuration wanted set options application properties websecurity class spring bit confused settings application properties defined classes 
+
+generally speaking recommend application properties adjust spring security settings running fast add place security configuration application properties configuration websecurityconfig 

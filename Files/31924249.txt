@@ -1,0 +1,4 @@
+enumset overloaded methods 
+method multiple overloaded implementations method overloaded method varargs handled implementations method overloaded specific reason javadoc find convincing explanation 
+
+h2 varargs methods create array h2 works implicit array creation class designed fast creating extra overloads em skip array creation step em cases true cases dont elements href http docs oracle javase docs api util enumset html 20e 20e 20e 20e javadoc blockquote creates enum set initially elements overloadings method exist initialize enum set elements sixth overloading provided varargs feature overloading create enum set initially arbitrary number elements run slower overloadings varargs blockquote 

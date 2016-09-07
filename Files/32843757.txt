@@ -1,0 +1,4 @@
+implement configureandwatch log4j2 
+feature mentioned application server restart log threshold level modified default delay achieved lines code setting cleaning setup achieved 
+
+log4j2 documentation href https logging apache org log4j manual configuration html rel nofollow https logging apache org log4j manual configuration html blockquote configured file log4j ability automatically detect configuration file reconfigure monitorinterval attribute configuration element set file checked time log event evaluated logged monitorinterval elapsed check shows configure attribute configuration file checked seconds elapsed minimum interval seconds blockquote 

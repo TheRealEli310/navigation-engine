@@ -1,0 +1,4 @@
+matrix operation spark mllib 
+question mllib spark strong manipulate local matrices strong moderate size 100x100 distributed instance computing svd dataset perform matrix operation provide multiply function tobreeze method returns api friendly spark operations ul li transpose matrix li li add subtract matrices li li crop matrix li li perform element wise operations li li li ul javadoc rowmatrix href https spark apache org docs latest api org apache spark mllib linalg distributed rowmatrix html rel nofollow https spark apache org docs latest api org apache spark mllib linalg distributed rowmatrix html strong edit strong dlwh pointing direction solution works 
+
+breeze doesnt provide friendly api speaking main author plans hamstring api exploit fact mtj dense matrix representation api doesnt expose majorstride shouldnt issue 

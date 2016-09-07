@@ -1,0 +1,4 @@
+hipi average pixels program fails due yarn containers error cloudera quickstart vm 
+newbie hipi hadoop choose cloudera quickstart vm href http hipi cs virginia gettingstarted html rel nofollow started tutorial running find files hib file shown execute jar file error log file resource manager find error hadoop cdh5 hadoop classpath usr lib hadoop lib hadoop yarn home usr lib hadoop yarn hadoop mapred home usr lib hadoop mapreduce hadoop conf dir hadoop conf tested wordcount success 
+
+fixed problem reverting back version mismatch hipi hadoop build hipi hadoop version issue resolves 

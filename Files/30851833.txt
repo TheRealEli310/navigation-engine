@@ -1,0 +1,4 @@
+spring hibernate junit transactional nativesql query 
+problem spring hibernate session management junit tests test class signed transactional order autorollback feature test method test insert rows database run native query session createsqlquery return list elements saved result native query empty tryied remove transactional test class insert process end commit scenario native query works perfectly test green rollback perfomed due lack transactional personally prefer sign test rollback false remove data manually wondering strange behavior caused incorrect configuration advance spring session transaction manager configuration incriminated test native query test spring config method test test code 
+
+similar issue entities removed h2 mem transactional test method invocation fixed flushing current session removal dao method 

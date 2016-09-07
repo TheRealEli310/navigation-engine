@@ -1,0 +1,4 @@
+org postgresql util psqlexception protocol error session setup failed 
+types questions provided solution working application version mismatch driver postgresql server found solution postgresql server postgresql jdbc4 jar pg hba conf postgresql conf check netstat 
+
+faced issue br change port number strong postgresql conf strong br restart system strong postgresql conf strong file location windows strong program filespostgresql9 4data strong hope 

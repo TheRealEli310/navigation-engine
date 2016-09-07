@@ -1,0 +1,4 @@
+internationalization api error messages front end back end 
+team working web project front end json api provided back end technology spring boot angularjs api standard error format error response optional list field validation errors question translation user error messages back end return translated message based requests locale front end errorcode i18n mechanism i18n mechanisms back end spring i18n support front end angular translate practice pros cons approach advice appreciated 
+
+back end primarily backend locale generating errors make sense expect localized errors de couple systems feature change back end error added release front end piece error scales multiple backend systems approach works error generators responsible taking care respective localizations 

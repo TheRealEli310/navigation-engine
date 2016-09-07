@@ -1,0 +1,4 @@
+imagej adding scale bar imageplus 
+add scale bar imageplus windows commands hope code 
+
+plugin href http javadoc imagej net imagej1 ij ij html run ij imageplus 20java lang string 20java lang string rel nofollow method takes input argument href http imagej nih gov ij docs guide html record rel nofollow macro recorder em em mode required commands plugin created ul li opening recorder window em plugins macros record em li li opening em blobs em sample image em file open samples blobs 25k em li li setting scale em analyze set scale em li li adding scale bar em analyze tools scale bar em li li clicking em create em button recorder window li ul generated code 

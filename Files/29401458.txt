@@ -1,0 +1,4 @@
+javafx listview observe map 
+hashmap display keys listview trouble listview setitems observablelist keyset listview observe keys map clunky maintaining matching data structures 
+
+answer advice maintain data structures strong sample app synching data structures strong add items map ui keys map change list keys shown listview left automatically update solution listens observablemap wraps map key map applies relevant updates observablelist backs listview sample screenshot added left hand side list user presses add button img src http stack imgur ygnmj png alt mapobserver alternate implementation copy data observablelist implement observablelist interface implemented methods refer directly key data observable map approach complex implement worthwhile pursuing imo 

@@ -1,0 +1,4 @@
+android execute setontouchlistener setonlongclicklistener executed 
+app press screen method executed long press method executed problem long press screen normal onclicklistener executed dont simple onclicklisteners normal motionevent action prevent happening dont execute action normal ontouchlistener onlongclicklistener executed code 
+
+ontouch 

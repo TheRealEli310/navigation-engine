@@ -1,0 +1,4 @@
+optimize hashmap keys 
+csv file lines pattern store data zipcode key lookup takes seconds shouldnt performance quick improve performance strong tl dr strong optimize reads 
+
+youre performance shouldnt iterate lookup keyed zipcode key 

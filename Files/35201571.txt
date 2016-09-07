@@ -1,0 +1,4 @@
+replace ejbaccessexception stacktrace logged jboss 
+rest endpoint application protected ejb security users session times web app doesnt interact forbidden completely server log error messages long useless replace log warn unauthorized access additional data stack trace idea message logged jboss advice achieve desired 
+
+research showed solution href https docs jboss org author display as72 container interceptors rel nofollow container interceptors existed earlier versions jboss appeared jboss thing coincidence version jboss boss decides move wildfly opening bounty case alternative solution compile jboss patches 

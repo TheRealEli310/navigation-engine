@@ -1,0 +1,4 @@
+automatically parse string requestbody json 
+endpoint read string body problem client call correct imho server reads quotes handle string json object jackson parse string pojos 
+
+youre jackson json parser simply declare parameter type href http fasterxml github io jackson databind javadoc fasterxml jackson databind node textnode html rel nofollow jackson type representing json strings href http fasterxml github io jackson databind javadoc fasterxml jackson databind node textnode html astext rel nofollow method retrieve text 

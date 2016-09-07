@@ -1,0 +1,4 @@
+monad analog 
+scala functional languages monads interface realization scala flatmap unit methods style interfaces monad 
+
+problems representing monads operate function returns em specific em monad javas type system express kind static method terms creates monad em instance em generic static methods interfaces em abstract em monad interface implementation factory method constructor alexeyromanov suggested implement specific monads make interface em abstract concept monad em means create functions work monad 

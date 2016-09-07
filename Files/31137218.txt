@@ -1,0 +1,4 @@
+calculation mismatch hikaricp 
+hikaricp housekeeping max connections calculation mismatch givern pool total waiting problem 
+
+youre connection requests waiting free connection hikaricp depends settings href https github brettwooldridge hikaricp configuration knobs baby rel nofollow https github brettwooldridge hikaricp configuration knobs baby defaults defaults guessing pools default configuration explain waiting requests system connections increasing set pool boots establish connections idle give requests connections spawn connections time theyre longer connections destroyed maintaining youre tweaking pools settings account databases configuration limits influence parties accessing 

@@ -1,0 +1,4 @@
+calling accountmanager getaccounts makes application stop 
+code reproduces problem single activity creating instance calling reaches line list current accounts check authenticated authentication system app strong edit strong requested href http stackoverflow questions calling accountmanager getaccounts makes application stop comment51859171 commonswave pre class lang prettyprint override 
+
+stack trace missing permission add line pre class lang prettyprint override href http developer android reference android manifest permission html rel nofollow informations permissions system android 

@@ -1,0 +1,4 @@
+gson avoid expected begin array begin object 
+gson parse json data running error stated title working api returns json data problem occurs field array objects lets call object cases object contained array error occurs gson array found object unable change structure json file provided api parse information successfully long array objects cases object error occurs handle gson strong update strong solution linked earlier solution created gsonbuilder doesnt custom deserializer print statement printed console deserilize json line expected begin array begin object exception 
+
+update deserializer return parser type deserialize registering adapter full working found href https gist github alexcrt 3bdae1589b320b6405e1 rel nofollow gist 

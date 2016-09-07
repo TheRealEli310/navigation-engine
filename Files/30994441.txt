@@ -1,0 +1,4 @@
+retrieve inside method 
+retrieve inside method option vars javac bcel retrieve local variable doesnt work variable initialized additionally track constructor calls invocations static methods inside intialize inside output make printed program 
+
+simply variable compilers javac ecj put generated class file variable assigned variable slot allocated stored localvariabletable create unused variable longer compile class open compiled class file text editor search string found bcel find variable absent track objects creation static methods invocation scanning method bytecode easiest bcel utilize dont generate method heres full code output catched object creation catched static method invocation 

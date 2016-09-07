@@ -1,0 +1,4 @@
+android npe bitmapfactory unable decode stream 
+problem foto camera intent camera orientation activity null pointer exception activity bitmapfactory decodefile activity vertical orientation camera horizontal code logs error 
+
+solved task problem activity restarted changed orientation envs null default post href http stackoverflow questions android error occurs taking picture landscape stackoverflow 

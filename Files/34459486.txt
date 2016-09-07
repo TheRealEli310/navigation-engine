@@ -1,0 +1,4 @@
+joining paths 
+join paths achive worrying expecting join current directory making wrong 
+
+original solution current directory works recommended property current directory home directory output hr href https docs oracle javase docs api nio file path html rel nofollow path class documentation blockquote path considered empty path consists solely element accessing file file system blockquote hr strong works strong empty string passed returned object empty path call checks path length greater system property return current path code unix file system implementation href http grepcode file repository grepcode root jdk openjdk b147 sun nio fs unixpath unixpath toabsolutepath rel nofollow unixpath toabsolutepath hr basically create instance resolve current directory path suggest platform independent code output 

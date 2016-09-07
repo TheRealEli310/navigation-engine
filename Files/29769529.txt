@@ -1,0 +1,4 @@
+failed instantiate hibernatejpavendoradapter 
+build spring mvc prject gradle project builder defined dependencies build gradle file applicationcontext xml file spring configuration file problem intialize context error message hibernatejpavendoradapter fail instantiate problem dependecies conflict working project whitout gradle integrate manualy dependencies version samone nice 
+
+stacktrace tells problem blockquote caused lang classnotfoundexception org hibernate ejb hibernateentitymanagerfactory blockquote missed hibernate entitymanager jar dependency 

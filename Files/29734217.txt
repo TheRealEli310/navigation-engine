@@ -1,0 +1,4 @@
+declare appcompat v7 dependency build gradle eclipse project setup 
+eclipse adt build project gradle project structure standard generated android eclipse project structure android support library appcompat support libraries installed android sdk date failing attempt build gradle file positioned root build failure gradle leaving line appcompat dependency build failure declare dependencies order project build opinion pretty basic question build eclipse android project gradle find solution websearch hope 
+
+main issue arent separating definition find correct plugin android specific definitions apply line section include dependencies android libraries declaring find plugin correct plugin android application components add find android libraries android dependencies configure android build specifics put sections youll complete file work 

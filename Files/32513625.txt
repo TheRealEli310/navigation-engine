@@ -1,0 +1,4 @@
+android error attempt invoke virtual method null object reference 
+android studio hating transition experience eclipse write app activities wrote code main logic works fine havent put activity write run app error loginactivity mainactivity loginactivity dummy text button takes user mainactivity mainactivity textview click app crashes error initiating mainactivity fix xml code loginactivity relevant code mainactivity code requested line prefix fix 
+
+reason assign currentwinnerlabel activity created activity created context null calling findviewbyid method null object reference change code 

@@ -1,0 +1,4 @@
+springjunit4classrunner test transaction 
+test class annotated supposed run transaction strong isnt strong marked errors perform persist merge operations injected blockquote transactional entitymanager blockquote fix strong edit strong requested comments spring version release 
+
+call obtain hr needed spring data jpa hands called shared href https docs oracle javaee api javax persistence persistencecontext html rel nofollow annotation attributes full details href http docs spring io spring docs current javadoc api org springframework orm jpa sharedentitymanagercreator html rel nofollow javadocs class maintains lookup table methods required run inside transaction time encounters method call inside transaction bails annotation attribute set default default transaction bail found bypasses check transaction obtaining code work hr called transaction jpa providers require called transactional context 

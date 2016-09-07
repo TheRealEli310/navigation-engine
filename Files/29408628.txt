@@ -1,0 +1,4 @@
+statement executebatch method returns array 
+executing statement executebatch method returning int array jdbc spec return code batch updates greater statement success info everytime records deleted successfully database deletes records tables satisfies query sysout shows affected records 
+
+length array actual int values 

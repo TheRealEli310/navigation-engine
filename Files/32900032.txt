@@ -1,0 +1,4 @@
+jaxb bind element type xs string enum 
+vendor provided element defined spec string values add bindings file unmarshal status docs found requires type bind string type 
+
+define restriction xml schema slightly modified generate classes result enum class statustype xml string remains bindings file assuming enum statustype class statusimpl simply 

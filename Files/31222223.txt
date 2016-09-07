@@ -1,0 +1,4 @@
+jaxws wsimport xpath null jaxb file binding 
+generate stub files jaxws wsimport wsdl types conflicting line line reason wsimport preserves underscore character thinks names created jaxb bindings file explicitly resulting class wsimport tested xpath string href http www freeformatter xpath tester html ad output rel nofollow http www freeformatter xpath tester html ad output returns element figure wsimport xpath null advance wsdl href https gognxml uh xml service asmx wsdl rel nofollow https gognxml uh xml service asmx wsdl jaxb bindings file 
+
+thing notice xpath expression namespace prefix dont namespace prefix declared supposed declared elements prefixes expected declared declared input xml sufficient dont wsimport prefix supposed confirmed comment 

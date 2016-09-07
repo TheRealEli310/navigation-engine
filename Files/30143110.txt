@@ -1,0 +1,4 @@
+actionhandler multiple buttons 
+jframe create application set actionhandler buttons application buttons click disappear disappearing thing button button save lines dont code explain andvance 
+
+youre make components disappear replaced view easiest cardlayout call objects method show view choice button pushed demonstrated button object extends abstractaction kind actionlistener steroids method called button pressed actionlistener set buttons text set mnemonic icon share actions button objects jmenuitems strive avoid layouts costs null layouts swing newbies easiest create complex guis swing guis create difficulties run wont resize components gui resizes royal witch enhance maintain fail completely scrollpanes gawd awful viewed platforms screen resolutions original 

@@ -1,0 +1,4 @@
+meta data tag androidmanifest xml 
+error run app caused lang illegalstateexception meta data tag apps androidmanifest xml expected found declaration application element line code manifest noob android 
+
+dont updated version update sdk manager work android studio automatic define gradle file work eclipse remove oldest google play services bring android sdk extras 

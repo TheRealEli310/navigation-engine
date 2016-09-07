@@ -1,0 +1,4 @@
+multithread programming incrementing static variable 
+read posts related problem solve problem code question big early object cay horstmann question asks counting word files multithread programming strong store combined words counting strong problem order combined counter variable incremented iteration counting words threads make incrementing thread time works fine incrementing static variable incremented tested number thread match expected result variable work properly explanation time 
+
+lock work reentrantlock instance variable wordcount class instance class private lock dont synchronize easiest change make lock static variable protecting 

@@ -1,0 +1,4 @@
+elasticsearch api create amd reuse node 
+missing understanding internals elasticsearch create embedded es node indices persistent multiple startups application startup code executed application startup pre class lang prettyprint override indexing querying time application stop restart application data lost empty node created fileystem reuse previously created node data api 
+
+found solution problem node set settings node data reused restart 

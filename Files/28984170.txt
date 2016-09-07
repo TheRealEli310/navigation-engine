@@ -1,0 +1,4 @@
+hibernate project reference org hibernate hibernateexception unable default bean validation factory 
+hibernate restful sample project hibernate project rad working run hibernate querys web project restful sample web project working run sample application post integrate hibernate project web project idea publish sample hibernate restful service restful service call hibernate module run querys give result end user hibernate project reference web project included jar files user library added deployment assembly hibernate project user library crated hibernateutlity class object invoke getsession method giving strange exception fyi springs web sphere running rest web project fix issue advance 
+
+guys found solution problem issue hibernate project added web project maven build added hibernate project dependency web project successful deployment working dont idea throwing bean validation exception 

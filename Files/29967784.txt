@@ -1,0 +1,4 @@
+check activemq subscriber subscribed topic 
+working code subscribers durable topic activemq wrong subscriber disconnected topic connects back protocol failover check status subscriber subscribed connect back 
+
+attach exceptionlistener jms connection show subscriber disconnects reason 

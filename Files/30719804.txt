@@ -1,0 +1,4 @@
+aspect called spring test 
+spring validationaspect validates methods arguments throws validationexception wrong called run server send requests test config file create aspect aspect bean test throw validationexception addsoftware method invalid softwareobject run service add invalid user post request throws validationexception reason executing validationaspect method test layer service dont understand aspect called mockedsoftwareservice bean located feature package bean ends service satisfies conditions idea happening advance hr h2 edit h2 
+
+useless arent spring test run test require super classes spring test adding singleton fully mocked configured context assumes strongly suggest spring working create configuration inside test class testing configuration scanning register mocked bean spring test run test 

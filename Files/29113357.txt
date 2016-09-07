@@ -1,0 +1,4 @@
+display years part spinner mode android studio datepicker 
+configure android studio datepicker hide calendar part display spinner mode years img src http stack imgur r2myj png alt enter image description 
+
+datepicker instance call href http developer android reference android widget datepicker html setcalendarviewshown boolean rel nofollow setcalendarviewshown boolean shown 

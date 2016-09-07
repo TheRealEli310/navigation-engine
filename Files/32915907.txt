@@ -1,0 +1,4 @@
+clojure doto macro 
+call method macro doto returns small letters returns clojure macroexpansion return object created dont uppercased answer 
+
+part clojures interop features designed make write soooo darn parens parens total case dig expanstion expands line throws answer returns saved form start personally practice places people translating clojure inorder call api 

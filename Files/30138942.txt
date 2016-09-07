@@ -1,0 +1,4 @@
+practice show progressdialogs application 
+application id show events show multiple simultaneously efficient current code calling methods classes show dismiss considered good practice 
+
+practice fact practice block user interacting app alternatives app loading data required list place listview additional reading topic href http www google design spec components progress activity html progress activity types indicators rel nofollow google design guidelines progress hr highly recommend class posted holds reference global activities live cycles application recreated trouble recommend initialize handle make handle livecycle methods hr baseactivity jagmohan noted dont baseactivity drop create strong progressdialoghelper strong 

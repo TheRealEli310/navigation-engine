@@ -1,0 +1,4 @@
+android navigation drawer fragment 
+create music player app includes navigation drawer created default android studio display content fragment media controls songs list fragment clicking navigation menu item replace fragment fragment actionbar intact move forward presently content main xml opens activity main xml activity main xml app bar main xml content main xml media controls opens starting app mainactivity activity main drawer xml 
+
+navigation view based id change action toolbar layout main xml 

@@ -1,0 +1,4 @@
+sqlite general getentry function 
+project programming sqlite actionhandler class create drop tables add update delete entrys tables general creating dropping tables adding entry works fine make function works dont data give back function called function work data give data back function 
+
+return function main process resultset method returning assuming close 

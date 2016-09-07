@@ -1,0 +1,4 @@
+update field immutable object 
+supposing class built object class finish operations expected remote service instance attach supposedly breaking immutability capability object update field avoiding constructor call creating object 
+
+problem log stuff youve constructed object alternatively builder pattern final instance fields instances class immutable annotation incrementally build content object 

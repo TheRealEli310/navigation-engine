@@ -1,0 +1,4 @@
+e4 javafx apply current theme login dialog 
+application displays login dialog diplaying main window lifecyclemanager class dialog default javafx styling modena current theme apply dialog 
+
+found stylesheets current theme create dummy stage add stylesheets set stage parent window parameter dialog dialog copy stylesheets parent stage add stage works doubt proper solutions 

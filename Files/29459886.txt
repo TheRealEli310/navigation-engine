@@ -1,0 +1,4 @@
+error compiling lambda javafx workerstateevent 
+code compile javac jdk8 compiler error intellij tells manually add cast compilation works intellij tells cast redundant intellij bug latest version intellij ultimate 
+
+specific case write differently source event fired registered listener figure compiler infer types code properly type service providing parameter generic type compiles fine information code compiler infer type call type inference fails reason raw types generically typed objects 

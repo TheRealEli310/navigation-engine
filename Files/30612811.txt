@@ -1,0 +1,4 @@
+scanner input scanner system 
+give detailed explanation code step step dont understand works links statement 
+
+alright lets elaborate simplified explanation href http docs oracle javase docs api util scanner html rel nofollow class standard oracle class calling lets make basic class call make object class make scanner store variable time calling called href http docs oracle javase docs api util scanner html scanner io inputstream rel nofollow constructor class parameter means read standard input stream program calling execute method object created href http docs oracle javase docs api util scanner html nextint rel nofollow documented method returns integer integer assign call variable 

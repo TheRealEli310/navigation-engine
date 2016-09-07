@@ -1,0 +1,4 @@
+unable run maven tasks mavencli maven embedder 
+maven embedder program run maven goals programmatically error time run method blockquote system property set check environment variable script match blockquote 
+
+href http stackoverflow maven system property called set default root project project base directory href https github apache maven blob master apache maven src bin mvn l241 rel nofollow script experienced error running maven set system property href https github apache maven blob maven maven embedder src main org apache maven cli mavencli l330 l337 rel nofollow source code check made set project root set system property adjust call add arguments alternatively call invoking method points root project building 

@@ -1,0 +1,4 @@
+resolve maven dependency failure find javax persistence ejb jar public draft 
+resurrect strong strong project wanted maven manage dependencies build pretty running error resolve find blockquote failed execute goal project scanit resolve dependencies project net cbojar scanit jar find artifact javax persistence ejb jar public draft maven2 href http repo1 maven org maven2 rel nofollow http repo1 maven org maven2 blockquote download file file href http repo1 maven org maven2 javax persistence ejb public draft rel nofollow exist repo maven wanted practice painted corner file 
+
+converting maven existing project respect original dependencies means adding maven dependency exact version original dependencies excluding unused transitive dependency original project doesnt works correctly safely exclude pom turns transitive dependency original project doesnt exclude pom 

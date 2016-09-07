@@ -1,0 +1,4 @@
+deploy jar file jboss eap6 server maven 
+maven ejb projet whitch deploy maven command jar projet put folder deployement jboss server maven made searchs found goals make jboss deploy pom xml errors whitch blockquote error failed execute goal org jboss plugins jboss maven plugin final deploy default cli project myapp execute goal deploy workspacesmyapp argetmyprojet jar reason error execute operation error operation read attribute error address error launch type error net connectexception jbas012144 connect remote localhost connection timed blockquote part standalone xml local jboss server pom 
+
+changed native management port plugin connect server management operations youll add plugin configuration pre class lang xml prettyprint override 

@@ -1,0 +1,4 @@
+map form entity spring 
+application separate class userregistrationform class form backing object validate fields server side userentity orm class maps user table database object userregistrationform userentity fields username email vary bit userregistrationform additional retypedpassword acceptterms field app works app input user userregistrationform perform validation errors userregistrationform mapped userentity userentity saved database wondering good design validation directly userentity automatically map form backing object entity 
+
+faced problem days ago confuse formvalidation object mapping database entity object solution formvalidation usual case fields directly related db enity fields db entitys tables fields related db entity strong case standard validate form map fields db entitys save database strong process 

@@ -1,0 +1,4 @@
+jax rs service throwing httpexception client receiving http code 
+restful resource calls ejb make query result query ejb throws entitynotfoundexception catch block thrown javax xml ws http httpexception code call rest service code results log message inside catch block printed client receives http code receiving code rafael afonso 
+
+href https docs oracle javase docs api javax xml ws http httpexception html rel nofollow jax ws jax rs default doesnt handle write exception bubbles container level sends generic internal server error response href http docs oracle javaee api javax ws rs webapplicationexception html rel nofollow subclasses list exceptions included hierarchy map jax rs find link fall direct subclasses jax rs hierarchy doesnt exist rafaelalfonso showed comment lot constructors api link 

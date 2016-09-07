@@ -1,0 +1,4 @@
+domain illegal character string mail 
+application mail send emails thing working fine requirement send email id takes form testuser em company part javamail throw exception fact email address domain em company code initializing internetaddress code mail class method check exception question bypass check mail validation check domain 
+
+kinda weird requirement domain generally letters digits dash dot characters href https www domainnameshop faq cgi id rel nofollow internetaddress class secondary constructor takes boolean parameter strict enforces rfc822 syntax calls constructor check working expected solution mind code investigation code lose parsing logic internetaddress class conform mail api 

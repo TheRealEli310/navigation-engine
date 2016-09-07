@@ -1,0 +1,4 @@
+spring boot springbox swagger error 
+spring boot project integrate swagger springbox spring boot app running good added springbox pass unit test details added project added swagger config class error run version 
+
+problem morning luck posted question posted question found solution blame good morning coffee simply remove annotation swagger configuration class link refer href https github springfox springfox issues rel nofollow https github springfox springfox issues 

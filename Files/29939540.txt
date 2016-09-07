@@ -1,0 +1,4 @@
+additional libraries required client compression 
+datastax driver supports client node connection compression href http docs datastax en drivers datastax driver core protocoloptions compression html rel nofollow snappy lz4 starting driver states questions ol li lz4 library driver referring log message maven repo li li notice driver doesnt dependency snappy library compiled library external library needed class loader li ol 
+
+compression libraries defined href https github datastax driver blob driver core pom xml l51 l63 rel nofollow driver core pom optional idea users dont compression dont drag extra dependencies lz4 snappy declare explicit dependency relevant library pom equivalent warn message simply states lz4 library classpath perfectly fine youre lz4 fact warning bit premature check presence libraries compression href https datastax oss atlassian net browse rel nofollow created release driver 

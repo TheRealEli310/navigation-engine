@@ -1,0 +1,4 @@
+unmarshalling xml jaxb annotations returning null object class 
+read xml file objects returning null br code h3 xml h3 h3 class h3 h3 unmarshall h3 returning null object reading annotations xml format correct code issue 
+
+problem naming conventions variables start lowercase letter lowercase variable element names working fine working fine changing xml objects lower case resolved thing xml static fixed format starts capital letters parsed annotation 

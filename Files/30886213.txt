@@ -1,0 +1,4 @@
+gradle jacoco jacoco reports test type task test 
+run task jacocotestreport runs test report br run task jacocotestreport skipped heres relevant excerpts build gradle gradle documentation doesnt extensive googling hasnt produced results ideas make jacoco reports intergration tests edit unit amp integration tests directories distinguished filenames case wasnt clear 
+
+turns works hope helpful edit file definition integtest task br jacoco configuration end build gradle 

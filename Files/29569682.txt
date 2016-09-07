@@ -1,0 +1,4 @@
+thymeleaf displaying values spring controller 
+practising thymeleaf template engine time tutorial idea wrong controller html hit localhost displays text data thymeleaf doesnt work view resolver config correct resolves main main html spring4 springtemplateengine spring4 thymeleaf view resolver advance 
+
+dont attribute make thymeleaf render context inside tag make put variable inside 

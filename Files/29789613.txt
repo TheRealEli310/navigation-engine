@@ -1,0 +1,4 @@
+make webdriver close browser window test 
+selenium webdriver webservices site page someservice php wrote tests selenuim work fine code main class code test class tests parameters total variants variant create browser window run variants time seconds run variants browser window speed tests 
+
+move contents em public static void close em method siteclass teardownclass method diamtest class browser window closed class execution finished afterclass annotation code good practice move browser window initialization setupclass method executed test class beforeclass annotation 

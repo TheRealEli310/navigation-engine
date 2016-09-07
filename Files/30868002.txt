@@ -1,0 +1,4 @@
+spring passing generic object list return type 
+working spring mvc application depending mode set user return list object1 object2 ideally create controller methods send list appropriately send type list controller method controller method basically mode false return mode true return naive approach thought object return doesnt work kindly lot em update em groupnotes model class notes model class interface inotes 
+
+common interface shared classes declaring interface instance code simpler solution returning compliance approach appropriated 

@@ -1,0 +1,4 @@
+read properties file getresourceasstream classpath web inf lib 
+testing reading properties file getresourceasstream properties file classpath web inflib folder working reason wrong environment operating system windows ide eclipse kepler bit server tomcat running port created web application strong mywebproject strong file located folder content file blockquote datasource jdbc mydb blockquote created class reads file class created servlet test deployed web application strong mywebproject strong tomcat folder tomcat folder created files run servlet appears tomcat console blockquote appproperties classloader org apache catalina loader webappclassloader br appproperties propertiesfile null blockquote propertiesfile null file folder folder classloader unable find strange wrong 
+
+packaged inside jar normal file inside 

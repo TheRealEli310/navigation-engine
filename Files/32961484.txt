@@ -1,0 +1,4 @@
+parse xml return okhttp 
+okhttp post form parameter method okhttps async custom callback instantiated parse method testing works receive return oncreate activity start process dont understand inputstream closed 
+
+things read body read store result reading body time start parse exhausted input stream quick solution remove log statement thing tripping trip future called event http returning error code check href https square github io okhttp javadoc squareup okhttp response html code rel nofollow href https square github io okhttp javadoc squareup okhttp response html issuccessful rel nofollow methods decide attempt parse response 

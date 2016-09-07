@@ -1,0 +1,4 @@
+nosuchmethoderror writing avro object hdfs builder 
+exception writing object hdfs line referencing generated code call code calling test code issues jar run hdfs node command ideas wrong 
+
+href https avro apache org docs api org apache avro schema parser html parse 28java lang string 20java lang string rel nofollow org apache avroschema parser parse string string introduced avro notice absence href https avro apache org docs api org apache avro schema parser html rel nofollow schema parser documentation update hdfs node recent version avro join strings href https github apache avro blob branch lang avro src main org apache avro schema l974 rel nofollow current version schema method takes single string edit upgrading avro hadoop installation guess find jars replace manually minor version upgrade downloading href http central maven org maven2 org apache avro avro avro jar rel nofollow avro replacing found jars downloaded back hadoop installation case awry 

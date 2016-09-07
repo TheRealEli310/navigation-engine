@@ -1,0 +1,4 @@
+ee version ear 
+ee version generated ear maven build built ear maven build added j2ee dependency pom xml make generated ear ee version 
+
+mixing things dependencies packaging plan work websphere install websphere dependencies local repository add dependencies dont install dependencies websphere liberty remotely find installation poms specific versions href http public dhe ibm ibmdl export pub software websphere wasdev maven repository ibm tools target rel nofollow http public dhe ibm ibmdl export pub software websphere wasdev maven repository ibm tools target add dependency web ejb project preconfigured archetypes href http public dhe ibm ibmdl export pub software websphere wasdev maven repository rel nofollow ibm websphere repository creating web ejb apps websphere packaging ee ear key setting element inside provide default 

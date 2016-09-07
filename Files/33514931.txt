@@ -1,0 +1,4 @@
+misleading stack trace involving javafx generics 
+encountered error opening combobox prompt type stringconverter attached 8u40 traced back strings left team fxml conflicting generically typed combobox controller fixed ensuring dummy list replaced items correct type initialize whilst understand problem solve understand stack trace error occurs ul li reported line controller generic fields li li compiler generated magic involved li li fxml building process build combobox correct type generics exist compile type li ul original error h2 small h2 integer represent business specific type complex paste list values dynamic loaded database fxml controller main 
+
+appears compiler issue specifically internal compiler eclipse luna sr1 compiled jdk compiler error reported correctly line 

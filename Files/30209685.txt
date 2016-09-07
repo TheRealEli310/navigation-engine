@@ -1,0 +1,4 @@
+viewpageradapter shows null 
+implement sliding tabs material design application found tutorial code implement app nullpointerexception figure reason tutorial href http www exoguru android material design navigation android sliding tabs material design html rel nofollow http www exoguru android material design navigation android sliding tabs material design html code nullpointerexception viewpageradapter mainactivity strong logcat strong 
+
+rid instantiate parent fragment returns deal nested fragments returns result ergo inflated view case call 

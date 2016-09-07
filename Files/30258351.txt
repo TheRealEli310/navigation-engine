@@ -1,0 +1,4 @@
+android realm copytorealmorupdate creates duplicates nested objects 
+classes data backend retrofit amp gson ready objects response lets imagine backend returns notes time call list objects call lines check count stored objects time call server notes primarykey ids call fetchnotesandsave ill results time call copytorealmorupdate nested objects inside objects primarykey duplicated updated change behaviour information advance 
+
+template class doesnt primary key case objects inserted guarantee referenced template objects safely updated part object primary key add template class work expect 

@@ -1,0 +1,4 @@
+synchronize call interrupt method 
+consulting javadocs source code method found native method invocation synchronized block dont put call method block thread thread interrupt simultaneously native method behave 
+
+thread reasons ol li applications call block spec javadoc object needed synchronize thread safety fact javadoc li li applications call block oracle tutorial concurrency mention href https docs oracle javase tutorial essential concurrency interrupt html page doesnt li li external synchronization object make call thread hard explain method internal synchronization made entire method synchronized li ol evidence imo convincing absolute proof wanted proof thread analysis native code implementation havent looked native code expect internally thread sufficient make method thread 

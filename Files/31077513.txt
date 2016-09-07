@@ -1,0 +1,4 @@
+clojure jdbc db connections transaction 
+clojure jdbc select insert records databases specifically mysql vertica response event id place single transaction rolled back wrong command worry risks vertica transaction succeeding mysql idiomatic clojure handle operation 
+
+transaction behavior provided database programming language send retrieve data db answer real transaction coordinate databases ol li simplest approach mysql tx update part fail successful insert vertica inserting data pretty fail pseudocode li ol blockquote blockquote ol start li complicated solution attempt transaction rollback behavior li ol blockquote blockquote optimal writing homegrown db plugin taking advantage dbs build stability amp reliability problem catch clause finishes running ol start li postgresql find foreign data wrapper fdw module handle solution postgres treat oracle db foreign table provide normal db guarentees slower normal table li ol 

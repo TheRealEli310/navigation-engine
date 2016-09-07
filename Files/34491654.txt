@@ -1,0 +1,4 @@
+android databinding animation 
+point direction trigger animation databinding icon data viewmodel animate icon change viewmodel property viewmodel 
+
+solution binding adapter heres quick sample show define custom binding adapter layout isbusy property viemodel bound view imagebutton adapter view imagebutton isbusy property bindable viewmodel extends baseobservable minimum observableboolean change isbusy property true trigger animation start set false stops hope helps 

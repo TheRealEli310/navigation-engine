@@ -1,0 +1,4 @@
+spring security authenticate user 
+user username password enter correct submit form displays authenticate user 
+
+changed username parameter password parameter security config form default change inputs form username password check 

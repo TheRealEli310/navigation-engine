@@ -1,0 +1,4 @@
+unsupported content type application json webservice call 
+set content type cxf library dont set authorization header set user password set authorization header encode add basic dont add authorization header plain string provide solve problem generates request xml type request solve problem awadhendra 
+
+call restful service server side response content type expected json soap xml url endpoint based http protocol send additional parameters url 

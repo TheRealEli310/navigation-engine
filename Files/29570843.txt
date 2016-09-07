@@ -1,0 +1,4 @@
+se base64 class encoding byte parameter 
+background working util base64 class documentation specifies encodetostring takes byte array options byte doc doesnt byte array encoded heres functional code question base64 encodetostring accept byte encoding ascii utf work hoping general conclusion href https docs oracle javase docs api util base64 encoder html encodetostring byte rel nofollow link javadoc base64 encoder 
+
+documentation encoding data work base64 conversion numerical character oriented interprets base64 number means long em em documentation clear interpret bytes base64 string data serialization 

@@ -1,0 +1,4 @@
+prevent changing amp xml file 
+build xml file problem special characters read mobile apps works fine manually change notepad xml file results wrong display client application replace parsing 
+
+understand dont youre parsing amp special character xml escape wrap content element cdata block wont parsed xml parser 

@@ -1,0 +1,4 @@
+array lists faster linked list lifo behaviour 
+written algorithm lot appending removing items end data structure basically reason operation faster arraylist requires overhead relocations slightly faster faster miles 
+
+time insert linkedlist object allocated insert arraylist allocation occurs space point doubles space wont allocate space cost creating objects linkedlist difference 

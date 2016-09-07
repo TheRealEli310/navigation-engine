@@ -1,0 +1,4 @@
+initialize page factory selenium webdriver 
+page objects selenium webdriver work page objects selenium webdriver binding unable find statement mimic initialization page objects classname obj pagefactory initelements drivername classname class 
+
+couple options theyre remarkably similar youd net implementation located assembly means youll add reference project alternatively youd net generics version code generic version places restrictions page object class specifically expose constructor takes single parameter parameter type 

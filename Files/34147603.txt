@@ -1,0 +1,4 @@
+loggable annotation works methods 
+interface class xml add loggable annotation existing method called program shows correctly logs expected working annotations method add annotation helper method method called program logs show code doesnt work offer insight scenario works scenario helper method doesnt helper methods public add regular log statement inside helper method show logs annotation doesnt work helper method reason 
+
+spring advise methods spring beans injected spring beans bean calls methods advice executed spring aop proxies explained href http docs spring io spring docs current spring framework reference html aop html aop understanding aop proxies rel nofollow docs 

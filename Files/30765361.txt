@@ -1,0 +1,4 @@
+scala explicit return required 
+thought scala dont explicit put return return statement code ran code checksimple wrong result hr add return front true works correctly hr return required return statement line 
+
+expressions return behave expect 

@@ -1,0 +1,4 @@
+spring boot devtools causing classcastexception cache 
+facing issue cache cache configuration annotated google code simple spring memcached cached application throws class cast error issues href http pastebin umxcigq7 rel nofollow full stack trace 
+
+href http docs spring io spring boot docs current reference htmlsingle boot devtools restart limitations rel nofollow limitation devtools cache entry deserialized object attached proper classloader ways fix issue ol li disable cache youre running application development li li cache manager youre spring boot force cache manager property enable dev profile ide li li configure memcached things cached href http docs spring io spring boot docs current reference htmlsingle boot devtools customizing classload rel nofollow run application classloader wouldnt recommend option easier implement li ol 

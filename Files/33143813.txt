@@ -1,0 +1,4 @@
+error parsing xml dtd stax 
+parse valid xml document content pre class lang xml prettyprint override stax implementations woodstox ways exception stax processes element woodstox internal combinations true false properties worked parse document stax 
+
+problem document invalid respect dtd href http www w3 org tr rec xml names conformance rel nofollow namespace formed element prefix namespace declared namespace declaration workaround turn namespace awareness staxreader xmlstreamreader create reader set 

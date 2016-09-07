@@ -1,0 +1,4 @@
+spring security roles permissions 
+project spring mvc spring security roles permissions roles permissions situation controller secure actions annotation annotation doesnt work change code works give hint dont restrict actions permissions prefer role restriction advance 
+
+configure permissions roles default checkes role grantedauthorities auththenticated user work long role permissions grantedauthorities 

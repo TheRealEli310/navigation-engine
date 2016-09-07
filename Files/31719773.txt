@@ -1,0 +1,4 @@
+usage interceptor spring 
+situation strong interceptor strong write module stores data requests served server data data visualizations strong strong registering interceptor challenge login localhost myapp login returning page found observed add interceptor configuration needed application interceptor register strong observations strong debug inside prehandle interesting point handler parameter giving application interceptor diverted mind addviewcontrollers inside interceptor configuration idea add add adding view controller login view names doesnt work enlighten links stackoverflow find relate requirement 
+
+problem solved removing enablewebmvc annotation dint knew missed piece reading href http stack imgur y5qhq jpg rel nofollow img src http stack imgur y5qhq jpg alt enter image description wanted complete control spring mvc wanted implement interceptor 

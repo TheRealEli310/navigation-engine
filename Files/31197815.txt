@@ -1,0 +1,4 @@
+android studio find class causing lang noclassdeffounderror 
+fix error error caused libraries ul li httpclient jar li li httpcore jar li li httpmime jar li ul code href http www androidhive info android uploading camera image video server progress bar rel nofollow http www androidhive info android uploading camera image video server progress bar asynctask multipart entity logcat gradle 
+
+ported exact tutorial android studio back ran exact issue youre facing things fix working jars ul li href http mvnrepository artifact org apache httpcomponents httpclient android rel nofollow httpclient android jar li li href http mvnrepository artifact org apache httpcomponents httpmime rel nofollow httpmime jar li ul build gradle full project github href https github dmnugent80 cameraphotoupload rel nofollow https github dmnugent80 cameraphotoupload 

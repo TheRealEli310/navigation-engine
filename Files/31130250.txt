@@ -1,0 +1,4 @@
+nullpointerexception oncreate android studio 
+activity display listview tabs mainactivity class activity main xml layout tab xml attempt run app app crashes displayed errors logcat 
+
+blockquote setcontentview layout activity main blockquote setting activity main layout xml file listview id shift code hope work 

@@ -1,0 +1,4 @@
+column type biginteger mapping hibernate 
+strong oracle xe strong database annotation driven mapping column type choose mapping hibernate 
+
+href https docs jboss org hibernate stable core reference en html mapping types html rel nofollow documentation mentioned blockquote big decimal big integer type mappings math bigdecimal math biginteger numeric oracle number blockquote hibernate community hibernate oracle 10g xe script table sample 

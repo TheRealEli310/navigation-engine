@@ -1,0 +1,4 @@
+convert javax xml datatype duration 
+response server strong javax xml datatype duration strong format br br travel duration p2dt15h45m0s br format br required format days hrs min br br strong convert javax xml datatype duration string strong br 
+
+simple straight forward solution external library built duration formatter singular forms day case duration part equal add small enhancement code normalize duration part href https docs oracle javase docs api javax xml datatype duration html normalizewith util calendar rel nofollow javadoc 

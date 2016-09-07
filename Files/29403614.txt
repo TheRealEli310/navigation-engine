@@ -1,0 +1,4 @@
+ordered stream list reverse order 
+sane ordered stream list array list specifically shouldnt matter streams elements reverse original list solution doesnt involve buffering data collector list array copy container wasteful modifies list cleanest ways implement version advances list reverse implement iterates reverse question href http stackoverflow questions stream reverse order stream reverse order question asks reverse stream impossible general case answers offer reverse source dont stream reversed source cost reversing source avoid 
+
+random access list simply create characteristics offers full splitting support random access list performance disaster check href http docs oracle javase docs api util randomaccess html 

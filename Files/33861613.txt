@@ -1,0 +1,4 @@
+javafx switch scene splitpane 
+base anchorpane splitpane left pane listview depending list element selected pane displays content overlapping anchorpanes setting setvisible false initially selected set setvisible true produce effect visually scenes anchorpane fxml controllerclass href http stack imgur v2vyk png rel nofollow 
+
+blockquote implement blockquote strong main class strong strong create separate class call store fxml paths strong main controller permanent layer application rest stack panes p1 p2 load permanent layer strong load layers main strong strong load panes pressing button strong strong works strong href http stack imgur h07yb png rel nofollow img src http stack imgur h07yb png alt enter image description 

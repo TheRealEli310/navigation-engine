@@ -1,0 +1,4 @@
+contract null fail notnull 
+intellij annotations declare failure function case method parameter null ways combining makes total annotation method parameter declare parameter null pre class lang prettyprint override alternatively annotation declares parameter null method throw exception pre class lang prettyprint override lastly intellij idea complaining pre class lang prettyprint override cases 
+
+case id notnull ul li specific annotation idea produce specific warnings based li li idea generate runtime assertions ensuring null li ul contract annotation powerful specific tool express complex contracts downsides resulting editor warnings obscure runtime checks added automatically 

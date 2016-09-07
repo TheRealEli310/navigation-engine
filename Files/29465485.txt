@@ -1,0 +1,4 @@
+constructor child class 
+folks child class extends fill constructor instance variables inside child class approach 
+
+call super classs constructor based argument types names super classs constructor id ul li pass string li li convert input list inputs li li pass output li ul 

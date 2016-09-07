@@ -1,0 +1,4 @@
+mybatis pooled datasource 
+mybatis href https github mybatis mybatis blob master src main org apache ibatis datasource pooled pooleddatasource rel nofollow pooled datasource connection pool configuration hit service metrics enabling mybatis log ol li connection created pool size shouldnt create connection reuse pool li li therere connection created closed connection open connection leak li ol 
+
+source code checking connection means taking idle pool line availble code create line checking means reuse explains checked number lives forever connections dont older connections typically killed idle means idle pool shrinks requires connections leads number created connections end alive totally normal connections closed typically means bug end hard 

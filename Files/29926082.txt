@@ -1,0 +1,4 @@
+instance variables mysteriously null thread 
+scratching head figure whats create object obja constructor add object object objb method called obja calls method objb calls back obja strong obja dosomething objb dosomethingalso obja dosomethingelse strong obja objb obja dosomethingelse called instancevar instance variable null initialized null dosomething null explicitly set null method calls occurring thread missing instance variable null 
+
+things happen ol li returns null li li variable cleaned garbage collector li ol 

@@ -1,0 +1,4 @@
+system exit catching application stopping exception 
+code program exits catch location single thread main method program expect recover exception em em 
+
+expect run program rely process status code program succeeded failed href http docs oracle javase docs api lang system html exit 28int rel nofollow http docs oracle javase docs api lang system html exit 28int blockquote terminates running virtual machine argument serves status code convention nonzero status code abnormal termination blockquote 

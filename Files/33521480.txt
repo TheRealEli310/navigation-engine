@@ -1,0 +1,4 @@
+problems create entitymanager junit hsqldb 
+weird problem integration testing entity manager creator working log exception solve exception setuppersistence knowing solution road testing error 
+
+related jpa version question href http stackoverflow questions nosuchmethoderror javax persistence table indexesljavax persistence index nosuchmethoderror javax persistence table indexes ljavax persistence index hope helps 

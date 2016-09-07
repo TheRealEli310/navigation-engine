@@ -1,0 +1,4 @@
+hierarchy data shift 
+running recursive function obtain employee manager family tree requirement reserve manager structure imagine input array output array hierachy sorted manner show employee retains role senior manager times 
+
+building idea finding longest taking reference future boss padding yields code works fine case idea build bosses lookup table built longest leaf root path find boss lookup table make appears position appears longest path padding nulls 

@@ -1,0 +1,4 @@
+setting gregorian calendar correct day week 
+part program manipulating gregorian calendar setting date user specifies print correct month day year showing correct day week point edit days enum defined testerclass sample output user enters todays date program print march program printing su march edit months defined enum 
+
+john bollingers answer points reason youre anomaly due fact months based based method setting date incorrectly couple issues giving false impression youve set correctly day week parse user input set month calendar based user aka march john pointed month numbers based calendar thinks april good lookup youre properly day week sunday wrong month april day lookup array properly giving impression month set youre em calendars em month based incorrectly subtracting month makes day week wrong fix places lookup set 

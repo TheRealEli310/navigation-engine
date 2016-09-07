@@ -1,0 +1,4 @@
+constant interface anti pattern clarification 
+read interface common project constants bad practise href http en wikipedia org wiki constant interface rel nofollow constant interface anti pattern understood correctly reason provided implemented class expose constants public dont understand implementing place isnt static constants directly trouble guidance understand bit 
+
+realised fact interface implemented individual desired leaves room issues pointed namespace pollution conventional exposure public api prevent ability implement interface altogether class instantiated combination 

@@ -1,0 +1,4 @@
+ews api set instance class 
+develop ews api simple program href https github officedev ews api wiki started guide rel nofollow guide shows set exchangeservice variable service made good shows create message variable class title sending message program wont accept error program wrote wrong 
+
+error message states line checked exception handled constructor clause program handle constructor reference href https github officedev ews api blob master src main microsoft exchange webservices data core service item emailmessage rel nofollow github repo advise ide eclipse netbeans intellij idea development visit oracles href https docs oracle javase tutorial essential exceptions rel nofollow exception handling information 

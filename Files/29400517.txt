@@ -1,0 +1,4 @@
+standard elements class node 
+elements specific class entire document elements specific node document find iterate elements read class find solution library lot 
+
+ended jsoup method href http jsoup org apidocs org jsoup nodes element html getelementsbyclass 28java lang string rel nofollow http jsoup org apidocs org jsoup nodes element html getelementsbyclass 28java lang string 

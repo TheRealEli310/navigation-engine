@@ -1,0 +1,4 @@
+spring oauth2 sso authority granted authorizationserver 
+setup authorizationserver authenticate ldap request user authorizationserver directly specifc authority depending ldap group oauth2authentication resourceserver debugging userauthentication details authorities authority authority set role user ist authority user provided authorizationserver spring oauth2 resource tokeninfouri retrieve authority works userdetails provided authorizationserver 
+
+solution create custom userinfotokenservices provide explained href http stackoverflow answer similar question userinfotokenservices extract authorities respone endpoint authorization server 

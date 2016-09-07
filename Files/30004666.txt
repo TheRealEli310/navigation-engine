@@ -1,0 +1,4 @@
+properly exit javafx platform runlater 
+code doest exit properly close application issue call system exit platform exit 
+
+dont threads run fx application thread dont synchronization start stop timeline desired automatically terminates fx application thread stops 

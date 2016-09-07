@@ -1,0 +1,4 @@
+catch exception 
+catch exception compile rime error method fails fails return fails return 
+
+call inside block throw exception caught part top level statement 

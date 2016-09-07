@@ -1,0 +1,4 @@
+dynamically load xml files hive tables 
+folder stream complex xml files size 1gb load xmlfile data hive table hadoop data base br things ol li load xml file data hive strong dynamically strong explicitly writing strong create table strong command xml files stream automatically li ol stream complex xml files load hive tables manually writing create table command data loaded hive tables ol start li writing command line scripts create hive tables write code load xml data hive table li ol 
+
+question afaik hive intended manage data stored hive tables stored tables metadata added tables pointing real data case hive external tables thing create single big table data xml files stored future trick put xml files common hdfs folder location command question refer code hope helps 

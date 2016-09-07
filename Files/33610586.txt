@@ -1,0 +1,4 @@
+android widget radiogroup cast android widget radiobutton 
+created pragmatically radio groups radio buttons emulator crushes error wrong code 
+
+setting id views programmatically values values js assign id method return view witch matching id returned view cast class accidentally line radiogroup requested id checkedradiobuttonid found crash solve problem tag attribute individual view tag xyz writing 

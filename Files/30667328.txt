@@ -1,0 +1,4 @@
+spring integration filter discardchannel throwexceptiononrejection 
+dsl based spring integration flow puts messages filter messages component works terms filtering unwanted messages set set discard channel filtered messages ideas filter annotated class method integration flow class turned spring debugging discarded messages set picked ideas 
+
+annotation configuration annotation based configuration dsl annotation relevant configure dsl 

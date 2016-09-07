@@ -1,0 +1,4 @@
+generate json list map string string jax rs service jackson2 
+pom xml strong updated complete pom strong wanted generate json end simple map produces error message strong updated exception stack trace strong 
+
+moxy doesnt handle maps jaxb hood jaxb sucks maps jackson rid moxy dependency moxy default classpath jackson hr h3 update h3 repackages jackson em em jackson exclude depedency drill includes hr h3 update h3 guess doesnt work em em work adding jersey media json jackson jersey media moxy key em em declared yea work solution fact drill packages dependency problem jersey scans add ignore drills add provider jersey config havent tested times tested ordering dependencies deciding factor work work add jersey config 

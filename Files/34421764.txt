@@ -1,0 +1,4 @@
+exception thrown add onerror handling 
+added onerrorreturn doonerror fatal error heres code specifically heres error message additional information fatal error occur submitdatatoanalyze problem connecting server due bad connection 
+
+method return null null propagated chain npe case invocated subscriber throwable stays unhandled pass instance implementation option chain itll emit complete case pass subscriber implementation 

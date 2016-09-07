@@ -1,0 +1,4 @@
+javax ejb createexception create stateless ejb usertransaction allowed container managed transaction beans 
+xhtml page takes info calls method error major clue guess project jta managed tutorials found online usertransaction ee idea fix restructor code whould great switch project work jsf containers rest code hr hr 
+
+jta dont manually manage transactions reading se tomcat targeted tutorial require manually fiddling transactions ejb real ee inside ejb jta single method call counts default single transaction ee container manage start commit rollback transaction h3 h3 ul li href http stackoverflow questions convenient springjsf2 ejb3jsf2 convenient spring ejb3 li ul 

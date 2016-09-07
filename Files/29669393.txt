@@ -1,0 +1,4 @@
+override default spring boot application properties settings junit test 
+spring boot application default properties set file classpath src main resources application properties override default settings junit test properties declared file src test resources test properties usualy dedicated config class junit tests thought testconfig class trick properties overwrite application properties settings spring boot reference doc href http docs spring io spring boot docs release reference htmlsingle boot features external config rel nofollow externalized configuration invoking test successful dont set system property test execution put code unfortunatly successful simple solution override settings junit tests overlooked 
+
+override values javadoc blockquote test property sources selectively override properties defined system application property sources blockquote pre class lang prettyprint override 

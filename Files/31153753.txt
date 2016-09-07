@@ -1,0 +1,4 @@
+split string key pairs 
+string key pairs separates pairs add key pairs map achieve efficient hr feel code inefficient objects called function throw values 
+
+single call split single pass string code assumes string valid place em em bit efficient solution find code clearer chance optimization significant impact performance millions times important measure compare edit means code string split takes regular expression argument separator substring matches regular expression regular expression means colon colon separators 

@@ -1,0 +1,4 @@
+testing spring boot security simply 
+struggling testing access control urls protected spring security configuration test class whats easiest make tests pass withmockuser didnt work 
+
+add filterchainproxy directly apply href http docs spring io spring security site docs current reference htmlsingle test mockmvc setup rel nofollow reference included result ul li added li li added li ul reason communicate current user test method created spring securitys override found current strong update strong remember role method automatically prefixes role string passed based comment problem update configuration hasrole hasauthority annotation roles em alternatively em spring security 

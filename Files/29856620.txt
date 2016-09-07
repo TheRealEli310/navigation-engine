@@ -1,0 +1,4 @@
+linked list method 
+linkedlist elements type check list element based criteria override equals method class override hash method 
+
+override hashcode method object data structures hashes hashmap hashset strong strong implement hashcode function data structures equals method hashcode function implementing guarantee put data structure hashcode function good habit implement start 

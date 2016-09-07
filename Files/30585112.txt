@@ -1,0 +1,4 @@
+replacing fileservice api create blob file server side 
+fileservice api save files blobstore server side fileservice api july year href https cloud google appengine docs deprecations files api rel nofollow file api service turndown searching alternative create file byte server side save blobstore em createuploadurl em option upload save files blobstore client side create save files server side fileservice api searched migration documents href https cloud google appengine docs blobstore files api migration rel nofollow alternative option post em createuploadurl em appreciated reading 
+
+blobstore permanent shutdown starts google cloud storage href https cloud google appengine docs googlecloudstorageclient download rel nofollow google cloud storage client library fully integrated app engine making easy migration api saved object cloud storage generated blobkey starting object dont alter entire code possibly datastore blobkey object file identifier 

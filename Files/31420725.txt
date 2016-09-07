@@ -1,0 +1,4 @@
+deploying spring boot app war tomcat 
+web app spring boot application works perfectly embeded tomcat generating jar file generate war file deploy tomcat tons errors follow href http docs spring io spring boot docs current reference html howto traditional deployment html howto create deployable war file rel nofollow instructions success href https gist github rogelio blanco 9fa4081db0ee85882d88 rel nofollow log approaches failing advice application class pom http maven apache org xsd maven xsd 
+
+approaches found error create datasource hikari cp similar problem make datasource config section solved problem including found approach href http stackoverflow questions hikaricp starts mvn spring bootrun deployable war file documented spring boot documentation 

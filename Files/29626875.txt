@@ -1,0 +1,4 @@
+displayjdbc select query results 
+jdbc display data query user enters query results show displaying results wonky poorly formatted format displays normal table current code 
+
+tabs suggested href https docs oracle javase tutorial jdbc basics processingsqlstatements html rel nofollow format data depending type printed href http examples javacodegeeks core lang string string format rel nofollow examples 

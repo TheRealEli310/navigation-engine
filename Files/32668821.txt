@@ -1,0 +1,4 @@
+rxjava observable 
+scenario rxjava final basically import final immutable dataset expose cold expose expose clients monad deal constant lose flexibility instance decide rxjava jdbc query data directly call caching data expire free memory question situations reactive application constant data sets change flexibility easily changing behaviors 
+
+question suppose lots factors involved decision reactive api clear answer judgement call future hold blockquote observable constant data sets change blockquote maximal flexibility dont mind burdening client rxjava dont mind debugging difficulties youve long rxjava stacktraces observable constant data set change memory constraints change large data set suitable holding memory thing mind observables processing overhead volatile reads emission potentially operator chain performance reasons good cases data benchmarks determine interesting hear api designers netflix experience 

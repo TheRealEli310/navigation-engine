@@ -1,0 +1,4 @@
+pass object parameter processbuilder 
+pass object parameter processbuilder purpose run program seprate process code doesnt work test class test class executing remove parameter works somene pass object parameter 
+
+pass instance object process boundary shared memory solution pass em messages em processes command line arguments found theyre limited data serialized strings alternative serialize objects deserialize child process open parent childs send arbitrarily complex objects objects youd side copies object identity objects parent process 

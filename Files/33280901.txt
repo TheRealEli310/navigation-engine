@@ -1,0 +1,4 @@
+set image icon jbutton 
+set image icon jbutton code program runs errors image didnt image url wrong netbeans created folder named images source packages directory 
+
+issue resolved prefixing resource path slash denotes folder root location resources relative current class location credits partially href https stackoverflow users andrew thompson andrew thompson comment 

@@ -1,0 +1,4 @@
+android cryptography api generating iv aes 
+javax crypto cryptographic operations application aes encryption decryption generated iv prepended ciphertext enncryption specification iv generated automatically provided blockquote cipher requires algorithm parameters derived key underlying cipher implementation supposed generate required parameters provider specific default random values blockquote end ciphertexts dont random base64 bunch characters front iv iv bytes time library generates proper random ivs pops zeros happening 
+
+providers simply byte filled iv default emphasis quote blockquote cipher requires algorithm parameters derived key underlying cipher implementation supposed generate required parameters strong provider specific default strong random values blockquote front ciphertext starts bunch characters base 0x00 bytes make random iv generate 

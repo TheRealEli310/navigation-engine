@@ -1,0 +1,4 @@
+custom exception wraps multiple exceptions encouraged 
+coding library access db throwing exceptions end programmer jar library handle wrote custom exception provided wrap connection specific exceptions end programmer catch exceptions code make easy good practice coding libraries user catch nconnectionexception code 
+
+href http stackoverflow post wrapping exceptions single good hr wrap program throw exception time store list exceptions create single object exception nconnectionexception class refer href http stackoverflow structure store thrown exception object throw back newly created object class calling program catch nconnectionexception exception stored object act strong strong generally dont handle unchecked exception nullpointerexception calling program care 

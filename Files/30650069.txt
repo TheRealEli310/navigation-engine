@@ -1,0 +1,4 @@
+scheduling recursive handlers intentservice retrying http calls 
+implement exponential backoff retrying failed http calls scheduling thread time request fail problem intentservice dies scheduling thread handler call error class intentservice custom runnable em handler alive cleanest scheduling http retries exponential backoff em 
+
+main advantage handles background threading inside method reason manage handler case heres approach schedule delivery intent service retry information intent delivered thinking simply lets intentservice handle call background schedules intent time fails adding extras times retried long retry delay send multiple intents service fails rescheduled latest intent delivered intents considered equal intents identical exception extras attached problem unique requestcode intent rescheduled creating lines suppose shared preferences store request code increments time schedule retry 

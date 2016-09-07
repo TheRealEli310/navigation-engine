@@ -1,0 +1,4 @@
+libgdx screen render lifecycle 
+problem related screen render lifecycle basically screens menu game gamescreen render method call world update render hide method gamescreen dispose spritebatch redner class change screen game menu world update crashes dispose making crash question set screen middle render cycle render cycle finish screen meaning calling batch dispose rendering finished problem 
+
+basically correct screen calls method called continue rest code method killing sprite batch draw dont call method fact bad practice screen call reserve game class owns game class put spritebatch game subclass screens share fairly big object allocating deallocating reason 

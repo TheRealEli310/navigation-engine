@@ -1,0 +1,4 @@
+implement basic authentication spring boot 
+href https spring io blog spring angular js secure single page application rel nofollow href https spring io blog login page angular js spring security part ii rel nofollow tutorial create skeleton angular js application based backend code found href https github dsyer spring security angular tree master single rel nofollow authentication start spring boot writes console random password login started application user password printed console start img src http stack imgur dknr4 png alt console output user accounts fixed passwords hardcoded application breaking compatibility angularjs suppose modify href https github dsyer spring security angular blob master single src main demo uiapplication rel nofollow uiapplication explained href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web builders httpsecurity html rel nofollow wont break angularjs 
+
+solution 

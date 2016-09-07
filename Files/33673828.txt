@@ -1,0 +1,4 @@
+context initialization failed error spring mvc 
+receiving exception start spring mvc application deployed war file tomcat8 blockquote context initialization failed error creating bean entitymanagerfactory defined biz aspsol solarix init configuration webappconfig invocation init method failed nested exception lang nosuchmethoderror javax persistence jointable indexes ljavax persistence index blockquote strange run application problems intellij idea deployment war file work maven dependency tree 
+
+found solution problem included hibernate jpa api dependency pom xml file 

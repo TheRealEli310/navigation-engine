@@ -1,0 +1,4 @@
+unwrap specific field json jackson 
+json payload unwrap specific field discard words bind directly pojo 
+
+lots ways deserialize serialize deserialize creator method takes image tree node creator doesnt constructor static method jackson deserialization youd define custom serializer reserialize stddelegatingserializer converter wrap string back objectnode 

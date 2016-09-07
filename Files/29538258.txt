@@ -1,0 +1,4 @@
+benchmark comparing 8u40 8u31 multiplying biginteger values correct 
+href http bugs view bug bug id rel nofollow jdk add c2 x86 intrinsic biginteger multiplytolen method fixed 8u40 update didnt expect speed biginteger multiplication 2x 3x times results benchmarks calculate factorial formulas jvm updates strong 8u31 strong strong 8u40 strong expect jdk improvement leads run href https github plokhotnyuk scala blob c63543f052620156d076e425bc1483d1a94df480 src main github plokhotnyuk scala javafactorial l24 l37 rel nofollow code faster casual benchmark strong edit strong verify findings prove speed due c2 intrinsic code tested functions 
+
+investigation list jvm options found added 8u40 switch required intrinsic results 8u40 close results 8u31 

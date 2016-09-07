@@ -1,0 +1,4 @@
+kafka producer config send message immediately 
+kafka producer send single message topic message immediately console consumer observe message arrives notice message immediately run producer close immediately sending isnt correct producer configuration setting target aware mess configurations versions simply find working expect documentation 
+
+found solution reasonable involves running future returned producers send command changed send command nice hear experienced kafka users issues approach interested learn configuration setting producer achieve thing send single message immediately running future 

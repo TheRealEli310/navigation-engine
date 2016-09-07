@@ -1,0 +1,4 @@
+maven project spring mvc deploying glassfish error 
+spring mvc web app created maven project deploy run glassfish receive error error blockquote deploy springmvcjdbctemplate deploy failing error occurred deployment exception loading app lang illegalstateexception containerbase addchild start org apache catalina lifecycleexception org apache catalina lifecycleexception lang classnotfoundexception microsoft sqlserver jdbc sqlserverdriver server log details blockquote pom xml file mvcconfiguration file spring mvc achetype maven project added sqljdbc4 jar file users7d0 m2 epositorycommicrosoftsqlserversqljdbc44 receive error fix error advance 
+
+place sqlserver jar file lib dir glassfish server 

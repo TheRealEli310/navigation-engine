@@ -1,0 +1,4 @@
+repository access control spring data rest based user princpal 
+attempting implement fine grain access control taking advantage spring data rest working securing users modify insert data belongs making lock access current principal repository bit tedious accomplish feel free running problems methods id parameter select entity input id perform auth check type authorization repository edit ksokol working added bean class bean extends overrides return holds custom principal 
+
+href http docs spring io spring security site docs release reference html data html spring security access security context spring data jpa queries add bean bean context access spring data queries caution queries errors hadnt time test 

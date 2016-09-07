@@ -1,0 +1,4 @@
+authenticate users oracle database jdbc spring security 
+newbie spring mvc created page authenticate users dynamically database spring security spring security configuration userservice connection database works problem inputs test username password database return user exists database 
+
+username password stored strong authentication strong object check db data suggested comment record back exists check password passwordencoder password em em encoded encrypted hashed 

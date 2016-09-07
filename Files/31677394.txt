@@ -1,0 +1,4 @@
+filtering problems lucene 
+working lucene filter results query dont add occur clauses dont filters influence rank retrieved documents filters remove improper documents order query results sort rule piece code bq booleanquery actual users query occur occur clauses filters occur filter clauses added bq filter category field filters working vell results missing approach filter querywrapperfilter filteredquery returns results read href https lucene apache org core core org apache lucene search filter html rel nofollow documentation guess problem apply filters sort time lot stuff class filter deprecated input move forward 
+
+achieve multiple boolean queries assume results match filters 

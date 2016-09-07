@@ -1,0 +1,4 @@
+validate ipv6 ipv4 address inetaddress 
+project standard api inetaddress getbyname string address validating ipv6 v4 address facing problem dns configuration valid network validation method takes time return result searched google alternatives avoid dns validation option ol li suggest convert ipaddress string byte array required input parameter method li li explain validate address local host li ol 
+
+approach guavas parser href https code google guava libraries source browse guava src google common net inetaddresses rel nofollow https code google guava libraries source browse guava src google common net inetaddresses 

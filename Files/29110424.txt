@@ -1,0 +1,4 @@
+saving dynamically created button android 
+save button make dynamically separate activity work createbutton xml activity main creates button dynamically mainactivity navigates save button immediately back original buttons appreciated newbie learn stuff side 
+
+youre setting view basically displays layout inflated inside current activity youre starting activity launches completely independent view display default buttons set text add button inside actual activity good practice pass string intent extra method place button pasting code method strong edit strong youre achieve bit thought approach activity perfect href http developer android training basics intents result html rel nofollow documentation method assume application activity shown launching activity issuing providing constant request code method remove line place code mainactivity override method implementation finally rebuild layout activity relaunched place code inside delete intent extra stuff 

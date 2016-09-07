@@ -1,0 +1,4 @@
+completion handler nsurlsessiontask run 
+perform simple authentication server swift client server httpserver code takes post request username password server returns true username password correct false json data problem lies swift client run completion code task dont connect server run localhost client code server code shown completion code wouldnt running possibly give answer fix strong swift client strong strong server strong 
+
+program terminating server chance respond guessing standalone app wasnt concurrently running inside swift app running issue 

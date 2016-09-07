@@ -1,0 +1,4 @@
+compare values string biginteger 
+output condition v1 equals v3 result false values difference conditions make condition result true 
+
+rohitjain commented type check method case return true 

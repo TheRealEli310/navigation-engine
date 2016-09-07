@@ -1,0 +1,4 @@
+write sparql query retrieving data owl file 
+generated owl file protege access strong stationcode strong property values instances class strong railwaystation strong owl file format pre class lang xml prettyprint override write sparql query purpose current query pre class lang prettyprint override exception pre class lang prettyprint override 
+
+problems file query declare namespace xml rdf file tags specific namespace added base namespace case protege genereted namespace file add end base namespace finally query add prefix rdf rdfs access stationcode property values instances class railwaystation sparql query answering tested file returns good result deliberately didnt namespace query immediately test data changing namespaces good luck 

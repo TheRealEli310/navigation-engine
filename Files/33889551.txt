@@ -1,0 +1,4 @@
+display method return boolean javafx 
+class called gui manages application user delete account program warning box pop demand confirm cancel action doesnt accidentally delete account gui class occurred user alertbox class user click thought making display method boolean heres problem event listener expression return values inside callback type void thought ill make close method return boolean remembered original function called display method return variable close method call close wont work assist problem 
+
+strong javafx alerts perform task easily strong strong result strong returns boolean check user clicked comparing inside condition understand href http stack imgur vgjko png img src http stack imgur vgjko png alt enter image description default alert buttons button cancel customize alert add button types add alert check button pressed user 

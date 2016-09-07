@@ -1,0 +1,4 @@
+invoke object constructor deserializing json libgdx 
+objects constructor called deserialization invoke constructor approach load json object heres implementation 
+
+default libgdx json reflection generate instances deserialization create empty object add field values constructor sets players maxspeed wont called fancy logic executed write deserialization logic href https github libgdx libgdx wiki reading amp writing json customizing serialization rel nofollow customizing serialization 

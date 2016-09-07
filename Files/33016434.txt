@@ -1,0 +1,4 @@
+propertysource classpath application properties allways return null 
+strong application properties strong strong appconfig strong strong hibernateutil class strong config db locally remotely strong local hibernate class return null em em strong 
+
+annotation load properties file application context spring loaded configuration class extra piece code declare static bean propertysourcesplaceholderconfigurer helps resolve placeholder href http docs spring io spring docs current javadoc api org springframework context support propertysourcesplaceholderconfigurer html rel nofollow http docs spring io spring docs current javadoc api org springframework context support propertysourcesplaceholderconfigurer html 

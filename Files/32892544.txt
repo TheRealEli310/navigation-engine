@@ -1,0 +1,4 @@
+android illegalstateexception thrown 
+loginactivity class user clicks register button code sets login session true switches activity loginactivity mainactivity heres login code snippet heres loginmanager file deals login process okhttp http library run application shows toast message suddenly quits error log bug catch phrase onresponse method loginmanager file fix code longer catches illegalstateexception advance 
+
+general answer proper avoid runtimeexception fix code catched program normal circunstances lets case arises httpconnection closed calling method 

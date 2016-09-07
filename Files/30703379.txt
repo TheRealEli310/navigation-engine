@@ -1,0 +1,4 @@
+set jenkins build number artifact 
+artifact project jar add jenkins build number order project jar build number 
+
+trick buildnumber set jenkins build number edit dont access jenkins configuration works buildnumber build number 

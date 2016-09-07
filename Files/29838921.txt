@@ -1,0 +1,4 @@
+spring prototype bean reference spring configuration 
+page bootstrap applicationcontext xml href http docs spring io spring javaconfig docs m4 reference html ch06 html rel nofollow http docs spring io spring javaconfig docs m4 reference html ch06 html applicationcontext refer foo creating reference foorepository time invoke instance foorepository defined prototype fine instance foorepository returned instance foo foo xml file prototype ol li set foo instance time foorepository foorepository created li li instance foo xml file li ol 
+
+remove entry xml define hr strong approach strong refer href http stackoverflow 

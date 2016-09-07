@@ -1,0 +1,4 @@
+spring ws save xsd validation errors 
+springws soap service validate works fine error returns spring generated error response reaches endpoint chance process strong log save full error message database strong found question href http stackoverflow questions spring ws error messages validation fails spring ws error messages validation fails work 
+
+extend redefine method standard implementation href https github spring projects spring ws blob master spring ws core src main org springframework ws soap server endpoint interceptor abstractfaultcreatingvalidatinginterceptor dumps parsing errors dump incoming message access messagecontext getrequest method class xould 

@@ -1,0 +1,4 @@
+set user defined language xpages 
+xpage set user defined language page loads language set stored document database beforepageload problem context reloadpage language set context reloadpage kind problems loading page find set language page reloading page 
+
+hope correctly extending answer henriks solution based comment setting resource bundle correctly compute context variable document variable accessible hope helps 

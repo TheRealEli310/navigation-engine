@@ -1,0 +1,4 @@
+image splashscreen javafx application hiding automatically 
+simple png image file show javafx application loading netbeans ide splashscreen added project properties run vm options splash path image splashscreen starts nicely wont close application started sits screen close application completely documentation href http docs oracle javase docs api awt splashscreen html rel nofollow http docs oracle javase docs api awt splashscreen html splash screen window closed automatically window displayed swing awt javafx swing awt application close appreciated 
+
+answering question splash set vm options splash path image javafx close hope helpful 

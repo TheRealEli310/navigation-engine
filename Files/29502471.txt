@@ -1,0 +1,4 @@
+user login sqlite database lang nullpointerexception 
+problem database check username password user query select specific row check password entered user error lang nullpointerexception login page call method thinking cursor fail wondering thinking change changing statement luck database handler query check login user class databasehandler 
+
+edit make initialize class extends make call dont initialize null call youre call oncreate addition youre querying columns database access twenty columns cursor check return general cursor null make work short term factoring code dont query rows make work ideally create constructor class parameters case modified code good check return function 

@@ -1,0 +1,4 @@
+bukkit delayed task inside loop 
+make gun plugin bukkit build burst fire feature loop delayed task inside delayed task code create bullet theoretically code add bullets wait tick add bullets wait tick loop pre class lang prettyprint override eclipse demands player gun final dont run fire set code loop run delay tick cycles 
+
+experimenting longer delays spigot reference realized ticks delay ticks task runnable runs knowing loop increase ticks delay proportionally pre class lang prettyprint override runs task ticks previous fires burst 

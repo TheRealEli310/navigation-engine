@@ -1,0 +1,4 @@
+convert image mat bufferedimage 
+source code open image opencv mat operation convert image displayed jframe figure pass arguments 
+
+heres code ago works problems pass existing bufferedimage worked fine pass null bufferedimage 

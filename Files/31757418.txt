@@ -1,0 +1,4 @@
+send error message servlet jsp page 
+jsp page consists form takes email address check postgresql database email address servlet redirects user back registration page email address exists write error message form email address entered exists havent figured jquery form validation required fields 
+
+pass information servlet jsp pass parameter servlet jsp vice versa session pass page href http stackoverflow questions passing string variable servlet jsp strong servlet strong strong jsp strong make blank div email textbox set content based set method 

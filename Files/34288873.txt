@@ -1,0 +1,4 @@
+retrofit rxjava gson global deserialization change response type 
+api returns json object strong data strong field json object holds valuable information requests retrofit interface handle response dont strong boolean success strong field id omit retrofit interface gson neat rx function automatically transform edit json edit manged retrofit interceptor manually modify response body works suggestions post 
+
+solution interceptor great managed solve rx transformer added custom api exception throw wrong easy handle onerror robust strong response wrapper strong strong error object returned success false strong strong throw exception success false strong strong transformer strong 

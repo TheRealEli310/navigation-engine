@@ -1,0 +1,4 @@
+connection reset ftp 
+connect ftp server ftp simple program jdk7u79 apache commons net similar questions href http serverfault questions setup ftp server windows http serverfault questions setup ftp server windows href http stackoverflow questions ftpclient uploading file socketexception connection reset ftpclient uploading file socketexception connection reset connect method exception executing command adminstrator luck created signed certificate iis windows connect site ftp filezilla asks prompt trust certificate connect server guide wrong 
+
+ah create ftpsclient parameter true ftpsclient true running ftp default port 

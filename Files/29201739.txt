@@ -1,0 +1,4 @@
+recursion find double array 
+array data goal find number elements double simple loop itd issue finding section code recursively noted question marks trouble determining compare found previous method call current method call 
+
+passing calculated result back calling method call wont work pass wrong values method fixed remove 

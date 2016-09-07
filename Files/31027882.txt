@@ -1,0 +1,4 @@
+spring security access denied post 
+posts related problem recover url path users edit works fine redirected user edit page access page post spring security deny access page methods mapped controller class form post spring security xml 
+
+noticed youre csrf protection default protects http verb modifies resource put post delete youre springs form tag csrf token automatically included hidden input form check source browser verify csrf token youll read href http docs spring io autorepo docs spring security ci snapshot reference html csrf html rel nofollow csrf protection configuration spring reference 

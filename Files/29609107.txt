@@ -1,0 +1,4 @@
+custom listview arraylist multiple contents 
+made class named student add objects students arraylist activity android make object clicking add button simultaneously show student address custom listview activity means list students arraylist layout make adapter arraylist complete code 
+
+heres working code add row mainactivity class activity main xml student class custom row xml output img src http stack imgur xulzb png alt enter image description img src http stack imgur 5cepw png alt enter image description img src http stack imgur l8qvh png alt enter image description img src http stack imgur ilo93 png alt enter image description 

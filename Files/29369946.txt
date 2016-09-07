@@ -1,0 +1,4 @@
+setting layoutparams linearlayout nested linearlayout relativelayout 
+classcastexception thrown change linearlayout width height nested inside relativelayout code dynamically running program importantly solve android state clear anyones kindly file mainactivity xml file activity main xml exception thrown 
+
+type type encapsulates thing change params change check whats type encapsulates case encapsulated 

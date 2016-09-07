@@ -1,0 +1,4 @@
+building war file maven missing files directories 
+build war file maven plugin project structure building war file web inf meta inf content webapp directory missing public resources views web inf dir war file consists classes lib directories web inf spring web inf web xml missig maven pack webapp web inf directory content war file 
+
+mismatch configuration structure project configuration webapp sources inside directory sources suggest move webapp sources inside update configuration default webapp sources inside 

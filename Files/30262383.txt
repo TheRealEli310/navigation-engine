@@ -1,0 +1,4 @@
+dependency injection dagger2 android 
+fan dependency injection give pre class lang prettyprint override inject facebooks callbackmanager lets start created lot classes write code make developer life easier pre class lang prettyprint override pre class lang prettyprint override classes changed activity pre class lang prettyprint override doesnt work null whats wrong 
+
+edit facebookcomponent initializedependencyinjector method 

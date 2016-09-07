@@ -1,0 +1,4 @@
+error exception thread main org lwjgl opengl openglexception invalid operation fix 
+netbeans programming language os windows x64 make game engine thebennybox href https www youtube watch kpeze9xsvis amp index amp list pleetnx uptbxp b2yupuklflxbznwill5 rel nofollow tutorial part run project error message shader game dont error fix codes fix comments 
+
+href https www opengl org sdk docs man3 rel nofollow opengl reference pages blockquote gl invalid operation generated current program object blockquote bind shader program method href https github bennyqbd 3dgameengine blob d8778e00209978515176217952dc615997c7e0a0 src base engine maincomponent rel nofollow class tutorial called shader program bound call program bound means thrown isnt issue frame program bound working perfectly debug mode switched means lwjgl wont silently ignore opengl errors throwing exceptions switch debug mode recommend bind shader program end constructor frame long shader program work perfectly 

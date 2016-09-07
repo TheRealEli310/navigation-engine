@@ -1,0 +1,4 @@
+compare time sql timestamp 
+code considers date compare instances timestamp compare time portion timestamp date considered compare comparison takes date account 
+
+solution href https docs oracle javase docs api util date html gethours rel nofollow href https docs oracle javase docs api util date html getminutes rel nofollow timestamps deprecated methods 

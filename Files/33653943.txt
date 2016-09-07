@@ -1,0 +1,4 @@
+codehaus mojo gwt maven plugin project fails compile 
+compile gwt project eclipse created project gwt maven plugin archetype pom likt run error looked posts solutions worked error 
+
+gwt support source level set possibly youre mixing server client code maven module bad idea server side gwt snapshot beta smoke test released coming days btw explicit error higher logs unsupported 

@@ -1,0 +1,4 @@
+solve spring security access url login 
+created sample spring mvc security application code based configuration xml configuration application working fine user access url login application resolve problems users access url login process 
+
+firstly include bohuslav burghardt suggested 

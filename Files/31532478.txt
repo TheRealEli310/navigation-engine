@@ -1,0 +1,4 @@
+lazy loading querydsl 
+dao framework named querydsl launch query querydsl fetches results isnot desired soultion lets load results lazy form 
+
+eventually implemented lazy list works 

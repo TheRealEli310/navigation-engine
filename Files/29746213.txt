@@ -1,0 +1,4 @@
+issue xml parsing child tag values 
+parse dynamically generated xml predefined structure xml file xml xml details attribute controller tag content label tags code attribute controller tag content label tags output 
+
+current code iterates control elements inside control element retrieve correct descendants label calling getelementsbytagname label xml multiple resources tags multiple labels decide deal retrieve resource tag check lang attribute process en label 

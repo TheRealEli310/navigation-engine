@@ -1,0 +1,4 @@
+jackson serialize composition json 
+factoring response client current response serialized jackson2 works fine passing setting action entity fields point direction find 
+
+expert jackson assume long serialise action class jackson gson serialise gson make classes resource environment examples compatible gson jackson put correct annotations work fine edit create common class youre planning adding action resource environment dont classes code lose ability type permission object 

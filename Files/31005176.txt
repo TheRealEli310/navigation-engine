@@ -1,0 +1,4 @@
+jackson gson apply map pojo 
+lets pojo fields map bunch properties map nicely fields pojo apply properties map pojo jackson method creates fresh instance pojo isnt easier experience gson lying gson 
+
+create objectreader update existing instance root json object instantiating method create updating reader existing declaration equivalent em addition em didnt answer question dont make record json map finagle things jackson read map directly write json token buffer read back btw laborious serializing token buffer deserializing fact implemented big change functionality 

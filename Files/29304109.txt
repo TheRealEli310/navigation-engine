@@ -1,0 +1,4 @@
+cosine similarity document distance 
+documents asked compute frequency occurrence word documents doc1 doc2 word cat appeared appeared times total compute frequency appearance google search nights found great algorithm called cosine similarity understand works dont implement convert words vectors suppose input wood chuck chuck woodchuck chuck wood convert words vector space make array words iterate array count variable times word occurred doesnt count variables helping figuring 
+
+components unique words documents account frequency word simple make keys values list words document add entry end counts values words keys make adding entry exist initialize details em pseudocode em vectors words keys counts respective documents walk words work part 

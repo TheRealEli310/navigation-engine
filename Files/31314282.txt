@@ -1,0 +1,4 @@
+access http response text tomcat error page 
+tomcat apply tomcat lets definition suppose return http servlet jsp access http response text message tomcat shows error page img src http stack imgur hz1l2 png alt tomcat error page write edit accepted answer assumed duplicate question mention solution 
+
+tomcat stores message string internal class standard access message javadoc httpservletresponse senderror int string blockquote error page declaration made web application status code passed served back preference suggested msg parameter strong msg parameter strong blockquote poor api design workaround put error message attribute request call response senderror error page extract message request attributes code error jsp page 

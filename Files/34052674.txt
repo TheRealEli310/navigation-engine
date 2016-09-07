@@ -1,0 +1,4 @@
+clustered quartz instances schedule duplicate jobs 
+tomcat web application schedules jobs quartz framework running instance ram jobstore recently plan move jdbc jobstore set cluster instance fails instance run job issues application scan business related database table schedule quartz jobs starting minutes deploy applications tomcat instances sets duplicate jobs scheduled quartz solve problem extract part code schedules jobs separate application make instance deployed sets jobs scheduled problem instance fails achieve fail case 
+
+make task scan business related database table schedule quartz jobs starting minutes cron task clustered quartz instance spring based solution idea convert spring based solution easily set cron trigger ten minutes set job require class instance spring context class instance public method invoked trigger fired method writing task scan database schedule jobs configure trigger job scheduler 

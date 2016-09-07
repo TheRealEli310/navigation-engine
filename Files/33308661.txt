@@ -1,0 +1,4 @@
+superclass subclass 
+fairly learning inheritance create subclass called betterrectangle superclass rec1 rec coordinates location width height size rectangle betterrectangle calculates perimeter area rectangle errors main method find symbols find rec1 getheight symbol 
+
+closely type class doesnt method wanted notice renamed variable changed type 

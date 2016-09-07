@@ -1,0 +1,4 @@
+reduce committed heap memory jvm 
+jvms consuming memory expected profiling found leak heap memory max till 9gb mb idle time committed heap increased till gb times 4gb idle time heap increases 800mb committed heap memory increased 5gb server reaches max memory size restart day questions ol li understanding committed heap memory allocated memory heap memory reduces reduced li li heap memory increases level mb committed heap memory increased level 5gb li ol memory settings servers 
+
+tune xx maxheapfreeratio maximum percentage heap free gc avoid shrinking default 

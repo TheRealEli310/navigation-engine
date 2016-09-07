@@ -1,0 +1,4 @@
+liferay lucene search working 
+implement lucene based indexing searching liferay custom service builder entity search fields entity problem searching indexed fields explicitly type search box searching liferay defaults entity successfully indexed fields search luke indexing indexer defined hits search method localserviceimpl class calling search method jsp localserviceutil class type search box results type results back ul li emtpy search query log full result set li li type blood query log empty result set li li type materialtype blood query log matching result set li ul user type free text box back matching results moment working free text search searching liferay default fields fix question posted href https www liferay community forums message boards message rel nofollow 
+
+set class override method class adding method class working 

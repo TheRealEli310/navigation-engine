@@ -1,0 +1,4 @@
+spring hibernate configuration 
+spring hibernate configuration facing sessionfactory null controller configurations code mistake configuration spring database xml orm song hbm xml songdao songimpl controller homecontroller 
+
+ending beans class songimpl defined xml named annotated service named default sessionfactory autowired null find info answers href http stackoverflow questions spring behavior mixing component scanning xml bean definition blockquote component scanning enabled spring create bean bean class defined spring config xml bean defined spring config file auto discovered bean spring create bean component scanning blockquote solution remove xml version bean dont autowire sessionfactory songimpl 

@@ -1,0 +1,4 @@
+numberformatexception converting binary string number 
+binary string chars bits convert number throws numberformatexception figure idea strange thing replace bit string left bit works bit indicating sign number make overflow bytes strong updated question strong answers basically parseint method handle sign bit assumes sign bit represents bit question convert binary string signed integer number suggested long situation int long explain assume 
+
+number youre parse bigger href https docs oracle javase docs api lang integer html rel nofollow max integer long whats maximum integer responding em update em section dont mind loosing information convert long int 

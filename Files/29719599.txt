@@ -1,0 +1,4 @@
+print linkedlist node object reverse order 
+method wanted access elements add loop print reverse order giving error node class linkedlist class explains error adding object element arraylist details 
+
+youre generic node type raw type 

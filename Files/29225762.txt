@@ -1,0 +1,4 @@
+exception thread main lang unsupportedclassversionerror org apache jena fuseki cmd fusekicmd unsupported major minor version 
+run apache jena fuseki error occurs fix 
+
+apache jena fuseki requires jdk upgrading version issue fixed href https issues apache org jira browse jena rel nofollow refer h1 update h1 code compiled higher version run compiled run 

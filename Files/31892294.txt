@@ -1,0 +1,4 @@
+spring messagesource message properties file 
+googling found problem appeared times suggested solutions working exception setup dispatcher servlet xml file properties file error en properties src main resources directly line code working giving exception mentioned prefixing classpath attribute didnt work ensured filename error matches attribute en dealt spring framework missing 
+
+days experimenting debugging finally figured problem class autowiring messagesource belong context messagesource bean definition declared dispatcher servlet xml context file developing web application business class declared application context xml couldnt find messagesource moved dispatcher servlet xml file work elegant solution solved problem previously 

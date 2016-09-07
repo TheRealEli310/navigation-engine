@@ -1,0 +1,4 @@
+input console client server program 
+written simple client server program send text client server vice versa printing servers data client print clients cli wrong suspect bug lines commented bug unable find wrong lines find code atmclient atmserver output figuring input clients console 
+
+long input stream remote socket open return loop end add kind signal text endmsg server send talking client client recognize exit loop 

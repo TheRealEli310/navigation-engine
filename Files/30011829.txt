@@ -1,0 +1,4 @@
+declare instance fields transient singletons 
+blockquote make singleton class implemented previous approaches serializable chapter sufficient add imple ments serializable declaration maintain singleton guarantee strong declare instance fields transient strong provide readresolve method item time serialized instance deserialized instance created blockquote leads question declare instance fields transient readresolve question author shuold declare instance fields transient singletons output 
+
+dont issue highlight single jvm class hold reference static singleton instance matter serialize restarting serialization reading file class loading happen deserialization performance consideration dont serialize values fields singleton serialize send network ignore values received 

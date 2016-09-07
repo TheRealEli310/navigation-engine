@@ -1,0 +1,4 @@
+android send post json data server 
+code send post data server android give idea sample send post json data server tomcat steps tips ol li create httpclient li li make post request url li li build jsonobject li li convert jsonobject json string li li set json stringentity li li set httppost entity li li set headers inform server type content li li execute post request url li li receive response inputstream li li convert inputstream string li li return result li ol 
+
+check happy year href http hmkcode android send json data server rel nofollow http hmkcode android send json data server 

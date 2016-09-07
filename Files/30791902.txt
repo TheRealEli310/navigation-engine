@@ -1,0 +1,4 @@
+rxjava subscribeon schedulers newthread questions 
+plain jdk simple rxjava prints words line line intertwined information thread main calls expected uncomment call printed isnt working expected start thread call print threads schedulers add call end main output suggest threads rxjava daemons case changed custom threadfactory similar concept implement custom scheduler mentioned change thread documentation newthread scheduler creates unit work isnt supposed create thread emissions 
+
+vladimir mentioned rxjava standard schedulers run work daemon threads terminate main thread quits id emphasise dont schedule thread schedule stream values individual subscriber newly created thread subscribing time give rxnewthreadscheduler dont change default schedulers wrap executor based scheduler schedulers supply parameter needed series href http akarnokd blogspot hu schedulers part html rel nofollow blog posts rxjava schedulers whichs implement permanent variant 

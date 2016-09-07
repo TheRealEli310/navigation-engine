@@ -1,0 +1,4 @@
+executor 
+executor line correct 
+
+correct past suggested implementation javadoc executorservice stopping fromt javadoc provide convenience edit fit pass number seconds wait good thing countdownlatch time waiting executorservice terminate add timeout latchs await needed future real world cases put latch countdown trys finally block real world application 

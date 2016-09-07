@@ -1,0 +1,4 @@
+cassandra jmx rmi server exportexception port 
+cassandra cluster centos working fine thing put strong cassandra env sh strong cassandra fails start error relevant configuration verified isnt running port isnt change port result helped ports recommendations manuals wasnt strong nodetool strong exception ideas 
+
+found solution problem line switched true start cassandra settings mentioned common port didnt problems strong nodetool strong started final solution problem ssl protocol support jmx solution switch working configuration works charm 

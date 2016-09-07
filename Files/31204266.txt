@@ -1,0 +1,4 @@
+sonarqube rule common duplicatedblocks import statements 
+problem rule common duplicatedblocks sonarqube plugin violation rule write colors hundreds shouldnt rule ignore imports duplicated imports rule assume 
+
+dont configure rule ignore duplicate blocks imports dont sonarqube tool write code follow rules mark violations false positives case static imports code readable maintainable static imports 

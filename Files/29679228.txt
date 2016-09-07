@@ -1,0 +1,4 @@
+camel return simple soapfault cxf spring ws 
+created proxy camel accepts soap http restful requests forwards correct web service camel unaware message structure doesnt wsdl soap http header cxf endpoint processing exception occur inside service found url invalid easy return valid soapfault directly camel write simple processor called onexception processor transform exception soapfault dont understand marshal response unauthorized actual message ps href http camel apache org soap html rel nofollow dataformat soap mentioned dont serviceinterface camel 
+
+move handling error scenario href http camel apache org exception clause html rel nofollow onexception block declare behavior marking exception handled imho makes cleaner returning soap fault result valid soap response build complete message structure dont type converter soap messages text stream marshal soap response code job hth 

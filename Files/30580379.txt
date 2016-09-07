@@ -1,0 +1,4 @@
+android studio back key work custom toolbar 
+created toolbar xml layout file include toolbar activity main layout file secondary activity back key toolbar write back arrow appears pressed info files mainactivity secondary activity back arrow activity main xml secondary xml 
+
+set activity child activity main parent activity navigating logical parent screen apps hierarchy pressing button action bar heres declare activitys parent manifest enable app icon button calling setdisplayhomeasupenabled 

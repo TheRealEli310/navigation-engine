@@ -1,0 +1,4 @@
+records set aerospike 
+records set aerospike bin 
+
+records belonging set scan api pass required set records specific bin secondary index refer href http www aerospike apidocs aerospike client aerospikeclient html scanall aerospike client policy scanpolicy 20java lang string 20java lang string 20com aerospike client scancallback 20java lang string rel nofollow doc details 

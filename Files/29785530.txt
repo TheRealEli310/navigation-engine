@@ -1,0 +1,4 @@
+find symbol class generated dagger 
+started dependency injection spun build application threw error dug found error classes generates class missing line throwing error line anntotates generated class href http stackoverflow questions autovalue find symbol class generated error question helped finding solution add package dependency adding line gradle build file led successful build question added transitive dependency hasnt faced issue assume couldnt find question 
+
+read info href https github google dagger issues https github google dagger issues basically solution youve include glassfish javax annotation library 

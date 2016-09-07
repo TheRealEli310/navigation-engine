@@ -1,0 +1,4 @@
+flyway init database 
+trouble configure flyway postgresql data source wihtin spring web app flyway execute migrate operation configure create blankapp schema version table run tomcat v6 server eclipse change init method init make create table blankapp schema version table created set init method migrate script v001 init sql simple create table exectuted table created additional line current version blankapp schema version table error tomcat logs setted logback google flyway trace lines context bean datasource bound meta inf context xml 
+
+version migration equal schema version blankapp schema version table run migration set initial schema version adding property run v001 script parameter 

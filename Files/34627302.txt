@@ -1,0 +1,4 @@
+noclassdeffounderror kafka api offsetrequest 
+write application real time processing apache storm kafka trident initialization tridentkafkaconfig error spout class main class pom xml http maven apache org xsd maven xsd version storm kafka storm core previous error googling found link href http stackoverflow questions lang classnotfoundexception kafka api offsetrequest classnotfoundexception kafka api offsetrequest 
+
+googling found link href https github wurstmeister storm kafka test rel nofollow https github wurstmeister storm kafka test found answer pom xml file adding code find compatible version kafka problem resolved 

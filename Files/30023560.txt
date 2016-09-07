@@ -1,0 +1,4 @@
+netbeans lang outofmemoryerror heap space 
+encountered error netbeans blockquote lang outofmemoryerror heap space blockquote time encountered dont deal explain error message increase heap memory 
+
+set netbeans ide project properties run vm options click project properties select run category enter arguments xmx512m vm options text box putting xmx512m vm options text box 512mb maximum heap size program 

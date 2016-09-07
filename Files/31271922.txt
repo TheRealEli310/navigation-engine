@@ -1,0 +1,4 @@
+tomcat requested resource 
+spring stuck open page greeting give default page index loading localhost index jsp work localhost greeting work project structure img src http stack imgur vsavx png alt enter image description web xml servlet config xml controller jsp strong update strong join localhost greeting page expcetion strong message strong error instantiating servlet class org springframework web servlet dispatcherservlet strong description strong server encountered internal error prevented fulfilling request strong exception strong strong root strong strong update strong guys destroyed web server tomcat project structure field problem problems missing libraries working intellij idea added run project white page logs 
+
+change controller method return names files case sensitive 

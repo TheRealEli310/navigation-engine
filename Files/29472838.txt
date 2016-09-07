@@ -1,0 +1,4 @@
+spring hibernate sessionfactory null 
+strong spring release strong strong hibernate final strong configuring starting web app strong tomcat strong strong sessionfactory null strong write wrong sources strong pom xml strong strong web xml strong strong spring xml strong dao layer create base abstract class abstractdao crud operations child classes specific methods strong abstractdao strong strong hibernatedepartmentdao strong hope beginner spring strong edited strong added tomcat log webapp loaded send request service call getall method nullpointerexeption sessionfactory strong edited strong added departmentresource jersey rest service 
+
+updating answer ol li web xml jersey servlet spring capable li ol web xml change ol start li springservlet class make maven dependencies exist jersey libaries li ol pom xml add pre class lang html prettyprint override ol start li make departmentresource annotation li li doesnt work spring li ol make spring give dao 

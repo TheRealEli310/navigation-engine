@@ -1,0 +1,4 @@
+mysql data connections spite closing resources properly 
+mysql frequently data connections error closing connections inside finally block class obtaining database connection strong connection pooling settings strong sample class connection closing exception logs multiple follow 
+
+potential problem code em em source unclosed dangling database connections draw attention lines code recognize exception occurs call statement result set database connection closed safer wrong closing statement result set attempt close database connection made general meme follow jdbc calls 

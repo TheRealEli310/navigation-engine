@@ -1,0 +1,4 @@
+gethostaddress returns reversed ip adress 
+cell phone ip address wifimanager wifiinfo classes returns correct ip address reversed result 
+
+address reversed referred big endian issue read href http en wikipedia org wiki endianness rel nofollow endianness programmers specially applications integrations migrations operating systems add gettting connection info wifi manager continue code tobytearray gethostaddress 

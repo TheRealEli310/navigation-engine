@@ -1,0 +1,4 @@
+maven cmd build test project 
+big server project related unittest file maven added unittest file build current unittest run dont build server project beginner blockquote mvn test dtest newunittest blockquote wait long time build server project build added unittest file 
+
+ul li em href https maven apache org plugins maven compiler plugin testcompile mojo html rel nofollow compiler testcompile em compile tests li li em href http maven apache org surefire maven surefire plugin test mojo html rel nofollow surefire test em execute tests li ul 

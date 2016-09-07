@@ -1,0 +1,4 @@
+libgdx screenmanager 
+working game libgdx switching screens lot thought id make screen manager set screen reference happy manager achieve send game object code set screen screen set gamescreen menuscreen id send game object constructor screen perfectionist call obsessing 
+
+create screen type return game implement screen methods create screen types extend myscreen create instance menuscreen gamecore trick freely set screens 

@@ -1,0 +1,4 @@
+bundle packaging maven bundle plugin goals executed 
+simple maven project packaging type bundle produces correct osgi bundle jar observe goals executed em em prevent problem goals checkstyle slow duplicate execution problem strong strong maven command line output removed irrelevant info notice plugins executed times execurted extra info parent pom pom osgi bundle strong update strong bug answer erlandsson href https issues apache org jira browse felix rel nofollow https issues apache org jira browse felix issue resolved 
+
+strong edit strong em rmuller em updated question bug href https issues apache org jira browse felix rel nofollow https issues apache org jira browse felix bug fixed version hr recall similar problem specifically bundle deployed upgraded downgraded solve problems dug deeper bug requirements configuration 

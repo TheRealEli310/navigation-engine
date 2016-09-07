@@ -1,0 +1,4 @@
+returning custom data type class 
+h2 background h2 wrote method navigate days months years method mydate class constructor method supposed return values h2 situation h2 wrote code methods return mydate type needed methods tostring h2 question h2 kinds methods return type mydate 
+
+statement return current modifying object mydate object change return method return current object shown 

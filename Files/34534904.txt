@@ -1,0 +1,4 @@
+set default extenttest failed 
+href http extentreports relevantcodes rel nofollow extentreports add reports test written selenium notice extenttest logs info passed pass log catched considered passed change test passed automatically singed failed 
+
+change behavior fail test case default design decision test framework testng junit nunit extent reports assumption start test pass info logs test case marked passed default assume test failed encounter pass test considered failed single fail status entire test fails test pass logs 

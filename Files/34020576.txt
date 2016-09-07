@@ -1,0 +1,4 @@
+eclipse freezes ui ubuntu 
+recently installed ubuntu updated automatically version develop eclipse installed fine configured needed path jdk special works fine eclipse ui ui freezes time create project project created correctly time run program program runs correctly xd fault tasks idea happen solve double checked jre found people problems open source software oracle version version bit version edit forgot mention mars version installed netbeans exact problem thought graphics drivers problems installed problem idea strong update strong checked log file strange missing strong update strong run commands dan suggested result 
+
+found problem zolt dan pointed gtk problem strong solution strong tested eclipse ol li window preferences general appearance li li change gtk theme theme li ol fixed problem 

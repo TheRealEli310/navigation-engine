@@ -1,0 +1,4 @@
+unable add text jtextarea function 
+made simple program text area button button suppose add text doesnt work em side functions short dont function line codes em create jframe textarea scrollpane adding scrollbar finally button click button doesnt text added jtextarea forget 
+
+textarea returning jtextarea everytime called buttonaddtext function calling textarea adding text newly created text area contained scroll pane pass reference text area textscrollpane buttonaddtext functions work change textscrollpane buttonaddtext accept jtextarea parameter dont call textarea functions anymore create text areas jtextarea object passed functions 

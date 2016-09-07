@@ -1,0 +1,4 @@
+check runtime exec cmd completed 
+check runtime exec cmd completed running check command executed program process check blocking current thread stopped running program runtime exec cmd executing 
+
+href https docs oracle javase docs api lang process html rel nofollow instance manipulate execution runtime inputstream outpustream process instance href https docs oracle javase docs api lang process html waitfor rel nofollow method current wait termination subprocess control completion process runtime depends process returns simple process result block current thread process ended 

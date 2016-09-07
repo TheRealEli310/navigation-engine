@@ -1,0 +1,4 @@
+creating sql server datasource jboss eap 
+working web service application jboss eap requires datasource sql server created downloaded extracted sqljdbc jar file application server referencing eap configuration guide couple websites grateful guide steps register datasource application server 
+
+modules folder sqljdbc inside folder structure create module xml file folder similar finally standalone xml datasources section drivers definition references module hope helps 

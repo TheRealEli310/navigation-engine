@@ -1,0 +1,4 @@
+activity action bar supplied window decor 
+problem custom navigation drawer compile application error messages activity action bar supplied window decor request window feature action bar set windowactionbar false theme toolbar strong mainacitvity strong strong mainactivity xml strong div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override strong styles xml strong div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override oncreate div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 
+
+edit style xml override replace theme appcompat light noactionbar place 

@@ -1,0 +1,4 @@
+restlet dynamically attach resources router 
+heres basics working project creating mashup page web apis mashup page country information bll layer create mashup page html page country input chunk library method set template eventually ill database countries restlet server iterate countries similar manner resource return html method templatemanager approaching wrong strong find tims code worked required posted code altered version strong 
+
+hard code dynamic dynamic behaviors rest resources query parameter create rest resource bind class resource accept query parameter country html access definition access query parameter html content assume method return object based input string method exist find map incoming query parameters actual objects code 

@@ -1,0 +1,4 @@
+javafx textarea caret position coordinate 
+caret position screen coordinate javafx 
+
+getinsertionpoint method textareaskin drag handler skin class sun javafx coming youll things differently theyll break provide replacement works full drag labels text position textarea 

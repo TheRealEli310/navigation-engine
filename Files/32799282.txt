@@ -1,0 +1,4 @@
+enum values allocate memory call 
+convert ordinal enum simple method implicit locate source code question allocate array cache array called suppose conversion called 
+
+creates time array filled enum elements test simply operator doesnt mechanism lets create unmodifiable array return instance array risk change content br unmodifiable array mechanism introduced avoid arrays mutability problem method create return copy original array avoid recreating array simply store reuse result ways ul li create private array access content getter method li li store result unmodifiable collection ensure content changed list public li ul 

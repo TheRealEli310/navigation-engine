@@ -1,0 +1,4 @@
+size jbutton inside jpanel gridlayout 
+grid layout add objecs add background images buttons dont size images correct size buttons grid layout call faulty data size make images add buttons implement missing adding images button 
+
+idea based ideas href http stackoverflow questions maintaining aspect ratio jpanel background image maintaining aspect ratio jpanel background image basically creates special button takes image master image scales image fit button confines button needed img src http stack imgur 5cwxi gif alt scale warned slow scaling number images time id consolidate calls attempting scale image 

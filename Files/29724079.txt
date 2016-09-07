@@ -1,0 +1,4 @@
+enrollment register 
+write program store manage set students enrolled student date birth dd mm yyyy address gender stored program enable students added deleted program user search student assuming unique 
+
+good practice maintain unique identifier field student id student class maintain list driver program student tester main method make read input tester class driver class student class adding student object list read input tester class loop adding students user inputs search basis field search delete giving students delete remove constructor paramters student class change setters 

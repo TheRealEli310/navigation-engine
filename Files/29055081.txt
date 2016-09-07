@@ -1,0 +1,4 @@
+guice injectmembers constructor 
+problem dont guice bar injected correctly 
+
+work process constructing instance injections occur fact dependency injection works alternative effect guice construct instance inject fields demonstrates bad practices ul li bad form make constructors point dependency injection make clients class dont classs dependencies subverted construct class directly default constructor provide constructor factory method class package li li avoided prefer constructor injection things youre sharing instances threads guarantee publication post constructor initialization step makes class invariants harder reason li li youve inferred injecting code smell heavy metaprogramming framework code reflection great build magic functionality reflection extremely weird runtime errors wrong li ul 

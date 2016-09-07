@@ -1,0 +1,4 @@
+javafx drawing line translated nodes 
+draw line centers translated nodes code snippet running application show red green circle wont line centers circles coordinates circles cover circles translated doesnt work finally lets assume approach draw line connecting centers circles line drawn invoke ensure endpoint line side circle2 moves 
+
+managed layout pane meaning manages positions child nodes default centers translation applied positions nodes circles locations line expect make things work expect line correct position relative circles circles repositioned dynamically bind properties setting 

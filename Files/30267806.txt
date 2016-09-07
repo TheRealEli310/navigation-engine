@@ -1,0 +1,4 @@
+completablefuture return totally future 
+researching completablefuture promise languages scala js wrong didnt found description future returned setup callbacks return completely independent future unit test test initially created future isnt affected fact completion future callbacks basically callbacks setup future created returning future means documented javadocs 
+
+javadocs methods em em infinite amount things blockquote returns strong strong completionstage result exception br stage stage completes executes br action result code null br exception code null stage br br param action action perform br return strong strong completionstage br blockquote docs create implements invocation mention forward propagation results stage stage assume methods docs describe expecting backwards propagation stage stage em isnt mentioned em javadocs shouldnt expecting behavior place 

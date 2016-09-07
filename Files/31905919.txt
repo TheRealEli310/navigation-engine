@@ -1,0 +1,4 @@
+loop run method thread stopped isinterrupted method 
+good practice isinterrupted method thread end loop run method calling interrupt method 
+
+basically cases good practice condition loop cases catch signals called cases loop thread sleeping waiting exception caught catch block 

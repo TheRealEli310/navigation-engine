@@ -1,0 +1,4 @@
+jaxb unmarshall part xml instance org jdom element 
+working legacy product heavily relies version org jdom project href http mvnrepository artifact org jdom jdom rel nofollow http mvnrepository artifact org jdom jdom manually constructed xmls jaxb moxy jaxb implementation xml legacy code baz element org jdom element jaxb unmarshall element baz org jdom element unmarshal empty string baz null created xmladapter work attacking wrong angle suggestions achieve 
+
+thought share solution worked inspired post href http stackoverflow questions jaxb unmarshall xsany xml string part rq jaxb unmarshall xs xml string part mentions jaxb leaves doesnt map dom element marked xmlanyelement lax true ended xmladapter org w3c dom element intermediate class jaxb map print running baz tag assigned variable foo class 

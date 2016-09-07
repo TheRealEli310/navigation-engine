@@ -1,0 +1,4 @@
+hibernate jpa ignore fetchtype lazy manytoone relations 
+entity relation beeing loaded lazy code load products line hibernate log select issued initialize proxoy atccode expectation proxy atccode returned long dont access atccode loaded db ideas hibernate initializes proxy stripped explanation problem reality lots relations product declared lazy loaded egarly big select performance penalty 
+
+lots searching ended setting break point log statement generated stack trace finally found hibernate initialize proxy 

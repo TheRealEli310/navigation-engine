@@ -1,0 +1,4 @@
+proguard configuration android support v4 
+updating dependencies gradle android build local maven extras repository sdk proguard started throwing problems simply adding solves problem id specific elegant solution ignoring problems support v4 package rules added classes interfaces correctly processed proguard 
+
+solution mentioned 

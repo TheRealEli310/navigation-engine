@@ -1,0 +1,4 @@
+enable parent jframe close child 
+frame frame menu menuitem select program opens texts button enabled status parent panel set false problem click close panel turn parent panel enable 
+
+reacts closing event dialog add frame constructor dialog set variables switching mentioned comments modal elegant solving problem disabling parent frame dialog active href https docs oracle javase tutorial uiswing misc modality html rel nofollow tutorial 

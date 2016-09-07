@@ -1,0 +1,4 @@
+verify c3p0 running jpa 
+jpa persistence project dont hibernate tutorials follow found setup connection pooling c3p0 hibernate heres persistence xml file test connection pooling working dont log displayed output 
+
+find logging configuration href http www mchange projects c3p0 configuring logging rel nofollow http www mchange projects c3p0 configuring logging find switch debug pooling 

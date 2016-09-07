@@ -1,0 +1,4 @@
+setting browsermob proxy chromedriver 
+set browsermob work selenium project chromeoptions set proxy sources chromeoptions convert desiredcapabilities instantiating chromedriver instance code webdriver version maven repositories error alternative solutions hooking proxy chromedriver 
+
+youre older version browsermob proxy conflicts seleniums dependencies bmps id recommend latest selenium building href https github lightbody browsermob proxy rel nofollow latest browsermob proxy master latest versions chrome bmp usual 

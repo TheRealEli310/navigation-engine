@@ -1,0 +1,4 @@
+find longest substring equal amount characters efficiently 
+string consists characters calculate length longest substring equal amount characters order abcdb return abcc addbccba code works pretty string length make tips suggestions appreciated 
+
+ol li lets assume number occurrences character prefix length li li substring equal amount characters iff put position generalize characters position tuple alphabet li li iterate string maintain current tuple step update answer checking hash table stores occurrence tuple forget put tuple zeros hash map iteration corresponds empty prefix li ol 

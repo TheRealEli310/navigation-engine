@@ -1,0 +1,4 @@
+concatenating string s1 s2 produced output string s3 create heap constant pool 
+referring object constant pool pool giving true case amp result false means s5 pool 
+
+strings em compile time em constants compiler calculates compile time consults string pool result puts doesnt calculation compile time result interned theory thread change time instruction code set result author thread local variables compiler doesnt change definitions result keyword lets compiler strings replaced em final em variables calculate compile time result pool 

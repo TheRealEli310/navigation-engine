@@ -1,0 +1,4 @@
+hibernate connections cache 
+hibernate retrieve cached query load testing large loop iterations checked showsql sql statement generated hit db cached error sql shown hibernate properties database config 
+
+problem configuration arent connection pool configuring isnt proper connection pool injecting bean renders properties useless arent solution easy drop properties replace proper pool implementation recommend href https github brettwooldridge hikaricp rel nofollow hikaricp c3p0 personal preference 

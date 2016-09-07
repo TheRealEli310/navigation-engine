@@ -1,0 +1,4 @@
+android toolbar showing 
+androids toolbar appcompat works fine method call toolbar disappears layout reason front shadow covers toolbar dont bring toolbar top visible 
+
+docs blockquote change views order tree top sibling views ordering change affect layout parent container order dependent layout scheme linearlayout prior kitkat method calls requestlayout invalidate views parent force parent redraw child ordering blockquote href https developer android reference android view view html bringtofront rel nofollow https developer android reference android view view html bringtofront makes sense mess layout relative layout find rid shadow youre min sdk set elevation toolbar manually relativelayout 

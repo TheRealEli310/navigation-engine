@@ -1,0 +1,4 @@
+jpa deadlock delete table parallel threads 
+strong threads strong transactions entitymanagers strong refresh events object strong refresh events strong delete persist strong thread works good occurs dead lock deleting event threads deleting objects tables competition resources occurring strong primary key strong jpa block object looked code resource didnt found jpa locking table row ooracle trace file 
+
+solved bug jpa entities strong bidirectional onetoone relationship strong called entitymanager remove strong passing owner relationship strong made oracle throw deadlockexception eclipselink created statements entity delete bug jpa implementation handle 

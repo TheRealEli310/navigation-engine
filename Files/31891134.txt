@@ -1,0 +1,4 @@
+call sendredirect response committed sending post form 
+form method post jsp page action equals page sendredirect forward sending form br 
+
+redirect response committed error jstl el redirect tag statements jsp allowed page automatically redirect early rendering didnt trigger error 

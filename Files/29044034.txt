@@ -1,0 +1,4 @@
+tomcat7 ignores util logging logging properties 
+tomcat7 shindig instance completely ignoring config logging properties file web inf classes logging properties files var log tomcat7 logs appended missing log4j recommended approach visibility shindig classes log util logging 
+
+mixing href http docs oracle javase docs api util logging filehandler html rel nofollow util logging filehandler properties href https tomcat apache org tomcat doc api org apache juli filehandler html rel nofollow org apache juli filehandler properties change package filehandler logging properties file 

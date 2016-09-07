@@ -1,0 +1,4 @@
+treemap duplicate keys 
+found bug treemap custom comparator put key key exists override key creating duplicate keys verified prints true happening comparator code 
+
+comparator return consistent results treemap consistent equals case comparator violates constraint necessarily give consistent results strong strong instance maps return hr change implementation break criteria consistent equals return equal hr elaborated answered follow question href http stackoverflow questions create treemap comparator based external values hr comments blockquote comparator inconsistent results shouldnt language duplicate keys blockquote insert key treemap comparator search data structure key exists comparator inconsistent results treemap strong wrong place strong conclude key exist leading undefined behavior 

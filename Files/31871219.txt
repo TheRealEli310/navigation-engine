@@ -1,0 +1,4 @@
+getcurrentsession work opensession 
+code strong hibernate cfg xml strong strong hibernateutil strong sample dao class calling strong opensession strong strong getcurrentsession strong work things lucky works btw listener 
+
+href http docs jboss org hibernate orm javadocs org hibernate sessionfactory html getcurrentsession rel nofollow javadoc blockquote obtains current session definition current means controlled currentsessioncontext impl configured blockquote youre threadlocalsessioncontext href http docs jboss org hibernate orm javadocs org hibernate context internal threadlocalsessioncontext html rel nofollow javadoc blockquote currentsessioncontext impl scopes notion current session current thread execution interest usability decided default impl generate session request clean transaction session committed rolled back blockquote shouldnt close sessions obtained commit transaction begun close session documentation 

@@ -1,0 +1,4 @@
+constructor injection wildfly working 
+deploy simple war file wildfly final war web xml ejbs moment annotations websocket endpoint dependency injection constructor factories produce dependencies deployment error widlfly call null constructor exist constructor mainendpoint class called sessioncontrollerfactory producer method injection maven pom reference cdi library leave needed wildfly call constructor dependency injection btw based href http stackoverflow questions glassfish cdi constructor injection related response adding null constructor mainendpoint case deployment succeeds injection null pointer exceptions accessiong control mainendpoint 
+
+reason hasnt registered cdi bean make code annotation states accidently make included war archive strong managed bean class strong btw didnt mention file optional wildfly ee general test purpose add file set attribute check happen 

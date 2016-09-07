@@ -1,0 +1,4 @@
+swiperefreshlayout animation freezes onrefresh 
+swipe refresh animation swiperefreshlayout shows froze onrefresh runs starts spin onrefresh finished mainactivity onrefresh 
+
+solved put refresh code runnable changed refresh 

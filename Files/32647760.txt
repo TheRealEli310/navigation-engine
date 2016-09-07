@@ -1,0 +1,4 @@
+okhttp requestbody returning wrong content length 
+app href http square github io okhttp javadoc squareup okhttp requestbody html rel nofollow okhttp requestbody perform network requests body content length returned plain wrong problem case print request body length return strong strong request body attached captured interceptor request body length strong logged content strong needless mention completely screws request body fully read reason behavior 
+
+needed future reference reported bug retrofit beta1 fixed current snapshot href https github square retrofit issues rel nofollow https github square retrofit issues 

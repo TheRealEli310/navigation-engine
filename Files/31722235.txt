@@ -1,0 +1,4 @@
+spring security error applicationeventmulticaster initialized 
+config spring securiy project entity manager connection database configs web xml spring security xml spring datasource xml starting error pom xml http maven apache org xsd maven xsd config spring security correctly matter error hope wil 
+
+modify strong web xml strong directly add path strong spring security xml strong strong spring datasource xml strong 

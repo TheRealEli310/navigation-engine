@@ -1,0 +1,4 @@
+sending packets craftbukkits api working 
+send json raw messages players lot methods work thing eclipse validates code errors server runs code error lot things similar error problem helpful 
+
+method works perfectly fine version spigot craftbukkit newer version constructor packetplayoutchat takes byte argument boolean byte values determines chat message displayed action bar update craftbukkit spigot jar newest version href https www spigotmc org wiki buildtools rel nofollow buildtools 

@@ -1,0 +1,4 @@
+unknownhostkey connecting remote server jsch 
+connect remote server jsch error code sshmanager class run error blockquote jul pm javaapplication2 sshmanager logerror br severe null io filenotfoundexception br unknownhostkey xxx xxx xxx xxx rsa key fingerprint xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx br jul pm javaapplication2 sshmanager logwarning br warning xxx xxx xxx xxx session blockquote found answer br href http stackoverflow http stackoverflow reading decided deleted logged server terminal told hosts file updated error occurs code thing find weird fact line error inserted port strong strong inserted strong strong error 
+
+default jsch resolve hostkeys openssh file set explicitly call em empty em path break 

@@ -1,0 +1,4 @@
+print size args array bounds exception error 
+understand outofbounds error thrown case text book exercises include writing code print command line argument add command line arguements codes written exception thread main ava lang arrayindexoutofboundsexception addtocommandline main addtocommandline advance 
+
+run program passing arguments size args access element element exception suggest write pass argument command run ide run configurations add arguments 

@@ -1,0 +1,4 @@
+android app crashes launching intent settext textview 
+launch activity intents setting values textviews launched activity app crashes heres activity launch crashes set text code lines activity launching make intent truebutton onclicklistener method heres layout activity main xml layout activity game xml work launch main activity starts gameover activity start geoquiz activity 
+
+activity dont set content view textviews found returns nullpointerexception invoking 

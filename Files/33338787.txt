@@ -1,0 +1,4 @@
+apache cli optional command line arguments working 
+href https commons apache org proper commons cli javadocs api release index html rel nofollow works fine required arguments drop optional arguments spot problem code output code isnt mysecondarg captured change line optionalarg true hasarg true argument captured idea optionally leave argument 
+
+set numberofargs addition hasoptionalargs order work properly 

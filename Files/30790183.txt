@@ -1,0 +1,3 @@
+find descendants flat tree structure 
+flat data represent hierarchical relationship blockquote pre class lang prettyprint override blockquote table represents data table pid parent element row pid null pid means parent id root element pid similarly parent pid id create class represent table implement method pre class lang prettyprint override returned map element keys holds collections descendant nodes values item map corresponds element descendants element descendant order members output important pre class lang prettyprint override implementation pre class lang prettyprint override understand step 
+

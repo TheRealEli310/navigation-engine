@@ -1,0 +1,4 @@
+hibernate implemented discriminator approach multi tenant data 
+href http docs jboss org hibernate orm devguide en html ch16 html rel nofollow hibernate doc discriminator approach multi tenancy data planned implemented hibernate href http docs jboss org hibernate orm userguide en html single d5e3243 rel nofollow hibernate doc date telling support planned implemented source telling 
+
+href https hibernate atlassian net browse hhh rel nofollow hhh issue open hibernate doesnt support 

@@ -1,0 +1,4 @@
+spring model object null jsp 
+spring project problem model objects null jsp debug controller shows data jsp displayed errors log added spring tiles config recently tiles working fine objects stopped displayed earlier working fine searched lot checked links href http stackoverflow questions spring model object rendering spring model object rendering stackoverflow worked controller spring config xml tiles xml viewclient jsp 
+
+make correct change return type href http docs spring io spring docs current javadoc api org springframework web servlet modelandview html modelandview lang string rel nofollow modelandview accepts view 

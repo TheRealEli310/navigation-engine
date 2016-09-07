@@ -1,0 +1,4 @@
+mock instance null mock annotation 
+run test nullpointerexception missing 
+
+annotation href http www vogella tutorials mockito article html mockito usage rel nofollow tutorial 

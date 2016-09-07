@@ -1,0 +1,4 @@
+configure javadb eclipse part2 
+continuation previous question href http stackoverflow questions configure javadb eclipse configure javadb eclipse made code giving error strong error net connectexception error connecting server localhost port message connection refused connect strong hope guys code 
+
+current code found exception server started solve start server simple lib folder extracted folder derby server download command prompt start server eclipse install plugin start server references href https db apache org derby integrate plugin howto html rel nofollow derby plugin br href https db apache org derby integrate plugin start toc html started derby plug ins eclipse rel nofollow started derby plugin eclipse 

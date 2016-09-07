@@ -1,0 +1,4 @@
+http status expected csrf token found session expired 
+spring security login displays dashboard click error page blockquote http status expected csrf token found session expired blockquote research add http csrf disable add tells method undefined type httpsecurity find configuration code login xhtml myconfiguration securitywebapplicationinitializer appconfig web xml pom xml 
+
+added class supported spring security doc href http docs spring io autorepo docs spring security release apidocs org springframework security config annotation web builders httpsecurity html csrf rel nofollow class httpsecurity wrong configuration setting br post related code build gradle gradle pom xml maven web xml spring configuration code 

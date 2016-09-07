@@ -1,0 +1,4 @@
+copy objects passed method 
+pass means called method acts copy object passed original object object changed method creating actual copy unnecessary compiler implements program create copy pretty inefficient compilers javac gcj ecj case parameter declared make lot sense copy strong edit strong objects copied confused special copied immutable unknowings make thousandth object passed 
+
+pass objects passes reference words object isnt copied reference changing objects attributes inside method method href http javadude articles passbyvalue htm rel nofollow blockquote objects passed reference correct statement object references passed blockquote strong topic strong compiler simply copies reference chunk memory stack 

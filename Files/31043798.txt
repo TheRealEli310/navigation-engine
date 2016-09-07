@@ -1,0 +1,4 @@
+capture hwnd context menu 
+winapi capture windows code captures hwnd window user opens context menu menu bar options captured capture context menu window 
+
+capture entire screen pass window coordinates copy target window overlays including context menu method capture window overlapping target window sufficient window active context menu opened enforce foreground approach bit hacky works scenarios check windows class class popup menus check target window foreground copy target bitmap top window enumwindows add import definition 

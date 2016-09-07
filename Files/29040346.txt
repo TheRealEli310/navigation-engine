@@ -1,0 +1,4 @@
+convert callback based api based observable 
+library emits series objects callback object callback added call process started blocking method call creating emit objects blocking 
+
+scala pre class lang scala prettyprint override blocking blocking callback based architecture separates callback subscription process start case create completely independently process decision fork completely architecture handle finishing process add handler messagecallback interface handle errors add handler behold declared fundamental building stone rxjava href http reactivex io rxjava javadoc index html rx observer html rel nofollow title observer observer 

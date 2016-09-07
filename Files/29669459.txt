@@ -1,0 +1,4 @@
+skipping kerberos authentication prompts jsch 
+method class order connect server ssh jsch running command server problem running server prompts messages pre class lang prettyprint override order continue running manually press kbd enter kbd key user password add code code works user figure automatically press enter server asks password put code snippet shown line class logger returns pre class lang prettyprint override shows message pre class lang prettyprint override kbd enter kbd key pressed automatically username robot kbd enter kbd key password pressed keyboard 
+
+kerberos gssapi authentication set preferred claim username password kerberos prompts solution remove kerberos gssapi list preferred authentication methods reference href http stackoverflow sftp connection weird authentication 

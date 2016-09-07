@@ -1,0 +1,4 @@
+spring security moving authentication failure url 
+spring security learning writing sample code problem securitycontext redirecting authentication failure url understand whats wrong code snippets securitycontext xml controller class userslogincontroller index jsp suggestions make things work appreciated advance 
+
+login processing url post login page form correct login form change 

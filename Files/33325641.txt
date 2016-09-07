@@ -1,0 +1,4 @@
+check string digits 
+check passcode digits method isdigit br check character charat entire word 
+
+loop check character passcode 

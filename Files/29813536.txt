@@ -1,0 +1,4 @@
+android activity finish results black screen 
+broadcast received activities finish code results black screen top code code activitys called called results black screen called regard 
+
+finally found solution finishing delay works time finishes black screen displayed 

@@ -1,0 +1,4 @@
+accepting spring data rest uri custom controller 
+spring data rest webmvc application id add custom functionality batch operations created controller blended uri namespace id accept uris custom queries simply id registering custom converter entity id type configure controller adopts behavior auto implemented sdr controllers sort method call auto resolve uri entity work simply accept controller heres sdr config contrived controller applicationtype entities correctly managed sdr repository magic looked bit manage make work create converter utilizes repository called domainclassconverter calls underlying converter fails correctly parse long forgot mention ul li spring data rest li li spring hateoas li li spring li ul jpa repositories 
+
+turns track adding converter wrong configuration method desired functionality moving bean extension config class adding working intended feel bit silly throwing wrong spot place 

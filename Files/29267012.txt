@@ -1,0 +1,4 @@
+async killing hibernate transaction 
+open session view transaction model rest api work fine wanted add async abilities created productmanager makes call service exception added ability make async calls worked fine assume kills transaction opened hibernate adding based answer method annotated doesnt idea strong edited strong edited code log doesnt method asyncmarketservice getproducts doesnt call directly db calls methods make call added make call db transactional 
+
+hibernate transactions work basis thread transaction active achieve functionality async method calling bean annotated explain approach bit href http stackoverflow questions properly background thread spring data hibernate properly background thread spring data hibernate 

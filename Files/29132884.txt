@@ -1,0 +1,4 @@
+lazy field initialization lambdas 
+implement lazy field initialization deferred initialization statement taking advantage lambdas behavior property ignore fact solution guaranteeing multi threading valid express intention initialization deferred declare type property return invocations property avoid return previous instance achieve naming conventions replacing considered net framework version desired semantics 
+
+actual lambda simply update lambda solution thread net ensure concurrent calls property return result 

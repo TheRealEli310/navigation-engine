@@ -1,0 +1,4 @@
+collect synchronized arraylist streams 
+code create arraylist thread make thread 
+
+synchronized collection change collector provide implementation prefer concurrent collection case efficient copy constructor avoid unnecessary copies underlying array 

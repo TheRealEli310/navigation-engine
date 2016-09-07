@@ -1,0 +1,4 @@
+arrays tostring returns ljava lang string 2f67d81 
+string returns wrong print ing exact memory location array print contents array array arylines equal 
+
+printing wrong tostring object prints textual representation object called function means call array tostring print ljava lang string 2f67d81 textual memory representation object good solve list friendly arrays print easy arrays give proper output elements contained array 

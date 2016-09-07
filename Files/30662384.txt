@@ -1,0 +1,4 @@
+accept strings display common chars 
+code find common characters strings code produces wrong results giving output greater string lengths 
+
+clear achieve code produce results greater string length characters strings results num1 length num2 length case number positions character strings loop index charat calls strings case number unique letters strings run strings independently add letters set intersect sets number elements intersection set result 

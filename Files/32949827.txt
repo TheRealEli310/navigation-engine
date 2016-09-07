@@ -1,0 +1,4 @@
+datastax cassandra inheritance object mapper 
+cassandra persisting simple pojos class hierarchy subclasses superclass datastax driver object mapper problem object mapper doesnt recognize fields annotated superclasses structure implemented save subclass objects throws running structure solution redeclare userid deviceid field subclass ugly repetitive code ideas archive good structure practices case 
+
+time create separate classes repetitive structure create interface shared fields address objects implementations common ticket href https datastax oss atlassian net browse rel nofollow adding support vote capability driver 

@@ -1,0 +1,4 @@
+setup logging starting elasticsearch embedded mode 
+testing purposes elasticsearch embedded mode writing code start es node comfort yaml configuration layer top log4j case command line setup box keeping separate configurations sync configure log4j id existing file embedded world simple extract logging setup command line setup code 
+
+actual es code bootstraps system command line startup workaround assuming things basically parses configuration files extra time passes retrieved notice called 

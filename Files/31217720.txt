@@ -1,0 +1,4 @@
+jni delete temporary dll file exit 
+program jni program starts extracts required dll file temporary directory call file delete program exits dll file alternative solution dont mind languages vbscript accomplish permanently install dll write installer 
+
+yeah unload dll delete unloading avoid deleting copying dlls wrong ul li multiple instances application running deleting copying dlls interfering li li application crashes dll deleted li li anti virus programs application deleting creating dlls li ul installer turn application exe place dlls dlls pre defined location understand add location path variable running application 

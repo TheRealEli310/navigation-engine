@@ -1,0 +1,4 @@
+android listview fixed number rows screen size 
+create listview inside fragment display items matter screen size rest scrollable items fill space means item height adjusted dynamically items listview achieving linearlayout layout weights programatically determining current fragment size 
+
+managed height width ongloballayoutlistener decided wasnt good idea layout wise thought find interesting 

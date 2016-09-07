@@ -1,0 +1,3 @@
+create stream nullable object 
+idiomatic null check stream method receiving null call passed static helper give empty stream null 
+

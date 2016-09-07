@@ -1,0 +1,4 @@
+pass bukkit item meta color string 
+stumbled problem make code dynamic making class cal color code hardcoded white red pass argument string color function code explained code setting helmet players inventory code calling function cal define material meta data helmet set players inventory code works code throws error ide resolve symbol colorinput correctly pass string bukkit orgs color users pass color command argument hard coding colors 
+
+values objects class enum provided methods build red green blue components choose href https hub spigotmc org javadocs spigot org bukkit color html fromrgb int 20int 20int rel nofollow href https hub spigotmc org javadocs spigot org bukkit color html frombgr int 20int 20int rel nofollow href http www rapidtables web color rgb color htm rel nofollow pick number 

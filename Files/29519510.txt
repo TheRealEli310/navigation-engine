@@ -1,0 +1,4 @@
+object serialized implementing serializable interface 
+code animal cat test code works issue exception thrown expecting exception cat class implemented serializable interface code work 
+
+program throw exception arent place method prints stderr stream em em standard console output stdout highly stream ides show speak fix calling print exception message stdout print stack trace call practice find view stderr stream typical normal program output errors call exception message stack trace 

@@ -1,0 +1,4 @@
+stringbuffer final 
+string class immutable reasons class declared final reasons stringbuffer stringbuilder final mutable factors deciding string immutable 
+
+string concatenating operations single method code generating compiler extended typical case hand optimizations jvm past today hotspot jvm require reason change declaration classes extending overriding methods polymorphic behavior bit pointless method entire jre accepting returning instance href http docs oracle javase docs api lang appendable html rel nofollow href http docs oracle javase docs api lang charsequence html rel nofollow filling gap offering flexibility concepts em mutability em em immutability em concept classes simply depend kind methods operations class methods modifying contents methods declaring immutable class helps prohibiting subclasses introduce methods supporting mutation hard requirement 

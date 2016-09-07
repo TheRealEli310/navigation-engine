@@ -1,0 +1,4 @@
+open pdf file netbeans 
+application open pdf file click dedicated button approach run application netbeans shows pdf compiled code 
+
+explicitly give entire file path solve problem os support operation 

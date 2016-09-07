@@ -1,0 +1,4 @@
+figure add section soap header cxf 
+struggling writing cxf client successfully communicate service soapui client write working narrowed missing soap envelope add missing part code apologize information overload banging heads wall week fix issue wanted present information section soap envelope soapui generates works 
+
+reason cxf client signing body policy include policy colm 

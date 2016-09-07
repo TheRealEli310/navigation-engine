@@ -1,0 +1,4 @@
+calling method controller javafx 
+rootlayoutcontrol mainapp imageviewcontroller creating image gallery call method blockquote handleopen rootlayoutcontroller blockquote itll call method blockquote createimageview imageviewcontroller blockquote pass variable file suggestions 
+
+createimageview method public rootlayoutcontroller create method instance imageviewcontroller controller call setimageview method rootlayoutcontroller pass instance 

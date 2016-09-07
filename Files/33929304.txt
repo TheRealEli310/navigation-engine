@@ -1,0 +1,4 @@
+weird exception invalid receiver type class lang object subtype 
+strange exception code run jre1 whats code exception change strong worth strong exception remove class returns add equivalent interface classes custom interface 
+
+ran compiler bug discussed href http stackoverflow question href http stackoverflow question problem occurs intersection type involved method reference receiver type type remain type erasure replace method reference lambda expression affected bug anymore remove types inferred element type intersection type problem occur element types implementing compiler infer element type raw type provokes error method reference receiver type easily work compiled code identical original formal result type operation ignoring artifacts inferred intersection type consequence method reference implement type compiler bug materialize code unnecessarily complicated simply achieve 

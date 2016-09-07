@@ -1,0 +1,4 @@
+place external xslt file web app 
+external xslt file placing web inf classes folder relative path access file runnning webapp tomcat server 
+
+working directory tomcat launch configuration softwares eclipse relative path picked worked changed working directory workspace loc mywebapp webcontent web inf file location classes xhtml2fo xsl 

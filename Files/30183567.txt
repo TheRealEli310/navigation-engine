@@ -1,0 +1,4 @@
+initial sessionfactory creation failed lang noclassdeffounderror org hibernate service jdbc connections spi connectionprovider 
+error update hibernate version hibernate util class lot ways resolve unable find hibernate cfg xml pom xml 
+
+problem bonecp connectionprovider hibernate connection provider package source moved package bonecp alpha problem removed bonecp hibernate default supported hikaricp hikari default supporter hibernate 

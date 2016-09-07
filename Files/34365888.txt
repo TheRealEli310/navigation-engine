@@ -1,0 +1,4 @@
+create executable jar file intellij project 
+hell time figuring jar find main class project br class files br properties file br libraries maven manifest file classes package added artifact intellij artifacts main class options extract jar copy output link double click br execute command line message find main class make work edit br running command step closer manifest file make place step telling find properties file replicated src main resources folder structure added file root jar archive load pom file main declaration guiapp 
+
+issue manifest file correct intellij overwritten maven libraries create jar external libraries compile code separately corrected issue coworker external jar files jch mongo referenced class path didnt external libraries anymore manifest file overwritten 

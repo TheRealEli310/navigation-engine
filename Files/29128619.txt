@@ -1,0 +1,4 @@
+clone copy bufferedreader 
+creating android app read large files lines takes bit time single loop create multithreaded reader creates multiple threads reads specific part file puts small parts big array loops line file store line count br time loop run check true create reader thread read number lines file files huge copy clone reader thread start reading line created loop reading line creating read line line start reading actual values 
+
+dont clone bufferedreader create trouble send batches lines individual processing threads 

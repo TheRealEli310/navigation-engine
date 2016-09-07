@@ -1,0 +1,4 @@
+external enum values case statement 
+class receive message app enums 
+
+issue evaluated runtime expects compile time wont work youve hard coded string approach convert string enum constant 

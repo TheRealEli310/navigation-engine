@@ -1,0 +1,4 @@
+drawing multiple graphic2d components jpanel 
+read lot tutorials drawing graphics2d components adding jpanel jframe find add multiple components jpanel simply code adds component line find isnt add wrong img src http stack imgur yr4pw png alt enter image description strong desired behaviour strong red lines code 
+
+myline class swing component extend jcomponent logical entity fact implements shape line2d complete class draw implement shape type method classes call work extending panels jpanel class override method give collection hold myline items added draw myline items paintcomponent options include drawing directly bufferedimage displaying bufferedimage jpanels paintcomponent method great static images good images change move hr mydrawable class produces gui img src http stack imgur ulpv2 gif alt enter image description 

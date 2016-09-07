@@ -1,0 +1,4 @@
+nio add extension absolute path 
+feels straight forward find elegant solution converting path return relative path original path relative absolute prefer additional libraries 
+
+change file href http docs oracle javase docs api nio file path html resolvesibling 28java nio file path methods blockquote file em replaced em file blockquote method ensures result object href http docs oracle javase docs api nio file filesystem html source object add extension 

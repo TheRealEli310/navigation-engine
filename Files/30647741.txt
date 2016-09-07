@@ -1,0 +1,4 @@
+hive shell throws filenotfound exception executing queries inspite adding jar files add jar 
+added serde jar file add jar home hduser softwares hive hive serdes snapshot jar create table table creates successfully execute select query throws file found exception job submission failed exception io filenotfoundexception file exist hdfs node1 home hduser softwares hive hive serdes snapshot jar failed execution error return code org apache hadoop hive ql exec mr mapredtask 
+
+strong method strong copy file local filesystem hdfs blockquote strong strong strong hdfs dfs strong strong hadoop fs strong latest hadoop versions blockquote strong method strong change strong method strong add hadoop classpath add line blockquote strong strong mentioned paths installed hive strong home hduser softwares hive strong hive installed change strong home hduser softwares hive strong point hive installation folder blockquote 

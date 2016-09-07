@@ -1,0 +1,4 @@
+put arraylist param jsonobject 
+request volley framework post request jsonobject pass string jsonarray start browser set 
+
+make json array store 

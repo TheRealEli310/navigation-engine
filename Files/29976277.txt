@@ -1,0 +1,4 @@
+primefaces qr code shown 
+primefaces develop web app show bar code mhe webpage coders shown qr code read jar files required img src http stack imgur 25kna png alt sample ul li strong barcode4j strong li li strong qrgen strong li ul added jar files lib folder amp running error add qrgen lib folder maven added depedency error dependency copied barcode4j lib folder print qr code strong code xhtml strong strong pom xml strong 
+
+guess youre missed thing qrgen dependencies strong zxing core strong amp strong zxing javase strong including jar files build path work 

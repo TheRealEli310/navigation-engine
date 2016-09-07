@@ -1,0 +1,4 @@
+spark dataframe access oracle jdbc 
+find existing spark implementations accessing traditional database restricting limited ol li bind variables li li passing partitioning parameters generated sql restricted li ol bothersome customize query partitioning takes place identify partitioning column upper lower boundaries allowed numeric column values understand provide query database subquery map partitioning column numeric inefficient execution plans database partition pruning true oracle table partitions indexes efficient restriction customize query build partition logic ideally wrap custom jdbc code iterator executed lazily entire resultset loaded memory jdbcrdd works prefer scala 
+
+href https github apache spark blob master core src main scala org apache spark rdd jdbcrdd scala rel nofollow jdbcrdd source code flexibility youre writing custom rdd type based code subclassing overriding 

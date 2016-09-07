@@ -1,0 +1,4 @@
+gson deserialization generic types generic field names 
+lets structure strong json strong strong pojo strong response class body class catwrapper class cat class structure receive gson default json parser giving solutions generics response field names specific class strong question strong serialize automaticaly creating boilerplate classes dont separate classes avoid edit change classes cat dog cat truck due inheritance confusion classes extends 
+
+idea define custom generic deserializer generic type represent concrete class lists elements wrapped instance assuming classes deserializer assumes structure json sense object object named body assumes key pair body list element json array fetch object key deserialize put list final step create type instantiate register adapter parser instance trucks return list directly adapter rid class trucks youll output cats 

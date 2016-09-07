@@ -1,0 +1,4 @@
+lang stringbuffer lang outofmemoryerror heap space 
+error reading data database provide thought increased maximum heap size 
+
+eclipse mat tool causing memory leak visualvm run application early time heap dumb running hour heap dumb finally configure visualvm hep dumb oom situation mat tool eclipse memory analysis tool analyze heaps dumb root hardest task 

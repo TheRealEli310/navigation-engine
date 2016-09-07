@@ -1,0 +1,4 @@
+compareto comparable arguments object type 
+odd working expected wrote simple class implements comparable interface override compareto method doesnt pass arguments specific type object looked guys codes online typed objects copied code eclipse error question compare object object type lets person issue comparator interface compare method code found online href http stack imgur uzhvg png rel nofollow img src http stack imgur uzhvg png alt enter image description 
+
+strong generics strong provide specific type interface defined 

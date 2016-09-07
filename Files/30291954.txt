@@ -1,0 +1,4 @@
+libgdx random error 
+installed libgdx intellij idea run application error caused badlogic gdx utils gdxruntimeexception file found badlogic jpg internal badlogic gdx files filehandle read filehandle badlogic gdx files filehandle readbytes filehandle badlogic gdx graphics pixmap pixmap fix 
+
+didnt set asset folder properly read href https github libgdx libgdx wiki libgdx intellij idea rel nofollow article step step guide android studio libgdx targeted android based intelij idea ill show android studio pretty similar intelij idea click select run debug configuration img src http stack imgur ifeha png alt click edit configurations img src http stack imgur oi1bq png alt enter image description click desktop section make working directory assets directory img src http stack imgur lu4cl png alt enter image description 

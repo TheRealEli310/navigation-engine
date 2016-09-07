@@ -1,0 +1,4 @@
+spring integration dao practices 
+restful ws designed si dao structure found component beginner systems integration reading em spring integration em basic knowledge strong question practices creating channels endpoints dao strong em great provide links articles books videos si beginner em 
+
+resource matter beginners href http www manning fisher rel nofollow spring integration action book dao pojo methods exposed reference accept message produce result present message expose methods spring integration endpoints dont choice provide separate pair honest spring integration isnt positioned dao plays fully integration role ingest emit data external systems big height spring integration aim framework spel scripting support good hook deal pojo method invocation components 

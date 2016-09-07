@@ -1,0 +1,4 @@
+char array valid utf big endian encoding 
+encode character array instance bytes ul li bytes character li li big endian encoding storing significant bits leftmost significant bits rightmost byte li ul create valid utf 16be encoding code points result invalid encoding hr question related href http stackoverflow questions store utf characters bit char type question char type href http stackoverflow questions javas internal represention string modified utf utf question internal representation strings 
+
+create instances bit desire constrains valid utf code units constrains array valid utf sequence require data valid utf requirements valid utf data set href http www unicode org versions unicode7 ch03 pdf chapter unicode standard basically unicode scalar surrogates correctly paired test array valid utf sequence turn sequence utf 16be le bytes similarly bytes 

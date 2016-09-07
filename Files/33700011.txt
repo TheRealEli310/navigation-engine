@@ -1,0 +1,4 @@
+el works jstl spring mvc 
+hours figure searched related topics jstl luck site spring jstl work switched comp setup environment doesnt dont whats missing whats interesting simple returns error servlet service servlet jsp threw exception org apache jasper jasperexception user indexx jsp line column tag defined tag library imported prefix el working javascript css loaded heres ol li top jsp page li li web xml li li servlet jstlview li ol pom file included jstl libs dropping jstl suggested stackexchanges jstl info page doesnt work heres complete error message jsp page spring servlet config 
+
+fiddling managed solve method site suggested found extra folder called tag custom tags deleted removed jstl related libraries pom worked 

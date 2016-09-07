@@ -1,0 +1,4 @@
+android create mirror image view 
+wrote code reflects view imageview splash activity order implement steps ol li create imageview layout splash xml file splashactivity li li call setimagebitmap method reflected imageview variable li li declare method reflects view image li ol code running application dont reflected image plain wrong code 
+
+problems occur small things problem ivlogo variable added content view ivlogo added oncreate method 

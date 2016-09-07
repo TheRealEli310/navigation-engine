@@ -1,0 +1,4 @@
+bootstrap method 
+reading presentation java8 lambdas implementation href http fr slideshare net czechscala hood http fr slideshare net czechscala hood blockquote lambdametafactory bootstrap methods converting lambda expressions functional interface objects blockquote related 
+
+methods class href https docs oracle javase docs api lang invoke lambdametafactory html rel nofollow https docs oracle javase docs api lang invoke lambdametafactory html mention bootstrap method invokedynamic call sites understanding code implements handling op code eventually target invocation lambda expression term bootstrapping context means prepares execute job 

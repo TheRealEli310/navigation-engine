@@ -1,0 +1,4 @@
+call xpath position function 
+xml code strong test xml strong extract 2nd node code strong test strong method returns null nullpointerexception npe raised missing strong strong 
+
+operator higher precedence causing problem solved problem 

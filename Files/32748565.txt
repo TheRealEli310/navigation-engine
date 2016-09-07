@@ -1,0 +1,4 @@
+failed execute goal gwt maven plugin 
+maven web application project gwt framework windows netbeans jdk pretty beginner tutorials tutorialspoint label compiled href http www tutorialspoint gwt gwt button widget htm rel nofollow added button obscure error apparent reason strong main gwt xml strong strong manager html strong page access run tomcat strong ordermanager strong entry point error heres strong pom xml strong extent question maven frameworks stuff messy 
+
+gwt doesnt support lambdas syntax generally speaking didnt support version rewrite anonymous class make compatible syntax fyi source language supported snapshot released year 

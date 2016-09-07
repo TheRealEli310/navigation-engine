@@ -1,0 +1,4 @@
+construct locale custom day week 
+object day week sunday saturday specifically arabic egypt locale starts sunday calendar control supports changing locale requirement 
+
+href https docs oracle javase docs api util locale html objects dont control day week href https docs oracle javase docs api util calendar html class href http stackoverflow questions construct locale custom day week comment50737695 comment gautam joses answer blockquote wouldve fine thing control instantiating calendar objects default locale application scope wise custom locale reverse engineering control provide leeway issue due private members inheriting blockquote wont inherit change members directly reflection inspect controls class find field 

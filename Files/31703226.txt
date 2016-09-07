@@ -1,0 +1,4 @@
+random objects stream 
+lets list words create method takes size list parameter returns list random words original sourcelist random 
+
+found proper solution random methods return stream ints size creates stream random integers 

@@ -1,0 +1,4 @@
+add mouselistener anonymous jlabel object 
+loop populate jpanel numbers basically click number show strong heres code strong heres picture img src http stack imgur gq7hf png alt enter image description 
+
+heres solution add mouselistener label mouse adapter brackets mouse click method add mouseclicked method add code mouseclicked method 

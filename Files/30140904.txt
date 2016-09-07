@@ -1,0 +1,4 @@
+basic netty demo handle tcp udp sockets 
+files href https gist github anonymous 58c7cf4341acfe83f279 rel nofollow https gist github anonymous 58c7cf4341acfe83f279 aware greatly simplify simply conceptual reasons run udp connection works comment udp tcp works fine sockets working time feel threading understand correctly thread pools completely loss listen write socket tcp socket udp possibly udp write 3rd socket advice 
+
+servers executed sequential udp server closed tcp executed solution modify udp server avoid blocking end change drop group shutdowngracefully finally place code adapted executed threads order concurrent execution add implmement runnable udpserver tcpserver drop throws exception catching run threads main 

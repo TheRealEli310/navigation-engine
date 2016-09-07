@@ -1,0 +1,4 @@
+check binary tree full 
+write method return true binary tree full node child nodes false working time suggestions wrong 
+
+strong definition binary tree full node leaf possesses child nodes strong 

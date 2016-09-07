@@ -1,0 +1,4 @@
+create console application opens tcp ip connection print inputted string 
+tasked create console application language accepts input ip address port string display string code direction start functionality program opens tcp ip connection ip port sends string crlf receives remote side closes connection output program writes received data stdout 
+
+tutorial fact closely matches specificationlet br href http docs oracle javase tutorial networking sockets readingwriting html rel nofollow http docs oracle javase tutorial networking sockets readingwriting html summary tutorial modified slighly align requirements started 

@@ -1,0 +1,4 @@
+springbootapplication exclude componentscanning springbootapplications 
+difficulty preventing spring boot auto configuring classes solrautoconfiguration illustrate setup reduced href https github timtebeek componentscan exclusions rel nofollow https github timtebeek componentscan exclusions reality internal projects dependencies coming ideal idea hard move problem arises multiple subprojects solr spring boot compatible final application module import classes modules preventing running fails instance picked specific exclude loads properly exclude auto configuration class combining multiple classes work final hasnt lead solution 
+
+spring boot m3 introduced functionality exclude autoconfiguration properties href https github spring projects spring boot wiki spring boot m3 release notes rel nofollow https github spring projects spring boot wiki spring boot m3 release notes release notes helps prevent spring boot loading autoconfig classes presence multiple annotations 

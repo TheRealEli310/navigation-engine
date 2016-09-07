@@ -1,0 +1,4 @@
+loggingevent class log4j 
+migrate log4j log4j mentioned href https logging apache org log4j manual migration html rel nofollow application implementation find loggingevent log4j api bridge loggingevent log4j 
+
+internally log4j logevent carry data pieces log message thread timestamp markers logger appenders output log4j log events designed internal designed extended applications async loggers specialized implementation logevent interface meet requirements underlying lmax disruptor library easy extend case clear develop custom appender custom data present logevent interface threadcontext map pass data app custom appender custom log event 

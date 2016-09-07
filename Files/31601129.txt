@@ -1,0 +1,4 @@
+android lang classcastexception android widget linearlayout layoutparams cast android widget abslistview layoutparams 
+error running app older android phone android code runs phone android doesnt throw error full error find gridview xml layout put viewgroup mainactivity heres main activity main activity xml file contact adapter class 
+
+fixed problem contact adapter returning wrong view inside getview function changing return image return convertview fixed problem works devices test 

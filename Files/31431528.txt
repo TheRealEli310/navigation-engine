@@ -1,0 +1,4 @@
+snakeyaml dumping string line 
+create yaml file pure string created yaml file initial line rest yaml file fine line pretty interesting dumperoptions remove initial line stringbuilder directly solution problem 
+
+problem dump single string yaml file library multiple ways literal block mode href http yaml org spec spec html id2793979 rel nofollow block indention indicator requested block style block indicator indentation indicator rest yaml file fine single string indented spaces yaml emitters special string starts space special characters newlines string quoting single double revert block literals block literals number indentation level string scalar starts blanks big indentation level calculated line decision plain style quotes block style made analysis string depending context case strong force strong block style line stripping leading whitespace string rid string newlines remove setting block flow style 

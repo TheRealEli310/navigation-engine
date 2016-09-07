@@ -1,0 +1,4 @@
+libgdx assetmanager working 
+asset manager load assets works fine part code assethandler class assetmanager attempt file wrote works character file doesnt files file dont dont errors exceptions poped 
+
+h2 solution h2 add end method hr asynchronously render loop refer href https github libgdx libgdx wiki managing assets rel nofollow strong strong information hr em avoid public fields static methods em related question 

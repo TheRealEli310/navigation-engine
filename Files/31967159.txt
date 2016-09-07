@@ -1,0 +1,4 @@
+build run grpc examples gradle 
+make examples grpc work easy gradle integrate grpc project build system compile run examples protoc javac generate sources proto sources luck compiling generated sources combinations classpathes works compile errors omitted show sequence commands work upd linux upd sbt matter understand javac compile generated grpc code grpc core grpc netty grpc protobuf grpc stub classpath point 
+
+resolve compile time issues ended inserting println statements build gradle files grpc actual class path compiling examples turned grpc libs versions sbt build referring today libs version put maven repository change version works expected 

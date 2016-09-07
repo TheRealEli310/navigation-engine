@@ -1,0 +1,4 @@
+generics type erasure 
+heres code heres output type parameter erased runtime type parameter surviving runtime 
+
+exposure generics time hold type erasure understanding generics realized question mixing separate topics generics reflection main question call returned docs answer blockquote returns strong runtime strong class object blockquote doesnt return type reference actual object referred reference output wouldnt type reference strong actual strong type object 

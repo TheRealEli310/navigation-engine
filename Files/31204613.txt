@@ -1,0 +1,4 @@
+difference event getitem combobox getselecteditem casting object 
+panel combobox adding id numbers combobox adding id adding empty string id selected listener class works fine giving error getselecteditem combobox classcastexception problem error 
+
+avoid filling combo box ints strings stick integer fact declare jcombobox generic object integer generic type add null empty element check null strongly advise null layouts swing newbies easiest create complex guis swing guis create difficulties run wont resize components gui resizes royal witch enhance maintain fail completely scrollpanes gawd awful viewed platforms screen resolutions original 

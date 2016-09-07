@@ -1,0 +1,4 @@
+sorting hashmap date 
+class method reorder existing hashmap date hashmap type object field called exppaydate key string sequential number turned string loop items sourcemap find item newest date copy tempmap correct order issue determine item newest date 
+
+treemap hashmap sorted automatically insertion alternatively existing hashmap create treemap based pass constructor hope 

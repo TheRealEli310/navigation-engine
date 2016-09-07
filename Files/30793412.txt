@@ -1,0 +1,4 @@
+abstract screen libgdx 
+abstract screen liggdx game read websites abstract screen group common codes common methods case simply normal class task original purpose abstract screen abstract class subclassed subclass implementations abstract methods parent class subclass declared abstract explain situtation 
+
+abstraction classes share functionality differ implementation declare abstract class leave implementation subclasses program cat dog rat spider animals share functionality theyre specifics cats dogs rats spiders move eat differently declare animal abstract class spider class cat class dog class finally rat class extending animal check href https docs oracle javase tutorial iandi abstract html rel nofollow documentation details 

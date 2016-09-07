@@ -1,0 +1,4 @@
+nio tcp server idle timeout clients 
+create tcp server nio selector based check client idle minutes time read operations blocking io option provided nio efficient achieve 
+
+achieved periodically checking idle clients 

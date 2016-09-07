@@ -1,0 +1,4 @@
+libgdx destory screen memory leaks 
+problem libgdx game memory leaks occur switching screens part main class extending class switch screens passing class screens switch screens inside setting screen basically destroy kick memory problem occurs leave screen recreate scratch recreating magically restoring closed items screen previous instance time switch screen memory usage increases startscreen casual back startscreen casual memory usage doubles google hours people problem libgdx answer short completely kill screen recreated scratch time initialise calling working memory usage growing 
+
+changed code bit visualvm instances screens removed switching screens 

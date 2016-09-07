@@ -1,0 +1,4 @@
+string replace regex pattern match nested 
+scenario input string desired string replace replaced nested secondary backets patterns assumption opening brackets properly closed desired output string question nutshell regex understand nested patterns recursion absolute necessity accomplishing regex simply sufficient detecting infinitely nested regex nested degree examples 
+
+strong edit strong regex pointed vks wrote simple program thatll output 

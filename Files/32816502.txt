@@ -1,0 +1,4 @@
+calling filter servlet rest webservice 
+written rest web service method web service class path service public class service web service method calling url href http localhost xxxx xxxx service val zzzz rel nofollow http localhost xxxx xxxx service val zzzz zzzz passed url pattern secure problem called directly sampleservlet called wrong kindly 
+
+blockquote url pattern headerfilter sampleservlet secure problem headerfilter called directly sampleservlet called blockquote default filters invoked requests originating web invoked internal includes forwards change default behaviour filter invoked filter mapping element web xml 

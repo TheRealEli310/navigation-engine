@@ -1,0 +1,4 @@
+settemplatemode legacyhtml5 working thymeleaf spring 
+simple html5 login page templateresolver configuration set legacyhtml5 working great loading thymeleaf spring maven changed thymeleaf spring parsing errors clarify error points attribute input element setting templatemode html5 results change thymeleaf spring thymeleaf spring missing mode aware documentation thymeleaf spring wasnt clear 
+
+adding file based configuration resolved problem requires href http mvnrepository artifact net sourceforge nekohtml nekohtml rel nofollow nekohtml version higher classpath 

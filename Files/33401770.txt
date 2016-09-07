@@ -1,0 +1,4 @@
+controlling request timeout apache client 
+set timeout longer minutes connecting long running soap service processes minutes returning http response control service long periods activity response received apache httpclient library notice connection manager appears closing connection due inactivity minutes setting timeouts request config missing complementary settings setting timeout em em setting flag em em em em em em set proper prevent connection closed server expected respond minutes 
+
+nohttpresponseexception basically means connection terminated opposite endpoint intermediary timeout settings client side perfectly fine 

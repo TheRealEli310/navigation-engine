@@ -1,0 +1,4 @@
+urlclassloader load class file 
+aware question asked href http stackoverflow questions urlclassloader load class file urlclassloader load class file dont understand due lack working project load user class objects located directories machine line gave classnotfoundexception experiment amp understanding user class function classpath ps 1st time posting questions feel free correct follow manner solution solution arrived generous willshackleford solution load class file filepath information refer code comments 
+
+directory file test class created file load notice put pkg test url string load class argument pkg prefix class directly file alternative doesnt require access internal classes class loaded 

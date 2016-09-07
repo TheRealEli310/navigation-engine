@@ -1,0 +1,4 @@
+hql clause condition inside hashset list 
+solving family tree problem pojo class family check person brothers sisters em check families person children family em hibernate searched condition list hashset 
+
+answer question youre href http docs jboss org hibernate orm reference en html queryhql html queryhql expressions rel nofollow elements keyword br em check families person children family em hql query give family person children syntax knowing hashset overriding equals hashcode method important define person objects considered equal possibly ids 

@@ -1,0 +1,4 @@
+force commons httpclient tls https 
+force em apache commons strong http client em strong version strong strong strong tls strong strong em em strong protocol https due server supposedly upgraded tls accepting older protocol anymore causing connection reset returned context irrelevant http client axis2 make soap code setting httpclient lot 
+
+bad answered write strong em customhttpsocketfactory em strong sample custom socket factory code found href https discretemkt wordpress commons httpclient disable sslv3 

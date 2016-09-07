@@ -1,0 +1,4 @@
+spring manage bean lifecycle jersey 
+jersey tomcat problem common case beans defined spring xml file annotated expose methods rest apis singleton bean reference bean injected spring xml configuration rest apis working problem time invoked instance bean class created bean reference null understanding jersey managing lifecycle spring springcomponentprovider provide singleton included jersey spring3 jar application spring package servlet configuration web xml jersey config server provider packages parameter picked annotated class rest package found springcomponentprovider apparently registered instance bean time class explicitly didnt change behavior insights debugging suggestions appreciated update realized version spring jars version expected jersey jars problem update spring fixes ill close 
+
+finally update spring turned issue add resource order jersey recognize spring managed singleton problem arisen annotations spring happened xml create spring beans 

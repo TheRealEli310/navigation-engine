@@ -1,0 +1,4 @@
+powermockito throw exception constructor calling 
+testing private method getprintwriter reflections simulate constructor printwriter throwing filenotfoundexception simulate printwriter constructor thrown filenotfoundexception assert null returned marked comment line throw exception dont simulate correctly 
+
+exact argument matcher result object null 

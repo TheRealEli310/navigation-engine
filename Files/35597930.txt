@@ -1,0 +1,4 @@
+sockettimeout opened connection mongodb 
+application performs aggregations mongodb hangs throw sockettimeout exception exception app run fine bit raise exception found href http stackoverflow questions socket timeout exception mongo explanation initalize mongoclient connection db open problem everytime database database garbage collected close connection approach ping periodically mongo connection pool fresh client sockettimeout exception thrown 
+
+found problem href https blogs msdn microsoft avkashchauhan windows azure load balancer timeout details rel nofollow azures load balancer br 60s inactivity disconnect pending tcp connection digging found post href https docs mongodb org manual faq diagnostics tcp keepalive time affect mongodb deployments rel nofollow mongodb diagnostics faq set tcp keepalive 120s set href https groups google forum msg mongodb user r2tmc vblwu yrztsygddnwj rel nofollow socketkeepalive mongoclient true fixes issue 

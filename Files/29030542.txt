@@ -1,0 +1,4 @@
+pagination mongotemplate 
+query pageable execute mongotemplate dont single method returning 
+
+methods return methods return ordinary internally adjust mongodb query proceeded count query conjunction href http docs spring io spring data mongodb docs current reference html mongo repositories rel nofollow mongodb repositories specialized case spring data repositories youll paginated results inherited 

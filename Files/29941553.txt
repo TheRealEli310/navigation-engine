@@ -1,0 +1,4 @@
+traversal tokens parserrulecontext listener antlr4 
+iterating tokens listener parserrulecontext peek token tokens token stream code peek tokens current token till eof output traverse tokens till eof unable actual content type tokens neat listener traversing 
+
+hard appears rerunning lexer starting presumed proper token boundary reset lexer lexer throwing errors explain observed behavior approach simply recover existing token stream access stream desired tokens approach serve ultimate purpose limited set tokens directly parent context 

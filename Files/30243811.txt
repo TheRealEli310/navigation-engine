@@ -1,0 +1,4 @@
+google api client access token expiration 
+sdk user group data server server flow works sdk nicely hides oauth complexity method makes http call oauth token call actual api user group data doubts sdk handles calls oauth endpoint ol li method calls oauth endpoint li li li li access token cached sdk li li sdk manage token expiration properly li ol 
+
+things token refreshing ol li caches token reuses li li token returned server expiration time token reused long hasnt expired li li memory filedatastorefactory li li caches token expire refreshes pro actively generally authentication error server li ol 

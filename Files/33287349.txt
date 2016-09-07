@@ -1,0 +1,4 @@
+spring inheritance annotation 
+href http www tutorialspoint spring spring bean definition inheritance htm rel nofollow link explains bean inherited assuming helloworld class exposed bean component annotation create bean inherits bean extends inherit helloworld bean add component class order extend existing bean expose bean additional features 
+
+make em abstract em configuration achieved strong strong marking extend result hr strong edit strong answer follow question comment spring picks classes parent child problems duplicated beans strong extend directly strong override methods beans super class instantiated strong parent class compiled strong options ol li talk author parent class kindly change li li change packages li ol clarify solution parent class package child class package configure component scanning strong classes strong picked component scanning packages annotation main configuration file application class 

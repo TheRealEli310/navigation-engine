@@ -1,0 +1,4 @@
+crosswalk shared mode custom user agent cookiemanagement 
+problem crosswalk shared mode setting user agent handling cookies crosswalk normal mode api strong org xwalk core internal xwalkviewbridge strong set user agent webview lang reflect method getbridge xwalkview class getdeclaredmethod getbridge getbridge setaccessible true api strong org xwalk core internal xwalkcookiemanager strong handle cookies webview apis accessible shared mode kindly suggest set user agent handle cookies crosswalk shared mode 
+
+method xwalkview public api set user agent href https crosswalk project org apis embeddingapidocs v5 org xwalk core xwalkview html setuseragentstring 28java lang string rel nofollow javadoc details xwalkcookiemanager suggest find 

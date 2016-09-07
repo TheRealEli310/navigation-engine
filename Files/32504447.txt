@@ -1,0 +1,4 @@
+import opencsv library groovy 
+feel stupid opencsv library downloaded grab work network defined central configuration start groovy parameter script import reader fails thought figured 
+
+found answer repacked stuff longer hard find works 

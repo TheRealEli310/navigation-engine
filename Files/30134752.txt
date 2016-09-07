@@ -1,0 +1,4 @@
+jdbc jt400 works local apache tomcat install fails apache tomcat running server 
+application running tested development workstation running apache tomcat established ibm database connection working locally jt400 jar file build deploy application production server running apache tomcat jt400 jar file database connection fail figure http status servlet execution threw exception error resolve issue 
+
+problem solved rookie mistake inadvertently left jt400 jar files lib folder apache tomcat server renaming deleted jar files issues solved jt400 jar installed week started conflict begin 

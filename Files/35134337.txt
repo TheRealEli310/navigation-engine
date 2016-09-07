@@ -1,0 +1,4 @@
+general method queries db returns results json format 
+pretty straight forward googles failed strong em method run query results json format em strong trick em dont em results objects part process dtos vos quick easy clean ways 
+
+jackson pretty nice ways examples href http stackoverflow questions convert resultset json answer work wonders alternatively jackson isnt check href https gist github kdonald rel nofollow 

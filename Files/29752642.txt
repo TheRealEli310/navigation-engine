@@ -1,0 +1,4 @@
+jdbc insert working 
+insert row table application sql database code worked reasons doesnt checked query inserting directly phpmyadmin works code query mysqlaccess works points code hr changed code suggestion luiggi mendoza result 
+
+issues ol li li li variables narrowest scope dont set variables class li li dont concatenate parameters query string method set proper parameter li ol gluing produces code hr code problem youre wrapping parameter character quotes remove quotes shown code 

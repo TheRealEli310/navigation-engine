@@ -1,0 +1,4 @@
+spring mvc user object bean practive 
+small spring mvc application classes depends user object id declare component access bean place autowired annotation user object unique user spring security username securitycontextholder initialize user object practice initialization declare session scoped bean singleton class update fields request create user object controller class request 
+
+personally dont idea domain object component suggest myuser class object needed userservice userdao component good design domain object aware dao thought 

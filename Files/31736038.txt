@@ -1,0 +1,4 @@
+bundling multiple artifact deployment 
+follow based href http stackoverflow answer structure part bundle create produce 
+
+task create assembly definition file file add plugin declare execution phase goal format file customize found href https maven apache org plugins maven assembly plugin rel nofollow https maven apache org plugins maven assembly plugin 

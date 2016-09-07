@@ -1,0 +1,4 @@
+android camera app passed null surface 
+found questions answers heres hoping insight swap camera call swapcamera function camera preview freezes app frozen live camera preview open app time works fine noticed interesting log memoryaddress surfaceholder object surfaceholder object query app finished launching memory address changed error swapcamera confusing logged surfaceholder passed camera null passed greatly appreciated noticed interesting behaviour 
+
+debugging digging found culprit onresume function refreshing camera variable case lost context switching causing surfaceholder created anew null created instance surfaceholder internal android code keeping reference null surfaceholder removing refresh reinstantiating call onresume problem fixed error misleading null surface passed keeping reference null surfaceholder created passed null error check arent creating surfaceholder passing 

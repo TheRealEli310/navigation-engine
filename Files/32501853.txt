@@ -1,0 +1,4 @@
+catch communicationexception spring security 
+good afternoon making webapp accessible users network authentication required cases problem dont catch exception thrown spring security authenticate network strong javax naming communicationexception strong heres globalauthenticationconfigureradapter adapter goal implement fallback mode ldap server idea catch exception prevent advance 
+
+em internalauthenticationserviceexception em extends em authenticationserviceexception em turn extends em authenticationexception em create custom class extends em simpleurlauthenticationfailurehandler em override method called spring authentication flow fails case em exception em instance em internalauthenticationserviceexception em rely fallback mode point login phase failed user considered logged create hand consistent state user correctly logged add spring context proper em userdetails em instance 

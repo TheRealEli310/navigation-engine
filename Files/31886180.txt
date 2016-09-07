@@ -1,0 +1,4 @@
+replace file gradle build 
+replace file resource folder src main resources file generated gradle build script trouble exclusion remembered preventing addition file heres short illustrates behavior project structure test properties contents src main resources build gradle jar contents files included jar contents file included 
+
+similar worked main objective make task runs jar created files processed 

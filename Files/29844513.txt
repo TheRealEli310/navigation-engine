@@ -1,0 +1,4 @@
+flatxmldatasetbuilder throw net malformedurlexception stringbuffer 
+create parser parse xml database extract flatxmldataset stringbuffer write flatxml convert flatxmldataset throw net malformedurlexception protocol create file stringbuffer parse flatxmldataset works stringbuffer memory sample flatxml sample code wrong file stringbuffer works stringbuffer 
+
+hours test finally found whats stringbuffer protocol inputsource flatxmldatasetbuilder string change inputsource decalaration worked 

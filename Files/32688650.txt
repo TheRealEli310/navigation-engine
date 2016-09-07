@@ -1,0 +1,4 @@
+method executed prior default constructor 
+learning accidentally code default constructor executed method public class chkcons int var getval chkcons system println default constructor public int getval system println method return public static void main string args chkcons chkcons output method default constructor explain happened 
+
+instance variable initialization expressions evaluated prior constructor execution called constructor executed 

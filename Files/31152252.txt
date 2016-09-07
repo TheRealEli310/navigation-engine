@@ -1,0 +1,4 @@
+opengl make skybox cover entities 
+working opengl game lwjgl thinmatrixs tutorials moment added skybox picture clipping trees covering point rendering code skybox needed code master renderer img src http stack imgur ttit2 jpg alt image 
+
+things draw skybox disable depth test depth write prevent skybox draws depth values skybox front drawn draw skybox make literally infinitely big vertex coordinates coordinate vertex means vertex infinitely direction vector prevent clipping enable depth clamping prevent opengl clip skybox faces skybox maximum distance hide drawn earlier advantage method depth test depth values written scene opengl pipeline skip calculation skybox pixels covered scene fragment shader skyboxes trivial shouldnt make difference 

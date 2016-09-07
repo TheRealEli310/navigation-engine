@@ -1,0 +1,4 @@
+source testsource jdks maven project intellij idea 
+maven project imported idea submodule versions regular test sources regular sources test sources project compiles fine maven fails compile idea open project structure module settings module imported language level compilation test classes fails features workaround manually change version pom xml modify maven configuration strong edit strong suggested comments changed setting manually project structure inside idea error compiling project 
+
+found simple workaround problem marked em excluded em module project structure configuration idea prevents working tests ill manually change settings 

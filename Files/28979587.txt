@@ -1,0 +1,4 @@
+error opening job jar file hdfs 
+fix mistake make lot advance program package hadoopbook jar file hdfs location permissions rw rw rw input file location permissions rw rw rw output folder run error stuck 
+
+jar present local file system present hdfs entire package main class 

@@ -1,0 +1,4 @@
+normalization dataset doubles 
+working clustering program dataset doubles normalize order make double variable influence min max normalization variable min max determined implement dataset suggestions 
+
+href http www heatonresearch wiki main page rel nofollow encog project wiki href http www heatonresearch wiki range normalization rel nofollow utility class range normalization constructor takes high low values input normalized data method sample find minimum maximum dataset answer question href http stackoverflow questions finding max min array primitives finding max min array primitives 

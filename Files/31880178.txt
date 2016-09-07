@@ -1,0 +1,4 @@
+apache storm custom logging 
+modify storms logback cluster xml write files depending id info change cluster xml add sifting appender reference href http logback qos ch manual appenders html siftingappender rel nofollow strong main question strong correct method add strong strong writing file default logback xml classpath pass arg load config assume found classpath file written 
+
+apache storm default process loading log files depending version briefly directory configuration files modify order configuration register 

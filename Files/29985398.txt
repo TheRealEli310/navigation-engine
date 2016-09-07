@@ -1,0 +1,4 @@
+building spring boot source contribute 
+start contibuting spring boot checked code source build href https github spring projects spring boot blob master contributing adoc rel nofollow https github spring projects spring boot blob master contributing adoc run br br mvn clean install br br errors 
+
+creating settings file option running mvn clean install worked skip tests built 

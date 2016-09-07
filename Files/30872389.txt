@@ -1,0 +1,4 @@
+extending jframe super keyword work 
+made class extends classes constructor set title create object compiler differentiate conclude thing super call overridden methods superclass specifically call method idea super calls constructor class constructor takes string parameter basically explicitly creating object true explain super object reference cheers 
+
+ol li calls constructor call doesnt set internal variable hold title li li method call overridden itll ignore definition call method super class chaining super classs methods li li called line constructor method call calls specific constructor super class constructs object continues constructor code constructors work dont constructor argument constructor called automatically li ol 

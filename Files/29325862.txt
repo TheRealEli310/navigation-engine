@@ -1,0 +1,4 @@
+maven war plugin including files war 
+building maven based web app src main package folder xml file properties file included part war war file generated maven install include xml properties file class files package including files war addition checked target classes folder xml properties files included 
+
+googling stackoverflow answer change default resources folder maven outline stackoverflow question href http stackoverflow questions maven copy properties files build process maven copy properties files build process 

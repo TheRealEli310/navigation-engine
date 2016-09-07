@@ -1,0 +1,4 @@
+maven error find load main class org codehaus plexus classworlds launcher launcher 
+id stuck simple issue hour maven working fine week dont wrong error ways debug solutions found stackoverflow places replacing m2 home path m3 home maven home worked os output maven commands ill happy provide information 
+
+blockquote remove m2 home environment variable set mvn script things add apache maven bin path set home environment variable add home bin path run mvn library maven bin folder confirm installation correct run mvn xtrace info tldp org ldp bash beginners guide html sect html verify commandline built maven assume unexpected classpath argument blockquote 

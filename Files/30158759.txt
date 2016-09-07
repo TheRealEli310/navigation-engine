@@ -1,0 +1,4 @@
+simulate air resistance pendulum 
+code simulate animation pendulum ignores air resistance stops account air resistance pendulum slow finally stops vertical direction adapt code worked 
+
+opinion build air resistance differential equation governs system air resistance approximated force proportional velocity opposite direction equation solved closed form damped harmonic oscillator numerically integrated versatile solution long run 

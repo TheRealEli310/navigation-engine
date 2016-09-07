@@ -1,0 +1,4 @@
+scale bitmapfont libgdx 
+scale bitmapfont object libgdx method setscale longer 
+
+recommended scale bitmap font pixlated enlarged ugly recommended href https github libgdx libgdx wiki gdx freetype freetype generator resizing fonts bitmapfont tenfour04 correct 

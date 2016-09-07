@@ -1,0 +1,4 @@
+saving arraylist txt file 
+wondering save values arraylist file inputs txt question similar href http stackoverflow questions save permanently arraylist save permanently arraylist didnt work wondering wrong files main class sentencestouse class 
+
+stated comments printwriter write values file read back incredibly important learning hours spent debugging didnt flush streams ensures newline sentences dont run giant blob newline unlike print println writeln manually newline character 

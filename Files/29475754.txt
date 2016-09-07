@@ -1,0 +1,4 @@
+log4j file appender working eclipse 
+webservice program multiple classes talking running program tomcat eclipse copy wsdl url soap ui test exception printed log file file appender logic log4j spent days luck log4j properties file 
+
+imported required jar files build path eclipse info found link importing jar files configuring properties file href http www dzone tutorials log4j log4j configuration html rel nofollow link 

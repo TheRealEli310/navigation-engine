@@ -1,0 +1,4 @@
+ssl jboss final 
+configure ssl signed jboss final created keystore keytool command generate keystore keystore generated alos modified standalone xml file http wprks fine https error 
+
+set verify client true false client present certificate mutual authentication error code err bad ssl client auth cert 

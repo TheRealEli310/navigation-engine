@@ -1,0 +1,4 @@
+joda time library working android proguard enabled 
+problem occurring android app crashes write point create object crash report complete proguard configuration file jars added build path joda time converting exploring line line code 
+
+add line proguard config prevent code joda library removed adding line increased apk size kb 

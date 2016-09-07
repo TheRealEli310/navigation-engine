@@ -1,0 +1,4 @@
+javax persistance tomee 
+running ee app tomee error blockquote lang noclassdeffounderror javax persistence namedstoredprocedurequery blockquote compile time errors build app developing eclipse em apache tomee em selected em targeted runtimes em project properties project access ee project hibernate jars web inflib directory understanding jars turn javax persistence ul li hibernate commons annotations li li hibernate core li li hibernate jpa li ul bunch questions href http stackoverflow questions hibernate error lang classnotfoundexception javax persistence persist detailing solution add required jpa jar lib directory app solution work sounds hacky tomee manage jpa libraries ee server doesnt whats clean solution 
+
+strong jb nizet strong answer accepted solution blockquote class exists jpa guess tomee version supports jpa thehome page tomee ee web profile ee includes jpa jb nizet blockquote 

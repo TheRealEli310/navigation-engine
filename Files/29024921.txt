@@ -1,0 +1,4 @@
+put properties file simplelogger slf4j 
+file put strong simplelogger properties strong file directory wont load properties defined find find correct place put properties files suggestions guides 
+
+loaded root classpath package file inside root jar file put directory file applications classpath run 

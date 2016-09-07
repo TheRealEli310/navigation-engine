@@ -1,0 +1,4 @@
+bufferedreader writing values converting char 
+write hex editor store values writing char text file reason decimal number written read measures isolate problem heres happening appreciated figured fileoutputstream fileinputstream 
+
+default encoding platform em em bad idea case encoding doesnt support href http www fileformat info info unicode char index htm rel nofollow fairly reasonable private character encodings wont support suspect dont em em character encoding encode unicode id recommend utf important differentiate text binary youre interested em bytes em shouldnt reader writer hex editors typically byte oriented text oriented provide text view ideally configurable encoding exact bytes file 

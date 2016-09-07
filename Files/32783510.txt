@@ -1,0 +1,4 @@
+junit nullpointerexception file functions 
+information strong short version strong line code nullpointerexception tested junit strong long version strong enviroment ul li os win7 pro netbeans runs admin li li ide netbeans li li build automation tool gradle li li jdk li li test framework junit li ul exception occurs run junit tests build tests works fine function em listfiles em em file files file searchpath listfiles em doesnt return null problem function called constructor class 
+
+description strong io file strong strong nio file strong overcome limitations strong io file strong reworked function migrated href http docs oracle javase docs api io file html rel nofollow io file strings href http docs oracle javase docs api nio file package summary html rel nofollow nio file path works fine code found href http stackoverflow questions read files folder read files folder dont anymore wrote function filenames file extension 

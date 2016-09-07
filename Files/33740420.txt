@@ -1,0 +1,4 @@
+uploading huge files websphere 
+web application deployed websphere upload huge file gb problem strong content length strong null case file size 2gb deployed application tomcat working expected 
+
+small problem content length greater 2gb httprequest getcontentlength return expected httprequest getheader content length return null problem resolved support servlet added websphere application server liberty profile resolved websphere application sever v9 beta href https developer ibm wasdev blog websphere application server v9 beta https developer ibm wasdev blog websphere application server v9 beta work issue setting content length query parameter including path info request alternatively support contact ibm service open pmr request fix 

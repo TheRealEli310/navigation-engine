@@ -1,0 +1,4 @@
+load android support v7 library sbt android project 
+created sbt project added android template href https github pfn android sdk plugin rel nofollow pfn android sdk plugin create test app implementing recyclerview aar technique finding dependencies build sbt dropping jars unmanaged project libs compile install crash comment arrs dependencies found add recent log loading build sbt 
+
+dont forget install android support repository sdk manager resolve dependencies set 

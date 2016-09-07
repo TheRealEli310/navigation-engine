@@ -1,0 +1,4 @@
+maven android project work 
+language features exception android maven plugin android nexus emulator intellij idea language compiler level set works fine feature exception deploying pom xml manifest 
+
+unfortunatelty current version dex working java8 related features compiling android platform configure maven compiler plugin order enforce version 

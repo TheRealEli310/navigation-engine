@@ -1,0 +1,4 @@
+disable sliding aspect slidingtablayout questions 
+tab layout action bar deprecated sliding tab layout dont user swipe tab google map user move navigate normal map id limit user clicking tab swiping change screens tab loaded user switches tabs dont load redraw google map time 
+
+ll answer question disabling swiping event tab layout layout make custom extends set method disables enables swiping sample code disable enable swiping anytime calling method hope helps 

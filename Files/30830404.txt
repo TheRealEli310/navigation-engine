@@ -1,0 +1,4 @@
+programatically check threads belong process 
+check threads belong processes programatically piece code written understand thread t1 created part process testthread1 thread t2 created part testthread2 process check programatically 
+
+mixed concept threads processes blockquote thread t1 created part process testthread1 thread t2 created part testthread2 blockquote runnables hold information action thread actual threads run process started application threads application run process situation threads referecens belong processes start application run process wont compare threads processes single context 

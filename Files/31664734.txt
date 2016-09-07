@@ -1,0 +1,4 @@
+diff files 
+snippet code list string representing files ul li file1 ssome ssimple ttext ffile li li file2 aanother ttext ffile wwith aadditional llines li ul call diff file1 file2 output diff file1 file2 ol li ssome li li ssimple li li ttext li li ffile li li wwith li li aadditional li li llines li ol 
+
+gather question ul li means word file changed file li li means word file removed file li li means word file remained file li li means word wasnt originally file added file li ul figured file source file file destination file showing differences algorithm perfect href http www diffnow rel nofollow diffnow pretty close results 

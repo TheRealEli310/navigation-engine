@@ -1,0 +1,4 @@
+play framework spring injecting url application conf 
+spring play inject property plays file access properties url strong quotes strong remove play throw injecting property spring inject strong quotes strong trim id inject url quotes notes ul li create separate file id avoid configuration li li horrible static plays write unit tests li ul reasonable workaround 
+
+guess properties file dont configuration readability code quoted sample code include properties file 

@@ -1,0 +1,4 @@
+string char array inverse leads wrong result 
+convert string char perform bitwise operations approach standard functions data altered function manually question data standard functions expecting data tochararray tostring string represented bitwise reason 
+
+print array print printing contents blockquote arrays objects direct superclass array type object blockquote call method directly call objects tostring method class return object 

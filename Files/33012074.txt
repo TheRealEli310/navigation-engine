@@ -1,0 +1,4 @@
+cdi javax enterprise context contextnotactiveexception scoped beans producer methods 
+strong websphere application server strong observed issues cdi blockquote ol li classes methods scope li li bean scope injected classes methods li ol blockquote task sample code replicate issue question violating cdi spec wrong container 
+
+cdi specification scope type means objects scope exist lifetime application bug websphere discussed href http stackoverflow questions codi ejb stateless websphere liberty profile beans options ul li switch application server upgrade websphere upgrade webbeans library websphere option li li create cdi extension add custom scope coding supported app server li li producers cache created beans singleton bean created previously li ul 

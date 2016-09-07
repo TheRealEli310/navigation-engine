@@ -1,0 +1,4 @@
+implementing swing jdk eclipse 
+implement concept swing identifier error newbie programmer error 
+
+project settings wrong ancient question found href http stackoverflow questions access restriction class due restriction required library rt jar issue correct resolve basically check projects make referring default youre including swing classes causing conflict eclipse sees youre class 

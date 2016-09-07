@@ -1,0 +1,4 @@
+pipedinputstream pipedoutputstream imageio ffmpeg 
+code scala future simply writes generated images strong outputstream strong strong ffmpeg strong process reads input images strong stdin strong converts mp4 file works pretty reason stacktraces time error stream streams broken strong ffmpeg strong read data strong imageio strong write data interesting problem reproducible linux server amazon works flawlessly linux boxes point error ul li oracle jdk openjdk li li versions ffmpeg li ul worked moment 
+
+problem kind predictable weird time ten concurrent strong ffmpeg strong processes scheduled handle input input set hundreds strong fullhd strong pictures takes lot computation capacity kernel randomly shut strong ffmpeg strong processes causing wrapper report broken input output pipe time strong var log messages strong contained logs reducing number concurrent strong ffmpeg strong processes solved issue 

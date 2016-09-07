@@ -1,0 +1,4 @@
+websocket api implementation web server 
+implement custom websocket app run web server glassfish tomcat jetty intend develop custom tailored app implement manage threads monitoring load balance messaging stuff compared tcp serversocket tyrus containers grizzly integration standalone server servlet support jetty grizzly jetty standalone solution se tyrus kind wrapper grizzly websocket implementation honest interconnected suggestions 
+
+words youre implement websocket server href https code google jwebsocket rel nofollow https code google jwebsocket 

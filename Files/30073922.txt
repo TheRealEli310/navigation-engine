@@ -1,0 +1,4 @@
+unable start activity intent 
+studying android development problem logcat unable start settings activity class make intent function clickedsettings calling settingsactivity class activity runtime clicked settings actionbar top screen settingsactivity class options vibrate finnaly spec virtual telephone cpu abi arm armeabi v7a target android api level 
+
+error log line returns null object reasons ul li subclasses support component change code li li theme due present activities change theme theme support li ul thing isnt reason issue deprecated 

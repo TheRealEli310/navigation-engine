@@ -1,0 +1,4 @@
+oracle adf 11g validate entity impl commiting 
+code working directly manipulating entity object eo insert 10k records eos backing table bad practice dont time rewrite application immediately committing test primary key exists customize query executed transaction committed id add insert exists sloppy alternative commit change time create undesired app db traffic provide additional information reading 
+
+blockquote customize query executed transaction committed id add insert exists blockquote control sql statements entity objects generate overriding sqlbuilder class href http www jobinesh customizing sql builder class html rel nofollow http www jobinesh customizing sql builder class html 

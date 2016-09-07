@@ -1,0 +1,4 @@
+lookup attribute resource replacement ibm ejb jar bnd xml 
+search internet couldnt find definite answer ejb session bean equivalent lookup entry ibm ejb jar bnd xml lookup attribute dont resource env ref anymore 
+
+lookup attribute functionally equivalent ibm ejb jar bnd xml replacement ibm ejb jar bnd xml override provided lookup attribute ibm ejb jar bnd xml binding changed recompiling application 

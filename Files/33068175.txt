@@ -1,0 +1,4 @@
+finding smallest generic arraylist 
+message telling operator undefined types happening modifying program smallest largest values array list generic method 
+
+compiler operator applicable primitive numeric type quoting href https docs oracle javase specs jls se8 html jls html jls rel nofollow section jls blockquote type operands numerical comparison operator type convertible primitive numeric type compile time error occurs blockquote defined objects numbers unboxed primitive type href https docs oracle javase specs jls se8 html jls html jls rel nofollow section jls blockquote type convertible numeric type numeric type reference type converted numeric type unboxing conversion blockquote href https docs oracle javase docs api util comparator html rel nofollow make objects href https docs oracle javase docs api lang comparable html rel nofollow responsible comparing objects type objects numbers custom comparator added type method method static fact declaring type class 

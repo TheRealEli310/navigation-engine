@@ -1,0 +1,4 @@
+swing slider labels updating slider min max values 
+label table jslider updated slider minimum maximum values values change minimum maximum values updated correctly getminimum getmaximum methods return correct values automatic labels slider show incorrect values standalone problem code automatically generated eclipse window builder swing designer pressing buttons sides slider slider maximum 
+
+update called slider previous set labels worked calling setting tick spacing force recreating labels 

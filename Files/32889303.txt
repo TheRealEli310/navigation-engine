@@ -1,0 +1,4 @@
+jtree node text inside method gettreecellrenderercomponent custom renderer 
+customizing jtree nodes checkboxes href https github santhosh tekuri myblog tree master checktree src santhosh rel nofollow santhosh tekuris work base idea writing custom treecellrenderer case extends jpanel implements treecellrenderer method gettreecellrenderercomponent decide node receiving checkbox examples typical jtree customize node icon relay converting node jlabel text jpanel renderer case avoid setting tristate checkbox cells texts starts find text argument case helps create jtree idea 
+
+youre href http docs oracle javase docs api javax swing tree defaultmutabletreenode html defaultmutabletreenode lang object rel nofollow href http docs oracle javase docs api javax swing tree defaultmutabletreenode html getuserobject rel nofollow defaultmutabletreenode getuserobject method 

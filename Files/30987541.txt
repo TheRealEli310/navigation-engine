@@ -1,0 +1,4 @@
+create initialize singleton guice 
+classes storageproxy interface storageproxyimpl1 implementation1 storageproxy interface main method application class initializes resource1 resource2 guice dependency injection storageproxy pain create implementations resource1 resource2 object storageproxy singleton critical init separate constructor summing create instance storageproxyimpl1 call storageproxyimpl1 init string main method instance shared resource1 resource2 question asked href http stackoverflow questions guice instance singleton injector constructor guice instance singleton injector constructor injection bit high level find difficult understand concrete 
+
+href http google github io guice api docs latest javadoc index html google inject provider html rel nofollow provider interface working 

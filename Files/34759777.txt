@@ -1,0 +1,4 @@
+mockmvc mocked repository 
+strong conext strong ul li found question href http stackoverflow questions mockmvc mock controller problem li li li li controller entire application request repositories classes li li generate documentation requires write unit tests li li starts container require datasources set li li pass mocked repository class wont load request wont reach repository li li understand create memory database project big database huge number tables created avoid tests documentation purposes li ul strong question strong achieve mock target repository class strong strong repository interface 
+
+ol li andy wilkinson suggested creating unit test wire beans mokmvc standalone setup li li create integration test create spring context fake spring bean annotations href http lkrnac net blog mock spring bean v2 rel nofollow wrote blog post github combine approach based setup works problems wrote tests past li ol 

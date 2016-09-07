@@ -1,0 +1,4 @@
+eclipse mars hot swap code debugger working 
+updated eclipse mars reason unable hot swap code debugger started debug mode changed text save update restarting behaves run run mode debug ul li creating workspace creating fresh project code li li jdks installed amp changed workspace project settings jdks fact versions installed shouldnt matter moment updated eclipse stopped working li li uninstalling removing config files eclipse mac file folder word eclipse library folder ran find search detect files create workspace project code snipped ran debug mode save li li made auto build enabled clean disable auto build save code manual build debugger running li ul starting desperate hard time work debug mode hints direction appreciation 
+
+finally found problem edit loops running loop edit string edit methods called inside loop edit string update applies infinite loops guess rule thumb method body called updating isnt wait loop call 

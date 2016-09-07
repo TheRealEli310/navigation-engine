@@ -1,0 +1,4 @@
+rdd transform function neighboring elements 
+transform neighboring elements sorted rdd collect operation kind defeats purpose distributed system leverage fact distributed rdd string int val map rdd string int val int diff 
+
+efficient approach simplest approach convert rdd data frame lag moment window functions clause move data single partition large dataset low level operations edit dont mind developers api requires manual processing 

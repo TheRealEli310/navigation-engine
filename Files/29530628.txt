@@ -1,0 +1,4 @@
+javafx combobox update fetching data controller 
+problem fxml file combobox defined add items strong controller controller strong current solution works select item combobox update hr h2 strong edit strong information h2 controller managed root pane root login user login controller loaded code sample button defined doc fxmlloader controller user select combobox managed pane overview 2nd controller em daos afaik hibernate current selections em lazy loaded daos filled automatically show users persons 
+
+controllers call ul li parentcontroller li li childcontroller li ul items populated database hibernate whatsoever pass data back populate data expose public method coming back advantage bind data list parent child controllers makes change list reflected 

@@ -1,0 +1,4 @@
+fibonacci calculator bigintegers 
+working homework project user input number computer spits fibonacci numbers id int values program biginteger type int long double types small hold values ill code problem doesnt print numbers supposed imports rest code em em work int type started values waaay bigger forced biginteger whats wrong problem return fibonacci2 method 
+
+argument initial tests developers count basically quick dirty solution calculate large values suggest href http en wikipedia org wiki memoization rel nofollow memoization significantly faster initial recursive version 

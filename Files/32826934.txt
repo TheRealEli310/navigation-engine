@@ -1,0 +1,4 @@
+http apache ssl authentication work 
+code works perfectly fine runtime yields peer authenticated exception compiled useses apaches httpcore v4 httpclient v4 clues rewrite httpclient provide strong warren strong linking related question today stack trace havent posted wrong certificate missleading imo strong warren strong subclassed sslsocketfactory setenbaledprotocols linked questions avail enabled javax net debug ssl handshake verbose 
+
+answer didnt enforce tlsv1 add ciphers unsupported jdk1 strong ssl rsa rc4 sha strong strong ssl rsa rc4 md5 strong code class implementing methods extends sslsocketfactory newciphers var string ciphers 

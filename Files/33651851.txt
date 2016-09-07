@@ -1,0 +1,4 @@
+fetch manytoone releationship dont persist parent entity 
+enitities save child save id parent column parent id br dont save update parent child saved br added joincolumn br problem org hibernate transientpropertyvalueexception object references unsaved transient instance save transient instance flushing br hibernate tells save parent child parent saved hibernate doesnt transaction dont save parent point dont fetch parent additional select id object annotate getparent transient prevent persisting parent works great child fetched parent br saved id property set manually achieve br fetching parent fetch child save parentid save child dont save update parent 
+
+problem youre creating parent attach child existing parent dont parent exists entitymanager save child existing parent id 

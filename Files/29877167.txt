@@ -1,0 +1,3 @@
+android dynamic button setonclicklistener 
+create dynamic buttons button clicked color button change red clicked color previous button reset default color id clicked button 
+

@@ -1,0 +1,4 @@
+nullpointerexception navdrawerlistadapter navigationdrawer android 
+strange problem navdrawerlistadapter navigationdrawer android app list items navdraweritem works add 14th element app appears crash give nullpointerexception checked resources strings appears correct stacktrace pointing class inside getview line strong imgicon setimageresource navdraweritems position geticon strong reason imgicon null strong strings xml strong strong navigationdraweractivity strong 
+
+layouts ul li layout header view li li layout drawer list item li ul guessing layout header view doesnt id icon reuse imgicon null base adapter methods types views make item position type rest add methods adapter update statement getview 

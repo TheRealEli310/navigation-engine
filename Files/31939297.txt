@@ -1,0 +1,4 @@
+xmpp server connection error 
+successful login xmpp server error advice advance error lang illegalargumentexception servertime constant org jivesoftware smack packet message type 
+
+client receives stanza attribute standard href https xmpp org rfcs rfc6121 html message syntax type rel nofollow section rfc blockquote application receives message type attribute application understand type attribute provided message type normal normal default blockquote bug smack shouldnt crash standard type values reported smack developers hr hand message unusual extending xmpp rfc section blockquote included type attribute values blockquote setting allowed usual add message type embed xml element specific namespace ideally put http url control hr hand communicating time information find href https xmpp org extensions xep html rel nofollow xep entity time meets support xep href https igniterealtime org issues browse smack rel nofollow added smack version 

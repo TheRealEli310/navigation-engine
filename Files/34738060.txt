@@ -1,0 +1,4 @@
+spring boot application concurrency issues 
+developing application run spring boot context tomcat project connects startup kafka pulls messages process tomcat management apis spring loading connects kafka threads thread autowired spring bean handles message bean autowired beans concurrency issues synchronize stuff concurrent types concurrenthashmap normal hashmap 
+
+spring bean singleton default methods bean called threads concurrently method dont care concurrency save data places bean members data object care concurrency data holder service public class someservice public map handle map dataholder otherserice func function call someservice handle thread threads call function hashmap 

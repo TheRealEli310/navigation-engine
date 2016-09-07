@@ -1,0 +1,4 @@
+c2 compilerthread 
+run jstack process oracle jdk1 found lines c2 bytecode compiler questions ol li exact compiler threads compilation run parallel li li parameter similar version coincidence li li condition address absolute li ol 
+
+ol li number compiler threads determined automatically basing jvm ergonomics vary depending number cpus exact formula found href http hg openjdk net jdk8u jdk8u hotspot file 218483967e52 src share vm runtime advancedthresholdpolicy cpp l43 number compiler threads manually overridden jvm option li li native id unique id thread os linux number returned href http man7 org linux man pages man2 gettid html gettid case tid 0x7d72 li li related printed brackets stack pointer stack frame aligned page size compiler thread real thread sp printed li ol 

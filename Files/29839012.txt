@@ -1,0 +1,4 @@
+app deployment heroku maven failed 
+setup continuous deployment process tomcat based app github source code hosting travisci building war file running unit tests heroku deploy packaged war file strong tutorial strong href https devcenter heroku articles deploying war files heroku travis ci creating web application rel nofollow https devcenter heroku articles deploying war files heroku travis ci creating web application strong error running step tutorial strong mvn clean heroku deploy war strong command outpt strong strong error message output strong strong maven system configuration strong strong version strong strong pom file strong 
+
+found issue heroku deploy war maven plugin requires maven version version installed maven version ubuntu machine war file successfully deployed heroku github heroku maven plugin repository readme file steve time output 

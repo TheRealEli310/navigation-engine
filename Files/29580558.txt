@@ -1,0 +1,4 @@
+css working deployment javafx app eclipse 
+deploy javafx app eclipse wont load css file reason app works expected inside eclipse main class css fxml build xml set obligatory things dont convert sign build xml file system running build xml img src http stack imgur yredd png alt file system file browser img src http stack imgur jymu9 png alt file system couldnt fin solutions mentions conversion css bss solution ideas 
+
+problem css file javafx parse throw parse exception remove charset declaration css 

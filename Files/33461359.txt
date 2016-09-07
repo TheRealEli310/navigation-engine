@@ -1,0 +1,4 @@
+stack exist error ec2 instance working fine local 
+exception solution solve problem case amazon cloud sqs dependency gradle file appreciated 
+
+struggling solved exception putting contextstackautoconfiguration class exclude enableautoconfiguration 

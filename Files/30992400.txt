@@ -1,0 +1,4 @@
+fresh install tomcat ec2 amazon linux giving errors 
+installing tomcat7 amazon linux public dns added custom tcp rule port security group error catalina notes file tomcat start serving webapps 
+
+python fabric deploy webapp starting processes immediately ended shell session quit exit deployment script prefixing commands command tomcat appears working properly 

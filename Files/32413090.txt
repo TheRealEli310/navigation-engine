@@ -1,0 +1,4 @@
+system getcurrenttimemillis 
+spigot creating daily rewards plugin store amount days users logged row main trouble system getcurrenttimemillis create server time shows hours minutes set time 1am 5am player joins logged day online thing adding user stays online set time half hour reward stay online hour bigger reward gradually increases system getcurrenttimemillis restart everytime server restarts 
+
+javadoc system currenttimemillis returns difference measured milliseconds current time midnight january utc answer restart everytime server restarts 

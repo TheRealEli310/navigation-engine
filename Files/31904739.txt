@@ -1,0 +1,4 @@
+ensure methods called abstract super class method class 
+abstract super class method class implement common code called time subclass calls achieved issues ul li method signatures match return class methods super class li li make dosomething abstract provide common implementation dont make abstract force class implement li li method provide common functionality enforce dosomething calls common method li ul ideas methods implemented 
+
+add call back dosomething subclusses ipmelment dosomethingmore additional actions external classes call public dosomething 

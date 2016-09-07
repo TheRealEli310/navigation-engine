@@ -1,0 +1,4 @@
+tomcat db2 jndi datasource 
+em jdni datasource em db2 driver combination tomcat application hibernate spring data jpa problem em hotdeployment em rpm fails em hotdeployment em error log blockquote information illegal access web application instance stopped load db2jccconfiguration properties eventual stack trace caused error thrown debugging purposes attempt terminate thread caused illegal access functional impact blockquote application fails start definition web xml context xml bean definition spring config class 
+
+found solution changed tomcat7 replaced org apache commons dbcp basicdatasourcefactory factory tomcat problem solved 

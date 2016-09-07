@@ -1,0 +1,4 @@
+filter rdds based partition 
+code creates rdd named partitioned pieces hashing column txt file named test file form context valuea1 retrieve values trivial existing filter operation avoid essentially filter operation performed rdd assume hash valuea1 perform operation partition generally interested dropping selecting specific partitions rdd perform operations spark api directly workaround achieve thing 
+
+single keys method efficient lookup youll rdd partitioned simply filter partitions specific keys 

@@ -1,0 +1,4 @@
+check input double 
+wrote basic fahrenheit celsius converter practice working id include code user enter valid number add string assuming statement check double supposed kind error variable underlined red squiggly heres add code make run textboxf valid double data type 
+
+suppose work exception parse string double simple workaround smooth works href https docs oracle javase tutorial essential exceptions catch html rel nofollow information catch exception thrown convert set text textbox 

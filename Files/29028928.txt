@@ -1,0 +1,4 @@
+spring boot work spring loaded gradle 
+simple spring boot application work spring loaded gradle success ol li spring boot task simply reloads static resources fine simple f5 browser li li change class text editor doesnt work li li run make change existing controller intellij works existing methods doesnt update methods change signatures li li intellij vm argument javaagent usersmyuser m2 epositoryorgspringframeworkspringloaded1 releasespringloaded release jar noverify li ol ideally perform process gradle ide independent github project sample code href https github cgeo7 springboot springloaded rel nofollow sample project perform 
+
+trick task simple bootrun gradle build file watch plugin incremental compiles classes change 

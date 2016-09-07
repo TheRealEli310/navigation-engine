@@ -1,0 +1,4 @@
+call db collection stats mongo driver 
+br mongodb client db collection stats status collections br number records count br size disk storagesize br indexes indexsizes br average object size avgobjsize br monitor data web backend mongodb driver referred href http mongodb github io mongo driver driver async started quick tour admin rel nofollow http mongodb github io mongo driver driver async started quick tour admin information br 
+
+strong href http api mongodb org current mongodb commandresult html rel nofollow commandresult strong finding check code 

@@ -1,0 +1,4 @@
+generate dynamically jtextfield jbutton id loop 
+working project allowing manager create todo list employee view todo process modify exemple adding comment employees interface consist ul li lot jtabbedpane dynamically generated depending number todo database li li jtabbedpane information todo title jtextfield add comment jtextbox mark todo jbutton save li ul img src http stack imgur ewg49 png alt enter image description problem generate jtextfield jtabbedpane id loop generate jtexfield jbutton unique action save button checkbox concern todo execute sql command row field 
+
+creating ui variables local scope method reference anonymous class implementation mark href http stackoverflow questions final variables accessible anonymous class final remove variable declarations 

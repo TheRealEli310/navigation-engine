@@ -1,0 +1,4 @@
+list iterator iterate linked list 
+program create linkedlist type song song instance variables title artist user prompted enter command add remove print quit problems remove method allowed regular enhanced loop iterate linkedlist remove method supposed listiterator remove linkedlist remove heres loop time run util concurrentmodificationexception error fix problem remove method 
+
+strong edit strong answer wrong fixed util concurrentmodificationexception exception thrown list iterating code bit hard detect detect quickly remeber em start iterating em moment create iterator execute iterator starting element ready iterate list problem created iterator beginning code list empty time loop list changed elements added exception exception raised elements deleted list remove inside loop wrong impression glance gave totally wrong answer fixed code syntax errors correct function returns iterator ready usage forgot doublequotes tests user input quit add remove 

@@ -1,0 +1,4 @@
+spring jpa config illegalargumentexception persistence unit found 
+weird issue wrap head jpa hibernate spring persistence xml file spring handled working project time decided config issues persistenceconfig find persistence unit comment line sets persistenceunitname complains illegalstateexception persistence units parsed classpath meta inf persistence xml dont understand persistence xml config xml solutions persistenceconfig reference xml configuration months back 
+
+href http docs spring io spring docs current javadoc api org springframework orm jpa localcontainerentitymanagerfactorybean html setpackagestoscan lang string rel nofollow localentitymanagerfactorybean documentation blockquote case spring based scanning persistence xml base packages search blockquote change bean 

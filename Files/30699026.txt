@@ -1,0 +1,4 @@
+array index bounds error array space 
+writing program part array set part array relevant code line array initialized program array inputs array run produces error ideas advance entire code import util scanner public class central 
+
+problem line basically understood correct youve initialized variables array changed size line access 5th index array array defined indexes ranging 

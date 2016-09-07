@@ -1,0 +1,4 @@
+apache spark streaming textfilestream reading gzip files 
+processing files hdfs spark streaming specifically method class method text assumed read text files surprise reading gzipped text files clarify expected behavior formats read 
+
+spark hadoops file api handles compression formats transparently output configure compression property setting api handle 

@@ -1,0 +1,4 @@
+packet handler threading 
+quick general question netty handle tcp udp packets coming client socket listeners separate thread works great concern traffic starts hitting heavily dont single thread handler manage messages suffice correct generate thread message feel threadpool advice greatly appreciated code message handler wrote pseudo code visualize process guys 
+
+make educated guess programming standpoints server sided design server relay messages processing processes highly handling incoming message concern processes limiting factor traffic expect estimated server load time hard build server target world prepare suggest test game servers messaging servers multi servers main server delegate work communicate needed depending type program create server test suggest single threaded message listener packet handler process shoot processing thread server design principles full force thousands users heavily depends processes run server 

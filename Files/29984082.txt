@@ -1,0 +1,4 @@
+store hashmap string string arraylist object 
+achieve receive errors destinationfunction receive null pointer exception 
+
+strong alternative strong solution perfect scenarios working string integer combination list map complex object working images abit difficult implement cases refer href http www tutorialspoint serialization htm rel nofollow serialization case 

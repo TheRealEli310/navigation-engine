@@ -1,0 +1,4 @@
+maven findbugs plugin run findbug test classes 
+maven version findbugs plugin version ol li run findbugs plugin src test classes applied source classes li li pmd plugin hint li ol related issues ul li href http stackoverflow questions findbugs filter file ignoring junit tests findbugs filter file ignoring junit tests li li href http stackoverflow questions run findbug test code run findbug test code li ul findbugs maven configuration pre class lang xml prettyprint override 
+
+configuration explicitely set href http gleclaire github io findbugs maven plugin findbugs mojo html includetests rel nofollow element findbugs analyze test classes pre class lang xml prettyprint override plugin bound phase findbugs executed compilation source test classes element href https maven apache org plugins maven pmd plugin pmd mojo html includetests rel nofollow set plugin configuration 

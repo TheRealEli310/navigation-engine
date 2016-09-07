@@ -1,0 +1,4 @@
+gradle compile generated file 
+convert big project current state hit wall point suppose directory tree lot stuff omitted simplicity lets suppose package exists file main class generate file directory compiled package dependencies packages makefile simple algorithm ol li compile packages app app li move directory package app compile files required create generated file li create generated file running main function file generation li compile app package includes generated file ol gradle dont thought create javaexec task run file produces generated file make run compilejava finalized compilejava circular dependency tasks dead end met similar easily move file generation file deep dependencies 
+
+didnt search good href http stackoverflow solution works case difference configuration trick posting answer issue find easier 

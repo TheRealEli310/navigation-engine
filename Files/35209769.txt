@@ -1,0 +1,4 @@
+asynctask passing 
+working hit point dont class download parse file string send string class parse json stuff parts work fine tested separately dont send json parses start parsing filedownloader class works fine tested errors json parser problem occurring assign jsondata assigned null system fails things jfd exicute dont final string output jsondata 
+
+alright pretty flexible pattern usage asynctask download web content results back ui thread strong step strong define interface act message bus asynctask data strong step strong create generic asynctask extension url return results basically made tweaks importantly allowing setting asyncresponse callback interface strong step strong asynctask unable data asynctask 

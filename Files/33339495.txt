@@ -1,0 +1,4 @@
+setting title fps libgdx 
+libgdx projects display fps game title application figure title game static extremely appreciated 
+
+suppose add render controller method gdx graphics settitle fps 

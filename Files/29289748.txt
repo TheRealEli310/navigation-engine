@@ -1,0 +1,4 @@
+prefix mvc element mvc annotation driven bound spring mvc 
+blockquote http status servlet init servlet mvc dispatcher threw exception blockquote exception blockquote javax servlet servletexception servlet init servlet mvc dispatcher threw exception blockquote root blockquote org springframework beans factory xml xmlbeandefinitionstoreexception line xml document servletcontext resource web inf mvc dispatcher servlet xml invalid nested exception org xml sax saxparseexception linenumber columnnumber prefix mvc element mvc annotation driven bound blockquote 
+
+check mvc dispatcher servlet xml file beans xmlns top add blockquote xmlns mvc http www springframework org schema mvc blockquote tag start 

@@ -1,0 +1,4 @@
+jsf support intellij idea 
+facts ul li intellij idea ultimate educational li li ear web module li li wildfly application server li li primefaces li ul find support jsf intellij ide jsf option em view tool windows em menu shown tutorials add jsf facet em module settings em added schemas uris tag libs manually code completion work miss add support installation process 
+
+solution em file settings plugins enable jsf plugin em jetbrains idea webhelp10 enabling jsf support html 

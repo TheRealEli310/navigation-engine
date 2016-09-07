@@ -1,0 +1,4 @@
+dynamically remove fields json response 
+spring create restful api good question model fields response dynamically controller model 
+
+struggling requirement code workaround jsonviews mentioned href http stackoverflow users beerbajay beerbajay comment question href http wiki fasterxml jacksonjsonviews rel nofollow http wiki fasterxml jacksonjsonviews spring boot h1 views h1 pre class lang prettyprint override h1 album h1 pre class lang prettyprint override h1 albumcontroller h1 pre class lang prettyprint override key jacksons href http fasterxml github io jackson databind javadoc fasterxml jackson databind objectmapper html rel nofollow objectmapper href http fasterxml github io jackson databind javadoc fasterxml jackson databind objectwriter html rel nofollow objectwriter generate strong string strong json representation object feels kind ugly works question remain scales defining requestmapping 

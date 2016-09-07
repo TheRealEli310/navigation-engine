@@ -1,0 +1,4 @@
+docker restart environment variables 
+docker container runs server environment variables passed contained em run em command works expected server access instance environment variable stop container restart environment variables lost server find instance strange enter container environment variables correctly set restarting container environment variable set differently run aware thing simply bad manipulation side 
+
+nevermind post accidentally changed starting script restart program run sudo set environment variables 

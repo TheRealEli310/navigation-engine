@@ -1,0 +1,4 @@
+basic insertion sort optimization making code slower 
+teaching demo insertion sort tomorrow important optimization add check loop stops iterating item position basically version efficient benchmark measuring performance version faster find bug ideas whats heres code benchmark strong edit strong changed number items test array commented lines print 
+
+written called microbenchmark results meaningful dont warmup phase essential jvm hotspot compiler perform runtime optimizations search microbenchmark find tools href http performance info jmh rel nofollow http performance info jmh case results meaningful suppose 2nd loop optimization hotspot compiler efficient 1st 

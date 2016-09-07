@@ -1,0 +1,4 @@
+database abstraction layer scala 
+searching database abstraction layer abstracts sql statements queries support multiple sql dialects worry syntax experience href http www querydsl rel nofollow querydsl href http openhms sourceforge net sqlbuilder rel nofollow sql builder couldnt find informations abstracts sql statement query 
+
+href http slick typesafe rel nofollow http slick typesafe supports wide range systems href http slick typesafe doc introduction html supported database systems rel nofollow http slick typesafe doc introduction html supported database systems 

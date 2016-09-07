@@ -1,0 +1,4 @@
+earth orbiting sun 
+running program nan values printed deduced error lies main class loop sun componenty sun componentx part grav field divides correct attempted write method gravfield called calcacc works force sun earth unsure implement main method vectors work output position velocity earth correctly code advance clarify simulation consists classes physicsvector class source problem 
+
+unusual abstraction case simplified physics engines gravity field imparts constant force object youd earth case youre simulating space gravity considered distortion space time time object moves affects forces body suggest rethink abstraction iteration engine calculate gravitational force combination pairs objects simulation operation 

@@ -1,0 +1,4 @@
+serversocket port issue net bindexception address jvm bind 
+building simple client server program sockets tutorials creating simple client server program run server class freezes type ports ports exception net bindexception address jvm bind heres key parts server class tutorials difference compared issues server freezes exception ideas 
+
+changed code bit fixed problem main fix setting server constructor fixed dont understand wasnt working works 

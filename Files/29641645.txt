@@ -1,0 +1,4 @@
+linkedlist memory leak 
+attempting debug application hanging program queue implemented stress testing discovered program stops responding due running heap memory analyzed heap dump found memory leaking relevant part heap dump dump deleted accumulate general flow program nbsp nbsp nbsp nbsp nbsp nbsp queue offer rarr queue poll rarr queue remove object leaking memory prevent happening 
+
+href http stackoverflow questions handle memory leaks continuous insertion linkedlist handle memory leaks continuous insertion linkedlist problem wont solved explicitly deleting objects basically creating garbage cms collector cope solution object pool recycle buffer objects dropping floor gc deal careful dont replace current problem hand real problem heap small application run run close limit gc wont reclaim garbage time cost running gc proportional amount garbage easy gcs efficiency linear heap closer full call garbage collector point code code system gc 

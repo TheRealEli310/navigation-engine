@@ -1,0 +1,4 @@
+deploy spring boot ibm 
+facing problem deploying simple spring boot web ibm websphere full profile default servlet application display page current date deploying war file server log output spring boot start logs servlet initialized spring boot maven dont web xml file war boot application class project pom strong update strong spring guide deploying external containers war works jboss eap tomcat strong update strong added class dont forgot extends springbootservletinitializer removed spring boot devtools pom andy wilkinson answer 
+
+safely ignore warning messages theyre noisy wont stop application starting successfully problem appears dont application listed log message easiest provide update extend override configure method 

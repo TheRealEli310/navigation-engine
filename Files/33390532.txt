@@ -1,0 +1,4 @@
+networkonmainthreadexception retrofit beta2 rxjava 
+recently upgraded retroft beta1 working interface api call throws networkonmainthreadexception working retrofit beta1 
+
+retrofit beta2 calls observable methods href https github square retrofit releases tag parent beta2 behave synchronously 

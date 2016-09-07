@@ -1,0 +1,4 @@
+sorting stream doubles absolute magnitude 
+series double values sum maximum sounds perfect method api reminding learned computer science courses stability summation problem values sorted absolute values comparator call stream gathered values call lengthy preferred generic builder miss boxed version stream comparator 
+
+primitive streams dont overloaded method sorted natural order back underlying problem ways improve accuracy sum dont involve sorting data algorithm href http en wikipedia org wiki kahan summation algorithm kahan summation algorithm href http grepcode file repository grepcode root jdk openjdk b132 util doublesummarystatistics doublesummarystatistics openjdk oracle jdk internally admittedly implementation detail usual caveats apply openjdk oracle jdks future openjdk jdks alternative approaches post href http stackoverflow questions order floats added precise result order floats added precise result 

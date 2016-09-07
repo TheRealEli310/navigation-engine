@@ -1,0 +1,4 @@
+android studio send text share intent 
+hey guys working android studio app class share text listview shareintent variable called giftarray string method called put putextra send string whichever share application chosen user export listview 
+
+bit time youd surprised questions asked find youre case id suggest refer questions passing arrays activities ol li href http stackoverflow questions passing string array android activities bundles li li href http stackoverflow questions passing arraylist intent bundle li ol 

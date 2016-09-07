@@ -1,0 +1,4 @@
+spring mysql connections creating connections sleeping connections 
+dont time visits page website connection open database eventually reach error pages longer load thought work maxidle set means sleeping connections open spring moment open close reboot server back getjdbctemplate query part spring config xml part dao renamed show processlist mysql display rows dao method 
+
+configuration result tweaks prod environment 

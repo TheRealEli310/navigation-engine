@@ -1,0 +1,4 @@
+kerberos spring javax security auth login loginexception unable obtain password user 
+implementing kerberos authentication existing spring application unix team provided spn krb5 conf keytab file hard code configuration unable obtain password user exception attached logs correct wrong wrong information good verify kerberos configuration correct br ul li jdk li li spring security kerberos core m2 jar li li spring security core release jar li li spring security config release jar li li spring security web release jar li ul strong security config xml strong strong properties values security config xml strong strong dummyuserdetailservice strong strong web xml strong strong application logs showing exception strong strong server logs strong 
+
+responding resolved issue problem keytab keytab file spn generated wrong spn dummy spns found exception asked team validate generate keytab 

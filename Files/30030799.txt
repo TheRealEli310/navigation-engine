@@ -1,0 +1,4 @@
+log4j dailyrollingfileappender rolling files 
+log4j configuration intended roll files application runs daily everytime application runs file truncated overwritten wrong 
+
+configuration alright suspect line causing problems 

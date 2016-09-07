@@ -1,0 +1,4 @@
+joda betweendays localdate localdate applicable 
+trouble joda function telling insert items number days current date wrong 
+
+speak joda time class expression href http www joda org joda time apidocs org joda time days html daysbetween org joda time readablepartial org joda time readablepartial rel nofollow process input problems problem idea imports wrong expression href http docs oracle javase docs api time format datetimeformatter html ofpattern lang string util locale rel nofollow datetimeformatter ofpattern mmmm yyyy locale english strong code joda code code strong mix classes compiler complaining dont mix libraries compatible partially equal names increase confusion strong solution strong abandon joda time completely 

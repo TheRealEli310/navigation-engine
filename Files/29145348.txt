@@ -1,0 +1,4 @@
+running project spring boot working fine deploying tomcat written exception 
+case spring boot annotation class level running application main method working fine removing code run application web xml application context giving error 
+
+running spring boot spring problem finding cppapplication annotations deployed war annotations class extends springbootservletinitializer detail href http docs spring io spring boot docs current reference html howto traditional deployment html rel nofollow http docs spring io spring boot docs current reference html howto traditional deployment html 

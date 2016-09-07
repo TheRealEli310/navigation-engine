@@ -1,0 +1,4 @@
+select update lock database migration 
+block concurrent modification database migration approach lock existing table prereq achieve migration lock created simple sample dummy table set simulate long process running similar piece code simulate concurrency expected code print printed checking mysql general log thing transaction session commited release lock mysql force case missunderstand works hr strong update tested jdbc mysql client strong dll statement works expected 
+
+finally create dll statement exclusive lock perform strategy href http flywaydb org rel nofollow flyway flyway sessions ol li metatable session lock metatable core table flyway li li object session perform migration li ol session locking mechanism works simulated mysql cli 

@@ -1,0 +1,4 @@
+generics method overriding 
+pair classes classa amp classb shown br case case questions br q1 case2 runtime representation case1 type erasure q2 q1 case1 accepted valid override case2 valid override parameters shed light advance 
+
+answer q1 compiler generate em bridge em method overide complete answer href https docs oracle javase tutorial generics bridgemethods html doc type erasure 

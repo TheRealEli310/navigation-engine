@@ -1,0 +1,4 @@
+unable understand stream generics 
+understand code behaves comments definition type generic methods information provided mandatory syntactically figured signature methods 
+
+answer analyzes lambda spec href http download oracle otndocs jcp lambda fr eval spec index html rel nofollow http download oracle otndocs jcp lambda fr eval spec index html find depends copying methods class compiles ops changing method moving argument place works works dont work works guess supplier annotated explicit type argument work consumers em em makes difference edit stranger work work works em signature em original 

@@ -1,0 +1,4 @@
+play ws akka actor 
+akka asynchronous play ws api akka actors play ws method returns easily converted scala piped akka actor order http response received akka message play ws method returns figure pipe akka actor properly play ws api akka actor 
+
+href https www playframework documentation migration25 rel nofollow migration guide blockquote play cross compiled scala scala release play scala reason dropping scala support play library dependency scala java8 compat scala library makes easy convert common scala java8 types valuable simplify play core find handy play project convert scala future instances completionstage blockquote pretty href https github scala scala java8 compat blob master src test scala compat java8 futureconverterstest rel nofollow easy 

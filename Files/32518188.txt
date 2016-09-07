@@ -1,0 +1,4 @@
+include jars directory ear maven 
+ear project structure jars earcontent lib folder built myear ear gave defaultlibbundledir lib pom xml jars earcontent lib myear ear lib folder pom xml update build ear lib folder inside ear missing scenario gradle build gradle filetree maven equivalent maven 
+
+href https maven apache org plugins maven ear plugin examples customizing module location html rel nofollow work maven artifacts br include jars declared dependencies listed br build ear file configuring href https maven apache org guides mini guide assemblies html rel nofollow assembly br remove lib directory jar files declare dependencies pom 

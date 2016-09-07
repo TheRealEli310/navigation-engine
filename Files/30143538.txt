@@ -1,0 +1,4 @@
+big run time adding items arraylist 
+adding items worst case run time add single item array resize wont resize times add items factor afaik increases capacity factor time resizes kind log number resizes log insert items completely computer science exam answer missing href http stackoverflow questions arraylist size increase answer 
+
+href http en wikipedia org wiki dynamic array dynamic array studied computer science amortized time analysis short answer starting empty dynamic array adding em em elements total time em em em em correct adding single item worst case time em em em em resize performed em em log em em resizes place add resize operations total em em em em good heres illustrate scaling factor arraylists scaling factor em em resize total operations roughly 

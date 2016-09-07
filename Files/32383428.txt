@@ -1,0 +1,4 @@
+eliminate duplicate entries stream based equal class 
+simialar problem descripted href http stackoverflow questions remove duplicate objects listmyobject equals hashcode differences stream api method stream equalitity blogs context defined class class equal method lets call method removing duplicate entries current stream approach based method thought grouping doesnt work reason equal isnt parameter idea reduce useally element left 
+
+essence define make data work hashtable total order make work binary search tree hashtables youll declare wrapper class override binary trees define respects equality definition adds arbitrary consistent ordering criterion collect 

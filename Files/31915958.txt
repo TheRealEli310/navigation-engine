@@ -1,0 +1,4 @@
+play framework annotation order 
+call foomethod process class annotation class project checks user logged method annotation class project checks desired rights access specific method ensure user logged custum action ignores annotation code doesnt process anotation class similar unanswered question href http stackoverflow questions play framework nested action compositions class play framework nested action compositions class 
+
+play appears option docs href https www playframework documentation javaactionscomposition rel nofollow blockquote action composition annotation put controller class executed put action methods set play http actioncomposition controllerannotationsfirst true application conf aware party module project rely execution order annotations blockquote present docs doesnt work previous versions 

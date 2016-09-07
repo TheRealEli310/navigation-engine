@@ -1,0 +1,4 @@
+set proxy server details webservicetemplate 
+soap webservice endpoint url lets ep1 connect strong strong proxy server em org springframework ws client core webservicetemplate em class consume webservices question pass set proxy server details webservicetemplate connect endpoint url ep1 
+
+vm arguments mind setting applies http requests made 

@@ -1,0 +1,4 @@
+practice exception handling 
+wrote code recently lot exception handling makes code unreadable shorten code catching generic exception heard catching generic exception good coding practice cleaner catch multiple exceptions 
+
+strong em em strong good reason strong catch strong catch thrown catch strong em em strong things youre em meant em catch avoid catching runtime exceptions directly impedes critical operation program sees catch full rights call exceptions bothering required handle list exceptions em em bother rest result tests sloppy coding shouldnt occur normal run time application ability href https docs oracle javase docs technotes guides language catch multiple html rel nofollow multi catch statement exceptions exceptions mutually exclusive linked good job explaining encounter code threw handle cleans things bit dont unwieldy huge chains exceptions catch 

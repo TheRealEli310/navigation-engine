@@ -1,0 +1,4 @@
+good practice sql statements properties file spring 
+designing application structure recently task develop application spring boot spring jdbc database connection working dao layer stumbled thought sql statements thing mind properties file searched web examples sql statements method wanted good approach application design concerned ul li sql properties file li li sql method body li ul 
+
+href http projects spring io spring data rel nofollow spring data save lot boilerplate code custom sql statements repositories annotations details href http docs spring io spring data data commons docs release reference html repositories html rel nofollow custom sql href http www petrikainulainen net programming spring framework spring data jpa tutorial custom queries query methods rel nofollow annotation imo locate sql code case 

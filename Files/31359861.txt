@@ -1,0 +1,4 @@
+place picker automatically closing 
+making simple place picker program android problem click button place picker opens automatically closes seconds mainactivity activity main xml androidmanifest logcat 
+
+ran code configuration behavior comparing configuration working realized issue androidmanifest xml change back tested multiple times configurations make causing issue configuration placepicker closes immediately time works perfectly time href https developers google places android start rel nofollow documentation states places api result testing code modification needed make work img src http stack imgur xjfum png alt enter image description picking place img src http stack imgur ckkst png alt enter image description 

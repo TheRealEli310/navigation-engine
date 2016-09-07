@@ -1,0 +1,4 @@
+shifting arraylist elements 
+full disclosure interview question didnt heres question arraylist element representing digit base number create method increment number output incremented number problem input 9s input end quick solution add element zeroeth place beginning method final element iterate question shift elements computational effort workaround shift things href http docs oracle javase docs api util arraylist html rel nofollow http docs oracle javase docs api util arraylist html void add int index element inserts element position list isnt computationally expensive 
+
+add start list simply href http docs oracle javase docs api util list html add 28int 20e rel nofollow documentation overload method 

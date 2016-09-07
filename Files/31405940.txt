@@ -1,0 +1,4 @@
+oracle advanced queue 
+implementing oracle advanced queue completely doubts code created queue table queue message written read queue q1 write message queue read becausei writing message queue couldnt q2 convert code publish subscribe test reading message multiple times appreciated 
+
+log oracle db create user class creates multiconsumer queue registers subscriber queue connectiondefinition getoracleconnection return regular jdbc connection oracle class publishes messages queue oracle view messages queue green red class reads message queue pom dependencies 

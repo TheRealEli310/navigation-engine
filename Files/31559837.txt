@@ -1,0 +1,4 @@
+jpa generics multilevel inheritance set single table strategy org hibernate mappingexception constructor 
+problem entity works fine changed classes inheritance ul li externalise releated elements class li li added class inheritade class li li functionality elements related class li ul entities structure hr hr hr hr hr errors full stack trace hr helps href http stackoverflow previous post inheritance generics draws issue issue contructors dont declare parameter typed constructor hr h2 edit working solution h2 hr hr 
+
+jpa stacktrace references line actual type argument ist explicit class type variable sou cast class find actual binding parameter class created href http fastnate org rel nofollow fastnate href https github liefke org fastnate blob master fastnate data src main org fastnate data util classutil rel nofollow classutil getactualtypebinding 

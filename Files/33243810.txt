@@ -1,0 +1,4 @@
+position android button top textview 
+create imagebutton image scaled fit height textview managed position button relativelayout ideas 
+
+imageview imagebutton add br center crop scale image uniformly maintain images aspect ratio dimensions width height image equal larger dimension view minus padding center inside scale image uniformly maintain images aspect ratio dimensions width height image equal dimension view minus padding personal experience imagebutton imageview flexibility inherent padding imagebutton prevented achieving pixel perfection big pain 

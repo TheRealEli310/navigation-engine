@@ -1,0 +1,4 @@
+assigning values biginteger array 
+program array stores fibonacci sequence number 100th term calculate fib function storing array save time storing manually error type mismatch convert int biginteger 
+
+biginteger array add primitive int types create biginteger instances part array values bigger long constructor string argument 

@@ -1,0 +1,4 @@
+print integers ascending order balanced binary search tree 
+program creates balanced binary search tree array integer prints order left suggestion improving program appreciated good ways traversing bst pre order left post order left eventually solved issue user program needed change conditions inside em createminimalbst em method 
+
+code method based call deduce parameters em inclusive em indices subarray converted subtree single item array line method discard item leaving node key assigned method overcomplicated unreadable kiss removed bs method routine checks ordering array items resulting tree balanced bst array isnt sorted resulting tree proper ordering sort array prior build tree call add nodes method build balanced bst method load issues code del forever recurring del limit part pointed question strong edit strong br turned false 

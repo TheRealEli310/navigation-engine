@@ -1,0 +1,4 @@
+json serialization simple spring memcached 
+unable simple spring memcached default serialization type set json error configuration guide href https code google simple spring memcached wiki started serialization rel nofollow https code google simple spring memcached wiki started serialization doesnt define custom transcoder wrong versions spring cache v3 spymemcached provider v3 spring v3 release 
+
+requirement define json transcoder ssm xml configuration case fully initialize cachefactory object invoke 

@@ -1,0 +1,4 @@
+synchronized methods avoid deadlock 
+synchronized methods mediator design pattern avoid deadlocks understand thread lock variable res1 lock variable res2 thread lock res1 lock res2 resulting deadlock assuming understanding deadlocks correct question solved issue deadlock code synchronized methods threads hr hr hr 
+
+blockquote thread lock variable res1 lock variable res2 blockquote matters em variables em matters em locks em names res1 res2 meant suggest em resources em variables lock heres trouble thread calls small chance lose em time slice em turn run successfully locks locks thread waiting turn run thread calls thread lock stuck locked thread thread run immediately blocked lock owned thread thread continue point hr real code real life unforseen interaction code modules aware access common resources 

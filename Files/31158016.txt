@@ -1,0 +1,4 @@
+log sql statements jdbctemplate simplejdbctemplate aop 
+log executed sql queries spring jdbctemplate simplejdbctemplate aspect oriented programming copy pasted code href http www gotoquiz web coding programming programming log sql statements parameter values filled spring jdbc rel nofollow tutorial pointcut defined pre class lang prettyprint override works great intercepting jdbctemplate queries changed pointcut pre class lang prettyprint override pre class lang prettyprint override jdbctemplate queries intercepted simplejdbctemplate queries hints intercept queries simplejdbctemplate aop preserving loging queries jdbctemplate 
+
+aspectj user pointcuts spring user speculate ul li code li li spring expect possibly interface href http docs spring io spring docs current javadoc api org springframework jdbc core simple simplejdbcoperations html rel nofollow deprecated spring li ul btw fun idea shorten pointcuts bit mind capturing pre class lang prettyprint override 

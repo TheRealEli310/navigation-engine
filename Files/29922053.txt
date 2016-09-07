@@ -1,0 +1,4 @@
+spring qualifier work spock spring boot 
+write test controller spock application class spring boot simplest config enables autoscanning passwordencryptor replace bean application bean providing mock spring throws nouniquebeandefinitionexception qualifier annotation working strong em edit em strong problem annotation spring doesnt bean inject dont make spring replace bean application local configuration 
+
+wire instance bean multiple implementations interface unique bean spring context register beans test actual code mock passwordencryptor avoid error change method avoid instance collision strong em edit em strong possibility error code defined tag instances defined spring context confused select auto wire field 

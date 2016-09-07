@@ -1,0 +1,4 @@
+add date timestamp log4j2 logfiles 
+create day dependent logfiles resulting logfile timestamp replaced 
+
+pattern attribute filename patter attribute filepattern counter automatically incremented rollover hope 

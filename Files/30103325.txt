@@ -1,0 +1,4 @@
+cacheresult method argument 
+method returns rarely changed configuration system cache configuration built pieces data dont cache individual pieces object argument method ehcache fixed key configuration instance configuration create simpler method 
+
+spring caching href http docs spring io spring docs current spring framework reference html cache html cache annotations cacheable default key rel nofollow default key generation algorithm cover case methods arguments specific key implement generator 

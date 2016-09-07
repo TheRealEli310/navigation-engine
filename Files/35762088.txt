@@ -1,0 +1,4 @@
+view draggable full height make scrollable 
+bit predicament created activity functions bottom sheet feature users asked ability make bottom sheet fully extended sheet scroll view rest items putting linear layout inside nestedscrollview caused crash recommend support bottom sheet class work advance layout bottom sheet ontouch listener bottom sheet behavior method set height sheet crash occurs nestedscrollview 
+
+solved ended adding recyclerview place linearlayout made layoutmanager overridden scrollable set 

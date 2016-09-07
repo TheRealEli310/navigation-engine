@@ -1,0 +1,4 @@
+datasources websphere 
+data source jndi jdbc project simpleds defined websphere admin console changed data source properties db db port db host login password deployed applications references jdbc project simpleds data source throws exception ubuntu replace data source properties runtime 
+
+jndi connection db shouldnt worried settingscredentials datasource idea jndi change settings connection dynamic youd restrain jndi custom connection creation mechanism working os read propagating user credentials db2 jdbc type driver href http www redbooks ibm abstracts sg247660 html open amp pdfbookmark rel nofollow websphere application server v7 security guide 

@@ -1,0 +1,4 @@
+waitinginmainsignalcatcherloop error android application 
+android application refreshes screen milliseconds displaying rectangle pair coordinates code custom view separate thread handled drawing caused problems variables values threads run program error 
+
+error vm letting app signal sigquit app unresponsive system anr processing sigquit vm dump stack trace anr complaints logcat code youre looping runs ui thread means app wont process messages system draw views receive user input separate thread synchronization remove loop draw handler issue time executes 

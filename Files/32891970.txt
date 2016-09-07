@@ -1,0 +1,4 @@
+android gms play services dexindexoverflowexception 
+gradle build fails multi dex exception changed gms play services error caused exceeding 65k methods limit fixed changing version back removing couple libraries doesnt sound proper solution couple libraries solution bypass 65k method limit strong edit strong strong option strong prevent dexindexoverflowexception issue separate parts gms library 
+
+fix issue add enable multi dex support work v21 higher versions prior v21 set add support multidex strong nasageek strong option prevent multidex error feature versions google play services full list feature versions href https developers google android guides setup rel nofollow 

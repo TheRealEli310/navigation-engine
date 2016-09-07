@@ -1,0 +1,4 @@
+nested swt composites conflicting gridlayout 
+swt create page nested running problems nested layout types simplified mock code illustrates accomplish error running run code exception complaining apparently lay change layout type receive similar error complaining remove altogether code works fine feel missing crucial understood layouts affect arranges ui elements contained nested forcing parent setting layout type altogether 
+
+problem line layout data set strong parent strong composite layout parent row layout grid layout 

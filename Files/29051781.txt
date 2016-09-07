@@ -1,0 +1,4 @@
+convert file smali file 
+reverse engineered android application apktool smali files source code output converted smali files application files succesfully edit files convert back smali recompile application smali files leave file doesnt recompile errors couldnt find compiling smali internet hope guys advance 
+
+compile classes normal compiler androids dx utility convert compiled class files dex file run baksmali dex file produce smali files lets code file named helloworld convert smali 

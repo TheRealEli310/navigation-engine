@@ -1,0 +1,4 @@
+servlet remove header referer redirect 
+remove header referer execute redirect servlet kind filter doesnt call setheader addheader methods response change existing filters found article href http sandeepmore blog modifying http headers rel nofollow http sandeepmore blog modifying http headers 
+
+header set response set strong request strong redirect youre basically instructing client create brand request request created client side server side real technical problem change request headers server side response headers surely modifiable server side server creates closest bet redirect proxy full control proxy turn strip request header servlet act proxy 

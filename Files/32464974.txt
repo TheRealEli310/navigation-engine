@@ -1,0 +1,4 @@
+javafx change application language run 
+making javafx desktop application core components fxml offer user option change language find direct change language component loaded fxml question standard deal switching language javafx 
+
+answer implement singleton di framework inject single instance things time update resource label update text heres sscce apologies extremely ugly forcing single runnable class 

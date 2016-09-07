@@ -1,0 +1,4 @@
+split number integers number arrays 
+scenario number elements partition split elements evenly number times remainder added index question optimal code furthered developed question abagshaw amp selbie strong results strong strong problem notice resulting arrays splits returns arrays edge case strong strong desire results strong elements 0th index split times elements 0th index split time elements 0th index split times elements 0th index split times strong solution selbie strong href https ideone bul3nu rel nofollow https ideone bul3nu 
+
+dont floating point double compute values replace line loop heres light adjustments 

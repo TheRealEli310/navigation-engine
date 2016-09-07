@@ -1,0 +1,4 @@
+avoiding duplication validation code javascript frontend backend 
+standard web application front end angular back end written noticed lot duplicating code validation performed client side angular trust completely user disable client side validation simply submit post query server repeat validation logic server side tedious dont avoid write parts back end javascript framework suppose node js validation library front end make back end interact node js approach order solve problem 
+
+run javascript code dynamic scripting languages javascript scriptengine called rhino called nashorn oracle scripting programmers guide href https docs oracle javase docs technotes guides scripting programmer guide rel nofollow https docs oracle javase docs technotes guides scripting programmer guide write pure javascript js files place backend serve client execute server 

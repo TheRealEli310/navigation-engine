@@ -1,0 +1,4 @@
+mongo db connection time 
+default connection time seconds mongo driver stopped mongo instance local time connect mongo db time ms exception question connection time exception default time ms 
+
+connection time function wait time case seconds connection time exception time references href https api mongodb org mongodb mongooptions html connecttimeout rel nofollow https api mongodb org mongodb mongooptions html connecttimeout href http stackoverflow questions configure mongodb driver mongooptions production configure mongodb driver mongooptions production 

@@ -1,0 +1,4 @@
+velocity template merge method takes stringwriter buff size 
+read excel file rows worksheets apache poi columns row values store arraylistmultimap logic works perfectly fine store object velocitycontext collection velocity template populate xml file values iterating excelmap stringwriter capacity printwriter combination bufferedwriter stringbuilderwriter application reaches merge line hangs finally shows outofmemory exception ready posts related stringwriter printwriter luck 
+
+limitation red herring youre memory error writer exceeds initial capacity memory allocated real problem spreadsheet data velocity stringwriter javadocs initialsize number char values fit buffer em automatically expanded em emphasis mine reading entire spreadsheet memory converting worksheet entry time xml velocity isnt choice 

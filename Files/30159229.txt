@@ -1,0 +1,4 @@
+convert future guava listenablefuture 
+find convert future listenablefuture service returns future hook listener change service interface doesnt belong simple read guava docs find 
+
+guava types conversion href http docs guava libraries googlecode git javadoc google common util concurrent jdkfutureadapters html rel nofollow api states blockquote utilities working libraries supply plain future instances blockquote care hard emulate listenable future strong em em strong submitted task put hook completion guava takes thread blocks original completed guava wiki href https code google guava libraries wiki listenablefutureexplained rel nofollow information specific case 

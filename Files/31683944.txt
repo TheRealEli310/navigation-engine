@@ -1,0 +1,4 @@
+javafx generics incompatible types custom consumer required foreach consumer 
+troubles generics found workaround dont understand prevents code compiling javafx project displays treetableview tree simply displays array objects date column strings images custom consumer class treetableview configuration compilation error raised controller fxml line method initialize raises error dont understand lines method dont raise functionally thing 
+
+instance href http docs oracle javase tutorial generics rawtypes html rel nofollow raw href http stackoverflow questions raw type shouldnt type raw types compiler ignores generic type checking wont throw error line changed line compile error line instance type parameters error returns expects important strong strong compiler mentions converted raw types works case generic solution suitable preserving wildcard exists 

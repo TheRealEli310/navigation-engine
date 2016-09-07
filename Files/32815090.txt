@@ -1,0 +1,4 @@
+gradle testng unable pass parameter code 
+test framework written utilizing testng built gradle pass environment argument command line environment class define domain server values specific environments gradle documentation forum discussions issue unable argument passed system property framework accomplish test task debug task avail println statement task shows denv parameter picked gradle attempt add system properties test framework fails execution results null reference environmentname set null identify error command line build gradle class 
+
+works href https github opalo stackoverflow tree master rel nofollow demo prepared mind fact href http stackoverflow questions set system propery null set system property null problem 

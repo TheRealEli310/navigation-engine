@@ -1,0 +1,4 @@
+installing apache maven 
+windows install maven instructions href https maven apache org install html rel nofollow step states making sense successfully installed maven explain step involves set environment variable 
+
+link provided clear instructions blockquote adding path add unpacked distribution bin directory user path nvironment variable opening system properties winkey pause selecting advanced tab environment variables button adding selecting path variable user variables program filesapache maven dialog set home location jdk program filesjavajdk1 open command prompt winkey type cmd run mvn verify installation blockquote 

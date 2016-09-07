@@ -1,0 +1,4 @@
+exception thread main io eofexception reading objectinputstream 
+eofexception solve didnt find answer giving exception objectinputstream line solve problem 
+
+error file location empty check data file text content wont converted automatically bytes reading writing contents file 

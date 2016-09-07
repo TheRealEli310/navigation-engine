@@ -1,0 +1,4 @@
+big difference time nanotime call successive calls 
+question general simple code receive output reason difference runtime advance 
+
+lot things jvm standard library lazily initialized improve jvm startup time time execute line heavyweight initialization process time complete included measurement subsequent calls proceed fast path state initialized observe effect great api calls naturally factors influence time takes complete method call includes system calls path outlier latency em em call special deterministic underlying reliably reproducible 

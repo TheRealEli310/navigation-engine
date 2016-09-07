@@ -1,0 +1,4 @@
+spring websphere apache wink web xml error server startup 
+migrating app wink spring native wink integration separate wink jars error server startup blockquote caused io filenotfoundexception class path resource meta inf server wink core context xml opened exist org springframework core io classpathresource getinputstream classpathresource blockquote current world explicitly wink jars entry web xml works fine figure correct web xml entry native wink integration error wondering wink core context file simply located place ibm setup jar ibm setup houses wink implementation havent find definitive answer 
+
+strong wink spring support incubating jar strong supplied wink distribution include jar explicitly application classpath 

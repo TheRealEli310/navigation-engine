@@ -1,0 +1,4 @@
+compareto sort linkedlist alphabetically 
+linkedlist holds data student gpa id student student node linkedlist sort linkedlist alphabetically names understanding compareto sort compareto method string compareto current compareto inputstudent sort method utilize output sort array dont understand identify string belongs position linkedlist 
+
+allowed library dont simply pass list automatically pass separate comparer sorting expensive sorting advanced comparison based sorting algorithms require random access list array list linked list set implementing sorting algorithm lets determine objects sorted position switch places ul li object closer front list compared object front result negative objects proper order relation li li result positive objects change places start closer start li ul considerations sufficient implement href http en wikipedia org wiki bubble sort rel nofollow bubble sort 

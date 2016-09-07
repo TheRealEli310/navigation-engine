@@ -1,0 +1,4 @@
+org hibernate exception sqlgrammarexception invalid column 
+running exception entity defined post entities involved query hibernate generating context entities relationship association table find interesting query hibernate generating changing column annotations including classes irrelevant problem query hibernate generating times notice column appears query annotations 
+
+mis annotation strange results blockquote join primary table entity subclass joined mapping strategy primary table superclass secondarytable annotation join secondary table primary table onetoone mapping primary key referencing entity foreign key referenced entity blockquote href http docs oracle javaee api javax persistence primarykeyjoincolumn html rel nofollow http docs oracle javaee api javax persistence primarykeyjoincolumn html joincolumn 

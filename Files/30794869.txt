@@ -1,0 +1,4 @@
+exception appclient jar ejb javax ejb ejbexception rmi marshalexception 
+learn ejb facing issue mentioned scenario figure ol li entity book store book related data li li created stateless bean remote interfaces deployed jar glassfish li li basic application connects main method details book appclient error javax ejb ejbexception rmi marshalexception li ol snippets details book bookejbremote bookejb package bookstore controller persistence xml pom xml main class bookstoremain deployment ejb successful asadmin command check details appclient install client mentioned error pfb details 
+
+entity class serialize implement interface class hope 

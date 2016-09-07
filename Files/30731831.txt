@@ -1,0 +1,4 @@
+php socket communication working 
+stuck days problem wrote socket server receive send data socket hosted localhost connect php send receive messages send receive answer traced problem back php script written socket server call sendsocket getresponse method php page loading infinitely call sendsocket getresponse changing socket wont wait input method seperatly work fine wrong kind 
+
+href http php net manual en function socket recv php rel nofollow http php net manual en function socket recv php msg waitall flag block received full length buffer bytes data 

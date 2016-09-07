@@ -1,0 +1,4 @@
+stream api count items nested list 
+lets assume list countries country reference list regions states case usa pre class lang prettyprint override plain count regions achieve goal stream api thought similar dont count items nested lists method stream api 
+
+region lists href https docs oracle javase docs api util stream stream html maptoint util function tointfunction number regions country href https docs oracle javase docs api util stream intstream html sum sum values strong strong benefit filtering dont call 

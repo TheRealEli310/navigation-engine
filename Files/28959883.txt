@@ -1,0 +1,4 @@
+concurrency real time graphics rest elements javafx 
+steps javafx create simple desktop application javafx emulates real time kind bar chart refreshing add portion bar represents status sensor working working implement buttons textfields menuitems sending information sensor application method called strong start strong method adding canvas scene invoke strong timertask strong draw graph works fine set canvas center strong borderpane strong add elements part pane working affected delay timertask timertask supposedly executed thread separate real time drawing rest application threads class timertask code 
+
+answer blockquote href http stackoverflow javafx periodic background task blockquote timer thread em background thread em call request external service jfx thread update graphic 

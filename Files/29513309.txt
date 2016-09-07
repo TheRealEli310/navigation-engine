@@ -1,0 +1,4 @@
+calling arraylist method calling statement condition 
+asked task write executable console application guessinggame player guess number start game guessinggame instantiates player object store game scores player player assigned user input program generates random number asks player guess number player enters number program tells player number high low player entering guess numbers correct number entered score computed follow blockquote score number guesses blockquote player asked play game times scores stored player application display average score player game working stuck statement calling getscore method player class operand errors guessinggame code player class put rest methods issue set methods incorrectly issue 
+
+attempts compare compare size compare element clear question desired logic 

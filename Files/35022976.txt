@@ -1,0 +1,4 @@
+streams collect list objects buckets 
+problem collecting list values buckets lets assume list strings put strings set list sets case strings collection sets write collector problem 
+
+collectors magic steps ul li group elements property case ignore casing job dont forget overloaded method takes parameter values grouped unique overloaded version put default implementation li li youre interested keys grab values resulting map put list list collector li ul hr 

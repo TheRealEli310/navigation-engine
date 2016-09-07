@@ -1,0 +1,4 @@
+android shared element transitions calling activity finish 
+working making application material stuck implement shared element transitions activity starts calls finish order remove back stack case element share activities passed longer matters dont call finish startactivity ctx intent bundle exit enter animation works perfectly call finish ugly flicker animation starts overlooking 
+
+finish activity onstop function happen transition create flag set call startactivity ctx intent bundle make activity call finish finishaftertranstion activity longer 

@@ -1,0 +1,4 @@
+read json request body dropwizard 
+writing simple dropwizard application worked fine untill change request type previously arguments header body json request saddest part complete documentation dropwizard article heres code solution 
+
+requested heres snippet demonstrating testclass body jersey parse body object curl api jersey method parameter jackson annotation treat json hope helps artur edit manual approach post method inject injected request write body string handling library map string object 

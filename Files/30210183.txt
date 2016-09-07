@@ -1,0 +1,4 @@
+urlconnection set content type soap 
+webservice client work problem set content type code actual content type monitoring soapui shows content type request monitoring connection connection header parameters ul li content length li li user agent li li testheader wert1 li li connection close li li content type text xml charset utf li li li ul shows general set parameters connection testheader reason setting content type work set content type connection content type 
+
+apparently soap framework setting content type header soap urlconection workaround overriding urlstreamhandler work soap frameworks setup specifies http binding soap href http stackoverflow questions wcf soap service expecting soap content type post helps btw soap framework 

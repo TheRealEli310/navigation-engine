@@ -1,0 +1,4 @@
+lang illegalstateexception fx application thread currentthread thread 
+set string text object thread giving error strong handler strong class href https www youtube watch gyyj57o0fvi rel nofollow tutorial guy tutorial javafx work crashes program creating timer method error 
+
+wrap inside loop add reason illegal state exception update ui thread javafx application thread reason app crashing added overloading ui thread adding process executed ui thread infinitely making thread sleep 1000ms overcome issue replace true timer timertask options follow href http stackoverflow questions thread application running stage close link 

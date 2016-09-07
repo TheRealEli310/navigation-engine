@@ -1,0 +1,4 @@
+junit contiperf properties file dynamically create contiperf annotation values 
+middle performance testing contiperf annotation based performance testing junit loading junit tests properties file wanted load annotations values properties file searched online find dynamically create annotation values contiperf point direction advance 
+
+check href https github lucaspouzac contiperf blob master src main org databene contiperf junit contiperfrule rel nofollow link understand contiperf works internally essentially junit rule creates threadpool based extracted annotation values test invocation running single thread reads annotation values framworkmethod reference apply method hack understand href http stackoverflow questions modify class definitions annotation string parameter runtime link change contiperf rule creating constructor rule taking property values updating annotation values framework method passed perfteststatement hope small workaround 

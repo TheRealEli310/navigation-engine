@@ -1,0 +1,4 @@
+import org apache hadoop resolved 
+asked fixes working wrong working eclipse error lines em thought em id added correct external jars apparently added properties project build path libraries add external jar 
+
+missing dependencies hadoop development trivial lot dependencies messy fast dependency manager maven simply add pom xml hard work familiar maven tons information setup basic maven projects eclipse 

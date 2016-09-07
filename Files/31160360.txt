@@ -1,0 +1,4 @@
+play separate concerns ebean 
+recently started web app play jpa lot projects decided give ebean shot time wondering separation concerns jpa typically create models services daos persistence ebean understand support static methods models href http ebean orm github io quickstart rel nofollow http ebean orm github io quickstart create model examples static methods sitting models business logic persistence logic practice ebean embrace make sense separate logic services daos 
+
+things jpa create daos check static methods ebean examples youll typically table primary key model class ebean activerecord style code additional stuff wanted change dao style approach move related code approach opinion territory dao approach lot recommend play supports di box controller makes hard coded references model classes inject daos alternate di 

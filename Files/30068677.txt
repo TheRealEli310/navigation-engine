@@ -1,0 +1,4 @@
+error executing docker command program 
+execute docker command code container executed command linux gave output blockquote wed utc blockquote execute code gave error blockquote time 05t19 level fatal msg enable tty mode tty input blockquote dont solve problem 
+
+href https github docker docker issues rel nofollow issue mentions blockquote process providing tty docker cli youve asked tty command br image tty dont specifiy image doesnt stdin dont tty youll setup tty command work blockquote href http stackoverflow persistent local tty session blockquote hold object blockquote href http jonisalonen runtime exec unix console programs rel nofollow runtime exec unix console programs illustrates context 

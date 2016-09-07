@@ -1,0 +1,4 @@
+spring rest docs replace parameters 
+unit tests find cf href http docs spring io spring restdocs docs reference html5 customizing requests responses preprocessors rel nofollow spring rest docs documentation generates content expect password masked replacepattern 
+
+pattern replacement effect due unfortunate side effect mockmvc handles request parameters acts content body request mockmvc doesnt include form encoded parameters body spring rest docs smart deal generating snippets form url encoded request parameters figure requests body doesnt apply smarts applying mask password parameter map preprocessor place 

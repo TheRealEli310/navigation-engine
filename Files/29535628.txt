@@ -1,0 +1,4 @@
+run junit intellij ignoring compilation error unrelated class 
+running junit test case intellij opens make console shows complication errors unrelated class ol li run test case ignoring errors li li make compile entire project running test cases class files required test case li ol 
+
+disable make run written intellij versions slightly layouts remember options single test ul li run edit configurations li li select configuration test case li li tab named configuration list launch entry make remove entry li li confirm li ul tests remove default test configurations terribly good idea allways build manually running tests ul li run edit configurations li li select defaults tree li li select testframework junit testng li li tab named configuration list launch entry make remove entry li li confirm li ul 

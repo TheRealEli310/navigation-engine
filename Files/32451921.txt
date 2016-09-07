@@ -1,0 +1,4 @@
+create libgdx main menu screen 
+libgdx create main menu screen give simple 
+
+broad involves elements creating buttons skins setting tables screens add stage add actors stage eventually add listeners button actors switch screens made call changing initial class bit make code work setup drawing buttons add image font create buttons manually href http stackoverflow questions make textbuttons libgdx answered question depth creating strong edit strong menu class asked user asker needed switch screen screen bit awkward luckely writing code couple minutes access cast access pass initial game object applicationlistener hand make screen accepts game object 

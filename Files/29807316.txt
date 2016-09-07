@@ -1,0 +1,4 @@
+hadoop merge reducer outputs single file 
+pig script generates output hdfs directory pig script generates success file hdfs directory output pig script split multiple parts number reducers script defined set default parallel concatenate merge file parts single file ignore success file concatenating advance 
+
+shell command merge multiple file single file case dont shell command write program method merge output file single file implementation details href http stackoverflow questions hadoop merge reducer outputs single file link single output hdfs pig pass single reducer set number reducer put line start script hope 

@@ -1,0 +1,4 @@
+htmlunitdriver browser emulate mode 
+created simple factory method creates htmlunitdriver mode id write quick unit test method mode returned 
+
+reflection private field 

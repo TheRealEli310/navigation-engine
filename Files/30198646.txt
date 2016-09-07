@@ -1,0 +1,4 @@
+perform fold cross validation mahout 
+apache mahout provide perform fold cross validation random em hold em test framework suggest code samples good documentation personally current code random hold 
+
+custom implementation extending mahout copy paste code check satisfy comments class actual implementation class 

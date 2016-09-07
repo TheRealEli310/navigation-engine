@@ -1,0 +1,4 @@
+make random placing ships overlap ships placing battleships 
+making game battleships computer make ships overlap randomly placing code thing places ships puts ship partially supossed 
+
+algorithm ol li ship size store list locations grid li li pick random location list li li list ship size removing invalidating overlaps li ol stuck valid location board crowded 

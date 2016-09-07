@@ -1,0 +1,4 @@
+spring security password encryption working 
+security configuration worked added custom login filter stopped working posting security context xml giving methods explained href http www mkyong spring security spring security password hashing rel nofollow working fine added custom filter custom filter dosnt add extra field session validate strong update strong code saving user 
+
+require post saving user code add modifications part xml change paste encoder bean mentioned xml modify authentication manager posted dont forget put registration code lemme problem providing reference encoder daoauthenticationprovider require 

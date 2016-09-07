@@ -1,0 +1,4 @@
+orientdb serialize query result directly json 
+orient db query pass result back json code serialization odocument leads infinite recursion href http stackoverflow question problem looping list concatinating odocument tojson stringbuffer prefered option case transform group result hashmap json clean json serializing odcomument part object list map 
+
+nice working loop result build list json strings made custom serializer writing raw string json buffer 

@@ -1,0 +1,4 @@
+realm io notifications listen table 
+code realm documentation database schema tables data changing tables table listen refresh ui related table dont check realm wanted table updating realm objects practices suggest 
+
+realm fine grained notifications implement notification system contentobserver rxjava observer interfaces 

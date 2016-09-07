@@ -1,0 +1,4 @@
+variable declaration memory allocation 
+background difficulty understanding variable declaration memory allocation write declare myobject variable type myclass allocating memory declares variable allocates memory equal size int stack case compiler allocate memory primitive data types primitive data types raised similar doubt href http stackoverflow questions declaring objects 
+
+blockquote compiler doest allocate memory jvm allocate memory blockquote primitive data type memory allocated time declaration variable memory function local stack br br blockquote memory allocated stack byte blockquote operator memory allocated heap size classs data member br br blockquote reference variable takes size byte blockquote br blockquote operator allocate memory heap size sum individual data members size class blockquote 

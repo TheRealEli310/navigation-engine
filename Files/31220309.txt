@@ -1,0 +1,4 @@
+draw alphabet inside painted circle random size random coordinates 
+title class size jpanel set adding method class relevant fields class choose random size maximum minimum random coordinate method choose random index string attempt drawing alphabet circle doesnt draw alphabet center circle short problematic line strong achieve strong hr mcve requested problem alphabet doesnt drawn center circle 
+
+graphics draws characters lower left corner text point math order center object changed font find size text drawing bounds offset text drawn alternatively bundle offsets directly drawing call 

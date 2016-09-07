@@ -1,0 +1,4 @@
+libgdx android button listener working 
+add button game solutions looked working button rendering fine touch set input processor stage button added actor appreciated class run added logged console input processor button doesnt working listeners 
+
+multiplexer input event listener consumes input event returning true rid multiplexer make code working fine replacing menudeath stage listener handle touchdown event correctly 

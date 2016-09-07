@@ -1,0 +1,4 @@
+deploy spring boot application war aws elastic beanstalk 
+similar things asked answers works sadly problem deploy war file elastic beanstalk pile errors catalina failed start component log spring boot tutorial building gradle added war plugin build deployable war file running locally access spring boot havent made project prescribed generate deployable war file attempting change listening port project mucked load balancer config allowing port inbound outbound added fullaccessec2instance security role iam thinking didnt set permissions doesnt works feel spinning wheels guessing testing deploying heroku problems problem aws config edit full catalina loading instance 
+
+turns solution jetty tomcat dependencies section build grade correct documentation misunderstood meant remove depending wanted deploy 

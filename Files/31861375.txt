@@ -1,0 +1,4 @@
+vaadin refresh grid row modification 
+create simple grid data database edit row button created open window edit form accepted manually refresh page modification grid question refresh grid modification row entry save modifications database beanitemcontainer 
+
+bug grid doesnt update underlying container reasonable method refresh hacks issue sscce duplicate href http stackoverflow questions update grid fresh set data vaadin app update grid fresh set data vaadin app 

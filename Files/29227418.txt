@@ -1,0 +1,4 @@
+callable call input parameters spring 
+struggling ol li class constructed spring li li implements interface consist methods process shutdown li li implements callable li ol strong problem strong process returns type called inside call problem process input parameters call signature doesn referred question href http stackoverflow questions argument callable method argument callable method wouldnt work object constructed spring process called jsp input parameters variable depending user action strong include code clarification bellow strong 
+
+short answer contract perform action em em input parameters isnt code called assume code simple solution dont implement em isnt em callable input parameters implement makes sense parameters lot em em class provide give factory method 

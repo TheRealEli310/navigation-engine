@@ -1,0 +1,4 @@
+libgdx perspective camera smooth translation direction 
+implement smooth 3d camera game reserved positions directions change view camera applying camera works smoothly href http stackoverflow questions make smooth camera follow algorithm libgdx similar question 2d camera doesnt orthographic camera doesnt direction axis strong update strong method 2d camera positioning works needed direction behaviour direction wrong rotates camera axis update vector correct set direction 
+
+href http code google universal tween engine rel nofollow univesal tween engine library interpolating pretty youd write vector3accessor class simple youd sorts controls options smooth movement rich api lot sort thing id strongly recommend put time investigating option itll give result youll find sorts cool app 

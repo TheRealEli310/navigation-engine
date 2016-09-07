@@ -1,0 +1,4 @@
+jframe error make static reference static field 
+set data variable serialread method make static reference static field etiqueta2 eclipse make etiqueta2 static doesnt show data jlabel settext etiqueta2 label show data variable strong edit3 strong updated code swingworker execute println watch data console 
+
+declared access instance fields outer class create instance needing instance pass reference update class update run method simply make class static problem swing thread unadvisable call instance method typically id recommend methods results background thread context event dispatching thread allowing safely modify state ui case make issues case id closer href https docs oracle javase tutorial uiswing concurrency worker html rel nofollow worker threads swingworker details h1 h1 h1 runnable h1 h1 faked h1 

@@ -1,0 +1,4 @@
+spring mvc ajax file upload leading unsupported media type 
+fileupload jquery ajax method leading unsupported media type error client side ajax request code working fine controller code view page ajax call things setting strong contenttype false strong suggest required 
+
+href https developer mozilla org en docs web guide formdata objects sending files formdata object rel nofollow sending files formdata object data file element serialized initialize data add form elements including element code work add form variables 

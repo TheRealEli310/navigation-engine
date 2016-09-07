@@ -1,0 +1,4 @@
+nashorn parse web page 
+nashorn parse js content webpage code init nashorn load page urlconnection reach page print output worked strange reason instruction give error blockquote caused jdk nashorn internal runtime parserexception expected operand found lt blockquote misunderstand works explain output url blockquote lt script type blockquote 
+
+nashorn evaluate javascript feeding html page script element script fails load url extract script script element jsoup nashorn run extracted script 

@@ -1,0 +1,4 @@
+add update child row foreign key constraint fails bidirectional mapping hibernate 
+problem jpa db img src http stack imgur ho61k png alt database classes irrelevant fields ommited user userinfo omitted setting irrelevant fields error banging head day figure searched solutions suggest error shows enter userinfo user iduser entered add persist doesnt work bidirectional mapping supported cascading desired effect user inserted userinfos list refering original user achieve dont everytime 
+
+works assuming table field rdbms bidirectional hr strong update strong youre id id set reference link id add annotation 

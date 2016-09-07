@@ -1,0 +1,4 @@
+index element array substring 
+index element array searched working expected 
+
+href http docs oracle javase docs api lang string html startswith lang string rel nofollow work index string inside list href http docs oracle javase docs api lang string html indexof lang string rel nofollow accept regular expression work href http docs oracle javase docs api lang string html matches lang string rel nofollow works entire string beginning write code returns index item beginning found 

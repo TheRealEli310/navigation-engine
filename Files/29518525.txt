@@ -1,0 +1,4 @@
+jtree refresh collapsing 
+problem refreshing jtree instance code run code expand root node nodes click button rebuild tree wont update weird thing dont expand root node begin start application click button expand root node row added refresh tree collapsing nodechanged doesnt work expand root node begin accomplish insertnodeinto 
+
+notify listeners node inserted 

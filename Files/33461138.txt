@@ -1,0 +1,4 @@
+automatically converting collections arguments arrays 
+array argument syntax receive parameter array parameters passed method noticed collections compiles runs needing call method happening scene additional methods auto conversion syntax btw 
+
+doesnt convert collection array pass collection vararg argument test method receives array element element arraylist found easily replacing debugger 

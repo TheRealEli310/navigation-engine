@@ -1,0 +1,4 @@
+configure default restcontroller uri prefix controllers 
+set server contextpath application properties change root context add additional context application config spring boot groovy add api url mappings root context separate base uri api specifically web service calls leverage security approach uris web service reached api concrete segregation aware approach set base path configuration formally prefix controller api forced manually prefix uri controller mistakenly omit bypass security measures specific web services reference stack overflow type question completely answered href https stackoverflow questions spring boot configure url prefix restcontrollers spring boot configure url prefix restcontrollers 
+
+filed issue spring mvc jira nice solution idea spring expression language prefix restcontroller file refer single property spring boot application properties file link issue href https jira spring io browse spr rel nofollow https jira spring io browse spr 

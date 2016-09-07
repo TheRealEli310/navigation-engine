@@ -1,0 +1,4 @@
+hbase api htrace error 
+create api access hbase db facing error project added htrace jar project href http stack imgur jcew7 png rel nofollow img src http stack imgur jcew7 png alt referenced libraries hbase version hadoop version 
+
+add jar file project add htrace core jar file project class path run br href http mvnrepository artifact org apache htrace htrace core incubating rel nofollow htrace core 

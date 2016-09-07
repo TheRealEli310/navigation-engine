@@ -1,0 +1,4 @@
+reading ascii file line line 
+read ascii file recognize position newline character characters line file size 538mb run code prints search lot didnt find ascii files netbeans ideas code 
+
+number characters line length string read call system dependent line end marker stripped string large file newlines run memory reading character character avoid file file file reader reader filereader file int len int int iline reader read iline system println line iline len characters len len reader close 

@@ -1,0 +1,4 @@
+h2 database support scrolling 
+scrolling iterate records table code query simple results strong execute query scroll strong h2 databases dont support scrolling wrong 
+
+line mistake trick jdbc streaming trick supported mysql h2 href http dev mysql doc connector en connector reference implementation notes html rel nofollow mysql documentation blockquote combination forward read result set fetch size strong serves signal driver stream result sets row row strong result sets created statement retrieved row row blockquote stack trace shows exception em invalid parameter rows em h2 deal negative fetch sizes throws exception strong conclusion scrolling works fine h2 databases strong 

@@ -1,0 +1,4 @@
+jenkins ci plugin run slave 
+developing plugin jenkins ci problem plugin running slave machine slave logging master passing parameters master launching processes slave wrote code callable run code plugin master exception wrong find exaples log starting processes 
+
+order pass object remote machine jenkins serialise entire object means fields implement case guess type serialisable type mark ensure fields serialised fix party class construct instance method hr strong edit strong youve posted full stacktrace fact class serialised dont pass callable href https docs oracle javase docs api lang processbuilder html rel nofollow execute nsis inside method href http javadoc jenkins ci org hudson filepath filecallable html invoke rel nofollow running remote machine dont special 

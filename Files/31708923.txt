@@ -1,0 +1,4 @@
+intellij scala add resource folder 
+project structure load bla xml main scala throws ioexception face add res folder projects searchpath marked resource folder place bla xml root load bla xml fine wondering intellij strong edit sascha kolberg strong youve added res resourcefolder 
+
+comment answer afaik contents resource folders class path root 

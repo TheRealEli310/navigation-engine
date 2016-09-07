@@ -1,0 +1,4 @@
+deploy spring project apache tomcat8 intellij 
+dont mind simple question newbie spring intellij deploy helloworld project apache tomcat intellij generated index jsp folder called web content created simple controller content compile project make open blockquote href http localhost home rel nofollow http localhost home blockquote error configure intellij deploy helloworld app apache tomcat server 
+
+create project select spring project dont spring boot give project href http stack imgur ax1ut png rel nofollow edit configurations add tomcat server select tomcat server local menu href http stack imgur pvsbm png rel nofollow point tomcat directory add artifact deploy click project select open module setting hand side split pane click add library files select spring spring mvc add artifact run app localhost browser display end hope helps 

@@ -1,0 +1,4 @@
+loading json data pair rdd spark 
+spark basic question read file spark rdd line json make apply groupby transformations transform json line straight forward json split straight forward current code 
+
+href http spark apache org docs latest programming guide html working key pairs rel nofollow maptopair href http spark apache org docs latest sql programming guide html rel nofollow spark sql amp dataframes api enable group things easily data frames api load json data directly 

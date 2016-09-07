@@ -1,0 +1,4 @@
+issues mapping multiple controllers 
+spring mappings working correctly tomcat logs show url mapped controllers defined web xml output defined moviecontroller href http localhost springmvc test movies rel nofollow http localhost springmvc test movies giving url fetch employeelist controller working controller class pleas response 2nd controller url href http localhost springmvc list employeelist rel nofollow http localhost springmvc list employeelist 
+
+change piece snippet code application case separated controllers multiple action case scenario replace snippet code web xml change controller request mapping controller class movie controller add userlist controller add check component base package property correctly mentioned dispatcher servlet xml 

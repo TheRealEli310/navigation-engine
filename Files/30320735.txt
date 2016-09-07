@@ -1,0 +1,4 @@
+object instantiation constructors 
+recently teacher talking constructors instantiate objects confused wanna understand compile error compile run code output call object error assume instantiate object constructor object type loaded ram override method class called makes confused explain constructor instantiate object 
+
+runtime jvm variable subclass call overwritten method problem youre compile time compiler verify program make didnt make mistakes idea types variables type youre telling reason compiler told compiler superclass type assignment extends superclass valid assignment theoretically assign superclass compiler perform check write code calls methods objects methods lead runtime error error randomly runtime worse compiler checking assignments calls fix immediately runtime errors hard find fix pointed compiler subclass casting basically compiler subclass treat part youre wrong superclass runtime classcastexception runtime error jvm point 

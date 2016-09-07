@@ -1,0 +1,4 @@
+spring data rest include duplicate links 
+spring data rest ihave weird issue pagingandsortingrepository response link expected duplicate link entity hf foo evindent response em dupicate links em strong href href http localhost foos rel nofollow http localhost foos hf foo href href http localhost foos rel nofollow http localhost foos strong issue curie namespace 
+
+youre duplicate link youre claiming link canonical definition template parameters additional link exposes resource type case item resource clients reason expect representation http verbs link link expose template variables apply resource projection instances links embedded document argue additional link doesnt link require client complex basically guard access decided render make clients resource type based links find matter 

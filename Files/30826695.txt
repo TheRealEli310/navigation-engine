@@ -1,0 +1,4 @@
+partially mock dependency abstract object jmockit 
+abstract class dependency tested class test class run real code method abstract methods mocked ol li run test uninitialized li li add annotation line methods mocked doesnt supposed li li annotation add empty block beginning test method order partial mock li li block remove annotation uninitialized li ol partially mock dependency abstract class 
+
+annotation dependency achieves add empty expectations block abstract methods mocked 

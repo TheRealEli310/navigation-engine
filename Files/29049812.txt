@@ -1,0 +1,4 @@
+obtain collection item jquery json 
+working web project tomcat jsp bootstrap struts2 mysql gson product entity action controller class viewallproducts code jsp page ajax call action debugging mozilla call viewallproducts successful returned json img src http stack imgur 6hzgo jpg alt mozilla network query window page function attribute doesnt work fixed 
+
+finally figured problem lies spent day debugging end found silly mistake referring attribute referred attribute modify jquery library iteration elements proposed strong anthony jack strong answer 

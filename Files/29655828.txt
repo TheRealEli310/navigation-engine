@@ -1,0 +1,4 @@
+final array final strings mutable 
+suppose array foo static final strings end taco foo foo contents fooarray making array private getter makes copy array arrays copyof solve issue 
+
+applies array reference entries strings written entries blockquote making array private getter makes copy array arrays copyof solve issue blockquote defensive copies fairly standard handle alternately youve outlined dont array getter href http stackoverflow questions final array final strings mutable comment47451493 jtahlborn commented unmodifiable 

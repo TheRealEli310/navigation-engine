@@ -1,0 +1,4 @@
+set ttl column family hbase shell api 
+hbase searched end unable find simple straight forward set ttl attribute column family hbase ways shell api 
+
+api shell 

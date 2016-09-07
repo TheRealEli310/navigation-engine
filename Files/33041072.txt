@@ -1,0 +1,4 @@
+jersey restful api replies unsupported media type formdatamultipart 
+building restful api jersey resource class intend receive file client upload form problem unsupported media type response server interestingly client postman chrome extension receives status error connecting server file jpg image method resource class made test purposes works fine googled searched stackoverflow website find similar cases helping case appreciated advance resource class pom xml href http stack imgur rkzpj jpg rel nofollow resulting jars 
+
+found mentioned comments class jersey register added init param web xml worked fine 

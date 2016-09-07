@@ -1,0 +1,4 @@
+console logs written disk applet 
+control panel enabled tracing logging troubleshooting applet logs console arent written disk checked appdata sunjavadeployment directory empty documentation logs supposed written running jre fixed 
+
+possibility tracing log file location found jre8 documentation blockquote blockquote strong source strong href https docs oracle javase docs technotes guides deploy console trace log html rel nofollow https docs oracle javase docs technotes guides deploy console trace log html 

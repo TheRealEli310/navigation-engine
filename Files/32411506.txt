@@ -1,0 +1,4 @@
+intellij severe tomcat error failing start component 
+experiencing strange issue intellij deploy web localhost searching inferred problem due inconsistency versions case working site sitea broken site siteb carbon copy sitea spring configuration reason great configuring prefer work fun stuff downfall compare deployment options projects theyre identical poms versions xml changed reflect projects ultimately theyre setup exported intellij settings sitea imported settings siteb error shed light advance edit added provided pom servlet api error message longer present error ful stacktrace 
+
+line stack trace error caused servlet named xml file 

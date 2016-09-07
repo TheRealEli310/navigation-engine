@@ -1,0 +1,4 @@
+android programming changing button text programmatically alert dialog 
+create app editing guitar tabs array buttons represent frets click button open alert dialog set text button number input editfret function called button onclick property run press button brings dialog input number fine pressing dialog button blank click button button number shows text button changing text buttons clicked input changing button text constant click didnt problems assuming problem getfret function possibly fetching string 
+
+change setpositivebutton change button global variable local problem calling editfret view view call getfret show dialog call button settext fret waiting user press cancel set text onclicklistener called 

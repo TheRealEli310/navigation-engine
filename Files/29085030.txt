@@ -1,0 +1,4 @@
+search sum numbers binary tree 
+search combination numbers binarytree give sum searching tree numbers system receive sum return string combination start root pathway amp method work backtracking recursion code wrote 
+
+recursive implementation strong strong close things adjusting br recursive implementation requires things work ol li strong base case strong problem eventually reach divide conquer approach li li strong general case strong divide problem smaller pieces reaching em base case em desired br li ol hr br br run problem printing final node makes sum evaluate recurse call recurse back method called sum strong higher strong br strong strong tree reaches leaf sum found doesnt exist tree br br br strong strong sum em em found tree br br br strong strong havent reached sum children nodes br br havent tested exact code ide logic correct 

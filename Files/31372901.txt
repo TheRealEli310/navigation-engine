@@ -1,0 +1,4 @@
+android dagger dependency injected 
+dagger apps problems entities repository havent figured missing application component modules androidapplication activity null pointer exception repository injected add line works point di worry wrong tutorials havent managed solve problem advance 
+
+david miholas comment correct order inject fields initialized method typically component worth noting specifically question base class component injecting subclass inject fields em wont em work dagger concrete classes injected em compile time em runtime dagger 

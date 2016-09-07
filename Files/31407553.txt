@@ -1,0 +1,4 @@
+lang classcastexception listactivity cast datepickerdialog 
+problems implement href https github wdullaer materialdatetimepicker rel nofollow material datepicker due call wrong sample github works fine dialog created activity case working attached calling line generating issue declared sample similar blockquote logcat process kva ihm pid lang classcastexception kva ihm parameterlistactivity cast wdullaer materialdatetimepicker date datepickerdialog ondatesetlistener kva ihm parameterdetailfragment onitemclick parameterdetailfragment blockquote 
+
+silly mistake previously mentioned em selvin em comments interface call implemented wrongly android studio auto imports tip trust evil auto imports 

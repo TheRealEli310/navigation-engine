@@ -1,0 +1,4 @@
+compiler true scenario 
+code snippet wondering compiler deals wouldnt logical compiler remove statement altogether order perform check hard coded true specifically eclipse code interpreted scenario wouldnt logical case compiler remove statement running statement unreachable 
+
+unreachable statements forbidden trigger compilation errors jls defines unreachable statements href https docs oracle javase specs jls se7 html jls html jls https docs oracle javase specs jls se7 html jls html jls long quoted extract strong emphasis strong mine blockquote result compile time error optimizing compiler strong strong realize statement executed strong strong choose omit code statement generated class file statement regarded unreachable technical sense rationale differing treatment programmers define flag variables write code idea change debug false true true false compile code correctly program text blockquote answer depend compiler optimization options 

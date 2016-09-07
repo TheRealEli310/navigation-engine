@@ -1,0 +1,4 @@
+lwjglcanvas jframe resizing 
+desktop libgdx project main em desktoplauncher em class extends jframe undecorated resizable render libgdx opengl canvas lwjglcanvas added container component weird problem 5px border canvas enables suspicious resizing href http stack imgur 1jmk0 png rel nofollow img src http stack imgur 1jmk0 png alt cool resizing class problem setundecorated true move canvas em setlocation line em border href http stack imgur otcm3 png rel nofollow img src http stack imgur otcm3 png alt border canvas undecorated window href http stack imgur y4lob png rel nofollow img src http stack imgur y4lob png alt border canvas undecorated things worked ul li changed layout type li li created jpanel added canvas set setcontentpane li li setpreferedsize setmaximumsize setminimumsize li li searched setborder setresizable methods success li ul rid awful border canvas 
+
+desktoplauncher bordeless unresizeable game window case swing 

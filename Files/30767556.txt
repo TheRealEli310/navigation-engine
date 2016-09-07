@@ -1,0 +1,4 @@
+mockito dothrow void method null argument throwing exception wrong 
+unsure found bug wrong mock throw exception method invoked easy method return type object passed error thrown typed compile error thrown relevant maven dependencies strong edit strong added stripped real code toyed code morning discovered mockitos incorrectly thought reset mock unverified state erases stubs change initialization methods 
+
+resolved comments edit careful href http docs mockito googlecode hg org mockito mockito html reset rel nofollow method resets mock em em including stubs interactions verifications href http docs mockito googlecode hg org mockito mockito html rel nofollow warned mockito documentation generally bad sign tests middle test method generally method split multiple smaller tests means test setup polluting tests mocks instance fields static fields initialized junit testng method ensure theyre fully overwritten single test test class 

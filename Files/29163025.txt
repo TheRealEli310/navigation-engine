@@ -1,0 +1,4 @@
+add additional listener listen queue spring amqp 
+listens queue messages add class listen queue messages rabbitmq configured 
+
+built support route listeners payload type write simple listener wrapper strong edit strong spring amqp milestone m1 supports feature href http docs spring io spring amqp docs build snapshot reference html introduction html class level rabbitlistener rel nofollow whats href https spring io blog spring amqp release m1 rel nofollow blog announcement 

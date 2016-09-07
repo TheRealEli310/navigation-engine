@@ -1,0 +1,4 @@
+jpa support outer joins object relational mapping 
+recently outer join jpa entities doesnt object relational mapping spec forum posts outer joins supported entities mapped jpa level code requirement find customers orders case opt native queries job thoughts future jpa specs support outer joins relational mapping rakesh 
+
+suppose field entity order find customers orders avoid outer join native query subquery achieve goal jpql hql 

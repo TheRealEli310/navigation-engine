@@ -1,0 +1,4 @@
+javafx tabpane tab add content fills tab size 
+br playing javafx small problem solve br add tab fxml existing tabpane code code result img src http stack imgur wnmig png alt enter image description code works screenshot added node splitpane preferred size tabpage wrong br size added splitpane size parent container grow shrink parent container grows shrinks borderlayout swing edit correct content tab fxml question todo splitpanes size dynamically fit parent container size 
+
+fxml file root element attributes preventing growing preferred size addition preferred sizes child elements reason set fixed values remove attributes root element grow needed 

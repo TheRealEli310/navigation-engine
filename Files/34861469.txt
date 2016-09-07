@@ -1,0 +1,4 @@
+compact stream expression transposing double matrix 
+tranpose matrix compact efficient expression thoughts 
+
+code prefers mapping row transposition changed return type wont efficient simple loop href http stackoverflow users assylias assylias answer sample code hr realized jmh benchmark comparing code loop version code ran parallel methods called random square matrices size results small matrices loop version faster bigger matrices parallel stream solution terms performance em windows jdk i5 3230m ghz em benchmark code 

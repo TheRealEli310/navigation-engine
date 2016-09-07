@@ -1,0 +1,4 @@
+spring getbean finds bean autowired 
+simple beginning console rest application composed demos code resttemplate autowired problem resttemplate null resttemplate getbean uncommenting line application works fine work autowiring applicationcontext xml 
+
+youre creating instantiate instantiate main method dont context youre workaround explicit applicationcontext inject beans mapped instance add hr sotirios comments answered duplication remarks 

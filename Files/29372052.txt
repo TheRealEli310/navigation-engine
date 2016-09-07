@@ -1,0 +1,4 @@
+getmethod invoke reflection passing object param 
+code snippet throws exception problem parameter pass foo method strong exception strong spot mistake 
+
+method takes parameter corresponds arguments provide youve single parameter type wrap em em fact varargs parameter compile time type important order make compiler create array due varargs declare type compiler wont wrap array 

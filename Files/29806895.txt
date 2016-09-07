@@ -1,0 +1,4 @@
+mongodb query update nested list objects 
+users table mongodb format add subscription object array named subscriptions code doesnt work jsonparser case work returns correct array runs user edited writeresult returns updatedexisting false greatly wrong 
+
+familiar driver wont suggest code mongos href http docs mongodb org manual reference operator update array rel nofollow array update operators href http docs mongodb org manual reference operator update push push rel nofollow push href http docs mongodb org manual reference operator update addtoset addtoset rel nofollow addtoset operator serve mongos push understand performance implications growing embedded arrays mongodb href http askasya post largeembeddedarrays rel nofollow shouldnt embed large arrays documents find post helpful href http blog mongolab thinking arrays mongodb rel nofollow thinking arrays mongodb 

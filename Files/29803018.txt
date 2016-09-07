@@ -1,0 +1,4 @@
+idea achieve effect glsl 
+idea 2d effect glsl shader glowing effect textures dynamic bubble case object bubble destination positions send vertex shader fragment shader fragment shader calculations achieve effect draw shader background texture size 1280x720 problem slow originally wanted mobile phones chance problem vertex fragment send lot positions case positions shader compile positions reports space defined varyings render libgdx framework achieving similar effect attach picture shader code img src http stack imgur 5xvkp png alt glowy dots vertex fragment 
+
+glsl tricky problem slow approach helps ol li render large white blurred circle premade additively spark ul li optionally apply blur shader make smooth needed li ul li li result mask render blue hues depending ul li dark gray gray dark blue bright blue li li gray white bright blue saturated blue li ul li li render spark additively top li ol 

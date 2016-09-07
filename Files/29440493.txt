@@ -1,0 +1,4 @@
+javafx multiple primary stages 
+converting swing application javafx core ui separated core window objects whats nice create windows link core updates window update core update window idea convert javafx guy javafx dont understand especialy stages scenes start method stage object passed system create stage system create class extends stage pass core object 
+
+pass core object node subtype stage sharing core case click counter nodes separate stages adopted href http stackoverflow questions javafx pass cass update label text javafx pass cass update label text case sample stage makes core increments click counter stage elements bound core click counter changed stage label stage automatically updated reflect click count img src http stack imgur atyg2 png alt sharedinfo kind things fxml bit trickier stuff href http stackoverflow questions passing parameters javafx fxml passing parameters javafx fxml 

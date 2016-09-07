@@ -1,0 +1,4 @@
+exception wrong type constant pool index cucumber java8 
+set project java8 dialect cucumber problem dont running hierarchy exceptions clue error fix packaged maven project layout dependencies include pom xml additionally pom xml loads compiler failsafe plugin definition cucumberit feature definition step definitions idea wrong 
+
+problem caused java8 dialect cucumber implementation details oracles jdk8 openjdk8 packaged debian organisation constant pool oracles jdk8 works expected published complete project github href https github mawis cucumber java8 test rel nofollow https github mawis cucumber java8 test reported bug issue tracker cucumber jvm href https github cucumber cucumber jvm issues rel nofollow https github cucumber cucumber jvm issues check issue tracker problem fixed future cucumber java8 oracles implementation jdk fame solving problem belongs holger comments question wanted write answer summary 

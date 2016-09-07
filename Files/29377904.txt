@@ -1,0 +1,4 @@
+multiple destinations google maps url 
+writing program creates multiple destination points latitude longitude add destination marker google maps problem google maps doesnt markers time moment creating url string represent map call open google maps markers present string includes destination points work google maps ways make markers map 
+
+create map google maps javascript api supports markers beware url length limitations option create kml file markers unique display markers 

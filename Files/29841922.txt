@@ -1,0 +1,4 @@
+lang noclassdeffounderror filesapache launching activemq 
+downloaded apache activemq launch command typed output official guide href http activemq apache org run broker html rel nofollow running activemq broker working windows suggestions advance 
+
+found solution issue related white spaces path exception message refers part path quickly solved moving activemq folder whitespace free path works 

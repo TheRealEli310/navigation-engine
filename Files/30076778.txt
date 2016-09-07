@@ -1,0 +1,4 @@
+log4j2 xml loaded applied jvm argument 
+create batch spring batch spring mvc spring boot log4j2 logging goal load external log4j2 xml configuration file jvm arguments spring boot detect file error console load doesnt apply configuration put inside file debug load configuration file move file inside src main resources works perfectly externalise file doesnt xml file dependencies doesnt work externalize file 
+
+blockquote log4j ability automatically configure initialization log4j inspect log4j configurationfile system property set attempt load configuration blockquote file detected loaded error spring boot thing forgot spring boot find logging configuration file add application properties spring boot work 

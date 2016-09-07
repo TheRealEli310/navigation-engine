@@ -1,0 +1,4 @@
+adding jscrollpane jtextarea 
+adding scroll bar jtextarea code working add scrollbar frame textarea bar visible text bounds frame code bellow event handling removed unecessary code bare minimum needed sort problem chance entire code href http pastebin v6d8prsb rel nofollow http pastebin v6d8prsb 
+
+add scrollable component viewportview jviewport window viewport data source text file data source scrollable client aka data model displayed jviewport view jscrollpane basically consists jscrollbars jviewport wiring shown diagram href https docs oracle javase docs api javax swing jscrollpane html rel nofollow javadoc jscrollpane 

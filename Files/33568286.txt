@@ -1,0 +1,4 @@
+converting cursor generic object android 
+implementing funcions sqlite android generic objects troubles selectall method query object cursor class problem commented line array parameters getfields dont cycle filling object cycle cursor fill arraylist foo items ps method generic specific property field directly hard coding advice appreciated add method generic class implemented class method creating working calling everytimes class call work fine 
+
+generic type parameter wildcard fix problem problem original code wildcard type special generic type refers unknown type nonetheless method refers em em unknown type original function ul li create list objects unknown type line program li li instantiate object constructor type line li li put object type list type li ul arent connected typechecker rightly rejects program instance version fixes issue simply telling compiler dont type talking em em unknown type lets typechecker type constructor produces type list accepts 

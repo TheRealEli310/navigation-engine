@@ -1,0 +1,4 @@
+gc pauses seconds mark sweep compact 
+aix server running jvm process gb heap gencon gc policy today 5s pause time looked event gc log couldnt figure time spent find activity part full gc taking bulk pause time 
+
+time scan class loaders accounted total class loaders memory taking 805ms scan problem workaround fix href http www ibm support docview wss uid swg1iz76742 rel nofollow http www ibm support docview wss uid swg1iz76742 

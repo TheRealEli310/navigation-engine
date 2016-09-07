@@ -1,0 +1,4 @@
+arrays aslist int working 
+run code output printed 
+
+pass array primitives case creates single element array returns false return true youll work explanation signature primitive replace generic type parameter pass method entire array replaces hand pass method replaces 

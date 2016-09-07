@@ -1,0 +1,4 @@
+lang illegalstateexception json array 
+problems lang illegalstateexception json array convert list json plz handle null array json run query database fetching results debug operatordetailsdao rs run problem null result operatorlist array operators sort problem stuck days strong controller class strong operatordetailsdao getoperators operatordetailsbean bean class getter setters 
+
+appears problems related incorrect initialization method annotated explanation problem method called controller removing offending line ensure valid strong empty strong array list strong strong strong null strong returned correctly processed gson side href https github google gson issues rel nofollow issue logged gson library failes handle null arrays comments fixed 

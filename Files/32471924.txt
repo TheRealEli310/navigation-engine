@@ -1,0 +1,4 @@
+randomized binary search algorithm 
+algorithm supposed variation binary search picking middle random index chosen compared algorithm asymptotically worse task algorithm considers case element random index equal searching case returns true case element index greater search case recursively call search input element greater equal searching algorithm works fine element randomized index search intuitively thought input increase checking larger array size stackoverflows 
+
+code fundamentally wrong conditions problem statement code 

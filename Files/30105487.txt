@@ -1,0 +1,4 @@
+testng executing beforemethod 
+instance beforemethod tests classes wont work testng xml run tests blank sys outs greatly appreciated 
+
+create abstract class include configuration methods tests extend test class created abstract class run test class output 

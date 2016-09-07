@@ -1,0 +1,4 @@
+emulate attribute converter jpa 
+jpa introduced nice feature href http docs oracle javaee api javax persistence attributeconverter html rel nofollow attribute converter article href http www thoughts org jpa implement type converter rel nofollow http www thoughts org jpa implement type converter attribute type store database column entity field color type stored database obtaining similar result strong jpa lt strong type strong strong distinguish business domain layer classes imagine working solutions kind mapping searching solution em directly em classes business domain layer 
+
+suggest making column add string getters setters converters class time color setter setter decode color add colorfield field 

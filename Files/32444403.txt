@@ -1,0 +1,4 @@
+jpa2 elementcollection enum combined attributeconverter 
+combine concepts ul li store enums relationship entity li li persist enums string ordinal unique id li ul individually work fine judging docs combine errors build heres entity enum converter collection table numeric columns problem occurs eclipselinks static weaving part build process dont specifically reference converter entity leave conversion enum mapped ordinal fyi code runs se vm application server entity class 
+
+solution enums combination answer lies question href http stackoverflow persistence xml running se error message hinting converter found converter class weaving works fine code builds runs expected summary strong combining enum works fine code strong 

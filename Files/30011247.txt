@@ -1,0 +1,4 @@
+connections error mysqlnontransientconnectionexception 
+insert filename local drive mysql database execute code start perfectly code reads directory filenames code insert results database time scripts stops exception solve problem 
+
+insert create connection build eventually run connections database limit small ul li close resources means closing li li efficiently create connection preparestatement em em reuse saves create clean resources expensive driver recycling li ul 

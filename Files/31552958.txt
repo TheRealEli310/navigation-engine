@@ -1,0 +1,4 @@
+snake game stop game snake eat 
+making snake game works pretty part snake eat heres code strong obstacle class strong strong food class strong strong body class strong strong screen class strong main class strong snakegame strong beginning decided make comparison snakes head eat tails snake moving tails heads comparison true thinking snake change direction code track coordinate tail coordinate idea step ways make game stop snake eat 
+
+call values position snakes head moving location segment snakes body call compare head position segments snake find hit game start heads match global variables fix waiting call start checking strong edit strong heres sample modification add change method check collisions add end method couldnt find place work href http stack imgur e4lqb png rel nofollow img src http stack imgur e4lqb png alt snake hitting 

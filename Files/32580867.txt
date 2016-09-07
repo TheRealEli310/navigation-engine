@@ -1,0 +1,4 @@
+nosuchbeandefinitionexception qualifying bean type found 
+making spring hibernate maven project basic login annotations stuck rid error strong nosuchbeandefinitionexception qualifying bean type found dependency strong heres configuration controller service serviceimplementation web xml spring xml truncated version heres error remove autowired annotation controller code works fine means problem annotation package service code scanned spring container life understand appreciated 
+
+implementation service package add package component scan add spring config 

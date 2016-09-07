@@ -1,0 +1,4 @@
+paypal balance getbalance api 
+searching paypal documentation hours find answer searched google checked href https developer paypal docs api api operations rel nofollow https developer paypal docs api api operations added paypals sdk maven rest api unsure balance account paypal api currencies 
+
+getbalance classsic apis included rest apis time directly implement nvp call httprequest api endpoint post request payload response obtain href http paypal github io sdk rel nofollow classic api sdks prefered programming language select merchant sdk time sample php code understand flow 

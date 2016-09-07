@@ -1,0 +1,4 @@
+gsmcelllocation returns 
+catch cell ids hand succeeded cell id connecting cellphone explain synchronize roamed times returns cell id 
+
+shouldnt add inside oncelllocationchanged method 

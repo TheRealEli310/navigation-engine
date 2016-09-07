@@ -1,0 +1,4 @@
+exception reading mp3 file audiosystem getaudioinputstream file 
+read mp3 file class javax sound sampled audiosystem code read audio file exception audiosystem class support mp3 format formats supports mistake 
+
+doesnt support mp3 supported files basic wav sort thing advanced codecs youll separate libraries 

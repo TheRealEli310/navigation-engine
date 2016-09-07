@@ -1,0 +1,4 @@
+deploying external wars tomcat intellij idea 
+project dependant deployed tomcat everytime test build artifact malually deploy alongside add idea project deploy authomatically pressing shift f10 deploy manually people working project greatly simplify communication wars external sources creating modules artifacts source question 
+
+link accepted answer dead process step step intellij select tomcat run config exists create select tomcat run config created tab section select select war file 

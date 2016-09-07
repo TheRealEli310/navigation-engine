@@ -1,0 +1,4 @@
+sorting billion integers collections sort memory error 
+sort list billion integers collection sort list throws exception exception thread main lang outofmemoryerror heap space xms set 512m xmx 1536m sort 8gb ram system allocating physical memory problem giving xmx 2048m vm initialize setting 
+
+case sensitive space blockquote strong nonstandard options strong xmx em em specifies maximum size bytes memory allocation pool multiple greater mb append letter kilobytes megabytes default chosen runtime based system configuration server deployments xms xmx set garbage collector ergonomics href http docs oracle javase docs technotes guides vm gc ergonomics html rel nofollow http docs oracle javase docs technotes guides vm gc ergonomics html examples xmx83886080 xmx81920k xmx80m blockquote href http docs oracle javase docs technotes tools solaris html rel nofollow docs 

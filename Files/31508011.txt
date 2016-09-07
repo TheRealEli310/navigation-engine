@@ -1,0 +1,4 @@
+drawing curve line peaks list coordinates 
+list points printed display uneven peak curve line img src http stack imgur npdgz png alt enter image description image generated painting points paint component paint paint component ways paint wave line checked similar questions print curve peak line peak times flats times bizarre 
+
+simplest draw polylines method requires coordinates stored separate arrays faster clearer draw line segment individually floating point coordinates href http docs oracle javase docs api awt shape html rel nofollow object provide polyline implementation easily href http docs oracle javase docs api awt geom path2d html rel nofollow easily transform coordinates efficient transform view 

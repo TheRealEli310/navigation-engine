@@ -1,0 +1,4 @@
+initialize spring beans app server restart runtime 
+initialize spring beans dynamically app startup initialize spring beans contextloaderlistener web xml case runtime case property files loaded memory apache commons configuration reinitialize beans affect restart pointers appreciated 
+
+solve class implement applicationcontextaware 

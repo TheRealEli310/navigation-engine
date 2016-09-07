@@ -1,0 +1,4 @@
+jax rs handle special characters xml parsing 
+working developing rest web services existing application resteasy jax rs jboss existing application runs jboss serer web serivce supposed return user object based id number user id jax rs produces xml document fails handle special characters occur output xml claims encoded utf fails show object convert xml fails encode properly suggestions searching web didnt update receive xml client side handle string jaxb unmarshal object forgot set encoding string utf basically unmarshalling 
+
+adding charset update didnt setting charset problem consuming ouput iso guess unicode character 00f8 latin small letter stroke utf encoding 0xc3b8 iso c3 b8 cedilla make application receiving output understand utf displays correctly 

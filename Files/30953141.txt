@@ -1,0 +1,4 @@
+load ssl certficate 
+creating program information server perform ssl handshake server program file certificate authentication purpose idea load certificate program perform handshake server information dont begin 
+
+apache httpclient required classes itd create keystore certificate keytool android youll spongycastle library provider keytool create bks keystore jks keystore explicitly open keystore 

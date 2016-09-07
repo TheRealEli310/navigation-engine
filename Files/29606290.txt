@@ -1,0 +1,4 @@
+authentication spring security spring data mongodb 
+spring security mongodb spring data retrieve users database spring security userservice type supported userservice class securityconfig class line commented fix retrieve users database 
+
+strong service layer strong create separate implementing inject inside strong model strong implemented pojo user authenticated details spring include entity data object wrapped inside strong security config strong autowire service created set inside 

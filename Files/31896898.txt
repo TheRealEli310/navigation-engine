@@ -1,0 +1,4 @@
+query database selected item drop spinner 
+app writes deletes database spinners generated columns database run query records matching selected item drop spinner works fine select item drop missing dbhelper mainactivity post xml didnt neccessary didnt post logcat doesnt give error 
+
+code posted missing selected item listener add oncreate 

@@ -1,0 +1,4 @@
+tryparseint practice 
+lot code gathers user input parses parse integer values throwing exceptions current function code simple lots worried becouse impact app performance suggest practice parsing user inputs 
+
+regex fail proof 

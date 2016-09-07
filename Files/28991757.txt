@@ -1,0 +1,4 @@
+generics make swap method 
+trouble basic concept book supposed make method swap swaps positions generics method correct changed code pair class errors thought solve issue case problem lot compile time errors demo class find solution compile time error demo class 
+
+elements pair distinct types make pair class generic parameters pair lt gt make field type swap returns pair lt gt permute em em reference 

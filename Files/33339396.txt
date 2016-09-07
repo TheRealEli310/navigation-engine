@@ -1,0 +1,4 @@
+httpclient running connections pooled connection manager 
+apache httpcomponents scala project scala issue junit style test test hangs run connections missing consume entity close response close 
+
+client definition evaluated time called making pool invocation pool constructed reused 

@@ -1,0 +1,4 @@
+custom jackson serializer resteasy client 
+register custom jackson json serializer resteasy client didnt work ideas 
+
+register jax rs components href https jax rs spec net nonav rev apidocs javax ws rs ext providers html rel nofollow providers href https jax rs spec net nonav rev apidocs javax ws rs core feature html rel nofollow features register provider carries objectmapper carries module serializer registered pre class lang prettyprint override classes api slightly 

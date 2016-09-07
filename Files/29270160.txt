@@ -1,0 +1,4 @@
+libgdx game resolution set 1920x1080 scale smaller devices 
+games physics collision 1920x1080 multiplayer works 1080p screen scale game fit smaller screen viewport scale upwards stretch aspect ratio 
+
+scale create viewport scaling stretch means scretch screen fit resolution put width height key part forgetting gdx graphics getheight anymore camera viewportwidth gdx graphics getwidth coordinates user input forget camera unproject vector3 fix coordinates display screen 

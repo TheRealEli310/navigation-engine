@@ -1,0 +1,4 @@
+display objects javafx table lang nullpointerexception 
+issue lines program compile data observablelist database display table variables date double changed simpledoubleproperty simpleobjectproperty exception startclass mainmrc fxml 
+
+tableview fxml file doesnt id assign id checkboxs radiobuttons 

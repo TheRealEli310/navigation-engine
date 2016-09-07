@@ -1,0 +1,4 @@
+spring factory bean autowired superclass 
+implemented factory bean spring instantiate subclasses superclass problem superclass properties arent guess due command factory methods code applicationcontext xml property abstract class isnt constructor throws place inside subclasses works fine itd duplicated code solve wrong 
+
+put springs shoes instantiate initialize field thing call constructor object exists initialize objects field initialize field object doesnt exist time constructor called field null constructor injection method annotated witb call private field youre initialize remove remove field 

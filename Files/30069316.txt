@@ -1,0 +1,4 @@
+lang nosuchmethoderror org apache poi hssf usermodel hssfsheet setcolumnwidth ii 
+generate jasper excel report exception code added poi final jar file lib exception 
+
+code compiles error runtime thing youre compiling running library versions version compiled method ran doesnt happened multiple versions classpath wrong loaded dont build project youre kind dependency manager analyse structure duplicate poi versions youre dependency manager make manually libraries match compile runtime switch build tool jasper automatically drag correct version depends 

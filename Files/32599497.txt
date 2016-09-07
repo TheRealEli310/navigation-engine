@@ -1,0 +1,4 @@
+cracking coding interview 5th ed 
+cracking coding interview 5th edition question presented em stack boxes widths boxes rotated stacked top box stack strictly larger box width height depth implement method build tallest stack height stack sum heights box em recursive solution involve dynamic programming box class width height depth optimal stacking boxes box location stack equal greater width height depth essentially optimal stacking ordered list box lt based solution book online solutions misunderstanding problem correct hoping assistance explain solution problem combination boxes generate ordered list boxes 
+
+situation boxes wxdxh 1x7x2 1x6x2 7x1x5 strict ordering boxes fit correct solution box understand algorithm wont cope situation solution problem support multiple stacks adding box stacks included 

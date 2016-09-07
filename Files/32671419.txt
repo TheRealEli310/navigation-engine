@@ -1,0 +1,4 @@
+jpql query relation table json 
+create jpql query list relations data json result query return 
+
+explicitly fields ant fields named define dto object call query 

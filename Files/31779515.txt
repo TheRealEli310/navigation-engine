@@ -1,0 +1,4 @@
+uri create uri 
+created ways wondering practice havent noticed performance differences read documentation bit difficult understand insight appreciated 
+
+reading docs differs usage blockquote creates uri parsing string convenience factory method works invoking link uri string constructor link urisyntaxexception thrown constructor caught wrapped link illegalargumentexception object thrown strong method provided situations string legal uri strong uri constants declared program considered programming error string parse constructors throw link urisyntaxexception directly situations uri constructed user input source prone errors param str string parsed uri blockquote 

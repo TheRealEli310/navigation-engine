@@ -1,0 +1,4 @@
+write script registered username email id selenium webdriver 
+write script checking registration username email id checking registration registered username error message question logic checking registration username emailid 
+
+suggest code public class verifyregistration 

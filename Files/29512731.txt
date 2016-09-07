@@ -1,0 +1,4 @@
+spring contex load 
+server start application context loaded log spring scheduled annottation runs application context load deleted contextloadlistener scheduler works nice time time web mvc doesnt work web xml employee servlet spring security xml 
+
+loaded spring reads default file servlet dispatcher servlet employee servlet xml make spring dont load change contextconfiglocation file 

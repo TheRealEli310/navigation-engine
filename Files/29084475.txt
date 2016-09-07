@@ -1,0 +1,4 @@
+c3p0 timeout impossible reach host 
+thing program open connect database c3p0 wont connect freezes raise error message weird thing strong mysql strong strong sqlserver strong forever catch error tryed set properties luck pre class lang xml prettyprint override persistence xml pre class lang xml prettyprint override 
+
+resolved adding properties strong acquireretryattempts strong defines times c3p0 acquire connection database giving equal c3p0 fetch connection indefinitely strong breakafteracquirefailure strong true pooled datasource declare broken permanently closed connection obtained database making acquireretryattempts acquire false failure obtain connection threads waiting pool acquire connection throw exception datasource remain valid attempt acquire call getconnection pre class lang xml prettyprint override 

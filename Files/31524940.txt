@@ -1,0 +1,4 @@
+error jersey web xml 
+href https jersey net documentation user guide html d4e99 rel nofollow jersey tutorial develop simple jersey web application section strong deployment jax rs application applicationpath servlet strong created created program basic resource class version web xml file web application deploying application tomcat server access url error blockquote http status myapp resources helloworld type status report message myapp resources helloworld description requested resource blockquote 
+
+dependency web xml required load application hr future readers jersey solution dependency work web xml reason 

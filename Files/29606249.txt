@@ -1,0 +1,4 @@
+mocktio spy mock internal method calls 
+thought mockito works kind proxy things found mockito wouldnt work proxies technique calling internal aop methods href http stackoverflow questions spring aop working method call inside method spring aop working method call inside method 
+
+mockito work proxies support spies syntax bit reason behavior doesnt em delegate em parameter copies field values brand generated subclass methods overridden spring references refer unwrapped instance mockito references refer wrapped object including implicit reference call sounds aop position test works depend implementation details mockito spring aop order wrapping em editorial em code generating systems work coworkers read understand debug test year 

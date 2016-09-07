@@ -1,0 +1,4 @@
+edges node jgrapht 
+randomly traverse graph jgrapht find target node start sourcenode randomly pick coming edge follow method returns edges nodes edges sourcenode target 
+
+graphs predecessorlistof graphs successorlistof apis directly 

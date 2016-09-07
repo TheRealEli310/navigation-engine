@@ -1,0 +1,4 @@
+implement project jpa jdbc spring 
+project works jdbc singleton mysql server converted project jpa project implemented jpa class entire entities mysql server id spring api order configure jdbc jpa configure bean spring configuration file handle code work jpa jdbc advance 
+
+abstract dao layer provide interface provide abstract implementation provide dao implementation depends jdbc db manager singleton implement daos specific functionalities jpa base class jdbc base class implement href http www javapractices topic topicaction id rel nofollow abstract factory create kinds daos depending jpa family jdbc family define daos factory define dao beans factory bean dynamic parameter loaded launch application pass switch parameter argument jvm jpa based daos run application server edit specific configuration file pass parameter tomcat set variable largely depends app server 

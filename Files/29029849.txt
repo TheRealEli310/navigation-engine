@@ -1,0 +1,4 @@
+lambdas access final class variables 
+understand accepted compiler puzzles compiler accepts unit test passes valid working correctly pointers relevant sections jls section talks local variables 
+
+agree wont work local variables parameters href http docs oracle javase specs jls se8 html jls html jls final effectively final href http docs oracle javase specs jls se8 html jls html jls lambda expression body involve local variables parameters instance field lambda expressions accessing instance fields instance methods em href http docs oracle javase specs jls se8 html jls html jls lambda body em blockquote lambda body single expression block method body lambda body describes code executed invocation occurs blockquote fact compiler creates private method lambda expression simply accesses instance field strong point view strong implement plain anonymous class accessing instance fields classes common speciality 

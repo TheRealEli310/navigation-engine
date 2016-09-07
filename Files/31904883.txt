@@ -1,0 +1,4 @@
+dequeues 
+trouble fully implementing enqueue dequeue portion heres result printing point code times lot attempt correct issue determine problem lies feeling minor changed code 
+
+forgot set previous elements errors incrementing count caucios exceptions thrown working code required output 

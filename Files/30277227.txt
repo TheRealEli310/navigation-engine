@@ -1,0 +1,4 @@
+putint require string android 
+working sharedpreferences problem class retrieve class 
+
+setting sharedpreference retrieve return default integer set earlier shared preference 

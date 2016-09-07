@@ -1,0 +1,4 @@
+lock condition await hold lock 
+doubt language hold lock await condition satisfied int monitor lock cucurrent utils await hold lock language works differ hope explain reason design spec definition 
+
+imagine thread wait queue thread wait queue process queue thread protected lock write code ol li acquire lock li li check queue empty li li queue empty wait queue li ol oops wont work hold lock queue thread place lets ol li acquire lock li li check queue empty li li queue empty release lock wait queue li ol oops problem release lock wait queue queue case waiting happened condition variables exist solve exact problem atomic unlock wait operation closes window await hold lock ensure werent waiting happened hold lock prevent thread racing wait 

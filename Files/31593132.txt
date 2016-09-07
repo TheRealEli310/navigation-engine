@@ -1,0 +1,4 @@
+force http error jersey restful web service returns json 
+jersey tomcat servlet code similar class returns json caller expecting wanted perform validation bad existent session return http error 
+
+youre jax rs preferred approach throw exception exception mapper catch return response desired response code resource class create exception mapper class throw exception generic illegalstateexception gist 

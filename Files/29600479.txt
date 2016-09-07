@@ -1,0 +1,4 @@
+javax persistence persistenceexception unable build entity manager factory org hibernate engine jndi jndiexception unable lookup jndi 
+creating webservices data access jpa hibernate mysql glassfish server inside netbeans ide exceptions accessing controller factory entity controllers package entitycontrollers blockquote comment required files put blockquote 
+
+pom xml file dependencies unknown binary created removing dependencies strong unable build entity manager factory strong error removed 

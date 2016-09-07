@@ -1,0 +1,4 @@
+spring aop injecting aspects 
+set spring aop inject logging methods business logic aspect uistarted executed uicreatemovie targets similar method class loggingbean loggingbean href https github tkupek springexampleproject blob master src main de rocketscienceengineering springexampleproject util loggingbean rel nofollow https github tkupek springexampleproject blob master src main de rocketscienceengineering springexampleproject util loggingbean ui href https github tkupek springexampleproject blob master src main de rocketscienceengineering springexampleproject view ui rel nofollow https github tkupek springexampleproject blob master src main de rocketscienceengineering springexampleproject view ui strong update strong changed code implemented pointcuts code correct log implement method touching logs log forgets 
+
+spring aop creates proxy bean injects proxy implies work methods called bean called proxy work method aspectj 

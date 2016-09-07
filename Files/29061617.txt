@@ -1,0 +1,4 @@
+open jframe jframe file package 
+open jframe jframe file package project package test1 jframes home1 home2 open frame home2 home1 clicking jbutton called br 
+
+problem open frame departure frame simple instanciate frame object click jbutton add actionlistener anonyous class jbutton previous code addactionlistener method href http docs oracle javase docs api javax swing jbutton html rel nofollow jbutton href http docs oracle javase docs api awt event actionlistener html rel nofollow actionlistener 

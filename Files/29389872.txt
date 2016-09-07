@@ -1,0 +1,3 @@
+load log4j2 configuration file jndi 
+migrating web applications log4j log4j2 due company policies log4j xml file locations configured urls application server applications jndi implemented allowed initialize log4j infraestructure log4j2 api longer log4j2 lo4j2 web jar module initialize library ends calling responsible uri config file customize log4jwebinitializerimpls behaviour make resolve xml file jndi 
+

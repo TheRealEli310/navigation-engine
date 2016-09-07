@@ -1,0 +1,4 @@
+elasticsearch client null 
+recently made switch elasticsearch noticed setup client changed documentation reason client null wondering set correctly code 
+
+noted comments bit detail elasticsearch guava href https github elastic elasticsearch pull https github elastic elasticsearch pull fix errors make guava dependency versions 

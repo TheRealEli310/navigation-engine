@@ -1,0 +1,4 @@
+spring data rest executes query returns internal server error 
+spring boot spring data rest facing internal server error messages displayed console produtovendarepository vendaporfamilia produtovenda log shows query executed receive don ve lot things work execute exact generated query mssql server returns wanted repositories work problems time h1 edit debug log shows folllowing h1 pre class lang html prettyprint override 
+
+hum strange found href http stackoverflow questions rules govern modify query jpa repository question added controller call method worked charm obv fix good workaround edit error expecting entity annotate vendaporfamilia entity 

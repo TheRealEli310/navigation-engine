@@ -1,0 +1,4 @@
+code thread unsafe 
+wrote code understand cyclicbarrier application emulates election rounds selects candidate small votes candidate eliminates race victory source sample output summarizer invocation output voters lost votes h2 h2 tryed solution locks line 
+
+error method em acceptvote int index em rewrite method em concurrenthashmap putifabsent em em atomicinteger em 

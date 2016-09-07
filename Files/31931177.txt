@@ -1,0 +1,4 @@
+null videoview 
+making video player stream video server checked video url works late missed giving error 
+
+null parent view doesnt matches resource id calling returns null noticed exception log remember order access fragment views inflate layout fragment findviewbyid correct cointainer videoview find layout object pointing add correctly return declared view inflate videoview videoview located inflate videoview correct parent hope helps 

@@ -1,0 +1,4 @@
+hashset arraylist cpu usage high 
+104k string values 89k unique check string present list class method hold records application method concurrently requests works fine change data structure cpu usage high understanding hashset perform arraylist explain happening 
+
+guess hash based structure computes hashcode string em instant inserting em hashset method period cpu high part price pay throughput iterating values structure method ends cpu drop speed program increase hugely benefit hashset optimization em pre sizing em structure ul li arraylist initial size equal maximum number elements li li hashset initial size greater maximum li ul btw standard hash algorithm computes characters string content computing characters depending nature data processing corse encapsulate strings class overriding method hashing algorithm overriding method perform strict comparation 

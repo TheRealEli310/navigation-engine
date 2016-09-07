@@ -1,0 +1,4 @@
+app runs fine emulator crashes real device 
+app parses xml files emulator works fine run real device android phone android tablet crashes mainactivity output logcat bashing 
+
+create folder device private static final string folder path environment getexternalstoragedirectory gps file dir file folder path 

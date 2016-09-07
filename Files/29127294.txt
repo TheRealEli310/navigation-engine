@@ -1,0 +1,4 @@
+gson jackson incompatibility 
+working projects spring spring spring default gson prior version default jackson thought influence compatibility lo behold specifically talking parsing mapping assume class methods ommited dont caused good receive data utf encoding problem sending data server older version spring dont explicitly gson prior sending newfoobars older server job preserve utf string parsing date fails written jan explicitly gson converting newfoobars string prior sending lose utf characters receive parsing date doesnt throw exception customer serializer side gson explicitly older server controller mapping unsupported media type long post grateful strong question strong strong solve problem system wide gson serializer setting forces utf encoding plain text strong 
+
+excluding build path default gson dependency common piece code pom xml added problem werent objects joda objects adding maven dependency resolved issue works expected sotirios delimanolis 

@@ -1,0 +1,4 @@
+android encryption decryption error javax crypto illegalblocksizeexception block incomplete decryption 
+issue decryption code encrypted string setdata decrypt encrypted string data error blockquote javax crypto illegalblocksizeexception block incomplete decryption blockquote 
+
+problem caused line passing original data decrypt pass solution pass encoding mechanism convert string bytearray vice versa correct line conversion bytes 

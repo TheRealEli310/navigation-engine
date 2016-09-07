@@ -1,0 +1,4 @@
+jdbc hiberntate error db2 connection authorization failure occurred sql error sqlstate 
+guys update row db2 table error hibernate error pure jdbc produce error sql editor run query generated hibernate work perfect strong connections user strong whats 
+
+problem caused established connection set readonly read href http www ibm support docview wss uid nas8n1016865 rel nofollow http www ibm support docview wss uid nas8n1016865 solve explicitly setting false readonly flag connection 

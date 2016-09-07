@@ -1,0 +1,4 @@
+vowel counter replaced string 
+wondering fix vowel counter program searched forums havent luck labs description change vowels string numbers make numbers range reset number count sample input abcdef sample output 0bcd1f main code runner class error experiencing replace method suitable method found replace char int method lang string replace char char applicable argument mismatch lossy conversion int char programming class honestly clueless fix 
+
+calling replace int auto convert int character explicitly convert int human readable char quick dirty fix change calls find problems code replace fixed code work reason require explicit conversion int concatentation operator converts text summary ul li types simply mix compiler converted li li change set result kind hard wrap head youre beginning youll practice li li replace instances letter string thing dont li ul 

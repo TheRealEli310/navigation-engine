@@ -1,0 +1,4 @@
+compiling installing 
+target system application supposed run development machine development downloading found href http docs oracle javase docs technotes tools windows javac html rel nofollow http docs oracle javase docs technotes tools windows javac html cross compilation requires existence rt jar belongs simpler 
+
+versions generally change language source class file format api compiler emit class files format source format versions dont compiler target jvm api harder account easiest compile api version target feel confident newer apis skip step make compiling testing runtime library short cross compilation helpful source versions compile test actual version intend require jre jdk btw settings ides instance eclipse set compliance level projects compiler settings add jre system library projects build path href http stack imgur h6wgj png rel nofollow img src http stack imgur h6wgj png alt enter image description 

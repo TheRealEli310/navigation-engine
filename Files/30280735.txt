@@ -1,0 +1,4 @@
+fragment method accessible activity 
+back update edittext content fragment activity fragment object viewpager position method called drawsurname surname giving resolve error relevant code formactivity firstfragment id fragment correctly getregisteredfragment method wouldnt call 
+
+problem fact fragment class supposed function called drawsurname firstfragment solve create abstract class extending fragment called superfrag custom fragments inherit superfrag add function called drawsurname override inheriting classes finally sparsearray list superfrag 

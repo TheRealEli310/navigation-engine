@@ -1,0 +1,4 @@
+unable create log file log4j 
+created webservice eclipse axis2 configured log4 properties file overridden default implementation axis2 logging fixed jvm arguments log4jproperties specific location imported required jar file ul li log4j jar li li slf4j api jar li li slf4j jdk14 jar li ul generate log file prints console text printing console 
+
+made properties file simple updated log4j properties file 

@@ -1,0 +1,4 @@
+jackson retrieve parent bean custom serializer deserializer 
+custom serializer deserializer retrieve parent bean field id foo serializer reference inside bar 
+
+jackson access parent object hierarchy method custom deserializer 

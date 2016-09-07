@@ -1,0 +1,4 @@
+make tile class add jframe 
+tile class public class tile extends jlabel letter color create grid tiles supposedly class model class making tiles manually 
+
+add labels panel edit 

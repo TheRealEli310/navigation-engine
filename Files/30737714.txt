@@ -1,0 +1,4 @@
+wait applet load automating internet explorer 
+mshtml internet explorer automate website website publicly page applet contained applet html tag problem applet takes long time load loaded controls webpage errors automate applet applet problems whilst things suggest stage focus main question find property event html applet loaded things check html document applets property returns applet collection collection applet applet readystate object attribute checks applet loaded 
+
+coming answer question find dom html page applet loaded depend page due security issues access isactive function applet hope html javascript page waits applet wait 

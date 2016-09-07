@@ -1,0 +1,4 @@
+streams simple solution parallelstream cluster 
+seamless parallelization operations stream cores single machine extend logic distributes operations machines cluster ideally br create cluster machines framework br launching distributes job cores machines cluster returns result machine piloting cluster 
+
+spark distribute work nodes dsl similar streams akka streams akka streams doesnt box offers toolbox nice dsl 

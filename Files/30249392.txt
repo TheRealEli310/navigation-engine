@@ -1,0 +1,4 @@
+set thread pools share threads large thread pool creating thread 
+set thread pools share threads large thread pool creating thread restful api application request involve parallel tasks improve performance execute parallel tasks thread pool fixed number threads limit max number threads request thinking create thread pool maximum pool size request create thread fetch thread global thread pool put job queue threads similar solution 
+
+thread pools executors executor consists things job queue thread pool light weight executor request job queue threads passes jobs queue main executor owns threads trick light weight executor counts jobs submitted main executor stops passing jobs number exceeds limit job passed main executor wrapped object type runnable reference parent light weight executor executes wrapped job notifies referenced executor job finished executor pass job main executor decrease job counter jobs queue 

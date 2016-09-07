@@ -1,0 +1,4 @@
+user apache cxf jax rs spring security 
+user jax rs resource works inject securitycontext class field write junit tests documented ways href http cxf apache org docs jax rs jax ws html jax rsandjax ws dealingwithcontexts rel nofollow apache cxf documentation href http cxf apache org docs jax rs jax ws html jax rsandjax ws dealingwithcontexts rel nofollow apache cxf documentation 
+
+user ul li li li li li li li li ul add spring configuration security namespace configuration href http docs spring io spring security site docs release reference htmlsingle jc rel nofollow configuration filter added default href http docs spring io spring security site docs release reference htmlsingle nsa web rel nofollow spring security documentation blockquote ul li strong servlet api provision strong versions httpservletrequest security methods isuserinrole getprincipal implemented adding securitycontextholderawarerequestfilter bean stack defaults true li ul blockquote 

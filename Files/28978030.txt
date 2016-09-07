@@ -1,0 +1,4 @@
+lang unsatisfiedlinkerror org thotheolh jche nativebridge loadpkcs11module ljava lang string 
+looked unsatisfiedlinkerror helps stackoverflow search engines solutions satisfied problem state make jni call pkcs11 dll library error native bridge snippet native calls nativebridge javah generated header file snippet jche file snippet jche attempted check loaded libraries found loaded error methods remedy problem 
+
+found netbeans post solve problem due gcc compiler options missing making dll files additional gcc compiler option reference href http forums netbeans org post html rel nofollow http forums netbeans org post html 

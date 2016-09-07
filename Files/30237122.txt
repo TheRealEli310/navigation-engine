@@ -1,0 +1,4 @@
+maven resources plugin dependency 
+retrieve project dependencies local network accessible maven nexus repository setup repository entry settings xml entry proxy netbeans build project retrieve dependencies runs command trys download maven resources plugin pom adding proxy managed download pom strict policies place network wont downloading jars internet questions ol li maven pom dependencies li li disable li li isnt assume download pom alter point nexus repository make artefact id added nexus correct li ol 
+
+ol li maven build pom youve maven resources plugin transitive dependency plugin youre defined mirror internet maven resources plugin resources resources goal part process resources phase phase lifecycles means missing plugins dependencies build failed needed li li disable removing relevant config pom lose functionality li li download artifacts upload nexus easiest download dependencies machine connected internet run folder pom li ol 

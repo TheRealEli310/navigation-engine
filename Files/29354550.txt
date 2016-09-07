@@ -1,0 +1,4 @@
+recyclerview jumps top paginating 
+implement pagination recyclerview recyclerview reaches end applications starts loading portion data recyclerview jumps top loadfromurl method xml file gradle file wrong 
+
+problem stupid moved things oncreate added loadfromurl method works problem hell post 

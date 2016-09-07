@@ -1,0 +1,4 @@
+enable sslv3 tomcat 
+embedded tomcat unable sslv3 protocol enabled unable hit web application internet options advanced settings sslv3 checked sslv2 tls1 tls1 tls1 unchecked setting ssl protocol setting ssl protocol added line deployment properties file enable sslv3 jre 
+
+recent jres disable sslv3 rightly broken protocol point avoided environments absolutely require support sslv3 disable higher level protocols tlsv1 tlsv1 tlsv1 add sslv3 protocols clients security higher level protocols order enable sslv3 jvm youll set system property possibly jvm launch time type thing set em dont disable higher level protocols em 

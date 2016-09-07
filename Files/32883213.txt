@@ -1,0 +1,4 @@
+inject beans produced websphere shared library ejb 
+ejb session bean injects produced class packed jar file jar file added classpath class produces logger class packed ejb jar file strong myejb jar strong class packed strong bean producer jar strong mentioned href http stackoverflow jars directory server deployed em myejb jar em directly console strong bean producer jar strong added shared library added classpath ejb jar configuration injection fails error add strong myejb jar strong works 
+
+cdi scans producer annotations managed bean classes archives packaged application shared libraries similar restriction classes annotated packaged application 

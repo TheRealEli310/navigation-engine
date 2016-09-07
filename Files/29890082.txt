@@ -1,0 +1,4 @@
+understanding multi threading 
+learning problem statement suppose datastruture million integers search key threads thread founds key set shared boolean variable false thread stop processing main class strong expecting strong threads run randomly thread encounters thread interrupted thread process inputs similarly thread strong happening strong threads completing loop thread starting thread completes learning threading practice question access shared resource 
+
+obtain lock flag make thread run make flag shared cached check flag btw threads start walk array presume code demonstration work opposite ends walk random 

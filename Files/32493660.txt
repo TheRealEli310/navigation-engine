@@ -1,0 +1,4 @@
+declare sql variable jdbc driver 
+run sql script client sql server client run script line line bellow exception solve issue 
+
+running script line line send entire script statement running line separately means youre running multiple scripts put line separate sql file variables local script running lines individually makes sense 

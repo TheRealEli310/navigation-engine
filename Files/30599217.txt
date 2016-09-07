@@ -1,0 +1,4 @@
+system nanotime granularity latency 
+test href http hg openjdk net code tools jmh file 57623b7f64e6 jmh core benchmarks src main org openjdk jmh benchmarks nanotimerbench rel nofollow http hg openjdk net code tools jmh file 57623b7f64e6 jmh core benchmarks src main org openjdk jmh benchmarks nanotimerbench dont understand difference measurement granularity latency difference measuring latency measuring granularity 
+
+em granularity em resolution timer time pass back href http stackoverflow questions system nanotime granularity latency comment49267367 peter lawrey put big smallest pieces grains measure em latency em case basically time takes timer takes 10ns timer timer values accurate 100ns em latency em 10ns em granularity em 100ns timer call times 40ns back nanoseconds granularity larger latency system takes 20ns timer accurate 5ns case call give granularity smaller latency 

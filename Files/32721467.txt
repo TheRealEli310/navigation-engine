@@ -1,0 +1,4 @@
+svg png batik 
+converting svg png apache batik strange errors svg href https www macstories net app themes macstories4 images logo shape bw svg rel nofollow https www macstories net app themes macstories4 images logo shape bw svg throws exception href https upload wikimedia org wikipedia commons svg logo svg rel nofollow https upload wikimedia org wikipedia commons svg logo svg code exception wrong 
+
+svg description tag assume meant write href http www w3 org tr svg struct html descriptionandtitleelements rel nofollow exist chrome browsers ignore unknown tags batik replace description tag desc tag xslt transform mechanism prior giving batik 

@@ -1,0 +1,4 @@
+read txt file store doubles array 
+code appending doubles code reads file double line store doubles array 
+
+stick array convert stringbuffer string convert string array double array stringbuffer divide array stringtokenizer class br alternatively string stringbuffer method work de limiter 

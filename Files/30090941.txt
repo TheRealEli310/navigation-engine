@@ -1,0 +1,4 @@
+jpa readonly mapping 
+toplink read mappings multiple attributes object map fields database mappings write field jpa feature write annotation manytoone column annotation map field database manytoone optional false fetch fetchtype lazy joincolumn usr id referencedcolumnname user id nullable false private user user generated column user id nullable false length private string userid 
+
+href http en wikibooks org wiki persistence basic attributes insertable 2c updatable 2f read fields 2f returning rel nofollow blockquote column annotation xml element defines insertable updatable options column foreign key field omitted sql insert update statement constraints table prevent insert update operations multiple attributes map database column foreign key field manytoone id basic mapping setting insertable updatable false effectively mark attribute read blockquote 

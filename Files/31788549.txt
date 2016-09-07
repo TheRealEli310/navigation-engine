@@ -1,0 +1,4 @@
+convert jsonp json spring resttemplate 
+service downloads jsonp file json processes correct spring found tutorials scenario plenty converting json jsonp illustrate problem lets hitting url href https www file jsonp rel nofollow https www file jsonp order process json remove callback manually substring recommended spring pojo directly jsonp file lets assume annotated pojo call moment exception tips hope duplicate 
+
+turns built converter jsonp objects question ended manually removing beginning end string converting rest standard json possibility implement custom preprocess jsonp object nice tutorial write custom message convertors found href http www baeldung spring httpmessageconverter rest rel nofollow 

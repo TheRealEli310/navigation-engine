@@ -1,0 +1,4 @@
+sum fibonacci numbers 
+sum fibonacci numbers print numbers sum 
+
+reinitialize time inside loop lose scope variable incremented time 

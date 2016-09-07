@@ -1,0 +1,4 @@
+disable swagger spring mvc 
+swagger implemented swagger ui spring mvc disable ui production live environment struggling figure swaggerconfig restcontroller 
+
+reverse proxy reject access swagger api production environment case production installation development test environment compliant devops method continue access swagger api internal calls 

@@ -1,0 +1,4 @@
+tutorial encountered error 
+exception thread main 
+
+2nd line xml causing issue 

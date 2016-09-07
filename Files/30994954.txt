@@ -1,0 +1,4 @@
+html form action working eclipse 
+jsp servlet href https www youtube watch mnujl3nyrrc rel nofollow tutorial brains tutorial post method handled wrote html code web content file web xml file problem run html form eclipse luna redirecting href http localhost simpleservletproject rel nofollow http localhost simpleservletproject form submitted redirects href http localhost rel nofollow http localhost error shown run html file eclipse works fine explain problem running code eclipse 
+
+delete comment webservlet put webservlet stop server refresh clean launch web xml file list correctly file launch 

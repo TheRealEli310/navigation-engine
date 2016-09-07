@@ -1,0 +1,4 @@
+initialize data invocation jmh 
+create benchmark modifies collection problem dont initialize data invocation assume test data collection elements br method removes data based br similar junits couldnt find jmh initialize data time method invoked br advance 
+
+check parameter annotation equivalent explained warnings href http hg openjdk net code tools jmh file bcec9a03787f jmh core src main org openjdk jmh annotations level rel nofollow 

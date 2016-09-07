@@ -1,0 +1,4 @@
+aggregatebykey javapairrdd 
+searched lot didnt find examples aggregatebykey code find count rows javapairrdd reducing key read aggregatebykey scala input key1 abc email def address ghi key1 abc email def address ghi key2 abc email def address ghi output key1 abc email def address ghi count key2 abc email def address ghi count add extra column output row count rows reduced 
+
+aggregate key 

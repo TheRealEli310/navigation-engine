@@ -1,0 +1,4 @@
+fill list json data values 
+logging android application downloading json objects stored arraylist database table payment methods data table objects json store works great file class named paymentmethod end getters setters question access data paymentmethods apps code 
+
+shared preferences data stored locally avoid make http connection time data accessed app 

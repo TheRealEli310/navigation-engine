@@ -1,0 +1,4 @@
+position view oncreateviewholder 
+recyclerview single row layout imageview textview implement onclicklistener view seperate viewholder objects position view adapter deleting comments click select clicked view added todo line 
+
+strong strong parameter callback item added recyclerview strong strong rebind item position strong obsolete strong recyclerview method viewholder added check item removed recyclerview fade view clicked user adapter position return 

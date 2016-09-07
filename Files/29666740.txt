@@ -1,0 +1,4 @@
+recovery deadlock 
+threaded process accessing data mysql table mysql deadlocked place case deadlock update rows back previous state restart process suspect wrong case wanted update ish data deadlock count showed ish data processed possibly calling 2nd instance process kill running threads restarting process edit innodb index created id threads supposed rows limit processed flag process update individual rows process id updated thread act rows deadlocked resultset updaterow table finally working code href https github codezero10 mailqueue tree master rel nofollow https github codezero10 mailqueue tree master 
+
+deadlock issue facing transaction related wrap update statement transaction block deadlock vanished 

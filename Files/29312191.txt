@@ -1,0 +1,4 @@
+turn parallel junit parameterized tests parallel run 
+write parameterized junit test built make run parallel write manually manage thread pool junit 
+
+library href https github michaeltamm junit toolbox rel nofollow junit toolbox href https junit toolbox googlecode git javadoc googlecode junittoolbox parallelparameterized html rel nofollow parallelparameterized runner replace 

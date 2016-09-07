@@ -1,0 +1,4 @@
+filetransfer socketchannel 
+problem filetransfer socketchannels client ends transfer file server wait byte client timeout file saved small part server remains stucked filechannel transferfrom socketchannel filelength working properly server client 
+
+youre losing data file received youll part missing beginning mix buffered unbuffered input channel suggest transfer filename transfer length imagine youre code transfer images files bytes 

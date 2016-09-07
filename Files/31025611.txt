@@ -1,0 +1,4 @@
+java8 streams strange behavior 
+testing java8 streams api codes figure happening thinking parallelstream works made comparisons methods big iteration adding bigdecimals parallelstream normal iteration test invalid things called attention tests parallel stream normal code output removing strong sequencesum method strong output made adding removing method times results change method testing windows ubuntu finally questions remains method influences storing bigdecimals array made method slow 
+
+pointed comments apangin issue gc xx printgcdetails parameter print execution times gc worst initalization streams api memory allocated 

@@ -1,0 +1,4 @@
+add user ldap naming invalidnameexception invalid 
+practicing adding user ldap v3 running virtual machine userdetails attributes obtained postgres database running locally code good approach exception trace anythoughts resolve exception href http docs oracle javase tutorial jndi index html rel nofollow jndi tutorials 
+
+attributes dn values nowehere dn ldif syntax recommend start hardcoded sample user db access till debugged jndi usage problems step helps 

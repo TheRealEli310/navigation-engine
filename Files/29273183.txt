@@ -1,0 +1,4 @@
+java8 supplier optional consumer 
+explain main class holds application wide components provide supplier act factory instances supplier called times loop create amount instances supplier users provide implementation class change problem requires components application injected provided written kind ugly ideas strong strong inject dependencies supplier ioc dependencies defined setters inside sudo component injected depends setter alternatively interfaces basically dependencies constructor express set strong strong optional consumer create instance time register supplier easily supplier creates instance wdyt 
+
+favour passing mandatory settings constructor static factory method ioc style prefer write returns thing time simplest hardest wrong pass argument multiple times supplier initialised 

@@ -1,0 +1,4 @@
+multiple xsd schemas ws message validator resource found schemacollection found xsdschema 
+find simplexsdschema set xsd resource works commonsxsdschemacollection intend provide multiple xsds prefer approach importing xsd inside marked error precisely usage clue resourceloader app packed war deployed application server remains unexploded 
+
+typo config 

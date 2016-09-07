@@ -1,0 +1,4 @@
+error creating bean org springframework orm hibernate4 hibernatetransactionmanager 
+create bean org springframework orm hibernate4 hibernatetransactionmanager org springframework beans factory beancreationexception ul li hibernate final li li spring release li li spring tool suite version release build id 201503100339 platform eclipse luna sr1 li li jdk li li tomcat v8 server li ul daos xml file configure hibernate daos sessionfactory pom xml configuration maven dependency error log trace wrong xml configuration file 
+
+changed sts ul li spring tool suite li li version release li li build id 201503100339 li li platform eclipse luna sr1 li ul worked changed daos xml configuration avoid writeing hbm configuration file route adding mappingdirectorylocations property sessionfactory myapp worked changeing sts veresion daos xml configuration optimize 

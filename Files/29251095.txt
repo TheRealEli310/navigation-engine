@@ -1,0 +1,4 @@
+cxf soap client interceptors pass parameters 
+cxf pass parameters outbound intercptors outbound chain calling soap client found question href http stackoverflow questions passing data transactionid cxf interceptors passing data transactionid cxf interceptors isnt cleaner solution stay cxf 
+
+pass parameters interceptor client call basically wrap port strong org apache cxf endpoint client strong put parameter requestcontext interceptor parameter 

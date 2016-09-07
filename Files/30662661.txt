@@ -1,0 +1,4 @@
+memory database injected test play 
+href https playframework documentation javafunctionaltest rel nofollow play documentation functional tests shows modes ul li fakeapplication custom configuration memory database li li dependency injection configure application li ul dependency injection set custom configuration application startup memory database achieve guess guice builder dont 
+
+em assuming guice di em discussion issue href https github playframework playframework issues rel nofollow frameworks github repo answering question make work solutions issue 

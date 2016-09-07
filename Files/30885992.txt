@@ -1,0 +1,4 @@
+create variable date format yyyy mm dd 
+insert table date format yyyy mm dd table field type datetime sqlite db system format option select dates table method insert create variable date format yyyy mm dd 
+
+dont worry format date strong storing strong database simply store date instance functions format strong retrieval strong sql lite date functions href https www sqlite org lang datefunc html rel nofollow https www sqlite org lang datefunc html dont tied functions database vendor format date retrieval simpledateformat href http docs oracle javase docs api text simpledateformat html rel nofollow http docs oracle javase docs api text simpledateformat html 

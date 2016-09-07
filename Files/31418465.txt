@@ -1,0 +1,4 @@
+wrong insert order jpa hibernate onetoone bidirectional relationship pk 
+set relationship entities share pk fk structure generated annotaded classes creted problem insert statements order wrong hibernate insert table resulting fk constraint error solve issue advance 
+
+href http docs oracle javaee api javax persistence joincolumn html rel nofollow annotation entity isnt complete attribute href http docs oracle javaee api javax persistence joincolumn html referencedcolumnname rel nofollow blockquote public abstract lang string strong referencedcolumnname strong optional column referenced foreign key column blockquote 

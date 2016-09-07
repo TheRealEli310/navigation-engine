@@ -1,0 +1,4 @@
+copy model object 
+copy model object writing copy function nested object lot works avoid shortcut approach made utility function copy takes model object returns copy serialize entire object json deserialize make copy efficient copy plain objects 
+
+dozer library href http dozer sourceforge net rel nofollow http dozer sourceforge net easily copy pojos usufull configure mappings additionally technics copy object custom factories special getters setters lot things href http dozer sourceforge net documentation mappings html rel nofollow http dozer sourceforge net documentation mappings html 

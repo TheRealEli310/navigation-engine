@@ -1,0 +1,4 @@
+migrating existing dynamic web project gradle 
+existing dynamic web project created eclipse create war file eclipse deploy tomcat gradle build project create war file eclipse plugin gradle existing project existing project structure create dynamic web project eclipse dont change tutorials converting gradle project gradle plugin atleast point blog tutorial start things build gradle web xml proj structure img src http stack imgur wrz6c png alt project structure 
+
+heres minimal file build command 

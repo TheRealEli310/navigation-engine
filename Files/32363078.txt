@@ -1,0 +1,4 @@
+accessing bean class 
+bean called appprops defined applicationscope hashmap type access ssjs format returns application description stored fields hashmap object call process class definition faces config 
+
+equivalent implicit lookup ssjs el 

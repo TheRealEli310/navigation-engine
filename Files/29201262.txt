@@ -1,0 +1,4 @@
+deploying webapp tomcat running docker container 
+pretty tomcat docker missing tomcat fundamental question build docker container runs springboot restful web service returns static data running osx boot2docker written dockerfile build container app runs dockerfile works fine start container created image container starts correctly outputs errors displays message app deployed container correctly myapp war copied path dockerfile navigate tomcat default page confirm tomcat running hit examples problem navigate href http myapp getdata http myapp getdata figure missing war deploy tomcat 
+
+copy war subdir webapps wrong war file copied simple webapps folder remove mkdir command replace copy tomcat extract war 

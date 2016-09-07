@@ -1,0 +1,4 @@
+error running javakafkawordcount 
+submitting javakafkawordcount command building application maven error application stopped pom xml build jar plugins 
+
+check dependency set pom file make shaded jar dependencies pass external jars running spark submit script jars 

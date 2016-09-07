@@ -1,0 +1,4 @@
+countdownlatch threadsafe 
+href https docs oracle javase docs api util concurrent countdownlatch html rel nofollow docs public void run startsignal await dowork donesignal countdown catch interruptedexception return objects docs dont mention class thread 
+
+designed multiple threads fair assume strong strong thread meanings em thread em em em commitment href https docs oracle javase docs api util concurrent countdownlatch html rel nofollow link blockquote memory consistency effects count reaches actions thread prior calling countdown happen actions successful return await thread blockquote reference specific question em threads call countdown time wouldnt count action effectively em actioned time 

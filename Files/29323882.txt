@@ -1,0 +1,4 @@
+scanner works multiple classes 
+program purpose analyzing text file user selects typing full path text file prompted managed scanner multiple classes work method simultaneously class print amount numbers file print number words file method run work display class searching numbers lines words true stuck happening attached main class classes show clear main class class counts lines class counts words reason work time explain happening solve 
+
+reference scanner object methods copying reference object variables referencing object redefined times problem scanner reaches end file call object read create scanner object attempting solution read file store contents data structure 

@@ -1,0 +1,4 @@
+guice nullpointer exception injected instance 
+guice jersey2 di google app engine working hk2 applicationresource nlpprovider loads bunch files files loaded correctly inject instance nlpprovider stay null crwalerresource wrong hk2 hr pom xml issue 
+
+bridge guice hk2 mentioned href http stackoverflow youll hk2 dependency 

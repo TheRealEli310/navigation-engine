@@ -1,0 +1,4 @@
+make dao thread jpa 
+jpa understood entitymanager emf works littel bit jpautill entitymanager threadlocal variable makes entitymanager thread dao persisting users thousand thread accesses simultaneously exception dao code jpautil understand issue resolve 
+
+remove variable form jpautil variable didnt change 

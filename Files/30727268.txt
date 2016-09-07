@@ -1,0 +1,4 @@
+cancel task retrofit rxjava 
+rest api okhttp canceling functionality request object tag dont retrofit rxjava realize canceling mechanism network tasks retrofit rxjava 
+
+standard rxjava cancelling mechanism href http reactivex io rxjava javadoc rx subscription html subscription retrofit rxjava connector redirect call okhttps cancel href https github square retrofit blob master retrofit adapters rxjava src main retrofit2 rxjavacalladapterfactory l102 https github square retrofit blob master retrofit adapters rxjava src main retrofit2 rxjavacalladapterfactory l102 

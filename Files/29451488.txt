@@ -1,0 +1,4 @@
+pojo app engine task queue 
+pojos app engine task queues values string pojo complex fields pojo arraylist 
+
+method overloads takes takes pojos implement serialize shown href http stackoverflow questions serializable object byte array serializable object byte array reception deserialize back maximum task size href https cloud google appengine docs python taskqueue overview push python quotas limits push queues rel nofollow https cloud google appengine docs python taskqueue overview push python quotas limits push queues kb max size payload problem stashing pojo entity datastore sending key 

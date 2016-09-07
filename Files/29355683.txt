@@ -1,0 +1,4 @@
+apache spark sql blob datatype 
+programming implementation apache spark faced problem processing table blob datatype support sql datatypes found blob type solve problem 
+
+id call spark earlier spark returned call check youre good technique youre confused schema implementation database connector decide map type option case extract 

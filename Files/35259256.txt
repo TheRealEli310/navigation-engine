@@ -1,0 +1,4 @@
+setonmousedragged working browser view 
+writing simple application jxbrowser engine stuck beginning code undecorated make draggable searched found link href http stackoverflow questions drag undecorated window drag undecorated window set event event fired event fired idea whats problem advance 
+
+jxbrowser requires license couldnt test replaced label works fine guess drag clicking browser stackpane clicking corner stage add stack pane vbox setpadding clicking corner clicking browser browsers mouse events trigerred proof href http stack imgur zg6j4 png rel nofollow img src http stack imgur zg6j4 png alt enter image description strong correct code strong strong reason strong jxbrowser extends till edge stack pane wasnt top visible sides mouse listeners triggered setting padding stack pane 10px gap sides clicked triggered mouse events solves problem 

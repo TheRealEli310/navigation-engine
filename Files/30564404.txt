@@ -1,0 +1,4 @@
+determine message type protobuf type parsefrom byte 
+send protobuf data cpp side side multiple message types defined proto cpp side enums message type adding buf output type added buf achieve 
+
+clear exact requirement assume send types messages receiver parse correct object received bytes shown basically wrappermessage object wire wraps message1 message2 object receiving size parse wrappermessage object hasfield method check m1 m2 fields present wrapped object parse message1 message2 object oneof feature older version protobuf compiler 

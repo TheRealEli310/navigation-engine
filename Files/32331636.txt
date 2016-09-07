@@ -1,0 +1,4 @@
+classnotfoundexception org apache commons cli parseexception maven 
+run project command line linux blockquote jar target app jar csv test csv blockquote error maven build maven configuration commons cli dependency declaration remove code amp dependencies class error 
+
+maven running application command line provide required jars application blockquote approach provide classpath blockquote windows path semi colon separated linux colon separated wild cards include jars java6 blockquote approach fat uber jar combine jars jar run blockquote jar maven update plugins section pom xml update pluginrepositories section pom xml execute run blockquote approach maven shade plugin robert suggested blockquote add plugins section pom xml execution uber jar generated 

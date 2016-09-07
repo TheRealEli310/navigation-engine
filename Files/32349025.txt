@@ -1,0 +1,4 @@
+return rxjava observable guaranteed throw onerrornotimplementedexception 
+create pattern application objects returned default error handling meaning subscribers overload fear application crashing youd acheive attaching observable helping case wrong error occurs observable edit observable emits error handle middle layer edit code handle error behalf consumer 
+
+work key 

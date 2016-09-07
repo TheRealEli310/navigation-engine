@@ -1,0 +1,4 @@
+modify mediarecorder source pause resume recording 
+modify mediarecorder source pause resume recording thought modifying class recently told question modify mediarecorder class extend write additional logic basic logic add pausing resuming recording issue preview flickers essentially questions source code modified directly wrong approach extending mediarecorder update pause resume preview flicker advance 
+
+ol li modify source problem compile framework source apk replace framework runtime li li file record piece record piece separated files preview flicker happen li li contact piece file record pcm format handle file header make speaker add silence piece li ol 

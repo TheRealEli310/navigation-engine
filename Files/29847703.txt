@@ -1,0 +1,4 @@
+nullpointer exception initialize fxml injection working expected 
+noticed weird behaviour controller classes components initialized fxml controller start application null fix adding fxml annotation works move top declaration buttons initialized case happening thought annotation start declarations entered type component 
+
+buttons initiated buttons defined fxml file instantiated properties set defined controller class fxml annotated clicking buttons work triggers event action handlers expected fxml annotation obligates fxmlloader instantiate annotated node link node defined fxml file respective node annotated fxml initiated explicitly null annotations work language confirm checking buttons nullness control node annotated separately combined 

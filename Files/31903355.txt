@@ -1,0 +1,4 @@
+android activity anonymous class 
+super android development general heres basic setup splash screen check server availability href https stackoverflow questions android asynctask sending callbacks ui thread made callback activity makes sense work reuse task activities callback check status launch activity context callback dont reference parameter intent code activity oncreate part fails call throws error understand context completeness interface ontaskcompleted checkservicetask class 
+
+fragments blockquote return activity fragment blockquote isnt nested class 

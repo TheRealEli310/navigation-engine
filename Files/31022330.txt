@@ -1,0 +1,4 @@
+division integer parts 
+programming formulate algorithm requirements algorithm ul li integer variables li li divide parts sum parts equal part integer li li combinations allowed integers li ul input set combinations formulate 
+
+idea backtraking algorithm approach recursion decrease parameters partials solutions check solution 

@@ -1,0 +1,4 @@
+jdbctemplate mysql primary key foreign key 
+jdbc database shown database shown kind working functionality create username user time username created primary key issue create user username foreign key user table username null 
+
+username id generated database side youll make retrieve generated em primary key em downside youll write em em crude jdbc code change method optionally make return em primary key em object passed method updated subsequent statement start working 

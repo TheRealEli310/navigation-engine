@@ -1,0 +1,4 @@
+eclipse working updating 
+upgraded run project eclipse error blockquote unable locate executable jre1 blockquote googled found answer recommended add vm left important details dont jars lost running windows eclipse mars win32 x86 
+
+ul li li li locate simply type search box li li screen show list jres li li click button li li click li li click top left corner li li navigate jre directory li li click li li click li li remove jre list listed li li tick checkbox li li click li li click li ul 

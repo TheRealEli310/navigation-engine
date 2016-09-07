@@ -1,0 +1,4 @@
+add cache control header static resource spring boot 
+add cache control http header spring boot static resources filter component application writes headers correctly cache control header overwritten browser 
+
+href https docs spring io spring docs current javadoc api org springframework web servlet config annotation resourcehandlerregistry html rel nofollow documentation pretty easy code related place configure static resources add method return object href https docs spring io spring docs current javadoc api org springframework web servlet config annotation resourcehandlerregistration html setcachecontrol org springframework http cachecontrol rel nofollow setcachecontrol method configure set href https docs spring io spring docs current javadoc api org springframework http cachecontrol html rel nofollow cachecontrol obejct strong spring strong 

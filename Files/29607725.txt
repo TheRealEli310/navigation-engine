@@ -1,0 +1,4 @@
+remove insets javafx titledpane css working 
+based solution james href http stackoverflow questions set remove insets javafx titledpane set remove insets javafx titledpane removing insets javafx titledpane css work update correctly scene builder runtime insets remain unchanged scenic view reports padding strong fxml strong strong css strong strong view scene builder preview strong img src http stack imgur trc3y png alt preview scene builder strong view runtime strong img src http stack imgur dw1xw png alt view runtime padding applied reason main application lot containers option add padding fxml code works time consuming job missing css 
+
+set style classes 

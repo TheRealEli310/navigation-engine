@@ -1,0 +1,4 @@
+optimize native message host larger strings 
+chromes native messaging api pass data host data kb long string encoded base64 problem host taking long read data standard input read post href http stackoverflow questions slow pass large amount data chrome extension host written slow pass quot large quot amount data chrome extension host written understand problem read bytes nt adapt code code host adapt code host read message quickly 
+
+ul li bugs youre intel rearrange int native byte order reads network byte order li li put solve major performance problem li li solve performance problem appending loop li li hard send length sleeping isnt accomplish wasting time remove li ul 

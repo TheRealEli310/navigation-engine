@@ -1,0 +1,4 @@
+handle onerror inside rxjava onerrornotimplementedexception 
+app reactivelocationprovider library href https github mcharmas android reactivelocation rel nofollow link subscribe updates oncreate method works fine device online switch wifi wait background location updates device onerrornotimplementedexception log mainactivity code 
+
+error happening geocode location blockquote caused io ioexception timed waiting response server android location geocoder getfromlocation geocoder blockquote call subscribe parameter handles calls error app crash subscribe 

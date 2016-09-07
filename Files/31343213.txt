@@ -1,0 +1,4 @@
+progressbar top button relative layout issue android studio 
+weird hope explain custom button layout creates button circular progress bar middle button xml code work appearing button set button background transparent progressbar button background transparent appears button text understanding views appeared order added setting view top view bringtofront removing view recreating progressbar button solve code layout 
+
+propably running android added elevation field views elevation defines order views viewgroup case button elevation progress bar elevation set elevation progress bar 10dp 

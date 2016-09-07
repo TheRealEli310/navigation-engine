@@ -1,0 +1,4 @@
+sending large number messages spring jmstemplate 
+practice guidance sending persistent messages set true dont transaction manager configured 40k 50k messages jmstemplate configured loop iterates messages list send lot message loss frequent basis turn reliability producer performance drops 
+
+bit speculation question detailed depending configuration activemq memory limits queues differ persistent persistent messages memory calls ignore warnings continue deliver messages black hole memory freed consumer silver bullet max performance max reliability setting connection factory amount data broker ack received exact depends scenario broker config resources 

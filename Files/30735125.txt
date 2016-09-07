@@ -1,0 +1,4 @@
+recommended force mobilefirst cli 
+os oracle order install install apple commands fail change environment variable point installation heres output whats override edit fyi href http stackoverflow questions javac1 class found javac1 class found error problem ant lt assume bundled mobilefirst cli ant system installation 
+
+approach simple wrapper script mentioned previously updates remove path setting profile simple bash node hope helps 

@@ -1,0 +1,4 @@
+swagger api consuming json json validation 
+swagger generate restful api api accepts json strings generates objects working quiet exception api accepts correct formed json string ignores content json means object created default values question validate incoming jsonstring json schema actual object generated 
+
+dont receive json string methods href http beanvalidation org rel nofollow bean validation option validation href http docs oracle javaee api javax ws rs ext messagebodywriter html rel nofollow jax rs href http docs oracle javaee api javax ws rs ext messagebodywriter html rel nofollow parse incoming requests specific href https jersey net documentation latest message body workers html d0e6851 rel nofollow writing href http docs oracle javaee api javax ws rs ext provider html rel nofollow annotation makes class automatically discovered jax rs runtime provider scanning phase 

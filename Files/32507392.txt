@@ -1,0 +1,4 @@
+connection abandoned error occurred sending backend 
+lot topics abandoned connections figure problem case hope application spring fetches data external services save database configuration jdbc pool typical spring env service method nightly job running time 10k events checked active transaction transaction created committed problem time time exceptions checked configuration times find wrong approved crashing events saved exception continues save rest events normal ideas wrong configuration handle issue 
+
+thrown postgresql connection dropped back end side ol li updating driver latest version href https jdbc postgresql org rel nofollow li li setting statement log data understand whats causing issue li ol 

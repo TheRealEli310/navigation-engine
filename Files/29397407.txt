@@ -1,0 +1,4 @@
+gldrawbuffers flipped intbuffer 
+code flip dont equal dont flip status black texture desired texture looked throught code days bet part code wrong rest flipped 
+
+h3 buffers flipped passed lwjgl h3 underlying gl api expects array functions buffer size array parameter gls language bindings hidden lwjgl calculates difference current position end position flip sets current position beginning buffer current position end position calling lwjgl passes array size strong strong based opengl api sits top call size strong strong sets produce behavior 

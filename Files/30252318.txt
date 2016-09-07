@@ -1,0 +1,4 @@
+avoid blank space insertion beginning string split function 
+code snippet split string character problem splitting blank space introduced begining splitted array giving output length trailing spaces split passed beginning test printed giving blank space question avoid problem split happening href http ideone gvixpt rel nofollow ideone link 
+
+method behaves differently ideone commenters answerers javadoc documentation written blockquote positive width match beginning string empty leading substring included beginning resulting array width match beginning produces empty leading substring blockquote equal remark present documentation equal empty strings end array removed solution add code ignore string empty solution suggested answer yields unexpected results input consists word 

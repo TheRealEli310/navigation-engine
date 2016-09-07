@@ -1,0 +1,4 @@
+accept user keyboard input jogl 
+register canvas keylistener method addkeylistener keylistener type component applicable arguments activity01 
+
+implementing wrong keylistener 

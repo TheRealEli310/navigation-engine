@@ -1,0 +1,4 @@
+lookup local bean wildfly jndi 
+appears question href http stackoverflow questions wildfly jndi lookup local ejb deployed war title wildfly jndi lookup local ejb deployed war wildfly jndi lookup local ejb deployed war solution work ear ejbs deployed jar jaws server ejb3 inside app call method bean bean wildfly starts prints add localbean bean clear read lookup bean app jaws server ejb3 forecastservice app jaws server ejb3 forecastservice termalabs common service forecastserviceremote lookup hard coded moment empty jndiproperties table setting quoted matter end namingexception bean remote interface doesnt running code ear shouldnt missing michael 
+
+message youre launching thread youre ee concurrency utilities naming context isnt copied thread youd ensure naming context security context tccl set thread 

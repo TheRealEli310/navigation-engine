@@ -1,0 +1,4 @@
+adding custom jar dependency module android studio 
+android project module br added library named lib project added jar jar created project clicked file project structure choose module dependencies added jar dependency create apk error blockquote execution failed task app predexdebug android ide common process processexception org gradle process internal execexception process command program filesjavajdk1 injava exe finished exit blockquote change scope dependency provided helped create module dependency jar work br build gradle br code br suggestions br h1 update h1 solved problem jar compiled settings changed recreated jar solved problem 
+
+remove line youre including jar libs directory couple lines 

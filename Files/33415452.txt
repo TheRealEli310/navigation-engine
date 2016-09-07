@@ -1,0 +1,4 @@
+olingo v2 client patch odata v2 service 
+olingo provide client interacting odata service written olingo send patch standard validation routines kicking include elements entity marked nullable standard olingo tools error href https olingo apache org doc odata2 tutorials olingov2basicclientsample html rel nofollow https olingo apache org doc odata2 tutorials olingov2basicclientsample html blockquote http merge patch send updated data post body omitting unchanged data shown sample blockquote doesnt flag entityprovider writeentry method patch post put point code error data entry nullable fields response returns null values attributes entity arent data deal manipulating response remove entries data standard generation imagine suggestions deal 
+
+create expandselecttreenode selected properties serialized assuming data hashmap values code start 

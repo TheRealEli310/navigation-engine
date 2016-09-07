@@ -1,0 +1,4 @@
+webservice restricted single thread 
+today testing code slow wait data slow source restlet noticed wildfly start additional threads run restlet single thread meaning multiple connections wait previous finish oddly configured subsystem threads limited spawning thread worked requests sequentially misunderstood subsystem supposed work restriction resteasy aspect past normal webservlets concurrency experiencing behavior 
+
+problem client side test code access rest service wildfly putting method open tabs firefox chrome request processed concurrently takes seconds firefox chrom parallel response seconds 

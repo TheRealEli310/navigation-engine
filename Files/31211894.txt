@@ -1,0 +1,4 @@
+lang noclassdeffounderror google android gms internal zzpt zza 
+developing android app involves authenticating user googleapiclientbuilder class error occurs runtime hit part code works perfectly fine android api level kitkat error doingh research found proguard stripping classes enable disable minifyenabled doesnt work research figured multidex issue enabled compiling dependencies works lollipop lower 
+
+figured follow single step setting google play services silly mistake end 

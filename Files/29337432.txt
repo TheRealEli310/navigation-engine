@@ -1,0 +1,4 @@
+spring templates docker container 
+dockerify spring mvc app base image trouble line running docker docker works fine finding template files project running template files inside jarfile jarfile url debugging code shown finding files exception exception timestamp stats 
+
+appears default docker drops files modified image spring put sanity check templates theyve updated executing commands resolved problem left thinking codebases bug report bugs rannick created ul li href https github docker docker issues rel nofollow https github docker docker issues li li href https jira spring io browse spr rel nofollow https jira spring io browse spr li ul 

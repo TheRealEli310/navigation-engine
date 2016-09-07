@@ -1,0 +1,4 @@
+solution issue hibernate 
+understand problem query executed fetch records queries fetch relational records avoided hibernate 
+
+suppose class manufacturer relationship contact solve problem making initial query fetches data needed load objects appropriately initialized state hql fetch join hql fetch statement results join criteria query result creates sql cases query returns list manufacturer objects contact initialized query run return contact manufacturer information required information link href http www realsolve uk site tech hib tip pitfall php lazy rel nofollow problem href http www realsolve uk site tech hib tip pitfall php n1selects rel nofollow solution 

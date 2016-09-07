@@ -1,0 +1,4 @@
+comparator interface working calling compare method internally 
+explain briefly comparator interface working internally calling compare method jvm collections sort method passing parameter list employee object parameter passing namecomparator class object implementing comparator method short employee ascending order compare method calling parameter employee object calling compare method concept working internally snippet code 
+
+implementation collections sort calls arrays sort eventually method called 

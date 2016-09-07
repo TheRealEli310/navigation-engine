@@ -1,0 +1,4 @@
+insert values csv database 
+code split csv values insert db save values separate variables match column names unable figure dont csv parser manually output column names database 
+
+parepared statement build query loop execute prepared statement check href http docs oracle javase tutorial jdbc basics prepared html rel nofollow check link 

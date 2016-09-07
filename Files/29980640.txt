@@ -1,0 +1,4 @@
+rx reactive extensions zip operator time interval 
+rxjava playing operators small emits items short intervals 1s works remove turns source blockingobservable program executes ends output marble diagrams understand things properly href http reactivex io documentation operators zip html rel nofollow http reactivex io documentation operators zip html sentence em emit items number items emitted source observable emits fewest items em observable emits items ends printing items observable observable asynchronous clear understanding whats happening ways deal similar cases 
+
+covers emitting thread main thread composing exit code method program exiting real system shouldnt problem real system method code program main thread block reading byte stdin 

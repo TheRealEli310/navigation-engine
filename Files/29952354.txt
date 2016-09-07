@@ -1,0 +1,4 @@
+memory error executors 
+executors framework fixed thread pool unbounded blocking queue execute tasks concurrently run load test tasks created huge build heap memory gb million executable objects unbounded queue causing build memory analyzer report blockquote instance util concurrent threadpoolexecutor loaded occupies bytes instance referenced test schedulebean 0x743592b28 loaded org jboss modules moduleclassloader 0x741b4cc40 blockquote pointers appreciated 
+
+responses real problem tasks pulled database duplicate tasks added task queue queue build 

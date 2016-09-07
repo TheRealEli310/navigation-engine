@@ -1,0 +1,4 @@
+multiple independent component injection 
+dagger configuration android project working provided needed component module annotations needed completely independent components related point injection compilation error mistaken thinking multiple components dagger application supposed big component takes care injections understand wrong 
+
+single component ways modularize object create inject values values provided single component restructure code componenty depend componentx vice versa create component componentz componentx componenty completely orthogonal reuse modules decide split largely depends structure code components visible modules component dependencies module depedencies implementation details component modules visible simple reuse wouldnt scopes managing objects lifespans objects specific user lifespan time user logs log lifespan specific request lifespan scopes subcomponents 

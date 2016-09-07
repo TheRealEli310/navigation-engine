@@ -1,0 +1,4 @@
+intellij include external jars javafx jar file 
+include jar files lib main jar file produced intellij meant create jar files make work screens setup href http stack imgur gi3gm png rel nofollow img src http stack imgur gi3gm png alt enter image description result href http stack imgur tz6ek png rel nofollow img src http stack imgur tz6ek png alt enter image description explain jar file generated main jar file supposed ship jars 
+
+jar click open module settings artifacts jar module dependencies choose main class select strong extract target jar strong press close dialogs applying oking coding goto build build artifacts jar build jar make vipe 

@@ -1,0 +1,4 @@
+h2 db column group list 
+h2 db google app engine access static databases table huge list lots countries country state germany states cities city usa problem query sorted list states cities error row city row state column queried wether city column query state query mysql properly working whats problem found helps href http www h2database javadoc org h2 constant errorcode html c90016 rel nofollow http www h2database javadoc org h2 constant errorcode html c90016 metin 
+
+mysql broken columns arguments aggregation functions fact href https dev mysql doc refman en group handling html rel nofollow documentation warns extension allowed doesnt make sense 

@@ -1,0 +1,4 @@
+trouble slick util lwjgl textures 
+recently started making simple game jlwgl slick util ran problem load textures place tiles slick util load textures method set variable store variable check texture loading works glquads method draw textured square calling drawquadtex encountered error exception thread main lang nosuchmethoderror org lwjgl opengl gl11 glgetinteger iljava nio intbuffer assistance appreciated attempt simple school assignment post 
+
+slick util library part slick2d deprecated longer compatible recent lwjgl versions error 

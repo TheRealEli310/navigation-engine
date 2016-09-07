@@ -1,0 +1,4 @@
+ucanaccess sql insert failing query works fine ms access unexpected token ucanaccessstatement 
+attempt building end goal simply import excel file ms access database suspect sort data incompatibility error uca clean queries dont ucanaccess track heres query assembled runs fine insert data ms access directly data replaced xs 0s column names variants work insert fund ticker unique id cash amp cash equiv based attempts thinking date format breaking column names find whos encountered exact issue heres full trace column names data format issues resolved libraries ucanaccess simply run select insert queries ms access db 
+
+ucanaccess difficulty parsing sql statements field names include apostrophe single quote character pre class lang prettyprint override issue reported ucanaccess development team expected fixed future release ucanaccess meantime dont sophisticated sql queries jackcess api directly perform equivalent insert statement pre class lang prettyprint override 

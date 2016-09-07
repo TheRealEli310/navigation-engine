@@ -1,0 +1,4 @@
+android android studio 
+program crashing emulator blockquote program stopped working blockquote xml compiles xml 
+
+assigning onclicklistener object hasnt initialized receive nullpointerexception replace line suppose work future app crashes attach stack trace exception 

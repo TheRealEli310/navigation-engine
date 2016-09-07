@@ -1,0 +1,4 @@
+minor jdk version travis ci 
+minor version jdk jobs running travis javafx project failing jdk perform build project classes shipped specifically alert spinner travis yml file heres link href https travis ci org irishshagua dublin pubs admin builds failed build case 
+
+finally working solution reccommended linuxbrew install oracle jdk href https github travis ci travis ci issues rel nofollow zrcoder github ended works travis ci updated month update config shorter build times 

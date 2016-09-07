@@ -1,0 +1,4 @@
+cassandra missing column query results 
+heres strange cassandra table call test columns queried driver simple select test uuid foo works locally columns returned production environment column dropped data demonstrates column written looked columndefinitions row object column question workable theory 
+
+select preparedstatement reprepare statement schema columns added removed cassandra doesnt update prepared statement cache schema change work previous versions href http stackoverflow questions cassandra nodejs datastax driver dont return newly added columns prepared cassandra nodejs datastax driver don return newly added columns prepared statement execution 

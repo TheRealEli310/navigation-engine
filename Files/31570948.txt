@@ -1,0 +1,4 @@
+class excluded lombok tostring 
+href https projectlombok org index html rel nofollow project lomboks class annotation automatically generate method class annotates class invoking generated method produce output nbsp optional elements annotation include exclude specific fields br h3 nbsp lombok exclude class output h3 
+
+href https github rzwitserloot lombok blob master src core lombok tostring rel nofollow annotation option 

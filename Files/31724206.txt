@@ -1,0 +1,4 @@
+fileinputstream exhibits behaviour windows linux 
+strange issue writing unit tests cross platform applications specifically fileinputstream test originally written windows passed works perfectly windows fails ubuntu em inputstream em returns eof reassign em inputstream em close em outputstream em works fine ubuntu windows guess file systems windows ubuntu hoping elaborate fileutils class custom works correctly checked file written oss manually 
+
+windows file opened deleted directory fileoutputstream truncate file delete replace unix file lives independently directory structure open read written longer appears directory means fileoutputstream delete file create existing inode difference file truncated replaced linux file replaced open windows 

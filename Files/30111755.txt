@@ -1,0 +1,4 @@
+resourcebundle getbundle undeterministic 
+strange situation happening ee app running websphere application start resourcebundle getbundle config propfile properties read someproperty war web inf classes config propfile properties app running resourcebundle getbundle config propfile properties read someproperty somejar jar config propfile properties happening values someproperty file error due incorrect somejar jar config propfile properties ee spec web inf classes loaded replicate problem lower environments 
+
+call class ejb module access module class loader download ee spec link spec javaee standard href http download oracle otndocs jcp javaee fr eval oth jspec rel nofollow http download oracle otndocs jcp javaee fr eval oth jspec version relevant section ee 

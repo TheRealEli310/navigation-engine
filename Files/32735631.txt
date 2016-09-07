@@ -1,0 +1,4 @@
+rxjava hashmap transformation 
+supposing data structure objecta final goal return string original string string transformations accomplish list observable single items end join tolist map perform iteration maps rxjava appreciated edit observable create normal answer states rx operators observable flatmap tolist transforming lists 
+
+code 

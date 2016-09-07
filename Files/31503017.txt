@@ -1,0 +1,4 @@
+apache storm track tuples unique id source spout final bolt 
+method uniquely identifying tuples storm topology tuple tracked spout final bolt understand passing unique message id emit spout id returned acked spout simulated earlier back passed id point message id tuple returns messageid passed spout generated tuple reference href https groups google forum topic storm user xbeqmda rzs rel nofollow https groups google forum topic storm user xbeqmda rzs strong questions strong tuple getmessageid collector emits tuple alternatively passed messageid spout tuple spout bolt toplogy strong end solution strong set id tuple emitted identify tuple point storm topology unique messageid system track passed field output spout bolt 
+
+access system generated ids producer consumer order track tuples idea add id regular field tuple copy bolt output tuple 

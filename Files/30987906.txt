@@ -1,0 +1,4 @@
+resultset csv 
+opencsv library dump oracle data csv file code executing code csv file created content file result set prints column console advance 
+
+couple things ol li put writer close end block li li make result set empty li li doesnt work comment sytem println part rs beforefirst part li li thing steps failed replace result set constructor give works means result set problems li ol 

@@ -1,0 +1,4 @@
+string numbers spaces symbols 
+string allowed numbers spaces symbols test 
+
+code checks string matches regular expression pattern amount digits spaces allowed symbols empty strings change 

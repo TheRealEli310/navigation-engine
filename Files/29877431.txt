@@ -1,0 +1,4 @@
+board game implementation 
+allowed kind question create board game stuck implementation generating valid moves piece extract class diagram img src http stack imgur mbisp jpg alt class diagram board game chess location pieces generating valid moves problem idea check class diagram wrong check board time check square helping 
+
+piece decide valid moves aware capable moving responsible sort logic board manage allowed takes piece returns moves turn returns valid moves class exposes method returns list positions reach board class method takes piece returns valid moves 

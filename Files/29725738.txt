@@ -1,0 +1,4 @@
+android studio create action bar 
+completely android developement day touched android studio silly question implementing taking app main view activity original code mainactivity activity main xml makes action bar disappear inherit mainactivity actionbaractivity doesnt support inheritance make action bar 
+
+put listview inside actionbaractivity change back change layout container listview relativelayout change call youre setting adapter activity longer inheriting listactivity doesnt method reference listview call generic ambiguous list listview id hope helps 

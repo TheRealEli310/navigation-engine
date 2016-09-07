@@ -1,0 +1,4 @@
+multiple jdbc files eclipse project 
+project sqlitedb mariadb imported jdbc driver files jar eclipse project img src http stack imgur 8g8ru png alt enter image description error code error message registered jdbc driver strong org sqlite jdbc strong dont log message org strong mariadb strong jdbc driver connect mariadb jdbc file jar removed program successfully executed 
+
+found solution jdbc mechanism manually loading classes longer explicitly load jdbc driver removed lines code removing lines program automatically found jdbc driver worked 

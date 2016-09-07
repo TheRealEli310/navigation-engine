@@ -1,0 +1,4 @@
+minimising number bridges graph 
+solve problem basically reduces br give set strong strong nodes numbered strong strong edges strong lt strong strong lt strong br find strong edge strong added graph strong minimizes number bridges graph strong br edges print strong lowest lexicographical strong br em efficient em approach problem 
+
+problem hard outline solution find bridges graph imagine bridges edges graph bridges join nodes bridges big nodes tree edges bridges nodes big nodes combine nodes previous graph lets call forest graph connecting nodes graph creates cycle edge cycle bridge point implies solution found creating longest cycle simply finding nodes longest distance find nodes longest distance graph discussed href http stackoverflow questions linear time algorithm finding longest distance nodes linear time algorithm finding longest distance nodes free tree point explanation 

@@ -1,0 +1,4 @@
+override isempty method jsonserializer specific class overriding serialize method 
+add custom behaviour strong isempty strong method extends override serialize method abstract leave serialize method override isempty method 
+
+order modify behavior maintain default serialization advantage strong serializer modifier strong implement custom serializer utilize default serialization pretty cleanly h2 create custom serializer default serializer injected h2 inject variable custom serializer class serializer implement modifier class override method accomplish null considered empty jackson h2 create custom h2 extend override method inside method filter class type operate return custom serializer h2 register modifier h2 registering modifier serializer trigger anytime condition met 

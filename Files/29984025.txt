@@ -1,0 +1,4 @@
+focus item container 
+programmatically focus focusable node container directly calling specific components href https docs oracle javase javafx api javafx scene node html requestfocus rel nofollow method functionality similar pressing tab button traverse focus components href https docs oracle javase javafx api javafx scene node html setdisable boolean rel nofollow nodes skipped 
+
+public method em hacks workarounds em nodes method deprecated strong removed strong time code breaks version alternatively catch enter key fire tab key event equally ugly textfield discouraged isnt api youd reflection access scenes traverse method youd end provide direction parameter discouraged thing href https bugs openjdk net browse jdk rel nofollow comment vote issue 

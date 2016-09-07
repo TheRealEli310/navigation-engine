@@ -1,0 +1,4 @@
+issue reading french word text file android 
+read french file contents character character checking ascii operation works fine english alphabet character facing issue file content fran ais output fran ais attaching code guide fix issue read french char text file advice greatly appreciated advance 
+
+encoding suggest apache commons io library line code read lines file process loop add 

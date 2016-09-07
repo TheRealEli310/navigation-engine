@@ -1,0 +1,4 @@
+avoiding static methods variables class file handles config properties 
+working simple application created class called config order handle application properties avoiding hard coding config class static class creating instance config class class called serial main method located class called app classes total ul li app li li serial em instance config class located private variable em li li config li ul stage fine flaws oop design create class call methods config class approach order strong instance config strong class ol li changing methods config class public static li li creating getters setters config instance located serial class li ol options techniques order reach goal suggestions highly appreciated 
+
+sounds job dependency injection sounds youre creating creating pass class pass object call methods defined avoid static 

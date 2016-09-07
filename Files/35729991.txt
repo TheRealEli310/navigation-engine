@@ -1,0 +1,4 @@
+
+table latin1 rest utf8 encounter problem call resultset strong make work changing table connection charset strong lot update connection string exact stack trace 
+
+side give suggestions ol li update connector latest version li li run query li ol blockquote blockquote ol start li add jdbc connect string hope li li query details href http dev mysql doc refman en charset convert html rel nofollow http dev mysql doc refman en charset convert html li li strong illegal mix collations strong related issue follow href http stackoverflow questions troubleshooting illegal mix collations error mysql troubleshooting quot illegal mix collations quot error mysql li ol 

@@ -1,0 +1,4 @@
+nlp error tokenization tagging 
+identify tokens partsofspeech tagging stanford nlp jar file added required jar files build path project error 
+
+youre stanford nlp tools version version earlier upgrade downgrade stanford tools version 

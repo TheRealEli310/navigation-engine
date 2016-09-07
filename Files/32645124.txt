@@ -1,0 +1,4 @@
+find arrayadapter listview empty filtered 
+check filtered listview empty textview results found empty list items filter based search lets filter left return results empty return everytime call adapter getcount returns filtered edit code testing statement code 
+
+line called ui thread adapter idea data strong update strong suggest filterlistener 

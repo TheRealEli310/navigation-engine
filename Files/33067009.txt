@@ -1,0 +1,4 @@
+make textarea inputstream run shell command interactive mode jsch 
+jsch run shell command make interactive textarea display output script script requires user inputs strong make textarea accept user input run commands strong 
+
+approach blockingqueue pass data jtextfields actionlistener custominputstream 

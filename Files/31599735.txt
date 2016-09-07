@@ -1,0 +1,4 @@
+restygwt jersey error sending null empty list 
+jersey resource similar restygwt service consumes thing access resource service list isnt null empty internal server error doesnt server code debug test method logic list null empty resources logic debug problems contents jsonrepresentation dont matter problem idea happening couldnt find similar questions appreciated 
+
+figured error happened avoid thing problem json representation defined private variables getters setters sets instances json representations string primitive variables thing reason id variable type json representation set private error set variable public worked fine odd part collections json representation classes work fine private variables primitives string date work fine 

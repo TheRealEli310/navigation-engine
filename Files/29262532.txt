@@ -1,0 +1,4 @@
+streaming multipart jersey 
+jersey rest code stream single file works great wanting stream multipart file large file json code work error running javax ws rs badrequestexception http bad request stream multipart similar manner main problem file multipart coming stream 
+
+properly stream multipart ended strong pipedinputstream strong strong pipedoutputstream strong thread 

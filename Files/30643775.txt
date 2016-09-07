@@ -1,0 +1,4 @@
+jpa truncates nanoseconds date criteria sql datetime2 
+create clause involving sql server datetime2 field accurate nanoseconds jpa amp hibernate code sql server profiler reveals timestamp parameter truncated weird rounding needles inaccuracies result set manually change param full good question jpa em em truncate date alternatively inject parameter serializer timestamp fields appreciated strong update strong tracked jtds jdbc code timestamp forced type supports milliseconds 
+
+workaround make problem stated question update jtds drivers support datetime2 parameters simply shifted microsoft drivers problem solved workaround ideas ul li embed convert function call wrapping parameter literal send timestamp string li li fix jtds code jdbc supports nanos li ul 

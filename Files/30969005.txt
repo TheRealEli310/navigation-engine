@@ -1,0 +1,4 @@
+android suitable constructor found headeritem int string null 
+bigginer android create app mobile tv build project error strong error error suitable constructor found headeritem int string constructor headeritem headeritem string applicable actual formal argument lists differ length constructor headeritem headeritem long string applicable actual formal argument lists differ length strong mainfragment code 
+
+public constructor takes strong strong argument strong strong arguments remove argument refer android developers documentation href https developer android reference android support v17 leanback widget headeritem html rel nofollow 

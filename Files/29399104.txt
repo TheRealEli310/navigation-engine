@@ -1,0 +1,4 @@
+android create object reflection pass constructor parameter 
+button reflection android code main problem pass context case object view 
+
+method convenience method invoke arg constructor invoke constructor arguments obtain instance reflection href https developer android reference lang class html getconstructor 28java lang class 3c 3e rel nofollow call href https developer android reference lang reflect constructor html newinstance lang object rel nofollow 

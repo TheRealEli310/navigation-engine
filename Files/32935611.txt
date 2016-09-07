@@ -1,0 +1,4 @@
+junit executing test 
+running junit tests test spring boot application method bunch methods actual tests methods execute test executing tests tests annotation 
+
+normal behaviour href http junit sourceforge net javadoc org junit html href http junit sourceforge net javadoc org junit html quoting documentation blockquote annotating public void method method run method blockquote run method tests href http junit sourceforge net javadoc org junit beforeclass html href http junit sourceforge net javadoc org junit afterclass html quoting documentation blockquote annotating public static void arg method run test methods class blockquote 

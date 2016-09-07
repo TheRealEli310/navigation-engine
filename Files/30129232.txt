@@ -1,0 +1,4 @@
+check linked list palindrome 
+wrote code check singly linked list palindrome made steps 1st reverse original linked list 2nd check original reversed linked list element program works thought execute reverse method original linked lists head passed original linked list changed ispalindrome return true misunderstood concept main function code 
+
+method em em working list return list passed good idea assuming wrote proper method run method youll surprised find item passing object reference passing pointer languages change content object ultimately put stays changed program return item list full reversed list points item loop strong items strong youll list palindrome iterate item pointing 

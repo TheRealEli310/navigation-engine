@@ -1,0 +1,4 @@
+mdb ejb project maven depends web project 
+existing web project requirement add mdb ejb project ejb project maven depends web project moment start classes web project mdb compiles fine great bombs runtime noclassdeffounderror web pom xml added configuration secstion ejb pom make ejb find classes inside web project allowed edit web project 
+
+basically default servers module classloaders web module depend ejb recommended options ul li ee compliant server add ejbs directly web module requires web project li li extract common classes web project create utility project add project ear make web ejb project depend web depend ejb requires web li li configure single classloader application server solve issues li ul summarize id recommend edit web project solutions solution work 

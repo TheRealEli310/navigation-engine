@@ -1,0 +1,4 @@
+creating local repository jgit fails bare repository working tree 
+attempting jgit create local bare repository create directory create object directory research shows supposed create local bare repository line throws exception message expect created referenced bare repository add files error appears line creates repository making bare repository documentation create method create git repository repository working tree created method verified directory created successfully pre class lang prettyprint override 
+
+documentation belongs internal package access discouraged create repositories creates bare repository default working directory holds git object database sake completeness call bare repository created object database located 

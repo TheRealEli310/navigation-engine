@@ -1,0 +1,4 @@
+lifecycleobservable click event background 
+changed href https github reactivex rxandroid blob sample app src main rx android samples lifecycleobservableactivity rel nofollow rxandroid bit execute click task background doesnt work code run log func1 runs background subscription unsubscribed unsubscribes func1 runs ui thread change func1 runs background subscription unsubscribe 
+
+bind task activity lifecycle change log 

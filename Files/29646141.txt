@@ -1,0 +1,4 @@
+reverse row 2d array 
+create reverse array 2d array row original array reversed reversing columns meaning input array blockquote br br br blockquote desired output blockquote br br br blockquote problem output completely wrong code 
+
+blockquote print reverse row array blockquote problem loops reversing columns rows results degree rotation array reverse content row means reverse order columns handled hr btw dont loop rows columns reverse order simple forward loop trick readable 

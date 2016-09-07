@@ -1,0 +1,4 @@
+spring multiple property placeholder spel order independent 
+xml config files issue order import statements config files effect spel config files strong config xml strong strong config xml strong import properly set map set visual strong spring dispatcher servlet xml strong make order independent 
+
+easiest suspect recommended approach based configuration configuration define bean annotations load property files configuration classes loaded property files replacement happen 

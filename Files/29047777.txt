@@ -1,0 +1,4 @@
+android shared preferences separate class 
+save data shared preferences android separate class task implemented class error solve br 
+
+method case simple fix context keeping member variable retrieve alternative approach avoid keeping context member variable linking shared preferences instance class static method address method dont instantiate savepref time call avoid store reference 

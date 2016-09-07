@@ -1,0 +1,4 @@
+make flat json gson 
+make flat json class suppose class chance make json dont deserialize json send ws 
+
+option write custom serializer control json scheme send register outputs 

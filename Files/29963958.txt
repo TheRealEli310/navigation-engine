@@ -1,0 +1,4 @@
+vaadin ui datefield time section editable toggling read 
+form datefield toggle read mode read edit mode field initially read switch read time section calendar isnt editable displayed correctly field initially read toggling read read works es expected problem field initially read missing bug vaadin vaadin spring boot starter beta2 
+
+reported bug find vaadin trac bug reporting system href https dev vaadin ticket rel nofollow issue blockquote strong readonly date field resolution minute made editable properly strong datefield resolution minute created read state changed runtime hour minute fields edited rendered read date field created read state changed runtime bug doesnt exist version related issue blockquote 

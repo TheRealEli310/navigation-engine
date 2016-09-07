@@ -1,0 +1,4 @@
+maven resource filtering replacing property 
+heres properties file heres pom xml file heres directory structure open file contents isnt property properly replaced 
+
+issue maven href https jira codehaus org browse massembly rel nofollow simplest workaround redefine property pom generate error ide eclpise working maven build alternatively redefine property avoid ide warnings 

@@ -1,0 +1,4 @@
+coverting string localtime nanoofseconds 
+convert string localtime joda maynot nanoofseconds string string format form string decimal place seconds number characters represent nano seconds part datetimeforamtter statement distinguish formats works fine varying number positions decimal point sample data set formatter parse number digits decimal throwing number decimal places unknown hoping missing simple 
+
+special parse format handles optional nanoseconds parse fine href http docs oracle javase docs api time localtime html parse lang charsequence rel nofollow javadoc href http docs oracle javase docs api time format datetimeformatter html iso local time rel nofollow spec 

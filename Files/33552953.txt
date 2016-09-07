@@ -1,0 +1,4 @@
+reset variable loop 
+writing number guessing game computer science class part print number attempts player takes guessing target number defined variable track program increments time player makes guess game restarts player guesses number correctly point reset counter figure program increments time number guessed 
+
+h2 change scope variable h2 variables scope defined means time loop performs iteration variable newly created good practice define variables scope meaning case loop h2 assign variable time anew h2 reset variable time result design 

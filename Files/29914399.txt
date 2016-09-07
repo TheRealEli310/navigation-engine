@@ -1,0 +1,4 @@
+netbeans input parameters 
+development netbeans issue supplying input parameters netbeans build project run jar cmd works fine dont supply parameters ide mimimum exemple testing everythime run code netbeans geting followin output console 
+
+hey set input parametere left click project netbeans select propprties run add arguments screenshoot arguments img src http stack imgur f4dh4 png alt enter image description 

@@ -1,0 +1,4 @@
+spring websocket integrates spring mvc application 
+ol li write simple web application based create class communicate server ul li strong websocketendpoint strong li li strong handshakeinterceptor strong li li strong xml configure websocket handler interceptor strong websocketconfig xml li ul li li strong add websocketconfig xml spring application context strong ul li strong web xml strong li ul li li strong adding websocketconfig xml spring application context strong ul li terminal application li li li li strong dispatcher servlet xml strong li li strong helloworldcontroller strong li li li ul li ol miss 
+
+youre missing file spring scanned controller beans spring mvc register mappings 

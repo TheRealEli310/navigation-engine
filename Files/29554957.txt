@@ -1,0 +1,4 @@
+classnotfoundexception compiling jrxml maven 
+jrxml object application strong strong ireport added em target classes em directory classpath everythink compile jrxml maven mvn clean install error build fail maven compile classe target classes dont undestand maven find enumone enumtwo test2dto find pom xml jasper 
+
+found solution maven dependency jasperreports maven plugin version strong beta strong upgraded dependency strong beta strong works 

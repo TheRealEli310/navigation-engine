@@ -1,0 +1,3 @@
+create program display multiples number 
+write main method program user enter integers integer output enter numbers output positive multiples separated spaces close figure display multiples heres sample run enter enter multiples 
+

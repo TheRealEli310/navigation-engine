@@ -1,0 +1,4 @@
+observable empty util nosuchelementexception sequence elements 
+retrofit beta2 rxjava handle errors execute code dofinally http response error app crashes classes stack trace bad heres full stack trace br anton 
+
+stack trace equates convenience operator suspect require element creating observable elements violates contract downstream operators emit default item observable change downstream code support streams elements 

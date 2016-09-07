@@ -1,0 +1,4 @@
+android getsupportedpreviewsizes camera returns sizes 
+android camera api build camera app set preview size camera read supposed call camera objects parameter object obtain list supported size problem list sizes 640x480 352x288 320x240 android studio built emulator emulating nexus give sizes suspect restriction emulator occuring 
+
+preview size rarely match size surface rendering previews scale previews fill space views job size surface big maintaining aspect ratio previews scaling stretch squash image href https github google grafika blob master src android grafika aspectframelayout rel nofollow grafikas possibly href https github commonsguy cwac layouts usage aspectlockedframelayout rel nofollow ways achieving subclassing overriding 

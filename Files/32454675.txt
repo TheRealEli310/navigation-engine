@@ -1,0 +1,4 @@
+fields put rest api spring 
+rest api endpoint users post endpoint data item created send put request update item allowed change spring practice situation 
+
+creator designer api document options ol li simply ignore immutable fields quietly updating rest fields backend li li compare received fields existing return http code immutable fields modified li li totally put request structure dont accept requests deserializable fields case fields fields delegate validation json mapping library li ol solution choose important part document api 

@@ -1,0 +1,4 @@
+create zookeeper node exist root 
+intend create zookeeper node create curator client initially retrieve zookeeper object create nodes fail create modes result creating client code create zookeeper node doesnt exist root 
+
+solved problem piece code worked perfect 

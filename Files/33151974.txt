@@ -1,0 +1,4 @@
+jackson serialization nested objects 
+problem jackson serialization object interface class implements class implements class serialize container jackson result strong em map id mapid point id pointid em strong fact result strong em map id mapid point id pointid pointname em strong property nested object point serializition type point map jsonserialize pointview class interface pointview dont method getname result exists field point remove annotation jsonserialize mapview class method getmap class container result strong em map id mapid mapname point id pointid em strong point dont property map result strong em map id mapid point id pointid em strong 
+
+desired result method interface annotated 

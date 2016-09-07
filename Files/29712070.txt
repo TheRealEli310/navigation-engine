@@ -1,0 +1,4 @@
+reading strings blank line reading 
+writing program reads lines file scanner blank line process lines stored string array list skip line file sees blank line process lines file fully read wrap head program works set lines reaches blank line doesnt progress processing code loop finished 
+
+heres problem exit loop make function called call assuming 

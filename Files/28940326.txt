@@ -1,0 +1,4 @@
+include css files javafx project gradle assemble 
+javafx project including css files directly main src gradle script build fat jar include css files running jar ends npe gradle script runnable jar file gradle explicitly include css files work wrong 
+
+change resource files resource directory 

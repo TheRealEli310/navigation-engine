@@ -1,0 +1,4 @@
+run local heroku 
+heroku started trouble running app locally href https devcenter heroku articles started run app locally rel nofollow https devcenter heroku articles started run app locally href https devcenter heroku articles started define procfile rel nofollow https devcenter heroku articles started define procfile run starting web port open localhost webpage output cli information update ran command realized procfile line targetdependency made mvn clean install typing wrong 
+
+lot compatibility didnt mention lot running gitbash taking differently escape semicolon cp argument short story procfile windows quotes leaving case issues 

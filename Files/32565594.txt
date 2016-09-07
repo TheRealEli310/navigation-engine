@@ -1,0 +1,4 @@
+print model params apache spark pipeline 
+pipeline api apache spark framework validation parameters building trainvalidationsplitmodel question extract print params trained model 
+
+finally spark prints metrics training error log level spark havent added level info class trainvalidationsplit log4j properties file 

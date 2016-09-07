@@ -1,0 +1,4 @@
+problems running javafx application 7u80 
+netbeans mac creating simple javafx application project wizard set platform works fine run 7u80 lang noclassdeffounderror javafx application application behavior running ide command line compiles fine platform javafx classpath platforms installed target application run simply call day 
+
+turns ran bug netbeans ide href https netbeans org bugzilla show bug cgi id rel nofollow https netbeans org bugzilla show bug cgi id sounds path settings causing ide ant script builds platform accident changed platform netbeans jdk builds fine runs javafx app jdk 7u80 

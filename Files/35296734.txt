@@ -1,0 +1,4 @@
+horrendous performance large heap footprint constructor reference 
+unpleasant experience production environment causing traced issue function verify performing worse normal creation declared constructor wrote small method running method method fail index hits 30k program fail pounding killed index easily reaches milion create elements heap fast collection type 
+
+case href https docs oracle javase docs api util arraylist html arraylist int constructor takes initial capacity argument case large initial capacity code large allocated resulting constructors current implementations similar array allocated called 

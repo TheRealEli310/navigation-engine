@@ -1,0 +1,4 @@
+spring boot making common library 
+develop common mail service systems design develop producer consumer consumer side develop deploy application producer side give common mail client interface make jar dependency system spring boot spring cloud declarative method application class class reference deploy implement 
+
+href http projects spring io spring boot rel nofollow documentation blockquote spring boot makes easy create strong stand strong strong production grade strong spring based strong applications strong run blockquote spring boot silver bullet matches situations create library create regular spring project builds jar stores companys repository 

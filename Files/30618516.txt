@@ -1,0 +1,4 @@
+problems compiling spark project eclipse 
+configured href http spark apache org documentation html rel nofollow spark website launch simple spark app strong em reads counts lines file shows numbers file em strong run application strong em lot errors em strong dont understand whats wrong strong em project structure em strong strong em pom xml em strong strong em app em strong errors shown figure advance 
+
+comments summarize answer ul li component configured follow properly cloudera tutorial steps li li app connect spark spark service installed system li li tutorial install spark standalone windows environment searching stackoverflow found href http stackoverflow questions set spark windows question equal li ul short question duplicate hope answer 

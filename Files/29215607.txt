@@ -1,0 +1,4 @@
+weka stringtowordvector filter implementation 
+started weka gui application learn build text classifier successfully built saved model gui implement classifier code strong set stopwords tokenizer settings stringtowordvector filter code gui strong screenshot img src http stack imgur 4iqii png alt enter image description em stopwords handler set null em aware load model created saved gui code implement filter code href http stackoverflow questions results weka gui weka code results weka gui weka code part changing path doesnt work find documentation topic appreciated em weka version em 
+
+set configuration gui copy configuration clipboard option context menu img src http stack imgur zxrgm png alt copy config clipboard 

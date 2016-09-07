@@ -1,0 +1,4 @@
+jersy rest service accept util map mediatype application json 
+written jersey rest service accepts input ui post response structure server issue fix issue 
+
+change put map object wrapper class class mapwrapper private map data jersey client send json string object map 

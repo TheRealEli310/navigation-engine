@@ -1,0 +1,4 @@
+autocompletetextview parse android 
+android general looked documentation running code realize stretch steps respect implementing autocomplete function based parseuser table text changed character time wouldnt populate users array parse query displaying users attempted search logically arrange thing begin id include provide background task querying searching users users app 
+
+work static sense prints users user class add constraint matches letters autocompletetextview usernames 

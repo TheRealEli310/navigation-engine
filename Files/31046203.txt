@@ -1,0 +1,4 @@
+add multiple set cookie header servlet response 
+rfc href http tools ietf org html rfc6265 page rel nofollow http tools ietf org html rfc6265 page allowed headers key set cookie provided rfc achieve jetty servlet container call httpservletresponse addheader addheader doesnt add header javadoc method blockquote adds response header method response headers multiple values blockquote multiple values allowed multiple set cookie servlet response 
+
+setting cookies directly bit awkward servlet api methods specifically working cookies tested jetty v20150612 works expected strong setcookietest strong pre class lang prettyprint override strong console output strong pre class lang prettyprint override 

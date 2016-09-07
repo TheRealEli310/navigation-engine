@@ -1,0 +1,4 @@
+jersey jackson customising response json 
+jersey implement rest api jackson provide json support resource entities deeply nested flatten sending provide support filtering based query params returns user resource return user resource fields included approach subclass flattens hierarchy handle parameter based filtering independent request response cycle google search pointed href https jersey net apidocs jersey javax ws rs ext messagebodywriter html writeto 20java lang class 20java lang reflect type 20java lang annotation annotation 20javax ws rs core mediatype 20javax ws rs core multivaluedmap 20java io outputstream rel nofollow writeto method handles serializing doesnt parameter access request query params confused access params method ideas 
+
+blockquote confused access params method blockquote inject href https jsr311 net nonav javadoc javax ws rs core uriinfo html rel nofollow call params option preconfigured scenarios inject href http stackoverflow 

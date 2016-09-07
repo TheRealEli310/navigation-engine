@@ -1,0 +1,4 @@
+make fxml generated buttons work 
+writing program school project javafx designing ui scenebuilder generating fxml question connect buttons sliders whatnot code coding buttons xcode fxml source helps give edit clarify fxml file controller class constructor class connect controller class 
+
+controller class defined link fxml file scenebuilder expand controller titled pane bottom left type fully qualified controller class handler method button select button expand code titled pane bottom pane panel add method action handler action field img src http stack imgur rtw1u png alt enter image description scenebuilder add attribute root element fxml fully qualified class button add element method execute button pressed method single parameter type parameters 

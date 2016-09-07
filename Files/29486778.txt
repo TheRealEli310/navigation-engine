@@ -1,0 +1,4 @@
+parse elasticsearch output jackson 
+id parse field elasticsearch output heres mine list values dont parse single node isnt edit reach field doesnt working strong lov class strong error elasticsearch output 
+
+found solution mapping good insertion correctly insert multiple documents href http www elastic guide en elasticsearch guide master bulk html rel nofollow bulk api mapping insert data command strong data json strong blockquote mget retrieve multiple documents bulk api make multiple create index update delete requests single step blockquote insert data choose action strong request action strong forget blockquote ol li line end newline character including line markers efficient line separation li li lines unescaped newline characters interfere parsing means json pretty printed li ol blockquote 

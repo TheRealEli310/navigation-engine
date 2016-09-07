@@ -1,0 +1,4 @@
+replace getdate type date deprecated 
+existing program correct lines strong getdate strong type strong date strong deprecated change strong calender strong results error blockquote type mismatch convert date int blockquote 
+
+day month day week careful day week day sunday monday blockquote field number set indicating day week field takes values sunday monday tuesday wednesday thursday friday saturday blockquote 

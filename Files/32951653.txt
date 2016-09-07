@@ -1,0 +1,4 @@
+javafx swingnode exceptionininitializererror 
+starting javafx application swing code embedded webstart error occurs code mainapp tested windows update security level high jars application signed valid certificate application started standalone application starts exceptions set permissions jnlp file permissions j2ee application client permissions denies start application due security issues adding sun packages rt jar jdk effect issue jnlp file 
+
+problem permissionexception accessclassinpackage sun swing signifies webstart allowed package sun swing remove usages classes package sun swing order working 

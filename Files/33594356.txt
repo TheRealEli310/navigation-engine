@@ -1,0 +1,4 @@
+spring boot gradle failed task test 
+installation spring boot gradle manage dependencies error displayed error started occurring add spring framework jdbc dependency build gradle file remove jdbc dependency test magically starts build errors error trace struggling crack issue driving wall dependency doesnt cooperate reason ideas whatsoever 
+
+adding jdbc jar spring boot start additional configuration requires jars case include jdbc starter ensure dependencies auto configuration replace version spring boot 

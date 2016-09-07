@@ -1,0 +1,4 @@
+alternative observer pattern 
+object oriented lecture university encountered strange observer pattern differs online seperating observable observer objects big object combines additionally superobject method returns observer handle lecturer told implementing pattern solve architectural issue update method explode extend intention issue source learn alternative observer pattern find article pattern point lecturer dont fully understand patttern benefits compress classes elaborate architecture benefit code simply extract logic update method utility class class built deleted unnecessary logic 
+
+dont differs traditional observer pattern observable object observer object observable method add observers calls back added observers objects created creates irrelevant observer pattern lines make sense create client immediately throw reassign client returned server connect variable simply 

@@ -1,0 +1,4 @@
+maven failed execute goal org codehaus mojo sonar maven plugin sonar 
+error executing version error 
+
+issue resolved combination sonar eclipse luna sr2 maven eclipse plugin download eclipse org technology m2e releases recent version eclipse allowed install m2e recent sonar version allowed execute sonar plugin proxy error 

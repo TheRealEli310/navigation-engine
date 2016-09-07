@@ -1,0 +1,4 @@
+error booting org springframework beans factory beancreationexception error creating bean 
+newbie spring hibernate deploy application spring boot app exception applicationcontext xml persistence xml pom 
+
+problem applicationcontext xml loaded enable auto configuration kicks initialize embeded database import configuration file class configuration 

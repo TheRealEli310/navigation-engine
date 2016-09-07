@@ -1,0 +1,4 @@
+detect hardware device plugged unplugged pc usb port 
+current effort hidapi jar getrawinputdevicelist hidapi jar aborted app reason getrawinputdevicelist isnt stable win10 referring href http stackoverflow questions getrawinputdevicelist getrawinputdeviceinfo fail work win10 getrawinputdevicelist getrawinputdeviceinfo fail work win10 method reach goal os windows programming language limited 
+
+strong setupdigetdeviceinstanceid strong monitor details pls refer href https msdn microsoft en library windows hardware ff551106 aspx rel nofollow https msdn microsoft en library windows hardware ff551106 aspx 

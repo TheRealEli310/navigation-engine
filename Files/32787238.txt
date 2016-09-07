@@ -1,0 +1,4 @@
+return multiple arrays loop inside tostring class 
+program basically user input social security numbers verifies input proper format xxx xx xxxx adds verified input arrays list final step create tostring method return human readable string representation social security numbers added array method loop print social security number entry line social security numbers entered br br br 
+
+declare concatenate ssnumbers method return string representation class 

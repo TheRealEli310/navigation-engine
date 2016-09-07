@@ -1,0 +1,4 @@
+log fatal custom log level slf4j log4j2 
+specific strong requirements strong ul li log strong em fatal em strong level li li strong em slf4j em strong li li strong em log4j2 em strong li ul heres strong implementation strong heres strong patternlayout strong em yaml em heres strong log output strong idea efficiently remove error log output 
+
+heres closest working solution colleagues ol li create em fatal em marker class strong slf4j strong markers li li href http logging apache org log4j manual appenders html routingappender rel nofollow routingappender em marker em routing pattern strong marker strong li li configure em fatal specific em appender patternlayout doesnt include loglevel hardcoded fatal level li ol heres strong strong sample heres strong yaml strong sample 

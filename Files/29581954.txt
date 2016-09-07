@@ -1,0 +1,4 @@
+email queue implementation 
+db columns implement system access db processed send mail strong fakesmtp testing strong set processed works fine add threading problem speed procedure deployed server case ensure mail made faster 
+
+solution problem ol li server unique id li li add server id default table li li server intends send mail run query li li processed select row expected concurrency issue occurred process li li records processing started null processed li ol 

@@ -1,0 +1,4 @@
+boolean flag wait notifyall mutex 
+long running runnable performs large number iterations inside loop run function functionality pause resume runnable implemented volatile boolean set thread runnable detected calls pause execution resuming setting calling acts flag mutex combined functionality work runnable blocking indefinitely create separate mutex boolean flag runnable em em behave intended working code shown found solution separate object id understand issue doesnt implementation work 
+
+made mistake works em object em em reference em change object referred referring strong original strong object pointed comments boolean objects making harder debug correct chance reference underlying object wait notify 

@@ -1,0 +1,4 @@
+simple add data columns javafx tableview 
+insert separate datasets columns javafx tableview basically linkedlists strings put list column easiest javafx element solutions found based collections inserted rows advice 
+
+strongly recommend reorganizing data class properties element list element list make list objects class reduced usual case suppose define define columns usual make data transformation reason regard type table integer row index lists populate table values size lists 

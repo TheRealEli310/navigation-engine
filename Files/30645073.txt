@@ -1,0 +1,4 @@
+resources notfoundexception calling robolectric buildactivity 
+robolectric rc3 unit testing android studio time run test resolve issue strong build gradle strong strong test class strong resource points xml id stack trace strong mainactivity strong strong mainactivitytest strong 
+
+test class annotated correctly correct path manifest file works removing config annotation resourcesnotfound exception mentioned 

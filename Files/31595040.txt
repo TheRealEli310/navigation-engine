@@ -1,0 +1,4 @@
+binding observable list size property javafx 
+bind observable lists size size multiple values 
+
+bound bindings class 

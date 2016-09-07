@@ -1,0 +1,4 @@
+error main boot springapplication application startup failed 
+gradle springbootversion release build successful jar deployment successful logs gradle file controller security config repository application properties main understand happening 
+
+youve mixture hibernate versions classpath result set dependencies depends final turn depends youve overridden version youve mixed final simplest solution replace dependency dependencies id recommend things step spring boots gradle plugin dependency management party libraries means dont version declare dependency advantage remove dependencies pulled transitively simplify override spring boots default hibernate version final 

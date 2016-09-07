@@ -1,0 +1,4 @@
+lang nullpointerexception expandablelistadapter getchildrencount expandablelistadapter 
+creating dynamic expandablelistview android file paths getfiles method calling parser xml dom parser brings parsed data files paths fixed file path create expandable list view file path string parsed data childs puting code dont problem logcat shows null pointer exception getgroupcount adapter activity activity dont creating groups code expandable list adapter remove null pointer exception creating correct groups giving null getchildrencount dont resolve stage headers created dynamically puting data child show header expanded returning children count problem persists parsexml adding data child setting child data respectable headers appreciated 
+
+replace getfiles method doesnt find files list null 

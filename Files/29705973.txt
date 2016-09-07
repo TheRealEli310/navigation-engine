@@ -1,0 +1,4 @@
+append comma stringbuilder 
+small problem code works sends output longitude latitude simply comma space separate textview line separator comma space ideas code 
+
+line separator latitude put line add comma append catch block failure 

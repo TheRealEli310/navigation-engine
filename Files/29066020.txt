@@ -1,0 +1,4 @@
+countdownlatch object wait inside recursive block hangs 
+strong problem strong retrieve values inside recursive block phased manner execution hung strong description strong amp achieve phased manner access inside recursive block program hangs output strong program strong strong analysis strong initial analysis wait happening recursively eventhough invoked main program strong strong free lock didnt effect someones understanding happening program 
+
+main message jcip id wrongly avoid directly strictly reconsider methods case elegantly work hr original approach doesnt work main thread sets immediately back thread check stick bit sleep proceeds point hangs hangs end terminating wait thread change state poor approach makes program slow synchronization utilities leads faster easier reason program 

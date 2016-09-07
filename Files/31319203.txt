@@ -1,0 +1,4 @@
+bufferedreader stream line 
+working bufferedreader text file similar lines listed text file line sample remove end line char join line field line line store array print join lines found end 1st line assign element lines line separated delimiter fields call print remove unwanted characters found end line combined line store array line array equal combined line generated char found end line bufferedreader class 
+
+read text file concatenate lines end line important notes assumes input correct character character line sanitize input true line file end backslash 

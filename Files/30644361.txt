@@ -1,0 +1,4 @@
+apache spark map reduce explanation 
+wondering works snippet text blockquote ut quis pretium tellus fusce quis suscipit ipsum morbi viverra elit ut malesuada pellentesque fusce eu quis urna lobortis finibus integer aliquam faucibus neque id cursus nulla massa odio fusce pretium felis felis malesuada felis blandit nec praesent ligula enim gravida sit amet scelerisque eget porta mi aenean vitae maximus tortor ac facilisis orci blockquote snippet code count occurences words text simple understand line creates dataset words splitted space line tuple blockquote ut br quis blockquote confused works count occurences words advance 
+
+groups tuples key argument tuple makes reduce group 

@@ -1,0 +1,4 @@
+viewresolver folders inside web inf jsp working spring 
+create subfolders jsp instance web inf jsp reports web inf jsp insertions configure viewresolver resolve folders 
+
+jsp controller return 

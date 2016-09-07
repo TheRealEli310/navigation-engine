@@ -1,0 +1,4 @@
+pre select radiobutton checkbox group playframework 
+construct simple form play framework created radiobutton group works fine pre select radiobutton find documentation href https www playframework documentation api scala index html views html helper inputradiogroup rel nofollow documentation radiobuttons problem exists checkboxes href https www playframework documentation api scala index html views html helper inputcheckboxgroup rel nofollow documentation checkboxes ideas 
+
+passing form object view rendering form object filled instance selected field strong geschlecht strong controller code index scala html options map select entry key field geschlecht 

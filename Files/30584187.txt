@@ -1,0 +1,4 @@
+white spaces text file 
+remove white spaces text file approach doesnt working white spaces print line loop method class 
+
+replace spaces file write file reading youll add line inside loop youll store lines suggest stringbuilder adding read builder run replaceall youll write final text text file suggest printstream 

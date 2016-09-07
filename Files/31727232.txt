@@ -1,0 +1,4 @@
+running jersey rest api container jar 
+tomcat backend rest api frontend starting tomcat holds backend project access backend rest api http requests thought rid tomcat deploy jar file war file run locally main method href https yajdb wordpress jersey se embedded server helloworld rel nofollow source excerpt rest class running main works reason access rest api reach browser wrong make sence idea run backend server tomcat running jar file access frontend run locally system 
+
+problems ol li web xml wasnt anymore link isnt li li web xml entry container anymore enable cors finally href http crunchify cross origin resource sharing cors add jersey web server rel nofollow set main method li ol 

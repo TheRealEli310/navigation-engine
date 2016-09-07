@@ -1,0 +1,4 @@
+jdbc executebatch execute big query 
+update insert large number entries fast options ul li creating queries send href http docs oracle javase docs api sql statement html executebatch rel nofollow executebatch li li create big query updates inserts db specific syntax execute number updates fix batch size prepare statement li ul target db oracle number inserts updates batch fixed number number impact performance 
+
+options essentially fact identical option implemented poor built batching safer driver lot chances programmer error happen change database provider wont double check solution valid make check properly perform batching batch size commonly full amount rows insert es insert rows 

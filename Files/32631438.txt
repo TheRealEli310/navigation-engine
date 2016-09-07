@@ -1,0 +1,4 @@
+mybatis xml annotation 
+read book documentation mybatis xml annotation mybatis official website claim xml mappers annotation limitations personally prefer annotations limitation 
+
+top nested join mapping pitchers resultmap xml format supports inheritance achieved annotation rewrite time results annotation counterpart mapper xml element mybatis give id results annotation unlike xml element reuse results declaration mapped statements means duplicate results configuration findstudentby findallstudents methods results configuration statements duplicate work problem create mapper xml file configure element reference resultmap resultmap annotation define id studentresult studentmapper xml sql mappers annotations studentmapper reference resultmap attribute studentresult resultmap quote persistence mybatis3 

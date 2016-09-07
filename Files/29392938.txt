@@ -1,0 +1,4 @@
+min heap priority queue implementation 
+implement min heap pq issues correctness implementation figure wrong doesnt output lowest priority sort properly test data results expecting results ascending order thought due wrong children swapped output greatest priority didnt make sense spent hours research heap priority queues find h2 edit h2 output code asked cmps asked 
+
+bubble heap removing node minimum top code swapping minimum top opposite change 

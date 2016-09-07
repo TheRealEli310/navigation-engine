@@ -1,0 +1,4 @@
+jersey bean validation interpreting application www form urlencoded bean 
+working rest service jersey restful web services framework required consume url encoded form content type interpreted validated bean hr resource consumes application json application xml case application www form urlencoded receive unsupported media type response understanding isnt supported box feature registered similar href https jersey net documentation latest media html rel nofollow https jersey net documentation latest media html 
+
+error bean validation thing arbitrary types types read handle href https docs oracle javaee api javax ws rs core form html rel nofollow href https docs oracle javaee api javax ws rs core multivaluedmap html rel nofollow type body parameter option annotation create bean combine arbitrary annotated elements expected keys submitted form 

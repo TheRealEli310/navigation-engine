@@ -1,0 +1,4 @@
+sessionfactory giving nullpointerexception hibernate5 spring 
+config class called configure stuff related persistence session factory transactions class communicates users database method sessionfactory beautifully functional theory users nullpointerexception thrown clue strong config class strong strong userservice class strong strong dao class strong strong stack trace strong strong admin controller call getall strong 
+
+session createquery query requires valid hql query string hql expert wrong hr hibernateuserdao scanned spring spring scanning package dao additionally posting code call hr edit problems userservice bean managed spring create inject injection explicit instanciation object created spring spring care initialize properly injecting userdao case point strong point strong userdao annotated spring wont field problem add annotation general rule instantiate bean spring class annotated repository service component bean 

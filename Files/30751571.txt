@@ -1,0 +1,4 @@
+remove prefix suffix page url spring mvc 
+created controller spring mvc avoid writing web inf pages method controller write jsp page folder application returned correct page 
+
+spring mvc adding spring configuration file return home controller annotation driven configuration set configuration class extends 

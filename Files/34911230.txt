@@ -1,0 +1,4 @@
+pmd uselessparentheses violation 
+method pmd complains code uselessparentheses violation reviewed href https docs oracle javase tutorial nutsandbolts operators html operator precentence rules dont redundant parentheses code missing 
+
+unnecessary parenthesis code run good add extra parentheses readability 

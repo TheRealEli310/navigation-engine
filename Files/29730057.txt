@@ -1,0 +1,4 @@
+kotlin reflection issue 
+methods declared libraries engine entity methods lot kotlin reflection verbose implementations written kotlin thought create extension functions make work lines work reasons compiler type inference failed returns dont make method properly generic create methods 
+
+extension property href http kotlinlang org api latest jvm stdlib kotlin reflect jvm class html rel nofollow additionally improve api href http kotlinlang org docs reference inline functions html reified type parameters rel nofollow reified type parameters rewrite code 

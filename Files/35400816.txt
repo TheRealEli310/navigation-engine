@@ -1,0 +1,4 @@
+android rxjava chain network requests retry fails 
+chain network requests rxjava android retry fails stackoverflow callback hell vanilla android retrofit procedure asynchronous task steps make log ol li login user username password li li request sso token response successful li li call launch service sso token li ol worked signing sso token expires application make request time expires code asynctask pre class lang prettyprint override attempt making work rxjava pre class lang prettyprint override code ol li loginuserrx succeeds save username password savedpreferences li li make network request sso token li li make final network request launch li ol code simply makes call login user succeeds kicks async task ideally chain requests request experimenting figure chain calls stepped shine light 
+
+hope inspire href http blog danlew net rxjavas repeatwhen retrywhen explained rel nofollow reading retry 

@@ -1,0 +1,4 @@
+format currency local locale ignore decimal places 
+display price item relative currency data users locale format item eur uk displayed france displayed currency symbol decimal separator based users locale piece stuck strip item pence cents href http developer android reference text decimalformat html setcurrency util currency rel nofollow decimalformat html setcurrency doesnt currency symbol setcurrency changing getinstance getcurrencyinstance applies currency symbol ignores setdecimalseparatoralwaysshown false part thought checking remainder stripping require checking knowing decimal separator possibly doable pretty hacky things 
+
+completely stupid blind didnt notice method href http developer android reference text numberformat html setmaximumfractiondigits int rel nofollow title setmaximumfractiondigits int setmaximumfractiondigits int set decimal part 

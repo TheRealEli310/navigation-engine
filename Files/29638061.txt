@@ -1,0 +1,4 @@
+repackage certificates pkcs certificate bouncy castle 
+root intermediate end entity certificates package pkcs format bouncy castle 
+
+read latest rfc pkcs cms click href https tools ietf org html rfc5652 rel nofollow rfc link read fulfill objective bouncycastle generate href https www bouncycastle org docs pkixdocs1 org bouncycastle cms cmssigneddata html rel nofollow cmssigneddata data prepare private key certificate chain assume prepare href https www bouncycastle org docs pkixdocs1 org bouncycastle cms cmsprocessablebytearray html rel nofollow cmsprocessablebytearray prepare store list certificates declare href https www bouncycastle org docs pkixdocs1 5on org bouncycastle cms cmssigneddatagenerator html rel nofollow cmssigneddatagenerator add signerinfo certificates generate cmssigneddata cmssigneddatagenerator cmsprocessablebytearray finally write byte array cmssigneddata location p7b file extension open file certificate chain 

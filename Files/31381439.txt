@@ -1,0 +1,4 @@
+jsonproperty annotation required accessor methods 
+inherited repeated jsonproperty annotations required getter setter jackson handle serialization deserialization automatically annotated private member 
+
+default settings annotations needed jackson newer jackson auto detect properties public getters public int getvalue setters public void setvalue int fields public int addition long public setter getter field found matching visible setter field included jackson versions earlier part setter getter needed public 

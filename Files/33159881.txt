@@ -1,0 +1,4 @@
+generate sentences markov chain 
+make simple chatbot markov chain successfully create dictionary patterns input text unable figure generate sentences generating sentences dictionary 
+
+change code make generate sentences added pointing previous word list words code filling map loop iterating words sentence addition added dots sides word list order register special states called word word mention approach optimized needed make efficient count number words dictionary map end normalize produce frequencies map points word frequency require pick words differently 

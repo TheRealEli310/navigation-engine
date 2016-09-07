@@ -1,0 +1,4 @@
+jackson api parse json input stream io eofexception 
+parsercheck jsonresponse proper output time time exception output case closing stream output exception 
+
+youre reusing stream call reads stream end call time stream content reason stream works expected 

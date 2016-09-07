@@ -1,0 +1,4 @@
+change realmlist realmresult 
+building android app realm io database problem realmlist custom listview adapter accepts realmresults code details chat class realmlist realmlist userid chatid activity display messages chat call chat getmessages messages chat realmlist listview adapter takes realmresult extends realmbaseadapter call open changing realmlist realmresult looked doesnt realmlist custom realm adapter solution move forward great 
+
+realmbaseadapter simple href https github realm realm blob master realm realm library src main io realm realmbaseadapter rel nofollow implementation case pass specific adapter overload methods pre class lang prettyprint override 

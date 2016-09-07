@@ -1,0 +1,3 @@
+sum values map stream 
+equivalent stream code doesnt compile assigned type idea 
+

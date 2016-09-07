@@ -1,0 +1,4 @@
+equivalent class multiple setter methods 
+write version class call class dealing field called simplified version class field strong strong field setters class overrides method id write equivalent class calling getter setter methods equivalent href https www nuget org packages newtonsoft json rel nofollow newtonsoft json library written override main problem class follow coding standards pattern behavior class 
+
+property type expose getter additional methods em potentially em ul li clone method behave oddly li li property underlying variable end expensive evaluating property em em expected cheap li ul 

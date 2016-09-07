@@ -1,0 +1,4 @@
+spring data mongodb obtaining item page 
+current pagination method spring data mongodb obtaining page variable returning user handle document returned page specifically objectid implement approach fast pagination mongodb href http blog mongodirector fast paging mongodb rel nofollow http blog mongodirector fast paging mongodb looked docs pagerequest pageable methods return document page pageable href http docs spring io spring data data commons docs current api org springframework data domain pageable html rel nofollow http docs spring io spring data data commons docs current api org springframework data domain pageable html pagerequest href http docs spring io spring data data commons docs current api org springframework data domain pagerequest html rel nofollow http docs spring io spring data data commons docs current api org springframework data domain pagerequest html 
+
+eventually couldnt mongorepository mongooperation mongotemplate task 

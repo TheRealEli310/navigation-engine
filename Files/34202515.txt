@@ -1,0 +1,4 @@
+thread dump memory dump makes sense point time 
+understanding thread dump dump threads depicting thread jvm state thread specific point time similarly memory dump represents health memory specific point time tool provide memory thread dump hour analyze state hour dont jconsole jvisualvm dynatrace finding 
+
+memory dump dumping memory regularly big fast filesystem woudnt advise define triggers based gc activity conditions stack traces face race conditions phases heavily multithreaded application freezes slows users found helpful collect thread dumps seconds offset regular intervals started min system grew stable cut 30m compare snapshots identifying interference iterations involved jstack evolved jmx based access application pulling database lock info time question answered heartily depends memory dumps pulled thread dumps times high traffic freezes thread congestions 

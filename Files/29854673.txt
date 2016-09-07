@@ -1,0 +1,4 @@
+loop task time thread sleep 
+method loop time creating threads break loop interrupted reason 
+
+method flag automatically cleared thrown thread happen points call sleep calls read href https docs oracle javase tutorial essential concurrency interrupt html rel nofollow official tutorial interrupts info threads exited pending interruptions good limit main threads run time checking time iteration achieve checks call function takes long time execute loop finish intended behavior original code wouldve worked 

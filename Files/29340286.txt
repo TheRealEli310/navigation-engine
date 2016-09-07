@@ -1,0 +1,4 @@
+autowire field static beforeclass 
+service injected static init class 
+
+populate db tests give options ul li extract initial scripts sql file option repository bean href http www leveluplunch tutorials preload database execute sql spring testing rel nofollow approach annotate test li li explore href http dbunit sourceforge net rel nofollow dbunit href http springtestdbunit github io spring test dbunit rel nofollow link spring dbunit connector helping populate db tests href https github springtestdbunit spring test dbunit rel nofollow github link integrating spring test framework dbunit thing db li ul answer inject bean static form code solving problem strong update strong recently run problem project dug href http dzone articles enhancing spring test rel nofollow article helped elegant dealing type problem extend listener instance level setup defined beans 

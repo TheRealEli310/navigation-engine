@@ -1,0 +1,4 @@
+jersey implementing filters 
+include filter check basic auth headers request documentation href https jersey net documentation latest user guide html filters interceptors rel nofollow https jersey net documentation latest user guide html filters interceptors problems dont include filter test copy pasting working approach correct limit requests future work 
+
+containerrequestfilter api href https jax rs spec net nonav apidocs javax ws rs container containerrequestfilter html rel nofollow https jax rs spec net nonav apidocs javax ws rs container containerrequestfilter html 

@@ -1,0 +1,4 @@
+complex number integration 
+function returns complex number calculate integral 
+
+apache commons library provide good support handling complex numbers href http commons apache org proper commons math userguide complex html rel nofollow apache commons complex 

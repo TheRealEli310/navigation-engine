@@ -1,0 +1,4 @@
+facebook android sdk sharedialog callback success 
+facebook android sdk version strong strong managed open sharedialog share content code callback activityresult code resultcode strong result strong user pressed strong back strong strong post strong button dialog callbacks onsuccess function called postid null content posted cancelled acting 
+
+href https developers facebook bugs 890116221030179 rel nofollow reported bug facebook developers bug section answers design form closing dialog considered success 

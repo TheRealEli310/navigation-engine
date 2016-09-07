@@ -1,0 +1,4 @@
+obtain row level lock multiple jvms accessing data base 
+instances application running jvms dont specific data base modified applications time enforce restriction 
+
+depends technology stack ol li optimistic pessimistic concurrency control li li pessimistic concurrency control jdbc directly dbms specific row lock dbms oracle li li jpa hibernate wrapped similar li li case dont special li ol give information background hard give concrete suggestion 

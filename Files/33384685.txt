@@ -1,0 +1,4 @@
+spring boot health check existing webapp 
+existing spring mvc web application health check feature present spring boot starter actuator spring boot convert complete project spring boot project health check work include dependency enable required feature 
+
+figured including dont initialize application import auto config classes required config class depends import bare minimum configuration alternative 

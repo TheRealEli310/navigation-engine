@@ -1,0 +1,4 @@
+jpa query slower loop iteration 
+requirement loading data db table index search elasticsearch specific es river option case experience query specific batch sice entries execute query loop batches increasing offset iteration iteration takes seconds 4th iteration seconds column million rows case production data factor execution time growing wont approach million entries multiple threads selecting data time select constant wondering loss performance coming avoid minimize table selecting id long document clob column h2 million rows reason familiar performance h2 table size guess garbage collector visualvm clearing caches session factory iteration change behavior guess wrong track 
+
+h2 problem installed oracle 11g locally ran select queries constantly 44s access time batch entries implemented suggestions predrag marcic andrei solution tested oracle db 

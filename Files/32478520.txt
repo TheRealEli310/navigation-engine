@@ -1,0 +1,3 @@
+time difference 
+time difference program user inserts earlier time time calculate time gap hours minutes display hours min phpmyadmin db employee table columns earliertime latertime noofhoursworked columns data types varchar output correct h2 wrong struggling problem hours h2 change earliertime latertime date noofhoursworked int output hours minutes output id 
+

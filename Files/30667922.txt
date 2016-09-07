@@ -1,0 +1,4 @@
+hibernate envers generating audit tables 
+implement history feature business objects web application easiest hibernate envers set entities annotation run application tables created documentation hibernate setup tables automatically updating object db exception set setting tables exception thrown hibernate oracle db edit full stacktrace 
+
+permission problem user accessing oracle database permitted drop create alter tables changing permissions href http docs jboss org hibernate core devguide en html ch15 html envers generateschema rel nofollow generated needed schema ant executed ddl db user tomcat restart auditing worked 

@@ -1,0 +1,4 @@
+elasticsearch localhost client error masternotdiscoveredexception waited 30s 
+localmachine latest version elasticsearch client node doesnt receive information masternode disconnects code default configuration doesnt work transportclient works fine whats h2 client code h2 h2 client logs h2 h2 elasticsearch logs h2 h2 cluster health cluster health h2 host config elasticsearch yml exact configuration os 
+
+multiple issues related license plugin es made work removing license plugin es master node client connect yeh details visit href https discuss elastic elasticsearch localhost client error masternotdiscoveredexception waited 30s rel nofollow https discuss elastic elasticsearch localhost client error masternotdiscoveredexception waited 30s 

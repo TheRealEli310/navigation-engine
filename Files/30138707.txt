@@ -1,0 +1,4 @@
+ignore words reading file 
+program reads text file lists frequencies word file ignore words reading file created list words implement loop 
+
+create list list word ignore loop add condition ignore word words 

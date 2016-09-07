@@ -1,0 +1,4 @@
+configure maven profiles spring boot activeprofile annotation 
+reading lot find solution tells inlucde maven profiles activeprofiles annotation issue solve h2 flyway start tests execute happening configuration decscribed maven profiles pom xml tests run teamcity picks maven profile execute standalone find configuration h2 flyway fail starting 
+
+blockquote find solution tells inlucde maven profiles activeprofiles annotation blockquote active spring profiles based maven profile configure pom xml test class configure profiles run profile specific properties create addition spring boot load application properties load application springprofile properties overriding properties previously configured application properties finally set maven profile flag 

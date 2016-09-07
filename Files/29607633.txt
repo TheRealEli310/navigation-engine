@@ -1,0 +1,4 @@
+return criteria distinct result 
+bill bill details onetomany manytoone relationship bill list strong pojo strong bill billdetails projections bill list strong daohibernate strong strong strong bill table single row billdetails table row billid criteria query returns objects single object distinct feature strong expected output strong single object billdetails objects values explained sample json format hibernate criteria query 
+
+mapping isnt correct bidirectional association side side inverse side rename field billid bill bill bill id problem query youre projections reason projections deliberately choose return rows individual columns sql query returns rows back bills row youre making life unnecessarily complicated criteria query hql suited simple static queries hql query useless simply bill id bill chose make onetomany association eager immediately load bill details hadnt made association eager leave lazy simple hql query load bill details 

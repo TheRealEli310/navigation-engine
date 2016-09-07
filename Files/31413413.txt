@@ -1,0 +1,4 @@
+documentbuilder wrong indentation xml file 
+write simple xml file documentbuilder expected xml file generates element indentation elements read xml file simulate method project read xml file add element save xml file code 
+
+text nodes xmlfile indententation treated data indentation toss fix removing indentation text nodes dom writing file 

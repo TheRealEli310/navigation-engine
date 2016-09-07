@@ -1,0 +1,4 @@
+verify getter methods called 
+test verify getters person class called mockitos verify make getter called reflection case getter added person class test miss 
+
+generally dont mock class test test person shouldnt pretty clear sign youre testing mocking framework system test create create real person implementation real constructor copy data mockito generated proxy reflectively check getter called call mockito generated spy fragile dependent mockito internals testing bean style getters odd time effort general focus testing implementations change break 

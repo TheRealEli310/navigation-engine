@@ -1,0 +1,4 @@
+fabric8 deploy set user password properties goals 
+deploy bundle remote jboss fuse fabric8 maven plugin executing command requires section m2 settings xml file server id fabric8 upload repo set user password command 
+
+href http fabric8 io gitbook mavenplugin html credentials command line rel nofollow fabric8 maven plugin credentials command line blockquote em strong fabric8 deploy strong goal default read username password local maven file desired store password plain text option url remote fabric server including username password username password type br br em blockquote 

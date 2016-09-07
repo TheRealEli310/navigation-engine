@@ -1,0 +1,4 @@
+zigzag conversion 
+question string paypalishiring written zigzag pattern number rows display pattern fixed font legibility read line line pahnaplsiigyir written code appearantly works fine miss corner cases find corner cases question answer 
+
+incorrect output correct answer program missing extra extra revised version incorrect problem loop middle alternate step counting setting mistake set back correction solution correct added minor improvement extracting common branches 

@@ -1,0 +1,4 @@
+outofmemory error change maxpermsize 
+running application error increase em 512m em em em error solve 
+
+ajan comments doesnt permgen heap space anymore option isnt permgen problem fact sign main heap full exception thrown jvm detects gc taking large proportion total cpu time gc cycles generally heap close full gc run frequently quick fix problem increase main heap size option real problem memory leak putting inevitable understand application lot memory start memory leaks 

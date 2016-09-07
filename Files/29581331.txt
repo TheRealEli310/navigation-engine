@@ -1,0 +1,4 @@
+android save checkbox state custom adapter listview 
+save state checkboxes app closes save checkboxes checked app back checkboxes checked checked startup custom adapter listview time strong main activity strong strong country strong strong activity main xml strong strong country info xml strong strong edit strong put load preferences getview method problem parameter sharedpreferences underlined put savepreferences method onpause method end code holder work 
+
+href http developer android guide topics data data storage html pref rel nofollow android shared preferences save checkboxes state edit make separation concerns persistency logic models import android content context import android content sharedpreferences dont forget pass app context initialising country object 

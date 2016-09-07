@@ -1,0 +1,4 @@
+create soap message wsdl url 
+webservices wsdl file create soap message wsdl href https demo iduws tracesmart uk v3 wsdl rel nofollow https demo iduws tracesmart uk v3 wsdl 
+
+tool generate sample message operation web service interface application recommend generate web service client libraries working soap web services ides support web service client generation eclispe tutorial href http eclipse org luna index jsp topic 2forg eclipse jst ws cxf doc user 2ftasks 2fcreate client html rel nofollow http eclipse org luna index jsp topic 2forg eclipse jst ws cxf doc user 2ftasks 2fcreate client html soapui supports client generation 

@@ -1,0 +1,4 @@
+loading mapping file hibernate 
+problems loading mapping file hibernate cfg xml file mapping file loaded blockquote exception thread main org hibernate mappingexception unknown entity test dto user blockquote add mapping manually instance mapping works correctly suggestions 
+
+problem href http stackoverflow questions hibernate org hibernate mappingexception unknown entity mix configurations configuration 

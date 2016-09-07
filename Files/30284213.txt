@@ -1,0 +1,4 @@
+sendgrid working maven 
+href https github sendgrid sendgrid rel nofollow https github sendgrid sendgrid app run sendgridexample causing error invocationtargetexception root maven maven reaching sendgrid support team didnt update wrong code advance 
+
+found solution href https github sendgrid sendgrid tree master src main sendgrid rel nofollow https github sendgrid sendgrid tree master src main sendgrid copy file sendgrid sendgridexception create folder sendgrid application paste file inside folder href https github sendgrid sendgrid blob master pom xml rel nofollow https github sendgrid sendgrid blob master pom xml copy dependency file paste pom xml file work fine 

@@ -1,0 +1,4 @@
+jackson partial json parsing read arbitrary string 
+jackson streaming api parse values json strings parse return array strings json string found assume turned string representation json node dont turn string 
+
+didnt question clear manner needed read arbitrary string gave array code work map number string mentioned jackson streaming api question amount existing code change jackson apis solution question 

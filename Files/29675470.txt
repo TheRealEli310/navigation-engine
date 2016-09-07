@@ -1,0 +1,4 @@
+string hex encoding decoding 
+converting string utf cp1047 performing hex encoding works great converting back decoding hex string displaying console utf format problem proper string passed encoding method piece code coded output printing input string back expected output 
+
+things strong encoding strong repeat strong encoding strong simply sequence tokens aim represent characters purpose sequence carrier pigeons utf8 cp1047 character codings operations performed ul li encoding turn stream carrier pigeons stream bytes li li decoding turn stream bytes stream carrier pigeons li ul basically base assumption wrong associate encoding real input stream byte array result em encoding em case utf encode charset case cp1047 secret behing real answer code method dont show good answer muster 

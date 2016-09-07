@@ -1,0 +1,4 @@
+android recyclerview addonscrolllistener trigger item recyclerview 
+written code data youtube data api populate records nextpagetolen records json code populate recyclerview problem run app scroll bottom loads page trigger item page 2nd page shows toast message continuously br guide make code populate records user scroll bottom 
+
+solution question post answer pronlems linearlayoutmanager staggeredgridlayoutmanager scrolltopositionwithoffset method takes position offset start item start recyclerview accomplish setting offset align top instance works time page loads triggers item 

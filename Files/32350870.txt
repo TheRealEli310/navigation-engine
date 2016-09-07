@@ -1,0 +1,4 @@
+initilize arraylist zeros 
+creating size initialize zeros 
+
+href http docs oracle javase docs api util collections html fill 28java util list 20t rel nofollow method fill list zeros case setting href http docs oracle javase docs api util arraylist html arraylist 28int rel nofollow length list initial capacity array build list zeros checkout peace code strong output strong 

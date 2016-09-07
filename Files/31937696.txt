@@ -1,0 +1,4 @@
+nullpointerexception key frame rate mediacodec 
+retrieve framerate code exception href https github android platform frameworks base blob master media android media mediaformat rel nofollow source code fps 
+
+information mediacodec timing information necessarily present href http www cardinalpeak blog sequence parameter set rel nofollow link key frame rate argument encoder nominal frame rate present wrapper mp4 mediaextractor handles dont consistent access dig sps calculate fps presentation time stamps series frames video variable frame rate screenrecord output incorrect number argue vfr video correct number frame rate maximum average values 

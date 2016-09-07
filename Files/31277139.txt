@@ -1,0 +1,4 @@
+lang classnotfoundexception hamweather aeris maps layout aeris weather sdk 
+hamweather aeris andorid sdk implement map view component follow online tutorials render aerismapview error coming fix xml file activity finally fragment stack exchange failed adhere convention etiquette ill fix 
+
+managed working issue steps switched jars gradle dependency website add build gradle module add andorid tag exists file double check proper api key permissions google maps works compiled jar repo version 

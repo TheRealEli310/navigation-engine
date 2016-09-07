@@ -1,0 +1,4 @@
+derby error find load main class org apache derby drda networkservercontrol 
+installed latest official release apache derby windows october svn install derby network server fine localhost execute command org apache derby drda networkservercontrol start myhost make accept ip localhost error thing fine command error find load main class org apache derby drda networkservercontrol double check make jar file derbynet jar found lib folder class networkservercontrol 
+
+found answer post case face problem work 

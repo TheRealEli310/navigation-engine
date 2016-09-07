@@ -1,0 +1,4 @@
+tomcat converts hyphens 2d url 
+prevent tomcat encoding hyphens 2d urls behaviour session related issues requests made safari browser deployed war file generated url desired url 
+
+referring links generated tomcat manger issue experience rooted configuration href https github apache tomcat blob trunk org apache catalina manager htmlmanagerservlet rel nofollow servlet includes href https github apache tomcat blob trunk org apache catalina manager htmlmanagerservlet l448 l449 rel nofollow line custom encoder href https github apache tomcat blob trunk org apache catalina util urlencoder rel nofollow static instance employed code href https github apache tomcat blob trunk org apache catalina util urlencoder l41 l49 rel nofollow singleton marks chars href https github apache tomcat blob trunk org apache catalina manager htmlmanagerservlet l89 l93 rel nofollow outcome single char url encoded utf 

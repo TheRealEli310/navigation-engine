@@ -1,0 +1,4 @@
+converting imageicon bufferedimage set image type 
+making simple image editing program problem saved images db converted server sockets serializable vo gui convert edit set image type lot pictures image types pictures turn didnt basically convert ways convert setting single fixed image type ill give part part code 
+
+dont transparency strong bufferedimage type int rgb strong solve problem tranparency set draw copy image destination problem create bufferedimage type type int argb pixels image transparent yoou draw src image mix tranparent pixels image transparent resolution mode merging src dst images setting apropriate aplhacomposite 

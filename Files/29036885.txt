@@ -1,0 +1,4 @@
+wildfly final entitymanager postgresql idle transaction 
+code running wildfly final write update methods called parallely called directly class handles http requests write method calls successful time time write method called parallely multiple threads starts hang em persist entity postgresql server side transaction state idle transaction query select nextval hibernate sequence insert query created entity persist problem persist entities anymore hangs em persist entity kill wildfly process kill signal wrong time timeout occurs warnings application logs jdbc driver postgresql jdbc41 postgresql server version c3p0 classpath delete dependency problem apeears 
+
+prepared sample application jax rs ejb jpa href https github aparnachaudhary prototypes tree master jaxrs db access rel nofollow https github aparnachaudhary prototypes tree master jaxrs db access jmeter script access rest endpoint multiple threads reproduce issue postgresql postgresql jdbc41 jar wildfly final 

@@ -1,0 +1,4 @@
+spring data mongodb persist multiple objects list 
+spring data mongodb persist object list add doesnt work application doesnt throw exception json patient element correctly insert null leave code user patient dao wherei insert console returns persists patient lot 
+
+spring data mongodb properly inject userrepository annotation method updating existing generated id inserted user exists generated id updated presuming class method make list initialized 

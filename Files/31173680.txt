@@ -1,0 +1,4 @@
+slf4j class path multiple slf4j bindings multiple logback classic jars 
+bulding run spring web app gradle multiple bindings reading existing posts found lots similar problems problems find conflict depencies fimilar gradle syntaxt lots methods confused error blockquote slf4j class path multiple slf4j bindings slf4j found bindings jar file myproject gradle gradle lib logback classic jar org slf4j impl statloggerbinder class slf4j found bindings jar file myproject myproject build temp tomcatrunwar work tomcat localhost myproject web inf lib logback classic jar org slf4j impl statloggerbinder class slf4j actual binding type ch qos logback classic util contextselectorstaticbinder blockquote depencies 
+
+start command line coffee completes resulting file full dependency tree search logback youre modifying build file gradle exclude module group group basically part colon module part details error problem contained break line dependency put exclude 

@@ -1,0 +1,4 @@
+android left arrow keys act back previous buttons 
+working application multiple fragments fragment text editable fields time user clicks field enters text clicks left arrow keys post navigating field left arrow key act back previous button navigating previous fragment previous screen xml fields custom code restrict behavior arrow keys move editable field 
+
+create fragments dynamically replace fragment container view fragment add transaction back stack needed commit transaction getsupportfragmentmanager begintransaction replace id container fragment class increment preferably button designed xml coded fragment container 

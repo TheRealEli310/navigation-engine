@@ -1,0 +1,4 @@
+pass object intent crashes application 
+application works putextra intent putextra passes object crashes implementing serializable humlogcontroller class object pass results parceable crashes activity log thing crash putextra log cat android studio implementing serializable parceable works errors happen implement serilizable humlogcontroller cast object object passing intent code humlogcontroller class implements serializable logcat implements serializable humlogcontoller class 
+
+custom serializable class humlogcontroller make fields serializable declare href https en wikibooks org wiki programming keywords transient rel nofollow dont serialize case serializable 

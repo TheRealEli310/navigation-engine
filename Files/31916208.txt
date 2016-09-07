@@ -1,0 +1,4 @@
+log4j doesn write file 
+application log file console logger classed configuration file loaded intended line output output log directly entry won result programm allowed write file console output work loading file spot error configuration file edit log4j edit2 turns mailer component log file code results logging console window 
+
+basically jdk logging log4j implementation log4j log4j jul adapter route calls made jdk logging api log4j2 dependencies sample class file log4j xml file run program add property 

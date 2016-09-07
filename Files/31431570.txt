@@ -1,0 +1,4 @@
+custom iss javafx ant maven inno 
+attempting create custom installer application maven inno javafx ant looked link results href http stackoverflow questions create native javafx app inno setup maven title inno amp maven inno maven installer successfully created application successfully installing user appdata local changed custom iss file file picked build added needed application iss file src main deploy package windows application iss picking img src http stack imgur gysti jpg alt enter image description file build maven configuration build step 
+
+confirm zenjava plug worked supported github accomplish information href http stackoverflow questions javafx build exe maven inno javafx build exe maven amp inno updated pom xml 

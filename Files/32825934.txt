@@ -1,0 +1,4 @@
+thread constructor undefined 
+learn multithreading code doesnt work literally copied character character oracle doesnt work eclipse whats wrong 
+
+href http docs oracle javase docs api lang thread html thread lang runnable rel nofollow constructor receives href http docs oracle javase docs api lang runnable html rel nofollow instance creating class youre hiding javas subclass remove interface fine 

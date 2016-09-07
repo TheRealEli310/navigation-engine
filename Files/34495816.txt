@@ -1,0 +1,4 @@
+stream groupingby reducing element list 
+represented simplified json style blockquote codice eur description euro ratio codice usd description dollars ratio blockquote transform blockquote eur codice eur description euro ratio usd codice usd description dollars ratio blockquote wrote liner returns suppose function work dont 
+
+href https docs oracle javase docs api util stream collectors html groupingby util function function group elements stream based grouping function stream elements result grouping function collected default href https docs oracle javase docs api util stream collectors html tomap util function function util function function collect elements key result applying key mapper result applying mapper default throw exception duplicate encountered 

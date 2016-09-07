@@ -1,0 +1,4 @@
+method creategui undefined type jframe 
+add title jframe reads cballmaze ball maze application type creating jframe error message title code runs fine dont add title public static void phrased current code 
+
+youre creating jframe variable assigning jframe object expecting cballmaze behaviors isnt happen create cballmaze object assign cballmaze variable change side recommendations ul li rid calls layout managers smart creation components giving jtextfields column property create simple pleasing gui li li youre call constructor takes string parameter youd darn em make em constructor em takes em string parameter line call constructor pass string parameter li ul 

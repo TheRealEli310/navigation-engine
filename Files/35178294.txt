@@ -1,0 +1,4 @@
+util stream collectors enumset stream 
+place bitmask code return enumset plain set dont loose enumsets usefulness casting directions create custom collector collect enumset 
+
+href https docs oracle javase docs api util stream collectors html tocollection util function supplier rel nofollow method receives lambda create empty collection store result create empty call implicitly explicitly enum set 

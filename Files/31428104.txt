@@ -1,0 +1,4 @@
+track selected items recyclerview android 
+achieve consistent item selection idea recycling views problem list items icon item item clicked icon colour managed achieve realised scroll list items icons changed scroll back item clicked icon longer clicked color track selected items called implement adapter code 
+
+recyclerview adapter important functions override function inflate views inside recyclerview bind data view set correct viewstate view recyclerview inflate amount views start inflated views recyclerview set correct state item onbindviewholder item collection position set correct viewstate change color icon dependent boolean objects ispressed 

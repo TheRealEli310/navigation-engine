@@ -1,0 +1,4 @@
+handle circular dependency cdi 
+situation errors results type dependency injection wrong 
+
+id avoid circular dependency reasons comment href http www petrikainulainen net software development design changed mind field injection rel nofollow article blockquote messy constructor sign warns class monolith jack trades master words messy constructor good thing feel constructor class messy time blockquote href http blog schauderhaft de correct dependency injection rel nofollow blockquote ll find cases class instance instance typical case circular dependency bad experience solution make part strongly dependent class class hiding doesn blockquote oliver gerke href http blog schauderhaft de correct dependency injection comment page comment rel nofollow commented blockquote constructor injection prevents introducing cyclic dependencies introduce essentially make parties change risking break case design smell blockquote small refactoring 

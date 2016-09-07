@@ -1,0 +1,4 @@
+android view inflateexception error inflating class android support design widget coordinatorlayout 
+show snackbar floatingactionbutton added project error activity activity main xml styles xml found similar problems solutions worked 
+
+ol li change target design library li li import support design library li li open appcompat design library target li li clean complete workspace li li run li ol hope helps 

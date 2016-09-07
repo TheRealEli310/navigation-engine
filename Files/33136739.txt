@@ -1,0 +1,4 @@
+method undefined type 
+call method abstract class sprite package method getsymbol undefined type sprite heres code code package sprites guess problem method abstract class instantiated dont fix 
+
+problem youve declared class type parameter youve made generic class em suspect em didnt class refers type parameter type implemented point youd string array sprite array wouldnt work em em symptom problem suspect wanted point refers type means avoid code wouldnt work arrays write suppress warnings 

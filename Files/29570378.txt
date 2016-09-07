@@ -1,0 +1,4 @@
+jackson jaxb annotations inheritance mapping root element 
+jaxb annotated class hierarchy including inheritance document root element childaclass childbclass pretty simple class hierarchy simple test serialize childaclass deserialize parentclass expect propper class deserialized back upcasted parentclass suppose valid case serialized document fancy de serialize exception suppose type metadata missing propper type inference deserialization jsontypeinfo restricted jaxb xmlelements jaxb annotation wasnt make work give hint thx 
+
+conclussion working inheritance structure match formed document case type tagging document root element depending subclass solvable custom xmltypeadapter easiest approach 

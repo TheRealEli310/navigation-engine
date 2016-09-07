@@ -1,0 +1,4 @@
+playing sounds inside fragment mediaplayer 
+creating soundboard app app feature pages fragments user switch fragment number imagebuttons clicked play sound put code inside mainactivity inside oncreate method failed realized id put code inside fragment inside fragments oncreateview method error findviewbyid method corrected getview method directly findviewbyid method error final mediaplayer player mediaplayer error unreachable statement idea fix correct error fragmentpage1 
+
+statement unreachable unconditionally reached fix simple move end method 

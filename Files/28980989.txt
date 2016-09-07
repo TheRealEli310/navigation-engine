@@ -1,0 +1,4 @@
+double brace initializer array 
+method array parameter call method writing declare initialize array operator double braces initializer strong strong impossible double brace initializer parameter method creating array object question differences operator 
+
+part termed brace initialization shortcut inferred left hand side case inference intend determined hint means compiler complains rewrite youre telling compiler item meant represent compiler wont auto interpret expression matches lead potential ambiguities href http stackoverflow questions array initialization syntax declaration question cover ground mentioned benzonico part href http docs oracle javase specs jls se8 html jls html jls arrayinitializer language specification supported syntax doesnt include invocation method 

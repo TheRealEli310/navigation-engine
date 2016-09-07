@@ -1,0 +1,4 @@
+increment receipt number 
+program checks max database increments create receipt number start number increment number inserted back 
+
+variable int make string formatting suppose checks max database means primary key database sequence href http stackoverflow questions sequence database read databasespecific implement case everytime oracledb query analytics max functions database oracle increment code good solution lead problems youll transactions 

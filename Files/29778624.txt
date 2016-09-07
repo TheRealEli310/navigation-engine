@@ -1,0 +1,4 @@
+javafx defining default property 
+created custom control extends element problem load claiming define region doesnt expose public developers decide clients add stuff freely question define children default property reading docs annotation havent find examples time annotate field method compile error 
+
+href http docs oracle javase javafx api javafx beans defaultproperty html rel nofollow annotation class level annotation documentation required attribute property work dont make public wont access enables populate annotation dont make work making method point subclass differences method 

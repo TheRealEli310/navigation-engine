@@ -1,0 +1,4 @@
+utility method representing null equal 
+comparing string variable case thrown avoid additional null check enforced find plain ugly rewritten throw object equals true hr case conditional expression inverted inside block avoided rewriting conditional statement plain ugly unreadable hr object complex object 
+
+long story short simply library method requires objects compared equal static utility method performing task sufficient deal 

@@ -1,0 +1,4 @@
+sql syntax error create table 
+sql sytax error execute code preparedstatement replace string error message 
+
+put table backticks escaped single quotes bad sql 

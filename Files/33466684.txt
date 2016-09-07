@@ -1,0 +1,4 @@
+camel processing json messages rabbitmq 
+post message json format rabbitmq message consumed successfully attempting camel integrate producers consumers struggling understand create route make happen json schema define interface producer consumer application creates json converts byte camel producertemplate send message rabbitmq consumer end byte message converted string json marshalled object process code line doesnt work bean passed original byte content object created json camel examples json call end route error message dont spring annotations service activation simple camel producer consumer completeness sbt file easy replication 
+
+decided needed create bean register easier unknown reason jndiregistry didnt work defaultcamelcontext simpleregistry changed consuming routebuilder transforming message changed bean setter methods added tostring problem dead letter queues working ensuring failures bean handler make properly back stack 

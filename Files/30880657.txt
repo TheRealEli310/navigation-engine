@@ -1,0 +1,4 @@
+cleanest create multiple beans class properties 
+properties file xml bean map students firstname key object student classroom create student bean properties students bill add classroom bean map make students jim add classroom bean map wanting create bean student put 
+
+spring supports box spring people modify property file slightly href http docs spring io spring docs current javadoc api org springframework beans factory support propertiesbeandefinitionreader html rel nofollow student add properties file reload 

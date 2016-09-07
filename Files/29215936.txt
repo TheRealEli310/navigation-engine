@@ -1,0 +1,4 @@
+path relative user home propertysource 
+spring expressions doesnt work inside propertysource annotation 
+
+directly load file user home 

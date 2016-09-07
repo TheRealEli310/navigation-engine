@@ -1,0 +1,4 @@
+jersey post endpoints failing websphere 
+deploying jersey application websphere jackson json provider reason endpoints defined post failing working fine returning correct json endpoint post send makes endpoint websphere systemout log file searched feverishly log statements log files hint problem find unhelpful assistance appreciated point websphere log file hidden bowels installation 
+
+idea href http stackoverflow users peeskillet peeskillet created jersey implemented hopes spew error turns error didnt arg constructor classes posting didnt mattered worked locally error deployed websphere cluster fixed problem 

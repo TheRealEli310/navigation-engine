@@ -1,0 +1,4 @@
+spring boot ignores datasource url application yml 
+discovered spring boot silently ignores datasource properties loaded startup line debugging shows object properties set call debugging shows exception thrown silently visible logs url obvoiusly invalid database initialized tested version strange behaviour debug 
+
+adding dependencies solved problem 

@@ -1,0 +1,4 @@
+listview inside navigational drawer responding item click android 
+click item responds click launching activity 
+
+solved problem end layout issues due handle click pasted code bottom layout code inside drawerlayout 

@@ -1,0 +1,4 @@
+google calendar find google api client json jsonfactory frominputstream 
+working spring mvc application integrate calendar functionality stuck authentication phase json error googles sample code outdated made modifications kindly error log oauth class implement calendar functionality happening line pom xml error log requested david 
+
+things account ol li dependency required calendar api google api remove li li implementations remove li li youre unnecessary dependencies li li versions match notice version http client suffix calendar clients version li li dependency replaced class li ol end heres working set dependencies slightly updated class change path json file 

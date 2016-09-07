@@ -1,0 +1,4 @@
+fit vbox parent gridpane 
+gridpane columns fixed size imageview vbox text elements vbox fit column width grid dimensions imageview vbox column fits text parent grid box width column grid object fix img src http stack imgur yzzwt png alt enter image description container green border gridpane grid container lightblue border vbox box gridpane red background vbox pink background fit parent width advance 
+
+set children gridpane setting occupy child gridpane apply property static method href https docs oracle javase javafx api javafx scene layout gridpane html sethgrow javafx scene node javafx scene layout priority rel nofollow similar issues href https docs oracle javase javafx api javafx scene layout gridpane html setvgrow javafx scene node javafx scene layout priority rel nofollow setvgrow node child priority 

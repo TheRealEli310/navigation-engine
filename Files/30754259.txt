@@ -1,0 +1,4 @@
+jdk8 unable parse localtime 
+managed parse object piece code throws wrong 
+
+specific format href https docs oracle javase docs api time localtime html parse lang charsequence time format datetimeformatter api blockquote string represent valid time parsed href https docs oracle javase docs api time format datetimeformatter html iso local time blockquote 24h 12h handled formats conditions ul li digits hour day pre padded ensure digits li li colon li li digits minute hour pre padded ensure digits li li minute format complete li li colon li li digits minute pre padded ensure digits li li nano format complete li li decimal point li li digits nano digits output required li ul 

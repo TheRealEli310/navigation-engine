@@ -1,0 +1,4 @@
+args4j list arguments space handled 
+dealing strange args4j bug handling list command line arguments handled href http args4j kohsuke org apidocs org kohsuke args4j spi stringarrayoptionhandler html rel nofollow stringarrayoptionhandler retreive arguments list docs work bug handling single argument quotes works perfectly fine 
+
+href https github kohsuke args4j blob master args4j src org kohsuke args4j spi stringarrayoptionhandler rel nofollow implementation fairly adjust purposes easily work 

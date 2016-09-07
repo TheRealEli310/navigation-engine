@@ -1,0 +1,4 @@
+class thread 
+explain class thread 
+
+method synchronize class object method static synchronize instance call synchronize objects threads execute methods time operations atomic class thread modifying synchronized em instance em method wrong called instances modify concurrently 

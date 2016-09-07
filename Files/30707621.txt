@@ -1,0 +1,4 @@
+spring jpa default enum field enum 
+entity enum field set default jpa annotations save entity db field boolean field correct default saved exception save wrong work booleans 
+
+whe sql code inserts row emailcommunicationstatus column case row unknown column hibernate insert pass actual field entity leave null explicitely set null database set default field works fine default boolean field false 

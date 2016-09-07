@@ -1,0 +1,4 @@
+util concurrent executionexception org apache catalina lifecycleexception failed start component standardengine catalina standardhost 
+facing error deploy application tomcat server deploying code link href http krams915 blogspot spring mvc jasper integration html rel nofollow http krams915 blogspot spring mvc jasper integration html customization strong find error reported stackoverflow solution worked strong decided report issue source code guide pom xml reference 
+
+solve issue updating adding maven dependencies run project page download pdf report analysed maven conflict causing problems current maven dependencies simply pom xml application running fine output em running tomcat port oracle installed machine em href http stack imgur gvudt png rel nofollow img src http stack imgur gvudt png alt enter image description pom xml 

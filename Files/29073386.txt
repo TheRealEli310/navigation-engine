@@ -1,0 +1,4 @@
+lang classnotfoundexception security manager rmi class loader disabled 
+met issue long time couldnt solve solutions similar topics stackoverfflow errors server policy file rmi server project client policy rmi client project vm arguments server project client project starter code server duplicated policy setting vm arguments delete doesnt work security manager working server launch client call simple method helloworld server return object errors tony adding setsecuritymanager error access denied code error error stack information expose issue client successfully called methods server class print world loadlogicfromrepository type logicid client code code server loadlogicfromrepository return object server class analyzerlogicadd implements serialisable interface object important server 
+
+defining security policy doesnt install security manager explicitly 

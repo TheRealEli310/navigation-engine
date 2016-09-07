@@ -1,0 +1,4 @@
+type lang string converted jsonobject android 
+json wcf service access localhost emulator service accessed successfully strange exception code convert json string json object exception logcat data webservice code logs logcat 
+
+needed remove character start end json string array 

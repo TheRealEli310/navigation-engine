@@ -1,0 +1,4 @@
+sequential parallel processing 
+producer consumers ul li producer fast generating lot results li li tokens processed sequentially li li tokens values processed parallel li li creating runnables expensive production code work 100k tokens order create runnable pass constructor complex build objects li ul achieve results simpler algorithm nesting syncronization block reentrant lock bit unnatural race conditions notice update solution found working collections cache producer results blocking queue 3rd list track tasks progress bit complicated version code 
+
+pre create set pick incoming tasks tokens place queues order pointed comments em em guaranteed tokens values execute parallel bounded nr physical cores box guaranteed tokens order executed order arrival sample code 

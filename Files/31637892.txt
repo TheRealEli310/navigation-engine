@@ -1,0 +1,4 @@
+throwing exception lambda 
+code properly make delegated stack method call nutshell make method throw lambdas friendly error handling 
+
+approach em sneakily em throw lambda care method declare clause class href http stackoverflow posted youre effectively making compiler bit disabling exception checking spot code declaring exception method restore regular behavior callers 

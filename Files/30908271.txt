@@ -1,0 +1,4 @@
+creating index elasticsearch api giving noclassfoundexception 
+create node based client api index json document heres code run code br strong lang noclassdeffounderror org apache lucene analysis miscellaneous patternanalyzer strong br suggest wrong 
+
+es lucene jars href http mvnrepository artifact org apache lucene lucene core rel nofollow browse maven repo jars version 

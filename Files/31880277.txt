@@ -1,0 +1,4 @@
+change android actionbar picture 
+android android studio develop change actionbar top corner button image compile android device button remain customize image code public class extend activity menu xml 
+
+change action overflow icon default vertical dots add actionoverflowbuttonstyle item main theme declaration strong strong define styles xml youre appcompat themes dont forget atributes strong strong android namespace wont work dont forget include theme application tag androidmanifest xml change make custom theme 

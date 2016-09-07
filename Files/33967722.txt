@@ -1,0 +1,4 @@
+lang unsatisfiedlinkerror dalvik system pathclassloader dexpathlist 
+starting jni simple helloworld working linkage error guessing native library pointing correct file path command djava library path set files app src main libs armeabi libhellojni libs x86 libhelloworld 
+
+files app src main jnilibs folder case app src main jnilibs armeabi libhellojni 

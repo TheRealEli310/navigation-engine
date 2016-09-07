@@ -1,0 +1,4 @@
+jtable missing row 
+searched web find solution decided problem methods populate jtable defaulttablemodel resultset shows amount data entries searched system println jtable misses row method resultset calls method main works fine showing column headers data problem missing row starts 
+
+youre consuming row result set call consumes rows loop useless 

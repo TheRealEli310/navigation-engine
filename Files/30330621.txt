@@ -1,0 +1,4 @@
+tomcat validates connection borrow 
+tomcat jdk eclipse configured connection pool spring hibernate ga cxf time receive soap request p6spy logs strong validation query run independently validationinterval strong description href https tomcat apache org tomcat doc jdbc pool html rel nofollow https tomcat apache org tomcat doc jdbc pool html expecting connections validated seconds wrong configuration bug 
+
+explanation pretty simple read correctly documentation set factory order strong tomcat high concurrency connection pool strong parameters work expected connections validated em evictionthread em runs validates idle connection choose order spare time connection borrow 

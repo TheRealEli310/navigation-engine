@@ -1,0 +1,4 @@
+akka actor implementation extension injection 
+brand akka lib v2 wondering tradeoff competing actor implementation strategies hand implement actors em standard em add layer abstraction injection performance classloading benefits type actor injecting implementations reason em em standard actor implementation 
+
+em em actor dispatching messages handlers 2nd standard fine give benefits terms code structure fact single method interface implement lambda strong strong actors em em simply method dispatchers provide variety methods system grows complexity href http doc akka io docs akka untyped actors html untypedactor api rel nofollow http doc akka io docs akka untyped actors html untypedactor api typical moderate sized akka system references defined short dont inheritance giving realise 

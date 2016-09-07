@@ -1,0 +1,4 @@
+url pattern filter mapping valid 
+post rest method make filter person logged application access post method filter write method problem exception server refuse start exception tomee server jax rs solve problem 
+
+mapping path servlet specification follow rules ul li strong directory mapping strong string beginning character ending suffix path mapping li li strong extension mapping strong string beginning prefix extension mapping li li strong context root strong empty string special url pattern maps applications context root requests form href http host port rel nofollow http host port case path info servlet path context path empty string li li strong default servlet strong string character default servlet application case servlet path request uri minus context path path info null li li strong exact mapping strong strings exact matches li ul case start absolute url context root servlet filter add beginning work 

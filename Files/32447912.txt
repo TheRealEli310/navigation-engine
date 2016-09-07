@@ -1,0 +1,4 @@
+jdbi mapper registered 
+evaluating jdbi alternative spring jdbc mybatis encountering issues jdbi spring boot spring stacktrace shown wrong docs kind lacking configuration spring user class dao mapper 
+
+appears fixed issue playing api corrected dao 

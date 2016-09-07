@@ -1,0 +1,4 @@
+projecting attributes indices dynamodb mapper 
+find project selected attributes hashkey indices dynamodb mapper annotations add score sort added index annotations 
+
+attribute projections set index creation determined annotations mark attributes part attribute projection annotations javadoc href http docs aws amazon awsjavasdk latest javadoc amazonaws services dynamodbv2 datamodeling dynamodbmapper html generatecreatetablerequest lang class rel nofollow blockquote parse pojo class return createtablerequest dynamodb table represents returned request include required provisionedthroughput parameters primary table gsis secondary indexes initialized default projection type key blockquote key part strong default projection type key strong create table api projections 

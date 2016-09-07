@@ -1,0 +1,4 @@
+servlets servlets url web xml eclipse 
+put inside servletname tag url path servlet mapping web xml eclipse googling didnt find answer suggest creating rest services 
+
+strong element servlet strong servlet element canonical servlet servlet unique web application filter mapping servlet servlet mapping strong element url pattern strong url pattern element url pattern mapping servlet class accessed put servlet invoke user access 

@@ -1,0 +1,4 @@
+disable default scoring boosting hibernate search lucene 
+serve users relevant results rewarding records big title description attached photos context records bicycle routes routepoints coordinates metadata photos reviews indexed records search index score results build queries based document properties boost disable lucenes scoring overridden class set comparing 0f score enabled hibernate config hibernate config approach works time weird results place pattern recognize routes documents large size normal route routepoints place results leaves default lucene scoring happening scoring higher document size wrong disabling lucenes scoring explanation 
+
+suggest approach based custom result sorting read href http stackoverflow questions sort search results multiple fields weighting function answer answer slightly outdated modified lucene api comparator search code output 

@@ -1,0 +1,4 @@
+minim library application detect beat audio source 
+totally audio programming build fx application interact audio microphone line searched google libraries found minim pretty popular written processing problem find good documentation reason processing build pretty advance gui easier javafx step build library reacts beat song code pre class lang prettyprint override suspect true loop soundbuffer small idea point direction thankfull good resources audio visualisation programming general specific information minim tips examples libaries easier completely ground break 
+
+found solution providing beatdetect timesize samplerate init trick ul li timesize size buffer li li samplerate sample rate samples buffer li ul audioinput mime sample rate found debug input blockquote input stream format samplerate blockquote 

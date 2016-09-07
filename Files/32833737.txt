@@ -1,0 +1,4 @@
+springfox document jax rs services spring app 
+document api existing app springfox added dependencies pom xml added swagger package jersey packages web xml swagger2controller picked application context specifies annotations services config class started stack trace approach integrate swagger whats fix missing bean simpler approach edit adding web xml eliminates stack trace query href http localhost myapp v2 api docs rel nofollow http localhost myapp v2 api docs results startup console shows edit jax rs map springfox uris doesnt fill full context springfox 
+
+added dispatcherservlet web xml handle springfox requests created placeholder springfox servlet xml web inf added lines application context xml api docs request routed correctly dispatcherservlet application jax rs requests routed jersey springservlet 

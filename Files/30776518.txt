@@ -1,0 +1,4 @@
+jpa difference transaction isolation entity locking 
+read transaction isolation levels prevent parallel transaction executions errors locking modes entities understand work find reason locking transaction isolation levels locking isolation levels locking make job 
+
+introduction locking types isolation levels href http en wikibooks org wiki persistence locking jpa locking rel nofollow locking types optimistic implemented jpa level eclipselink hibernate pessimistic delegated jpa provider db level explanation isolation levels locking intersect serialized isolation level performance greedy locking jpa db side choose read committed make locking isolation level guarantee entry changed transaction 

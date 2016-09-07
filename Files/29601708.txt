@@ -1,0 +1,4 @@
+setup mailx smtp configuration 
+send email spring software javamailsender spring framework configure local machine javamailsenders smtp host send email command write mail properties support command javamailsender bean mail properties file 
+
+understanding mailx mail client mail server desktop development environment issue href https smtp4dev codeplex rel nofollow smtp4dev unix system install smtpd hook exchange widows environment 

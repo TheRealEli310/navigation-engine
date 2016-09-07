@@ -1,0 +1,4 @@
+hibernate merge null values db 
+problem occurs lets object list objects persist retrieve object find add object list merge find object object persisted null fields objects instances fpml class generated xml description library missing explanation update problem occurs instrumentid objects mapping file generated pojo 
+
+merge works object saved database hibernate object persistence bag id error definition hibernate doc copy state object persistent object identifier href https docs jboss org hibernate orm api org hibernate session html rel nofollow session merge save object session saveorupdate object merge object difference session save session persist href http stackoverflow questions whats advantage persist save hibernate difference save persist pls answer helped 

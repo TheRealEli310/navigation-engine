@@ -1,0 +1,4 @@
+set default language alertdialog checkbox android app 
+android created app languages english amp dutch default language dutch users change language alertdialog users choose english default language checkbox 
+
+code load activity order effect 

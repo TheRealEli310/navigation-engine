@@ -1,0 +1,4 @@
+dependson cdi bean injected 
+beans annotated startup dependson neccessary situation ensure initialized convention configuration situation order injections determines order initialization official tutorial cover case beans semantically covered syntactic wiring link inject 
+
+bean depends bean initialized startup eager instantiation singleton instantiated startup time lazy instantiation singleton isnt instantiated methods needed cases container initialize beans whichever order em multiple singleton session beans initialize data application initialized specific order cases javax ejb dependson annotation declare startup dependencies singleton session bean em 

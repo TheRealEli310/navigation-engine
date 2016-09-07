@@ -1,0 +1,4 @@
+http server socket 
+server sockets working http preferably tls https tls server socket working fine browsers talk http understand correctly alpn http browser connect tls socket start running http browsers wont upgrade http https java8 alpn coerce browsers http tls make server socket http 
+
+wont alpn jdk slated late href http eclipse org jetty jetty href http www eclipse org jetty documentation current alpn chapter html alpn implementation jetty servers suggested directly http implementation serversocket disclaimer jetty committer jetty great support http including href http stackoverflow questions jetty http2 server push support http push 

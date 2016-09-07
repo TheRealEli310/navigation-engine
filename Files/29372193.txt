@@ -1,0 +1,4 @@
+splitting string multiple arrays 
+program input user multiple number numbers inside made dimensional array array sequence numbers troubling splitting respective arrays split dont split string number strings number sequences depends user 
+
+split string space remove curly brackets substring index index length split comma return string array numbers parse strings integers store integer array 

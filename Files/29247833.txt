@@ -1,0 +1,4 @@
+graphics2d text center aligned rectangle 
+code window blue box corners text center aligned box bounds box text fit comfortably inside find effectively href http docs oracle javase tutorial 2d text textlayoutconcepts html measuring positioning text rel nofollow documentation stringwidth returns character 
+
+href http docs oracle javase docs api awt fontmetrics html stringwidth lang string rel nofollow generally return amount pixels required render text img src http stack imgur urjvy png alt box href http docs oracle javase docs api awt font textlayout html rel nofollow complictated bounding box representing area required render text attributed text 

@@ -1,0 +1,4 @@
+empty recyclerview fetched data parse 
+struggling implement data created wanted retrieve object entitled strong flyerdatafetch strong elements display run compile program receive errors em review code identify wrong process populate em 
+
+things change data table object flyerdatafetch specific column data id xwmyz4yegz query data table set list passing adapter reason nullpointerexception thing image wrong perform query bytes array set parseimageview dont context customadapter simply write mainactivity class change declare data mainactivity oncreate method hope helps 

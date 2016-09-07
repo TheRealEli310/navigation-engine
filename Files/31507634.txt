@@ -1,0 +1,4 @@
+adding jlist javafx scrollpane 
+attempting make strings selected figured good implement methods work guides swing impossible add javafx add 
+
+short answer dont bother make href http docs oracle javafx ui controls list view htm rel nofollow provided javafx api choice href https docs oracle javase javafx interoperability tutorial embed swing htm bcgcdebd rel nofollow embedding swing content javafx applications id thing avoid feels confuse body spending time implement feel lot work spent finding solution imho 

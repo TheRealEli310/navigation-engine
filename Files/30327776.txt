@@ -1,0 +1,4 @@
+spring data jpa jparepository save return default values 
+confusing problem stealing lot time code timestamp set postgres db repository returns entity created null annotations generated href http stackoverflow questions spring data jpa jparepository saveentity returning database default values spring data jpa jparepository save entity returning database default values worked 
+
+generated values guaranteed generated flush time saving entity makes attached persistence context flush entity manager explicitely work 

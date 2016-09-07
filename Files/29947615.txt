@@ -1,0 +1,4 @@
+amazon ec2 quartz job running correct time 
+app deployed amazon ec2 server quartz scheduling jobs scheduling job run 9am noticed didnt execute 10am execute job 9am gmt executed 2pm gmt executed 3pm gmt analysis noticed time amazon server set utc hour gmt wondering part setup correct jobs executing correct time setting cron trigger setting cron quartz cronschedulebuilder greatly appreciated 
+
+wrote ec2 server running utc gmt changed sunday march standard time daylight saving time suggest time jobs utc start time job summer winter decide create timers running march october october march differ hour logical ec2 instances run utc shift time zones easier achieve 

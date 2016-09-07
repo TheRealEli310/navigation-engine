@@ -1,0 +1,4 @@
+word count 
+implement word count program unable make work method string parameter returns everthing works fine returns map keys empty correct occurrences code style code normal situation main program run program outputs thought method stream matching elements regex correct 
+
+problem fact em splitting em words streaming em em word em em words equivalent method streaming actual match results hard find feel free comment split words noted comments make em bit em readable lambda imho hard comprehend inverse lookup difficult generalize complex patterns personally school solution making bit compact href http docs oracle javase docs api util map html getordefault lang object rel nofollow result cases 

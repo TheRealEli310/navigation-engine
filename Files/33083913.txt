@@ -1,0 +1,4 @@
+building stairs asterisks 
+tasked writing program prompts user input positive number draws blocks asterisks form stairs block length width number entered block double size number blocks shown equal number entered sample output input 
+
+add loop size steps 

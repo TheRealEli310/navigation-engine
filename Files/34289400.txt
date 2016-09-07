@@ -1,0 +1,4 @@
+create cucumber feature gherkin empty list argument 
+cucumber written scenario takes argument works successfully method definition problem pass ids list test simply doesnt execute tells implement relevant test methods thinks line ending list method doesnt arguments empty passed method 
+
+strong workaround strong elegant solution set step definition youll receive initialized empty method hope helps ill waiting answers give solution 

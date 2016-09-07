@@ -1,0 +1,4 @@
+node relationship id neo4j embedded 
+looked easily href http stackoverflow questions neo4j node id node id cypher methods node interface support return href http neo4j api docs rel nofollow node object based id return node id neo4j embedded library question relationships 
+
+href http neo4j docs javadocs org neo4j graphdb graphdatabaseservice html getnodebyid long rel nofollow graphdatabaseservice getnodebyid href http neo4j docs javadocs org neo4j graphdb graphdatabaseservice html getrelationshipbyid long rel nofollow graphdatabaseservice getrelationshipbyid 

@@ -1,0 +1,4 @@
+feed dataprovider multiple files testng 
+requirement maintain multiple files folder dataprovider method read set files constructs final object array return method reading file eventhough iterating files fix 
+
+moved loop declare inside loop wont accessible figure set array size prior youve written results csv file correct object declare declare arraylist populate arraylist results convert object return object convert arraylist object return dataprovider 

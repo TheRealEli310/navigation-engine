@@ -1,0 +1,4 @@
+maven plugin mark invalid eclipse mars 
+newly created maven project imported eclipse eclipse complaining plugins embedded version maven inside eclipse heres error 
+
+similar problem problem maven filtering dependency upgrading recent version fixes problem solution originally posted href http stackoverflow http stackoverflow 

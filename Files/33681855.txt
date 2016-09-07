@@ -1,0 +1,4 @@
+mysql aws lambda python 
+mysql connector python equivalent module form zip included aws lambda function trouble apparently lambda functions written node js builtin library talk mysql rds dont python wouldnt install takes long time requires assumptions underlying operating system windows separate installer question work box machinations package mysql jar file 
+
+windows added steps python pip installed mysql connector python trick href https geert vanderkelen org install mysqlcpy pip rel nofollow 

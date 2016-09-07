@@ -1,0 +1,4 @@
+int object comparison valid 
+code compiles results error blockquote incomparable types int object blockquote question href http stackoverflow questions comparing object int comparing object int nbsp nbsp dont compare documentation interested background knowledge informed decisions undecided href http en wikipedia org wiki intellij idea intellij idea jdk 
+
+applies autoboxing int created edit behaviour recognized treated bug oracle br href http bugs bugdatabase view bug bug id jdk javac accepts erroneous binary comparison operations blockquote relevant jls section javac treat reference comparison reference comparison allowed operands reference types br br type rules binary comparisons jls section correctly enforced javac strong jdk5 strong javac accepted programs object primitive comparisons incorrectly typed jls comparisons correctly identified type errors blockquote 

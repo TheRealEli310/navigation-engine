@@ -1,0 +1,4 @@
+create json object keys upper case 
+project android app rest web service br br client volley br server api jersey br converter gson time question provide evading code convention working project pojo fields defined upper case sadly change find fix json string convert instance uppercase pojo basicaly client pojo lt json object converted gson lt server pojo lets field jersey sends instance convention creating json sends object converted json instance clients pojo null field field lower case jsonobject managed method parses jsonobject puts key upper case luckily requires string jsonobject parameter class managed solve problem question elegant making json ignore code convention create json object exact field case 
+
+jersey jaxb internally marshall beans xml json annotation attribute set attribute marshalling 

@@ -1,0 +1,4 @@
+type promotion precedence varargs overloaded methods 
+output code int long byte type argument function present program promoting byte values int case clarify 
+
+variable argument methods chosen compiler case overloaded methods promotion widening conversion preferred method takes var arg parameter reason language backward compatible older features priority newer features simple understanding href http docs oracle javase specs jls se8 html jls html jls rel nofollow jls variable arguments widening beat boxing boxing beat var args 

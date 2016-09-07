@@ -1,0 +1,4 @@
+spring bean soaphandler 
+spring bean method called handler chain xml handler chain xml customerhandler class spring configuration xml calling web service spring bean null class spring bean method 
+
+extended springbeanautowiringsupport customerhandler class solved public class customerhandler extends springbeanautowiringsupport implements soaphandler 

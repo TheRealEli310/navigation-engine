@@ -1,0 +1,4 @@
+debug application running docker intellij 
+jetty application running docker debug application local intellij installed docker integration plugin clouds default values showed click intellij docs dont values run debug configurations docker deployment values run javax ws rs processingexception org apache http conn httphostconnectexception connect href http rel nofollow http failed connection refused api url incorrect suggestions debugging options 
+
+sheesh mind didnt docker integration plugin deployment management docker directly intellij debugging debug jetty app running inside docker container simply remote debugged run edit configurations remote command line args default remote debugging options needed change host settings hostname set docker container 

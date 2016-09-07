@@ -1,0 +1,4 @@
+url pattern doesnot works localhost url jersey maven 
+web xml haveputted url pattern rest iam building webservice jersey running tomcat error web xml webpage inside image callig rest withlocalhost urland exception img src http stack imgur cjfxc png alt enter image description authentication 
+
+resloved issue adding piece code inside program check installed jars href http stackoverflow questions jersey rest web service tomcat eclipse 404s jersey rest web service tomcat eclipse 

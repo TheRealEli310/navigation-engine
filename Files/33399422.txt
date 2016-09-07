@@ -1,0 +1,4 @@
+make integer auto increment 
+text file records format records wrote small method add records text file id unique record records acceptable code make id auto increment entering record 
+
+finally found answer question hope programmers code explanation create variable called max initialize time create file adding records id record text file exists program search max id increment adding record id errors guys 

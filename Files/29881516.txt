@@ -1,0 +1,4 @@
+add cheat function mastermind game 
+writing mastermind game codes program works add function users input program prints cheat code entered secret code xxxx random number generated continue wrote separate function order achieve calls secret code change everytime avoid problem achieve function btw logic cheat function 
+
+cheating edit ways access random pass random parameter make random member variable 

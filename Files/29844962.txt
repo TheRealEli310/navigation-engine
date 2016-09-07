@@ -1,0 +1,4 @@
+recursively input string return string character repeated 
+basically assignment requires write method called stutter method supposed input string return string character repeated input string result running method hheellpp bunch things work code error error appreciated isnt huge program posted entire stutter class bugging simple fix 
+
+change line code work expected clearer solution blockquote word stutter br abcdefg br aabbccddeeffgg blockquote explanation happen empty string youre verifying empty adding simple check youre missing tip debugger youll understand flow program writing recursion pencil paper draw calls understand 

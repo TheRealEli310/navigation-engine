@@ -1,0 +1,4 @@
+change background color jpanel mouse enters jpanel 
+swing question excuse faults make jpanel container gridbaglayout holds number smaller jpanels serve buttons set small jpanel mouseentered listener background color enters change color row column panel enter mouse cell background cells alse changed container cell class main class 
+
+solution ol li give cell public methods classes change background color state li li cells mouselistener fire property change mouse enters mouse leaves li li model recommended clean mvc pattern listen notify view row column color change li li clean mvc quick dirty gui cellpane add propertychangelistener cells notified individual cell state wrt mouse enter leave cellpane change row column colors calling public methods point li ol 

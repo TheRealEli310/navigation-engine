@@ -1,0 +1,4 @@
+spring controller return view json 
+map page request return view em em json object simultaneously utilizing jackson json provider heres controller method returns view fine json object jackson builds annotate method write json object http response automagically return arraylist json object returned view blank html doc return json object redirect reports jsp time 
+
+presume youre returning return view return response body return thing split requests put json model retrieve jsp jsp 

@@ -1,0 +1,4 @@
+reference container element array 
+anonymous class access variable surrounding method variable class write variable order capture object created enclosed type created single element array act reference appears work imagine good performance feels slightly hacky trivial write class replace existing class standard runtime looked isnt thing immutable implementations weak phantom references 
+
+href http docs oracle javase docs api util concurrent atomic atomicreference html rel nofollow id downside multiple threads involved em slightly em misleading designed concurrent access simple wrapper object nice solution 

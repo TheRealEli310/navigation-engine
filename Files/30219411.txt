@@ -1,0 +1,4 @@
+rxjava retrywhen resubscribe propagation 
+retrofit rxjava android app communications handle error parsing response seemly http response status code implemented handling error operator connected users input decide retry works resubscribing original approach service called operator resubscribe services end working implementing operator doesnt send forward correct dealing simpler 
+
+bug implementation throwing exception function bad thing function supposed pure side effects operator case code works expected retries request error occurs 

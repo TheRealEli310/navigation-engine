@@ -1,0 +1,4 @@
+nullpointerexception downloading images imageview android 
+attempting brush android project work seams touch thought creating app uploads pictures remote server shows uploads thumbnails section struggling downloading image applying image view list view receiving null pointer exception nice due starting number async tasks image stack trace android code show images class downloadimages class 
+
+turned bit tricky fix end issue unable reference imageview object inside listview object whilst simpleadaptor answer create custom class extends simpleadaptor ended picasso library helped fix problem offered image processing features resize previously allowed answer href http stackoverflow questions android diplay pictures simpleapapter list view android diplay pictures simpleapapter list view run additional issues context custom class extends simpleadaptor called works pretty image cache image download change hope helps future contributed 

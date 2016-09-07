@@ -1,0 +1,4 @@
+spring resttemplate put entity server 
+simple code code intended list shops server json format map response array shop objects put shop api shop request entity format returned add url create shop class object fields filled values put exchange httpmethod put clarify beginner spring code appreciated edit double confused noticed method resttemplate put exchange put 
+
+put returns void exchange response place check documentation href https docs spring io spring docs current javadoc api org springframework web client resttemplate html rel nofollow https docs spring io spring docs current javadoc api org springframework web client resttemplate html 

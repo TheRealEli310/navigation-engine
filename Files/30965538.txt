@@ -1,0 +1,4 @@
+spring controller unit testing spring test mvc failing 
+learning unit testing spring controller easymock spring test framework simple unit testing controller failing test case included controller import test case noclassdeffound exception dont understand making mistake point direction 
+
+issue related code youre missing library jar javax servlet servletexception runtime youre exception check class path servlet api jar location adding servlet api jar class path location resolve issue check jars class href http grepcode search start amp query javax servlet servletexception amp entity project rel nofollow 

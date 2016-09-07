@@ -1,0 +1,4 @@
+selected drop list jsp controller class liferay portlet references 
+liferay platform created drop list values true false false selected default click update button updated preferences field drop list code giving null read selected drop editpreferences jsp editcontroller render editpreferences jsp editconytroller class fine kind suggestion code editpreferences jsp editcontroller 
+
+select tag missing attribute id doesnt affect parameter binding prefixed portlet namespace rendering complete html manually time aui liferay ui taglibs 

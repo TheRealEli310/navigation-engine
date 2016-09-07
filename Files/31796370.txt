@@ -1,0 +1,4 @@
+permit forwarding external url spring security 
+wondering make redirect workin spring security auth pathes work correctly cames doesnt redirect spring security release spring mvc release 
+
+guys heres answer hope thing enable jsr250 security configuration bean added permitall annotation method contained redirecting nice debugging 

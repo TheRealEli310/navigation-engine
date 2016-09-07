@@ -1,0 +1,4 @@
+unable ejb business object 
+situation call methodb ejb methoda ejb transaction starting methodb read threads reference ejb work blockquote lang exception ibm ejs container unknownlocalexception nested exception lang illegalstateexception requested business interface found blockquote working ejb 
+
+href http docs oracle javaee api javax ejb sessioncontext html getbusinessobject lang class rel nofollow javax ejb sessioncontext getbusinessobject ejb method href http docs oracle javaee api javax ejb sessioncontext html getejblocalobject rel nofollow javax ejb sessioncontext getejblocalobject youre successfully distant past cast business interface 

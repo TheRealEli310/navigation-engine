@@ -1,0 +1,4 @@
+setting threadlocal variable constructor work 
+learning threads lesson local thread values decided make program set local thread constructor thread constructor show screen check worked start threads local values turn null nullpointerexception miss set local thread values start method 
+
+banthars answer illustrate code adding prints output changing names bit instantiating class set strong main strong thread access threads 

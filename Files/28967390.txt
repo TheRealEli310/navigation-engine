@@ -1,0 +1,4 @@
+set field jni 
+class code set string dont create objects assign string env setobjectarrayelement strings 
+
+methods getstaticfieldid setstaticobjectfield string object assume create string native string href http docs oracle javase docs technotes guides jni spec functions html wp5901 rel nofollow accessing static fields jni documentation edit sample code error checking omitted 

@@ -1,0 +1,4 @@
+comparing php timestamp int timestamp long 
+hit brick wall downloading encrypted level data server made level creator created level data stores updated version data long update levels download list levels time modified file php id store time json tis option results compare problem downcast produces totally inaccurate results strong edit strong attempted suggestion result wrong 
+
+solution lose accuracy long php produce longs 32bit scalar vars make cast int youve length long youll inaccuracies 

@@ -1,0 +1,4 @@
+automatically populate junit setup teardown 
+good portion tests application common setup teardown create junit test case class option eclipse automatically create setup teardown methods change default setup teardown methods custom lines code create test class setup method checked import shouldnt problem automatically import required package save 
+
+change output eclipse junit test case wizard rewriting plugins source code generated code href http alvinalexander jwarehouse eclipse org eclipse jdt junit src org eclipse jdt junit wizards newtestcasewizardpageone shtml rel nofollow hard coded wizard junit supports inheritance apply common test cases put common parent class inherit test cases 

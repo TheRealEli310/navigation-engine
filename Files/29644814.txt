@@ -1,0 +1,4 @@
+spring jpa deleteinbatch stackoverflow 
+question deleting items db deleteinbatch object list objects list 7k elements remove elements deleteinbatch deleting items sipmle delete method works takes minutes delete code good solution speed deleting process change deleteinbatch hibernate stack increasing complete stacktrace 
+
+case delete query translated jvm throws stack overflow error search em em basically criteria statement guess case generate delete query execute split data lists 

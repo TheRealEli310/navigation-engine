@@ -1,0 +1,4 @@
+spring security role hierarchy working config 
+spring framework forgive provide info add rolehierarchy app work codes hr strong securityconfig strong hr strong methodsecurityconfig strong hr provide finally apis hr problem login role staff role developer role admin result work fine super role didnt work fyi spring security release 
+
+everytime implement hierarchy roles spring security config approach ol li add strong rolehierarchyimpl strong bean context strong multiple roles strong build hierarchy li li create web expression handler pass obtained hierarchy li li final step add expressionhandler http authorizerequests li ol strong result strong visit strong dba strong section logged admin user role admin created hierarchy access denied result visit section problems 

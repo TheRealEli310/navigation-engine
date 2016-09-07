@@ -1,0 +1,4 @@
+fixed length bytes ec signature jce 
+fixed length byte ecdsa signature nist curve implementation hast jce code sample generate signature verify problem sign encoded der format bytes long byte unencoded raw signature convert fixed length byte signature check bytes tokensignature dont convert byte tokensignature back format achieved byte signature verification bouncycastle ecdsasigner ecdsasigner extending signaturespi working jce complient crypto server 
+
+working maartenbodewes 

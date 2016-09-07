@@ -1,0 +1,4 @@
+extends listactivity appcompatactivity android activity 
+activity extends listactivity pulltorefresh customactionbar appcompatactivity solve issue advanced 
+
+listview app directly extending listactivity 

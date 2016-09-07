@@ -1,0 +1,4 @@
+access remote ibm mq server queue mq client program 
+ibm mq requirement connect remote ibm mq server queue ibm mq client access queue mq client ibm mq api approach setup ibm mq server ibm mq explorer local machine created queue manager queue written program connect mq ibm mq api program parameters work fine send receive messages mq server queue program installed ibm mq client machine connect server queue program mq client h2 requirement h2 ol li mq server running machine li li connect server queue mq client installed local machine li li program send receive messages server queue local mq client li ol achieve 
+
+point connection parameters application connect remote queue manager configure authentication authorization remote queue manager application connect configured mqrc authorized errors 

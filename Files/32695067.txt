@@ -1,0 +1,4 @@
+operator int long usage 
+doesnt compile em incompatible types lossy conversion long int em compile allowed 
+
+compound statement compiler internally casts case compiler straight shouted direct statement line compiler version equivalent lossy conversion conversion long int href http docs oracle javase specs jls se8 html jls html jls rel nofollow http docs oracle javase specs jls se8 html jls html jls blockquote compound assignment expression form e1 op e2 equivalent e1 e1 op e2 type e1 e1 evaluated blockquote 

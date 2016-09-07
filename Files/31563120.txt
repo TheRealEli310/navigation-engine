@@ -1,0 +1,4 @@
+avoid subclass final keyword 
+prevent creation subclass es keyword 
+
+options ul li create private constructor li li make method final people override avoid accidental calling methods subclass doesnt stop subclassing li li put check constructor class getclass abc class throw runtimeexception subclasses allowed li ul strong em em strong em provided solve problem em em em 

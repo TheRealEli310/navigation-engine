@@ -1,0 +1,4 @@
+compare integer object 
+loop execute understand separately returns true doesnt case loop shouldnt execute infinite loop 
+
+performed references sides compiler unboxes code equivalent refer objects conditions met loop executing 

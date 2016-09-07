@@ -1,0 +1,4 @@
+typed typed arraylist 
+whats difference typed typed typed typed situation preferred difference holding datatypes arraylist 
+
+preferable option dont meant syntax left earlier compiles purposes backwards compatibility generics introduced allowed types angled brackets preferable generics type accidentally add integer array list add integer program compile generics ensures type safety compile time runtime maintain backwards compatibility 

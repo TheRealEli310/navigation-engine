@@ -1,0 +1,4 @@
+pause resume threads sleeping 
+thread running simulation iterating step dynamic system logic layer repainting gui results screen order user view system changing sleep repaint pause simulation observe stop repainting iteration system user resume simulation pause simulationthread resume wait method problem thread slept wait called suspect change thread wait repaint order acomplish pause resume task 
+
+method pause simulation resume inside thread pause change system parameters 

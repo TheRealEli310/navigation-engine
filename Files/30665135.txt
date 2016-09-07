@@ -1,0 +1,4 @@
+androidtestcompile dependencies recognized imports 
+project unit tests configured src test recently needed add instrumental test src androidtest added espresso dependencies build gradle chose build variants test artifact android instrumentation tests start code dependencies reconized resolve symbol onview resolve symbol viewinteraction activity test android studio resolve dependencies forget configure 
+
+rebuild project android studio build rebuild project doesnt run gradle task wrapper module app make androidtest tasks espresso dependencies update rebuilding project doesnt solve problem solution rebuild test apk manually executing gradle task 

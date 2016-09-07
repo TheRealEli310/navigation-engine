@@ -1,0 +1,4 @@
+inject ejb jar war files 
+working glassfish tidy put business logic single ejb jar war files ul li app frontend war li li app backend war li li app logic ejb li ul war files ejbs app logic ejb jar ejb jar holds main persistence unit finding inject app logic ejb ejbs war files working avoid ear 
+
+href http docs oracle javaee tutorial ejb intro004 htm rel nofollow ee tutorial finally worked beans app logic ejb glassfish annotated remote beans war files ejb injection inject correct interface war file share interface ejb jar war files library needed make work turns ul li strong app library strong li li app logic ejb li li app frontend war li li app backend war li ul 

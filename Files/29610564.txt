@@ -1,0 +1,4 @@
+libgdx rotating sprite center 
+rotate sprite center matter rotating corner create sprite rotate deltatime render book learning libgdx game development edition worldcontroller worldrenderer missing shouldnt set sprite origin center draw behaviour img src http stack imgur b5lzo gif alt enter image description rotate place 
+
+found problem declared pixmap 32x32 size filled triangle messing changed size 64x64 triangle drawn coordinates occupying bottom left subsquare pixmap rotating 

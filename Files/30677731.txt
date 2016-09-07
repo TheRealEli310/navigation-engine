@@ -1,0 +1,4 @@
+modify sqlupdate convert joda datetime object h2 readable timestamp 
+modify convert object readable timestamp dao object method file href http www liquibase org xml ns dbchangelog rel nofollow http www liquibase org xml ns dbchangelog test test error 
+
+registering argument factory dbi register argument factory dbi automatically care converting datetime sql timestamp 

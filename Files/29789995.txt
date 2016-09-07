@@ -1,0 +1,4 @@
+override getvirtualuserdir apache mina sshd core version 
+apache mina sshd core version due issues file uploading change version override getvirtualuserdir method sample code overcome problem apache mina sshd core version 
+
+purpose mina sshd set initial directory file system mina sshd purpose served parameter constructor documentation claims call constructor directly calls overload constructor comment obsolete factory finished typo referred factory overriding 

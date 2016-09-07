@@ -1,0 +1,4 @@
+datastax driver core exceptions invalidqueryexception unconfigured table schema keyspaces 
+configure spring data cassandra bellow error app deploying tomcat check connection port include stack trace spring configuration bellow idea error full stack trace spring configuration 
+
+problem spring data cassandra december write provide support cassandra heres excerpt conversation developers spring channel freenode blockquote lt amicable spring data cassandra supports cassandra dependencies amp datastax drivers lt ollie amicable future lt amicable ollie lt amicable ill relative merits lt ollie sd cassandra community project progress highly depends time developers spend lt ollie joining team february project closely aligned core spring data projects blockquote 

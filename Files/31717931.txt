@@ -1,0 +1,4 @@
+dropwizard powermock mockito maven build error classnotfoundexception threadsafemockingprogress 
+testing static method power mock pom xml entry running test cases command prompt error intellij ide run test cases click project run tests works absolutely fine idea issue 
+
+defining power mock jars pom xml dont explicitly define dependent jars incompatible versions classpath versions amp remove mockito dependency pom br 

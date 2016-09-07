@@ -1,0 +1,4 @@
+spring entitymanager configuration 
+studying spring integrating entitymanager error configuration jpa href http www baeldung persistence layer spring jpa rel nofollow http www baeldung persistence layer spring jpa 
+
+href http docs spring io spring boot docs current reference html boot features sql html rel nofollow spring boot configuration easier wouldnt set beans datasource boot configure configure application properties href https github netgloo spring boot samples tree master spring boot mysql springdatajpa hibernate rel nofollow good 

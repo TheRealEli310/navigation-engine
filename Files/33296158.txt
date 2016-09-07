@@ -1,0 +1,4 @@
+exception extracting xmltype oracle 
+extract xml datatype oracle table facing exception code snippet double checked query fetching resultset working expected facing issue xmltype column 
+
+pom dependency recommend oracle drivie version 

@@ -1,0 +1,4 @@
+glpk output 
+print resolved problem glpk console file output gusek listeners glpkcallback addlistener glpkterminal addlistener code return hope heres code href https jsfiddle net ilucasrds enok1h5k rel nofollow https jsfiddle net ilucasrds enok1h5k 
+
+show things output listeners hand information provided solver running gusek hand solution solver depending kind information solution api routines kkt conditions simplex interiorpoint integer feasibility report writes sensitivity analysis report comparable gusek output additional len list attributes define specific set rows cols analyse output len row col analyzed code processing solution return objective coefficient defined column 

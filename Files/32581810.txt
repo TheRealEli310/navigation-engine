@@ -1,0 +1,4 @@
+serialize date swagger spring mvc 
+swagger ui stub server spring mvc generated swagger codegen date format enter date returns unix date time format rfc format date date time 
+
+found answer overwrite jsonformat returning json object problem forget 

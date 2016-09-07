@@ -1,0 +1,4 @@
+lambda called closures 
+lambda find called closures reason called closures technical explanation 
+
+terms happen mentioned context ul li strong lambda strong basically anonymous function function doesnt li li strong closure strong term scoping instance refer local variable inside lambda create closure em capture em inside lambda textually access inside lambda mind lambda stored called long popped stack li ul creating lambda expression requires creating closure implicitly 

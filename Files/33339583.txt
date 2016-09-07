@@ -1,0 +1,4 @@
+android classes memory leak leak context 
+handler splash screen delaying redirection activity activity passing context class holding context inside strong em button click em strong strong tools strong reason leakage strong em handler em strong 
+
+ol li anonymous fashion li li avoid passing activity parameter classes context li ol info br href http www androiddesignpatterns class handler memory leak html rel nofollow http www androiddesignpatterns class handler memory leak html href http www androiddesignpatterns activitys threads memory leaks html rel nofollow http www androiddesignpatterns activitys threads memory leaks html 

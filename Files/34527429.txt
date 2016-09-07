@@ -1,0 +1,4 @@
+spring framework autowire primitive types 
+spring documentation mentioned design understand thinking design 
+
+alternative referencing existing beans applicationcontext expects strong bean strong strong class strong primitive class differs object primitive types wrapper classes primitive types integer double autowiring types referring strong class strong 

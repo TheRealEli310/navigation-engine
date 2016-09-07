@@ -1,0 +1,4 @@
+operation connection commit allowed global transaction jax ws service 
+jax ws service run hibernate transaction exception xa data source client junit connecting database web service global transaction set policy sets websphere admin console set hibernate transaction transactional web service annotated thusly top implementation class client eclipses wsgen wizards generate services annotations work extent control parameters transactional thing holding back 
+
+reason transactional annotation ejb default href https docs oracle javaee api javax ejb transactionattribute html rel nofollow transaction attribute ejb applications href https docs oracle javaee api javax ejb transactionattributetype html required rel nofollow required dont add annotation stateless session bean class perform transactional logic lower level application describe global transaction initiated 

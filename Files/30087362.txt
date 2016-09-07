@@ -1,0 +1,4 @@
+count recurrent words files 
+code count word occurences file files display recurrent files words separated table idea files 
+
+coarse algorithm ol li read file store words li li read file store words li li compute intersecting set retaining words contained href http docs oracle javase docs api util set html retainall util collection rel nofollow li li final list li ol reuse file reading algorithm put method strong count frequency occurence strong frequency occurence read file maps word frequency occurence file href https docs oracle javase docs api util map html merge util function bifunction rel nofollow function simplifies counting apply slightly modified algorithm ol li read file store words li li read file store words li li extract words map li li compute intersection retaining words map li li words common frequencies words files li ol data structures easily information 

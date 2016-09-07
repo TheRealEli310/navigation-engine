@@ -1,0 +1,4 @@
+creating json response multiple values restful service 
+implemented method restful web service eclipse project simply returns presented json response clients access works properly lets multiple values return values separately response strong creating custom object strong strong wrote scenario project mine strong write method return objects types response restful web service dont create separate object encapsulate strong em tada question time em strong return multiple values string boolean json response method written returns string 1st return values define method simply ihttpactionresult dont explicitly object type 
+
+make class wrap values return response inside single class illustration naming class sampleresponse method definition job 

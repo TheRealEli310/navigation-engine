@@ -1,0 +1,4 @@
+jersey client send string application json type 
+send string format problem client parsing string sending client converting change type sends request correctly send 
+
+genson encode string literal json string case generally people expect serialize string json string solution extend href https github owlike genson blob master genson src main owlike genson ext jaxrs gensonjsonconverter rel nofollow gensonjsonconverter override iswritable return false input type string register work opened href https github owlike genson issues rel nofollow issue added flexible feature 

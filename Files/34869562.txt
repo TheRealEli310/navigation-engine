@@ -1,0 +1,4 @@
+quartz scheduler memory leak tomcat 
+quartz version spring boot version behaves works fine problem arises shut application log shows memory leak quartz configuration classes implement job class similar stuff scheduler factory bean tomcat log quartz documentation added properties thread message disappeared message memory leak application logger problem memory leak application logger shows threads shutdown 
+
+problem tomcat shutting quartz jobs running wait sec shuts properly extending overriding method bean declaration makes wait till threads future 

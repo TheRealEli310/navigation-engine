@@ -1,0 +1,4 @@
+upserts slow mongodb api 
+mongo driver mongo move spring data save mongodb apis bulk writing saving updating 100k objects write service repository layer code pass collection specific objects create records update existing records words upsert insert performance acceptable update code upserts performance slow wrong code sample scaled logic error handling replaceone updateone results noticed mongo log nscannedobjects increasing nmatched nmodified upsert larger table scanning record upsert correct suggestions 
+
+ry donahue figured issue correct id field index conversion domain object dbobject ended id id field changed updateone replaceone code good performance 

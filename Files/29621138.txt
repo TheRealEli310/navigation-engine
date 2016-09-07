@@ -1,0 +1,4 @@
+assertthat map1 sameinstance map2 allowed 
+assert grammar testing identity write assert identity map write map type tests fail compile time junit hamcrest figure matcher 
+
+turns asserting identity map code correct generics class test looked test written compilation error line unknown compiler couldnt find matcher fixed test declaring raw type find odd compiler complains previous line 

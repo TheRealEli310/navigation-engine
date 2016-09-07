@@ -1,0 +1,4 @@
+jinq hibernate 
+write linq style specific queries jinq href http www jinq org index html rel nofollow http www jinq org index html streams set section jpa entitymanagerfactory href http www jinq org docs queries html n65755 rel nofollow http www jinq org docs queries html n65755 project hibernate sessionfactory jinq workaround 
+
+simple viewing javadoc jinq shows jpa emf jpa downside jpa easily dip vendor specifics jpa majority 

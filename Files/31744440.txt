@@ -1,0 +1,4 @@
+apache poi api identify tables excel sheet read 
+method returns list tables present sheet requirement fetch data multiple tables present sheet 
+
+lets assume api excel files tables created read border create trivial algorithm reads cells sheet checks boundaries defining consists check youve found 

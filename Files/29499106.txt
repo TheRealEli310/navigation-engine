@@ -1,0 +1,4 @@
+patch jersey client api unit testing 
+working rest api implementation jersey partial updates implemented custom implementation jersey support figure write functional tests implementation jersey test framework methods support framework extend jersey test framework implementation write functional tests test frameworks test jersey implementation provide examples great 
+
+assuming implementation consists custom annotation default supported exception problem api directly lower level apis security restriction client api override setting property ul li href https jersey net apidocs latest jersey index html org glassfish jersey client httpurlconnectorprovider html rel nofollow true li ul configure override set property easily set property staying spirit framework dont explicitly access override method 

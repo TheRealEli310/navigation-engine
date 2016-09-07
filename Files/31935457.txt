@@ -1,0 +1,4 @@
+avoid closing popup menu mouse clicking javafx combobox 
+combobox custom listcell click mu custom component popup closes avoid method event override 
+
+internally utilizes rendering items skin class source code class boolean flag control popup hiding behavior listview behavior implemented custom skin workaround manually hide popup changed instance didnt fully test anonymous skin approach 

@@ -1,0 +1,4 @@
+number kills player bukkit 
+coding tested plugin happen basically player kills player kill count player instance kills players code guys 
+
+problem youre increasing variable time player kills player fix variable player players href https docs oracle javase docs api util uuid html rel nofollow href https hub spigotmc org javadocs bukkit org bukkit entity entity html getuniqueid rel nofollow representation href https docs oracle javase docs api util uuid html rel nofollow href https docs oracle javase docs api util uuid html tostring rel nofollow change players kills logic deaths method 

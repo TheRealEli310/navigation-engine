@@ -1,0 +1,4 @@
+profit static method jdbc 
+jdbc connection load class driver invocation class method load class add drivermanager holder connection invoke static method method creates connection separate thread question authors jdk static method role static approach 
+
+previously needed explicitly load class drivers contained initialization code run class loading time longer required drivers register static method open connection registered drivers driver chosen depend jdbc url static factory method return native connection object implements interface easily advantage operations static longer static methods static reasons static factory method jdbc driver implementations 

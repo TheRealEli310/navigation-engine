@@ -1,0 +1,4 @@
+android app crashes button clicked show activity listview 
+code found net decided app applicable button clicked show activity data database shown list view heres code heres class button located click app crashes wrong activity list view edit edited manifest file added app crashed heres log list view 
+
+declare mainactivity5 class adnroidmanifest xml file hr extends listactivity dont setcontentview default list view getlistview hr 

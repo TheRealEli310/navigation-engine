@@ -1,0 +1,4 @@
+mock private fields class junit testing 
+public method class tested private fields mock private field junit test method don access private field modify values pass junit tests results 
+
+reflection junit test works class variable method ensure successful calling class reflection methods setting alter local copy 

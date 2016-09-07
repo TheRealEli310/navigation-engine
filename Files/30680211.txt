@@ -1,0 +1,4 @@
+show multiple canvases container 
+pretty show multiple canvas objects container object dont swing components code mycanvas class paints line coordinate passed works fine mycanvas instance add instances mycanvas object showing 
+
+container layout set set layout 

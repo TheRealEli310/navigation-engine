@@ -1,0 +1,4 @@
+spark standalone cluster cores 
+configuration apache spark standalone cluster ul li hadoop li li nodes master slave standalone cluster li li node cassandra li li total cores master slaves li li total memory gb li ul run spark standalone cluster manager job executed successfully reads data files inserts cassandra spark documentation standalone cluster make cores cluster core application starting application spark ui showing applications running drivers running query ol li cores li li spark ui showing applications running li ol code 
+
+youre setting master app local connect dont set master app setting command 

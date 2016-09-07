@@ -1,0 +1,4 @@
+integer comparison 
+integer comparison tricky behave differently part href http ideone ffqyks rel nofollow program shows em line em behaves differently em line em em result em 
+
+href http docs oracle javase specs jls se7 html jls html jls rel nofollow jls blockquote boxed true false byte char range u0000 u007f int short number inclusive r1 r2 results boxing conversions case r1 r2 ideally boxing primitive yield identical reference practice feasible existing implementation techniques rules pragmatic compromise final clause requires common values boxed indistinguishable objects implementation cache lazily eagerly values formulation disallows assumptions identity boxed values programmers part require sharing references ensures common cases behavior desired imposing undue performance penalty small devices memory limited implementations cache char short values int long values range 32k 32k blockquote 

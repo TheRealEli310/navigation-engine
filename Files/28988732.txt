@@ -1,0 +1,4 @@
+correct implementation hinge loss minimization gradient descent 
+copied hinge loss function href https code google statistical analysis tool source browse trunk jsat src jsat lossfunctions hingeloss rel nofollow lossc lossfunc based included gradient descent algorithm doesnt work due loss function added loss function code guess implementation gradient descent faulty methods calculating gradient hypothesis rest code href https github h1395010 gradient diss ent id rel nofollow youre interested sentence loss functions correct 
+
+code provided gradient gradient hinge loss valid equation href http stats stackexchange questions gradient hinge loss http stats stackexchange questions gradient hinge loss 

@@ -1,0 +1,4 @@
+lucene memory usage 
+indexing documents hit oome slow gc limit hit code jpype expect documents fields flushed garbage collected shouldnt hit oome leak find problem lucene jpype assuming lucene problem possibilities reduce memory usage diagnose flush occurs 
+
+updating jpype bastian commented solved issue fix released version additionally memory leak party component wouldnt found jpype bug 

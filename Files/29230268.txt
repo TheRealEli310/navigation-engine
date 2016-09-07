@@ -1,0 +1,4 @@
+netty convert httprequest bytebuf 
+application receive byte array socket parse httprequest perform check checks passes back byte array work application based netty requirement idea create pipeline ol li httprequestdecoder decode bytebuf httprequest li li myhttprequesthandler checks httprequest li li httprequestencoder encode httprequest bytebuf li li mybutebufhandler works bytebuf li ol httprequestencoder extends channeloutboundhandleradapter doesnt called inbound data accomplish task nice avoid decoding encoding request massimiliano 
+
+embeddedchannel ch embeddedchannel httprequestencoder ch writeoutbound msg bytebuf encoded ch readoutbound youll member variable stateful close finished method 

@@ -1,0 +1,4 @@
+return object getter method 
+returned single field getter methods wondering return object getter times object 
+
+hope understand makes sense order return instance instance call method return cloned object 

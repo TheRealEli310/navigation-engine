@@ -1,0 +1,4 @@
+loading jpa collections immutable 
+implementation load relationship immutable collection lets entities fetchtype set eagar field instruct load employees collection immutable 
+
+ol li href https docs jboss org hibernate orm api org hibernate annotations immutable html rel nofollow immutable hibernate specific annotation li li option clone collection prior returning assuming list employees map omitting return copy backed list achieve immutability deep copy cloning ensures entity graph cloned decoupled managed parent entity li ol 

@@ -1,0 +1,4 @@
+ehcache unable distributed caching working 
+enable distributed caching ehcache projects nodes running issues ehcache core spring project relevant portions ehcache config servers strong node strong strong node strong update cache expect replicated errors nodes strong node strong strong node strong strong update strong changed configuration automatic discovery manual servers site site replicated working expected site nodes replication occuring site site site netcat telnet node nodes connections accepted relevant sections ehcache config automatic discovery offer insight replication working site ideas 
+
+check steps fix issue ol li add host listener li li check port open access accessed node1 means accessible node1 console program check similarly check node1 accessible node2 causing issue li ol optional dont ports servers port number 

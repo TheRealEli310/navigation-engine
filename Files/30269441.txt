@@ -1,0 +1,4 @@
+kafkaspout working 
+recently familiar apache kafka working producer consumer step integrate kafka spout bolt hard time examples working locally working storm book examples ch02 started reading data local text file repo storm book examples ch04 spouts href https github storm book examples ch04 spouts rel nofollow kafka spout work href https github buildlackey cep tree master storm 2bkafka rel nofollow cep kafka error 
+
+issue learning run create run kafka spout found href https github wurstmeister storm kafka test github repo kafkaspout emitting tuples rest bolts high level sample create topology hope helps jose luis 

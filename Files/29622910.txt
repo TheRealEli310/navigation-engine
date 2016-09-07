@@ -1,0 +1,4 @@
+run maven goal git bash fail 
+configured executing em testng suite em file executed file passed maven parameter trouble run console blockquote mvn integration test dmain suite circuit suite blockquote works fine test execution started run strong em error em strong couldnt investigate searches suite file pom snippet passing testng suite file parameter maven executable files saved properties strong em pom em strong case blockquote basedir src test resources webclientimpsuites circuituitests xml blockquote strong em strange behavier em strong br solve make execution 
+
+shell command line variable expands backslash tells bash leave variable pass maven 

@@ -1,0 +1,4 @@
+bufferedreader readline hangs line read 
+updated question clear design inputstream return reading line character hangs forever reader read line waiting buffer fill ideally return reading line character read wait buffer fill returning send string inputstream open suggestions strong accepted solution strong based suggestion sotirios delimanolis comments solution coupled returns immediately long call sending string line character 
+
+updated question stop reading line character set buffer size completely removes youll write implementation hr reads bytes required case means read line character oracle jvm attempt read bytes inheritance hierarchy attempt invoke method times calls return characters byte array return fully consumed attempt block indefinitely 

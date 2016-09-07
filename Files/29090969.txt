@@ -1,0 +1,4 @@
+randomized queue iterator invalid range exception 
+implementation randomized queue enqueue dequeue sample operations work fine iterator invalid range exception thrown time shuffle method understand random number generation method bound size queue code 
+
+method iteration call throws exception argument strictly greater change loop minimum href http introcs cs princeton stdlib javadoc stdrandom html uniform 28int 20int rel nofollow documentation blockquote strong uniform strong public static int uniform int int returns integer uniformly throws strong illegalargumentexception lt strong illegalargumentexception integer max blockquote 

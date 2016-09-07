@@ -1,0 +1,4 @@
+authentication authorization spring security 
+project requires spring security csrf xss protection authentication authorization configured ss application time access page automatically redirects login page disable file 
+
+requests authenticated csrf xss guards 

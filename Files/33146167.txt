@@ -1,0 +1,4 @@
+javafx binding label int 
+bind javafx strong nullpointerexception strong fix 
+
+int create simpleintegerproperty integerproperty directly 

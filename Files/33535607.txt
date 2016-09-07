@@ -1,0 +1,4 @@
+vlcj rtp streaming client side 
+project based vlcj streaming looked vlcj tutorial create server side code client video content server written client code displaying appreciated server code client side mediaplayer playmedia publicserver displaying video contents displayed jframe empty 
+
+problem code shown ip address server client connect server vlc wouldnt play mrl bit research capricas examples online found multicast ip address stream rtp problem resolved streaming client side occurred problem 

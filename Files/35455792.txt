@@ -1,0 +1,4 @@
+random generator works 
+wrote program simulates dice roll predict generated number jvm determines number generate code output numbers close real random jvm os 
+
+theyre pseudorandom numbers meaning general intents purposes theyre random deterministic dependent seed code print numbers choose seed precalculate numbers reset generator seed youll advance numbers 

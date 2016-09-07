@@ -1,0 +1,4 @@
+set javafx password field echo char 
+swing set echo char javafx 
+
+kind ugly password mask character hardcoded default skin create skin implement masking function existing feature request flexible password masking functionality ul li href https javafx jira kenai browse rt rel nofollow rt option set custom bullet mask placeholder passwordfield li ul interested contributing open jfx project javafx development nice simple start hr background making code javafx class make configurable 

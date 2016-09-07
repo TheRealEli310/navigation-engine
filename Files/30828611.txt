@@ -1,0 +1,4 @@
+place setcontentview oncreate 
+beginner android place strong setcontentview strong defining em textview em strong app crashes strong put strong setcontentview strong defining textview app runs fine blockquote amp adding setcontentview makes difference blockquote 
+
+literally sets views activity view find havent set views app crashes put access views 

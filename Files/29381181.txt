@@ -1,0 +1,4 @@
+spring sessionattributes create session response committed 
+set session attribute misunderstood works wrong explain doesnt work simple spring web mvc controller class set session variable calling sesstest recall calling sesstest exception calling stacktrace shown console web output em em 
+
+officially works designed scenario workarounds ol li manually start session li li filter ensure session present li li view render model li ol rossens clear response href https jira spring io browse spr rel nofollow https jira spring io browse spr blockquote scenario unusual typically model attributes rendering views html template responsebody return render response responsebody doesnt preclude sessionattributes error create session time late spring security filter store authentication session ensures http session absence add filter handlerinterceptor simply calls request getsession true ensure session present blockquote argue 

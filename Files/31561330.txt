@@ -1,0 +1,4 @@
+maven build fails jenkins artifact null null null jar groupid empty 
+days ago half jenkins projects started failing error made projects weeks building fine previously log actual machine run mvn clean install mvn dependency tree failing projects works build successfully dependency pom files groupid problem jenkins ver maven 
+
+fixed restarting jenkins deleting m2 repo jenkins process killed wasnt responding restart commands 

@@ -1,0 +1,4 @@
+crawler4j urls crawled issue crawled 
+playing crawler4j successfully crawl pages success crawling successfully crawl reddi code mycrawler crawl href http www ratemyprofessors rel nofollow http www ratemyprofessors program hangs output crawl code mycontroller mycrawler wondering ul li servers recognize crawlers collect data li li noticed ratemyprofessor pages jsp format li li ways debug console output li ul 
+
+respects crawler politness href https de wikipedia org wiki robots exclusion standard case file href http www ratemyprofessors robots txt inspecting file reveals disallowed crawl seed points theory supported log output 

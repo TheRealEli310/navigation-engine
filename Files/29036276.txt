@@ -1,0 +1,4 @@
+maven release prevent module uploaded nexus 
+multi modules maven project parent child modules modules built run parent module em uploaded nexus em parent module skipped parent modules uploaded nexus achieve 
+
+maven deploy plugin property href http maven apache org plugins maven deploy plugin deploy mojo html rel nofollow http maven apache org plugins maven deploy plugin deploy mojo html user property maven deploy skip 

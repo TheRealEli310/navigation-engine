@@ -1,0 +1,4 @@
+adding custom rules pmd class found issue 
+execute shown href http pmd sourceforge net pmd customizing howtowritearule html rel nofollow http pmd sourceforge net pmd customizing howtowritearule html whileloopsmustusebracesrule class found shown standard issue beginners method steps giving class found error developer commented steps work href http sourceforge net pmd discussion thread 7a34d224 rel nofollow http sourceforge net pmd discussion thread 7a34d224 missing adding class file directly classpath methods 
+
+found solution set classpath separately batch add classpath cp resetting classpath guess worked 

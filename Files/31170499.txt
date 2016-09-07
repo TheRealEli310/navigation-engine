@@ -1,0 +1,4 @@
+convert type instant type xmlgregoriancalendar 
+code convert variable type xmlgregoriancalendar research confused found similar questions 
+
+format iso format easier em edit em joda time class 

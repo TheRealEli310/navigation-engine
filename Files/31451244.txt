@@ -1,0 +1,4 @@
+spring security login logout 
+make web application spring security feel wrong missing codes security xml controller login jsp logout jsp work fine problem hit logout permission login back login screen user authenticate access page missing problem couldnt figured change login form error blockquote http status dronomy spring security check blockquote 
+
+changed security xml added removed redirect logout controller works fine ty 

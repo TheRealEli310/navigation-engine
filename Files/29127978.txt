@@ -1,0 +1,4 @@
+jframe repaint 
+issue repaint jframe repaints resize manually managed repaint setting visibility false true happening slow noticed user annoying suggestions fix problem 
+
+call removing adding components container follow call revalidate call tells containers layout managers lay components holds cascading fashion solution goal swap jbuttons button simply swap abstractactions goal swap complex gui multiple components cardlayout 

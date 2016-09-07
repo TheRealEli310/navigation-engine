@@ -1,0 +1,4 @@
+sonar nullpointer 
+dont sonar thinks line nullpointer exception occur guys idea 
+
+expanding comment invocation returns null necessarily general rely invocations method object arguments return method returning reference type principle return reflection recognize depend results invocations method npe risk expect sonar specific knowledge class necessarily reasonable genuinely evaluation compound conditional expression throw npe happen referenced file removed evaluation evaluation correct issue zapi modifiable accessible threads pretty bets 

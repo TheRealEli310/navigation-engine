@@ -1,0 +1,4 @@
+comparison method violates general contract java7 comparator 
+explain comparator throws exception id field myobject type long hr strong solution strong based answer amit 
+
+encounter integer overflow id high integers absolute values negative number wrong breaking contract comparator href http docs oracle javase docs api lang integer html compare int 20int rel nofollow similarly href http docs oracle javase docs api lang long html compare long 20long rel nofollow href http docs oracle javase docs api lang double html compare double 20double rel nofollow substracting numbers avoid hr strong edit strong specifically problem integer overflow casting long lsbs range erroneously negative href http ideone ggqedp rel nofollow demo ideone solution 

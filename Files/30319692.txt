@@ -1,0 +1,4 @@
+object arraylist list 
+object parameter function put object undefined 
+
+defined constructor makes jvm omit default constructor add manually declare object constructor 

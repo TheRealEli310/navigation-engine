@@ -1,0 +1,4 @@
+auto close dialog cancel response timeout 
+implemented javafx dialogs taking oracle documentation br href https docs oracle javase javafx api javafx scene control dialog html rel nofollow https docs oracle javase javafx api javafx scene control dialog html tutorial br href http code makery ch blog javafx dialogs official rel nofollow http code makery ch blog javafx dialogs official things br added timeline dialog window dialog window hiding sec dialog response expectation user doesnt give response time negative response recorded dialog windows closed 
+
+setting result directly working 

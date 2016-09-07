@@ -1,0 +1,4 @@
+sendmultiparttextmessage sending multiple sms messages 
+sending long sms messages android code problem phones pre lollipop noticed kitkat sms separate sms joined multipart message phones running lollipop message correctly long sms tested exact model phones running kitkat updated lollipop behaviour occurs noticed found resolution 
+
+message long typically characters separate sms messages gsm networks bit extra meta data added called user data header udh tells receiver separate messages combined happen receiver combine back single message strong receiver strong combines behaviour sendmultiparttextmessage lollipop kitkat 

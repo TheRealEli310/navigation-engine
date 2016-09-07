@@ -1,0 +1,4 @@
+unreachable catch block sqlexception 
+error catch foo unreachable catch block sqlexception exception thrown statement body dont understand throw sqlexception delete function 
+
+method throw doesnt declare clause catch clause unreachable dont throw method dont surround call block dont catch 

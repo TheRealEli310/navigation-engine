@@ -1,0 +1,4 @@
+jpa querydsl count aggregation days 
+sql query returns number events generated day output query jpa querydsl dont havent find query jpa querydsl limitations 
+
+finally solve query added date range filter 

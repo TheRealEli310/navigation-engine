@@ -1,0 +1,4 @@
+spring boot set default schema postgresql 
+file isnt property hacky post finding link update applicable postgresql 
+
+setting default schema jdbc user alter user user set search path schema property spring datasource schema href http docs spring io spring boot docs current reference html howto database initialization html rel nofollow http docs spring io spring boot docs current reference html howto database initialization html 

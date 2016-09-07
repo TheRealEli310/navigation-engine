@@ -1,0 +1,4 @@
+configure hibernate spring 
+wanted upgrade hibernate work weird reason spring context configuration hibernate left datasource hibernateclasses beans definition hibernate changed package hibernate5 run tests application context fails start find localsessionfactorybean class class resides spring orm jar present reason found throws exception maven dependencies idea wrong 
+
+add issue initial logs complained blockquote lang noclassdeffounderror javax transaction systemexception blockquote 

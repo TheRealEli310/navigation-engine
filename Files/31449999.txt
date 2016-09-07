@@ -1,0 +1,4 @@
+choose xslt processor depending xslt version 
+application stylesheets written written stylesheets functioning properly exslt continue transform stylesheets stylesheets read attribute xsl file deciding application creates absolute path xsl file 
+
+good write sax contentreader access xsl stylesheet version abort parsing version throwing saxexception 

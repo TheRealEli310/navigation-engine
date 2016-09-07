@@ -1,0 +1,4 @@
+global exception handling play framework 
+implement global exception handling play framework restful searching found extending overriding method handle errors give response view console execute activator run ugly stack trace exception stop printing stack trace play framework handling exception 
+
+issue logging independent onerror method global solved href https www playframework documentation javaactionscomposition rel nofollow action composition annotate controller controller methods annotations exceptions caught catch exceptions handle differently ajax calls dont return redirect website 

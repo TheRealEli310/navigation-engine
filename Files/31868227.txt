@@ -1,0 +1,4 @@
+spring bidirectional saving data 
+classes tables bidirectional relationship employee multiple service categories vice versa join table declared service categories class save employee object saved join table print employee related service categories details blockquote strong employee strong blockquote blockquote strong servicecategory strong blockquote hr blockquote strong update strong blockquote changed code employee code saving employee dao class result remain unable save data join table 
+
+youre setting inverse side association attribute jpa considers owner side em em attribute add employee service categories add service categories employee 

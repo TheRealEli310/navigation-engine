@@ -1,0 +1,4 @@
+pbewithsha256and256bitaes cbc bc android number iterations keygeneration cipher 
+pbewithsha256and256bitaes cbc bc bouncycastle method generate secret key generate cipher object encryption decryption pbeparamspeckey important terms security number iterations generating key generating cipher object 
+
+blockquote pbeparamspeckey important terms security number iterations generating key generating cipher object blockquote hard question answer general guidance large annoying user iterations bit low nowadays thing benchmark application devices user group fine tune slightly redesign app key derivation background idle phases longer time introduce problems keeping derived key leakable blockquote blockquote aes symmetric block cipher em em key encryption decryption generate em em key em em password salt number iterations pbkdf2 

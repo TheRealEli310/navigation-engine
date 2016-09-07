@@ -1,0 +1,4 @@
+javafx programmatically scroll scrollpane bottom 
+working small chat client friends teaching jfx side reason unable programmatically scroll bottom scrollpane chat messages method simply called scrolltobottom executes code button works method scrolling bottom programmatical approach firing button methods correctly update scrollbar scrollpane call getvvalue scrollpane supposedly scrolling returns correct scroll scrollpane scrolling supposed relevant class application chatbox type extension vbox extended type text general suggestions learning tips 
+
+found problem due multithreading interested adding small thread sleep thread executing scrolltobottom call ms lowest work 

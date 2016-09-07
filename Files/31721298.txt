@@ -1,0 +1,4 @@
+spring boot release sending mail gmail smtp 
+blockquote firstly sending email release works fine blockquote strong application properties strong strong pox xml strong br blockquote changing parent version release email sending hasnt worked blockquote strong docs strong em spring mail host relevant libraries defined spring boot starter mail default javamailsender created exists em br strong added strong hasnt helped replaced br br strong result strong br br problem create configure bean manually beauty spring boot br point mistakes advance 
+
+regression behaviour change mail href https net projects javamail sources mercurial revision change app works boot mail fails boot mail problem appears smtp transport connects port gmail expects ssl handshake mail incorrectly thinks ssl initiates handshake connection attempt eventually times convince mail thing explicit ssl add 

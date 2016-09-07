@@ -1,0 +1,4 @@
+regex matching greedy data optional suffix 
+string regex match extract parts string pass ol li prefix comma li li remainder left parenthesis li li suffix parenthesis li ol groups quotes ol li prefix commas li li remainder optional suffix li li optional suffix li ol parts string variable length remainder part commas parentheses optional suffix start space left parenthesis characters parenthesis optional spaces end line yields groups putting group end group 
+
+regex lazy quantifier group guarantee group match parentheses hand group doesnt nested parens force match set parens string strong code strong strong output strong href http rextester kufu20352 rel nofollow demo 

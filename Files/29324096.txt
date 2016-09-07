@@ -1,0 +1,4 @@
+swt browser eclipse plugin behaves differently mac windows 
+swt browser eclipse plug project shows browser view displays html generated locally mac works fine open local link browser code behavior windows succeed click link remove listener internet explorer window opens click lick windows swt browser style read posts make mozilla style browser windows dont users extra setting install solution edit code show local html file 
+
+works fine windows content pre class lang html prettyprint override content pre class lang html prettyprint override 

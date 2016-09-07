@@ -1,0 +1,4 @@
+jackson jsontypename annotation subclasses 
+href https github sergey80 scala samples blob master src main scala json jackson subclasses scala rel nofollow link understand strong strong subclasses internet href http stackoverflow questions polymorphism jackson annotations jsontypeinfo usage sujests put works strong strong 
+
+dont href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsonsubtypes type html rel nofollow documentation explains blockquote definition subtype optional missing class type checked jsontypename annotation missing empty default constructed type id mechanism default based class blockquote 

@@ -1,0 +1,4 @@
+accessing hashmap custom pair object key 
+writing 2d game decided hashmap store map data support negative indices map coordinates size map grow game written custom pair class stores final values pair object key hashmap values instances custom cell class declared hashmap add entries map unique coordinate cell access fields methods cell method hashmap specific individual pair pair pair key simply string int problem figure format key object specific coordinate 
+
+override method class instances instances program strong strong equal behavior map distinct keys distinct values key yyy statements execute implementing write static helper method instantiates coordinates performs map lookup heres basic pair class started 

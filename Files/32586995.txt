@@ -1,0 +1,4 @@
+openssl client connect exit handshake 
+test ssl server check cipher supported ssl server command invoking program works pretty fact program exits process started error return code doesnt fetch information stops process exit openssl connect client server handshake completed 
+
+turns href http stackoverflow questions openssl hangs exit problem native openssl client binaries windows means end terminating close standard input workrounds terminating receive line output making copy needed binaries cygwin installation cygwin version openssl run issue previous paragraph strong windows strong problem paragraphs perfectly usable linux osx invoke closes input stream triggers automatic termination logic close stderr good measure thing moving output reading wait process termination case buffer filled os level based statement man page states blockquote interactively means session renegotiated line begins line begins strong end file reached strong connection closed blockquote 

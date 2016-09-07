@@ -1,0 +1,4 @@
+elasticsearch datehistogram aggregation fill missing data 
+elasticsearch spring data aggregations query aggregation correct data doesnt satisfy suppose query time range days data date time range miss date date histogram buckets set default aggregation doc count data 
+
+href https www elastic guide en elasticsearch reference current search aggregations bucket histogram aggregation html minimum document count rel nofollow minimum document count feature aggregation set youll buckets dont data 

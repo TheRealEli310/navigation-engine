@@ -1,0 +1,4 @@
+play framework promise 
+reading javas play framework dont experience explain theyre creating promise supposed compute double asynchronously call instance promise theyre passing instance argument implemented method map part lost map method work returning promise type whats logic calling method inside implementation 
+
+play documentation blockquote maps promise promise type function applied promise redeemed blockquote function convert type function defined finished blockquote whats logic calling apply method inside implementation function blockquote beauty scala promise framework make function applied promise redeemed read topic suggest grabbing sources documentation 

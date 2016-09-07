@@ -1,0 +1,4 @@
+set data listview list object android 
+added dummy data listview fetchweathertask getforcastweatherbycityname params returns object update variable values util list list forecastweather dont idea convert object string 
+
+create function inside converts inside class 

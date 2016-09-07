@@ -1,0 +1,4 @@
+ljava lang object cast ljava lang integer test test main test 
+happened integer subclass object answer deeply whats principle 
+
+change line returns jvm doesnt blindly downcast href http docs oracle javase docs api util abstractcollection html toarray rel nofollow docs 

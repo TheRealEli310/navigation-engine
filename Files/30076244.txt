@@ -1,0 +1,4 @@
+hibernate configuration file sessionfactory 
+struggling moment find error messages hibernate time configured wrong imo problems ul li hibernate cfg xml file wrong place didnt change classpath hibernet file inside src folder li li warning line create sessionfactory types back ol li sessionfactory li li configuration li ol li ul sessionfactory overlook ul li configured hibernate cfg xml file wrong deleting username password host safety reasons li ul find solution google simply working oracle db btw suggestions appreciated advance long post 
+
+found problem inside hibernate cfg xml file copied offical hibernate files section wrong left side password meant put 

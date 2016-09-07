@@ -1,0 +1,4 @@
+servers run tomcat apache web server 
+tomcat running servlets webserver functionality built run independently articles integrate apache webserver tomcat whats purpose improve performance tomcat serving webservices 
+
+tomcat fine servlet container lot things apache httpd easier faster apache handle security ssl provide load balancing url rewriting split content apache httpd serve em static content em images static html js leave em dynamic content em servlets jsp tomcat advantage failure tomcat render web site unusable unavailable servlets jsp pages separate increase security run apache httpd server reachable internet direct server running tomcat invisible 

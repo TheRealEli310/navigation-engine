@@ -1,0 +1,4 @@
+spring boot property package gradle 
+convert project maven build gradle project spring boot current maven config snippet jackson version property spring boot pom gradle spring boot plugin snippet code expecting spring boot plugin insert version jackson hibernate4 module doesnt happen idea achieve intention version jackson builds project 
+
+href https github spring gradle plugins dependency management plugin rel nofollow dependency management plugin import spring boots bom access properties specifies heres original file spring boot start dependency management plugin default itll apply plugin import bom 

@@ -1,0 +1,4 @@
+bubble sort code 
+code supposed bubble sort eclipse telling syntax errors line happening 
+
+youre mixing class declaration constructor declaration 

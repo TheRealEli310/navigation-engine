@@ -1,0 +1,4 @@
+inject ejb resteasy webservice 
+problem injecting ejb resteasy implemented webservice resource service application application server doesnt work 
+
+instance created setting reference registering instance singleton youll instance add set classes resteasy care creating instances managing dependencies prefer singletons auto scan feature wildfly enabled default remove content 

@@ -1,0 +1,4 @@
+path centos 
+configure jenkins server add path jenkins configuration lunix command suggestion dont yum install 
+
+solution href http tecadmin net steps install centos rhel rel nofollow tecadmin 

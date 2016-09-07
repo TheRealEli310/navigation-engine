@@ -1,0 +1,4 @@
+set root logging level application yml 
+application properties spring boot m1 started translate yaml file grew complex problems translating yaml lines easily translated add values root logging level approaches failed failed approach failed approach read href http docs spring io spring boot docs current reference html howto properties configuration html docs searched stackoverflow googled find valid syntax 
+
+configure root logging level 

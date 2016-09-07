@@ -1,0 +1,4 @@
+manage exceptions thrown filters spring 
+generic manage 5xx error codes lets specifically case db spring application pretty error json stack trace controllers class exceptions catching case db stopping middle request happen custom extending call managed read things online made confused lot questions implement custom filter found handles thought implementing made doubt dont custom exception manage add catch call implementation good exception special returning response status empty body good deal 
+
+read basics filters href http tutorials jenkov servlets servlet filters html rel nofollow figured create custom filter filter chain catch catch runtime exceptions occur create json manually put response custom filter added web xml works pre class lang xml prettyprint override 

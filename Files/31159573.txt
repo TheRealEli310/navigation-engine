@@ -1,0 +1,4 @@
+aes decryption string key badpaddingexception 
+decrypt data byte array encrypted aes string key keykeykeykeykey1 code badpaddingexception missed 
+
+dont mode padding cipher algorithm establish values data enciphered change algo aes ecb nopadding error necessarily mode padding 

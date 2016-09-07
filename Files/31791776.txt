@@ -1,0 +1,4 @@
+headers argument works requestmapping annotation 
+write inside controller method works good adds argument method doesnt invoke 
+
+requestmapping header describes headers present request routed annotated method handling calling setheader response object sets header client repsonse 

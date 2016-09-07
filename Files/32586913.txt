@@ -1,0 +1,4 @@
+inserting row google spreadsheet blank rows written delete 
+unable add row existing spreadsheet steps href https developers google google apps spreadsheets data rel nofollow https developers google google apps spreadsheets data line throws exception exception full story short similar code application fix application worked times ago managed pass oauth2 authentication 
+
+reason error message youre add blank spreadsheet header doesnt exist add headers work add list row documentation linked add headers adding list row list entry add spreadsheet properly 

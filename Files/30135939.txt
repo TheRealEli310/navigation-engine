@@ -1,0 +1,4 @@
+zipoutputstream creating corrupt unzippable zip file 
+send zipped bytes server server receive write zipped filed zipping writing server works great local version cross server implementation creates bad output sending code magic string tells server received data receiving code ideas thinking closing zipoutputstream sending magic string signals end data time call zout close immediately flushing zout closes entire socket 
+
+rid magic string send receive actual data youre presently throwing buffer em em magic string including zip data dont 

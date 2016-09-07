@@ -1,0 +1,4 @@
+error passing startdate enddate parameters sql query 
+startdate enddate start date previous month end date previous month current date fields sql query program code executing code error convert data types startdate enddate date removing simpledateformat function working wrong 
+
+oracle date function format date correctly private static final string query select case uploads upload dt date startdate dd mm yyy upload dt lt date enddate dd mm yyy 

@@ -1,0 +1,4 @@
+spring attempting autowire dependencies 
+spring mvc application autowired inside class annotated controller classes controller annotation autowired works fine add controller annotation enormous stacktrace startup boils sensing spring autowire dependency ill prove question loading contextconfiglocation dispatcherservlet webmvc config xml bare basics open jackson json api applicationcontext xml class conflict happening starts remove controller starts fine request mapping stops working put controller back duplicate jackson bean rabbitmq goodies starts errors means instances resource copy configs web inf meta inf desirable instantiate controllers ignore autowired applicationcontext care autowire function normal 
+
+define listener create root context web application load define tags bean defined application context application context dont typo class annotated 

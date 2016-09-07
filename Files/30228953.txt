@@ -1,0 +1,4 @@
+internal error occurred launching myapp heap space 
+run android app eclipse juno shows blockquote internal error occurred launching heap space blockquote modified file solve problem 
+
+occurs eclipse spawned jvm application works modify parameters run configuration run run configurations find application run configuration left pane select pane select arguments tab vm arguments test field add 

@@ -1,0 +1,4 @@
+spring boot restcontroller enabled disabled properties 
+standard spring boot application annotation technique prevents endpoint starting em em application property exists doesnt exist testing property inside method exploding solution endpoint exist dont care granularity enabling disabling method class fine hr profile property control profiles solve problem 
+
+found simple solution annotation added file controller wont start 

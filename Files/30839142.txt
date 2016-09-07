@@ -1,0 +1,4 @@
+jpos xml path javapos 
+load includes javapos decives custom location 
+
+set property set env var 

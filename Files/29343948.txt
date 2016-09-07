@@ -1,0 +1,4 @@
+lang verifyerror errors asm 
+write instrumentation module programs instrumentation add collecting objects methods argument list processing list object arguments pop method args stack push adding instrumentation call works type errors large programs popping pushing object back stack change type alternatively solution duplicating arguments stack popping 
+
+popping arguments store local variable array assume perfectly override variables stored accessed case changed types stored variables yields error verification verification determinisitic process simply compare byte code failing method verifiers complaint make types match 

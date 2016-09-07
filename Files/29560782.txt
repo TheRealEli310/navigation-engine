@@ -1,0 +1,4 @@
+floatbuffer matrix4f wrong order lwjgl 
+matrix text file brought floatbuffer stored matrix4f class lwjgl matrix text file add float buffer matrix nums float array values print matrix4f class shows transpose function matrix4f class back strong lwjgl change order values create matrix4f strong text file holds matrix colum major matrix ordering opengl format lwjgl changing matrix make difference transpose function change back 
+
+answer function class expects float values column major matrix column major order natural order reading file row major comments showed suggestion leave loading file column major afford transposing matrix 

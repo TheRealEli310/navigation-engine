@@ -1,0 +1,4 @@
+train stanford postagger model 
+creating custom post tagger model italian language error running command train model found command inside readme txt strong classpath stanford postagger jar strong problem folder content strong edit strong prop file 
+
+version started slf4j logging facade havent updated lot documentation slf4j jars lib subdirectory command 

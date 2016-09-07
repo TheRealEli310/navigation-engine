@@ -1,0 +1,4 @@
+change utf 8mb4 utf groovy 
+problem receiving string input user mobile string inputed contained utf8mb4 characters smiley emoji caused error backend mysql accepts utf input replace utf 8mb4 input utf found similar question href http stackoverflow questions convert utf 8mb4 utf convert utf 8mb4 utf clear answer implementation groovy 
+
+href https dev mysql doc refman en charset unicode utf8mb4 html rel nofollow store characters man turban basic multi lingual plane bmp mysqls poorly named utf8 encoding utf8mb4 dont care store characters replace discard youd iterate string build string hr groovy syntax 

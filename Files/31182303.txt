@@ -1,0 +1,4 @@
+exception jedis pipeline 
+jedis code throw exception modify code correct dont exception throw conflict answer jedis latest 
+
+jedis instance directly pipelined pipeline jedis instance stream initializing stream normal operation reads response immediately pipeline reads responses mixing usages jedis trouble pipelined normal request redis response matched request response response easily flawed 

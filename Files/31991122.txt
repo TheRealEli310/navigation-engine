@@ -1,0 +1,4 @@
+spring dispatcherservlet hits controller refresh 
+spring mvc working project earlier working servlets place spring code dispatcherservlet handle ajax calls works fine works time launch server hits controller refresh page means problem spring environment controller interacts spring works absolutely fine servlets web xml dispatcher servlet file companygsonobjects controller told working found interesting give complete url pattern servlet mapping works fine write told request url spring works fine spring request wirh url companygsonobjects works suggest reading 
+
+late answer found problem spring controller working fine problem invoking controller javascript file folder time runs fine hit controller control spring dispatcher locate javascript file path controller correct needed change url html web xml add html end requestmapping end url make call javascript 

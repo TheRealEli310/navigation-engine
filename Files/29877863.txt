@@ -1,0 +1,4 @@
+apache httpclient digestauth unauthorized credentials 
+connect webserver digest authentification connection refused authenticated answers find related topic deprecated wanted start discussion resolving problem current version code set credentials connect target rest service apache httpclient wrong configuration credentials httpclient return expert digest auth connect servers send auth data place register digest authentificationscheme handled automatically check client client authschemeregistry successfully registered 
+
+reason scope credentials wrong authscope constructor takes host url parameter 

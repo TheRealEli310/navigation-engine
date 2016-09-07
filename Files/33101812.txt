@@ -1,0 +1,4 @@
+embed processing swing 
+integrate processing swing application papplet doesnt extend applet anymore add component embeding processing sketch swing open sketch seperate window pde 
+
+run sketch extending papplet function run papplet itll underlying component write code depends renderer youre heres youd standard renderer remove frame add 

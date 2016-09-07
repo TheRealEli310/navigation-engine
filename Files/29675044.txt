@@ -1,0 +1,3 @@
+read turkish character excel 
+script reads rows excel writes db postgresql problems sentences include turkish characters sentences work fine dont examples excel problem excel problem include convert true format 
+

@@ -1,0 +1,4 @@
+bytes null object 
+reference variable simplify assume size approximately bytes overhead bytes actual int bytes padding bytes br question null bytes reference pointing extra hidden information adding 
+
+recall correctly jvm specification mentions required specific representation em typically em dont fair guess bits zeros depending jvm version strong edit strong heres relevant section href http docs oracle javase specs jvms se7 html jvms html jvms rel nofollow http docs oracle javase specs jvms se7 html jvms html jvms blockquote virtual machine specification mandate concrete encoding null blockquote cheers 

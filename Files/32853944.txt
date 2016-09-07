@@ -1,0 +1,4 @@
+classcastexception reading parameters eclipselink plsqlstoredprocedurecall 
+call oracle stored procedure eclipselink v20111018 r10243 procedure parameters read parameter found href https wiki eclipse org eclipselink examples jpa nonjdbcargstostoredprocedures rel nofollow code pretty copy receiving list api throwing exception integer figure procedure called properly parameter code fails read response list system throws exception procedure 
+
+similar shown href https wiki eclipse org eclipselink examples jpa nonjdbcargstostoredprocedures handling arguments rel nofollow https wiki eclipse org eclipselink examples jpa nonjdbcargstostoredprocedures handling arguments difference datamodifyquery designed jdbcs executeupdate execute query returns int resultset datareadquery obtain results 

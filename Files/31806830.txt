@@ -1,0 +1,4 @@
+timezone setted correctly convesion sql timestamp joda datetime 
+experimenting stange issues convert object type object time detail timezone set correctly code scala language object read directly database table hbase showed squirrel client object created creation object information timezone passing constructor wrong error 
+
+issue caused strong em local timezone utc em strong store date strong em utc timezone em strong retrieve date strong em hbase em strong setting strong em utc timezone em strong equal time 

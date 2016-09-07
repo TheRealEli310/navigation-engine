@@ -1,0 +1,4 @@
+difference threads created web container normal threads 
+threads created web container thread created request normal threads created extending thread class implementing runnable interface web container create threads servlet interface servlets extending doesnt run method 
+
+threads created extending thread class implementing runnable interface web container threads created dont run method inside servlet servlet code called inside run method thread created main thread container container abstracts details focus writing actual logic server request instaed worrying multiple request management container main thread standalone application similar springmain spring distinguish container threads threads names find pattern control nomenclature threads created business logic 

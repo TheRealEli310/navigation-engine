@@ -1,0 +1,4 @@
+functional style iterate indexes 
+practicing streams functional style solve programming puzzles streams time found class tasks dont solve streams classical approach kind tasks array numbers find index element make sum left part array array answer idea dont accumulate values aware index time questions ul li accumulate stream make conditional exit li li parallel execution fitting problem finding indexes aware elements order li ul 
+
+doubt task suited streams typical scan left operation nature sequential operation instance imagine elements pipeline parallel execution split subparts sum independently yields lost fact respected write collector track index sum wont perform parallel doubt benefit imagine collector sequential simple usage traverse elements pipeline efficient data source array compute partial sums stream find index sum limit partial sums computed parallel short simple loop 

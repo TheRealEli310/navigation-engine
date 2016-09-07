@@ -1,0 +1,4 @@
+session factory closed 
+hibernate final data source connection tomcat started close session sessionfactory details hibernate cfg xml hibernateutil undecided call method finally block closing session 
+
+strong close strong query initialised application href https docs jboss org hibernate orm javadocs org hibernate sessionfactory html rel nofollow hibernate documentation blockquote main contract creation session instances application single sessionfactory instance threads servicing client requests obtain session instances factory internal state sessionfactory immutable created internal state set internal state includes metadata object relational mapping implementors threadsafe blockquote 

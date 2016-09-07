@@ -1,0 +1,4 @@
+jframe program running class 
+jframe program run class window working br jframe program code snippets running jframe cmd give pop window face code br jframe main class doesnt produce result fact running car jframe cmd output face program theyre bluej project 
+
+main problem car class extend jpanel jcomponent class derives added jframe attempts result compilation error main solutions ol li make car true component extend jpanel jcomponent recommend jpanel li li car logical class component class create jpanel car object draw car object directly calling objects paintcomponent method jpanels paintcomponent method li ol notes ul li call method override jpanel housekeeping painting li li preface method em em override method annotation compiler warn assumption incorrect li ul real fancy path2d object affinetransform swing timer give gui animation 

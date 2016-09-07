@@ -1,0 +1,4 @@
+autowiring interface returns null spring mvc 
+working project trouble class auto wired controller implemented portion h2 dao class h2 h2 oidmanager h2 h2 controller h2 dao dont call applicationcontext multiple times method wrong make variables static works returns null application load 
+
+strong component scanning strong strong manual wiring strong defined xml config added annotation drop annotation youll fine guess pick instantiate instance default constructor calling 

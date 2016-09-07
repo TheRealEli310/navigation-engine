@@ -1,0 +1,4 @@
+sysutils applicationcontext null applicationstatus webview 
+strange webview based app start doesnt affect app curious error appears crashes error logcat suppose error href https chromium googlesource chromium src base master android src org chromium base sysutils https chromium googlesource chromium src base master android src org chromium base sysutils lines webview initialisation whats 
+
+happening applicationstatus initialized context obtained completely natural situation error raised logging error exaggeration coder strong strong strong real problem strong function context object perform check assess performance capabilities device fails call islowramdevice carry performing rest checks worst case scenario detect low end phone point subsequent checks made completely normal function early return detects kitkat 

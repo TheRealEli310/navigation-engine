@@ -1,0 +1,4 @@
+creating random triangles 
+create program generates random triangles filled random color triangles redrawn window resized problem triangles arent showing gray box feel missing missing import line wrong place adjusting code numerous times avail arrays drawpolygon wrong dont 
+
+create random object good call randgen fuction youve defined randgen defined return erase method loop call 

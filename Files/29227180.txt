@@ -1,0 +1,4 @@
+giving database password hardcoding program 
+strong create jdbc connection creation logic require code change time change db credentials strong strong strong username password db strong user strong special privileges full authority db username password details hardcoded inside program ways change code changing credentials mind strong privacy security factor strong credentials 
+
+ol li store credentials file credentials properties li li read file program starts li ol content credentials properties 

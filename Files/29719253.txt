@@ -1,0 +1,4 @@
+spring jsr bean validation working empty bindingresult 
+strong stackoverflow strong add beanvalidation small webapplication doesnt work bindingresult stays empty ul li add dependencies classmate javax el jboss logging validation api li li added annotations li li updated controller valid bindingresult li li updated jsp page li li maked dispatcher servlet xml li ul looked similar questions stackoverflow find answer apache tomcat strong controller strong strong class validated strong strong dispatcher servlet xml strong strong cardform jsp strong 
+
+figured work wrong javax validation annotation notnull fact fields instance card received controller cardcontroller addcard domain card org springframework validation bindingresult null set empty strings dont validation errors bindingresult add org hibernate validator constraints notempty annotations current notnull annotations validation errors reported bindingresult 

@@ -1,0 +1,4 @@
+enable cors restful web service jboss 
+simple restful web service includes methods post requests jboss application server openshift platform enable javascript clients consume service ajax sending receiving json data web service running problems consume ajax script application consume applications domains enable cross origin request sharing cors rest endpoints 
+
+add header response servlets alternatively add library dependency add filter web xml cors web services specific service annotated information library youre implement restful service 

@@ -1,0 +1,4 @@
+convert byte binary set jcr data file contents 
+save binary data image jcr node fetching image evernote method href https dev evernote doc reference javadoc evernote edam type data html getbody rel nofollow public byte getbody set property jcr data contents file href http www day specs jsr170 javadocs jcr javax jcr node html setproperty lang string 20java io inputstream rel nofollow setproperty string binary error blockquote suitable method found setproperty lang string byte blockquote set property file contents binary 
+
+href http www day specs jsr170 javadocs jcr javax jcr valuefactory html rel nofollow valuefactory convert inputstream href http www day specs jsr170 javadocs jcr javax jcr binary html rel nofollow binary valuefactory href http www day specs jsr170 javadocs jcr javax jcr session html rel nofollow session object learn writing repository refer href http www day specs jcr writing html rel nofollow specification 

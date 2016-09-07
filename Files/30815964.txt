@@ -1,0 +1,4 @@
+valid integer literal 
+work 
+
+numeric literals href http docs oracle javase specs jls se8 html jls html jls rel nofollow jls blockquote decimal numeral single ascii digit representing integer consists ascii digit optionally ascii digits interspersed underscores representing positive integer blockquote blockquote hexadecimal numeral consists leading ascii characters 0x 0x ascii hexadecimal digits interspersed underscores represent positive negative integer blockquote blockquote octal numeral consists ascii digit ascii digits interspersed underscores represent positive negative integer blockquote blockquote binary numeral consists leading ascii characters 0b 0b ascii digits interspersed underscores represent positive negative integer blockquote youre underscores dont groups digits decimal literals cultures group numbers differently hex binary literals depending usage kinds groupings 

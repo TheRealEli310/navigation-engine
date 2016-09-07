@@ -1,0 +1,4 @@
+openam authentication logout 
+beginner openam working existing project documentation improve authentication service href http docs forgerock org en openam dev guide index chap authentication html rel nofollow http docs forgerock org en openam dev guide index chap authentication html login works fine receive token id add cookies stay connected browse restricted web pages clean logout read documentation logout propose code program login authcontext anymore create authcontext user call modify cookies rejected openam answer 
+
+firstly create authcontext access session token href http download forgerock org downloads openam javadocs internal sun identity authentication authcontext html authcontext iplanet sso ssotoken rel nofollow constructor clientsdk perform authentication remotely href http docs forgerock org en openam dev guide index html rest api auth rel nofollow rest apis bit lightweight 

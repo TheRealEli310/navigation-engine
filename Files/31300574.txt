@@ -1,0 +1,4 @@
+set ip address inside jtextfield 
+simple gui put inside jtextfield string ip local machine ip command store inside string put string inside jtextfield success code 
+
+instantiate jtextfield string argument pass constructor set text returns string simply pass constructor argument jtextfield simply call point instantiated object 

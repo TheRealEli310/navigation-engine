@@ -1,0 +1,4 @@
+lang classnotfoundexception org openx data jsonserde jsonserde 
+query table hive ipython code create hive context add jar error message add jar spark classpath 
+
+error havent add library sparkcontext started ipython youll run shell strong nb strong wont href https issues apache org jira browse spark rel nofollow spark 

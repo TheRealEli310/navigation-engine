@@ -1,0 +1,4 @@
+difference pane group 
+question simple javafx difference make difference answer 
+
+resizable meaning size managed parent scene graph takes union bounds child nodes words local bounds smallest rectangle bounds child nodes larger space allocated parent clipped contrast resizable size set parent essentially determine bounds quick demo top fixed blue square green square moved pressing left arrow keys beginning blue square appears top left corner group local bounds group start top leftmost point child nodes local bounds group extend move green rectangles screen group adjusts bounds incorporate pane remains fixed 

@@ -1,0 +1,4 @@
+start stop application apache tomcat manually application webapps directory tomcat 
+application webapps directory tomcat start stop apps separably command line tomcat manager gui implement start stop function manually program suggest tomcat suggest web server 
+
+ways deploying web applications apache tomcat xml deployment descriptor file directory content file configuration webapp1 xml tomcat finds xml file directory deploy context defined file remove file directory tomcat undeploy web application context command line shell script question put context files directory web apps deploy move file undeploy move directory detailed information element refere href https tomcat apache org tomcat doc config context html rel nofollow context container doc page 

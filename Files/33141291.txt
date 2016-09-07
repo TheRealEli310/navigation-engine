@@ -1,0 +1,4 @@
+client consuming api 
+mail gun api bounce mail data works fine api call convert clientresponse type cae emailerror actual response server created pojo map response map clientresponse emailerror type clientresponse object return method guess missing 
+
+jackson dependency youre annotations jersey jersey deserialize request response bodies handle json jackson implements jax rs reader writer dependency jackson provider primary jackson libraries jersey add dependency pull jackson rid jackson dependencies version dont conflict register jackson provider jersey client jackson newer jackson dependency configuration 

@@ -1,0 +1,4 @@
+slidingtablayout navigationdrawer 
+handle navigation drawer sliding tabs library called observablescrollview href https github ksoichiro android observablescrollview rel nofollow https github ksoichiro android observablescrollview xml files display xml file code sliding tab functionality working fine navigation drawer add navigation drawer layout xml code landingactivity sliding tabs view pager working wrong advance 
+
+find strong viewpagertablistviewactivity class strong layout strong layout activity viewpagertab xml strong observablescrollview samples strong edit strong edited layout class activity viewpagertab xml part viewpagertablistviewactivity class works charm shared screenshot glad work problem img src http stack imgur rpf99 png alt toolbarwithtabs 

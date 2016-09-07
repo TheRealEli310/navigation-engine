@@ -1,0 +1,4 @@
+ary tree breadth traversal check complete full 
+href http stack imgur zwyrg png rel nofollow img src http stack imgur zwyrg png alt enter image description figure implement breath traversal method structure ary tree picture 
+
+basically node points direct sibling point leftmost child node bfs simple implement idea bfs binary tree minor modifications 

@@ -1,0 +1,4 @@
+call static method constructor run 
+class called static method inside class constructor sets variable wondering call method class constructor run assuming method returning code create function tile return dont efficient solution reference calling class 
+
+constructor doesnt run call static method class instance class call static method populate move code initializes constructor static initializer run time class referenced initialized properly call method time static initializers careful avoid exception propagate wrapped throw bad news program make useless constructor prevent instantiation class class utility class instance class useless 

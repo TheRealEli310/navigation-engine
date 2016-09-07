@@ -1,0 +1,4 @@
+dynamodb delete items hash key 
+table write code delete items preferably retrieving items 
+
+delete items passing hash key delete item requires hash range makes unique edit reference link dynamodb documentation href http docs aws amazon amazondynamodb latest apireference api deleteitem html api deleteitem requestsyntax rel nofollow http docs aws amazon amazondynamodb latest apireference api deleteitem html api deleteitem requestsyntax read explanation key pass hash partition key range sort key delete item 

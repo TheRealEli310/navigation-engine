@@ -1,0 +1,4 @@
+resolve archetype org glassfish jersey archetypes jersey quickstart webapp 
+create maven based jersey quick starter web app selecting glassfish archetype giving error successfully creating sun jersey archetype project glassfish issues proxy setup laptop interfere downloading process sort asap 
+
+typo error archetypes artifact missing hyphen jersey quickstart webapp jersey quickstart webapp timeout maven central mc time transfert trial delete folders br m2 repository org glassfish jersey archetypes jersey quickstart webapp br m2 repository org glassfish jersey archetypes jersey quickstart webapp 

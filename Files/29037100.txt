@@ -1,0 +1,4 @@
+iterator stream iterator redundant call hasnext 
+notice bit strange behavior scenario iterator stream map iterator iterate hasnext original iterator called additional time returned false normal remove map replace final itearator count collect works redundant call output 
+
+normal redundant call called method iterator returned jdk source call calls original instance true adds element returns true returns false original iterator runs items returns false method calls retries filling buffer leads redundant call case effect attempt fill buffer unnecessary source comment explains trigger elements situation implementation detail buried deep complex workings streams 

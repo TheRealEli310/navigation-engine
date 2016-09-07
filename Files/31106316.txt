@@ -1,0 +1,4 @@
+read text file store hashmap 
+wondering logic read text file line line store hashmap store line key hashmap lines read checkpoint line stored hashmap strong test txt data strong 
+
+store lines checkpoint list checkpoint insert line hashmap item list key wont handle situations input file malformed values keys indexoutofboundsexception 

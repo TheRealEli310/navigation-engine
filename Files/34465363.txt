@@ -1,0 +1,4 @@
+avoid making long constructors 
+client library making http remote calls rest service returning back customer calling library response rest service errors wrapped object enum class enum class class lot fields basis long constructor everytime make object big line future fields fields make object return back library 
+
+strong builder pattern strong types tons em required em fields types tons em optional em fields builders strong strong required fields arent forced set values constructor force em leaves potential object partially constructed em field required shouldnt builder methods calling methods optional abuse pattern hr href https en wikipedia org wiki decomposition computer science decompose type supposed represent decompose href https en wikipedia org wiki cohesion computer science cohesion determines possibly decomposed object composed feel constructor requires decompose 

@@ -1,0 +1,4 @@
+json schema validation spring rest apis 
+building rest api spring boot jackson module jsonschema href https github fasterxml jackson module jsonschema rel nofollow https github fasterxml jackson module jsonschema json schema generation validate request json payload arriving apis endpoints spring controllers defined json schema defined exposed resource validation includes check required fields format min max values validate schema jackson json schema module schema generation validation suggestion achieve 
+
+href http json schema org implementations html rel nofollow json schema site libraries validation ol li ont jorge campos suggested mature maintainer href https github fge json schema validator rel nofollow https github fge json schema validator li li href http github everit org json schema rel nofollow http github everit org json schema li ol recently situation choose picked option href https github jayway rest assured rel nofollow rest assured library hood 

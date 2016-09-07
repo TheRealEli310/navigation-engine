@@ -1,0 +1,4 @@
+effect setting xx perfdisablesharedmem jvm flag false 
+referred gc pause href http www evanjones ca jvm mmap pause html rel nofollow issue suggests setting jvm flag question set flag 
+
+wont written href http mail openjdk net pipermail hotspot runtime dev march html rel nofollow hotspot runtime dev discussions prevent performance monitoring command line tools automatically discovering running vms automagically attach running process pid explicitly 

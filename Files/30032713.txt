@@ -1,0 +1,4 @@
+current time timezone hive 
+tables hive table1 table2 record present table1 chicago lookup table2 chicago record read id amp description chicago return current central standard time chicago similarly denver return mountain standard time amp honolulu return hawaii aleutian standard time expected output 
+
+dont write query point direction join extract city respective columns table function nifty function find href https cwiki apache org confluence display hive languagemanual udf rel nofollow called takes time stamp assumed utc converts time zone youll convert column time zone abbreviation find href http en wikipedia org wiki list time zone abbreviations rel nofollow good luck 

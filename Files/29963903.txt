@@ -1,0 +1,4 @@
+consume web service ssl xfire 
+project xfire web service client api project legacy servlet jsp xfire eclipse plugin generate client stub web service migrated sll https easy consume webservice ssl xfire found code href http docs codehaus org display xfire http transport rel nofollow http docs codehaus org display xfire http transport confusion motivates alpha dont stable production create protocol factory registered apache httpclient api id doesnot generated stub feel free information move web service client api option 
+
+managed solve problem xfire apache http client internally setting security certifect detail api job common ssl jar purpose create commons set httpsecureprotocol child suppose client certifect provided service provider web application servletcontextlistener part code executes application boots ssl service xfire client stub service implement certifect work xfire apache http client connection api telling http client trustmanager https 

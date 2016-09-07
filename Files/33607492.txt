@@ -1,0 +1,4 @@
+receive image multipart file rest service 
+exposing restful webservice accept image multipart file strong json body request strong dont find sample json request hit rest service rest client rest service field class declaration consumes mediatype application json mediatype multipart form data sample json request 
+
+purpose send multiple parts request parts media types mix json image add parts resteasy client framework create request pre class lang prettyprint override cosumed pre class lang prettyprint override 

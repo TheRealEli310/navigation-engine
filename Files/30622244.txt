@@ -1,0 +1,4 @@
+hibernate table lock select 
+method selects row table product customer query truncate table mysqlworkbench truncate blocked lock ends simple select row lock table ps delete rows delete truncate locked 
+
+commit transaction code run truncate statement mysql maintains metadata locks lock dml statement released commit executing ddl statement truncate case select delete dml statements truncate ddl statement youll execute delete truncate lock release 

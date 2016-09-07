@@ -1,0 +1,4 @@
+android smsmanager attempt length null array 
+bug smsmanager send message method returns code logcat receives message 
+
+found destnumber null correct phone number lang nullpointerexception 

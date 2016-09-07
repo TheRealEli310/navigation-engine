@@ -1,0 +1,4 @@
+treeset constructor comparator parameter 
+documentation class treeset constructors shown header explain constructor treeset takes comparator object argument clue 
+
+elements treeset sorted constructor comparator natural ordering element class defined implementation sort elements treeset ordering supply comparator constructor 

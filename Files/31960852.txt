@@ -1,0 +1,4 @@
+make multibinder work factorymodulebuilder generics guice 
+read href http stackoverflow questions google guice multibinding generics assistedinject google guice multibinding generics assistedinject doesnt answer specific scenario heres interfaces pre class lang prettyprint override guice module pre class lang prettyprint override main filter supposed combine filters pre class lang prettyprint override doesnt work stacktraces wrong 
+
+guice compatibility issue guice href https github google guice issues rel nofollow https github google guice issues missing constructors guice failed report error lambdas classes commenting lambdas allowed errors fix uncommented work intended 

@@ -1,0 +1,4 @@
+recursive maze 
+assignment supposed create maze solver algorithm decided apply works recursive method move calls time finds path runs dead end calls recursive method goback back founds path walls 0s paths 1s walked paths 2s paths walked 3s idea pretty simple work arrayoutofbounds exception showing time ideas 
+
+maze move method stops falling maze moving index larger lower generally recursion dont end trouble check youre move method stop calling point move method terminate 

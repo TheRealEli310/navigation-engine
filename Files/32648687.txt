@@ -1,0 +1,4 @@
+android hashmap concurrent modification exception 
+concurrent modification exception code simply iterating hashmap modifying values researching found people iterators iterator remove implementing error thought multiple threads accessed code block run thread put synchronized block error error 
+
+happening iterator looping map map isnt list doesnt care order add map inserted middle middle objects looped end giving random behavior fails solutions synchronized map synchronized blocks threads time doesnt problem thread modifying illegal manner save keys modify making map keys values wont problem time critical piece code iterate newvalues map update oldvalues map iterating map updated problem simply iterate keys string yourmap values change iterating keys free change values remove values concurrenthashmap modify behavior undefined risky changing values shouldnt lead problems add remove end iterated 

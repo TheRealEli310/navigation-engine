@@ -1,0 +1,4 @@
+exception thread main lang arrayindexoutofboundsexception mergesort 
+implement mergesort algorithm eclipse ide error methods 
+
+loop method faulty youre assigning youre incrementing condition change loop issue issues code firstly looping range correct youre missing element change loop method creates array return assign return finally final result assign array 

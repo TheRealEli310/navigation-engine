@@ -1,0 +1,4 @@
+deploy jhipster openshift 
+deploy jhipster app openshift error message confusing time deploy code pushed deploy modify hooks executable remote repository files pushed default included gitignore force commited launch cmd 
+
+attempted deploy deploy folder project root openshift assigned git repository deleted unreachable simply remove delete deploy folder root confirm happening line top launch deploy command states found existing git remote misguided answer helps 

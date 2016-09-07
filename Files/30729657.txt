@@ -1,0 +1,4 @@
+scheduling process specific time interval delay 
+schedule process run till specific time interval thinking schedule process start loop check current time compare time stop process time elapsed code approach 
+
+checking time limit reached single iteration schedule task time limit call cancel timer depending complexity scheduledexecutorservice scheduledthreadpoolexecutor href http stackoverflow answer simple working timer 

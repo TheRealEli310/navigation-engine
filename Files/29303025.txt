@@ -1,0 +1,4 @@
+send file zmodem lrzsz telnet server 
+lrzsz send file zmodem reading stdio forwarding socket connected client zmodem downloads coming corrupted errors 
+
+answering question needed add correct character encodings input output streams sexyz telnet option accounts iac characters lrzsz added brians suggestion escaping 

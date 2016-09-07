@@ -1,0 +1,4 @@
+delete sqlite entry recycleview 
+display sqlite entrys recycleview dont delete single tuples recycleview isnt working suggestions activity adapter 
+
+deletes db entry update view youre cursor adapter calling recreate data set adapter call 

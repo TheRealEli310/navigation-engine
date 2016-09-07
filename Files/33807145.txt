@@ -1,0 +1,4 @@
+evolving schema spark dataframe 
+working spark dataframe loading data schema versions process additional checking schema field adding column dataframe work create field object 
+
+json sources suited data evolving schema avro parquet simple solution schema sources make fields optional nullable pass youll consistent structure independent variant missing columns automatically set 

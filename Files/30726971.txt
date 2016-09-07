@@ -1,0 +1,4 @@
+hibernate session session getnamedquery 
+transaction process create save object end transaction read object setting history event dao null object acteur method called save actor session dont persist database fact actor persisted end transaction problem solved object session object acteur questions object actor db execute query declaration acteur complet transaction concerned difference 
+
+spring managed session bean back ordinarily exception active transaction dont uiservice wraps method transaction flush time depended spring hibernate configuration understood correctly call call inside method uiservice properly wrapped spring 

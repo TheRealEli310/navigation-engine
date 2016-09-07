@@ -1,0 +1,4 @@
+android studio import class project 
+working android game requires server weve set git folders client server shared client android studio project server eclipse project server database shared classes eclipse android studio project eclipse successfully loaded files shared importing file system created package works great android studio find solution doesnt require copy paste classes project aim file location theyre susceptible change identical projects solutions dont fit link files project managed link libraries inside project 
+
+found solution optimal case solved problem android studio create folder called commoneclipseandroid path similar project android app src main myapplication commoneclipseandroid paste code project inside folder eclipse click project properties build path source link source choose folder weve created projects code modify projects risk error hope helped 

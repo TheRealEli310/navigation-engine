@@ -1,0 +1,4 @@
+weld osgi result 
+solution apache felix weld se felix weld sp1 run examples weld archive weld osgi paint install bundles start bundles added lib path export javax packges start program dont errors exceptions wrong strong edit strong br removed slf4j bundles installed pax logging api jar program doesnt terminate shows 
+
+adding weld se lib path pax cdi requires dependencies weld se se osgi href https github ops4j org ops4j pax cdi tree cdi itest rel nofollow pax cdi integration tests working examples 

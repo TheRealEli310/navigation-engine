@@ -1,0 +1,4 @@
+utf identifier 
+string stream form http request stream tokens means string encoded utf making files string reading error method making files string added substring method cut tokens leads crash problem files coded asci method read files dont cut utf tokens error stacktrace data http xml entityutils tostring httpentity encode utf 
+
+problem code posted code data http request passing method string encoded encoded data string amount encoding decoding fix data broken decode data properly additional issue returned data line correctly decode data leave superfluous wrong place solve server return data stripped code similar replaced 

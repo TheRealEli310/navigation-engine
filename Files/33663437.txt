@@ -1,0 +1,4 @@
+generic method bound case 
+strong preface strong em understand generics theyre declared class level declared level static method explicit bindings em found code snippet app working didnt write part method declared strong strong defined class returns sample usage jvm type method compiles executes successfully 
+
+href https docs oracle javase tutorial generics methods html rel nofollow generic method represents type compiler replace instances type replaced dont compiler attempt infer correct type information href https docs oracle javase tutorial generics rel nofollow generics tutorial depth explanation 

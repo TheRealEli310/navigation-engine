@@ -1,0 +1,4 @@
+jax rs jersey tomcat wrong 
+posting classes ton setups tutorials guides result tomcat server clean install time working jax rs jersey lot experience tomcat wanted implement rest service api seperating back end front end jax rs jersey solution implementing address localhost eventcalendar rest yields pom xml web xml restconfig testservice 
+
+solutions helped reason ended creating maven project importing newest jars installing plugin eclipse automatically creates service adds web xml effort plugin restful plugin eclipse edit wanted add removes possibility server setup wrong 

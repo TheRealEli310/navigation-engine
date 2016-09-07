@@ -1,0 +1,4 @@
+putting character nodes alphabetical order linked list 
+figure figure wrong create linked list characters display list alphabetical order main program current output commented stuff figured part program insert user input character put alphabetical order pinpointed issue due node commented program runs correctly leave commented makes loop basically breaks program fix code make work greatly appreciated 
+
+basically cases youre adding character list ol li list empty character head tail list li li character precedes node head list head list points head list li li character occurs node tail list tail list tail node points li li true node middle list li ol cases correct case slight bug supposed place node list type entered disappeared case youre work node list list number elements youre series statements youve youll loop traverse list find place insert node 

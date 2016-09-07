@@ -1,0 +1,4 @@
+jamod modbus slave assign registers 
+modbus slave program jamod library set input register set input registers registers set registers register address add fake registers greets andreas 
+
+create fake registers adding registers loop wont create hole modbus map fake registers usable masters wont illegal address exception responses modified j2mod fork jamod supports sparse modbus maps svn revision j2mod sourceforge 

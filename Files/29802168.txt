@@ -1,0 +1,4 @@
+upgraded appcompat v22 removing attribute error 
+upgraded app appcompat v22 exception appcompat layout xml file img src http stack imgur swygj png alt enter image description upgraded version v1 jdk work 
+
+discussion href https code google android issues detail id rel nofollow https code google android issues detail id couple options ul li set causing problem li li force sdk build tools appcompat project project properties href https github dandar3 android support v7 appcompat blob master project properties rel nofollow https github dandar3 android support v7 appcompat blob master project properties li ul sdk build tools installed version project pick latest 

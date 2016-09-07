@@ -1,0 +1,4 @@
+encrypt phpseclib decrypt aes algorithm 
+encrypt data server running php script send server running aes algorithm chose phpseclib package php side padding exception code php side side clefaes key data ciphered text send key rsa encryption reported result gave decryptedtext good evening thicx 3mg result solve helpful phpseclib compatible javax crypto package aes encryption achieve 
+
+heres output php code contrast youre passing code php code isnt ecb mode cbc mode isnt code code ecb mode additionally phpseclib padding default disable output 

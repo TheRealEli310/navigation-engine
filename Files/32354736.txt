@@ -1,0 +1,4 @@
+cors multiple origins 
+web service access multiple domains reasons unable fathom session shared sites ol li make request webappa api works li li make request webappb web service reports blocked due cors policy li ol href https github intermine intermine search utf8 e2 9c amp access control origin rel nofollow tomcat code web service claims cors web xml class handles requests logically allowing requests webappb sees webappa permitted origin snippet option springs mind header blank surely wouldnt webappb isnt access wouldnt em em origin webappb clearing cache fixes issue session cookies theyre relevant strong question strong fix webapp access web service clearing cache disclaimer follow href http stackoverflow questions cors issue whats fix cors issue fix lot investigation define issue hope 
+
+suspect error org intermine webservice server webservice method parameters src default supplied wrong order server return default access control origin actual current request 

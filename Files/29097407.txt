@@ -1,0 +1,4 @@
+jasperinitializer tomcat embedded mode 
+process migrating embedded tomcat application tomcat updating tomcat version starting embedded server access home page debug tomcat8 source found inside null set method make invoke manually invoke web app startup embedding tomcat inside application 
+
+solution issue hidden doesnt documented solved line code admit server slow start added functional 

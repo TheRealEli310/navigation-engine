@@ -1,0 +1,4 @@
+vertx launch embedded server 
+launch initial test vertx io server error message exception thread main lang noclassdeffounderror org vertx core handler code pom xml 
+
+basic classpath issue find vertx classes executing program check vertx libraries part classpath unrelated checking vertx projects highly recommend version start href https github vert x3 vertx examples tree master maven simplest rel nofollow simple maven project 

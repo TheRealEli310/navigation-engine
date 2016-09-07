@@ -1,0 +1,4 @@
+centering gridview relativelayout 
+center gridview relativelayout set gridviews height wrap content gravity relativelayout center gridview aligned top center 
+
+href http developer android reference android widget relativelayout layoutparams html attr android layout centervertical rel nofollow android layout centervertical 

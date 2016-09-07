@@ -1,0 +1,4 @@
+create substring function jdk 
+create substring function jdk method substring jdk advanced versions jdk 
+
+underlying character array string em shared em objects simply required creating object pointer original string offset length copying actual data annoying effect taking small substring huge string deleting huge didnt free memory lead code strings longer share data update happened back performance youll basically construct em em string class aware worrying important strings em em large extra cost space time copying data inconsequential extra effort converting function perfect integration literal strings make worse 

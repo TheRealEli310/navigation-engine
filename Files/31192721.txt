@@ -1,0 +1,4 @@
+jvm bind port processes port 
+attempting mvn grails run app project jvm bind error running project problems eclipse crash middle running rebooted machine doesnt clear netstat netstat ano shows em em tomcat reconfigure run works fine port em em maven grails error ideas clear 
+
+problem bound port invalid ip address connected vpn dhcp ip address binding grails application ip address changing valid ip address fixed problem verify modified grails ip binding invalid ip address reproduced problem case bad misleading error message error caused process hanging port situation netstat output demonstrated problem problem check ports em em check ip address 

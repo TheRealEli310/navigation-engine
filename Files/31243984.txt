@@ -1,0 +1,4 @@
+avoid create session spring 
+spring web application creates session request avoid configuration call controller mobile application app open infinite sessions idea avoid 
+
+restructured security added added security config file web xml added session false jsp page works fine 

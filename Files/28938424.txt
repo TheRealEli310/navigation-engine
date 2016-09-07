@@ -1,0 +1,4 @@
+context object injected unit testing resteasy 
+register provider inject locale object context reuse rest resources article href http bill burkecentral adding objects context injectable rel nofollow http bill burkecentral adding objects context injectable managed provider running code works great deployed tomcat run strong issue unit test strong resource returns localeprovider executes line debug idea strong context injection work unit testing strong 
+
+found solution based href http stackoverflow answer localeprovider needed hope helps 

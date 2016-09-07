@@ -1,0 +1,4 @@
+encrypting large file aes 
+tested code files 10mb 100mb 500mb encryption works run problems files greater 1gb generated large file 2gb encrypt aes running error exception thread main lang outofmemoryerror heap space increasing memory xmx8g dice part code reason behaving read file encipher store byte array buffering streaming code tips beginner coding dont appreciated 
+
+dont read entire large files memory encrypt buffer time standard copy loop suitably initialized wrapped files make special case buffer 8k strong edit strong standard copy loop case 

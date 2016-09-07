@@ -1,0 +1,4 @@
+oracle jdk openjdk 
+read interesting question href http stackoverflow questions differences oracle jdk open jdk garbage collection thinking oracle jdk openjdk specific implementation openjdk oracle jdk experience practice 
+
+part oracle stated citation needed openjdk updated rapidly oracle jdk adds proprietary components additional components language constructs additions reimplementations reimplementation requested href http en wikipedia org wiki jrockit rel nofollow jrockit jvm proprietary implementation jvm component included openjdk href http www oracle technetwork javaseproducts mission control mission control html rel nofollow mission control examples commercial features provide language constructs functionality achieved openjdk exhaustive list commercial features oracle jdk found href http www oracle technetwork javase terms products index html rel nofollow oracles product documentation 

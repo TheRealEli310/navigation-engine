@@ -1,0 +1,4 @@
+apache poi vertical cell alignment hssf cell format 
+write cell vertical text orientation apache poi find method setrotation rotates entire text excel displays vertical option applied visually text 
+
+href https poi apache org apidocs org apache poi hssf usermodel hssfcellstyle html setrotation 28short rel nofollow hssfcell setrotation short blockquote set degree rotation text cell rotation degrees degrees 0xff vertical blockquote youll create single workbook wide cell style apply cell 

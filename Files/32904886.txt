@@ -1,0 +1,4 @@
+util date calculate difference days 
+calculate difference dates noticed thing calculating days start daylight saving time included interval result shorter day obtain accurate results hours considered output solution 
+
+solution stop outmoded class embrace power href http docs oracle javase docs api time package summary html rel nofollow time api built href http docs oracle javase tutorial datetime toc html rel nofollow tutorial specifically href http docs oracle javase docs api time format datetimeformatter html rel nofollow href http docs oracle javase docs api time localdate html rel nofollow href http docs oracle javase docs api time temporal chronounit html rel nofollow classes 

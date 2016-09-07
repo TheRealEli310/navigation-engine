@@ -1,0 +1,4 @@
+hibernate schema automatically dropped deploy 
+questions instance href http stackoverflow questions hibernate hbm2ddl auto values rq related hibernate schema generator led conclusion property sets behaviour matter schema exported tables dropped spring boot application deployed wildfly code imports configuration beans h2 data source hibernate session factory working past days havent found solution hibernate works fine problem disable table dropping deploy data h2 database wont lost strong update strong tables dropped session closed deploy started 
+
+thing spring boot spring jpa properties href https github netgloo spring boot samples tree master spring boot mysql springdatajpa hibernate rel nofollow github repository led solution 

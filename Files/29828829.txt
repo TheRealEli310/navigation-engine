@@ -1,0 +1,4 @@
+extending immutablemap additional values 
+extended existing map extend create copy replaced values lets seek efficient solution apparently href http stackoverflow questions doesnt exist design question seeks idiomatic solution 
+
+explicitly create builder edit br noted comments wont overriding existing values initializer block elegant work 

@@ -1,0 +1,4 @@
+android studio load jar library transitive dependencies 
+app gradle file classes inside library jar files jar lib folder jars inside load nested libs gradle ideas 
+
+dont work jars transitive simply unzip jar pull jar place jars directly libs folder gradle 

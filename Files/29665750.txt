@@ -1,0 +1,4 @@
+integrate apache solr eclipse apache tomcat 
+difficult started apache solr eclipse apache solr integrate eclipse develop web application searched lot link downloaded apache solr integrate eclipse windows provide step wise step solution provide good examples 
+
+easy steps providing steps ol li install apache tomcat change port desired port installing apache tomcat li li download solr zip extract li li copy solr folder folder solr create folder solr drive paste content folder li li copy solr war dist folder tomcat webapps folder rename solr war automatically solr folder created li li copy war files dist solrj lib tomcat lib folder li li inside tomcat conf catalina localhost create xml file solr xml li ol solr xml inside tomcat webapp solr web inf web xml set environment entry set apache solr enjoy href http localhost solr rel nofollow http localhost solr 

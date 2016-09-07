@@ -1,0 +1,4 @@
+make window fullscreen maximized scene builder 
+making view scenebuilder javafx application view maximized achieve scenebuilder file 
+
+scene builder href https docs oracle javase javafx api javafx stage stage html maximizedproperty rel nofollow href https docs oracle javase javafx api javafx stage stage html fullscreenproperty rel nofollow properties href https docs oracle javase javafx api javafx stage stage html rel nofollow layouts set scene load set scene set scene stage methods stage ul li href https docs oracle javase javafx api javafx stage stage html setmaximized boolean rel nofollow maximize stage fill screen li li href https docs oracle javase javafx api javafx stage stage html setfullscreen boolean rel nofollow set stage full screen undecorated window li ul 

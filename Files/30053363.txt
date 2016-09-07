@@ -1,0 +1,4 @@
+jmeter global beanshell variables 
+jmeter variables beanshell sampler target import amazon kinesis application converted jmeter part code connection set start jmeter application amazonkinesisclient variable beanshell ps problem jsonobject case jmeter variable storing json string 
+
+namespace href http jmeter apache org usermanual practices html bsh variables rel nofollow sharing variables chapter jmeter practices guide sampler sampler beanshell tips tricks refer href http blazemeter blog queen jmeters built componentshow beanshell rel nofollow beanshell jmeters favorite built component guide 

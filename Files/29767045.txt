@@ -1,0 +1,4 @@
+shell script run jar service 
+create shell script run service actual command works execute gonna inaffective messy decided create shell script doesnt work response give clue solution stefio 
+
+delcare var practices allways define var refactoring script command executed echo command 

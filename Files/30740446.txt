@@ -1,0 +1,4 @@
+unidirection onetoone mapping foreign primary key generating child table 
+parent table customer account child table customer tempinfo generate primary key parent table assign child table unidirectional bidirectional solution absolutely wrong association order child parent clue proper explanation hbm mappings blockquote customeraccount hbm xml blockquote blockquote customertempinfo hbm xml blockquote trace update bi directional insert record lucky reading back time trace 
+
+entity id required property initialize foreign generator add association child parent pre class lang xml prettyprint override link href https docs jboss org hibernate orm manual en html ch05 html mapping declaration id rel nofollow identity copy foreign generator 

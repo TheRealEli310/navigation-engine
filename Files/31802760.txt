@@ -1,0 +1,4 @@
+changing components inside jpanel gridlayout 
+code problem code found add cell jpanel cells line code adds cells grid enhanced loop found beneath loop draw grid trouble add update passed parameter found method cells found current jpannel update arraylist cells jpanel correspond cells found arraylist 
+
+youre changing model change view grid nutshell remove everythings panel add cells find cell changed add model arraylist view grid jpanel controller jappletjframe creates view model bye 

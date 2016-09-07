@@ -1,0 +1,4 @@
+org springframework dao invaliddataaccessresourceusageexception ora table view exist 
+starting application error logs startup weird thing amnot table missing display table exist 
+
+means query table doesnt exists table access start application spring bean created process query stack trace spring tx manager commit current transaction place transaction opened make hibernate entities table schema guarantee hibernate job creates tables amp sequences entities check enabling hibernate logging enable setting property persistence xml alternative strong logback strong strong log4j strong 

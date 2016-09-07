@@ -1,0 +1,4 @@
+issue lang unsupportedclassversionerror org glassfish jersey servlet servletcontainer 
+written restful web services maven dependencies pointed jre jre6 compiler version eclipse rest web services working perfectly export war put war file webapps folder tomcat deploy deployed issue coming invoke web service throwing error tomcat version jdk jre understand error coming version problem fix pls 
+
+jersey lib doesnt support jersey build works upgrade h3 update h3 supported jersey jersey compiled 

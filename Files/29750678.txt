@@ -1,0 +1,4 @@
+write string arrays text file printwriter 
+writing contents array objects arrays text file printwriter ideas beginner simpler 
+
+array contents class youre happy default array tostring format id create method returns desired string representation mentioned id rename variable lowercase id rename class edit code output file working directory running program alternatively supply full file path case make directory path exists alternative modify code automatically create path 

@@ -1,0 +1,4 @@
+objects requirenonnull obj null checks manually thrown illegalargumentexception 
+check parameters method null write null check throw null check fails reading source code classes href https docs oracle javase docs api util arraylist html arraylist found oracle href https docs oracle javase docs api util objects html requirenonnull lang string objects requirenonnull check parameter null test fails thrown earlier code snippet adopting approach smaller readable assuming control exception handling system shouldnt part business handle unchecked exceptions strong replace writing null checking exception throwing strong 
+
+elegant check element null interesting discussion choosing href http stackoverflow questions illegalargumentexception nullpointerexception null parameter illegalargumentexception nullpointerexception null parameter throwing express reference null make method simple change exception 

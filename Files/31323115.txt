@@ -1,0 +1,4 @@
+return child class parent class 
+builder class returns methods daisy chaining make work child classes parent methods return instances child child methods chain end options result compilation errors option warning albeit suppressed approach safely downcast basebuilder childbuilder 
+
+declaration code smell violate dry parametrized redundant rethink architecture put methods child builders simply return methods supporting chaining benefit separating specific groups builder methods classes give preference composition applying inheritance code reuse recommended suppose subclasses arises chain moving subclass methods imagine methods dont make sense shouldnt inherited move methods superclass time methods time end superclass responsible duties entire hierarchy plenty code solution dsl returns instance chain methods start builder builders inherit extend meaningful hierarchies compositions 

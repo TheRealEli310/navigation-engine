@@ -1,0 +1,4 @@
+build error importing maven projects 
+cloned open source git repositories import maven project eclipse imported maven project package messed error img src http stack imgur ji3af png alt enter image description fix issue build local box cloned git repository locally desktop eclipse version steps ul li li li removing adding li li command line eclipse successful li ul needed clone importing works 
+
+root problem build section pom xml project specifies eclipse sourcedirectory tag root main sources change click project maven update project click fix eclipse classpath eclipse build project revert pom back head revision long dont run update project continue build unclear project specifies standard source directory standard maven layout working state eclipse 

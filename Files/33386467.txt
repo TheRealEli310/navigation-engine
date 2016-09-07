@@ -1,0 +1,4 @@
+convert kml multiple features geojson 
+code convert kml file single feature geojson file kml file multiple features geojson file kml file considered single feature comma features file multiple feature file replacing buth returned geojson file empty 
+
+produce featurecollection 

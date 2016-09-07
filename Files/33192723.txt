@@ -1,0 +1,4 @@
+swapping adjacent numbers arrays 
+heres problem write method called swappairs accepts array integers swaps elements adjacent indexes elements swapped elements swapped array odd length final element left unmodified list call method write method printarray passed array print element br method print array modified swappairs code returns 2a139a55 
+
+breaking computer times heres actual working code 

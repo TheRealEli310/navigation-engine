@@ -1,0 +1,4 @@
+regex validate username length 
+regex validate username meet constraints ol li username alphanumeric characters underscore li li username start numeric character li li username li ol ended regex problem usernames length arent prevented length lt prevented wrong regex 
+
+ensures input starts alphabet underscore makes word characters end making total length shorten regex match instances means start alphabet underscore word char length 

@@ -1,0 +1,4 @@
+memory allocated native code jni calls 
+allocate memory block jni function release jni function afraid jvm catchs call malloc native function release function finished code correct upd read direct buffer newdirectbytebuffer global refererences newglobalref asked allocate memory jni api call malloc 
+
+valid approach jvm control native code possibly break party libraries intercept malloc free calls futhermore similar approach jdk code examples href http hg openjdk net jdk8u jdk8u jdk file 53fe2fe14a86 src share native sun media sound directaudiodevice l505 rel nofollow href http hg openjdk net jdk8u jdk8u jdk file 53fe2fe14a86 src share native sun tools jdi sharedmemoryconnection l205 rel nofollow href http hg openjdk net jdk8u jdk8u jdk file 53fe2fe14a86 src share native util zip zipfile l185 rel nofollow 

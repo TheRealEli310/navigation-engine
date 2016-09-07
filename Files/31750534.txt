@@ -1,0 +1,4 @@
+arrayindexoutofbound exception map task 
+split input parts assign parts separate string operations arrayindexoutofbound exception couldnt figure reason mapper stack trace parts length assignment error appreciated 
+
+tab literal split attempt split actual string doesnt sufficiently guard bounds exception case length greater doesnt element checking length greater 

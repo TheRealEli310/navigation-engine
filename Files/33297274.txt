@@ -1,0 +1,4 @@
+bouncycastle encrypt ecies 
+encrypt content ecc algorithm bouncycastle exception bouncycastle library cast understood public key generated method convert public key x509 spec encryption code convert public key x509encodedspec exception exception strong edit strong based comment jdk version jdk oracle import statements 
+
+general jce classes bouncy castle classes bouncy jce case problem parameters key generator code work equally instantiating provider time good idea influenced end result hr make youve date system run code code tested system pre class lang prettyprint override 

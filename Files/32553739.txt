@@ -1,0 +1,4 @@
+qualifying bean type javax persistence entitymanagerfactory defined 
+problem web app deploy project wildfly problem application context xml userdaoimpl genericdaoimpl bookedroomdaoimpl hibernate cfg xml 
+
+add entitymanagerfactory 

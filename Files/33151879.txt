@@ -1,0 +1,4 @@
+spring oauth intercept rest api calls forward interceptor 
+configured spring security oauth token validate user db rest api call api 
+
+intercept api call implementing filter spring servlet xml 

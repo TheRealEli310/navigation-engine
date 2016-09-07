@@ -1,0 +1,4 @@
+convert firebase data object 
+firebase library send data server form message string string added hashmap receiving data firebase method addvalueeventlistener string form convert message object 
+
+data firebase dont require appoach strong methods strong traverse children snippet messages child specific child property approach strong built json pojo serializer deserializer strong youre sending message list objects inside serialized json stored firebase inverse snippet messages deserialize json straight back object simple sample application approach href https github firebase androidchat firebases androidchat sample shows efficiently deal list messages hint 

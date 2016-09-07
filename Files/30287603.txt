@@ -1,0 +1,4 @@
+passing mainactivity custom listview adapter class 
+pass string custom listview adapter class code working strong mainactivity strong strong myadapter strong getview 
+
+happening creating adapter calls getview message set custom adapter change constructor takes message 

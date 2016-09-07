@@ -1,0 +1,4 @@
+unused return values 
+found question href http stackoverflow questions unused function return values unused function return values interest thread interesting general consensus overridden differences thread links appreciated imagine proof amp detail bit depth doesnt set variable 
+
+compiler sees leaves return stack unassigned aka removes assign lives references longer attached screenshot eclipse bytecode plugin l0 return concat call stored astore call l1 assigned handled pop aka removed stack img src http stack imgur qkdys png alt bytecode return handling hope helps 

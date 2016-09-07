@@ -1,0 +1,4 @@
+create observable tasks 
+create method accepts returns completed async tasks tasks run queues consumers separate threads heres thinking ul li task receives queue computes sets calls li li task receive call theyve job li ul task run independently complete random order subjects return emit em em tasks dont subscribers observable tasks completed correct combine subjects achieve behavior easily hack hoping rx native kind tackle plan subjects callbacks queue approach migrate rx 
+
+write typically discouraged number reasons concatenate observables subjects produced tasks operation produces emits values produced tasks completes input observables completed types slightly differ youll alter signature observables produced tasks wait subscribers produced observables completed call method 

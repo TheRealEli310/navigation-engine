@@ -1,0 +1,4 @@
+tooltip text column jtable header 
+display text cell header tooltip hover cell found set tooltip entire header similar cell looked href http stackoverflow question understand override method tablecellrenderer class found hass gettooltiptext jcomponent 
+
+section swing tutorial href http docs oracle javase tutorial uiswing components table html headertooltip rel nofollow tooltips column headers recommend approach laf custom renderer extending default renderer wont work lafs windows table header mac table header nimbus table header blockquote create tableheader blockquote overriding code creates override method jtableheader provide tooltip based mouse location code tooltip array blockquote text mouse tooltip blockquote text header jtableheader text column header 

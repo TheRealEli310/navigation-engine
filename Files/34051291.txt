@@ -1,0 +1,4 @@
+generate random localdate time 
+writing code populate mysql database random data testing purposes populate column random dates heres relevant method purpose create random integers day month year combine date object pass database database rejects feed educational supply suggestion based newest library 
+
+simple convert minimum maximum date epoch day generate random integer values finally convert back epoch day obtained href https docs oracle javase docs api time localdate html toepochday rel nofollow count days iso problem generating random year month day small chance falling invalid date 31st februrary taking random epoch day guarantees uniform distribution dates minimum date replace convert refer href http stackoverflow post 

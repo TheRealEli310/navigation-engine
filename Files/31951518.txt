@@ -1,0 +1,4 @@
+redshift postgres jdbc driver intercept jdbc postgresql connection string 
+problem solve web application packaged war clients configure database point support postgresql redshift jdbc4 drivers loaded automatically good heres problem appears redshift jdbc driver respond jdbc postgresql connection string postgresql jdbc errors connecting postgresql database driver org postgresql driver driver datasource pom xml spring jdbc templates choosing driver picks handler run sort issue 
+
+redshift driver registers handle url prefix postgres amp redshift drivers loaded jars register drivermanger logic implemented loop drivers stop driver handle url postgres driver registers works fine postgres driver attempts handle redshift driver manages register postgres driver figured solve add 

@@ -1,0 +1,4 @@
+nashorn put function binding global scope 
+static method id pass js directly global scope found creating instance putting nashorn js approach doesnt involve stub creation puts method directly global scope 
+
+implement functional interface href https docs oracle javase docs api lang functionalinterface html rel nofollow https docs oracle javase docs api lang functionalinterface html util function function class expose object global variable nashorn nashorn treats functional interface object function direct call simple exposes dump function 

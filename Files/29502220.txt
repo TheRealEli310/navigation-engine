@@ -1,0 +1,4 @@
+populating cardview arraylist objects android 
+hard explain bare basically code adds objects displays works perfectly send array intent received perfectly strong strong array populate em card em display cards issue adapter iterates array adds card item array strong position strong objects array populate single card explain tricky put words strong code strong code adds items array code adapter receivesthe array activity adapter adapter wrong throwing array bounds error thought share attempt created cards time changed line appreciated bane life sof 
+
+turns isnt hard created class stores list exercise inside adapter shows simpler read 

@@ -1,0 +1,4 @@
+filter logstash 
+ruby filter logstash enables write code ruby included config file jar files include filter input processed operations jar files apparently include jar file ruby code solution 
+
+answer found wonderful tutorial elastc shows steps create gem filter logstash href https www elastic guide en logstash current write logstash filter plugin html rel nofollow https www elastic guide en logstash current write logstash filter plugin html 

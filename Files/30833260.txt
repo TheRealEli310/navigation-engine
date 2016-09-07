@@ -1,0 +1,4 @@
+hibernate jpa check generated sql updating db schema net ef migrations 
+learn hibernate jpa wondering similar nets entity framework href https msdn microsoft en data jj591621 aspx rel nofollow migrations code class schema approach auto generated sql queries strange dangerous things database verify generated sql query decide update database schema enabled property run project debug mode order check generated query stop continue execution elegant proper strong edit strong icremental schema update feature instance rename field models class hibernate jpa thing ul li drop table recreate data loss li li add colunmn li ul alter existing table 
+
+schema generator class org hibernate tool hbm2ddl schemaexport heres sample code highly inspired post 

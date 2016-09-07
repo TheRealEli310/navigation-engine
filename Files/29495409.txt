@@ -1,0 +1,4 @@
+local jar artifact maven dependency plugin 
+maven project artifacts present remote repositories included project directory lib compiled jar files plain dependencies utilize lib scope system systempath artifact maven dependency plugin unpack goal relevant part pom xml reach remote repository fetch artifact succeed achieve artifact attempted fetched lib 
+
+fetching lib setting nexus artifactory bit add jar local repository individual computer maven built projects machine wouldnt lib copy project compiling jar maven project mvn install install local repo mvn package wont install local repo 3rd party jar mvn install install file follow instructions href https maven apache org guides mini guide 3rd party jars local html rel nofollow https maven apache org guides mini guide 3rd party jars local html hope helps update local repository differently referred comment local repository users computer versus repository server local intranet caused confusion 

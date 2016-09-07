@@ -1,0 +1,4 @@
+start date end date validation 
+writing validator ensures start date end date writing class level constraintvalidator manner dont fact reflection extract date objects bean afaik validation spec set values validate bean 
+
+add interface set generic type interface object class validate start end date implement define methods 

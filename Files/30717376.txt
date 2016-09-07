@@ -1,0 +1,4 @@
+convert date yyyy mm dd utc format 
+date convert june work correctly returns january wrong 
+
+insted lowercase minutes documentation href http docs oracle javase docs api text simpledateformat html rel nofollow link 

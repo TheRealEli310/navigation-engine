@@ -1,0 +1,4 @@
+output finding middle word string expected 
+strong myapproach strong middle word found length string checked multiple conditions word words equal length word equal length equal length checked character character compareto rest logic blockquote unable satisfy test case qn guide wrong code blockquote 
+
+specific case middleword youre hitting 3rd clause case length word smaller sets return yeah logic wrong youre comparing strings length lexicographically case override compareto function sort return element cleaner solution hr dont compare lengths compare lexicographically collections arrays sort method case make strings href http docs oracle javase docs api lang string html compareto lang string rel nofollow compareto function 

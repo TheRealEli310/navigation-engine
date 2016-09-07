@@ -1,0 +1,4 @@
+openentitymanagerinviewfilter undefined entitymanagerfactory 
+order overcome lazyinitializationexception decided openentitymanagerinviewfilter heres code appinitializer class implements webapplicationinitializer heres configuration class defines bean bean filter 
+
+spring classes thing replace make arent loading class lead bean duplication 

@@ -1,0 +1,4 @@
+maven wildfly plugin execute goal deploy 
+deploy war files maven wildfly plugin version force change port management console href http rel nofollow http maven configuration error suggestions 
+
+error message isnt great href https issues jboss org browse wfmp rel nofollow fixed upstream issue youve wrong port defined plugin management port default change configuration leave work side configuration needed needed goals youre deploying dont configuration defined defaults correct 

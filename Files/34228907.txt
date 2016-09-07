@@ -1,0 +1,4 @@
+spring boot gradle app heroku unable access jarfile 
+spring boot gradle app run successfully pc deploy heroku successfully result access heroku crashes heroku logs navigate folder local pc jarfile running ideas solve 
+
+eventually found helpful thread href http stackoverflow questions running spring app built gradle heroku rq running spring app built gradle heroku helped problem thread detail herokus official guide add code build gradle file point procfile app jar 

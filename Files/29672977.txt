@@ -1,0 +1,4 @@
+define org hornetq ra resource adapter wildfly 
+defining module wildfly section configuration registered resource adapter error 
+
+lots problems decided deployment directory hornetq ra reference defining mdb 

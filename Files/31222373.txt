@@ -1,0 +1,4 @@
+spring integration validation 
+validation spring integration inbound gateway message received validate valid return validation errors gateway proceed normal flow application transform handle filter works href http docs spring io spring framework docs api org springframework validation validator html rel nofollow spring validator call filter validationhandler transformer errors 
+
+dont create handler error filter validation fails throw error flow gateways error channel payload pojo messagehandler 

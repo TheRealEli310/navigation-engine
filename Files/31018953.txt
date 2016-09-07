@@ -1,0 +1,4 @@
+maps activity navigation drawer 
+problem showing maps activity navigation drawer code mainactivity navigation drawer mapsactivity activity maps xml androidmanifest xml working fine separate project creating google map put project stopped time choose track navigation drawer dont wrong code lacking code 
+
+extend mapfragemnt fragemnt fragmentactivity main activity call code id content frame framelayout inside mainactivity xml dont id gave framelayout didnt post mainactivity xml 

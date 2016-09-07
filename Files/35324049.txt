@@ -1,0 +1,4 @@
+collect list strings spark dataframe column groupby operation 
+solution href http stackoverflow questions spark sql replacement mysql group concat aggregate function zero323 close twists ol li li li column list strings single string collect lists single list groupby column li ol spark solution question error blockquote exception thread main org apache spark sql analysisexception undefined function collect list org apache spark sql catalyst analysis simplefunctionregistry anonfun apply functionregistry scala org apache spark sql catalyst analysis simplefunctionregistry anonfun apply functionregistry scala scala option getorelse option scala blockquote 
+
+error suggests plain hive udf requires doesnt support complex columns option perform 

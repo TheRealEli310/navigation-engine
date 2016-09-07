@@ -1,0 +1,4 @@
+resources fx include 
+load fxml file test1 fxml includes fxml file test2 fxml included file supposed resource bundle test2 properties resources attribute inside fx include tag run application fxmlloader throws nullpointerexception caused piece code debugging found fxmlloader resources null npe thought simply wrong file path resourcebundle load properties file idea fix resources loaded files directory default package simplicity strong testapp strong strong test1 fxml strong strong test2 fxml strong strong test2 properties strong full stacktrace 
+
+href https javafx jira kenai browse rt rel nofollow bug fxmlloader workaround bug ol li define root resourcebundle fxmlloader instance load root fxml file li li root resourcebundle loaded classloader bootstrap classloader li ol workaround found oracle forum href https community oracle message rel nofollow https community oracle message dont resourcebundle root fxml file simple workaround strong testapp strong 

@@ -1,0 +1,4 @@
+prevent spring boot autoconfiguration spring web 
+added dependency maven pom make spring initialize prevent 
+
+reference case documented href http docs spring io spring boot docs current reference htmlsingle howto create web application spring boot reference guide blockquote spring applications web applications web services execute code method bootstrap spring application set infrastructure easy features spring boot class depending thinks web application thing leave servlet api dependencies classpath running applications code base explicitly call set property api external properties application code run business logic implemented dropped context definition blockquote application properties 

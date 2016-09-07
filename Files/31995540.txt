@@ -1,0 +1,4 @@
+jersey client apache httpclient underneath 
+project make http client apache httpclient librabry previously jersey 
+
+href https jersey net apidocs jersey org glassfish jersey apache connector apacheconnectorprovider html rel nofollow apacheconnectorprovider pass instance href https jersey net apidocs jersey org glassfish jersey client clientconfig html connectorprovider org glassfish jersey client spi connectorprovider rel nofollow clientconfig connectorprovider instance apache http client hood dependency heres working 

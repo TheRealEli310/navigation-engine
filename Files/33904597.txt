@@ -1,0 +1,4 @@
+spring config exposing bean interface 
+class lets defaultservice implements interface service1 service2 spring config bean foo requires service2 bean configured config spring doesnt configuration suppose makes sense defaultservice exposed service1 service2 foo requires expose defaultservice service2 bean requires service1 spring recommendation scenario weird problem found configuration works spring wires service1 configuration declaration anotherdependant wasnt happy autowired scenario spring release doubt version matters workaround ugly strong replying oskar strong basically oskar suggesting declaring xml create instances class spring container 
+
+taking car question ol li define car component li li declare field config autowired li li autowired field returned bean annotated method li ol car component automatically picked creating context pass car class constructor shown code 

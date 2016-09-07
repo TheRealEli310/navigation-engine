@@ -1,0 +1,4 @@
+jpa onetomany jointable deleting link deletes side object 
+openjpa2 parent linktable category relation remove category parents category array properly deleted linktable em unlinked em adding category array inserted linktable problem strong category target entity deleted category table strong debugged jdbc queries performed openjpa library db tables dont cascaded delete constraint parent categories linked onetomany annotation category linked prefer keeping entity class clean link annotations legacy application composited primary keys jpa problem guess valid sql schema pattern 
+
+annotated association precisely means categories removed parent orphan removed 

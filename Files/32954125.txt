@@ -1,0 +1,4 @@
+string add space punctuation 
+add spaces punctuation string regex matching punctuation adding space extracting remainder matching punctuation dont recursively call regex regex match thinking building string continuously removing appending instance matched regex original string empty pre class lang prettyprint override doesnt feel complicating things 
+
+lookarounds based regex punctuation property ul li asserts prev char white space li li asserts position previous char punctuation char li li asserts position char punctuation char li li asserts char white space li ul href http ideone wmtyr1 rel nofollow ideone demo 

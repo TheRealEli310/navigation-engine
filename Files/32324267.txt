@@ -1,0 +1,4 @@
+google map loading android 
+map loading called class onmaploaded called strong edit strong xml 
+
+provided googlemap v2 key key google map permissions mention projects appmanifest xml blockquote strong access network state strong check network state data downloaded br strong internet strong check internet connection status br strong write external storage strong write external storage google maps store map data external storage strong access coarse location strong determine user location wifi mobile cell data strong access fine location strong determine user location gps opengl br strong es v2 strong required google maps v2 blockquote mentioned requirements fulfilled code snippet public class mainactivity extends activity check make instance google map 

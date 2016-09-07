@@ -1,0 +1,4 @@
+minecraftforge imports working 
+recently started modding minecraft eclipse created test mod worked perfectly decided start mod scratch immediately error imports pressing ctrl shift organize imports deleted couldnt resolved back previous project imports werent working playing realized imports em em working strong net minecraftforge imports werent working strong extremely confused happening upload code gladly greatly advance 
+
+askew eclipse modding important check workspace good reason jar corrupted deleted locked virusscanner aliens kidnap reason isnt important thing solution minded reset workspace running strong strong redownload stuff decompile jars setup workspace items eclipse problem isnt solved issue suggest start afresh redownload forge src href http files minecraftforge net rel nofollow http files minecraftforge net extract strong strong directory run strong strong directory copy source files issue resolved slowly add dependencies external jars 

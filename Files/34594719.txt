@@ -1,0 +1,4 @@
+aes decryption random chars message end 
+problem decrypting message aes end expect message receive sth message pass encryption built ul li cipher key sha aes token li li cipher iv characters stored message beginnig li li decrypted message wrapped base64 li ul question end eventually receive expected message lot rubbish chars beggining encryption code 
+
+arent removing iv beginning reading explain garbage start decrypted message 

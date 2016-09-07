@@ -1,0 +1,4 @@
+adding gzip spring embedded tomcat 
+add gzip compression server reading writing spring boot client sends headers data reaches service compressed missed 
+
+ended existing filter added bean compressingfilter problem didnt work spring boot configuration love 

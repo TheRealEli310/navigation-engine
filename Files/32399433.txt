@@ -1,0 +1,4 @@
+issue creating oracle array type arraydescriptor 
+making direct connection oracle code working fine br connecting database datasource configured websphere receiving exception blockquote sql sqlexception dsra9122e ibm ws rsadapter jdbc wsjdbcconnection 21cf8d56 wrap objects type oracle jdbc driver oracleconnection blockquote code throwing exception 
+
+case faces similar issue href http docs spring io autorepo docs spring release javadoc api org springframework jdbc support nativejdbc webspherenativejdbcextractor html rel nofollow webspherenativejdbcextractor supported spring native connection wsjdbcconnection 

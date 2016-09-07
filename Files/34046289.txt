@@ -1,0 +1,4 @@
+share dagger component flavors 
+flavors pro free mainactivity src main error maincomponent due import mainactivity flavors make clear heres src main code shown imports free flavor giving error switch pro flavor 
+
+flavors packages components move mainactivity level versions mainactivity fully qualified named strong update strong classes named fully qualified names guess class flavor specific implementations add separate implementation mainactivity flavor flavor specific folder paths gradle compile implementation selected flavor 

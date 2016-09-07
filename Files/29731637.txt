@@ -1,0 +1,4 @@
+gson provider jersey 
+simply gson jackson provider create json manually gson return response specific status message solution jackson simply add object good works jersey move projects href http eclipsesource blogs integrating gson jax rs based application rel nofollow http eclipsesource blogs integrating gson jax rs based application couldnt work appreciated 
+
+created running github href https github dominikangerer gsonjerseyprovider rel nofollow https github dominikangerer gsonjerseyprovider improved implementation gsonjerseyprovider found configuration part jersey provider key part scan controller package util package provider added find answer href http stackoverflow http stackoverflow provider work jersey jersey 

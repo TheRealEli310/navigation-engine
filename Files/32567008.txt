@@ -1,0 +1,4 @@
+tomcat scan annotations jersey 
+jersey maven project web xml pre class lang xml prettyprint override strong pom xml strong pre class lang xml prettyprint override project works fine working locally doesnt work anymore deploy remote server basically war deployed correctly error warning catalina defined endpoints strong catalina strong strong applicationresource strong problem developed tomcat8 dont remember specifically deployed tomcat7 problem hr endpoint reachable href http gli api api item rel nofollow http gli api api item api works fine server general working dont final answer point files directories dont error 
+
+enable annotation scanning setting init parameter servlet strong update strong compiled tomcat runs update web xml 

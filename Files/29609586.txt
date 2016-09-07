@@ -1,0 +1,4 @@
+count string beginning store array android studio 
+made regex string storing json data find images json data returns count number links beginning store href link array idea cheers 
+
+shouldnt parsing html regex proper parser reasons fact ul li order attributes change elements easily skipped regex describe li li attributes dont surrounded creates additional risk skipping important data li ul href http jsoup org rel nofollow jsoup library output 

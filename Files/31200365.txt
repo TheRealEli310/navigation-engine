@@ -1,0 +1,4 @@
+close client connection netty 
+simple netty client server app server side check client connect host correct close clients connection server side code client side message server side ctx writeandflush client side shutdown exception close client connection rigth newbe netty 
+
+asynchronous return strong strong data written channel returns lets add listener notified operation complete make channel closed data written 

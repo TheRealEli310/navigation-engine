@@ -1,0 +1,3 @@
+concatenating mac salt ciphertext 
+trouble adding mac password based aes encryption decryption program add macd plaintext salt password byte arrays final array ciphertext decrypt reading ciphertext file splitting back salt mac cipher text byte arrays encryption class running smoothly decryption class debugged class found fails enters statement checks computed recovered macs couldnt figure printed byte arrays salt message mac found dont match printed encryption decryption classes array sizes match classes byte values change classes worked perfectly mac didnt add salt directly encrypted data wrote separate file including encrypted data makes slightly portable bad choice write separate file missing blatantly code full code encryption class decryption class appreciated 
+

@@ -1,0 +1,4 @@
+faster build inverted list mongo 
+build inverted list mongodb collection collections id dictionary map word document position word document positions document add database simply array word ids spring mongo code upsert method implemented solution works document words takes queries mongo finally question thera faster query array execute db function isnt 
+
+improve performance href http docs mongodb org manual reference method bulk find upsert rel nofollow bulk upserts reason efficient kind speed boost expect outlined href http stackoverflow answer basically strong call strong mongo matter words familiar spring mongo rudimentary search href http api mongodb org mongodb bulkwriteoperation html rel nofollow suggests supported hope find implement bulk upserts driver strong strong bartektartanus href http docs spring io spring data mongodb docs current reference html rel nofollow link official documentation 

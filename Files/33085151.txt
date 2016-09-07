@@ -1,0 +1,4 @@
+bad return type lambda expression 
+code compiles fine intellij eclipse jdk compiler complains code output javac replace simply jdk compiles successfully replace jdk compiles successfully works jdk suspect compiler bug details caused fixed 
+
+lambda expression appears target type wildcards cases question arises whats type lambda expression type choices due wildcards explicitly choose implicitly inferred makes sense consumer fed href http docs oracle javase specs jls se8 html jls html jls rel nofollow http docs oracle javase specs jls se8 html jls html jls blockquote wildcard parameterized functional interface type lambda expression implicitly typed ground target type wildcard parameterization blockquote assumes wildcards properly variance wise target type find hilarious examples assumption doesnt hold 

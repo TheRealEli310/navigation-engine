@@ -1,0 +1,4 @@
+difference locks synchronized methods 
+understand synchronization implicit locks dont produce results difference sections code programmer choose strong code block strong strong code block strong 
+
+examples provided serve purpose equal terms thread volatile balance reentrantlock unstructured means lock critical section method unlock method synchronized structure block performance issue utilize reentrantlock synchronized true involving multiple threads 

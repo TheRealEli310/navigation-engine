@@ -1,0 +1,4 @@
+spring configuration issue abstract parent class child class 
+code work basically table called alert settings mysql database configured classes abstract generic dao alert settings dao interface actual dao class ul li abstract generic dao li li alertsettingdao interface li li alertsettingdao implementation class li ul repository public class alertsettingdaoimplspring extends genericdao implements alertsettingdao main class wrong 
+
+error pretty clear dont getters setters datasource classes spring configuration wrong spring expects classes getters setters string property datasource change remove resource annotation make getters setters created classes inject object reference dont getters setters remove declarations spring configuration autowired 

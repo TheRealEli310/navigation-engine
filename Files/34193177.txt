@@ -1,0 +1,4 @@
+jackson polymorphic serialization work lists 
+jackson bizarre find explanation polymorphic serialization works perfectly object put object list serialize list erases type information fact losing type info lead suspect type erasure happening serialization em contents em list jackson inspect current object serializing determine type created jackson heres output jackson adding type information object list happening 
+
+reasons discussed href https github fasterxml jackson databind issues rel nofollow href https github fasterxml jackson databind issues rel nofollow dont necessarily agree reasons jackson type erasure doesnt em bat em type elements chooses simple serializer doesnt interpret annotations options suggested links create class implements instantiate appropriately serialize instance generic type argument lost jackson access instantiate type print 

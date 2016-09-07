@@ -1,0 +1,4 @@
+spring inject request header 
+problem spring injecting request header controller br code properties defined strong strong strong strong problem blockquote annotation attribute requestheader constant expression blockquote inject constant final static field workaround annotation mapping property file define header 
+
+values annotations resolvable compile time determined runtime solution href https tomcat apache org tomcat doc servletapi javax servlet http httpservletrequest html getheader lang string rel nofollow pre class lang prettyprint override 

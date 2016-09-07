@@ -1,0 +1,4 @@
+hash based message authentication codes mac match receiver end 
+create basic demo application class generate message format signedmessage hmac base64encoded message receiving end decodedata wan compare message signed key decrypting signed message signing message key compare signed message receiver end signed message work decode base64 encoded message give correct message guide whats wrong hr strong em output em strong output encodedata usersvivek pateldesktopapijavaencoding cp commons codec jar encodedata encoded context 510bfe2c created digest 73f025cb 73f025cb 510bfe2c output decodedata usersvivek pateldesktopapijavaencoding cp commons codec jar decodedata 73f025cb 510bfe2c 
+
+evaluate code arent comparing values print printting type array hashcode initialize string encoded bytes explicit charset default depending origin charset post results 

@@ -1,0 +1,4 @@
+set text edittext datepicker dialogfragment 
+simply date datepicker dialog created android datepicker tutorials found online wrong actual retrieving text date selected datepickerfragment class called createevent fragment nested inside mainactivity activity class datepicker set date understand means find edittext element create event fragment xml file setting text edittext element change approach href http stackoverflow avail 
+
+strong interface strong data caller create em member variable em called override amp methods implement caller override method good 

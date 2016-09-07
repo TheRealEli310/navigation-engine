@@ -1,0 +1,4 @@
+unable open ie11 driver instance selenium webdriver 
+shows error executing code exception thread main org openqa selenium remote sessionnotfoundexception unexpected error launching internet explorer protected mode settings zones enable protected mode set enabled disabled zones warning server provide stacktrace information command duration timeout seconds suggest resolve issue 
+
+proxy access provision change protected mode settings capabilities introduce flakiness 

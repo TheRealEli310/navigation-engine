@@ -1,0 +1,4 @@
+call function gattcallback ui thread 
+ol li situation communicating sensor ble sending session objects strings sensor android device li ol sessions android device call session ui thread uploads server volley call uploadsessions sessions server receive response server confirming received erase sensors memory onresponse calls sessionssuccessfullyuploaded problem access functions gattcallback ui thread call erasedevice sessionssuccessfullyuploaded ol start li looping callback li ol error 
+
+broadcast intents receivers document href http www techotopia index php android broadcast intents broadcast receivers rel nofollow http www techotopia index php android broadcast intents broadcast receivers put callback special bluetooth service class extends 

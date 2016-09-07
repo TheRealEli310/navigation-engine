@@ -1,0 +1,4 @@
+lang noclassdeffounderror javax persistence entitylisteners 
+error 
+
+click href http repo1 maven org maven2 org hibernate javax persistence hibernate jpa api final hibernate jpa api final jar rel nofollow download hibernate jpa api final jar put project library application work fine 

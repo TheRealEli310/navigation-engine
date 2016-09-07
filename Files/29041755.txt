@@ -1,0 +1,4 @@
+multithread synchronizing warning android studio 
+android studio intellij idea android development warning piece code line warning condition true true program runs single thread program parallel thread change condition change line snippet valid warning missing things change change nested ifs single operator 
+
+means youre counting changed thread dangerous programming tactic compiler wont accessed friends optimize assuming isnt variable touched multiple threads declared volatile inform compiler touched multiple threads special care treating didnt ill bet dozen multithreading bugs waiting happen 

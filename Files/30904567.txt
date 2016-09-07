@@ -1,0 +1,4 @@
+javafx textfield pseudoclassstatechanged method working 
+setting highlight error occurs red border appears click mouse inside put text show border time sets border worked fine till moment switched accidentaly option css file 
+
+focus control css applies control focus change change element change requirement 

@@ -1,0 +1,4 @@
+javafx imageview navigation 
+facing problem navigating screen clicking image imageview written code switching screens actionevent navigate screens clicking image giving type mismatch error fxml controller excecuting exception clicking image 
+
+error method called href https docs oracle javase javafx api javafx scene node html setonmouseclicked javafx event eventhandler rel nofollow event strong expects strong href https docs oracle javase javafx api javafx scene input mouseevent html rel nofollow method strong accept strong 

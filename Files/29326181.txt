@@ -1,0 +1,4 @@
+struts property tag working img src tag jsp 
+display image files jsp page javabean struts retrieving path database tag recognizing image path display path shows correct path line displayed written statement tag 
+
+check rendered page img tag path parameter print dbl check view source firefox clikc inspect element main problme actual path question absolute path dir drive browser fetches file directly drive server serves server tomcat guess resolve path file web server relative paths absolute serve content machine webapp files relative webapp subfolder guess eclipse server webapp called correct path image struts action inside package 

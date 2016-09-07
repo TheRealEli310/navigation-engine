@@ -1,0 +1,4 @@
+nullpointerexception warning getview inside onactivitycreated onstart onviewcreated method 
+return null inside method put code inside methods shows warning android studio program runs issue rid warning fragments code warning blockquote method invocation getview findviewbyid id datepurchased produce lang nullpointerexception blockquote 
+
+android studio based intellij idea feature intellij warnings compile time checking object returned method avoid program style checks catches verbose things return object alternative suppress warnings cases annotations methods objects null case line level suppression objects null information intellijs notnull nullable annotations found href https www jetbrains idea documentation howto html inspections supressing href https www jetbrains idea suppressing inspections html 

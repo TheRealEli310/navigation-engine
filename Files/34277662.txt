@@ -1,0 +1,4 @@
+gradlew assemble failing travis ci 
+private build behave travis ci pro complaining failing heres full log gradle setup project travis documentation work fine heres travis config file build locally intellij idea ul li li li li ul works flawlessly hints 
+
+passing issue file inadvertently added entry causing included repo removing entry file committing repo fixed issue 

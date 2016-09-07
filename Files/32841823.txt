@@ -1,0 +1,4 @@
+lang arrayindexoutofboundsexception 
+error message line code added 21st 22nd column dont whats reason showing exception 
+
+call href http docs oracle javase docs api javax swing jtable html removecolumn javax swing table tablecolumn rel nofollow column array columns reindexed element removed element index reindexed index remove columns reverse order reindexing doesnt happen call times line call column column 

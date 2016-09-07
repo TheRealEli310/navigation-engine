@@ -1,0 +1,4 @@
+redirect stdin file eclipse 
+href https bugs eclipse org bugs show bug cgi id rel nofollow bug eclipse prevented run configuration redirecting file stdin supposedly fixed find documentation tells fixed easy misunderstand accomplish clear code read file pass filename arg redirect stdout stderr existing code takes normal standard input knowing coming keyboard file redirecting input file command prompt eclipse configured automatically touch ctrl f11 keystroke fair warning number web searches answer claim answer end working stdout 
+
+announcement description feature eclipse mars href http eclipse org mars noteworthy assigning stdin file rel nofollow http eclipse org mars noteworthy assigning stdin file blockquote stdin assigned file strong common strong tab launch configuration dialogs img src http stack imgur wcwsd png alt enter image description blockquote expected feature released eclipse work older version 

@@ -1,0 +1,4 @@
+android unable instantiate fragment 
+code problem return application foreground app crashes giving error shown stack trace unable instantiate framgent mainactivity bookacabfragment stack strace 
+
+read log carefully android os instantiate class strong bookacabfragment strong fragment strong bookacabfragment strong create anonymous fragment lack public accessability update reading code found wrong code create anonymous fragment put fragment class create static class bookacabfragment prefer option additional hint class lines code refactor monolith 

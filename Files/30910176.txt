@@ -1,0 +1,4 @@
+unable create multiple log files based threadcontext map values routing appender log4j2 
+log4j2 jars oracle adf application build 12c requirement create multiple log files based session ability change logging properties dynamically log4j2 xml file div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override calling utility class threadcontext values set clearled logging issue change threadcontext values session dont multiple files created logs appended file restart server file generated session logs appended 
+
+configuration usecase 

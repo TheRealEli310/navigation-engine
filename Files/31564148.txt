@@ -1,0 +1,4 @@
+track change nodes bound javafx 
+thing asked post href http stackoverflow questions track nodes bound javafx track nodes bound javafx edited sscce problem changed method doesnt called correctly called time add code changed method called correctly slow 
+
+parent pane simply efficiently binding circles location buttons assume real application nodes parents garbage collected prematurely href http stackoverflow questions javafx beans binding suddenly stops working fix listener binding 

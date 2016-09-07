@@ -1,0 +1,4 @@
+spring classnotfoundexception bean creation 
+class titangraph intellij project included libraries project project compiles fine spring create bean class type throws classnotfoundexception bean xml file reference wrong libraries included runtime edit stacktrace 
+
+dont define bean configuration dont define xml based configuration check included dependency correct scope dont maven ivy whatnot dependency set testing run app main method testing context class 

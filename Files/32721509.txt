@@ -1,0 +1,4 @@
+hibernateexception found clob expected varchar2 
+strange bug application tomcat hibernate ojdbc7 jar current release db column changed clob configured works perfectly fine local environment oracle 11g xe test environment oracle prelive environment oracle error application start hints checked tomcats lib directoryif outdated ojdbc hibernate jar success 
+
+message expecting expect clob finds guess didnt deploy code em prelive em environment successfully 

@@ -1,0 +1,4 @@
+apache camel dynamic endpoints 
+starting learn apache camel faced problem read xml file file system parse transfer file xml location hr xml located users juise desktop jms means transfer files users juise desktop directory users juise desktop code doesnt works logs 
+
+bean producer consumer template file end points directory dynamic require tweaking change file delete original file location 

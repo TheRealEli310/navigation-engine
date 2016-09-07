@@ -1,0 +1,4 @@
+execute stored procedure jpa 
+attempting execute stored procedure oracle jpa exception blockquote caused org switchyard handlerexception br lang nosuchmethoderror br javax persistence entitymanager createstoredprocedurequery ljava lang string br ljavax persistence storedprocedurequery blockquote code snippet 
+
+method strong entitymanager createstoredprocedurequery ljava lang string strong persistence check jpa version mind dependency conflict due maven transitive dependency share project setup easier 

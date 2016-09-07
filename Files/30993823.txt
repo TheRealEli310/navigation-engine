@@ -1,0 +1,4 @@
+tomee configure multiple datasources 
+configured single data source tomee xml working issues configure data source ol li directly add resource li li additional configuration datasources li li multiple data sources assign priority li ol 
+
+ul li directly add resource li li additional configuration datasources li li multiple data sources assign priority li ul link idea href http tomee apache org dynamic datasource html rel nofollow dynamic datasource br href http tomee apache org examples trunk dynamic datasource routing readme html rel nofollow dynamic datasource routing 

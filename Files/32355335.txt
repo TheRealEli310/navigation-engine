@@ -1,0 +1,4 @@
+javafx hide stage disposing closing application 
+creat app shows primary stage user user closes stage finishing application hide stage swing call setvisible false jframe jdialog javafx 
+
+javafx toolkit started default close visible window closed prevent call typically method called thread exit application call application longer exits automatically 

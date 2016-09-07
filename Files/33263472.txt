@@ -1,0 +1,4 @@
+library android adb 
+library suggest adb related tasks basic prototype fork adb process output process library ddmlib library provided android actively developed library ddmlib job 
+
+depends case ddmlib run shell commands device forking adb process chimpchat suits library monkeyrunner geared ui interaction suits 

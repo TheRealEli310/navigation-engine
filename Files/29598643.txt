@@ -1,0 +1,4 @@
+declaring string final onsubmit results slf4j error 
+working apache wicket project involving textfield inside overriden onsubmit declared string final declare string type org slf4j logger resolved indirectly referenced required class files fact logging whatsoever declare string final cleaned project effect automatic builds resolve issue greatly appreciated 
+
+solved importing specific jar files slf4j binary slf4j api jar slf4j simple jar adding build path strong strong shift click select click scroll build path click add build path temporarily disabled build automatically cleaned built project manually enabled build automatically instructions eclipse 

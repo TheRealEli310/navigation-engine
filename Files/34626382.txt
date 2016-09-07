@@ -1,0 +1,4 @@
+convert localdatetime localdatetime utc 
+convert localdatetime localdatetime utc searched net solution 
+
+class return time utc 

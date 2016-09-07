@@ -1,0 +1,4 @@
+spring bean implementing multiple interfaces 
+bean implements interfaces barebones code appconfig spring complains blockquote qualifying bean type interfacea defined expected single matching bean found interfacea interfaceb blockquote similar question asked answered ejb href http stackoverflow title ejb bean implement multiple interfaces find spring beans reason workaround introduce interface extends implement loath change design framework constraints 
+
+spring write spring creates objects named implementing interfacea interfaceb write spring find bean em implementing em error create object type annotations explicitely spring find bean em named em hopefuly unique 

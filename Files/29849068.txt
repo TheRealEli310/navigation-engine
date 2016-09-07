@@ -1,0 +1,4 @@
+eclipse indirectly referenced required class files 
+facing weird issue add external jars classpath error indirectly referenced required class files remove rid error entries classpath provide info advance 
+
+error means unresolved dependency jar files depends jar file added classpath duplicate href http stackoverflow questions eclipse error indirectly referenced required class files eclipse error indirectly referenced required class files 

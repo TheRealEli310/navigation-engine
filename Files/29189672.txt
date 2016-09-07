@@ -1,0 +1,4 @@
+sleep method sleeping thread 
+working multi threading question regard thread sleep method execute sleep time t1 method sleeping thread time t2 total sleep time t1 t2 t2 t2 t1 t1 t1 t2 code thread class main method result slept run extends thread class exited slept main thread executed result sleep time t2 sleep samplethread sleep run method exited main method question time 
+
+sleep called running thread called thread object sleep inside run methods pause sample trhread method pauses main thread started program execution processes sleep method static method thread calling bound thread object call sleep thread call awaked issue additivity priority code thread starts executes run method pause shorter time meantime main thread continues pauses long time main thread sleeps created thread finishes sleeping terminates 

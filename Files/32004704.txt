@@ -1,0 +1,4 @@
+pass list parameter jpql named query working 
+jpql named query declared supposed list pass parameter named query runtime problem basically error exception blockquote lang illegalargumentexception attempted set type class util arraylist parameter internalids expected type class lang integer query string select client internalid internalids blockquote searched internet solution syntax correct figure fyi weblogic 12c eclipselink 
+
+wasnt syntax simple solution remove brackets paramter definition works 

@@ -1,0 +1,4 @@
+spring mvc ip restriction single controller method 
+hide specific api requests coming form ip specific instance work ip ip read make creating specific annotation called iprestricted proceed solution 
+
+realized make spring security made annotation check request ip address inside handlerinterceptor prehandle method download method 

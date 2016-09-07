@@ -1,0 +1,4 @@
+recreate connections spring rabbit cachingconnectionfactory 
+cachingconnectionfactory multiple addresses broker connects broker destroy existing connections reconnect cachingconnectionfactory doesnt start stop methods destroy render factory unusable config programatically 
+
+calling connection reset established time component bear mind impact process operations add scary method spring jms connection factory 

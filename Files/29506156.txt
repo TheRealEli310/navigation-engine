@@ -1,0 +1,4 @@
+javafx zooming relative mouse pointer 
+href http stackoverflow questions javafx correct scaling learn zooming scaling great job demonstrating scaling figure change simply zooming current center view failed values math found examples languages javafx 
+
+question href http stackoverflow questions scale pivot point scaled node stackoverflow code modified version question answer ul li mouse button panning li li left mouse button dragging nodes li li scroll wheel zoom mouse cursor location li ul relevant part onscrolleventhandler 

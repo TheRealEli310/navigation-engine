@@ -1,0 +1,4 @@
+javafx displaying images pixel array 
+changed pixel array image display code doesnt work 
+
+define destination image set pixelwriter null bits amp pieces youll nullpointer exception jewelsea 

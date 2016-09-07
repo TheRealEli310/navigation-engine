@@ -1,0 +1,4 @@
+creating files concurrently 
+create unique filename code file delete multithreaded situation exceptions code reproduces problem times method generates amount bytes actual content important execute code times generates exceptions output instance ideas tested windows machine results problem href http stackoverflow questions file createnewfile randomly fails question multiple threads process part problem opinion faster reproduced 
+
+windows platform randomly fail file deleted single threaded application href http stackoverflow question details fix issue ignore continue dont check call conveniently returns created file successfully control temporary files create dont care exact file lock global file append thread id file 

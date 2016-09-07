@@ -1,0 +1,4 @@
+spring oauth2 remotetokenservices error extractauthentication 
+resource server auth server resource request verifies received access token auth server endpoint response makes request crash response resource server receives piece code fails ran debug mode check values judging response auth server built post information experienced clue solve 
+
+found solution version mismatch pom files auth server running resource server running versions declare response differently 

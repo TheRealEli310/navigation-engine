@@ -1,0 +1,4 @@
+cisco ise rest httpurlconnection bad request post xml body 
+working program takes values mac policy identitygroup description csv file writes cisco ise endpoint user credentials url aquired gui checking identitygroups file valid request works fine return map group ids mapped groupnames create endpoint sending post request required information xml body console output multiple things headers writing multiple lines checking values times idea bad request response thing aswell checking request correct postman sending post request exact headers exact body server works created shows db hope dont googling checking solutions didnt work advance appreciated 
+
+found mistake ashamed forgot close xml body didnt work working perfectly fine 

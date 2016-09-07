@@ -1,0 +1,4 @@
+sending large files socket consuming cpu cycles slow 
+experimenting found question online href https stackoverflow questions sending receiving file byte sockets sending receiving file byte sockets curiosity played code accepted answer code found similar question accepted answer works fast problem archive files corrupted code downfall experimental code consume cpu cycles takes time accepted answer idea happening code optimize improve code time accepted answer 11ms mb file time experiment seconds file server receivefile 
+
+youre copying byte time slow youre declaring byte array 

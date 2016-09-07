@@ -1,0 +1,4 @@
+gwt application local tomcat nocache js found 
+build maven run tomcat gwt application application working great eclipse build successful issues tomcat startup call landing page http error nochache js file isnt correct nochache js file exploded war directory idea firebug img src http stack imgur 2nkvs png alt firebug screenshot html file pom xml adaptions pom xml 
+
+works lifecycle mapping 

@@ -1,0 +1,4 @@
+ssl handshake failure client certificate 
+party library build ssl client perform crl check pkcs signature created keystore truststore put servers ca truststore debug cert authorities certificate chain empty client didnt send back certificate explain edit comments understood clients empty ca problem problem server asks client certificate client doesnt send server client send certificate 
+
+missing fact clients certificate generated server csr comments helped improve ssl understanding 

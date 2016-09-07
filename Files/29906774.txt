@@ -1,0 +1,4 @@
+threads finishing time accessing method 
+learning multithreading creating classic tortoise hare race application familiar problem basically racers ul li hare runs meters loop chance resting running li li tortoise runs meters loop rests li ul reach meters winner code main class threadrunner class thread reaches meters calls strong finished strong method main class stops thread code works fine problem tie hare tortoise reach meters tie runners declared winner dont happen set runners rest chance speed reach meters time output lock strong finished strong method thread declared winner 
+
+strong em synchronized em strong identifier front finished method thread call lock finished interrupting thread work fine mentioned comment thread queued waiting finished method add check interrupted declaring winner 

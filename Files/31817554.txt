@@ -1,0 +1,4 @@
+stream api key based merging 
+recently started learn stream api remove duplication piece code merge function based condition thinking 
+
+understand problem correctly predicate select history items earliest date open status latest date statuses define implements logic supposed status comparator easy define collector solve task usage returns extract means finally collector directly unnecessary 

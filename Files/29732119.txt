@@ -1,0 +1,4 @@
+rxjava retrofit make api requests item list 
+create observable chaining multiple retrofit api calls steps ol li list json objects api call li li object list make api call details item li li write data detailed object file disk occurs item list li li finally return observable separate object requires file created previous objects li ol confirm correct operators 
+
+edit removed observable create retrofit making observable transform edit shouldnt subscriber onerror error thrown call subscriber onerror pretty good flatmap observable flatmap observable collect worth adding basically map thing action collect back subscribe collected items emitted 

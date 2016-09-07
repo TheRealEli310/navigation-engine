@@ -1,0 +1,4 @@
+objects created stringbuilder 
+based understanding string objects string literal added created string constant pool objects created world added constant pool object instance string principle applied stringbuilder stringbuilder objects created instance stringbuilder objects string literals fun good 
+
+understanding correct string literals constant pool create additional objects creates internal character array object objects involved call internally create object garbage internal character array expand edit fdreger href http stackoverflow questions objects created stringbuilder noredirect comment49455769 points comment string objects string literals created run time time class created creation loading phase class life cycle href http docs oracle javase specs jvms se8 html jvms html jvms rel nofollow language specification section href http docs oracle javase specs jvms se8 html jvms html jvms rel nofollow runtime constant pool 

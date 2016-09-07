@@ -1,0 +1,4 @@
+files readallbytes files lines malformedinputexception 
+thought approaches read file behave equally dont approach throwing stack trace difference fix 
+
+href http en wikipedia org wiki character encoding character encoding computers deal numbers store text characters text converted numbers scheme scheme called character encoding character encodings standard character encodings ascii iso utf read bytes numbers file convert characters passing constructor class default character encoding system convert bytes characters utf character encoding href http docs oracle javase docs api nio file files html lines nio file path documentation sequence bytes found file valid utf sequence youll default character encoding system utf explain difference behaviour youll find character encoding file explicitly 

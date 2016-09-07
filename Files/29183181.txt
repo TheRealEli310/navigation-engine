@@ -1,0 +1,4 @@
+javafx images saved larger 
+decided make app basically draws image canvas people based inputted measurements id person print image larger format save larger jpeg png pdf file screen essentially matter pixels print inches long makes sense 
+
+figured scale image save larger format work 

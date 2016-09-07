@@ -1,0 +1,4 @@
+string format prints wrong hours 
+string format print elapsed time working great minutes seconds print 05m30s include hours elapsed time hours shown thought locale 19h05m30s 19h whats 
+
+treated duration timezone affecting millis equivalent date representing january strong utc strong making time relative midnight local timezone 

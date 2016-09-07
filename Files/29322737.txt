@@ -1,0 +1,4 @@
+driver license program trouble displaying problems missed 
+created program instructions run program output incorrect answers missed incorrect input correct answers incorrect answers section output data wrong hr local drivers license office asked write program grades written portion license exam exam multiple choice questions correct answers student correctly answer questions questions pass exam write class named driverexam holds correct answers exam array field class array field hold students answers class methods passed method returns true student passed exam false totalcorrect returns total number correctly answered questions totalincorrect returns total number incorrectly answered questions questionsmissed int array question numbers question student missed demonstrate class test program asks user enter students answers display results returned driverexam classs methods output data hr 
+
+problem function assign work 

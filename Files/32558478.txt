@@ -1,0 +1,4 @@
+make executable jar maven 
+maven project file folder shown make executable jar maven run main method code works fine laptop eclipse ide run ubuntu machine command file file make executable jar run 
+
+href https maven apache org shared maven archiver examples classpath html make rel nofollow configure maven jar plugin achieve adding dependencies section add classpath entries manifest jar long jars directory application run fine customize library path means libraries relative directory maven dependency plugin automatically copy libraries output directory 

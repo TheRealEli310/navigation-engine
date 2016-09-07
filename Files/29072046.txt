@@ -1,0 +1,4 @@
+error running xslt reports ant 
+eclipse selenium project classes view test reports xslt project complied ran successfully ant run makexsltreports eclipse ant command prompt error blockquote automationautomation uild xml javax xml transform transformerfactoryconfigurationerror provider net sf saxon transformerfactoryimpl found blockquote build xml 
+
+issue missing jars add required jar files project class path 

@@ -1,0 +1,4 @@
+serialize deserialize dataoutputstream datainputstream 
+serialize deserialize things dataoutputsteam datainputsteam objectinputstream objectoutputstream serialization fails txt file remains empty test2 strings empty end deserialized empty file object 
+
+short explanation calling force system buffered write disk reason call reading file details recommend href http stackoverflow questions purpose flush streams purpose flush streams answered 

@@ -1,0 +1,4 @@
+spring jms listener receives empty messages causing cpu consumption 
+working application couple jms queues send receive updates external system order test application mockrunner specifically jms module facing strange behavior start application cpu skyrocketing analyzing thread dumps main reason related jms listeners receiving empty messages causing messages understand issue related bad interaction app mockrunner configuration error relevant parts configuration listener cpu spin indefinitely strong update strong opened issue mockrunner project href https github mockrunner mockrunner issues rel nofollow 
+
+investigation found problem lies bad interaction spring listener polling based implementation mocked infrastructure fast answering requests cpu overload patched mock runner adding ugly thread sleep response method fixed sooner 

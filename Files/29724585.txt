@@ -1,0 +1,4 @@
+web service client skipping json fields key starts underscore 
+written rest client jersey code code working expected thing json object returned service list objects fields object back query method type oid properties set null problem object identifiers figure configure webtarget object make understand keys start underscore target object put setters fields works clues greatly appreciated 
+
+found solution apparently jackson parser sitting underneath jersey implementation par google gson worked wonderfully code 

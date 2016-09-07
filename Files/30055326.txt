@@ -1,0 +1,4 @@
+ternary operator compilation maven 
+class method return type primitive type ternary operator return statement ul li compiles default compiler result nullpointerexception runtime li li maven result compile time error li ul explain strong strong behaves 
+
+legal href http docs oracle javase specs jls se8 html jls html jls rel nofollow table conditional expression type reference 3rd operand part iii basically conditional form result expression unboxed specification compiler bug found updating newest version 

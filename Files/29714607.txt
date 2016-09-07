@@ -1,0 +1,4 @@
+jmh disabling method inlining 
+learned jmh micro benchmarking framework href http openjdk net projects code tools jmh rel nofollow http openjdk net projects code tools jmh implemented compilecontrol annotation function source code write simply list directives hints compiler single text file find additional documentation underlying mechanism works openjdk 
+
+jmh hotspot specific compileroracle controls jit compiler works hotspot based vm including vanilla openjdk oracle jdk builds run openjdk generated resource file basically compileroracle commands verbatim passed vm jmh facilities handy declare compileoracle commands messing raw command line options 

@@ -1,0 +1,4 @@
+equivalent openssl aes cbc encryption 
+cryptography profi specially due fact openssl lots missing documentation solve problem external system expects receive encrypted messages provided openssl file string line found href http stackoverflow questions bit aes password based encryption question encryption code understand generate similar output encrypteddata openssl salt iv ciphertext openssl output base64 encoded result concatenation single thing share system encryption pass phrase decrypt result salt number iterations give answers unknown parameters code equivalent openssl process 
+
+program decrypt openssl encryption requires 

@@ -1,0 +1,4 @@
+listview textview listview edittext line 
+picture give understanding problem img src http stack imgur zf8cw png alt enter image description added left line solve related issue xml related issue 
+
+heres solution solutions heres xml list item describes view single entry list built textview edittext xml main activity listview children list items defined xml code mainactivity includes demo data bound listview connects listview items xml listview items end img src http stack imgur aenaj png alt wont listview heres relativelayout dynamically bound adapter 

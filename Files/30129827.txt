@@ -1,0 +1,4 @@
+add http headers jax ws service response 
+developing web service moment http header requests add header requests servlet filter problem strategy added header static soaphandler class obtain soap message dynamic wanted join dynamic soap message filter achieve 
+
+clear describe add http headers soap web service response cleanest place jax ws handler unlike form soaphandler obtain access list headers underlying list provided alternative approach access underlying web service response 

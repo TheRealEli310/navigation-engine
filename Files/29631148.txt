@@ -1,0 +1,4 @@
+deal spaces psscriptroot path powershell 
+write powershell script install installcfg cfg file run matter script executed works fine spaces file paths run location error errors switches installcfg program files x86desktopcentral agentswrepository1swuploadesjava update 25installcfg cfg powershell passing file paths script ways including quotes arguments creating arguments variable hard code location file run basically run command batch file powershell missing 
+
+escape character backtick write args argument 

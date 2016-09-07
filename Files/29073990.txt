@@ -1,0 +1,4 @@
+set heap size eclipse mars 
+installed eclipse mars mac machine frequently oom issue development eclipse checked eclipse ini file file inside folder memory settings config ini file file edit set memory settings org eclipse equinox simpleconfigurator configurl file org eclipse equinox simpleconfigurator bundles info eclipse product org eclipse platform ide osgi splashpath platform base plugins org eclipse platform osgi framework extensions reference file org eclipse osgi compatibility state v20140702 jar osgi bundles defaultstartlevel eclipse application org eclipse ui ide workbench eclipse p2 data area config dir p2 
+
+add lines eclipse ini 

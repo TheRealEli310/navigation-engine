@@ -1,0 +1,4 @@
+external library dependency android studio 
+android studio project structured follow include yyy lib inisde xxx sdk reference methods symbol resolution problem eclipse project transfer ide eclipse android studio tells resolve symbols methods yyy lib inside xx sdk xxx sdk activty fix dependency problem android studio 
+
+strong preference location moving parent based gradle convention picked appears ide treating source folder package paths arent matching directory structure 

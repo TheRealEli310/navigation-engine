@@ -1,0 +1,4 @@
+android update toolbar title activity handle back navigation fragment 
+activity hosted slide menu fragments user click item slidemenu fragment opened handle back navigation user click item list call method display proper fragment method handle back button oncreate method fact work fine problem displayed fragment show title dont show title call method problem back navigation problem update toolbar title navigation 
+
+change title tool bar change fragment ol li fragment tag id show tag id case change code li ol tag add fragment tag add fragment layout strong lets add fragment tag strong hr strong onbackpressed strong check fragment code 

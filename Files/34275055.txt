@@ -1,0 +1,4 @@
+development server incorrectly throwing featurenotenabled exception 
+app engine web service google cloud storage accessed cloud storage json api library upgrading sdk started exceptions basic piece code file gcs code works fine earlier sdks works fine deployed app engine wondering bug development server workaround older sdk exception method triggers 
+
+testing href https code google googleappengine issues detail id rel nofollow issue tracker related older version appengine gcs client pre deprecated files api updating href https cloud google appengine docs googlecloudstorageclient download rel nofollow libraries dependencies trick 

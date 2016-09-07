@@ -1,0 +1,4 @@
+print native stacktrace 
+print native methods calls application printing methods calls 
+
+stack native debugger attach running documentation em seamless em debugging gdb href http gcc gnu org gdb html rel nofollow http gcc gnu org gdb html gcc compile code native code point native debugger show backtraces 

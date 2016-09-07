@@ -1,0 +1,4 @@
+giving rxjava observable emit method 
+variable fragment change multiple times fragments life triggered ui interactions thought good idea observable hold make updated views fields ui setter updated method basically setter call subscriber observable rxjavas design words observable field give values emit calling subscribers method class 
+
+href https github reactivex rxjava wiki subject rel nofollow purpose 

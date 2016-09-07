@@ -1,0 +1,4 @@
+android green dao multiple transaction 
+problem multiple transaction greendao table book type book code transaction type book failure insert transaction book master rollback cancel insert data book master make transaction idea reference 
+
+misunderstood principe create db start transaction wrap databse daomaster session inserting set transaction successfull code 

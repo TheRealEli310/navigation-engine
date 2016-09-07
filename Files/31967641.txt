@@ -1,0 +1,4 @@
+error occurred connecting camera 
+making flashlight application starts user shakes phone presses button app open app press button application works back home shake phone app works supposed open app press button doesnt work log cat camerabase error occurred connecting camera camera error failed open error fail connect camera service main activity xml 
+
+sounds app failing release camera correctly adding turnoffflash 

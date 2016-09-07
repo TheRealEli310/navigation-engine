@@ -1,0 +1,4 @@
+play framework cache stored 
+building application play framework crucial access cached files place play frameworks cache resides disk access files windows explorer deliberately hidden users encrypted 
+
+plays default cache implementation ehcache memory cache cached serialized bytes stored memory encryption files access memory cache shut restart server pointed richdougherty em em configure ehcache cache disk memory dropped directory spits binary file directory dont understand youd cache disk youre strapped memory disk caching efficient local cache work distributed environment memory disk cache cache plugin href https github mumoshu play2 memcached rel nofollow memcached href https github typesafehub play plugins tree master redis rel nofollow redis access cache application instances implementation instance redis redis cli 

@@ -1,0 +1,4 @@
+lang abstractmethoderror mysql jdbc connection isvalid 
+connect servlet mysql database data source run servlet end exception content xml web xml servlet abdultayyebs added mysql jdbc driver lib folder tomcat didnt helped highly appreciable 
+
+blockquote em lang abstractmethoderror mysql jdbc connection isvalid em blockquote means mysql jdbc driver outdated doesnt support 6s href http docs oracle javase docs api sql connection html isvalid int rel nofollow method href http dev mysql downloads connector rel nofollow upgrade make youve mysql jdbc driver jar file runtime classpath h3 h3 ul li href http stackoverflow questions connect mysql database connect mysql database li ul 

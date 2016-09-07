@@ -1,0 +1,4 @@
+spring maven project generating error run tomcat 
+deploy maven project eclipse error run tomcat error log complete log file href http pastebin tdqvtedl rel nofollow http pastebin tdqvtedl pom xml file eclipse ee web generates error run tomcat 
+
+error message blockquote lang noclassdeffounderror ljavax transaction transactionmanager blockquote means missing jta dependency add maven dependency 

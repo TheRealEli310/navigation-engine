@@ -1,0 +1,4 @@
+observer update causing nullpointerexception 
+observer pattern notify observer message received method activity called fields activity updated message displayed screen point excerpt related log relevant code observer relevant code observable feedback amp recommendations greatly appreciated 
+
+usage singletons problematic suppose created method called turn calls instance ready dont receive class properly initialized 

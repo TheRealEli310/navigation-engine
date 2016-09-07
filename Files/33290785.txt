@@ -1,0 +1,4 @@
+throwing exception item found 
+creating remove method removes item lists title string seller string price integer method meant iterate list find book item book item found removed list list titlemap book item found throw bookstoreexeption throwing exception method thought loop unsure implement give tips solution problem great feel free criticize code feeling work test beginner 
+
+create boolean variable beginning method initial false item found loops set true end method check variable tips remove titlemap remove wont work change collection iterator invalid correct collection names loop careful copy paste 

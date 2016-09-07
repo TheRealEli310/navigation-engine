@@ -1,0 +1,4 @@
+generate char max 
+code strong strong generate error href https docs oracle javase tutorial nutsandbolts datatypes html oracle datatypes maximum size blockquote ul li char char data type single bit unicode character minimum u0000 maximum uffff inclusive li ul blockquote 
+
+blockquote generate char max blockquote youre assigning invalid youre casting valid em narrowing primitive conversion em rules apply href http docs oracle javase specs jls se7 html jls html jls specs strong strong short lowest bits original integer em narrowing conversion signed integer integral type simply discards lowest order bits number bits represent type em blockquote code generate error blockquote error defined behavior 

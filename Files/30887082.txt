@@ -1,0 +1,4 @@
+make columns editable vaadin grid 
+vaadin grid defined editable makes visible columns editable dont user edit specific column editable solution found define editor field disabled editor trick user select text move cursor field editable anymore label field option achieve edit aakath achieving enabling column edited cell disappears edit row desirable 
+
+solution finished tested give ideas ati 

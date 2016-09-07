@@ -1,0 +1,4 @@
+activemq enable web console cxf project 
+figure startup web console apache cxf maven project messy standard project implementing wsnservices cxf master svn github developed apache cxf team read hawtio console complicated info point direction wildfly final 
+
+question bit clear assume maven based web application embeds activemq broker enable activemq web console broker correct web console stand web application deploy container wildfly simply war building activemq web console source href http central maven org maven2 org apache activemq activemq web console activemq web console war rel nofollow grabbing war maven repo make war point activemq broker jms jmx setting system properties adjust values pretty dont console jvm machine broker 

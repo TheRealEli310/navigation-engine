@@ -1,0 +1,4 @@
+jms queueconnectionfactory connectionfactory 
+question factories ul li connectionfactory li li queueconnectionfactory li ul moment initialize understand correctly works pretty strong exact thing strong wondering jndi context objects prefer 
+
+javax jms package api historical reasons jms offers alternative sets interfaces sending receiving messages jms defined domain specific apis point point messaging queues pub topics remain part jms reasons backwards compatibility considered completely superseded apis jms introduced unified api offered single set interfaces point point pub messaging referred classic api jms introduces simplified api offers features classic api requires fewer interfaces simpler api offers set interfaces connecting jms provider sending receiving messages share common set interfaces representing messages message destinations provide utility features words queueconnectionfactory simply legacy interface 

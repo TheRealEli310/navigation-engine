@@ -1,0 +1,4 @@
+tomcat8 allocate memory catalina sh missing 
+running tomcat8 server linux redhat machine runs total 15gb ram allocate 11gb tomcat server 3gb avaialable openjdk bit installed set found tos setenv sh catalina sh find catalina home catalina base point root increase max avaialable memory tomcat server 
+
+catalina sh longer existent latest tomcat release fact amazon vm kind modified tomcat8 distribution doubt solution file adding row trick 

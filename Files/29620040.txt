@@ -1,0 +1,4 @@
+recursion works binary tree longest path function 
+working assignment found solution problem online ridiculously simple works magic trouble comprehending recursion works learn understanding logic question find longest path root node leaf node basically find height tree function treenode class definition advance 
+
+bottom maximum path bottom bottom left imagine left farther bottom distance bottom left counting step left imagine distance bottom em em measure position step left steps left counting initial step left steps bottom initial step longest path bottom greater tree stepping left steps stepping total maximum path length steps stepping left step bottom stepping steps wait step stepping left bottom distance stepping thing calculation analogously nodes nodes shown aborted arcs evaluate terminating condition recursion nodes inspect subtrees deeper 

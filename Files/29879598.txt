@@ -1,0 +1,4 @@
+reading table html rows values servlet jsp page editing 
+values rows servlet read page inserts values text boxes user edit write back text file read productio reads textfile entered jsp table user clicks delete edit button send action em deleteproduct servlet em em editproduct servlet em edit edit product servlet values put text boxes editproduct jsp page problem values insert text boxes written back text file information share code needed 
+
+arent calling attributes servlet assume meant add forwarding request 

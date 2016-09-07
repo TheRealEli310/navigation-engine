@@ -1,0 +1,4 @@
+android bitmapfactory returning io filenotfoundexception error image saved external storage 
+make app user picture attach post image capturing saving handling part official developer guide code snippets problem taking picture saving external storage found pictures hard drive access file displaying image view starting media scanner intent error indicating file found parts code file creation image capture intent displaying small image adding image gallery run app taking picture logcat set permission write external storage manifest pictures saved storage file exists official guide idea wrong advance edit changed line mcurrentphotopath file image getabsolutepath mcurrentphotopath image getabsolutepath createimagefile function solved problem displaying image photo gallery log uri passed media scan intent file storage emulated pictures jpeg jpg problem image file uri fromfile method proper uri problem 
+
+change line 

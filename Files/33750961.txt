@@ -1,0 +1,4 @@
+android content activitynotfoundexception unable find explicit activity class android 
+mainactivity class code settings class exception logcat shows error decalred settings class menifest xml menifest xml file solve exception 
+
+change change android package build top androidmanifest xml 

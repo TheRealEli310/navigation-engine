@@ -1,0 +1,4 @@
+clientdetailsservice config authorizationserverconfigureradapter 
+group environment specific beans couple classes problem clientdetailsservice oauth2 type app separate configuration class ill class jdbc implementations services idea lot stuff apply environments token enhancers endpoints configuration id avoid copy pasting code problem isnt called proxied find code creating instance time application load client details id end guessing proxy calling bean instantiated taking class consideration configuring app id avoid qualifiers wrong whats externalize datastores 
+
+inside class turned moving file solved problem 

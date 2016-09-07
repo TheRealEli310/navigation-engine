@@ -1,0 +1,4 @@
+powermock suppress parent methods spy 
+correctly suppress parent class method spy class parent test code printout system printout interestingly delete annotation declaration child object correctly suppressed wrong misunderstand powermock 
+
+problem ordering test powermock creating supress methods late point instance created call create works 

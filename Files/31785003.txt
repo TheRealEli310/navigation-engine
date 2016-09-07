@@ -1,0 +1,4 @@
+load string resource appcompatactivity 
+method main entry point app appcompatactivity supporting actionbar load strings strings xml work find getresources 
+
+lazy initialisation context null moment perform getresources getresources context getresources init oncreate method choice 

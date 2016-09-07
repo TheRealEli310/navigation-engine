@@ -1,0 +1,4 @@
+add oracle database driver play project 
+access database project play project added blockquote oracle ojdbc14 blockquote compiling project download manually href http central maven org maven2 oracle ojdbc14 ojdbc14 jar rel nofollow link add dependency play project 
+
+maven users download jars maven repo stop jars metadata indexed pom file maven central actual jar clicking download link jar href http www oracle technetwork database features jdbc index html rel nofollow http www oracle technetwork database features jdbc index html install local repo sbts config add enable local maven repo reading oracle deployed maven stating jar means agreeing terms 

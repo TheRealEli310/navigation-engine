@@ -1,0 +1,4 @@
+move line reading csv file 
+class helps read csv file class creates object line csv run actions line separately automation reason line program stops worked dont wrong csv reader class purchaseinfo class creating object line csv class perform actions method called insertdata sequence purchaseinfos calls method purchaseinfo inside seq problem insertdata calls addinvoiceflow purchaseinfo stops checked lines prob csv file written scala 
+
+suspect close input file finish reading dont provide code calls test hypothesis materialize content file method changing work means close consume data hr update original answer fix explanation som snytt correctly pointed answer realize stream defines additional element transformation made stream realized case realize stream reading point creating intermediate carried map realization directly give 

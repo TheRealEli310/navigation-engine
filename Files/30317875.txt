@@ -1,0 +1,4 @@
+set language phantomjs ghostdriver 
+phantomjs ghostdriver screenshots webpages problem phantomjs locale host machine set default language found chrome driver firefox find solution ghostdriver hints 
+
+href https github detro ghostdriver issues rel nofollow issue href https github detro ghostdriver pull rel nofollow strong pull request strong tested constant href https github detro ghostdriver blob master binding src main org openqa selenium phantomjs phantomjsdriverservice l119 rel nofollow dont forget change language 

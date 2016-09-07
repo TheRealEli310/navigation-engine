@@ -1,0 +1,4 @@
+fix javac invalid flag error 
+compile stk applet firstly compile class error invalid flag command 
+
+problem spaces enclose quotes 

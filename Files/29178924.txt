@@ -1,0 +1,4 @@
+jpa mappedsuperclass column nullable 
+working creating abstract classes abstract properties entities share id created abstractmodel class shown created abstract class extends abstractmodel add auditing information date created modified jpa hibernate create database physical database place hibernate generating updating schema code approach question force jpa hiberante make createdat lastmodifiedat nullable fields database validation hibernate validation prevent application inserting null values database enforce incase decides manually inserting database 
+
+column annotation define metadata schema generated annotation properties define column created nullable property column null values properties specific schema generation process works validations runtime mention beanvalidations check properties column annotation href https docs oracle javaee api javax persistence column html rel nofollow 

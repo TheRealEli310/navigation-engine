@@ -1,0 +1,4 @@
+jersey serializing null values json skip 
+jersey spring returning response method annotation serialize null values json dont serialize fields null values solution 
+
+assuming jackson serialization class exclude null values 

@@ -1,0 +1,3 @@
+download full document htmlunit jsoup combination 
+problem statement crawl page href http www hongkonghomes en property rent peak middle gap road page amp rec page amp order rental desc amp offset rel nofollow http www hongkonghomes en property rent peak middle gap road page amp rec page amp order rental desc amp offset lets parse address middle gap road peak hong kong load jsoup noticed page taking time load plugged htmlunit wait page load code wrote expected output console output address middle gap road peak hong kong actual output address 
+

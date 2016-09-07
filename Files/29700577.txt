@@ -1,0 +1,4 @@
+javafx repeat loop transition ends 
+perform loop ol li update variables li li play transition based representing variables li li transition li ol repeats forever made work endless recursive loop isnt good idea problem figure trigger repeat transition finishes loop wait transition expected problem doesnt play transition program unresponsive acts solution prefer wait programmed make loop wait repeats stopping transition playing 
+
+suggest href http docs oracle javase javafx api javafx animation timeline html rel nofollow set href http docs oracle javase javafx api javafx animation animation html indefinite rel nofollow 

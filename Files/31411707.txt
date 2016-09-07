@@ -1,0 +1,4 @@
+upload file jax rs 
+jersey framework running web service ant app ee7 application server glassfish method application config myweb xml message caused org apache catalina lifecycleexception org glassfish jersey server model modelvalidationexception validation application resource model failed application initialization fatal injection source found parameter type public javax ws rs core response wrong 
+
+works fine completely rid application subclass needed conflict confusion xml sufficient configuration rid making multipart jars compile time jars meaning built war conflict glassfishs version dont work ant 

@@ -1,0 +1,4 @@
+loop print times seconds 
+method meant print number times seconds call expect method times seconds loop code expect print milliseconds loop prints milliseconds suggest wrong code 
+
+measuring time epoch href http stackoverflow questions system currenttimemillis system nanotime system currenttimemillis system nanotime 

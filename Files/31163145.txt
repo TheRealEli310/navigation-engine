@@ -1,0 +1,4 @@
+websphere mq jmstemplate setting replyto 
+send message property websphere mq created broker 
+
+managed 

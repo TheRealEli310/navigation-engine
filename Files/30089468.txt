@@ -1,0 +1,4 @@
+load parsed xml objects spring context 
+xsd xml constant data xml acting rules based process input parse xml provided schema time starting application constant data objects generated loaded spring context close ol li wrote jaxb parser xml xsd li li xml file located classpath loaded parsed return rule object li ol div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override parse xml time getrule called parse constant xml br looked abstractbeandefinitionparser failed make question clear 
+
+define postconstruct method parses xml method called spring construction bean autowired fields set dont forget close input stream 

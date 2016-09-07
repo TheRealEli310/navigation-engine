@@ -1,0 +1,4 @@
+ics calendar format showing time imported outlook thunderbird 
+working project creating ics file wrong date time import ics file show starttime event endtime event ics file constructor endtime luck shows code generate ics file content ics file code ics file import time mentioned outlook thunderbird evolution wrong 
+
+properties short date time start date time end details refer rfc5545 specifically href https tools ietf org html rfc5545 section rel nofollow date time href https tools ietf org html rfc5545 section rel nofollow dtstart href https tools ietf org html rfc5545 section rel nofollow vevent remind default format format usage blockquote vevent calendar component anniversary daily reminder calendar events date type dtstart property default type date time blockquote 

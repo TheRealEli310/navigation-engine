@@ -1,0 +1,4 @@
+configure netty pipeline http proxy 
+wrote small http proxy netty worked fine time today began strange exceptions log file coming single client source code problem occurs sending status response request lines client causing issue sending header request makes handler pipeline setup wrong api docs state blockquote aware httpresponseencoder httprequestencoder httpobjectaggregator channelpipeline blockquote thinking precede pipeline problem 
+
+changing order aggregator myhandler 

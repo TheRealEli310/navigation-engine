@@ -1,0 +1,4 @@
+setmodal method jdialog 
+make parent window accessed whilst child window active setmodal method jdialog class doesnt working check true false change 
+
+href http docs oracle javase docs api awt dialog html setmodal boolean rel nofollow docs blockquote changing modality visible dialog effect hidden shown blockquote calling deprecated call type check href http docs oracle javase tutorial uiswing misc modality html rel nofollow tutorial 

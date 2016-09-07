@@ -1,0 +1,4 @@
+method class type parameters single constraint 
+ill illustrate problem simplified write generic method returns parametrized common supertype type parameter argument write problem definition rejected compiler message part type constraint illegal syntactically constraint definition wrong case unrelated interestingly definition similar static method correct works expected achieve flexibility static methods type system 
+
+isnt authors href https code google guava libraries rel nofollow guava ran issue href http docs guava libraries googlecode git javadoc google common base optional html rel nofollow methods documentation blockquote generics signature overly restrictive ideal signature legal result operations involving subtypes compile errors workaround cast casting instances desired output type solves problem blockquote immutable workaround work href http stackoverflow rotsors answer bounding generics super keyword 

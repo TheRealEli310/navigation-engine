@@ -1,0 +1,4 @@
+android application responsive fit screen sizes 
+developing android application buttons images make responsive bigger devices tablets displays controls small landscape mode displays half controls items overcome make application responsive devices attached xml code 
+
+start mentioned resources making app screen sizes consideration designing developing app work images make consistent screen sizes solve issue small controls tablets landscape mode widgets screen height quick solution put scrolls landscape controls ideal layouts landscape portrait modes scrollview code ref ol li href https developer android training multiscreen index html rel nofollow design multiple screens li li href https developer android training multiscreen screensizes html rel nofollow supporting screen sizes li li href https developer android guide practices screens support html rel nofollow supporting multiple screens li ol 

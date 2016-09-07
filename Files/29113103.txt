@@ -1,0 +1,4 @@
+print application banner spring context starts 
+implement application banner prints version information application starts implementing smartlifecycle applicationlistener success callback method called banner prints wrong 
+
+raised method invoked strong documentation strong href http docs spring io spring docs current spring framework reference html beans html context functionality events rel nofollow http docs spring io spring docs current spring framework reference html beans html context functionality events 

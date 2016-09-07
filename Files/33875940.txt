@@ -1,0 +1,4 @@
+build failed missing key attribute android sdk 
+recently imported project eclipse adt android sdk run simulator encountering problem androidmanifest xml file states searched google error havent solid reason error assuming android version great androidmanifest xml file 
+
+check lines define intent filter action dont action delete add action listen 

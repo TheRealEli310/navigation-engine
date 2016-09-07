@@ -1,0 +1,4 @@
+kafka flink performance issues 
+kafka topics generate 30k messages flink topology setup read aggregate bit window eventually write db run topology remove read aggregate steps 30k messages em minute em isnt backpressure occur wrong hr h2 edit h2 ol li change topic space topic single partition hundreds li li message compressed thrift object averaging 3kb li ol appears mb close 100mb mentioned current code path hr 
+
+code potential components performance issues ul li flinkkafkaconsumer li li thrift deserializer li ul order understand bottleneck measure raw read performance flink reading kafka topic run code cluster pre class lang prettyprint override code measuring time 50k elements kafka logging number elements read kafka local machine throughput 330k elements core interested throughput achieving reading kafka 

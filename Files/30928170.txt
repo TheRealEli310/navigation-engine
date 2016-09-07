@@ -1,0 +1,4 @@
+gradle adding sources jar file lib folder published dist zip dependencies 
+project building gradle releasing dist zip folder project add sources jar project lib subfolder dist zip create sources jar file dist zip file add sources jar dist zip copy jar lib folder creating unable work publishing sourcesjar task gradle build script 
+
+href https docs gradle org current userguide application plugin html rel nofollow application plugin include output task distribution place root 

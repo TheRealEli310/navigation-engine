@@ -1,0 +1,4 @@
+draw string user input jframe 
+couldnt find search function formulating title badly click jframe draw user types strong console strong hit enter stop sentence user type directly jframe hit enter end input click jframe display user typing location console type 
+
+dont mix console input swing gui lead threading nightmare input means id users input string dont graphics youre paint paintcomponent method recipe nullpointerexception gui failure display text jlabel text component jtextarea jtextfield absolutely draw string graphics method set field object call gui jpanels method draw text heres kludge code puts jtextfield mousepressed location converts jtextfield jlabel enter press focus lost hr attempt draw directly jpanel overridding paintcomponent joptionpane text text drawn paintcomponent iterating map avoid dreaded layout 

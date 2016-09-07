@@ -1,0 +1,4 @@
+constructor return existing object type 
+call constructor creates object returns reference end newly created object possibility constructor create object return reference created object list objects class based parameters constructor efficient dont create object pick existing object 
+
+constructors definition run object created initialize constructor run object existence make static method creates object returns existing standard approach cases href https docs oracle javase docs api lang boolean html valueof boolean rel nofollow standard library exists purpose avoiding creation extra objects create call method return object values 

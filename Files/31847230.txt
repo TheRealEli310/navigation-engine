@@ -1,0 +1,4 @@
+spring restcontroller ambiguous mapping error 
+setting restcontroller spring ambiguous mapping issue dont methods ambiguous request mappings method names remove method specification method issue isnt anymore controller results error 
+
+annotations set paths properties property determines path methods handle property identifying mapping spring environment methods mapped index path controller similar method produces argument spring cries foul 

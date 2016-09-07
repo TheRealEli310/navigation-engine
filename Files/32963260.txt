@@ -1,0 +1,4 @@
+properly setup javafx eclipse mars 
+specifications jre u60 jdk u60 home set correctly ve downloaded installed latest eclipse mars sdk eclipse mars official href https www eclipse org downloads rel nofollow eclipse download page installer eclipse update site href http download eclipse org efxclipse updates released site rel nofollow fx clipse install javafx ide site tutorial create fx projects file javafx unfortunatelly don option create fx project section called javafx set jfx eclipse mars properly setup work similar href http stackoverflow questions eclipse wont load efxclipse plugin successful installation question asked 
+
+remove installed plugin installing marketplace edit answer accepted clarification work op troubleshoot working convenient verify installation working marketplace 

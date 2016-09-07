@@ -1,0 +1,4 @@
+libgdx android gl thread nullpointerexception missing class file 
+libgdx framework create game eclipse luna whilst debugging application method breaking inside android class stack trace nullpointerexception passing null find types questions assume youll code dont ill post code classes request idea glsurfaceview directly code assuming library libgdx missing update found issue detail 
+
+solution called class assigned null exception href http stackoverflow questions null pointer exception fix null pointer exception fix changing field declared solved problem code side solution backend issue downloaded source codes google assigned source code inside sdk folder dont source folder create put sources reload class handled case api eclipse luna eclipse project folder click assign source file dependent libraries 

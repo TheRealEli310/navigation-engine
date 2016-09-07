@@ -1,0 +1,4 @@
+application logging profile level websphere 
+websphere cluster set nodes servers node total server jvms application deployed cluster basically runs servers ibm was8 application logs server logs location generated profile level sets logs set logs configuration application logs generated server level analyze server serving requests strong edit strong log4j properties 
+
+file firm cda log directory log file created current working directory default profile home server logs directory file reliably alongside server logs youll directory log4j supports variables define jvm custom system property named configuration 

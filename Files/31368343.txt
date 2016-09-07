@@ -1,0 +1,4 @@
+spring boot security config authenticationmanager 
+heres main application config heres spring security application config heres tokenprocessingfilter extends usernamepasswordauthenticationfilter custom authentication filter running application encounter exception message missing blockquote exception occured running null invocationtargetexception unable start embedded container nested exception org springframework boot context embedded embeddedservletcontainerexception unable start embedded tomcat error creating bean tokenprocessingfilter defined file userskyelprojectsapp argetclassesorgapp estappsecuritytokenprocessingfilter class invocation init method failed nested exception lang illegalargumentexception authenticationmanager blockquote 
+
+set component tokenprocessingfilter create securityconfig 

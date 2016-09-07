@@ -1,0 +1,4 @@
+jna exception access violation 
+dll jna call method writes szvisor information read interface implementation method call execution nets fatal error jre put arguments string string doesnt strings doesnt overwrite equipinfo dont info arrays method doesnt equip doesnt operate insight 
+
+problem code write guess pass string side memory owned jvm writing crash href https jna net javadoc sun jna memory html rel nofollow memory object wrapped mallocd bit memory code safely write jna interface commented version compare code call placeholder make allocate write string result string youd documentation memorys method automatically calls free mallocd memory worry memory leaks 

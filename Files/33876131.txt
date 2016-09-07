@@ -1,0 +1,4 @@
+serialization calendar 
+create custom serialization calendar json extending json working serialization method converted date string write json format sample code util date similar code serialize calendar json losing data calendar object 
+
+h2 json href https docs oracle javase docs api util calendar html rel nofollow h2 create href http fasterxml github io jackson databind javadoc fasterxml jackson databind jsonserializer html rel nofollow h2 href https docs oracle javase docs api util calendar html rel nofollow json h2 create href http fasterxml github io jackson databind javadoc fasterxml jackson databind jsondeserializer html rel nofollow 

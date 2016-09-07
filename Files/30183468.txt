@@ -1,0 +1,4 @@
+encrypt password layers sha1 base64 encode salt 
+encrypt decrypt password high security string password converted sha1 add base64 encode lastly add salt doable sample code encode base64 sha1 combine snippet sha1 suggest 
+
+things playing salts blockquote ol li generate long random salt csprng li li prepend salt password hash standard cryptographic hash function sha256 li ol blockquote append generated salt generated strong cryptographically secure pseudo random number generator strong password hash sha sha hash algorithm decode encrypt password read href http en wikipedia org wiki advanced encryption standard rel nofollow aes href http en wikipedia org wiki rsa rel nofollow rsa suggest reading article href https crackstation net hashing security htm rel nofollow salted password hashing part strong hash properly strong hash password properly 

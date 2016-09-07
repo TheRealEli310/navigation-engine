@@ -1,0 +1,4 @@
+add classpath manifest file jar gradle 
+add data manifest mf jar file format method achieve gradle build gradle text manifest mf ideas properly write list libraries manifest remove extra spaces newline jar file runs 
+
+requirements href http docs oracle javase docs guide jar jar html rel nofollow manifest file blockquote line longer bytes characters utf8 encoded form make initial line longer continued extra lines starting single space blockquote gradle inserts line separator characters single string collection classpath elements blockquote class path attribute specifies relative urls extensions libraries application extension urls separated spaces blockquote make tricky solution collect classpaths entries single variable make formatting variable element separate line length line strarts single space give manifest file conent documentation valid 

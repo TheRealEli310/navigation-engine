@@ -1,0 +1,4 @@
+sum arraylist double stream 
+figure sum elements arraylist useless function 
+
+call useless performs implicit unboxing alternatively href https docs oracle javase docs api util stream collectors html summingdouble util function todoublefunction rel nofollow collector big difference library construct directly internally href https github amaembo streamex blob 248b1ef252dec7b2c529bef7886382321ccbfd4c src main javax util streamex doublestreamex l1139 rel nofollow 

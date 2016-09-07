@@ -1,0 +1,4 @@
+elegant handle keyboard input javafx 
+working calculator javafx implement keyboard input support implement eventhandler main file fxmldocumentcontroller problem keys pressed things happen click buttons gui digit buttons share onaction event share variables fxmldocumentcontroller file handle invoke onaction events main file copy paste redundance method content file make variables public protected invoking methods main file failed dont understand parameters method require actionevent object 
+
+refactor handler methods determine represent call method call method needed 

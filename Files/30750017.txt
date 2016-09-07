@@ -1,0 +1,4 @@
+scope attribute migration struts1 struts2 
+migrating application struts1 struts2 migrate attribute action tag struts1 configuration file struts1 configuration pre class lang xml prettyprint override migrated struts2 configuration pre class lang xml prettyprint override form integrated extending action class required carry forward form values application values request page scope alternative strong scope session strong struts1 struts2 carry forward attributes application 
+
+struts dtd action element definition struts action form beans actions default request context meskobalazs correct overridden scope interceptor session scoped actions struts 

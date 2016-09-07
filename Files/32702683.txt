@@ -1,0 +1,4 @@
+add trim method setter lombok 
+project lombok generate getter setter string field field password validation annotation wanna add trim method setter counting white space length add trim method lombok setter write custom setter 
+
+case write custom setter immutable equivalent wither put trim inside constructor add href https projectlombok org features experimental wither html rel nofollow wither method hold builders generated href https projectlombok org features builder html rel nofollow builder safer approach ensures password trimmed 

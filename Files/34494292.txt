@@ -1,0 +1,4 @@
+selenium stale element reference element attached page document 
+facing issue stale element exception googled found answers stackoverflow worked exception occur dom element destroyed created scenario table records text showing rows click refresh button exception occurs waitforelement class getrecordscountfromtable string regex pattern matching methods fetch total number records stack trace error string afterrefresh line 
+
+lokesh steps make work step click refresh action br step wait element show explicit wait element br step strong findelement staleelementexception thrown strong 

@@ -1,0 +1,4 @@
+filter xml elements joox write full document 
+imagine xml document write doc file filtering books joox code outputs words missing parent element initial xml declaration idea accomplish simple elegant solution preferably joox lines dom code 
+
+figured case havent match represents element remove case book element book1 call match element match written end remove method removes element represented match book element book1 em document em create find match element removed document element removed document entire em edited em document written file call write method match document match elements check number elements match 

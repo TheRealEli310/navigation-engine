@@ -1,0 +1,4 @@
+circular image view stretched 
+code creating circular image view project circle effect created problem pictures narrowed picture big fit circular image view solutions 
+
+assuming size circular image view fixed avoid stretching image crop aspect ratio image view introduce margins top sides scaling bitmap canvas size inside refreshbitmapshader convenient place crop href http developer android reference android graphics bitmap html createbitmap android graphics bitmap 20int 20int 20int 20int 20android graphics matrix 20boolean rel nofollow bitmap createbitmap 

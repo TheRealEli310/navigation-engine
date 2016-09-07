@@ -1,0 +1,4 @@
+execute list commands arraylist jsch exec 
+jsch exec channel connect remote server execute command execute list commands stored loop pass element odd reason command executed full code 
+
+call multiple times exec channel run single command systems shells command include multiple commands syntax depend system shell semicolons work hr option open channel command multiple channels single ssh session reconnect channel command 

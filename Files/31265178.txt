@@ -1,0 +1,4 @@
+generating certificate public key card applet 
+send public key private public key pair rsa generated applet host application terminal sending modulus exponent terminal send public key certificate format 
+
+implement minimal certificate authority ca smart card certificate signed generate import private key ca smart cards pretty restricted instance put effective expiry date smart card clock clock trusted time source trusted time source trusted system create ca trusted system wont issues memory management implementation card asn library issue certificate wont fit normal apdu em details em generally amount operations performed smart card limited implementation full ca constrained environment create pkcs compatible certificate em request em smart card send ca bit work 

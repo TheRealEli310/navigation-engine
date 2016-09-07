@@ -1,0 +1,4 @@
+configure quartz scheduler stored jobs database execute server restart 
+quartz scheduler shoot bulk emails hourly basis working absolutely fine scheduler explicitly called problem arises server restarts middle scheduler execution quartz scheduler creates record job details table doesnt task execute automatically server starts resolve appreciated sample codes current configuration quartz properties file web xml 
+
+shoulnt constructor concrete builder classes set href http quartz scheduler org api org quartz jobbuilder html requestrecovery boolean rel nofollow property blockquote nstructs scheduler job executed recovery fail situation encountered blockquote 

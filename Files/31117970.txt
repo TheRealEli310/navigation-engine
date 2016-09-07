@@ -1,0 +1,4 @@
+schedule classes dynamically 
+write scheduler class schedule classes set user timer scheduling struggling scheduler class schedule idea youd call scheduler constructor string class schedule issues string requires runnable thoughts advice 
+
+dont make classes implement runnable interface pass instances passing class reflection strong remember refer classes receiver part runnable class names strong strong update strong 

@@ -1,0 +1,4 @@
+load jasper report executable 
+problem ireport making report inventory system working fine tested building executable file press button code button report shows run file netbeans executable file causing problem 
+
+add jrxml file loaded class path compile mananger compile report save absolute location documents absolute location 

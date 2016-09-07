@@ -1,0 +1,4 @@
+maven dependency ejb jboss ejb api spec 
+tutorials ejb dependency ejb api problem jboss application servers dependency independent application server deployed found href http stackoverflow questions maven repository ejb api reference ejb api elaborate 
+
+server remember put add tag dependency scope means dependency compile code included resulting ear war jar runtime dependency provided application server jboss websphere omit scope specification section bad things happen 

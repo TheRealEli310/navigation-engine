@@ -1,0 +1,4 @@
+camel context unable resolve route inside spring boot fat jar 
+strong spring boot fat jar camel project strong structure route camel context config camel routes work fine making fat jar strong spring boot strong make strong fat jar strong file camel package scanner unable resolve routes dynamically bug spring boot limitation strong camel package scanner strong strong fat jar strong file solution type scenario 
+
+spring fratjar classloading supported working spring componentscan packagescan declare route builder classes spring annotation em contextscan em section href http camel apache org spring html rel nofollow http camel apache org spring html 

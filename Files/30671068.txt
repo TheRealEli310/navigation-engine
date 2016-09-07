@@ -1,0 +1,4 @@
+antlr4 lexer gettokens returning tokens 
+running code href https github bkiers antlr4 csv demo rel nofollow https github bkiers antlr4 csv demo view tokens analyzed lexer adding line main result printed list returned empty rest parser code returns data completely fine edit works returning correct tokens csv g4 
+
+parser responsible initiating lexing input stream initiate lexing manually call commontokenstream fill implemented href https github antlr antlr4 blob master runtime src org antlr v4 runtime bufferedtokenstream rel nofollow bufferedtokenstream 

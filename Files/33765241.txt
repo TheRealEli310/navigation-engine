@@ -1,0 +1,4 @@
+gson retrofit parse variable json 
+struggling parsing json object variable content object id map json object pojo case dont json running piece code trough typical json object converter doesnt work mapped simple pojo converting expected exception ill create custom deserializer idea start pointing good direction greatly appreciated edit pointed comments json data supplied valid key pair formation contacted api providers sort dealing problem frontend ill question open 
+
+problem af days finally found solution works case stead parse element attempts storing data simple model pre class lang prettyprint override prevents gson parsing process crashing app invalid array detected access data check object type case continue ignoring arrays code case text attribute element parts array pre class lang prettyprint override 

@@ -1,0 +1,4 @@
+hide toolbar scroll design support library 
+hide toolbar scroll recyclerview located fragment viewpager design support library 
+
+layout appears fine add behaviour inside recyclerview suppose fragment added viewpager importantly stated href http stackoverflow answer dont forget update build tools gradle references component design support library check href https mzgreen github io hideshow toolbar list scrolling 28part3 rel nofollow complete tutorial 

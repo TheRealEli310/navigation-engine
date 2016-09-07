@@ -1,0 +1,4 @@
+assert inside recyclerview espresso 
+espresso contrib perform actions recyclerview works perform assertions href http android test kit googlecode git history e81b6694887f5c73617759d2728a92beba9b8f12 docs javadocs espresso espresso contrib javadoc reference android support test espresso contrib recyclerviewactions html actiononitematposition int 20android support test espresso viewaction recyclerviewactions expecting action wrong 2nd argument type recyclerviewassertions espresso contrib perform assertions recycler view didnt found information internet begginer espresso 
+
+check danny roas solution href https github dannyroa espresso samples tree master recyclerview app src androidtest dannyroa espresso samples recyclerview custom recyclerview actions 

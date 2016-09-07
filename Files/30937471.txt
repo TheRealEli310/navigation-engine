@@ -1,0 +1,4 @@
+multi user file property selenium 
+made autotest selenium test start jmeter load testing users create property file configuration file put url login password made cycle put code ill start browser login visit link logout quit heres property file heres code make cycle multylogin cycle login field paste login property file password users property file structure start browser times itll login test1 abc123 test2 abc123 
+
+blockquote start browser times itll login test1 abc123 test2 abc123 blockquote short login comma separated string properties file split list loop code give needed list implement multiple login check full class view href https github chandan nayak stackoverflow files blob master multilogin rel nofollow clickme 

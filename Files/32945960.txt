@@ -1,0 +1,4 @@
+execution expression failed org mule api expression expressionruntimeexception message payload type string 
+create simple mule application reads content file disk displays web browser flow http transformer setpayload http transformer code includes error execution expression strong readfile strong failed message payload type idea 
+
+small mistake method setpayload adding file content mulemessage work flow implemented oncallable method 

@@ -1,0 +1,4 @@
+extract date file path 
+root folder subfolders form root folder subfolders form yyyy year mm month dd day subfolder extract yyyy mm dd regex taking account specific file separator 
+
+store current level level year month day enum int start year level read filenames map map ul li read filenames years folder store map li li change month level read map subfolders read store month values li ul solve recursively 

@@ -1,0 +1,4 @@
+setting ssl jax ws client 
+implement jax ws client websphere application server request server ssl question set ssl certificate ws request dynamically presented href http www ibm support knowledgecenter ssaw57 ibm websphere doc info ae ae tjw security https html rel nofollow http www ibm support knowledgecenter ssaw57 ibm websphere doc info ae ae tjw security https html means setting ssl configuration alias referencing configuration easily jax rpc kind configuration jax ws jax ws 
+
+jax ws check href http www ibm support knowledgecenter ssaw57 ibm websphere doc ae cwbs wsspsps html lang en rel nofollow policy sets code create policy based create binding ssl configs select ssl configuration alias attach policy jax ws client admin console 

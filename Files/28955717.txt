@@ -1,0 +1,4 @@
+trouble running apache giraph yarn cluster hadoop 
+run basic shortestpaths giraph hadoop running actual cluster model psuedo distributed run standard mapreduce jobs run giraph hang set correspondingly set number workers kinda defeats point running cluster otoh run disabling splitmasterworker error suggests girpah defaulting local mode report read suggested fixing adding ca mapred job tracker girpah command line hadoop yarn jobtracker port understand correctly add bit job strong strong run hang finishing heres complete command line job output 
+
+turned fairly simple built giraph hadoop profile hadoop yarn build yarn profile longer dont understand entire mechanism works apparently building profile defaults put pure yarn mode runtime rebuild fix 

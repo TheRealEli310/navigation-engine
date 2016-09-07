@@ -1,0 +1,4 @@
+data specific line text file bufferedreader 
+building application extracting values text file inside project managed extract data specific lines dont code text file contents suppose assign line number parameter method returns exact data line number assigned adjust output returns lineno case assigned parameter returns null missing important 
+
+youre reading line statement notice youve read loop correct statement 

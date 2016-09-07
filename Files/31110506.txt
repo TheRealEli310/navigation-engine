@@ -1,0 +1,4 @@
+jackson error method fasterxml jackson core jsongenerator setcurrentvalue ljava lang object 
+working spring mvc application morning errors related jackson call specific controller method line specifically error looked found pom issue added google dropbox dependencies friday problem happening excluding jackson mapper luck error log heres pom xml output make pom xml kindly lot 
+
+dont version jackson libraries require require remove dependency jackson2 leave dependency jackson depend jackson remove dependency jackson leave dependency jackson depend jackson depend jackson youll remove dependencies theyre incompatible spring 

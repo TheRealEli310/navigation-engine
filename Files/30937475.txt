@@ -1,0 +1,4 @@
+jwt jaas jwt websocket header 
+writing custom jaas module authenticate users json web tokens jwts users connect 3rd party application websockets app supports custom jaas modules idea retrieve jwt token application passed header dont retrieve jaas api surely access client passed authenticate thinking someway retrieve arbitrary headers subject request access application 
+
+spending time jaas issue solved jaas em em access arbitrary protocol header jwt mqtt wss mqtt connect packet username password field jwt passed password hacky authentication token em em kind password jaas api retrieve password user requested auth underlying protocol send users auth data 

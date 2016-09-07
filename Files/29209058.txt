@@ -1,0 +1,4 @@
+libgdx robovm fix native library libhfscompressor dylib loaded classloader 
+robovm libgdx android studio face problem execution ios device works deleting gradle directory gradle prior deletion gradle execution fails error message blockquote error org gradle buildexceptionreporter caused lang unsatisfiedlinkerror native library m2 repository org robovm robovm dist unpacked robovm bin libhfscompressor dylib loaded classloader blockquote ideas problem fix 
+
+fine folks badlogic games posted solution href https github robovm robovm issues rel nofollow https github robovm robovm issues disabling gradle build deamon setting 

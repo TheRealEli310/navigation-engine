@@ -1,0 +1,4 @@
+spring boot unable configure 
+springboot unable load application properties file resides src main resources extra config add boot app strong error trace strong caused blockquote org springframework boot autoconfigure jdbc datasourceproperties datasourcebeancreationexception determine embedded database driver class database type embedded database put supported classpath database settings loaded profile active profiles active blockquote strong membersapplication strong strong databaseconfig strong 
+
+missing db jar classpath maven gradle include jdbc driver dependency pom gradle file 

@@ -1,0 +1,4 @@
+read large file strings chunks time offset 
+large file consists lines line word english complete file fit memory process chunk chunk implement ol li method1 read chunk call method li li method2 processing strings chunk back step li ol questions strong strong implement method1 implement method2 bufferedreader read large file line line read lines line process method2 back method1 load lines strong strong assumption efficient performance wise process chunk lines process line assumption correct 
+
+bufferedreader effectively takes care em reading em lines chunks choice ul li call readline call method process li li call readline add line list time list size call method process list clear li ul main factor processing logically make sense run process lines optimisation processing method include lines passed 

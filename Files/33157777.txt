@@ -1,0 +1,4 @@
+method implementation 
+add input hashset problem addemployee removeemployee printemployee methods manager class figure write main method addemployee removeemployee printemployee methods manager class invoked output program barbara johnson id desired output kyle jenner id employee id employee barbara johnson employee soc sec employee salary rs testing raisesalary setname manager employee id employee barbara johnson smythe employee soc sec employee salary rs 
+
+output shows managers calling strong manager strong object employees addition method receives reference employee object ignores remember modified call method manager object referenced mgr youll thing call methods employee objects heres key thing remember youre calling set functions youre interacting objects calling methods interact object call methods reference object youve main method 

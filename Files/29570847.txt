@@ -1,0 +1,4 @@
+cassandra custom type mapping 
+id custom serialization deserialization raw types cassandra needing make udt basically store string column automatically deserialized string wrapper hook cassandra mapping code looked didnt opening put custom mapper 
+
+plug custom mapping mechanism driver href https datastax oss atlassian net browse rel nofollow scheduled bring ability 

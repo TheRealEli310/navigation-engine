@@ -1,0 +1,4 @@
+possibility passing myobject bean routing apache camel 
+consuming messages apache kafka apache camel dsls writing object converting byte kafka consume message back byte deserialize object checks object myobject pass bean dsl code issue myobject called method typeconvertors exchange body method process stream process throw exception read invalid messages forward bean method end 
+
+add function argument 

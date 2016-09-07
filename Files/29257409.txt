@@ -1,0 +1,4 @@
+maven configuration spring boot multi modules run application intellij 
+working rest api spring boot maven started coding idea dont ide problem project structure ul li parent ul li pom xml li li main module ul li controller li li domain li li app spring boot main class li li pom xml li ul li li module main module dependency ul li controllers li li domain li li pom xml li ul li ul li ul run project intellij starts access urls defined main module controller module controller main module loaded parent pom xml main module pom xml module pom xml correct run project intellij maven config ul li working directory root module li li command line li li property start class parent main app li ul configure stuff run spring boot modules loaded ide dev purpose readlly dont wrong config thx 
+
+springboot controllers default packages class include module order change change default package additionally classes module 

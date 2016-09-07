@@ -1,0 +1,3 @@
+javafx formatting doubleproperty 
+binding rectangle canvas xleft textproperty bind fieldcanvas layoutxproperty asstring returned textfield returned decimal place working pixels rid dp display integer format doubleproperty layoutxproperty dp 
+

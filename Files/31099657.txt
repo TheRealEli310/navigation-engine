@@ -1,0 +1,4 @@
+export jar relative paths 
+export project runnable jar eclipse feature maven matter program relatives path load resources images path eclipse project base directory works fine executing program eclipse generate jar run imediatly quit program access resources executing jar arborescence load picture launch eclipse executable jar problem classpath paths method return null idea resources method running executable jar give maven build configuration extract jar archive arborescence eclipse project longer src main resources src main thing directly put logic application find resource relative path src main resources logo png idea edit nullpointerexception solved eclipse launch error execute jar path code 
+
+adding leading path dont put forward slash absolute resource package class object substituted returns convert byte array pass constructor 

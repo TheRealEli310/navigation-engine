@@ -1,0 +1,4 @@
+maven home set environment variable inubuntu 
+type mvn version ubuntu terminal ubuntu output set home environment variable maven home installed path find path usr bin command installed system taking path till jre find path maven config 
+
+showed href https github apache maven blob master maven embedder src main org apache maven cli clireportingutils rel nofollow maven class retrieves home call jre unlike jdk maven displaying jre home 

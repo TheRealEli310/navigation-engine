@@ -1,0 +1,4 @@
+scanner loop 
+string input consists multiple lines numbers separated code run eclipse id expect sort output 
+
+problem basically infinite stream return true user enters special command closes user enter tells program input parse end special character check lines perform concatenation numerical type performs addition crazy output hr em edit comment em pull input default delimiter create scan line 

@@ -1,0 +1,4 @@
+benefit system print system printf 
+question similar href http stackoverflow questions good reason printf print good reason quot printf quot quot print quot question asks answered benefits curious benefits place experience drastically readable formatting numbers syntactic sugar concatenating strings system returns case examples majority programmers benefit noticeable difference memory time efficiency 
+
+string concatenation marginally efficient developer determining compilation time values inserted string youre jre parse format string insert values runtime youre large amount printing negligible difference easiest maintain 

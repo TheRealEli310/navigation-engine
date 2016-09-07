@@ -1,0 +1,4 @@
+jdbc parameter verifyservercertificate false connects clientkeystore truststore 
+attempting setup create ssl connection mysql server noticed verifyservercertificate false jdbc url ignore keystore truststore information system setproperty comment code ssl connection created successfully verifyservercertificate true values set question jdbc create ssl connection verifyservercertificate false client keystore truststore code mysql server grant statement edit cnf file additional information certificate authority created response query 
+
+establish ssl connection client validating certificate chain server classes establishing connection javax net ssl classes treat unverified server certificate suspicion fail handshake provide users classes effect servers certificate doesnt validate ahead establish connection whats happening verifyservercertificate false ssl connection perfectly valid cryptographic perspective authenticated connection idea source server certificate 

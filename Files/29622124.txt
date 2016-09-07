@@ -1,0 +1,4 @@
+explicit entitymanager spring data repositories 
+explicitly resort entitymanager methods interested clear close flush detach inside service methods additionally work spring data repos interested general insight subject lets application found found entitymanager justifiable memory overloaded entities code snippet explicitly detach entity doesnt spring data handle found post href http newscentral exsees item de38b01b7a9f794a124e2c72b97d1103 c5533957a4140e3c51e7d295ec840d08 rel nofollow http newscentral exsees item de38b01b7a9f794a124e2c72b97d1103 c5533957a4140e3c51e7d295ec840d08 confused close method call ee environment correct ps configurations mainstream jpatransactionmanager localcontainerentitymanagerfactorybean 
+
+dont worry entity managers manually flush call flush method repository saveandflush saving entities personally dont bother repository method calls transactional service method executes commit ends flush dont loop collection save entity save collection 

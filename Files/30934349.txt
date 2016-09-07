@@ -1,0 +1,4 @@
+display percentage values label jfreechart 
+recently discovered jfreechart generating simple pie charts basically display pies values label percent shows label code simply href http www informit guides content aspx amp seqnum rel nofollow tutorial display values labels 
+
+easy version href http mvnrepository artifact jfree jfreechart rel nofollow version result img src http stack imgur ttkaa png alt result version recent version href http mvnrepository artifact org jfree jfreechart rel nofollow changing href http www jfree org jfreechart api javadoc org jfree chart labels piesectionlabelgenerator html rel nofollow default includes em data set em create custom label format standard label generator change label generator plots result img src http stack imgur rnpe7 png alt result version label format displayed full 

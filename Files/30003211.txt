@@ -1,0 +1,4 @@
+string concatenate null operator throws nullpointerexception concate method 
+class concatenating string string concatenate operator execute smoothly throws method reason 
+
+strong case strong href https docs oracle javase specs jls se7 html jls html docs string conversion blockquote strong reference null converted string null strong ascii characters conversion performed invocation tostring method referenced object arguments result invoking tostring method null string null blockquote strong case strong href http grepcode file repository grepcode root jdk openjdk b14 lang string string concat 28java lang string source giving 

@@ -1,0 +1,4 @@
+noclassdeffounderror org hibernate ejb hibernatepersistence 
+met noclassdeffounderror initiating hibernatejpavendoradapter checked threads exception failed find root initialization jpavendoradapter failed incompatibilities package dependencies applicationcontext xml pom xml related sections included applicationcontext xml point wrong code 
+
+make compiled war file jar spring data jpa drags hibernate jpa exclude specifically pom xml top remove hibernate core hibernate entitymanager class path make drags hibernate core class youre contained hibernate entitymanager things culprit compile check correct jars youre starting tomcat eclipse make correct classpath files basically server starts make jars classes fix doesnt identity culprit 

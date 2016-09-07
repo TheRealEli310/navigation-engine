@@ -1,0 +1,4 @@
+jetty jersey servlet mapping working 
+implement rest web service jetty jersey created maven webapp project maven jetty plugin project problem facing servlet mapping work resource mapped web xml accessing uri found strong pom xml strong pre class lang xml prettyprint override strong restresource strong pre class lang prettyprint override strong web xml strong pre class lang xml prettyprint override search problem google solutions found work time working web servers web services dontt understand topic 
+
+change rid method method annotated class define servlet mapping web xml root access 

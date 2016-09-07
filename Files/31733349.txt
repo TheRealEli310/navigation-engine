@@ -1,0 +1,4 @@
+stack implementation nodes objects 
+integer objects add class print data answer push number pushes entire listofints data point question basic problem assume methods wrote similar textbooks dont whats wrong understand edit suggested returning objects code method add object replaces adding list 
+
+implementation returning object called reference position original stack create stack push popped item original object ride original reference list appears stack solution expose object accepting accept data item create returning extract data item return dont inadvertently risk leaking reference desired node 

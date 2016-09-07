@@ -1,0 +1,4 @@
+correctly import gradle projects eclipse 
+set interdependent gradle modules projects build correctly gradle run issues importing eclipse import gradle eclipse plug import gradle project select build model root folder imports projects doesnt treat projects specifically syntax errors recognized import project individually recognized projects linked properly eclipse shows build errors properly import link gradle projects eclipse 
+
+easy answer depends details project found complex projects specific tweaks build script assume projects eclipse tips work cases specific tweaks make apply eclipse plugin projects plain projects eclipse wtp plugin war style web projects import projects dependency management disabled options import wizard doesnt work details projects wrong import sounds projects proper nature source folders correctly configured contents classpath project files badly configured projects helpful 

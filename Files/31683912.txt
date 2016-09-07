@@ -1,0 +1,4 @@
+add listeners splitpane divider positions 
+figure listen divider repositioned event javafx splitpane simple working application event listener added point direction 
+
+dividers add changelisteners 

@@ -1,0 +1,4 @@
+scroll layout listview android 
+problem listview working perfect absoultelayout buttons bottom arent show put scrollview absolutelayout items textview button scrollview put listview didnt work scroll buttons listview move bit put scrollview buttons button make listview works xml 
+
+strong absolute layout strong means documentation blockquote layout lets exact locations coordinates children blockquote dont buttons positioned device screen bounds position strong absolute strong strong fixed strong stay matter recommend strong change layout strong dont kind app building absolute layout generally choice 

@@ -1,0 +1,4 @@
+exe high cpu usage 
+netbeans develop gui login form jinternalframes inside jframe netbeans doesnt high cpu run project windows open cpu rises 
+
+issues code culprit high cpu usage infinite loop logs setting ui element wont block ui started thread high cpu consumption check official tutorial href https docs oracle javase tutorial uiswing concurrency rel nofollow swing threads youve improved bit post href https codereview stackexchange codereview detailed feedback code 

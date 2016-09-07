@@ -1,0 +1,4 @@
+initialization string scientific format biginteger 
+work large numbers range 1e100 1e200 class suitable general recognize strings scientific format initialization support conversion string format imagine class designed assumption users type hundreds zeros input 
+
+scientific notation applies limited scope number front fewer digits decimal point exponent situations information lost work letting parse scientific notation converting href http docs oracle javase docs api math bigdecimal html tobiginteger rel nofollow method conversion scientific notation constructing href http docs oracle javase docs api math bigdecimal html bigdecimal math biginteger rel nofollow constructor takes 

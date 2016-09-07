@@ -1,0 +1,4 @@
+apache poi getrow returns null createrow fails 
+problem apache poi v3 xlsx file rows template fill cells data write file reuse template approximately debugging turns getrow returns null attempt createrow fails missing read apache docs forums createrow getrow returns null sheet rows getphysicalrows getfirstrownum getlastrownum 
+
+documentation constructor takes param override access initial rows template file overwrite existing row api support exception message reflects href https poi apache org apidocs org apache poi xssf streaming sxssfworkbook html sxssfworkbook org apache poi xssf usermodel xssfworkbook rel nofollow https poi apache org apidocs org apache poi xssf streaming sxssfworkbook html sxssfworkbook org apache poi xssf usermodel xssfworkbook case href http jxls sourceforge net rel nofollow http jxls sourceforge net 

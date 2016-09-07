@@ -1,0 +1,4 @@
+smtp javamail smtptransport connected error threads 
+work javamail api send multiple emails transport object avoid authentication works fine send mails threads send mails concurrently created class sends mail transport sendmessage creating threads exception calling connect loop complains connected 
+
+turn href http www oracle technetwork javamail faq index html debug rel nofollow javamail session debugging idea whats threading wrong server dropping connection reason point threads send messages single connection work single threaded connection messages time connection smtp works send multiple messages parallel youll multiple connections 

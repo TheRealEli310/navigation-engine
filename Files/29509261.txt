@@ -1,0 +1,4 @@
+eclipselink jpa criteria reference unmapped column 
+writing jpql queries reference mapped columns column eclipselink specific reference unmapped column building criteria javax persistence criteria criteriabuilder javax persistence criteria predicate problem facing postgresql table full text search column mapped entity objects qould queries queries criteriabuilder hr edit code table id integer varchar fts tsvector fts column full text search index data entity class fts attribute fts data fetched performance query column jpql select column fts null reference column building criteria choice add attribute entity class reference table column fetched adding basic fetchtype fetchtype lazy work fetched query 
+
+managed solve 

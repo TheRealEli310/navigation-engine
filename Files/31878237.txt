@@ -1,0 +1,4 @@
+perform background thread repeatedly android 
+read data constantly usb em 50ms interval em update time updating easily achieved usb reading performs work touch ui thread thread read questions href http stackoverflow questions execute async task repeatedly fixed time intervals executing repeatedly correct wrong good ways execute background work em repeatedly em android 
+
+finer grained control time elapsed suggest start separate thread loop href http developer android reference lang thread html sleep long rel nofollow thread sleep wait polling dispatch handler ui thread rough sketch give idea 

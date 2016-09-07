@@ -1,0 +1,3 @@
+environment variables jar batch files 
+quick question run jar file data environment variables open cmd window set environment variable manually command run jar file works br create batch file exact commands executed jar file doesnt find environment variables commands access environment variables work wrong br edit br heres batch file file jar doesnt access environment variables successfully br run line jar file works br access environment variables code br didnt change 
+

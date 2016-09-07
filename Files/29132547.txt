@@ -1,0 +1,4 @@
+context injection stateless ejb jax rs 
+setup simplified version basic idea jersey glassfish open source deploy hit web service nullpointer exception security context context injected checked seccontext variable return getuserprincipal null warning exceptions glassfish log nullpointer results error returned web client 
+
+problem wrong place inside rest resource class details href https jersey net documentation latest security html rel nofollow jersey documentation chapter security inside ejbs href https docs oracle javaee api javax ejb ejbcontext html rel nofollow href https docs oracle javaee api javax ejb sessioncontext html rel nofollow 

@@ -1,0 +1,4 @@
+net socketexception multicast address 
+working multicastsocket join group work running group localhost ip found article href http lycog programming multicast programming rel nofollow http lycog programming multicast programming stated range made inetaddress ip joined group worked explain throws works 
+
+standards short snippet href https en wikipedia org wiki multicast address rel nofollow wiki article multicast addresses blockquote ipv4 multicast addresses defined leading address bits originating classful network design early internet group addresses designated class classless inter domain routing cidr prefix group group includes addresses blockquote href http download net jdk7 archive b123 docs api net multicastsocket html rel nofollow javadoc blockquote multicast group class ip address standard udp port number class ip addresses range inclusive address reserved blockquote join multicast group group address range localhost exception 

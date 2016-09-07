@@ -1,0 +1,4 @@
+stay current thread step debugging intellij 
+debugging multi threaded code intellij specifically stepping inside thread setup threads running code intellij changing current thread meaning issue step f8 command t1 debugger change focus t2 expecting stay t1 em em debugging produce result lets switch thread t2 back t1 order strong strong intuitive intended behavior switch t1 switch t1 switch t1 switch t2 switch t2 switch t2 switch t1 searched prevent found solution discovered maintain stepping current thread selecting mouse time step question prevent intellij changing thread edit point methods called thread execution order order 
+
+idea href http blog jetbrains idea intellij idea eap open rel nofollow http blog jetbrains idea intellij idea eap open fixed issue additionally breakpoint reached thread notification found nice 

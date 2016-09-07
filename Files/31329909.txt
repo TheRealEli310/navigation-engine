@@ -1,0 +1,4 @@
+source target share interface mapstruct 
+problem strong mapstruct strong interfaces implementations strong user strong strong userdto strong strong role strong strong roledto strong created mapper named usermapper problem transform user userdto role object transformed executing main method result blockquote alex class raidentrance model role blockquote expected blockquote alex class raidentrance model roledto blockquote question detailed href http stackoverflow questions source target share interface mapstruct source target share interface mapstruct href https github alejandro neology mapstruct issue rel nofollow code jackson strong jsondeserialize impl class strong jpa strong targetentity strong solution branch works github repository changed datatype getrole works mentioned 
+
+define mapping method interface mapstruct mapping method returns irole interface 

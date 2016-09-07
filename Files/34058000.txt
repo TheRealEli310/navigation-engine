@@ -1,0 +1,4 @@
+android downloading file server terminated 
+download apk file 7mb server reading data input stream flow terminated error message code tired debug stopped reading input stream url browser downloading fine fix issue 
+
+faced similar problem video downloaded upto 5mb failed problem initialising bufferedinputstream dont give size commented part code 

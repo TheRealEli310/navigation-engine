@@ -1,0 +1,4 @@
+deserialize json response gson field variable type 
+responses rest api return json structure problem doesnt unique type string json object json array depending called endpoint figure deserialize create objects prepared pojos root element objects reflects endpoints reading stackoverflow questions interface type variable 
+
+managed make work wanted custom deserializer endpoint wait response btw href http developer android training volley index html rel nofollow volley generate root apiresult object check status proceed instantiating data field requested type pojos question data thing change profile endpoint line 

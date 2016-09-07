@@ -1,0 +1,4 @@
+jsoup node hash code collision traversing dom tree 
+jsoup build html dom trees find lot hash code collisions traversing dom tree code run identical hash codes outputs hash codes pretty large dont expect weird behavior jsoup input greatly appreciated 
+
+blockquote strong strong bug fixed jsoup answer longer relevant blockquote bug jsoup source href https github jhy jsoup blob master src main org jsoup nodes node rel nofollow source expert return nodes attributes parent alkis comment hr strong edit strong reproduce html code ignore content text calculating hash attributes important hr implement workaround hr bug reported href https github jhy jsoup issues rel nofollow 

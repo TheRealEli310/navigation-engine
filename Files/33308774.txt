@@ -1,0 +1,4 @@
+hibernate envers audited hibernate generating tables 
+situation dont hibernate create create tables hibernate spring wanted create tables manually running oracle sql script aud extension simplicity purpose class beginning setup db schema found sql generated automatically copied sql run schema line references bdr revinfo rev enable causing problem doesnt exist examples talk aud table table called holds time stamp revision id couldnt find structure table create table manually structure 
+
+finally create schema test find revinfo table sql statement run sql running sql create base class aud table strong problem documentations tutorials talk aud table revinfo table strong 

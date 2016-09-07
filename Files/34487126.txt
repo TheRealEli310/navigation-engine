@@ -1,0 +1,4 @@
+set preferred width height fxml dynamically based screen resolution javafx 
+javafx dynamically set preferred width height fxml file based screen resolution screen resolution set stage question dynamically setting prefwidth prefheight fxml files programmatically change property values fxml file scene builder 
+
+sort fxml scene builder aware attribute primary screen define href http docs oracle javase javafx api javafx fxml doc files introduction fxml html define elements rel nofollow block href http docs oracle javase javafx api javafx fxml doc files introduction fxml html expression binding rel nofollow expression binding bind root pane width height screen maximizedpane fxml pre class lang xml prettyprint override heres quick test harness reason scene builder doesnt support mechanism inserting blocks fxml things 

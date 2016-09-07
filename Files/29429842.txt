@@ -1,0 +1,4 @@
+struts2 access jsp action variables 
+problem struts2 dont doesnt work pass variables jsp action class strong view1 jsp strong em var1 var2 variables pass action class em strong struts xml strong strong action strong em works correctly put system print getters shows good values var1 content1 var2 content2 em strong view2 jsp strong problem content var1 var2 br returning null error dont understand internet 
+
+finally found answer problem br lines strong view1 jsp strong strong struts xml strong strong action strong strong view2 jsp strong 

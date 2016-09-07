@@ -1,0 +1,4 @@
+junit test starts h2 memory database runscript finishes 
+project spring maven project h2 database memory perform tests dao repository layer tests run error perform junit test fail pattern error suspect runscript statement url connection didnt finish unit test begin execution performed asynchronously connection statement idea database reset test snippet code datasource object snippet weatherapi sql script 
+
+suspect race condition href http www h2database html features html highlight init amp search init execute sql connection rel nofollow documentation script executed single client connects database dropping table recreating happen test running client connects database table drop nose test runs parallel thread test case tool method parameter jdbc connection url additionally make thread adding initializing instance variable statically 

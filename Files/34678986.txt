@@ -1,0 +1,4 @@
+constructor private class private 
+refactoring android project big running lint strong jsme issue strong em private member access outer classes em information pre class lang prettyprint override applying problem resolution source confused moment thought equivalent wrong case issue lint 
+
+href http docs oracle javase specs jls se7 html jls html jls rel nofollow section language specification default constructor blockquote class type class declared public default constructor implicitly access modifier public class declared protected default constructor implicitly access modifier protected class declared private default constructor implicitly access modifier private default constructor default access implied access modifier blockquote 

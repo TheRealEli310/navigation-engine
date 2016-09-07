@@ -1,0 +1,4 @@
+lwjgl vao shader rendering 
+lwjgl shaders vaos current implementation draw vao shaders vao draw shaders vao white question missing shader setup preventing vao shaders main class br shader vao setup gamestart method br shader class br vertex fragment shaders 
+
+found solution problem site href https open gl drawing rel nofollow issue device coordinates link cartesian coordinate system fix 

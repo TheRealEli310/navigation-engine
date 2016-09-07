@@ -1,0 +1,4 @@
+show multiple values multiple keys hashmap 
+hashmap multiple values single key code print values work wrong inserted output addcontact method main desired output 
+
+reason list included insert method binds key pairs referencing key case key objects memory address case map keys points object memory result modify entry change valid keys correct code initialize list time add end worth pointing memory reference valid elements derived class basic types referenced sort data code work fine 

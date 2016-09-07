@@ -1,0 +1,4 @@
+mongodb check collection exists 
+problem driver mongodb version db collectionexists check collection exists selected database version switch db mongodatabase method longer exists find collection exists inside database iterate collections listcollectionnames ineffective 
+
+correct appears version mongodb driver port direct em collection exist em method mentioned option iterate results ineffective em em similar implementation method code snippet copied class href https github mongodb mongo driver mongo driver source calling method access method strong deprecated strong strong recommend approach strong mentioned em deprecated em result iteration approach 

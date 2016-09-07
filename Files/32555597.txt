@@ -1,0 +1,4 @@
+annotating unstable classes methods javadoc 
+developing classes methods project people code dont guarantee backwards compatible future versions situation make sense unstable annotation notify users code backwards compatibility guarantees stabilizes unstable feature deprecated feature changed removed considered breaking change annotations reflected javadoc generated html user aware optimistic helpful compiler warning code annotated unstable standard feature customize javadoc feature 
+
+standard feature add information generated javadoc annotation annotation javadoc annotated type field method 

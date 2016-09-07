@@ -1,0 +1,4 @@
+httpclient invalid redirect uri 
+laxredirectstrategy httpclient configutaion redirection inside defaultredirectstrategy class creating location inside createlocationuri method defaultredirectstrategy class failing url harborone0457 profile aspx due illegal character solve logs 
+
+problem braces encoded order form valid url full list uri encoding href http www degraeve reference urlencoding php rel nofollow 

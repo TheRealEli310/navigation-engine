@@ -1,0 +1,4 @@
+read single word line text file 
+title write program read individual words text file store variables read single wont work input words compare string variables program equals import strings inputting entire line text file string case ill put word line file input words text file store string variables edit duplicate sort helps work reason question duplicate tells read single line read individual words line basically splitting line string 
+
+read lines text file resources chunk line individual words href http docs oracle javase docs api lang string html split lang string rel nofollow string split 

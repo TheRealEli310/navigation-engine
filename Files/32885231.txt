@@ -1,0 +1,4 @@
+store date format input date 
+store expiry date exp format store yyyy mm dd simpledateformat format string parse string result dont date saved exp yyyy mm dd date format convert date format input date format output date format gregoriancalendar gettime format manufacturing date yyyy mm dd date stored format exp code items 
+
+understand correctly inside format constraint doesnt care solution kind href https en wikipedia org wiki decorator pattern rel nofollow decorator pattern redefine string representation date wrap time kind representation 

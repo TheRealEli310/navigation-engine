@@ -1,0 +1,4 @@
+create list runtime 
+program comment fail create method achieves functionality creating list runtime 
+
+generics creating makelist method returns specific arraylist class parameter remember generics compiler feature effect type erasure simple compiled bytecode youll retrieve details original type parameter reflection classes extract information stringified method signature runtime variable create parametrized type runtime plain arraylist kind object type checking 

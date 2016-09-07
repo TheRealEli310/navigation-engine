@@ -1,0 +1,4 @@
+open link webview android similar inappbrowser 
+strong mainactivity code displaying webview app strong webchromeclient code working strong fix amp make links open webview hope correct strong 
+
+provide internet permissions manifest file 

@@ -1,0 +1,4 @@
+socket receives byte array byte 
+making program takes file sends socket client client receives saves file supposed byte array client receives bytes output file empty code server client 
+
+mixing binary text modes stream tricky advised count file content solution encode file content text base64 encoding problem current mixed stream code client side read size bufferedreader reader read buffer bytes socket problem bytes file content read content underlying find left read result empty corrupted file hr problem code assumes statement read rest stream fills byte array assumption incorrect reading socket stream liable return bytes client side network stack result liable corrupted file case truncated read code hr finally ul li reading file content byte arrays ends wastes memory problematic large file li li resources ensure streams closed properly hand cumbersome risks resource leaks li ul 

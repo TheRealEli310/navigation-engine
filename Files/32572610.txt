@@ -1,0 +1,4 @@
+determine sql server jdbc version command line 
+servers microsoft sql server jdbc driver files named version driver time stamps file sizes helpful extract driver version number run command line db2 run command version equivalent microsoft sql server 
+
+dedicated cli print driver version ms driver version build simple commandline wrapper print information 

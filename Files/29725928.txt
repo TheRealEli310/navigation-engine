@@ -1,0 +1,4 @@
+pass parameters custom view activity class 
+custom view class extends view ondraw instantiate drawview class extends activity btw calling calling instantiate mainactivity 
+
+instantiate view main activity create attributeset pass view constructor href http developer android reference android util attributeset html rel nofollow info invalidate refresh view 

@@ -1,0 +1,4 @@
+play framework assets io file 
+play framework helper method href https www playframework documentation assets assets controller rel nofollow play framework href https www playframework documentation javastream serving files rel nofollow method helpers automatically compute response headers serving inside question combine work method descibes object string objects content 
+
+works result class info href https github playframework playframework blob master framework src play src main play application l53 l61 rel nofollow implementation 

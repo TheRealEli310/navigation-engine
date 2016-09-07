@@ -1,0 +1,4 @@
+dependsongroups sequential order testng 
+execute code confused order test methods output order output test methods executed befor method understand dont understand sequential order methods explain testng sequential order code 
+
+suite run methods explicitly mentioned class put guess expecting set order code methods lower priorities scheduled execute preseve order multiple classes testng xml suite hr blockquote related stackoverflow links ul li href http stackoverflow questions priority testng multiple classes li li href http stackoverflow questions order execution tests testng li li href http stackoverflow questions run testng tests random order li ul href http stackoverflow users cedric beust cedrics blog br href http beust weblog test method priorities testng rel nofollow http beust weblog test method priorities testng testng document br href http testng org doc documentation main html rel nofollow http testng org doc documentation main html blockquote 

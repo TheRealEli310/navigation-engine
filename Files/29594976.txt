@@ -1,0 +1,4 @@
+listiterator add objects alphabetically linked list 
+attempting add strings linked list alphabetical order working alright call add method iterator object adds string em em current iterator position messing alphabetical order add object current position iterator advance tyler stack overflow complete opposite problem strange 
+
+inefficient sort sort function insertion dont list iterator index youre version add href https docs oracle javase docs api util linkedlist html add int 20e rel nofollow https docs oracle javase docs api util linkedlist html add int 20e href https docs oracle javase docs api util listiterator html previousindex rel nofollow https docs oracle javase docs api util listiterator html previousindex iterator find index insert insertion make happy 

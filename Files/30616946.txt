@@ -1,0 +1,4 @@
+send bitmap socket server 
+sending image android client server socket presently code client code server code create extra streams client side determine send size image compressed jpeg format directly socket output stream wanted prevent overhead extra streams client code approach lesser overhead 
+
+dont connection open dont send length read end stream open copy loop isnt correct overrun end image 

@@ -1,0 +1,4 @@
+mysql driver error jersey tomcat 
+made jersey maven project tomcat connect mysql database em data source explorer database connection driver definition em choose mysql jdbc driver message strong strong dependency pom xml idea maven 
+
+eclipse add jar file external source noting project hope helps 

@@ -1,0 +1,4 @@
+restcontroller responsebody methods work incorrect 
+controller working server response thought redundant removed responsebody annotation server response explain behaviour h2 h2 spring version found part related mvc config 
+
+explicitly enable annotation processing classes adding xml config default registers deprecated considered predecessor newer stuff 

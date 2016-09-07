@@ -1,0 +1,4 @@
+waiting connection threads created http connection alive long duration 
+server side code checks soap service code problem check connection threads created threads alive soap service check completed snapshot thread dump threads connections threads waiting parking close code opened streams closed connections disconnected disconnect set http property didnt doubt time closing threads dont jdk version jdk1 x64 stop connection thread numbers building 
+
+migrated implementation apache http client special apis control didnt apache http client waiting connection threads finally found hint href https access redhat documentation en jboss enterprise application platform html administration configuration guide sect connector configuration html rel nofollow redhat website jboss http connector configuration configured thread pool http connector solved issue 

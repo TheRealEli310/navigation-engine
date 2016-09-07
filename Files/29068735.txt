@@ -1,0 +1,4 @@
+dfs graph adjacency matrix 
+issue code displaying wrong order perform depth traversal told wrong edit supposed display order visited messing edit additionally display order dead ends dead ends work 
+
+told wrong output correct check hand jump find start row column marked move row row visited visited move row interesting move row interesting 1s row path visited backtrack point backtrack back row interesting row backtrack finishes nodes result edit make clear answers em em dfs depending order processing neighbours answer supposed provide input edit precise backtrack end 

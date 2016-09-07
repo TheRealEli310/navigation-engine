@@ -1,0 +1,4 @@
+jbpm deploy workflow directly eclipse kie workbench 
+eclipse luna wildfly jbpm eclipse configured start wildfly server kie workbench directly eclipse previously created workflow kie workbench succesfully deploy workflow logs database tables create jbpm project eclipse deploy start workflow directly eclipse 
+
+isnt deploying eclipse ol li create m2e project mentioned jl987 li li create junit test li li junit class jbpm rest api deploy maven artifact li li junit test method execute validate results workflow rest api rest api found href http docs jboss org jbpm v6 userguide jbpmremoteapi html rel nofollow api maven rest client kie remote href https github droolsjbpm droolsjbpm integration rel nofollow client li ol 

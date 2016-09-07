@@ -1,0 +1,4 @@
+loop getandset atomicinteger similar classes 
+purpose loop code 
+
+classes represent atomic datatypes means return consistent results accessed concurrently threads operation implemented directly hardware implemented terms method works current returned thread concurrently checked case thread changed procedure repeated wrong returned loop 

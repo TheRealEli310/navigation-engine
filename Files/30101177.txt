@@ -1,0 +1,4 @@
+scheduledexecutorservice execute task termination 
+execute task fixed rate contents main method implements interface initially returns immediately scheduling task called prematurely application exits method ideally method call scheduler stopped aware method block method feels dirty hackish suggestion 
+
+application shutdown hook href http stackoverflow questions shutdown hook discussion add code stage application initialization pre class lang prettyprint override 

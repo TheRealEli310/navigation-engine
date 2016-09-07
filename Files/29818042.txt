@@ -1,0 +1,4 @@
+schedule program run daily windows 
+written program retrieves google data till present date google analytic api export csv file program run daily data csv file date achieve 
+
+windows task scheduler href http www 7tutorials create task basic task wizard rel nofollow tutorial start program create batch file run program scheduler run batch file href http stackoverflow questions make executable jar file executable jar start directory href http www coderanch gc schedule jar file windows task rel nofollow thread 

@@ -1,0 +1,4 @@
+absolutely calling onactivityresult callbackmanager facebook login button 
+figure solve unsuccessful problem clicking login button loads facebook activity finishes activity receives activity result notifies callbackmanager docs point method registered facebookcallback executed line logged inform error involved files activity login xml includes button added facebook activity app id android manifest file android app key facebook application hope figures solution 
+
+wrong entered 

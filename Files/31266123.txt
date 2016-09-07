@@ -1,0 +1,4 @@
+optional sign text decimalformat 
+parse decimal numbers sign minus sign sign instance achieved simply calling constructor produces results strings parse strings specific locale comma decimal separator parse numbers respect locale configure appropriately accept sign option set pattern sign optional pattern 
+
+create decimalformat accepts requires leading prefix strong strong optional case simple solution dont check trimmed string starts character case cut leading pass string decimalformats parse method 

@@ -1,0 +1,4 @@
+individuals set object property owlapi 
+parse ontology program owlapi output ul li mark1 car1 li li mark2 car2 li ul advance 
+
+extract individuals ontology find values object properties assigned individuals 

@@ -1,0 +1,4 @@
+web xml missing failonmissingwebxml set true 
+href http stack imgur yd22p png img src http stack imgur yd22p png alt enter image description create simple href http en wikipedia org wiki apache maven maven project href http en wikipedia org wiki eclipse 28software eclipse error blockquote web xml missing set true blockquote fix problem 
+
+ol li click strong deployment descriptor strong strong project explorer strong li li select strong generate deployment descriptor stub strong li ol generate strong web inf strong folder strong src main webapp strong strong web xml strong 

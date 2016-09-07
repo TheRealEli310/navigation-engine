@@ -1,0 +1,4 @@
+drawing circles 2d grid array 
+understand make 2d array grid experimented put random numbers draw jframe instance red circle green circle figure represent grid manner understand jframe jpanel drawing empty canvas combine code knowledge limited 
+
+suggestion ol li pass class parameter constructor store local variable class illustrated li li declare getter method class retrieve array stores position grid li li create method return colour paint based stored element grid li li overriding method class override draw circles method illustrated considered circles 30px diameter gap 20px li ol hope solve problem accessing representing model class representing view 

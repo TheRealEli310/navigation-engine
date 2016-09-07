@@ -1,0 +1,4 @@
+persist commit working test environment spring jpa junit 
+setup basic jpa insert test saved db db postgresql hibernate persistence provider advance crud class base class tests test class context test xml 
+
+test passed successfully exception strong transactionconfiguration defaultrollback false strong test class strong rollback false strong test method transactional tests rollback default spring test context 

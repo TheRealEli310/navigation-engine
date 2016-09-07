@@ -1,0 +1,4 @@
+stackoverflowerror regular expression 
+extracting strings documents regular expressions stuck stackoverflowerror specific regular expression regex program executes smoothly code remove pattern p6 doesnt show error stacktrace 
+
+problem part compiles structure oracle openjdk jre implementation recursion back match repetition em deterministic em pattern alternation considered em deterministic em implementation long string stack runs match character exception combination href http docs oracle javase docs api util regex pattern html dotall rel nofollow flag ul li pass flag href http docs oracle javase docs api util regex pattern html compile 28java lang string 20int rel nofollow method turn flag expression li li suggested comment jonny inline flag li li alternatively turn flag pattern li ul hr match dont remove character class excessive amount capturing group review check 

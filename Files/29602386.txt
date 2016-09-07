@@ -1,0 +1,4 @@
+fetchmode work spring data jpa 
+relation model object project model repository snippets end post call fire select queries sql ol li li li li li li ol unusual behavior reading hibernate documentation join queries difference queries changed class query additional select class changed query join suppressing fires selects ol li li li li ol goal sam behavior situations join select join preferred model definitions place city repositories placerepository userrepository cityrepository 
+
+spring data ingnores fetchmode annotations working spring data href http docs spring io spring data jpa docs current reference html jpa entity graph check documentation 

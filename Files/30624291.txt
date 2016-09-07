@@ -1,0 +1,4 @@
+send log messages files play framework 
+playframework interested knowing log app files files controllers levels test mix filenames inside conf application logger conf href https www playframework documentation settingslogger rel nofollow official documentation play find 
+
+depending play framework version customize logback href https www playframework documentation settingslogger rel nofollow play doc blockquote fully customize logback define conf application logger xml conf logger xml configuration file default configuration file play blockquote play framework logback xml easy creating custom loggers 1st create custom logger controller write configuration file filtering level creates files application log customfile log filtrolevelinfo log files outputs call tho method application log customfile log filtrolevelinfo log hope helps 

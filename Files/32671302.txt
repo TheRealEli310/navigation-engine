@@ -1,0 +1,4 @@
+tomcat deploy public html war application 
+deploy war application public html folder user homes added directive server xml return download app war doesnt serve app user home folder problem tomcat 
+
+tomcat mail list deploy execute war files inside public html users homes tomcat havent feature alternative create virtual host user hostname port user deploy war applications server xml 

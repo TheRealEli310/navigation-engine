@@ -1,0 +1,4 @@
+stop hibernate sql logs coming catalina 
+making log4j xml projects netbeans contents sql logs mysqllogs log appearing mysqllogs log catalina format logs catalina 
+
+stop env shared properties hibernate show sql true 

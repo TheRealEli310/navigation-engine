@@ -1,0 +1,4 @@
+javax persistence persistenceexception org hibernate exception genericjdbcexcep tion execute query 
+researched forums people posted stuff helps object repository implementation persistence xml named queries parameters list luck special configuration entitymanager find method works connection db fine lot stacktrace 
+
+matter improper casing href https docs oracle cd e19798 bnbtg index html rel nofollow named parameters queries blockquote named parameters case sensitive dynamic static queries blockquote easily test api 

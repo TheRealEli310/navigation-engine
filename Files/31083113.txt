@@ -1,0 +1,4 @@
+fx changing label scene 
+scenes scene invokes scene code label confirmation fxml called proceed change content label function return result true false 
+
+create fxml controller expose method pass data string set label inside method loading fxml 

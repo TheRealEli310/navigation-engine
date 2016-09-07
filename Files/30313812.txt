@@ -1,0 +1,4 @@
+compiling multiple jar files javac 
+downloaded sample code written multiple jar files files programmer hard time compiling code heres attempt whats wrong approach compile code jar files located lib folder files src folder 
+
+stop shell wild card escaping remove suffix classpath wildcards work oracles href http docs oracle javase docs technotes tools windows classpath html rel nofollow setting classpath document hr ide option compile run downloading installing learning ide overkill imo flipside good ide programmer understand compile run shell prompt 

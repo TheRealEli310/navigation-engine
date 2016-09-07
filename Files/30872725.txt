@@ -1,0 +1,4 @@
+hadoop map reduce extract specific columns csv file csv format 
+hadoop working big data project clean filter csv file csv file columns select specific columns called data filtering output operation part data cleaning check correct date format date columns change format single format dd mm yyyy read file suggest select specific columns checking date formats 
+
+apache pig filtering validating date format follow steps ol li copy file hdfs li li load file load command pigstorage li li select column foreach statment give column number li li write udf validate date format ref href http www crackinghadoop pig udf validate date format rel nofollow http www crackinghadoop pig udf validate date format li li store filtered output store li ol 

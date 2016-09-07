@@ -1,0 +1,4 @@
+count messages ibm websphere queue 
+xms ibm message services client net connect ibm mq messages wanted count messages queue point time explored iqueuebrowser getenumerator download messages client 
+
+xms net implementation jms specification jms specific define method property retrieves count messages queue xms provide queue attributes provider specific administrative job message provider specific apis count messages application coded receive messages continuously application choose quit receiving messages messages queue wait messages messages receive call return null message object application check decide make receive calls quit hth 

@@ -1,0 +1,4 @@
+camel spring test time route exclusion 
+unit test em junit em em apache camel em em route em defined em spring em context file spring context file routes bean definitions isolate route initialize beans refers topic strong test time exclusion strong href http camel apache org spring html rel nofollow camel spring page discusses scenario applies em route builders em defined spring camel 
+
+spring loads beans file separate spring stuff multiple xml files load xml files test 

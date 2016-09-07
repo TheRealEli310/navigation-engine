@@ -1,0 +1,4 @@
+spring mvc angularjs retrieving images high memory usage chrome 
+stored images database serve images user webbrowser problem method serves images causing webbrowser consume lot memory mb reason problem return null memory usage stays pretty low calling method accessing images larger mb showing image calling view angularjs tips advice greatly appreciated 
+
+increased memory consumption web browser client side caused excessive amounts requests retrieved client end inside angular applications angular tend consuming memory browser href http docs spring io spring docs current javadoc api org springframework web filter shallowetagheaderfilter html rel nofollow shallowetagheaderfilter spring mvc application image file changed wont send file angularjs application return image changed browser load cache shallowetagheaderfilter consume processing cycles save bandwidth browser memory 

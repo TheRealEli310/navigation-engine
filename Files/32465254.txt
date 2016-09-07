@@ -1,0 +1,4 @@
+android illegalstateexception thrown calling appcompatactivity 
+stated title application quits showing illegalstateexception learning android programming kind helpful logcat exception caught oncreate method mainactivity setcontentview method problem post parts code problem based theme opinions androidmanifest xml file finally heres error log information 
+
+order appcompatactivity appcompat theme androidmanifest change br 

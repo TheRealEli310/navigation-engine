@@ -1,0 +1,4 @@
+lang nosuchmethoderror org springframework web context request servletrequestattributes init 
+migrating spring spring error request page double checked method exist spring messed xsd versions missing dependency wrong versions 
+
+error means latest version spring invoke older version spring javadoc br href http docs spring io spring framework docs rc2 api org springframework web context request servletrequestattributes html servletrequestattributes javax servlet http httpservletrequest rel nofollow spring servletrequestattributes br href http docs spring io spring docs current javadoc api org springframework web context request servletrequestattributes html rel nofollow spring servletrequestattributes guess spring older version jar check libraries conflict add pom xml 

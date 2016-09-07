@@ -1,0 +1,4 @@
+calling overloaded inherited methods super class reference 
+understand behavior classes main result expected complete code syntax found img src http stack imgur np07x png alt enter image description m1 c2 class check bytecode main class bytecode invoke c1 m1 line method c1 understand behavior 
+
+methods named signature superclass takes subclass takes means compiler select method signature call based compile time type variable call runtime class doesnt overriding version version invoked rule method em signatures em computed compile time based compile time types method calls em dispatched em runtime based matching signatures 

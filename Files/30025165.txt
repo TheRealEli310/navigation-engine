@@ -1,0 +1,4 @@
+design application easily swap hibernate jdbc 
+question duplicate href http stackoverflow questions moving hibernate plain jdbc moving hibernate plain jdbc question didnt answer lets application working hibernate decide change back jdbc queries hibernate code dependencies removed completely reason logical step step chronological order 
+
+pointed comment application dependent write steps general add dependencies project plain jdbc additional framework step identify places application hibernate replace hibernate queries jdbc prepared statements test works replacing query change behavior application write correctly familiar database structure avoid mistakes rewriting queries remove hibernate config files dependencies application test works correctly swap hibernate jdbc advantages orm framework frameworks suit href http blog mybatis org rel nofollow ibatis mybatis lets write simplified sql queries easy learn 

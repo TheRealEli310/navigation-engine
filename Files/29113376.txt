@@ -1,0 +1,4 @@
+library de serialize dynamodb dump file data 
+objective read dynamodb dump file line deserialize line pojo modify serialize string write string file step import data back dynamodb file written modified strings imagine dynamodb dump file library factory method accomplish 
+
+strong tl dr strong strong deserialize stx etx save values map strong strong serialize creating string dynamo db format strong ul li strong strong li ul found library automatically wrote de serializer accomplish variable stx etx delimiters ul li split line stx ul li give li ul li li split etx ul li give li ul li li field saved map parsed json string li ul serialization simpler join field stx etx append json string 

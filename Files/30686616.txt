@@ -1,0 +1,4 @@
+calendar settime sets wrong date 
+code sets date midnight june time zone utc greg 
+
+problem form hour letter simpledateformat constructor simpledateformat javadoc href http docs oracle javase docs api text simpledateformat html rel nofollow simpledateformat javadoc hour pm br hour pm letter strong strong javadoc option hour strong strong strong strong string didnt implementation class doubt side effect overlap hour range allowed day pitty constructor permissive illegalargumentexception conclude solutions hour source string parsing strong strong letter pattern constructor hour pattern strong strong string instance strong strong input parse method 

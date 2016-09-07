@@ -1,0 +1,4 @@
+mail base64 encoded string image attachment 
+base64 encoded string posted json spring form add image attachment email attaching file works fine adding base64 string attachment code create attachment part convert base64 string proper image file bytearraydatasource 
+
+youll hav base64 decoder older versions youll library apache commons codec lots 

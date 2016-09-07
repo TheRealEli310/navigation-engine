@@ -1,0 +1,4 @@
+jetty response character encoding 
+set default character encoding responses utf effect responses header id text html responses ideally code xml jetty 
+
+jetty documentation claims utf default lie normal content encoding determined ol li default mapping content type content encoding loaded li ol default file ol start li map defaults iso li ol doesnt default utf dont changing default code change file finds encoding isnt default iso 

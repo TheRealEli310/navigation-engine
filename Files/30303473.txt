@@ -1,0 +1,4 @@
+register jackson jdk8 module restlet 
+register module restlet extension package advantage feature guess accessible converter services find documentation suggests setting module 
+
+eventually pieced variety sources answer works restlet guess refactored restlet wont work versions lt aware solution limited shelf life step create custom jackson converter implements custom requirements create replacing default jackson converter copy replace converter inbound root 

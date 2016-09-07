@@ -1,0 +1,4 @@
+dynamic jndi datasources jpa 
+application multiple databases store data countries object germany spain german subscription stored database spanish subscriptions databases identical structure contents running jboss datasource config ds xml file generated dynamically startup stored jndi datasourcede datasourcees heres work request fetch subscription germany calculate datasource datasourcede jpa hibernate fetch object correct database subscription spanish database dont generate persistence xml automatically create extra persistence units datasources class annotated work set persistence context object dynamically 
+
+achieve strong multi tenancy strong perfectly suitable tutorial question make work main idea em stateless session bean em reference persistence units depending bean lookup call href http www hostettler net blog multi tenancy rel nofollow multi tenancy ejb jpa 

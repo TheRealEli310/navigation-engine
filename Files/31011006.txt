@@ -1,0 +1,4 @@
+inserting timestamp column teradata preparedstatement 
+lets supose folowing table insert table preparedstatement working error change strong start date strong data type timestamp doesnt tight thing time 
+
+found basicaly simpledateformat add timestamp string timestamp object final code hope helps 

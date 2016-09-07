@@ -1,0 +1,4 @@
+clustered wildfly throws lang illegalaccesserror 
+running application wildfly managed domain consists virtual machines servers vm exception occurs console log run application wildfly final final openjdk oracle jdk result application deployed running errors successfully login working servers load balancer round robin href https github undertow io undertow blob master core src main io undertow util httpstring rel nofollow undertow sources github field class declared method change field strange googled internet found similar error place application belongs exeption update patch href https github undertow io undertow rel nofollow undertow server helps avoid problem 
+
+fixed wildfly href https github undertow io undertow commit 8a4505bc1cd5a562115fb419c8fc357c00c132c4 rel nofollow fix 

@@ -1,0 +1,4 @@
+apache poi characters run docx 
+doc files function character paragraph character runs inspect attributes docx files characters run method read word found call character run xwpf wont return character return random length strings document code wont return 1st character paragraph fix 
+
+assuming iterate main paragraphs word document excluding tables headers iterate character runs paragraph iterate text run character time youd iterate character things tabs newlines represented character equivalents things converted hwpf paragraphs runs paragraph similar identical common interface xwpfrun hwpfs characterrun share common interface part code text href https poi apache org apidocs org apache poi wp usermodel characterrun html rel nofollow character run share style formatting information strange ways word works adjacent runs share styles word hasnt merged 

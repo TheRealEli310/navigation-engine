@@ -1,0 +1,4 @@
+soap header unexpected eof prolog 
+add soap header web service responce couple ways cxf outinteceptor bouth methods exception added header error prolog 
+
+fing solution href http cxf apache org faq html faq howcaniaddsoapheaderstotherequest response rel nofollow http cxf apache org faq html faq howcaniaddsoapheaderstotherequest response missing databinding 

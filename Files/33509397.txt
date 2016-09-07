@@ -1,0 +1,4 @@
+compositeitemreader spring 
+spring batch job request xml file chunks writer run compositeitemwriter wondering similar readers org springframework batch item support compositeitemstream apparently delegates exist property putting reader1 reader2 delegates property list compositeitemwriter similarly work convert readers writers advice greatly appreciated 
+
+multiresourceitemreader reads items multiple resources sequentially href http docs spring io spring batch apidocs org springframework batch item file multiresourceitemreader html rel nofollow http docs spring io spring batch apidocs org springframework batch item file multiresourceitemreader html 

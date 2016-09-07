@@ -1,0 +1,4 @@
+good practice scanner scanning consol input close 
+code read objects console dont memory leaks error correct thinking work wanna things works bufferedreader topic alternative read console wanna things scanner works 
+
+statement close attached close standard input stream wont read input code 

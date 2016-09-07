@@ -1,0 +1,4 @@
+passing information annotation play framework user authorization 
+writing application play action carried ensure user permission perform action retrieve current user information request header actions passed authorization essentially problem pass data authorization class solutions type problem 
+
+create custom annotation accepts parameter annotate controller method retrieve annotation make class extend 

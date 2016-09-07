@@ -1,0 +1,4 @@
+google appengine maven application update 
+upload maven appengine project google dev console exception proxy properly set mavens dependencies downloaded succesfuly project working fine local server ideas problem 
+
+problem fact maven reading http https proxy entries file putted http entry passed https proxy trought command line 

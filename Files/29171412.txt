@@ -1,0 +1,4 @@
+camera image getpixel colour android app issue 
+pretty stackoverflow post specific create android application user photo phones camera photo returned image view user press button colour image working fine picture green box image view testing purposes tho green box replaced photo picture rgb values colour green contents replaced code 
+
+inside setting display photo setting variable read rgb values add line 

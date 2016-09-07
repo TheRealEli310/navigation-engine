@@ -1,0 +1,4 @@
+spring jsonprocessingexceptin noclassdeffounderror rest template 
+jackson parser works rest template requesting post error dont wrong send post request body object included jackson dependencies pom xml wrong specifically error occurs line greatly appreciated strong full stack trace strong 
+
+problem dependencies latest spring doesnt support libraries changed bit remove dependencies put change results works make answered 

@@ -1,0 +1,4 @@
+build helper maven plugin adding additional source 
+add additional source folder current maven project build helper maven plugin source folder common classes utility classes relevant pom xml eclipse showing error build path entry missing project click build path source project users commonincludes src missing additional source location users commonincludes src workspace current project eclipse treating location current project eclipse m2e overcome error maven eclipse identify linked source correct location alternate maven greatly appreciated advance 
+
+found alternate works great steps include removed build helper maven plugin pom created maven project added common classes added maven source plugin pom generate sources pom added href http maven apache org plugins maven dependency plugin index html rel nofollow maven dependency plugin copy generated sources desired location projects src main run maven build common classes project common code project 

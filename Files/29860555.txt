@@ -1,0 +1,4 @@
+jna unsatisfiedlinkexception unix stat 
+attempting call linux stat function jna code bap class nasty performs byte array pointer functions successfully problem defined href http linux die net man stat rel nofollow http linux die net man stat pass constant char array restrict attempted google dont search query relevant edit full exception 
+
+looked href http linux die net include sys stat rel nofollow actual declaration preprocessor macro link defined problem simply change function permanent solution supply href http twall github io jna sun jna functionmapper html rel nofollow function mapper library load base label appending 

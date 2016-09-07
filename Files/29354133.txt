@@ -1,0 +1,4 @@
+fix invalid aes key length 
+working web based strong text encryption decryption strong project eclipse struts enter password plain text invalid aes key length error strong service class symaes strong hr strong action class symencrypt strong error 
+
+aes supports key sizes bytes provide amount derive key type ways derive key passphrase pbkdf2 implementation purpose ericksons href http stackoverflow answer paint complete picture encryption decryption similar includes splitting ciphertext hr things mind ul li fully qualified cipher case jvms jce providers defaults mode operation padding dont ecb mode semantically secure li li dont ecb mode send iv ciphertext prefixing iv ciphertext byte array iv automatically created li li send wasnt altered hard implement encryption mac correctly recommend authenticated mode ccm gcm li ul 

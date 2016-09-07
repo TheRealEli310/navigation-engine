@@ -1,0 +1,4 @@
+combining map parallelly downloaded images rxjava observables 
+parallel download list images combining map make observable works images downloaded sequentially loops nice rxjava created observables made observable single image combine flatmap works problems ol li tomap retrieve id key map activity object li li downloads beging processed sequentially parallel fix li ol 
+
+solution reduce operator convert map subscribing observable inside observable good practice feedback solution 

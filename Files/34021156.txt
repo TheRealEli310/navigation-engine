@@ -1,0 +1,4 @@
+return true break loop 
+success basically create method return true false method parameter checks array full pushes parameters cell isnt empty return true checking rest array array full return false code error unreachable statement break advance 
+
+return statement dont loop return statement ends execution method remove statement 

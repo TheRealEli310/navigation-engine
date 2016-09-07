@@ -1,0 +1,4 @@
+xml transformation domsource domresult xslt 
+transform xml domsource domresult xslt xslt code transformation output expect debugged code found resultdoc content expect missing printing result 
+
+problem youre stylesheet processing output means stylesheet applied time xml imagine doesnt give results change code work abel mentions stylesheet processing dont variables 

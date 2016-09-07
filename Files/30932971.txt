@@ -1,0 +1,4 @@
+date days ago 
+days 
+
+subtract days em em current date create clock representation give current case youd lets dependency injection write simpler unit tests fake clock 

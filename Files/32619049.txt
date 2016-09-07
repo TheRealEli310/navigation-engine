@@ -1,0 +1,4 @@
+test app connect https fallback http 
+connect server strong test app connect https fail back http fails strong 
+
+applying check status code 

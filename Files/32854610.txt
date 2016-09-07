@@ -1,0 +1,4 @@
+akka message null 
+playing akka framework version fine issue callback run callback logs fine send null made small generic message problem solved error actor dies produce bag send object null hot restore actor case 
+
+supervision parent actor decide deal failures bugs heres href http doc akka io docs akka fault tolerance html creating supervisor strategy rel nofollow http doc akka io docs akka fault tolerance html creating supervisor strategy information href http doc akka io docs akka general supervision html rel nofollow http doc akka io docs akka general supervision html href http doc akka io docs akka fault tolerance html rel nofollow http doc akka io docs akka fault tolerance html 

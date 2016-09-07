@@ -1,0 +1,4 @@
+event text textfield javafx 
+generate event handle textfields text changed 
+
+interface 

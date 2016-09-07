@@ -1,0 +1,4 @@
+made children entities hibernate envers 
+made object children hibernate envers interested knowing made bars creation modification deletion href https docs jboss org hibernate orm javadocs org hibernate envers auditreader html rel nofollow https docs jboss org hibernate orm javadocs org hibernate envers auditreader html 
+
+create custom event listener extends override methods record ol li li li li li li ol register custom listener entitymanager configuration simple pre class lang xml prettyprint override 

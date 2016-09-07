@@ -1,0 +1,4 @@
+circular array backed queue enqueues wrong offset resizing 
+wrong resizing array queue isnt enqueuing correctly resize class enqueue resizing puts numbers front back 
+
+problems implementation resize array set lets queue capacity ul li create queue initial capacity li li add element li li add element create array copy elements array set em overwrites added element index em li ul hr setting front resizing array problem reorder data copying backingcopy array hr arrayqueue arrayqueuetest div class snippet data lang js data hide true div class snippet code snippet hidden pre class snippet code js lang js prettyprint override 

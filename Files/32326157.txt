@@ -1,0 +1,4 @@
+file found fileinputstream 
+check program scanning contents error dont problem code files understand problem code 
+
+href http docs oracle javase docs api io fileinputstream html rel nofollow docs oracle means fileinputstream actual file system file provided made filehandler calling file create file file system calling file createnewfile 

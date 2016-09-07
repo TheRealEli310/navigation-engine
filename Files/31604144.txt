@@ -1,0 +1,4 @@
+maven properties javadoc 
+expand maven properties scope javadocs maven javadoc plugin 
+
+step process load pom property static field static field set javadoc property create content enable maven filtering application code read properties file set version 

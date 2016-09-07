@@ -1,0 +1,4 @@
+call rpg program 
+call rpg program rpg program receive parameters data structure rpg code call program run program message as400 text change data type variable person as400bin2 as400bin4 as400bin8 as400floa4 as400float8 as400decfloat as400packeddecimal as400zoneddecimal works error run class lot 
+
+problem statement p3arcd parm wp0003 rpg parameter list entries account code parameters shifted bytes passing leading spaces account p0rtn 

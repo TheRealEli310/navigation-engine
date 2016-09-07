@@ -1,0 +1,4 @@
+gson deserialize serialize transient field 
+pojo class field transient transient filed serialized deserialized gson library dont filed serialized file achieve 
+
+stated href https sites google site gson gson user guide toc excluding fields serialization deserialization rel nofollow documentation blockquote default mark field transient excluded field marked static default excluded include transient fields import lang reflect modifier gson gson gsonbuilder excludefieldswithmodifiers modifier static create blockquote exclude fields gson serialization 

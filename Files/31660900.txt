@@ -1,0 +1,4 @@
+convert stream map treemap java8 
+method takes stream map return treemap make return treemap 
+
+assuming combine maps big map semantics merging values key 

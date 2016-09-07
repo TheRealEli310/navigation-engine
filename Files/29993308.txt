@@ -1,0 +1,4 @@
+h2 create database trigger log row change table 
+create database trigger log row change table h2 mysql easily 
+
+declare trigger pre class lang sql prettyprint override h3 implementing trigger jdbc h3 pre class lang prettyprint override h3 implementing trigger jooq h3 added jooq tag question suspect alternative relevant jooq inside h2 trigger pre class lang prettyprint override 

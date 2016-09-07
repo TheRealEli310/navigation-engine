@@ -1,0 +1,4 @@
+httpservletresponse writing resonse writer outputstream 
+adding content httpservletresponse response writer append add content output stream difference strings char sequences bytes content type affected prefer 
+
+byte streams significant compared character streams case internationalization platform stores character values unicode conventions character stream automatically translates internal format local character set western locales local character set bit superset ascii applications character streams complicated byte streams input output stream classes automatically translates local character set program character streams place byte streams automatically adapts local character set ready internationalization extra effort programmer internationalization isnt priority simply character stream classes paying attention character set issues internationalization priority program adapted extensive recoding hope answers question 

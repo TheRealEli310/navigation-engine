@@ -1,0 +1,4 @@
+spring security anonymous 
+problem default behaviour spring security authorize requests provided config call login anonymous user returns forbidden easy change status unauthorized anonymous user secured resource 
+
+solution href https github jhipster generator jhipster blob master app templates src main package config securityconfiguration rel nofollow authenticationentrypoint source code 

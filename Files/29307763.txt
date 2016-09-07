@@ -1,0 +1,4 @@
+maven command run activemq intergation tests 
+run activemq maven clean install starts activemq runs tests included plugin pom xml added mq config file configuring mq details runs successfully test pass run activemq console run maven clean install separate commands separate consoles run activemq clean install command console basically strong mvn clean test install strong automatically fire mq proceed tests commands strong mvn activemq run clean test install strong strong mvn clean test install activemq run strong clean install runs activemq combine commands strong activemq run strong strong mvn clean test install strong 
+
+strong attach maven goal plugin construct strong 

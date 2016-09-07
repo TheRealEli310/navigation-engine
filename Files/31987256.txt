@@ -1,0 +1,4 @@
+good alternative empty abstract class 
+suppose common json pojo empty abstract class avoid duplicated code client classes strong question strong bad practice empty abstract class similar cases code thought generics warnings discourage generics strong edit strong quick response guys comments kayaman id rephrase question implementation kind situation empty interface abstract class bad practice empty interface abstract class 
+
+interface sense empty abstract class prevent classes subclassing class warnings discourage generics id happy links true edit generic approach give empty interface marking concrete response classes limiting allowed types handle allowing handle responses strongly typed answer question whats good alternative empty abstract class refactor redesign 

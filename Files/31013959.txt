@@ -1,0 +1,4 @@
+endorsed dir mechanism working 
+debug happening inside jdk classes strong endorsed strong dir mechanism mentioned href http docs oracle javase docs technotes guides standards rel nofollow doesnt working windows ol li copied class source code li li modified class code adding expect message printed class loaded li li cd run results file generated dir source file li li wrote compiled program li li executed program dont message output program li ol run output missing 
+
+ah found problem classes packaged jar file added ol start li li ol 

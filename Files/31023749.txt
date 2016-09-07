@@ -1,0 +1,4 @@
+amazon s3 upload nohttpresponseexception 
+code uploading files amazon s3 works uploads 1gb produce log message create transfermanager amazons3client doesnt fix 
+
+log message telling transient error sending data s3 youve configured amazons3client transparently retrying request failed upload succeeding isnt necessarily fix packets lost network youre push lot packets waiting retrying deal whats happening wanted turning setting limit chunks file uploaded time sweet spot youre reasonable throughput overloading network 

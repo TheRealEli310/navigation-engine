@@ -1,0 +1,4 @@
+proguard obfuscation issues adding google sign android application 
+google play services library perform sign method involves adding dependencies build gradle app level app level creating release app version set app released works fine creating release version set app crashes startup exception add settings proguard project config doesnt exception appearing 
+
+filed href https code google android issues detail id rel nofollow bug report 

@@ -1,0 +1,4 @@
+update text android textview 
+creating quiz game android activity textview represents points earned displays stored sharedpreference variable increasing user moves activities playing game textview activity displays initial displays final restart application solve issue startactivityforresult activity code final activity code 
+
+override resume method set text textview show 

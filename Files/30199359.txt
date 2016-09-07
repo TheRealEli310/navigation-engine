@@ -1,0 +1,4 @@
+remove objects list exist list 
+list remove objects list1 exist list2 br expected output iterate list1 check element present remove element approach simpler code 
+
+href https docs oracle javase docs api util collection html retainall util collection rel nofollow method exists purpose blockquote retains elements collection contained collection words removes collection elements contained collection blockquote usage efficient naive iteration approach 

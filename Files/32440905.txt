@@ -1,0 +1,4 @@
+swagger showing api annotation jersey application subclass 
+document jersey rest api swagger manage document method api properties set mainapi access host api swagger json main application subclass called mainapi class defines api functionality called firstapi code running tomcat jersey 
+
+swagger configuration json xml code resources package add annotated classes packages swagger auto pick 

@@ -1,0 +1,4 @@
+javafx treetableview expanding items children 
+treetableview items user arrow expand item children reason simple lazy load user clicks arrow program checks items db children item exist added item dont exist arrow disappear 
+
+href http docs oracle javase javafx api javafx scene control treeitem html rel nofollow javadocs show basically override methods lazily instantiate children heres idea adapted 

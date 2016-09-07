@@ -1,0 +1,4 @@
+spring boot elasticsearch configuration 
+working spring boot elasticsearch application profiles application dev properties application prod properties part works fine issue external elasticsearch read application xxx properties works doesnt solve multi environment issue annotations host port variables success convert read values application properties file choose propertysource file based whichever profile run 
+
+remove configuration class properties add dependency add properties change desired environment href http docs spring io spring boot docs current reference html boot features nosql html boot features elasticsearch rel nofollow elasticsearch section spring boot guide file differ put default simply override spring boot based href http docs spring io spring boot docs current reference html boot features external config html rel nofollow load desired properties file hack 

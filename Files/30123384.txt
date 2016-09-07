@@ -1,0 +1,4 @@
+command line arguments passed string array 
+command line arguments passed program string array array single string flexible adaptable command line arguments passed single string program design advantage achieved string array single string 
+
+ol li programmers familiar format li li green team decided pass parameters li li separating command line elements platform dependant shell passing command line array strings creating portable cross platform code li ol 

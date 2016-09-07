@@ -1,0 +1,4 @@
+execution shutdown terminate threads 
+sample created mimic situation encountering related executionservice shutdown process terminates thread error messages tomcat server 
+
+initiates shutdown process thread pool current running tasks finish task finish initiates shutdown interrupts running threads task handling interrupted exception running loop simply share common boolean tasks caller code calling boolean task 

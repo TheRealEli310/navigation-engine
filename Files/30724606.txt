@@ -1,0 +1,4 @@
+manually sharpen image convolveop 
+understand process images manually school project wont convolveop manually read sharpen kernel pixel pixel sum neighbors correct wrong problems approach pixel changing kernel obtain mess pixels red pixels original image terribly wrong supposed getrgb fully understand type image processing works update pointers steffen recommendations created dimensional array 3rd dimension track rgb values pointing mistake 
+
+multiply rgb values directly check answer href http stackoverflow questions understanding bufferedimage getrgb output values understanding bufferedimage getrgb output values decompose image arrays convoloution build channel image single channels sharpening kernel addition edge filter identity filter identity edge filter scale strenth sharpening scale edge filter dividing edge filter identity assumption pixel sum neighbors correct pixel pixel sum neigbors 

@@ -1,0 +1,4 @@
+leaf nodes tree 
+suppose node tree leaf nodes ancestor node defined treenode 
+
+recursion ul li node leaf return li li return leaf nodes children li ul tested 

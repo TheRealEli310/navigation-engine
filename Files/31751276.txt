@@ -1,0 +1,4 @@
+unable initialize nested fragment due abstract rotation 
+object hierarchy fragments nested taking case nested class called works fine change orientation displayed crash abstract initialize originally reference member variable called defined making luck additionally adding default constructors waste instantiated joy finally attempted create implementation advised href http stackoverflow questions fragments empty constructor fragments empty constructor luck incorrectly android instantiate base class derived class strong edit strong requested view 
+
+dont inflate abstract xml replace fragment load fragment layout runtime screen rotation wont fragment handles 

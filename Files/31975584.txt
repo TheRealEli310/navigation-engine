@@ -1,0 +1,4 @@
+mock object initialized method 
+obj obj1 obj2 obj2 attribute obj1 service initialized obj1 obj2 test mock obj2 obj1 getobj2 thenreturn obj2 obj2 mock object myobject2 test null mocked myobject2 mocked myobject2 test 
+
+mockito reflection mock local variable problem dead end 

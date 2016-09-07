@@ -1,0 +1,4 @@
+nio socketchannel write server times client receive result 
+exercise requires making strong server client chat program strong moment program works simple client send message server server track clients em echo em message back clients parts server side code client side code problem facing client works send message server client return em em message sends responses server empty server send back empty message attempts debug includes ul li check messages client reach server li li log result shown log result em normal em li ul hope guys 
+
+ol li rid test client smoking cpu block god intended li li server sending lines line terminators isnt block forever end stream exception occurs li ol 

@@ -1,0 +1,4 @@
+android getmeasuredheight wrong 
+xml view height method onmesure mviewwidth 600px mviewheight wrong 1626px br give pointers br tks lot 
+
+return desired height child necessarily height taking measured setting width height called multiple times reasons intent height width view desires constraints called parent match asked views valid layout pass 

@@ -1,0 +1,4 @@
+package scanning skipping mapper files jar file 
+package scanning skipping mapper files packaged jar file things work properly run project eclipse command line exploded jar export app eclipse jar run command line stack trace skipping application jar doesnt inside goodies ideas 
+
+solve problem kind mybatis user group issue arises add directory entries checkbox unchecked jar file specification step exporting project jar file eclipse ensuring checkbox checked solved problem 

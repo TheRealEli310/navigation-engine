@@ -1,0 +1,4 @@
+setting spark cassandra 
+setting spark access cassandra throwing noclassdeffounderror jar files added spark cassandra connector assembly m1 snapshot jar amp spark core incubating jar spark cassandra connector assembly m1 snapshot jar build scala typing scala version command prompt showing scala code runner version accessing spark spark shell issue access cassandra column family spark shell working fine reason error 
+
+include href http mvnrepository artifact org scala lang scala library rel nofollow scala jar class path maven download jar include project build properties 

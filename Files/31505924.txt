@@ -1,0 +1,4 @@
+socket test returning null 
+make simple server client program eclipse run program consoles output null happening read common problem created instance server create instance problem read root access port higher error server code client code 
+
+code works fine reason client printing due receiving input em em lets describe scenario youre communicating high level programs server client server actively listening input client sends input server process code structured writing server channels communication socket input output recall sending data server server isnt sending data client means ul li server care strong input strong strong output strong li li client care strong output strong strong input strong li ul code client superfluous reason client input coming messages em em suddenly show strange thing 

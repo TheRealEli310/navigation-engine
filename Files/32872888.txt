@@ -1,0 +1,4 @@
+unit testing clients observables 
+method id test method execute http requests asynchronously merge end http request executed result previous requests id verify calling method makes requests request id test pass mockito spy running web calls executed asynchronously test executes assertion subscriber causing test fail read return methods results test running indefinitely running unit tests local jvm achieve preferably modify signature 
+
+href http www introtorx content v1 testingrx html rel nofollow found retrieve static basically injecting client class replaces static calls production implementation delegates back tests create inject class method testing works 

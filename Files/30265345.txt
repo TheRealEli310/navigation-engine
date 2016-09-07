@@ -1,0 +1,4 @@
+gettextcontent returns text child elements 
+xml parsing easier ways parse validate xstream text content single element piping results console text strings returns text elements whitespace id split spaces throws jihar mentioned eclipse doesnt recognize implement inherit add capability heres code heres appendage variable full finally console output youll stating id include element data whitespace heres console output 
+
+purposes individual elements xpath requires pre existing knowledge structure validate xml schema docs complicated heavily nested dont issue finish working current project ill post links iterating child nodes checking text nodes ian roberts suggested dont xml 

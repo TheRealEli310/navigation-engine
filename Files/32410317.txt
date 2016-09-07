@@ -1,0 +1,4 @@
+path saved file unit test junit 
+application method class saves file unit test strong junit strong run class execute method file created root folder project path dynamically method delete 
+
+simplest make code testable allowing inject base directory create files test create temporary empty directory pass constructor call method check files delete test feature writing current directory doesnt good idea 

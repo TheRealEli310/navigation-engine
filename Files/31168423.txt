@@ -1,0 +1,4 @@
+null pointer exception invoking virtual method 
+design basic chat app app build errors click button emulator app crashes log shows error strong mainactivity strong strong jsonparser strong strong loginfragment strong strong userfragment strong strong chatactivity strong 
+
+means file userfragment line class em load em class em ibm admin chat userfragment em method em length em called object null suppose line method parameter em json em equals strong null strong em doinbackroung em method em jobj getjsonarray em returns strong null strong hard happened jsonparser getjsonarray suppresses exceptions returns null lines logcat means inside block getjsonarray null reference topmost part getjsonarray exceptions suppressed em em variable strong null strong carefully debug code 

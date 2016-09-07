@@ -1,0 +1,4 @@
+spring application loads 
+spring work application loads time starts context problem internet research context xml code traderapplication class 
+
+mention comments working removing springapplication run traderapplication class args removing spring boot application assume question tag spring boot wanted alternative configure beans xml didnt list pom xml build gradle important remember components registered context xml automatically configured spring boot register xml depending items starters build file 

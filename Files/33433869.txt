@@ -1,0 +1,4 @@
+spring junit testing dependency injection function 
+springs dependency injection junit test case testing class names spring autowire variables class test configurationfile problem 
+
+spring configuration class beans definitions find strong test class strong strong configuration class strong declare bean annotated methods beans managed spring container properly handle returned types beans parameters present context 

@@ -1,0 +1,4 @@
+chinese sentence segmenter stanford corenlp 
+stanford corenlp system command working great small chinese texts train mt system requires segment input parameters system outputs empty file run tool annotator dont input parallel corpora sentence line ssplit split sentences perfectly create problems parallel data system segmentation input sentence line 
+
+stanford segmenter stanford segmenter segmenter suitable href http stackoverflow questions good open source freely chinese segmentation algorithm good open source freely chinese segmentation algorithm hr continue stanford nlp tools pos tagging 

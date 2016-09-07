@@ -1,0 +1,4 @@
+eclipse validating struts xml file 
+installed eclipse import project struts2 importing project warning struts xml file file validated connection problem replaced jar files doctype times didnt work found eclipse showing error wrong file eclipse clean project takes lot time clean struts xml file lots difficulties 
+
+change doctype extract struts dtd file struts2 core jar dtds folder create inside web inf folder 

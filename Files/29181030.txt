@@ -1,0 +1,4 @@
+libgdx image setdrawable working 
+changing actor image subclass texture runtime doesnt work texture argument constructor call drawn searched solution work code image constructor ultimately sets drawable und calls setsize circuitelement extends image 
+
+call super draw draw method calling setdrawable setsize 

@@ -1,0 +1,4 @@
+delay execution code threads android 
+delay execution code lets seconds thread handler good approach nextplayerturn method calls methods animations implement onanimationend listeners call methods delay execution code concern time code creating thread background dies question thread die runonuithread method matter long takes code runonuithread execute 
+
+blockquote good approach blockquote efficient performs delay control back main application thread saves forking thread control back main application thread widget ui blockquote concern time code creating thread background dies blockquote thread ends blockquote thread die runonuithread method matter long takes code runonuithread execute blockquote id phrase thread dies calls asynchronous takes time background thread 

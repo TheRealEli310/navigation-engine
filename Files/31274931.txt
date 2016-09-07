@@ -1,0 +1,4 @@
+match table alias runtime databasemetadata 
+entries determine specifically table alias match call 
+
+reviewing jdbc apis href https docs oracle database jajdb oracle jdbc oracledatabasemetadata html rel nofollow oracle jdbc oracledatabasemetadata pretty retrieve information directly href http docs oracle javase docs api sql databasemetadata html rel nofollow databasemetadata stock oracle jdbc drivers driver specific ways db2 sql server didnt check cheat databasemetadata object run database specific queries retrieve information code successfully tested jdk oracle xe bundled jdbc driver db2 express bundled jdbc driver sql server express microsoft jdbc driver sql server query based href http sqlblog blogs john paul cook archive script list synonym contents aspx rel nofollow http sqlblog blogs john paul cook archive script list synonym contents aspx 

@@ -1,0 +1,4 @@
+client authenticate cas server 
+written client app href https wiki jasig org display casum restful api rel nofollow https wiki jasig org display casum restful api tgt service ticket validate service ticket cas app service ticket verify works browser works service ticket work app response default login page cas browser works identical url testing browser app modified cas config extend life tgt service tickets hour validity count till expiration problem problem cookies 
+
+problem resttemplate stateless statefullresttemplate href https github folkengine statefulrestclient git rel nofollow https github folkengine statefulrestclient git 

@@ -1,0 +1,4 @@
+serialize runnable object 
+serialize runnable object java6 store runnable object file achieve class class container previous problem strong io notserializableexception strong line code stack trace runnable creation advance edit added sample code br edit2 added stack trace br edit3 added runnable creation 
+
+comments issue related kdm class wasnt serializablerunnable anonymous class enclosing class serializable 

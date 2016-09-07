@@ -1,0 +1,4 @@
+cyclic dependency anonymous class parent class wrong 
+snippet code cyclic dependency anonymous class class nicely reclaimed garbage collector 
+
+blockquote blockquote completely fine field referenced anonymous class problem local variable effectively final cyclic dependencies classes common dependency graph small case doesnt pose problems fact anonymous class doesnt matter blockquote nicely reclaimed garbage collector blockquote thing wary memory leaks classes static class implicit reference enclosing object means create lots lots instances class expect instances outer class objects garbage collected means case leak references map instances gced hr related notes ul li youre youre working multithreaded program case wary synchronization visibility issues field li li make field final li li option create named class include field class li ul 

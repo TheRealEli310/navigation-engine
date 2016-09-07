@@ -1,0 +1,4 @@
+spring send message websocket clients 
+building webchat spring boot rabbitmq websocket poc stucked point websockets br ws clients connect specific endpoint message arrives server send response clients searched similar didnt found message arrives process rabbitmq log send client 
+
+answer add ws dependencies pom xml create ws endpoint stomp clients connect simply wire ws messenger components send message 

@@ -1,0 +1,4 @@
+contactless javacard security implementation nfc device 
+employee nfc android device report location reading contactless javacard fixed wall accessible ol li employee scans javacard smarthphone sends timestamp li li contactless javacard receives timestamp adds uid encrypts stored publickey sends back li li android receives encrypted message relays server holds private key stay queue due lack connectivity li li server decrypts message checks information valid reports back li ol jcop31 card dual interface good match idea avoid card tag cloning costs sort javacard implementation love hear feedback sequence events architecture 
+
+ol li signature sufficient usecase authentic timestamp encryption suppose li li oncard key generation proper li li uid jcop inside jc applet jcopx nxp version required feature li ol 

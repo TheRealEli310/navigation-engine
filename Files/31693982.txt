@@ -1,0 +1,4 @@
+liberty profile injecting ejb servlet 
+googled luck understand liberty profile inject ejb servlet put war war deployed fine call servlet error href http stackoverflow questions injecting ejb servlet link comment managedbean null pointer exception error code 
+
+shouldnt servlet managed bean dont injection work servlet configure br remove liberty add question lacking features br feature remote interfaces binding bindings depending config bean binding message log update br case app lookup works details ul li chapter developing applications remote ejb href http www redbooks ibm redpieces abstracts sg248076 html rel nofollow websphere application server liberty profile guide developers redbook li li infocenter href http www ibm support knowledgecenter sseqtp ibm websphere wlp iseries doc ae twlp ejb remote html lang en rel nofollow enterprise javabeans remote interfaces liberty profile li ul 

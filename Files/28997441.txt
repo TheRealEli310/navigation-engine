@@ -1,0 +1,4 @@
+hive startup error terminal initialization failed falling back unsupported 
+downloaded hive modified hadoop home actual hadoop path bashrc added env variables starting hive bin hive error 
+
+problem working link href https cwiki apache org confluence display hive hive spark 3a started https cwiki apache org confluence display hive hive spark 3a started ul li hive upgraded jline2 jline 9x exists hadoop lib li ul follow steps ol li delete jline hadoop lib directory pulled transitively zookeeper li li export hadoop user classpath true li ol 

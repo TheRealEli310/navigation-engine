@@ -1,0 +1,4 @@
+h2 db spring boot hibernate generate db schema 
+spring application autogenerate db schema tables read amp topic set db url blockquote h2datasource seturl jdbc h2 mem tmp db init create schema exists gpstracker blockquote annotated entities blockquote entity br table tblgps schema gpstracker blockquote db schema created log output hibernate create tables find schema wrong suggestions strong log output strong strong entitymanagerfactory strong strong datasource strong pvgoddijn remember find code guess needed return sth good luck find code days 
+
+creating datasource set hbm2ddl auto property order database created updated startup set property hibernate cfg xml file values validate update create create drop additional information properties found href http docs jboss org hibernate core reference en html session configuration html configuration optional rel nofollow http docs jboss org hibernate core reference en html session configuration html configuration optional 

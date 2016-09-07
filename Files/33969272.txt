@@ -1,0 +1,4 @@
+javafx dynamically change controller fxml file 
+experts button couple controllers make code short bottom boderpane made buttons changing view center borderpane button clicked changed view located center borderpane click check button expected massage displaymassagelabel makes error solve problem sample codes simply made changecontrollertestmain main fxml maincoltroller startdisplay fxml menu1displaycontroller menu1display fxml fxml files controllers menu2 menu 1s pleas errors 
+
+add function menu1displaycontrollers menu1 menu2 call function maincontorller 

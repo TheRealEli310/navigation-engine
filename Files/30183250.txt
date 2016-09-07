@@ -1,0 +1,4 @@
+noclassdeffounderror unsupportedfileformatexception working excel sheet 
+writing program reads xlsx file give output csv format code error included jars ul li dom4j jar li li poi jar li li poi ooxml jar li li poi ooxml schemas jar li li xmlbeans jar li ul checked file format xlsx directory dont understand problem remove error 
+
+covered href http poi apache org faq html faq n1019c apache poi faq page blockquote strong mix poi jars versions strong supported poi jars version combination poi jar poi ooxml jar supported fail work unpredictable ways blockquote list versions wont work ensure poi jars version id suggest grab href http poi apache org download html latest poi release download page writing consistent set jars 

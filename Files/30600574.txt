@@ -1,0 +1,4 @@
+guice module instantiate multiple fields class 
+class create instance regular constructor externalservice owned provided guice module externalservicemodule make module instantiate externalservice foo class passing fooname barobject 
+
+understanding correctly instance pass foo class constructor call hr guice href https github google guice wiki assistedinject rel nofollow strong foo strong hr strong mymodule strong hr strong myapplication strong 

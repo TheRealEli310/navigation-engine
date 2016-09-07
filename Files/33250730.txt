@@ -1,0 +1,4 @@
+efficient continuously update ui thread android 
+experimenting threading android development creating stop watch basic execution work fine emulator ran phone efficient pretty nexus phone fine question efficient update ui thread continuously stop watch running asynctask updates ui onprogressupdate imagine asynctask isnt choice runnable ran worse read handler class confident answer creating executing asynctask asynctask fragment class extends asynctask update responses suggestions performance terrible real device created bare bones bare bones version keeping ui thread updating efficiently loops times handler update ui thread 
+
+post runnable thread updates view omitted stopping logic short putting back matter testing reposting runnable 

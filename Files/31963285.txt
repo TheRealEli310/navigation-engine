@@ -1,0 +1,4 @@
+spring jar loading property file 
+created client application consumes restfull web service maven project defined url web service properties file run client separately works fine proper result created jar application added build path web application deploy web application error unable read property file jar code work separate project jar web application reading properties file spring 
+
+classpath problem reaching properly location file documentation href http docs spring io spring docs spring framework reference html resources html resources classpath wildcards rel nofollow http docs spring io spring docs spring framework reference html resources html resources classpath wildcards classpath inside src main resources src test resources src main src test 

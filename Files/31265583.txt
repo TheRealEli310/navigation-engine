@@ -1,0 +1,4 @@
+final multi catch statement 
+give final modifier exception catching multiple type exceptions single catch block 
+
+dont mark exception final dont mark final reassgined catch block em multi catch em statement heres relevant section href http docs oracle javase specs jls se7 html jls html jls rel nofollow jls blockquote exception parameter multi catch clause implicitly declared final explicitly declared final compile time error exception parameter implicitly explicitly declared final assigned body catch clause blockquote 

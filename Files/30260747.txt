@@ -1,0 +1,4 @@
+hibernate performance issue migration 
+project migrated jsf1 hibernate3x jsf2 hibernate4 added primefaces fetching list records database taking seconds migration taking mins migration critical issue table fetch columns records sql server database development environment eclipse kepler strong hibernate cfg xml strong strong implementation strong blockquote strong query scroll strong strong query list strong issue remains blockquote referred links solved issue href http stackoverflow questions migration hibernate slows startup migration hibernate slows startup href http stackoverflow questions hibernate query list slow hibernate query list slow href http stackoverflow questions simple hibernate query returning slowly simple hibernate query returning slowly hints hbm xml file strong hbm xml strong 
+
+modifying lazy works reduced minute changed strong lazy false strong strong lazy true strong added codes calling constructor cleaning code rid performance issue 

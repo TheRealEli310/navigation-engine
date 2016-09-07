@@ -1,0 +1,4 @@
+extract noun phrases parsed text 
+parsed text constituency parser copy result text file extract nounphrases np text file wrote code extract np line extract noun phrases code output code takes np line closing parenthesis extract nps text 
+
+writing tree parser good exercise results easiest functionality stanford nlp tools href http nlp stanford software tregex shtml rel nofollow tregex designed things change final loop 

@@ -1,0 +1,4 @@
+include hibernate jars web inf 
+j2ee project hibernate maven hibernate part works fine classes hibernate tools servlet suppose points hibernate classes web inf assume hard copy jars web inf directory sorted hibernate classes imported maven eclipse project explorer projectname resources libraries maven dependencies directories project workspace hard drive jars supposed located hard drive practise include web inf hoping solve issue thx advance edit pom xml file 
+
+edit pom xml run command pom xml builds web application war package hibernate included folder 

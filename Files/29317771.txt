@@ -1,0 +1,4 @@
+spring mvc app application level exception handler 
+moving spring web app spring exception handler works catching exceptions entire applicaton move exception stack trace fix 
+
+upgrading spring change jackson jackson jackson package structure migrated org codehaus dont fasterxml jackson classpath result youre missing jackson altogether outputting em find acceptable representation em message logs youre maven include em jackson databind em transitively include em jackson annotation em em jackson core em bit details href http stackoverflow questions spring restcontroller json characteristics acceptable spring restcontroller json characteristics acceptable request quot accept quot headers 

@@ -1,0 +1,4 @@
+set clustered vert environment junit test 
+junit test set clustered vert environment works fine run code method method run method br method invoked beeing written handle method work setup method main 
+
+test isnt set properly due asynchronous behaviour vertx ul li code inside starting vertx asynchronous vertx clusteredvertx simply doesnt time start vertx li li printsomething method starts clusteredvertx call running vertx test ends immediately junit stops test process killing started vertx li ul encountered issue time ago situation set vertx properly wait test method finish setup accomplish waiting kind mechanism awaitility href https github jayway awaitility rel nofollow https github jayway awaitility main points ul li set variable wait setup vertx li li handler clusteredvertx call set variable true li li finally wait variable set test method li ul hope helps understand main point find workaround 

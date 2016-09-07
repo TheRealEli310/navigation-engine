@@ -1,0 +1,4 @@
+start activemq tomcat starts 
+configure j2ee application invoke activemq service tomcat server aware embedded broker start activemq start tomcat current code works fine remove main method code run tomcat runs consumer 
+
+tim bish correct timer receiver listen hour make program terminate case start consumer program change receivejms method program listen upto hour long program run remove block recommended close application standalone check href http www tutorialspoint lang runtime addshutdownhook htm rel nofollow runtime shutdown hook release resources program terminates consumer web application close 

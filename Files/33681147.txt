@@ -1,0 +1,4 @@
+recursively computing pow brute force 
+people implement similar solutions confusion advantage solution comparing brute force multiple times 
+
+quicker suppose calls turn calls odd power time final answer returned computing required multiplications compared solution requires general reduces time complexity power base 

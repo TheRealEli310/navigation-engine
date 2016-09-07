@@ -1,0 +1,4 @@
+zeromq disappearing messages 
+application acting server client applications written communicating zeromq lazy pirate pattern server router socket implemented jeromq clients connect send messages experienced lost messages multiple clients sending messages time single client doesnt problem implementing multiple client single server setup strong update client server exhibiting behaviour strong server client run server single client messages arrive run clients simultaneously messages arrive full appears closing socket client stopping router socket server receiving messages briefly theory 
+
+couldnt solve issue moved zeromq interface case helps things worked definite rapidly opening closing request sockets caused undesirable behaviour lost messages router socket end problem exacerbated poorly performing server cpu didnt server fast multi core machine 

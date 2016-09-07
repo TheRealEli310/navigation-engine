@@ -1,0 +1,4 @@
+move bullet slowly 
+developing game fighter moves left shoots shooting part loop slow speed user bullet wasnt sleep good answer idea paintcomponent calss bullet calss 
+
+finally adding timer bullet class repaint paintcomponent method 

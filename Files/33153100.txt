@@ -1,0 +1,4 @@
+create retrofit response object unit testing retrofit 
+rxjava retrofit create unit tests cover app receives specific responses issue retrofit nice creating retrofit response object reflection creates okhttp response retrofit response 
+
+href https github square retrofit blob master retrofit src main retrofit response class static factory methods create instances falls em effective item static factory methods constructors em 

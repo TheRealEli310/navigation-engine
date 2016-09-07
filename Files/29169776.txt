@@ -1,0 +1,4 @@
+web application firewall apache tomcat 
+modsecurity prevent xss attacks web application waf apache confused install requires apache httpd server apache tomcat pre requisite modsecurity apache higher waf apache tomcat integrate apache apache tomcat server difference apache apache tomcat server 
+
+apache tomcat http server written called apache tomcat apache tomcat servlet container web applications http server mod security tomcat youll install apache reverse proxy front tomcat configuring mod security deal false positives difficult good standard ruleset final word xss sql injections suggestion avoid xxs tomcat apply encode html html attributes javascript dynamic html pages accomplish library esapi href https www owasp org index php category owasp enterprise security api rel nofollow https www owasp org index php category owasp enterprise security api approach thymeleaf presentation engine jsp automatically encode output effective xxs 

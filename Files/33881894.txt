@@ -1,0 +1,4 @@
+switching views gluon charm 
+build application multiple views successfully added views switching view error project structure href http stack imgur 3o1ma png rel nofollow img src http stack imgur 3o1ma png alt project structure switch homeview semesterview switch courseview views empty classes extend fxmlview class project structure comments sampe app heres line fxml file points controller class 
+
+comments sample detailed href http gluonhq comments app started gluon charm rel nofollow post explaining gluon plugin generates project add code resources explains href http afterburner adam bien rel nofollow afterburner framework based convention configuration view define ul li src main directory package classes li li src main resources directory package files li ul project notice defined reason framework fails exception expecting added rename classes fxml file 

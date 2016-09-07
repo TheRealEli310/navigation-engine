@@ -1,0 +1,4 @@
+ant jar error execute failed io ioexception run program aapt error file directory 
+compile simple library unity running ant jar message strange compiled class successfully android studio related packages tools android noticed aapt located adt bundle sdk platform tools directory build tools directories including path running mac os date version android studio class compiled upgrading yosemite suggestions fix issue suggestions apply linux opposed mac os 
+
+updated android sdk tools caused issue add lines android sdk path tools ant build xml starting line solve 

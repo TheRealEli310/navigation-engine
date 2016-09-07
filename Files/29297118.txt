@@ -1,0 +1,4 @@
+avoid beancreationexception autowire field error 
+spring test configuration profiles created base class takes base url extended test classes run normal maven clean install tests works run clicking method 
+
+forgot choose profile class add line initialized bean strong edit strong add property file variable myprofile eventually dont change time time apply logic order load property file strong edit strong doesnt work file loaded assigment annotation el add property file putting annotation code 

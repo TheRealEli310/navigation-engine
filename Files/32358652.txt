@@ -1,0 +1,4 @@
+rescuing swallowed exception 
+3rd party library swallowed exception change library packaged jar bring exception back dont rethrow stacktrace exception message work dont reflection strong debugger find whats happening wouldnt exception runtime logging stuff strong 
+
+strong reflection aop strong main idea throw unchecked exception constructor limitations end answer hope fits replace version create someexception file original package src directory unchecked inherit runtimeexception error wrapper carry accross ugly 3rd party catch code eventually rethrow original someexception test green original thrown strong limitations strong solution work ul li replace classes href http stackoverflow questions replacing class replacing class li li 3rd party method horrible motivate ignore full 3rd party library li ul 

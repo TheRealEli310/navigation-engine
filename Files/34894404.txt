@@ -1,0 +1,4 @@
+opencv netbeans ubuntu 
+develop small project image keypoint recognition matching compare images opencv library netbeans installed opencv add library netbeans named opencv giving classpath click netbeans project add opencv library libraries run opton gave compile programme compiled successfullly shows run programme error error line googled lot couldnt resolve problem beginner opencv 
+
+finally resolved issue native library installation path reinstall opencv set native library path files fllowed tutorial foe opencv installation href http milq github io install opencv ubuntu debian rel nofollow http milq github io install opencv ubuntu debian eclipse link href http docs opencv org doc tutorials introduction eclipse eclipse html rel nofollow http docs opencv org doc tutorials introduction eclipse eclipse html 

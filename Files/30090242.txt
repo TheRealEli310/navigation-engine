@@ -1,0 +1,4 @@
+lang class generics wildcards 
+code compile error blockquote incompatible types converted blockquote dont wildcard doesnt capture 
+
+subtyping relationship explained answer href http stackoverflow title convert list lt list gt list lt list lt gt gt stack overflow em convert em essentially doesnt compile sideways conversion casting cast deal raw bounded annoying primarily warnings opens possibility error happen depends youre suppose hr tend problem type system ul li possibly special rule type argument type argument converts doesnt make sense perspective existing subtyping defined supertype makes sense perspective type safety li li li li clever thing people smarter li ul interesting thing completely artificial fact preventing unchecked cast warning sign generics guess 

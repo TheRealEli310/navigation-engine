@@ -1,0 +1,4 @@
+sendredirect client side server side 
+theory strong em request dispatch server redirect client em strong br br arent methods servlet happen server side br misunderstood client server side br give clear explanation examples br 
+
+redirect signal server sends client means http response header http code header response server client receives uri location header fire request blockquote request dispatch server redirect client blockquote redirection initiated server actual redirection client side client responsible send request 

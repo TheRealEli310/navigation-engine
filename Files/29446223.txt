@@ -1,0 +1,4 @@
+evaluating trigonometric expressions 
+insert trigonometric function console work sin 2x 3log enter expression string processed 
+
+href http www objecthunter net exp4j apidocs index html rel nofollow exp4j library extensively projects solving exact problem facing case user inputs console build expression inputs ol li enter expression evaluate argument expressionbuilder constructor li li enter strings represent variables expression input variables method add strings keys map step li li enter variable input setvariable methods collect variable values values map created step iterate map call setvariable key dont variables present expression hand li ol 

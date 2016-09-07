@@ -1,0 +1,4 @@
+lossy int char occurs reading text file 
+implement shunting algorithm read character determine operand operator input file multiple lines infix expressions convert postfix expressions evaluate read character line evaluate proceed line error blockquote error incompatible types lossy conversion int char blockquote portion appreciated 
+
+couple issues code ol li returns youve reached end stream youre handling li li reading text line call reads char line li ol fix problem 

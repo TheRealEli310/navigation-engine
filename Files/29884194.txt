@@ -1,0 +1,4 @@
+represent passing time 
+creating simple simulation gas station homework total duration simulation week filling cars approximately minutes depending type fuel cars collected queue question implement methods idea simulate period time methods javafx framework task cars represented movements methods dispensers 
+
+method accepts millisecond basically run update calculate long sleep update measure real time elapsed make class inside run method stick loop method update cars nano time start end loop subtracting elapsed time subtract elapsed time time update sleep thread code 

@@ -1,0 +1,4 @@
+repartition cassandrardd apache spark 
+strong node cassandra strong cluster strong spark workers strong strong core strong strong 2gb ram strong spark application fetch entire data cassandra table 300k rows aggregation taking lots time fetch data cassandra spark ui strong spark stage partition strong executing fast seconds taking long time min repartition cassandrardd increase number tasks distribute tasks workers didnt find solution 
+
+adjust number tasks created cassandrardd adjust spark cassandra input split size determines actual spark partitions made controls number partitions rows spark partition estimate guaranteed exact number tokens spark partition continue partitions acting slower investigate nodes health partition check hotspots 

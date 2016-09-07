@@ -1,0 +1,4 @@
+construct util collection xstream 
+troubles unmarshalling xml xstream library related class util collection class order store attributes understand problem xstream unable change class arraylist due reasons unmarshal xml xstream search libraries solution 
+
+xstream href http xstream codehaus org javadoc thoughtworks xstream converters collections collectionconverter html rel nofollow supports ways ol li replace li ol test work case ol start li add default implementation test work li ol 

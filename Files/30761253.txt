@@ -1,0 +1,4 @@
+remove default security password spring boot 
+added custom security config application spring boot message default security password log file remove default password spring boot recognizing security policy 
+
+found solution excluding strong securityautoconfiguration strong class 

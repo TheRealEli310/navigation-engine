@@ -1,0 +1,4 @@
+exception error generated main method found 
+sake knowledge cases assume class package strong classa strong strong classb strong executing produce output change classb strong classb strong compile run output totally surprising main method kindly explain weird behavior strong strong answers word override static methods 
+
+case youre hiding method youre defining subclass case didnt youll inherent main href https docs oracle javase tutorial iandi override html tutorials overriding hiding blockquote subclass defines method signature method em superclass em method em subclass em strong hides strong em superclass em blockquote 

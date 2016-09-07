@@ -1,0 +1,4 @@
+invalid json parse request 
+copy parses curl rest api code shown documentation href https www parse docs rest guide queries query constraints rel nofollow essentially find users item table items based selected users objectid testing running program application code error invalid json error response data urlencode curl correct completely wrong matters okhttp code ugly work getuserid method works correctly returns correct user id string appreciated 
+
+dont youve understood data urlencode option curl request request curl line sends encoded version request documentation youre send post request send request data url encoded 

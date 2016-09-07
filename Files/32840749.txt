@@ -1,0 +1,4 @@
+exclude resource file spring boot jar 
+plugin jar generating multiple resource files configuration thing generate release customers exclude development test files exclude resource file plugin maven plugin scripts resource management val replacing fails packaging added pom works 
+
+maven spring boot plugin maven resource plugin maven profiles make option inside resource element create profile environment filter files make execute maven proper profile view examples maven resource plugin href https maven apache org plugins maven resources plugin examples copy resources html rel nofollow maven resource learn profiles href http maven apache org guides introduction introduction profiles html rel nofollow profiles 

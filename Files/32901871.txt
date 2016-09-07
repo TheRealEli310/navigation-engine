@@ -1,0 +1,4 @@
+javax naming noinitialcontextexception instantiate class 
+implement simple ejb application href http www tutorialspoint ejb ejb create application htm rel nofollow tutorialpoint jboss eclipse ide created project ejb error guide 
+
+add jar class classpath client code href http www findjar jar jboss jars jbossall client jar html jsessionid 4fba53d404613d7efba3aa32416c3746 rel nofollow make jar jboss version mismatch error 

@@ -1,0 +1,4 @@
+jboss missing unsatisfied dependencies mysql driver 
+setup database reg schema amp downloaded jobss eap wanted make configuration jndi made standalone xml standalone xml added module xml amp mysql connector jboss home modulessystemlayers asecommysql folder module xml error starting jboss blockquote missing unsatisfied dependencies service jboss jdbc driver mysql missing dependents service jboss driver demander jboss jdbc ds reg nontx service jboss data source jboss jdbc ds reg nontx blockquote 
+
+miss drivers section stated error blockquote missing unsatisfied dependencies service jboss jdbc driver mysql missing blockquote datasources section drivers block oracle db mysql follow pattern module xml pointing oracle defined 

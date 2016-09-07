@@ -1,0 +1,4 @@
+chromedriver path hardcoded 
+selenium tests path chromedriver hardcoded means export program runnable jar file test work find hardcoded path computer make chromedriver part jar runs br initialize code hardcoding tests run chrome ff running jar 
+
+solution include exe jar dont forget include buildpath application read content exe jar create copy exe file temp directory href https commons apache org proper commons io rel nofollow apache commons io reference exe file good 

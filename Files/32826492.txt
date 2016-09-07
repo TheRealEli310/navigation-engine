@@ -1,0 +1,4 @@
+single database connection connection task 
+server postgresql database background process queries inserts rows database times servlet queries database request inserts row wondering separate instances share single instance matter postgresql jdbc driver internally sending requests unified pool thing make instance servlet request thread share instance servlet thread open entire time separate threads create instances 
+
+understanding defer task container manage connection pooling youre servlets running servlet container major servlet containers aware provide connection pool management h2 h2 ul li href http stackoverflow questions manage database connection servlet manage database connection servlet li ul 

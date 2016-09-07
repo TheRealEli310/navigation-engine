@@ -1,0 +1,4 @@
+store byte higher 
+assignment bytes make calculations binary values return calculated stuff byte array problem byte stores values convert hex working exercise 
+
+understanding question perform calculations amp bytes youll dealing values assign higher byte overflows byte amp youll 

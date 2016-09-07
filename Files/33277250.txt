@@ -1,0 +1,4 @@
+ambiguous mockito matchers expected recorded invaliduseofmatchersexception 
+facing strange problem dont raw expressions br strangely change method omitting endpoint works config resthelper mocked url apiendpoint equal wanted mock wouldnt nullpointerexception false mocking dont ideea answers 
+
+problem calling mocked method invocation simple put complete url host port api specific url calling mock confuse mockito relies internal states mocking honest deep mockito explain ill debug day edit strangely reproduce simpler testcase meets eye 

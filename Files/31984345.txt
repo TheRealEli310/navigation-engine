@@ -1,0 +1,4 @@
+howto reduce partial flushes 
+simple application hibernate orm framework application fetch single transaction thousand objects db returns updates entities hibernate stats shows loose big amount time hibernate partial flushes stuff understand hibernate partial flushes howto reduce flushes 
+
+hibernate executes partial flushes transaction list increases specifically order session calls fulfills template find href http docs jboss org hibernate core reference en html objectstate html objectstate flushing rel nofollow http docs jboss org hibernate core reference en html objectstate html objectstate flushing avoid partial flushing set specifically effect holding flushes tx commit occurs personally issue records partially flushed db inserts occur partial flushes updated database insert records rolling back failure werent deleted change flushmode ensure partial flushing occurring timing reducing partial flushes increase total time takes flush trade worth 

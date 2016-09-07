@@ -1,0 +1,4 @@
+configuration jooq jhipster 
+problem configuration jooq jhipster href http www petrikainulainen net programming jooq jooq spring code generation rel nofollow petrikainulainen net configuration testing app compile errors jooq jhipster generator plugin generator pre class lang xml prettyprint override jooqconfiguration stack trace dont wrong 
+
+error message clear defined beans type datasource userrepository requires datasource spring inject blockquote qualifying bean type javax sql datasource defined expected single matching bean found transactionawaredatasource source lazyconnectiondatasource datasource blockquote expose beans build annotated bean bean created spring boot application properties bonecp jhipster hikari 

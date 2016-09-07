@@ -1,0 +1,4 @@
+lombok generating code maven 
+working small jar lib encountering problem lombok previously reason lombok generating code maven build clear ide problem intellij lombok plugin configured intellij runs fine intellij compiler works unit tests run full maven install intellij command line errors unit tests methods generated lombok decompile files code missing simple class generates code decompiled methods generated unit tests fail entries normal 
+
+incompatibility version confirm lombok annotations processed builds fine recent version 

@@ -1,0 +1,4 @@
+libgdx networking board game 
+writing turn based card game make multiplayer br beginner networking reading articles decided tcp type game dont make host join lobby play game br libgdx networking classes party library 
+
+lot choices kryonet networking library href https github esotericsoftware kryonet rel nofollow kryonet kryonet kryo serializer serialize data send newtwork blocking io networking implementation netty high level networking library bit tough begin href http netty io rel nofollow netty write protocols netty learn networking core advise plain sockets make topic understand high level libraries 

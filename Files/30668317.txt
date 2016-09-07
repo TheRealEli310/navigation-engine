@@ -1,0 +1,4 @@
+resultset namedparameterjdbctemplate executing stored procedure 
+resultset execution stored procedure namedparameterjdbctemplate set stored procedure return id column found execute stored procedure call execute closes result set immediately find obtain resultset 
+
+fixed issue returning list integers result set allowed data result set closed return found solution href http www java2s code spring selectstatementwithpreparedstatementcallback htm rel nofollow http www java2s code spring selectstatementwithpreparedstatementcallback htm 

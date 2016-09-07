@@ -1,0 +1,4 @@
+numeric character entity characters parsing xml 
+parsing xml numeric character entity characters limited line feed carriage return lt parsing appending text content nodes stringbuffer write textfile unicode characters resolved transformed newlines whitespace write string file print original numeric character entity characters symbols iterating nodes xml file storing text content nodes string demo xml file code loads xml iterates nodes collects text content node stringbuffer iteration writes stringbuffer console file symbols symbols storing string 
+
+escape xml entities parsing file escaping em ampersand em xml entity strong em output em strong 

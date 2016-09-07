@@ -1,0 +1,4 @@
+unable autowire bean class 
+configuration class defining bean accessing bean autowiring class tripexpiryjob unable autowire tripexpirytask tripexpiryjob class updated 
+
+problem webappconfig class made separate configuration class job worked fine 

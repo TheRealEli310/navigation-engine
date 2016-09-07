@@ -1,0 +1,4 @@
+nice table stringbuilder 
+printf method string formatting question create nice table stringbuilder class row add values columns href http stackoverflow questions println formatting display table stringbuilder hr community answer dont understand put explain answer answer 
+
+simple approach create hard wired statements flexible fix column widths functions specific class fields id propose helper class things ul li encapsulates creation table cell entries li li computes maximum width columnm set elements li ul model class id create nice table id expect contents string nicely formatted table href http stackoverflow mcve mvce shows application 

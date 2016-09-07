@@ -1,0 +1,4 @@
+substituting multiple strings string 
+lot questions answers related similar questions couldnt find answer question small snippet code ol li good substitute multiple macros variables text string creates string object loop wondering ideally apache commons class format tokens macros formats fixed prefix suffix dont regex performance issues li li coding rules work mark argument good practice strings immutable call return string object wondering string argument marked final suggested method dont li ol appreciated 
+
+concern valid string immutable creates multiple objects stringbuilder stringbuffer wrote sample build cheers 

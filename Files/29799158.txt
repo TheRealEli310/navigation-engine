@@ -1,0 +1,4 @@
+powershell install silently 
+install update silently arguments installation version prompt dialog install silently 
+
+found solution cmdlet href https gallery technet microsoft scriptcenter install 4daea195 rel nofollow script works fine calling 

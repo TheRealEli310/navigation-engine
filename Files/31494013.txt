@@ -1,0 +1,4 @@
+run kotlin converter command line 
+kotlin plug ins intellij eclipse convert files kotlin conversion command line ides 
+
+tool code tests href https github jetbrains kotlin tree master j2k rel nofollow j2k module kotlin github repository href https github jetbrains kotlin tree master j2k tests org jetbrains kotlin j2k rel nofollow tests abstractjavatokotlinconvertersinglefiletest suppose make jar module write simple wrapper make work files 

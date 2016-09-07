@@ -1,0 +1,4 @@
+spring security authentication userdetailsservice 
+issues spring security authentication application works great crud operations work login attempt fails heres code marked comments userdao null failed authentication securityconfig marked npe idea solve configuration javabased check details href https github spike994 greatintelligence rel nofollow edit getusers invoked controller case invoking userservice getusers userdao null fix bohuslav burghardt suggested line auth userdetailsservice userservice 
+
+problem solved piece code bohuslav missing lack caused 

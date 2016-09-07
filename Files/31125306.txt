@@ -1,0 +1,4 @@
+template method design pattern 
+refactor template method default method flow process define abstract class subclasss extend flow manager subclass implements mathod make sense refactor code interface 
+
+interface default method implement template method pattern suspicious default method intended overridden implementors interfaces default method template method overriding method susceptible programming errors calling method calling wrong time changing order phases called programming errors template method pattern intended avoid template method em em intended overridden classes signaled making method interfaces final methods href http stackoverflow question rationale preferable implement template method pattern abstract class final method template 

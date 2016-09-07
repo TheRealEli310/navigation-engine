@@ -1,0 +1,4 @@
+code convert json text key pair 
+write code convert incoming json file text key pair pipe separated schema json files change write program based earlier file 
+
+written methods parse json string map list object 

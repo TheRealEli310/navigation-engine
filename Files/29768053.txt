@@ -1,0 +1,4 @@
+sslcontextbuilder sslcontexts deprecated 
+jdk1 jdk compilance javase eclipse luna apache httpclient warning eclipse deprecated alternatives classes 
+
+appears httpclient sslcontexts class process moved org apache http conn ssl sslcontexts org apache http ssl sslcontexts changed imports packages appears good reference sslcontextbuilder pretty alternate implementation details check 

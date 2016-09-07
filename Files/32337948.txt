@@ -1,0 +1,4 @@
+maven shade plugin 
+project avoid version conflict lucene version lucene version maven shade plugin added plugin projects pom xml file problem wasnt solved exception caused version conflict guess dont maven shade plugin correct pom xml 
+
+ol li add project eclipse href https github lagodiuk neo4j uber jar rel nofollow https github lagodiuk neo4j uber jar li li mvn install create snapshot jar li li add jar project conflict li li remove neo4j maven dependency project li ol 

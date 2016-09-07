@@ -1,0 +1,4 @@
+receive json response spring controller jsp page 
+created jsp page text fields click submit button calls ajax call post data spring controller saving data database controller creates json response response jsp file code files jsp file pre class lang js prettyprint override spring controller method pre class lang prettyprint override data saved database json data reaching controller method unable alert box jsp page details added resolve issue 
+
+add annotation dont write json manually spring jackson library scene serialise objects json href http www mkyong spring mvc spring mvc json rel nofollow spring mvc json blockquote add return wen spring sees ul li jackson library existed project classpath li li enabled li li return method annotated li ul spring handle json conversion automatically blockquote 

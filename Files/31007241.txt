@@ -1,0 +1,4 @@
+bitset wrong conversion byte array 
+working bitsets failing test weird string representation bitsets equals whats happening methods method string representation explain whats 
+
+href https docs oracle javase docs api util bitset html valueof byte rel nofollow inside method youre traversing reverse iteration evaluate access significant byte 100th bit original bitset viewed reverse side fourth bit check bits set generated youll notice 5th 98th bug bits set returned href https docs oracle javase docs api util bitset html tobytearray rel nofollow blockquote endian representation bits bit set blockquote read order 

@@ -1,0 +1,4 @@
+convert dataframe dataset apache spark 
+convert dataframe dataset scala easy version dont convert dataframe dataset idea effort compiler h2 edited solution h2 solution based leet falcon answers 
+
+official spark docs suggest href https spark apache org docs latest api index html org apache spark sql dataset html dataset api blockquote encoders calling static methods strong em href https spark apache org docs latest api org apache spark sql encoders html method summary encoders em strong blockquote encoders composed tuples constructed beans href https spark apache org docs latest api org apache spark sql encoders html bean lang class encoders bean 

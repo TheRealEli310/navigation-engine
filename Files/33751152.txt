@@ -1,0 +1,4 @@
+android read multiple ble characteristics priorityqueue 
+bit stuck read ble characteristics people suggest priorityqueue uuids read explain easier solution advance code update putting threads reacts gatt readcharacteristic 
+
+encounter problem easy solution list lt characteristics ol li create list characteristics li li onservicesdiscovered populate list characteristics read write li li create method called requestcharacteristics gatt pass gatt object call method onservicesdiscovered adding characteristics list li li requestcharacteristics method call gatt readcharacteristic chars chars size li li oncharacteristicread check size list read characteristic remove item list call requestcharacteristic li li li ol 

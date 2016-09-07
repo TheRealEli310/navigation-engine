@@ -1,0 +1,4 @@
+jackson deserialization avoid literal null added collection 
+deserialize json context jackson null literal json content avoid added deserialized collection output configuration options mapper unable avoid null object collection pointers resolve issue similar questions stackoverflow related custom deserializing individual attributes class element collection href http stackoverflow questions deserialize json null nullnode null deserialize json null nullnode null json content data txt rootobject types jacksontester output 
+
+inspiration post href http stackoverflow questions jackson ignore whitespace empty xmlwrapperelement collection jackson ignore whitespace empty xmlwrapperelement collection solution specific question 

@@ -1,0 +1,4 @@
+update row resultset data changed 
+extracting data database types oracle mysql sql server successfully written file mark transmitted update specific column problem user possibility change data meantime forget commit record blocked select update statement happen mark transmitted excerpt code method returns false technically user didnt change update row detect data changed late stage change program user change data 
+
+ul li run rows table exported li li export data li li mark rows exported iteration export li li pending row dont mess information li ul slow export youll iterate jobs fast iterating slow hash rechecking place avoid store failures waits store hash updated information table copying primary key hash field user locks main table interfere updates table 

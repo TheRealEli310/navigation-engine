@@ -1,0 +1,4 @@
+apache httpclient execute throw ioexception http 5xx errors 
+href http hc apache org httpcomponents client ga httpclient apidocs org apache http client httpclient html execute org apache http httphost 20org apache http httprequest rel nofollow apache httpclient docs method blockquote ioexception case problem connection aborted blockquote catch ioexception catch strong strong href http www w3 org protocols rfc2616 rfc2616 sec10 html sec10 rel nofollow server 5xx errors reason logic line 
+
+strong httpclient em throw em ioexception em em 5xx response strong ioexception occurs em em low level connection failed invalid hostname server listening tcp pipe abnormally broken internet connection lost http server response em valid em server response error condition status code headers body response documentation return em final response request em true status code long server return em em valid response 

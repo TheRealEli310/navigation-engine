@@ -1,0 +1,4 @@
+removing javafx accordion border 
+working project theming javafx application css trouble removing border content javafx titledpane accordion appears 1px line bottom remove screenshot href http stack imgur ciinc png rel nofollow http stack imgur ciinc png faced similar issue 
+
+reasoning works explained answer similar question ul li href http stackoverflow questions rid border split pane javafx rid border split pane javafx li ul 

@@ -1,0 +1,4 @@
+android locationmanager class 
+thx managed make app work separate code errors error class mainactivity class gps separeted code error tryed working small forgetting 
+
+separating concerns pass main constructor parameter class strong mainactivity strong context inside gps class hr strong added strong gps extend appcompatactivity activity activity managed android opinion context gps class simple pojo inside gps class add constructor receives activity things extend delegate calls gps class methods 

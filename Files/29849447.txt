@@ -1,0 +1,4 @@
+change spring saml destination endpoint 
+change destination endpoint spring saml default em saml sso em change em sso em edited work url sso treated url requires authentication recieve saml assertion identity provider initialized sso url recieves base64 encoded xml document http post request option server side redirect em sso em em saml sso em ability customize url spring saml configuration 
+
+filterprocessesurl property samlwebssoprocessingfilter correct answer works fine case filterprocessesurl set sso working setting full endpoint url scheme server port contextpath sso path stated documentation properties set samlfilter filter service provider metadata finally saml assertions xml document identity provider urls configured service provider 

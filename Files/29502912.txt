@@ -1,0 +1,4 @@
+opencv error training svm bad argument 
+created mat training images images size 144x33 mat width height mat labels width height svm train mats error piece code wrong size data shows width height size labels shows width height wrong 
+
+defined extend integers br floating point type 

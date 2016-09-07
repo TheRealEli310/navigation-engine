@@ -1,0 +1,4 @@
+javax jms jmsexception managedconnections configured blocking timeout 
+run activemq tomcat receive exceptions hitting server adding message apache tomee managing activemq queue activemq configuration simple define queue simple code send messages fine leave bit gap messages hit server bit harder run exception configure connection pool size cetera issue closing connection sebastian 
+
+found href http tomee apache org jmsconnectionfactory config html rel nofollow http tomee apache org jmsconnectionfactory config html actual problem close connection href http tomee apache org tomcat activemq html rel nofollow http tomee apache org tomcat activemq html end missing end code block connection close fixes connection problems 

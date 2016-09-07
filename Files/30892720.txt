@@ -1,0 +1,4 @@
+jmh benchmark hadoop yarn 
+written jmh benchmark mapreduce job run app local mode works run yarn script hadoop cluster error shell script benchmark options 
+
+opinion jhm wrok hadoop cluster node cluster benchmark start jvm work node communicate parallelization measure time execution program repeat end calculate fault tolerance 

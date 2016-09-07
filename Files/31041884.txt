@@ -1,0 +1,4 @@
+execute function seconds android 
+android development launcher activity show seconds check user logged function perform actions code 
+
+handler add delay call method executed seconds strong strong threads block ui makes irresponsive 

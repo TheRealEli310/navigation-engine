@@ -1,0 +1,4 @@
+null pointer exception executing context write hadoop reducer 
+run mapreduce job error job class mentioned mapper class mentioned reducer class mentioned printing output properly writing output error solve issue advance 
+
+solves problem simple modification removing statement class reason error calling executes reducer functions calling program execute reducer function removed program works perfectly 

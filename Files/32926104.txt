@@ -1,0 +1,4 @@
+parameters okhttp android studio 
+android studio okhttp okio set dependencies correctly looked simple incorrectly issue class called okhttpposthandler code button reads edittext views gain username password fires http call assumed issue bcrypt hashing manually entered strings testing work beautifully parameters passed enter parameters manually url returns correctly prefer build class dynamic future calls wrong simple appreciated struggling identify issue 
+
+problem backend expecting request request support post requests 

@@ -1,0 +1,4 @@
+camel file component uri format 
+camel file component supports notations uri format exist readable unix absolute paths frequent case general give preference 
+
+part camel file component camel components optional dont case file component unix absolute paths file directoryname 

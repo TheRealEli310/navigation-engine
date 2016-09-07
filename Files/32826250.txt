@@ -1,0 +1,4 @@
+slf4j slf4j api incompatible binding 
+fix error application slf4j dozer library stacktrace spring application slf4j load 
+
+excluded slf4j depenedencies dozer library add dependencies directly pom file mentioned powerlord add libraries core slf4j binding library maven dependencies 

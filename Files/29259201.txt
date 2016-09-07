@@ -1,0 +1,4 @@
+make list thread serialization 
+threadsafelist great mileage streaming data process webserver streaming data back client memory saving data jvm spring caching ehcache hood trouble started started hitting heap limits spring caching started serializing threadsafelist disk causing concurrentmodificationexceptions overwrite private writeobject readobject methods serialization interface solve problem unsure abandon threadsafelist back started program blockingdeque wasnt sufficient put structure couldnt remember data caching concurrentmap ordering list concurrentnavigablemap feel rolling threadsafelist custom private serialization functions waste href http examples javacodegeeks core util concurrent locks concurrent readwritelock readwritelock code geeks threadsafelist 
+
+make list thread supports serialization underlying list serializable remember synchronize list iterate 

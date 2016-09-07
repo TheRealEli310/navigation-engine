@@ -1,0 +1,4 @@
+unix timestamps sqlite database current month 
+table sqlite database android app row column unix timestamp query add clause compare timestamp represents month query add part unsure basically rows created strong calendar month strong past days thought current month integer instance sqlite function extract month timestamp realized wouldnt account current year month em em year familiar sqlite date time functions strong edit strong exception cast sql 
+
+sql bunch nice href http www sqlite org lang datefunc html rel nofollow date time functions read solve problem approach comparison update column text additional steps details ol li convert data column integer li li milliseconds sqllite prefer seconds divide li li output date function string cast integer li ol 

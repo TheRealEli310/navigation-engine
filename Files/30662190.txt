@@ -1,0 +1,4 @@
+javafx pichart hover values blink 
+h2 context h2 create popup display slice mouse hover strong piechart strong javafx successed strong linechart strong strong areachart strong post href http stackoverflow questions javafx linechart hover values javafx linechart hover values jewelsea h2 problem h2 strong piechart strong problem popup blinking oo img src http stack imgur vmvqz gif alt enter image description h2 code h2 syntactic color href https bpaste net show 12838ad6b2e2 rel nofollow https bpaste net show 12838ad6b2e2 h2 problem h2 problem events mouse entered mouse exited emitted em em put put mouse hover slice result console event bug 
+
+blinking effect caused label br shows label means exited node listened hiding label label disappears fires mouse entered event node shows label br tested idea hr edit br avoid putting label mouse pointer magic number depends insets 

@@ -1,0 +1,4 @@
+intellij idea expose classes interfaces annotations developed plugins 
+created plugin intellij idea plugin defined annotation projects doesnt accessible plugin xml file packages expose 
+
+install plugin place jar file add dependency project maven add pom href https maven apache org guides mini guide 3rd party jars local html install jar local repository normal maven dependency add dependency directly project settings jar jars classpath plugin user friendly inspections actions add dependency 

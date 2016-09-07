@@ -1,0 +1,4 @@
+android show status bar navigation bar programmatically immersive sticky mode 
+code enter immersive sticky mode android strong strong status bar navigation bar show touch center part activity swiping edge 
+
+dont write additional code call methods systemuihelper href https gist github chrisbanes 73de18faffca571f7292 rel nofollow https gist github chrisbanes 73de18faffca571f7292 div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override 

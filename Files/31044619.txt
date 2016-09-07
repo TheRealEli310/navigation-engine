@@ -1,0 +1,4 @@
+slf4j log4j12 log4j slf4j 
+whats difference amp maven dependecies 
+
+code libraries log4j directly strong slf4j binding log4j strong route log4j api call slf4j binding choose remove log4j library classpath replace dependency strong log4j binding slf4j strong log4j released href http logging apache org log4j log4j slf4j impl index html http logging apache org log4j log4j slf4j impl index html shouldnt libraries time href http www slf4j org legacy html log4j slf4j http www slf4j org legacy html log4j slf4j 

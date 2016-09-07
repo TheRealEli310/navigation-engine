@@ -1,0 +1,4 @@
+git pull memory database jgit 
+create program ol li connects git repository li li appends text file li li commits li li pushes repository li ol ideally happen memory jgit interaction git results exception pre class lang prettyprint override retrieve contents repository memory jgit repository 
+
+append file bare repository work directory href https dev eclipse org mhonarc lists jgit dev msg02865 html rel nofollow mailing list post states blockquote porcelain commands assume file basis cases working tree perform inserts memory repository work porcelain commands work blockquote href http www codeaffine git internals rel nofollow procelain commands recommend wayne commented clone temporary repository append file push delete repository 

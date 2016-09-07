@@ -1,0 +1,4 @@
+share data jsf viewscoped websocket serverendpoint 
+jsr356 web sockets add functions values server end point class creating managedbean id bean properties requests annotated server end point annotation update property ajax ajax invokes method set field invoke method annotated null thought strong viewsocoped strong state requests explain behavior advance 
+
+basically ended independently created instances class cdi managed bean jsr356 websocket endpoint end single shared instance expect wont share problem notion whatsoever current jsf view state information ws request closest http session obtain detail elaborated answer href http stackoverflow questions accessing servletcontext httpsession onmessage jsr serverendpo accessing servletcontext httpsession onmessage jsr serverendpoint access attributes jsf side generate unique token jsf side session attribute key pass jsf view websocket url path query parameter websocket make find data shared http session 

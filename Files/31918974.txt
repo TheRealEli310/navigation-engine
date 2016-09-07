@@ -1,0 +1,4 @@
+spring gradle compiling error org springframework boot autoconfigure 
+write spring framework read href https spring io guides gs messaging rabbitmq rel nofollow started messaging rabbitmq compile code error message href http pastebin 7gnjbae2 rel nofollow http pastebin 7gnjbae2 grateful advise windows netbeans gradle receiver application 
+
+blockquote lang illegalstateexception evaluate condition org springframework boot autoconfigure jdbc datasourcetransactionmanagerautoconfiguration transactionmanager due internal class found happen componentscanning springframework package put componentscan default package mistake blockquote source file didnt add manually copy pasted code fresh project created start spring io worked touching 

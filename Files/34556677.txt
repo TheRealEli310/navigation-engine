@@ -1,0 +1,4 @@
+spring boot load yaml file 
+load property file path folder application read files code inject property file development located running application command production override development settings spring boot documentation blockquote springapplication load properties application properties files locations add spring environment ol li config subdirectory current directory li li current directory li li classpath config package li li classpath root li ol blockquote blockquote yaml yml files alternative properties blockquote file class annotated run application exception class add special annotation enable support spring boot edit file properties successfully loaded spring boot 
+
+deinum setup provided working file indented wrong property couldnt found 

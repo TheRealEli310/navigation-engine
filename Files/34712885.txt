@@ -1,0 +1,4 @@
+load external properties file maven project 
+maven project properties file src main resources directory packaged jar properties file jar deployed environments settings unit tests failing project structure values loaded file unit test load properties file target directory build successfully command line 
+
+hope maven jar plugin configuration inside jar plugin jar properties file root directory jar file 

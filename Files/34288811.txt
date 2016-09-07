@@ -1,0 +1,4 @@
+dynamodb mock mapper 
+section dynamodb related code test mockito method test line work fine test hand submit query expected results back dynamodb writing unit tests mock mapper query error range fixes creating paginatedquerylist returning changing query matchers error query method declared mock mapper query special 
+
+simple mock paginatedquerylist mapper query anyobject thenreturn paginatedquerylist worked 

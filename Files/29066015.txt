@@ -1,0 +1,4 @@
+error preparestatement interval query 
+running query throw exception syntax good cuz run query sql developer bug prepared statements interval 
+
+entire expression literal simply replace part variable parameter function 

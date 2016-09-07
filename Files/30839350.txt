@@ -1,0 +1,4 @@
+apply handlerinterceptor spring boot actuator endpoints 
+working strong strong strong spring strong build application running inside strong tomcat strong container intercept single call web application simple logs time create response return code request activated actuator endpoints simply adding dependency add interceptor calling apparently endpoints managed spring boot actuator intercepted strong make interceptor intercepts call made application including invoking actuator provided endpoint strong 
+
+configure interceptors actuators endpoints pre class lang prettyprint override 

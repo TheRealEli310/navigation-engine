@@ -1,0 +1,4 @@
+bufferedreader infinite loop 
+make lottery game stuck step step user enters input number user exit loop user enters number bigger smaller number back user input number similar python doesnt wait input code basically error back input infinite looping 
+
+calling buffer close inside loop 

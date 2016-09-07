@@ -1,0 +1,4 @@
+luaj pure performance comparison 
+planning integrate lua application performance comparison implementing script luaj pure alternatives performance 
+
+lua insane fast href https en wikipedia org wiki time compilation rel nofollow jit compiling href http luajit org luajit html rel nofollow luajit href http www lua org rel nofollow reference implementation strong clua strong fast match jit compiled luaj compile lua bytecode effective bytecode language nearer hardware architecture results faster machine code luaj makes sense add scripting language project performance 

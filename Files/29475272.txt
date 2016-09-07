@@ -1,0 +1,4 @@
+firebase init error google app engine 
+developing google cloud endpoint gae inside endpoint connect firebase server data create firebase object endpoint gae throws error firebase client gae application create threads idea 
+
+mario correct app engine app spawn threads href https cloud google appengine kb threads rel nofollow docs appengine application run sandbox environment restrictions develop app restriction suggest href https cloud google appengine docs managed vms rel nofollow managed vm dont types restrictions 

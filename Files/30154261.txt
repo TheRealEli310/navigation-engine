@@ -1,0 +1,4 @@
+access jsp pages place subfolders webcontent folder 
+deploy jsp scripts server apache tomcat put script called inside folder correct access url problem change url url thought create folder rest inside put script inside subfolder wrong doesnt run server return http error url found comment greatly appreciated 
+
+thought direction default servlet handle requests web root folder assumptions folder wrong servlet filter served mapped folder treated wrong satisfied 

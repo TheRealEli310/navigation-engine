@@ -1,0 +1,4 @@
+deserialize class arraylist timestamp data 
+jsonstring convert string coaaccountlist class object coaaccountlist class coaaccountlist coaaccount class transdate timestamp variable json string long variable convertion process results google gson jsonsyntaxexception long transdate code convert json string coaaccountlist coaaccount class coaaccount convert json string coaaccountlist object 
+
+create custom deserialize method parse timestamp 

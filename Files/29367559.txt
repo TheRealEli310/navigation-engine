@@ -1,0 +1,4 @@
+pass object jsp include param tag jsp 
+send dto object jsp jsp jsp include tag treating string dto included jsp file code attributesubfeatureremove jsp file attribute param sending string type send object dto attributesubfeatureremove jsp file 
+
+dont tag files overkill confusing accomplish spend time understanding scope tag files change attribute request scope default page scope changing line make attribute requestscope variable jsp files imported change original jsp include import change dont explicitly pass attribute parameter made imported pages requestscope modify imported jsp reference attribute requestscope changing longer set attribute make requestscope variable default pagescope parameter longer passing parameter technique lot easier manage 

@@ -15,12 +15,12 @@ import javax.servlet.annotation.WebFilter;
 @WebFilter("/AuthenFilter")
 public class AuthenFilter implements Filter {
 
-    /**
-     * Default constructor. 
-     */
-    public AuthenFilter() {
-        // TODO Auto-generated construcdasdtor stub
-    }
+	/**
+	 * Default constructor.
+	 */
+	public AuthenFilter() {
+		// TODO Auto-generated stub
+	}
 
 	/**
 	 * @see Filter#destroy()
@@ -32,7 +32,8 @@ public class AuthenFilter implements Filter {
 	/**
 	 * @see Filter#doFilter(ServletRequest, ServletResponse, FilterChain)
 	 */
-	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+			throws IOException, ServletException {
 		// TODO Auto-generated method stub
 		// place your code here
 

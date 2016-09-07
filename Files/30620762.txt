@@ -1,0 +1,4 @@
+spring ws create wsdl xsd request element 
+implement soap webservice client wsdl file test service soapui xsd request response methods requests responses defined type base serviceprovider element auto generate wsdl file spring ws generate proper wsdl spring ws requires requests responses element names end request response generate wsdl file 
+
+em requirement em defaults explained href http docs spring io spring ws site reference html server html server automatic wsdl exposure rel nofollow spring ws reference guide explains properties set override defaults blockquote default request suffix default response suffix changed setting strong strong strong strong attributes blockquote 

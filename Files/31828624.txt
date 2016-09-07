@@ -1,0 +1,4 @@
+limit delete query hibernate 
+create functionality delete rows table programatically limit rows thousands elements deleted database oracle main problem hql support solutions thought ol li looping list removing single element list li li query li ol point avoid dont bring elements memory delete elements number restrictions terms numbers elements missing solution point dont performance difference invonvenience 
+
+options iterate load object delete ugly write separate hql queries results query fed query actual delete 

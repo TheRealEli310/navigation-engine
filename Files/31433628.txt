@@ -1,0 +1,4 @@
+sonarqube eclipse plugin sonar server reached connection time 
+installed sonarqube eclipse plugin rad eclipse provided server url sonarqube server tested connection project sonarqube project recognised starts retrieve remote issue click analyse exception strong edit strong server access log displayed sonar log file strong end edit strong retrieve part issue 
+
+found command executed launching analyse eclipse iam working proxy configurated eclipse network preferences section reach server proxy configuration added test executed command line proxy configuration options https dhttps proxyhost dhttps proxyport dhttps proxyuser dhttps proxypassword command succeeded bug plugin check proxy configuration exists creating launching command strong edit strong resolve problem preferences sonarqube jvm arguments preview analysis put proxy params field works 

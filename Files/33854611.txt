@@ -1,0 +1,4 @@
+spring asynchronous rest deferredresult reactor 
+idea elaborate obtain asynchronicity reactor rest call usability sactisfied idea href https bitbucket org nuspy reactive rest rel nofollow complete code reference strong rest interface strong strong eventwrapper strong strong event consumer strong 
+
+eventbus sendandreceive made kind cases href http projectreactor io docs reference bus request reply rel nofollow http projectreactor io docs reference bus request reply 

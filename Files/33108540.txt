@@ -1,0 +1,4 @@
+default methods lambda expressions 
+reading href http winterbe posts tutorial tutorial writer showed code blockquote default methods accessed lambda expressions code compile blockquote explain ran code gave error blockquote incompatible types formula functional interface blockquote strong meaning error interface fulfills requirement functional interface abstract method strong 
+
+question scope href http docs oracle javase specs jls se8 html jls html jls jls blockquote unlike code appearing anonymous class declarations meaning names keywords appearing lambda body accessibility referenced declarations surrounding context lambda parameters introduce names blockquote attempted scope declaration hinted jls blockquote strong practically speaking unusual lambda expression talk strong call recursively invoke methods common names refer things enclosing class shadowed strong lambda expression refer method reference anonymous class strong blockquote implemented chose 

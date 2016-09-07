@@ -1,0 +1,4 @@
+wiringpiisr unable open sys class gpio gpio18 file directory 
+wiringpiisr unable open sys class gpio gpio18 file directory running tomcat tomcat running root tomcat7 user root run service init error kills tomcat restart service tomcat7 restart fix href https github pi4j pi4j blob master pi4j src main wiringpigpiointerruptexample2 rel nofollow https github pi4j pi4j blob master pi4j src main wiringpigpiointerruptexample2 
+
+helped reboot working run sudo apt update sudo apt upgrade sudo apt dist upgrade sudo apt install raspberrypi ui mods helping 

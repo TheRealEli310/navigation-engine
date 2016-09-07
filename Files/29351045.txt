@@ -1,0 +1,4 @@
+junit run testcases involve dialog boxes user input 
+building application helps user navigate website giving step step instructions instructions form dialog boxes swing create gui dialog boxes main class starts webdriver control passes class consists individual test cases testcase sends arguements gui gui class clicking opens gui frame takes user input testcase pass fail run multiple tests junit test navigate website open gui wait user input control pass back testcases class execute test 
+
+href https docs oracle javase docs api util concurrent completablefuture html rel nofollow completablefuture guavas href http docs guava libraries googlecode git javadoc google common util concurrent settablefuture html rel nofollow settablefuture write test pass future ui event handlers call depending test passed failed 

@@ -1,0 +1,4 @@
+merge sort list 
+output code digit input find reason merge sort recursively result wrong thought list overlapped test input output wrong merge method 
+
+quick fix problem replacing create partitions immediately change reference view original list hr partitioning list correctly view shallow copies merge changing partitions sort mutates original list dont return method hr alternative original list isnt mutated 

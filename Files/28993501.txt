@@ -1,0 +1,4 @@
+shutdown classpathxmlapplicationcontext 
+code applicationcontext xml code exits jvm stops ideas doesnt stop main method running public static void main string args applicationcontext context classpathxmlapplicationcontext applicationcontext xml configurableapplicationcontext context registershutdownhook configurableapplicationcontext context stop system println exiting pause jvm shows threads timerthread run scheduledthreadpoolexecutor 
+
+interface implements method call order jvm shut properly information found href http docs spring io spring docs current javadoc api org springframework context configurableapplicationcontext html close rel nofollow 

@@ -1,0 +1,4 @@
+pakage distribute digitalpersona fingerprint applet 
+package distribute fingerprint applet made digitalpersona touch fingerprint sdk applet tested compiled jar netbeans distribute applet package signed internet searching ol li sign jar files li li sign jar files generated key locally work client browser li ol netbeans compiles applet jar copied directory html called browser pre class lang html prettyprint override error applet runs 
+
+found solution problem applet work firefox browser pops security dialog needed check accept click run simple configure netbeans sign jar signed cert compiled applet included jar library archive parameter applet 

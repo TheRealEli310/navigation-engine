@@ -1,0 +1,4 @@
+update query jdbc mysql database 
+run update query table doctors primary key table defined composite primary key deptid docid update field designation qualification time based deptid docid query silly find 
+
+question mark set wrong order dont set href http docs oracle javase tutorial jdbc basics prepared html rel nofollow supplying values preparedstatement parameters blockquote supply values place question mark placeholders execute preparedstatement object calling setter methods defined preparedstatement class statements supply question mark placeholders preparedstatement named updatesales updatesales setint getvalue intvalue updatesales setstring getkey argument setter methods specifies question mark placeholder setint specifies placeholder setstring specifies placeholder blockquote 

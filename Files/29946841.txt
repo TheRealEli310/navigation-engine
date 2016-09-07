@@ -1,0 +1,4 @@
+hive kryo exception 
+executing hql query joins union insert overwrite operation working fine run br execute job time facing issue identify scenario exception 
+
+avoid hives parallel execution modifying property false blockquote strong hive exec parallel strong blockquote works 

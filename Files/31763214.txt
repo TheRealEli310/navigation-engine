@@ -1,0 +1,4 @@
+create database query jdbc prepared statement returns syntax error 
+create database jdbc syntax error query correct write database code explicitly works fine heres code main class error huge isnt working searched web avail 
+
+database bind variable embed query literal change query plain running sql 

@@ -1,0 +1,4 @@
+nullpointerexception switch scenes javafx 
+click button gui switch separate scene stage simple nullpointerexception controller class click button button written fxml handlesettings method located controller import main controller writing top missing gui launches fine error occurs clicking settings button full code error error pointing line set primarystage level skills helps strong main strong strong controller strong strong sample fxml strong strong error strong 
+
+load controller pass reference primary stage main 

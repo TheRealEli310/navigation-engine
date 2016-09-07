@@ -1,0 +1,3 @@
+javafx scroll bottom tableview items added 
+odd work tableview populated listener observable list picks change code works fine table automatically updates item added listofmessages bit scroll listview bottom updated attempted adding line addmessagetotableview method attempted adding change listener tableview error message blockquote exception thread rmi tcp connection lang illegalstateexception fx application thread currentthread rmi tcp connection blockquote google skills javafx complaining accessing tableview separate thread understand access tableview item added scrolls information 
+

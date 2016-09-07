@@ -1,0 +1,4 @@
+httpsurlconnection made send server indication sni 
+oracle documentation sends sni automatically default wireshark powershell sysadmin developer overlooking proper trust keystore code returns status ssl websites dont require sni returns connecting default ssl website multiple host apache server asked connect default site fails cert matching site connects default site em em set system setproperty jsse enablesniextension false set djavax net debug ssl shows server extension set aware implement sslsocket set sslparameter servername dive deeper layer abstraction id avoid edit code works written flo comments failing linux el5 windows windows installation vanilla linux installation updated urandom securerandom source file dev urandom determine installations flos 
+
+httpsurlconnection em em send sni default box em iff em url connecting fully qualified doesnt send sni local intranet shortname aliases record needed deploy certificate sans short fully qualified names trivial 

@@ -1,0 +1,4 @@
+render map postgis data dynamic project eclipse luna 
+newbie created dynamic project java7 eclipse luna succesfully rendered html page create dynamic map postgis postgresql show amp query layers installed geoserver dont configure 
+
+geoserver copious documentation start href http docs geoserver org stable en user gettingstarted index html rel nofollow started section walks adding shapefile postgis table href http openlayers org rel nofollow openlayers href http openlayers org en v3 doc quickstart html rel nofollow great documentation href http openlayers org en v3 examples rel nofollow examples 

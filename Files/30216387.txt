@@ -1,0 +1,4 @@
+directions current location poi android maps v2 
+reading lots thread wasnt fix problem built simple app show number poi info views draw polyline walking directions map properly setting lat lng point add function start point current location user map setmylocationenabled true shows blu point position getmylocation getlatitude getmylocation getlongitude methods correct coordinate run app crashes nullpoint error strong edit solved problem edited mainacrivity class solution strong mainactivity 
+
+figured snippet code add route current location fixed lat long 

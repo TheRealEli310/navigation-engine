@@ -1,0 +1,4 @@
+average byte values 
+create average greyscale image values pixel calculations summarizing average find wrong missed type conversion edit input byte data raw data bufferedimage case alpharaster 
+
+convert image greyscale method return byte byte array return byte assign rgb channel grayscale image set bit image remember byte signed range channel equal channel values range cast byte equal calculate average lets assume average equals 

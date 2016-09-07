@@ -1,0 +1,4 @@
+netty server receive http content combine 
+log log client send seqno server built netty received http content length consistent content length header content length combined server handler code basiclly netty implements http rpc server implement simple log wired things http codec deal http protocol provided netty http 
+
+httpobjectaggregator order multiple content chunk response request http codec client server depending side edit dont aggregator handle multiple chunks httpcontent case probable chunks handle request loading chunks pipeline 

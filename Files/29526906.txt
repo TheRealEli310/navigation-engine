@@ -1,0 +1,4 @@
+lang illegalmonitorstateexception monitor class dining philosophers 
+monitors condition variables lock condition variables monitor putdown index signal wake monitors important pick method monitor exception occurs wait condition variable lock trace updated code removed extra class class clear error 
+
+number things youre wrong ol li locking locking li li li ol hr update information code remove code wont fail similar synchronized wouldnt throw imse holding lock removed locks imse running issue remove method mixing synchronization synchronization fine youre synchronization keyword object suggestion 

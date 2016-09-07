@@ -1,0 +1,3 @@
+select rows max date hibernate 
+write criteria query selecting rows max date avoid writting sqlrestriction derictly criteria query applying projections similar writing sql restriction explcicitly 
+

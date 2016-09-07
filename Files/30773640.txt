@@ -1,0 +1,4 @@
+android automatic logout 
+logout automatically determined time inactivity android app activity onpause save time app pause variable mainactivity method onresume save time app restarts variable calculate difference variables difference greater determined time seconds logout code mainactivity code activity cose doenst work time works fine time doesnt work arent logout solve problem 
+
+set alarm alarmreceiver class dont forget add receiver manifest inside application tag add unregister broadcast onpause 

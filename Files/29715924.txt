@@ -1,0 +1,4 @@
+request attributes action tag struts 
+action executing struts tag jsp page pre class lang jsp prettyprint override action set attribute code pre class lang prettyprint override output information action executed empty pre class lang jsp prettyprint override result empty attributes executing 
+
+place tag tag body tag evaluated context variables pre class lang jsp prettyprint override 

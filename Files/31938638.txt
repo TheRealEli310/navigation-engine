@@ -1,0 +1,4 @@
+spring amqp rabbitmq queue optional dead letter exchange 
+existing queue created rabbitmq created parameter creating consumer queue spring rabbittemplate declare queue dont parameter template figure care throwing consumer bad messages creator queue responsible decision create exchange queue rejected messages bean declares queue spring works fine creator queue decides dead letter feature error message bit longer continues telling side exchange combinations creating queue exchange spring creating queue exchange spring variants message declare queue simply accepts parameters set queue 
+
+href http docs spring io spring amqp docs release reference html amqp html rel nofollow spring docs br rabbitmq api method check queue exists spring amqp api similar functionality declare queue 

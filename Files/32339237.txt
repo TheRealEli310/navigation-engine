@@ -1,0 +1,4 @@
+initialize double array circle objects javafxml controller scenes 
+coding create pixel editor app created fxml files drawing tools array circle objects represents pixel array leds share controller initialize array user clicks menu item x4 array test code print array fxml objects initialize pixelarray fx id reference circle objects placing separate stage scene de reference create null elements previously fxml file needed assign values circle objects reference fx id controller assigned properties fx id reference dont connect pixeleditor fxml large 32x32 circle objects testing 4x4 code row 
+
+question answered related question jewelsea provided excellent answer href http stackoverflow questions multiple fxml files created scenebuilder controller scene load copy controller creating controllers initialize circle array pass parameters controllers jewelsea describes links provided 

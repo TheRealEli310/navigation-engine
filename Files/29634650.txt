@@ -1,0 +1,4 @@
+controlling number threads managedexecutorservices ee 
+se constructs control number threads executor service ee inject executor services control number threads managed executor service application writing executor service executed single thread platform choose preferred number threads 
+
+setting set server settings admin console glassfish creation service ul li href https blogs oracle arungupta entry create managedexecutorservice managedscheduledexecutorservice managedthreadfactory contextservice rel nofollow create managedexecutorservice managedscheduledexecutorservice managedthreadfactory contextservice glassfish li ul 

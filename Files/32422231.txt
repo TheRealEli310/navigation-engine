@@ -1,0 +1,4 @@
+nullpointerexception entitymanager spring 
+problem obtain entitymanager localcontainerentitymanagerfactorybean found temporary solution obtain factory source code create manager factory instance code wrong approach spring apps code mandaoimpl beans root context xml console output homecontroller save row pom xml full code homecontroller 
+
+add root context xml 

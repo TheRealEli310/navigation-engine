@@ -1,0 +1,4 @@
+oracle jdk heroku gradle build 
+find gradle compatible buildback heroku includes oracle jdk em deploying complex spring application feeling strange errors caused differences openjdk oraclejdk em alternatively guide forking existing buildpack creating blockquote strong edit strong wasnt jdk issue blockquote 
+
+solve problem customize jdk setting config var oracle jdk strip jdk1 dir tarball running manually download oraclejdk edit put personal s3 bucket storage url config var aware oracle jdk larger openjdk 100mb affect slug size size due junk dont gui stuff docs 

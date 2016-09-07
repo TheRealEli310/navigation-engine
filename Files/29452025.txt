@@ -1,0 +1,4 @@
+parsing multiple types json array gson 
+attempting parse json string pojo gson run snag attempting read json array works fine part parse pojos changed show code problem gson parse runs problem part array object problem idea deal greatly appreciated edit1 suppose array simply suppose sort overwrite field main string overwritten individually formatted inside null thing bottom class suppose suppose edit main variables overwritten contents unnamed field suppose text variable 
+
+heres write custom deserializer register gson parser specific common type elements array object problematic part rest handled easily running end resulting list assume minimum control structure back format give good starting point 

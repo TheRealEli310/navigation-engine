@@ -1,0 +1,4 @@
+make scanner strings stream 
+form scanner read results turn scanner stream iterate 
+
+wrong required dont closing resources strong strong close 

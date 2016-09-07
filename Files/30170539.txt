@@ -1,0 +1,4 @@
+gradle properties build gradle 
+run task variable works print error fails 
+
+href https gradle org docs current dsl org gradle api project html org gradle api project properties rel nofollow href https gradle org docs current dsl org gradle api project html org gradle api project property 28java lang string rel nofollow property method additional locations 

@@ -1,0 +1,4 @@
+integration embedded jetty resteasy 
+setup jetty server ol li serve html files context li li server rest api calls made resteasy context li ol referred href http stackoverflow questions integrating jetty resteasy integrating jetty resteasy integrate resteasy works configure jetty serve html pages combine xml ioc format configure jetty jetty xml configure jetty server web xml function starts server code needed setup resteasy jetty modify jetty xml achieve code xml modifying jetty xml modifying jetty xml results lang arraystoreexception jetty stack trace exception lang arraystoreexception logs missing thing 
+
+lot time figure posting code fixed issue problem jetty xml gziphandler combine handlers solution jetty xml web xml code start jetty server 

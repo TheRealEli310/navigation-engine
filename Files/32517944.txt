@@ -1,0 +1,4 @@
+run android activity continuously send location updates back button pressed 
+googleapiclient location updates ten seconds working properly expected application send location updates minimized back button pressed working back button code 
+
+helper class start location updates strong edited strong activity ol li check internet connection li li check gps enabled li li start location updates true li ol activity location change updates stop updates update location activity paused destroyed forget adding permission manifest xml 

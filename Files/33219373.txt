@@ -1,0 +1,4 @@
+wifip2p discover peers working 
+code href https github mayfourth wifi direct file transfer blob master wifidirectfiletransfer src pdx cs410 wifi direct file transfer clientactivity rel nofollow public void displaypeers final wifip2pdevicelist peers works run device displays devices listview device list initializ method displaypeers calling changed code project displaypeers method working calling import full project works working made mistakes call method displaypeers final wifip2pdeviselist peers oncreate function bad english edit oncreate method 
+
+entire project classes clientactivity interact form working application displaypeers called wificlientbroadcastreceiver suggest files href https github mayfourth wifi direct file transfer tree master wifidirectfiletransfer src pdx cs410 wifi direct file transfer rel nofollow https github mayfourth wifi direct file transfer tree master wifidirectfiletransfer src pdx cs410 wifi direct file transfer 

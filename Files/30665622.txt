@@ -1,0 +1,4 @@
+avoid mutation coding mutation 
+part code stream solution compared secound 
+
+mutation changing object common side effect programming languages method strong functional contract strong return arguments side effects storing file printing reading mutate temporary values inside function pure putting fist function demonstrates purely functional method doesnt update local variables put version function pure person languages long preferring functional style natural versions easy read easy test important part functional classes 

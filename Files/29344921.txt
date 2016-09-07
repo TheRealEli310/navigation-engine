@@ -1,0 +1,4 @@
+scanner reading lines 
+code reads lines input stream displays surprise reading lines reading upto line code input format output line 
+
+add loop read end line call inside loop returns empty string 

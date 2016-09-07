@@ -1,0 +1,4 @@
+spring controller recognized 
+set simple spring mvc application class configuration web xml reason appears controller properly scanned component scan projet webappinitializer webconfig simplecontroller supposedly localhost project greeting serve jsp shows metching mapping uri idea wrong update adding debug 
+
+add webconfig mapping jsps jsps expecting controller mapping change line webappinitializer make servlet default mapping change simplecontroller return viewresolver create correct path make maven resource javax servlet jstl packaged class installed tomcat doesnt standard works environment btw spring webmvc release ran spring webmvc release added pom minimal set dependencies needed run code 

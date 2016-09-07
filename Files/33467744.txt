@@ -1,0 +1,4 @@
+http options method 
+create simple http client program found implementation calling options method header allowed methods server field included 
+
+connection object fires request default href http docs oracle javase docs api net httpurlconnection html getrequestmethod rel nofollow set request method options 

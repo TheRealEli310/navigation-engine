@@ -1,0 +1,4 @@
+multiple response single request web api 
+suppose client sends request server generate numbers send response back client assume generating numbers tedious job requires lot resources server start generating numbers sends numbers client number generated server generating number sending response client flipkart page open page page updating products bottom listing products shot suggest efficient technique simple case 
+
+sounds job 7s href http www oracle technetwork articles jsr356 html rel nofollow websocket api traditional http interactions request response pattern patterns polling long polling achieve effect websockets genuine push notifications server client receive data 

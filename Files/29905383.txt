@@ -1,0 +1,4 @@
+collections sort method sort objects alphabetically 
+giving error fix createspace class 
+
+error call passing parameter expects list elements implement interface case objects sorted options ol li implement instances natural order sorted wanted sort field li ol simply call ol start li create custom sort instances arbitrarily sorts sorts id li ol call passing comparator parameter implemented singleton state instance comparator alternative static variable youre href https docs oracle javase docs api util comparator html comparing util function function rel nofollow 

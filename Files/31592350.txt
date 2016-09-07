@@ -1,0 +1,4 @@
+spring security secured error add cglib class path proxy interfaces 
+hope issue spring security release jar security configuration add secured role admin controller error 
+
+made put appservlet servlet xml added cglib nodep jar lib preauthorize hasrole role admin secured 

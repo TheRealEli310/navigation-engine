@@ -1,0 +1,4 @@
+netbeans mysql communication 
+created application company create password database mysql xampp works fine problem put password database application throwing error log blockquote sql sql sqlexception access denied user root citsp mob7 password blockquote error connecting database blockquote unable connect establish connection jdbc mysql localhost mydb mysql jdbc driver access denied user root citsp mob7 password blockquote code database connection solve connection problem answer appreciated advance 
+
+test creating user mysql works create user mysql login mysql command line root run commands strong mysql strong ol li create user mydbuser localhost identified asdf li li grant privileges em em mydbuser localhost li li flush privileges li ol change code assumed database strong citsp strong strong strong 

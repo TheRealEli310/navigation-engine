@@ -1,0 +1,4 @@
+maven adding jars war present dependency tree 
+recently prepared spring boot configuration work properly standalone jetty encountered strange behavior maven adds jars war archive present worked problem adding pom xml ugly solution pom xml mvn dependency tree em em tomcat lib tree added war unwanted jars href http pretius wp content uploads springbootjettyexample zip rel nofollow heres link sample application adding jars war stop 
+
+run maven package pom produces war files named spbj war running named spbj war original war doesnt related servers lib directory jar files run server jetty server v20150730 jar lots likey problem related dirty target directory 

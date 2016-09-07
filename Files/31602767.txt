@@ -1,0 +1,4 @@
+token tokensession interceptor leading nullpointer httpsession 
+working struts2 web application handling csrf vulnerability token interceptor success error strong redirecting user page action error success message strong pre class lang xml prettyprint override strong token tokensession interceptor working fine strong interceptor nullpointerexception strong stacktrace strong strong action class strong ol li wrong code li li aint redirecting page problem submitted token newly generated token li li handle situation redirecting page li ol 
+
+pre class lang xml prettyprint override running strong token interceptor strong run entire stack token interceptor mandatory interceptors parameter interceptor modeldriven interceptor youre modeldriven wont run parameters wont set nullpointerexception change pre class lang xml prettyprint override pay attention terminology redirecting youre dispatching redirecting implies set problems lost parameters results 

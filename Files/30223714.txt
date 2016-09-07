@@ -1,0 +1,4 @@
+generics fails spring boot 
+configuration class run spring boot works fine dont exception happening soooo confused advance hr h2 edit h2 line failing 
+
+approaching wrong shouldnt messing work create interface extends spring data repository interfaces add basically interface implementation runtime configuration basically repository thing add interface 

@@ -1,0 +1,4 @@
+add numbers array 
+exercise add values array reached showing combinations blockquote array combinations blockquote code doesnt work output trouble finding algorithm combinations question algorithm helps understand exercise logic final code edit development exercise numbers numbers positive problem hoping find answers 
+
+general approach ol li pick numbers equals target li li pick number numbers add previously picked number check reached target li li reached past target sum li ol implemented 

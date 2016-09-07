@@ -1,0 +1,4 @@
+static variables pojo garbage collection objects classes 
+written base class making request repositories static field purpose application multiple request pojos extend abstract class similarly classes extending overriding tostring method doubts garbage collection pojo objects 
+
+static field prevent garbage collection subclasses major problem making static fields unusable garbage collected language test adding href http stackoverflow questions finalize method called finalizer classes create bunch loop calling provoke garbage collection method prints message gc occurring reason static field belongs class object class garbage collected instances exist typically classes arent unloaded href http stackoverflow questions unloading classes classloader garbage collected unusual memory allocated em instances em safely reclaimed effect em class em object em em situations static members prevent gc data cache instances class ordinary collection static field gcd live references 

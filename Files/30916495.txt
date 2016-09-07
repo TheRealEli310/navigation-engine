@@ -1,0 +1,4 @@
+ordering keys properties file alphabetically ignoring case sensitivity 
+function stores values properties file tree map translatedmap retrieves values keymap stores translatedmap issue matter separate capitalized keys capitalized keys code output blockquote capitalized key1 value1 br capitalized key2 value2 br alowercase key value3 br anotherlowercase key value4 br morelowercase keys value5 blockquote blockquote alowercase key value3 br anotherlowercase key value4 br capitalized key1 value1 br capitalized key2 value2 br morelowercase keys value5 blockquote 
+
+achieve ended avoiding store function sorting inside treemap buffered writter wrote file 

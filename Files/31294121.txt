@@ -1,0 +1,4 @@
+fasterxml jackson databind jsonmappingexception deserialize start array token 
+start array error model expecting object inputdetails json input provide solution class 
+
+json specifies array youre deserialize object json em em work alternately deserialize directly array em em havent provided code information tool library youre handle deserialization process 

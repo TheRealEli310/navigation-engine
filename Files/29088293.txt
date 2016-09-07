@@ -1,0 +1,4 @@
+maven bundle plugin creates unexpected import package content 
+build bundles tests found creating bundles moment installing bundles felix bundles unresolved creating header direct dependency package add dependency version idea strong update strong checking bundles activator class bundle isnt version bundles version strong update strong exception receive executing exception install bundles stand felix instance thing works expected 
+
+import package statements built defined package versions libraries case dependency org apache felix framework defines exports org osgi framework version manifest depenency org osgi core package org osgi framework defined version work 

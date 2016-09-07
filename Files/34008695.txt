@@ -1,0 +1,4 @@
+simple junit test asserttrue true fails 
+test fail shouldnt true stack trace 
+
+assert failed asserterror unit test thrown exception running case dont class classpath class missing servlet api class path 

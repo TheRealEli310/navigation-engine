@@ -1,0 +1,4 @@
+parse html 
+parse html page retrieve data incoming html pre class lang html prettyprint override receive outcoming html pre class lang html prettyprint override purpose issue choose equals tags difference contents case tags tag 
+
+library jsoup link href http jsoup org rel nofollow http jsoup org simple simple 

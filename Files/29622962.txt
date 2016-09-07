@@ -1,0 +1,4 @@
+mystery spring integration prototype scope 
+isnt mystery smart figure problem mystery introduction problem prototype scope doesnt work created rest service spring integration flow http inbound gateway front flow scopes beans prototype tested flow calling ten times threads logged bean references print object called reference ten times knowledge means instance created xmltomapconverter instance ten times br configured spring incorrectly find missed web xml springintegration servlet xml flow configuration defined scope xmltomapconverter prototype object request situation convertresttoworkflowbean service call flow service activator explain problem br 
+
+dont usage issue facing called populates beans reference overcome spel case retrieved call trick ahead case bean wrapped invocation delegated demand 

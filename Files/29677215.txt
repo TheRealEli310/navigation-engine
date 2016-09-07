@@ -1,0 +1,4 @@
+nullpointerexception getreseources bitmap array 
+fairly android development ran issue create image array shows gallery click picture shows pic bottom run app crashes helpful advance questions ol li rid li li decoding pictures correctly show li ol strong layout strong strong class strong strong error message strong 
+
+access context object oncreate called current activity work move initialization array oncreate method youre decoding images happen background thread href http developer android reference android os asynctask html rel nofollow asynctask documentation pull image loading separate thread 

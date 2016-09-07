@@ -1,0 +1,4 @@
+recyclerview json fragment android 
+pass arraylist objects obtained json pass fragment android studio class receive array class creating array populate recyclerview array 
+
+adding adapter waiting data return call adapter redraw list parsing accomplishing waiting result back set adapter 

@@ -1,0 +1,4 @@
+findviewbyid returns null webview android studio 
+build android app consists webview android studio minimal sdk layout activity main xml code class mainactivity error lang nullpointerexception oncreate function statement websettings websetting web view getsettings checked variable web view null means statement findviewbyid id web view return webview exists layout xml file layout file called codes fact layout xml dont read link href https stackoverflow questions findviewbyid returns null webview findviewbyid returns null webview clean rebuild project times restart device samsung galaxy tab android times avail br point whats wrong advance 
+
+defining id attribute wrong 

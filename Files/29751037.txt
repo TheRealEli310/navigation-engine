@@ -1,0 +1,4 @@
+obtain result select distinct entity list tuples 
+writing jsf application lets user select list documents list folders user clicks specific folder link list documents related selected folder conventional orm methods define result class managed bean class stack caused explicit select statements dao class selecting specific entity fields entiy results returned array result class include custom conversion class addition defined result class update projectdocs entity simply produce list documents folder document distinct list folders explicitly select classification projectid select statement advance 
+
+list simply query projectdocs fields return list matching projectdocs typed query dont cast access classification field projectdosc jsf site current sql noticed fields results object entry matching type classification id long define class properrties wrapper result typically projectdocs bean 

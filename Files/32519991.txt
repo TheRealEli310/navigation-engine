@@ -1,0 +1,4 @@
+android webview post working extraheader 
+developing android application client webview load external links page form post action loadurl override add extraheaders device type access token submit header lost error make big modification client site find solution android app side 
+
+found solution problem easy simple javascript code injection onpagefinished function 

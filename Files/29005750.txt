@@ -1,0 +1,4 @@
+gif image servlet animating 
+code servlet code returning frame image achieve returning full gif image 
+
+gif animate sending frame client reads frame single frame image writing single frame servlet output stream result animate create animating gifs code verbose href http stackoverflow encode animated gif imagewriter imageio href http stackoverflow creating animated gif imageio good news solution simple save cpu cycles involve send animated gif stored disk technique send binary content simply implemented 

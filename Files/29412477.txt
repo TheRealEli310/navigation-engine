@@ -1,0 +1,4 @@
+method callable superclass 
+prevent class calling method method callable super class achieve cleanly solution code edit explanation lets vehicle car airplane method foo startengines make engines started calling method bara make sense 
+
+href http errorprone info rel nofollow google error prone extension compiler aims provide helpful warnings errors similar findbugs pmd false alarms recommend helped find bugs specifically annotation href https github google error prone blob master annotations src main google errorprone annotations foroverride rel nofollow href http errorprone info bugpattern foroverride rel nofollow compile time check annotation meant protected methods class class call defining class achieve integrate error prone build systems maven ant wont compiles source error prone eclipse continous integration system find issues source code stays compatible regular compilers provided class path compilers simply additional checks 

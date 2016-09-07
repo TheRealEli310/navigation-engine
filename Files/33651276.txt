@@ -1,0 +1,4 @@
+liferay create render url request object 
+create render url portletrequest dont similar portletrequest 
+
+liferay implemented href https github liferay liferay portal blob master portal impl src liferay portlet portleturlimpl rel nofollow constructor expects parameter strictly speaking liferay api create portlet url request object dont pass request object parameter code hide jsp tag request parameter obtains request object current similarly code sort portlet servlet filter store request object thread bound storage request processing portlet urls bound request processing reason bother 

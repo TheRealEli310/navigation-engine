@@ -1,0 +1,4 @@
+configure logging groovy 
+logging groovy wanted modify format string line methods didnt work looked question href http stackoverflow questions logging output single line logging output single line passing property groovy didnt change format passed doesnt picked 
+
+setting windows running sample script yields 

@@ -1,0 +1,4 @@
+method implicitly called println 
+question tostring method implicitly called main method calls printpersonprinting method output code dan 
+
+works default calls method param object convert string representation objects class overriding method result em result default implementation method class em 

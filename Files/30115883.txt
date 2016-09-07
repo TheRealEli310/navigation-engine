@@ -1,0 +1,4 @@
+stop actionlistener executing code user chooses confirm dialog box 
+actionlistener set button user clicks adds progress bar user cancel button press prevent code actionlistener executing program disregard users click choose confirm dialog box catch exception 
+
+simply statement check return state confirmation dialog technique flag confirmation process separate update process difficult strong based updated code strong stab dark guess point completely unreliable adding inside button doesnt make sense simply user wan answer dont theyve clicked button 

@@ -1,0 +1,4 @@
+gridpane row column ids mouse entered cell grid javafx 
+jfx drag drop feature application connecting objects sequence find easy drag drop imageview button suitable position pane planning apply gridpane gridpane large canvas 50x50 cells code drag drop imageview lets cell give access user user move pointer grid drop imageview button cell grid find rowid columnid cell mouse entered cell gridpane handling mouse event controller enters gridpane mouseentered rowid columnid written function function interface img src http stack imgur uxvgz png alt enter image description things detect mouse entry cell gridpane find row column ids cell advance 
+
+values calling havent shown youre putting grid pane populating fxml heres basic functionality tediously populate fxml populate controller depending case handler bit cleaner controller class dont define contents cells fxml define controller makes things cleaner register listener define fxml application 

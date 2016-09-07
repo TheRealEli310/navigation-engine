@@ -1,0 +1,4 @@
+swt treeviewer combobox checkbox 
+display tree column table grid columns combobox checkboxes make work treeviewer doesnt fit tree fine combobox column editorsupport column return comboboxcelleditor getcelleditor method combobox column select cell column click cell selected back default blank checkbox columns visible cell selected display tree combobox column checkbox columns visible looked tableviewer couldnt find force tree column looked nebula grid doesnt supports comboboxes tips work tree table grid edit heres code editingsupport class 
+
+method update model data data returned content provider parameter model data object update updating call tree update display model update directly work 

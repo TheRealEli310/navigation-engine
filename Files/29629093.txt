@@ -1,0 +1,4 @@
+issue adding external libraries android studio 
+strong javax mail strong send mails activity develop app android studio method jar files needed strong mail jar activation jar additionnal jar strong info readed put files libs folder add library gradle build problem realized add library option shown add dependecies manually module settings gradle build methods worked couldnt select imports finally found work module setings app dependencies select button select library dependencies maven central search found ul li javax mail mail b01 li li javax activation activation li ul top level gradle build add app gradle build dont work starts fine send email app crashes shows update gradle build file added top level gradle build app gradle build 
+
+jar files put jar files libs folder add build gradle module 

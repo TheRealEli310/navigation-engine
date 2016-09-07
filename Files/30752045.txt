@@ -1,0 +1,4 @@
+jnaerator sbt project 
+work scala project code sbt compiled code imported scala code jna wrapper manually written automatize found jnaerator dont sbt general approaches ol li command line dont setup command line task sbt typical project structure follow output jna generated code li li jnaerator maven plugin sbt li ol 
+
+iteration approach run custom system command sbt essentially solve scala code add file execute question files files finally invoke 

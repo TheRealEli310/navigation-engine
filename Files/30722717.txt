@@ -1,0 +1,4 @@
+configure servlet tomcat server fix javax naming namenotfoundexception 
+recently deployed app tomcat server working app find servlet thought servlet class apparently syntax mapping wrong find web xml catalina log 
+
+blockquote working app find servlet blockquote wrong find em em em naming resources em suggest start 

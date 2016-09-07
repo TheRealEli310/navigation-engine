@@ -1,0 +1,4 @@
+top records cassandra 
+query top records group date date time sum amount wrote returns records top records records 
+
+heres group state function build map amount rows selected query clause tricky part top finalfunc executed rows put map heres function loop find maximum map move result map find top iterate map times efficient algorithms quick dirty heres find top lastly define aggregate call functions defined lets works drum roll top rows based amount keys wont sorted order map dont control key order map sorting finalfunc waste resources map sorted client work state group total function drop items map map big 

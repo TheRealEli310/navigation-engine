@@ -1,0 +1,4 @@
+websocket spring boot app forbidden 
+websocket spring boot app forbidden connect websocket client sockjs stompjs run eclipse spring boot create spring boot jar gradlew build websocket code run jar websocket code jar error connecting websocket authentication websockets cors filters headers request response build gradle update added cors filter response setheader access control origin href http localhost rel nofollow http localhost firebug client side origin requesting origin list request rejected message logs 
+
+difference environment version jars spring boot starter websocket dependency packaging picking spring websocket release inspite spring version spring version release modified dependency build gradle fixed problem latest version spring websocket jar class stompwebsocketendpointregistration setallowedorigins method cors filter working older version 

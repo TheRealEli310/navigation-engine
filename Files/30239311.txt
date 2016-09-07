@@ -1,0 +1,4 @@
+spring mvc multiple select controls 
+screen spring application working select controls number controls rendered depends number relevant objects passed screen lets select controls strong myvalue strong make spring mvc automatically set controls command class defined data member case data member remains set null resort concatenating values javascript saving hidden input prior submitting form values back controller 
+
+javascript route values returned controller finally realized problem due programmer error defined getter setter data member command class defined switched designation spring mvc expecting finally values controller method form string array 

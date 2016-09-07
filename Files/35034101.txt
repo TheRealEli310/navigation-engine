@@ -1,0 +1,4 @@
+writing excel file apache poi huge data arraylist strings 
+arraylist strings huge approximately 500k items possibility speed writing array excel file takes idea problem method refer code pay attation details class created test purposes lot advance hints 
+
+sxssfworkbook efficient usage apache poi api 

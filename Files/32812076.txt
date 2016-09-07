@@ -1,0 +1,4 @@
+calculating volume surface area 
+working project class included program ve written formula working output isn project write class called sphere instance data represents spheres diameter define sphere constructor accept initialize diameter include getter setter methods diameter include methods calculate return volume surface sphere include tostring method returns line description sphere create driver class called multisphere main method instantites updates sphere objects written 
+
+lines remove declared fields names methods call methods extra end line 

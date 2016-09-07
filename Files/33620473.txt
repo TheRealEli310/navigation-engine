@@ -1,0 +1,4 @@
+hibernate bidirectional composite key 
+create bidirectional association entities side compound key keys side coming side side owner association code showing code strong jointable strong parent class side side owner association child class side primary key parent parent coming association childid embedded id strong jointable strong parent class child class strong question1 strong code doesnt work case jointable exception strong question2 strong case jointable exception 
+
+dont parent id separately child hibernate made simpler design control relation mappedby childs manytoone mappedby parent manytoone side entity public class parent entity public class child tables generated hibernate child table columns primary key parent foreign key parent table column primary key parent child table columns parent child edit solution changed amirs add mappedby whichever side control relationship edit column child side 

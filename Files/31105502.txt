@@ -1,0 +1,4 @@
+show toast onactivityresult 
+attempting show toast message activity returns result custom inflated toast regular toast works fine custom toast wont display code main activitys main activitys toast message replace lines onactivityresult message custom toast instance direction appreciated 
+
+turns issue line activity setting extra info returns int retrieved throws critical warning proceeds displaying toast crashing altering code fixes issue 

@@ -1,0 +1,4 @@
+interceptor add headers retrofit 
+team decide adopt strong retrofit strong initial research newbie library hope community stated title wondering add customized headers strong retrofits strong android app href https futurestud io blog retrofit add custom request header tutorials add headers retrofit apis changed lot latest version adapt methods version retrofit hasnt update documentation codes implement class add extra headers href https square github io okhttp javadoc squareup okhttp interceptor chain html undocumented object called share idea issue 
+
+check 

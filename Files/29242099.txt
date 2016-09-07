@@ -1,0 +1,4 @@
+write method dice random call yahtzee 
+make yahtzee problem write method roll dice write method dice equal call yahtzee 
+
+add dice rollsholder rolledvalues public void rolldice public boolean isayahtzee 

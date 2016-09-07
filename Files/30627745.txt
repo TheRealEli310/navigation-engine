@@ -1,0 +1,4 @@
+explain math ulp double method 
+havent find information online doesnt assume things good resources wrap head function gather pretty wrong fully floating point determines distance number sequence appears number represented bitwise sources read explicitly 
+
+href http matlabgeeks tips tutorials floating point comparisons matlab rel nofollow http matlabgeeks tips tutorials floating point comparisons matlab illustrated blockquote blockquote float2bin ans 0011111110111001100110011001100110011001100110011001100110 strong strong float2bin ans 0011111110111001100110011001100110011001100110011001100110 strong strong blockquote blockquote difference precision binary level differ ulps units place 

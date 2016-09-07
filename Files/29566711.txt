@@ -1,0 +1,4 @@
+compose key hashmap integers 
+require unique mapping integers object make assumption values integers positive implement hashmap works kinda ugly alternative introducing clashes 3rd party libraries edit realized make specific assumptions integers range weight bottom sequences start counting 
+
+work negative values 

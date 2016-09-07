@@ -1,0 +1,2 @@
+  
+The Java platform Event Model is the basis for event-driven programming on the Java platform. 

@@ -1,0 +1,4 @@
+create asynchronousjirarestclientfactory dependency issue 
+previously made restful client application mass manipulate tickets expedite workflow create holistic application utilizes actual jira api parsing json solution simple code block create client attempting create simple asynchronousjirarestclientfactory results exception reading dependency issue differing libraries versions missing dependencies reading atlasian google documents close missing advance 
+
+actual issue lays fact springs transitive dependencies override atlassians transitive dependencies fix wrangle dependencies back jrjc date versions versions change future releases work jrjc core version find reading output lets maven version override back 

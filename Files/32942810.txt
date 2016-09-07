@@ -1,0 +1,4 @@
+jsonobject member variable pojo recognized jersey 
+building restful web service locked situation proceed dao pojo member variable make post call client postman user defined javascript debug gathered getter empty members class obtain values annotating getter worked class hr strong edit strong json hr strong dependency strong web xml dependency jackson hr strong resources provider register web xml strong hr strong myapplication strong 
+
+problem jackson doesnt create jackson handle basic type pojos handle assuming object add href https github fasterxml jackson datatype json org rel nofollow jackson support complete test dependencies test heres test href https jersey net documentation latest test framework html rel nofollow jersey test framework rid em em jackson dependencies comment dependency jackson json support notice test register order jackson handle important dont fail 

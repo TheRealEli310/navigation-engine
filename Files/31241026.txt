@@ -1,0 +1,4 @@
+memory error loading ui android activity 
+load basic activity imagebutton textviews textfield imageview mainactivity javas oncreate function simply calling setcontentview layout activity main applications memory usage graph shows utilizing 44mb total size images app 1mb imagebutton 193kb reason app crashes throws memory error figure whats wrong resolve issue 
+
+happen images big drawable ldpi mdpi folder android os resize case small putting images inside folder avoids rescaling 

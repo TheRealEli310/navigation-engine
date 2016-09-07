@@ -1,0 +1,4 @@
+junit quickcheck generate string maching pattern 
+pholsers port generate strings matching pattern extending generator class overloads function random functions strong nextdouble nextint strong strings generate random strings matching pattern 
+
+find snippet custom generator implement method return random string matching posted pattern strong edit strong simple unit test demonstrate usage class strong sample output strong generated 

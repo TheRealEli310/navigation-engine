@@ -1,0 +1,4 @@
+ignore root json node struts2 action 
+added method struts action added action struts config file pre class lang xml prettyprint override json response response idea required response add field action class 
+
+attribute href https struts apache org docs json plugin html jsonplugin rootobject rel nofollow root object section documentation blockquote root attribute ognl expression root object serialized blockquote case pre class lang xml prettyprint override href http stackoverflow answer worthy read answer question stream technique suggested intellidata 

@@ -1,0 +1,4 @@
+fileinputstream readline returns null set encoding utf 
+works fine works fine file replace code works expected suggested answer read file answer simple read utf file utf 
+
+check encoding files utf encoded big endian utf 16be endian utf 16le code works variants file gnu linux check encoding tool content files code read correctly output code 

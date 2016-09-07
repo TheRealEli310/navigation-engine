@@ -1,0 +1,4 @@
+spring integration task executor simpleasynctaskexecutor 
+application make asynchronous call service dont wait expensive call simpleasynctaskexecutor luck code snippet idea missing requirement request main channel issuticket check header flow1 channel flow2 channel flow2 expensive call start thread simpleasynctaskexecutor thought make asynch call logs main thread waiting flow2 channel complete ideas advance loookign question threads running parallel main thread simpleasynchtaskexecutor main continues main simpleasynchtaskexecutor main simpleasynchtaskexecutor 
+
+upstream questions show config gateway kind youll set simple ignore reply strong edit strong mid flow gateway dont wait result configure answer clear gateway simply wire chains async channel 

@@ -1,0 +1,3 @@
+hibernate custom sql insert id 
+return auto generate id newly inserted row custom sql object method save update ids identity fields handled database server code databaseobject databaseobject 
+

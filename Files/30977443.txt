@@ -1,0 +1,4 @@
+bulkheading strategies akka actors 
+scenario important actor make call slow strong seconds strong remote system akka equivalent em em blocking bad bad bad reading href http noisycode blog akka jdbc services rel nofollow excellent article handling blocking db calls main takeaway essentially em bulkheading em strategies employ ul li place instances dispatcher isolate latency blocking ness actors threads dont interact directly slow service li li invoke slow service true em asynchronicity em li ul attempt problems ul li misunderstanding api dont meant constructing li li obtain blocking fashion li li finally missing strategies utilizing leveraging li ul 
+
+understand correctly kind options listen completed result listen callback futures result moment result service call manipulate apply 

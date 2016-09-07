@@ -1,0 +1,4 @@
+invoke bean method apache blueprint 
+classes blueprint call myclass dosomething secondclass inside blueprint 
+
+understand correctly familiar methodinvokingfactorybean factory method find details factories blueprint href http www ibm developerworks library os osgiblueprint rel nofollow guide blueprint resources imo 

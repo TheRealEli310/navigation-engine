@@ -1,0 +1,4 @@
+singletion ejb async method locktype write block till method processes release lock returns control client 
+singleton ejb default container managed concurrency default locktype write methods explicitly asynchronous method question invoked method lock singleton bean till method completes processing lock till time method returns future object client effect concurrency method bean 
+
+blockquote question invoked method lock singleton bean till method completes processing lock till time method returns future object client blockquote singleton bean locked client thread client thread schedules asynchronous method returns future accessing bean thread eventually executes asynchronous method lock bean duration method execution blockquote effect accesstimeout concurrency method bean blockquote thread eventually attempts execute asynchronous method block container managed lock acquired 

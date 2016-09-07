@@ -1,0 +1,4 @@
+scheduledexecutorservice wait cancelled tasks finish 
+scheduled tasks shutdown id cancel release database lock wait cancelled tasks finish processing strong attempted solutions strong ul li tests block task stopped executing li li invoking results cancelledexecutionexception li li id wait shutdown entire executor shared components li ul 
+
+blockquote wait cancelled tasks finish processing blockquote problem cancellation effort basis href https docs oracle javase docs api util concurrent future html cancel boolean rel nofollow javadoc states blockquote strong attempts strong cancel execution task attempt fail task completed cancelled cancelled reason blockquote typically cancellation implemented interruption interruption convention guarantees implemented correctly send guarantees underlying task running fulfill cancellation reliable implement case 

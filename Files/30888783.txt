@@ -1,0 +1,4 @@
+key p12 open failed enoent file directory 
+android application accessing google cloud storage generated private key strong xxxxxxxkey p12 strong put key file assets folder running project opening key p12 file putting assets folder result strong createfilefrominputstream strong project makes difference android path file location incorrect 
+
+struggle answer lot support thumbs file retrieved strong assetmanager strong strong raw resource strong strong assetmanager strong strong raw resource strong put file raw folder inside res directory writing output file keyfile belongs case android creating file inside internal storage emulator device inside folder strong keyholder keyfile strong 

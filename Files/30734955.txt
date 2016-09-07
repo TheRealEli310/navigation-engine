@@ -1,0 +1,4 @@
+convert hibernate list string 
+method opens session executes hql returns string list properly return string result list noticed tostring method return string list strings hr code domain states cast lang string classcastexception changed query run query select statename states statename statecode run query select statename statecode states classcastexception iterate values 
+
+simply iterate throught elements append alternative strong solution strong strong href https docs oracle javase docs api util stringjoiner html rel nofollow stringjoiner strong strong href https docs oracle javase docs api util stream collectors html rel nofollow collectors strong convert h1 edit h1 referring edit array query couples code store list iterate objects extract data update code 

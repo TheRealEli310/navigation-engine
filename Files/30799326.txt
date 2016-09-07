@@ -1,0 +1,4 @@
+sonarqube adding custom rule 
+implemented sonar plug maven href https github sonarsource sonar examples tree master plugins custom rules rel nofollow https github sonarsource sonar examples tree master plugins custom rules copied generated sonar plugin extensions plugins directory restarted sonarqube server ran analysis mvn sonar sonar rules added rules tab issues logged status rule active rules considered time analysis missing 
+
+enable rules quality profile 

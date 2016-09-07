@@ -1,0 +1,4 @@
+sort collection gps locations distance current gps location 
+collection location objects longitude latitude sort list based locations distance current location object method calculate distance meters location objects 
+
+write comparator distance defined href http stackoverflow questions calculating distance points latitude longitude doi answer compares points based distance origin sort calling 

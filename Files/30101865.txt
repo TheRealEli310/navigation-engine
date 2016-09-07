@@ -1,0 +1,4 @@
+configure number allowed pending requests apache async client 
+developing http client application apache httpasyncclient version configure maximum number pending requests initially assumed number maximum number connections set constructor callback handle response proof concept fails threads running send messages simultaneously immediately rest wait server responds apache debug messages indicating connections created configuration 
+
+apache httpasyncclient maintains unbounded request execution queue attempt limit number pending requests applications throttle request rate easy satisfy fairly easily throttle number concurrent requests simple semaphore 

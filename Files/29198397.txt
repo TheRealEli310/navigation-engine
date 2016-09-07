@@ -1,0 +1,4 @@
+hibernate connection database 
+hibernate config file everytime start server hibernate exception trace 
+
+problem mysql remote server binds localhost default commenting restart server worked 

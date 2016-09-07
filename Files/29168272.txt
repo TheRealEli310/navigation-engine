@@ -1,0 +1,4 @@
+raw types performance 
+page effective advised method signature wildcard preferable type parameter appears preferable set item effective suggests writing private helper method make signature wildcard work looked source code discovered problem em raw types em advised raw types code checks reason performance benefit raw types calling private helper method examples raw types improve performance 
+
+premature optimization root evil find case jit compiler inlines swap method swaphelper method turn performance bottlenecks general jit compiler good detecting performance bottlenecks youre interested performance write benchmark collections swap method variant helper method provide answer question iterations jit compiler recognises swap functions bottlenecks optimizes bottlenecks inlining method calls follow advice effective code collections swap found evidence programmers shortcuts doesnt 

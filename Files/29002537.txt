@@ -1,0 +1,4 @@
+change action key android custom keyboard text field 
+developing android keyboard method change custom keyboard action key text field user selected method working change action key 
+
+keyboard class options imeoptions editorinfo called method onstartinput 

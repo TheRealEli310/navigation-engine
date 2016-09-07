@@ -1,0 +1,4 @@
+spring boot application properties maven multi module setup 
+struggling application properties setup maven multimodule project structure names appliaction properties load target module read href http stackoverflow questions merge application properties files replace spring boot href http stackoverflow questions import properties file shared jar spring posts decided put strong application class strong strong web strong module run command mvn spring boot run parent project exception project found href https github bilak axonframework poc rel nofollow ol li working maven plugin setup run maven li li related maven run mvn spring boot run web module installing dependent modules local repository li ol advance 
+
+reuse spring boot infrastructure thing enable profile question install modules find related discussion href https github spring projects spring boot issues rel nofollow 

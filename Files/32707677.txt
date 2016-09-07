@@ -1,0 +1,4 @@
+birthday probability program 
+create program finds probability random students room birthday number students number simulations inputted run students consistently inconsistent actual answer probbaly fact students birthday count matches fix problem multiple times 
+
+messed logic logic occurrence birthday add total matches break start time finished times divide total matches times code test result close answer 

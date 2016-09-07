@@ -1,0 +1,4 @@
+correct change collapseble toolbar title 
+change title collapsed collapsingtoolbar title change getsupportactionbar settitle collapsetoolbar settitle whats problem 
+
+href https code google android issues detail amp start amp num amp collapsing amp colspec id 20type 20status 20owner 20summary 20stars amp groupby amp sort amp id issue describes experiencing issue solved today essentially code handles collapsing text update text current text null size text bug closed patch scheduled future release design library workaround changing size text changing back styles xml happy coding edit code collapsingtext helper inside collapsing toolbar layout control text view offending lines sets boolean determine change text line collapsing toolbar layout recalculates view determining factor set text textsize change text size collapsing toolbar layout title change untill collapsed expanded collapsed position 

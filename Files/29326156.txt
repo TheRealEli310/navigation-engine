@@ -1,0 +1,4 @@
+spring security permitall working 
+enable spring security system urls security security section admin section login case accessing url href http localhost kma api admin accounting rel nofollow http localhost kma api admin accounting requires username password 
+
+configuration match requests 

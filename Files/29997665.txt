@@ -1,0 +1,4 @@
+converting char long 
+creating big integer class read longs function arguments number long read occupy index array converting long string char array storing temporarily works fine printed prints number read add array data type made arrays deal problem cast char long completely converting char respective number character class doesnt converting long whats edit change long arrays int arrays character getnumericvalue char ch works adding array properly planning returning long end function make arrays long safety storing ints array fine 
+
+real difference data size typically byte typically bytes convert creating array ascii characters represent number represented memory converted array byte byte character string byte ascii cast back ascii character string represented memory integer convert string back integer representation 

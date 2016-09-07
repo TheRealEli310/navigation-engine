@@ -1,0 +1,4 @@
+priority queue ordering elements 
+elements priority queue ordered natural order default doesnt implement comparable interface href https docs oracle javase docs api util priorityqueue html rel nofollow docs elements ordered based natural ordering find talks equals method comparable hows happening internally blockquote implemented interfaces serializable iterable collection queue blockquote implements comparable doesnt line print statement prints prints natural ordering 
+
+internal data structure ordered strong href http en wikipedia org wiki heap data structure rel nofollow heap strong doesnt ordered focuses strong head strong data insertion em log em time sorting wastes time useless queue element provided comparable checking strong runtime strong compile time element added occurs answer em prints em mentioned ordered focuses head minimum tree linear 

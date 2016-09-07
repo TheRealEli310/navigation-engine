@@ -1,0 +1,4 @@
+spring mvc requestmapping return simply close 
+working jsp gathers info submitted page closes confirmation page dont confirmation page clicking submit jsp simply window close return controller put simply end controller 
+
+changed method controller return void added script jsp updated line form jsp submit button jsp stays works 

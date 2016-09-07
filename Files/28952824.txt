@@ -1,0 +1,4 @@
+draw path points arraylist 
+developed android travelling salesman problem tsp game application user makes path plays computer tsp algorithm make full path time user clicks join points line method computers path draw called user makes move code allowing points computers path stored arraylist called test joined complete path drawn method called 
+
+error line loop variable incremented points personally rid variable option increment time pre increment point point point point point initialized 

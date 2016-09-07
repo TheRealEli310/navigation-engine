@@ -1,0 +1,4 @@
+connect db2 jdbc domino 
+connect db2 database domino application extension library created managed bean connects db2 prints message console call method managed bean button xpage code bean configured build path added db2jcc jar library problem blockquote lang classnotfoundexception ibm db2 jcc db2driver blockquote happening 
+
+db2 jdbc driver application suspect package driver plugin nsf hit security issues work recent versions extension library designer update site install provide menu option domino designer easily package jdbc driver plugin deployed update site database strongly recommend extension library provide robust connection pooling things hit problems considered resolved experience extension library developers hit problems struggle find experience 

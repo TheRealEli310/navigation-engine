@@ -1,0 +1,4 @@
+json unique keys objects convert pojo gson 
+situation retrieving list objects unique ids keys nested objects unique ids create pojos creating model classes objects serialize unique key values good solution attached image give idea talking img src http stack imgur afiwi png alt enter image description create list list problem key unique type thinking strong objects strong strong nestedobjects1 strong strong nestedobject2 strong suggestions tackle strong edit sample json output strong 
+
+names annotation field class suggest implement custom deserializer shouldnt care key values assuming proper constructors heres implement deserializer class bad class named jdk register deserializers gson parser outputs youd define custom deserializer class fill empty list guess principle hope helps 

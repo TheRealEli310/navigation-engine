@@ -1,0 +1,4 @@
+finding string list text files directory locate line number 
+add functionality track line number string found implement code mind files 50mb size 
+
+search text loop line file reading record line numbers string found depending context case insensitive search changing search string line case uppercase lowercase 

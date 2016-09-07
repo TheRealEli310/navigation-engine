@@ -1,0 +1,4 @@
+android values getstringextra 
+ill straight problem pick pdf file intent onactivityresult save filepath picked file click button start upload file problem throw null pointer exception dont reason line line line filepath line empty save filepath bundle incorrect filepath heres href https github august08 mycyberlaw blob master app src main fyp mycyberlaw lecturer uploadnotesactivity rel nofollow class case advance 
+
+object pass params activities receives file path activity create variable inside activity set read notice save variable callback restore time turn phone activity destroyed recreated check information href http developer android training basics activity lifecycle recreating html rel nofollow recreating activity 

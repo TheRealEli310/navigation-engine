@@ -1,0 +1,4 @@
+redirecting jsp json response rest call 
+working assignment create simple blog user questions posts answers comments limited knowledge rest jquery managed fetch list posts displaying table user clicks post redirected page comments question displayed implemented rest method returns json response comments relevant post id passed user clicks post redirected rest response method serving rest call simplest simultaneously redirect jsp parse json display 
+
+dont redirect page jsp general template jsp page display post answers json page make ajax call json post answers render page problem pass post id page br setting html tag page loaded jquery tag extract attribute form url ajax call br h2 h2 lets assume page display list posts page jsp page display post comments lets call page parameter url page set tag ajax request load comments rest url 

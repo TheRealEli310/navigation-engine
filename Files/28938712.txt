@@ -1,0 +1,4 @@
+environment variables gradle properties file 
+set org gradle home property gradle properties file run gradle project rest system hance home pointing jdk problem hardcode properties file developers path version wanted set environment properties file org gradle home project gradle home didnt work environment values gradle properties solution 
+
+edit gradlew bat file make developers wrapper gradle local installation edit home env variable 

@@ -1,0 +1,4 @@
+android retrofit missing method body declare abstract 
+writing android app retrofit make api requests helper class actual retrofit implementation simple problem build project error referring apiendpointinterface class idea whats 
+
+api declaration youre creating apiendpointinterface telling builder set log level full 

@@ -1,0 +1,4 @@
+parallel db calls 
+web application extremely fast processing requires access multiple data sources decided make parallel calls optimization basically make db calls parallel recommend simple reliable technologies achieving goal provide frameworks design patterns spring 
+
+strong strong href http docs oracle javase docs api util concurrent completablefuture html rel nofollow asynchronously existing synchronous method list requests form run parallel make stream launching requests asynchronously effective write custom threads marking threads deamons finish program thread blocked find clear explanations techniques chapter book href http www manning urma rel nofollow action strong update strong stick solution requests run asynchronously wait completion order list finally answer subsidiary question comment dont create thread pool request 

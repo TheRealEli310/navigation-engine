@@ -1,0 +1,4 @@
+spring mvc rest services number threads controller instances 
+application achieve higher throughput threading works spring mvc controllers advance helped href http community jaspersoft wiki increase maximum thread count tomcat level rel nofollow http community jaspersoft wiki increase maximum thread count tomcat level 
+
+web application em hosted em application server tomcat application server manage thread pool request handled thread web application dont worry thread pool size thread pool parameter application server em achieve higher throughput em identify bottleneck experience size thread pool application server rarely root performance problem hr number controller instances controller singleton shared threads controller thread 

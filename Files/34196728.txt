@@ -1,0 +1,4 @@
+suitable httpmessageconverter found response type class org springframework http responseentity content type application octet stream 
+guide href http www benashby spring serving large files spring mvc html rel nofollow stream file send file spring receive exception client side code easy test write file file system problem server send stream client retrieve server code guide server receive exception connection reset peer outputstream byteswritten cycle times send type file stored file heap memory send file bad approach big file simultaneous download received heap exception idea 
+
+work row 

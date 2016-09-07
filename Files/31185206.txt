@@ -1,0 +1,4 @@
+restricted elliptic curves card 
+implement cryptographic algorithms elliptic curve card implemented 256bits elliptic curve nist worked test 512bits curve nist card support size found database elliptic curves defined cryptography size encountering strange problem initialize key function raises reason code means key length doesnt match size curve bits length prime bytes strange works fine conclude raised doesnt concern size parameter cases size card support elliptic curve specific fields encountered kind problem 
+
+prime big curves bit bit primes byte starts hex digit means byte starts binary digits set meaning youve defined bit prime defined curves nist p521 curve brainpoolp512r1 curve 

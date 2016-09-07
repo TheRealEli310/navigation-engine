@@ -1,0 +1,4 @@
+exclude webapplicationinitializers cloudfoundry war deploy 
+specific version question general version ill ways strong specific question strong traditional spring web application integrates apache camel pushing cloud foundry depends custom library pulls deploying cloud foundry autoreconfiguration classpath finds invokes annotation parsing errors exclude doesnt work isnt happening autoconfiguration step strong general question strong facility autoreconfigure code included buildpack skip executing 
+
+deploy app executable war scanning spring thing buildpack thing 

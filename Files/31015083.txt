@@ -1,0 +1,4 @@
+glbufferdata generating gl invalid operation 
+href http ogldev atspace uk www tutorial32 tutorial32 html rel nofollow ogldev tutorials stuck vertex array objects work heres relevant code arraylist filled positions mesh returns float array members vector checked code starts generating found line culprit checking documentation generated parameter set reserved case whats happening 
+
+conditions trigger error opengl spec blockquote invalid operation error generated bufferdata bound target invalid operation error generated buffer immutable storage ag buffer object true blockquote error condition applies opengl immutable buffers allocated logical explanation case bound youre binding buffer line posted code means point buffer ids generated missed call improperly 

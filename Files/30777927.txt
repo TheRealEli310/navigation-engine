@@ -1,0 +1,4 @@
+android http request post 
+created simplest app default post retrive php page myactivty android studio debugs works fine ran app devecies android kitkat android lollipop devices application closing retriving error unfortunely myapplication closed problem system err 
+
+strong strong problem didnt add permission resolve add line manifest strong strong problem youre execute post request main thread execute network requests 

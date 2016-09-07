@@ -1,0 +1,4 @@
+jetty ssl jetty client side 
+jetty develop client application side jetty server part configure client side send https request jetty client http client exception send request https 
+
+pass configure trusting give keystore 

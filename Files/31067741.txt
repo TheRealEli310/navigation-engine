@@ -1,0 +1,4 @@
+fast asynchronous making multiple http requests 
+program make fast http requests requests made asynchronously wont block main thread created queue observed separate threads make http requests inserted queue thread data make requests process result queue filled thousands items multithreading neccessary response fast alot code ill give short strong main class strong strong fasthttp class strong faster make thousands http requests response processing asynchronously speed performance 
+
+answering question apaches asynchronous http client started nings async client happy 

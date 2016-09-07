@@ -1,0 +1,4 @@
+android set clickable text fragment fragment 
+suppose fragments text clickable fragment user click text fragment href http stackoverflow questions set part text view clickable helped work fragment solve problem layout xml 
+
+loginactivity fragment class setonclicklistener textview fragment change change intent fragmenttransaction spannablestring id container fragment main activity layout view replaced 

@@ -1,0 +1,4 @@
+communicating php servlet applications 
+creating web servlet presently accessed php payload file contents href http localhost helloworldservlet index joe amp age rel nofollow http localhost helloworldservlet index joe amp age calls helloworldservlet web application running tomcat server url pattern index doget invoked servlet doget method writes data json response question send back json php display php application running port code doget created filter changing request forward php page didnt work expected web xml 
+
+write response body return immediately dont jsp primarily designed act template html output 

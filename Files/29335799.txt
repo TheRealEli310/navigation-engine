@@ -1,0 +1,4 @@
+parse unix utc android 
+json picture android application problems parse sunrise sunset unix utc format question strong show local hour minute strong img src http stack imgur oakot jpg alt enter image description sunrise wrong strong strong 
+
+couple issues convert unix timestamp date unix timestamps dates stored internally long offset specific instant epoch fortunately epoch unix timestamps higher resolution long represents date unix timestamp multiply result initialize date essential thing make timestamps longs ints doubles numeric type essentially youll numeric json long string getlong getstring finally youll format date hours minutes set textview 

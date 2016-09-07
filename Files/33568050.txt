@@ -1,0 +1,4 @@
+lang nosuchmethoderror org apache spark ui sparkui addstatichandler ljava lang string ljava lang string 
+running spark sql href https github apache spark blob master examples src main org apache spark examples sql javasparksql rel nofollow https github apache spark blob master examples src main org apache spark examples sql javasparksql exception error compile time avoid couldnt find exception exception trace pom xml dependencies 
+
+version issue version dependencies 

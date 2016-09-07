@@ -1,0 +1,4 @@
+opencv mac unsatisfiedlinkerror 
+struggling week making opencv work macbook success guide href http opencv tutorials readthedocs org en latest installing opencv html install opencv linux mac rel nofollow http opencv tutorials readthedocs org en latest installing opencv html install opencv linux mac includes cmake generate opencv java310 jar file libopencv java310 recently found files linux os make work mac os naming libopencv java310 libopencv java310 dylib renaming library file dylib work eclipse throw exception href http stack imgur c4cvv png rel nofollow program testing opencv works properly guys idea means fix appreciated 
+
+solved problem guide href http opencv tutorials readthedocs org en latest installing opencv html install opencv linux mac rel nofollow http opencv tutorials readthedocs org en latest installing opencv html install opencv linux mac finished execute command ind folder libopencv java310 ln libopencv java310 libopencv java310 dylib 

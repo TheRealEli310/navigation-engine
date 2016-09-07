@@ -1,0 +1,4 @@
+lang long cast lang double 
+method takes object input input instanceof long converting double code executing code exception kindly giving exception directly cast long object double exception classcast coming confusing 
+
+found explaination jls href https docs oracle javase specs jls se7 html jls html jls rel nofollow https docs oracle javase specs jls se7 html jls html jls br strong table casting conversions primitive types strong converting object type primitive strong narrowing unboxing strong statement strong narrow object double strong strong actual long strong runtime throws strong classcastexception strong narrowing conversion rule defined strong narrowing reference conversion strong converting long type double strong unboxing widening strong unbox long calling longvalue method widening long double error 

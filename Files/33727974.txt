@@ -1,0 +1,4 @@
+call jframe class netbeans 
+posted achieve results call class main class setting comm port frame created design netbeans software strong question main file open frame created class strong shortened codes strong main class strong strong gui class strong 
+
+firstly class gui class extend jframe causing problem class instantiated extend generally implies instantiated thirdly method entire application fourthly method gui class create rcda jframe serial class supposed based title question separate thread finally make setting jframes size method heres basic code create access custom jframe class strong start class main class strong strong customjframe class jframe class strong tested works fine 

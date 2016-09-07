@@ -1,0 +1,4 @@
+javafx tabpane selection wont work properly 
+fxml forms controllers window productpane simplified window fxml controller window fxml problem load window fxml main launch appearse window empty tab debug output productpane loaded listener call switch tabs window listeners triggered products tab loaded properly whats problem 
+
+added tab panes selection model notified selection default tab selected time change listener added tab selected means call selection doesnt change youre select tab selected listener isnt notified solution ugly directly load products tab content products tab selected time add listener factor code separate method avoid repetition find kind functionality lot interested href https github tomasmikula reactfx rel nofollow reactfx framework built functionality handles kinds cases 

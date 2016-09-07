@@ -1,0 +1,4 @@
+thread execution ordering setting priority 
+set threads priority order running program runs dont understand execution set bs priority priority 
+
+thread priorities threads priority recommendation operating system prefer thread scheduling cpu allocation decision point threads involved implemented depends operating system jvm implementation href http www javamex tutorials threads priority shtml rel nofollow javamex nice discussion thread priorities gist ol li priorities effect li li priorities em em part calculation dictates scheduling li li distinct priority values translated practice priority li li os makes decisions priorities underlying oss threading mechanism li ol read article shows linux windows em em problem stem point youre running windows reasons 

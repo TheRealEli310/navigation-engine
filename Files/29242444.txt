@@ -1,0 +1,4 @@
+calculate total sum jlist elements 
+creating shopping cart simulation list products inventory list shopping cart user scan items theory display total cost items jtextfield list added basket scan items method main issue scanning item cart display sum total items inventory list item scan print line item javax swing jlist 344x326 layout awt borderla issue itemlist class 
+
+tostring representation jlist jlist default renderer invokes tostring method object added listmodel dont add jlist checkout basket add item list checkout basket separately 

@@ -1,0 +1,4 @@
+gcm encryption decryption xws security webservices rt 
+successfully implemented support gcm encryption xws security encryptionprocessor jdk8 tested systems problem decryption problem security invalidalgorithmparameterexception unsupported parameter javax crypto spec ivparameterspec solved problem changing initialisation vector iv ivparameterspec gcmparameterspec code snippet decryptionprocessor end error calling dofinal advice recommendations appreciated 
+
+fixed decrypting swa attachments dave thompson hint code adjusted similar problem gcm xml element decryption follow 

@@ -1,0 +1,4 @@
+weblogic set system property 
+running weblogic locally run run production server instances administred weblogic server set system property weblogic menu item servers configuration server start arguments file prints null argument missed 
+
+add set options options druntime environment local startweblogic cmd file 

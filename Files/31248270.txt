@@ -1,0 +1,4 @@
+return string whitespace 
+modify main class receive values losing whitespace portion main class line prints values whitespace string changed 
+
+problem scanner trimming white spaces google libraries gson googles guava files class tostring method read file string href http docs guava libraries googlecode git javadoc google common io files html tostring io file 20java nio charset charset rel nofollow files tostring 

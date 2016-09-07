@@ -1,0 +1,4 @@
+jcraft jsch jschexception algorithm negotiation fail jcraft jsch session receive kexinit unknown source 
+connect unix server fails error 
+
+found solution added algorithms kexalgorithms diffie hellman group14 sha1 sshd config restarted posted href http thoughts jcraft jsch jschexception algorithm negotiation fail jcraft jsch session receive kexinitunknown source rel nofollow http thoughts jcraft jsch jschexception algorithm negotiation fail jcraft jsch session receive kexinitunknown source 

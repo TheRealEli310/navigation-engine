@@ -1,0 +1,4 @@
+error setup config properties selenium testng maven 
+couldnt find complete instructions config properties file maven testng exception ol li testng suite added li ol content config file user testuser password pswd ol start li pom xml src test resources true li li code beforetest parameters config file public void initframework string configfile throws exception li ol compile org testng testngexception parameter config file required configuration method initframework marked optional defined question options mixed wanted working read parameter selenium testng maven 
+
+simply read property file write property file 

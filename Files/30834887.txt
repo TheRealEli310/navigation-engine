@@ -1,0 +1,4 @@
+error big decimal 
+blockquote method add bigdecimal type bigdecimal applicable arguments pay blockquote error code reference saved class separate file import point lacking misunderstanding find solution couldnt find pay file 
+
+error message tells method argument expects instance href https docs oracle javase docs api math bigdecimal html add math bigdecimal rel nofollow javadoc blockquote em public bigdecimal add bigdecimal augend em returns bigdecimal augend scale max scale augend scale strong parameters strong br em augend em added bigdecimal strong returns strong br em augend em blockquote youve passed variable type method subtype related method add instance compiler complains argument type fix bypass problem method creates guess add change method bit method creates returns calling method change method call method problem left javadoc posted returns instance youre assigning returned variable type change code compiles work expected 

@@ -1,0 +1,4 @@
+jhipster rename primary key add changeset json 
+today started question rename id column add change existing file alter database create domain document talks change existing domain database change set default jhipster generated primary key column id column product id sale id generate entity easy generate entity json file existing database tool hibernate database table hbm file 
+
+easily change primary keys generated jhipster require customize entity generator basically means forking jhipster project reverse engineer existing database generate entity json files 

@@ -1,0 +1,4 @@
+displaying list music files external sd card listview 
+show list music files sd card app code code working error mp3 files shown listview populated names folders phones internal memory strong mainactivity strong strong audiofilefilter strong questions related topic identify problem appreciated advance 
+
+arent recursing directories youre showing directory names youve passed allowdirectories audiofilter passing argument constructor defaults true scan directory files matching filter find subdirectory add list directories scan number ways recursion find directory call function directory input parameter list directories scan time find directory append list scanning files directory pop directory list directories continue youve directories scan idea recursive 

@@ -1,0 +1,4 @@
+android image url server pass string client base64 decode encode working 
+server fetch image external service url android parse result image displayed aint errors exceptions server client problem edit android class 
+
+commented lets assume base64 string responsed web service server side app refer sample code server compressed reponse data em gzip em em deflate em client app decompress data hope helps 

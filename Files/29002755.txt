@@ -1,0 +1,4 @@
+libgdx move sprite direction 
+kind libgdx learning working small game project learn nice framework issues game game top shooter human character space marine shoot alien moving direction dies code doesnt bullets make shooter rotate direction cursor alien rotate direction shooter make alien move direction pretty method completely wrong lot fix fixed attention guys find full code main class href https github igor lopes libgdx blob master splash l125 rel nofollow https github igor lopes libgdx blob master splash l125 
+
+solution awhile forgot post heres method move list enemies player 

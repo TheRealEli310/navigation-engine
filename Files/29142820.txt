@@ -1,0 +1,4 @@
+generics behaves weird class instanceof check 
+code piece code compile time error method illegal generics types qualify class outer class compiles perfectly fine works remove class declaration missing potential problem qualifying outer class point test intellij idea 
+
+href http docs oracle javase specs jls se8 html jls html jls jls sect blockquote compile time error referencetype mentioned instanceof operator denote reference type reifiable blockquote code equivalent reifiable href http docs oracle javase specs jls se8 html jls html jls jls sect reifiable valid expression relevant quote jls section blockquote generic class generic member class type reifiable reifiable reifiable type reifiable reifiable blockquote change reifiable valid expression 

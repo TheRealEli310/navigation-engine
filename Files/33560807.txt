@@ -1,0 +1,4 @@
+sending byte array netty 
+send receive client error writes pipeline factory client write code debugging purposes data send string stringdecoder correct method send receive edit found thread closing channel solved eager learn practices kind job 
+
+cases based question ol li incoming bytes represent frames stored frame capture frame transfer user li li incoming bytes represent fixed frames capture frame transfer user li li incoming bytes represent frames user deal length array li ol case choice capture frame based length stored frame case frames size case special decoder readable bytes fetched incoming transferred handler approach real application youll deal messages type size netty guarantee message split message arrive chunks cases decode incoming bytes skip capturing step 

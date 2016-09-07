@@ -1,0 +1,4 @@
+wildfly jdbc connection oracle 
+create jdbc connection wildfly application server br cr1 oracle 11g put ojdbc14 created module xml folder wildfly cr1modulescomoracleojdbc14main inserted standalone xml error test connection console googled found error 
+
+kind failures diffucult fix excepctions server check check invalid jndiname code href https issues jboss org browse as7 rel nofollow https issues jboss org browse as7 

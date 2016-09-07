@@ -1,0 +1,4 @@
+controlling javafx toolbar size adding removing items 
+borderpane place toolbars cardinal points top left bottom toolbar expands accept 1st item growth revert toolbar empty id shrink initial state nothings manually setting width height handled layout edit added images show img src http stack imgur in1qd png alt em initial state empty toolbar set strong fx border color strong red em img src http stack imgur jtk14 png alt item added em item added em img src http stack imgur irq1t png alt em item removed showing toolbar didnt revert initial form em 
+
+pane laying logic designed showing button control permanently setting size hide items show strong edit strong full 

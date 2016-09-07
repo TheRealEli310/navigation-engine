@@ -1,0 +1,4 @@
+capture output exec maven plugin 
+integrate 3rd party api goal call main class parse output api specific plugin maven exec maven plugin capture save output executions 
+
+href http www mojohaus org exec maven plugin exec mojo html rel nofollow goal parameter command line property 

@@ -1,0 +1,4 @@
+javafx eventhandler nullpointerexception 
+gui classes eventhandler problem find solution avoid nullpointerexception eventhandler method call stumbles button initialized couple buttons initialized user createaccountgui stage createaccgui initialized cag getregistrate nullpointerexception smart handling sort problem split handlers 
+
+add null check code symbol href http stackoverflow questions logical operator short circuiting short circuits false reach null btw part swing update javafx dialog api 

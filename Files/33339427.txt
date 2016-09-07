@@ -1,0 +1,4 @@
+javafx multiple panes scene 
+make application date top automatically centered content bottom aligned direction figured multiple panes exist scene 
+
+scene strong root strong pane panes scene code depending application layouted choose pane implementations tip familiar whit layout containers scenebuilder application href http gluonhq open source scene builder rel nofollow http gluonhq open source scene builder link understanding layouting works javafx href http docs oracle javafx scenegraph jfxpub scenegraph htm rel nofollow http docs oracle javafx scenegraph jfxpub scenegraph htm href https docs oracle javafx layout builtin layouts htm rel nofollow https docs oracle javafx layout builtin layouts htm 

@@ -1,0 +1,4 @@
+table found apache calcite 
+basic things calcite understand framework setup simple supposed read json files model test model loaded fine pull database metadata information file loaded table people schema statement table error table found blockquote blockquote line output shows tables database metadata null people table shows table present schema people type table test code ideas select loaded table interesting thing noticed file called times complete code project found href https github adeelmahmood calcite json rel nofollow github 
+
+problem case sensitivity enclose table double quotes calcites sql parser converted upper case file called json table called query table called solution write query embed 

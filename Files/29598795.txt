@@ -1,0 +1,4 @@
+binary search tree findnode method returns root 
+binary search tree integers including traversal methods work nodes correct order made methods searching finds returns node calls method prints node exists depending returns null means doesnt exist findnode int bstnode returning root compare code online correct methods call searchprint int main method amp exist tree output written paper search makes sense returns root wrong 
+
+recursive call return actual result keeping result br 

@@ -1,0 +1,4 @@
+mocking testing http request 
+write unit tests program mock data confused intercept http request url program calls url api returned simple xml file test xml file api online receive predetermined xml file compare output expected output determine working correctly pointed mockito examples post href http stackoverflow questions mockito testing rest service mockito testing rest service clear set mock data return xml file call url made thing program made running locally tomcat test pass special url calls locally running program tomcat return xml file test overkill dont acceptable point direction spring boot parts spring framework helps 
+
+part problem youre breaking things interfaces wrap interface provide concrete class implementing interface concrete class passed class original essentially em dependency inversion em code end code static instances provide object test mocked test test create derived class implementation returns mock throws exception 

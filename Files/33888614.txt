@@ -1,0 +1,4 @@
+heroku unable access jetty runner jar file 
+deploying spring mvc app heroku jetty runner jar error deployment heroku logs show app working correctly run locally file target dependency jetty runner jar created correctly computer running mvn package command procfile pom xml file project code located href https github gfigueroa nlp tools spring heroku rel nofollow https github gfigueroa nlp tools spring heroku strong additional details strong ran command deploying shows file folder created deploying packaged project locally 
+
+deleting file directory required directories build app remove modify option remove plugin pom xml exclude deleting simply adding tags option delete required folders deploying app successfully recommend href https maven apache org plugins maven clean plugin examples delete additional files html rel nofollow page information 

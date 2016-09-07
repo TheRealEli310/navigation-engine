@@ -1,0 +1,4 @@
+netty client server chat 
+client server communication netty project purpose started handson improve learning netty beginner simple client server chatting netty client server initialized server client pipeline connection establishment client sends message inside messagereceived part serveradapterhandler source codes client client channel initializer client message handler server server channel initializer server message handler output server client expected response client line delimter framer results advance 
+
+works change method add exist anymore newer version 

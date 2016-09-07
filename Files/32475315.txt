@@ -1,0 +1,4 @@
+load fxml file located src maven folder 
+working javafx maven project store fxml file inside sources inside resources folder br store fxml location src main strong resources strong views myfxml fxml loading errors command load fxml file src main strong strong package roleview fxml location 
+
+make distinction resources sources long fxml file visible classpath packaged jar appropriately reach maven configuration line work load file 

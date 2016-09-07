@@ -1,0 +1,4 @@
+listen fragmentstatepageradapter setprimaryitem activity 
+started coding android viewpager inside fragment listen setprimaryitem event viewpageradapter activity pass data adapter activity interface dont activity inside adapter 
+
+basic observer pattern youll encounter lot work subscribing works setting 

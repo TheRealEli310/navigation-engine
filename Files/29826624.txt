@@ -1,0 +1,4 @@
+jackson parsing dynamic json 
+jackson problems determining deal processing json files dynamic nature solve issue streaming tree api involve lot code easily maintained json files default behaviour json object parsed add url service1 service2 url lists subclass url specific urls data object url class planning parent class parameter url level json parameters handle jackson 
+
+answer struggling jackson simple elegant ended switching gson library json parsing allowed create custom deserializer class extremely easy similar found href http www baeldung gson deserialization guide rel nofollow http www baeldung gson deserialization guide guidance jackson made realize jackson meet stewart 

@@ -1,0 +1,4 @@
+integration jaxb binding file cxf generate client based wsdl 
+incorporate jaxb binding file cxf xjc plugin call wsdl2java generating wsdl blockquote createxsdimports blockquote create external schema files execute jaxb binding specific file jaxws binding error alternate solution jaxws binding file externalizing wsdl testimpl schema1 xsd binding xml file maven dependency error attempting run plugin 
+
+needed change cxf plugin wrong path binding xml file correcting path work expected 

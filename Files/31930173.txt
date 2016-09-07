@@ -1,0 +1,4 @@
+inheritance abstract methods package access 
+section jls class abstract methods true member methods declared inherited abstract cs superclasses abstract method declared package access exists method overrides abstract method superclass interesting option package access public protected methods 
+
+order private open modifiers ul li private li li package li li protected li li public li ul child classes inherit package methods parent class package class inheriting parent abstract rule 2nd rule exists address situation child class inherits abstract parent unable provide implementation abstract package methods nonsensical situation expect program language fully end weird bug class undefined methods instantiated 

@@ -1,0 +1,4 @@
+intellij idea gradle practices 
+developing application intellij idea solely application structure project idea single project modules part application jar jars dependencies modules strong protocol strong depend depends strong infrastructure strong gradle scripting managing project question practice structure code idea create single gradle project gradle module jars create single project empty project gradle modules jars create single gradle project modules gradles project empty project gradle modules jars closely coupled gradle guidance practices combining gradle idea guy 
+
+long code source repository root empty project outputting jar projects projects gradle terms include file located root project project file files easily define dependencies projects convenience create special task put artefacts folder root level dont folders stuff intellij ultimate works fine approach simply hit compile configure project settings run make prefer 

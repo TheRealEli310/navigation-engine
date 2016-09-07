@@ -1,0 +1,4 @@
+dagger2 module obtain context pass constructor class provide 
+time dagger2 android application myapplication class extends application imageassistant class collection related image processing methods myapplicaiton class instantiate imageassistant activities make work dagger2 dont pass context module imageassistant code looked enter dagger package modules edit module dont tie appcomponent 
+
+module usage dont forget init class static class share created app read href http square github io dagger rel nofollow building graph section 

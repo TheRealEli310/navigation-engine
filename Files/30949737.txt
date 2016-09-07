@@ -1,0 +1,4 @@
+ending loop blank line enter key inside switchcase 
+amended input scan br end loop enter key blank line test codes works fine integrate main program loop int switch case loop program skips codes case2 continue loop sample output 
+
+scanner reading input blank line newline character buffer scanner starts read returns empty line line length exit loop immediately heres guess current program output line prints means read empty left newline newline isnt part number left buffer 

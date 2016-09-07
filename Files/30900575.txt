@@ -1,0 +1,4 @@
+make sequential processing asynchronous parallel operator 
+piece method working method essentially processes entry processing sequentially thread making process asynchronous parallel operator process entries concurrently run code missing results processed properly 
+
+observable run main thread reported subscriber methods called worker appears thread code real work logging subscriber asynchronously meant obs subscribeon schedulers io subscribe terms parallel processing line obs doonnext entry gt dowork entry observeon schedulers io subscribe bit asynchronously int numprocessors runtime getruntime availableprocessors obs buffer math max constituents size numprocessors flatmap list gt observable list doonnext entry gt dowork entry subscribeon schedulers computation observeon schedulers io subscribe buffer work processor lot thread context switching missing results repeatable test case paste code report rxjava github issue 

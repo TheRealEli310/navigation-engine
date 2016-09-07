@@ -1,0 +1,4 @@
+error importing jar file eclipse adding build path 
+lib directory eclipse project jar file foo jar class file foo class strong default package foo jar strong added build path eclipse project properties build path libraries add jars foo jar appears referenced libraries section eclipses package explorer src directory project file bar line body bar code contents foo class appears error import statement import foo resolved program wont run error bar whats proper care cleaned project refreshed 
+
+import xxx foo xxx package jar default package foo wont import case m8 

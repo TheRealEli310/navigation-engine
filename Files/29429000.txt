@@ -1,0 +1,4 @@
+jpa transient field native query mapping 
+entity field resides table made transient prevent jpa mapping errors retrieve entitys content native query problem idea map native queries entity dont transient field entitymanager 
+
+map results native query sqlresultsetmapping href http docs oracle javaee api javax persistence sqlresultsetmapping html rel nofollow http docs oracle javaee api javax persistence sqlresultsetmapping html mapping columns native query matches attribute mapped column entity dont mapping 

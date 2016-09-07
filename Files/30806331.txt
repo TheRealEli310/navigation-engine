@@ -1,0 +1,4 @@
+preventing escaping construction final fields 
+read escaping realize previous code bad idea external processes reference shouldnt passed constructor constructed due final fields app dont initialize lazily making fields final important escaping 
+
+constructor dependencies problem cycled ioc containers operate post construct methods avoid problems object instantiation applying principal code reference app final design natural error prone 

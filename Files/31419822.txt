@@ -1,0 +1,4 @@
+spring mvc thymeleaf correct context path handling 
+developing web application spring mvc thymeleaf correct make links pages work application deployed write deploy application link work thought current path controller method link page 
+
+thymeleaf assuming declared require 

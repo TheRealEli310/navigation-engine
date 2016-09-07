@@ -1,0 +1,4 @@
+detect mouse movement node button pressed 
+strong problem strong add event listener node detects mouse movement doesnt work mouse button pressed moved node strong question strong detect mouse movement button pressed found solution href https docs oracle javase javafx api javafx scene input mouseevent html mouse dragged rel nofollow mouse dragged event getsource getpickresult evaluating href https docs oracle javase javafx api javafx scene input pickresult html rel nofollow pickresult data heres code including uluks solution solution switchable usenewversion uluks version boolean end paint primary mouse button erase paint secondary mouse button img src http stack imgur tuqt3 png alt enter image description 
+
+source node handles initial event invoke target node handle href https docs oracle javase javafx api javafx scene input mousedragevent html rel nofollow mousedragevent instance event respective method 

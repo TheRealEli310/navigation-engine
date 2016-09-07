@@ -1,0 +1,4 @@
+split odd numbers sum collection stream 
+split odd numbers sum collection stream method 
+
+href https docs oracle javase docs api util stream collectors html partitioningby util function predicate util stream collector resulting map sum numbers key sum odd numbers key 

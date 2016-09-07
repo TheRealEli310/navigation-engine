@@ -1,0 +1,4 @@
+glassfish war inside ear expose webservices 
+working upgrading application running running application packaged file turn deploying lead exposing number deploy exposed listing components list deploying file standalone application bug deploying file glassfish upgraded dependencies affect 
+
+problem dependency removed included rt jar installation glassfish didnt handle webservices simply didnt work traces error server log 

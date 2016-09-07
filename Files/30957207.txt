@@ -1,0 +1,4 @@
+netty listen addresses ports single serverbootstrap 
+idea listen netty multiple addresses ports build http server serves special application run addresses ipv4 ipv6 ports listener handlers current code 
+
+call multiple times 

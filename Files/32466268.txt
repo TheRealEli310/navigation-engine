@@ -1,0 +1,4 @@
+sensor manager accelerometer magnetometer class 
+programs accelerometer magnetometer sensor manager problem combine programs data onresume confused sensor manager program requestlistener programs class code onresume method 
+
+access sensors device sensormanager instance modify code call register onresume check sensor type method onsensorchanged 

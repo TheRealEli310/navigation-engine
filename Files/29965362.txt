@@ -1,0 +1,4 @@
+setting home jre home path 
+allocated linux box jre installed ths box based search installed jre correct set home jre home env variables 
+
+firstly root user change save produce expected result 

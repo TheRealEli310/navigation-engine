@@ -1,0 +1,4 @@
+execute sql file spring jdbc template 
+write bit code reads sql file multiple statements separated executes statements pure jdbc write statements executed spring jdbctemplate statement executed execute multiple statements googling found solutions split sqlquery manually useless itd require parsing 
+
+springs href http docs spring io autorepo docs spring release javadoc api org springframework jdbc datasource init scriptutils html rel nofollow scriptutils case methods default href http docs spring io autorepo docs spring release javadoc api constant values html rel nofollow constant field values 

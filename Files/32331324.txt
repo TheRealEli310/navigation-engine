@@ -1,0 +1,4 @@
+hibernate ora integrity constraint root sys c007062 violated child record found 
+hibernate entities remove entity news exception ora integrity constraint root sys c007062 violated child record found remove property updatable false set nullable fields property comment mistake 
+
+news records relation comments specifcy cacasde delete clause defining table order delete entity news make related comments records deleted referencing news record basicaly definition ora exception 

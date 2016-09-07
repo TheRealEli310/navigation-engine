@@ -1,0 +1,4 @@
+arraylist emulate queue 
+arraylist implement queue adding queue fairly easy removing popping items bit trickier thought element queue time invoke pop method 
+
+implement queue method implemented href http docs oracle javase docs api util arraylist html remove 28int rel nofollow documentation blockquote strong remove strong public remove int index removes element position list strong shifts subsequent elements left subtracts indices strong strong returns element removed list strong blockquote suggested href http docs oracle javase docs api util arraydeque html rel nofollow fit queue 

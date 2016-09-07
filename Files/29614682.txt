@@ -1,0 +1,4 @@
+user input query console 
+working simple query database thing h2 table jdbc code questions main main program run user enter string text defined query query fails print back user friendly message detect stuff user types show question align data results formatted nicely table aligned 
+
+response main question code query console input user types enter code 

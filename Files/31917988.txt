@@ -1,0 +1,4 @@
+okhttp javax net ssl sslpeerunverifiedexception hostname domain verified 
+days working connect server strong https strong signed certificate dont pages examples havent read ol li created bks keystore tutorial href http blog crazybob org android trusting ssl certificates html rel nofollow http blog crazybob org android trusting ssl certificates html li ol certificate server creates bks keystore bouncy castle ol start li reading created keystore raw folder adding sslfactory okhttpclient li li reason generates keystore li ol wrong 
+
+finally working mix multiple answers certificates made wrongly creating script href http stackoverflow answer made work needed server certificate key client needed certificate certificate android converted pem file crt file android added certificate okhttp client part href http stackoverflow written answer adds fallback keystore hope simplest https working signed certificate found ways include bouncycastle keystore excessive 

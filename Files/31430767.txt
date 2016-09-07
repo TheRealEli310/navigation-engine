@@ -1,0 +1,4 @@
+add remove mouse click 
+wrote program enables user add remove circles rectangle adds user left clicked removed clicked adding works correctly removing doesnt work good add circles remove doesnt remove dont confused 
+
+bug resize window click fails repaint forced resize removes circle simple debugging shows circles removed panes child list repaint issue workaround replace rectangle pane code direct replacement refactor lot simplify registering mouse listener pane adding registering mouse listeners circle removing heres refactored version add circles directly worry adjusting position click handled circles code check click circle separate list circles real application reasons 

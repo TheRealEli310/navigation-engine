@@ -1,0 +1,4 @@
+minecraft player config 
+make quick basically make config player basically call user createuser user doesnt exist registers config unique id yml problem call user createuser playerjoinevent shows error strong uuid strong shouldnt returning null inside constructor variables strong error strong strong createuser listener class strong strong userdatahandler class strong 
+
+method referencing em field em instance variable current object default null constructor class instantiate field creates local variable inside constructor line field instantiated instance recommend lowercamelcase naming convention variables fields methods 

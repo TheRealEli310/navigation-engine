@@ -1,0 +1,4 @@
+verify ecdsa signature spongycastle 
+verify ecdsa digital signature android spongycastle public key verify figure cast class version bouncycastle version apis method returns class method object figure ecdsa rsa signatures manually reconstructed object doesnt ideal work figure equivalent ecdsa figure apis 
+
+finally figured class handle class directly id understand class internally inside abstraction curiosity code verify ecdsa signature future person solve similar issue 

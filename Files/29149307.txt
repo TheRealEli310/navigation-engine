@@ -1,0 +1,4 @@
+apache spark streaming apache flume integration 
+integrate apache spark streaming apache flume href http spark apache org docs streaming flume integration html rel nofollow guide set mapr sandbox submit href https github apache spark blob master examples src main org apache spark examples streaming javaflumeeventcount rel nofollow javaflumeeventcount works fine counts events terminal start spark job terminal start flume code project create jar runs fine events counted generates exception flume log project pom xml doesnt work 
+
+managed fix adding dependencies pom xml project older version 

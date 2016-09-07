@@ -1,0 +1,4 @@
+passing json file hashtable string string 
+passed json file read data strings save gregoriancalendar data1 hashtable 
+
+parse date string date object create table based json json org 

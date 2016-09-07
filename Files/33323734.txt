@@ -1,0 +1,4 @@
+upgrade path apache nifi 
+tips upgrading apache nifi instance thinking similar ol li deploy latest nifi versions running instances li li deploy custom nars updated version li li make drain existing nifi instance li li shutdown current nifi instances li li start nifi instances li ol 
+
+outline write work fine skip step draining queues designed simply restore copy customized content previous install conf folder install folder importantly copy flow xml idea upgrade seconds flow data retained job making exercise reader today automate document cases work feel free users nifi apache org eye joe 

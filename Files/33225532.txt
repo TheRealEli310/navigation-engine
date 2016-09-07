@@ -1,0 +1,4 @@
+spring dispatcher servlet error 
+created application spring hibernate deployed application jboss successfully enabled log level debug happening logs application deployed successfully war file deployed context path controller class postman send request error debug logs file application context xml facing issue checked complete logs exception error logs controllers initialised spring 
+
+missed application context xml required request mapping annotations 

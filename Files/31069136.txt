@@ -1,0 +1,4 @@
+sparkexception local class incompatible 
+submit spark job client cloudera cluster cluster cdh spark version strong strong hadoop version strong strong test cluster submitting wordcount sample spark web site submit successfully spark job written write result file strong hdfs strong error code sample maven dependecies absolutely idea error understanding applications spark version clouderas spark version idea result write console 
+
+spending hours solved problem problems root downloaded apache spark official site builded jars competible cloudera distributions finally learned today spark cloudera distribution github href https github cloudera spark tree cdh5 rel nofollow https github cloudera spark tree cdh5 building saved job result hdfs 

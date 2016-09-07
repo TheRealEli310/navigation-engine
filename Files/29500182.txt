@@ -1,0 +1,4 @@
+hibernate save object multiple sessions 
+attempting write multiple databases hibernate encapsulated write read write sessions single session object save lot errors objects session illegal attempt associate collection open sessions code evicting object flushing problems row updated deleted transaction sessions point databases addition attempted replicate functionality hibernate unsuccessful errors successfully saved object databases schema 
+
+reattach entity current running session proxies lazy associations bound hibernate session href http vladmihalcea beginners guide jpahibernate entity state transitions rel nofollow merge saveorupdate simply copies detached entity state newly retrieved managed entity supplied arguments attached session problem transaction management thread bound transaction explicit transactions update datasources thread set transaction boundaries explicitly 

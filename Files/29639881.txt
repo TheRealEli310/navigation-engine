@@ -1,0 +1,4 @@
+javafx method controller controller 
+working scenebuilder stages controller stage1controller stage2controller br stage1controller stage2controller fxml files loaded main class methods called start stage primarystage method ul li handletranslate actionevent event method onaction method menuitem translate stage translates view stages br li ul strong put setlabel handletranslate method strong 
+
+quick dirty give reference main app robust approach controllers access shared model class storing data represent data javafx observable properties controllers listen properties care controllers case main app 

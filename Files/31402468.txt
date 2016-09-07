@@ -1,0 +1,4 @@
+spring hibernate query join table 
+spring mvc hibernate mysql running tomcat intellij editor query hql mysql working return error heres database relationship onetoone customer idcustomer person idperson heres code model customer model person implement dao customerdaoimpl developer poor english 
+
+hibernate jpa build kind database abstraction layer works entity tables relations manytoone strong entities strong explicite joining ids table columns 

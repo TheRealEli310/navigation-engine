@@ -1,0 +1,4 @@
+mybatis persisting stored procedure call 
+spring mybatis calling stored procedure oracle 11g processes bunch data staging table inserts data tables stored procedure calls commit inside persisted exceptions warnings logs definition mapper file interface insert update select works update found tiny mistake correct issue updated mapper file run call pkg directory sp process staged data database directly works fine update mybatis config mapper update made attempt luck thinking ditching mybatis issue changed persistence config bit rolled mybatis version mybatis spring mapper controller method 
+
+works 

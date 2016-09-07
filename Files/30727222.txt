@@ -1,0 +1,4 @@
+export data cassandra mongodb 
+apache kafka storm cassandra real time processing problem facing aggregation queries cassandra directly datastax paid service considered mongodb good frequent writes thinking calculation storm store cassandra move hourly basis mongodb perform analytics approach options achieve advance 
+
+knowing full requirement amount inserts updates predict good bad approach mongo preferable heavy writes support good inserts important thing writes unit time based decision mongo taking upto writes sec avg 5ms server class machines cassandra beats margin perform aggregation mongo framework capabilities export import flat csv cassandra export data csv mongodb import data csv export import options check href http docs mongodb org manual reference program mongoimport rel nofollow mongoimport exporting cassandra 

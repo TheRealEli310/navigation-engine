@@ -1,0 +1,4 @@
+efficiently read multiple json files dataframe javardd 
+code read single json file read multiple json files merge dataframe read multiple json files javardd convert dataframe 
+
+code read multiple json files pass path directory path wildcards path single file href https github apache spark blob 82464fb2e02ca4e4d425017815090497b79dc93f sql core src main scala org apache spark sql dataframereader scala l245 rel nofollow method signature parse json loaded 

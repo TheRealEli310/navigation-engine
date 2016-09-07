@@ -1,0 +1,4 @@
+distribute jar hadoop job submission 
+implement rest api submit hadoop jobs execution purely code compile jar file execute hadoop jar works expected submit hadoop job code rest api job submitted fails classnotfoundexception deploy jar file code jobs hadoop nodemanagers containers hadoop locate jar file class copy jar file nodemanager set hadoop classpath 
+
+create method adds jar file distributed cache hadoop tasktrakers needed application submitting job call addjartodistributedcache find details href https hadoopi wordpress hadoop add party libraries mapreduce job rel nofollow blog 

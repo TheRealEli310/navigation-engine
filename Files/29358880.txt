@@ -1,0 +1,4 @@
+problems ear deployment weblogic 
+problem deploy war files enterprise application weblogic web applications work fine individual war files deployed bundled ear file problem accessing resources web applications web inf classes directory resources accessed directory log4j xml file ear file deployed weblogic unpacks tmp location server correct web inf classes directory expected files exist inside war file ear file files web inf web inf lib directory web inf base directory war file exist web inf classes directory mysteriously empty classloader weblogic path directory classpath files find causing behaviour fix 
+
+figured head scratching problem version application xml reason set jee5 weblogic expanding web inf classes directory files extracted war file ear file switching version fixed problem 

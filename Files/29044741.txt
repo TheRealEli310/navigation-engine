@@ -1,0 +1,4 @@
+removing occurrences int returning array 
+find occurrences element array returning array occurrences removed array adjusted differences size remove occurrences array return code written weird output point direction wrong 
+
+youre directly printing array screen code print element loop youll iterate entire array notation array access element held index case ith integer 

@@ -1,0 +1,4 @@
+add array preferences libgdx 
+array integers saved preferences file saved prefs hashmap 
+
+put array object preferences string serialize saving deserialize preferences libgdx supports serialization delivering href https libgdx badlogicgames nightlies docs api badlogic gdx utils json html rel nofollow json class follow read json format visit href http www json org rel nofollow official json webpage 

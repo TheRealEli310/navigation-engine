@@ -1,0 +1,4 @@
+removing duplicate values stringbuffer 
+stringbuffer duplicates shown left hand side convert showm cases shown content size stringbuffer fixed solve problem string manipulation 
+
+heres solution works duplicates strong strong adjacent bit clunky didnt items duplicated youd call item stringbuffer em unique em item stringbuffer avoid removing removing occurence 

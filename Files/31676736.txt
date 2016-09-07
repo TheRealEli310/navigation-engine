@@ -1,0 +1,4 @@
+interface method implementation methods 
+suppose interfaces concrete class implements interfaces questions ol li single implementation suffice interfaces ione itwo li li answer strong strong methods single class case implement interfaces single class li ol 
+
+answer strong strong provide implementation method class interfaces automatically implemented methods class implement interfaces trick testing code class doesnt implement interfaces case dont implement anonymous classes 

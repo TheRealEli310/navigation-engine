@@ -1,0 +1,4 @@
+home memory jvm allocate character array 
+line program memory jvm allocate 256m character array turns answer xmx384m lets 512m character array answer appears xmx769m running examples character array size jvm minimum 5m megabytes memory allocate array lot explain happening 
+
+youre observing href http www journaldev jvm memory model garbage collection monitoring tuning oracle jvm allocates memory array fit generation default generation size generation means 3mb add total 2mb extra space generation change ratio allocate char array smaller total size works 512mb array effect byte array dont worry doubling length array size bytes small constant overhead class reference length trivial 

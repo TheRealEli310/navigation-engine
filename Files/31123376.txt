@@ -1,0 +1,4 @@
+glmapbufferrange returning zeros android 
+trouble reading buffer mapped glmapbufferrange simply put data buffer generate array buffer gl fill data map buffer read results logcat reads zeros errors generated check mapping gl copy read buffer results testing nexus supports opengl es functionality present href http stackoverflow questions glmapbufferrange access violation question suggests removing opengl forward compat hint glfw similar happen myglsurfaceview 
+
+byte order problem read back data data native byte order assumes default data buffers big endian architectures endian days opposite correct work big endian architectures read correct values 

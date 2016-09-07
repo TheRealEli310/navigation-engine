@@ -1,0 +1,4 @@
+javafx load image external folder 
+importing images javafx application image path sprinter externalsprinterfolder maps map asteroid map asteroid jpg gui code path sprinter src de sprinter gameclient gui selectsectorgui lot load image 
+
+code block correct file file system bundled part jar file case absolute filesystem path file check file exists code block correct image file bundled jar file case relative class path starting interpreted relative classpath path incorrect case return 

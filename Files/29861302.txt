@@ -1,0 +1,4 @@
+settext charsequence textview buffertype settext charsequence 
+difference 
+
+sets string textview sets text textview display sets stored styleable spannable buffer editable buffertype options ol li textview buffertype editable li li textview buffertype normal li li textview buffertype spannable li ol 

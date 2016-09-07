@@ -1,0 +1,4 @@
+jersey web services restart error code 
+developing rest web service jersey apache tomcat eclipse thing work fine till shut sown system home web services deployed server access web services day inactivity hours server returns error restart tomcat start working missing configuration hibernate config stacktrace 
+
+sql state sugests connection exist bad configuration hibernate timeout check 

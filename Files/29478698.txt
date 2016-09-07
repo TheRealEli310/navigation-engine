@@ -1,0 +1,4 @@
+parameters parsing batis mapper util map 
+method xml file code replaced hard coded part expected result returned pass client application set map correctly query doesnt correct results null return wrong projectmapper classs method definition strong update strong service interface method implementation calls data layer method mentioned 
+
+define mapper 

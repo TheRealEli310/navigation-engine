@@ -1,0 +1,4 @@
+javafx checkbox button treeview 
+javafx include checkbox label button column tree table root solution reference code vevek 
+
+set cell factory tree view quick response comment clear terminology tree structure implemented consists nodes node children parent node parents root node node children leaf root node tree hide root node add children root node hide root node root nodes node including root add child adding child children add levels nodes heres href http stackoverflow mcve mcve href https docs oracle javase javafx api javafx scene control cell html rel nofollow documentation class provide custom cell factory unclear 

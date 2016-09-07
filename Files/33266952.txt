@@ -1,0 +1,4 @@
+spring data jparepository conditionally fetch children entites 
+configure jpa entities fetch related entities runtime parameter provided springs documentation href http docs spring io spring data jpa docs current reference html jpa entity graph rel nofollow configuring fetch loadgraphs annotation fetch policy queries doesnt decide runtime load entities child entities separate query order configure repository entities retrieve children find strategies helpful entities eagerly retrieve assume parent child account contacts strong strong problem spring data eagerly fetches contacts strong account entity class strong strong accountrepository class strong 
+
+lazy fetch working properly methods object resulted getcontacts called prefer manual work control contexts depending case suggest remove contacts account entity maps account contacts hibernate ignore field map transient annotation service class hope btw code untested check 

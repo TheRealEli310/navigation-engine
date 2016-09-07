@@ -1,0 +1,4 @@
+sending text socket sending file 
+client send file server server file chunks processes data send back server file bee transmitted fully server client data processed errors strong client code send receive file data strong strong server strong strong problem strong file transferred successfully message processing file received client strong net socketexception socket closed strong client side understand socket closed server side client listening bringing socketexception strong toclient write strong statement server advance 
+
+call closes socket break loop server send special character soh character searched server side server terminates loop sends ack back client client close socket 

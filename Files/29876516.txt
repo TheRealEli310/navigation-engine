@@ -1,0 +1,4 @@
+log4j2 jmsappender activemq 
+struggling write simple poc program logs messages queue tutorials amp find href http activemq apache org log4j jms appender activemq html rel nofollow href http stackoverflow questions jms appender log4j version put messages topic queue requirement log queue documentation mentioned href http logging apache org log4j manual appenders html jmsqueueappender rel nofollow official site working log4j2 activemq jars classpath created queue logqueue queue activemq web console execute program write logs error jndi issue figure log4j tutorials added jndi properties file classpath helping apparently log4j2 xml 
+
+adding jms element solved problem final jms element log4j2 xml 

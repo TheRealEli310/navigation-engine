@@ -1,0 +1,4 @@
+custom spring annotation request parameters 
+write custom annotations modify spring request path parameters annotations code make annotation uppercase 
+
+guys comments easily write annotation driven custom resolver easy steps ol li create annotation li ol hr ol start li write resolver li ol hr ol start li register resolver li ol hr config equivalent ol start li annotation controller method li ol hr 

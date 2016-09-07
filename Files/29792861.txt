@@ -1,0 +1,4 @@
+solid principles osgi 
+reading article href http dzone articles solid principles modularity rel nofollow http dzone articles solid principles modularity author states important place solid principles module joints joints system require greatest flexibility resiliency reason driven change change encapsulated single module poses threat change ripples modules osgi define joints decided osgi solid principles single responsibility easy module bundle jar thing dependency inversion principle clear implementation module bundle jar depend implementation abstraction modules expose implementation details osgi creating component model publish reference services principles liskov substitution principle interface segregation principle find examples osgi 
+
+module conform published interface liskov substitution entry point interface segregation 

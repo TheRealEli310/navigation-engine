@@ -1,0 +1,4 @@
+flatten observable observable cursor observable cursor 
+returns single instance utilize obtain cursors row callback solutions figured construction hack works dont processing callback weve create outer collection hold intermediate results wanted utilizes doesnt work observable finished cursor closed map object flatten 
+
+blockquote flatten blockquote href http reactivex io rxjava javadoc rx observable html concat rx observable method strong update strong methods transform ul li href http reactivex io rxjava javadoc rx observable html concat rx observable observable concat li li href http reactivex io rxjava javadoc rx observable html merge rx observable observable merge li li href http reactivex io rxjava javadoc rx observable html switchonnext rx observable observable switchonnext li ul choose strong update strong solution modify code bit operator 

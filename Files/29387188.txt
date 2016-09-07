@@ -1,0 +1,4 @@
+dagger android inject context mvp 
+developing android application stumbled problem started dagger basic concepts scopes tutorials cases things clear point application mvp blog post href http antonioleiva mvp android rel nofollow http antonioleiva mvp android injecting interactor class handles data presenter class implemented methods sqlite database context interactor class figure properly temporary fix exclude dagger application pass context variable constructor creating presenter class interactor class inside presenter id dagger current application constructor inside mypresenter constructor assign private variable inject part application tested implementations inject great hope experience achieve 
+
+class myinteractor mypresenter class injecting context write module method injecting presenter class activity easy constructor myview parameter set dagger rethink design providing setmyview method mypresenter class constructor parameter edit creating rootmodule 

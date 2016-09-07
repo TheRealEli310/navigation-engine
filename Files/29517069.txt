@@ -1,0 +1,4 @@
+element vector represented opencv mat 
+href http docs opencv org org opencv imgproc imgproc html houghlines 28org opencv core mat 20org opencv core mat 20double 20double 20int rel nofollow opencv documentation hough transform return data type blockquote output vector lines line represented element vector rho theta rho distance coordinate origin top left corner image theta line rotation angle radians vertical line pi horizontal line blockquote curiously description matches href http docs opencv org modules imgproc doc feature detection html highlight houghlines houghlines rel nofollow interfaces description strong strong data type href http docs opencv org doc tutorials imgproc imgtrans hough lines hough lines html standard probabilistic hough line transform rel nofollow tutorial returned data representation description element vector represented stored returned mat 
+
+heres code ago version matlines 

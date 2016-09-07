@@ -1,0 +1,4 @@
+tomcat running eval usr lib jvm openjdk bin found 
+installed tomcat server ubuntu desktop run tomcat started browse interface made research found problem file dont file directory things checked environmental variables problem edit noticed tomcat jre home home fact properly set change 
+
+issue fixed creating setenv sh file bin directory setting home 

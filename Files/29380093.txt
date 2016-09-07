@@ -1,0 +1,4 @@
+priorityqueue insert priority 
+id add priorityqueue specific id insert priorityqueue priority order queue 
+
+expects elements comparable doesnt explicitly track priority element compares means youll elements priorities queue pairs add directly create queue custom comparator create simple class holding values implements hacky combine pair holding values store priorities big end elements naturally sort priority highly dubious hey heck 

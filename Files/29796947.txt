@@ -1,0 +1,4 @@
+static factory method creating object everytime invoked 
+effective mentioned unlike constructors static factory methods required create object time theyre invoked main class c2 c3 objects context required create object time invoked 
+
+return point calling em em return instance calling means class em decide em constructor href https docs oracle javase tutorial javaoo methodreferences html rel nofollow method reference href https docs oracle javase docs api util map html computeifabsent util function function rel nofollow method calls colour present naive threadsafe cache implementation 

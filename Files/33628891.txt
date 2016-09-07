@@ -1,0 +1,4 @@
+joining list string inside map 
+convert key joint string built joining values previous map converted whats idiomatic streams api 
+
+href https docs oracle javase docs api util stream collectors html joining lang charsequence task code entry map collected map ul li key stays li li list collected joining elements li ul 

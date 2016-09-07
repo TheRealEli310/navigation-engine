@@ -1,0 +1,4 @@
+jenkins sonar plugin suddenly stops working 
+jenkins builds started failing overnight error jenkins server running change happened fix 
+
+href https github sonarsource jenkins sonar plugin jenkins sonar plugin href https github mojohaus sonar maven plugin sonar maven plugin run sonar analysis sonar maven plugin updated version compatible jenkins sonar plugin latest version sonar maven plugin default override fix error open manage jenkins configure system find sonar section click advanced enter version sonar maven plugin forces jenkins sonar plugin previous version sonar maven plugin works alternatively set specific jenkins job force maven version goal standard begin planning upgrade build server 

@@ -1,0 +1,4 @@
+android approach json response parsed ui thread 
+wondering received web server parsed android app main ui delivered volley library put thread execution maintained main ui thread lets imagine incoming json big time proceeded question relates asynctask ways working web services android 
+
+prefered task takes strong long time strong proccessed strong thread strong avoid overloading blockquote asynctasks ideally short operations seconds threads running long periods time highly recommended apis provided util concurrent package href http developer android reference util concurrent executor html rel nofollow executor href http developer android reference util concurrent threadpoolexecutor html rel nofollow threadpoolexecutor href http developer android reference util concurrent futuretask html rel nofollow futuretask blockquote em big data em time strong thread strong em data small em takes time risk move strong thread strong 

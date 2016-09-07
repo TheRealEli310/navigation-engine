@@ -1,0 +1,4 @@
+spring boot interfaces implementations 
+spring newbie question auto wiring springboot interface implementation main class configuration class serviceinterface serviceimpl1 main class appconfig run code output variable servicename inside serviceimpl1 implementation accessible object created spring autowiring 
+
+mind figured href http stackoverflow questions interface variables static final default variables declared inside interface static final 

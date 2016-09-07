@@ -1,0 +1,4 @@
+url myurl myclass class getclassloader getresource filename 
+code works fine property file class path place property file relevant package reading code guess line read property file class path path class path 
+
+changed code working perfectly private string readpropval string propertyvalue string filename throws exception 

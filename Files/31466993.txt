@@ -1,0 +1,4 @@
+application read files maven project 
+application simple project paste project maven project basically made simple maven project copied pasted classes war run server run main application application configures war application run main errors wasnt blockquote io filenotfoundexception resourcesconfig properties system find path blockquote code didnt work fix 
+
+youre simple maven project maven folder configure pom xml youve jar creation portion correctly file strong classpath strong strong leading forward slash important strong file classpath words case doesnt work configure maven resources directory href https maven apache org pom html resources rel nofollow change arguments pre class lang xml prettyprint override file classpath code work read linked documentation information 

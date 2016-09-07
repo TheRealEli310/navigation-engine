@@ -1,0 +1,4 @@
+hibernate sqlquery face data exception invalid datetime format issue 
+code type run sql sqldeveloper works failed run database oracle clarify wrong 
+
+found answer unexpected simple replace lower case date format string upper case change works 

@@ -1,0 +1,4 @@
+jboss home properly set linux system getenv eclipse returns null 
+added jboss home linux windows arquillian xml http jboss org schema arquillian arquillian xsd windows tests running fine linux exception nullpointerexception due jbosshome variable null manageddeployablecontainer exception trace caused interpreting jboss home read properly arquillian added jbosshome property arquillian xml working fine linux dont path linux windows compatible suggestions pointers appreciated update strong system getenv jboss home strong standalone program ran terminal prints jboss home eclipse testcase returns null 
+
+eclipse set environment variable junit test launcher tab workaround case environment variable defined system level shell level 

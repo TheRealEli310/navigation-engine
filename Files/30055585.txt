@@ -1,0 +1,4 @@
+streams 
+question broad answer simple equivalent implementation href https docs oracle javase docs api util stream package summary html streams familiar streams project requirement confused href http docs oracle javase docs api io inputstream html inputstream href http docs oracle javase docs api io outputstream html outputstream 
+
+official api public updates youre customer minor updates back porting stream api bit digging href http sourceforge net projects streamsupport streamsupport tested apparently goal backport stream api combine lambda expressions href https github orfjackal retrolambda retrolambda href http www functionaljava org functional interesting intent stream api goal filter map list array suits href http www functionaljava org examples java7 html listmap finally scalas stream api scala runs jvm mix code worth needed 

@@ -1,0 +1,4 @@
+executing raw sql queries play framework 
+model classes fetch records find insert records obj save raw queries written fetch result bean object list bean objects 
+
+assuming query toy parameterize input prevent sql injection href http www avaje org ebean introquery rawsql html rel nofollow ebean docs information raw sql 

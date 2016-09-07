@@ -1,0 +1,4 @@
+bluetooth le data json bytes 
+bluetooth le module arduino sends json string android application json string android app receives packets bytes characters limit find method put packets packet received packet received edit bluetooth sends data constant interval time button connected arduino board pushed send data bluetooth problem overlaps timed transmission 
+
+found solution elegant sending json string ble send key pair single packet pass string android raw data bluetooth phew 

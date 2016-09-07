@@ -1,0 +1,4 @@
+reference jackson object mapper jersey2 hk2 application 
+jersey2 application configured json support jackson adding pom file application works resources deserialized pojos arguments thoese resources reference jacksons deserialization cases reference null inject reference resources 
+
+default jackson provider doesnt makes jackson apis handle de serialization inject single instance create bind thing noted configuration strong thread strong configure resource method operations thread thing jackson provider provide href http stackoverflow mentioned laurentiu jackson provider switch case work single make implement make annotation media types 

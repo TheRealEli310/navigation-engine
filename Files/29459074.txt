@@ -1,0 +1,4 @@
+read write lock listeners 
+library implements behaves listeners completablefuture completionstage blocking ideally id write important hr exists em called em implement library simplify framework code 
+
+writing shouldnt hard chances time library pretty simple adding timed locking sort expiring queue writer starvation prevention preventing additional readers executed empty shouldnt difficult 

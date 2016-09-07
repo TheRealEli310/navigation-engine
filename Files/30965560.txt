@@ -1,0 +1,4 @@
+unable parse google places json response org json jsonexception 
+receiving json response google places api parse org json jsonexception json response href https maps googleapis maps api place details json placeid chijbf6hrtz2ajorwupd nrhvjm amp key aizasybwkqhs39 syunxeeary1fxrmet2nwhqxe rel nofollow https maps googleapis maps api place details json placeid chijbf6hrtz2ajorwupd nrhvjm amp key aizasybwkqhs39 syunxeeary1fxrmet2nwhqxe code retrieve formatted address logcat exception wrong 
+
+youre treating formatted address jsonobject normal key pair 

@@ -1,0 +1,4 @@
+jersey rest client treat custom mediatype mediatype application json 
+writing rest client jersey strong jacksonfeature enabled strong webservice forces custom named content type regular json words service complains invalid content type custom named media type place mediatype application json constant jersey treat customized media type regular json writing customized messagebodywriter 
+
+href https jersey net documentation latest message body workers html d0e6757 jax rs entity providers href https jersey net documentation latest media html json jackson jackson jersey order achieve nutshell register annotated implementation delegate marshalling unmarshalling jackson edit lines starting point working give information start remember youll register class jersey order 

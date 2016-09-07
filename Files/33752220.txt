@@ -1,0 +1,4 @@
+prevent premature garbage collection 
+issues premature garbage collection found nice href http www swig org doc3 html memory management objects rel nofollow solution swig documentation solving kind issues faced problem static factory method static reference field accessible applying recommended swig solution code broken code code broken static thinking solutions find generate dont solution implement assignment jni side call general id prefer solution 
+
+add field store reference child save reference point creating delete object garbage collecting item dont forget memory leaks 

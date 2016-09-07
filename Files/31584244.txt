@@ -1,0 +1,4 @@
+play framework authorization 
+class account represents users system account field role enum cases account class myrole implement authorization 
+
+deadbolt library solution build firstly read href https www playframework documentation scalaactionscomposition rel nofollow https www playframework documentation scalaactionscomposition difficult implement unlimited flexiable solution basic idea define userauthaction compose actions job actionrefiner extract additional user information provide actions anyaction 

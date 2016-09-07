@@ -1,0 +1,4 @@
+configure log4j2 log hikaricp 
+written small gradle project learn configure hikaricp jdbc log4j2 project log4j2 config directory project execute project warning configuring appender logger kindly wrong log4j2 xml build gradle execution output 
+
+youre slf4j log4j12 slf4j log messages log4j goal log messages slf4j log4j binding library href https logging apache org log4j log4j slf4j impl index html rel nofollow https logging apache org log4j log4j slf4j impl index html maven coordinates binding library href https logging apache org log4j maven artifacts html slf4j bridge rel nofollow log4j2 documentation 

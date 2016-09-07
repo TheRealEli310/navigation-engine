@@ -1,0 +1,4 @@
+maven multi module artifact deployment 
+multi module maven project parent builds modules child pom aggregators handle config file deployments deploy bundles parent module fails attach config files build helper plugin section child module requires run child pom configuration artifacts true artifacts features pom files strong parent strong strong child strong goal executed child module write custom batch script execute individually deploying archiva repository strong edit strong em parent build output target server redacted em 
+
+remove change false property set execution run top module tree run project contained folder mvn execution launched finding cfgs files 

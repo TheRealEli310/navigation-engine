@@ -1,0 +1,4 @@
+websocket error eclipse tomcat 
+deploy websocket application tomcat eclipse deployed app localhost access websocket throws error blockquote websocket connection ws localhost groupchatserver chat hari failed error websocket handshake unexpected response code blockquote deployed app href http localhost groupchatserver rel nofollow http localhost groupchatserver sample chat app link href http www androidhive info android building group chat app sockets part rel nofollow groupchatserver solve 
+
+provide details answer question absolutely similar problem error handshake tomcat api websockets added jsr implementation similar javax websocket api pom xml conflict runtime export websocket library webserver implementation maven set websocket dependency provided 

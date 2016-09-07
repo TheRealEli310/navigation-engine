@@ -1,0 +1,4 @@
+batching inserts rxjava 
+load data records json feed store android device sqlite individual inserts easy implement slow ideally batch objects insert pass list objects db imperatively rxjava 
+
+href http reactivex io documentation operators buffer html rel nofollow buffer operator accumulate objects output blockquote onnext onnext oncompleted blockquote rxjava beginner robust achieve goals hr reactive sqlite href https github square sqlbrite rel nofollow sqlbrite library 

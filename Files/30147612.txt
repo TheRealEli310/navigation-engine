@@ -1,0 +1,4 @@
+make image buttons fxml scene builder 
+netbeans media file desktop replace boring button code image button advance 
+
+fxml file import image package button assuming image png located images directory images located directory fxml add button definition 

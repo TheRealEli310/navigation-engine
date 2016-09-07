@@ -1,0 +1,4 @@
+code coverage junit plug tests maven 
+maste pom file profile product unit tests junit plug tests pom file configurations giving jacoco code coverage file exec location wrong pre class lang xml prettyprint override 
+
+problem source br culprit parameter strong tycho surefire plugin strong configuration br param present jacoco file generated removed exec file generated br info found href http tycho user eclipse narkive ox87f4kb tycho surefire argline jacaco exec rel nofollow tycho surefire argline jacaco exec 

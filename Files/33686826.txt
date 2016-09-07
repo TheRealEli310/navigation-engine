@@ -1,0 +1,4 @@
+maven shade plugin custom transformer 
+href https maven apache org plugins maven shade plugin examples resource transformers html maven shade plugin resource transformers create custom adding shade plugin pom creating class implements resourcetransformer run blockquote error failed execute goal org apache maven plugins maven shade plugin shade default project foo unable parse configuration mojo org apache maven plugins maven shade plugin shade parameter transformers load implementation hint test transformer testtransformer blockquote transformer classpath project running build guessing problem add extension brings transformers 
+
+href https maven apache org plugins maven shade plugin examples shader impl html section instructions ul li create maven project dependencies li li original project projects add maven project dependency li ul 

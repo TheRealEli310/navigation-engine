@@ -1,0 +1,4 @@
+add log4j properties log4j jar executable jar 
+folder structure manifest txt creating executable jar follow running error 
+
+add empty line end manifest including directory fine exists suggest putting log4 properties path main jar file adding class path adding end directory works found op 

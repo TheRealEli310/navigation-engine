@@ -1,0 +1,4 @@
+solve double method string servlet 
+
+
+method inherited href http docs oracle javaee api javax servlet servletrequest html getparameter 28java lang string rel nofollow api docs method returns parse boolean double string 

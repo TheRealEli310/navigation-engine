@@ -1,0 +1,4 @@
+optimize functional algorithm compared procedural counter part 
+optimize functional operation compared procedural equivalent performance issue h1 situation h1 parse http headers enumeration maps headername variations h1 h1 strong httpheaders strong custom enumeration strong logheaders strong result map logheaders key set variations httpheaders variation header h1 procedural code h1 h1 functional code h1 h1 current benchmark h1 idea optimize functional part h1 update benchmark h1 ran 100k warmup 100k iteration tagir valeev code h1 update benchmark h1 ran 100k warmup 100k iteration misha code 
+
+functional code doesnt thing original fails match header code skip functional code throw direct translation original code streams performant easy read precomputing variation key modifying approach advantage failing fast duplicate variations code simple 

@@ -1,0 +1,4 @@
+draw pixels screen 
+simply print pixels screen simple loop array 
+
+bufferedimage display jlabel create custom component implement method methods graphics class read section swing tutorial href http docs oracle javase tutorial uiswing painting step2 html rel nofollow custom painting information examples started dont forget read api graphics methods 

@@ -1,0 +1,4 @@
+hashmap auto sort character type keys unordered collection 
+created small code order demonstrate difference hashmap treemap assign alphabet letters reverse order inside map keys position alphabet hashmap treemap approach althought keys inserted inversed order hashmap tostring outputs ascending order treemap question arises tostring method hashmap sorts keys internally returning string represention map strong edit strong seams jdk ide based symptom restricted tostring print key pairs entries 
+
+curious result implementation decide hash buckets place entry decides based key object integer hash code key case type character bits wide shifting bits give xoring original values chosen consecutive means happen stored hash table buckets indexes order entry set iterator based traverses table table consecutively long dont collisions keys happen consecutive youll result sorted 

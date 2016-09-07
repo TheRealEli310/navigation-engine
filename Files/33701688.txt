@@ -1,0 +1,4 @@
+toggle task arraylist 
+program adds activities activity complete incomplete method toggles task check tasks arraylist user index task arraylist toggle change iscompleted shoel getiscomplete setiscomplete class method class task 
+
+ol li task index user li li current task status task li li set task status opposite found step li ol class functions required steps current task status set task status line split makes easier understand line split 

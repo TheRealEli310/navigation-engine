@@ -1,0 +1,4 @@
+serialize list pojo fasterxml library 
+fasterxml serialize pojo serialize list pojo serialize signle pojo expected xml problem question heres code heres ol start li serialize movie li ol 
+
+general rule serializing arrays directly root level bean pojo properties types recursively problem type erasure make things problematic collection map types general json additional problems xml unnecessary found safest simple object root change root element multiple ways possibility jackson annotation json applies formats override root 

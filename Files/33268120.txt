@@ -1,0 +1,4 @@
+run subsciber multiple threads rxjava android 
+rxjava struggling guess simple problem process subscribe part simuleasly threads fixedthreadpool code expected result actual result wrong 
+
+rxjava observables sequential operators wont run values parallel closest thing achieve grouping values modulo key run merge results 

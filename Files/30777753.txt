@@ -1,0 +1,4 @@
+data dialogfragment mainactivity android 
+create application data code successfully created cont application crashed solve problem procedure application crashed 
+
+create interface customdialoginterface modify myalert implement customdialoginterface mainactivity overide method okbuttonclicked onclick called mainactivitys onbuttonclicked called change showalert 

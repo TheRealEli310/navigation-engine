@@ -1,0 +1,4 @@
+javafx htmleditor implement changelistener 
+made tool write text htmleditor plain text text shown html code textarea put keyevent handler solve problem change mouse change problem implement changelistener htmleditor change displayed lot 
+
+solved 

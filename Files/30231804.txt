@@ -1,0 +1,4 @@
+struts display image 
+simpler solution display image inside jsp page struts2 application solution found working href http www mkyong struts2 struts dynamic image rel nofollow struts dynamic image writing image stream bytes overkill simpler solution absolutely stream bytes simply writing acceptable solution struts responsible bringing image business logic decide image displayed 
+
+timbiegeleisen mentioned blockquote stream image location publicly visible browser standard blockquote alexandrm noticed blockquote case read image assign inputsream stream result action blockquote struts2 perform task serving image result writing directly response configure result content type 

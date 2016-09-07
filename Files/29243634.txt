@@ -1,0 +1,4 @@
+jfilechooser select bitmap image 
+basically jfilechooser open bitmap image users computer edit indivudal pixels simple filter point save image open figure open file jfilechooser problem set inputfile equal input getselectedfile work statement fix file statement save bitmap image filter applied code errors due testing stuff fix problem 
+
+kind track user selects dialog closed cancelling easily load image access underlying pixel data href http docs oracle javase tutorial 2d images loadimage html rel nofollow reading loading image details youre hell bent processing file manually href https docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow resources statement manage resources 

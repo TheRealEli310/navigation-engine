@@ -1,0 +1,4 @@
+ssh tunnel connect database intellij jdbc 
+issues connecting database hosted server intellij jdbc command line command creates tunnel successfully command connects database fine translated correctly intellij data sources ssh tunnel tools moment ssh tunnel settings proxy host server port proxy user username general tab host localhost port database db user db username connection returns successfully testing connection inside program url parameter generated intellij error connection localhost refused ideas wrong 
+
+connect ssh server client sshj href https github hierynomus sshj rel nofollow https github hierynomus sshj url drivermanager wrong port 

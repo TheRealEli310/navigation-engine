@@ -1,0 +1,4 @@
+convert csv file list map string string 
+csv file header line convert list represents record file key map header actual field operations perform transform sample csv file finally maps collected list 
+
+work header line retrieved calling directly splitting rest file read line split mapped header important return fresh called skip line read header reader advanced line side construct properly closed 

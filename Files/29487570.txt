@@ -1,0 +1,4 @@
+printing console works printing file working logback 
+ul li imported required jar files build path eclipse li li imported slf4j logger loggerfactory package properly li li created logger instance li ul file log4 logback access logback classic unable print file fix week luck 
+
+file correct location detected br intentionally putting errors config file messages console logback automatically href http logback qos ch manual configuration html rel nofollow logback configuration pass run application blockquote begin discussing initialization steps logback configure ol li logback find file called strong logback groovy strong li li file found logback find file called strong logback test xml strong li li file found checks file strong logback xml strong li ol blockquote 

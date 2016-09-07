@@ -1,0 +1,4 @@
+bind radio buttons rxjava 
+code href https github ogaclejapan qiitanium blob a0e6fe47c7e28f760d3827b9acec5a8ec7163426 qiitanium src main ogaclejapan qiitanium presentation view articlelistitemview l64 l74 rel nofollow qiitanium app highlighted lines link trouble figuring bind radiobuttons radiogroup id rgmybuttons id radiobuttons dead alive body missing ids id rbdead id rbalive id rbmissing set radiogroup field view set onviewcreated onbind id bind radiogroup model data returns maps directly correct radiobutton group bound radiogroup automatically sets correct person state returns dead alive missing check correct field radiogroup achieve rxandroid 
+
+solve heres answer issue wrote function class inside onbind 

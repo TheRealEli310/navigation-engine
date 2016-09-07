@@ -1,0 +1,4 @@
+spring data mongodb full text search operator 
+spring data mongodb full text search user domain class div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override user objects div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override search user strong dk strong location strong india strong create textcriteria textcriteria criteria textcriteria fordefaultlanguage matching dk matching india search users user1 user2 expected case machingany string texts create query match words search 
+
+spring data mongodb information read href http docs mongodb org manual reference operator query text phrases rel nofollow http docs mongodb org manual reference operator query text phrases 

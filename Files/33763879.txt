@@ -1,0 +1,4 @@
+set phantomjs webdriver serenity 
+selenium serenity integration test default selenium integrate firefoxdriver webdriver phantomjs find set driver properly initialized override getdriver method pageobject return phantomjs webdriver problem single action webdriver propagate pages returning singleton webdriver super getdriver question set properly webdriver serenity share state multiple pages object instances firefox work perfectly 
+
+set property phantomjs serenity passed command line defined properties file annotated code location phantomjs driver system property mentioned youre annotations pass command line ide run configuration aware running tests remotely set property port run set properties maven failsafe plugin define system property define custom driver provider make implement define properties serenity documentation href http thucydides info docs serenity staging rel nofollow http thucydides info docs serenity staging 

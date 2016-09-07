@@ -1,0 +1,4 @@
+equivalence lock scala 
+lock object equality referential equality scala print 
+
+edit lock striping mentioned comments naive implementation href https github google guava wiki stripedexplained rel nofollow guavas striped suited dont reinvent wheel 

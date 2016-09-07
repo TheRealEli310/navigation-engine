@@ -1,0 +1,4 @@
+add toolbar layout 
+layout xml id add top activity similar actionbar doesnt matter include view layout basically library project supposedly handled eclipse referenced library project latest version activity extends idea whats wrong id advice details 
+
+create main xml add styles xml 

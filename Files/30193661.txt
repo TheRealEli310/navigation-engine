@@ -1,0 +1,4 @@
+mock object creation singleton factory 
+follow factory class unit test test factory return mock thinking factory singleton instantiated loaded private static loader class mock object creation scenario give making true unit test 
+
+wrap factory abstraction separate class inject constructor mock create method class work dont powermock design nice 

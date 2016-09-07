@@ -1,0 +1,4 @@
+jpa hibernate generate primary key column starting 
+jpa hibernate preferably jpa annotation generate column primary key doesnt start jpa generatedvalue sequencegenerator tablegenerator href http stackoverflow questions hibernate jpa sequence id solution extra table find elegant live hibernate annotation hibernate annotations generated make work people href http stackoverflow claim update extra requirement transaction rolled back gap numbering 
+
+heres worked coded service heres entity service magic magic manually method number automatic 

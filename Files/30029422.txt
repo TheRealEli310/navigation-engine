@@ -1,0 +1,4 @@
+unable update recurring meeting programatically 
+created recurring meeting details updating recurring meeting changing time br original start time 20150511t093000z br original end time 20150511t094500z updated start time 20150511t084500z br updated end time 20150511t091500z updated values ics calendar updated time shows details outlook calendar handle property feel creating problem meetings incremented handling 
+
+recurrence id rrule vevent component construct simple weekly recurring meeting simply remove recurrence id property issue dtstamp property aligned dtstart event earlier dtstamp property reflect date time vevent constructed update event information dtstamp time initial recurrence id recurring meeting exception 3rd instance location good href http tools ietf org html rfc5546 section rel nofollow http tools ietf org html rfc5546 section 

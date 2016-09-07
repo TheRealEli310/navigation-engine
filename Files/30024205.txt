@@ -1,0 +1,4 @@
+configure max retries infinispan hot rod client 
+jboss eap application server conjunction jdg infinispan instances run virtual machine connection protocol hot rod reason jdg reachable hot rod client ejb application eap catch continue directly database call works fine retry count remotecachemanager set takes lot time continue connection finally failed retries classes involved find configure max retry count hot rod connection thing found mentioned migrating version inifinispan properties objects configuration code fails setting rety count configure retry count default 
+
+work 

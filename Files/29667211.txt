@@ -1,0 +1,4 @@
+error deployed tomcat server 
+deployed web application tomcat successfully deployed showed index jsp page wen call restfull web services rest client giving error deploying localhost mywebapp browser url pattern gave rest webservices href http localhost mywebapp webresources myresource rel nofollow http localhost mywebapp webresources myresource rest client tomcat giving error fyi jersy api restfull web services suggestion appreciated advance 
+
+check list br make application running http port br make application context path br make user proper authorization access service br 

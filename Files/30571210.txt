@@ -1,0 +1,4 @@
+configure multiple gradle properties files gradle multiple projects 
+multiple projects build gradle overwrite parameter project add gradle properties file project overwrite parameter set main gradle project overwrite subproject working expected strong invalid source release strong error message give idea fix issue 
+
+tests created strong blank strong root project included strong subprojects strong subproject works strong project structure strong strong roots settings gradle strong strong sub1s gradle properties strong strong sub1s build gradle strong strong sub2s gradle properties strong strong sub2s build gradle strong setup guess root project defined configuration point problem check href http stackoverflow questions gradle gradle specific jdk version building applica gradle gradle specific jdk version building application href http stackoverflow questions gradle sourcecompatibility effect subprojects gradle sourcecompatibility effect subprojects 

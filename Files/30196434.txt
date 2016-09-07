@@ -1,0 +1,4 @@
+invoke multiple build scripts single build script build xml 
+build scripts creates jar file ul li build1 xml build1 jar li li build2 xml build2 jar li li build3 xml build3 jar li ul call build scripts single build xml script build xml calling script build1 xml creates build1 jar flow exit processing build scripts build2 xml build3 xml suggest 
+
+run script files href https ant apache org manual tasks ant html rel nofollow ant task file option 

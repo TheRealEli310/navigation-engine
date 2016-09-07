@@ -1,0 +1,4 @@
+tika facade choose emptyparser 
+tika facade href https github elasticsearch elasticsearch mapper attachments blob 208c76e45e5104f9d03825a23a68b5e4af5694bc src main org elasticsearch index mapper attachment attachmentmapper l461 rel nofollow elasticsearch mappper attachment plugin heres test code heres output question tika correctly identifies input supposed pass parser parser pass results assuming autodetection successful 
+
+make classpath gradle trick 

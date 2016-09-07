@@ -1,0 +1,4 @@
+android bitmap multithreaded processing thread 
+process bitmap android application bitmap huge multithreading perform faster operations heres code part runnable child thread pool works properely unfortunetely thread number equal number cores processor device result grayscale filter img src http stack imgur jjy4z png alt issue ul li bitmap getpixels work black lines output li li bitmap setpixels work unchanged lines output li ul functions thread unsafe perform multi thread bitmap filtering fast thread 
+
+2d image processing android provided skia library chrome hard find definitive answer skia thread skbitmap bitmap em em thread dont perused bunch inscrutable jni code offer call em entire bitmap em divide resulting array thread processing threads completed assemble results call lot hood reference counts image caches color space conversions premultiplications taking methods concurrent processing trouble 

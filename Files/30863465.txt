@@ -1,0 +1,4 @@
+x509certificate difference getissuerdn getsubjectdn methods 
+x509certificate class subject methods result difference 
+
+methods reads fields certificate returns result case common refer href https docs oracle javase docs api security cert x509certificate html getissuerdn rel nofollow getissuerdn href https docs oracle javase docs api security cert x509certificate html getsubjectdn rel nofollow getsubjectdn 

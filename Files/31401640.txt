@@ -1,0 +1,3 @@
+spring xml equivalent enableasync 
+turn springs async configuration xml examples programmatic context declaration xml equivalent places doesnt mention async spring 
+

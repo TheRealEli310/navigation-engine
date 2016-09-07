@@ -1,0 +1,4 @@
+embedded jetty http working firefox chrome safari 
+implementing servlet embedded jetty v20150612 http enabling alpn protocol negotiation select http1 http2 sending https request servlet safari supports http1 safari support http1 amp http2 answer servlet execute request firefox doesnt work ns error abort issue chrome questions ol li dont answer chrome amp firefox li li safari http http1 ios9 app connecting issue li ol code perform initialization jetty starting server give option xbootclasspath installdirectory lib alpn boot v20150130 jar wrong missing 
+
+code correct lacks lines important http work correctly configure add lines lines sort tls ciphers prefer http respect order sorting server falling back older draft version http h2 enforce cipher strength rejected chrome firefox dont working safari safari bug relaxed interpretation http specification regard cipher strength respect browsers 

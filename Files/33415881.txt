@@ -1,0 +1,4 @@
+retrofit rxjava schedulers newthread schedulers io 
+benefits schedulers newthread schedulers io retrofit network request examples io understand situation reasons newthread creates thread unit work io thread pool influence argument app aspects 
+
+correct benefit lies fact thread pool primary reason thread pools maintain number pre created threads idle waiting work means work dont overhead creating thread work thread future work constantly creating destroying threads threads expensive create minimizing number threads creating fly generally good information thread pools recommend ul li href http stackoverflow questions thread pool thread pool li li href http programmers stackexchange questions thread pool thread pool li li href https en wikipedia org wiki thread pool pattern thread pool pattern wikipedia li ul 

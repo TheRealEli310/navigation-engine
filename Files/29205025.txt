@@ -1,0 +1,4 @@
+jdbc mixed case table column names 
+jdbc insert db2 table rdbms table names columns mixed case execute sql putting format substituting single quotes double quotes table column names shown formatting sql errors issue syntax db2 sql error sqlcode sqlstate appreciated 
+
+single quotes character literals aka strings identifiers double quotes plain sql inside string escape double quotes reasons quoted identifiers good idea 

@@ -1,0 +1,4 @@
+prevent unused warnings 
+eclipse create simple program program object methods constructor logic class constructor methods class instantiate object class unused warnings dont suppress unused warnings warnings suppressed instantiate object dont supresswarnings class multiple places dont riddle code useless supresswarnings 
+
+blockquote logic class constructor blockquote sounds poor design start dont instance create sounds put code constructor static method em em class instance variables suggest moving logic constructor instance methods possibly static method calls constructor relevant methods hard knowing code em wouldnt em suppress warnings id strongly suggest refactoring code 

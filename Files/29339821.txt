@@ -1,0 +1,4 @@
+long polling kill threads server side 
+good morning evening implementing long pooling client server ajax long polling works properly client side seconds connection throw previous aborted problem server side request threads alive return client client listening anymore code client server problem threads growing growing server side seconds wrong technique 
+
+long polling kick request async mode register listener give worker thread 

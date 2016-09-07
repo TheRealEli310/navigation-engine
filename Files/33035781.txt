@@ -1,0 +1,4 @@
+access pixel mat javacv api 
+recently switched opencv api javacv perform basic operation iterating mat access pixel mat find javacv project short documentation opencv api access pixel mat method mat loaded cv 8uc1 mat greyscale code print pixels similar applicable answers ul li href http stackoverflow questions iterate cvmat matrix javacv iterate cvmat matrix javacv outdated applicable cvmat li ul 
+
+href https github bytedeco javacv issues seemingly unrelated thread javacv github discussion found answer question day googling pleace notice efficient ways found moment solution represented strong indexer package strong provided javacv href https github bytedeco javacpp commit 4d8dc9d8b244b79ca3c9d9355e476f028f3f36f9 href https github bytedeco javacpp presets commit ab8bde373733190fe204a3bb8d1837fbb7c62b4f details usage pretty declaring call elements matrix easily updated code ubytebufferindexer mat cv 8uc1 mat 

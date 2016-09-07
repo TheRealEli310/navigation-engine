@@ -1,0 +1,4 @@
+spring resolved property file location resolve properties 
+spring version release spring read properties file resolved properties provide location properties file spring xml file instance properties users beardman myapp local properties warning debugging code account id injected correctly magic number database endpoint show spring resolved property instance properties file file location edit added property file contents 
+
+spring default replaces property placeholders system properties properties defined external file create href http docs spring io spring docs current spring framework reference html beans html beans factory placeholderconfigurer rel nofollow propertyplaceholderconfigurer br tag shorthand define propertyplaceholderconfigurer bean control add applicationproperties bean properties file override system properties default mode system properties checked adding attribute element 

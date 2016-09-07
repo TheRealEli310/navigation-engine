@@ -1,0 +1,4 @@
+static property buttondata exist read 
+problem buttonbar javafx8 part code fxml file works fine scenebuilder load launched eclipse exception blockquote caused sun javafx fxml propertynotfoundexception static property buttondata exist read blockquote solve 
+
+found error import fxml file weird added worked fine 

@@ -1,0 +1,4 @@
+springboot rest application accept produce xml json 
+working springboot rest api application consume produce xml json jackson json xml dependency added pom xml accept xml input values null mapped object resource class request object json request response works fine include xml request response application 
+
+add jaxb annotation tag root tag class similar issues xml json transport format rest request moxy jackson case proper jaxb annotations convert xml xml pickier respect json jackson xml supposed support jaxb annotations work set similar annotations incompatible jaxb href https github fasterxml jackson dataformat xml rel nofollow https github fasterxml jackson dataformat xml href https github fasterxml jackson dataformat xml wiki jackson xml annotations rel nofollow https github fasterxml jackson dataformat xml wiki jackson xml annotations 

@@ -1,0 +1,4 @@
+create transaction handling servlets jdbc 
+terminate save objects multiple relative tables database single transaction servlets jsp jdbc dao layer service layer transactions service layer spring mvc annotation services options transactionmanager spring xml servlets small servlets transactions somedoby suggestive thoughts 
+
+ways manage transactions jdbc level simplest filter open transaction beginning request processing commit rollback end invasive layers transaction demarcation service layer opposite add code explicitely create commit transactions relevant service methods put real code common methods limit code duplication consistently modify service layer alternate existant service layer mimic spring proxies service classes proxies open create transaction call real method commit transaction imho invasive method code duplication choice method simple cases prototyping method opinion 

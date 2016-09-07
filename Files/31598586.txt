@@ -1,0 +1,4 @@
+check number large number 
+parse string safely work string parsable return reason unparsable specifically number number large 9223372036854775808 
+
+method throw string isnt number number wouldnt fit exception thrown test string fits regular expression number matches number couldnt fit doesnt match wasnt number returning error indistinguishable content string exception thrown method create throw numeric string parsing failed large fit 

@@ -1,0 +1,4 @@
+springvalidator net sf oval recursive error reporting 
+refactoring page application attempted perform recursive validation object validation constraints error describing object invalid errors validation nested object return page consumermanagementcontroller consumermanagementcommand consumeradjustment result comments consumermanagementcontroller error reporting 
+
+coming back question figured accomplish wanted wont details root solution fairly complex create validator extending springvalidator created validator extends net sf oval validator create validator call validate command object objects command object needed validate depending condition assertvalid javascript el validate command object nested objects require validation process errors bubble command object level 

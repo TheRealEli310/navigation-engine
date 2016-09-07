@@ -1,0 +1,4 @@
+mapping json simple subclass 
+move default json api android gson jackson stuck convert jsonobject object read tutorials found helpful classes simplicity json map code mapped achieve gson jackson libraries simpler 
+
+code work fine checking returns matches actual json 

@@ -1,0 +1,4 @@
+mapreduce reducer emits output line 
+simple mapreduce job supposed read dictionary text file process huge file line line compute inverse document matrix output supposed output reducer emitted huuuge line understand emit line key reducer mapper produces correct output pair values separate lines tested reducer reducer supposed append values key line key code specifically reducer configuration job reducer emit huge line multiple lines keys spent hours debugging make head 
+
+debug issue ul li put number reducers mapper output li li default comparator comparator cast objects wont yield correct result li ul 

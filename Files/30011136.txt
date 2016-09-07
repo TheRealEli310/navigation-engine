@@ -1,0 +1,4 @@
+fruchterman reingold algorithm vertices occupy place output graph layout 
+attempting implement fruchterman reingold algorithm reasons coordinate output vertices occupy coordinates algorithm wrong coordinate object vector node object graph object layout algorithm function frlayout apologies overly long question tutorials net couldnt closer figuring whats wrong finding unit vector vector make small vector vertices close repel violently author algorithm hoped instructions appreciated 
+
+found bug taking square root distance computing attraction repulsion forces smaller bugs posted corrected code question attempting algorithm find removing boundary graph free evolve produce shape obtaining resulting graph translate scale fit dimension required 

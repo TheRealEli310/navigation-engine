@@ -1,0 +1,4 @@
+memory cache concurrenthashmap 
+creating map memory excessed data concurrenthashmap purpose case concurrent hash map key map sample map key timestamp eviction policy map time key expired outer map concurrent map thread safety suggest linkedhashmap map serve purpose sacrificing thread safety 
+
+href https github jhalterman expiringmap rel nofollow expiringmap place map objects inside automatically expired desire 

@@ -1,0 +1,4 @@
+dead letter queue individual queues 
+queue activemq server called message fails processed activemq creates default directory called change reason queues future 
+
+thing called process activemq creates specific dlq queue topic implement tweaking bit configuration create dlq names prefix remove attribute hope helps good luck 

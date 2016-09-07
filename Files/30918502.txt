@@ -1,0 +1,4 @@
+keyword refer subclass 
+scenario part event system game api lets register method annotation hr generally speaking refers current instance registered 
+
+blockquote generally speaking refers current instance fireball onchat playerchatevent registered blockquote youre constructing instance refers constructed execution time em compile time em type print constructor show execution time type object finding event handlers reflection 

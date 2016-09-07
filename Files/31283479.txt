@@ -1,0 +1,4 @@
+mongodb driver pass allowdiskuse true aggregate method 
+strong mongo driver strong method sort limit big fails found strong mongodb shell strong method href http docs mongodb org manual reference method db collection aggregate rel nofollow link field find equivalent strong api strong href http api mongodb org mongodb aggregationoptions html rel nofollow aggregationoptions class class doesnt provide method 
+
+works driver newer classes href http api mongodb org current mongodb client mongocollection html aggregate util list rel nofollow mongocollection returns href http api mongodb org current mongodb client aggregateiterable html rel nofollow class instance href http api mongodb org current mongodb client aggregateiterable html allowdiskuse lang boolean rel nofollow method set aggregation options 

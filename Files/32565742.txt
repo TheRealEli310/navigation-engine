@@ -1,0 +1,4 @@
+runtime exec executing sshpass command 
+runtime exec executing sshpass command run command directly terminal working terminal 
+
+check input stream error stream process class return rt exec actual error due command executed 

@@ -1,0 +1,4 @@
+convert log4j configuration related jul log4j configuration 
+converting application log4j log4j2 log4j properties file found follwoing configurations relats util logging convert configurations log4j2 configuration 
+
+href http logging apache org log4j log4j jul index html rel nofollow log4j2 bridge route calls util logging api log4j2 activate set system property add log4j2 jul adapter jar classpath href http logging apache org log4j faq html jars rel nofollow jars faq configure log4j2 usual log4j2 manual configurations configuration snippet provide translate added fileappender 

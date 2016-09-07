@@ -1,0 +1,4 @@
+config spring security check found 
+noob spring framework configure security options app xml security config displays login page submit throws exception appreciated web config 
+
+changed webconfig added method override hope helps chipped suggestions 

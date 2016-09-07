@@ -1,0 +1,4 @@
+unable resolve beans type xxx qualifiers javax enterprise inject 
+loginprovider interface implementations producer annotation annotation login provider implementation factory finally helper login providers injected error helper 
+
+added annotation loginprovider1impl loginprovider2impl br make work modify factory method 

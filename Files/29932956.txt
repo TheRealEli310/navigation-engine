@@ -1,0 +1,4 @@
+murmur3 hash result python implementation 
+program hash string murmur3 python python version pre class lang python prettyprint override 79267961763742113019008347020647561319l guava pre class lang prettyprint override string 6778ad3f3f3f96b4522dca264174a23b converting biginterger 137537073056680613988840834069010096699 result 
+
+heres result hash codes bytes treated em endian em interprets bytes big endian create output series pairs hexadecimal digits representing hash bytes order theyre returned endian reverse pairs hexadecimal hex number produce result passed documentation confusing refers big endian doesnt output method hexadecimal number representing bytes interpreted big endian open href https github google guava issues rel nofollow issue adding 

@@ -1,0 +1,4 @@
+mirroring 2d arrays 
+make code takes 2d array mirrors portion code program works returning opposite wrong 
+
+youre reversing dimension array rows columns wrap loop mirror loop adjust indexes appropriately 

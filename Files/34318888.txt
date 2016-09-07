@@ -1,0 +1,4 @@
+google sign android 
+google developer documentation sign app code copied git added codes href http paste ubuntu rel nofollow documentation defined em loginactivity em error href http paste ubuntu rel nofollow log em mainactivity em code running emulator shows update play service problem 
+
+error occurred emulator compiling play service testing actual hardware doesnt show problem due mismatch play service versions emulator api hope upgrade google api sdk latest play service release notice 

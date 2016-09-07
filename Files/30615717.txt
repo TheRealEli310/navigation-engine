@@ -1,0 +1,4 @@
+nullpointerexception jstl calling methods null object request object 
+yesterday appeared interview interviewer shows code asked null pointer code blockquote blockquote blockquote blockquote 
+
+jstl suppresses nullpointerexceptions discussion href http www coderanch jsp null jstl rel nofollow detail found section href http download oracle otn pub jcp jstl mr2 spec oth jspec jstl mr2 spec pdf rel nofollow jstl spec 

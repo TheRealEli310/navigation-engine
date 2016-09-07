@@ -1,0 +1,4 @@
+cdi interceptor transaction propagation 
+add cdi interceptor arround invocation ejb method ejb business service stateless cdi dao injected ejb transactionnal default dao invocations transaction add interceptor arround method dao calls workflowinterceptor transaction myservice 
+
+interceptor transaction context ejb world kinds exceptions ul li system exceptions runtime exceptions li li application exceptions user defined checked exceptions present method signature li ul transaction rolled back automatically system exceptions programmers responsibility handle transaction rollback application exception major difference system exceptions unlike application exceptions wrapped container thrown make user defined annotating href http docs oracle javaee api javax ejb applicationexception html rel nofollow transaction rolled back automatically applicationexception behavior inherited 

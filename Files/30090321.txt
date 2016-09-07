@@ -1,0 +1,4 @@
+arraylist loop removing indexes 
+expected print prints explain index removed 
+
+remove elements array start end work backwards indices messed array loop delete starting 0th index loop array time loop deleting 1st index fails account array shifted left array problem continue delete index start end array work back 

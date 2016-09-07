@@ -1,0 +1,4 @@
+stop apache cxf logging binary data multipartbody attachments 
+stop cxf logging binary data attachments object thrown outbound message add setting false doesnt stop binary data multipart message logged unsure create custom loggingininterceptor configuring existing interceptors truncate binary data finds stopping logging multipartbody response truncating data acceptable solutions 
+
+default false binary data logged based content type content type binary data logged content type create custom interceptor override isbinarycontent shown content type shown 

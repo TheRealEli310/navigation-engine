@@ -1,0 +1,4 @@
+spring jpa hibernate duplicate 
+world making application spring jpa hibernate entity class works generally duplicates attributes code check jpa diagram duplication attributes added jpa diagram image red parts duplicated img src http stack imgur tnmxt png alt enter image description application programming understand read documentation spring jpa difficult figure wrong code ideas advance 
+
+problem jpa expects field level annotations accessor getters setters annotations basically isnt allowed remove annotations accessors put fields small hint programming styling put fields top classes accessors remove annotations accessors set expect remove method 

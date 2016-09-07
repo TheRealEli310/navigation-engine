@@ -1,0 +1,4 @@
+constructor method reference static class 
+equivalent class outer class instance edit express function reference 
+
+href http docs oracle javase tutorial javaoo methodreferences html rel nofollow oracle tutorials kinds method references ul li reference static method ul li li ul li li reference instance method object ul li li ul li li reference instance method arbitrary object type ul li li ul li li reference constructor ul li li ul li ul references local nested class listed assume supported href https docs oracle javase docs api util function supplier html rel nofollow trigger usage lambdas order obtain instance nested class 

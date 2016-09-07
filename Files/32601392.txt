@@ -1,0 +1,4 @@
+thread leak thread dump 
+strong explain thread leak thread dump confuse thread dump strong creating thread thread class runnable interface 
+
+href http www javasanity org understandingthreaddumps rel nofollow docs blockquote thread dump snapshot whats executing moment time blockquote thread leak dont close thread properly number unused threads grows time 

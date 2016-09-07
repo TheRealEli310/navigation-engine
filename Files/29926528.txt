@@ -1,0 +1,4 @@
+lang outofmemoryerror heap space 
+eclipse error command changing metaspacesize doesnt solve problem occurs swap elements list size lt 
+
+building list combination lot memory exploring combinations number results grow exponentially number elements input simple provide call back process combination leave amount work memory consumption drops create consumer adds clones list print process results 

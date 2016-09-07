@@ -1,0 +1,4 @@
+create executable maven project 
+created project maven main idea dependencies easily problem create executable exe jar file application archetype netbeans postgree db pom file shown bellow fact create installer app edit create executable jar file suggested pom file 
+
+project created maven jar file created target folder directory project execute goal generate executable jar file create installer create exe file tool recommend href http www jrsoftware org isdl php rel nofollow http www jrsoftware org isdl php find documentation href http www jrsoftware org ishelp index php topic consts rel nofollow edits create executable jar add plugin pom file lines check complete information href https maven apache org plugins maven jar plugin rel nofollow include maven dependencies strong maven assembly plugin strong 

@@ -1,0 +1,4 @@
+object changed compared database 
+fields model object changed save compare values touch model classes generated problem change object controller check database object stored save modified object returned object database modified object play basically pre class lang prettyprint override question force jpa entitymanager database real returning object context real problem strong solution strong final solution pre class lang prettyprint override achieve create entitymanager pre class lang prettyprint override 
+
+force hibernate start transaction playframework give entity manager return object database reference specifically play framework start transaction jpaplugin javadoc href https www playframework documentation api play db jpa jpaplugin html starttx boolean rel nofollow starttx href https www playframework documentation api play db jpa jpaplugin html closetx boolean rel nofollow closetx 

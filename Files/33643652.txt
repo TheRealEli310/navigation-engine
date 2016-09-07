@@ -1,0 +1,4 @@
+socket software caused connection abort recv failed 
+build simple tcp multithreaded client server application client connects send corresponds simple serializable class shown server crashes read client strong message strong strong storageserver strong strong debug output strong causing exception close reset socket connection client server side h2 strong edit strong h2 added client code client exception response server strong tcpservice client strong 
+
+immediately sending message client closes objectoutputstream closes sockets output stream closes socket time client read input stream socket closed exception client side causing problem server side time server reading data tcp connection closed 

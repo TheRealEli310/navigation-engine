@@ -1,0 +1,4 @@
+spring amqp messagelistener receiving messages 
+building custom library top spring amqp project point implement message listener receive message asynchronous reading documentation project management find easy implement message listener implement messagelistener class configure fire incoming messages configured pieces code located class called receivecontroller blockquote fact context annotations xml mandatory project function create instances classes blockquote running code library ul li consumer client connects rabbitmq broker stays connected li li producer client connects rabbitmq broker sends message disconnects li li queue management plugin message put queue message listener triggered li ul reason consumer receive messages listener related fact queue created amq direct exchange test route routing key 
+
+constructing container manually spring application context invoke listener implements dont adapter 

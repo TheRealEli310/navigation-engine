@@ -1,0 +1,4 @@
+maven run integration tests failsafe plugin 
+question asked make maven run integration tests failsafe plugin execute runs integration tests execute integration tests running pom xml integration test expect fail maven version strong update strong output href https gist github bhdrkn 7aea7046ff7c02947f36 rel nofollow link 
+
+change build section strong configuration strong tag 

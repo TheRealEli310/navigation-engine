@@ -1,0 +1,4 @@
+print unicode character apache poi 
+apache poi read excel file excel file row string method print result method result solve problem 
+
+console support charset string represent windows change console utf8 page 

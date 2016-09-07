@@ -1,0 +1,4 @@
+hbase rowkey columnkey binary values bytes string 
+strong hbase strong indexed keys em em em em em em em em ul li string li li binary values type byte li li bit integer type long li li uninterpreted array bytes type byte li ul binary data encoded base64 transmission wire keys values stored bytes string 
+
+store binary data qualifier prefixed qualifiers prefix binary int64 id serialized protobuf columnprefixfilter case column family qualifier binary 64int id binary qualifier column family binary scan family 

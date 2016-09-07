@@ -1,0 +1,4 @@
+meaning map string 
+method argument type generally map data types place didnt understand stands order pass argument type define map understand 
+
+strong generics stands wildcard represent object strong create method takes expect maps keys object values 

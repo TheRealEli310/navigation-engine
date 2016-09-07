@@ -1,0 +1,4 @@
+changing file uploading aws s3 bucket 
+upload csv file s3 bucket code runs successfully check bucket file uploaded rename file manually check content rename file programmatically file change automatically uploading check code ideally file bucket guide 
+
+putobjectrequest constructor key parameter uploaded file access key sdk documentation blockquote parameters bucketname existing bucket object uploaded strong key key store object strong input stream data upload amazon s3 metadata object metadata minimum specifies content length stream data uploaded blockquote source href http docs aws amazon awsjavasdk latest javadoc amazonaws services s3 model putobjectrequest html putobjectrequest lang string 20java lang string 20java io inputstream 20com amazonaws services s3 model objectmetadata rel nofollow putobjectrequest constructor detail dont accesskey instantiate amazons3client object credentials include access secret keys 

@@ -1,0 +1,4 @@
+appcompatactivity outofmemoryerror 
+wanna add toolbar android app fatal exception main lang outofmemoryerror changed activity appcompatactivity code dont changing line makes memory error customadapter log 
+
+problem adapter culprit assume ln image getimageid points large file suitable device scaled images densities large dimensions order avoid issue bear mind adpater code write called dozens times depending rows recycler list view decoding network resource continue background rows arent screen manage calls 

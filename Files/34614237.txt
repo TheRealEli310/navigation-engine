@@ -1,0 +1,4 @@
+tls ssl compatibility jersey library 
+developed client communicate distant server jersey jackson library obligated version fine informed distant server start recent tls version communicate tls v1 version tls v1 impact application taking account operating system handle tls v1 remark simple webresource retrieve answer 
+
+answer question platform dependent depends jsse client jvm packaged jsse secure sockets extension pluggable component jvm ssl tls support application jsse sun jvm windows support tls v1 ibms jsse jvm support v1 wrt affects application depends protocol server supports support clients jvm jsse server negotiate jvm jsse support btw doesnt versions jersey jackson app depends jvm application running client app run jvm tls v1 support free jvm code newer vms default deactivate insecure cipher suites enabled default jvms 

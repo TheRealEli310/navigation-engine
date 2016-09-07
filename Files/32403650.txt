@@ -1,0 +1,4 @@
+javafx current word typed textarea 
+current word partial word typed javafx textarea pass basic autocomplete getpredictions string prefix method event handler keytyped track character typed concatenate previously typed word resetting space lot pitfalls autocomplete turned middle typing word previous word backspace hit caret end word curious alternative approach simply string word caret position back space textinputcontrol methods havent working ill post point basically current word typed preserving current caret position types br 
+
+observing backtracking whitespace character extend idea search forward carat position cursor middle word identify words result insertion point heres sscce demonstrating random word list found online 

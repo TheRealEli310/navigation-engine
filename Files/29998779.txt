@@ -1,0 +1,4 @@
+sending utf encoded characters network 
+reason encoding standard base64 format make wont control characters considered control characters network ensures receiving data side network transfer scenario utf character encoding base64 giving control characters output send network 
+
+blockquote reason encoding standard base64 format make wont control characters considered control characters network blockquote strong statement incorrect strong base64 em specifically em encode binary data printable ascii characters specific situations embedding binary data protocol designed transfer text embedding attachments email required general transmitting data network http instance manages perfectly blockquote scenario utf character encoding base64 giving control characters output send network blockquote utf unicode string format encode arbitrary binary data 

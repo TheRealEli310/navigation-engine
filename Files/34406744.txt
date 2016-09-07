@@ -1,0 +1,4 @@
+refactoring nested foreach stream 
+lists loop populate final list loop satisfies condition refactored code latest streaming api step remove nested foreach methods 
+
+problem call inside mutate external instance run easily concurrency issues turns stream parallel collection thread favor collect approach suited mutable reductions build mappings upfront avoid multiple filtering return 

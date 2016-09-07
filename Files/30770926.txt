@@ -1,0 +1,4 @@
+hierarchy data structure wih efficient query algorithm 
+data structure represent hierarchy class system class university major student relationship img src http stack imgur ll2yk jpg alt enter image description efficient data structure query path expression expression cmu cs jake instance student class jake trie option 
+
+data fits memory implement putting children node hierarchy walking sets determine path valid walk reverse path bidirectional hierarchy put parents child run average case depth hierarchy worst case size sets data doesnt fit memory graph database href http neo4j rel nofollow neo4j hr edit make code generic cost type safety level assuming object unique string identifier runtime depending query consists queue strings level hierarchy string removed queried child node returned found query proceeds child node queue empty return true node isnt found return false 

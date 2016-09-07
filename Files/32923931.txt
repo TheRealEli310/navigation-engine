@@ -1,0 +1,4 @@
+jsf injecting accessing session scoped managedbean request scoped bean 
+sessionscoped managedbean injected requestscoped access user stored session code working good practice whats wrong jsf dont learn bad coding beginning advance entity utilisateur entity ferme statless dao loginbean listefermesbean login xhtml finally page displays list user id stored object session 
+
+comment cdi injection big strong strong business intensive things getters setters reason called multiple times background call services method called service injected didnt post auth method purpose reguarding auth system deal dont dao read jaas doc deal automatically dont service authenticate users bean memory serves read subject hash salt authenticating users 

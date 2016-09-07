@@ -1,0 +1,4 @@
+read excel file skip empty rows empty columns 
+read excel file skip empty rows code skips empty cells skips empty columns skip empty rows maintain empty columns jxl 
+
+ul li loop rows ul li loop columns ul li print cell empty skip continue statement instruction loop break statement stop reading row reaches empty cell li ul li ul li ul ul li loop rows ul li loop columns ul li append cell rows string empty set rowempty false empty cell li ul li li print row empty li ul li ul 

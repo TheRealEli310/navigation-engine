@@ -1,0 +1,4 @@
+access swaggerui index html page open api docs spring boot 
+small application learn spring boot swagger ui run program open shows json output access whitelabel error page steps copied dist folder swagger ui project github renamed dist swagger put inside changed path index html api docs screenshot eclipseluna ide program codes img src http stack imgur 7b6cv png alt enter image description pom xml application normal pojo spring restful demo provided href https spring io guides gs rest service rel nofollow https spring io guides gs rest service greetingcontroller swaggerconfig index html wrong missed 
+
+class remove annotations replace spring boot combination boot versions remove annotation interfering spring boot auto configuration resources serves swagger ui swagger springmvc dependency outdated related considered moving href http springfox io rel nofollow springfox generation swagger springmvc supports swagger 

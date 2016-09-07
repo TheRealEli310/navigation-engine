@@ -1,0 +1,4 @@
+building sakai tomcat 
+sakai tomcat jdk mysql maven windows xp build sakai tomcat successful start tomcat lot errors sakai doesnt load environment variables configured 
+
+maven build deploy page site mentioned section install maven stated blockquote warning maven required performing sakai builds blockquote starting point class found starting tomcat tomcat properly configure sakay 

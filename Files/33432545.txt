@@ -1,0 +1,4 @@
+unauthorized error retrofit 
+error means request denied due invalid credentials making request url retrofit works perfectly expected output wrong implementation calls working fine pass url 
+
+retrofit support putting username password url due security reasons kind authentication called basic authentication pass parameters http header heres article retrofit href https futurestud io blog android basic authentication retrofit rel nofollow https futurestud io blog android basic authentication retrofit 

@@ -1,0 +1,4 @@
+iterate conseecutive object pairs arraylist 
+pairs objects arraylist perform calculations elements object ideally iterate pairs objects list obj1 obj2 obj3 obj4 obj1 obj2 obj2 obj3 obj3 obj4 iterates obj1 obj2 obj3 obj4 fix greatly appreciated 
+
+normal loop loop strong em em strong element array strong edit strong iterator case strong em em strong faster normal loop makes logic unnecessarily complicated easily introduce bugs 

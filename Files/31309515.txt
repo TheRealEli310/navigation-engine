@@ -1,0 +1,4 @@
+fix find slf4j logging jars jetty 
+jetty container run solr5 inside container copied jar files solr server lib ext jetty base lib ext showing error dont wheres problem lib doesnt included make priority running jar files output list config 
+
+enable module put slf4j jars directory 

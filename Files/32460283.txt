@@ -1,0 +1,4 @@
+jersey testframework gradle messagebodyprovidernotfound 
+bit difficult situation jersey provide rest services runtime version resource class works json response expected found href https jersey net project info jersey project project jersey test framework provider inmemory dependencies html rel nofollow jersey testframework memory server integration tests work jersey added extra gradle setting tests test class setup work long resource returns return shown code error missing provider parses classes json figure adding libs classpath remember working ideas missing sven 
+
+correct jersey register application mentioned href http stackoverflow hr btw jersey jersey test framework api functions href http stackoverflow href http stackoverflow href http mvnrepository artifact sun jersey jersey test framework jersey test framework inmemory rel nofollow memory provider recommend sticking jersey 

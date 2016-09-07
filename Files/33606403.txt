@@ -1,0 +1,4 @@
+call methods stopped sparkcontext thrown connecting spark standalone application 
+downloaded apache spark pre built hadoop ubuntu machines set spark master single slave machine running spark slave execute command master slaves started successfully ran sample pi program setting spark master url displayed spark web ui works great created application configure run spark jobs needed added spark dependencies file created create step error thrown change spark master works fine running app machine hosts spark master idea happening documentation found indicating code work spark master url ideas happening fix spent lot time figure luck 
+
+spark scala incompatible spark built scala building spark scala href http spark apache org docs latest building spark html building scala rel nofollow http spark apache org docs latest building spark html building scala 

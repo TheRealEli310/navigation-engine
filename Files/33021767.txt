@@ -1,0 +1,4 @@
+json object data asynctask void void jsonobject 
+mainactivity class login class extends asynctask execute login class return jsonobject mainactivity separate data getdata returned josnobject strong handle strong 
+
+data separate differents strings 

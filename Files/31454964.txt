@@ -1,0 +1,4 @@
+native events behaves differently versions firefox selenium 
+earlier firefox selenium test web app consists menu tab hovering gave menus click menus code upgraded browser version doesnt work upgrading selenium version doesnt work selenium ff appreciated 
+
+works works upgrade ff works chrome 

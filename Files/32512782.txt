@@ -1,0 +1,4 @@
+spring restcontroller handle http zoneddatetime parameters 
+creating endpoint receive dates filtering server side code invoke endpoint http error request client syntactically incorrect date formats worked missing read datetimeformat added working request href http host test api v1 test summary test start amp end rel nofollow http host test api v1 test summary test start amp end 
+
+spring mvc converters provide pattern send information provided date formatted produce send alternatively date type doesnt zone time information provide date format 

@@ -1,0 +1,4 @@
+arrays copyofrange method throws incorrect exception 
+working arrays today suddenly scenario throwing unexpected exceptions code throw surprisingly throwing mistaken 
+
+javadoc blockquote strong throws strong ul li strong arrayindexoutofboundsexception strong lt original length li li strong illegalargumentexception strong li ul blockquote implementation exception due overflow code thinks caused int overflow due resulted negative 

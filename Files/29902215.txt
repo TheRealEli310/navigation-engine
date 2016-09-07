@@ -1,0 +1,4 @@
+increase heap space spark amazon ec2 cluster 
+wrote program spark api data big error blockquote lang outofmemoryerror heap space blockquote idea increase heap space spark ec2 cluster aws give details code cluster setup 
+
+increase heap space adding flags submitting application jar spark submit blockquote executor memory 10g driver memory 2g blockquote 

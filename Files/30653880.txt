@@ -1,0 +1,4 @@
+multiple strings arraylist 
+add strings dynamically arraylist index position pass arraylist extra intent process runs fine time call activity end index bounds exception code suggest flaw code 
+
+time called incrementing adding item index list static time called object list empty add element index empty list throws index bounds exception change static problem resolved option avoid exception change add element index list 

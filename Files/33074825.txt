@@ -1,0 +1,4 @@
+populate jsf table managed bean adf business components 
+adf missing oracle hr database business components model viewobjects country location department viewlinks fk country location location department exposed datacontrol country location deperatments build jsf areas shown click country locations click location departments works show country departments implemented managed bean make iterators populate department table throught bean binding attribute table row objects return due bc class definitions map rows back objects show departments country adf managed bean getpopulate method called returns rows returing rows wrong 
+
+managed bean case wrong br create viewobject match expectation br create viewobject joining location department tables make child country viewobject viewlink br drag amp drop master detail tables page 

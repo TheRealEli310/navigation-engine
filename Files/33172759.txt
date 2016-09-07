@@ -1,0 +1,4 @@
+mongodb implement aggregate method return result cursor 
+facing issue googling found work code ol li li li li ol 1st working taking time minutes option original code result strong cursor strong disk space server memory youre older driver api driver options giving error em output datasetcollection aggregate project usecursor true em em output datasetcollection aggregate project usecursor true allowdiskuse true em em output datasetcollection aggregate project aggregationoptions builder allowdiskuse true usecursor true build usecursor true em working wrong 
+
+strong strong block put code 

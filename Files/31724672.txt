@@ -1,0 +1,4 @@
+upgrading spark spark hive context issue 
+upgrade application spark spark previously allowed multiple hive databases contexts query execute query spark sql error removing database works query application issues wondering changed spark issue fix contexts api admittedly verified running hive table exists query database works 
+
+issue placement backticks original query works spark worked spark failing spark changed backticks query working successfully spark 

@@ -1,0 +1,4 @@
+making intellij idea recognizing dagger generated classes project 
+strong context strong started personal project build system dagger di main reason library easily bigger projects strong strong managed make href https github google dagger tree master examples simple rel nofollow google sample runs intellij idea strong problem strong intellij idea telling resolve generated class case bit annoying written code correct specially learning dagger classes href https github google dagger tree master examples simple rel nofollow google sample file strong question strong make intellij idea recognize generated class make implementation ctrl left click 
+
+finally made add plugin file 

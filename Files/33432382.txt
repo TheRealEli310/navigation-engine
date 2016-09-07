@@ -1,0 +1,4 @@
+jpa ejb persistencecontext injecting entitymanager 
+wildfly final working jndi data source set entities working inject entitymanager persistencecontext doesnt working throwing null pointer exception em persistence xml em evententity entity eventdaoimpl class handles basic crud operations worth mentioning jpa daoimpl maven module access module dependencies correct testing class code provider persistence xml file ide resolve past strange maven dependency set hibernate jpa pom xml appreciated 
+
+becuase annotated eventdaoimpl stateless bean inject bean 

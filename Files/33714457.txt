@@ -1,0 +1,4 @@
+run dropwizard app debug mode eclipse 
+run dropwizard app strong debug mode strong ul li app running locally jpda li li ide eclipse set breakpoints jpda client connect locally running app li ul hr h3 server debug mode h3 typically dw app runs command line strong command line args running debug mode jpda modifications needed accomplish strong hr h3 eclipse jpda client h3 assume set breakpoints create strong debug configuration strong inside eclipse arguments configs set configuration strong ideas strong 
+
+run main class extends debug mode set program parameters run configurations 

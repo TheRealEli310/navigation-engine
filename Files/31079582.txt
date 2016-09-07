@@ -1,0 +1,4 @@
+implement sorting dao method 
+question made years ago person didnt final answer href http stackoverflow questions ordering dao method ordering dao method question class student class studentdaoimpl implements dao method getall students ordered coupling caller specific implementation ways whats practise kind attention h2 h2 
+
+abstractly pass information sort designed number ways simple properties sorted directly tied student class define constants sortable properties dao intimate knowledge student class create respond parameters defined student class couples dao student harm coupled dao user doesnt sorting implemented normal purpose id em em dao implement sorting getall students simple plain comparator nicely embedded student point dao sort returns lazy collection backed database result set result set large getall point thought whats case sorting dao 

@@ -1,0 +1,4 @@
+heritrix3 crawl ajax based web sites 
+crawl ajax based web sites heritrix 
+
+intend make copy ajax website grab data analysing content website customize crawler extractor determine urls follow website easily guess urls interesting case interpret javascript ajax callbacks crawled processor chain default store ajax callback answers archive files making extractor compile put jar file heritrix lib directory insert bean refering myextractor fetchprocessors chain basically duplicate extractorhtml line crawl job cxml file 

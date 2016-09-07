@@ -1,0 +1,4 @@
+javafx chart image base64 string php 
+iam javafx illustrate chart linechart concept javafx draw chart export screenshot code works perfect simple create writableimage image base64 string reproduce base64 string png file php ideas thx 
+
+code continue optimized write file directly byte array graphic stored file cases image stored memory outofmemory error image large 

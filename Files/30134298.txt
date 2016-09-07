@@ -1,0 +1,4 @@
+asymmetric serialization deserialization jackson 
+jackson serialize deserialize data restful api id rest resource post comments list comments heres simplified posted heres result email addresses shouldnt visible decided return md5 hash email addresses response created simple pojo class fields getters setters serialize result dont returned shouldnt included annotation field ignore deserialization create classes super class shares common fields avoids creating additional classes 
+
+dont create classes jackson full control behavior property serialization deserialization annotations getter prevent property serialized json response annotation setter property set deserialization code output running method test solution hope helps jose luis 

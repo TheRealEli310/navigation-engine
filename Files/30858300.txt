@@ -1,0 +1,4 @@
+blocking terms io nio 
+read blockquote classes work streams located packages io nio classes implement blocking input output bytes read written process unavailable threads execution package offers blocking improved performance blockquote understand bit blocking impact single relevant thread leave source file database unblocked ready accessed streams blocking prevent source accessed current thread reading 
+
+blocking basically refers thread invokes read write blocked data read data written thread meantime blocking thread data source 

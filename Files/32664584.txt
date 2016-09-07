@@ -1,0 +1,4 @@
+spring data mongodb aggregate method 
+convert aggregation function code spring data 
+
+spring mongo support ol li composite aggregation custom key names accept defualt field translation li li usage href http docs mongodb org manual reference operator aggregation cond rel nofollow strong strong operation expression href http docs mongodb org manual reference operator aggregation sum rel nofollow strong strong supports mapped field li ol thing breaks usage aggregation helper functions case work requires additional stage execution affect performance create abstract class works standard builder functions build pipeline stage standard objects standard builder builds pipeline href http docs mongodb org manual reference operator aggregation group rel nofollow stage defined 

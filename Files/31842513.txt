@@ -1,0 +1,4 @@
+run poi dependent class command prompt 
+title run class command prompt apache poi library run command error libs folder entire poi folder zipped downloaded throwing error tested intellij ran fine command prompt intellij handles libraries happening 
+
+found answer previous href http stackoverflow answer stackoverflow add end semicolon terms compiling run credit andrewdleach 

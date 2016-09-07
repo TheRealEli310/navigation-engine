@@ -1,0 +1,4 @@
+intellij warning stringbuffer tostring concatenation 
+enable inspections heading performance issues youll warning title code realise unnecessary performance issue 
+
+point youre string concatenation operator creates scenes leading creation objects simply concatenate strings original code equivalent aspect related warning honestly performance code optimization redundant operand compiler automatically call guessed question explained language specification href https docs oracle javase specs jls se8 html jls html jls rel nofollow https docs oracle javase specs jls se8 html jls html jls blockquote operand expression type string conversion performed operand produce string run time blockquote href https docs oracle javase specs jls se8 html jls html jls rel nofollow section blockquote ul li reference converted string ascii characters li li conversion performed invocation method referenced object arguments result invoking method string li ul blockquote 

@@ -1,0 +1,4 @@
+flink scala version conflict 
+attempting compile kafka sample href https github dataartisans kafka rel nofollow intellij fussing dependencies run issue past run notions suggest issue scala version current library list suggestions run astray 
+
+problem scala version mismatch youre mixing dependencies built scala flink dependencies built default scala dependencies built scala pulls jar replaces dependency required flink dependencies binaries built scala flink dependencies build install flink scala href https ci apache org projects flink flink docs master setup building html build flink specific scala version rel nofollow https ci apache org projects flink flink docs master setup building html build flink specific scala version build flink scala version h3 kafka h3 bump version referenced kafka change flink version file file dont anymore change additional dependencies required 

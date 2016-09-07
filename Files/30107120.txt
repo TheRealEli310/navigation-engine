@@ -1,0 +1,4 @@
+anagram algorithm clarification 
+forum wanted question multiple people questions anagrams question related specific algorithm algorithm recursion technique generating anagrams part algorithm clear wanted seek terms specific step algorithm outline programming interview exposed algorithm blockquote past position br nbsp nbsp nbsp print string return br br nbsp nbsp nbsp letter input string br nbsp nbsp nbsp nbsp nbsp nbsp marked skip letter br nbsp nbsp nbsp nbsp nbsp nbsp place letter current position br nbsp nbsp nbsp mark letter br nbsp nbsp nbsp permute remaining letters staring current position br nbsp nbsp nbsp mark letter unused br blockquote code mentioned code explanation recursive call returned character simply dropped reducing buffer size understand dropping character guide 
+
+revert effect adds character restore buffer state iteration loop simple 

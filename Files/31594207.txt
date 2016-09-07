@@ -1,0 +1,4 @@
+spring cloud eureka changing heartbeat discovery path 
+unable conjure property change heartbeat discovery context eureka server configbeans located github href https github spring cloud spring cloud netflix tree master spring cloud netflix core src main org springframework cloud netflix eureka rel nofollow https github spring cloud spring cloud netflix tree master spring cloud netflix core src main org springframework cloud netflix eureka set context path client server client configured modify server change context run clients 
+
+spencergibb clued test required config eureka server application yml overthinking eureka server setting 

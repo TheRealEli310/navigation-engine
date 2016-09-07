@@ -1,0 +1,4 @@
+reasoning reals 
+experimenting openjml combination z3 reason values found openjml default logic doesnt support tool unable prove class 
+
+smt translation input appears faulty doubles involved program doubles ints constants call pre condition em translated smt em fault form work verbose output program generates general href http sourceforge net jmlspecs bugs floating point support buggy strong program strong ints output running search mentions verbose output result strong program strong doubles output running search mentions verbose output result 

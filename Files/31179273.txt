@@ -1,0 +1,4 @@
+splitting merging large files size gb 
+suppose ul li splitting strong kb strong approx gb file parts li li produce files size strong kb strong br correct li li merge parts producing file strong kb strong file strong kb strong li ul difference code merge split files strong splitfile strong 
+
+method dont read file line line line endings differ platform read binary file write problem method makes guarantees order files returned combined code make work remember invoke method 

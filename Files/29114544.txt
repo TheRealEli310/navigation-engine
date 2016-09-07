@@ -1,0 +1,4 @@
+alright create object modelandview method class 
+controller serving requests wondering create modelandview correct creating object method approach 
+
+spring inject model return view method bit cleaner code 

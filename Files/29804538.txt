@@ -1,0 +1,4 @@
+multiple connection server dynamic ports 
+strong udp server strong receive send informations clients dynamically open socket free port strong differente device device strong client send receive port server communicate set server stay open port thousand users handle tails problem preventing port occupied client em thought open port sockets thread dont correct em 
+
+udp server listen open port clients send data port server handle data respond needed peer data happen client send data server udp context client hog server port application badly written 

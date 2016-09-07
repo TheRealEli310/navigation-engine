@@ -1,0 +1,4 @@
+restart android studio countdowntimer inside countdowntimer working perfectly 
+make question game improve skills user selects gametime case lets minutes question seconds respond timers working perfectly restart seconds counter reaches end give place question minute counter finishes 
+
+create anonymous instances long running countdowntimer wont dispose leak entire activity option create separate class files timers dont forget call gametimer cancel answertimer cancel activity fragment onpause 

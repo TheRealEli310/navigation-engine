@@ -1,0 +1,4 @@
+wildfly jboss standalone server unable start 
+application servers downloaded latest version jboss wildfly wanted start standalone server href https docs jboss org author display wfly8 started guide gettingstartedguide startingwildfly8 rel nofollow properly set home jdk jboss home variables standalone bat opposed sh file tutorial windows execute bat file output provided image clear server started wrong checked localhost returned page found img src http stack imgur hzm7p png alt output server startup fix issue run standalone jboss server 
+
+encountered similar situation days ago inside bin folder locate standalone bat open text editor lines similar deleting lastly highly recommend checking variable make set correct path hope solves problem 

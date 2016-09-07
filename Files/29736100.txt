@@ -1,0 +1,4 @@
+finding largest smallest numbers array 
+supposed make program takes numbers user input find largest smallest number display inputs user program array code point obtain user inputs run problem catch block fix 
+
+swallow exception problem enhanced loop iterating em values em array youre treating index check immediately blow youre length array iterate indexes work values directly 

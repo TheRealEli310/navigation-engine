@@ -1,0 +1,4 @@
+webappcontext pass argument servlet constructor 
+webappcontext main class servlet webservlet annotation constructor args pass args main class servlet main web xml servlet 
+
+understand created web application javase embedded jetty annotations add servlets server jetty creates servlets calls default constructors pass links objects created servlets solutions ol li create href https en wikipedia org wiki dependency injection rel nofollow dependency injection add singleton class context application main put services context servlets li li dependency injection frameworks href https en wikipedia org wiki spring framework rel nofollow spring li li j2ee href https en wikipedia org wiki enterprise javabeans rel nofollow ejb case forget managed web server li ol jetty server method add bean server code config bean servlet 

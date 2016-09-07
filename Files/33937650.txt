@@ -1,0 +1,4 @@
+set domain host wildfly final 
+developed ear application structure abc ear ul li def war li li def1 war li li ghi jar li ul launch website configure domain wildfly ip domain mapping access application access site entering domain advance 
+
+href http www mastertheboss jboss web jbosswebserver deploy web application root context jboss rel nofollow describes change context root path domain set jboss web xml change port default http change socket binding public interface refer href https docs jboss org author display wfly8 interfaces ports rel nofollow documentation information lt server gt xml find tag change contained define port 

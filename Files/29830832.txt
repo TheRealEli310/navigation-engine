@@ -1,0 +1,4 @@
+alternative instanceof state pattern 
+problem state pattern dont check instance considered bad practice holds object lets state img src http stack imgur wz0ci png alt enter image description prefer ways valid 
+
+considered smell furhermore checking type state object contrary idea state pattern encapsulate state dependant behavior subtypes checks unnecessary technically rid adding operation implement returns add operation operation worth 

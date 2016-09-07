@@ -1,0 +1,4 @@
+linear search recursive occurrence 
+perform linear search array finds occurrence target stuck search finding occurrence target 
+
+shouldnt index arguments current index trick make find equivalent element prudent start back work forward 

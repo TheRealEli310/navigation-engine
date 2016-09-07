@@ -1,0 +1,4 @@
+nextline skipping input adding blank spaces arraylist 
+piece code supposed add string values arraylist scanners nextline method problem ignores white space nextline method problem nextline doesnt record input stores couple blank spaces arraylist heres code added extra nextline initial string nextline fix found researched problem doesnt work stores couple blank spaces end doesnt jump forward taking input code sample fits 
+
+reason facing issue firstly method read input inputs taking nextline accepts input input pointer stays line current input enter choice hit enter choice saved variable input pointer line nextline move pointer line number nextline receive multiple lines remove extra nextline method call case statement remove system read problem solved 

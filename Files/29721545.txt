@@ -1,0 +1,4 @@
+determining jdk method typically intrinsic implementation 
+short reading openjdk source code averse comprehensive official list href http en wikipedia org wiki intrinsic function rel nofollow intrinsic operations hotspot jvm intel whats quickest determine href http docs oracle javase docs api lang math html abs double rel nofollow generally converted directly native instructions 
+
+relevant part openjdk source code states href http hg openjdk net jdk8 jdk8 hotspot file 87ee5ee27509 src share vm classfile vmsymbols hpp l581 http hg openjdk net jdk8 jdk8 hotspot file 87ee5ee27509 src share vm classfile vmsymbols hpp l581 em intrinsics runtime ci em suppose comprehensive 

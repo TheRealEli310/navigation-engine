@@ -1,0 +1,4 @@
+mod operator negative number working 
+expecting return actual br 
+
+positive result wrap mod 

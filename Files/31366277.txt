@@ -1,0 +1,4 @@
+differences scala future future 
+conceptual functional mechanical differences scala future future conceptually differences aim provide mechanism asynchronous computation 
+
+main inconvenience fact blocking fact retrieve method href http docs oracle javase docs api util concurrent future html rel nofollow quoting docs blockquote waits computation complete retrieves result blockquote real blocking computation attach callbacks completion success failure simply map chain multiple futures monadic fashion long story short scalas future asynchronous computation blocking threads 

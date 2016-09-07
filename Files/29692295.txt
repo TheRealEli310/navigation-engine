@@ -1,0 +1,4 @@
+code fail sourcecompatibility 
+code works compiled sourcecompatibility fails switching compilation output heres repo failing code href https github chalup java8 wat https github chalup java8 wat invoke project directory skimmed jls havent found relevant additional observation code compiles change signature compiler considers potentially applicable method call made parcelable bundle class bonus question error 
+
+suggest due inference fact interface infered return type results ambiguous call infered return type applied methods refer question clearer explanation href http stackoverflow questions generic method bound return type generic method bound return type real understanding inference works specific case require deeper study href http docs oracle javase specs jls se8 html jls html rel nofollow inference part jls 

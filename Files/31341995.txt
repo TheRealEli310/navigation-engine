@@ -1,0 +1,4 @@
+convert hierarchical xml file denormalized relational database table 
+xml structure parse values attribute tags dump oracle table named clinical study column structure realize ways implement simplest leaning xslts flatten data easily converted table structure curious easier advance 
+
+programming run xslt transformation read data xml file write database approach read data href https docs oracle javase tutorial jaxb intro index html rel nofollow jaxb basically work small data hold memory processing large amounts data streaming xml parser api stax create pair classes represent input data annotated jaxb annotations define mapping xml read unmarshal data xml assuming stream xml content insert database assuming href http docs oracle javase tutorial jdbc basics index html rel nofollow jdbc database connection 

@@ -1,0 +1,4 @@
+context path tomcat inside meta inf context xml war file 
+deploy strong mywebapp war strong tomcat home webapps directory context path strong mywebapp strong context xml inside war file tomcat back tomcat version create meta inf context xml inside war file maven creates war file mywebapp war deploy war file tomcat home webapps directory context path href http localhost mywebapp rel nofollow http localhost mywebapp href http localhost mywebapp rel nofollow http localhost mywebapp tomcat home conf catalina localhost empty xml file copied war file deployed added tomcat home conf server xml deployxml true 
+
+put war inside strong webapp strong directory set strong path strong attribute meta inf context xml file time tomcat href https tomcat apache org tomcat doc config context html common attributes rel nofollow documentation attribute blockquote attribute statically defining context server xml circumstances path inferred filenames xml context file docbase blockquote 

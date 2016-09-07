@@ -1,0 +1,4 @@
+error stanfordcorenlp 
+stanford corenlp library program intellij ide test library wrote code shows error read solution href http stackoverflow questions error creating stanfordcorenlp object couldnt figure problem added library maven central repository included stanford corenlp models jar error message program load file download tagger file href http nlp stanford software tagger shtml rel nofollow put didnt work whats error solve 
+
+tagger file project root tested eclipse project 

@@ -1,0 +1,4 @@
+dropwizard jwt workflow 
+design pattern dropwizard application implements jwt authentication working basic form user class sorts details user email settings advised authenticate user returning principal actual user method users stored mongodb collection id token retrieve specific user assign users principal object return principal means endpoints require authentication properties principal working wanted access properties user dont exist principal principal lookup user database retrieve user time users properties massive flaw dont experience front find hard find real world examples guidance sort pattern workflow 
+
+generic type make implement make build generic type argument 

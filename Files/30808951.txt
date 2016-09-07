@@ -1,0 +1,4 @@
+concrete type abstract method param jersey jackson 
+jersey exposed resource implements methods parameter type abstract class code explanation leads error avoided overcome solution make jersey jackson aware concrete implementation method annotation 
+
+considered simply making generic 

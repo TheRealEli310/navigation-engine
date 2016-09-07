@@ -1,0 +1,4 @@
+connecting azure android studios 
+connect azure android studios tutorial azure created mobile service gave code add app connected code throwing exception figure searched internet head toe find answer dependencies library imported pasting jar file libs folder adding dependency code throwing causing exception provided azure exception 
+
+solved problem updating jar file microsoft documentation told version work downloaded newer version jar file solves issue 

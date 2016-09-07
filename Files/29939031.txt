@@ -1,0 +1,4 @@
+unable load static resources spring mvc application 
+spring mvc creating project input form taking details displaying page controller class request mapping methods input page display page application working fine unable load static resources css css located webcontent folder named css project structure eclipse href http stack imgur 74bm2 png rel nofollow http stack imgur 74bm2 png deployed application jboss context root set productcat web xml springmvc config xml controller class productform jsp servlet xml loading css error browser blockquote failed load resource server responded status found blockquote url access href http localhost productcat css main css rel nofollow http localhost productcat css main css 
+
+springs resource mapping mapped wrong amp information check href http www mkyong spring mvc spring mvc include js css files jsp page rel nofollow spring mvc include js css files jsp page 

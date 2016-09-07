@@ -1,0 +1,4 @@
+lang noclassdeffounderror deploying war websphere couchbase cache 
+facing error deploying war file websphere couchbase client http core http core jar bundled war file web inf lib folder websphere enterprizeapplication em application em manage module em modulename em classloaderviewer loaderview http core table jar present classpath http core jar application find class present jar websphere advance 
+
+classes included websphere implementation create isolated shared library conflicting libraries map application 

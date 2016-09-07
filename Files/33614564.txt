@@ -1,0 +1,4 @@
+live updating listview javafx 
+class controller write listview update exception exception thread thread lang illegalstateexception fx application thread currentthread thread read manual understood refresh ui fx thread platform runlater ui slowing end stream poor english 
+
+friends run runs separate thread updates friendslist allowed update friendlist fx application thread build newvalue background thread setting friendslist fx application thread 

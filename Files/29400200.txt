@@ -1,0 +1,4 @@
+requested resource importing xml file jstl core jsp file 
+strong ee strong beginning learning xml library strong jstl1 core strong write simple jsp file reads xml file displays problem attempt import xml file server throws exception line imports xml file blockquote requested resource test document xml blockquote heres jsp file xml file strong document xml strong projects root heres exception thrown server apache tomcat 
+
+read xml file absolute path file isnt final solution partial solution helps bit attribute written full path xml file protocol order access resource file knowing read parse xml files content stored xml file ee projects root disk 

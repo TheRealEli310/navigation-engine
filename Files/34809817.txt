@@ -1,0 +1,4 @@
+create jcache spring config 
+problem setting jcache href http docs spring io spring docs current spring framework reference html cache html rel nofollow spring cache abstraction href https github ben manes caffeine rel nofollow caffein jcache understand wrong explain properly line 
+
+read configuration adapter default specification settings states entries expires stored copied put retrieved cache href https github ben manes caffeine wiki jcache rel nofollow reference cache set copying instances choose adequate handle write depends case cache key mutations strong recommended option strong href https github ben manes caffeine blob master jcache src main resources reference conf rel nofollow default settings option disabled copier alternatively disable setting 

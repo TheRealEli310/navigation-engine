@@ -1,0 +1,4 @@
+delete multiple rows hibernate 
+delete multiple rows database strong hibernate strong successfully refresh jsp page deleted items shown heres code method user method doesnt solve problem ideas 
+
+user fetch getuserbyid queried session closed user returned detached session request nested sessions opening session transaction beginning request commit transaction end eventually close session session querying merge detached result strong strong sessions transactions loop deleteuserbyid resource consuming open session transaction loop 

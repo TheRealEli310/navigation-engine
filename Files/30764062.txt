@@ -1,0 +1,4 @@
+sublists list 
+buildings dimensional landscape building height join adjacent buildings form solid rectangle area min buildings find greatest solid area formed consecutive buildings input format line number buildings altogether line space separated integers representing height building output format integer representing maximum area rectangle formed sample input sample output code cross check problem access sublist sorted automatically positions aso changed original list 
+
+sublist method explicitly documented give em view em original blockquote returns view portion list code fromindex inclusive code toindex exclusive code fromindex code toindex equal returned list empty returned list backed list structural returned list reflected list vice versa returned list supports optional list operations blockquote sublist suitable modify reflect back original make explicit copy 

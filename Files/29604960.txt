@@ -1,0 +1,4 @@
+intellij idea play framework speed compilation 
+started play framework intellij idea project simple tasks running tests start long make step tests takes milliseconds messages view play compiler handling compilation checked play2 options idea normal quickfixes make work practical 
+
+workaround issue mentioned comment ol li disable play2 compiler settings li li delete play xml files idea folder project li li restart idea li li reimport project build sbt youll delete xml files restart idea li ol fixed updates href https youtrack jetbrains issue scl rel nofollow youtrack issue 

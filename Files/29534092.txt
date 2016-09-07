@@ -1,0 +1,4 @@
+inserting date mongodb document 
+inserting date mongodb key querying document results date month expected insert date mongodb find pretty useless read back id plain key string 
+
+implementation tostring method basicdbobject default dates printed time gmt time zone date filed dbobject birthdate expected 

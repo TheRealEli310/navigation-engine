@@ -1,0 +1,4 @@
+classnotfound org springframework beans factory nouniquebeandefinitionexception 
+create spring hibernate application exception root properly configured autowired inside controller annotation based serviceimpl classes controller context configuration xml pre class lang xml prettyprint override pretty wrong great guys ca correct edit maven pom xml 
+
+youre missing jar class include dependency people comments spring dependencies version plenty errors 

@@ -1,0 +1,4 @@
+jackson deserialize single item list 
+consume service entity field array array single item item returned array element case jackson fails convert object solution 
+
+problem pretty problem documentation href http fasterxml github io jackson databind javadoc fasterxml jackson databind deserializationfeature html accept single array rel nofollow http fasterxml github io jackson databind javadoc fasterxml jackson databind deserializationfeature html accept single array add jackson feature object mapper hope 

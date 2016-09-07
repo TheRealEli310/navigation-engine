@@ -1,0 +1,4 @@
+spring mvc xhtml 
+read guide spring mvc href http docs spring io spring security site docs guides html5 form html rel nofollow http docs spring io spring security site docs guides html5 form html guide html pure thymeleaf html code project browser shown xml file style information document tree shown spring mvc config abstractannotationconfigdispatcherservletinitializer 
+
+served page xhtml elements href http www w3 org xhtml rel nofollow http www w3 org xhtml browser recognise elements html elements local html elements styled html rules provided styling thing left browser apply default styling xml documents rendering document tree fix simply add href http www w3 org xhtml rel nofollow http www w3 org xhtml namespace default namespace element 

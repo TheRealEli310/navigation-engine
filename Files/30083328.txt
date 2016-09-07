@@ -1,0 +1,4 @@
+spring org springframework beans factory cannotloadbeanclassexception find class launchcodefilessrcmainjavarunmario 
+learning told learn spring writing simple program error message intellij idea ide applicationcontext xml file copied pasted runmario class file path project panel fully qualified path runmario file spent days searching answer figure suggestions 
+
+fully qualified class names context means em package location em file path based code dont packages defined top class practice define packages fully qualified class simply words 

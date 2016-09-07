@@ -1,0 +1,4 @@
+spring security call external website unable redirect application 
+developing spring based web application spring security integrating external payment gateway accepting users payments scenario facing issue ol li user logs application app clicks button redirects payment gateway payment gateway url li li integration configured callback url index page application user completes payment redirects control back spring application li li call apps index page fails chrome debugger response li li scenario works issue browsers li li providing website callback url redirection successful li ol suspecting config issue missing setting spring security spring security config suggestions pointers appreciated 
+
+issue temporarily solved redirecting payment gateway response intermediate url created separate web project provided link intermediate url redirects control spring application 

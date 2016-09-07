@@ -1,0 +1,4 @@
+error converting image byte writableraster databufferbyte 
+convert image byte code testing code data length error changing extractbytes code data length success image jpg created desired location 
+
+thing version reads image returns images pixels array bytes assuming bytes file format useless extra information width height color space read bytes back returned assigned causing version decodes image encodes jpeg format format read image assigned expect code cpu expensive copying images decode image encode decode finally encoding jpeg files decode encode cycle degrade image quality planning image data copy image place dont types intended image manipulation heres modified version main method write elegant resources nio2 leave 

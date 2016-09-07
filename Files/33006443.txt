@@ -1,0 +1,4 @@
+gradle ignoring gradle properties 
+starting gradle missing system installed default gradle projects default create file put doesnt honored build project copy project directory directory build gradle file run works syntax error gradle properties file jdk path correct reason properties file home dir dont gradle properties project directory putting file bunch google stackoverflow search find answer seemingly question 
+
+long story short gradle reads gradle properties strong strong docs pretty clear short knuckle head 

@@ -1,0 +1,4 @@
+libgdx shader coordinate camera position 
+working platformer libgdx tiled map box2d apply shaders vignette effect stick hero vignette effect href https www youtube watch caqzkeaygd8 tutorial problem encounter camera fixed obtain vignette sticks hero camera moves scrolling platformer game vignette effect doesnt stick hero href https youtu 3kxpifmude8 strong video illustrates problem strong account camera position calculate coordinate vignette effect idea fragment shader vignette game screen relevant code code works perfectly camera doesnt move doesnt work camera moves thought problem linked camera projection code success render 
+
+omg struggling weeks problem simple error problem thought linked camera projection code provided end message finally code give coordinates fragment shader 

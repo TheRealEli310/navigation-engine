@@ -1,0 +1,4 @@
+implementing pivot table streams 
+struggling issue days create pivot functionality streams implement sum count max min average input pivot column index array pivot row indexes calculate catch data list lt list lt object object string integer double wont runtime return results list lt list lt object trouble max min assuming average similar max min order pivot multiple table values created class groupingby compile compare convert object int stream wrong differently advance 
+
+values perform unchecked cast interface dont forget unpack optional finally understand correctly result column integer values results handle column handled lexicographically max selected averaging assume column values numbers class collect average integers integer output 

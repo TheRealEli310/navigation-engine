@@ -1,0 +1,4 @@
+add jvm arguments tomcat 
+tomcat add jvm argument blockquote xbootclasspath printservicefixer jar blockquote added aforementioned jvm argument tomcat windows application didnt work received error message blockquote warning bootstrap command xbootclasspath path jar file printservicefixer jar exist blockquote isnt working strong solution strong added startup vm parameter xbootclasspath program filesapache software foundationtomcat 0libprintservicefixer jar tomcat tomcats windows application works img src http stack imgur 89pm7 png alt enter image description 
+
+provided simple printservicefixer jar home directory tomcat home directory avoid misunderstanding provide full pathname jar file boot class path multiple jars directories classes reside full path jar location 

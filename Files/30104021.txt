@@ -1,0 +1,4 @@
+display html pages web inf 
+begginer web solve problem work give full solution add change make html pages web inf display case search html img src http stack imgur w3vno png alt enter image description servlet code login js webservlet dispatcher public class dispatcherservlet extends httpservlet 
+
+adding searchservlet dispatcherservlet login succeeds redirect user search servlet calling 

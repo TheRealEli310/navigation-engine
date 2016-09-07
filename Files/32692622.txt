@@ -1,0 +1,4 @@
+reusing reallocating reference container object 
+strong tl dr strong reusing container object creating object time garbage collector work dealing huge amount data frequently type code structure strong version1 strong allocated memory time loop operations outer loop allocating empty memory concerned memory leaks fairly good garbage collector relying modify code strong version2 strong questions ol li perform definitive answer li li version time complexity words clear function complexity didnt javadocs li li pattern common version recommended li ol 
+
+opinion approach shrinks size hash table iteration outer loop adds elements set hash table big subsequent iterations space wont shrinked version makes refactoring easier put loop separate method version move finally garbage collection easier manage short lived objects long lived moved generation removed full gc 

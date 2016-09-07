@@ -1,0 +1,4 @@
+noclassdeffounderror dataaccessexception spring 
+discussed lot previously asked questions applicable case loading application stacktrace threads read similar errors people missing spring tx jar definately don declared maven dependencies spring jars neededd investigating deployed output jars mentioned error thrown desperate application webapp kind standalone application loaded program funny thing colleague reproduce error reason guess kind race condition javafx loader loading result spring jdbc query datamodel don proof kind gut instinct tipp appreciated information needed 
+
+class defined spring dao check dependency 

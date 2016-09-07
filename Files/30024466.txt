@@ -1,0 +1,4 @@
+variable null piece code 
+findbugs complains em null pointer dereference str1 branch infeasible comparator comparestrings string string em method eclipse warning line null circumstances blocks cover situations null 
+
+avoid warning rearranging statements 

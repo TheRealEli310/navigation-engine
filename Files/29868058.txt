@@ -1,0 +1,4 @@
+check user object exists dbref list user 
+making mongodb spring data spring mvc user model list contacts users inside database user contact referred collection id check user contact code output message shown print list contacts user ids contact inserted inside list user noticed print hashcode contact object inside list assume details object isnt approach problem simply checking inside list compare id strong stated check object exists contacts list strong 
+
+override equals method user href http docs oracle javase docs api util list html 28java lang object rel nofollow javadoc blockquote boolean object returns true list element formally returns true list element null null equals blockquote equals override hashcode href http docs jboss org hibernate core manual en html persistent classes html persistent classes equalshashcode rel nofollow http docs jboss org hibernate core manual en html persistent classes html persistent classes equalshashcode 

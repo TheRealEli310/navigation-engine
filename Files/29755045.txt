@@ -1,0 +1,4 @@
+data type primitive object initializing boolean correctly 
+create wrapper class hold primitive data type created class works intended boolean code top method works intended copy method makes boolean equal true true false greatly appreciated edit testing copy constructor cases discovered copy constructor work data types short boolean char works modified code attempt enum forgotten integer easier manipulate enum 
+
+mentioned key error failing initialize recognizing set time constructor mark final additionally variables designed confuse em em case burying control variable letter variable domain data confusing cram tight compiler letter variable names confusing int type school enum responder noted homework built primitive wrapper classes integer int boolean boolean designed baked language decide code rename separate 

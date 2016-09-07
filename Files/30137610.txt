@@ -1,0 +1,4 @@
+build maven assembly 
+changed project version lambdas expressions compile ith ide intellij runs compile maven assembly fails heres output pom xml 
+
+set whats dont set variable compiler target pre class lang xml prettyprint override 

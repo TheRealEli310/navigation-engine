@@ -1,0 +1,4 @@
+spring boot spring security inmemoryauthentication working 
+configure spring boot spring security application working user error file configurations securityconfig application failed login user password reference debug logs inmemoryauthencated user showing anonymous user insight 
+
+replace custom login process auto generated login page error occurs problem custom login process 

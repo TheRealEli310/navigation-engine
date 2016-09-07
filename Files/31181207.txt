@@ -1,0 +1,4 @@
+add namespace decalarations soap envelope 
+soap application apache cxf heres code submit data server request data formed add additional namespace expected data adding prefixes namespace urls map xpathexpressions made request data greatly appreciated strong update strong apache cxfs transformation feature href http cxf apache org docs transformationfeature html transformationfeature jax ws rel nofollow http cxf apache org docs transformationfeature html transformationfeature jax ws code remove specific namespace node confirm removed reverse replacing appending namespace wrong difficult add additional namespace default namesapce 
+
+digging cxf forums found answer strong appreciated strong 

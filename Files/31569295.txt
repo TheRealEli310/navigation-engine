@@ -1,0 +1,4 @@
+retrofit gson parsing arraylist inside object 
+json object gson object set retrofit fail array isnt root object simple force dig json level parsing arraylist create gson adapter accomplish 
+
+accomplished creating custom deserializer code simpler full gson adapter accomplishes href https google gson googlecode svn trunk gson docs javadocs google gson jsondeserializer html rel nofollow https google gson googlecode svn trunk gson docs javadocs google gson jsondeserializer html 

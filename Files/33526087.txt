@@ -1,0 +1,4 @@
+build flyway based migrations 
+flyway command line tool handle db migrations till migrations sql config file options works perfectly add based migration puzzled find todo examples compile put migrations simple migration class official documentation compiling putting jar locations effect flyway info dont migration build simplest based migration prefer maven similar simple jar file picked flyway command line tool 
+
+make class file db migration directory inside jar file file jar file jars directory flyway installations flyway locations set db migration filesystem home sql migrations 

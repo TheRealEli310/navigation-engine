@@ -1,0 +1,4 @@
+javafx datepicker returns null 
+datepicker updating change date answer found topic href http stackoverflow questions javafx datepicker updating javafx datepicker updating doesnt work listener datepicker additionally data listener similar problem found workaround strong edit1 strong created simple project check behaviour datepicker strong controller class strong strong fxml file strong strong main class strong idea make work 
+
+initialize datepicker inside fxmlloader loads fxml instantiates fields injects references annotated initialize field reference original object rendered view lost reference newly created object fetched object 

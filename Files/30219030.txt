@@ -1,0 +1,4 @@
+android gridview redraw issues 
+created app user picture upload web server image visible gridview activity working picture problems noticed images gridview redrawing user begins scroll effectively showing user images order read posts people struggled similar fixes dont work href http stackoverflow questions items inside gridview repeated screen scrolls gridview redraw problems advance gridview activity image adaptor custom picasso 
+
+issue function reuses views passing views wont necessarily correct images loaded views previously displaying cells grid positions null saves inflate view load image arrange code dont program logic add time image loaded test convertview completely image 

@@ -1,0 +1,4 @@
+making android application pubnub send gps information app crashes shows errors 
+making application sends realtime messages pubnub server users subscribed channel working send strings device device send gps information user input string gps trigger method send location info string trouble part errors shown app crashes open debugging figure whats wrong debugger takes activity class files embedded step oncreate method feedback appreciated hr errors found logcat adb hr device logcat hr 
+
+error middle stack trace provided pre class lang prettyprint override examining turns youre casting youll implement pass check documentation href http developer android reference android location locationlistener html rel nofollow locationlistener abstract methods youve implemented implement change class declaration pre class lang prettyprint override 

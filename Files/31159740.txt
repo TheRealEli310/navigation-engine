@@ -1,0 +1,4 @@
+maven project wont build 
+run project compilation error wrong pom xml sample project spring added dependencies spring examples error select maven build goal clean install eclipse luna pom xml run error find spring class 
+
+problem scoped spring context runtime means telling maven spring context required compile time changing scope compile default scope recommended reading maven documentation scopes href https maven apache org guides introduction introduction dependency mechanism html dependency scope rel nofollow 

@@ -1,0 +1,4 @@
+gc behavior assigning null reference variable 
+understand behavior gc found interests unable understand code output assign null explain unable find correct reason 
+
+suspect due definite assignment assign loop assigned method point declaration onwards dont access loop gc understands em em written code accessses doesnt finalize instance em dont em assign variable loop assigned loop suspect gc treats em declared em loop code loop em em read variable assigned finalize collect instance clarify add line youll find wont compile case assignment suspect vm detail id hope em em gc prove code read local variable legal collect final instance isnt implemented moment edit contrary thelostminds answer compiler information jvm found assignment em em assigment difference part entry odd entry doesnt em em initial assignment 

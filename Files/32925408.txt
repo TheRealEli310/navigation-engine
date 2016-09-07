@@ -1,0 +1,4 @@
+spring rabbitmq apache commons config constructor threw exception nested exception lang nullpointerexception 
+simply autowire rabbitmq consumer class autowired service implementation class set testapplicationcontext include beans needed run test stack trace stack trace run app tomcat details provide edit problem rabbitmq initiates consumer sits waiting messages spring autowire class edit removing configuration autowire adding hard coded settings smsqueueconsumer rabbitmqhost works wont values pulled config work 
+
+bit hacky feeling default constructor added configuration class argument constructor created bean applicationcontext xml injects configuration 

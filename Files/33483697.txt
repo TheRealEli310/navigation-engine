@@ -1,0 +1,4 @@
+run spring boot configuration annotation processor update generated metadata 
+added request warning run spring boot configuration annotation processor update generated metadata link href http docs spring io spring boot docs release reference html configuration metadata html configuration metadata annotation processor generating meta data annotation processor instructions 
+
+instructions worked href http www mdoninger de completion custom properties spring boot html http www mdoninger de completion custom properties spring boot html message run annotation processor bit confusing appears stays time changed key rebuilding project adding required dependency making property back yaml file properties linked configuration classes click reimport maven projects button maven pane yaml file view recognise links back class 

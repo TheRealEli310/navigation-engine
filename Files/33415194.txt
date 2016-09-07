@@ -1,0 +1,4 @@
+sending log email log4j smtpappender 
+spring boot application send log mail smtpappender dont mails managed log4j consoleappender rollingfileappender guess log4j added properly file log4j properties visible log4j properties file 
+
+found important piece documentation smtpappender blockquote default email message error higher severity message appended triggering criteria modified setting evaluatorclass property class implementing triggeringeventevaluator setting evaluator property instance triggeringeventevaluator nesting triggeringpolicy element class implements triggeringeventevaluator blockquote smtp google smtp gmail gmailsmtpappender details href http www tgerm log4j smtpappender gmail custom html rel nofollow http www tgerm log4j smtpappender gmail custom html 

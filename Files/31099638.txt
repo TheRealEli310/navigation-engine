@@ -1,0 +1,4 @@
+issues injecting autowired dependency spring boot 
+nosuchbeandefinitionexception autowired accountrepository code error message added package repository componentscan reason dependency injection works project file repository main application config heres full log stack trace href http pastebin pkvd8rxv rel nofollow http pastebin pkvd8rxv strong edit strong href https github brahalla photoalbum api rel nofollow git repository code question branch 
+
+discovered solution problem wanted make posted moved web configuration options single class extends websecurityconfigureradapter change annotation authenticationmanagerbuilder initialization autowired override make userdetailsservice bean public 

@@ -1,0 +1,4 @@
+set jcalendar date jdatechooser 
+jdatechooser selecting birth dates starts null date lets user choose birth date textfield jdatechooser button opens jcalendar set jcalendars date years current date default jcalendar setting date current year code doesnt work sets date current date img src http stack imgur wvf2i png alt screenshot 
+
+work correctly img src http stack imgur grs4g png alt image strong addendum strong popup editors date defaults set explicitly default update empty text field shown href http stackoverflow property strong addendum strong closer implementation handles default date override replacing lines shown create default img src http stack imgur 3fv5y png alt image 

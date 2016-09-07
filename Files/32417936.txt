@@ -1,0 +1,4 @@
+wildfly jndi lookup authenticationmanager 
+deployed ear war jar module wildfly final authenticationmanager war module jndi lookup dont naming syntax find documentation provided resources jndi wildfly 
+
+security domain authenticationmanager default log messages security subsystem told jbosscachedauthenticationmanager default authenticationmanager jndi looked jboss jaas nameofmydecuritydomain href https issues jboss org browse jbws rel nofollow https issues jboss org browse jbws code 

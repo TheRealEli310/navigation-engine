@@ -1,0 +1,4 @@
+unsupported media type post request restlet service 
+endpoint endpoint fix issue 
+
+passing input parameter post method doesnt make accept restlet ways accepted media type href http restlet technical resources restlet framework javadocs jee api org restlet resource post html rel nofollow annotation extension provided extension applies request response entities extensions provided separated colon request entity response entity parameter type method retrieve content response entity pojo parameter type case jackson extension map json pojo vice versa make org restlet ext jackson jar classpath omit media type declaration pojo parameter case restlet apply converters input stream map pojo 

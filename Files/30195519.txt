@@ -1,0 +1,4 @@
+jquery ajax handle response html 
+controller data form sends back json boolean result pre class lang prettyprint override js forms submit button pre class lang js prettyprint override cases controller sends back js answer step add answer div fine empty div tests add text working br jquery min js mistake supposed 
+
+issue attempting set element boolean href http jsfiddle net l5cjkfts rel nofollow doesnt work guess inconsistency jquery source fix force boolean type coerced string href http jsfiddle net l5cjkfts rel nofollow strong working strong 

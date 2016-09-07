@@ -1,0 +1,4 @@
+default log4j2 configuration file inside jar 
+default log4j2 config file log4j2 xml application jar br user doesnt define config file load default config stream default config wont code takes full path config file check existance load accomplish dont hardcode default config settings href https logging apache org log4j faq html config code rel nofollow 
+
+found pretty simple href http logging apache org log4j manual configuration html automaticconfiguration rel nofollow documentation point log4j2 automatically log4j2 xml classpath user doesnt define config file dont call method load default config 

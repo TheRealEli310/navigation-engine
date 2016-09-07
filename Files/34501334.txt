@@ -1,0 +1,4 @@
+apache spark difference mappartitions combine broadcast variable map 
+spark broadcast variable make machine read copy variable create broadcast variable closure table needed closure improve performance spark transformation operator called mappartitions achieve thing shared variable improve performance mappartitions shared database connection partitions whats difference interchangebly shared variables 
+
+ship object worker node object shared partitions node object node cluster goal broadcasting save network costs data tasks partitions worker node contrast method rdds works partitions define objects jdbc connection unique partition share partitions nodes 

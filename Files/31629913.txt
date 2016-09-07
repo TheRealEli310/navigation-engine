@@ -1,0 +1,4 @@
+jpa hsql fetch feilds extended classes 
+inserting hsql data classes read table base class running code exception move fields base class parent consumer class exception longer occurs fields populated wrong 
+
+href http docs jboss org hibernate orm manual en html ch05 html d5e3356 rel nofollow inheritance strategy hibernate base entity add annotation hibernate strategy mappedsuperclass inhertitance strategy inheritancetype single table strategies ul li inheritancetype single table li li inheritancetype table class li li inheritancetype joined li ul href https en wikibooks org wiki persistence inheritance rel nofollow wikibook page helpful 

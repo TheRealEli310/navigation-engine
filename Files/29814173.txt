@@ -1,0 +1,4 @@
+recursive function crash compared identical 
+stack overflow error explaining crashes compared correct similar debugger unclear solution dont understand 
+
+passes original recursive call means recursion ends recursion end traffic question thought worth expand answer paxdiablo commented recursion terminate behaves differently variants series recursive calls output series numbers recursion unwinds reason difference doesnt change decrements 

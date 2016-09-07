@@ -1,0 +1,4 @@
+maven gradle build types variants 
+android gradle plugin adds support build types build variants select version application build build step debug release feature gradle projects versions application behave differently situations configuration files properties depending type build question similar feature implementation android projects maven gradle specifically web apps presume question larger target 
+
+cutting chase vague answers official response matter blockquote actively working working support notion variants general consistent approach domains deep deep change lot involved expect aspects rolling gradle blockquote strong edit strong finally working javaee webapp project sourcesets build types amp variants sourcesets long time apparently couldve ages ago gradle engineers properly explain check code output directory sourcesets location war plugin build 

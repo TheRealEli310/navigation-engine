@@ -1,0 +1,4 @@
+accessing jpanel inside jpanel 
+multiple panels nested inside panels id em jpanel em jframe jpanel returns function aware return em jpanels em inside jframe jpanel 
+
+youre accessing jframes jrootpane component holds jlayeredpane component holds contentpane component holds jpanels img src http stack imgur soemk gif alt enter image description href http docs oracle javase tutorial uiswing components toplevel html rel nofollow reference suggest youre method references brittle break change structure gui fields hold key references access jpanel fields collection fields arraylist field references objects classes 

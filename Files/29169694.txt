@@ -1,0 +1,4 @@
+swing moving jlabels swing timer class 
+move jlabel objects mouse movement mouse entered exited detail goal mouse hover overs move specific coordinates mouse exited labels wait short amount time reversely perform animation animation problem encountered mouse exits waiting objects oscillates initial position final position fix issue heres part code actual code long 
+
+shouldnt thread sleep timer edt code timer isnt executed edt problems lead unpredictable behavior suggest taking concurrency swing tutorial href http docs oracle javase tutorial uiswing concurrency index html rel nofollow http docs oracle javase tutorial uiswing concurrency index html 

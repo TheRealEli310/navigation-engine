@@ -1,0 +1,4 @@
+automatically generate classes based src folder test maven 
+unit testing existing maven based project management asked create unit test classes automatically generate test classes based src package structure manually replicating package structure automatically generate test classes instance company helloworld src folder automatically generate company helloworldtest test folder code generated automatically wanted package structure test classes created write code 
+
+create unit tests automatically impossible unit test class code typically written human create templates unit tests automatically empty prevent running empty test cases happy tests succeed taking consideration tiny project classes id recommend create tests manually eclipse href http sourceforge net projects unittestgplugin rel nofollow plugin helps create empty test case correct package 

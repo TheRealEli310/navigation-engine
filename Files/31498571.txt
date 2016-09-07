@@ -1,0 +1,4 @@
+call case inside case switch statement 
+intention call cases inside case switch statement 
+
+influence cases directly call switchs parent method case pass arguments 

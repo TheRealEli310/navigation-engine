@@ -1,0 +1,4 @@
+mappingjacksonhttpmessageconverter found 
+run batch call application context success app calls camel spring context startup spring updated yesterday reason doesnt work mappingjacksonhttpmessageconverter replaced mappingjackson2httpmessageconverter spring version suggestion added pom xml doesnt work make angry previous version worked back previous version doesnt work clue added success btw fixed issue summer forgot 
+
+issue fixed adding dependency pom xml 

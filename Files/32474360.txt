@@ -1,0 +1,4 @@
+request scoped bean call predestroy method 
+created request scoped bean call method request ends predestroy annotated method wont work achieve behavior 
+
+solved issue registering requestcontextlistener helps chris 

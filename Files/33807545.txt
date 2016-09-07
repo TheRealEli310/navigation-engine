@@ -1,0 +1,4 @@
+wrong spring oauth2 configuration file 
+implement spring oauth2 security context xml file error deploy app bean property tokenservices writable invalid setter method parameter type setter match return type getter solve problem pom xml 
+
+working template oauth2 configuration tested security configuration latest oauth spring security 

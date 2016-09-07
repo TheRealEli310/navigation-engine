@@ -1,0 +1,4 @@
+javafx mapproperty unbind work 
+explain bug missing javafx mapproperty binding scenario mapproperty instances master child ol li bind child master li li store values master li li unbind child master li li clear child li li instances empty li li store values child li li instances values li ol code output 
+
+mapproperty observablemap content observablemap executing code shows binding observablemap object property wraps map content hr bind em content em map executing result 

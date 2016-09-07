@@ -1,0 +1,4 @@
+webdriver findelement input class returns element 
+webdriver write table basically table rows columns field marked row col codes write table row column html part selenium code selenium xpath works fine findelement classname correctly 
+
+problem provide em css selector em inside 

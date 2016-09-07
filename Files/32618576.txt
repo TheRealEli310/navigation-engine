@@ -1,0 +1,4 @@
+eclipse complains getsystemcpuload method operatingsystemmxbean 
+configured confirmed href https docs oracle javase docs jre api management extension sun management operatingsystemmxbean html getsystemcpuload rel nofollow eclipse complains getsystemcpuload method thought issue build fails error unable figure wrong strong edit strong href https docs oracle javase docs jre api management extension sun management operatingsystemmxbean html rel nofollow documentation means methods os handle compile time run linux mac mac 
+
+call managementfactory getoperatingsystemmxbean returns instance lang management operatingsystemmxbean access sun management operatingsystemmxbean functionality cast sun management operatingsystemmxbean 

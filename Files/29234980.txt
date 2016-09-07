@@ -1,0 +1,4 @@
+localized strings android 
+avoid string resources localized string multiple places instance defining preference preference key preferences xml code order preference manually define key feel list keys large error prone define key strins xml fear translated sooner mistake fear problems preference store multiple times keys user language settings reset define string accessible code xml translated part localization process 
+
+general provide string default strings xml locales addition href http tools android recent translatablestrings rel nofollow translatable attribute lint string designed translated serve documentation purposes 

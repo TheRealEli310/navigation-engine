@@ -1,0 +1,4 @@
+ignore pojo annotations jackson objectmapper 
+pojo jackson annotations jackson library automarshalling frameworks resteasy annotations guide serialization deserilization process explicitly serialize objectmapper mapper objectmapper dont annotations make effect configure mapper object requirement make annotations make effect objectmapper 
+
+configure annotations works 

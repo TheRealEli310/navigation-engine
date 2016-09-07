@@ -1,0 +1,4 @@
+tomcat standard create thread request 
+shoud write thread sensitive logic servlet implementation thread level impersonation windows implementation request processed os native thread thread dispose processing request question standard stop tomcat reuse threads update finally decide write custom implementation org apache catalina executor interface pre created thread pool thread simply disposed returned pool 
+
+default architecture request treated server dont maintain care web server default change configuration reusing thread href http tomcat apache org tomcat doc config executor html rel nofollow heres explaination 

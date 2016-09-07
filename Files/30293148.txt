@@ -1,0 +1,4 @@
+applying sobel filter jpg picture opencv 
+add sobel operator jpg picture found href http www tutorialspoint dip applying sobel operator htm rel nofollow http www tutorialspoint dip applying sobel operator htm doesnt work prints black image explain wrong imgproc functions works code 
+
+reason youre syntax block executed assumed part constructor subclass mat define assuming intended output file type correctly opening saved file alternative image viewer determine code saved file fault opening saved file hex editor values zeros 

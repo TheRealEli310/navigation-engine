@@ -1,0 +1,4 @@
+implement android tablayout design support libarary swipe views 
+android tablayout design support library dont swipe view strong code strong xml 
+
+bit late party class fragments view tab attach instance bingo swiping tablayout working code mine tabs strong myactivity strong strong sectionpageradapter strong strong myfirsttabfragment strong strong mysecondtabfragment strong strong main layout xml strong strong fragment layout xml strong strong fragment layout xml strong strong strong support library v4 hope helps 

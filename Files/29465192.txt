@@ -1,0 +1,4 @@
+working datachannel android webrtc application 
+due breaking android webrtc clients code shows add work datachannel android send worlds datachannel android devices heres code href https chromium googlesource external webrtc stable talk master examples android src org appspot apprtc apprtcdemoactivity rel nofollow https chromium googlesource external webrtc stable talk master examples android src org appspot apprtc apprtcdemoactivity classes interfaces dont exist version anymore add support datachannel strong android strong webrtc application send receive text 
+
+added datachannel project older version webrtc looked date classes methods callbacks work create datachannel add channel observer added events interface events implemented callactivity handle data received channel send data callactivity quick classes made minor code hope work good luck 

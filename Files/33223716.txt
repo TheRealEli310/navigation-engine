@@ -1,0 +1,4 @@
+charat function 
+properly charat function retrieve character string user inputted error surrounding parseint function 
+
+javadocs resource href http docs oracle javase docs api lang string html rel nofollow http docs oracle javase docs api lang string html charat method takes int parameter index position string returned remember based 

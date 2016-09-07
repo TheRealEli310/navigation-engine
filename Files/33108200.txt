@@ -1,0 +1,4 @@
+android studio cwac camera camerafragment lang linkageerror 
+head banging issue started android developing years pause moved android studio making simple camera app single photo facing enormous issues preview size orientation rotation decided cwac camera included library repository app sdk params salvaged demo project facing exception activity calls oncreate idea causing error cleaning including library renaming methods fresh ideas 
+
+added method api level existed api levels marked conflicts method workaround set lower reason trigger problem breaking change public api discontinued library ponder 

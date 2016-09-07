@@ -1,0 +1,4 @@
+intellij idea fork mode unit tests slows 
+running junit spockframework tests intellij idea takes seconds make cores switch test configuration fork mode class build time grow seconds fork mode method makes seconds test runner process run sequentially parallel ideas doesnt forking tests work expected 
+
+forking means separate process test run process wilt necessarily run parallel href https www jetbrains idea features junit testng html rel nofollow junit plugin option run tests parallel youre gradle option shown href http gradle org docs current dsl org gradle api tasks testing test html rel nofollow docs run gradle tasks directly intellij maven href https cwiki apache org confluence display maven parallel builds maven rel nofollow option 

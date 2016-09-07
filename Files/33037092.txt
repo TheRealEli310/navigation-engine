@@ -1,0 +1,4 @@
+hk2 factory interface type injectionresolver 
+case develop custom annotation wich instanziate implementation dao interface resource config implementation stucking factory implementation idao implementation result connect factory injection resolver real implementation provide hk2 provide means strong edited strong multiple implementations idao interface implementation 
+
+based previous chat idea basically add user pass implementation classes bind add ugly reflection handled jersey class lets pretty abstract class inject handle disposing resource heres complete test case hr h2 update h2 web xml resourceconfig 

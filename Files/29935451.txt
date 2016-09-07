@@ -1,0 +1,4 @@
+execute sql file unix server org springframework jdbc datasource init scriptutils 
+sql file present unix server run file unix program ways online code problem method unable detect file unix server path present config file reading path path home applvis uat config abc sql execute jar code shows file found location removes slash present file path put slashes unable detect file error unable understand wrong read files unix 
+
+wrote file lies filesystem code load file classpath 

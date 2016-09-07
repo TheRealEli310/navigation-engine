@@ -1,0 +1,4 @@
+android multiple card views inside recycler view 
+image insert multiple card view inside recycler view achieve br recycler view href http stack imgur olmce png rel nofollow img src http stack imgur olmce png alt enter image description 
+
+proper achieve goal image attached user attach decides number columns subclasses ol li linearlayoutmanager li li gridlayoutmanger li li staggeredgridlayoutmanger li ol activity initializing change span count grid item single span columns recycler view 

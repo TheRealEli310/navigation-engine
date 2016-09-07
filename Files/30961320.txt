@@ -1,0 +1,4 @@
+default jdk android studio studio jdk set 
+building plugin android studio intellij shows error load android studio set studio jdk jdk1 path jdk android studio pick default studio jdk set 
+
+found answer question open android studio strong jre strong means android studio running environment default matter jdk development ways change put jdk path studio jdk run android studio initiate terminal set studio jdk consequence jdk develop plugin android studio work default setting 

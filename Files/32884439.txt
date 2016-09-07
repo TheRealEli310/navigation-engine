@@ -1,0 +1,4 @@
+videos youtube playlist youtubeapi 
+videos youtube playlist youtube api href https developers google youtube v3 sample requests rel nofollow https developers google youtube v3 sample requests api version require authentification http request 
+
+dude send http request href https www googleapis youtube v3 playlistitems part snippet amp maxresults amp playlistid plqq 6pq4lttzh5u8rbdxq0wayvzbz2rbn amp key aizasycg3witbuql5ifc2qygqazuposrmkfsd5e rel nofollow https www googleapis youtube v3 playlistitems part snippet amp maxresults amp playlistid plqq 6pq4lttzh5u8rbdxq0wayvzbz2rbn amp key aizasycg3witbuql5ifc2qygqazuposrmkfsd5e 

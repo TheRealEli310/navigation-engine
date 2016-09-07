@@ -1,0 +1,4 @@
+register objects classes implementing interface 
+interface mapping beans implementation provide common access point implementations user remember names implementations questions mapper implementation run time method call map mapreverse mapper implementations spread projects create framework mapper implementation register central place accessed common point mentioned 
+
+recently solved problem spring solution refactor mapper interface common interface accessing mappers class auto registering mapper component annotation spring dont care mapper classes dont register initialization code 

@@ -1,0 +1,4 @@
+implementing priorityqueue threadpoolexecutor 
+struggling days implemented answer href http stackoverflow questions task order execution task order execution runnable mytask service mediadownloadservice error line future future executor submit mytask file iteratornext tho executor submit suppose return future object save nightmare answer suggest href http stackoverflow questions testing priorityblockingqueue threadpoolexecutor testing priorityblockingqueue threadpoolexecutor adding fornewtask override casting execption time runnablefuture understand basic missing understanding depth explanation 
+
+source code real pain working submitting futures override protected methods feels internal nasty casts suggest simply method wrapping work wait results jobs suggest implementing avoid mess internals 

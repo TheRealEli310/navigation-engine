@@ -1,0 +1,4 @@
+convert string varchar sql 
+write pl sql pass argument string sql procedure varchar giving error run program dont understand sql procedure call error 
+
+attempting set 3rd amp 4th parameters defined 

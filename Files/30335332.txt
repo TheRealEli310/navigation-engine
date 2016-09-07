@@ -1,0 +1,4 @@
+apache commons unzip method 
+recently discovered href https commons apache org proper commons compress zip html rel nofollow https commons apache org proper commons compress zip html apache commons compress library direct method simply unzip file directory canonical easy 
+
+dont package write code hard package easy jdk href http docs oracle javase docs api util zip zipinputstream html rel nofollow zipinputstream jdk fileinputstream open file create zipinputstream fileinputstream read entries getnextentry pretty easy requires code 

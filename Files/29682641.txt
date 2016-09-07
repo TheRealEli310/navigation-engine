@@ -1,0 +1,4 @@
+scanner loop reads desired string 
+figure examples accepting characters make program accept input male female ignoring case input wrong repeat enter gender correct entered 
+
+put piece code validate time instance 

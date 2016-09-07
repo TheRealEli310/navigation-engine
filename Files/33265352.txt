@@ -1,0 +1,4 @@
+android storing pin password 
+application mind custom keypad gridlayout buttons number user press buttons enter initially create pin verify built digit pin stored encrypted retrieved applications simple solution hashing pin storing preferences suffice 
+
+href https github scottyab secure preferences rel nofollow library store pin safely add access file load save preferences normal disclaimer library blockquote default bullet proof security fact obfuscation preferences quick win incrementally making android app secure instance itll stop users rooted devices easily modifying apps shared prefs recommend user password based prefs introduced v0 blockquote 

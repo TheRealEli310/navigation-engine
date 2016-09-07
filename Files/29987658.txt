@@ -1,0 +1,4 @@
+jackson custom serializer class annotations 
+complex object nested objects serialize json fields json objects make custom serializer nested object obey annotations fields named properly case method create loop create rest url end hoping end loop create apache code end result serialize properly convert map output output feel custom serializer 
+
+figured ended creating module inherited simplemodule created abstract class annotate anotherclass jsonproperty object mapper registered module conversion worked side property write custom serializer jsonunwrapped work 

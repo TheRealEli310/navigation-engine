@@ -1,0 +1,4 @@
+persistence provider entitymanager named eclipselink 
+small project running fine eclipse package jar fail persistance provider adding eclipselink maven dependency external jar file normal project dependency eclipse packaged extract package required libraries difference worth noting jersey dependencies work fine call server problem dependencies working jar file project maven project external dependencies added fail factory creation init 
+
+originally created normal project configure converted maven project created project maven project scratch copied resources project ran correctly eclipselink included persistence xml src mail meta inf move 

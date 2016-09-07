@@ -1,0 +1,4 @@
+execute mongodb js script mongodriver 
+implemented javascript function inside mongodb server href http docs mongodb org manual tutorial store javascript function server rel nofollow works fine mongo shell run inside program code dont understand result 
+
+db eval href http api mongodb org rel nofollow api docs make dont string concatenation pass variables answer answer href http stackoverflow questions command line query stackoverflow 

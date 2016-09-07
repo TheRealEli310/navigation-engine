@@ -1,0 +1,4 @@
+spring boot csrf jade 
+ve spring boot application configuration referencing spring boot starter jade4j spring boot starter security build gradle file figure csrf token securityconfig login form csrf hidden field shows source code csrf token doesn evaluate empty 
+
+suspicion spring boot expose csrf token model attribute expected token generally exposed request attribute model attribute typical spring mvc application request attributes exposed model attributes setting jade4j view resolver workaround expose token manually application configuration code work strong strong special credit href http stackoverflow answer 

@@ -1,0 +1,4 @@
+memory leak c3p0 hibernate 
+c3p0 pooling library hibernate configuration suspect memory leak library dump memory heap application shows object type mchange v2 c3p0 stmt globalmaxonlystatementcache 2gb memory continues grow runs memory class cache preparedstatements understand configuration means statements cached advance 
+
+bug suggest report issue href https github swaldman c3p0 issues rel nofollow hints ol li statement caching default strong disabled strong c3p0 guess li li c3p0 easy misconfigure li li c3p0 mature library optimal choice jdbc connection pooling nowadays recommend faster reliable href https github brettwooldridge hikaricp rel nofollow hikaricp li ol imho hikaricp predictable simpler c3p0 connection pooling libraries dbcp tomcat pooling bonecp proxool pick suits app basically options turn jdbc statement caching c3p0 wait fix fix independently create pull request alternative br good luck 

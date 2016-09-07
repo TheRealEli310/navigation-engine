@@ -1,0 +1,4 @@
+catch methodnotfoundexception exception inside class 
+suppose class named imagine instantiating calling methods throws exception curious catch exception inside class calling throwing exception due calling 
+
+reference href http stackoverflow questions android exceptions force close answer catch uncaught exceptions href http docs oracle javase docs api lang thread html setdefaultuncaughtexceptionhandler lang thread uncaughtexceptionhandler rel nofollow 

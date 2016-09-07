@@ -1,0 +1,4 @@
+javafx application thread exits junit test 
+testing javafx application junit cases rule approach href http stackoverflow questions basic junit test javafx basic junit test javafx couple situations approach work setup javafx platform manually call platform runlater appears happening point javafx application thread disappearing means subsequent tests lockup platform runlater calls return added timeouts proved calls thread getallstacktraces ul li aware jemmyfx ill move id understand whats li ul code output javafx application thread 
+
+stage closing triggering href https docs oracle javase javafx api javafx application platform html setimplicitexit boolean rel nofollow implicit exit id interested doesnt affect tests rule approach workaround 

@@ -1,0 +1,4 @@
+pattern split slower string split 
+methods test main method intuitively eventually call lot extra work real thing construct pattern object advance thread speed splitting fact pre constructed pattern strong slower strong calling directly character long string myeclipse direct call consumes half time pre constructed pattern object 
+
+depend actual implementation openjdk invoke em em string split single character href http www docjar html api lang string html rel nofollow source code line splitting fast path em em openjdk 

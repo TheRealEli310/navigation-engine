@@ -1,0 +1,4 @@
+send email notification expiry account working days 
+made stand method send email normal days date password expire respective user password expire days confused send email working days password expire logic made send notification user normal days passwordexpiry sendhtmlemail method sending mail respective user 
+
+fiddled href http sqlfiddle 126b45 rel nofollow calulates day week password expiry day week notification based timings work basically create day offset notification based day week expiration pull case condition good returning user actual expiration date good idea include innotification email fiddle dies input output 

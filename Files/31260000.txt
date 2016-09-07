@@ -1,0 +1,4 @@
+enable mysql binary operator hibernate queries session 
+fetch record hql mysql query hibernate strong binary strong operator recognized hibernate achieve 
+
+mysql hql support cast function rewrite query session href https docs jboss org hibernate orm api org hibernate annotations loader html rel nofollow loader hibernate custom annotation find href http docs jboss org hibernate orm devguide en html ch13 html querysql cud rel nofollow loader usage 

@@ -1,0 +1,4 @@
+android opengl texture drawing wrong texture 
+drawing thread separate thread events renderer starts create textures problem add texture separate thread texture tex1 tex2 tex3 created startup add tex4 fly tex4 tex1 dimensions tex1 stretched tex4 size add textures previous tex5 tex2 tex6 tex3 shift preloaded textures textures white short startup add textures textures added loaded start order blank code texture creation code drawing adding numbers shows texture newly added textures found 
+
+figured ran devices telephone tablet wasnt working dont shared context group tip href http stackoverflow users reto koradi reto koradi helped thing wrong dont understand thought bind texture glbindtexture put texture handler glgentextures error expects int glactivetexture change dont works resolved dont execute binding script separate thread set variable ondraw renderer check variable bind thread 

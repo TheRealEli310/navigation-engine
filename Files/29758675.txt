@@ -1,0 +1,4 @@
+spring security access user details thymeleaf 
+ol li strong spring security strong em version em li li strong spring strong em version em li li strong thymeleaf strong em version em li ol access user details em xhtml em page ol li firstname li li lastname li li email li li li ol ol li li li li ol works ol li li ol spring security dialect config 
+
+create custom em user em extends strong spring strong em user em needed data em user em authentication phase send data strong spring strong security class access strong thymeleaf strong 

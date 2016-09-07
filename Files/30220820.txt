@@ -1,0 +1,4 @@
+difference hashmap int guava maps newhashmapwithexpectedsize int 
+create hold specific number items guava method expect simply call doesnt calculates capacity thing calling directly 
+
+read methods href http docs guava libraries googlecode git javadoc google common collect maps html newhashmapwithexpectedsize int rel nofollow javadoc blockquote creates instance high initial capacity hold elements growth blockquote constructors initial size parameter specifies initial size em hash table em entries stored basically implementation detail shouldnt care hash table resize exceeds maps em load factor em defaults means initial capacity add entries map hash table resized guavas method em expected size em add entries hash table em em resize 

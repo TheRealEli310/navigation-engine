@@ -1,0 +1,4 @@
+elasticsearch match query returns wrong results api 
+problem execute command json txt output shortened api manage approches hits code set source file string directly source versions worked heres code response dont hits hope idea sick find solution regardes jan 
+
+sry answer edit question figured smth dont progress run debug mode works fine test thought closing connection early added fails works debug mode important bit awkward hope cheers jan h2 edit h2 problem solved unit tests emptied reloaded content db everytime content wasnt ready request executed waiting status green start tests 

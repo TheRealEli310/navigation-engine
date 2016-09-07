@@ -1,0 +1,4 @@
+spring boot bean creation exception 
+creating sample application spring boot maven auto wiring working exception testapp testbean 
+
+default enables component scan package application class subpackages package testapp test package testbean bean component scan wont detect bean class strong solution br spring boot strong add annotation testapp class move testbean subpackage test strong spring boot strong add parameter annotation 

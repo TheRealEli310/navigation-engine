@@ -1,0 +1,4 @@
+array days 
+method user search array days string missplaced catch exception work sysout prints enter day times dont place method prints day written 
+
+catch simplt easy 

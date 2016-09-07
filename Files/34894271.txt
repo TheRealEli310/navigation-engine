@@ -1,0 +1,4 @@
+multiply array values array 
+array values defined user values random ints create array amount values array product values array index ul li array1 li li array2 li ul heres difficulty avoid loops loops performance block commented dividing allowed 
+
+question algorithm multiply numbers original array lets call number position array division set temporary arrays product values smaller equal index product values larger equal index arrays set simple loop calculate taking special care border values simple loop ideas optimizations leads code 

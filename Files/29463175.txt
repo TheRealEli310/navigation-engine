@@ -1,0 +1,4 @@
+make catch shorter 
+catch kind created method thatll exact original code wont compile question reason kinda thing find catch things messy quiet annoying read 
+
+wrap function throws exception runtime exception uncaught exception 

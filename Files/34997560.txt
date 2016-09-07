@@ -1,0 +1,4 @@
+rest call list headers 
+code snippet invoking rest call headers pass rest call problem difficult manage case list headers increased future change method signature include additional headers method provide thoughts code snippet accommodate code snippet work headermap headers 
+
+found solution javax ws rs core form myheader pojo instantiate myheader set values pass rest service call strong problem strong big problem approach everytime header added make code change set values solution passing colletion dont code change involved headers added solution code work suggestions 

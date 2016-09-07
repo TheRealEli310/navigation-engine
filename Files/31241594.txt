@@ -1,0 +1,4 @@
+generate annotated class hbm file 
+project classes generated hbm files hbm files generate classes annotations 
+
+dont em directly em hbm annotations strong strong proceed ol li generate database schema hbm configuration li li href http docs jboss org tools latest en hibernatetools html reverseengineering html rel nofollow strong hibernate reverse engeneering strong generate annotated classes database li ol links information ul li href http j2eeandeclipsetutorials blogspot generating hibernate annotated classes html rel nofollow strong generating hibernate annotated classes database eclipse strong li li href http stackoverflow questions generate domain objects annotations hibernate tools strong generate domain objects annotations hibernate tools strong li li href http www mkyong hibernate generate code hibernate tools rel nofollow strong generate hibernate mapping files amp annotation hibernate tools strong li ul 

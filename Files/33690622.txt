@@ -1,0 +1,4 @@
+htmlunitdriver enable disable basic authentication 
+answers href https sourceforge net htmlunit bugs rel nofollow question show enable basic auth disable accepted answer question correct href https sourceforge net htmlunit bugs rel nofollow due bug work 
+
+variant href http htmlunit sourceforge net apidocs gargoylesoftware htmlunit defaultcredentialsprovider html addcredentials lang string 20java lang string 20java lang string 20int 20java lang string rel nofollow addcredentials 

@@ -1,0 +1,4 @@
+datetimeformatterbuilder usages specifically optionals 
+move joda 8s hitting wall work accept formats current builder wrong appears match patterns point missed itd appreciated clarity appreciated turns answer strong edit strong builder appears match due optional stages strong edit strong advice answer continues fail string strong edit strong latest tests result exception 
+
+reason zone id zone offset href https docs oracle javase docs api time format datetimeformatter html rel nofollow documentation offers list href https docs oracle javase docs api time format datetimeformatterbuilder html appendoffset lang string lang string rel nofollow doc href https docs oracle javase docs api time format datetimeformatterbuilder html appendzoneoroffsetid rel nofollow doc full formatter creating zoneddatetime influence exception id recommend worked exceptions 

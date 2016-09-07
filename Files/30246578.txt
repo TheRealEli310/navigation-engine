@@ -1,0 +1,4 @@
+synchronized db access 
+database mails multiple threads send mails approach thread query database mails memory mark thread mails marked move fetch entries isnt working thread1 update entries thread2 queries mails threads end set mails thread connection database root behaviour sharing connection object threads approach 
+
+share method code control concurrence sincronize statements emails mark mails method dao facade threads access edit multiples instances dao class alternative 

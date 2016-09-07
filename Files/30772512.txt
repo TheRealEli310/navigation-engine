@@ -1,0 +1,4 @@
+mysql string executing 
+failing string sql command execute existing mysql database simple test program netbeans strange thing sql command executes fine put directly ide correct terminology working online tutorials output 
+
+jdbc transactions wrong putting junk sql string wont work strong con setautocommit false set auto commit false strong connection created auto commit mode means individual sql statement treated transaction automatically committed executed strong con commit commit strong strong con rollback rollback strong href http docs oracle javase tutorial jdbc basics transactions html rel nofollow transactions follow examples 

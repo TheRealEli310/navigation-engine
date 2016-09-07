@@ -1,0 +1,4 @@
+recursive iterator composite pattern 
+tree classes abstractcomponent leaf composite question write recursive iterator model based composite pattern read question href http stackoverflow questions creating recursive iterator creating recursive iterator adopt accepted answer problem found treetraverser class guava limited class represents node 
+
+terminology ul li href http en wikipedia org wiki iterator rel nofollow iterators recursive strategy href http en wikipedia org wiki tree traversal rel nofollow tree traversal li li tree traversal implementations recursive typically iterator li li structure component objects called href http en wikipedia org wiki tree traversal generic tree rel nofollow generic tree li ul strong 1st strong pick traverse composite structure generic tree href http stackoverflow users user1121883 user1121883s solution great option dont specific traversal order requirements simple implement implement strategy depth 

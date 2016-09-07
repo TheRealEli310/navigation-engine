@@ -1,0 +1,4 @@
+gui library tostring display method 
+gui classes display stuff end user type method provided interface javafx ul li li li li ul make sense interface returns static response update require recalling calling required thought debugging purposes telling object type null quickly guess calling return guess drawback interface 
+
+main reasons h2 consistency h2 object propagates class default method format output standard children inherit h2 gui classes h2 static display objects gui based occur program executed exits static viewing additionally values variable places program output updated variable chronological view change lost outputting objects file command line inherently static overwritten dynamic method deletion 

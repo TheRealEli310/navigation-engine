@@ -1,0 +1,4 @@
+declaring objects 
+learning declaring objects confusing write code memory allocated heap free memory keyword allocate memory stack 
+
+blockquote code blockquote blockquote memory allocated heap blockquote blockquote heap free memory blockquote object allowed garbage collector reachable valid reference object de referenced blockquote allocate memory stack blockquote thread execution starts variables related thread stack remove immediately job thread finished thread stack 

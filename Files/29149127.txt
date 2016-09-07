@@ -1,0 +1,4 @@
+onvif ip camera service discovery 
+discover ip cameras local area network supports onvif protocol wsdiscoveryclient doesnt discover onvif services discovers services onvif doesnt responde probe wsdiscoveryclient onvif device manager discovery 
+
+document href http www onvif org portals documents whitepapers onvif wg apg application programmer 27s guide pdf rel nofollow http www onvif org portals documents whitepapers onvif wg apg application programmer 27s guide pdf shows required send udp broadcast order discover onvif devices 

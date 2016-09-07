@@ -1,0 +1,4 @@
+maven testng run specific test class suite xml file 
+maven run testng integration tests website command run specific test class testng suite xml file run bunch classes specific parameters set failsafe plugin pom accept suitexmlfiles parameter lets issue command dit test mytestclassname option maven pass empty suite ul li single test class bunch parameters command line li li testng xml file bunch test classes parameters li ul 
+
+maven surefire plugin lets run suitefile class surefire plugin run suitefile run class file 

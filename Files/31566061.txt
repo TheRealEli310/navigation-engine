@@ -1,0 +1,4 @@
+jdeveloper package exist compiling maven eclipse 
+jdeveloper import maven project successfully build project external packages maven dependencies existant point view jdeveloper checked maven repo settings project classpath doesnt problem addition projet compiles import project eclipse problem displayed id eclipse prefer jdev obliged oracle ide appreciated 
+
+solved problem editing project file correcting path maven repository relative path 

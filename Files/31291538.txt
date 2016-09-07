@@ -1,0 +1,4 @@
+singleton startup depends stateless ejb 
+setup timertask runs minutes performs database operations datasourcehandler ejb problem unable inject ejb timertask singleton depend singletons solutions proposed href http stackoverflow questions dont work ul li make singleton parts application multithreading save li li remove singleton required annotation li ul inject stateless singleton 
+
+strong strong dependson annoatation dependson case blockquote express initialization dependency singleton components blockquote datasourcehandler ejb instantiated container moment singleton injects ejb 

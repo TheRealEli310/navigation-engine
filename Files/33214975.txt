@@ -1,0 +1,4 @@
+jdbc execute statement strictly read 
+server app prepared statements cases prevent sql injection possibility needed providing special users executing raw select queries securely make query modify database execute query read secure making sql injection sqlite3 privileges lot 
+
+jdbc supports read connections calling href http docs oracle javase docs api sql connection html setreadonly 28boolean rel nofollow javadoc blockquote puts connection read mode strong hint strong driver strong enable strong database strong optimizations strong blockquote em em jdbc drivers enforce read request optimizations simply ignore dont implements youll test simple parse sql statement ensure em single em valid statement 

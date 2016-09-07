@@ -1,0 +1,4 @@
+updating existing excel file apache poi 
+write program run daily task scheduler append column excel spreadsheet time runs problem writes file appending apache poi relevant code 
+
+creating rows cells causing write excel blockquote essentially rows cells creating program blockquote row creating href https poi apache org apidocs org apache poi ss usermodel sheet html getrow int rel nofollow https poi apache org apidocs org apache poi ss usermodel sheet html getrow int small updates cell row 

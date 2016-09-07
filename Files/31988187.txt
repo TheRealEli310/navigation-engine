@@ -1,0 +1,4 @@
+parse data object 
+parse data object parse string parsing hashmap hashmap returning malformed json exception making sense double quotes objects ending abruptly parse objectstree object string objectsequence specific object tree supposed treemap object sequence supposed arraylist idea proceed code update package org syncoms backofficesuite controller import util hashmap import google gson gson public class test error 
+
+main issue input simply valid json string json parser accept doulbe qoutes escaped valid json string parsed instance jackson printout 

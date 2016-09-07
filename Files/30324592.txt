@@ -1,0 +1,4 @@
+setting response header dispatcher working 
+weird behaviour set response header working change text othe thing dispatcher works thoughts response set dispatcher 
+
+href https helpx adobe experience manager kb dispatchernocache html rel nofollow adobe documentation referenced places blockquote dispatcher release higher header named dispatcher cache introduced header informs dispatcher cache response header removed dispatcher forwarding response client blockquote adobe dispatcher load balancer means sits front servers processes incoming traffic set header dispatcher em remove em header forward response caching header disappearing expected behavior 

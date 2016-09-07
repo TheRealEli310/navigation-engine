@@ -1,0 +1,4 @@
+rxjava okhttp 
+request url okhttp thread io thread android main thread dont create ideas 
+
+add dependencies create request url thread io thread observe android main thread 

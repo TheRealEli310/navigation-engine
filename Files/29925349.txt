@@ -1,0 +1,4 @@
+sqlexception result set closed 
+beginner netbeans create similar faculty registration system sql server create db implementation create function make students register subjects function basically searches subjects student finished prerequisites wrote code result set closed invoke 
+
+youre object execute queries execute query object returned previous statement closed create objects query explained quote href http docs oracle javase docs api sql statement html rel nofollow api docs blockquote default object object open time reading object interleaved reading generated statement objects strong execution methods interface implicitly close statments current object open exists strong blockquote strongly recommended close jdbc resources em reverse order em allocation close close block youre resources statement automatically close resources explicitly call method resources make close object 

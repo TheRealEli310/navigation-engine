@@ -1,0 +1,4 @@
+initialize systemusage activemq spring boot 
+initialize strong embedded strong jms works general lower memory usage provide bean bean account activemq embedded default configuration em 1gb em wrong 
+
+inject bean manually amq broker alter default config guess stuck manually fire broker spring xml set property 

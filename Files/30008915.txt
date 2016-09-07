@@ -1,0 +1,4 @@
+failed create sessionfactory object org hibernate mappingexception invalid configuration 
+failed create sessionfactory object org hibernate mappingexception invalid configuration execute main hibernate final postgresql db hibernate cfg xml full stack trace 
+
+extra middle conf 

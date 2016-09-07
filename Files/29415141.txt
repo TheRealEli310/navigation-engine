@@ -1,0 +1,4 @@
+adding file read write javafxports android 
+configuration file javafxports android ios dont easy expected idea approach solution proof concept xml file read wrote working perfectly deploy jar android xml file found repo proof concept href https bitbucket org bluetonic xmlreadwritefx rel nofollow https bitbucket org bluetonic xmlreadwritefx feel free check ivan 
+
+android apk installed path retrieve local path files stored href http developer android reference android content context html getfilesdir rel nofollow link blockquote returns absolute path directory filesystem files created openfileoutput string int stored blockquote order access context javafx thread retrieve file mentioned method instance create helper class android package instance class called youre running android standard approach running desktop check blog href http jperedadnr blogspot es javafx mobile dream true html rel nofollow post find read write property files dont difference xml files 

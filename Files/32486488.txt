@@ -1,0 +1,4 @@
+run js file mongo spring data 
+mongo shell js file run command spring data doesnt work 
+
+heres relevant section href http docs spring io spring data mongodb docs current reference html mongo server side scripts reference docs work scripts spring data mongodb 

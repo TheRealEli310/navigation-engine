@@ -1,0 +1,4 @@
+reetrant locks 
+multi threading locks code sample output trylock understanding thread executes trylock acquire lock threads lock show output thread acquires lock thread acquired lock missing advance 
+
+modified code bit found reentrantlock trylock throw illegalmonitorstateexception matter dont 

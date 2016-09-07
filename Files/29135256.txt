@@ -1,0 +1,4 @@
+tcg project implementing cards effect tokenized string 
+workig tcg trading card game project front big problem implement card effect figured troubles code idea store string kind commands code specific keywords damage target damage player creature draw target numberofcards make player draw deck number cards check field player condition check field player ceratin number cards specific creature created class called skill skillmanager class interpret excexute commands parameters int executecommands method keywords damage check draw problem replace field string actual objects work select object thinking method tostring object make method gametable class returns object srting equals figured implement tips appreciated bad english 
+
+design pattern called interpreter checkout link talking href http www tutorialspoint design pattern interpreter pattern htm rel nofollow interpreter pattern hope helps 

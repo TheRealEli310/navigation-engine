@@ -1,0 +1,4 @@
+javafx artifact displays empty window 
+preface pretty javafx made simple image resizing application build artifact application intellij eclipse built normal jar artifacts javafx artifacts executable strong show empty window strong starting application ide problem window subpanes displayed ideas solve problem advance attached code application initialization part picture resulting windows helps img src http stack imgur jlsdu png alt artifact output img src http stack imgur fudz8 png alt ide output 
+
+didnt provide information solve problem heres work create package application put class em application main em create rootlayout fxml package application em application rootlayout fxml em eclipse select blockquote export runnable jar file extract required libraries generated jar blockquote proper launch configuration generated jar executed nodes fxml 

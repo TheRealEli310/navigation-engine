@@ -1,0 +1,4 @@
+add data database recycler view cursor adapter 
+implementing database recycler view cursoradapter errors understand dont implement adapter files mainactivity recycler view adapter method cursor finally error href http stack imgur sziz0 png rel nofollow img src http stack imgur sziz0 png alt error 
+
+problem oncreate youre method getactivity youre initializing activity object change oncreate fix npe parts missing remove getactivity method dont activity fragment supposed copied code fragment implementation 

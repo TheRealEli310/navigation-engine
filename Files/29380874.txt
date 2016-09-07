@@ -1,0 +1,4 @@
+hazelcast configure map jvm 
+option hazelcast make map cache values node replicate state thought difference replicated nodes application weblogic cluster configuration logs nodes call method node cache added node cache log added cache missing configuration achieve hazelcast 
+
+mentioned comment case ul li adds tuple locally li li evicts maps li ul isnt transparent doubt hazelcast popular memory grid supports box implement simple hazelcast hazelcast node start topic listener implement eviction method create cache mentioned simple map guava cache jvm evict method eviction 

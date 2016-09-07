@@ -1,0 +1,4 @@
+jdbc mysql support placeholder limit preparedstatement 
+mysql connector operate mysql community windows bit bind pagination result shows sql navicat directly correct answer entire code 
+
+problem support supported problem executing preparedstatement youve prepared execution pass method line ignoring lines executing primitive pure sql place holders change execution 

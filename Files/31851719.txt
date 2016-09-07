@@ -1,0 +1,4 @@
+change exposed webservice url wildfly 
+webapplication working strong glassfish strong modify work wildfly problem webservices annotation wich published panelservice exposed binding ergo jaxws ri comparable strong wildfly strong preferable strong wildfly strong specific annotations configuration don current solution add classpath publish services times edit solution em terrence curran em works add minor ul li didn place file maven web project li li context root app li ul ul li mark em em webservices ejb don remove annotation file doesn parsed applied ws present ejb wildlfy apply bug li ul 
+
+defining context root jboss webservices xml file avoid modifying web xml break deployment glassfish 

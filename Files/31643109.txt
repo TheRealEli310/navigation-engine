@@ -1,0 +1,4 @@
+mongodb aggregation driver 
+mongodb aggregation framework driver dont understand write request href http docs mongodb org started aggregation rel nofollow documentation oldest views items collection mongo query works console mode items collection views question request result syntaxe made english mistakes 
+
+finally found solution dont result previous request href http pingax trick convert mongo shell query equivalent objects rel nofollow link 

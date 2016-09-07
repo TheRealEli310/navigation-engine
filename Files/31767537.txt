@@ -1,0 +1,4 @@
+jedis hmset map insertion order 
+jedis hmset method set map fields values specific key method decided linkedhashmap retain insertion order database messes order insert database messing order 
+
+string based jedis client href https github xetorthio jedis blob master src main redis clients jedis client l159 rel nofollow transcodes strings temporary hashmap kills order binaryclient href https github xetorthio jedis blob master src main redis clients jedis binaryclient l241 rel nofollow iterates map directly retains order href https github mp911de lettuce rel nofollow lettuce client order map case alternatively set values hth mark 

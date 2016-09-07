@@ -1,0 +1,4 @@
+mockito verify method boolean argument captor 
+dont case pass false mockito verify ways work 
+
+matchers including argumentcaptor capture matcher href http stackoverflow matchers work side effects doesnt work misusing matchers earlier method helpful explicitly call immediately call ensure wrong mockitos internal state additional information work including minimal reproducible helpful solving specific case 

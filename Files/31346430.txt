@@ -1,0 +1,4 @@
+akka sharing state actor instances 
+actor routed entity id multiple instances actor process time multiple threads actor map perform calculation logic actor instances reading writing map time sharing map actor instances blatant violation actor model options dealing kind problem didnt addressed strong em akka em strong documentation missed options ol li single instance manage reading writing map single threaded effectively singlethreaded li li akka stm latest version project li ol recommended approaches 
+
+difficult thing akka creating actor manage access map proves cumbersome stm doesnt supported latest versions solution choose key carefully race conditions reading writing map map question 

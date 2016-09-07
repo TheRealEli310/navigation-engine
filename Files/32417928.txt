@@ -1,0 +1,4 @@
+printing word paragraph words skipping scanner class 
+writing program file output file input file output file program takes integer beginning line skip number words line save rest words output file initially codes work perfectly switch split method scanner class read sentence word error message exception thread main util nosuchelementexception felt error message due scanner class closed properly figure solve added loop appreciated 
+
+bug nested loops s2 loop end line recommended closing simplified closed automatically exception thrown 

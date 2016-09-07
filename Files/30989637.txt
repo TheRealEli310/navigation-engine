@@ -1,0 +1,4 @@
+decide optimal settings setmaxtotal setdefaultmaxperroute 
+restservice running machines datacenters datacenter client library call machines depending call coming call coming dc1 library call rest service running dc1 similarly client library running machines machines datacenters shown people call library passing object strong question strong decide choose object reasonable number client library heavy load multithreading project 
+
+formula recipe apply scenarios generally blocking approximately max route setting number worker threads contending connections worker threads connection limit makes sense 

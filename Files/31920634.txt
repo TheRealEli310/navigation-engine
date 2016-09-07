@@ -1,0 +1,4 @@
+jaxb create xml element attributes map 
+map lowlevel element entries populate xml encapsulate bind jaxb 
+
+custom adapter sample program generates 

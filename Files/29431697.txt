@@ -1,0 +1,4 @@
+simulate input system console 
+writing junit program created exercise means test cover cases dont influence things program implemented program runs infinite loop point requires user input br junit test run program simulate user input junit works fine program reads user input stream easily replaced possiblity program interacts covered test strong possibility simulate input replacing input source stream strong nb junit test external libraries junit hamcrest edit change classes program test 
+
+jdk source code found class reading data standard input constant pointing real standard input substitute console class real standard input option substitute object strong mock strong 

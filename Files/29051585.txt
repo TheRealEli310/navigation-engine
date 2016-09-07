@@ -1,0 +1,4 @@
+serial communication multi threading 
+reading data arduino program built data graph store csv time graphing storing shouldnt hard worried fast dont lose incoming data question design current thought process event listener main takes incoming serial data puts queue thread lets call thread waiting end data thread immediately send data thread saving file thread worries graphing data curious thread pulling data queue data event listener queue case busy swap back thoughts type queue input whos experienced area appreciated strong additional info strong working linux ubuntu program platform independent jssc library reading serial data 
+
+ol li javas strong concurrent queues strong thread dont concurrent queue throw access queue thread li li problem fast sending data solved limiting sending serial port problem li ol 

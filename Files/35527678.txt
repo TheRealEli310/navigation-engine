@@ -1,0 +1,4 @@
+android studio predexdebug error compiling mysql connector jar file 
+connect mysql database android studio mysql connector jar file libs directory added library em compile files libs mysql jar em run app error heres build gradle remove em compile files libs mysql jar em line code runs doesnt database code 
+
+add mysql jar project standard ways standard ways android studio recognize read link href http stackoverflow http stackoverflow post explained import jar files android studio explained ways step step screenshots find jar file free oracle account download href https dev mysql downloads connector mysql connector tar gz rel nofollow https dev mysql downloads connector mysql connector tar gz find local mysql installation directory address machine href http stack imgur 4qa3m jpg rel nofollow img src http stack imgur 4qa3m jpg alt enter image description add android studio 

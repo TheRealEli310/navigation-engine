@@ -1,0 +1,4 @@
+module excluded wildfly 
+exclude web application deployment war file configuration wildfly log added searching blockquote debug org jboss modules serverservice thread pool module javax servlet jstl api main defined local module loader 1f7c9157 finder local module finder 2b29f6e7 roots usersmedocumentswildfly finalmodules usersmedocumentswildfly finalmodulessystemlayers ase blockquote isnt module excluded 
+
+strong update strong modules part user dependency excluded hr mechanism doesnt work href https docs jboss org author display wfly8 class loading wildfly rel nofollow wildfly documentation exclude module 

@@ -1,0 +1,4 @@
+trouble dungeons dragons dice roller 
+main class point rolls sided die check roll lowest add highest rolls telling user lowest roll main thing trouble making dice class int hold dice constructor create random integer getter return random integers main class question make user choose set reroll lowest set user rolls largest dice rolls added lowest put side user forced roll lowest highest dice roll user put number dictating set end rolled apologize make sense suggest edits make clear great 
+
+custom diceroller class capability rolling number 4d6 drop lowest sets main method 

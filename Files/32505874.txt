@@ -1,0 +1,4 @@
+call sun security tools keytool main maven test units 
+oracle jdk call method directly package ideas log statement outputs 
+
+expects arrays representing arbitrary number arguments method expects em single em argument array type invoke em varargs em method case casting forces compiler treat single argument wrapped array automatically varargs methods varargs feature lookup type wrapped array automatically 

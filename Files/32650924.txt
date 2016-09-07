@@ -1,0 +1,4 @@
+rxjava android expose exception retry delay 
+observable execute rest call retrofit seconds happen rest call throw exception internet connection strong achieve strong observable emit expose exception display error message ui continue emitting items retry seconds strong research strong ul li define special behaviour observable emits exception stops working retry seconds li li retry operator exception swallowed exposed display error ui li li onerrorreturn operator handle exception retry li ul strong workaround strong current workaround subscribe observable elegant solution 
+
+assuming href http reactivex io rxjava javadoc rx observable html doonerror rx functions action1 rel nofollow doonerror fit logging error combined retry 

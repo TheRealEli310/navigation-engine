@@ -1,0 +1,4 @@
+read util map string file 
+problem values map save preferences file print keys map values typecasting figure tested values map saved preferences file output fine suggestions heres code 
+
+saving loading shared preferences href http stackoverflow questions store hashmap android reuse application restar return methods youre coords variables typed appropriately store return values work problem work fine getter 

@@ -1,0 +1,4 @@
+serve static html content page spring boot 
+starting embedded tomcat serve static page part running application work result call word index html page 
+
+fault additional class annotation messed spring boot autoconfiguration removed works returning 

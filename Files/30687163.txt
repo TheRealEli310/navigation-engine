@@ -1,0 +1,4 @@
+displaying list paired bluetooth devices popup dialog setadapter null pointer exception 
+create simple app displays list paired bluetooth devices dialog box connect item action bar clicked xml dialog inflating relevant portion mainactivity run phone app crashes stack trace shows null pointer exception comment line connect button displays blank dialog popup crash btlist context current view 
+
+listview inflated layout isnt wanted 

@@ -1,0 +1,4 @@
+jdbc classnotfoundexception 
+make simple program implement jdbc exception classnotfoundexception mysql jdbc driver logcat code dont wrong 
+
+h2 quick test program h2 compile folder windows linux dep folder dependencies folder run command line classpath cp option flag pick class dep folder h2 classpath variable h2 strategy project specific project folder choose strategies classpath variable web container tomcat web inf quick command line sanity check h2 program output h2 program succeeds connect dumps version mysql simply fails table exist anymore good classpath cp setup running program jonskeet case encountered error h2 edit h2 classpath environment variable h2 output h2 driver picked common javadeps 

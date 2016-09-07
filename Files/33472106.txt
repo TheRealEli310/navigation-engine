@@ -1,0 +1,4 @@
+calling jpa persist detached entity insert duplicate row 
+realized classes project make user em persist book update existing book records book retrieved fields modified user input persisted em em persist book em worked fine problems till making curious expect jpa insert book id em persist called find resource persist methods behaviour detached object ref passed advance 
+
+works fine find method grabs existing item id field object create object copy values object find persist newly created object edit nice diagram describing entity states href http www objectdb jpa persistence managed rel nofollow http www objectdb jpa persistence managed 

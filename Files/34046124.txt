@@ -1,0 +1,4 @@
+gradle team city overriding init script argument 
+project project build team city adds argument em override em argument point script separate directory 
+
+teamcity configuration modifyng sscript plugin directory override property build configuration settings providing build steps gradle add command line aruments setting field free pass parameter override default build steps shich requires modifications alternatively modify script plugin directory 

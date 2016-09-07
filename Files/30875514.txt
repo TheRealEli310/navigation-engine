@@ -1,0 +1,4 @@
+spock framework problems spying 
+issue spy spock doesnt work understanding wrong clarify code test fact calls define returned imagine instance complicated dont execute test stub set return write test groovy spock order things spock library build file gradle run test expect called stubbed version debug set breakpoint called missing shouldnt test stubbed provided return string 
+
+spy mock verify return 

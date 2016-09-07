@@ -1,0 +1,4 @@
+create h2 memory database h2 embedded database 
+writing test cases testng requirement repeat test set h2 embedded db h2 memory db copy tables data h2 embedded db h2 memory db transition db type advance 
+
+script tool href http h2database javadoc org h2 tools script html rel nofollow http h2database javadoc org h2 tools script html export tables data runscript descibed href http h2database html grammar html runscript rel nofollow http h2database html grammar html runscript import db 

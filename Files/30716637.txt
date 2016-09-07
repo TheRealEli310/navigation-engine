@@ -1,0 +1,4 @@
+quickly class attribute webelement selenium 
+class attribute page quickly selenium process incredibly slow taking upwards thirty seconds page elements parallelizing call slowest part method speed increase leads call fetching information storing locally faster parallelizable 
+
+problem em make selenium send batch calls multiple elements em similar problem looked making work multiple elements making json wire protocol requests element list ul li href http stackoverflow questions selenium batch iselementdisplayed calls selenium batch iselementdisplayed calls li ul opposed problem execute javascript reliably class attribute values element page started 

@@ -1,0 +1,4 @@
+split string regex including variable width delimiter resulting list 
+split string quoted unquoted parts escaped quotes input result list splitting quoted regions ignoring escaped quotes expected output delimiters quoted regions list achieve start stop indices matcher requires lot extra code found solution split string including delimiters lookahead lookbehind successfully split colon separated string list colons output applied delimiters variable length throws error similar variable width delimiters 
+
+strings longer symbols long make href http www rexegg regex disambiguation html lookbehind width rel nofollow constrained width javas supports quantifiers min max lengths blockquote accepts quantifiers lookbehind long length matching strings falls pre determined range instance valid match strings characters likewise valid blockquote leverage code href https ideone sycbyd rel nofollow ideone demo output 

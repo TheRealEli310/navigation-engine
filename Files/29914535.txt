@@ -1,0 +1,4 @@
+android bitmap 2d integer array argb values 
+2d integer array argb values image bitmap values display screen bitmap scaled image 80x80 133x145 50x50 android classes searched api stack overflow find hints classes methods 
+
+create object representing original size image 80x80 133x145 source width source height fill colors array dont exact array built type data stores purpose simple concept explanation assume regular dimensional array stores argb hex values correct loop match exact case create scaled recycle original size created 

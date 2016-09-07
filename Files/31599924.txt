@@ -1,0 +1,4 @@
+import javamail api android studio downloading mail jar activation jar 
+created classpath variable set program filesjavajavax mail jar program filesjavajaf 1activation jar import javax mail running windows 
+
+downloading mail jar activation jar additional jar copy paste jars libs folder android studio project access libs folder project android studio change android view project view libs folder src click jar add library click set left import javax mail code 

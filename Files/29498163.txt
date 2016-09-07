@@ -1,0 +1,4 @@
+call attask rest api federated sso saml2 
+integrated attask saml party idp adfs web application supports saml configured idp login idp application attask app access attask application app vice verca create project inside workfront app create project admin username password rest api call goto workfront page sso project project created admin credentials main problem sort create project current logged user rest api attask support oauth token access api suggest good approach highly appreciated 
+
+workfront api work oauth time authenticate required provide username password sessionid apikey approach add logic set user project owner projects show 

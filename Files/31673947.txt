@@ -1,0 +1,4 @@
+itext split row issue 
+facing issue itext row cut pages code work pdf document content table split pages master table rows add effect make cut row simply disappear disable row split master table 
+
+enable wrap cell splitted dont forget 

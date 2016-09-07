@@ -1,0 +1,4 @@
+android lang nullpointerexception fragment page 
+lot threads nullpointerexception caused null android development run tabs time practical href https github codepath android guides wiki google play style tabs tablayout rel nofollow https github codepath android guides wiki google play style tabs tablayout launch app crashes returns errors strong res layout activity tab test xml strong strong res layout fragment page xml strong strong pagefragment strong strong samplefragmentpageradapter strong strong tabactivity strong mainactivity null 
+
+posted viewpager belongs consists change 

@@ -1,0 +1,4 @@
+input text soft keyboard 
+launching soft keyboard simple button ui br extract user wrote field hiding user click 
+
+faced issue hide edit text empty user click button giving text typed keyboard 

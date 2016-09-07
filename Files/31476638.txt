@@ -1,0 +1,4 @@
+spring mvc restcontroller putting results bad request matter 
+spring restcontroller works great data em data em simplest version controller strong strong work left method pretty copied code branch works figure strong edit strong heres method result produces led strip length send segment error 
+
+strike youve defined endpoint doesnt format expect body rejecting strike looked source youve provided class constructor requires arguments default provided jackson libraries wont unmarshall json string due constructor adding default constructor class side current 

@@ -1,0 +1,4 @@
+make rtsp server stream send h264 format 
+make streams formatted videos computer monitor connected server ethernet cable told monitor show incoming formatted videos monitor dont monitor wanted working managed instance server instance client href https www youtube watch vsahdwnbyvq rel nofollow tutorial implement stream formats find information source walk achieve advance edit href https github caprica vlcj rel nofollow found good starting point manage ill put solution source 
+
+solved ol li prepare environment href http capricasoftware uk projects vlcj tutorial installation rel nofollow make bit bit versions vlc ide os li li create class add code block li ol code block ol start li vlc media player rtsp client open vlc media player left corner click media click open network stream enter network url rtsp localhost stream wait step press play li li run class application li ol video vlc media player opened rtsp client 

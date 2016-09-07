@@ -1,0 +1,4 @@
+springboot unable load js files resources folder 
+uploaded project project git href https github gitekiras spring boot gradle mvc rel nofollow https github gitekiras spring boot gradle mvc load css js resources folder put webapp folder thing working tutorials put static folder resources load css js page missing browser logs shows find js css files wrong 
+
+explicitly href https github gitekiras spring boot gradle mvc blob 7dea569e02095642b9fb35ff3e2f8e4dd9bbf8ed src main ekiras config appconfiguration l16 rel nofollow overrode default behavior adding href http docs spring io spring boot docs current reference htmlsingle boot features spring mvc auto configuration rel nofollow spring mvc auto configuration remove unneeded resource handler work 

@@ -1,0 +1,4 @@
+print values array calendar format 
+months array store events time date priority called insert days array make format output find wrote codes code output theses codes give updated output asterisks signifies days events held wrote code put random events asterisks problem printing calendar format place asterisks days events contribution appreciated provide info needed 
+
+print headers step print blank spaces print numbers add hard return time days array strings created formatting index iterating 

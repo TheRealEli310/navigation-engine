@@ -1,0 +1,4 @@
+number micro seconds day 
+number micro seconds day expecting print spending hours breaking head reason final found int values maximum int store 86400000000 output case wanted calculate miliseconds day formula strong output strong strong output strong calculator result 
+
+youre performing bit integer arithmetic operand result bigger overflowing suspected happening compile time case compile time constant effect happened execution time effectively operation truncated bits final multiplication takes result fine 86400000000 binary overflow chop leading bits weve dont em em constants type consistent means operations performed bit arithmetic associativity approach href http docs oracle javase docs api util concurrent timeunit html rel nofollow division part youre performing integer division result integer part rounded floating point arithmetic cast operands start values exact integer 

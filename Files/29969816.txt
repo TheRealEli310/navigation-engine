@@ -1,0 +1,4 @@
+apk size exceed 50mb due large amount native libraries 
+app supports architectures native library code build single apk size reach 50mb limit instances native library packed apk instance library compilation 10mb dont multiple apks method solve hard manage apk thought expansion method dont pack native libraries zip upload expansion google runtime loadlibrary method order load library feel free suggest solution suitable 
+
+dont call loadlibrary apps apk device expansions included include libraries inside expansion file create starter activity extracts system path run start application invoking assets folder treat asset extract path create soloaderactivity activity launched app run activity extracts writes preference sharedpreferences checks preference launches activity pref set loadlibrary handles full paths href https docs oracle javase docs api lang system html rel nofollow system load 

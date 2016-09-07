@@ -1,0 +1,4 @@
+binary tree find position inorder traversal 
+binary search tree implement method called problem position order traversal find order traversal code dont count recursive calls position 
+
+counter recursive approach simply pass argument calls counter wrap class case class find 9th node order based indexing call em em 9th node return based indexing change 

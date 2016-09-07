@@ -1,0 +1,4 @@
+signalr connect server 
+trouble connecting application signalr server br server simple found br href https code msdn microsoft windowsdesktop signalr winforms f1ec847b https code msdn microsoft windowsdesktop signalr winforms f1ec847b connect strong web clients javascript strong strong windows clients strong trouble client href https github signalr client https github signalr client code h1 update h1 run executionexception net socketexception connection reset change localhost exist locahostx net unknownhostexception change localhost ip dont event exception apps work localhost ip thought firewall issue wasnt missing ideas 
+
+turns overload start takes parameter clienttransport object explanation parameterless start method fails post answer mark solution full works 

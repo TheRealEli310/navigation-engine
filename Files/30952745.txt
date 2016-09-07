@@ -1,0 +1,4 @@
+javax mail messagingexception 
+exception thread main javax mail messagingexception connect smtp host localhost port nested exception net connectexception connection refused connect whats solution posting correct code sending mail gmail struts providers change smtp host 
+
+forget steps ul li password li li authenticator li ul didnt local mail server listen port localhost javax mail messagingexception port code code change host gmail yahoo hotmail account 

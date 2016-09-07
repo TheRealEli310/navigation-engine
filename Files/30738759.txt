@@ -1,0 +1,4 @@
+nio sql database 
+writing server nio receive data client location store data database microsoft sql server call database blocking writing codes main nio thread kill benefits nio proceed thread process database requests send requests thread store queue edit suggest asynchronous db good documentation supported microsoft sql server preferably jdbc appreciated 
+
+decouple receipt information storage database queue normal approach improving response time deceasing latency adding ability buffer input flatten spikes request load actual rate transfer data database throughput implementations thread system lose requests queue acceptable jms implementation persistent queues find writing queue slow writing database verify decoupling databases pretty fast reducing frequency commits risk loss inconsistency data 

@@ -1,0 +1,4 @@
+make jooq generate enum types custom types 
+jooq codegen generate code generates enum types fine jooq stops generating enums add custom type localdatetime data type generated fine case find generate enums custom data type jooq detect enums custom data type log message blockquote info enums fetched included excluded blockquote ideas 
+
+bug jooq reported href https groups google forum topic jooq user enpvgqtvww0 rel nofollow https groups google forum topic jooq user enpvgqtvww0 workaround avoid lt types gt filter lt expression gt filter select columns 

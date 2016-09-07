@@ -1,0 +1,4 @@
+log file location picked bootstrap properties external configuration service spring cloud config 
+spring cloud config externalize service configuration properties properties externalized location log file log4j xml understanding boostrap properties file bootstrap phase properties defined resolved properties resolved case provided config service resolves pass location jvm argument means properties fetched external configuration service incorrect properties loaded boostrap properties external configuration service spring cloud brixton m4 releasetrain paste specific code snippets required 
+
+property resolution spring environment properties log4j xml logback route file filtered spring boot applied logback docs specific spring cloud spring boot user guide 

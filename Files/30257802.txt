@@ -1,0 +1,4 @@
+camel consume single message stop transacted 
+camel consume single message jms queue transacted manner specifically flow ol li wait message published jms queue li li consume process single message li li processing fails exception occurs rollback consumption li li processing passes acknowledge stop consuming anymore messages li li application lifecycle process triggers consumption start li ol polling consumer consumertemplate figure transactionally transaction internal consumertemplate message acknowledged consumed time consumertemplate returns consumertemplate camel approach simple examples appreciated 
+
+ended pollenrich dsl achieve route builder direct endpoint service sending request message direct endpoint polls jms queue single message blocking required transaction started extends pollenrich myhandler bean fails message pollenrich consumed left queue 

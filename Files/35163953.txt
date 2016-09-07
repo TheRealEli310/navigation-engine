@@ -1,0 +1,4 @@
+android runtime permissions implement 
+href http developer android training permissions requesting html rel nofollow android developer documentation requesting permissions runtime permissions request read contacts app defined int constant make constants declare public static int examples people 0xffeeddcc find explanation explain case make app permission access fine location activitycompat documentation application specific request code match result reported onrequestpermissionsresult 
+
+blockquote permissions request read contacts blockquote tie call callback covers serves role blockquote make constants declare public static int blockquote make activity declare blockquote blockquote recall 0x8000000 call activity distinct actual numbers matter activity call matter apps calls activity case developer request result 

@@ -1,0 +1,4 @@
+loaduserbyusername execute daoauthenticationprovider 
+daoauthenticationprovider authenciation submit form loaduserbyusername called super authenticate authentication intially throws badcredentialsexception time login successfully process working fine passwordencoder loaduserbyusername method called code strong securityconfig strong strong authentication class strong strong myuserdetailsservice class implments userdetailsservice strong change needed securityconfig class figure 
+
+finally dude sergeballesta resolution query lot debug ispasswordvalid method called inside daoauthenticationprovider class calling strong method strong calling strong method strong org springframework security authentication encoding plaintextpasswordencoder depreciated call calling proper ispasswordvalid method strong method strong strong method strong work authentication properly add code securityconfig class addittion current code question change method code 

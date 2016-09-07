@@ -1,0 +1,4 @@
+access hdfs code 
+started learning hadoop bare question silly access hadoop file system code constantly exception main file created files eclipse exported jar exact command error days couldnt resolve problem ps output fromm 
+
+found solution hadoop core dependency pom xml file hadoop core part hadoop package rest dependency hadoop version conflict removing hadoop core dependency solved problem 

@@ -1,0 +1,4 @@
+spark jobs running executor 
+ideas spark jobs end executed machine mapping functions 250mb 51k lines data expecting activity nodes spark ui shows activity nodes cluster script call application execution fails flag doesnt make difference href https spark apache org docs submitting applications html rel nofollow spark documentation standalone mode case matches description common deployment strategy submit application gateway machine physically located worker machines master node standalone ec2 cluster setup client mode code 
+
+figured problem singlelinerecords rdd defined custom hadoop file format parsing multiline delimited file setting hadoop configuration close 10mb tasks running workers 

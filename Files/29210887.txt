@@ -1,0 +1,4 @@
+jpa create transient primary key 
+entity class mapped existing table table doesnt primary key table table find jpa setting primary key memory theory column memory transient annotation set strong transient strong primary key point existing database fields pointer inorder values existing fields posible entity class 
+
+blockquote field1 field2 field3 identify uniquely record blockquote case href http en wikibooks org wiki persistence identity sequencing embedded id rel nofollow embeddedid composite pk strong edit strong hyperlink updated href http docs oracle cd e16439 doc e13981 undejbs003 htm rel nofollow oracle specification blockquote jpa entity primary key uniquely identifies instances primary key fields contained complex primary key persistent fields blockquote 

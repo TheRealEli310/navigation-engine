@@ -1,0 +1,4 @@
+javafx confusing event handling system exit 
+code bellow generates alert dialog buttons cancel works expected click system exits dialogs vanishes strange thing ommit block handling event platform exit button clicked expected behaviour missing 
+
+documentation href https docs oracle javase javafx api javafx stage window html setoncloserequest javafx event eventhandler rel nofollow blockquote called external request close window installed event handler prevent window closing consuming received event blockquote dont consume close request event close request handler default behavior occur window closed dont invoke close request handler default behavior exit simplify logic consume close request event user confirm close similar fully executable sample answer related stackoverflow question ul li href http stackoverflow questions javafx internal close request javafx internal close request li ul 

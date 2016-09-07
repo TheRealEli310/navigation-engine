@@ -1,0 +1,4 @@
+android choose display image fragment 
+choose display image fragment doesnt work code starts takes gallery click picture app crashes error line error blockquote lang runtimeexception failure delivering result resultinfo null request result data intent dat content media external images media extras activity mycompany planner mycompany planner myactivity lang securityexception permission denial reading android providers media mediaprovider uri content media external images media pid uid requires android permission read external storage granturipermission blockquote heres code 
+
+add permission read external storage manifest file 

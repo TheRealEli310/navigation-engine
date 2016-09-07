@@ -1,0 +1,4 @@
+jackson mapping values differing case 
+mapping object json jackson object pretty simple pojo class mapping code areajson point multiple values differing case wrong 
+
+jackson thinks fields properties returned getters case standard javabeans naming conventions jackson infers fields getters named tl dr case matters hr simple ways fix problem ol li remove annotation class pretty default annotation values taking precedence configuration alternately li li dont muck change class jsonautodetect fieldvisibility visibility gettervisibility visibility settervisibility visibility creatorvisibility visibility li ol 

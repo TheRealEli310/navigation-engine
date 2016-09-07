@@ -1,0 +1,4 @@
+drawing isosceles triangle loops 
+problem br create isotri application prompts user size isosceles triangle displays triangle lines isotri application code include method method print ch screen times print triangle appreciated 
+
+nested loops 

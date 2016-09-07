@@ -1,0 +1,4 @@
+storm bolts acking spout failing 
+odd issue apache storm kafkaspout hooked kafka cluster messages bolts receive message process correctly storm ui listed acked spout listed storm ui tuples failed spout emit messages storm bolt print messages print order calling methods appropriately dont spout listing failed thoughts 
+
+turns couple bolts downstream acking finished processing tuple caused spout tuple fail ultimately send tuple resulted continuous loop 

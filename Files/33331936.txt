@@ -1,0 +1,4 @@
+type htable config tablename depracted 
+method deprecated find constuctor deprecated 
+
+constructing strong strong objects manually strong deprecated strong strong strong instantiate strong strong strong connection strong table implementations retrieved href https hbase apache org devapidocs org apache hadoop hbase client connection html gettable 28org apache hadoop hbase tablename connection gettable tablename strong strong 

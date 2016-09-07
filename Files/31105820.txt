@@ -1,0 +1,4 @@
+lwjgl rendering text 
+render text lwjgl deprecated opengl slick util relies older versions lwjgl deprecated opengl freetype writing standard opengl begin create class handle text rendering support ul li fonts font sizes bold italics li li font coloring li li font transforms li ul good resources subject preferably lwjgl 
+
+lwjgl3 built binding stb load ttf font files examples lwjgl3 repo show render text details examples found href http www gaming org topics lwjgl stb bindings view html rel nofollow 

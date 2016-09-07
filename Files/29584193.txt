@@ -1,0 +1,4 @@
+null pointer exception jdbctemplate springmvc 
+pretty wanted build simple project springmvc simple crud app people post notes attempting submit form query notes null pointer exception attempt call methods jdbctemplate code application class notecontroller model heres pom xml issue code guides werent clear code issues totally spring edit relevant lines trace mention run method springmvcapplication class works fine creating table move insert query statements method static data work move methods dynamically falls 
+
+mentioned comments work expected connect spring world spring world solution save singleton adapt 

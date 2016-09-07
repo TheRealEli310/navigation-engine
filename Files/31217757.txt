@@ -1,0 +1,4 @@
+populate 2d array user input 
+populate nxn matrix id enter elements row input 4x4 matrix row id enter columns input print matrix input showing values run code error reads exception thread main util inputmismatchexception code prompt enter numbers enter error 
+
+forget close scanner 

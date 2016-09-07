@@ -1,0 +1,4 @@
+spring maven dependency class mockmvc 
+href https spring io rel nofollow spring framework href https maven apache org rel nofollow maven dependency class href http docs spring io spring docs current javadoc api org springframework test web servlet mockmvc html rel nofollow mockmvc 
+
+part href http mvnrepository artifact org springframework spring test rel nofollow spring test moved spring test href https github spring projects spring test mvc rel nofollow spring test mvc spring 

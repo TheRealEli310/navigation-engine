@@ -1,0 +1,4 @@
+timezone coversion issue intellij idea 
+covert timezone est ist intellij idea conversion difference hr min running program eclipse difference hr min correct time difference check google refer code pre class lang html prettyprint override output pre class lang html prettyprint override suggest reason 
+
+suspect time zone eastern time america york eastern time wasnt observing est september observing edt observes daylight savings eastern time aware output showing america york hours utc moment hours india assuming eastern time removed est suffix string youre parsing em em string youll careful abbreviations ambiguous case apparently misapplied 

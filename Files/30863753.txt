@@ -1,0 +1,4 @@
+avoid stringindexoutofboundsexception substring original string 
+extract inside tag xml document represented content string variable problem tag exist string case exception fix issue checking exists string 
+
+preliminary check make tags present string storing indices variables avoid searching 

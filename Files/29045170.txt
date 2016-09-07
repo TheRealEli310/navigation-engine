@@ -1,0 +1,4 @@
+preventing redshift sql injection 
+unfortunate situation build sql string concatenating strings classic sql injection scenario strong strong prepared statements escape character attack vectors mybatis notation generates prepared statements strong choice strong prepared statements edit add clarity href http docs aws amazon redshift latest dg unload html rel nofollow asw redshift unload command parameter unload sql string 
+
+correct restrictions redshift postgresql set em em double quotes making backslashes arent significant string things true backslash escaping redshift based fork ancient postgresql version dont applies reading documentation lexical structure syntax wise verify consistent postgresql works 

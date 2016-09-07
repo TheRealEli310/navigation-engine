@@ -1,0 +1,4 @@
+apache commons csv case insensitive headers 
+built feature href https commons apache org proper commons csv rel nofollow apache csv implementation ignore header case reading csv time ago implemented utility converting csv export files sql choosen apache csv perfectly fine weve change request csv files process headers read headers case insensitive users dont put effort watch csv created header case requirments code sample data problem raises user column header csv capital api source couldnt find force csvrecord caseinsensitivemap mapping similiar 
+
+feature apache commons csv href https issues apache org jira browse csv rel nofollow csv committed revision 

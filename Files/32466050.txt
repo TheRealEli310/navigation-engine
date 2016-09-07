@@ -1,0 +1,4 @@
+integrating activemq tomcat 
+tips integrating activemq tomcat architecture app running jvm machines producer app tomcat activemq consumer app consumers producers connect activemq remote machine web console enabled 
+
+download install activemq remote machine web console enabled default configure tomcat node put activemq jar version higher download href http rel nofollow http mvnrepository artifact org apache activemq activemq strong em tomcat home lib em strong folder activemq ready jndi resource factory administered objects connectionfactory destinations provide parameter factory resources add strong em tomcat home conf context xml em strong replace broker host broker port real activemq parameters write consumers acticvemq topic 

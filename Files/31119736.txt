@@ -1,0 +1,4 @@
+unit test mock method predicate argument 
+classes unit test mock classa mockitos mock method mockito couldnt find signature match kind simplified version achieve guess problem equals function predicate idea mock method predicate argument 
+
+solutions ol li return exact predicate instance method predicate stateless problem li li implement predicate real class implementing equals hashcode overkill compared solution li li matcher li li dont static method create predicate injectable factory mock verify li ol 

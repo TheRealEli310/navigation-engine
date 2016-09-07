@@ -1,0 +1,4 @@
+eureka docker container unknown host exception 
+start eureka server spring boot docker container exception unknownhostexception eureka config properties file hostname localhost exception showing hostname container hostname defined eureka properties file container defined host resolving fine container ip entry hosts ol li reproducible oracle works fine openjdk clues problem ol start li inplace localhost eureka properties success li ol li ol eureka config file content exception stack trace 
+
+issue resolved adding work docker file 

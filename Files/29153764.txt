@@ -1,0 +1,4 @@
+remove object arraylist attribute 
+arraylist items remove item list entering item attribute number int itemnumber wanna check item quantities amp methods make 
+
+change class methods check object field result strange behavior parts application items quantities considered equal wouldnt change comparison attribute changing code time creating custom method makes sense belongs class achieve custom comparators binary search dummy objects suppose class properties create custom comparator attribute comparator comparator sort search desired elements list search field create comparator sort run binary search list solution drawbacks completely list didnt change sort strong strong sort running method find correct element sorting complexity running multiple times expensive depending size list 

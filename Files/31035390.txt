@@ -1,0 +1,4 @@
+rxjava concerned unsubscribing 
+make creating memory leaks rxjava proper ways handle case strong em case em strong create scope gc care disposing call strong em case em strong infinite observable temporary subscriber gui subscribes infinite gui destroyed explicitly unsubscribe 
+
+strong case strong source synchronous finite observable stream complete unsubscribe inserted call chain method call termination error completion synchronous wont assigned till stream finished strong case strong recommend ensure called case stop activity release resources flexible pattern work synchronous asynchronous sources set rely return method call thread thread observable subscribed stop observable synchronous source 

@@ -1,0 +1,4 @@
+cdi bean doesn discovered explicitly annotated 
+weld unsatisfied dependency type foo bean pojo add top works remember work fine scope broke specs blockquote managed bean implemented class called bean class top level class managed bean defined managed bean ee technology specification javaserver faces technology specification meets conditions ul li nonstatic class li li concrete class annotated decorator li li annotated ejb component defining annotation declared ejb bean class ejb jar xml li li constructor case li li class constructor parameters li li class declares constructor annotated inject li ul strong special declaration annotation required define managed bean strong blockquote 
+
+sounds cdi confused strong implicit bean archives strong introduced cdi optional implicit bean archives default means class bean candidate bean defining annotation 

@@ -1,0 +1,4 @@
+migrate spring config xml spring boot annotations 
+spring boot create application xml marshalling tutorials start application avoid spring config xml binding file annotations migrate configuration file annotation driven application moment written code nullpointer marshaller null config file reference castormarshaller class marshaller property migrate annotation driven application strong edit1 strong 
+
+annotation class defines configuration application context separate file annotate classes addition xml convertor class marshaller annotated wired bean definition configuration finally application context class change code application main method strong edit strong castormarhsaller mappinglocation resource define bean reuse similar fashion shown 

@@ -1,0 +1,4 @@
+convert json object map object 
+json object appears complex form desired output map object convert map object elements keys values values map case identical keys values belong key shoul concatenated separated comma 
+
+dont adapter parse json objectmapper type parse bit post processing special processing duplicate keys jackson git href https github fasterxml jackson rel nofollow https github fasterxml jackson complete solution output 

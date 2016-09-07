@@ -1,0 +1,4 @@
+interceptorbinding working 
+created custom annotation wrote interceptor interceptor annotation module called common utils annotated target class traceable class level declared interceptor entry beans xml file target class separate module beans xml meta inf directory target classs module target classs methods called rest class invoke methods interceptors aroundinvoke method called read docs understood interceptor public argument constructor added interceptor called added inherited custom annotation reading docs interceptor called docs noticed interceptor implementing serializable interface mentioned implemented serializable work removed custom annotation interceptor beans xml file target class removed public argument constructor interceptor removed serializable annotated target class invoked flow interceptor called interceptorbinding deploying ear server 
+
+issue fixed adding empty beans xml file module interceptors thought beans xml file cdi injection 

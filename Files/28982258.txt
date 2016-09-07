@@ -1,0 +1,4 @@
+controlling axis labels position teechart 
+issue displaying axis labels bottom axis teechart axis labels case long represent dates format dd mm yyyy cases labels close theyre shown top overlapping occurs add labels axis manually values prevent overlapping issue part label shown left bound chart user part label detect situations code chart ran issue methods called reason 
+
+custom labels control conditions label shouldnt drawn overlapping labels drawn partially chart rectangle examples common situations control prefer give responsibilities developer custom tools size string rectangle defined axes calculate position pixels axis loop list customlabels adding problem calcposvalue chart drawn work properly android controls repaints trick chartpainted event remove event repeating process youve observed axislabelresolver isnt called custom labels design 

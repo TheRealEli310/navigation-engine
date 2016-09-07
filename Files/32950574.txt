@@ -1,0 +1,4 @@
+classnotfoundexception deploy spring ws saaj webapp jboss eap 
+deploy web application works fine tomcat jboss eap receiving classnotfoundexception deployment saajsoapmessagefactory configured saaj implementation provided oracle jdk bundling saaj implementation war file jboss preventing class loaded jdk played jboss deployment structure xml setups avail 
+
+order fix add dependency pom change spring bean definition messagefactory add jboss deployment structure xml web inf folder war file 

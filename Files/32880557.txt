@@ -1,0 +1,4 @@
+system println thread default 
+returns standard output stream em javadoc em tells thread safety source em openjdk em em oraclejdk em tells synchronized fits pretty experiences calling created mixed output calling threads question ol li rely behavior em jvms em li li documentation missed describes behavior li ol 
+
+documentation superclass em em superclass fail thread safety synchronization theory rely part contract em surprising em produced class didnt oracles regard surprised 

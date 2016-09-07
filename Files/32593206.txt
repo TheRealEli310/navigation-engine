@@ -1,0 +1,4 @@
+min max date datetime jodatime 
+jodatime construct date datetime smaller larger date datetime lines constraint dont standard date libraries 
+
+joda time minimum maximum values conveniently constants joda time successor href http docs oracle javase docs api time package summary html rel nofollow time built offer constants href http docs oracle javase docs api time localdatetime html min rel nofollow href http docs oracle javase docs api time localdatetime html max rel nofollow h1 workaround h1 define min max extreme values year year joda time supports years stick digits fit commonly formats display screen reports visually nines stand bogus date expected minimum business logic building invoicing system year year suggest defining constants helper class pre class lang prettyprint override syntax calling constants pre class lang prettyprint override run pre class lang prettyprint override 

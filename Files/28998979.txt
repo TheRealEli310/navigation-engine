@@ -1,0 +1,4 @@
+separating class methods files 
+writing code creating matrices specifically methods separate methods separate files theyre easier modify horrendous inheritance bite bullet put file separate files dont import classes matrixbase matrixsort matrixmethods matrix feeling inheritance class unnecessary store similar method file solution 
+
+oop design patterns separate methods objects primary purpose provide mechanism supplying alternative algorithm implementations runtime check suits case 

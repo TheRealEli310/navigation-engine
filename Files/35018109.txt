@@ -1,0 +1,4 @@
+import data elasticsearch sending file post request 
+cmd import data elasticsearch href https www elastic guide en elasticsearch reference current docs bulk html rel nofollow elasticsearch bulk api creating console application send file post request soapui attaching file header blockquote content type text javascript blockquote request soapui successful data loaded hr looked post request code questions ol li attach file request li li file attachment solution li ol 
+
+strong write file contents output strong em multiple ways writing file contents outputstream explore em strong bulk json strong strong test strong client considered elasticsearch client api dont support bulk requests client bulk bulkrequest method 

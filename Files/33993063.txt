@@ -1,0 +1,4 @@
+annotation based servicelocatorfactorybean 
+implement factory pattern project online resources spring servicelocatorfactorybean implemented normal factory pattern href http www jcombat spring factory implementation servicelocatorfactorybean spring rel nofollow link explained xml based annotations based factory pattern 
+
+spring configuration ref guide href http docs spring io spring docs current spring framework reference htmlsingle beans configuration annotation rel nofollow configuration interface strong parser class strong implementation interface strong jsonparser strong strong xmlparser strong strong parserfactory strong actual factory interface strong parsetype strong enum parsing types avoid typos strong parseservice strong business logic implemeted finally strong appconfig strong spring configuration class beans registered container managed beans autowire bean controller test classs invoke method test test 

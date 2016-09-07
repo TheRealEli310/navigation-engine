@@ -1,0 +1,4 @@
+resource import order matters spring xml 
+lets import resource files applications main configuration file understanding spring creates dag instantiate bottom disconnected nodes graph order import play explain 
+
+order matters declare bean imported file declare bean subsequently imported file bean declaration overridden strong update strong directly address question fine beans earlier imports refer beans imports order matter 

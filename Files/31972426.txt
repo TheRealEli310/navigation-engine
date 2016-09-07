@@ -1,0 +1,4 @@
+define passwordencoder annotations spring 
+spring boot v1 m2 define annotations configuration class works fine instantiate secret revised class spring boot application run spring boot application exception couldnt instantiated field set npe making method static field doesnt ideas annotations instance secret 
+
+found answer tinkering bit removed field simply annotated parameter method 

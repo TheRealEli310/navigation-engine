@@ -1,0 +1,4 @@
+read gradle properties module 
+project android studio couple modules ul li module li li module li li module li ul declare variables project file read module declared properties ways href https docs gradle org current userguide build environment html rel nofollow documentation ul li li li li li li li li ul read success ul li li li li ul read properties class generateed class app module work case 
+
+statement unable buildconfig accurate reflection find public static members buildconfig long fully qualified package full package generated buildconfig company app buildconfig class object class object pick fields 

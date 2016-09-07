@@ -1,0 +1,4 @@
+caret dollar regex expression 
+learn regex struck code read caret dollar match beginning end test hard time figure wrong code syso giving output 
+
+caret dollar href http www rexegg regex anchors html rel nofollow anchors tells pattern start caret end dollar line inside brackets syntax changed start means negation match char caret inside brackets tells engine match char matches return true match entire string things mind lets pass cases matching hr regex single char string return true hr href http www rexegg regex capture html rel nofollow capturing groups case matching tells match start string regex match string cat match returns true case hr match single char strings finally match string cat anchored end doesnt make difference back problem operator matches number chars string starts cat string ends cat string text cat 

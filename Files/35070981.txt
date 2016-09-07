@@ -1,0 +1,4 @@
+nullpointerexception firebase ui auth core firebaseloginbaseactivity onstart firebaseloginbaseactivity 
+show google login option href https github firebase firebaseui android rel nofollow firebaseui android library version exact steps mentioned github repository app crashing start app exception line calling calling class 
+
+wonderful things firebaseui open source project check lines stack trace refer case href https github firebase firebaseui android blob library src main firebase ui auth core firebaseloginbaseactivity l118 rel nofollow line youre implementing returning null executed usual implementation 

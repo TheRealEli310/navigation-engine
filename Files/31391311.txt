@@ -1,0 +1,4 @@
+fetching items dynamodbmapper 
+records dynamo db table mapped array pojos pojo simple annotated dynamodbmapper appears object fetch acquire records deserialize pojos paginatedscanlist walk entire table mappers scan paginatedscanlist methods require dynamodbscanexpression parameter dynamodbscanexpression select records table 
+
+pass scan method href http docs aws amazon amazondynamodb latest developerguide scanjavadocumentapi html rel nofollow document api 

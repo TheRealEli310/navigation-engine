@@ -1,0 +1,4 @@
+extract jsessionid rest login 
+working system users create workspaces workspace creation user login providing username password workspace jsessionid generated login create connection workspace jsessionid login rest interceptor implementing containerresponsefilter writerinterceptor generated jsessionid response header 
+
+http request object hold session youve session id passing session created exist 

@@ -1,0 +1,4 @@
+android wear communication wearable working 
+smartphone app working extend wearable part multiple sources href https www binpress tutorial guide android wear message api rel nofollow https www binpress tutorial guide android wear message api href https developer android training building wearables html rel nofollow https developer android training building wearables html send data wearable wrong code basic activity phone side wearable module inside android studio manifest wearmessagelistenerservice mainactivity wear app smartphone app build config 
+
+package main app wear app match strong strong appears package set include override make call href https developer android reference google android gms common api googleapiclient builder html addconnectioncallbacks google android gms common api googleapiclient connectioncallbacks rel nofollow addconnectioncallbacks building doesnt call connected 

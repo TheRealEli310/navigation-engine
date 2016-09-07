@@ -1,0 +1,4 @@
+shutdown executorservice webapplication running tomcat container 
+shutdown point runs tomcat container servlet call shutdown adding submit call fire request servlet client browser shutdown understand works servlet tomcat webapplication work fine shutdown 
+
+idea reuse threads creating threads expensive efficient create thread thread multiple times manages pool possibly idle threads assigns work call methods typical application shutdown shut properly application terminated spring dont worry blockquote default beans defined config public close shutdown method automatically enlisted destruction callback href http docs spring io spring docs current spring framework reference htmlsingle beans lifecycle callbacks rel nofollow documentation blockquote means close spring automatically shutdown 

@@ -1,0 +1,4 @@
+testng parallel execution multiple browsers single browser 
+execute test multiple browsers parallel testng mentioned browsers testng xml testengine class console output similar advance 
+
+understood problem browsername variable static static variables shared threads time thread setting browsername overwriting existing fixed issue defining browsername variable threadlocal variable approach defining lot variable threadlocal problem 

@@ -1,0 +1,4 @@
+blank lines reading csv file 
+working app android suddenly encountered issue problem times reading csv file print log line csv file appears blank line actual csv file reading file run putting log message printed line found blank line csv file wasnt checked ideas 
+
+throw time line good idea check read fix multiple errors 

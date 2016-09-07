@@ -1,0 +1,4 @@
+creating tree 
+wrote tree class input write function takes input creates type defined position array means node heres understanding supposed create tree require additional meaning step ahead update mapping tree levels arraylist null represented 
+
+process emptied avoided counter removing content algorithm work unbalanced trees aswell basic idea add nodes queue nodes processed ordered level 

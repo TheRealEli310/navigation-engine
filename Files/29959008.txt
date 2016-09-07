@@ -1,0 +1,4 @@
+spring security config forcing auth 
+difficult time figuring wire spring security forcing authentication specific app require user authenticate user authenticate websecurityconfigureradapter set end post setup api requests spring security check fix existing config point working accomplishes require user authenticate dont throws app establish session point users access end points authenticated strong websecurityconfig strong 
+
+href https github stormpath stormpath spring security rel nofollow sample spring security application built href https stormpath rel nofollow stormpath support home screen require authentication information displayed dynamically calculated based user authenticated 

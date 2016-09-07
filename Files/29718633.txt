@@ -1,0 +1,4 @@
+sudoku solutions method 
+follow question href http stackoverflow questions rowx columny find 3x3 subarray 2d 9x9 array noredirect comment47510472 row column find 3x3 subarray 2d 9x9 array writing method takes row column combination 2d array scans rows columns 3x3 subarrays solutions specific position good loop scans row stores numbers alreadyinuse array column loop determines position subarray row column combination searches 3x3 subarray stores found numbers alreadyinuse array test output output debug shows alreadyinuse array correct values 
+
+directly print arrays int 

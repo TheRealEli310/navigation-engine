@@ -1,0 +1,4 @@
+screensaver display random line2d double jpanel inside jframe 
+create screensaver displays random line built inside jpanel embedded inside jframe problem time random line built touching edge jframe set line jpanel dont touching edge jframe time displays lines middle frame simple fix fresh set eyes understanding coordinate system correctly 
+
+single object initialize reallocate timer mixup coordinate creation coordinates constrained width coordinates height 

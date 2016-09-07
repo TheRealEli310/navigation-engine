@@ -1,0 +1,4 @@
+javafx textfield file 
+dear stackoverflow lovers make small application javafx takes user input textfield clicks button writes txt file problem program works fine prints user input txt file appears closed program button eventhandler problem hope guys simple solution alex 
+
+write file main ui thread completed move functionality inside buttons 

@@ -1,0 +1,4 @@
+change text textview navigation drawer header 
+change text textview inside navigation drawer header error blockquote lang nullpointerexception attempt invoke virtual method void android widget textview settext lang charsequence null object reference blockquote hr strong activity main xml strong strong nav header main strong strong mainactivity strong 
+
+inflate header layout navigationview 

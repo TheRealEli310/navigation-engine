@@ -1,0 +1,4 @@
+constructor error creating empty dataset weka 
+classify instance classifyinstance method wekas documentation href http weka sourceforge net doc dev weka classifiers classifier html rel nofollow matlab environment method require instance link dataset href http weka sourceforge net doc dev weka core instances html instances lang string 20java util arraylist 20int rel nofollow constructor create empty dataset matlab code run code matlab return error blockquote constructor weka core instances matching signature found error file line dataset weka core instances lang string relation attinfo blockquote wrong parameters constructor 
+
+end finding solution problem constructor accept signature deprecated class href http weka sourceforge net doc dev weka core fastvector html rel nofollow fastvector added snapshot code case object lead error curious happening suspect version weka documentation version 

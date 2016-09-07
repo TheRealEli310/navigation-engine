@@ -1,0 +1,4 @@
+start domain failed glassfish windows 
+wanted start glassfish server windows jdk command asadmin start domain failed obscure error pretty long failure message command prompt give hint problem direction likly problem firewall incompatible jdk version threx 
+
+glassfish start address bind blockquote shutting server due startup exception net bindexception address bind blockquote edit domain xml blockquote glassfish domains domain1 config domain xml blockquote common problem http listener ports reused application find lines blockquote http listener strong port strong http listener strong port strong blockquote replace blockquote http listener strong port strong http listener strong port strong blockquote read domain xml href https docs oracle cd e19226 abhar index html rel nofollow https docs oracle cd e19226 abhar index html 

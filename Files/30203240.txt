@@ -1,0 +1,4 @@
+starting thread call run method 
+method create thread url array parse made separate class runnable object run method creates bufferedreader scan html file parses method called started threads doesnt run method runobject class 
+
+code works perfectly simply realize add logging output messages anticipate end input simplified code output pay attention main thread finished readers started word multithreading 

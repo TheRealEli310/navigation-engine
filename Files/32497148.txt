@@ -1,0 +1,4 @@
+javamail socket read timeout exception 
+working application send emails javamail deploying client machine error send logs access machine test local runs fine send email smtp server mentioned log access developing machine connecting local machine exception similar local connect client app connected read response provide mail sender connection part details mail properties snippet 
+
+host accessible internal network connect configuration wrong server start double checking server listening port supports starttls dont set mail smtp port default possibly anti virus firewall preventing application connecting mail server access machine difficult debug place start confirm configuration correct environment 

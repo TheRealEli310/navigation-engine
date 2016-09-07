@@ -1,0 +1,4 @@
+bigdecimal multiplication 
+multiply values methods excepting ans comming resolve 
+
+problem represented represented bigdecimal apply reasonable rounding expected solution prints round correctly values answer pick combination incorrect 

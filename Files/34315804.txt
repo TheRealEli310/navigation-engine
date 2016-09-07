@@ -1,0 +1,4 @@
+android application work main thread 
+programming android problems simple adt imageview framelayout test phone app slow doesnt logic didnt touch folder error xml content main xml mention comment framelayout problem doesnt exists advance strong edit strong put images folder drawable dont affect tutorial put images subfolder drawable mdpi hdpi xhdpi xxhdpi thing subfolders doesnt exists paste images drawable 
+
+happening os lot processing images chosen high resolution create multiple resolution image mdpi hdpi xhdpi xxhdpi standard size image mdpi increase sizes ratio hdpi xhdpi xxhdpi images put drawable folders dont create ooms android article href http huteri beware setting image resources preview purpose xml rel nofollow explaining 

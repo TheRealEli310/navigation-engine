@@ -1,0 +1,4 @@
+nosuchmethoderror validator test javax el 
+test validator hibernate validator final spring context object valid test object invalid fields error blockquote lang nosuchmethoderror javax el expressionfactory newinstance ljavax el expressionfactory blockquote validator works correctly tomcat server added dependencies versions configuration validator test trace 
+
+found href https hibernate atlassian net browse hv rel nofollow jsp api copy javax el expressionfactory older version class doesnt include newinstance method jsp api changed problem solved dependencies included 

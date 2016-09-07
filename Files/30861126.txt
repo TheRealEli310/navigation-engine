@@ -1,0 +1,4 @@
+gradle jar structure real project structure 
+build project gradle reason resources put level real level heres build heres actual structure project displaying src folder resulting jar structure images jar inside main resources theyre reality isnt jar adhering real structure project correct situation edit code snippet accessing resources 
+
+project managed gradle standard layout introduced maven good excuse layout href https github opalo stackoverflow tree master rel nofollow find sample project shows layout read resources included jar resources put root jar file find sample code illustrates read files sample code href http www mkyong read file resources folder rel nofollow 

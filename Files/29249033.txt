@@ -1,0 +1,4 @@
+lang nullpointerexception check internetconnection 
+error internetconnectioncheck mainactivity 
+
+problem connection call object define variable initialize object null call method receive fix create instance object 

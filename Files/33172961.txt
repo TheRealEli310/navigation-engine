@@ -1,0 +1,4 @@
+rest api pagination 
+case api fetches results database validate request set input preferences filter result implement pagination mysql query pagination directly returning result sql processing filtering results fetch entire result store processed result redis cache store paginate 
+
+blockquote fetch entire result store processed result redis cache store paginate blockquote explained href http stackoverflow questions reverse pagination redis sorted set reverse pagination redis sorted set 

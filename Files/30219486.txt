@@ -1,0 +1,4 @@
+spring data jpa parameters null 
+understanding spring data jpa query method fetch rows column equals null method parameter method fetch rows column null method parameter null correct distinguish code separate query method explicitly null values bad parameters null code query methods 
+
+request made support handling null parameters href https jira spring io browse datajpa rel nofollow https jira spring io browse datajpa case advise write repository implementation custom criteriaquery handle case alternatively tested query parameter null parameter parameter 

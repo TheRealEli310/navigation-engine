@@ -1,0 +1,4 @@
+unsupported major minor version grails 
+downloaded grails project svn unsupported major minor version href http stackoverflow problem caused mismatch version jdk runtime compile time version shell href http stack imgur n17ip png rel nofollow img src http stack imgur n17ip png alt enter image description build path href http stack imgur oc4bl png rel nofollow img src http stack imgur oc4bl png alt enter image description installed jre href http stack imgur os2kv png rel nofollow img src http stack imgur os2kv png alt enter image description missing error run rightclick project run grailscommand run app 
+
+project compiled newer version jdk run older version clean code rebuild project due plugin binary compiled higher version 

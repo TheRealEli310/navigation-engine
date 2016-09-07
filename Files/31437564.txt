@@ -1,0 +1,4 @@
+configure context lookup find jndi resource environment tomcat 
+servlet class reference tomcat 8s global jndi resources defined resource tomcat server xml file defined resource link webapp context xml defined reference servlet web xml reference servlet triple checked set xml files correct issue defining line define finds correct resource throwing namingexception edit diving debugger checking context max query showing inherited resource link links max landmark query special pulling resource link references max landmark query code 
+
+problem found solution defined inside tomcat context xml file definition make inside code call 

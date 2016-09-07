@@ -1,0 +1,4 @@
+atomic copy clear collection 
+similar questions asked find situation ul li worker adding elements collection li li waiting time maturity elements size collection start job li ul thing copy work copy collection worker clear original collection ensure wont lost worker writing time hold lock original collection short 
+
+kind thing easier purpose built concurrency tools href http docs oracle javase docs api util concurrent linkedblockingqueue html plain producer add elements queue consumer href http docs oracle javase docs api util concurrent linkedblockingqueue html drainto util collection 20int extract elements queue batches requires synchronization implementations designed threadsafe 

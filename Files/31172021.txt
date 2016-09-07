@@ -1,0 +1,4 @@
+spring data mapping 
+configure strong onetomany strong strong manytoone strong mapping spring data project issues entities em employer em em project em employer projects em entity classes em employer project em repository classes em em services em em controller em em employer table em em project table em expecting method class return question discussed times didnt find suitable answer advance 
+
+bi directional association additionally configured sides association loaded ly associations fetched ly default forced side fetched ly due configuration serialization framework loads finds valid back links ends stuck cyclic loop order result mark side entity fetched ly 

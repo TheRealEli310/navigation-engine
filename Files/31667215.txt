@@ -1,0 +1,4 @@
+read student records calculate high low average quiz 
+strong update strong input figured low returns 0s initializes integers changed int lowscore int problem findavg main created array student file students length find average added codes count number lines working assignment reading txt file student id quiz scores assignment read scores students calculate high low average quiz sample output stud quiz1 quiz2 quiz3 quiz4 quiz5 high score low score average score created classes student class id scores statistics class calculate high low average util class read file function driver class main program reads input file lab4 txt includes line header lines student records program runs calculate high low average correctly calculation average wrong dont high low dont work 
+
+find average shouldnt divide iteration min max fine 

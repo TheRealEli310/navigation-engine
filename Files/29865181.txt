@@ -1,0 +1,4 @@
+read maven scm url properties file 
+pom xml scm configuration property file reading properties maven plugin scm url buildnumber maven plugin latest revision svn issue buildnumber maven plugin throws invalid scm url error replace scm url actual url svn repo works perfectly achieve successful execution hard code scm url ps run build 
+
+problem due order plugins run work ol li bind phase li li strong strong plugin configuration pom add plugin li li strong strong previous put plugin default bind phase li ol plugins run correct order check logs alternatively bind phases ensure run correct order conforms goal href https maven apache org guides introduction introduction lifecycle html lifecycle reference rel nofollow phase em initialize build state set properties create directories em 

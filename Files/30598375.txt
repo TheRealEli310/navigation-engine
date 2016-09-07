@@ -1,0 +1,4 @@
+configuring custom ldap authentication provider spring security 
+configure spring security ldap authentication username login requests configure href https gist github efraimcf 8aa69cb2744721481827 rel nofollow spring security xml points href https gist github efraimcf a89beebcc76a1ca3a32c rel nofollow mycustomauthenticationprovider class configuration correct runtime spring login ldapauthenticationprovider fails request customized class set spring securitys log level debug happening set spring customized class deafaul ldap authentication provider 
+
+finally found solution spring security xml remove configuration div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 

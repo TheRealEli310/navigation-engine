@@ -1,0 +1,4 @@
+switch case scanner inputs issues 
+practicing switch case amp scanner inputs final exam idea 1st scanner input case skipped heres code output type quit enter choice enter quit enter choice 
+
+doesnt consumes line skip line add work 

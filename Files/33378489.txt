@@ -1,0 +1,4 @@
+implementing layouts recyclerview class cast erro onbindviewholder 
+href https guides codepath android heterogenous layouts inside recyclerview implementation rel nofollow tutorial cast error error called onbindviewholder cast missing complete adapter 
+
+change code switch make clearer personal preference added console logs happening work 

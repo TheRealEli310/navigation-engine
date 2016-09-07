@@ -1,0 +1,4 @@
+apache poi style applied cells 
+wanted apply date format columns applied cells prevent 
+
+documentation states cell getcellstyle return null href https poi apache org apidocs org apache poi ss usermodel cell html getcellstyle rel nofollow https poi apache org apidocs org apache poi ss usermodel cell html getcellstyle cell style explicitly set cell return default cell style initially shared cells workbook changing affect cells explictly assigned style create cellstyle assign relevant cells poi developer guide href https poi apache org spreadsheet quick guide html createdatecells rel nofollow https poi apache org spreadsheet quick guide html createdatecells 

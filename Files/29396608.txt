@@ -1,0 +1,4 @@
+escape slashes gson 
+href http www json org rel nofollow json specs escaping optional gson default dealing webservice expecting escaped send ideas achieve make things clearer deserialize gson send strong strong 
+
+h1 strong answer custom serializer strong h1 write custom serializer created rule string escaped stay create string output strong register custom serializer strong pass serializer gson setup hr h1 strong downloadable amp executable strong h1 find answer exact github stackoverflow answers repo href https github dominikangerer stackoverflowjavaanswers tree master src main dominikangerer q29396608 rel nofollow gson customserializer escape string special dominikangerer hr h1 strong strong h1 ul li href http sites google site gson gson user guide toc custom serialization deserializ rel nofollow gson user guide custom serializers deserializers li ul 

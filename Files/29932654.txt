@@ -1,0 +1,4 @@
+add task dependency existing plugin task gradle 
+include gradle file file content apply plugin myplugin set top set task dependency build error access edit make sometask runs mytask case work 
+
+script job strong gradle strong strong build gradle strong 

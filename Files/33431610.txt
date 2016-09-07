@@ -1,0 +1,4 @@
+spring security oauth token returned page found 
+aware solution similar kind issue question read href http stackoverflow questions found oauth2 access token spring application link present solution didnt apply question secure spring jersey webservice application library version make call application verifies details provided header client successfully authenticated token data returned server page found response shown configurations ol li web xml li li dispatcher servlet xml li ol logs problem heading solution appreciated 
+
+security filter oauth token endpoint context adding context attribute web xml registering 

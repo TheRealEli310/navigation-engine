@@ -1,0 +1,4 @@
+choose size thread pool android 
+read multiple files sdcard parallel choose number choose size based number processors 
+
+choosing number based number processors pretty good solution scales based hardware device running app good found href http grepcode file repo1 maven org maven2 org robolectric android r2 robolectric android os asynctask rel nofollow strong source code strong practice solution source code href http grepcode file repo1 maven org maven2 org robolectric android r2 robolectric android os asynctask rel nofollow strong strong idea 

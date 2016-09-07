@@ -1,0 +1,4 @@
+mapping nested oracle cursor resultset mybatis 
+map nested mybatis procedure mapping defined mapper returns list car objects list dealerships nested cursor problem inspect resulting object empty list wrote plain sql jdbc code worked fine cany put path completely lost advance expected sql output cars model 
+
+made show works strong package models strong classes strong stored procedure strong strong mybatis config xml strong provide url database strong mybatis mapper xml strong sample calling procedure mybatis notice method returns null execute callable statement interaction procedure call parameter pass receive fields result object mybatis set reflection result object method call make fields private left public code shorter 

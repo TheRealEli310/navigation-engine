@@ -1,0 +1,4 @@
+injection ejb entitylistener cdi fails jpa 
+inject ejb entitylistner method entitylistener invoked injected ejb resolves nullpointerexception thrown previous questions found dealing problem jpa provide cdi jpa jpa jpa problem injection ejb session beans works fine ejb inection cdi injection fails entitylistner glassfish eclipselink related questions href http stackoverflow questions injecting sessionscoped stateful bean entitylistener injecting sessionscoped stateful bean entitylistener 
+
+wrong code behaviour caused bug blockquote href https bugs eclipse org bugs show bug cgi id rel nofollow https bugs eclipse org bugs show bug cgi id blockquote bug fixed eclipselink update version solved problem blockquote href http www eclipse org eclipselink downloads rel nofollow http www eclipse org eclipselink downloads blockquote 

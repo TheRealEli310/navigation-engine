@@ -1,0 +1,4 @@
+measure width height change parameters adding view 
+title respect date change width background minus date getmeasuredwidth returns wrong values method called item reads date width absolutely correct textview filled 
+
+point youre dimensions view hasnt drawn layout static xml dynamic youll href http developer android reference android view viewtreeobserver ongloballayoutlistener html rel nofollow ongloballayoutlistener wait view drawn resize code 

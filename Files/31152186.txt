@@ -1,0 +1,4 @@
+recaptcha stoken generation convert ruby 
+google provided code showing generate secure token version recaptcha full code found href https github google recaptcha rel nofollow https github google recaptcha wanting generate token ruby outputs incorrect data slowly debug meantime wondering flaws process 
+
+turns close needed private key final code didnt built strip padding base64 string end needed timestamp milliseconds part modified href https github ambethia recaptcha rel nofollow recaptcha gem method suspect youd json gem 

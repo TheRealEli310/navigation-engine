@@ -1,0 +1,4 @@
+install hibernate apache karaf v4 
+installed apache karaf v4 queried list features hibernate listed hibernate v5 unable find instructions installing hibernate v5 karaf v4 published instructions performing task downloadable features file 
+
+latest hibernate release karaf ready download hibernate release final zip hibernates page href http sourceforge net projects hibernate files hibernate orm final hibernate release final zip download rel nofollow http sourceforge net projects hibernate files hibernate orm final hibernate release final zip download decompress file folder find prepared feauture hibernate osgi final karaf xml copy karafs deploy folder execute installed problem install hibernate feature add repo features command list hibernates features installed 

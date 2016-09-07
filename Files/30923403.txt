@@ -1,0 +1,4 @@
+request window feature action bar issue 
+build app success worked exception style xml declared manifest xml extend activities dont crashes start application crash set parent style xml status bar transparent colored 
+
+tells android framework provide actionbar creating actionbar giving framework mixed signals actionbar toolbar step make toolbar styled correctly running issues style toolbar actionbar colors defined theme provide theme styling section toolbar widget href http android developers blogspot appcompat v21 material design pre html android developers blog post information 

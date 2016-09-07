@@ -1,0 +1,4 @@
+vaadin adding placeholder textfield 
+add placeholder textfield similar html5 placeholder property find proper method implement 
+
+method api link href https vaadin api vaadin ui abstracttextfield html setinputprompt 28java lang string rel nofollow https vaadin api vaadin ui abstracttextfield html setinputprompt 28java lang string 

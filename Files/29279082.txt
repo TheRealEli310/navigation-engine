@@ -1,0 +1,4 @@
+method count edges root furthest node tree 
+write method calculate largest amount edges root furthest node img src http stack imgur xb8qm png alt tree method show answer tree giving result counting nodes edges counting initial root changing give correct result 
+
+wrap recursive method outer method tests tree subtracts result 

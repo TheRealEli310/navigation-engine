@@ -1,0 +1,4 @@
+multiple ways communicate akka actor system 
+impression communicate akka actor em em found href http www typesafe activator template akka java8 code src main helloakka rel nofollow snippet akkas documentation shows fact directly actor world typesafe careless intern writing documentation strong strong instance method fire forget asynchronous blocking synchronous blocking 
+
+part href http letitcrash post 32340419628 spotlight shiny actor dsl rel nofollow recent actor dsl api nice sugar top usual ways create actors standard create communicate actors href http doc akka io docs akka scala actordsl html rel nofollow actor dsl async actor dsl nice creating actors lifetime method advantage dsl syntax bit evident scala 

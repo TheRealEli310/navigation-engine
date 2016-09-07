@@ -1,0 +1,4 @@
+extracting html tags header tags jsoup regex 
+scenario html file parsing parsing html file jsoup parsing extract header tags h1 h3 h4 doc select return header tag requirement extract tags h1 h3 h4 vice versa search html string h1 h3 h4 h4 including h4 search h1 h3 till h3 extract string put separate html file html file html file html file html string dynamic write regular expression achieve context dont achieve rightnow substring generic approach regular expression jsoup code achieve 
+
+dont regex extract elements xml html document regex limitation large documents xpath query document href http stackoverflow stackoverflow question pipe operator condition similar work 

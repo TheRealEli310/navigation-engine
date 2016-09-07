@@ -1,0 +1,4 @@
+jersey consumes endpoints matched 
+designing restful endpoint receive files accept posting plain file stream multipart rule endpoints matched servlet container code work reliably implementation specific wildcard limit application octet stream 
+
+href https jsr311 net nonav releases spec spec html rel nofollow jax rs spec request matching blockquote resource class object found resource resource methods put set em em ol start li identify method handle request br filter em em removing members meet criteria br nbsp nbsp nbsp nbsp br sort em em descending order br nbsp nbsp nbsp nbsp primary key media type input data methods match media type request sorted br nbsp nbsp nbsp nbsp secondary key methods matches request accept header sorted li ol determining matching media types general rule method explicitly consumes request media type produces requested media types sorted method consumes produces blockquote paragraph determines matching priority specific media types win 

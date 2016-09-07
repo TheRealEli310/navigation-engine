@@ -1,0 +1,4 @@
+suppress warnings maven output maven checkstyle plugin 
+build fails checkstyle errors warnings long checkstyle errors warnings shown maven produced output achieve update comment question suppressing specific warnings displaying warnings maven output 
+
+option checkstyle filters show errors option hide events level higher level exists write filter href http checkstyle sourceforge net writingfilters html writing filters rel nofollow http checkstyle sourceforge net writingfilters html writing filters 

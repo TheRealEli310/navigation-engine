@@ -1,0 +1,4 @@
+ssl loading configuration 
+setup tomcat webserver run website ssl enabled editing server xml generating keystore normal port work fine port https doesnt load browsers give connection refused relevant errors tomcat logs eclipse mars start tomcat run website development server xml tomcat log attempting load page times reason missing ssl page doesnt load 
+
+fixed turns eclipse saves tomcats server xml project folder changing tomcats global settings 

@@ -1,0 +1,4 @@
+clock tick change 
+signed explanations assignment asked convert hour clock hour clock making adjustments pretty boolean switch hour timetick method code honest rest fine appreciated strong strong ol li add boolean field isam true morning false afternoon li li create methods setmorning sets isam true setafternoon sets isam false li li constructors initialise time day morning default invoke setmorning li li timetick check hours rolled meaning changed pm pm isam isam li li updatedisplay create suffix pm depending isam true false li ol 
+
+finally worked dragondraikk made issue suggested kind set hours tick changing updatedisplay run twelve fixed problem works aware provide feedback form rating happy 

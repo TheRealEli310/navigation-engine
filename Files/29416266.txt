@@ -1,0 +1,4 @@
+exception thrown parallel stream foreach 
+googled thrown method parallel throws exception havent found throw similar 
+
+exceptions relayed caller href http docs oracle javase docs api util concurrent forkjointask html fork rel nofollow http docs oracle javase docs api util concurrent forkjointask html fork blockquote rethrown exceptions behave regular exceptions stack traces displayed printstacktrace thread initiated computation thread encountering exception minimally blockquote 

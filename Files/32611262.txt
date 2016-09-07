@@ -1,0 +1,4 @@
+valid throwing exception 
+validate jpa entity valid worked fine stopped working manually inside method works expected happening debug 
+
+wont work arbitrary services jersey work resource methods validate incoming dto resource method href https jersey net documentation latest bean validation html rel nofollow bean validation support hr h3 update h3 answer ops comment make work arbitrary services created small project plug play application blockquote find href https github peeskillet jersey hk2 validate rel nofollow github jersey hk2 validate blockquote tests project find complete jpa h3 usage h3 clone build add maven project bind service key point make service implementation implement href https github peeskillet jersey hk2 validate blob master src main underdog jersey hk2 validate validatable rel nofollow details implementation readme gist makes href https hk2 net b07 aop html rel nofollow hk2 aop services managed hk2 work 

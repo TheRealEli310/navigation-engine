@@ -1,0 +1,4 @@
+jax rs cxf spring 
+run simple web application cxf spring implement servlet jersey cxf web xml pom xml dependencies configuration deploy war file tomcat exception lang classnotfoundexception org mycompany servlet wrong appreciated 
+
+configuration mention service classes error doesnt find class strong org mycompany servlet strong service class exists good package 

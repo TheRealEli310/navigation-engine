@@ -1,0 +1,4 @@
+android 65k method limit 
+working project past year gcm push notifications project big ran 65k error added google play services library work eclipse ide ported eclipse project android studio error myapp shrinkdebugmultidexcomponents failed error execution failed task myapp shrinkdebugmultidexcomponents blockquote heap space es file line gradle properties file sets maximum heap size mb em org gradle jvmargs xmx1024m em href http www gradle org docs current userguide build environment html rel nofollow read gradles configuration guide br href http docs oracle javase docs technotes guides vm gc ergonomics html rel nofollow read javas heap size blockquote appreciated 
+
+proguard clear unused methods worked ran 65k methods limit problem 

@@ -1,0 +1,4 @@
+client certificate authentication jetty karaf 
+client authentication certificate jetty server tomcat karaf learned adding jetty xml org ops4j pax web xml dont work karaf dont client certificate works https server cert authentication missing 
+
+needed ol li renamed org ops4j pax web xml file org ops4j pax web cfg li li added org ops4j pax web cfg li ol 

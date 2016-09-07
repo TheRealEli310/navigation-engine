@@ -1,0 +1,4 @@
+stackoverflowerror httpurlconnection 
+trouble httpurlconnection code basically running loop connecting url time checking response quitting response meets criteria stackoverflowerror messed avail guys tips speeding code blockquote exception thread main lang stackoverflowerror security accesscontroller doprivileged native method net socket getinputstream socket sun net www http httpclient parsehttp httpclient sun net www protocol http httpurlconnection getinputstream0 httpurlconnection sun net www protocol http httpurlconnection getinputstream httpurlconnection net httpurlconnection getresponsecode httpurlconnection main sendrequest main main handleresponse main blockquote 
+
+stackoverflowerror recursive method call memory left stack nice explanation href http stackoverflow questions stackoverflowerror stackoverflowerror check places break work expect wired rewrite logic loop recursive call 

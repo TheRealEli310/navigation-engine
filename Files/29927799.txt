@@ -1,0 +1,4 @@
+settestproviderlocation error location set parameters 
+set phones location throws error missing values defined method ideas explanation class error 
+
+stacktrace starting api locationmanager check location object method code failing checks time elapsed real time nanos setting time easy setting elapsed real time nanos complicated melapsedrealtimenanos field doesnt exist prior api minimum sdk set lt directly set calling youll compiler error minimum lower directly set field location object devices api method helps issue api makes sense android decided add api make mock locationmanager doesnt break simply check runtime device api greater call thing annotate method disable lint checks 

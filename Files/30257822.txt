@@ -1,0 +1,4 @@
+classnotfoundexception parse facebook 
+hoping problem facing integrate facebook login app parse classnotfoundexception error call method error stack trace jar files lib folder parse jar javax mail jar bolts android jar parsefacebookutilsv4 jar things dependencies part build gradle file suspect error due library included correctly worked ways compiling jar files jars orders build gradle file suggestions app crashes due error press facebook login screen shows suppose facebook jar imported fine problem parse jars pars jar integrate facebook worked fine imported bolts jar time imported facebook jar read problem bolts jar strong edit strong added code loginactivity 
+
+bunch things including upgrading androidstudio gradle solved older version parse libraries newest version works bug version 

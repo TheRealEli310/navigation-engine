@@ -1,0 +1,4 @@
+swing feedback button tablet touch screen 
+obtain feedback jbutton swing application tablet windows switch physical mouse device motion feedback jbutton typical finger feedback disappears overriding methods customizing inherited jbuttons estended havent hoped goal guess related touch screen mouse click point screen touches finger pixels selected idea 
+
+acceptable solution explain simple complete jbutton extended class customize action performed concerned button throw carefully thread apparently works reason tablet screen onpressed state component doesnt works finger mouse pointer key onclick onpressed onrelease onclick correctlty touch screen moment trick release finger device 

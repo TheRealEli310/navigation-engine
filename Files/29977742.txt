@@ -1,0 +1,4 @@
+simple arraylist program 
+solve question blockquote define class student attributes studentid marks module 1030y class student default constructor constructor initialize object type student user defined values mutator accessor methods attribute display method write test program maintains arraylist student objects ids range marks range program user input student id number mark student input program display ids students highest lowest marks blockquote reason part lowest highest mark students working heres codes br student teststudent program stops reading user input doesnt loop 
+
+problem appears fact entering infinite loops check statement statements leave problem comparing check assign 

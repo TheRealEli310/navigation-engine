@@ -1,0 +1,4 @@
+util logging assign logger specific package 
+implemented customized handler log information db additional flat file dbhandler myfilehandler log handlers single class specific package attached loggers specific package idea switch handlers file database classes contaiend specific package current configuration logging handler log set log level db handler logging db configuration file logging properties class logger track inforamtion dbhandler class myfilehandler class 
+
+handler class doesnt read properties logmanager default code logic subclasses 

@@ -1,0 +1,4 @@
+hibernate jpa dependency 
+jars hibernate jpa hibernate jpa api final jar hibernate jpa api final jar fix hibernate jpa api final jar pom 
+
+hibernate core dependency included 

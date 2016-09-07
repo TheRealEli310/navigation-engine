@@ -1,0 +1,4 @@
+simple method check sftp server 
+objective poll sftp server thought check number files dir changed additional checks dir apache commons vfs2 works fine server files takes minutes count takes minutes count server 10k files count server faster 
+
+simple sftp protocol daemon running server source files create update helper file creation file modification time contents option 

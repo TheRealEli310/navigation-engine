@@ -1,0 +1,4 @@
+osgi org slf4j impl dependency 
+osgi issues deploy package related dependencies pom bundling maven command blockquote mvn org apache felix maven bundle plugin bundleall blockquote successful generates bundle dependency bundles ul li net sf ehcache jar li li org apache commons lang3 jar li li slf4j api jar li ul install start start slf4j exception blockquote org osgi framework bundleexception unable resolve slf4j api missing requirement slf4j api osgi wiring package amp osgi wiring package org slf4j impl version unresolved requirements slf4j api osgi wiring package amp osgi wiring package org slf4j impl version blockquote pretty missing simple pin appreciated 
+
+slf4j unusual design em bad em design ahem api bundle depends implementation package install additional bundle implements slf4j api lots choices basic implementation back end href http logback qos ch rel nofollow logback implementation api 

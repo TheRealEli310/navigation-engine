@@ -1,0 +1,4 @@
+bring data external sources restful hdfs 
+guess sort design related question developer hadoop big data world learning hadoop hortonworks hdp sandbox single node pseudo cluster provided vm hortonworks designed restful api interacts dummy database created api client send series request uri stores result body table form tsv textfile local hortonworks unix server copyfromlocal hdfs processing ol li open source hadoop component designed design api map reduce jobs number reducers set alternatives provide source link li li create script action action oozie work flow hue hdp provide link explain process li ol 
+
+aim bring data database hdfs form tsv easily href http hortonworks hadoop sqoop rel nofollow sqoop tool sqoop hadoop ecosystem component directly connect rdbms database import records tables custom delimiter hope simplify implementation requirement 

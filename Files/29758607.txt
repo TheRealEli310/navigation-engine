@@ -1,0 +1,4 @@
+run jetty server junit testing 
+write integration test spin jetty server locally client communicate rest uri call business logic downstream start jetty server relinquish control client executed threading start jetty thread thread finishes client call connection refused approach 
+
+skip skip call starts server thread threads server basic junit jetty pre class lang prettyprint override junit annotations start server stop server pre class lang prettyprint override approach techniques auto binding open port start server test class run methods stop server end pre class lang prettyprint override 

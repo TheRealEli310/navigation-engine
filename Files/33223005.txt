@@ -1,0 +1,4 @@
+modulus large number 
+user input integers standard input calculate remainder modulo problem lt lt equal arrow lt lt optimal solution time complexity didnt find answer stackoverflow finding solution thought pose question future reference ways 
+
+href http docs oracle javase docs api math biginteger html rel nofollow biginteger href http docs oracle javase docs api math biginteger html divideandremainder math biginteger rel nofollow divideandremainder method returns biginteger array item division result remainder mod strong update strong including comment mark dickinson answer blockquote simpler linear time algorithm set acc digit turn left convert integer set acc acc digits consumed acc result blockquote implemented algorithms testing seeded random number verifiable test didnt hardcode digit number output produced result clear difference performance mr ms solution worst 

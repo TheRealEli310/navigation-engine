@@ -1,0 +1,4 @@
+copy empty directory test resources maven 
+based href http stackoverflow comment copy strong empty directory strong test resources folder em maven em based project test build output luck successfully strong strong copying basic resources add execution part test resources pre class lang xml prettyprint override define build section pre class lang xml prettyprint override didnt files empty directories correctly copied single empty directory doesnt advice 
+
+finally solved problem element wrong place plugin section part strong plugin configuration strong part strong execution configuration strong changed goal strong strong strong strong correct plugin section pre class lang xml prettyprint override 

@@ -1,0 +1,4 @@
+android unit test giving mocked message mockito stubbed method 
+created test method mock settings secure stub getstring method class run test error ideas 
+
+static method wont mock subclassing settings secure creating static getstring wont reflection magic case mind 

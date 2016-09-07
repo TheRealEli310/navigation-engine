@@ -1,0 +1,4 @@
+map streams 
+trouble stream api mapping basically youve class id easy doesnt simple arrive aint thing safer general case em em situation find compiles specifically muck parameter missing 
+
+href https docs oracle javase docs api util stream collectors html tomap util function function util function function rel nofollow generating key javadoc blockquote mapped keys duplicates thrown collection operation performed mapped keys duplicates blockquote 

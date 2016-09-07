@@ -1,0 +1,4 @@
+logback smtpappender send email time exceptions 
+configure logback meet criteria ol li group exceptions message li li send daily log report exceptions occurred li li send report grouped email time day li ol current implementation sends emails exception occurs exception message stacktrace flush buffer 
+
+simple solution log errors file script server machine reads file day sends email appender roll dont standard enables send emails day ul li extend li li override method simply adds log message collection li li add appender runs method day li li method synchronize thread safety check collection empty send email errors clear collection li ul basic implementation class tested syntax replace anonymous classes required event caused exception content cyclicbuffer sendbuffer method add error separators errors sendemail method complex fine tuned depending requirements logback configuration file add parameters time day number emails day 

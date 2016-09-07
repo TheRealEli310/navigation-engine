@@ -1,0 +1,4 @@
+updating column type json failed exception 
+column type rest api response json string storing column hibernate update column strong strong make json store db strong strong strong log strong 
+
+bug postgre found href https github pgjdbc pgjdbc issues rel nofollow workaround solve problem youll write custom hibernate tybe setobject method jdbc drivers text byte hope helps 

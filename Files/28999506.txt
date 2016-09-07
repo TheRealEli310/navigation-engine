@@ -1,0 +1,4 @@
+package flavor manifest 
+flavors app declare gcm permissions replaced depending current flavor configure manifest automatically pick package defined field 
+
+placeholders href https github commonsguy cw omnibus tree master push gcmclient2 sample project placeholder automatically expand flavor building 

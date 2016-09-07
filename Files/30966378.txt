@@ -1,0 +1,4 @@
+closed addressing hash tables resized 
+reading href https en wikipedia org wiki hopscotch hashing rel nofollow hopscotch hashing understand code realized linear probing hash table variants recursive approach resize ol li create back array existing buckets li li allocate array requested capacity li li back array rehash element position element array insert array li li release backup array li ol code structure dont structure recursively call put inside resize br standard approach resizing hash table linear probing variants 
+
+good question closed address hashing hopscotch hashing cuckoo hashing static perfect hashing chance rehash fail single rehash step sit loop assign table finds works methods externally visible function internal function add element fail implement functions primarily exposition optimized bit longer risk weird recursion calls hope helps 

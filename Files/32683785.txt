@@ -1,0 +1,4 @@
+create stream arraynode 
+create stream br give stream element initial arraynode object br correct result achieve 
+
+implements iterable href https docs oracle javase docs api lang iterable html spliterator rel nofollow method href https docs oracle javase docs api util stream streamsupport html stream util spliterator boolean rel nofollow create sequential stream spliterator 

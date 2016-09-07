@@ -1,0 +1,4 @@
+jframe jpanel canvas game 
+moment making simple 2d game question whats opportunity jframe jpanel canvas talking 2d game add code 
+
+popular approach override paintcomponent jpanel invoke calling method jpanel response key events user provided input fixed interval updates code started 

@@ -1,0 +1,4 @@
+http client throughput netty apache httpasyncclient 
+interested executing http requests single machine dont care latency care throughput decide apache httpasyncclient netty shed light advantages problem found href http allenxwang blogspot il netty httpasyncclient httpclient html rel nofollow comparison hoping bit detailed explanation case comparison means synchronous apache http client threads options isnt threads bit assuming normal computer cores threads core 12gb ram advance 
+
+main problem benchmarks real life threads noise expect similar results production async io option youre strong throughput strong expected netty based clients wins big time benchmark bet netty successfully wide array applications fails ning href https github asynchttpclient async http client rel nofollow async http client dont implement client stated comments base answer personal experience production metrics random benchmark post posted internet stackoverflow answer test 

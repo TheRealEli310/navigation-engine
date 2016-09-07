@@ -1,0 +1,4 @@
+open file utf format netbeans distorting characters 
+norwegian characters properties file open utf enabled notepad appears correctly open file netbeans editor shows distorted characters netbeans version project type maven project maven proeject properties setting utf finding settings netbeans correct utf characters 
+
+click properties file properties encoding tick project encoding open file matter resolved strong strong project encoding set utf set click project properties sources select encoding utf 

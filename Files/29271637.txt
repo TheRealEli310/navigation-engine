@@ -1,0 +1,4 @@
+javafx treeview displays incorrect string cell clicked edit 
+code oracle code produces gui basic editable treeview clicking cells populate tree eventually text fields editing begin display incorrect information information contained tree represented cell edited understand happening havent found reference happening google stackoverflow understand occuring id happy 
+
+checked application found weird thing create edit textfield unsaved information visible textfield modification solve 

@@ -1,0 +1,4 @@
+hibernate spatial geometrytype 
+upgrading hibernate spatial version cr2 declaration doesnt work anymore class doesnt exist jar file anymore happend geometrytype replaced jar file include edit clarification hibernate spatial combination postgresql postgis database 
+
+solution easy simple delete type annotation declaration source href http www hibernatespatial org documentation tutorial tutorial4 link blockquote type annotation informs hibernate location attribute type geometry type annotation hibernate specific jpa annotation required future versions hibernate version longer explicitly declare type geometry valued attributes blockquote 

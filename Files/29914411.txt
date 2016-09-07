@@ -1,0 +1,4 @@
+unable consume jersey webservice 
+consume jersey webservice postman webservice web xml file user postman url post parameters return dont understand fix 
+
+ol li dependencies project jersey container servlet core jersey media json processing jersey media json jackson li li create configuration class rest webservice load package scan jersey class web xml li li dont forget add annotation dao class li li thing service method add slash path relative li ol 

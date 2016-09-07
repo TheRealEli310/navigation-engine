@@ -1,0 +1,4 @@
+aes python 
+aes encryption code source bugs doesnt initial vector initialization thing python background understand 
+
+code algorithm string resolves python pycrypto problem replicating implement pkcs padding unpadding href http stackoverflow examples internet iv ecb doesnt iv static key static iv encrypted padding unknown clarified author code follow practice 

@@ -1,0 +1,4 @@
+ecdhe cipher suites supported openjdk installed ec2 linux machine 
+starting running ec2 amazon linux machine prints configured ecdhe suites supported enabled read oracle href http docs oracle javase docs technotes guides security sunproviders html sunjsseprovider rel nofollow support protocols supported openjdk enable strong update strong oracles jce cryptographic provider installed didnt 
+
+running similar setup aws box running openjdk solved add bouncycastle provider ul li add li li edit adding line list providers li ul added 6th entry add higher order prefer restarted application ec based cipher suites 

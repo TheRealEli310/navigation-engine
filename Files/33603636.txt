@@ -1,0 +1,4 @@
+failed execute goal org apache maven plugins maven archetype plugin generate 
+instructions mentioned href https struts apache org docs struts maven archetypes html rel nofollow apache website create struts2 convention based app maven command error corporate internet connectivity firewall filtering rules idea struts2 archetype convention isnt remote repo href http struts apache org rel nofollow http struts apache org faced similiar issue share solution 
+
+maven searching searching final link change 

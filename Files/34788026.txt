@@ -1,0 +1,4 @@
+restart javafx application button clicked 
+post matter doesnt explain properly question created javafx application dice game human player computer time playing game human player click button game restart game beginning relaunching stage javafx call launch method strong implement restarting application strong strong restart application completely button click strong main class gameui removed codes class make short codes give idea included long javafx programming 
+
+noticed launching process option rewrite application class move initialisation logic method h3 notes h3 ul li depending parts scene changed change state nodes efficient creating scene made game decide li li method create instance application class reason method handle creation instance li li design move ui creation class application class reuse code easier require creation instance subclass li ul 

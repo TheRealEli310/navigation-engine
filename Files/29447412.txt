@@ -1,0 +1,4 @@
+android decrypting msg iv attached 
+generate random iv iv attached plain bytes front encrypted msg shown message devices wifi direct handled mainactivity decryption fails warning blockquote system err javax crypto illegalblocksizeexception block incomplete decryption system err android org bouncycastle jcajce provider symmetric util baseblockcipher enginedofinal baseblockcipher system err javax crypto cipher dofinal cipher system err cryptochat crypto decrypt crypto system err cryptochat mainactivity handlemessage mainactivity blockquote problem lies decrypt method unsure wrong method 
+
+block cipher padding encrypted text larger decrypted text copy bytes decrypted text message encrypted message incomplete 

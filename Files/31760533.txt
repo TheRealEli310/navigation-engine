@@ -1,0 +1,4 @@
+test performance parallel processing spliterators 
+suppose data structure implements spliterator boilerplate code testing parallel processing spliterator sequential processing 
+
+test spliterator create sequential parallel stream reduce simple reduction operation minimal overhead critical check parallel spliterator works correctly sequence calls testing speed good idea test correctness good idea create test closer real life data structure production code create test implements real parallel sequential results relevant users data structure 

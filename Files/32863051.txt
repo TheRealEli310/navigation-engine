@@ -1,0 +1,4 @@
+transientobjectexception set cascade cascadetype 
+classes strong employee strong strong department strong save main method didnt work throwed error uncommented line worked fine set supposed save automatically throwing errors miss 
+
+save employee department saved cascade add cascade employee class 

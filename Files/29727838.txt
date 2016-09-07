@@ -1,0 +1,4 @@
+complexity tilde notation nested loops 
+find complexity href http www quora alternative big notation representing complexities rel nofollow tilde notation algortihm made table times loop loops 
+
+evaluate number iterations decreases linearly average total generally average total terms iteration count terms memory accesses double extra access outer loop adds negligible contribution 

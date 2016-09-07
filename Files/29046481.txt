@@ -1,0 +1,4 @@
+generating rsa public key byte array 
+trouble generating rsa public key object method read exponent modulus file byte arrays byte arrays create rsa public key object implementation error input large encrypt bits input bytes tested biginteger correct instance inputted file error created key 
+
+solved issue issue constructor reads twos complement form modulus byte array interpreted twos complements form constructor yield negative integer constructor solves problem 

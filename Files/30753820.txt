@@ -1,0 +1,4 @@
+org hibernate exception sqlgrammarexception prepare statement nested exception javax persistence persistenceexception 
+entity classes ooline mitfac mitmas repository file persistense xml supposed execute query sql verify constructed mapped entity correctly 
+
+add property class 

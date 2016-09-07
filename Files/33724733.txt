@@ -1,0 +1,4 @@
+confused java8 collectors tomap 
+collection filter dates arent end months filter criteria returns matching end month converted filtered stream back map collector add dont reading examples leaves confused heres current code doesnt work 
+
+addition previous answers dont original map perform filtering place stream api 

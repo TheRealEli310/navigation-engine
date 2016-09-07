@@ -1,0 +1,4 @@
+reorder pages pdf file 
+generating table contents move table contents beginning suppose pages pdf toc starts page ends page move toc page page remains page page remains page code doesnt give suggest solutions 
+
+formula wrong puts toc page description code tested href http itextpdf sandbox stamper reorderpages rel nofollow reorderpage pdf pages text content result pdf reordered pdf href http itextpdf sites default files reordered pdf rel nofollow http itextpdf sites default files reordered pdf pages order page page page page page page page page page page page page page page page page order question strong update strong comment worked case lets achieve pages order reorder means pattern hard coded pattern variables important ul li start toc page li li final page li ul variables derive variables ul li page toc page minus li li page toc li ul rewrite pattern make occurrence replaced parameter occurrence replaced parameter results 

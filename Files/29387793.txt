@@ -1,0 +1,4 @@
+jsp custom tag doafterbody method invoked 
+code working jboss tested tomcat root constructor doafterbody method invoked tag invoked parent tag child tag moved works means child tag recognised tld file tag class tag jsp working tomcat setting jsp tagdependent jboss tld validation failing jboss works scripts inside tag fix 
+
+child tag processed setting scriptless replaced scripts inside tag custom tags 

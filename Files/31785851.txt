@@ -1,0 +1,4 @@
+catch http status errors controlleradvice config 
+contoller handle exceptions exception catched catch http status errors 
+
+solution pretty simple usere config approach end smth controlleradvice exceptionhandler annotations 

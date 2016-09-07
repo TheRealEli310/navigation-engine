@@ -1,0 +1,4 @@
+inject field null 
+inject field jar module empty beans xml existing meta inf idataprovider interface dataprovider implementation import javax enterprise context applicationscoped class inject dataprovider run wildfly injected dataprovider null breakpoint datacontroller constructor tutorial thought work difference classes applicationscoped wildfly 2final gradle intellij gradle build idea working dont error exception wildfly 
+
+construction normal null injection add method check nullity field aditionally error reporting weld pretty explicit detailed error message injection fails null field 

@@ -1,0 +1,4 @@
+android studio bug calendar day week 
+didnt found bug question app code code inside oncreate code oncreate run app emulator returns saturday case emulator day week wednesday 
+
+blockquote strong date strong blockquote blockquote strong day week strong blockquote blockquote strong simply call strong getday date blockquote 

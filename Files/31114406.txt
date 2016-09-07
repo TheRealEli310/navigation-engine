@@ -1,0 +1,4 @@
+javafx circle follow cursor 
+build game javafx features circle follow cursor smooth translation animation directly location cursor written piece code location settext label coords recognized program fact pixel cursor moves updated numbers instantly circle location cursor move shape follow cursor wont problem make circle follow mouse moving 
+
+href https docs oracle javase javafx api javafx animation animationtimer html rel nofollow animationtimer movement check href http blog netopyr javafx animationtimer rel nofollow mikes blog usage read href http natureofcode rel nofollow nature code daniel shiffman chapter href http natureofcode book chapter vectors rel nofollow vectors interactivity acceleration webpage running easily convert javafx hr heres code book implemented javafx walker main settings pvector full source processing source code 

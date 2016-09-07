@@ -1,0 +1,4 @@
+spring security config xml 
+migration xml based spring configuration based xml config attempt login exception missing whats wrong 
+
+override method method causing infinite recursion declare hr alternatively annotation component scan pick class avoid manual bean creation inject straight configuration method wouldnt override creating instance bean 

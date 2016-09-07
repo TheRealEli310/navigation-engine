@@ -1,0 +1,4 @@
+class found exception validating json jsonschema 
+validate json jsonschema referred href http stackoverflow questions android validate string json string schema android validate string json string schema tihamer code jsonparserexception code error solved previous error error objectmapper class exception 
+
+part stack trace suggests caused class package jvm load find classpath add jar file classpath 

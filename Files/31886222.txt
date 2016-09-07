@@ -1,0 +1,4 @@
+combinations alphanumeric string 
+input alphanumeric function string consists alphanumeric characters lower case hello123hello check upper lower case letter combinations string check function hello123hello combinations checked written code store matching string arraylist arraylist correct worst case runtime check function returns true false depending correct string passed function 
+
+remove changing basic algorithm offhand improve original string directly dont check substrings care case variations entire string improve algorithm testing substrings 

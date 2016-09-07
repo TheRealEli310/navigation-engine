@@ -1,0 +1,4 @@
+mapped entity null onetoone joincolumn 
+mapped entity null fetchtype eager set booking entity class maps entities slot subscriber entities null fetch booking entity strong booking class strong strong slot class strong strong subscriber user class strong returns miss configuration mapping strong edit1 strong added code entity loaded saving entity reloading 
+
+working hibernate retuning instance 1st level cache doesnt reference entities fix executing query 

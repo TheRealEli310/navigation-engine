@@ -1,0 +1,4 @@
+maven compile find symbol 
+reason command works fine local machine codeship work throws find symbol error codeship full command pom repository pre class lang xml prettyprint override strong error strong 
+
+maven reading version pom xml version installing required verison installed check home environment variable path jdk dont find fix environment variable remove lines pom xml 

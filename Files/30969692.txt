@@ -1,0 +1,4 @@
+print 2d array random numbers 
+write program prints 2d array random numbers ranging prints max number array average min program user number rows column print random numbers array code 
+
+fill array random values generate random values loop write array loop generating putting invalid location additionally arrays based loops heres code 

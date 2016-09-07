@@ -1,0 +1,4 @@
+stop android app force closing connect server 
+android app connects server server program running works fine stopped app connect server display toast message user firstly prevent application force closing server offline error code connection made server called class 
+
+add null check block check null good practice doesnt fix code problem youre null pointer exception code strong strong finally block finally block exception block youll null check call catch npe handle 

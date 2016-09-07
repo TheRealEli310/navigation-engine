@@ -1,0 +1,4 @@
+recursively insert end doubly linked list 
+doubly linked list insert element end list recursively method recursion works understand recursion inserting end singly linked list recursion easy understand hope explain list doubly linked normal insertion method make recursive 
+
+idea write loop function call 

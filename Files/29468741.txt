@@ -1,0 +1,4 @@
+modify method declared superclass javassist 
+modify method declared superclass javassist calling method printed console call method declared wrong strong edit strong confirm methods instrumented printed console 
+
+solution check getconnection method declared class current create override getconnection method delegate superclass doesnt feel ideal solution working fine 

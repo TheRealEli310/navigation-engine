@@ -1,0 +1,4 @@
+check graph fully connected 
+check graph fully connected node connected node input graph file place dimensional array fully connected 2d array write boolean method checks fully connected bit lost ideas tips suggestions 
+
+basically matrix representation directed graph fully connected main diagonal zeros main diagonal represents connection vertex br represents fully connected graph simple directed vertex connected link direction change algorithm simply adding reverse condition imagining folding matrix line main diagonal overlap index represent connection vertex directions 

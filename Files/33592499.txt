@@ -1,0 +1,4 @@
+lwjgl cursor position 
+position cursor looked documentation glfw method pointers method doublebuffers arguments write posx null figure setting callback display class 
+
+directly support pointers lwjgl buffers workaround wrap memory address read written methods object pass buffers functions write values read values key point create buffer storing utility function creates buffer buffers primitives int long char float double case buffer store doubles number pass method number values buffer store buffer larger size storing multiple values array single method returns index read store values buffer strong strong tempting values work intended write index leave garbage read random index coords create separate buffer 

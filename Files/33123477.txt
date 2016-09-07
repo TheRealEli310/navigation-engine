@@ -1,0 +1,4 @@
+hsqldb sql maven plugin jooq 
+similar question href http stackoverflow questions embedded database flyway jooq maven continuous integration embedded database flyway jooq maven continuous integration flyway maven plugin configuration fails h3 sql maven plugin h3 pre class lang xml prettyprint override h3 jooq codegen maven h3 pre class lang xml prettyprint override h3 error h3 pre class lang prettyprint override work issue 
+
+href http stackoverflow questions embedded database flyway jooq maven continuous integration explained question jooq flyway problem hsqldb locking database class loader basis maven plugins involved share class loaders plugin access database embedded class loader ul li called script bit ugly script needed contexts li li jvm shut ugly context maven li ul workaround execution explicitly calls command pre class lang xml prettyprint override 

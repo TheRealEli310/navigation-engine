@@ -1,0 +1,4 @@
+javamail mimemessage getcontent unsupported encoding 
+problem parsing type mail encoding charset g2 javamail grails directly lib unread emails imap message content object msgcontent msg getcontent line throwing error exception mail 
+
+javamail faq entry ul li href http www oracle technetwork javamail faq index html unsupen rel nofollow unsupportedencodingexception invoke getcontent bodypart text data li ul 

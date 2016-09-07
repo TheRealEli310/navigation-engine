@@ -1,0 +1,4 @@
+store byte mongodb 
+insert document collection field byte query inserted document field returns byte fix 
+
+encode byte array store doc decode extraction retrieve original encodes binary data base64 algorithm chunk output decodes base64 string octets refer link href https commons apache org proper commons codec apidocs org apache commons codec binary base64 html rel nofollow https commons apache org proper commons codec apidocs org apache commons codec binary base64 html 

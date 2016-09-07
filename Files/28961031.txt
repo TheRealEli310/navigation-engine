@@ -1,0 +1,3 @@
+order oracle function jpa criteria builder 
+sql criteriabuilder works fine accurate results native sql criteriabuilder troubles 
+

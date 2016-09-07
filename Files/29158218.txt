@@ -1,0 +1,4 @@
+counting occurrences word input output program 
+find occurring words file letters input output program starter code 
+
+make holds key pair word counter number occurrences split line white space iterate array split string check word characters increment counter end internal set interate set find ect common common words 

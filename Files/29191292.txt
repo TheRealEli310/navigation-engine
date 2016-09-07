@@ -1,0 +1,4 @@
+spring velocity form handling 
+googled find completely full answer handle form spring velocity templates view assume form simple class convert data user types form post object controller method create class smth add bindingresult argument method answers upd wrote send form data spring shows error request client syntactically incorrect line doesnt runs whats wrong upd2 id attributes form html 
+
+work populated instance inside method validate persist 

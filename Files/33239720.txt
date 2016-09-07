@@ -1,0 +1,4 @@
+superpowered sdk android 
+create player superpowered sdk exit loop song ends starts playing removed blockquote void start pause playing blockquote blockquote void blockquote blockquote player initialize play options blockquote 
+
+handle playback state method em playereventcallbacka em callback main player events em superpoweredadvancedaudioplayer em class find receive em superpoweredadvancedaudioplayerevent eof em event pause playback hope helps 

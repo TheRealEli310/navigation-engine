@@ -1,0 +1,4 @@
+servlet lang illegalstateexception getwriter called response 
+glassfish server netbeans ide project structure img src http stack imgur cjht2 jpg alt enter image description program works ol li client open localhost beer li li selects beer index html li li post beerselect bs short li li bs call beerexpert call result jsp finally send test jar client li ol important code bs error img src http stack imgur fegk9 jpg alt enter image description 
+
+illegal servletrequest getoutputstream servletrequest getwriter answered detail href http stackoverflow questions lang illegalstateexception output stream lang illegalstateexception output stream 

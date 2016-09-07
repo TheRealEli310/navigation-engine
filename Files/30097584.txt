@@ -1,0 +1,4 @@
+test data provided dataprovider method onteststart itestlistener 
+problem solve test class method receives data data provider perform action based test data run test receive data provider starting runtest method method figure test data instance run method good approach 
+
+create class extending testlisteneradapter add annotation test class dataprovider class 

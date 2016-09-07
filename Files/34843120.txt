@@ -1,0 +1,4 @@
+attempt invoke virtual method null object reference 
+script counts times pressed button run code error recently added code meant save amount times clicked button 
+
+problem line initializing variable instance created call made null object activity basecontext reference declare variable initializing call instance 

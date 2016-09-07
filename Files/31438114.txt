@@ -1,0 +1,4 @@
+ksoap2 send static xml file request 
+ksoap2 build xml file request attempted generate code child elements causing problems ksoap2 find clear solution structuring ksoap2 build tree order child elements accessed correctly api doesnt respond correctly structure send xml file xml resource directly update make classes complex elements siteids class code created string ret fail figure strange error 
+
+create serializable objects pass soap object siteids pass soap object strong edit strong strong strong strong edit strong strong siteids strong 

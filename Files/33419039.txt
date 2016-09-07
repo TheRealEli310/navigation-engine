@@ -1,0 +1,4 @@
+x86 bit floating point type 
+emulate x86 extended precision type perform arithmetic operations casts types implement bigdecimal covering special cases nans infinity casts tedious task aware libraries provide floating types higher precision double precision x86 bit float library floating point type provide hints implement data type effort coming custom bigdecimal solution 
+
+bit held combination mantissa exponent sign operations practical place upper lower halves long separate long values code addition numbers matching signs exponents bit nuisance completely unworkable key break numbers pieces small math type long btw numbers originally exponent track bits fell end shifting left match exponent number properly round result afterward 

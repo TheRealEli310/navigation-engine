@@ -1,0 +1,4 @@
+android parceler library unable find generated parcelable class 
+parceler library android studio project project modules app personal android core library helpers generic entities added parceler dependency core library library build gradle added lines lines inside app build gradle file dependency parceler imported automatically app defined entity parcelable implementation framework fires exception read posts exception find solution problem advance strong edit build gradle file strong 
+
+current release support arrays annotated classes utility class id suggest 

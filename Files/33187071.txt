@@ -1,0 +1,4 @@
+change version bluemix 
+legacy app run bluemix 
+
+buildpack buildpack href https github cloudfoundry buildpack rel nofollow https github cloudfoundry buildpack deploy app add cloud foundry cli buildpack strong manifest yml strong deploy app buildpack version command change version app changing version restart restage app change version 

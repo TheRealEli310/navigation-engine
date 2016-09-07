@@ -1,0 +1,4 @@
+setup tomcat7 ubuntu latest jre oracle 
+compile servlet oracle eclipse put classes file tomcat7 webapps directory error compile version jdk compliance servlet runs fine outputs settings folders usr lib jvm environment file lastly appended line bashrc home directory setup tomcat7 oracle 
+
+run terminal edit img src http stack imgur nt3ve png alt enter image description run terminal uncomment line home change home usr lib jvm oracle press cntrl enter save changed settings home set permanently tomcat7 

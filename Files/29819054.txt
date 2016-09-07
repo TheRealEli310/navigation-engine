@@ -1,0 +1,4 @@
+gwt developer plugin running 
+run web application sample project eclipse opened url provided ide chrome browser version showed message development mode requires gwt developer plug downloaded plug installed browser checked chrome extensions restarted browser entered link shows message whats wrong 
+
+gwt plugin longer supported chrome due npapi deprecated href https www chromium org developers npapi deprecation rel nofollow https www chromium org developers npapi deprecation debug application youll ol li temporarily enable npapi chrome chrome flags enable npapi li li downgrade chrome version supports plugin li li update application superdevmode href http www gwtproject org articles superdevmode html rel nofollow http www gwtproject org articles superdevmode html li ol 

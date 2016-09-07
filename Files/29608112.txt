@@ -1,0 +1,4 @@
+add xlsx file powerpoint presentation 
+add existing excel table slide excel file succefully added presentation add slide xml code lines code unmarshalling xml code substitution works correctly error blockquote javax xml bind unmarshalexception unexpected element uri href http schemas openxmlformats org presentationml main rel nofollow http schemas openxmlformats org presentationml main local graphicframe expected elements lots elements graphicframe blockquote element problem strong update strong adding unmarshal function fixed problem open finished file ms office broken hints 
+
+case give jaxb hint 

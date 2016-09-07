@@ -1,0 +1,4 @@
+unable change android time picker mode 24hrs mode pm mode 
+working timepicker dialouge reason dont understand couldnt change mode code code 
+
+check parameter constructor hours format disable hours format passing parameter 

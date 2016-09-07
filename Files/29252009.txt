@@ -1,0 +1,4 @@
+org hibernate service unknownserviceexception unknown service requested org hibernate stat spi statisticsimplementor 
+exception blockquote org springframework orm hibernate4 hibernatesystemexception unknown service requested org hibernate stat spi statisticsimplementor nested exception org hibernate service unknownserviceexception unknown service requested org hibernate stat spi statisticsimplementor blockquote blockquote org hibernate transactionexception nested transactions supported blockquote strong update strong class 
+
+comment dont transaction related methods dao fact causing issues lean springs declarative transaction handling change service service method transaction demarcation meaning transaction start method called commit method ends rollback exception inside method single transaction programmatic transaction handling 

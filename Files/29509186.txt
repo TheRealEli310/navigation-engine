@@ -1,0 +1,4 @@
+spring session spring security creates sessions 
+spring web app spring security spring session spring session websockets session timeout long websocket working works fine find sessions running spring security spring session session xml security xml make spring security session created spring session 
+
+found issue reason filterchain filter loaded spring session created security filter created happening configured specifically servlet removed made global filter worked 

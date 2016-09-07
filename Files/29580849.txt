@@ -1,0 +1,4 @@
+stanford nlp pos tagging 
+pos part speech tagging tagger combine part maven project doesnt work user stanford directly pos seperate tagger output output nnp rb happy jj prp marks nns 
+
+stanford corenlp tagging directly lines code tag give desired output 

@@ -1,0 +1,4 @@
+stream closed error closing connection 
+function strong io ioexception stream closed error strong comment con disconnect line working fine dont happening calling function 
+
+href http docs oracle javase docs api net httpurlconnection html rel nofollow javadoc httpsurlconnection extends blockquote calling disconnect method close underlying socket persistent connection idle time blockquote inside method reference closed underlying code calls method returned indirectly closed stream rearrange code call finished approach getresponse calling code 

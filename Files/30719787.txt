@@ -1,0 +1,4 @@
+stuck updating single variable updated multiple threads 
+app multiple threads write single variable thevar times correct data times data missing solve week lost sudden lose data issue wrong 
+
+buddy creating singleton recommendation approach thread synchronization issue leverages javas class loading mechanism class loaded em jvm load class em called time thread instance singleton class exist threads call method time jvm load times creating class instance part static initialization class loading instance exist case threads exact time causing problem give hope results provide code running 

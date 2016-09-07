@@ -1,0 +1,4 @@
+pass dynamic input pararm gradle exec task 
+gradle task edit entered dynamically run gradle task 
+
+simply eliminate configuration setting system property command line flag running read project system properties gradle user guide strong href https gradle org docs current userguide build environment html sec gradle properties system properties rel nofollow strong 

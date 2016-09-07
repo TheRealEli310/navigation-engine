@@ -1,0 +1,4 @@
+websphere liberty force https site user authentication 
+configure websphere liberty profile serve pages https requests http blocked redirected https set web xml added feature default key store https work correctly pages accessible http redirect block added feature http redirect https correctly error console mentioned user registry set server xml authentication application resolve error changing application user registry configuration needed web xml prevent access http thought edit sending basic auth header authentication case unclear 
+
+add application doesnt define comment br result server interpret basic auth header finding user registry basic authentication benefit allowing server create request protecting web module basic registry implement custom registry liberty feature href http www ibm support knowledgecenter ssaw57 ibm websphere wlp doc ae twlp sec custmr html cp ssaw57 2f1 amp lang en rel nofollow developing custom user registry liberty profile 

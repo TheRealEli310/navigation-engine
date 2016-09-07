@@ -1,0 +1,4 @@
+launch scenicview agent intellij project 
+added scenicview javafx application intellij vm argument suggested href http fxexperience scenic view rel nofollow http fxexperience scenic view launch application exception result scenicview discover application wrong 
+
+documentation scenicview requires jdk classpath turns intellij loads jre libraries classpath point full jdk sdk added jdk classpath small fix works expected 

@@ -1,0 +1,4 @@
+calculating distance points 3d 
+assignment create main class initialize point access mutate values individually getters setters task create method main class call distanceto calculates distance points creating method calculates distance points taking coordinates assume answer write method main class points defined test point class points general answer created points p1 p2 p3 calculate distance p1 p2 distance p2 p3 distance p1 p3 main class class test points package divingrightin 
+
+dude pointed comments write method distance points call make method static give points compare answer 

@@ -1,0 +1,4 @@
+cover maximum number nodes path graph 
+find maximum number covered nodes path graph made program recursion giving answer simple graph complicated graph input string array means node connected node vice versa made matrix total nodes size node connected set matrix matrix calculate maximum covered node path code mistake code 
+
+strong main issue strong store complete matrix loop correctly iterate populate consequent inputs loop change correct iteration improve em foreach em loop dont discovered debugging code figuring recurse nodes figured incomplete print check correct strong issues strong ul li reset array backtracking evaluate paths node uncomment li li cases check high score decrease leaving loop li li code fail city connected rest graph small node highest number li ul strong improvements strong ul li convert matrix remove initialize li li parameters calling place simplify li li manage reduce parameter nested loops initiate recursion li ul 

@@ -1,0 +1,4 @@
+datastax driver convert scala collections error 
+store scala map convert util map cassandra data structure created table convert sets sets build query attempt convert map map back didnt work advance 
+
+things overcome ol li converting map util map type youve covered mapasjavamap li li converting set tuple3 util set type li li converting tuple3 href http docs datastax en developer driver driver reference tupletypes html rel nofollow tuplevalue li ol error returned driver misleading map type converting correctly code tuple3 type ultimately problems opened href https datastax oss atlassian net browse rel nofollow track making assumptions mailcontent code make things work main logic heavy lifting maps set util set map util map pre class lang scala prettyprint override yields record cqlsh 

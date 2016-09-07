@@ -1,0 +1,4 @@
+hamcrest match map entries types 
+lets map id hamcrest matchers verify maps values map lt string string similar stuck map entries map string list values works entry entry figure setup matchers edit produces compiler warning method assertthat matcher type assert applicable arguments map matcher solution href http stackoverflow questions hamcrest compare collections hamcrest compare collections 
+
+elegantly hamcrest type checking matchers lists easiest option prevent compiler error unchecked assignment suppresswarnings unchecked put static method common test util 

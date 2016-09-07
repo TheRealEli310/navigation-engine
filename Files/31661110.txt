@@ -1,0 +1,4 @@
+calling static method android onpreferenceclicklistener 
+code snippet call static method create alertdialog difficulty listener static method alertdialog builder constructor requires android context object created method static context considered passing context parameter damaging fact overriding method advance 
+
+implement preference onpreferenceclicklistener class statically initialise activity code ready assuming listener object static reason activity code hope structure code clear 

@@ -1,0 +1,4 @@
+intellij classes folder package 
+classes separated folders keeping package collection classes package visually group bit easier navigate grows size intellij general reason dont packages package package 
+
+source classpath package structure intellij simply make folder mark folder source folder click folder mark directory sources root long package structure classes packages end 

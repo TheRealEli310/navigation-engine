@@ -1,0 +1,4 @@
+elasticsearch hits api 
+implement hits elasticsearch api find documentation examples people json search works innerhitsbuilder addinnerhit methods elasticsearch library find documentation pointers appreciated jason 
+
+plenty test cases es source code feature tested browsing es code incredibly rich source information hits makes exception find test cases href https github elastic elasticsearch blob e43676b1385b8125d647f593f7202acbd816e8ec src test org elasticsearch search innerhits innerhitstests rel nofollow class query created 

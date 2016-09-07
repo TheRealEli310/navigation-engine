@@ -1,0 +1,4 @@
+postgresql update jdbc 
+update table method run recieve problem 
+
+shouldnt build sql putting variables directly string concatenation sql valid sql integer literal xx quotes sql means youre reading column error message string varchar field wrap quotes 

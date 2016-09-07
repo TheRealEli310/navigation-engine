@@ -1,0 +1,4 @@
+implement correct doubleclick edit tableview 
+strong problem strong tableview edit mode click selected cell unwanted inconsistent behavior selection click current selection doesnt change click inside current selection real double click required edit mode work desktop em reproduction em create tableview selection mode select multiple cells shift keypress click single cell selected cells current behavior ul li table edit mode li ul strong question strong requested behavior ul li selection change single cell selected edit mode happen double click li ul achieve strong code strong heres full code oracle samples website added lines pre selected cells click single cell program start table directly edit mode 
+
+clear selection mouse pressed event 

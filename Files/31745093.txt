@@ -1,0 +1,4 @@
+issue modifying query remove set entities ids spring data jpa 
+remove large number records database record cascade foreign key deleting record time jpa removal requires 5s decided write jpql query run equivalently goal 
+
+execute modifying query annotate method href http docs spring io spring data jpa docs current reference html jpa modifying queries rel nofollow reference documentation issuing delete query lifecycle callbacks affected entities called statement executed database directly callbacks called issue list identifiers ad pipe results dont manage transactions layers make query execution running transaction required jpa 

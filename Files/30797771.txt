@@ -1,0 +1,4 @@
+authenticate access server neo4j rest api 
+starting neo4j rest api connect server error error normal authenticating server requests neo4j manual href http neo4j docs stable rest api security html rel nofollow http neo4j docs stable rest api security html read error em requests include authorization header basic payload base64 encoded string username password em em request href http localhost user neo4j rel nofollow http localhost user neo4j accept application json charset utf authorization basic bmvvngo6c2vjcmv0 em rid error dont include header requests request code authenticate server requests helpful 
+
+jersey supply client instance filter dealing authentication 

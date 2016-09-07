@@ -1,0 +1,4 @@
+amazon s3 batch file upload api 
+begin s3 storage perform batch upload files written code api perform single file uploads provide list files pass s3 bucket question href http stackoverflow questions perform batch upload amazon s3 perform batch upload amazon s3 years ago curious situation changed find code wed set internal job scheduled tasking spring transition groups files night id looping put request zip batches place s3 
+
+easiest youre aws sdk href http docs aws amazon awsjavasdk latest javadoc amazonaws services s3 transfer transfermanager html rel nofollow transfermanager method takes list files uploads s3 parallel upload files local directory 

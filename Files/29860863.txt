@@ -1,0 +1,4 @@
+stop joptionpane disabling root frame 
+em show joptionpane disabling open frames em jframe start stop button point user press stop button main frame stop secondary thread started start button running thread opens joptionpane main frame disabled user press stop button opens multiple joptionpanes row immensely frustrating stop success passing jframe disable failed work opens message box disabled dismiss joptionpane enabled ideas cheers 
+
+href http docs oracle javase docs api javax swing joptionpane html rel nofollow modal directly blockquote dialogs modal showxxxdialog method blocks caller users interaction complete blockquote youll similar 

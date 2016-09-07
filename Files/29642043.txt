@@ -1,0 +1,4 @@
+imagewriteparam set compression quality working 
+create app combines jpg big jpg compression test sample combine images 800kb output 280kb href http stackoverflow questions quality loss imageio write reference writing code matter inserted param setcompressionquality output 280kb doesnt change dir file type variable indicating source folder location combine method returns bufferedimage 
+
+reason doesnt work pass code method effect method create stay attached href http docs oracle javase docs api javax imageio imagewriter html write javax imageio metadata iiometadata 20javax imageio iioimage 20javax imageio imagewriteparam rel nofollow api doc information code 

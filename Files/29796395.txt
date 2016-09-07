@@ -1,0 +1,4 @@
+timer quartz apache camel 
+problem camel quartz wanto execute trigger quartz wrote simple code print time console obtain exception start inserted pom xml dependency camel version 
+
+youre importing camel quartz strong strong component pom xml file whilst quartz component quartz href http camel apache org quartz html rel nofollow http camel apache org quartz html quartz2 href http camel apache org quartz2 html rel nofollow http camel apache org quartz2 html uri route 

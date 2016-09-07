@@ -1,0 +1,4 @@
+sorting algorithm compareto 
+working homework assignment requires compare strings determine theyre alphabetical order plan write method strings arguments string string return int signalling lt case comparing boogie orange return boogie lt orange code encountering numerous errors find fixes bugs difficulty finding code measuring word longer affects alphabetical order debug code point direction advance 
+
+dont nestd loop dont compare character string character string single loop handling strings lengths find shorter strings equal prefix longer string return shorter string shorter shorter string longer 

@@ -1,0 +1,4 @@
+loading text file map int array 
+loop map bellow width height number point file add tile position multiplied size width parameters current number text file heres file atempted add tile respective position map mapwidth mapheight returning actual data position file int case return width height text files data add tile array heres code 
+
+problem parsing file nature problem parse line line line parse item item heres general parse data list arraylist dont deal size array physical array read file memory buffered reader insert loop add array items data cat tiles dat script parse file output hope helps 

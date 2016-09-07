@@ -1,0 +1,4 @@
+zmq compress messages 
+interested finding zmq compresses messages sending redundant compress message automatic option param doesnt matter guess libzmq doesnt matter 
+
+zmq performing serialization send messages socket string byte href http zguide zeromq org wuserver rel nofollow http zguide zeromq org wuserver update string general recommend guide href http zguide zeromq org page rel nofollow http zguide zeromq org page 

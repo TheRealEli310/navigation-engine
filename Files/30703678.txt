@@ -1,0 +1,4 @@
+create keyspace cassandra 
+snippet understand cassandra syntax execution error addiction configured spark maven libs dont create keyspace code advance 
+
+instance issue create keyspace command part prevent statement throwing error case keyspace exists 

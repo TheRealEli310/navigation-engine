@@ -1,0 +1,4 @@
+securityconfig success url roles 
+spring security worked role redirect sites depending strong role strong framework redirects strong defaultsuccessurl strong posible 
+
+send user url create controller processes default target url send user default create controller handles url default controller redirect forward based rolls spring mvc type controller work struts servlet advantages approach coupled specific implementation security coupled specific mvc implementation works easily xml configuration approaches additional notes ul li admin invalid url redirect defaultsuccessurl li li improving configuration readability href https spring io blog spring security config preview readability rel nofollow formatting code li li unnecessary configuration due defaults li ul cleaned version code 

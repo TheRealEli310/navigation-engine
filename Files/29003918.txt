@@ -1,0 +1,4 @@
+run program jar file vbscript 
+script execute error message error unable access jarfile program problem program path space fix 
+
+worked 

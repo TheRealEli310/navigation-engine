@@ -1,0 +1,4 @@
+string objects created tostring methods stored memory 
+assignment question string objects created method stored memory ol li constant pool li li heap area operator object li ol 
+
+odd poor interview question asked answer question depends jdks implementation implementation change normal person expected find implementers read source code string pool assuming meant constant pool heap string pool heap href http grepcode file repository grepcode root jdk openjdk 8u40 b25 lang integer integer tostring 28int rel nofollow openjdk 8u40 b25 object created heap memory youre passing object created contents string array created exists heap called isnt put string pool hr test behavior youre fact tests theyre object evaluate static method created object heap time called interned string pool object point interning object string evaluates hr answer specifically static method methods returns strings string pool 

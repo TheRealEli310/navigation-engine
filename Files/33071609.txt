@@ -1,0 +1,4 @@
+spring el split property entry 
+property properties retrieve split part wrong properties injected file read problem replace expression read string 
+
+works fine tested problem configuration turn debug logging watch injection processing 

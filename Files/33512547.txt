@@ -1,0 +1,4 @@
+generating random password lot restriction 
+create password generator create password restriction set user restrictions ol li minimum password length li li maximum password length li li minimum letter digit li li minimum letter li li minimum uppercase letter li li minimum lowercase letter li li minimum digit li li maximum repeat character li ol lookout google code doesnt meet requirement improvise code problem ensure minimum condition met time dont password generated repeating type character ol li put maximum password length minimum digit prefer li li 2nd put maximum password length minimum lowercase letter prefer li ol 2nd generated password fullfill minimum requirement random selection character type make password vulnerable algorithm ref href http theopentutorials tutorials util generating random password restriction rel nofollow generating random password restrictions 
+
+fixed code tested works perfectly required leave code case future 

@@ -1,0 +1,4 @@
+byte array camera preview android 
+complete noob managed write understand code reading href http developer android guide topics media camera html rel nofollow http developer android guide topics media camera html byte array preview convert bitmap real time forced save picture file storage program code main activity 
+
+detailed android developer docs href http developer android guide topics media camera html rel nofollow read add implementation picturecallback interface activity bitmapfactory convert byte array passed back bitmap required read docs href https developer android training displaying bitmaps manage memory html rel nofollow handling bitmaps efficiently relation memory outofmemory errors manipulating bitmaps pass pass takepicture method camera instance hope helps 

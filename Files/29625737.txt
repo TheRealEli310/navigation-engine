@@ -1,0 +1,4 @@
+angularjs retrieving user object controller request 
+successfully setup spring security project authenticates user logs logs retrieve user object inside session spring security rest controller controller function angularjs clarify call method controller retrieve user object works prints firstname odd behaviour put method inside http method option possiblity adding function beginning angularjs controller retrieve user object check null set logic update suggestion pankajparkar simply retrieve user object put method application factory directly controller pas accountservice method works fine data controller bit nicer 
+
+watch request response basically create service amp function strong factory strong add interceptor configuration phase angular life cycle config block strong config strong refer href http httpprovider responseinterceptors push httpinterceptor rel nofollow strong link strong provide idea implement 

@@ -1,0 +1,4 @@
+hibernate wrong id values uuid primary key 
+entity respository spring data jpa mysql database table definition problem hibernate returning wrong data screenshots mysql workbench href http stack imgur 9bfuy png rel nofollow img src http stack imgur 9bfuy png alt enter image description actual web page entities spring data jpa href http stack imgur 7deyo png rel nofollow img src http stack imgur 7deyo png alt enter image description uuids differrent columns correct wrong spring hibernate spring data jpa mysql 
+
+type type uuid char 

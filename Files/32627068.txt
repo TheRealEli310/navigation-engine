@@ -1,0 +1,4 @@
+write header line file 
+created multiple threads executor service error execution threads write stuff file basically maintain file maintain error messages treads place header line file line code maintaining flag write header line place header line file running threads parallel times header line positions solve problem 
+
+application multiple thread open file write work problems output threads interleaving unpredictable ways kind thing ul li threads share single object li li synchronize accessing object li li mutex thread complete line li ul recommend wrapping hr relate question simple implement output code thread creates shared write header line publishing object threads 

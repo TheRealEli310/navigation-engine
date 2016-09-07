@@ -1,0 +1,4 @@
+difference geowithin geointersects operators 
+difference operators mongodb coordinates default coordinate reference system return result correct wrong simple case understanding difference appreciated 
+
+href http docs mongodb org manual reference operator query geointersects rel nofollow geointersects blockquote selects documents geospatial data intersects geojson object intersection data object empty includes cases data object share edge blockquote href http docs mongodb org manual reference operator query geowithin rel nofollow geowithin blockquote selects documents geospatial data exists shape blockquote 

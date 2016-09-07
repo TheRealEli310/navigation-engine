@@ -1,0 +1,4 @@
+introduce integer sum int int 
+noticed jdk8 introduced method class whats point method call method operator possibility instance mixing strings ints operator meaning parenthesis work 
+
+method reference passed method requires relevant functional interface reduce noticed javadoc href https docs oracle javase docs api util stream intstream html sum intstream sum mention exact reduction equivalent sum 

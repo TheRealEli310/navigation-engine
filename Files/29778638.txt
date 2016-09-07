@@ -1,0 +1,4 @@
+load hibernate cfg xml file standalone application 
+writing standalone application hibernate annotations placing hibernate cfg xml file inside src directory startup creating session factory ant build script make compile creating jar file running application error blockquote org hibernate hibernateexception hibernate cfg xml found blockquote place file fix error 
+
+description place folder folder 

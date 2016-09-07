@@ -1,0 +1,4 @@
+make tree concurrent thread 
+implemented tree concurrent inserts thought lock node maxfilled means split event close lock array shift happen lock node close root lock child nodes practice make tree thread 
+
+implement href http www cs technion ac il erez papers lfbtree full pdf rel nofollow lock free version tree approach node split gradually marked frozen marking individual entries node frozen atomic compare swap operations frozen readers continue navigate partially fully frozen node parts tree ensuring high concurrency readers fully frozen node replaced garbage collected works garbage collection details documented paper point copying graph paper shows benefit img src http stack imgur sxjiz png alt enter image description 

@@ -1,0 +1,4 @@
+spark runtime error spark metrics sink metricsservlet instantialized 
+invocation target exception running project spark lib maven intellij met error intellij ide deployed jar ran spark submit error met problem hope fix problem easy debugging package jar time run code details pom file 
+
+strangely found error didnt move spark related dependencies front sequence dependencies matters 

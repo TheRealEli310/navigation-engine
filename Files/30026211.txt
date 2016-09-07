@@ -1,0 +1,4 @@
+search cassandra collection map querybuilder 
+cassandra table collection map indexed map keys querybuilder syntax put condition 
+
+create index keys map default index created map indexes values map keys special syntax index keys map indexed keys youll keyword definition functionality query builder api open ticket support href https datastax oss atlassian net browse rel nofollow accomplish driver youll build query prepared statement finally read datastax doc href http docs datastax en cql cql ddl ddl index html rel nofollow index secondary indexes perform imagine secondary index collection 

@@ -1,0 +1,4 @@
+exclude meta inf maven folder generated jar file 
+create jar file classes extracted jar dependent jar href http mvnrepository artifact log4j log4j rel nofollow log4j creates folders inside limitation server placing generated jar file internet connectivity content folder error maven descriptor pre class lang xml prettyprint override extract required class files generated jar maven folder generated manually delete folder make work advice automate removal maven folder generated jar file 
+
+href https maven apache org plugins maven shade plugin shade mojo html filters rel nofollow filters inside configuration exclude artifact pre class lang xml prettyprint override 

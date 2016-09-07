@@ -1,0 +1,4 @@
+change charts generated apache poi smoothed lines show empty cells gaps 
+poi beta1 code creates line chart multiple datasets named series legend default settings line charts poi generate line smoothed data points empty values plotted lines stop column empty cell chart properties rendered xlsx file change settings xlsx rendered settings find api change settings sample class starting point code href http svn apache org repos asf poi trunk src examples src org apache poi xssf usermodel examples linechart rel nofollow http svn apache org repos asf poi trunk src examples src org apache poi xssf usermodel examples linechart 
+
+etienne code set blanks gaps poi developer solution solves issues mentioned original question 

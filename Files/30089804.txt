@@ -1,0 +1,4 @@
+true full screen jframe swing application mac osx 
+working application making gui swing application fullscreen easily set size window make application fullscreen apple menu bar dock hidden answers found online dont work appreciated 
+
+full screen support windows macos user expectations href https docs oracle javase tutorial extra fullscreen rel nofollow full screen exclusive mode mac users exceptions full screen applications macos supports full screen applications os level tested code based href https gist github dohpaz42 rel nofollow mavericks works fine hardest hurdles users accepting application working current expectations arent matter wonderful app wont imho 

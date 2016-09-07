@@ -1,0 +1,4 @@
+maven intellij builds differently 
+parent pom parent write dropwizard application builds fine intellij fails find file problem include module directory intellij maven running works intellij change configure intellij work module directory 
+
+setting working directory run configuration img src http stack imgur sqpbe png alt enter image description configuration change working source sets directory importing maven project 

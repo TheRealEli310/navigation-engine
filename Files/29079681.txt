@@ -1,0 +1,4 @@
+soapui build source code fails unresolved dependencies 
+successfully build soapui sources href https github smartbear soapui rel nofollow repo steps readme fail unresolved dependencies thought simply download sources update maven indicies build project make additional 
+
+error dependency soapui submodule found soapui href https www ej technologies products install4j overview html rel nofollow install4j installed jar href http www soapui org repository maven2 rel nofollow soapui maven repository searched jar internet found copies manually installed jar error soapui href http mojo codehaus org animal sniffer rel nofollow animal sniffer check check project compiles jdk building jdk fails commented execution plugin pom project builds fine open pom xml file delete lines bugs soapui reported 

@@ -1,0 +1,4 @@
+maven build error running war file 
+run war file maven build error unable dependency information unable read metadata file artifact dont error build runs fine command running war file interesting thing code base runs fine executes fine prod env peers local env deleted m2 repository rerun mvn build error googled lot solution mvn version error switch pom build xml pom xml 
+
+resolved issue ran mvn switch showed sisu inject module valid pom module lives deleted reran build problem solved 

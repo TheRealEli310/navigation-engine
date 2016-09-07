@@ -1,0 +1,4 @@
+injecting bean dependencies spring based configuration 
+understand spring based configuration typically xml configuration effort produce equivalent spring based configuration stalled inject datasource jdbctemplate guess isnt direct equivalent things subtly 
+
+jdbctemplate href http docs spring io spring docs current javadoc api org springframework jdbc core jdbctemplate html jdbctemplate javax sql datasource rel nofollow constructor 

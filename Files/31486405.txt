@@ -1,0 +1,4 @@
+bigdecimal initialized integer literal leading zeros 
+kindly understanding code shouldnt bigdecimal process int long scenario leave performance stuff advisable bigdecimal process int long data mix long decimal values bigdecimal 
+
+problem literal numbers youre passing literal starts interprets href http docs oracle javase specs jls se8 html jls html jls rel nofollow em octal em number blockquote octal numeral consists ascii digit ascii digits interspersed underscores represent positive negative integer blockquote produces decimal decimal literals dont leading zeros dont 

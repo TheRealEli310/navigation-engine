@@ -1,0 +1,4 @@
+android support v14 preferencefragment crashes 
+display settings android app preferencefragment library open preferences app crashes strange nullpointerexception doesnt happen leave call preferencefragment preferences shown read support v14 preferencefragment recyclerview internally display list preferences wrong result recyclerview main activity preferencefragment 
+
+inflates layout isnt find views requires youd modify overriding href https developer android reference android support v14 preference preferencefragment html oncreaterecyclerview android view layoutinflater 20android view viewgroup 20android os bundle rel nofollow oncreaterecyclerview create custom framing default layout pattern 

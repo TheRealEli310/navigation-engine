@@ -1,0 +1,4 @@
+reserves minimum 1g metaspace max metaspacesize 
+reserves 1g metaspace starts means minimum metaspace size 1g set metaspacesize 300m maxmetaspacesize 400m reserves version vm flags nmt start 
+
+reason reserves 1g classes hides manages compressed class pointers strong em long answer em strong read doc href https docs oracle javase docs technotes guides vm gctuning considerations html rel nofollow https docs oracle javase docs technotes guides vm gctuning considerations html strong em short answer em strong setup correct size compressedclassspacesize property xx compressedclassspacesize 300m 

@@ -1,0 +1,4 @@
+log4j giving classcastexception slf4j loggercontext 
+configured log4j application remove didnt work 
+
+solve error steps ol li include slf4j api jar log4j api jar slf4j log4j jar li ol ol start li logger slf4j li ol 

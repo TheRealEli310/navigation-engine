@@ -1,0 +1,4 @@
+spring batch process multiple items 
+spring batch processing reading ids reader process chunks processor write multiple files processor interface item processed time bulk processing processor depends party calling service item option create wrappers reader processor writers involved chunk handle list lt delegate concrete reader processor writer doesnt nice chunking option lets chunking processor writer cheers 
+
+id recommend reconfiguring return chunk processed item youre processing 

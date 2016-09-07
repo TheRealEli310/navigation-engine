@@ -1,0 +1,4 @@
+tez crashes hadoop cluster 
+successfully build tez hadoop configured tez href http tez apache org install html rel nofollow http tez apache org install html moved tez lib package hdfs location updated strong tez site xml strong sample test tez face error running command resourcemanager log problem connecting nodemanager unable handshake resourcemanager single node hadoop cluster working correctly 
+
+add property blockquote yarn nodemanager delete debug delay sec blockquote thing running launchcontainer cmd located hadoop mp appcache location arise issue accessing dll running mapreduce windows platform msvcr100 dll missing handle tez job bellow blockquote program start mscvr100 dll missing computer reinstalling program fix issue blockquote provide full privilege hadoop tmp directory replaced moved msvcr100 dll windowssystem32 file windows machine run mapreduce program tez job 

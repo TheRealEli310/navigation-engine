@@ -1,0 +1,4 @@
+parse exception custom exception 
+problem simple age calculator code main throwing strong parseexception strong time pass string wrong format make throw strong invaliddateformatexception strong exception leave comment style quality code provided correct coding standards adhering practices 
+
+answer prime question throw custom exception block code couple suggestions ul li prefer li li calculate age broken dont account month day lets birth date code output baby year li li giving date argument string argument responsibility method parse birth date li li time api li ul 

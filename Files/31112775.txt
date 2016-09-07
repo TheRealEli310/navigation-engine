@@ -1,0 +1,4 @@
+apache camel cxf endpoint null reply 
+chapter camel action book implemented cxf route implemented console class test route expect console log display console log entry means web service generated reply message reply message carry return requestbody method call downloaded camel action chapter 7s sample code run junit test case return result expected compare route definitions source code mine spot difference give clues edit updated route definition remain route updated main method failed timeout exception 
+
+requesting body cxf endpoint route set content body transform tag route definition logical dont result applies seda endpoint id bet logged body log correct log body transform step order receive route seda endpoint code explanation href http stackoverflow questions org apache camel exchangetimedoutexception message received wit post 

@@ -1,0 +1,4 @@
+validate postal address google locations 
+validate postal address completeness meaning grab values user select address validate house number postcode fine havent found apis serve purpose considered regex doesnt sound easy advice 
+
+generally considered difficult task imagine legitimate street addresses extremely hard identify human internationally cities vastly ways expressing addresses special environments military large business government organisations addresses number street territory href http stackoverflow questions perform address validation closed question fair discussion possibilities solution 

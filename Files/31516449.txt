@@ -1,0 +1,4 @@
+exception thread main org openqa selenium staleelementreferenceexception element found cache 
+error blockquote exception thread main org openqa selenium staleelementreferenceexception element found cache blockquote showing error hover category menu click text menu 
+
+dont mix implicitwait explicitwait thread sleep context br href http stackoverflow questions difference implicit wait explicit wait selenium webdriver learn href http docs seleniumhq org docs webdriver advanced jsp rel nofollow hoverelement wont work driver navigates page element longer exists find inside forloop sake test hardcoded submenulist code youve asked 

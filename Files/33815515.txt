@@ -1,0 +1,4 @@
+response body error retrofit observables 
+retrofit make api calls return observables works good call fine response expected lets error response throws onerror read response body error request response valid observable onerror called expected error correct response observable converts observable read response loginresponse object error response read error response display message user 
+
+check throwable instance httpexception access retrofit response href https github square retrofit blob master samples src main retrofit deserializeerrorbody converter deserialize 

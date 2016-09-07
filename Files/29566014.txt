@@ -1,0 +1,4 @@
+jboss oracle jdbc connection failed 
+jboss eap oracle 11g express oracle datasource standalone oracle database running connect sqlplus datasource shows jboss admin panel run test connection responds jboss console found solutions error found internet didnt wrong 
+
+error suggests locale issue starting jboss locale href http docs oracle cd e17781 install e18802 toc htm xeinl138 rel nofollow supported oracle xe converted nls adding jboss startup configuration variable 

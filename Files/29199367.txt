@@ -1,0 +1,4 @@
+supportmapfragment nullpointerexception 
+supportmapfragment error error appears implemented onmapreadycallback dont catch null reference oncreate function stack track fragment maps xml 
+
+strong problem strong line code correct remove method youre inflate map fragment map fragment strong problem strong rid abomination access fragment manager fragment calling depending instances support fragment manager youre working support fragment dont find map fragment youre strong problem strong respect lifecycle logic call beginning overridden method end overridden method fragments ancestors initialize clean 

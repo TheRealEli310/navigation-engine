@@ -1,0 +1,4 @@
+stop threads custom thread pool shutting 
+library thread pool implementations shutting pool means stop accepting tasks previously submitted tasks executed strong pool threads terminated strong point stop pool thread potentially task em em stopped threads pseudo code method stop thread pool class method stop strong point thread reaches line isstopped false moment set true pool class remember stop thread calling interrupt suffice strong 
+
+send shutdown messages task queue number shutdown messages queue equal number threads work completed threads shutdown message shut dont care thread shutdown message 

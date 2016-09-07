@@ -1,0 +1,4 @@
+soap client https ssl 
+call web service https administrator send wsdl file certificates server installed certificate myserver der wsimport generated stubs calling web service trough client questions dont files p7b pem handshake works error 
+
+link understand difference certificate formats href https myonlineusb wordpress differences pem der p7bpkcs7 pfxpkcs12 certificates rel nofollow certificate formats link href https db blog web cern ch blog luis rodriguez fernandez soap client certificate authentication rel nofollow soap client certificate authentication create keystore strong strong myalias key generated verify keystore certificates debug ssl handshake process view certificates set vm parameter ps link resolve proxy authentication required error href http blog vinodsingh proxy authentication html rel nofollow proxy authentication 

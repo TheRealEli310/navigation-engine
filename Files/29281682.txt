@@ -1,0 +1,4 @@
+log4j properties classpath loaded 
+maven jar plugin build project check classpath properties files directory successfully program run error quick fix external config file ideas 
+
+appender id configured hadnt added 

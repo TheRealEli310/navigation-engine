@@ -1,0 +1,4 @@
+deserialize json map string object member variable jackson 
+json map object object code error examples found online deserializing json simple pojo handful member variables properly map json field behave correctly id imagine works return return jackson appreciated 
+
+addressing problem de serialize json class doesnt fields present json string failing find fields returning exception alternatively box setter set json map add fields box pojo href https sites google site gson gson user guide rel nofollow gson make easier json object object json gson populate fields box match key pairs found json string ignore dont alternative 

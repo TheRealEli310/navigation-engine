@@ -1,0 +1,4 @@
+evaluate postfix expression 
+write program converts infix postfix evaluates postfix expression conversion part bit confused evaluating part method evaluates expression takes linked list representation postfix expression making bit confusing header method iterate linked list evaluate advance 
+
+iterate linked list evaluate classic evaluating postfix expression em stack em algorithm ul li element list check type li li element represents number push stack li li element operation pop elements stack depending kind operation perform operation push result back stack li li loop single element stack result li ul time operation find arguments stack expression evaluated invalid situation stack element completion loop 

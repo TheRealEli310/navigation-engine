@@ -1,0 +1,4 @@
+compare date time agent lotus domino designer xpages 
+writing agent domino designer task compare current datetime list date times document retrieve current date date times documents code current date time code date time list documents view console dates properly console output compare current date retrieved date equal 
+
+datetime class setanytime method ignore time portion timedifferencedouble datetime method compare datetimes alternatively datetime tojavadate method convert util date comparison methods openntf domino api extends datetime class include equals equalsignoretime completeness equalsignoredate methods 

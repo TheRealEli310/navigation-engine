@@ -1,0 +1,3 @@
+compare records tables hql 
+tables named reservation vehicle ol li vehicle table vehicle id primary key li li reservation table vehicle id column foreign key referencing vehicle id vehicle table foreign key reference database li ol retrieve vehicle details vehicles vehicle id present reservation table hql written query achieve running code error heres pojo classes driver reservation 
+

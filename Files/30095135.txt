@@ -1,0 +1,4 @@
+writing excel file hash map 
+ul li exact values hash map apache poi row cell set values properly expected result li ul result hash map expecting img src http stack imgur jzrym png alt enter image description http stack imgur ntnmx png result based code img src http stack imgur rqlok png alt enter image description code wrong 
+
+late reply code created working program initialize excel file writesheet xlsx rows row cells created list strings method write content list writesheet xlsx 

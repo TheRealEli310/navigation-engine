@@ -1,0 +1,4 @@
+time field play framework 
+create simple time field play framework application prepared class obtain departure arrival times template matter type pass validation information form errors correct format time play time helper forcing correct formatting 
+
+expecting representation add marshalling custom representaiton long conversion yyyy mm dd hh mm ss custom databinder months ago opened href https github playframework playframework issues issuecomment rel nofollow ticket similar issue github end posted binding pointed support specific date format href https docs oracle javase docs api text simpledateformat html rel nofollow simpledateformat annotation case time hh mm ss 

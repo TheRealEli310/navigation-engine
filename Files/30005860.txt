@@ -1,0 +1,4 @@
+fix android notification issue 
+service write notification status bar event occurs call code made mistake exception fix 
+
+found calling notification setlatesteventinfo crash uncommenting 

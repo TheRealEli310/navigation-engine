@@ -1,0 +1,4 @@
+ignore unwanted columns csv flatfileitemreader spring batch 
+run issue csv file columns selected columns mapped objects csv header column data position fixed column rest csv a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a1 till a3 columns mapped pojo isnt working spring batch map column values pojo havent explored features spring batch achieved easily appreciated 
+
+href http docs spring io spring batch apidocs org springframework batch item file transform delimitedlinetokenizer html setincludedfields int rel nofollow call solve problem blockquote fields include output position starting default fields included property set pick fields larger set field names provided number match number included fields blockquote 

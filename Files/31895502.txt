@@ -1,0 +1,4 @@
+hsqldb jdbc execute sql statements batch 
+initialize database application reasons code maintainability maintain sql code separately code separate source file lines file read sql code file store string fails exception jdbc doesnt multiple sql statements single result jdbc provide pass entire sql script 
+
+jdbc standard sql standard matter assumes single statement execute drivers option execution multiple statements execute technically option violates jdbc standard jdbc supports multi statement script execution separate statements execute individually find party tool mybatis flyway liquibase 

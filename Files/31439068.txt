@@ -1,0 +1,4 @@
+jackson json serialize streams 
+make jackson serialize stream object close strong em update em strong clarification stream content serialize single string object 
+
+implement custom 

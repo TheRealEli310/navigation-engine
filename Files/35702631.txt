@@ -1,0 +1,4 @@
+hashcode arraylist change everytime add element 
+understanding default capacity grows create object capacity curiosity typed program check object scenario setting initial capacity default adding 11th element create object increase capacity print hashcode object giving time concept default capacity till 10th element printed object created point case 
+
+function elements stored doesnt change capacity add remove element mutate elements hashcode heres implementation implemented btw exact code appears javadoc interface blockquote strong int util list hashcode strong returns hash code list hash code list defined result calculation blockquote 

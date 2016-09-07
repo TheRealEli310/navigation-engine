@@ -1,0 +1,4 @@
+okhttp gziprequestinterceptor bad request jetty server 
+android app client strong update strong server running tested server app compressed request delivered successfully api command converted automatically json strong works uncompressed strong 92k json body compressed instructions href https github square okhttp wiki interceptors rewriting requests rel nofollow created gziprequestinterceptor fixed content length adding buffer instructed href https github square okhttp issues rel nofollow installed restadapter reason throws bad request error heres interceptor whats wrong strong update server configuration strong relevant enables compression responses heres web xml gzipfilter enabled jetty gzip xml 
+
+webserver doesnt support compressed requests 

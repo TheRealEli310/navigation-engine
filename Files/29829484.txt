@@ -1,0 +1,4 @@
+reactfx create stream ctrl key combination event 
+reactfx capture ctrl keys pressed typical copy operation capture effectively stream compiling 
+
+works 

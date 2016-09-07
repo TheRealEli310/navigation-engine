@@ -1,0 +1,4 @@
+weblogic jms url connect camel 
+weblogic server spring release camel configuration message deployment connect jms server 
+
+spring boot configuring jms receive message 

@@ -1,0 +1,4 @@
+lang outofmemoryerror heap space space 
+clue error find save memory make efficient appreciated review code silly advance main class docxcompair class error message 
+
+building giant giant string check code lets reading bytes time heres code time read chunk 200k double size result add 200k means strong em 2mb file reads 200k result 204mb em strong reason stringbuffer append read 

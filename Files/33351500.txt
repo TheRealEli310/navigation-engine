@@ -1,0 +1,4 @@
+mockito jmockit hamcrest matchers verify lists collections 
+href http stackoverflow post asked hamcrest matchers verify lists collections invocations mockito accepted solution cast matcher collection similar running class cast error misusing hamcrest matchers usage simply isnt supported mockito case list matchers argument cast error unsupported 
+
+jeff bowman pointed problem compiler doesnt methods call list constructing type method call expects type parameter list type doesnt match expected compiler thinks call solution give compiler create edit adding jeff bowmans inline solution comment enables stated question 

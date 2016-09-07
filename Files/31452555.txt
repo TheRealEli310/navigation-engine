@@ -1,0 +1,4 @@
+deep cloning collections 
+recently faced question interview write function return deep clone instance class drawing shape abstract class concrete implementations approach add clone method concrete implementations 
+
+serialize deserialize return instance deserialized assuming constructor drawing takes parameter strong edit strong wont add shape class override method implement interface question create clones interface 

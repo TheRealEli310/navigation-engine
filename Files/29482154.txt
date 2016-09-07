@@ -1,0 +1,4 @@
+finding node binary search tree 
+write method returns depth target int binary search tree works smaller trees wrong 
+
+things wrong case case biggest issue youre keeping global static count recursively left paths bst left pass count parameter keeping global fix code ill post working reference 

@@ -1,0 +1,4 @@
+singleton javax ejb singleton clustered environment 
+maintain simple counter unique application users nodes clustered environment thought singleton session bean annotation javax ejb singleton simple find answer works desired clustered environment node cluster instance persist bean database counter overkill counter reset application crash restart persisting create problems solves 
+
+blockquote node cluster instance blockquote cluster node singleton instance singleton annotation solution problem mind ee specification doesnt define kind cluster behavior search specific vendor solution achieve kind requirement href https access redhat documentation en jboss enterprise application platform html development guide implement ha singleton html rel nofollow link 

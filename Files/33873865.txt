@@ -1,0 +1,4 @@
+jbas011843 failed instantiate initialcontextfactory ibm websphere naming wsninitialcontextfactory 
+migrating application websphere jboss eap made datasources jboss console code referring href http stack imgur bsx40 png rel nofollow img src http stack imgur bsx40 png alt code hitting application jboss giving error blockquote fatal http dbconn dbaccess getdatasource critical error jdbc naming service exception jbas011843 failed instantiate initialcontextfactory ibm websphere naming wsninitialcontextfactory classloader moduleclassloader module deployment upmssso ear upmssso war main service module loader blockquote hint error jboss 
+
+migrating jboss websphere strong ibm websphere naming wasinitialcontextfactory strong class specific class error change strong org jboss naming remote client initialcontextfactory strong resolve issue strong update strong initialcontext argument jndi pre configured properties app server remote objects server 

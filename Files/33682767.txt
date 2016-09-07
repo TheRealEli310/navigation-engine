@@ -1,0 +1,4 @@
+fix infinite loop ap computer science 
+taking ap computer science curious solve albeit basic issue aware loops continue respective curly brackets condition parenthesis continues met setting condition resulted infinite loop correct due fact user inputs digit greater condition met continue infinitely setting condition boolean nested inside prior condition user enters program ends write code system continue printing enter integer condition inputting greater opposite continues met 
+
+basic poor design issue variable scope wider needed lives past line correct approach loop logic determines integerness input doesnt leave variables scope loop ends captured input separate concerns capturing input checking create method digit write simple loop reading good input putting final message approach makes code easier read understand br notice repeated code line digit reading input 

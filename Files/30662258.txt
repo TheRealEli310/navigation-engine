@@ -1,0 +1,4 @@
+refactor foreach loop 
+foreach loop simplified version automated refactor traditional loop manually bit typing needed statement introducing variable assign total manual edit error prone fix bug fix start index index end index end fix input wait library update recognized bug clicked keyword clicked refactor context menu entries work theoretically work similar functionality exists resharper visual studio fyi eclipse luna sr 
+
+mouseover statement click quick fix kbd ctrl kbd kbd kbd convert indexed loop work 

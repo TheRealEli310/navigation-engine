@@ -1,0 +1,4 @@
+determine application refuses terminate cleanly 
+discovered circumstances jvm terminate close javafx desktop application window forced kill process intellij idea tools procedures determine holding application running threads debug view didnt threads running 
+
+jvm terminate user threads left running em daemon em threads thread dump threads daemon threads running threads prevent jvm terminating judging names spawned thread pool code waiting idle threads pool couple options ensure threads prevent jvm terminating ol li calling thread pool interface li li creating thread pool thread factory sets threads em daemon em threads li li configuring thread pool threads time destroyed automatically li ol 

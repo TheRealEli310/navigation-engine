@@ -1,0 +1,4 @@
+difference fully qualified import 
+differences inline import fully qualified normal import terms performance memory compile time 
+
+main thing focus readability find readable rare cases prefer approach lets scenario reason wrote class named typed ide auto imported dont kind object em em class importing correct class prefer inline import users wont confused javas class performance theyre em em heres proof bytecode generated snippet bytecode 

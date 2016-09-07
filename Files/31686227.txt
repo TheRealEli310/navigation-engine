@@ -1,0 +1,4 @@
+gcm register blocking asynctask timeout occurs 
+device registration id gcm code contained asynctask called main thread main code gcm class log dump reason calling gcm register blocking timeout exception hit idea happening 
+
+reason youre executing gcm call blocks thread seconds due reasons unstable network connection registration process seconds approach href https github google gcm rel nofollow official gcm demo incorporate work 

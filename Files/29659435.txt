@@ -1,0 +1,4 @@
+binding javafx htmleditor 
+project bidirectionally bind property object text area html markup good choice havent found bind property object achieved 
+
+doesnt extend href https docs oracle javase javafx api javafx scene control textinputcontrol html rel nofollow doesnt inherit href https docs oracle javase javafx api javafx scene control textinputcontrol html textproperty rel nofollow href https docs oracle javase javafx api javafx scene web htmleditor html sethtmltext lang string rel nofollow href https docs oracle javase javafx api javafx scene web htmleditor html gethtmltext rel nofollow public apis setting content control public property present binding text 

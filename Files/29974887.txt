@@ -1,0 +1,4 @@
+jersey containerrequestfilter context servletrequest 
+full code issue github href https github mobiusinversion web application https github mobiusinversion web application created jersey jira href https net jira browse jersey https net jira browse jersey working jersey embedded jetty app shaded single jar jetty starter main class filter included provider filter produces wrong fix update including pom entried jetty jersey 
+
+mistake strong manually created strong instance inside dependency injection works instances created managed container explains injection didnt work manually created instance solution move injection point pass constructor tested kudos git project worked youre passing actual instance container managed proxy delegates actual instance method call worry integrity threadsafety 

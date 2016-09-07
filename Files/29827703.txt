@@ -1,0 +1,4 @@
+akka communicating back actor system 
+driver main class encapsulating akka program actor problem hand safely properly pass message strong lives em em actor system strong em em provide reference feeling violates akkas practices sort concurrency based problems actor driver ten thousand actors ideas 
+
+blockquote fizzbuzz actor driver ten thousand chickencluckdetector actors blockquote create common parent chickencluckdetectors parent safely hold reference fizzbuzz receive clucks children call oncluck method option messages actors scala actor dsl added completeness 

@@ -1,0 +1,4 @@
+clear user data android programmatically 
+android href http www javaexperience clear user data android rel nofollow tutorial explain clear app data android clear data error null object reference main cleardataapplication logcat 
+
+npe returning null cleardataapplication extends application means intended representation application lifetime running process dont getinstance method runtime guarantees instance activity call cast cleardataapplicatiom order work make change manifest file cleardataapplication representation application reference href http developer android guide topics manifest application element html nm rel nofollow http developer android guide topics manifest application element html nm 

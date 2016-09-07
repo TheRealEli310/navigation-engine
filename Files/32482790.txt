@@ -1,0 +1,4 @@
+dynamic creation spring batch jobs xml 
+setup spring batch xml jobs lot job beans defined xml spring batch runs night app make edit jobs properties idea injected properties database hardcoding xml youve idea solve problem implement kind factory methode spring batch offer possibilites googled lot didnt find satisfying solution advance 
+
+builders provided springbatch order create job dynamically steps reader writer dont spring beans autowiring case forces 

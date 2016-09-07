@@ -1,0 +1,4 @@
+localdatetime remove milliseconds 
+working application integrated database multiple database oracle mysql postgres db string created date date format db fetch db set localdatetime object issue dont show send millisecond response show send date formatter fails giving string dont change localdatetime object string major change application find solution solution 
+
+simply set sample proof output 

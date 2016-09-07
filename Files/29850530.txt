@@ -1,0 +1,4 @@
+explanation time windowed variables arrival time 
+understand variant time windowed optaplanner vehicle routing points dont understand confirmed ol li unit measurement readytime duetime serviceduration arrivaltime sample data figured li li calculated arrival time related time required travel location location find calculate time li ol comments answers appreciated 
+
+ol li time unit relative integer real timestamp information absolute date advantage approach dont year month day unit system li li class method called calculation takes current customer previous departure time checks previous departue time start customer chain vehicle existing customer case vehicle check current customer aka job vehicle maximum distance depot current customer greater set updated case customer previous customer add distance previous customer return updated li ol cases check complete chain arrivaltime equal updated order prevent duplicated calculation saves performance break condition 

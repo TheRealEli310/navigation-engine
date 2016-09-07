@@ -1,0 +1,4 @@
+persistence xml overridden arquillian tests 
+arquillian examples show construct wararchive javaarchive find good override jar files exists compile war file reason jars persistence xml override defined instance hbm2ddl auto proper 
+
+problem experience arquillian create custom war jar test method creates deployment pre class lang prettyprint override test resources directory 

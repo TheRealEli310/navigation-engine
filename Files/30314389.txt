@@ -1,0 +1,4 @@
+spring amqp read messages queue 
+queue messages spring amqp messages stored queue question listen queue 
+
+dont sense solution strong listen strong queue messages strong browse strong requeue good choice wrap invocation tx returns messages end 

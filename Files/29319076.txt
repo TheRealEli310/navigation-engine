@@ -1,0 +1,4 @@
+guide restlet swagger extension gae 
+similar approach access restlet throws error messing idea apirouter fully working state acess resource missing code specific notes consideration restlet swagger extension gae 
+
+tested usecase make work swagger extension maven configuration ae dev server notice exclude raml parser code restlet application provide test project github repository hope helps 

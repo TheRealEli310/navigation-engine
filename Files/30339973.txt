@@ -1,0 +1,4 @@
+maven web project start 
+converting eclipse web project maven web project resolve dependensies blockquote description resource path location type missing artifact org infinispan infinispan core jar final pom xml visual expressions line maven dependency problem description resource path location type missing artifact xalan xalan jar jbossorg pom xml visual expressions line maven dependency problem blockquote put pom xml eclipse shows errors project failed start problem 
+
+turns pom adding bunch stuff thought needed actuality didnt rid added project wast maven based added server runtime libraries cool 

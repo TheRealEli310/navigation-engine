@@ -1,0 +1,4 @@
+reuse cipher prevent init 
+improve crypto performance stream encrypted video encrypt frame nalu precise send network eventr stream pal video android aes key iv frame session secure implemented late change frame call parameters key iv call prevent reuse initialized object algorithm video streams aes spongycastle faster rewrite ndk openssl 
+
+calling calling repeatedly improved througput 

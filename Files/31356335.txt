@@ -1,0 +1,4 @@
+webapplicationinitializer container addfilter returns null 
+creating based web application front end based backend code based configuration approach found href http docs spring io spring docs javadoc api org springframework web webapplicationinitializer html rel nofollow webapplicationinitializer run project server null line missing bit creating web apps scratch annotations class question line give null result 
+
+method returns means href http docs oracle javaee api javax servlet servletcontext html addfilter lang string 20javax servlet filter rel nofollow filter registered blockquote strong returns strong br object configure filter complete filter filter instance registered container blockquote make dont registers filter tip implementing extend href http docs spring io spring docs current javadoc api org springframework web servlet support abstractdispatcherservletinitializer html rel nofollow implement needed methods 

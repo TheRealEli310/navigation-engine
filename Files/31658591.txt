@@ -1,0 +1,4 @@
+require entered password capital letter number 
+working registration application code small part bunch requirements validate password username similar work strings uppercasechars lowercasechars numbers make password uppercase letter lowercase letter number calls inserttodatabase searched internet find add similar fashion requirements statement 
+
+checking presence uppercase letter easier youd convert entire string lowercase matches original string perform opposite check lower case letter criteria ensure password number click href https regex101 ka6fa9 rel nofollow regex works hr conditions combined 

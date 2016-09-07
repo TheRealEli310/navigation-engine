@@ -1,0 +1,4 @@
+thread concurrent multiple instances 
+appears method return instance documented problematic write sort multi threaded crawler exists browser times create tab browser navigate page time queued list resort copy paste rewrite entire browserfactory class instance navigate multiple pages parse content concurrently complete miss stands library suitable test purposes threaded context neccessity production system ofcourse copy paste code 
+
+href https github ui4j ui4j blob master ui4j api src main ui4j api browser browserfactory rel nofollow browserfactory creates singleton instance href https github ui4j ui4j blob master ui4j api src main ui4j api browser browserengine rel nofollow browserengine browserengine create page tab crawl site review href https github ui4j ui4j blob master ui4j sample src main ui4j sample bingsearch rel nofollow create thread pool pool size means browser run pages 

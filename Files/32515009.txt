@@ -1,0 +1,4 @@
+android navigation drawer icons 
+template href http www androidhive info android started material design rel nofollow androidhive material design decide add icon navigation drawer row modified model navdraweritem getter setter icon added adapter navigationdraweradapter modified adding icon support drawer added oncreate method fragmentdrawer array string xml navigation drawer item populated resource piece code fragmentdrawer strong problem populating icon resource strong code system println icons give set imageresource navigation drawer icon appreciated 
+
+problem line read resources ids array code action href http android developers blogspot android design support library html rel nofollow navigationview 

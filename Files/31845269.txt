@@ -1,0 +1,4 @@
+spring integration check directory files polling 
+spring integration int file inbound channel adapter means simply check directory file preferably pattern match polling file exists fetch process doesnt simply quit routers conditional redirects thing achieve control flow based simple file check polling directory file watcher service activator strong edit strong guide properly wired ta 
+
+wire bean call method files remaining return null 

@@ -1,0 +1,4 @@
+apache cxf client proxy settings 
+develop consumer soap service tutorial href http cxf apache org docs developing consumer html rel nofollow http cxf apache org docs developing consumer html section setting connection properties contexts code set proxy server settings requestcontext properties code running proxy outgoings soap calls proxy server settings 
+
+proxy setting set httpconduit object 

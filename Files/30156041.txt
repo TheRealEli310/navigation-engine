@@ -1,0 +1,4 @@
+close serial port issue 
+code code works fine fetching data serial port problem quesion stop running code suppose run serialport close serialport removeeventlistener message stopping shows console start code logically expect port closed restart code restarting hardware device idea missing wrong info windows 64bit communication based bluetooth emulated serial port com5 code originally href http playground arduino cc interfacing rel nofollow http playground arduino cc interfacing modify 
+
+found solution closing serial port rxtx package windows environment moved jssc package works full solution including closing port event listener found href http stackoverflow questions serialport close blocks jssc solution 

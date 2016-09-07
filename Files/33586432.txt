@@ -1,0 +1,4 @@
+compare strings return true string characters 
+practicing lintcode solve question compare strings determine characters characters string upper case letters wrote code checks character eliminates found characters fails test input abcd acc output true giving false dont understand problem code 
+
+rid character time wont time encounter character assign result back wont change finally string length string length complete version works 

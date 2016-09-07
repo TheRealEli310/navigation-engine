@@ -1,0 +1,4 @@
+write registration login system sqlite android studio 
+written simple sqlite amp system problem ran system pop toast ac exist press loginbtn code loginactivity usersdatabase databasehandler 
+
+solve problem change users dbhandler getallusers 

@@ -1,0 +1,4 @@
+recursively building json string jstree jackson 
+ve build json string jackson library project format accepted jstree href https www jstree docs json rel nofollow https www jstree docs json care text children properties problem working recursive method simple tree expect string build json string tree model jackson code variations success answer simpler stuck stop condition logic thought reuse objectnode arraynode objects call insert children element json child node tree built backwards end null variables tree node classes based href http sujitpal blogspot br data structure generic tree html rel nofollow http sujitpal blogspot br data structure generic tree html 
+
+approach job 

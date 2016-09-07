@@ -1,0 +1,4 @@
+live mapping javafx observablelist reactfx livelist 
+wrote javafx utility method creates live mapping updating mapping time source list discovered href http reactfx org rel nofollow reactfx equivalent href http www reactfx org javadoc m4 org reactfx collection livelist html map util function function rel nofollow wanting reinvent wheel map function returns list observables automatically watches observables basically href http www reactfx org javadoc m4 org reactfx val html flatmap javafx beans observablevalue util function function rel nofollow entire list instance list grow shrink buttons added removed updated buttons widths change function exist javafx reactfx similar 
+
+aware existing implementation observable lists planned reactfx signature general propose maps element em list em single 

@@ -1,0 +1,4 @@
+maven shade executable uber jar noclassdeffounderror 
+creating executable uber jar maven shade plugin dependency classes local system jar mobile dock support jar include package phase shade plugin configured package jar fine run jar setup exec maven plugin running runs program expected heres exec maven plugin setup 
+
+appears issue shade plugin doesnt copy system dependencies uber jar couple correct ways fixing ol li install dependency local maven repository li li repository manager nexus li ol youre didnt option collaborative project option nexus working maven dependency plugin copy system dependencies relative packaged jar add copied jars part class path uber jars manifest file 

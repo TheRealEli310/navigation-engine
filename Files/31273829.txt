@@ -1,0 +1,4 @@
+javafx build exe maven inno 
+successfully find working solution configure maven build exe javafx maven projects set fx clipse build fxbuild work great prefer maven project dependent modules basic ant builds comments zenjava appears plug lost traction pretty dead bundle exe maven project enterprise project projects lots dependencies hoping simple effective manage 
+
+plugin dead official website due costs produced git repository details href https github javafx maven plugin javafx maven plugin rel nofollow https github javafx maven plugin javafx maven plugin sample configurations testing folder href https github javafx maven plugin javafx maven plugin tree master src rel nofollow https github javafx maven plugin javafx maven plugin tree master src build exe installer specific bundler version plugin put build plugins disclaimer maintainer plugin 

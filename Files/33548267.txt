@@ -1,0 +1,4 @@
+jpa avoid loading object simply store id database 
+em question simple read code em simple performance question code set object cats method requires object load object call setter simply pull save record essentially loading owner correct pattern 
+
+pay attention method load owner entity youre hibernate youre lazy load owner entity avoid hits cache database suggest inverse relation 

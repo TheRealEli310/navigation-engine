@@ -1,0 +1,4 @@
+connection oracle ucp connection pool manager 
+advice practice connections oracle ucp connection pool manager documentation youre supposed refs pooldatasource objects connections manager connections code examples pooldatasource objects connections people manager adminstrative things pools sql connection objects directly manager getphysicalconnection worried getphysicalconnection pool closing connection obtained getphysicalconnection back pool connections manager 
+
+answering question debugging shouldnt getphysicalconnection pool close doesnt return pool close connection pooldatasource back pool physical connection instance tc4connection connection pooldatasource proxy pooling fields reference t4cconnection guess saving pooldatasource objects connections oracle docs cover topic manager chapter 

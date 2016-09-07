@@ -1,0 +1,4 @@
+touch date picker appears 
+implement date picker application stuck problem clicking text field calendar date picker appearing solve issue code 
+
+put edittext xml trade setontouchlistener setonclicklistener 

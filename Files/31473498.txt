@@ -1,0 +1,4 @@
+adding overlay image imageview 
+picasso library load images url imageview set background image imageview source image picasso 
+
+callback takes int parameter bitmap return picasso 

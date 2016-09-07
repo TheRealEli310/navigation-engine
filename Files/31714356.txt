@@ -1,0 +1,4 @@
+generate 3x3 magic square 
+3x3 magic square working filled numbers values row column diagonal add follow pseudocode working row realizes adding top left spot top middle spot make row making mistake fill logic missing 
+
+issues ul li return square valid li li methods logic bit complicated simplifying li li statements massive impact execution time algorithm commented li ul improving moment doesnt stop finding solution prints solutions closer final polished algorithm 

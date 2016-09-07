@@ -1,0 +1,4 @@
+findbugs generate report formats 
+findbugs order generate reports project command works fine html report generated command output redirected txt file generate html txt report running command action time comsumming don analyze code obtaining report format searched findbugs site result don parse html report source order build txt report reports single run 
+
+create xml xml information translated trivial command lines assuming analysisresult xml produce txt report produce html report 

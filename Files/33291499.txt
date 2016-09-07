@@ -1,0 +1,4 @@
+jenkins shows error successful project build creating 
+jenkins shows error build successfull integrated sonarqube code analysis searched lot found solution waiting 
+
+heres key bit blockquote run program svn blockquote analysis query scm apparently subversion commit data files finding path run causing analysis fail options make preferable configure project server side skip part analysis project hasnt created youll href http docs sonarqube org display sonar provisioning projects rel nofollow provision project level administration menu strong administration general settings scm strong set strong disable scm sensor strong 

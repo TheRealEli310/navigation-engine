@@ -1,0 +1,4 @@
+jcenter return code reasonphrase unauthorized 
+deploying linked artifact jcenter error causing fix 
+
+solution artifacts pom xml settings xml 

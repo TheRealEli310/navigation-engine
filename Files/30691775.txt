@@ -1,0 +1,4 @@
+estimatesize sequential spliterator 
+implementing explicitly restricts parallelization return implementing offer performance improvements stream produced spliterator estimated size parallelization strong edit strong clarify specifically em estimated em size words spliterator characteristic 
+
+call hierarchy relevant spliterator characteristic reveals relevant performance img src http stack imgur mchtq png alt enter image description additionally equivalent flag internal stream implementation sorting img src http stack imgur uw6wk png alt enter image description parallel stream operations size estimate operations dont claim exhaustiveness search examples hr sized characteristic find calls relevant parallel execution stream pipeline change future stream implementation standard jdk act differently 

@@ -1,0 +1,4 @@
+spring boot security throw unauthorized exception found 
+authentication based href https github futureprocessing spring boot security blob master src main futureprocessing spring infrastructure security authenticationfilter spring boot security enter invalid token throw unauthorized exception resource found configuration sets exception handling authenticationfilter added request reach exception handler change throw exceptions authentication filter authenticationprovider implementation configuration 
+
+found answer thread href http stackoverflow return http error code amp skip filter chains call chain stop dont continue calling setting status code exception thrown correctly 

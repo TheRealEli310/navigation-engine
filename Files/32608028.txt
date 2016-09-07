@@ -1,0 +1,4 @@
+azure active directory oauth2 authentication service spring boot rest service 
+implement spring boot based rest service azure ad oauth2 server client authentication registered applicatons ol li mobile native app client service li li rest service backend li ol requests backend app authenticated azure ad oauth2 flow implementation mobile app curl obtaining bearer token href https login microsoftonline tenant id oauth2 token rel nofollow https login microsoftonline tenant id oauth2 token user password credetials azure ad user resource id sid rest service client id sid mobile client rest serice azure successfully returns json token data oauth2 config backend app rest controller didnt find endpoint list url rest service checking bearer token obtaining user data azure ad understand present kind credentials rest service azure ad find required values wrong 
+
+finally answer azure ad jwt tokens authorization implement work type tokens checking token server 

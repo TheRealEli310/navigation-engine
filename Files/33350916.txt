@@ -1,0 +1,4 @@
+curl token request equivalent jersey 
+question asked million times figure whats wrong token request command curl blockquote curl post authorization basic xxxxxxxxxxxxxxxxxxxxxx content type application www form urlencoded charset utf grant type password amp username xxxxx amp password xxxxx href https localhost sso token rel nofollow https localhost sso token blockquote converted jersey answer blockquote lang runtimeexception failed http error code javacodegeeks enterprise rest jersey jerseyclient jerseyclientaccesstoken main jerseyclientaccesstoken blockquote wrong 
+
+change error unsupported media type 

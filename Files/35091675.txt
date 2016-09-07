@@ -1,0 +1,4 @@
+configuring ssl jetty 
+spent part day unable jetty configured serve https correctly development purposes generated keystore file attempting jetty generating certificate jetty instructions href https www eclipse org jetty documentation current configuring ssl html rel nofollow https www eclipse org jetty documentation current configuring ssl html output based mjlans answer fixed issue exception related mismatched cipher suites unable find documentation set keystore location configuration file exception fixed truststorepath fix remove keystore specification build fine error message browser href http stack imgur t6pex png rel nofollow img src http stack imgur t6pex png alt https error firefox relevant section 
+
+href http download eclipse org jetty v20151106 apidocs org eclipse jetty util ssl sslcontextfactory html rel nofollow documentation incorrect property file accepts object string change properties respective xxpath properties 

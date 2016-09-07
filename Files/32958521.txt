@@ -1,0 +1,4 @@
+gson jackson annotations coexist pojo 
+working legacy android project version jackson lib parse jsons brought web api working feature project retrofit gson lib json parser libs provide flexibility cleaner code compared previous lib choices problem legacy pojos jackson annotations putting gson jackson annotations class generate conflicts forced create mirror classes gson annotations order avoid potential issues 
+
+annotations metadata dont behavior behavior component processes annotation jacksons internals reads type provide introspects find strong meaningful strong annotations serialize deserialize isnt meaningful jackson ignores similarly isnt meaningful gson ignores wont issues write type adapters reason librarys annotations 

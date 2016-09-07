@@ -1,0 +1,4 @@
+threaded quicksort 
+threads attempt doesnt stop normal verion works remove awaittermination works method finish sorted pun intended xd wrong 
+
+waiting termination entire executor service isnt save returned wait theyre calling tempting method lead deadlock exhaustion thread pool parent tasks hog worker threads waiting child tasks complete child tasks scheduled run worker threads collect objects concurrent collection return result wait finish designed kind task donkey work recursively submitting tasks executor application code generally good idea easy wrong hr reason code deadlocked worker thread stuck preventing termination executor service general tools designing debugging multi threaded applications ol li thread dump generate href http docs oracle javase docs technotes tools share jstack html rel nofollow visualvm tool invaluable deadlock situations accurate image whats threads li li pen piece paper drawing good fashioned swimlane chart li ol 

@@ -1,0 +1,4 @@
+jpa criteria query avoiding duplicate joins 
+make criteria query lot conditional joins clauses cases code complex produces duplicate joins instance structure tables jpa entities assuming static metamodel implementation applying criteria queries wrong code generate duplicate joins code generate sql mutiples joins table simple solution instances joins reuse multiples predicates works real complex code tables conditional joins codes turn spaghetti code avoid 
+
+suggestion avoid builder class encapsulate joins ace hole lazy loads required join instance avoid duplicate joins simplify navigation process finally call builder enjoy 

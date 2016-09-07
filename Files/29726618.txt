@@ -1,0 +1,4 @@
+register existing bean application context advantage 
+newbie spring spring documentation register existing objects created spring container application context unanswered questions ol li correct li li correct li li register bean prototype li li registering bean application context advantage li ol read links stackoverflow couldnt understand thread 
+
+ol li afaik li li create context spring configuration class create beans configuration class bean annotated methods href http docs spring io spring docs current spring framework reference htmlsingle beans rel nofollow documentation simply annotating class component letting spring find bean classpath scanning li li scope href http docs spring io spring docs current spring framework reference htmlsingle beans bean scope rel nofollow scope annotation li li advantage bean managed spring injected spring beans injected bean benefit aop order provide transactional methods li ol 

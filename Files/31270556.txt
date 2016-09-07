@@ -1,0 +1,4 @@
+jsoup elements based class 
+writing web scraper jsoup prices page search results amazon search hammer amazon page search results scraper takes prices search result shows figure printed run program html price figure item amazon ca run code returned price cdn case 
+
+code doesnt work href http jsoup org apidocs org jsoup nodes element html getelementsbyclass 28java lang string rel nofollow expects em single em class returns elements class youve supplied class names function cope finds element youre classes applied classes match elements classes building css selector simple selector amazon free change css styles time easily break scraper simpler scraper resilient breakage prices semantics rendered style select elements literal text cdn 

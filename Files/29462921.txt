@@ -1,0 +1,4 @@
+reading text file attempting printwriter write results blank file 
+assignment blockquote write program reads attached text file writes separate text file initial filename text file lines text input file addition line number appended character line input line reads test output read ol li test li ol blockquote written functional code running compiles creates file written file blank bytes reading problem making printwriter input output streams closed flushed point wrong loop calling close methods wrong place appreciated code disclaimer total newb 
+
+semicolon loop makes infinite loop represents empty instruction entering block code means writing result file dont close empty file created remove semicolon hr btw easily spot kind mistakes ide format code eclipse formatted shows good loop executes empty statement code block 

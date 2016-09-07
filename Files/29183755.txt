@@ -1,0 +1,4 @@
+calculating cosine similarity 
+apply class measuring cosine similarity documents length code class responsible calculate code construct instance class make assign document hasmaps apply calculation identical result slight differences matter result missing original code href https github xiejuncs cross document coreference resolution blob master util cosinesimilarity rel nofollow 
+
+book single feature comparison split compared strings whitespace separator populate hashmaps words extracted book title test algorithm works correctly href https stackoverflow questions split string whitespace chars delimiters split string whitespace chars delimiters href https en wikipedia org wiki cosine similarity rel nofollow cosine similiarity wikipedia 

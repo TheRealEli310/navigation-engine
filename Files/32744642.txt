@@ -1,0 +1,4 @@
+exception thread main org jasypt exceptions encryptionoperationnotpossibleexception 
+struggling solve error standards jasypt kindly href http www jasypt org rel nofollow http www jasypt org demo code 
+
+decrypt method set algorithm 

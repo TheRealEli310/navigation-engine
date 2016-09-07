@@ -1,0 +1,4 @@
+instantiate hashmap 
+expert generics attempted create class persist type object path approach works fine class implement interface constructor parameter achieve problem pass object instantiation guess design flaw implementation misunderstanding generics concepts comments suggestions advance 
+
+class literal pass object constructor generics arent supported class literals generics compile time feature due type erasure generic type parameters arent runtime plan object assuming object instantiate runtime type information isnt create compile unchecked cast casting class literal allowed warning youll compilation warning casting remove warning unchecked cast purposes 

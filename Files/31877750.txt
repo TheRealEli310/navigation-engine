@@ -1,0 +1,4 @@
+shiro invalidate httpsession 
+shiro session id http session id invalidate httpsession wrong id strong code strong public void logout securityutils getsubject logout exception thrown line facescontext getcurrentinstance getexternalcontext invalidatesession strong exception strong lang illegalstateexception org apache shiro session unknownsessionexception session id invalidate httpsession set correct id 
+
+problem solved implementing httpsessionbindinglistener create mapping shiro sessions http sessions 

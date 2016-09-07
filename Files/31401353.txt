@@ -1,0 +1,4 @@
+sha512 crypt dovecot 
+dovecot server mysql database storing usernames passwords passwords database sha512 crypt scheme inserting hashed passwords database script hash passwords application found href http stackoverflow questions sha512 crypt mysql dovecot questions create resulting hash password salt reason resulting hash hashing algorithm salt password code outputs hash swapping order salt password make idea accomplish hash results password salt hash 
+
+unix href http man7 org linux man pages man3 crypt html rel nofollow crypt family functions generate hash outputs hash base64 encoded string alphabet encoding mentioned man page functions alphabet class compliant mentioned href https docs oracle javase docs api util base64 html rel nofollow javadoc page base64 class hashed values encoded differently reliable option class href https commons apache org proper commons codec rel nofollow apache commons codec prefix mandatory instruct algorithm generate expected hash 

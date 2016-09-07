@@ -1,0 +1,4 @@
+exclude storm core jar clojure project clj 
+exclude storm core jar lein uberjar project clj error output lein uberjar fix core clj file hours find comment project clj works output warning message lein aot 
+
+exclude jar file package understand lein project clj generate maven pom xml command generate pom xml case apply provided scope storm core dependency exclusions generate dependency exclusion project clj lein pom generate pom xml answer class found exception resolved 

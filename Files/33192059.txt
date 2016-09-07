@@ -1,0 +1,4 @@
+comparing element arrays 
+heres problem blockquote write method called accepts arrays integers returns true element array element index array method return false arrays length blockquote test data code printing true fix 
+
+crux scan find mismatch youre happy case main part change conditional flip condition change return youve exhausted negative conditions youre pretty good cleanup strong braces strong code fair bit easier follow wont run bugs suddenly discover add conditional block braces dont declare variables length arrays care spots reference directly method call field costs access condition redundant lengths arrays equal theyre heres simplifications basic form exist hr interested centric approach methodology streams essentially scan elements reject entire statement length arrays equal equal 

@@ -1,0 +1,4 @@
+round math round 
+easy round tenths place rounding hundredths thousands place 
+
+multiply original number power desired place round units place apply add half round method divide power resulting number back original scale hundredths ol li declare rounding hundredths place result li li multiply li li add li li cast precision li li divide li ol rounding hundredths place cast divided thousandths procedure replaced method subject floating point errors due finite precision floating point type convert href http docs oracle javase docs api math bigdecimal html round math mathcontext rel nofollow method takes href http docs oracle javase docs api math mathcontext html rel nofollow directly round desired precision 

@@ -1,0 +1,4 @@
+hadoop mapreduce multiple keys values 
+implementing movie recommendation system website href http aimotion blogspot uk introduction recommendations html rel nofollow link input code output userid watched movies output user watched movie output skipped translate python code clue tackle problem advance 
+
+strong mapper logic strong ol li assumes input key values tab separated li li searches parses string li li emits key userid movieid movierating record emits key li ol strong reducer logic strong ol li splits blank splits strings values added arraylist li li combinations values computed li li finally combinations emitted output li ol code input output generated 

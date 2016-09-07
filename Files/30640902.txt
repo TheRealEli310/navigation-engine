@@ -1,0 +1,4 @@
+headlessexception 
+unit test gui source code eclipse execute unit test junit test succeed encountered small exception sonarqube report tests successful eclipse reported failed exception messages 
+
+installed plugin jenkins server completely solved reference href https developer cloudbees bin view dev testing gui applications rel nofollow https developer cloudbees bin view dev testing gui applications href http blog dahanne net run ui tests headless jenkins hudson continuous integration server running ubuntu rel nofollow http blog dahanne net run ui tests headless jenkins hudson continuous integration server running ubuntu 

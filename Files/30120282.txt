@@ -1,0 +1,4 @@
+log4j xml configuration write logger file console 
+xml config log4j appenders configure logger ol li messages info written stdout global log file appenders li li class oauth extra log file oauthfile li li classes filtered write messages log error level achieved li li classes filtered write messages log file solved additivity equal false flag li ol solve 2nd problem folowing configuration produces debug error messages stdout oauthfile 
+
+found solution task make stdout file appenders general logging filtering extra appender ref classes produce error log general stdout 

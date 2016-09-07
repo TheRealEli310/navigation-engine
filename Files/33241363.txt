@@ -1,0 +1,4 @@
+send list query param resteasy client 
+call service sending list query param resteasy client service client call endpoint element 
+
+problem solved code post recently works wrong code code class multivaluedmapimpl dont find difference add addall methods 

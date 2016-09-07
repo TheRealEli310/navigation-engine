@@ -1,0 +1,4 @@
+practice translate long texts spring i18n 
+spring i18n translate web page practice translate long texts properties file usermsg en properties jsp file 
+
+short texts long texts doesnt matter internationalization tricky thing translations strings lengths languages sit ui test ui language plan offer find string language break layout lot assumptions software makes dates times word orders completely languages locales great article internationalization href https www smashingmagazine commandments software localization rel nofollow lot internationalization stuff work list top things ul li dont concatenate strings li li dont hardcode date time currency values li li give strings room grow shrink li li trust browser locale underline make study li ul arent storing strings properties files 

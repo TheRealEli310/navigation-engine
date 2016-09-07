@@ -1,0 +1,4 @@
+create custom realm tomcat adding jar lib folder 
+make web app custom authentication add realm server xml requires add jar tomcat lib folder war file 
+
+deploying custom realm war tomcat custom realm implementation accessible catalina home treated container artifact application artifact options h3 option move web application server h3 strong glassfish strong strong jboss strong support custom realms deployed war h3 option dont custom realm h3 tomcat customized credential handling sufficient achieve custom realmn solution blockquote apache tomcat add pluggable password derivation support realms credentialhandler interface blockquote href http www tomcatexpert blog apache tomcat rel nofollow http www tomcatexpert blog apache tomcat href https tomcat apache org tomcat doc config credentialhandler html rel nofollow https tomcat apache org tomcat doc config credentialhandler html h3 option deal h3 solution working intended deal deployment issues directly 

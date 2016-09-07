@@ -1,0 +1,4 @@
+android app crashes found invalid root 0x2 
+interpreting stack trace writing opengl game android em em updated android nexus app bullet physics library built libgdx native code updating app started crashing intermittently top crash stack calling native bullet stepsimulation method garbage collector appears finding invalid root means stack trace thoughts greatly appreciated 
+
+eliminated crash call flow updateboard bullet stepsimulation native collisioncallback inside collisioncallback dereferencing objects causing garbage modified code longer discard objects collisioncallback crash 

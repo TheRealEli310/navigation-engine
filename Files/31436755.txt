@@ -1,0 +1,4 @@
+spring security routing custom login page error 
+implement custom login page spring security angular web app life properly redirect custom login page spring security config routing logic controller folder structure access route error configurations havent properly routes login page ideally happen resource folder accessed 
+
+make unauthenticated request server side respond url login server side framework render login html angular client side changing routes impact easiest configuration spring security render log page knowing frameworks spring mvc impossible answer server side framework render login html spring mvc href http docs spring io spring security site docs guides html5 form html rel nofollow guide mentioned comments stab dark havent provided server side technology change configuration configuration expect post login html parameters username password validate user 

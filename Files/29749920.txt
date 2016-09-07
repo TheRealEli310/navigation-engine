@@ -1,0 +1,4 @@
+jpanel check boxes set background color centre jframe 
+designing jpanel check boxes labelled red green blue add red green blue component background color jpanel centre gui initially jpanel blue jcheckbox ticked jpanel colored blue check boxes ticked color combination appears jpanel display total color combinations pictures img src http stack imgur p2ebg jpg alt output codes program issue showing color background boxed center pic img src http stack imgur eoici jpg alt output code requirement blue checkbox initially checked showing color jframe bit confused programming suggestions highly appreciated 
+
+directly change code stop color frame makes default color blue original grey default create jpanel panel inside card layout gap horizontal vertical 

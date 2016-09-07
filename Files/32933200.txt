@@ -1,0 +1,4 @@
+testdome solution works 
+scenario question frog moves forward move steps inch long jumps inches long frog cover distance combinations steps jumps write function calculates number combinations frog cover distance distance inches covered ways step step step step jump jump step solution tested values returns results 
+
+recursion nice solve problems 

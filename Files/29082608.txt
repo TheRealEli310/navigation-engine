@@ -1,0 +1,4 @@
+apache camel xmljsondataformat xml json 
+code apache camel web site line marked compile error dont understand method coming static imports looked examples postings site dont camel run stand utility class simple xml json conversions understand make snippet work failing simple xml json converter 
+
+good idea started camel walk throught started guide ul li href http camel apache org walk html http camel apache org walk html li ul reading article excellent explain camel minute read recommended ul li href http dzone articles open source integration apache http dzone articles open source integration apache li ul camel route class 

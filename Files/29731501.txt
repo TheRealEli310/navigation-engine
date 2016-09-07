@@ -1,0 +1,4 @@
+fix android view inflateexception error inflating class fragment google maps v2 fragment 
+google map v2 fragment tabs content tabhost time map appeared navigate tabs return back tab map exists error heres fragment heres layout strong edit solved strong finally found solution method ondestroyview added file mapfragment 
+
+check href http stackoverflow questions android android view inflateexception binary xml file line error inflating rq problem wrong existed strong meta data strong tag strong application strong tag strong manifest strong file upd line stacktrace blockquote duplicate id 0x7f0a0083 tag null parent id 0x0 fragment google android gms maps supportmapfragment blockquote navigate back created stored fragmentmanager mapfragment create showing 

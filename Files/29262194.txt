@@ -1,0 +1,4 @@
+disk spill mapreduce 
+pretty basic question find answer documentation understand data spilled map phase shuffle phase reduce phase mapper gb ram allocated memory mapper exceeded data spilled data spilled hdfs data spilled tmp folder disk shuffle phase data streamed node node stored hdfs temporary storage location reason questions figure clean process job 
+
+mappers intermediate files spilled files stored local filesystem worker node mapper running similarly data streamed node node stored local filesystem worker node task running local filesystem path property default tmp completion failure job temporary location local filesystem cleared automatically dont perform clean process automatically handled framework 

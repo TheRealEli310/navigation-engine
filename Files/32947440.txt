@@ -1,0 +1,4 @@
+android data binding include tag 
+main xml buttons xml myactivity button 
+
+problem included layout isnt thought data bound layout make act pass variable buttons xml main xml access buttons indirectly buttons field rc4 released longer variable simplify buttons xml main xml 

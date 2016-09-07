@@ -1,0 +1,4 @@
+error package amazonaws services dynamodbv2 exist 
+import href https github awslabs aws sdk android samples tree master dynamodbmapper userpreference cognito rel nofollow android studio error reference href http stackoverflow questions aws dynamodb tutorial import classes aws dynamodb tutorial import classes question solve problem screen understand project structure href http stack imgur l62dr png rel nofollow img src http stack imgur l62dr png alt enter image description strong build gradel strong 
+
+href http mvnrepository artifact amazonaws aws android sdk ddb rel nofollow http mvnrepository artifact amazonaws aws android sdk ddb href http mvnrepository artifact amazonaws aws android sdk ddb mapper rel nofollow http mvnrepository artifact amazonaws aws android sdk ddb mapper confusion update readme 

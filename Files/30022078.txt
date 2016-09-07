@@ -1,0 +1,4 @@
+jersey hk2 injecting current user 
+working jersey hk2 create simple rest app containerrequestfilter rejects request doesnt currentuser cookie code elegant hk2 real hard find interface implement class extend 
+
+youre trivially handle setting inside href http stackoverflow doesnt involve direct interaction hk2 inject resource class user injecting username custom annotation create href https jersey net documentation latest ioc html d0e16655 rel nofollow defining custom injection annotation inject passed filter method filter annotation injectionresolver bind injectionresolver resource approach part filter filter dont make pre matching null property set meaning appears happening called filter making pre matching imo required personally approach full link provided approach advantage jerseys href https jersey net documentation latest security html d0e12194 rel nofollow needed 

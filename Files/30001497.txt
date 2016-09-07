@@ -1,0 +1,4 @@
+programming reading ini file rid newline characters 
+netbeans ide school project read ini file specific information reason ini4j ul li section key values li li sections key inputs read information li ul ini file means command white lines part ini file means task store oject names length meters number single string object1 length 1m number problem scanner delimiter store file single string works print string code remove newlines empty output advance 
+
+problem esacpe strings em em regular expressions escape em em means rid empty lines write end line empty line means line characters give result regex matches match line character mentioned bohemian fix ini file standards make easier insist file extension format write regular expression directly extracts values easier reading lines performance worse issue ini files tend small 

@@ -1,0 +1,4 @@
+consuming json neo4j server extension 
+building neo4j unmanaged extension figure method throwing post requests properly formatted json bodies headers class json mapped message log answers similar questions included version confirmed included jar pom xml neo4j runs jersey strong update strong stefanarmbrusters suggestion attempted adding jersey media json jackson build jersey json dependency problem 
+
+messing jerseys bundling simpler simply directly include jackson jax rs provider href https github fasterxml jackson jaxrs providers rel nofollow https github fasterxml jackson jaxrs providers json xml smile cbor simply including provider jar maven dependency jar meta inf services auto registration metadata depend jackson jackson databind add explicit dependency 

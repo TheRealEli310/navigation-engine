@@ -1,0 +1,4 @@
+functional constructor templated object 
+eclipse luna service release u51 create method create instances passed object based method parameter prototype simplified line declaration eclipse reports compiler error stream add catch blocks throws declarations fixes compiler error make code work 
+
+throw checked exception lambda target type method throw exception make unchecked exception wrapping alternative lead compiler unchecked exception produces cleaner stack trace option utility method 

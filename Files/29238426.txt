@@ -1,0 +1,4 @@
+android resource type long 
+type integer android resources maximum bigger long put string transform long 
+
+ideal solution store string parse runtime simply parse long 

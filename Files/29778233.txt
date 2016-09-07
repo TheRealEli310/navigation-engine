@@ -1,0 +1,4 @@
+response communicating google sslsocket 
+write simple web client javas socket classes similar telnet user communicate freely web server port built support http https communication http part working fine lot trouble https javas sslsocket classes looked lot websites examples put code retrieve googles home page run code receive output point code freezes waiting response server response similar code similar http request website back error worried goal connect google response server dont understand response server looked solution unsuccessful strong update strong code user3586195 posted works great trick receive method needed read stream ready everyones 
+
+dont changing bufferedwriter works trick read connection signals ready read 

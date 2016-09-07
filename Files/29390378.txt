@@ -1,0 +1,4 @@
+extract language web page jsoup 
+extract string en jsoup selector attribute success 
+
+em attribute em case href https jsoup org apidocs org jsoup nodes node html attr lang string rel nofollow 

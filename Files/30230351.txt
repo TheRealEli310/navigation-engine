@@ -1,0 +1,4 @@
+postgres database wildfly eclipse 
+troubles set database connection dynamic web project eclipse added datasource wildfly standalone xml eclipse project added jpa project facets modified persistence xml dao class inject entity manager end nullpointerexception wrong 
+
+found solution instantiated dao class operator ejb injecting inject annotation 

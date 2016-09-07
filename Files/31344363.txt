@@ -1,0 +1,4 @@
+remove shadow border javafx contextmenu 
+working button extending class left clicked displays stay open popup menu contextmenu object configurable side corner button constructor takes enumerated north left side button shown edges button popup aligned words show shape combo shape east bottom bottom edges button popup align figured work popup appears higher popupmenu getheight call returning larger expected suspect including large shadow border dimensions noticed semi visible border extends button bit prevents mouse clicks registering edge button menu multiple reasons border width assume css setting fx background insets fx padding make difference suggestions 
+
+solution add css contextmenu removes dropshadow effect modena css default contextmenus correctly place menu needed credit working answer jos pereda worked comments 

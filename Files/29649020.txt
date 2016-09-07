@@ -1,0 +1,4 @@
+hibernate org hibernate mappingnotfoundexception 
+problem strong spring cfg xml strong spring cfg xml exception hibernate cfg xml project srtucture img src http stack imgur u4wsx jpg alt structure understand problem seee exception ava lang noclassdeffounderror lorg hibernate engine filterdefinition related issue problem 
+
+configured mapping resources spring hibernate configuration file current configuration breaks proper transaction management spring strongly suggest remove move spring configuration properties configuration useless due injection fiddling break proper tx management configuration remove file 

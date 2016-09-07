@@ -1,0 +1,4 @@
+writing string outputstream 
+simple servlet class returns csv file client browser write string stream initially noticed subset expected data appended lets expect exact records captured csv file record represent age records correct subset case duplicates appended reading threads converting string stream decided follow produced correct output records understand add duplicate data 
+
+loop data read youre writing bytes copy amount data youve read plenty party libraries code copy input stream output stream mind resources statements close streams additionally calling calling href https docs oracle javaee api javax servlet servletresponse html getwriter rel nofollow potentially calling ensure utf call writers designed write text data output streams designed write binary data create writer top stream servlet api 

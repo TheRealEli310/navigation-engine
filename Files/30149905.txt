@@ -1,0 +1,4 @@
+essential difference servlet context spring application context 
+reading spring framework documentation href http docs spring io spring docs current spring framework reference htmlsingle beans factory scopes application rel nofollow application scope concept documentation concept blockquote similar spring singleton bean differs important ways singleton servletcontext spring applicationcontext blockquote whats unclear imagine relationship spring application context servlet context id assume cases relationship strong em em strong img src http stack imgur 3hw9e jpg alt enter image description strong em ii em strong img src http stack imgur vci9e jpg alt enter image description spring application context relate servlet context case strong em em strong case strong em ii em strong 
+
+servletcontext standard ee em application em scope deployed webapp servlet context inside webapp typically spring application contexts spring mvc dispatcher servlet 

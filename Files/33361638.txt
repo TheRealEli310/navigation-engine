@@ -1,0 +1,4 @@
+connect oracle database 12c hr schema intellij idea 
+oracle database successfully ol li installed configured oracle database 12c windows vmware virtual machine li li connected hr schema sql sql developer navicat li li created asp net web application project connected hr schema visual studio li ol connect hr schema jdbc intellij idea connect installed jdbc drivers read reference href https www jetbrains idea configuring db data source html rel nofollow work error demonstration screenshot attached notice define service case strong pdborcl strong text field em data sources drivers em window notice connect hr schema sql em em error resolve issue intellij idea bug jdbc bug href http stack imgur orkrh png rel nofollow img src http stack imgur orkrh png alt intellij idea oracle database hr schema connection failure 
+
+pdborcl database field service hr schema 

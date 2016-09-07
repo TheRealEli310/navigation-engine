@@ -1,0 +1,4 @@
+mass insertion redis 
+multiple insertions form sadd key key pair needed perform mass insertions written file redis protocol proceed 
+
+inputs written redis protocol format dont pipe mode redis cli nc explained href http redis io topics mass insert rel nofollow http redis io topics mass insert mass key inputs jedis perform sadd pipelining higher performance assumes iter iterator elements item key form 

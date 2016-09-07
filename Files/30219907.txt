@@ -1,0 +1,4 @@
+javax naming directory schemaviolationexception ldap error code object class violation 
+code add user group uid user cn citizens cn doit evault group full dn member memberof showing exception showing error 
+
+totally confused youre adding user group organization user group problem doesnt extend em vice versa em structural object classes object schema violation message nb dont cast 

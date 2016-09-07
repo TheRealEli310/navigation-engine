@@ -1,0 +1,4 @@
+split array list separate strings 
+created array values sqlite database comprises values columns joined table sqldatabasehelper pass main activity specifically split array separate strings assign values separate edittext fields current attempt main activity code compile change return type getallanswersbyquestion1 string remove argument match stingtokenizer string 
+
+update make code work 

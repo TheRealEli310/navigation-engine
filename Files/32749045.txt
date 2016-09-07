@@ -1,0 +1,4 @@
+javafx runnable jar export working 
+made simple dictionary javafx sqlite database pictures application exported application runnable jar file fx eclipse steps href https wiki eclipse org efxclipse tutorials tutorial1 rel nofollow https wiki eclipse org efxclipse tutorials tutorial1 exporting opened jar file opened successfully wasnt working properly wasnt showing results database images ran application eclipse workspace building amp exporting worked fine problem fix code strong controller class strong function 
+
+multiple problems ol li create database file inside project work packaged project strong em jar em strong give project database files project package project jar created read written li li images present inside jar load images load li ol strong code strong 

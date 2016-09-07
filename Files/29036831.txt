@@ -1,0 +1,4 @@
+mocking db queries querydsl issue optional 
+difficulties write tests db queries application querydsl top mongo found examples people unit test query object id step test query performs integration test start db process mocking db exclusively tools couldnt find tools dbunit dbsetup actual connection db started write classes works idea mysema query collections collquery mockito simulate database receive applications queries wrapper collquery query basically works basically work code heavily guavas optional problem querydsl string myobject takes optional lt string error mysema instanciate google common base present unable weird part query works perfectly production code problem specific collquery class mocking idea solve alternatively mock db ps heres wrapper mockedquery class 
+
+information fixed querydsl 

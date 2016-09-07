@@ -1,0 +1,4 @@
+android volley crashing 
+android volley login user addtorequestqueue called crash report shown img src http stack imgur kkhwa png alt crash report login request carried onclick loginactivity webrequest volley included appcontroller havent personally changed 
+
+ul li create activity object lot wrong ul li activity context doesnt hold context member common memory leak li li activity doesnt trough proper life cycle blows li ul li ul suggest start basic clearer 

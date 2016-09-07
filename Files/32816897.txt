@@ -1,0 +1,4 @@
+couchbase n1ql sdk pagination sorting issue 
+started couchbase recently spring data couchbase inserting pojos couchbase pagination sorting supported spring data couchbase project couchbase client dp2 inserted users ids ranging wrote code apply pagination sorting result test1 test5 users selected randomly 
+
+spring data couchbase codebase figure querying n1ql default select doesnt select id id part document strong n1ql statement strong strong couchbase client code strong strong strong orderby sort asc id required sample 

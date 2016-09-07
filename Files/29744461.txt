@@ -1,0 +1,4 @@
+spring bean initialized 
+spring mvc tomcat windows spring mvc application applicationcontexts applicationcontextroot loaded webapplicationcontext loaded appconfig class bean definition bean focus dropwizards called stacktraces versus msecs time bean created context 2nd time created web xml empty security constraints initialization instance impact behaviour expect beans singleton behavior remains annotation bean check componentscan webmvcconfig 
+
+sounds youre component scanning excluding configuration classes 

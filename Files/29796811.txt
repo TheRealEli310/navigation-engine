@@ -1,0 +1,4 @@
+seekbar null pointer exception 
+seekbar change opacity level drawing nullpointer exception lines code giving numeric arguments manualy lines seektxt settext error remains opacity chooser xml 
+
+set content view initialize seekbar amp textview 

@@ -1,0 +1,4 @@
+spring transactionrequiredexception exception 
+repository configuration call method exception lacking additional configurations edit repository configuration fails suit jpa 
+
+ul li method renamed li li li ul strong edit strong order fully functional transaction jpa ul li configuration file li li declare li li declare bean named created previously declared li li inject spring bean li li call repository strong public strong method anotated li ul simplified assume config annotations autocomponent scanning 

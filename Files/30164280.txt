@@ -1,0 +1,4 @@
+register org apache aries blueprint interceptor osgi karaf 
+implement simple interceptor invoke methods registered services osgi karaf environment services published blueprint configuration working examples intercept cxf web services find documentation register implementation feature introduced years ago href https issues apache org jira browse aries rel nofollow jira broadest sense question related href http stackoverflow questions inject proxies front blueprint services published bundles inject proxies front blueprint services published bundles solved proxies interceptor approach discussed surface functionality labeled differently apache terminology id find working end end thread states theoretical approach 
+
+add blueprint interceptors namespace handlers completely bundle implementing namespace href https github apache aries tree trunk blueprint blueprint authz rel nofollow blueprint authz introduce simple element user add xml hook blueprint initialization 

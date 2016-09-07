@@ -1,0 +1,4 @@
+neuroph multi layer perceptron backpropagation learning working 
+question related href http neuroph sourceforge net rel nofollow neuroph library program creates multi layer perceptron single hidden layer nodes function learnt backpropagation learning rule evident output program doesnt work output error program program output 
+
+h2 sigmoid h2 sigmoid activation function output values range img src http stack imgur suzn8 gif alt enter image description teach sigmoid function output values impossible fitness network achieve output 1s img src http stack imgur csvmt gif alt enter image description h1 alternative approach h1 teach neural network model exponential function remodel function modify output range network training completed divide output order exponential curve intended modelled network hidden nodes hidden layer proof concept img src http stack imgur at1ka png alt enter image description 

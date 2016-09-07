@@ -1,0 +1,4 @@
+prevent invalid date converted date month jdk6 
+snippet output prevent make user aware ui invalid date br suggestions 
+
+option href http docs oracle javase docs api text dateformat html setlenient boolean rel nofollow simpledateformat set islenient false accept correctly formatted dates anymore throw parseexception cases 

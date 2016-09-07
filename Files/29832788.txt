@@ -1,0 +1,4 @@
+adding gwteventservice maven dependency breaks project 
+big gwt application wanted gwteventservice dependency version href http mvnrepository artifact de novanic gwteventservice eventservice rel nofollow maven repository page adding updating maven dependencies clean build project bunch compiler errors suddenly appeared br copied relevant messages problems tab eclipse line seperate entry interestingly show strong client side strong code added dependency application compiles fine strong environment strong ul li li li gwt li li maven li ul strong success strong ul li earlier version gwteventservice li li eclipse suggested quick fix add build path li li adding dependency li li adding relevant external jars directly build path thing worked dislike solution li ul strong question strong ul li adding dependency break project li li fix li ul helps 
+
+exclude dependency transitively inherited event service provide dependencies dont 

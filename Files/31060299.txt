@@ -1,0 +1,4 @@
+rid unchecked call warnings 
+code hr code hr code automatonselection combobox getmachines returns linkedlist type automaton hr code fix warnings managed adding generics fix warnings 
+
+dont declare raw types words dont suppress warnings debug problems 

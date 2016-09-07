@@ -1,0 +1,4 @@
+android url connection io filenotfoundexception 
+send normal http request wordlpress website url href http localhost api submit comment post id amp max amp email max mustermann googlemail amp content hallo rel nofollow http localhost api submit comment post id amp max amp email max mustermann googlemail amp content hallo open web browser works fine open android app throws io filenotfoundexception android code remove mail address works android mail address reason crash stacktrace 
+
+issue url encoding href http stackoverflow questions url encoding android link 

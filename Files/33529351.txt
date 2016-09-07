@@ -1,0 +1,4 @@
+jar error find load main class 
+making 2d game compiled jar test works run jar file command error solutions stackoveflow updating messing cp worked code href https github grizeldi splatoon2d rel nofollow github repo edit1 code usb stick moving worked edit2 added jar github 
+
+update manifest classpath jars alternative add contents jars main jar depends main jar jar file make dont add jars main jar nested jars wont work dealing native libraries simply place directory jar downside multiple files case easiest add startup script classpath classname main aswell extract native library jar runtime save temporary location load explicitly href http stackoverflow questions load native library class path info 

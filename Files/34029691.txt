@@ -1,0 +1,4 @@
+null object pattern occupy memory 
+reading null object pattern avoid null checks null pointer exceptions making code cleaner understand find interesting null wont occupy memory start replace null checks creation default objects procedure negative impact memory long term strong null object pattern strong scope method object collected gc strong pass loop scope strong em class em strong null check strong check user null assign property wont create null object advance 
+
+typically null objects arent created demand theyre shared theyre typically immutable implementations abstraction op methods suitable shared easily point youve em single em object null object type youre interested application lifetime insignificant 

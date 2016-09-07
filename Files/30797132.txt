@@ -1,0 +1,4 @@
+android json data spring mvc4 
+spring mvc4 annotation spring mvc web service thankful provide solution android code write web service 
+
+href http docs spring io spring docs current javadoc api org springframework web bind annotation requestbody html rel nofollow map required class structure refer question href http stackoverflow questions requestbody reponsebody spring requestbody reponsebody spring test map string add href http mvnrepository artifact fasterxml jackson core jackson databind rel nofollow maven entry pom 

@@ -1,0 +1,4 @@
+elasticsearch api aggregate filter query string 
+running elasticsearch connecting api query working rest api figure api examples method pass part bit background originally solr multiple solr facet queries translated elasticsearch facet queries bit complicated shown multiple fields conditions referenced solr facet query lucene query ideas gratefully received 
+
+integer field filter intended text matching ranges youre interested suggest href https www elastic guide en elasticsearch reference current search aggregations bucket range aggregation html rel nofollow aggregation define range buckets parameter included range query translated code update requested code generate exact query posted 

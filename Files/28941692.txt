@@ -1,0 +1,4 @@
+spring oauth2 client credentials combination preauthenticated user 
+app href http docs spring io autorepo docs spring security m1 apidocs org springframework security config annotation web configurers jeeconfigurer html rel nofollow preauthentication consume oauth2 protected resources signed fetch combination preauthenticated spring store oauth token make work 
+
+token stored memory good cases set singleton bean client 

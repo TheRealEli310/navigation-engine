@@ -1,0 +1,4 @@
+pagination jsp 
+rate question jsp javaee looked tutorials jstl pagination proper idea pagination esay perform pagination program retrieve records search results database class put arraylist returns arraylist servlet assigns received arraylist object application attribute request dispatcher loading result showing jsp page step pagination search reslts 
+
+servlet page parameter storing page variable wanted display records page passing argument viewallemployees offset storing attributes request scope forwarding request jsp page servlet class jsp file 

@@ -1,0 +1,4 @@
+access running threads inside threadpoolexecutor 
+queue running threads expose data executed monitor process access queue iterate objects call overridden method threads waiting execution access threads running call method approach task general clarify bit purpose heres code general idea class holding executor 
+
+wrap runnable 

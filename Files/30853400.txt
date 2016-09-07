@@ -1,0 +1,4 @@
+avoid premature initialization variable inside scope 
+avoiding premature initialization good programming practice pmd add eclipse found dd anomaly variable var anomaly means means variable prematurely initialized initialized stuck problem general specific problem variable inside scope case inside block block return declare inside block block avoid premature initialization variable wont exist blocks wont return avoid multiple return statement anomaly pmd solve problem avoiding premature initialization 
+
+single loc hr code case initialize variable default initialize move variable order avoid literal strings directly code 

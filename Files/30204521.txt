@@ -1,0 +1,4 @@
+thread output gui text field 
+output textfield gui thread information small set full code full version problem full version threads running time advice appreciated main 
+
+youre writing o1 default thread surprised youre junk suggestion ul li create inside gui li li run long running code swingworkers doinbackground li li publish strings gui calling passing string li li display gui swingworkers method li li dont static variable kludge communicate threads easily breakable solution li li avoid calling swing gui null layouts swing newbies easiest create complex guis swing guis create difficulties run wont resize components gui resizes royal witch enhance maintain fail completely scrollpanes gawd awful viewed platforms screen resolutions original learn layout managaers li li href http docs oracle javase tutorial uiswing concurrency index html rel nofollow tutorial concurrency swing li ul hr 

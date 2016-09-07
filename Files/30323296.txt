@@ -1,0 +1,4 @@
+distributed executors mapreduce hazelcast 
+run calculations distributed map decide approach calculations result map data structure results mapped keys word count word key occurrence count looked solutions understand map reduce fits scenario things simple distributed executor 
+
+options generic mapreduce framework people build solutions executorservice implementation moment itll change future mr solution doesnt offer write imap directly results send caller store 

@@ -1,0 +1,4 @@
+android searchview floatingactionbutton 
+implement search android app dont find implementing searchview menuitem oncreateoptionsmenu implement searchview floatingactionbutton sadly casting doesnt work altough strong getactionview strong returns view sadly heres menu declaration heres manifest declaration floatingactionbutton trigger search widget android toolbar 
+
+work api lt recall 

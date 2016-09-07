@@ -1,0 +1,4 @@
+pending intent triggered alarm manager fire 
+set alarm manager supposed trigger pending intent time day code oncreate method main activity believed place put code alarm manager works fire time pending intent fired base app starts causing intent fire stop 
+
+problem calendar gettimeinmillis return timestamp current timestamp system currenttimemillis alarm fire fix problem start alarm 4am day remove condition 

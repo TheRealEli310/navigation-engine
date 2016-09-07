@@ -1,0 +1,4 @@
+unit test gps location android robolectric 
+android app current location button tapped unit test functionality robolectric issue system services accessed oncreate method case access device gps coordinates calling oncreate method calling oncreate testclass gave null pointer exception tutorial online href http ckarthik17 tech blogspot ca android robolectric unit testing html rel nofollow http ckarthik17 tech blogspot ca android robolectric unit testing html perform unit testing location doesnt work tutorial test class piece code rises null pointer exception 
+
+robolectric creates application differently npe rest code tutorial work fine alan evans put snippet comments section post cited 

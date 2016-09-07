@@ -1,0 +1,4 @@
+add index jar file referencing external jar file 
+simple href https github malaterre vtk dicom commit 4ff52c33ed88b8bdd6c142ccaf8ac0578cfd84d5 rel nofollow index creation jar file fails work simply ugly error prone search location portable solution works windows linux macosx information manifest set information change slightly error reference 
+
+havent found documentation work provide jars main jar jar files modified needed manifest edit generated index list file full path main jar modified cd directory jar file work installed final location alternatively jar run file installed 

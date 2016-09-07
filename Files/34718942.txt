@@ -1,0 +1,4 @@
+jpa hibernate persist enums table constants 
+standard map enums hibernate requirements changed strong strong create table valid values enum string constants refer table dont migrate legacy data ol li options map jpa hibernate li li hibernate create table strong values strong ddl generation li ol 
+
+ended solution generates ddl including enum constants foreign key constraints sufficient em src main resources meta inf services org hibernate boot spi metadatacontributor em works mysql hibernate jpa query consistency order implicitly assumed 

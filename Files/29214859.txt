@@ -1,0 +1,4 @@
+override default id column spring data jpa 
+recently refactored database schema id columns tables format tablename id settingsid id tables spring data backend breaking fetch tables complains invalid column id assume map id column spring data id column havent successful configuration needed happen entity object settings entity object class case matters dont function calling error thrown error generic hibernate error extract resultset 
+
+checking href http stackoverflow questions renaming spring data jpa id column post realized wasnt supposed add attributeoverride annotation field class spring data double map id field entity object notice field id 

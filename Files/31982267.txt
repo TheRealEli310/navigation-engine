@@ -1,0 +1,4 @@
+put namedquery entity class 
+learning jpa namedqueries guestservlet works put namedquery entity class servlet error forced put namedquery entity class servlet 
+
+guestservlet managed jpa provider hibernate simply isnt aware named query 

@@ -1,0 +1,4 @@
+handle exceptions caused message converter message driven inbound channel adapter 
+configuration invoked converted payload exception thrown send works intended message converter throws exception send log exceptions caused message converter assign channel adapter send exceptions 
+
+upcoming release href https jira spring io browse int rel nofollow https jira spring io browse int href https github spring projects spring integration commit e7534aa4b88a0a199b1ebfcbb0d2877a5f97012d rel nofollow commit href http stackoverflow questions query spring message driven channel adapter stackoverflow question raised jira sort work bit kludgy build snapshot testing milestone weeks final release planned end summer 

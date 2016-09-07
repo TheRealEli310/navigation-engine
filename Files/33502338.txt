@@ -1,0 +1,4 @@
+eclipse wrong home 
+eclipse windows dont understand specific version check version eclipse em eclipse installation details configuration em strong home strong set em program filesjavajre1 em em environment variables em configured ul li home javajdk1 li li home javajdk1 li li home home li li path home li ul eclipse em javajdk1 em strong home strong 
+
+environment variable supposed system property os level environment setting level property established jvm starts root home jre em running em pointed reason youre expect eclipse jvm run separate strong installed jres strong preferences follow href https wiki eclipse org eclipse ini rel nofollow instructions jvm point jdk location eclipse report jvm running eclipse 

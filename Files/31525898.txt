@@ -1,0 +1,3 @@
+set hadoop tmp directories code 
+change hadoop tmp dir command line implement code dont commands point hadoop tmp location heap space mapper conf set mapred map opts xmx1024m pointers appreciated system getproperty hadoop tmp dir check location tmp directories returned null guess set tmp directories hadoop 
+

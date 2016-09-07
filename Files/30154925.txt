@@ -1,0 +1,4 @@
+option web application intellij idea 
+intellijidea14 community version ubuntu 04lts create web application project scratch chose follow guide href https www jetbrains idea enabling web application support html https www jetbrains idea enabling web application support html option mentioned step em additional libraries frameworks select web application check box select version servlet specification supported versions list em thing groovy enable options list facets page assume options client similarly rest plug mentioned page search restful href https www jetbrains idea preparing rest development html https www jetbrains idea preparing rest development html reinstalling intellij thinking wrong installation doesn case 
+
+aahhh community version develop se applications developing web enterprise application buy commercial version 

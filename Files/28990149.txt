@@ -1,0 +1,4 @@
+wicket add click event handler table row 
+make row table respond mouse click specifically link url moment table defined element link link user clicks part table row href http stackoverflow questions link entire table row question define javascript click handler function table rows added click handler code handler function called work approach 
+
+approach make wicket component attach event destination points 

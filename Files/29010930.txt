@@ -1,0 +1,4 @@
+initialization order final fields 
+classes execute foo output make field final initialize foo constructor output question initialization order case final fields behavior jls expected find exceptional rule final fields href http docs oracle javase specs jls se7 html jls html jls miss isnt call overridable method constructor point question 
+
+member variable constant variable href http docs oracle javase specs jls se7 html jls html jls variables blockquote variable primitive type type initialized compile time constant expression called em constant variable em blockquote consequences order things initialized href http docs oracle javase specs jls se7 html jls html jls detailed initialization procedure 

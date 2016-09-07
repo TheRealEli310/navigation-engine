@@ -1,0 +1,4 @@
+difference abstract class interface terms storage jvm 
+difference abstract class interface terms storage jvm precise jvm store interfaces memory 
+
+em warning em mentioned assylias mechanics specific oracle hotspot jvm strong java8 strong meta information stored permgen abstract classes interfaces meta information includes class specific information fields parent interface fields field meta information stored permgen abstract class static static fields difference terms meta information stored permgen hand real object instances stored heap static static fields field information stored permgen real object instances stored heap strong java8 strong permgen moved inside heap space called metaspace anymore conceptual separation meta information object allocation memory present review alextaylor specification quotation 

@@ -1,0 +1,4 @@
+regex yyyymmddhhmmss 
+regex pattern strong yyyymmddhhmmss strong format check leap years pattern checks yyyymmdd leap year extend yyyymmddhhmmss includes hour time format validation 
+
+order validate hour time regex append part validate numbers validate minutes seconds regex href https regex101 gn1ed8 rel nofollow demo method forces match em em string anchor strong edit strong nhahdth providing regex validate datetime values href https ideone rqbwl9 rel nofollow ideone demo 

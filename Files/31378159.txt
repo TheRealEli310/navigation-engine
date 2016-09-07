@@ -1,0 +1,4 @@
+swing gui combobox issue 
+strange issue swing gui make refresh button clear combo box list refresh components working ve made stupid mistake code code reads joysticks computer displays combo box list picture current gui img src http stack imgur artka png alt screenshot gui time press refresh button throws error 
+
+method inherited intended remove child component contained container change data model backing combobox previous empty version swing backs components separate model makes easy switch displayed views coming fact youve shadowed variable constructor leaving class instance field read href http docs oracle javase tutorial uiswing components combobox html rel nofollow combo boxes details 

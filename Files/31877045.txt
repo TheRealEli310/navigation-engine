@@ -1,0 +1,4 @@
+loading rsa private key 
+load private key generated rsa external application javacard written normal code generate keypair print exponent modulus private key copied byte arrays javacard code reason thrown setting modulus reason api means clue failing generating keys card option project bits anymore testing purpose replaced bits end 
+
+figured rsaprivatekey api expects unsigned values tobytearray biginteger returns signed version post href http stackoverflow questions biginteger byte biginteger byte helped figure simply remove leading byte modulus byte array working 

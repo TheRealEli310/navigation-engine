@@ -1,0 +1,4 @@
+springboot unit test autowired 
+classes strong applicationandconfiguration class strong strong myrestcontroller class strong strong myutility class strong start application run independant jar ide eclipse problem works expected write unit test test em myrestcontroller em class npe autowired field util null em myrestcontroller em class test class missing autowired field filled tests standard application execution pointer doesnt work 
+
+mockmvc standalone setup unit testing integration testing creating spring context test dont mix types testing change 

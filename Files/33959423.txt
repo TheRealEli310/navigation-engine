@@ -1,0 +1,4 @@
+run restcontroller port 
+create servlets application run webserver simple command line tool embedded tomcat running public port property question run ports accessibly internally 
+
+recommend proxy apache web server ngix configure virtualhosts ports webserver redirect invocation tomcat server load controllers differents paths itll easier proxyfy calls weberver finally clients make invocation web server directly tomcat 

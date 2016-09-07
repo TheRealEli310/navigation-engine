@@ -1,0 +1,4 @@
+sorting comparator interface streams 
+parent class inherited child inherited grandchild class list child class parent list child child list grandchild class attributes attrib1 atrib50 getchildlist returns arraylist objects type child getgrandchildlist returns arraylist objects type grandchild resultset list parent sort list based attributes sort resultset based parent attributes attribute attribute code sort parentlist based attribute child class attribute grandchild class sort 
+
+make comparators figure compare write logic extract values compare make examples question nicer static imports 

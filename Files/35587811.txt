@@ -1,0 +1,4 @@
+config routes spring cloud zuul 
+spring cloud zuul server define routes redirected application properties strong strong fat jar created application properties encapsulated jar edit reload rules inside file inform zuul routes external file time reload stopping server 
+
+spring cloud config spring cloud config server client side support externalized configuration distributed system config server central place manage external properties applications environments href http cloud spring io spring cloud config spring cloud config html spring cloud config client rel nofollow http cloud spring io spring cloud config spring cloud config html spring cloud config client 

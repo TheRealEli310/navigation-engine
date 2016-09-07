@@ -1,0 +1,4 @@
+eclipse resolve type import 
+newbie question wrote application eclipse added private github repo import application workspace work github location constantly copy paste import working application existing project eclipse imported hit resolved error wondering resolve 
+
+eclipse clean project project clean doesnt work restart eclipse reason dont jar files imports case import jars click project properties build path add external jars 

@@ -1,0 +1,4 @@
+actionbar material design sliding tabs 
+application activities activity material design sliding tabs make material design sliding tabs style code wont activities styles xml tool bar xml strong create styles resources strong 
+
+add androidmanifest file apply theme activity including strong android theme strong inside strong lt activity strong inside manifest file set theme programatically strong settheme strong calling strong setcontentview strong strong super oncreate strong method inside strong oncreate strong method set programmatically activity 

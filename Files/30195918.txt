@@ -1,0 +1,4 @@
+dynamic schema selection spring data jpa repositories schema coming database 
+title application spring boot execute queries objects sql server database database single catalog multiple schemas selected based previous query command line parameters implement strategy involves hibernate multi tenancy tutorials answers site deal schema names coming web request external parameter database connection creating main multi tenant entitymanager switched custom datasource change connections default schema fails logged user permission alter default schema loss suggestions 
+
+create entitymanager factory schema put map choose dont schemas hand create entitymanager factory learn schema configure entitymanagerfactory programatically 

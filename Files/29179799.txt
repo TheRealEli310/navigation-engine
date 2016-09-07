@@ -1,0 +1,4 @@
+rest api implementation social authentication 
+implement backend top spring rest apis access backend user login standard login password social authentication facebook google standard oauth2 implementation requirement appreciated 
+
+apache oltu client library implement login facebook google implement user management storing api token provide login password authentication href https cwiki apache org confluence display oltu oauth client quickstart rel nofollow https cwiki apache org confluence display oltu oauth client quickstart 

@@ -1,0 +1,4 @@
+springframework boot reads input stream servlet read 
+existing web application consisting jsps servlets add springframework boot add simple rest services application rest services accept return json jackson databind problem existing servlet reads uploaded files request input stream consumed called files maven added pom xml added restapplication class controller class works fine strong strong file upload standard servlet broken called appears input stream empty files found definition servlet items empty strong enableautoconfiguration strong tag mediauploadservlet works mycontroller question configure spring boot strong strong magic mycontroller strong strong magic mediauploadservlet 
+
+register servlet bean restapplication class 

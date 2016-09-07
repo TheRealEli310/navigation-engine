@@ -1,0 +1,4 @@
+android issue integrating google sign api 
+add google sign functionality android app steps mentioned href https developers google identity sign android start integrating rel nofollow successfully managed configuration file provided google faced issue execute step strong add configuration file project strong description blockquote copy google services json file downloaded app mobile directory android studio project open android studio terminal pane mv path download downloads google services json app blockquote guessing type android studio terminal replace path download path app mac returns error terminal strong bash command found strong wrong misunderstand step 
+
+problem href http www computerhope unix umv htm rel nofollow command takes arguments path file moved moved blockquote notice space json app blockquote makes arguments command doesnt arguments assuming location json file 

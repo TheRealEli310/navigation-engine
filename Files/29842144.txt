@@ -1,0 +1,4 @@
+based bubble sort outperforming selection sort insertion sort 
+implementation bubble sort selection sort insertion sort random object create identical arrays hundred thousand numbers passing sort method turn timing results system nanotime background information sort algorithms selection insertion sort frank caranos data structures abstractions 3rd ed bubble sort top head provide contained class performs caranos algorithms wrong counting cycles base operations timing completion run time number cycles negligibly completion time bubble 1st selection 2nd insertion 3rd flies face conventional wisdom daft btw compile run provided code 
+
+youve screwed bubble sort print results simple input youll sort youve misplaced 

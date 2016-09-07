@@ -1,0 +1,4 @@
+spring data rest change json serialization collection abstract classes 
+spring boot v1 single table inheritance entities association calling return collection ordered subclasse type parts removed readability simple change json serialisation sorted position 
+
+found answer replacing collection mapping type entity adding read field entity trick 

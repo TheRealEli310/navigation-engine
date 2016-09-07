@@ -1,0 +1,4 @@
+spring boot model mysql 
+make application models require make model tables isnt needed class execute queries directly rest api idea achieving 
+
+suggested answers require spring boot href https docs spring io spring boot docs current reference html boot features sql html boot features connect production database rel nofollow documentation download simple href https spring io guides gs relational data access rel nofollow working ol li file properties li ol blockquote blockquote ol start li add spring boot jdbc dependency li li inject controller class component scanned class li ol blockquote blockquote autowire jdbctemplate spring bean 

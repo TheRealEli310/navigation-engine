@@ -1,0 +1,4 @@
+shift operator auto promotion 
+newbie programmer reading href http rads stackoverflow amzn click rel nofollow thinking bruce eckel 5th chapter operators discussed talking shift operators lt lt blockquote shift char byte short promoted int shift takes place result int strong low order bits hand side strong prevents shifting number bits int operating long ll long result strong low order bits hand side strong shift number bits long blockquote understand meaning specially bold sentences clarify bit 
+
+feel answers bit incomplete true bits language doesnt shift bits whats left shift bits shift amount modulo low order bits argument taking argument modulo mathematical definition mod mod similarly bits means argument computed modulo low order bits argument dont opinion consistent simply shift large amount shifting bits integer resulting sign extends result consistent mathematically positive equal truncated integer javas handling shift amounts isnt 

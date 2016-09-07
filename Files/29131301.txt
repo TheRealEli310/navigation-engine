@@ -1,0 +1,4 @@
+access local variables superclass constructor 
+super class constructor subclass constructor add strings code code error result fix 
+
+basically youd split subclass constructor local variable isnt subclass constructor itll end duplicating work hard avoid private subclass constructor takes factory method split alternative option superclass constructor calls virtual method overridden subclass em em fragile sufficiently horrible provide 

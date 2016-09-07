@@ -1,0 +1,4 @@
+closing resources block accepted 
+beginners book code book explains exceptions understood exception works question code reason filewriter class throws exception wouldnt executed place close writer object finally block prior code written resource closed block point exception resource closed wrong close resources write code 
+
+agree cyber rookie close resources finally block introduced resources order cut programming mistakes href https docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow https docs oracle javase tutorial essential exceptions tryresourceclose html write compiler add extra code close writer end block 

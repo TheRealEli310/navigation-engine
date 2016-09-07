@@ -1,0 +1,4 @@
+calculate estimated size text file amount chars printed 
+written program printing large string txt file big file generated amount chars dont calculate size file 
+
+doesnt make terribly easy encode dont create big byte array encoding order length part encodes heres sample code em em correct output 

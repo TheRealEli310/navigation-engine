@@ -1,0 +1,4 @@
+swap images gridview android 
+working slider puzzle android app gridview display images representing tiles tiles consist plain white image representing background idea user clicks tile neighboring white tile selected tile white tile switch positions implement setting white tile tile selected user vice versa saved position white tile starts position variable mastertilepos imageadapter integer array referring images drawable file set image mastervalpos image selected index selected image white tile run program tiles successfully switch time doesnt work properly order tiles gridview ruined array simply referring actual image objects days ran problem code solve successfully switch images grid 
+
+oncreate created adapter assign variable wrong swap create adapter setting current adapter wrong ol li oncreate create adapter assign objectss variable property li li work variable li ol problem debug logic swap method 

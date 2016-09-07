@@ -1,0 +1,4 @@
+read store file content double array 
+write program reads stores inputted file double array number values file stored line file actual data values follow input file blockquote br br br br br br br br br br blockquote file input exception message 
+
+check code scanner provided shown snippet sample output blockquote enter input file hadoop sample txt br br br br br br br br br br blockquote 

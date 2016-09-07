@@ -1,0 +1,4 @@
+add mouse listener row grid vaadin 
+simple grid web application coded add mouse listener left mouse button entry populate grid vaadin 
+
+make href https vaadin api vaadin ui grid html addselectionlistener 28com vaadin event selectionevent selectionlistener rel nofollow selectionlistener implement pure javascript solution sscce javascript attach javascript import annotation top mainui class put javascript file package mainui class 

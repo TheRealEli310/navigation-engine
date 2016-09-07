@@ -1,0 +1,4 @@
+font issue ubuntu machine parsing pdf file 
+application ubuntu machine application text mining pdf files suspect apache tika problem reading process warning fonts machine lib missing fonts 
+
+step approach fix issue ol li analyse files searched found strace li li apt file search package providing files li li install missing package li ol install strace installed check files app filter enoent errors files missing check package providing file dpkg works installed packages install package ubuntu ms fonts package called mscorefont similar 

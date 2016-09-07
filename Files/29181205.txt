@@ -1,0 +1,4 @@
+osgi slf4j logging apache sling felix 
+strong slf4j logger strong strong osgi bundle strong strong apache sling strong adding dependency import tag pom xml bundle remains em resolved em state missing strong activator class strong strong pom xml strong img src http stack imgur 7ifqm jpg alt apache sling web console bundle view strong edit strong em comment logger instantiation remove imports activator class service stays resolved state remove lines slf4 pom works em 
+
+suppose statement prevents required packages imported element automatic imports generated href http felix apache org documentation subprojects apache felix maven bundle plugin bnd html rel nofollow maven bundle plugin docs info pom similar sling bundle href https svn apache org repos asf sling trunk samples slingbucks rel nofollow slingbucks sample shouldnt explicit import statements 

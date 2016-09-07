@@ -1,0 +1,4 @@
+update bean iterating 
+update property bean satisfies condition iterating list enhance performance lists transform foreach loop slow application 
+
+href http google collections googlecode svn history r90 trunk javadoc google common collect lists html transform util list 20com google common base function rel nofollow lists transform return lazily computed view list means start iterating transformed collection method youre called youre transformed list working problem creating list discard based transformed collection longer term solution method simply loop method wrap code function normal imperative code easier read perform case 

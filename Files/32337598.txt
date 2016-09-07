@@ -1,0 +1,4 @@
+configure spring load application properties jar 
+id directory structure change properties repackage redeploy restarting jar accomplish spring annotations configuration classes making external resources web application change location spring loads application properties file 
+
+youre mentioning jar youre spring boot external application properties directory structure override application properties packaged inside jar file application properties inject code work 

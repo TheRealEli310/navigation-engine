@@ -1,0 +1,4 @@
+determines maximum max heap size linux machine 
+linux machines vms 12gb memory 8gb memory start program machines maximum max heap size xmx flag results ul li 12gb machine 9460mb li li 8gb machine 4790mb li ul max heap size limits error checked free memory systems command ul li 12gb machine approximately 3gb free li li 8gb machine approximately 4gb free li ul question determines maximum max heap size program started result mentioned error system sufficient memory allocate bytes memory program gave error 
+
+experiments clues ravindra found maximum max heap size direct relationship total virtual memory system total virtual memory system found kb total virtual memory altered maximum max heap size approximately 2gb virtual memory unlimited virtual memory large max heap size 

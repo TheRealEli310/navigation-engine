@@ -1,0 +1,4 @@
+separate long text pages viewpager 
+implementing messuretext method href http stackoverflow question separate long text pages size rendering viewpager loop incremental number characters desired text blocks solution suggestion improve performance calculation refer wattpad app fast 
+
+href http developer android reference android text staticlayout html rel nofollow staticlayout href http developer android reference android text dynamiclayout html rel nofollow dynamiclayout android boring static dynamic layout classes measure wrap text classes constructor charsequence input param styled text spans imagespan acceptable calculate pagewidth pageheight view screen textpaint linespacing param equals target textview code 

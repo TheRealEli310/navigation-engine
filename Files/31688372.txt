@@ -1,0 +1,4 @@
+disabling tls v1 glassfish 
+disable tls v1 v1 ssl configured listeners glassfish set jvm property recommended oracle blog post href https blogs oracle platform group entry tls rel nofollow https blogs oracle platform group entry tls protocols https negotiations 
+
+found messing glassfish command interface run commands leave strong tlsv1 strong enabled commands run default https listener port remember run secure http listener 

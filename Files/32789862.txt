@@ -1,0 +1,4 @@
+include sun lwawt lwcomponentpeer code running windows 
+application package mac run code eclipse resolve classes import sun lwawt lwcomponentpeer import sun lwawt platformwindow import sun lwawt macosx cplatformwindow run application eclipse running windows os running jdk windows couldnt find library dependency add maven packages trivial question newbie 
+
+xxxpeer classes part pre swing involve creating native os ui components classes implement written jni cross platform compatible 

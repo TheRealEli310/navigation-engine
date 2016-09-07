@@ -1,0 +1,4 @@
+mongo spring serialization 
+mongodb database spring data equivalent hibernate annotation spring data mongo 
+
+spring data mongo transparently bind mongo bindata annotation write custom converter type href http docs spring io spring data mongodb docs current reference html mongo custom converters rel nofollow http docs spring io spring data mongodb docs current reference html mongo custom converters binary blob doesnt querying aggregation data json form 

@@ -1,0 +1,4 @@
+type inference static access static members 
+code day accidentally calling static method static shouldnt call static methods static wondering isnt infer type case 
+
+error makes sense href http www informit articles article aspx amp seqnum rel nofollow types methods references ol li reference static method li li reference bound static method li li reference unbound static method li li reference constructor li ol href https docs oracle javase specs jls se8 html jls html jls rel nofollow jls explanation blockquote compile time error method reference expression form referencetype typearguments identifier compile time declaration static referencetype simple qualified blockquote addition bad design performance overhead capturing bounding receiver 

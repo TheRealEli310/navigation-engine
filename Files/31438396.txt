@@ -1,0 +1,4 @@
+android pass touch event part scrollview 
+easy answer android designing app requires implementing google mapfragment area text inside scrollview shown give text effect scrolling map similar android play store effect found href http stackoverflow questions playstore parallax effect img src http stack imgur sjymp png alt scrolled view img src http stack imgur g03jq png alt half scrolled view implement decided make scrollview start top map simply put invisible spacer map give appearance text starts putting map view scrollview touch event stolen move map zoom thought spacers touch events bleed scrollview intercepted map view implement code answers confusing 
+
+solved problem map work scrollview simply defined cases change index map accessible scrollviews scrolly map sit top added clause allowing user click spacer covering map scroll view bottom causing map front 

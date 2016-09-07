@@ -1,0 +1,4 @@
+android owncloud apache httpclient 
+working adding owncloud functionality app trouble error line apparently apache commons deprecated owncloud library built suggestions edit heres owncloud href https github owncloud android library blob master src owncloud android lib common owncloudclient rel nofollow client source 
+
+party libraries owncloud android library apache jackrabbit version copyright apache software foundation licensed apache license version apache jackrabbit depends commons httpclient version slf4j version included copyright apache software foundation licensed apache license version included libraries linked android studio build 

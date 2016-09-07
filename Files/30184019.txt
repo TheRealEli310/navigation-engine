@@ -1,0 +1,4 @@
+kryo read write generically 
+found ways read write kryo generically thinking worse option kryo function writeclassandobject readclassandobject option writeobject readobject class information option calling function class doesnt figure true speed comparable 
+
+depends context instance class serialized data represents time deserialize data class reading object deserialize data call instance contrast class stored object reading deserialize data information stored serialization data de serializing object matter approach choose choose imagine scenario serialize instances class serialization data reduced size significantly storing class instance serialize class beginning file simply hard code deserializer 

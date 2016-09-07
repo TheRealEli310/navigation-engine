@@ -1,0 +1,4 @@
+swing timer infinite loop 
+issue simple swing timer set fine stop creating infinite loop timers timers multiple tutorials wrong code explanation runbuttonlistener loop times filelinecount variable read function code moment printing system updating animations filelinecount code changed function sake debugging attached code runnable change filelinecount manually greatly appreciated 
+
+time timer calls back create timer start includes call create timer continue method constantly recreating timers methods depending exact requirements worker thread 

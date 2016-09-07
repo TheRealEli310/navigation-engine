@@ -1,0 +1,4 @@
+upload jenkins build file war nexus repository remotely 
+jenkins setup maven build tool project pulled svn built maven inside jenkins project built package file uploaded nexus repository whats simplest tweaking modifying existing luck happening file uploaded nexus repository configured box 
+
+href http books sonatype nexus book reference staging deployment html rel nofollow nexus maven plugin purpose jenkins script run documentation 

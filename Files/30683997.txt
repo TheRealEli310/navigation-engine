@@ -1,0 +1,4 @@
+sending list commands list remote server ssh jsch 
+learning process greatly answer detailed steps follow list commands txt file list servers file program prompt ssh userid password load command file server file execute commands servers question store output txt file local machine ll parse program login run commends uid password server stored program reading system writing output file 
+
+tested idea heres class heres class removed comments make code crisp 

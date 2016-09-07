@@ -1,0 +1,4 @@
+servlet path info includes empty string 
+servlet url omit empty string resulted achieved 
+
+omit character slash 

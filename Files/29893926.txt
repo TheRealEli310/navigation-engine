@@ -1,0 +1,4 @@
+debug gradle test eclipse 
+debug gradle test started cli eclipse add jvm args remote debugging normal program 
+
+gradle option connect eclipse port 

@@ -1,0 +1,4 @@
+correct approach submitting json http post web server 
+construct object execute json object appears sending incorrect format tomcat server doesnt data results correct bit confused server code 
+
+server side parse data json hope 

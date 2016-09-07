@@ -1,0 +1,4 @@
+understanding string immutability 
+understand reasons strings immutable wrote simple program output isnt expected references modified output repeated thrice isnt change output 
+
+working expected lets step step img src http stack imgur motdp png alt enter image description effectively nop assigning result instance lost ether garbage collected referring remains unchanged img src http stack imgur 39awl png alt enter image description returns instance reassigned points em em string lost reference older img src http stack imgur fbj4o png alt enter image description created variables point string instance points img src http stack imgur 5ukv3 png alt enter image description repeat earlier creates string instance reassign mind pointing em em point strong strong reflect youve stopped pointing string made point variables pointing string 

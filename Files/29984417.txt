@@ -1,0 +1,4 @@
+confusion kotlin generics 
+kotlin write code fairly simple figure generics work trait represents handler things strong em change code handler library em strong code control open class subclasses trait called create list adminusers passes list handler pass handler lets handler simply logs names users doesnt admin specific properties code em typemismatch em handler type immutable preceding code completely compiler isnt figure access code handler work modify handler library em hacky em type handler fully general usable kinds handlers subclassing handler error em parameter declared occurs invariant position handler em errors confusing generics preceding code work strong edit strong make work writing generic function converts wasteful body conversion function strong strong rigamarole everytime satisfy types technically make kotlin compiler smarter type jugglery needed 
+
+couple solutions change definition change definition cast 

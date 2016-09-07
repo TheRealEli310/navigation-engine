@@ -1,0 +1,4 @@
+parallelstream concurrent database rest call 
+javaparallel stream iterate list calling rest call list element input add results rest call collection code working fine thread safety arraylist incorrect results adding needed synchronization contention undermining benefit parallelism suggest proper parallel stream case 
+
+operation guarantee thread safety cleaner functional programming perspective 

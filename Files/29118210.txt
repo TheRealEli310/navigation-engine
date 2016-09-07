@@ -1,0 +1,4 @@
+understanding hibernate type annotation 
+href http docs jboss org ejb3 app server hibernateannotations reference en html single d0e2018 rel nofollow official hibernate documentation blockquote org hibernate annotations type overrides default hibernate type generally type correctly inferred hibernate blockquote documentation dont understand declare methods return type expected type declared type annotation type returned type couldnt explain actual purposes type declared annotation differ returned type 
+
+difference return type type type annotation hibernate type data store database lets simple return type boolean stored database format true false fashion map object database column check href http dzone articles annotating custom types rel nofollow detail explanation 

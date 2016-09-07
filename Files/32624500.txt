@@ -1,0 +1,4 @@
+converting maven project gradle 
+gradle find solution problem searched web similar practices projects built maven sharing single project environment profiles profiles maven build environment specific packages time project structure didnt pay attention practice similar approach gradle generate environment specific packages whilst sharing config multiple projects 
+
+found plugin href https github stevesaliman gradle properties plugin rel nofollow gradle properties plugin turned default simple quickly implement environment based properties 

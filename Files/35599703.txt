@@ -1,0 +1,4 @@
+equals validation indexof validation 
+validate string char replace implementations propose implementation execute validation implementation parses string times ul li li li li ul hr implementation validation worst case implementation worst case parse string times ul li li li li ul difference terms performance validation 
+
+difference execution time big notation worst case iterate entire returning practice depends input instance ul li return pretty immediatly strings compared length li li return sooner difference strings occur early faster li li faster occurs early string faster li li slower input char special character li ul modern computers matter fast difference unnoticable method called hundreds thousands times large input strings optimizing code focus saving seconds nanoseconds current problem lot worried making code readable understandable worried cpu cycles 

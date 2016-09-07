@@ -1,0 +1,4 @@
+add progress bar job rcp 
+time consuming job rcp application read big database save file running job separate thread ui app blocked dont add progress bar task code mirror run method add progress bar class shows progress job 
+
+jobs show progress indicator progress view status line bottom main window call job show pop progress dialog job runs seconds show job progress total amount work call call time part work 

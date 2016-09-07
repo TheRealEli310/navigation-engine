@@ -1,0 +1,4 @@
+rxjava android ambwith operator networkonmainthread exception 
+experimenting rxjava android moment encountered problem ambwith operator observables understood definition amb href http reactivex io documentation operators amb html rel nofollow http reactivex io documentation operators amb html observable send notification rest discarded connected observables network call retrofit responds data memory code problem observable emits item observable cancelled results networkonmainthread webservice started works fine remove observable result ui guess amb operator executed main thread cancel operation ends main thread miss appreciated 
+
+observeon affects original observables results main thread check 

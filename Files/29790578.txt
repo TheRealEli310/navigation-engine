@@ -1,0 +1,4 @@
+android copy file internal storage external 
+copy file internal memory card external memory card googling found answer work internal move internal external storage external cross transferring work throws error erofs read file system 
+
+thing asynctask background process function copy file sdcard 

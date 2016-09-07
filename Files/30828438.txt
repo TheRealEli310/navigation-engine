@@ -1,0 +1,4 @@
+mqtt topic match evaluation 
+implementing android application mqtt paho components compare generally subscribed topic includes wildcards acutal topic client published dont head rudimentary regex skills dont helpt utility class paho mqtt sensor temperature degree id subscribed topic applies senor temperature garden degree celsius abovezero id actual topic edit 
+
+solution work case regular expression website href http www regexplanet advanced index html rel nofollow http www regexplanet advanced index html good resource cases 

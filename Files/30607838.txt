@@ -1,0 +1,4 @@
+access local webpage spring mvc 
+started learn href http www pluralsight training courses tableofcontents springmvc intro rel nofollow introduction spring mvc pluralsight access href http localhost fitnesstracker greeting html rel nofollow http localhost fitnesstracker greeting html access shows tutorials works fine confused strong web xml strong strong servlet config xml strong strong hellocontroller strong strong jsp strong strong directory structure strong ul li fitnesstracker ul li src ul li main ul li ul li sergey controller ul li hellocontroller li ul li ul li li resources li li webapp ul li web inf ul li config ul li servlet config xml li ul li li jsp ul li jsp li ul li li web xml li ul li li index jsp li ul li ul li ul li li pom xml li ul li ul 
+
+dear thing removed tag jars version replaced servlet config xml 

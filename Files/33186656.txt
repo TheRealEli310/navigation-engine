@@ -1,0 +1,4 @@
+combine fxml file group javafx 
+made fxml file game making school buttons labels controller made group rectangles add scene fxml file code wrote doesnt work idea add group fxml file render scene rendering fxml group diffrent scenes work errors edit application class 
+
+display time display gui contained assuming suggested comments update parent runtime reference child parent lets root element fxml file add root fxml file fx id tag inject element controller class fxml annotation 

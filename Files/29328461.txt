@@ -1,0 +1,4 @@
+android lang illegalstateexception content adapter changed listview receive notification 
+exception suggests call notifydatasetchanged call method onpostexecute method adapter recreated call problem nexus devices works flawlessly whats wrong code guys 
+
+delete notifydatasetchanged line creating adapter instance nodify correct updated data instance crash similar case updating data querying adapter creating adapter instance onpostexecute rid crash 

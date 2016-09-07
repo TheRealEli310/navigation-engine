@@ -1,0 +1,4 @@
+servlet response committed flushed 
+javadoc blockquote forward called response committed client response body output flushed uncommitted output response buffer automatically cleared forward blockquote confused response committed flushed writing 
+
+calling commits response method servlet preliminary processing request resource generate response statements forwarding call forwarding 

@@ -1,0 +1,4 @@
+add resource path segment packages jax rs jersey 
+jersey support versions api main paths packages v1 api resources v2 api resources define path application class define package resources live namespace package resources live namespace option add v1 v2 prefixes annotation prefix resource lot redundancy 
+
+proof concept accomplish provide testimony maintainability issues line larger projects tested simple project basically jerseys href https jersey net documentation latest resource builder html rel nofollow programmatic resource building api append version original path trouble worth dont judge 

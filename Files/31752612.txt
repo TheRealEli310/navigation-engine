@@ -1,0 +1,4 @@
+spring toolsuite shows error execution maven jaxb2 plugin 
+spring tool suite version release import wsdl offered amazon import succeeds eclipse error message tag pom xml hovering tag error message 
+
+fix putting inside tag makes maven picks correct information 

@@ -1,0 +1,4 @@
+rippledrawable show ripple effect programatically 
+view ripple xml works great touch view ripple effect start ripple animation view code repeatedly show indeterminate progress waves rippling idea 
+
+responds pressed focused states giving ripple animation youre toggle pressed state host view mind user touching toggles pressed state remove post runnables desired control ripple position api passing view relative coordinates 

@@ -1,0 +1,4 @@
+apache storm worker async loop died 
+setup storm cluster takes data kafka bus processes included single printerbolt output message running topologies href https github quux00 kstorm rel nofollow repository work based examples wrote basic topology wrong checking worker logs errors happen start sending messages kafka bus messages arrive problem topology waiting input running nodes storm cluster master node runs zookeeper storm nimbus worker node runs storm supervisor 
+
+problems caused fact topic instantiated kafka broker 

@@ -1,0 +1,4 @@
+design issue enforce method call sequence 
+question recently asked interview strong problem strong class meant profile execution time code class client expected create instance stopwatch call methods user code mess methods leading unexpected results start stop gettime calls order class reconfigured user prevented messing sequence proposed custom exception stop called start checks interviewer satisfied strong design pattern handle kind situations strong strong edit strong class members method implementations modified 
+
+commonly stopwatch href https commons apache org proper commons lang javadocs api org apache commons lang time stopwatch html apache commons stopwatch check pattern theyve provided illegalstateexception thrown stop watch state wrong straight forward 

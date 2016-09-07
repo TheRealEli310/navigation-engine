@@ -1,0 +1,4 @@
+index jsp file opens file list defined 
+written simple dynamic web project eclipse luna web xml page removed default tag url href http localhost indextest rel nofollow http localhost indextest directs web inf removed tag directs page absent 
+
+tomcat instance file list container tomcat default conf web xml tomcat instance lines suggest change tomcat default web application dependent container runs define file list web xml hope helps 

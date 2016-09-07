@@ -1,0 +1,4 @@
+jpa jpql query foreign keys 
+run query specific work customer based id troubles making queue retrieve data based foreign key doesnt work time run persistence unit testing error blockquote lang illegalargumentexception exception occurred creating query entitymanager exception description problem compiling select workentry customerid abstract schema type workentry unknown state field path customerid resolved valid type org eclipse persistence internal jpa entitymanagerimpl createquery entitymanager impl blockquote wondering missing fairly customer class workentry class 
+
+customerid entity integer exeption pass entity change query select workentry customerid customerid 

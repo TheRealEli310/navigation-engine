@@ -1,0 +1,4 @@
+terminate step spring batch job 
+processor checks record created days ago terminate step job reader read outdated record stepexecution setstatus stepexecution setendtime date suggest direct explicit terminate step 
+
+direct stop step doesnt exists br terminate step return process object set flag step execution context ol li prevent items current chunk processed li li prevent chunk processed item writing li li return reader stop step execution li ol 

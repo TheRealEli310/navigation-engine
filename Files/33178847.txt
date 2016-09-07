@@ -1,0 +1,4 @@
+exception thread main lang arrayindexoutofboundsexception 
+rid exception output exception thread main lang arrayindexoutofboundsexception obs2 obs2 find obs2 obs2 obs2 main obs2 
+
+executed infinity loop crash 

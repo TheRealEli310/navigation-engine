@@ -1,0 +1,4 @@
+text inside edittext contained recyclerview 
+recyclerview edittext button pressed recyclerview retrieve text view inside recyclerview find callback external class store data ways work luck practice geting text edittext indivdual added array database 
+
+recycle view list view view recycling mechanism reduce memory consumption simply iterating recycle view childs wont give data items recycle view items shown screen iterating recycle view childs data children view reused case save data edittext model bean class time view reusing recycle view adapter button clicked iterate childs data put data model bean class bean list edited data 

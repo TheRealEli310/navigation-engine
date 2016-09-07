@@ -1,0 +1,4 @@
+selenium pom model lang nullpointerexception error enter values webelements select elements 
+implementing pom model sleneium time skeleton function initialize webdriver application staring properly login traverse drifferent link receive lang nullpointerexception deduced issue caused objects class pages initialized lauch selenium suite elements class executed position initialized line code instance driver remaining code fo rcreating objects objfirstclass login system verify login objsecondclass print string represent success login objthirdclass enter values webelements select objects null exception error 
+
+referred link href http stackoverflow questions selenium webdriver select element selenium webdriver select element work btw approach workaround dont wanna cast webelement object select object resolved issue 

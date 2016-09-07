@@ -1,0 +1,4 @@
+android nullpointerexception valueanimator start 
+valueanimator animate view throws nullpointerexception call start stack trace calling start code part code creates calls animation 
+
+pretty correct create instance 

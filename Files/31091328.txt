@@ -1,0 +1,4 @@
+zxing qr code scanner embedded pressing back button scan issue 
+scenario maven repository gradle integrate zxing android app scan activity code work br scan qr code call function requestdata br press back scan mainactivity problem press back device function requestdata called scaningresult null shouldnt null back pressed ideea 
+
+dont interested br simply change line reason simply scanningresult return null suggested zxing team intent canceled 

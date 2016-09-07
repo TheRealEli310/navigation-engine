@@ -1,0 +1,4 @@
+forward request servlet jsp login tomcat 
+forward request jsp file login tomacat servlet forwarding request figure error servlet printed prints dont forwards 
+
+path relative extend current servlet context path begins strong strong interpreted relative current context root servlet container return requestdispatcher method returns 

@@ -1,0 +1,4 @@
+java8 localdatetime xmlgregoriancalender remove portion 
+output set xml tag takes shows remove portion 
+
+strong code strong strong explanation strong code makes href http docs oracle javase docs api javax xml datatype datatypefactory html newxmlgregoriancalendar lang string rel nofollow factory method expecting lexicographical representation local timestamp iso format refer timezone output timezone offset result considers timezone offset set 

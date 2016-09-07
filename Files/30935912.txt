@@ -1,0 +1,4 @@
+spring integration component scan 
+newbie spring mvc moved project spring integration turn channel service context xml servicefacade bind service channel wandering map classes turned channels map beans component scan ended href http docs spring io spring integration reference html overview html rel nofollow tutorial speaks annotation integrationcomponentscan understand related xml tag service activator channel confused experience idea scan con classes defines channels integration declare class 
+
+question bit unclear spring integration custom xml tag parsed infrastructure registered beans application context youd raw marker annotations application context classes treat beans techniques application context configuration dont lose continue mark class bean side fully build spring integration xml read mentioned doc entirety 

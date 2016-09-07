@@ -1,0 +1,4 @@
+dropwizard guice bundle application configuration module 
+general setup href http www codingricky dropwizard guice integration rel nofollow tutorial guice module pass construct singletons based server configuration problem configuration achieve 
+
+read tutorial carefully letting guice inject configuration method copied link 

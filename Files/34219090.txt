@@ -1,0 +1,4 @@
+streams string arrays 
+single string format extract item build array objects properties streams find achieve loops accumulating rows array string loop line split space separator resulting array elements build object rows process explain achieve streams mechanism valid thinking increasing number elements examples streams focus filtering collecting generally set elements retrieve minor set applying criterias 
+
+simple create line separator split input line split space keeping parts mapped finally array constructed result href https docs oracle javase docs api util regex pattern html splitasstream lang charsequence rel nofollow advantageous input long assumed code line separator default line separator os change hr reading file hold lines file 

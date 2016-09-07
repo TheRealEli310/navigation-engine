@@ -1,0 +1,4 @@
+thrift tnonblockingserver eof exception 
+server app written client app groovy server request sth thrift tnonblockingserver client send 100mb data operation error exception type strong end file strong tsimpleserver connections operation queue thread 
+
+finally found solution case add size operation client side case 

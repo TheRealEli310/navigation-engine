@@ -1,0 +1,4 @@
+run thread threadpoolexecutor 
+threadpoolexecutor run multiple threads application test single thread set nb threads case correct thread part code 
+
+dont make factory class expose convenient methods instance single threaded thread pool check source code youll find adding fixzed pool processors 

@@ -1,0 +1,4 @@
+run intellij noclassdeffounderror initialize class sun awt x11graphicsenvironment 
+unable start intellij fresh installed opensuse heres logs problem 
+
+reproduce issue opensuse machine installed fonts fix installing x11 fonts oracle jdk worked proprietary fonts included bundle fontconfig properties 

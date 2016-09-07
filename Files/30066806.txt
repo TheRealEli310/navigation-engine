@@ -1,0 +1,4 @@
+hashmap arraylist insertion performance confusion 
+understanding hashmap insertion arraylist insertion hashmap hashfunction computes hashcode index inserts entry array list comparison time enters element 
+
+firstly operation complexity lesser time operation complexity means operation takes constant time size input means time required operation increases linearly size input means theoretically guaranteed lesser time infinity coming examples operation runs amortized constant time means time iteration average complexity spread time information amortized constant time refer href http stackoverflow questions constant amortized time question 

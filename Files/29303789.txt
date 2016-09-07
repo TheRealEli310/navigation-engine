@@ -1,0 +1,4 @@
+org hsqldb hsqlexception unexpected token 
+exception execute select nolock handle overcome props stacktrace 
+
+syntax supported supported future versions current version hsqldb remove select statement 

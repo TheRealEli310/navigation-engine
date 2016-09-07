@@ -1,0 +1,4 @@
+web xml file missing project works properly 
+learning spring security href http websystique spring security spring security remember hibernate rel nofollow tutorial downloaded project worked problem package file deployed package tomcat server bit confused file project arent xml files make configurations files spring ultimately understand xml file thing file configuration structure spring 
+
+tomcat internally supports servlet api amp servlet servlet filter servletcontextlistener war file web xml refer blog href https blogs oracle swchan entry servlet annotations rel nofollow servlet3 find web xml part project 

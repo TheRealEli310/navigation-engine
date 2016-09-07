@@ -1,0 +1,4 @@
+lang outofmemoryerror heap space importing serialized file eclipse 
+import main serialized file program stop working throws exception thrown lack memory dont reason case pc 8gb ram file ini eclipse noticed eclipse memory pc error occurs ram 5gb approximately file import 500mb program worked files 350mb line code program crush line program weka library answers 
+
+eclipse ini file sets memory eclipse strong strong program set memory program open run run configurations dialog find program application section xmx option arguments vm arguments section 

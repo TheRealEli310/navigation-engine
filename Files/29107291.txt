@@ -1,0 +1,4 @@
+practice deploy war file cluster 
+cluster tomcat application deployed haproxy loadbalancing automate rolling deployment ol li setting node maintaince mode haproxy li li source code git li li create war file deploy node li li check application successfully running tomcat li li set state node ready li li repeat steps nodes li ol jenkins master rest slave chaining jobs ant file create war node copying webapps folder tomcat big companies follow rolling deployment appreciated 
+
+auto deployment tool vagran chef puppet 

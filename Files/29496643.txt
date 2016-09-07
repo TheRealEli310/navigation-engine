@@ -1,0 +1,4 @@
+access spring applicationcontext junit beforeclass static method 
+doesnt work attempts autowire static 
+
+autowire spring beans methods youve make instance method assign variable work fine dont guess annotate test class youll autowire 

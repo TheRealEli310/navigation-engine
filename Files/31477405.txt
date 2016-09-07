@@ -1,0 +1,4 @@
+android object thread looper 
+implement object android work thread make handler public wrap sentmessage method public api public methods pass data object object activity lifecycle onresume onpause looper handler pure thread infinite loop start worker thread resume stop working pause callback object wait message infinitely code correct implementation receive warning sending message handler dead thread issue 
+
+implementation 

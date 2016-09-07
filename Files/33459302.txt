@@ -1,0 +1,4 @@
+counting occurrences integers array 
+writing program counts occurrences integers entered array entered program print distinct numbers occurrences occurs times occurs times occurs times occurs time finished problem figure problem matter current num count prints problem isnt method counts occurrences enter numbers place variable alter itll print occurrences properly simpler solution havent past single dimension arrays 
+
+figure variables represent comments needed finally find bug suppose input ten numbers sort array returned numbers result array numbers numbers calculate sum occurrences incrementally loop logic changed ol li remove code block li li change condition li ol code work expected btw dont intricately 

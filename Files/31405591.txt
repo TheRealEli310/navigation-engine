@@ -1,0 +1,4 @@
+stateful bean passivation fails stateless beans references 
+weblogic 12c specific deploy ejb application application bean holds references beans injected annotations issue stateful bean passivated serialized disk weblogic serialize references stateless beans throws referring beans proxy injected weblogic comparison entitymanager reference passivated reactivated issue stateless beans issues define methods make code work make container handle stateless beans references attaching sample code reproduces problem remote bean interface stateful bean implementation nostate local interface nostate bean implementation finally exception passivatebean passivated disk 
+
+actual bug limitation weblogic posting workaround solution make bean passivation successfully implement methods annotated method make stateless bean reference point method perform lookup bean bean activated comments answers couple weeks mark answer solution 

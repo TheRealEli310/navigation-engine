@@ -1,0 +1,4 @@
+ehcache distributed multiple channel 
+ehcache ditributed mode caches synchronized channel requirement synch channels channel1 channel2 advance 
+
+instance cachemanagerpeerproviderfactory replicate synchronize number caches cluster case simply giving dont ehcache supports multiple channels youre requirement replication specific channel ul li run ehcache managers application ehcache xml specific replication logic common replication logic caches li li cache manager ehcache xml vary wont include cache requires specific replication logic application li ul cleaner approach multiple ehcachemanagers spring 

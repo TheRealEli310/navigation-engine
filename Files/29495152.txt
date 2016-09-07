@@ -1,0 +1,4 @@
+sqoop import oracle hdfs programming 
+ssh execute sqoop commands reference code href http stackoverflow questions sqoop program sqoop program error sqoop command found code div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override error shows execution failed executing command error message bash sqoop command found added sshxcute jar file sqoop command terminal works perfectly achieve 
+
+set sqoop home bash profile pass complete installation path bin sqoop change add code 

@@ -1,0 +1,4 @@
+properly read maze txt file 
+homework assignment traverse virtual maze recursion wanting make reading file properly goal code point read text file maze place starting point maze additionally read post bufferedreader filereader post kind vague advantage maze text file 
+
+classes read maze filechooser replace file maze manipulate assuming maze formatted width height top maze file separated space 

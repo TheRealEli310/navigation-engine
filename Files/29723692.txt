@@ -1,0 +1,4 @@
+store object represented json string couchbase lite 
+couchbase lite android app app retrieve bunch json objects server store locally find prior serialize hashmap data stored json infers unnecessary overhead results lot boilerplate code specific kind json fetch gson convert array pojos object store embedding deeper fields feel make things easier hints 
+
+havent directly store json couchbase document simplify pojofication suggestions listed href http stackoverflow questions json map json map mentioned youre json server retrofit href https github square retrofit rel nofollow https github square retrofit wouldnt deal directly json youd write mapping logic youd feed web service response objects couchbase 

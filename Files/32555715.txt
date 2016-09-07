@@ -1,0 +1,4 @@
+split large file chunks 
+method accept file size chunks return list chunked files main problem line file broken main file lines split file file code strong randomaccessfile strong class purposes main file big gb 
+
+dont mind chunks lengths lt sizeofchunk closest code problem file charset default system charset change ill add parameter splitfile function 

@@ -1,0 +1,4 @@
+read hdfs file splits 
+hdfss api read file sequentially reading block time heres href https sites google site hadoopandhive home hadoop read file hdfs rel nofollow simple read file em block em time hdfss href https hadoop apache org docs current api org apache hadoop mapred filesplit html rel nofollow filesplits end goal read file parallel multiple machines machine reading zone blocks hdfs path filesplits blocks map reduce processors involved strictly file system level operation 
+
+blocks locations file hdfs 

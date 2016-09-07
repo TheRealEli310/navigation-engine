@@ -1,0 +1,4 @@
+resultset getboolean tinyint sql 
+rs getboolean method tinyint sql work suppose helping 
+
+option work fine mysql tinyint act boolean save physical perform code field nouse false field nouse true 

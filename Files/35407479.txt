@@ -1,0 +1,4 @@
+gradle build failed task app processreleaseresources 
+ol li build gradle li li generating signed apk gradle build build failed task app processreleaseresources li ol stacktrace stuck solution fix issue plz 
+
+finally solution issue articles issue sdk tools version mismatch targeted sdk version build gradle file match sdk version installed 

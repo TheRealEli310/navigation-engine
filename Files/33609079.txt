@@ -1,0 +1,4 @@
+sum values map specific key 
+text file file line pair amount sum values key resolved improve code functional abillity process data concurrently parallel streams 
+
+write functional code rule dont imperative solution breaks functional code split line group part key summing part values code splitting line grouping stream href https docs oracle javase docs api util stream collectors html groupingby util function function util stream collector ul li function classifies item extract key resulting returns part line li li collector reduces key case href https docs oracle javase docs api util stream collectors html summingint util function tointfunction sums integer extracted mapper li ul hr side rewrite simply href https docs oracle javase docs api util map html merge util function bifunction method call put key key exist update key remapping function sum case 

@@ -1,0 +1,4 @@
+delay spring amqp message dispatching filled queue 
+spring amqp message driven application noticed constant delay 300ms invocations message listener queue filled messages logfile shows delay call thread logfile shows message processing queue definately full messages relevant parts spring configuration file struggling find reason delay understand originates spring blockingqueueconsumer happening call thread blockingqueueconsumer handledelivery method greatly apprectiated 
+
+network issue default configuration handles message time broker ack increasing listener container container message consumer thread ready network trace wireshark similar strong edit strong poor network live increased possibility duplicate deliveries increasing acks message set 

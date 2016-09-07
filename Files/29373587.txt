@@ -1,0 +1,4 @@
+oracle aq prioritised jms messages delivered reverse priority order 
+created oracle queue send messages spring messages put priorities consume messages fancy output blockquote ol li priority li li priority li li priority li ol blockquote href http docs oracle javaee api javax jms message html getjmspriority rel nofollow documentation jms message states explicitly wrong looked creating queue descending order priority href http docs oracle cd b19306 appdev b14258 aqadm htm i1014381 rel nofollow documentation doesnt descending order option sending set priority message 
+
+springs doesnt support message priorities subclass article href https aminsblog wordpress publishing qos priority enabled messages spring jms template rel nofollow https aminsblog wordpress publishing qos priority enabled messages spring jms template 

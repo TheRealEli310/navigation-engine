@@ -1,0 +1,4 @@
+request apache httpclient fails 
+apache httpclient rest requests request ends net sockettimeoutexception read timed hangs forever socket timeout set building client requests httpclient instance works fine start httpclient instance request server side wildfly running request request incoming client ideas missing wrong 
+
+hint href http stackoverflow users hotzst hotzst enable logging figured server returing http status content response data httpclient response data garbage response request broke screwing response headers changing reservers response code fixes problem 

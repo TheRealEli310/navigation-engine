@@ -1,0 +1,4 @@
+poi iterating excel row inserting values database 
+written code reads data excel sheet inserts data database successfully read data posting values database row posted code wrote successfully read rows display console code save values database saves row 
+
+requested code tested bugs remain ul li shouldnt call load database driver read introducing paragraphs href http docs oracle javase docs api sql drivermanager html rel nofollow drivermanager li li href https docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow resources make code robust easier maintain li li reuse prepared statements li li href https poi apache org apidocs org apache poi ss usermodel dataformatter html rel nofollow dataformatter cell values text correct types sql li ul code 

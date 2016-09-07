@@ -1,0 +1,4 @@
+javafx acitivity android 
+project merging pieces code written earlier application ul li android activities maps activity login activity li li javafx controls forms windows client li ul reuse javafx forms android application load previous android activities button click sth achieved 
+
+merge javafx android projects href http javafxports org page home rel nofollow javafxports project developing javafx project deployed desktop mobile platforms include single plugin build gradle starters gluons href http gluonhq gluon plugin netbeans rel nofollow plugin netbeans create javafx project add sources add existing javafx sources main folder add android activities android folder adapt android activities run javafx thread href http jperedadnr blogspot javafx mobile dream true html rel nofollow post sample gluon charm href http gluonhq charm rel nofollow library added project interact native services gps mind android runs dalvik vm wont features streams 

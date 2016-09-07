@@ -1,0 +1,4 @@
+run evosuite jdk 
+error run evosuite bit confusing run jdk stating shouldnt run version 
+
+jdk installed machine jre evosuite compile verify tests generates jdk evosuite find configure home system variable point 

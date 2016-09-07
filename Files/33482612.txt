@@ -1,0 +1,4 @@
+word count 
+code supposed return amount words words lengths letters works enter pplease spot error edited code 
+
+apply solution href https en wikipedia org wiki regular expression rel nofollow regular expression process text prepared sketch code summarized code ul li replace letter letters space li li split results spaces li ul resulting array words sequences letters contained original string full found href https ideone v3qwdy rel nofollow print words list case count words return count elements array 

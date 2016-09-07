@@ -1,0 +1,4 @@
+illegal attempt associate collection open sessions calling session update 
+entities entity relationship relationship optimization purposes store cache retrieve request retrieve entity cache detached current hibernate call method current attach avoid errors check entity attached session method object code sample show proceed code called retrieve connected user retrieve cache user cache load database insert cache update entity attach session attached method throws exception call player attached session method returned false exception avoid strong edit strong exception modify entitys call exception entity detached detached previous exception session ps session thread 
+
+concurrency problem imagine multiple parallel http requests request solution href https docs oracle javase tutorial essential concurrency syncmeth html rel nofollow synchronization 

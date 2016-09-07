@@ -1,0 +1,4 @@
+jbpm unable pass arraylist parameter starting process 
+facing error start jbpm workflow process accepts parameter type util list defined process variable bpmn file code start process connection established properly trigger process null params 
+
+issue solutions links href https developer jboss org thread rel nofollow https developer jboss org thread href https developer jboss org thread rel nofollow https developer jboss org thread 

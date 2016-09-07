@@ -1,0 +1,4 @@
+creating custom scheduled job monitor atg 
+researching eventually create web app monitor scheduled jobs run website based strong atg strong lot ootb components thought lack knowledge atg placement student whos properly months current thought hook custom code strong performscheduledtask strong extending strong singletonschedulableservice strong current scheduled tasks extending strong singletonschedulableservice strong doesnt sound good idea files change code rough idea happen pre existing strong performscheduledtask strong adding code strong doscheduledtask strong called send messaging starting finishes error send suitable message bit lost moment web app completely hooking scheduled jobs appreciated extra information 
+
+considered purpose page accessed lot information scheduled components performance monitor built implement methods recommend hooking code method performance monitor enabled disabled property scheduled component hope helps 

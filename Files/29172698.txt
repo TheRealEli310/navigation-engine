@@ -1,0 +1,4 @@
+junit version expected 
+android studio project app module android framework dependent created module called domain pure classes test classes modules build gradle file added junit mockito libraries testing purpose giving error message execute test class suggested solutions problem open project structure modules dependencies move junit jar android platform classpath fact implement solution problem exist img src http stack imgur el4uo png alt enter image description idea resolve issue 
+
+managed solve problem changing iml file 

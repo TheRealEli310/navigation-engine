@@ -1,0 +1,4 @@
+calculate lrc 
+message protocol ul li stx 0x02 li li etx 0x03 li li dle 0x10 delimiter front 0x2 0x3 0x10 data bytes stx etx dle li li data values 0x02 0x03 0x10 delimited avoid confusion stx etx dle li li lrc calculates xor excludes dles stx includes etx lrc values delimited 0x2 0x3 0x10 li ul data test message testing lrc calculation lrc calculation test byte message protocol check valid message data corrupted 
+
+broadly speaking parsing works em state em variable depending symbol read state changed error state protocol validating message logically start work states byte stx valid message calculate lrc etx find etx byte lrc conditional states escaping dle expressed states state transition table putting code shouldnt terribly difficult 

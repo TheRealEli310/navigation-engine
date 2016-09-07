@@ -1,0 +1,4 @@
+micro benchmarking loop values jmh 
+loop inside jmh benchmark good idea optimized jit compiler avoided feed jmh benchmark methods values inputs list inputs loop 
+
+href http hg openjdk net code tools jmh file 06c8e8aa576b jmh samples src main org openjdk jmh samples jmhsample params rel nofollow jmh documentation annotation field order jmh inject values annotation benchmark run values annotated field primitive values parsed prior assigment assigned converted forms multiple fields annotation jmh run benchmark permutation field values overridde assignment defining jmh runner 

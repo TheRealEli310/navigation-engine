@@ -1,0 +1,4 @@
+set hibernate configuration properties connect mysql fabric driver 
+code working creates tables hibernate configuration mysql database code referred datasource config longer run standalone tomcat container made hibernate config pom includes code problem find driver fabric driver jar driver environment driver line set correctly refer dont driver couple years ago find maven central database called songkong correct correctly commandline dont show real username password code excerpt 
+
+noticed fabric driver jar setting environment driver modifications environment url fixed 

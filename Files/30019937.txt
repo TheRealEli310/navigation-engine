@@ -1,0 +1,4 @@
+sun misc launcher appclassloader breaking code 
+classloader reflectionclassloader dynamicly load jar files places order play obfuscated code environments works fine ide fun play export setup eclipse find class loader loaded standard loaded stores data resources loaded classes completely breaking system eclipse loaded loading appears evident custom url protocol debugrsrc loaded system classloader reflecting returns returning main method completely isolated rest program escape thinking pulling unsafe id prefer sun mess classloaders 
+
+solved issue 

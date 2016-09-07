@@ -1,0 +1,4 @@
+soap request jax ws wrong namespace uri generated 
+connect soap service wsimport generated classes remote wsdl code traced request xml href http schemas xmlsoap org soap envelope rel nofollow http schemas xmlsoap org soap envelope wrong returns empty result soap ui correct uri href http www w3 org soap envelope rel nofollow http www w3 org soap envelope works soap ui dont set jax ws suspect related soap version strong update strong br run output good enoguh 
+
+solution trivial returns service soap 

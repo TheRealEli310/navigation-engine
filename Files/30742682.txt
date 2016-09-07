@@ -1,0 +1,4 @@
+spring boot multiple servlets error 
+servlets spring boot application mapped uri mapped local dispatcherservlet vaadinservlet access local blabla vaadinservlet called jboss application happen configuration set spring boot question noticed mapping disable dont uri href https localhost test local userremote rel nofollow https localhost test local userremote log 
+
+found give details dispatcherservlet property file server servlet path local bu disable dispatcherservlet 

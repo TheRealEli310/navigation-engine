@@ -1,0 +1,4 @@
+applet windows keystore privatekey getencoded null 
+understanding href http www oracle technetwork articles javase security html rel nofollow documentation possbile access microsoft windows keystore service load privatekey keystore privatekey getencoded properly access privatekey windows keystore access output jre tested win7 
+
+mscapi support private key export javadoc specifies blockquote returns key primary encoding format null key support encoding blockquote href http grepcode file repository grepcode root jdk openjdk b132 sun security mscapi key rel nofollow source code crypto provider mscapi method returns cases 

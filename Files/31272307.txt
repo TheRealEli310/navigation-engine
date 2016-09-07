@@ -1,0 +1,4 @@
+longest common substring splitting words 
+implement modified version longest common substring split words output calculating longest common substring filtering words split code failing cases output blank longest common substring ere ho 
+
+based karthik bnas comment character based answer flawed tokenization worked version handles strange characters lcs algorithm straight pseudocode href https en wikipedia org wiki longest common substring problem pseudocode rel nofollow https en wikipedia org wiki longest common substring problem pseudocode 

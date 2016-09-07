@@ -1,0 +1,4 @@
+convert localdate sql date 
+convert localdate sql date attempt fails find joda time stuff unsing 
+
+answer simple convert record youre jooq method date record lets date column called date birth method called 

@@ -1,0 +1,4 @@
+xstreamomitfield restlet gae working 
+pojo field annotated response field code simplified heres pom config version problem automatic strong update strong idea caused apispark library app causing xstream favor jackson 
+
+extension extension automatically registers converter addition extensions method converters registered registeration depends order classpath guess jackson registered means convert response data request jettison extension manually remove registered jackson converter hope helps thierry 

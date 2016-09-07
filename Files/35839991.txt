@@ -1,0 +1,4 @@
+convert list string set 
+liner convert list string set enum instance id convert items 
+
+make elements map respective enum mapper collect href https docs oracle javase docs api util stream collectors html tocollection util function supplier initialized href https docs oracle javase docs api util enumset html noneof lang class simply interested result simply built collector 

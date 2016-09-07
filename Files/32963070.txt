@@ -1,0 +1,4 @@
+hashset object returns false instance modified insertion 
+href http docs oracle javase docs api util hashset html lang object rel nofollow javadoc util hashset method blockquote returns true set element formally returns true set element strong null null equals strong blockquote work code prints blockquote false true blockquote method returns returns guess modified toinsert instance added collection documented wasnt find documentation referenced equals method 
+
+object stored put data structure easily read efficiently searchable objects modifying object change depending implemented update location object knowing contained couple things ol li modify implementation isnt affected field youre changing assuming field important objects state participates method code smell avoided li li modifying object remove set add youre modifying li ol br 

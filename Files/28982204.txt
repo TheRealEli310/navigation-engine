@@ -1,0 +1,4 @@
+sonar equals avoid null violation 
+fixing sonar violations warning equals avoid null br string literal expressions left side equals comparison changed change fix violation possibly explain original violation dont understand issue read href https sonar43 spring io rules show checkstyle puppycrawl tools checkstyle checks coding equalsavoidnullcheck layout false rel nofollow https sonar43 spring io rules show checkstyle puppycrawl tools checkstyle checks coding equalsavoidnullcheck layout false articles stil dont problem 
+
+warning telling wont literal empty string null definition handle argument youre avoiding potential writing youre statement null checking youre checking em doesnt em equal literal makes sense null values pass href http checkstyle sourceforge net apidocs puppycrawl tools checkstyle checks coding equalsavoidnullcheck html rel nofollow docs related blockquote pretty common null check equals comparisons blockquote 

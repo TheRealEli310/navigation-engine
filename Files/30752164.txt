@@ -1,0 +1,4 @@
+caused org hsqldb hsqlexception cardinality violation 
+hsqldb backend application call procedure single record resultset multiple records exception 
+
+variable scalar accept single return multiple rows data open cursor procedure body read resultset returned procedure call details guide href http hsqldb org doc guide sqlroutines chapt html src returning data rel nofollow http hsqldb org doc guide sqlroutines chapt html src returning data 

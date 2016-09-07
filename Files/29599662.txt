@@ -1,0 +1,4 @@
+create localhost access log file tomcat 
+localhost tomcat file file requests ipaddress datetime request type post full url captured main server tomcat tomcat localhost access log file requests made server create localhost access log requests made server 
+
+change yout configuration href http www techstacks howto configure access logging tomcat html rel nofollow information 

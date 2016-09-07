@@ -1,0 +1,4 @@
+running javafx applications jfxpanel application launch 
+large application doubts startup process experiments found ways starting environment strong approach strong kind embedding initialize call applications start method strong approach strong method call implications approach disadvantages jfxpanel embedding 
+
+recommend application launch start declarative service activator start thread call blocking jfxpanel add swing mix swing event dispatch thread edt released early access versions href http wiki drombler org dromblerfx rel nofollow drombler fx modular application framework javafx based osgi apache felix maven pom read drombler fx href http puces blog blogspot ch search label drombler rel nofollow http puces blog blogspot ch search label drombler href http wiki drombler org gettingstarted rel nofollow started page explains create build run drombler fx sample application simple steps 

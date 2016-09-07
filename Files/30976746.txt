@@ -1,0 +1,4 @@
+form submit portlet spring mvc 
+achieve liferay portlet submit form spring mvc strong model strong strong controller strong strong view jsp strong built war maven deployed war apache tomcat liferay portal point working fine problems run portlet console error stacktrace describes wrong controller correct problem 
+
+version liferay ga1 liferay portlet xml file add attribute recompile test liferay adds namespace request parameters default disable 

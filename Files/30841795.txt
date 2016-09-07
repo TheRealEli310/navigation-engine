@@ -1,0 +1,4 @@
+context configuration spock test 
+application class userservice class discovered enablejparepositories ibd jpa test userservice issue strong userservice test null doesnt wired means context isnt loaded problem contextconfiguration test strong 
+
+solved usage resttemplate href http stackoverflow questions spring boot spock integration test rq question 

@@ -1,0 +1,4 @@
+char array byte array utf string charset 
+question encode char array utf byte array equivalent converting char array string byte array option string avoided security concerns length input array symbols output array extra element empty length longer empty elements decode extra extra elements encoding empty element decoding option encrypt encoded 
+
+problem makes guarantees em capacity em buffer returns allocate extra space end buffers em limit em set correctly fact guarantee returned buffer backed array made direct buffer future versions properly sized array youll make properly sized byte array copy data byte buffer array limit amount content written buffer size array href http tutorials jenkov nio buffers html capacity position limit rel nofollow article describes limit capacity position buffers nicely 

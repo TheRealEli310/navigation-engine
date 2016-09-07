@@ -1,0 +1,4 @@
+mandatory package declaration 
+mandatory class declare package belongs package hierachy enforced folder structure file system line line class redundant information pretty good reason 
+
+blockquote package hierachy enforced folder structure file system blockquote necessarily good idea organize code requirement bear mind source code neednt file system start fundamentally reasonable make em content em source file important thing heck extreme assume class declared filename convention explicitly valid jls enforced compiler public top level classes 

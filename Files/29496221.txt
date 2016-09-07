@@ -1,0 +1,4 @@
+gson string complex json 
+parse json link href https api guildwars2 v2 items rel nofollow https api guildwars2 v2 items fine met line dont wrong element inside elements inside dimension array code long post problem dont continue transforming jsonarray string array guess attributes 
+
+proper formatting href http jsonlint rel nofollow jsonlint checks json data valid formatting makes structure clear gw link array jsonobject object key pairs parser throws error require array string case actual type hr blockquote problem dont blockquote hold gson oo language suggest create classes easier fetch datas afterward parsing provide class actual class json data represents parser edge cases handled writing custom serializer deserializer data typed bunch jsonobject jsonarray give good starting point give type parser hope helps 

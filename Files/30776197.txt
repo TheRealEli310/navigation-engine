@@ -1,0 +1,4 @@
+test exceptions activitytestcase instrumentationtestcase 
+creating junit tests android studio testclass extends activitytestcase instrumentationtestcase parameter short range pass throw exception test passed check 
+
+classical junit add annotation testcase annotation android support pre junit catch 

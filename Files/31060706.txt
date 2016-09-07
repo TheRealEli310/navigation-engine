@@ -1,0 +1,4 @@
+jgit parameters logcommand 
+jgit provide service give information remote repositories jgits unable find achieve analogous find functionality jgit 
+
+compared native gits command jgit offers basic options jgit custom filters iterating commits pre class lang prettyprint override includes commits author pre class lang prettyprint override abort walk filter throws 

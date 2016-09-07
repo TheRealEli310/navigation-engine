@@ -1,0 +1,4 @@
+changing default selected item navigation drawer android 
+process developing android app eclipse created project created activity navigation drawer problem change default selected item navigation drawer 1st 2nd open app href http prntscr 6h42s2 rel nofollow http prntscr 6h42s2 screenshot open app hospitals item3 selected default screen item1 pasting code main activity hospitals unable find solution problem assistance direction appreciated 
+
+default youre simply change property element selected count starts 

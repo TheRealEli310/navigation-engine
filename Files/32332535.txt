@@ -1,0 +1,4 @@
+javafx installer inno setup put modify iss file 
+ant inno setup build deploying exe javafx application change install folder follow answer topic href http stackoverflow javafx installer inno setup user change install directory make change problem dont put iss file eclipse project tree part iss file run dont find icon exe file question put iss file nice 
+
+didnt find answer find workaround ant script generate exe task fx deploy change native bundles exe launch ant script create jar jnlp jre exe exe inno setup script choose nativebundles exe deleted generated setup nativebundle abble create manually inno setup script install exe jre good folder hope bad english 

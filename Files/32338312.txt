@@ -1,0 +1,4 @@
+error reading json file 
+searched issue site couldnt find missing hr population states mp mh rn hr error unexpected character position org json simple parser yylex yylex yylex org json simple parser jsonparser nexttoken jsonparser org json simple parser jsonparser parse jsonparser org json simple parser jsonparser parse jsonparser 
+
+error message show weird character position json file href https en wikipedia org wiki byte order mark utf rel nofollow bom byte order mark starts byte code page character save json file apis dont support boms alternatively save em em bom read 

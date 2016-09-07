@@ -1,0 +1,4 @@
+recursion find smallest element double linked list 
+required class assignment write method method signature method return smallest element list recursion modify method signature growth function big greater nlogn isnt acceptable dont worry doublelinkedlistadt interface teacher supplied assign doublelinkedlist reference doublelinkedlistadt type child works empty list single element list element list larger fails guess dont understand recursion baffled fact return statement search method returned call search findsmallest class return call search smallest object reference wrong smallest give code correct figure 
+
+code complex double linked crawling nasty elegant solution list ints adapting list type easy 

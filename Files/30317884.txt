@@ -1,0 +1,4 @@
+access mac os kernel framework mach jna 
+attempting write class access mac os memory statistics working implementation parsing string returned vm stat jna access native code dug vm stat source code identify host statistics64 function call library framework executes header files located system library frameworks kernel framework unlike framework directory executable file jna code access framework throws unsatisfiedlinkerror image found code attempt access library code works fine random selection frameworks directory applicationservices framework binary executable inside directory structure kernel spent hours google hunt solution success advice 
+
+find command run tells libraries loaded mac os command produced output blockquote usr lib libsystem dylib compatibility version current version blockquote worked charm equivalent linux command ldd 

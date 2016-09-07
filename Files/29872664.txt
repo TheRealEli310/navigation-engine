@@ -1,0 +1,4 @@
+add key priority queue sort key 
+list strings add priority queue key key word string word sort queue highest string priority queue letting add values 
+
+h2 problem h2 href http docs oracle javase docs api util priorityqueue html rel nofollow store single object node compose objects single class supply href https docs oracle javase docs api util comparator html rel nofollow rely href https docs oracle javase tutorial collections interfaces order html rel nofollow natural ordering implementing href http docs oracle javase docs api lang comparable html rel nofollow interface hr h2 solution h2 ul li create class members li li implement interface delegate comparison li li build class li li add elements li ul hope helps 

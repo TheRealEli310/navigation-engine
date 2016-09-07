@@ -1,0 +1,4 @@
+aws sqs messages retrieved sqs queue 
+approaches retrieve messages sqs queue aws sdk avail read distributed nature aws sqs messages stored servers understand architecture hidden end user tricks apply code retrieve messages missed strong long polling strong strong request batching client side buffering strong unable retrieve messages idea aws forum silence post 
+
+receiving messages sqs queue repeatedly call call messages queue youll iterate message youll call remove message queue youre processing message add loop long polling sample receive messages receive message work reprocess message detect repeated message 

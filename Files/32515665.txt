@@ -1,0 +1,4 @@
+good practice class implements interfaces 
+approach recently head strong strong good practice reasons ol li dependency add method interface classes implement li li memory usage instance object class memory usage higher association relation li ol languages dont kind em feature em reason explain implement multiple interfaces class shouldnt 
+
+thumb rule points suggested applies fact point doesnt make sense point wrong guess jdk classes youll easily basis interfaces class implements collection classes implement respective collection interface design choice stops creating make conscious choice create bizarre mentioned interface methods mechanism allowed improvement existing classes keeping backwards compatibility important design aspect amount interfaces counts design 

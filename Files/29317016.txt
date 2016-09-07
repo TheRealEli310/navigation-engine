@@ -1,0 +1,4 @@
+pipelines removed akka 
+learning akka implement simple protocal top akka documentation href http doc akka io docs akka io codec html rel nofollow gradle file version shown import things pipeline specific generate resolve symbol errors questions ol li removed dependancy add gradle file li li removed encod decode stage dealt li ol 
+
+pipelines experimental removed akka removal documented href http doc akka io docs akka snapshot project migration guide html experimental pipelines io abstraction removed rel nofollow migration guide mention package older pipeline implementation akka href https github gideondk sentinel pipelines rel nofollow doesnt simple addition dependency wager akka streams intended replacement pipelines coming akka href http akka io docs akka streams http rel nofollow experimental module encode decode stage protocol layer handled akka streams conjunction akka 

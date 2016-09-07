@@ -1,0 +1,4 @@
+implementation differences optimizations lambda expressions anonymous classes 
+lets assume iterate collection objects lambdas work object predicate consumer created time call code jit compiler optimalize lambda expression performace declare lambdas variable pass reference 
+
+blockquote lambdas work object predicate consumer created time call code jit compiler optimalize lambda expression performace declare lambdas variable pass reference blockquote job jit make dont worry jit make automatically static constant reused entire class instance reused classes lambda entire point lambdas write simplest code makes sense jit freedom make efficient lambdas generated simply desugared anonymous classes place em write code trust jit thing em overwhelming complicated nitty gritty details href http cr openjdk net briangoetz lambda lambda translation html rel nofollow source 

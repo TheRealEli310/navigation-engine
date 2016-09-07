@@ -1,0 +1,4 @@
+aes encrypt cfb nopadding mode 
+encrypt data aes cfb nopadding algorithm decrypt mode result cfb nopadding mode bytes data length data cbc padding mode doesnt work cfb padding mode encrypt code decrypt code 
+
+switch algorithm string character configures amount bits feedback encrypted block error recovery cfb anymore efficient full bits feedback mode ctr gcm mode encryption 

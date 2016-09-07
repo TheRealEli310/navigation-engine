@@ -1,0 +1,4 @@
+math pow math pow performance 
+compare performance pow pow faster speed removed jit optimalizations running jar xint parameter idea alot 
+
+spite unfair downvotes question makes sense reveals real jvm bug run oracle jdk performance highly varies jvm versions ul li jdk 7u40 software implementation simply called href http www netlib org fdlibm pow rel nofollow ieee754 pow function emulates operation software slow special case li li jdk 7u40 jvm intrinsic translated fpu instructions jit optimization special case lost resulting performance regression href https bugs openjdk net browse jdk rel nofollow bug jdk li li performance regression fixed jdk 8u25 upcoming 7u80 jdk 8u25 works fast values extremely fast href http stackoverflow questions xx math powx performance related question li ul strong strong approximate times seconds 100m invocations machine versions jdk 

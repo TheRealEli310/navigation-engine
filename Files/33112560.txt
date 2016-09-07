@@ -1,0 +1,4 @@
+thread blocking javafx ui thread 
+provide feedback javafx application user chooses menu item launches blocking process thread real application file download created test case minimal code heres supposed work select start menu item main menu text immediately change running append sleep simulates file download happening em em text updates firing em em blocking process wrong 
+
+easiest needed update ui thread case track progress background task running methods task safely pass messages ui thread worrying scheduling edt find information href https docs oracle javase javafx interoperability tutorial concurrency htm rel nofollow https docs oracle javase javafx interoperability tutorial concurrency htm minimal working 

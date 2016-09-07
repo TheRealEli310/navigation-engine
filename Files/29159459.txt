@@ -1,0 +1,4 @@
+android histogram equalization 
+algorithm android studio equalize image shows error method doesnot recognise showing errors wrong edited code crashes layout xml file 
+
+method android class call href http developer android reference android graphics bitmap html getpixel int 20int rel nofollow getpixel directly function returns integer argb separate components set pixel 

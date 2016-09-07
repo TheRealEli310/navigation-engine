@@ -1,0 +1,4 @@
+spring integration parallel processing aggreagation 
+couldnt find clear documentation message channel receives message duplicate message conditional basis simple flow apply discard messages channel duplicate message channel 
+
+publish subscribe channel subscribers standard flow follow duplication flow duplication flow filter choose message send 

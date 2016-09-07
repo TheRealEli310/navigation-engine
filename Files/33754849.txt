@@ -1,0 +1,4 @@
+unable initialize datasource annotation bluemix 
+application running bluemix cloud server originally developed locally tomcat server decided migrate cloud option suggested liberty sqldb services finicking setup bluemix account sql database named sql rct bound service application problem encountered running code load servlet error nullpointer exception init function quickly narrow mydatasource object null checked server xml lookup lookup doesnt work appreciated server xml 
+
+injected resources servlet constructors resources injected servlet instance fully initialized strong override javax servlet genericservlet init method conneciton strong lifecycle method give similar lifecycle behavior create connection servlet constructor code strong side strong br liberty pools connections store connection class scope connections needed close performance difference connection servlet init code eagerly connection fine impact servlet load time 

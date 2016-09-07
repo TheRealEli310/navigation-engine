@@ -1,0 +1,4 @@
+orient db export database datatables 
+working orient db export data tables code working problem including classes output file setincludeclasses prints classes database issue problem advance 
+
+change line havent found documentation strong includeclasses strong expecting classes uppercase strong excludeclasses strong href https github orientechnologies orientdb blob master core src main orientechnologies orient core db tool odatabaseexport l190 rel nofollow source code 

@@ -1,0 +1,4 @@
+jbehave pass array parameter story file step file 
+reading jbehave docs finding speaks specific case closest found href http jbehave org reference stable parametrised scenarios html rel nofollow parameterised scenarios dont run logic times parameters run step logic set parameters specifically pass combinations numbers 
+
+href http jbehave org reference stable tabular parameters html rel nofollow tabular parameters rewrote jbehave fit pass count combinations tables inside steps transform array list 

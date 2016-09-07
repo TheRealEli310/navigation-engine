@@ -1,0 +1,4 @@
+change log4j2 root logger programmatically add appenderref threadcontextmapfiler values 
+change logging configuration application runtime circumstances add appenderref existing root logger strong configuration strong startup root logger reference consoleappender thing achieve add reference traceappender runtime thing add keyvaluepairs threadcontextmapfilter create threadcontextmapfilter complicated code doesnt work strong static method seperate class strong strong call strong environment tomcat7 log4j2 linux x64 sebastian 
+
+dynamically change target log file configuration mentioned href https logging apache org log4j faq html separate log files rel nofollow https logging apache org log4j faq html separate log files define multiple routes configuration put values threadcontext map determine log file subsequent events thread logged 

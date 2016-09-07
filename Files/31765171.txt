@@ -1,0 +1,4 @@
+reverse nodes linked list 
+links explanation reverse smb explain code drawing writing dont reversed 
+
+list current node loop list nodes head node step 

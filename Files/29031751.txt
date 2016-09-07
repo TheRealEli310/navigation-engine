@@ -1,0 +1,4 @@
+replace instance delimiter character 
+input string replace instance delimiter manipulated break input string separated construct output string based find simplest expected output string 
+
+regex 

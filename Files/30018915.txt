@@ -1,0 +1,4 @@
+retrofit deserializer response 
+call webservices return response object query user customer provider thing object user customer code string message error code ko structure common webservices find handle guess create custom deserializer job make generic api responses objects generate kind message error code ko 
+
+basically dont interface abstract class work idea messages including error implements extends common type annotations jackson deserialize json based property order work jackson messages type parameter code json simply type class deserialize json make fields final immutable simple jackson constructors annotate parameters constructor mark href https github fasterxml jackson module parameter names rel nofollow extremely 

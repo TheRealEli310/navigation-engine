@@ -1,0 +1,4 @@
+hibernate search indexing items database 
+integrate hibernate search application rough summary ul li spring batch reads xml file persists objects database de jdbcbatchitemwriter hibernateitemwriter slow performance li li items inserted build hibernate search lucene index li ul problem step indexed setup joblistener index data database check index luke find records guess transactions figure make work persistence configuration entity indexed 
+
+problem defining search properties em jpaproperties em processed entity manager call mass indexer plain em session em case jpa properties picked guess index directory created relative start jvm work hold 

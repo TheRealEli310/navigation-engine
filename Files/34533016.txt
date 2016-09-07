@@ -1,0 +1,4 @@
+hibernate xml configuration 
+db relationship br href http stack imgur yr570 png img src http stack imgur yr570 png alt db scheme relationship fix xml configs strong expected result strong execute strong actual strong blockquote org hibernate mappingexception foreign key fk8cd18ee134f64423 player id number columns referenced primary key privilage id privilage blockquote 
+
+reference relationship table called player priv 

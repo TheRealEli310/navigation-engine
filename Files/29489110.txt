@@ -1,0 +1,4 @@
+spring web mvc portlet websphere portal 
+develop spring web mvc portlet work properly liferay portal uploading websphere message appears portlet thinking solve issue created portlet project change changed upload portlet liferay portal work websphere portal suggest plugin create websphere portlet eclipse dont hesitate thankful 
+
+order deploy portlet websphere portal portlet descriptor portlet xml class controller annotation libraries classpath check server log find reason message portlet v8 file path opt ibm websphere wp profile logs websphere portal systemout log 

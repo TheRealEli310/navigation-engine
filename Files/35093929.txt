@@ -1,0 +1,4 @@
+setup spring cloud zuul server proxy server 
+spring cloud zuul server proxy server access default context redirect url destination application properties configuration missing 
+
+add blockquote run zuul server proxying switch parts proxying platform selectively beans add application type installed automatically proxy filters added automatically case routes zuul server configuring strong service discovery proxying serviceid url settings strong blockquote 

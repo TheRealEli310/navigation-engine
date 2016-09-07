@@ -1,0 +1,4 @@
+iterate list 
+iterate list parent child grandchild sample data id parent id list iterate roots sample output ul li parent ul li childa ul li grandchildb li ul li li childb ul li grandchilda li ul li ul li ul sample data constructor objects arraylist arraylist testlist problem iterate list result ul li parent ul li childa ul li grandchildb li ul li li childb ul li grandchilda li ul li ul li ul 
+
+recommend tree data structure print 

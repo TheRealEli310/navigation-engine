@@ -1,0 +1,4 @@
+reading csv file ibm mq 
+achieve read csv file queue application data queue stored byte csv file uploded directly 
+
+mq care put message body simple text stream bytes structured data application handle message body message body stream bytes mq convert bytes text format mq send receive files application read data file buffer set buffer message body send message receiver side application receive message retrieve message body write file mq managed file transfer product 

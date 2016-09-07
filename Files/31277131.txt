@@ -1,0 +1,4 @@
+calculate angle lines represent human arm kinect data set 
+obtained coordinates human shoulder elbow wrist microsoft kinect device data respect kinect device taking coordinates moved arm sample data set show calculate angle arm conditions ol li assuming coordinates fixed data set assumption true li li assuming coordinate fixed li ol code calculate angles conditions code run code check calculated angle values totally values assumptions answers answers correspond sample data set find problem 
+
+finally found mistake code print angle vectors 3d space read documentation method method returns angle radian 2d plane result method convert angles degrees 3d coordinates angle values radian 

@@ -1,0 +1,4 @@
+daemon thread survive jvm exits 
+reading docs javas method confused read jvm exits waiting daemon threads finish essentially daemon threads rely running jvm achieve functionalities daemon threads survive jvm exits daemon thread finishes 
+
+dont survive jvm exit threads daemon died start application jvm start single daemon thread run static main method main method exits main thread die spawned daemon thread jvm exit started thread jvm exit wait daemon threads die exiting thread spawned vital absolutely thing threads vital listening external event happen theory place code stop threads spawned jvm exit error prone easier mark vital threads daemons marked jvm wait die exiting jvm exit kill threads main threads marked daemon died put code havent tested code wrote directly stupid mistakes running code line commented thread deamon main method finished youll console flooded stop ctrl jvm exit uncomment line thread daemon main method finished thread killed jvm exit ctrl 

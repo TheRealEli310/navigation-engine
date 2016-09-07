@@ -1,0 +1,4 @@
+netty client send alive server 
+write alive command client server netty found option dont solve problem client side code add channel handling code method implements 
+
+javadoc generate events current status channel ul li timeout read operation li li timeout write operation li li timeout read write operation li ul implement handlers handling events documentation href http netty io api io netty handler timeout idlestatehandler html rel nofollow close read idle send ping write idle implement pong response changing read part ping request handle alive related protocol client server side 

@@ -1,0 +1,4 @@
+cas4 unsupported major minor version 
+deploying strong jasig cas strong href https github uniconlabs simple cas4 overlay template rel nofollow maven overlay installation created custom classes deploying error cas log h3 environment specs h3 ul li os debian li li web server apache tomcat li li oracle ul li amp javac version li li home usr lib jvm oracle jre li ul li li maven li li eclipse luna li ul h3 maven pom h3 ul li maven compiler plugin li li maven compiler source li li maven compiler target li ul appreciated 
+
+runtime dbl check tomcat tomcat manager installed web page check add echo catalin sh check version typically linux jave sdk installed link recent tomcat path javasdk set home 

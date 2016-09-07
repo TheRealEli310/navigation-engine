@@ -1,0 +1,4 @@
+create dimensional array stream 
+text file strong ids txt strong read file load dimensional array expect array similar code wrote running code exception raised resolve exception 
+
+parse item wrap turn result simply input output 

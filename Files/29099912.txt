@@ -1,0 +1,4 @@
+callback activity cordova 
+activity called signature call cordovaplugin plugin signature call cordova startactivityforresult function onactivityresult immediately invokes callback activity finishwithresult advices 
+
+code missing return statement em execute em method android cordova plugin wait result back webview app em result em em setkeepcallback em em pluginresult em cordova android expects result em execute em method finished plugin href https github shaithana cordova plugin wezka nativecamera blob master src android nativecameralauncher rel nofollow plugin class href https github shaithana cordova plugin wezka nativecamera blob master src android cameraactivity rel nofollow signature class mine href https github blauharley cordova reminder blob exp src android reminderlauncher rel nofollow href https github blauharley phonegap androidplugintest blob master src phonegap plugintest cameraplugin rel nofollow 

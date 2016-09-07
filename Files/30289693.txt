@@ -1,0 +1,4 @@
+fix nullpointerexception loop 
+file consistently runtime error line loop find avoid nullpointerexception current code line object basically matrix board game othello method return boolean method return players color opponents color dont understand returning null nullpointerexception causing error fix greatly appreciated 
+
+blockquote method getstate return players color opponents color yourcolor strong null strong blockquote returns null throw avoid change condition null impossible based code provided 

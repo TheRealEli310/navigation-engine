@@ -1,0 +1,4 @@
+activitycompat requestpermissions accept integer request code 
+recently updated app targetsdkversion implemented request permissions initial attempt href http developer android reference android support v4 app activitycompat html requestpermissions android app activity 20java lang string 20int rel nofollow activitycompat requestpermissions caused illegalargumentexception thrown internals fragmentactivity blockquote lang illegalargumentexception lower bits requestcode blockquote request code fine permission request works expected question reasons restricting values integer api information supplied byte conscious decision apparently made integer simply case allowing future extensibility 
+
+quoting href https android googlesource platform frameworks support refs heads master v4 android support v4 app fragmentactivity source code exception appears thrown bit limit request code 

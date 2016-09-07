@@ -1,0 +1,4 @@
+spring data rest bean validation 
+entity property annotated simple repo exposed spring data rest create property occurs expected client em internal server error em message happened exception chain id expect em bad request em actual information client whats wrong posted data attach custom validators sdr explained href http docs spring io spring data rest docs reference html validation rel nofollow thing custom validator standard bean validation repository asked save data questions ol li options client whats wrong submitted data sdr things fields invalid whats error field awesome li li examples li ol lot 
+
+proper handle back end exceptions send meaningful rich messages json xml front end client href https github jirutka spring rest exception handler rel nofollow git repository 

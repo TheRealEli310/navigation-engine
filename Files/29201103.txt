@@ -1,0 +1,4 @@
+compare localdate instances 
+writing app accurate dates compare localdate instances noticed app giving confusing results date comparing thinking obtaining time long compare easier 
+
+href http docs oracle javase docs api lang object html equals lang object override equals happy result good predefined methods ul li href http docs oracle javase docs api time localdate html isafter time chrono chronolocaldate li li href http docs oracle javase docs api time localdate html isbefore time chrono chronolocaldate li li href http docs oracle javase docs api time localdate html isequal time chrono chronolocaldate li ul notice method method check weird result shouldnt attach input output 

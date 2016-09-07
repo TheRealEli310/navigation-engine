@@ -1,0 +1,4 @@
+marshal rest xml format 
+endpoint return json xml formats restfulutil class restreponse simplerestresponse class request json format request xml format error show web xml applicationcontext xml provide rest servlet xml added xmlrootelement class v6subnetrec v4addrrec errorresponse v4subnetrec locationrec contactrec solve 
+
+fixed problem project jaxb upgrade works edit tom sebastian 

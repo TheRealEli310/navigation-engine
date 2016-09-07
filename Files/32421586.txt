@@ -1,0 +1,4 @@
+android studio cordova push plugin 
+android studio installed plugin push project received error message error execution failed task dexdebug blockquote android ide common process processexception org gradle process internal execexception process command library javavirtualmachines jdk1 jdk contents home bin finished exit blockquote android studio cordova href https github phonegap build pushplugin rel nofollow https github phonegap build pushplugin searching days find solution hope file 
+
+plugin deprecated replaces href https github phonegap phonegap plugin push rel nofollow https github phonegap phonegap plugin push 

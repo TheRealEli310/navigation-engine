@@ -1,0 +1,4 @@
+reuse jackson objectmapper jsonfactory instances 
+jackson jersey webapp jax rs interfaces jackson json helper classes directly import jersey classes plan keeping irrelevant app reuse objectmapper jsonfactory instances jackson docs recommend unable reference inside mybeanservice class provide function myapplication set private static objectmapper field getsingletons method configuration classes provide restjson servlet path strong mywebapp web inf web xml strong application instance web xml file strong myapplication strong set rest services configure objectmapper instance datetime field format strong mybeanservice strong service class handling rest url paths 
+
+null dont em em write register application works passed constructor found found dont create href https github fasterxml jackson jaxrs providers blob master json src main fasterxml jackson jaxrs json jacksonjaxbjsonprovider l42 rel nofollow default constructor provider resolver 

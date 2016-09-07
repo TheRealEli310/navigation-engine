@@ -1,0 +1,4 @@
+mockito kotlin 
+problem facing returns mock method accepts nullable types null exception thrown mocked method 
+
+workaround posted href https discuss kotlinlang org mockito kotlin https discuss kotlinlang org mockito kotlin strong update strong workaround 

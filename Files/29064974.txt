@@ -1,0 +1,4 @@
+injecting repository spring data solr 
+pretty spring thought spring data solr problems happen inject teamrepository empty inteface extends solrcrudrepository annotatedconfiguration amp xmlconfiguration stack trace start uploaded small project github spot errors href https github jimmyo88 spring solr spike rel nofollow project github 
+
+solrdocument requires provide meta information adding annotation field document stacktrace hint retrieve id attribute fails 

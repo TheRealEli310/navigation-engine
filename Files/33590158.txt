@@ -1,0 +1,4 @@
+jni getshortarrayelements fails sigsegv segv accerr 
+created buffer managed code kotlin code href https kotlinlang org api latest jvm stdlib kotlin short array rel nofollow stdlib documentation syntax effectively wrapper returns write buffer jni problem call results crash tombstone null address static variable gced behavior occurs genymotion instances x86 arm devices tested android missed 
+
+oops youre argument correctly parameter lingo dont care aliased pass 

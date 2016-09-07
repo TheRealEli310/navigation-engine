@@ -1,0 +1,4 @@
+sparkstreaming exitcodeexception exitcode 
+running spark streaming application spark submit yarn cluster run local mode working fine run yarn cluster spark submit runs time exits execption appreciated 
+
+solution spark streaming application set sparkconf setmaster local spark submit providing master yarn cluster conflict masters remaining accepted state exiting 

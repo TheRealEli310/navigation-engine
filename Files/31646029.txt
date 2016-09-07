@@ -1,0 +1,4 @@
+restrict null body entering camel endpoint xml 
+code snippet receiving message queue processing queue message processor finally placing message queue processing message processor body exchange set null prevent exchange null body entering message queue 
+
+href https camel apache org simple html rel nofollow simple language href https camel apache org content based router html rel nofollow content based router 

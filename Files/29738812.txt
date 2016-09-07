@@ -1,0 +1,4 @@
+fileoutputstream properly writing txt files 
+reason fileoutputstream properly writing files txt format bytes received server udp localhost dont packets lost causing txt bytes written poorly problem possibly server sending bytes surprised sending server writes bytes txt file 
+
+blockquote fileoutputstream properly writing txt files blockquote isnt problem writes write ways corrupted data ol li havent shown sending code li li container binary data li li server localhost mutually contradictory assures delivery udp datagrams duplication sequencing work correctly ack nack based protocol li li maximum em payload em size udp datagram bytes wildly impractical generally accepted em usable em maximum bytes li li flushing closing flushed closed redundant flushing closing redundant li ol 

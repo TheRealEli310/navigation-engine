@@ -1,0 +1,4 @@
+android write file application folder 
+ul li device rooted li li target audience app shared rooted devices li ul customize app slightly modifying image files objective simply overwrite tiny jpg files time required overwritten run write method added write code suggested similar question permission denied write code 
+
+day achieved desired result ul li create file sd card li li copy file root destination li ul path context strong strong cases chmod root folder work isnt good practice app folder access case happened rectified es explorer 

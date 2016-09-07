@@ -1,0 +1,4 @@
+creating indices dynamically elasticsearch spring data elasticsearch 
+case create indices month elasticsearch idea create indices monthly bases easy maintain deleted expired achieve spring batch monthly job create indices monthly bases elasticsearch integration spring data elasticsearch implementation problem facing figure provide dynamic index mapping entity object current implementation keeping single index mind find code create indices singlechat entity class working expected things open suggestion feel free comment current approach work details required 
+
+application elasticsearchtemplate create dynamic index point alias index created drop mapping settings class dynamic 

@@ -1,0 +1,4 @@
+import xmlaccessortype android 
+code android android studio imports doesnt recognize import android studio 
+
+add android project classpath href http mvnrepository artifact javax xml bind jaxb api rel nofollow link jar 

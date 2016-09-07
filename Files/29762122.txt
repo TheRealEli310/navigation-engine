@@ -1,0 +1,4 @@
+reading null values bufferedreader command prompt input 
+read users input command line input program supposed exit detects user submitted blank program inside reading file code user input execute program exit code ways coding back results wrong 
+
+add extra condition check whitespaces put true useless current code 

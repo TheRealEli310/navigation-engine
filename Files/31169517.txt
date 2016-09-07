@@ -1,0 +1,4 @@
+null pointer exception adapter recyclerview 
+implement recyclerview activity nullpointerexception time making recyclerview wrong ill show code error main xml layout called activity main xml row xml recyclerview called main recycler view row xml main activity class data fields finally adapter lang nullpointerexception mainrecycleradapter item count comments appreciated code wanted make 
+
+call call constructor reason nullpoimter object classrooms empty invoke size nullpoint replace order lines 

@@ -1,0 +1,4 @@
+parsing xml document servletcontext resource web inf applicationcontext xml 
+errors console post eclipse cleaned project refreshed target cleaned tomcat server chasing nature issue console error web xml daocontext xml offersservice offerscontroller offersservice home jsp 
+
+load files contextloaderlistener remove dispatcher servlet work fine method load final 

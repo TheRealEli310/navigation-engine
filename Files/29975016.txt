@@ -1,0 +1,4 @@
+hibernate cfg xml picked 
+created maven web project stack spring hibernate jersey hibernate cfg xml src main resources path deploy tomcat stacktrace checked dialectfactory found code actual issue hibernate cfg xml loaded removed file deployment stacktrace applicationcontext xml hibernate cfg xml make work 
+
+logs configure spring configuration file mentioning separate hibernate configuration file code setting hibernate properties fix issue change property hibernate configuration file set href http docs spring io spring docs current javadoc api org springframework orm hibernate4 localsessionfactorybean html setconfiglocation org springframework core io resource rel nofollow configlocation property spring configuration file configlocation property detailed explanation post href http stackoverflow questions applicationcontext xml datasource hibernate cfg xml difference applicationcontext xml datasource hibernate cfg xml difference 

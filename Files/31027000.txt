@@ -1,0 +1,4 @@
+jvm load classes mentioned classpath 
+invoke command cp command provide directories jar files jvm load classes mentioned classpath super set classes jvm load required 
+
+blockquote jvm load classes mentioned classpath super set classes jvm load required blockquote jvm loads classes form classpath basis reference found class loaded hierarchy class loaders jvm class loaded parent class loader lower class loaders 

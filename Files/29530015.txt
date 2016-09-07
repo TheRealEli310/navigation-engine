@@ -1,0 +1,4 @@
+converting string binary digits decimal number recursion 
+comp sci professor gave problem homework proceed code written failing miserably prompt hr binary decimal write recursive method parses binary number string decimal integer method header public static string bin2dec string binarystring write test program prompts user enter binary string displays decimal equivalent hr greatly appreciated code 
+
+cleaner extra variables index power process string left dont global variable number tracked recursive function confusing weird state carried inside recursive functions opinion restrictions essentially lines clearest solution elegant clarity improved breaking clause lines unicode character number convert characters respective numbers 

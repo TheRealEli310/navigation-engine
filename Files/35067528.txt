@@ -1,0 +1,4 @@
+optimize tomcat feed pull 
+mobile app presents feed users feed rest api implemented tomcat parallel makes calls data sources couchbase mysql present content simple code parallel tasks request expected grow parallel tasks introduce kinds items feed question improve design kind tuning required tomcat make parallel calls served optimally heavy load understand broad topic suggestions helpful 
+
+understand calling mobile app number feeds based amount data returned return results feeds call server work control server control users device connection speed nickebbit suggested things defferedresult easy implement data feeds updated quick fashion investigate ehcache cacheable annotation solution user pulling cached version content tomcat server tomcat server constantly updating cache background extra piece work end day user experience fast users app 

@@ -1,0 +1,4 @@
+jaxb unmarshal subclass based child element 
+mapper follow xml based element type baseentity superclass common elements machine robot classes subclasse elements xml structure fixed change entry element mapped respective class entry type machine mapped subclass machine jaxb implement suggestion 
+
+xml layout bad jaxb parser enters entry node node machine oder robot guess type unmarshlling type node provide attribute type parameter pre class lang xml prettyprint override pre class lang xml prettyprint override solution problem frankenstein xml adapted class extends base class attributes subclasses pre class lang prettyprint override bind adapter class xml vice versa pre class lang prettyprint override 

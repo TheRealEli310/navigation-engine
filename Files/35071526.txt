@@ -1,0 +1,4 @@
+joda time datetimecomparator similar time api 
+joda time cool things found href http www studytrails jodatime date jodatime datetimecomparator jsp rel nofollow steps time api similar comparators compare date time fields time api 
+
+replicate behavior bit manually general purpose helper methods provided assuming define comparator compares month compares month day hour leave position manually deciding order automatic fine grained control 

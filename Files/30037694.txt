@@ -1,0 +1,4 @@
+internal implementation hashset creates dummy objects insert values hashmap inserting nulls 
+hashset implemented hashmap add e1 hashset internally adds e1 object hashmap e1 present set question inserting object inserted e1 null optimized approach objects created downside inserting nulls 
+
+doesnt add time key map time named source code method calls internal method calls internal return indicating key present stored call determine key present additional overhead memory overhead minimal 

@@ -1,0 +1,4 @@
+intellij build rebuild project invoke maven 
+intellij invoked maven project ul li call mvn compile li li independent maven li ul testing click console output indicating maven running run maven maven projects view maven output relationship project build tools 
+
+intellij idea make invoke maven open maven gradle project reads settings project stores part internal project model invoke build imported settings compile project build system advantage intellij idea build system supports fine grained incremental rebuilds change signature method recompile classes call method code configure intellij idea run ant task maven goal main project compilation build standard intellij idea build system 

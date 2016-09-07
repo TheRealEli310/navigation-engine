@@ -1,0 +1,4 @@
+rsa key size bits 
+legacy application hardcoded rsa key size bits verify signature keys application question create rsa keys key size fully aware reason restriction bit change legacy application 
+
+provider sun underlying service provider implementation return exception bit rsa key installing bouncy castle provider correctly work type key generated method instance silently bouncy castle provider 

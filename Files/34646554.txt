@@ -1,0 +1,4 @@
+util objects requirenonnull preconditions checknotnull 
+documentation href http docs guava libraries googlecode git javadoc google common base preconditions html rel nofollow guava preconditions notes blockquote projects generally avoid whichever situation message accepting overloads blockquote explain rationale suggestion purpose consistency fundamentally wrong implementation 
+
+consistency implementations 

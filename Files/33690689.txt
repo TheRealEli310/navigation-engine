@@ -1,0 +1,4 @@
+matching host key type found apache mina sftp server 
+hoping set sftp server apache mina start connect openssh client app logs maven dependencies app startup code copied href http stackoverflow http stackoverflow add modern host key algorithms server 
+
+works change maven pom xml remove sshd sftp part sshd core add lot guesswork involved library shady security lib 

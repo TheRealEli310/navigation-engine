@@ -1,0 +1,4 @@
+intelij idea automatically incremented build version number 
+set intelij building process pre process source codes give incrementing build number 
+
+hint atomheartfather write ant xml file file create file build number stored incremented source code file variable replace current build number xml file intellij click browse xml file current path xml path xml file intelij project correct part depending store xml target select click button works incremented source code file important trick make automatically click select 

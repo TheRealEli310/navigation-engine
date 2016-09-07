@@ -1,0 +1,4 @@
+code compile run successfully 
+classes strong parent class strong strong child class strong output private members inherited calling method child class instance run successfully output 
+
+private member inherited public methods accessing create object type variables superclass created directly usables public methods superclass access subclass methods access private variable values superclass indirectly public methods access 

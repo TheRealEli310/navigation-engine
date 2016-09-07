@@ -1,0 +1,4 @@
+avoid spring boot loading embeddedwebapplicationcontext 
+spring boot integration application camel http camel http dependency spring boot load web application context force spring load exclude autoconfiguration classes found annotation 
+
+href http docs spring io spring boot docs current api org springframework boot builder springapplicationbuilder html springapplicationbuilder class explicitly disable loading web environment context main class 

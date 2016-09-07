@@ -1,0 +1,4 @@
+failed instantiate pageable bean 
+spring release spring data jpa release problem org springframework data domain pageable bean creation controller xml configurations application context finaly requsr client tomcat log resolve issue 
+
+easiest working set configuration alternatively pure xml based configuration declare spring bean make registered correctly 

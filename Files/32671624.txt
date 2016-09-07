@@ -1,0 +1,4 @@
+publish versioned javadoc site github pages project 
+project named publish javadocs versions separate directories br similar problem discussed href https github github maven plugins issues rel nofollow https github github maven plugins issues doesnt problem solved 
+
+href http www javadoc io javadoc io hosting javadoc open source projects github link readme md github pages javdoc latest version projects href http www javadoc io doc aol simplereact simple react http www javadoc io doc aol simplereact simple react simple set youve released maven central bintray including sources browse library added system download javadoc add site day immediately managing process guaranteed match actual version code people source theyll ides downloaded version repo maven central manage possibility uploading subtely versions maven central hosting site emerges 

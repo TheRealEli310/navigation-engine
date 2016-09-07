@@ -1,0 +1,4 @@
+eclipse ignores failonmissingwebxml user property 
+created empty web project eclipse mars maven project pom xml pre class lang xml prettyprint override eclipse complains missing file documentation maven war plugin href https maven apache org plugins maven war plugin war mojo html failonmissingwebxml rel nofollow set user property configure plugin works maven command line project build successfully eclipse complains missing web xml rid maven configuration error eclipse user property strong update strong development environment eclipse luna sr1 maven complain missing web xml newly created web project error suppressed m2e plugin 
+
+installing wtp m2e href http download eclipse org m2e wtp snapshots mars rel nofollow http download eclipse org m2e wtp snapshots mars fixes issue 

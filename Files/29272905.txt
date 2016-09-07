@@ -1,0 +1,4 @@
+convert time string format seconds android 
+suppose time mm ss hh mm ss string format convert time 
+
+case include hours modify code multiply hours number seconds hour 

@@ -1,0 +1,4 @@
+exception thread main javax mail messagingexception folder socketchannels 
+idle manager exception appears exception thread main javax mail messagingexception folder socketchannels solve problem 
+
+href https javamail net nonav docs api sun mail imap idlemanager html rel nofollow idlemanager javadocs blockquote set mail imap usesocketchannels property session blockquote 

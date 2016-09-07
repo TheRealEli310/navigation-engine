@@ -1,0 +1,4 @@
+returning response object object representing rest resource 
+books rest apis generally return response object wraps objects representing payload status hand apis written return pojo call dto json consumed client opinion based high scalability environment request result success failure data returned accepted practice designing apis put things perspective team question closed opinion based update rest apis avoiding code path pathparam produces returns customer object wrapped inside response object response error approach return customer entity directly 
+
+vote api response object control response completely code clear response cases write response easily represented pojo forced unintuitive workarounds returning object rest handler method transformed response framework magic taste worst imho practice return string rest handler method interpreted template reference path jsp resource written response magic 

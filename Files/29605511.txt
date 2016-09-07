@@ -1,0 +1,4 @@
+spring tiles 
+integrate spring mvc apache tiles version run webapp shows strange error logs strong web inf web xml strong pre class lang xml prettyprint override strong web inf tiles servlet xml strong pre class lang xml prettyprint override strong web inf applicationcontext xml strong pre class lang xml prettyprint override strong web inf tiles tilesjsp xml strong pre class lang xml prettyprint override strong myproj resources src test controller homecontroller xml strong pre class lang prettyprint override strong web inf view strong jsp files 
+
+stacktrace tiles definitions starts fix error advice exception changing tiles definition tiles definitions documentation confirms correct element br href https tiles apache org framework tutorial basic pages html rel nofollow https tiles apache org framework tutorial basic pages html 

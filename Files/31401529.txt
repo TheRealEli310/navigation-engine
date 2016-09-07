@@ -1,0 +1,4 @@
+android converting data date time picker calendar sql timestamp reverse 
+working android application persist date time entered user sql timestamp save displaying user convert back format dd mm yyyy hh mm separately managed set entries recieved user year month day hour minute separate variables time calendar instance returns current date time dont wrong kindly android code instance information user setting time set user calendar code conversion wrong nice 
+
+set date datepickerdialog code retrieve util date convert util date sql timestamp change date format locale beware simpledateformat thread treadlocal code time append date string datepicker time string timerpicker change format dd mm yyyy hh mm 

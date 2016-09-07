@@ -1,0 +1,4 @@
+overriding method generics 
+base class called genericorder create order type products subclasses order specific problem computerorder class method overriding heres base class code subclass code getproducts method trouble error convert 
+
+error pretty clear declared return youre returning agree equivalent code dont generic class accepts 

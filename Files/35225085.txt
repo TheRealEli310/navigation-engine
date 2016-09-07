@@ -1,0 +1,4 @@
+streams list objects 
+troubles streams classes pizza class ingredient class streams pretty make formatted menu streams return string string ingredients dont add pizza ingredients thing return cheapest spicy ingredient spicy pizza fiter pizzas spicy ingredients sum ingredients prices honestly idea thankful 
+
+obtain string creates pizzas pizza map string representation pretty names ingredients joined comma finally strings pizzas join time separated line separator hr question retrieving cheapest pizza assume price pizza sum price ingredients case filter pizzas keeping spicy obtained ingredients spicy returning minimum comparator comparing sum price ingredients pizza 

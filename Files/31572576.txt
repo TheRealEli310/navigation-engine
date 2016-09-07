@@ -1,0 +1,4 @@
+setting home os yosemite 
+set home execute maven 
+
+substitute version machine 

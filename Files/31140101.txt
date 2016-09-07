@@ -1,0 +1,4 @@
+eclipse mars ant task references missing swt library 
+upgraded eclipse mars suddenly ant task working fine lunar complains weird ul li classpath file reference jar li li jar exists path li ul research related href https bugs eclipse org bugs show bug cgi id https bugs eclipse org bugs show bug cgi id solution run ant lunar 
+
+worked 

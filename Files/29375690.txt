@@ -1,0 +1,4 @@
+set targets proxyfactorybean 
+working spring aop proxyfactorybean configured works target clientservice object set targets set advices entire package set specifics targets advance 
+
+proxying beans application context match criteria easiest springs href http docs spring io spring docs current spring framework reference htmlsingle aop autoproxy rel nofollow autoproxy facility alas pointcut api cumbersome based config subclass href http docs spring io spring docs current javadoc api org springframework aop framework autoproxy abstractautoproxycreator html rel nofollow abstractautoproxycreator express pointcut code instance id code untested dont ide spring maven hand gist work 

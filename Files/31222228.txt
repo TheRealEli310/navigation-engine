@@ -1,0 +1,4 @@
+apache tez configuration hadoop 
+nutshell strong step1 strong successfully configured hadoop laptop single node ran sample mapreduce job strong step2 strong cloned tez repository successfully built version copied jarfiles hdfs exports required variables changed variable em mapred site xml em run tez orderedwordcount job error checked resource manager listening port client connect random port correct work correctly 
+
+problem version connecting resource manager compiled integrated previous stable release good hope figure problem 

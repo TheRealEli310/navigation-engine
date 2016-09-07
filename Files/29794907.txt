@@ -1,0 +1,4 @@
+maven doesn check junit tests 
+configured maven junit tutorial href http maven apache org surefire maven surefire plugin examples junit html rel nofollow http maven apache org surefire maven surefire plugin examples junit html test class execute mvn test test class caught maven maven doesn check result fail test class src main resources console shows copying resource pom xml maven version idea don check test case question don shows warning enconding cp1252 configured project utf 
+
+based question href https maven apache org general html encoding warning rel nofollow made part pom pre class lang xml prettyprint override 

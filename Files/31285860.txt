@@ -1,0 +1,4 @@
+pass arguments method 
+method refactor makesomeobject method elegantly pass multiple keyvalue pairs method call cleaner easy read 
+
+make builder give fluent constructing static method question create static varargs method question largely stylistic choice 

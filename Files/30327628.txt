@@ -1,0 +1,4 @@
+gradle inject build environment webapplicationinitializer 
+build project build profiles dev test prod spring web application initializing implementation webapplicationinitializer configure logger log4j env replace dev log4j properties prod log4j properties depending build project build gradle finally building proeject gradle clean build penv prod placeholder env replaced filtering xml properties files works fine understand logging important property configure similar approach registering environment specific spring configurer appreciated 
+
+ended filtering spring properties file reading webapplicationinitializer activate spring profile appears solution filter sources 

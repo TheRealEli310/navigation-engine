@@ -1,0 +1,4 @@
+buffer play sound data ogg files sound 
+sound href http www javazoom net mp3spi mp3spi html rel nofollow mp3spi href http www javazoom net vorbisspi vorbisspi html rel nofollow vorbisspi read audio data wav mp3 ogg files storing byte array order play order code sound class basically byte samples audioformat format couple read play byte array works fine wav mp3 ogg playback distorted slowed format wrong id love point kind solved problem loading audio file byte array fileinputstream playing audioinputstream bytearrayinputstream array byte array holds encoded data decoded practice big difference flat curious previous approach didnt work ogg wholl answer 
+
+issue return call function required return full number bytes requested fact make decoder simpler implement break things natural boundaries ogg decoder additionally return read call return exact requested size 

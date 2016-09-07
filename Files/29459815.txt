@@ -1,0 +1,4 @@
+incompatible types biginteger converted int 
+run code error unable resolve 
+
+errors related arrays index integer expression change expression result integer integer integer change index data type places href https docs oracle javase docs api math biginteger html intvalue rel nofollow change line code 

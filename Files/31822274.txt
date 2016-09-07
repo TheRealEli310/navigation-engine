@@ -1,0 +1,3 @@
+actionlistener trigger text input jtextfield 
+user question jtextarea answer evaluated inside actionlistener code problem questions user types response cool cool answer question favorite color red 
+

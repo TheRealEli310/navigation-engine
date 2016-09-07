@@ -1,0 +1,4 @@
+extract data html table inside table 
+html table structure data main table nested table inside td element required data xx indication export excel single row code problem output expected excel hr additional information tags omitted simplifying question 
+
+strong rows strong guess document table select pick table prevent make css selector specific assume document context code explanation jsoup creates element inside table present selector made direct child elements outer table selected class outer table unique strong unexpected number columns strong due fact select statement picks table tds child elements strong useless data strong rid filter clear useless data present table full solution 

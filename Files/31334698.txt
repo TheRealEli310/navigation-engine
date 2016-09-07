@@ -1,0 +1,4 @@
+understanding treeset compareto returns 
+created student class test class add elements treeset program output test class adding objects overridden amp methods expecting hold objects objects explain part href http docs oracle javase docs api util treeset html add 28e rel nofollow docs treeset blockquote adds element set present formally adds element set set element e2 null e2 null equals e2 set element call leaves set unchanged returns false blockquote overridden method collection elements 
+
+href http docs oracle javase docs api util treeset html rel nofollow util treeset blockquote treeset instance performs element comparisons compareto compare method elements deemed equal method standpoint set equal blockquote kudos href http stackoverflow jon skeet 

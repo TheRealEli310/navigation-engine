@@ -1,0 +1,4 @@
+assigning variable current 
+string empty reassign bad dont compiler pick optimize 
+
+cost calling method isempty allocating space thread stack negate gains assign empty string variable efiicient statement 

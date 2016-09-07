@@ -1,0 +1,4 @@
+rxjava sample cpu intensive 
+implement download progress bar rxjava android report download progress resolution connection fast file downloaded fast produce lot events assumed limit amounts events sample implementation subscription sample works great download manager emitting events fast adding sample cpu load increases times events emitted understand call downloadprogress call throwable called feels subscription constantly pulling events 
+
+href http reactivex io documentation operators sample html rel nofollow docs blockquote sample operator periodically observable emits whichever item recently emitted previous sampling blockquote implies work period accounts cpu usage 16ms firing emit item dial back 500ms depending ui constraints 

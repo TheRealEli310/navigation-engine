@@ -1,0 +1,4 @@
+gson json object conversion issue element type dynamic 
+json string convert object gson type element dynamic format1 format2 implementing class code message properties pojo handle scenario time handle element object type dynamic string object case 
+
+make pojo class response dont forget register converter 

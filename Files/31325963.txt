@@ -1,0 +1,4 @@
+collect list attributes set type set values 
+entity fields called testfield set type string contained testfield sets entites list wouldnt code woud lile code doesnt compile 
+
+produce stream elements sets 

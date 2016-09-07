@@ -1,0 +1,4 @@
+exception filesystem scheme 
+code copys data local machine hdfs run eclipse works perfectly compile jar run stand code error 
+
+classpath issue common approach adding classpath didnt work worked add path jar files nohup command 

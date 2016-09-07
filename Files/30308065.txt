@@ -1,0 +1,4 @@
+changing text label class javafx 
+question asked href http stackoverflow questions javafx change label text class controller find answers reproduced similar situation change text label class controller fxmldocumentcontroller fxmldocument fxml demo5 connector strong output console strong label missing major 
+
+change connector class receive controller instance strong strong connector longer execute task dont freeze ui update label bind text property update text method 

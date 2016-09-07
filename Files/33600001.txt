@@ -1,0 +1,4 @@
+saving dates sqlite database active android 
+simple class event saving sqlite database wtih active android event addeventactivity moment saving date start end times strings adding feature app compare current date time dates arraylist objects return event happen day efficient sort arraylist events date comparable comparator compare current date parsing strings date object simpledateformatter strings doesnt work save dates sqlite active android examples saving finding strings fairly android 
+
+strong sorting list strong make class implement method make comparison strong make type datetime strong class dont change model create comparator fly hr strong storing date activeandroid strong activeandroid supports serializing date fields automatically stored internally timestamp integer milliseconds create util method convert returns hr strong comparing date list event objects strong finally call function find dates date list hope helps 

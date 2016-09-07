@@ -1,0 +1,4 @@
+collectors toset hashset 
+line sample code taking debugger code observe code contract em guarantees em implementation decides reasonable implementation constant time lookup guaranteed implementation decides perfectly rights implementation compromised practise solution problem 
+
+guaranteed href https docs oracle javase docs api util stream collectors html tocollection util function supplier 

@@ -1,0 +1,4 @@
+emptybytebuf appears decoder chain netty server 
+netty version alpha2 heres add handlers decoders pipeline childhandler thing send garbage input server lengthfieldbasedframedecoder throws toolongframeexception expected case futher invoked input buffer lengthfieldbasedframedecoder thrown exception previous decoder return expect receive bytebuf correct framing processed receive understand correctly netty works chain decoders pipeline 
+
+code method extends channel inactive call decode method time chance clean made custom decoder interested override method 

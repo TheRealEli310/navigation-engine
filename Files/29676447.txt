@@ -1,0 +1,4 @@
+create getter setter methods hashmap custom type 
+sparse matrix implementation write getter setter methods individual elements based key custom type coordinates usual doesnt work show 
+
+class coordinate accessible matrix class implementation detail dont make visible end user check getters setters make coordinates class end user wan make public public class matrix 

@@ -1,0 +1,4 @@
+recursive deep cloning 
+good evening implement avl tree issue copying nodes rotation process ul li shallow copy predictable mayhem ensues li li manual deep copy copy direct attributes object node deeper levels clarify node children children children children copy initial node direct children lose grandchildren descendants li ul id limitation br full code class main call initialise behaves correctly manage copy nodes correctly rotations working avl tree advance 
+
+simply avoid copying nodes balance subtrees assigning strong left strong strong strong pointers rotation functions subtree root parameter return transformed subtree rotating trees place major unneeded complication 

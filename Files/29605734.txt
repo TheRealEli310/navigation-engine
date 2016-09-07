@@ -1,0 +1,4 @@
+set maximum width flow layouted jpanel 
+img src http stack imgur vickd png alt enter image description picture shows outer jpanel left jpanel west jpanel jpanel panels problem jpanel set maximum width buttons auto change line whichever set doesnt work buttons stays line making jpanel wide solution 
+
+extend flowlayout restrict preferred width 

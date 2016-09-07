@@ -1,0 +1,4 @@
+unable import quality profile ruleset sonar 
+backup ruleset sonar import sonar ruleset rules pmd checkstyle findbugs gui import works error rules imported rules sonar api import ruleset curl command succeeds results rulefailures show rules xml imported behavior gui compared sonar rule export file dont find xml format changed v3 sonar expert troubleshoot issue 
+
+pointed anns comments issue pertained missing findbugs checkstyle pmd plugins sonar installation longer supported box favor squid installed import worked bit annoying part sonar hint real importing rule 

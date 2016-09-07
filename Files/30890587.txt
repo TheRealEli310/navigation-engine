@@ -1,0 +1,4 @@
+check ontology consistency satisifiability owl api 
+check ontology consistency ontology includes descriptions individuals class semantic rules imported ontology thougt isconsistenct method choice correct approach check ontologys consistency protege applies starting reasoner hr code update pellet 
+
+approach structuralreasonerfactory issue reasoner real reasoning asserted axioms answer basic queries check consistency real reasoner carry consistency check reasoners supporting owlapi href https github owlcs owlapi wiki rel nofollow https github owlcs owlapi wiki 

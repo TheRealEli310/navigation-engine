@@ -1,0 +1,4 @@
+caches versions webapp deployed parallel shutdowned 
+ehcache webapp versions href https tomcat apache org tomcat doc config context html parallel deployment rel nofollow deployed parallel tomcat instance handy deploy versions stopping application problem proceed give cache disk store names depending versions webapp strong strong caches stopped stopping strong strong instance config pre class lang xml prettyprint override replaced maven build process avoid unwanted behaviour ehcache core hibernate ehcache 
+
+works shutting em em cache managers work making cache managers end class loaders ehcache loaded web application class loader container provide ehcache jar apps ehcache tomcats classpath solution work creating shutdown cache manager application 

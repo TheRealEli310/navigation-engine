@@ -1,0 +1,4 @@
+replace properties files yml files spring boot 
+special springboot account configuration yaml files properties files maven springboot project place file application properties resources file configuration automatically recognised springboot replacing properties file yml file work file taking account anymore add splicitely springboot yml files files application properties application yml 
+
+refer section yaml properties spring boot reference documentation spring boot pick automatically snakeyaml library classpath states blockquote starter poms snakeyaml automatically provided spring boot starter blockquote 

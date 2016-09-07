@@ -1,0 +1,4 @@
+glsurfaceview main xml null pointer exception 
+make glsurfaceview part layout returns error line dont understand glgame class logcat worked fine decided things glsurfaceview making silly mistake time presses glad helped edit issue turned unable findviewbyid reason 
+
+turned incredibly dumb writing wrong order supposed 

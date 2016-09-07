@@ -1,0 +1,4 @@
+jackson json set http connection read timeout 
+jersey common jackson core set http connection timeouts connect read createparser url url invoked default values times week recurring problem webapp stops reading json sources task autorun minutes suspect http call stalls starts piling jvm em createparser url em function production apps 
+
+hack values settings found href https docs oracle javase docs technotes guides net properties html rel nofollow https docs oracle javase docs technotes guides net properties html proper call pass result json parser put simply url great light weight alternative suggest switching apache http client high level solution 

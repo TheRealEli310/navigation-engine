@@ -1,0 +1,4 @@
+load multiple images custom adapter picasso 
+load multiple images picasso customadapter calling works fine showing list planet images logcat shows errors 
+
+solution question changing code 

@@ -1,0 +1,4 @@
+track high score 
+working pong game final step track high score dont clue start high score counter works pong game perfect 
+
+add integer list variables count hit ball modify run method add counter paint method add sysout score reset counter add init 

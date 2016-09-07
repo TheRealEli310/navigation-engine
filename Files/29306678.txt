@@ -1,0 +1,4 @@
+hadoop nullpointerexception calling getfsstatistics 
+encountering exception running mapreduce job taking file stored hdfs input dont good sense means possibly related file permissions found stackoverflow post exception trace href http stackoverflow questions nullpointerexception mr2 windows nullpointerexception mr2 windows summarize post exception caused due hadoop run user mr job ul li ing files directories hdfs experiment li li running hadoop job li ul approach yielded results running hadoop processes localhost pseudo distributed mode started hadoop normal local user running hadoop job user set paths local machine permission read write local user set misinterpreting exception 
+
+end subclass causing problem correctly de serializing filesplits send wire field hadoop calls null path causing 

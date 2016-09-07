@@ -1,0 +1,4 @@
+code android oncreate method working properly 
+make simple android game method named plays sound outputs random number logcat test br call method game work br sound playing layout sound plays main menu activity xml file worked perfectly fine display layout didnt work run piece code game method 
+
+figured vikas br problem hadnt set onstart properly needed add line work 

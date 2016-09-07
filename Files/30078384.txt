@@ -1,0 +1,4 @@
+maven jaxb2 plugin maven generation sun jaxb episode 
+remove comments inside generated files maven jaxb2 plugin boths works classes doesnt work sun jaxb episode comment timestamp rod 
+
+author maven jaxb2 plugin actual generation episodes href https github gf metro jaxb blob master jaxb ri xjc src main sun tools xjc addon episode pluginimpl rel nofollow implemented jaxb ri href https github gf metro jaxb blob master jaxb ri xjc src main sun tools xjc addon episode pluginimpl l176 rel nofollow disable filing issue jaxb ri implementing plugin built plugin 

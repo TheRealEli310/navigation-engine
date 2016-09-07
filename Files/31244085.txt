@@ -1,0 +1,4 @@
+spring mvc validate form return data errors 
+successfully validate form return errors problems started view selects needed populated data coming controller model addattribute stops passing errors view question pass data affecting validation errors 
+
+guess errors arent populated adding instance model attribute directly model remove line statement create method leave work 

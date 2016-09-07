@@ -1,0 +1,4 @@
+javafx set values fxml controller initialize 
+load fxml set controller code fxml tag fields fxml load textfields buttons create tab set text add tabpane load fxml create controller set controller fxml set fxml initialize controller update textfield button controller set binding doesnt work edit createtab method littel bit set controller setname method textfield dont display method prints sandro 
+
+fxml file loaded method invoked br comment initiating fxmlloader load fxml file invoking wrong load method load method instantiated fxmlloader static load method fxmlloader class static version ignore controller class set 

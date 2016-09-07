@@ -1,0 +1,4 @@
+apache log4j simply create multiple log files fly appending log file 
+program separate single log message log file class generates logs logs single program execution create log files theyre names ideally log file single line working project id implement autonomic ability idea externally running program read log files react based log4j 
+
+routingappender question details href http stackoverflow log4j2 dynamic creation log files multiple logs 

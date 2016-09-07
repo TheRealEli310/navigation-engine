@@ -1,0 +1,4 @@
+custom taglib liferay spring mvc maven 
+proceed creating custom created place questions ol li create override acheiving target li li download li li files require li ol didnt find sufficient source achieving guidance appreciated 
+
+youre custom taglib portlet youd web application include tld jar taglibs implementation include jsps youre portlets em em override liferays jsps jsp implementations hook youre typically limited liferays jsps hook introduce taglibrary liferay absolutely add custom taglib liferay ext plugin hook whats portlet plugin portlet plugins completely contained introduce taglib customize liferay 

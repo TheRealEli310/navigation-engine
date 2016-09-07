@@ -1,0 +1,4 @@
+jsp servlet include output tuncated 
+include response servlet jsp page servlet back word result page truncated directly oops tomcat throws error add remove flush close added flush true jsp include tag running tomcat netbeans spring mvc edit kind similar href https bz apache org bugzilla show bug cgi id rel nofollow reported bug fixed tomcat version onward run code tomorrow work glassfish server server issue 
+
+closing httpservletresponse servlet prevents jsp page writing response resources block close httpservletresponse completion ordinary statement dont close response 

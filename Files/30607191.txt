@@ -1,0 +1,4 @@
+string break loop 
+simply break loop user enters stop scanner scanner takes integers problem lies type stop errors exception thread main snippet code missing closing curly braces rest assured actual code error 
+
+youve identified problem scanner reads integers impossible variable int string stop scanner throws exception call encounters string stop convert int read strings input check stop attempt convert ints handle garbage input stop integer wrap line block detect input garbage catching href https docs oracle javase tutorial essential exceptions rel nofollow exception href http stackoverflow questions checking parseint throws exception related question 

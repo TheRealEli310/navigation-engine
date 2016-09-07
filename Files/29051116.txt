@@ -1,0 +1,4 @@
+hive column names table jdbc resultset metadata 
+columns metadata hive column names form id similarly mysql 
+
+ways hive jdbc connection hivemetastoreclient code snippets approaches strong approach strong approach create resultsetmetadata object object details query output case describe table strong approach strong approach running query simply connecting hivemetastore details table database hope helps 

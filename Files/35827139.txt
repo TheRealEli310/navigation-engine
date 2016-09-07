@@ -1,0 +1,4 @@
+building android multidex application gradle android studio build server 
+process setting ci server running teamcity server running openjdk8 build tools multidex android app build locally assemblemyflavorrelease build fails teamcity agent stacktrace shows exiting find app gradle dex options compiling multidex build agent completes failing running info reveals exiting direction point greatly appreciated 
+
+turns resource issue running builds aws ami swap dexer running ram didnt setting ami ram fix reduced 2g mempry dexing avoid throwing build project includes google analytics library issues building default dex heap size ami side created 2g swapfile running builds ubuntu ami running t2 small ami persist reboot added line t2 build running errors hope helps 

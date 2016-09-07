@@ -1,0 +1,4 @@
+replacement string multiple rules 
+task string replacement rules till make replacement string solution found works problem performance low make replacement multiple rules algorithm task codility site correctness performance solution 
+
+algorithm assumption string consists string composed output input string divide string substring consists divide replace answer string bbbaababbbccbcbbcacb divided bbbaababbb ccbcbbc cb result output string basically ignore replace clusters clusters 

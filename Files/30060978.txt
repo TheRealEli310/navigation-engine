@@ -1,0 +1,4 @@
+javafx tableview scrollto causing wrong row start editing 
+editable tableview button adds row calls table edit column row user add row viewport happen table scrolls row viewport starts editing calling table scrollto newrow sorts buggy behavior row brought view time editing happen row viewport starts editing newly added row rows added view rows view code comment table scrollto adding editing row works fine href http stackoverflow http stackoverflow isindexvisible returns false times row added view combination order method calls runnables result 
+
+completely random hack work explanation dont href https javafx jira kenai secure dashboard jspa rel nofollow file bug random hack inspired uluk biys answer href http stackoverflow questions recreate bar chart remembering data question 

@@ -1,0 +1,4 @@
+angularjs spring mvc trouble accessing form data controller 
+form user multiple addresses address street country things simple view user presses button div input pops works good part angularjs controller spring controller printed spring console filled streetname values aaa bbb ccc error message edit working point request getparametervalues request getparameter valuehere directly parse jsonarray 
+
+error jsonobject serialization springs href http docs spring io spring docs current javadoc api org springframework web bind annotation requestbody html rel nofollow json array convert object exception jsonarray change array object angular 

@@ -1,0 +1,4 @@
+webview load url working 
+swing application javafx webview embedded load initial web page webviews webengine subsequent calls webengine load working reason heres debugging code added webengine code change web page produces output load google load nytimes output webview loaded nytimes webview shows update ideas wrong em em suggestions information whats webview behavior edit requests additional info debugging output happy provide edit caused mistake code related javafx swing integration suggestions 
+
+heres fully working future post href http stackoverflow mcve mcve swing involved posted parts javafx code 

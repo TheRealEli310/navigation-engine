@@ -1,0 +1,4 @@
+javafx provide mechanism check stage open 
+application created separate launchers window types process single page application spa multi document interface ensure windows managed correctly provided launcher similar keeping reference window opened stage jvm basically user attempts open window bring focus open time user open stage contexts based title unique open bring forward references manage removing wondering 
+
+href http cr openjdk net kcr openjfx 8u5 8u sync webrev modules graphics src main sun javafx stage stagehelper html rel nofollow stagehelper getstages javafx define class extending stage handling internal references id option stagehelper part internal api javafx made public wont em handling internal references singleton pattern job launcher test customstage lets call sake instantiated method customstage class launchers job handle references dont happen extending stage option em 

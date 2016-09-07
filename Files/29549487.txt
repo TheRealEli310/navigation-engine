@@ -1,0 +1,4 @@
+wildfly final read classpath resource 
+property file classpath application src main resources default properties ejb singleton startup annotations read file doesnt work works glassfish read classpath resource wildfly 
+
+found solution call doesnt work works dont 

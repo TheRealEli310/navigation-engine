@@ -1,0 +1,4 @@
+exporting oracle database csv file 
+data asd csv file data format extra dot output wrong create table named tet coloumn date date timestamp 
+
+rs gettimestamp rs getstring convert timestamp string simpledateformat 

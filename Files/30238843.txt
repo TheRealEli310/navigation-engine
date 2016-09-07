@@ -1,0 +1,4 @@
+determine type selenium driver 
+working building testing framework sites selenium webdriver goal number drivers running tests concurrently aka firefoxdriver internetexplorerdriver chromedriver running time shared resources trouble logging driver passing drivers lot code webdriver knowledge specific type driver webdriver element instantiated 
+
+details href http stackoverflow questions instanceof operator instanceof operator 

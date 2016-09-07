@@ -1,0 +1,4 @@
+hibernate pagination setfirstresult setmaxresult 
+working ee project hibernate orm framework order paginate results queries setfirstresult setmaxresult methods criteria api problem page displayed correctly page result displayed equal result page switching logging level debug managed catch sql query hibernate builds query wrong oracle dbms hibernate bug edit code 
+
+order criteria leads sql query em stable em returns result rows order queries circumvent adding order criteria unique attribute id 

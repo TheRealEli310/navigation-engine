@@ -1,0 +1,4 @@
+runtimeexception admin console glassfish 
+downloaded latest version glassfish unzipped local folder started domain command bin directory opened admin console server web browser clicked button resulted runtimeexception clicked button resulted runtimexception short clicking button results runtimexception didnt find answer problem online reason log 
+
+figured mistake glassfish official website stated ee requires jdk jdk u60 recommended glassfish misread jdk7 recommended v4 work glassfish v4 jdk7 

@@ -1,0 +1,4 @@
+explode effect sprite libgdx 
+develop game libgdx explode effect sprite clicked box2d physics apply explode effect 
+
+api handles animations particles api emmiters 

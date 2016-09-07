@@ -1,0 +1,4 @@
+create class structure object base class 
+class inherits methods object class makes class unique interesting rule inside jvm class manipulated adding removing method variable create parallel hierarchical structure independently object class 
+
+create class derive directly indirectly create class file href https en wikipedia org wiki class file file layout structure superclass jdk code parses class file find class file parser href http hg openjdk net jdk7u jdk7u dev hotspot file bd8f2377a415 src share vm classfile classfileparser cpp l3148 check reject base class superclass 

@@ -1,0 +1,4 @@
+libgdx draw top left corner screen viewport moving camera 
+move camera mouse code works fine text draw top left corner screen camera combined draws original screen doesnt follow move camera accomplish 
+
+excellent question created method return vector3 relative screen position built easier code good luck program 

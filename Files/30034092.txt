@@ -1,0 +1,4 @@
+spring amqp return callback retry callback 
+make app resilient connection issues happen sending messages rabbitmq hold unsent messages store send rabbitmq official href http docs spring io spring amqp reference html amqp html template confirms rel nofollow documentation didnt manage figure difference return callback retry callback understand retry callback invoked retry template exhausts configured policy dont find context doesnt message based replycode passed returnedmessage method returncallback interface easily determine behavior havent figured callback invoked confirmcallback issue additional logic keeping sync correlationdata messages statuses messages confirmcallback interface easier track messages successfully rabbitmq spring amqp 
+
+returns broker returns message undeliverable matching bindings exchange message published mandatory bit set confirms broker sends ack back publisher indicating message successfully routed retry broker realm case 

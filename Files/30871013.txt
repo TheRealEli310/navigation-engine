@@ -1,0 +1,4 @@
+convert object consisting enum json object 
+org json library convert object json format kindly check code snippet shows output shows blank adds curly bases problem 
+
+highly recommend library org json unsupported library suggest href https github fasterxml jackson rel nofollow jackson href https code google google gson rel nofollow gson jsonobject add getter enum result serialization jsonobject dont support correct serialization enums additional data inside 

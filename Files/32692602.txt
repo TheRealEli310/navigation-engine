@@ -1,0 +1,4 @@
+override xml defined spring bean based configuration 
+extending complete product called hippo cms rest interface hippo cms apache cxf rest acquires resources definitions spring bean defined hippo cms sources definition override bean bean works fine xml configuration doesnt work define bean configuration class case beans works completely fine override bean defined xml configuration bean created configuration class 
+
+version spring issues addressed 

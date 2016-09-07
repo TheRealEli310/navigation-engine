@@ -1,0 +1,4 @@
+struts2 log4j2 
+developing struts2 webapp setting logger official documentation configuration log4j log4j2 started struts2 support log4j2 question found href http stackoverflow questions log4j2 working jboss log4j2 working jboss blockquote struts2 doesnt support log4j plans add support upcoming strutsathon opensource io blockquote question answered struts2 doesnt support log4j2 
+
+lucky latest version href https issues apache org jira secure releasenote jspa version amp projectid rel nofollow releas notes added blockquote h3 feature h3 ul li href https issues apache org jira browse ww rel nofollow ww add support log4j2 struts xwork logging backend li ul blockquote 

@@ -1,0 +1,4 @@
+edittext null object reference 
+working login register system error tap login button heres login looked bunch articles sof helps situation missing easy fix night suggestions 
+
+pointed suggestions code kindly verify strong nullpointerexception edittext etusername means edit text initialized calling method strong line exception calling gettext method etusername null follow steps identify issue ol li verify ids edittext layout activity login xml file exist li li verify ids edittext referred inside findviewbyid belongs layout activity login layout file li ol strong inside onclick method username password variables initialized default null strong initialize values edittext case null variables properly initialized 

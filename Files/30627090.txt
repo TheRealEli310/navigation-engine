@@ -1,0 +1,4 @@
+set request content type spring 
+code requestdto file hit post request steps postman ol li open postman li li enter url url bar href http localhost walley login rel nofollow http localhost walley login li li click headers button enter content type header application json li li select post dropdown url text box li li select raw buttons url text box li li select json dropdown textarea post request object username test password li ol response error checked found spring set content type consumers producers requestmapping request works support consumers producers set request content type spring version requestbody annotation 
+
+dont consumers producers spring version add additional entries root pom xml dispatch servlet xml requestbody annotation pom xml dispatch servlet xml controller 

@@ -1,0 +1,4 @@
+encrypting decryption large file rsa 
+rsa algorithm encryption decryption file size rsa key size code encryption reading file content block wise converting cipher text block size bytes decryption part block wise decryption code mentioned block size bytes input file size kb file file decrypted output extra values relevant extra data result 
+
+io code reading block block incorrect ol li assumes time read block block read necessarily case bytes read number bytes read returned read method stored ignore li li block pretty good chance incomplete file size multiple iteration youre encrypting remaining bytes file bytes stored byte array previous iteration li ol rsa encrypt large file good idea generate random aes key encrypt rsa store output file encrypt file aes faster doesnt problem large inputs decryption read encrypted aes key decrypt decrypt rest file aes 

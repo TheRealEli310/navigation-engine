@@ -1,0 +1,4 @@
+ibatis load list objects 
+ibatis started today query database list objects returning single objects values work fine href http www tutorialspoint ibatis ibatis read operation htm rel nofollow tutorial modification names classes wrong case mapping list users calling exception tutorials additional mapping approach success tips silly mistake typo edit user 
+
+default constructor user class define constructor ibatis create user 

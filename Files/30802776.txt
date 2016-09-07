@@ -1,0 +1,4 @@
+position tablecolumn scene 
+tableview tablecolumns place node tablecolumn exact position coordinates tablecolumn bind translate properties node snippet button top corner tableview works fine tableview tablecolumns dont translate properties localtoscene methods directly position bind node current solution doesnt work read position tableview scene pointa list columns tableview getcolumns check visible add width pointa find actual column place node problem bind nodes position point change order columns make invisible column position screen add listener column order visibility efficient 
+
+allowed public api access tablecolumnheader skin provided type tableviewskinbase api access tablerowheader container tablecolumnheaders api find header column code snippet width location binding copied james header label 

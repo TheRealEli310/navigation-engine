@@ -1,0 +1,4 @@
+play record sound javax sound sampled line 
+array filled javax sound sampled line info objects attatched microphones lines microphones speaker figure play sound line record sound line stuck couldnt find solution question read write line br br baschdi 
+
+capture play audio based samples provided sound api docs resources refer ol li href https docs oracle javase tutorial sound accessing html rel nofollow accessing audio system resources li li href https docs oracle javase tutorial sound capturing html rel nofollow capturing audio li li href https docs oracle javase tutorial sound playing html rel nofollow playing audio li ol strong edit strong update previous code code code snippet selects mixer supports microphone targetdataline similarly speakers sourcedataline 

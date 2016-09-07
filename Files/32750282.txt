@@ -1,0 +1,4 @@
+dependency sorting algorithm 
+list nodes dependencies defined ul li li li li li li ul algorithm return sorted list node dependencies instance valid solution class performance complexity bad 
+
+called topological sorting efficient simple algorithms wikipedia lists typically time favorite based depth search copy amp paste href https en wikipedia org wiki topological sorting rel nofollow https en wikipedia org wiki topological sorting 

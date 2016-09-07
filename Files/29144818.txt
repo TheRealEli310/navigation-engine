@@ -1,0 +1,4 @@
+exception connecting hbase 
+written short program connect compiled jars directory hbase shown run exceptions telnet hbase master works fine telnet localhost shows client connect hbase log master displays warning exception warning replaced jar error didnt executed program machine hbase installed hbase version hadoop version hbase shell works issue 
+
+worked things ol li add path strong end strong shown click image open tab small understand li ol img src http stack imgur xlafu png alt enter image description strong strong hbase master node hbase conf usr lib hbase conf ol start li true depreacted method slightly modified program li ol img src http stack imgur 827sz png alt enter image description deprecated works hbase intel output shown img src http stack imgur pkrlo png alt enter image description blockquote code highlighter working large codes images show properly blockquote 

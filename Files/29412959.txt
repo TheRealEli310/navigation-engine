@@ -1,0 +1,4 @@
+merge readers writer 
+implement method combine pieces data frow readers writer file file result merging string reader string reader manipulate needed write result writer make differently elegant ps obliged classes btw write file writer file ill unreadable read file reader print console normal write file make readable 
+
+implement method signature output 

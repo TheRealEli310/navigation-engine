@@ -1,0 +1,4 @@
+catching arithmeticexception handling intended 
+kinda catching handling exceptions concept wondering doesnt produce exception error message case exit compilation shouldnt compile show error message screen wrong 
+
+executed code compiles fine error exception requirement throwing arithmeticexception run time statement encountered dont problem 

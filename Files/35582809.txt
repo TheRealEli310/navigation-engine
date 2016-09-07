@@ -1,0 +1,4 @@
+arraylist hugecapacity int implementation 
+reading documentation grown dont understand href http grepcode file repository grepcode root jdk openjdk 8u40 b25 util arraylist arraylist hugecapacity 28int method chooses return defined class size integer subtle difference returning versus shouldnt occur 
+
+maximal array size limited number varies jvms slightly allocating array elements jvms memory assumes valid array size existing jvms size approaches elements enlarge array enlarged successfully performed assuming memory number elements exceeds allocate array elements fail jvms em em succeed safely add elements jvm problems 

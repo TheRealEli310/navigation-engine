@@ -1,0 +1,4 @@
+spring mvc mapping url html exposing path 
+spring boot webservice serve jsps dont add jsp servlet serve single canary page shows prettier html type format information provided endpoint file serve url canary html doesnt work expecting handler provide file otherwords location handler url work charm url resolve type html easy jsp servlet set suffix ect looked didnt make sense link current configuration blockquote mechanisms resolving incoming request actual resource obtaining public url path clients requesting resource blockquote href http docs spring io autorepo docs spring current javadoc api org springframework web servlet resource resourceresolver html rel nofollow resourceresolver documentation beneficial strong strong aware put html resources static places automatically configured requires html typed case wont work 
+
+view controllers sample hope helps tomcat configure jsp servlet server html files href http stackoverflow questions html files jsps related post 

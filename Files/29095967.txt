@@ -1,0 +1,4 @@
+splitting list sublists elements 
+list id words split list sublists separator order obtain list lists solution 
+
+solution moment implementing custom collector reading solution add notes question programming exercise parallel stream aware itll strong silently break strong pipeline run strong parallel strong strong strong desirable behavior strong avoided strong throw exception combiner part parallel combining lists exception wrong result efficient due list copying native method copy underlying array heres collector implementation output hr href http stackoverflow answer joop eggen appears parallel give credit reduces custom collector implementation paragraph parallelism bit obsolete good reminder hr stream api substitute tasks easier suitable streams tasks case create utility method call improved checking edge cases 

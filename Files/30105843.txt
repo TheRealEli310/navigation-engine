@@ -1,0 +1,4 @@
+hazelcast jacache cachemanager getcache returning null throwning classcastexception 
+jache hazelcast implenentation web application deploying application tomcat context listener calls cachemanager loads data cache cachemanager cachename class class returns null declarative configuration hazelcast defined hazelcast xml server starting read file contextlistener code cachemanager class hazelcas xml custom cacheloader class server stacktrace server stack trace evident unable cast custo cacheloader happening 
+
+stacktrace mentions setup class cache configuration factory setup factory xml classname cacheloader create factory class 

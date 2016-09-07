@@ -1,0 +1,4 @@
+spring boot actuator disable info endpoint 
+disabling actuator endpoints production environment configuration file works endpoints info turn endpoints environment strong update strong project working acting eureka client documentation spring cloud netflix section em status page health indicator em href http cloud spring io spring cloud netflix spring cloud netflix html rel nofollow http cloud spring io spring cloud netflix spring cloud netflix html eureka instance default info health solution disable endpoints disable em health em endpoint em info em endpoint 
+
+finally managed solve problem enabled info health endpoints actuator access info endpoint users role admin needed mix actuator management security spring security configuration em application yml em pre class lang js prettyprint override spring security configuration needed change order em managementsecurityconfig em higher priority 

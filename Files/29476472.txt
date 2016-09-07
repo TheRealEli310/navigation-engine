@@ -1,0 +1,4 @@
+maven dependency version 
+recently working improvements project developed time ago found lot dependencies pom files versions resolved project consists root module submodules aggregator pattern meaning dependencymanagement section upper project simply aggregates modules subprojects dont refer parent parent grasp subprojects parent matter fact doesnt dependencymanagement versions dependencies instance figure maven handles versioning default strategy 
+
+gonna answer dependency tree dependencies mentioned level members tree failed notice present parent present submodules interesting spring io platform totally concept turns platform includes preconfigured dependencies href http docs spring io platform docs current reference htmlsingle appendix dependency versions rel nofollow http docs spring io platform docs current reference htmlsingle appendix dependency versions 

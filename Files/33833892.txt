@@ -1,0 +1,4 @@
+android minimax implementation tic tac toe game 
+make tic tac toe android application debugging hours fixing things problem solve time knowledge deduced problem found androidperform method line asked find move place appropriately named variable bestmove object move code method androidmove player called basically minimax algorithm debugging find good moves line returns null problem fix provided important classes classes work hope advance mygame class minimaxactivity class 
+
+working code made classes minimaxactivity class mygame class 

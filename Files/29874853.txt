@@ -1,0 +1,4 @@
+sql query works sql developer side 
+figure success find row specific table lets employee table building query side print log prepared statement search string heres code problem results rows fetching row printed query works sql developer guess error side clue ideas 
+
+jdbc string puts single quotes needed dont expect 

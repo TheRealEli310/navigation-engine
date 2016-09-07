@@ -1,0 +1,4 @@
+android full screen camera keeping camera selected ratio 
+build similar camera screen user taking photos user camera mode force user image mode h2 camera ratios h2 calculating ratio h2 make full screen h2 h2 setcameralayout callers h2 h2 goal h2 fullscreen camera preview phone h2 problem h2 preview distortion strong good strong strong good strong strong strong width bigger turns center camera center phone solutions thought ol li layout left negative position make preview center center screen li li layout draw center visible li ol h2 ideas overcome issue h2 alot 
+
+managed successfully center preview setting gravity surfaceview code snippet href https github seanpjanson andycam blob master src main andyscan andycam camvw l73 rel nofollow youre code patience decipher solving similar issues preview rotation distortion fit fill good luck 

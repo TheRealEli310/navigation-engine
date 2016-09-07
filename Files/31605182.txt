@@ -1,0 +1,4 @@
+generating tree sort structure rxandroid 
+hand rxandroid sync adapter querying service list pages size item pages make request generates lines size item pages lines combine lines list size persist db pages server map fetch lines page server parse json arraylist lines unsure proceed iterate line arraylist 
+
+transform iterate strong update strong br decided add links br href https github reactivex rxjava wiki transforming observables rel nofollow transforming observables br href http reactivex io documentation operators flatmap html rel nofollow flatmap br transform operator 

@@ -1,0 +1,4 @@
+hibernate c3p0 closing mysql connections properly aborted connections mysql err 
+standalone application hibernate manage sql connections work mysql database ensure sessions closed main method exits code everytime main method exits log sql error logs mysql manually kills close mysql connection gracefully recall hibernate correctly closing sessions put back pool sessions hibernate release connection mysql edit c3p0 forget mention earlier connections close warning error mysql err logs dont types warnings wrong 
+
+href https hibernate atlassian net browse hhh rel nofollow apparently bug hibernate added method shuts c3p0connectionprovider hibernateutil accessed statically pesky warnings 

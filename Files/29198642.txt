@@ -1,0 +1,4 @@
+initialize bean builder pattern 
+common situation scenario object creation handled builder builder doesnt standard setters performs tasks sets result internal object builder treated properties read href http stackoverflow questions spring builder pattern create bean spring builder pattern create bean invoke builder retrieve final object completely spring xml configuration dont create factory box spring xml configuration generate service object scenario understanding spring impression invoking chain setter methods setting properties explicitly builder objects finally invoking build service object achieved 
+
+box xml define properties setters values declare bean custom type 

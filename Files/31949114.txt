@@ -1,0 +1,4 @@
+jackson json expanding attributes object 
+facing weird problem json serialization jpa objects annotation jsonproperty serialize amp deserialize objects json data strong query strong strong department strong strong querycontroller strong method returns list serialized json object doesnt entire child object details 2nd item list 1st json object correctly 2nd json object list missing object details strong output json strong notice 1st result queryid department object amp respondedbyuser object expanded 2nd result queryid objects department amp respondedbyuser expanded debug amp values serialization objects respective values properly happening missing 
+
+jackson object ids annotation initially serializing objects completely references refer object id 

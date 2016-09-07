@@ -1,0 +1,4 @@
+maven package net jcip annotations exist 
+net jcip annotations notthreadsafe code import dependency pom xml project error wrong import strong package net jcip annotations exist strong 
+
+add dependency classpath maven surefire plugin intend give pom pre class lang xml prettyprint override dependency surefire juni47 surefire plugin handles pre class lang xml prettyprint override 

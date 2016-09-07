@@ -1,0 +1,4 @@
+deadlocked transactions hibernate oracle 
+simplified hibernate entities update entities transaction roughly called bar updated noticing occasional errors running application dump suggest deadlocked sessions locked dont understand case code deadlock restructure avoid deadlocking heres extra information trace 
+
+understood correctly href http docs oracle javaee api javax persistence entitymanager html detach 28java lang object rel nofollow detach 

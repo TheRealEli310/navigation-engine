@@ -1,0 +1,4 @@
+difference save commit database hibernate 
+book learning hibernate framework understand movie object mapped written database understand commit step write database purpose sources referred em persists em data doesnt persist writing permanent storage 
+
+comparison misplaced compare strong edited strong href https docs jboss org hibernate orm javadocs org hibernate session html save lang object rel nofollow ol li save data db rollback anymore opposed li li generate return identifier prior writing object writes data database return mark object dirty cache flush commit saved persisting multiple objects transaction li ol 

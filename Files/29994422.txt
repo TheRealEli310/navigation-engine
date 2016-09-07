@@ -1,0 +1,4 @@
+hbase snapshots bulk loading 
+wondering hbase snapshot output bulk loading load data cluster org apache hadoop hbase snapshot exportsnapshot doesnt work 1tb data transfer snapshots creating exporting snapshot creates hfiles export files locally import cluster export snapshot local hdfs files looked cluster exported files thought run loadincrementalhfiles utility error thought id import export utility working wrong advance 
+
+figured works posting copied apps hbase data data default metadata table cluster import metadata ran bin hbase org apache hadoop hbase mapreduce loadincrementalhfiles import metadata 18719f6ffa69864249392d2412f26538 metadata moves files correct location hbase 

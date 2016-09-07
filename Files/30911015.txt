@@ -1,0 +1,4 @@
+ways override version parent pom 
+parent pom establishes version concrete project changing compiler version eclipse time maven update solution found solutions involving overriding behavior parent pom child question differences option options found blockquote ul li properties tag li li properties tag li li configuration tag li ul blockquote maven advance 
+
+properties properties br important thing set version configuration 

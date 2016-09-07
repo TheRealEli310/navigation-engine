@@ -1,0 +1,4 @@
+min method array random ints inputted count 
+full assignment create number methods getmode getaverage compute stats array randomly generated numbers user inputted ceiling max floor min sample size methods work time returning em populated set em min inputted min higher heres code main program idea program isnt returning min values equal user inputs max fine users inputted max equal looked questions min max arrays random numbers havent apply solutions problem advance 
+
+part code wrong thing create random number generator em iteration em create loop loop important issue important run suppose means calling give number number lt method href http docs oracle javase docs api util random html nextint 28int rel nofollow back number number lt number number lt youll give add means em em wrote extra pair parentheses made difference stick parentheses parenthesis method defines methods parameters case caused part parameter hr thing class em em extend related kind 

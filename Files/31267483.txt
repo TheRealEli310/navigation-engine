@@ -1,0 +1,4 @@
+md5 hash zip files 
+generate md5 hash files examples found files unzip data edit file zip find hash original 
+
+create md5 hashes arbitrary file independently file type hash takes em em byte stream doesnt interpret meaning examples found txt files apply zip files editing file inside zip change md5 zip file guaranteed due hash collisions general property hashes zipping rezipping files change md5 hash content em em changed em unzipped em files em zipped em file vary depending compression algorithm parameters strong edit based comment strong avoid changing md5 hashes rezipping run md5 em unzipped em files fly writing files disk streams helps simple code 

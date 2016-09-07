@@ -1,0 +1,4 @@
+calling asynctask main thread inside loop 
+strong someclass strong large network operations time complete put process times main thread loop called strong asynctask strong times throw error interrupt completing loop 
+
+running mutliple recommended times work async task run serially parallel async tasks run parallelly call method pass parameter search google find links href http stackoverflow questions run asynctask time 

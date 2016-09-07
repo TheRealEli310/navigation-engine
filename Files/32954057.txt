@@ -1,0 +1,4 @@
+noclassdeffounderror starting mrappmaster hadoop upgrade 
+updating application unable mapper jobs running correctly appearing job logs thought initially classpath issue specifically jobs libs copied distributed cache added classpath job prior job run bit verification confirmed libs place added classpath prior job run reveal classpath lib log4j class question belongs bit ideas code executed works perfectly fine branch missing 
+
+ended subtle issue class question strong strong provided classpath initially loaded blowing referenced null variable subsequent exception stack trace lost deep bowels hadoop hadoop containerlogappender gained ability setcontainerlogfile set blows npe previously defaulted syslog default happily dig hole classes blow loaded classloader effect removed line job reports opposed 

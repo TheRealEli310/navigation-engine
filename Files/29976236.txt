@@ -1,0 +1,4 @@
+spring boot custom implementations spring data repositories mappedsuperclass subclasses 
+simplified working code mapped superclass subclasses real life superclass fields strong animal strong strong cat strong strong dog strong shared code cat dog repositories strong animalrepository strong strong animalrepositoryimpl strong add catrepositories works works correctly strong catrepository strong strong catrepositorycustom strong strong catrepositoryimpl strong test class cat repository strong animalrepositorytest strong coded inspired href http stackoverflow questions question case complicated main question add repositories identical variations doesnt work case completely wrong 
+
+failure related generic definition classes class catrepositoryimpl extends classe animalrepositoryimpl generic types code snippets post opinion avoid logic related things repository class move service level 

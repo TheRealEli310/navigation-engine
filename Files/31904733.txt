@@ -1,0 +1,4 @@
+animate view time 
+adding dynamically animate slide left problem happen time slide 
+
+starting time slide time add start offset corresponds position delay play 75ms hr additionally suggest switch newer animator api introduced android honeycomb view animations outdated click href http developer android guide topics graphics prop animation html rel nofollow strong strong started newer api 

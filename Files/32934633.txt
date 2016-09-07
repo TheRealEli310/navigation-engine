@@ -1,0 +1,4 @@
+logback logging lines spring boot 
+log lines log files logback file correctly created console output written log file inserted instructions code dont find log spring boot includes file created logback configuration easy correct correctly change file introducing log file pattern works dont log instructions log file building initializingbean log lines 
+
+due base xml file root logging set info level pls debug logs 

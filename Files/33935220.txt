@@ -1,0 +1,4 @@
+streams collect advanced usage 
+hr extract student max age grouping student type combination collect output 
+
+href https docs oracle javase docs api util stream collectors html collectingandthen util stream collector util function function collector adapts existing collector perform additional finisher operation case finisher operation simply returns student output side href https docs oracle javase docs api util comparator html comparingint util function tointfunction returns avoids unnecessary boxing 

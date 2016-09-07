@@ -1,0 +1,4 @@
+pass variable jenkins testng xml 
+run test cases depending variables passed jenkins choose testcases run testcaseone testcasetwo pom xml maven testng test methods testng xml file pass parameter depending tests run totally 
+
+beanshell script testng xml file href http testng org doc documentation main html beanshell rel nofollow http testng org doc documentation main html beanshell read system variables 

@@ -1,0 +1,4 @@
+prevent reload webview page 
+created app tabs display webpages fragment time switch tab tab back tab tab reloads searched google solutions found didnt work main activity webview fragments interesting thing tab1 tab2 reloads switch tab3 back tab1 reloads deeply appreciated 
+
+adding documentation setoffscreenpagelimit blockquote set number pages retained side current page view hierarchy idle state pages limit recreated adapter needed limit low pages complex layouts setting defaults blockquote default tab tabs left current tab tab recreated 

@@ -1,0 +1,4 @@
+current stage graphicsdevice javafx 
+graphicsdevice current javafx stage current screen screen getscreensforrectangle method graphicsdevice 
+
+href https docs oracle javase javafx api javafx stage screen html rel nofollow method find interest href https docs oracle javase docs api awt graphicsenvironment html rel nofollow obtained iterate href https docs oracle javase docs api awt graphicsconfiguration html rel nofollow href https docs oracle javase docs api awt graphicsdevice html rel nofollow find devices bounds intersect bounds obtained typical iteration scheme shown href https docs oracle javase docs api awt graphicsdevice html rel nofollow 

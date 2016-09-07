@@ -1,0 +1,4 @@
+gracefully handle invalid file uploads spring rest service 
+hit roadblock validate requests rest endpoint uploading files upload works fine long request correct id include checks required fields data expecting spring boot heres service pre class lang prettyprint override test scenarios ol li calling endpoint file field works correctly li li calling field text correctly enters checking values http response coded li li calling fields empty request triggers pasted returns response li ol heres ideas ol li return correct response case li li gracefully handle case avoiding exception returning code li ol 
+
+end found solution scenario workaround h2 scenario h2 responses due jersey display error page didnt exist service default behavior turned favor simply returning desired error code coded response providing configuration h2 scenario h2 worked adding service method requests named expecting parameters parameter coming invoked return response 

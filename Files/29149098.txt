@@ -1,0 +1,4 @@
+javafx contextmenu clicked object 
+learning javafx scene control contextmenu facing problem clicked object eventhandler event source event target return menuitem explain write inside function handle edit hoping simple solution liner isnt lots complex 
+
+create instance contextmenu add action parent reference 

@@ -1,0 +1,4 @@
+preparedstatement sql query db2 sqlcode sqlstate 
+problem sql query prepared statement error blockquote ibm db2 jcc ro db2 sql error sqlcode sqlstate sqlerrmc driver blockquote apparently problem variable includes content jtsextfield entered user content isnt saved variable important classes sql query mvc model dao pattern controller class showing important parts btrdao class daoimpl class abstractdao class connectionmanager class 
+
+query parameters explicitly set values jdbc api supports positional parameters change code mustaccio comments ibm db2 jdbc driver supports named parameters href http www ibm support knowledgecenter ssepgg ibm db2 luw apdv doc src tpc imjcc t0054762 html lang en rel nofollow named parameter markers preparedstatement objects casting party connection pools 

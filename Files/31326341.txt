@@ -1,0 +1,4 @@
+splitting large enums groovy 
+designing model groovy static amount values map model initially thinking implementing enum problem eventually big hundreds elements subclassing enums alternative approaches problem staticvalues plain hardcoded constants values represented plain string values keys querying model important valid values intend make values field typed string 
+
+implement interface multiple implement interface class btw hundred enum shouldnt problem 

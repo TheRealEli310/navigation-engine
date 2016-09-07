@@ -1,0 +1,4 @@
+log https website jsoup 
+interested webcrawlers recently decided jsoup log website post couldnt piece crawl site www tickld login site href https www tickld signin rel nofollow https www tickld signin jsoup correctly main reason error jks entering wrong information dont test part code failing logging site taking signin page 
+
+signing handled ajax chrome login form browser press f12 press console make post request make url parameter tag case url exists handled javascript works doesnt headless browser handle js execution selenium webdriver strong update strong 

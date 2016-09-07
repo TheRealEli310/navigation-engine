@@ -1,0 +1,4 @@
+okhttp posting user input data retrieving json response determine success 
+thinking read trough okhttp documentation idea handle ill user submit fields username password database ill php file uploaded host accepts post data pure php html accepts data posted page values submitted ill perform check credentials found return echo json array success failure check array key success equals show toast user logged successfully question logic correct tips examples 
+
+send authorization http requests set header send json php page generator make easy href https github alexistm simple json php rel nofollow simple json php update headers send home made json edit href http www slimframework rel nofollow slim framework didnt efficient href https github alexistm simple json php rel nofollow simple json php create json amp send make routes 

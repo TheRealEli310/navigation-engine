@@ -1,0 +1,4 @@
+picasso images loading gridview android 
+making movie app project work learning android udacity btw encountered problems resolved threads href http stackoverflow questions unable modify arrayadapter listview unsupportedoperationexception unable modify arrayadapter listview unsupportedoperationexception app crash images loading figure code layout xml files movies item xml fragment main xml moviearrayadapter error images loading threads find answer problem updated changed code discussion 
+
+line call lines updating populating moment alway image dont forget add internet permission manifest 

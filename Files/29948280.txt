@@ -1,0 +1,4 @@
+swagger error expected type string found type integer 
+started working recently swagger generate documentation restful apis yamlbeans jar convert dtos yaml file works fine yaml validated properly href http www yamllint rel nofollow http www yamllint testing swagger interface error strong em expected type string found type integer em strong strong em enum match em strong mention swagger file sample yml file give error line number swagger version appreciated strong edit strong defined swagger version string code written result error 
+
+version string number interpreted number wrap quotes work fine 

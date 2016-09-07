@@ -1,0 +1,4 @@
+reverse print array recursive method 
+method works fine find print reversed array method loop print arrays inputs blockquote size start end arr blockquote output blockquote 543215432154321 blockquote correct output blockquote blockquote strong code strong 
+
+close mistake making printing result inside method dont forget recursive youll intermediate results printed call method print 

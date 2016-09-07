@@ -1,0 +1,4 @@
+lang linkageerror loader constraint violation interface itable initialization 
+error mock worked 
+
+based scenario href https github jayway powermock issues rel nofollow cited issue workaround problem occurs static initializer em suppress em code working test case powermock 

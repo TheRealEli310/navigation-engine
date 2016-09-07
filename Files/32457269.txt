@@ -1,0 +1,4 @@
+libgdx set viewport position 
+libgdx stage viewport defines camera render stage small square screen customized viewport managed set size method viewport centered middle screen matter set viewports position screen 
+
+problem opinion setting viewport position updating youve strong center camera strong viewport updating compare calls strong update strong version false default 

@@ -1,0 +1,4 @@
+spring batch unit testing custom item reader 
+find unit test custom itemreader written delegate multiresourceitemreader spring batch xml configuration file pre class lang xml prettyprint override attempted test class test allegatireader pre class lang prettyprint override problem resources files present filepath injected reader 
+
+guess test delegate reader class allegatireader case work autowiring multiresourceitemreader bean test h2 reason h2 ul li multiresourceitemreader creates complete delegate reader objects complete resource set li li delegate reader bean wont provided completely configured reader resource li ul 

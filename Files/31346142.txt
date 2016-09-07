@@ -1,0 +1,4 @@
+default skin libgdx serializationexception error reading file ui uiskin json 
+run desktop version project error project structure simplified version 
+
+update libgdx version tooltips ware added skin file missing crash check tests libgdx repo 

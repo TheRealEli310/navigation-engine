@@ -1,0 +1,4 @@
+number jvm instances ee server 
+ee application servers jboss ejb container servlet web container assuming application servlets ejbs talk application server containers logically identify component doubt corresponds jvm instances ejb container servlet container share jvm instance 
+
+ejb servlet containers share jvm instance works threads 

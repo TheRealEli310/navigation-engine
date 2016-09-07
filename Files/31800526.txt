@@ -1,0 +1,4 @@
+string 
+output blockquote qtystring qty1 qtystring qty2 blockquote qtystring qtystring print qty1 qty2 loop code works correctly dont qtystring 
+
+array strings purpose 

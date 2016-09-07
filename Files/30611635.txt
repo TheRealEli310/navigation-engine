@@ -1,0 +1,4 @@
+error binding implementation bound guice 
+guice solve dependency ve read tutorials examples figure error basically structure code follow entity foo fooservice persistentstore defines create update delete generic datatype fooresource client application calls fooservice implemented binding foomodule persistencemodule fix problem 
+
+persistencemodule bind persistencestore annotation constructor fooservice dependency annotated named foopersistence annotations binding injection point remove prefere onami persist chance fixes bugs guice persist abandoned 

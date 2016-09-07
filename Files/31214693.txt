@@ -1,0 +1,4 @@
+progamatically accessing camel property camel context 
+project working moment camel routing framework configuring camel context spring pass property file bunch global properties needed configuring camel routes controlling run time behavior system properties entry configuring routes access property notation beans annotation case design plain pojo created spring enum relevant access property pojo passed camelcontext method argument find natural spent bit time figure load properties file system property work cheating advance inputs 
+
+api camelcontext resolve property placeholders method ul li href http camel apache org maven current camel core apidocs org apache camel camelcontext html resolvepropertyplaceholders lang string rel nofollow http camel apache org maven current camel core apidocs org apache camel camelcontext html resolvepropertyplaceholders lang string li ul 

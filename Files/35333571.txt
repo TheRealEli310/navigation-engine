@@ -1,0 +1,4 @@
+prepend iso8583 message length iso8583 message j8583 library 
+send iso8583 message server j8583 setting header config xml file setting fields server configuration requires 2byte length length hex bytes incoming iso8583 message question calculate length message byte representation iso message calculate length byte representation send length message server iso8583 message prepended front header code excerpts config string representation iso message output raw message terminal server 
+
+write message stream length prepended byte header words method youre youre problem message property received side wrap sockets outputstream flush stream writing message byte array length headers 

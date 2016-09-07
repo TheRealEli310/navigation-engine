@@ -1,0 +1,4 @@
+eclipse ast parser insert statement 
+org eclipse jdt parser rewrite code supposing ifnode statement node similar insert syso statement beginning method achieve 
+
+code achieve add sysout limit scope rewrite code tested find issues 

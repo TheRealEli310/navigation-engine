@@ -1,0 +1,4 @@
+protected public terms inheritance 
+public protected creating superclasses program runs problems protected access modifier set change public 
+
+follow href http en wikipedia org wiki principle privilege rel nofollow principle privilege means members assigned minimum accessibility needed program work unrelated class access make typically methods provide managed access data subclass completely trusted manipulating data work properly make member make class access accessible methods encapsulate data program works make making methods access encapsulate data 

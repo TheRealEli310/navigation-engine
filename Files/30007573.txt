@@ -1,0 +1,4 @@
+compile netbeans project command line ant 
+netbeans project compile command line questions stackoverflow explain compile project commands havent changed netbeans projects build settings strong default strong compile project command line ant built project compiled file located format class files jar file understand ant compile project general broad question specifically compile netbeans default configuration project netbeans 
+
+compiles project class files build classes folder compiles project builds jar located dist doesnt work check output errors home variable set properly 

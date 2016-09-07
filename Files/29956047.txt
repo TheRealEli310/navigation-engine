@@ -1,0 +1,4 @@
+jsonobject jsonstringer vice versa 
+bit confused core limitations jsonstringer class understand jsonstringer meant chain json create fully formed case function returns jsonstringer find hands pretty tied id ol li append existing structure top level object keys values endobject methods scope modify jsonstringer fact add obect jsonexception misplaced object li li modify existing structure add key inside returned method li li create jsonstringer arbitrary json jsonobject supposed frustrating move amount fancy structured wrappers string li ol 
+
+solutions choices building em json em object inside method calls class add key values modify existing dont call inside method operations 

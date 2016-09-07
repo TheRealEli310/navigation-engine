@@ -1,0 +1,4 @@
+maven dependency plugin resolve manually dependencies plugin 
+encountered problem maven version version introduce plugin dependencies created simple project chosen maven antrun plugin version plugin dependencies mentioned href https maven apache org guides mini guide configuring plugins html dependencies tag rel nofollow maven official guide configuring plug ins run command resolve dependencies output version change version dependencies change run version dependencies belong check version dependencies changed 
+
+reason goal strong strong resolve custom plugin dependencies plugins run maven debug mode show dependencies added classpath notice group id original dependencies strong strong maven include custom dependencies classpath newer ant version 

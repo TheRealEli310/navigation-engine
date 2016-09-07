@@ -1,0 +1,4 @@
+apache cxf plugin failure generating client 
+generate webservice client apache cxf maven plugin running errors simple maven project setup eclipse wsdl file located href http api zenfolio api zfapi asmx wsdl rel nofollow http api zenfolio api zfapi asmx wsdl pom file pre class lang xml prettyprint override run maven install pom file error configuration make cxf plugin working 
+
+wsdl soap encoding supported apache cxf current technology matter rely soap stack axis handle obsolete encoding href http www mojohaus org axistools maven plugin rel nofollow axis generate client stub wsdl pre class lang xml prettyprint override add axis compile time dependency pre class lang xml prettyprint override generated client located default override href http www mojohaus org axistools maven plugin wsdl2java mojo html outputdirectory rel nofollow configuration element 

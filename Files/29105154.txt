@@ -1,0 +1,4 @@
+smooth bufferimage edges 
+smooth jagged edges transformed translated rotated bufferedimage zoomed view test image img src http stack imgur jfksf png alt zoomed view jagged edges actual bufferedimage demonstrating bilinear interpolation quality rendering antialiasing renderhints antialiasing appears work drawn shapes white background black edges shape blended interpolation grey black em em achieved 1px transparent border image interpolation work feels redundant 
+
+issue work clever trick found href https weblogs net blog campbell archive 2d tricker html rel nofollow blog post chris campbell blockquote true suns 2d implementation automatically antialias image edges rendering graphics drawimage simple workaround texturepaint render transformed antialiased fillrect blockquote code adapted code blog 

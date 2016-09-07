@@ -1,0 +1,4 @@
+spring mvc deserialize json object array 
+controller receiving json request body object array objects strong force spring deserialize json object similar object strong elegant parsing validating kind messages 
+
+add maven 

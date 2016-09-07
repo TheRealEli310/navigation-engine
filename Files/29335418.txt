@@ -1,0 +1,4 @@
+method reference compatible functional interface implementing function names 
+reference static method isprime passed argument numtest works isprime compatible intpredicate functional interface expression myintpredicates isprime evaluates reference object strong isprime implementation test intpredicate strong isprime provide implementation test strong reference test strong guess point flexibility possibilities explain work 
+
+lambdas work basically runtime create instance functional interface implementation define brian goetz written href http cr openjdk net briangoetz lambda lambda translation html rel nofollow doc lambdas method references work compile runtime 

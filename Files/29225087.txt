@@ -1,0 +1,4 @@
+exception thread main lang nullpointerexception program 
+error exception thread main lang nullpointerexception run program means give hint greatly appreciated pasted classes entire error div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override 
+
+exception shows line numbers coursegrades tostring method havent performed null check testcoursegrades youve set labvalue instance values grade grade grade values null youre null pointer exception modify tostring method 

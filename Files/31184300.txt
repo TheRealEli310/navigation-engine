@@ -1,0 +1,4 @@
+android checking file size exceeded 
+set listener created file alert file size reached 
+
+class called listen events file opened closes modified specific listener file size event suitable documentation href http developer android reference android os fileobserver html rel nofollow http developer android reference android os fileobserver html short 

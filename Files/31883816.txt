@@ -1,0 +1,4 @@
+subsets set bit manipulations 
+generate subsets set bit manipulations array integers subsets 
+
+count inclusive retrieve elements bits current count set ordered retrieve elements index tricky part pulling elements bits current count heres pseudocode assumes original set size number bits integer type count mask 

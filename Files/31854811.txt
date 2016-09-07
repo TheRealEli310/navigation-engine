@@ -1,0 +1,4 @@
+access forbidden error spring security url dynamic path param 
+resource called user rest service follwing apis resource api users userid order orderid br api users userid favoritestores url protected security giving api urls configured security config intercepts url api users userid favoritestores changed config shows forbidden error configure securit intercept urls 
+
+spring security doesnt intercept url pattern provide access permitall url pattern match permit url pattern add intercept pattern information spring link href http docs spring io spring security site docs reference el access html rel nofollow spring expression based access control 

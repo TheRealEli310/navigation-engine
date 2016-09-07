@@ -1,0 +1,4 @@
+customize tom level properties spring boot swagger 
+customize tom level properties spring boot swagger swaggerdefinition work mistake code json response href http localhost v2 api docs rel nofollow http localhost v2 api docs top level properties title discription supposed changed 
+
+answer dont solve problem swaggerdefinition found alternative overwrite docket configuration class 

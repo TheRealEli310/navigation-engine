@@ -1,0 +1,4 @@
+transaction treated separate transactions 
+method spring controller method helper class observering thread method method committed default propagation means transaction method separate method jpa hibernate implementation spring transaction dont explicitly setting behaviour xml strong relevant section transaction management spring configuration strong configuration file related controller 
+
+uncommon annotations controller methods common usage put transaction demarcation service level transactionnal controllers caveats spring transaction management based spring aop jdk proxies default works fine service level services injected interfaces controller controllers injected interfaces work class target proxying cglib proxies works controller implementing interfaces jdk proxies reported work spring versions fail href http stackoverflow post tl dr put transaction demarcation service level controller level 

@@ -1,0 +1,4 @@
+calculate sum values columns rows jtable 
+href http stack imgur uvkr8 png rel nofollow img src http stack imgur uvkr8 png alt enter image description making program guys questions ol li press button program add values rist row display cell marked press button program add values column display cell marked li li jtable function excel sum values display select curtain cells table code li ol 
+
+answer question jtable doesnt sum functions excel implement sum values row column similar change row index column index constant function assumes table columns type integer values null put null checking parsing case cell specific iterate rows columns similar set cell javadoc functions href https docs oracle javase docs api javax swing table defaulttablemodel html getvalueat int 20int rel nofollow href https docs oracle javase docs api javax swing table defaulttablemodel html setvalueat lang object 20int 20int rel nofollow set table model values 

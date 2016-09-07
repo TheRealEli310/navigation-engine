@@ -1,0 +1,4 @@
+consuming soap webservice issue 
+reading lots tutorials similar questions stackoverflow problem connect soap service call soap web service found nice answer href http stackoverflow http stackoverflow works perfect change wsdl file changed lines wsdl file href http stack imgur cbfe7 png rel nofollow img src http stack imgur cbfe7 png alt wsdl full output wsdl file isnt corrupted communicate soupui problems 
+
+answer cite constructed line wsdl url urn namespace identifier concatenation scheme missing strong strong headers header soapaction urn server getboardstatus 

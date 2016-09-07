@@ -1,0 +1,4 @@
+jdbc dataset store rows jvm memory 
+jdbc application fetch records db database oracle write data file row fetched takes hour complete fetching entire data increase fetch size result set multiple links increasing fetch size careful memory consumption increasing fetch size increase heap memory jvm br suppose fetch size program query returns rows total fetch resultset record read records resultset fetches 2nd fetch dataset records earlier records maintained memory removed fetching newer batch appreciated 
+
+depends drivers behave differently href http docs oracle javase docs api sql resultset html rel nofollow settings behave differently driver actively store memory number rows corresponds fetch size data earlier rows remain memory period time garbage collected hand driver store data fetched memory order scroll backwards forwards data implement behavior drivers versions drivers behaviors simplest drivers behave 

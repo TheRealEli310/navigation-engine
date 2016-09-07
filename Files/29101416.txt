@@ -1,0 +1,4 @@
+catch nosuch element log error webdriver 
+added log4j apache software logger webdriver testing log error statements strong put catch block good practice strong supposed exception object work printstacktrace strong proper practice add log error catch block strong 
+
+provide original exception message 

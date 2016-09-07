@@ -1,0 +1,4 @@
+android find places code request permissions 
+working application pre marshmallow devices source code written project big making app request permissions needed question find places code permission requested android studio strong edit strong br people suggest change api run app places crashes problem app crash place running code permission crash app returns empty array crashing android lint show places 
+
+developer page href http developer android guide topics security permissions html rel nofollow security permissions blockquote cases permission failure printed system log blockquote run app search log permissions similar unit testing ensure coverage places code permissions required 

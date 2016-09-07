@@ -1,0 +1,4 @@
+couchbase connection refused 
+connect couchbase server intranet purpose sdk configuration pre class lang prettyprint override leaves lots errors console choose port wrong 
+
+reserved couchbase port key operations protocol shouldnt set query port service including logs shows sdk connect localhost connecting remote node youre hitting bug version conjunction couchbase server lesser bug fixed sdk released beginning april check case developer preview strong dont forget switch official ga version strong released em process preview version removed officially em bug tracked href http review couchbase org rel nofollow strong edit strong versions additional versions released include bugfix 

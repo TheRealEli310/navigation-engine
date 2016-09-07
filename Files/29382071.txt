@@ -1,0 +1,4 @@
+spring autowire binding correctly 
+autowire bean implementation returns null pointer exception applicationcontext xml added runtime nullpointerexpection multiply null testing purpose works understand explicitly bean means autowire didnt work missing 
+
+typo bean xml full qualified classname strong edit strong error class managed spring instantiating class operator fail spring reference inject collaborator instantiate class spring retrieve application context spring manage dependencies scanning annotation field type find qualified bean application context 

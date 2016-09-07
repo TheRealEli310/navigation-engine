@@ -1,0 +1,4 @@
+apache camel intercept work 
+main route builder intercept route builder registered camelcontext mainroutebuilder registered interceptroutebuilder send message activemq message arrives mainmessageconsumer intercepted wrong 
+
+create producer produce annotation wont intercepted put application config intercepted expected behaviour 

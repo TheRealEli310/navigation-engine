@@ -1,0 +1,4 @@
+running specific spring batch job jobs contained withing spring boot fat jar 
+run spring batch job spring boot fat jar issues referencing nested jars command notice reference nested spring batch jar colon working find main class 
+
+turns nice option choose job multiple jobs fat jar amp run exists href http docs spring io spring boot docs current reference html howto batch applications html rel nofollow http docs spring io spring boot docs current reference html howto batch applications html documentation concerned sorted problem 

@@ -1,0 +1,4 @@
+consuming multiple webservices android 
+creating android app consume multiple webservices account order call webservices activity methods ios objective create nsobject class order call webservices worked fine found reading href https code google ksoap2 android rel nofollow ksoap2 perfect id hear opinion strong edit strong create multiple async task url creating single class downloads json data parse callback method solution 
+
+aspects mind calling remote service call webservice main thread server takes long response android kill app strong anr application responding strong call separate thread em asynctask em suffer memory leakage aware solution ol li volley make http request runs request separe thread dont worry anr problems li li okhttp populare library handles http requests response li ol time parse response methods implement logic manually response easy parse em gson em give href http www technotalkative android volley library rel nofollow volley hope helps 

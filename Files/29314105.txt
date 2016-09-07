@@ -1,0 +1,4 @@
+copy file local drive share drive jcifs performance issue 
+iam jcifs code copy file local disk shared drive taking minutes copy mb file copy file directly taking minute approaches copy file commented part code showed significant difference improve performance jcifs santosh 
+
+workaround mounted shared drive copied file drive santosh 

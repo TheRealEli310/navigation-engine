@@ -1,0 +1,4 @@
+jsonpath jackson gson 
+big json document parse part classes thinking jsonpath extract partial data creating entire hierarchy classes jackson gson support jsonpath provide examples point standard library purpose lets document extract data classes store book book store bicycle price price bicycle 
+
+href https github jayway jsonpath rel nofollow jayway jsonpath library support reading values json path map json objects directly classes gson jackson specifically gson jackson deserialization default json smart configure href https github jayway jsonpath jsonprovider spi rel nofollow documentation details 

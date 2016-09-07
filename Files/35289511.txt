@@ -1,0 +1,4 @@
+prevent false positive null pointer warnings cglib spring aop 
+spring aop indirectly cglib spring mvc controller cglib default constructor included controller problem intellij ideas static code analysis reports potential nullpointerexception null question prevent false positive null pointer warnings solution add guavas added method field method prefer solution add single place annotation default constructor strong edit strong fixed spring spring href http blog codeleak pl spring cglib based proxy classes default ctor html http blog codeleak pl spring cglib based proxy classes default ctor html 
+
+annotate field null instruct idea assume field null cases case real constructor annotated automatically idea 

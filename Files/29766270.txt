@@ -1,0 +1,4 @@
+resume android activity programmatically background 
+situation ol li lets working launched application activity li li time pressing home button application background li li time starting app youtube li li doesnt matter context lets timer finished calculating time application minimized background li li event occurrence application activity automatically resumes background li ol question accomplish step basically resume application background programmatically launch intent restart application activity didnt worked manifest file 
+
+order bring app foreground call context calling wont bring app foreground dont action category set 

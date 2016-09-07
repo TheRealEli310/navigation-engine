@@ -1,0 +1,4 @@
+spring security jwt token key 
+problem spring security boot jwt running auth server jwt test enabled oauth token key resource documentation spring boot resource server href http docs spring io spring boot docs current snapshot reference html boot features security html rel nofollow http docs spring io spring boot docs current snapshot reference html boot features security html configuration entry called security oauth2 resource jwt key uri load public key uri independent enter result exception ideas stack 
+
+user href http stackoverflow users deinum deinum told answer oauth2 auto configuration support added href https github spring projects spring boot wiki spring boot m1 release notes rel nofollow version spring boot update 

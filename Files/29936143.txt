@@ -1,0 +1,4 @@
+applicationcontext beanfactory org springframework beans factory nosuchbeandefinitionexception 
+code invoke getbean ways ran perfact throw exception blockquote org springframework beans factory nosuchbeandefinitionexception bean named useraccountserviceimpl defined blockquote applictioncontext springcontextlistener hr difference applicationcontext beanfactory codes problem 
+
+added bean application context xml result 

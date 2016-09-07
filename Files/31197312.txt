@@ -1,0 +1,4 @@
+textinputlayout animating onfocuschangelistener applied wrapped edittext 
+title edittext wrapped text input layout trigger event edittext loses focus event listener applied textinputlayout longer animates text sits edittext line information entered time animate give insight happening edit layout file 
+
+deal issue workaround custom edittext adding custom listener called onfocuschanged method fired strong custom edittext strong boiler plate code shown strong activity fragment strong dont forget custom edittext xml default edittext 

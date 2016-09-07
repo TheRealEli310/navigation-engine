@@ -1,0 +1,4 @@
+unable invoke method setautomaticrecoveryenabled connectionfactory rabbitmq 
+setautomaticrecoveryenabled connection factory compile error unable recognize method setautomaticrecoveryenabled factory object pom dependency taking time read give advice 
+
+changed dependency version worked 

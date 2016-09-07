@@ -1,0 +1,4 @@
+retrieve file webform fileupload restlet 
+retrieve file sending method post webform code send request problem line build iterator 
+
+add jar file apache commons io library classpath application maven configure resolve dependencies handle sample content configure upload support restlet hope helps thierry 

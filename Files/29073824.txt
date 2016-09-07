@@ -1,0 +1,4 @@
+class found exception eclipse user library containg jar file build path 
+created dynamic web project user library jar file created user library added build path project properties build path libraries tab required user library added jar file exporting project jboss deployment directory raising class found exception class added jar file properly add user library projects build path 
+
+understand problem discuss ee specifications application server dictating place apps classpath documentation href https docs jboss org author display as71 class loading as7 rel nofollow https docs jboss org author display as71 class loading as7 problem result appserver comfor project strcture ide build system maven job bilding jar coping desired location 

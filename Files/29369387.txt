@@ -1,0 +1,4 @@
+datagramsocket receiving udp broadcast routers 
+android client plain server subnet sending udp broadcast packets client server routers netgear cisco server happily receives packets asus router server em machine em receives packets server em datagramsocket em doesnt nb cases wireshark shows packets server machine asus router datagramsocket doesnt things simple server ethernet connection router code pretty standard client server whats causing datagramsocket udp broadcast packets asus router 
+
+follow wrong code wrong router config rule added windows firewall blocked incoming udp public connections asus router reason deemed public connection disabling rule work 

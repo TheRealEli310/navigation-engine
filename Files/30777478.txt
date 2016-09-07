@@ -1,0 +1,4 @@
+maven project eclipse running jre jdk 
+problem post href http stackoverflow questions compiler provided environment running jre ra compiler provided environment running jre jdk follow steps comment post find jdk folder illustrate add picture img src http stack imgur r8ibk png alt enter image description jdk folder run clean install command line eclipse message run jre jdk edit installed jdk folder picture img src http stack imgur eo6aq png alt enter image description 
+
+make steps follow jdk eclipse make jdk build path project jre screen shots strong step1 strong img src http stack imgur wwcyx png alt enter image description strong step strong img src http stack imgur ali4g png alt enter image description strong step strong img src http stack imgur myuia png alt enter image description 

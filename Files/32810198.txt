@@ -1,0 +1,4 @@
+fixed object c3p0 mbeans object 
+pooleddatasources application objectname mbean pooleddatasource variable part objectname mchange v2 c3p0 type pooleddatasource z8kfsx9c4bily2r1i962 23696a1b variable z8kfsx9c4bily2r1i962 23696a1b everytime restart service fixed objectname mbean monitoring purpose jmx monitoring override vmid property writable property lot research running luck jmx configuration advance 
+
+default c3p0 jmx names order constant identifier set ensure property set give construction set c3p0 config property youll jmx names jmx clients search attributes sufficient give permanent monitor constant fixed jmx set property file system property hocon typesafe config path depending configuring c3p0 set property strong set strong constructor config jmx predictable fixed string ensure names unique ish feature latest c3p0 details c3p0s href http www mchange projects c3p0 jmx configuration management rel nofollow jmx configuration docs 

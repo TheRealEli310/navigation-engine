@@ -1,0 +1,4 @@
+decimal format parsing issue 
+output expected output understand parse convert french locale formatted string normal double 
+
+kinds spaces normal space character hex 0x20 breaking space nbsp hex 0xa0 reason dont french locale expects whitespace character digits breaking space line code code work expected format french locale result whitespace character nbsp 

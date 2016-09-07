@@ -1,0 +1,4 @@
+keeping track jbuttons generated loop 
+working tic tac toe game trouble keeping track jbuttons loop create buttons check button text matches rows columns diagonal display win code track dynamically created jbuttons 
+
+win conditions tic tac toe naive approach checks win conditions isnt checking wins turn check conditions ol li row mark made li li col mark made li li diagonal mark corner diagonals mark center li ol ill leave figure 

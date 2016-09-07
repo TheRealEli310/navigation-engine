@@ -1,0 +1,4 @@
+threads calling parent functions 
+making software written involves single parent class invokes dozens classes nodes run thread extends thread classes store parent class variable node class invokes method parent class node store copy parent object nodes act object nodes act object statements called function run thread node thread parent class code 
+
+blockquote node store copy parent object nodes act object blockquote store pointer memory location parent object act object blockquote nodes act object statements called function run thread node thread parent class blockquote run thread node modify parent object make synchronization properly block concurrent access parent object incorrect inconsistent behaviour block give thread exclusive access parent object thread specific logic method method 

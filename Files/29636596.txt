@@ -1,0 +1,4 @@
+nested flatmap observable rxjava 
+blog post api returns id translate rxjava id break long string paragraphs words word combine back paragraphs combine back blog post post broken multiple paragraphs broken multiple words logically id find async manner ul li create observable list li li split observable give paragraphs li li split paragraphs segment words li li kind transformation word words puncuation part fine li li combine words back paragraph putting space li li combine paragraphs back post putting carriage return back li ul trouble figuring multiple levels splitting combining term needed split pages flatmap observable tolist wont work greatly appreciated 
+
+work fine code pretty explanatory make nested calls split posts paragraphs paragraphs words href http reactivex io rxjava javadoc rx observable html reduce rx functions func2 rel nofollow concatenate words obtain single paragraph concatenate paragraphs single post 

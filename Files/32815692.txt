@@ -1,0 +1,4 @@
+apdu throwing 6f00 method 
+read data incoming smart card apdu return incoming message appending ascii words respond front message status fix codes codes 
+
+typically status word means code throws unhandled exception case caused switch outbound data direction mutually exclusive fact methods send data h3 problems code h3 couple severe coding issues program ol li card smartcards wont perform automatic garbage collection allocating byte arrays dropping references invocation processing code typically result memory leak memory card byte arrays remain allocated longer reference li li code expect send bytes global apdu buffer byte array referenced simply setting local variable reference byte array change global apdu buffer copy outgoing data apdu buffer alternatively byte array data send li ol 

@@ -1,0 +1,4 @@
+limiting number selected rows vaadin table 
+applications lazy query container browse potentially large dataset works great select arbitrary number rows multi select table case lead selecting rows vaadin limit crash vm limit number selected rows sample shows problem 
+
+limit number rows user select similar code optimizable idea hr strong update strong handling selections produced shift click handle update selection ranges additionally inside method mentioned retrieved return items ul li em number em start index selection range li li em number em amount items selected starting index li ul information update values wished put back variables strong attention strong forget call values changed wont propagated client side 

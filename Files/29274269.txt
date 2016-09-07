@@ -1,0 +1,4 @@
+lang outofmemoryerror gc overhead limit exceeded creating data structure million elements 
+run code shown lang outofmemoryerror gc overhead limit exceeded code run array million elements element holds shorts exception guess garbage collector properly sweep svm nodes unable optimize object creation avoid creating svn nodes sits helpless heap change data structure href http www csie ntu tw r94100 libsvm readme rel nofollow libsvm input support vector machine question error related garbage collector collect svm nodes simply parse data structure elements ps set heap size maximum 32bit application 2gb 
+
+launched application 64bit environment raised heap 2gb solved problem weird gc quirk unable find increasing heap solved problem 

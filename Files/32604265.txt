@@ -1,0 +1,4 @@
+convert object json groovy jsonbuilder 
+convert object json groovy jsonbuilder strong pojo class strong strong groovy script strong strong output strong jsonbuilder incorrectly 
+
+pojo add em getters em properties jsonbuilder leverages href http docs groovy lang org latest html api org codehaus groovy runtime defaultgroovymethods html getproperties lang object rel nofollow object properties dont add aforementioned getters find properties resulting json empty strong employee strong pogo plain groovy object em getters em added default property works box 

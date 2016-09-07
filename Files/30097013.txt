@@ -1,0 +1,4 @@
+wildfly migration cr1 
+migrate project wildfly version cr1 problems faced ejb2 code works fine ejb2 interfaces xml generated xdoclet ideas fix 
+
+method modifier 

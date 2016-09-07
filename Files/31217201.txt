@@ -1,0 +1,4 @@
+safely byte unsigned char 
+porting code lot bit manipulation code operates assumption int bits wide char bits wide assertions check assumptions valid terms fact ill place safely replacement represent bytes run bizarre incident left shift operation due strange unary promotion rules bytes negative correct result gotchas aware dont 
+
+safely represent make bitwise 0xff computations promotes ensures promoted integer promotion result sign extension hex 0x81 hex 0xffffff81 unnecessary step masks extra bits simplest include 

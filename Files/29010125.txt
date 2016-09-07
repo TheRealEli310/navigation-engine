@@ -1,0 +1,4 @@
+set size jpanel inside jframe 
+put jpanel center fullscreen jframe defined size stretching screen setbounds setpreferredsize dont works code 
+
+stretches contents fill parent container child smaller size parent hr change layout code hr reference follow href http docs oracle javase tutorial uiswing layout visual html rel nofollow visual guide layout managers good luck 

@@ -1,0 +1,4 @@
+return html file specific url spring boot 
+spring boot return page user give specific url pages pairs pairs create annotation return admin page requires actions pages 
+
+creating defining methods convenient change add remove html files strong option dont mind people html suffix strong leave files em static em folder add project strong option prefer serve html parse template engine strong move html templates folder enable thymeleaf templates change configuration 

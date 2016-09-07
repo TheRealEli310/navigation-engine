@@ -1,0 +1,4 @@
+managing akka actor system lifecycles 
+actor system start live actor receives message receives message basically executes equivalent shutdown hook shuts entire actor system parent jvm process main thread shuts idea parent jvm process stays alive interrupted underlying os sigkill strong strong inside actor system signals message actor strong implement strong 
+
+knowing exact setup process wont stop actor system stops send shutdown command destructor actor code works stopping process process actor kill 

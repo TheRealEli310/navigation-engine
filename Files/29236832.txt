@@ -1,0 +1,4 @@
+jpa exception handling 
+running process inserts elements db loop jpa eclipselink problem transation status case ol li inserts doesnt work primary key duplicated li li inserts fail exception description transaction active li ol happening commit didnt work transaction didnt finish em gettransaction begin find active transaction ideas em gettransaction begin check transcation active call begin create query commit catch block heres doubt call clear flush close 
+
+exception thrown rollback active transaction options ol li rollback transaction catch clause li li inserting data query strong preferred strong based exceptions automatic rollback case lead li ol 

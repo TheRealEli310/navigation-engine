@@ -1,0 +1,4 @@
+maven reuse properties super pom 
+properties defined super pom pom xml file project error add properties pom xml project make work inefficient maven super pom pom xml 
+
+order properties parent pom child project extend parent order extend parent pom packaging imho create real parent pom put properties extend web app project parent pom xml projects project structure local maven repository href http www sonatype org nexus rel nofollow nexus href http www jfrog open source os arti rel nofollow artifactory release parent pom module differently override property simply redefine projects web app web app 

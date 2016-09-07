@@ -1,0 +1,4 @@
+run php tomcat server environment 
+asked askubuntu ago href http askubuntu questions apache httpd backed tomcat php http askubuntu questions apache httpd backed tomcat php answers decided lets server accessible domain href http mywebapp rel nofollow http mywebapp setup server ul li requests handled server wordpress blog engine specific li li strong strong requests handled li ul thought achievable putting server front servers couldnt find configurations achieve provide hint achieve 
+
+mod jk enable module mod jk apache web servers httpd conf uncomment line removing leading hash linux type edit tomcat dir conf server xml add jvmroute attribute engine element uncomment ajp connector http connector disabled create file workers properties httpd conf add content set ip port add mapping end httpd conf replace path dir absolute path start tomcat restart httpd 

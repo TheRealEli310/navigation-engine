@@ -1,0 +1,4 @@
+comparing tree nodes 
+suppose simple tree nodes compare nodes flat position tree easiest walk tree assign node index shown rightmost column compare indices disadvantages ol li large trees calculation indices time consuming impractical case compare nodes tree millions nodes li li tree modified nodes inserted removed indices calculated li ol question approach compare tree nodes position compute indices node 
+
+approach materialized path compare paths path depending nodes level youd expect fixed size part parts simple string compare trick inserting deleting node youd update materialized paths node affected subtree changing node order youd nodes subtrees order changed approach nested sets short tutorial href https communities bmc docs doc rel nofollow https communities bmc docs doc basically problem related map tree database table convert tree structure flat list back 

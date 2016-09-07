@@ -1,0 +1,4 @@
+make factorial method work decimals gamma 
+method returns factorial input works perfectly integers figure make work decimal numbers method found implementation code wasnt shown lost link pattern added decimal loop logic flawed edit realsed makes difference equals 
+
+href https en wikipedia org wiki gamma function rel nofollow gamma function generalizes factorials real numbers tricky implement directly library href http commons apache org proper commons math apidocs org apache commons math3 special gamma html gamma 28double rel nofollow apache commons math calculate href https git1 west apache org repos asf commons math git blob src main org apache commons math4 special gamma aa0e90c23271054ae31ddab525bc392f01feb263 hb refs heads master l655 rel nofollow source feel involved outputs strong previous answer strong em factorial interpretation real numbers aggreed extension factorial real numbers strong disregard strong practical em outputs 

@@ -1,0 +1,4 @@
+make jsf richfaces work jboss ga 
+application running mojarra richfaces worked fine tomcat run ga client application run server problems jsf rf work local machine error web xml 
+
+made change faces config xml worked jsf version updated strong strong strong strong 

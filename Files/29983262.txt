@@ -1,0 +1,4 @@
+attach jconsole remote jvm 
+application running remote linux server attach jconsole debugging purposes local machine set tunnel remote machine remote machine run application system properties start jconsole secure connection failed img src http stack imgur mwdik png alt enter image description click insecure connection img src http stack imgur ckvtv png alt enter image description 
+
+managed make working adding extra system property rmi port 

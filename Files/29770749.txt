@@ -1,0 +1,4 @@
+wrapper class static variables 
+question stackoverflow studying interviews cracking code interview 5th edition book solving problem blockquote implement function check binary tree binary search tree pg blockquote move remind difference binary search tree simple binary tree blockquote binary search tree imposes condition nodes left children equal current node nodes blockquote solution book offers scan tree order traversal fly check node visit greater assumes tree duplicate values good book quotes blockquote dont static variables tweak code wrapper class integer shown blockquote reading wrapper class websites couldnt conclusion wrapper class static variable 
+
+mechanism create instance wrapint pass expose code public static final variable accessed changed reason wrapper class primitives pass passing int updating wouldnt propagate change rest system 

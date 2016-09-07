@@ -1,0 +1,4 @@
+hamcrest matchers list matchers 
+href http hamcrest org javahamcrest javadoc org hamcrest matchers html util list rel nofollow title org hamcrest matchers util list lt matcher lt super gt gt compiler tells resolve method hamcrest href http hamcrest org javahamcrest javadoc org hamcrest matchers html util list rel nofollow title compilation error cast argument matcher lt super list lt string gt gt compilation error properly method 
+
+problem give type explicitly type 

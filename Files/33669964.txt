@@ -1,0 +1,4 @@
+maven reference build directory child project parent pom 
+multi module maven project modules built docker image put configuration parent pom parent pom pre class lang xml prettyprint override child pom pre class lang xml prettyprint override run child project error property resolved target directory parent pom childs target directory delay expansion properties parent pom reference properties child parent pom 
+
+problem properties version href http stackoverflow questions maven version property maven version property works kind running maven aggregator pom switching explicit versions maven release plugin update solved problem 

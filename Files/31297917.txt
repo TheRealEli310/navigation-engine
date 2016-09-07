@@ -1,0 +1,4 @@
+javax crypto cipher obtain cipher text contaning ascii characters 
+requirement implement method takes encrypts string aes128 interested decrypting output order implement modified href http stackoverflow questions aes encryption aes encryption current implementation problem examining test output string characters za encrypted string full range ascii characters grateful suggestions 
+
+base64 encode text ascii characters dont popular encoding characters imply ascii nul character control characters plain binary string simply remove line 

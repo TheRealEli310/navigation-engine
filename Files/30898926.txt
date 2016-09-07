@@ -1,0 +1,4 @@
+ssl handshake servlet httpsurlconnection 
+web application requires servlet open connection url returns data form json back servlet processing traditionally httpurlconnection worked planned added signed ssl certificate server making connection json data question simply making https connection application deployed making connections legitimate ssl certificates sample code httpurlconnection working signed ssl certificate changed https connection assumed simple change request url returns json data web browser work receive sslhandshakeexception make request ahead time 
+
+ssl connection established verify server host certificate case signed server write implementation assign hostnameverifier written return true based condition assign httpsurlconnection 

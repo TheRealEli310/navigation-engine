@@ -1,0 +1,4 @@
+fragment multiple times activity layout 
+terminology bear activity compares items side side left items layout wondering reuse left fragment xml file instantiate instance copy paste left fragment files identical files side feel elegant method tdlr make instances fragment operating layout activity 
+
+make parent layout side side containers framelayout fragments directly prefer code add fragments fragmentmanager transation containers 

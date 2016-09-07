@@ -1,0 +1,4 @@
+unable jdbc connection postgresql 
+jdbc connection postgresql driver version dependency jdbc42 postgres version stack suggest issue 
+
+unsupported major minor version java8 running java7 lower href https jdbc postgresql org download html rel nofollow https jdbc postgresql org download html jdbc42 driver compiled java8 jdbc41 driver compiled java7 jdbc4 driver compiled java6 

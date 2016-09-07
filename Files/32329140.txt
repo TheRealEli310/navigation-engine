@@ -1,0 +1,4 @@
+annotation code gen javapoet 
+writing code generator javapoet put annotation class addmember method annotationspec builder 
+
+adding annotation 

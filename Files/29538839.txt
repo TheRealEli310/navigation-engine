@@ -1,0 +1,4 @@
+fail set appender logger logback 
+appender file direct org springframwork ch qos logback log file run application linux server info message packages log file directly printed logback xml info ch qos logback classic joran joranconfigurator 1b83cfe9 registering current configuration fallback point apr org springframework beans factory xml xmlbeandefinitionreader loadbeandefinitions info loading xml bean definitions class path resource spring spring common xml point wrong configuration btw read logback documentation dont set appender ref logger printed appender logback debug info set appender ref logger set appender logger 
+
+log output redirected log configuration output logback reads configuration hen egg style problem rid messages xml doesnt logback install bridge logging framework spring documentation href http www slf4j org legacy html rel nofollow http www slf4j org legacy html 

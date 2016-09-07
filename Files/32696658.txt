@@ -1,0 +1,4 @@
+netty causing memory leak tomcat 
+netty final tomcat implement embedded tcp server inside web application problem stop tomcat message class shutdown threads closing tomcat problem bossgroup workergroup appreciated 
+
+problem netty tomcat solved capturing future event shutdowngracefully awaiting completion method called closing application 

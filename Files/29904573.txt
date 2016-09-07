@@ -1,0 +1,4 @@
+gwt highcharts xml uibinder 
+gwt highcharts display graph xml uibinder examples highcharts copied moxie group gwt highcharts page pasted class created working project create main method display graph reference gram xml uibinder line graph displayed page formatted uibinder graph running lot 
+
+download include jquery highcharts javascript myapp html file download include dependency project include highcharts module gwt project start uibinder create source directory lets pretend pakage create class create uibinder file ressource folder finnally create chart composite add dom lot easier dont uibinder requirement 

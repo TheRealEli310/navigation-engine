@@ -1,0 +1,4 @@
+set correctly jsonnode mongo set string jackson 
+receiving json response server work jsonode finally return string problem set mongo database field fix 
+
+calling simply return variable mongodb serialisation json 

@@ -1,0 +1,4 @@
+implement string matching algorithm hadoop 
+implement string matching boyer moore algorithm hadoop started hadoop idea write hadoop program sample programs word counting examples couldnt find sample programs string matching searching tutorials teaches write hadoop applications couldnt find suggest tutorials learn write hadoop applications advance 
+
+havent tested code started boyermoore implementation href http algs4 cs princeton 53substring boyermoore html rel nofollow code goal search pattern input document boyermoore class initialized setup method pattern set configuration mapper receives line time boyermoore instance find pattern match found write context reducer pattern found multiple times mapper output multiple offsets mapper 

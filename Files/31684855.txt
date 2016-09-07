@@ -1,0 +1,4 @@
+ssl exception protocol version httpclient log website 
+program talk website https connection tlsv1 checked firefox problem protocol version exception stack trace relevant source ideas idea trace strong update strong debug information vm bunch errors unsupported cipher suites fallback sslv3 strong crypto stuff appreciated 
+
+blockquote clienthello tlsv1 blockquote tls server understand tls handshake failure tests href https github noxxi p5 ssl tools blob master analyze ssl pl rel nofollow analyze ssl pl show server simply fails tlsv1 handshakes set tls inside code href http docs oracle javase docs technotes guides security standardnames html sslcontext rel nofollow documentation states tlsv1 tls version tls1 fails server broken btw chrome firefox succeed retry lower protocol version errors dont based documentation found net remove support tls1 tls1 

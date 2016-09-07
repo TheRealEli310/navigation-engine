@@ -1,0 +1,4 @@
+robot framework ride 
+create customized library robot framework eclipse import created jar ride jar file created import ride run configuration jython suggest ide testing customized libraries robot framework 
+
+write library export jar eclipse ride click add import library write class full qualified package org test mycustomlibrary methods keywords method named custommethod custom method keyword jar file classpath jbot paramater add folder files classpath post information proccess href https blog codecentric de en robot framework tutorial writing keyword libraries rel nofollow robot framework tutorial writing keyword libraries 

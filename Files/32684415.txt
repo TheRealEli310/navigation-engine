@@ -1,0 +1,4 @@
+searching array objects user input validating input 
+working validating input methods searchcandidate method searches sorted array find object matches user input string searchkey displaycandidate method calls method checks validation returns values object searchcandidate directly method finds match returns copy object returns object null fields displaycandidate method checks field object searchcandidate creates equal null returns string informing user matching candidate equal null returns object values run put object array returned simply loops back user menu idea happening 
+
+comments problem simply return method print reason printed entering correct candidate display method print method correct solution ul li adapt display method display null li ul ul li create method returns string displaying info candidate special test null candidates li ul code getinformation method 

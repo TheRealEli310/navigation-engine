@@ -1,0 +1,4 @@
+autowire bean staticapplicationcontext 
+autowire bean staticapplicationcontext insert bean retrieve successfully autowire bean simple explain assertion successful fails comment lines approach uncomment lines approach annotationconfigapplicationcontext autowiring works make work staticapplicationcontext approach ideas problem lies 
+
+internally registers bean process annotations add 

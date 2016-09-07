@@ -1,0 +1,4 @@
+javax validation validationexception unable find default provider 
+found similar questions stackoverflow answers helping jsr bean validation rest api project provide validation existing bean class added dependencies error lot people facing issue solution add hibernate validator version classpath hibernate validator version final pom entries missed 
+
+found avoid error works avoid hibernate validator dependency version final javax validation version final add classpath solved error 

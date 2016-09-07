@@ -1,0 +1,4 @@
+testing image files junit 
+direction test dynamically generated image expected image junit bit background code generates thumbnail images awt image bufferedimages stores bufferedimages io file object wrote simple unit test check key items order gain confidence generated image correct basically confirming file size expect works fine locally machine mac osx tests run build server ubuntu tests failing part question ul li file size image oss li li standard approach unit testing image generation li li change approach compare file objects pre generated file exists resource project li ul 
+
+guess difference metadata written image data care image data metadata image file pull pixel data byte array good idea comparing entire file problematic metadata timestamps file generation break tests image variables compare byte arrays equality dont data bufferedimage easy file 

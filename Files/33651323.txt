@@ -1,0 +1,4 @@
+libgdx load assets game 
+play screen lot textures fonts images buttons set play screen takes seconds open screen open quickly strong achieve strong create class create assets load screens 
+
+href https github libgdx libgdx wiki managing assets manager load assets start game functionality show percentage assets loaded show progress bar plenty sources show show examples static discouraged badlogic black images make class store assets handle manager manager load asynchronously work static descriptors lookup textures ways work add manager simple textures path entry point create splash screen logo start loading assets load assets load menu assets asset manager work user menu load asset rules apply regions atlas single time region atlas pass object load assets makes tempting make public static issues 

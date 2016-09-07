@@ -1,0 +1,4 @@
+prevent closing application task manager 
+antivirus applications prevent closing task manager kaspersky real language visual curious kaspersky limit permissions administrator prevent terminating program give code configurations 
+
+generally speaking stop process terminated user permission user administrator suffice run process user context run service mentioned href http csharptest net prevent users killing service process rel nofollow article em attempt stop administrator killing process stopping service em adjust process access control list prevent users killing good practice explicitly give rights user application administrative rights system practice easily prevent terminating process href https msdn microsoft en library windows desktop ms684880 aspx rel nofollow find information microsoft windows security model options securing application world 

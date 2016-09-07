@@ -1,0 +1,4 @@
+change list string inside onoptionsitemselected android studio 
+change list klassenlist inside onoptionsitemselected method menu items click change buttons screen desired text klassen arrays buttons adapter isnt working isnt giving errors null exception error dont assign klassenlist doesnt change text buttons find solution advance 
+
+registered initial instance adapter current code changing local variable adapter referencing initial instance update em em instances data work code optimal creates object time give idea fix problem 

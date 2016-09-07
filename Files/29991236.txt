@@ -1,0 +1,4 @@
+ignore jackson jsonidentityinfo serialization 
+deserialization serialization point application communication clients clients simply ignoring serialization methods spring object full ignore rest strong focussing jacksonidentityinfo server side focussing clientside pointed potential duplicate jackson gson strong 
+
+dont easy bit hackery thing create custom class override methods prevent detecting annotations methods overriding possibly return register introspector reads mapper work similar removing annotation dynamically change introspector set changed usage enable context separate mappers configure spring dont class make configure constructor 

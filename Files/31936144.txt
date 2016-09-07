@@ -1,0 +1,4 @@
+xpages creating json string recursively 
+creat json string view main documents view responses recursively return json string code print main document responses children 
+
+work jsonobject jsonarray create hierarchical json structure main documents view responses 

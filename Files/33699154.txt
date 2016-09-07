@@ -1,0 +1,4 @@
+scanner input int string arrays 
+kind give hand program appreciated accepts multiple students names grades scanner puts arrays students scores print max grade lauren min grade joe avg grade 
+
+youre setting number students scores setting store strong indices strong minimum maximum scores reference names 

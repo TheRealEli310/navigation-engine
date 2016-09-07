@@ -1,0 +1,4 @@
+jackson spring autowired bean 
+encountered problem jackson serialization user object private fields getters setters works fine id autowire user object spring framework doesnt work error ignore unknown errors infinite recursion spring wrong autowired myuser instance jackson serialize fix update myuser class pretty simple 
+
+spring managed bean spring wraps object proxy calling passing proxy argument proxy properties mapper serialize applying filter serialization include properties 

@@ -1,0 +1,4 @@
+gradle build multi modules project transitive dependencies 
+problem building simple app modules ejb rest ear rest included achieve wrote build gradle problems built ear duplicated work approaches found web worked comments label excluded dependencies lib dir label included lib making worse idea write puts jars made subprojects root dir dependencies lib dir write comments label makes script fail easy excluded similar syntax 
+
+finally found solution made 

@@ -1,0 +1,4 @@
+suitable mvc chess gui model 
+making chess game uni project basically move player gui game classes main classes pieces humanplayer graphicaldisplay classes basically humanplayer make move class called piececontroller piecemodel class graphicaldisplay classes model view problem write code set mouselisteners cells chess grid contained dimensional array called cellholder model class code adding listeners cells change state data display game gui causing problem cellholder object created inside graphicaldisplay gui class model model data view share pass argument cellholder suggestions improve current mvc design 
+
+check link href http www tutorialspoint design pattern adapter pattern htm rel nofollow http www tutorialspoint design pattern adapter pattern htm design patterns called adapter pattern basically software design pattern interface existing class interface 

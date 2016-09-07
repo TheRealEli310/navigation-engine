@@ -1,0 +1,4 @@
+change range key dynamodb table 
+silly question dynamodb doubt update range key dynamodb suppose table test modify attribute initial values table running code change attribute gsi change line error change range key 
+
+exception message states href http docs aws amazon amazondynamodb latest apireference api updateitem html ddb updateitem request attributeupdates rel nofollow documentation blockquote names attributes modified action perform updating attribute index key attribute indexes table attribute type match index key type defined attributesdefinition table description strong updateitem update nonkey attributes strong blockquote documentation states update attribute attribute index key attribute indexes table means update attribute projected index part indexes key index updated reflect original item 

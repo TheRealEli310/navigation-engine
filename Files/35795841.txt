@@ -1,0 +1,4 @@
+cloudera hadoop daemons running 
+learning hadoop started installing href http www cloudera downloads quickstart vms html rel nofollow title cloudera quickvm cloudera quickvm vmware workstation running cent os impression configurations predefined set configurations set data node reason type jfs dont data nodes nodes looked online solution start daemons error round research landed href http stackoverflow questions error starting hadoop daemons title stack overflow related suggested answer ran stuck middle motivation study low suggestion raise spirits extreme beginner hadoop dont harsh question stupid 
+
+finally found start services cloudera quickstart vm community run daemons running blockquote blockquote lot attention 

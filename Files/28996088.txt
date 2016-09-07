@@ -1,0 +1,4 @@
+connection derby database refused ij tool working code 
+presently derby database version created app functional communicated app running arbitrary queries maven dependency ij tool party applications unable complaining wrong version understand connect app wrong 
+
+ij session older version derby controlled classpath set run ij closely script command start ij version derby running adjust classpath href http db apache org derby docs tools ttoolsij11815 html rel nofollow run ij derby version app 

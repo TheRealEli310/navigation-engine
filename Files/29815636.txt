@@ -1,0 +1,4 @@
+comments 
+whats difference 
+
+form called href http en wikipedia org wiki javadoc javadoc youre writing formal apis code generated tool href http docs oracle javase docs api api page javadoc generated tool common elements youd javadoc include ul li parameters passed method theyre expected li li result method give back li li method throws exception error case input li li earliest version class function li ul heres javadoc method form block multi line comment multiple lines comment youd form em sparingly em dont overburden code block comments dont describe behaviors method complex function supposed javadoc descriptive generate actual documentation result javadoc preferable simple block comments 

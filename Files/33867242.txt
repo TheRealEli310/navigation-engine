@@ -1,0 +1,4 @@
+spring mvc requestparam sessionattribute 
+spring portlet development spring webmvc portlet workflow servlets case pretty common bit struggle make work controller understand methods annoted modelattribute invoked time generate model rendering process dont method invoked time annotation sessionattributes store list person handler conversational state problem annotation requestparam raise expection guess method getpersons invoked requestparam query evaluated display list person users select person detailed informations back list result submitting query handle case properly skip requestparam evaluated 
+
+make request succeed null details href https docs spring io spring docs current javadoc api org springframework web bind annotation requestparam html rel nofollow requestparam 

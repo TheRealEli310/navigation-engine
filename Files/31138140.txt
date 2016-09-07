@@ -1,0 +1,4 @@
+put log4j properties file library 
+library project project log4j logging put log4j properties generated jar br good practice 
+
+put log4j properties jar file easier modify application force reload configuration simple restart load config modifying inside jar file means rebuild application reload instantly applied important application production environment change logging setting log level order info stop application worse rebuild 

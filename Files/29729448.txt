@@ -1,0 +1,4 @@
+stringbuffer class synchronized methods class declared synchronized 
+stringbuffer class synchronized thread stringbuilder methods stringbuffer append declared keyword synchronized checked hava api href http docs oracle javase docs api lang stringbuffer html rel nofollow http docs oracle javase docs api lang stringbuffer html api methods declared keyword synchronized explain 
+
+keyword doesnt show generated javadoc open source code youll public method change state instance keyword signature mentioned comments static doesnt directly relate thread safety meant methods declared keyword answer question 

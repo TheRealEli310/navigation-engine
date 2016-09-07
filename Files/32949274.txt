@@ -1,0 +1,4 @@
+mvp structure vaadin spring 
+setting strong vaadin strong application strong vaadin strong strong official vaadin spring strong strong mvp strong pattern components work mvp dont addons set loginviewpresenter give view presenterinstance getview working fine access presenter view logic operation view presenter class call presenter method view buttonclicklistener question uiscope annotation presenter class spring instantiate object class thougt long ui exists generating random string constructor printing content randomstring variable ui class init method loginviewpresenter loginview 
+
+view shouldnt aware presenter fire events presenter listen loginview loginviewpresenter randomstring design 

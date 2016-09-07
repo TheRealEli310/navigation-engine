@@ -1,0 +1,4 @@
+jtable setting default editor custom class 
+issue set default jtable cell editor custom class custom columns numbers strings booleans number types cell editors boolean string types wanted default provided jtable class code setup table boolean type works expected click tickbox turn string type displays edit model columns return true editable add model edit strings expected question setting default editor work string class boolean class special case getcolumnclass method model 
+
+figured behaving originally finally clicked looked method noticed instance result cell reason method covers class method creates object instantiate instances objects allowed column column class constructor returned column instance method changed code shown return instance created editing stopped passed method correctly displaced cell learned lot jtables problem 

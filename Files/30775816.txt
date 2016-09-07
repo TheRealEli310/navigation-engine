@@ -1,0 +1,4 @@
+nested json url request 
+attempting nest json objects url http request make api raw json tested works rest client method result raw url wrong evidently response server error 
+
+json request body request content type application json urlconnection href http stackoverflow questions post request send json data httpurlconnection post request send json data httpurlconnection doesnt matter library chose formatting json body text case jsonrpc id approaches httpclient link href http www programcreek api examples index php api org apache commons httpclient methods stringrequestentity rel nofollow http www programcreek api examples index php api org apache commons httpclient methods stringrequestentity 

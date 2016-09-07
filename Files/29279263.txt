@@ -1,0 +1,4 @@
+override properties imported ant file 
+override properties imported ant file handles basic stuff deploy application properties ant immutable ways override properties prefered approach things imagine em master build script em import build script override em overridden em property cases import em master build file em import include override targets solutions override properties immutable define properties override defining import master file define params ant call redefine properties cases result kind explain difference explain approach result 
+
+main difference examples case property defined build globally build ways preemptively define properties globally strong pass jvm args strong execute ant strong define properties file strong load start build build properties build xml variant load user definable properties user home directory advantage methods examples gave properties overridden changing build file 

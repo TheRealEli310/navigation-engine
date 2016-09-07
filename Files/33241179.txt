@@ -1,0 +1,4 @@
+operator jdbi 
+query mysql jdbi dropwizard relevant assume suggested href http stackoverflow questions query jdbi title annotated class starting application error good idea solve issue 
+
+ways achieve strong strong annotation expects href https theantlrguy atlassian net wiki display st group files rel nofollow group files sql statement href http www stringtemplate org rel nofollow stringtemplate file personexternalizedsqldao create file class path strong strong query issues hr strong strong approach handles custom data type case list jdbi preferable approach create list argument factory class ul li accepts instance list li li convert integer string list array binds prepared statement li ul make register argument factory dbi instance query simpler strong refer strong ul li href http skife org jdbi jdbi clauses html rel nofollow jdbi doc li ul strong additional info strong 

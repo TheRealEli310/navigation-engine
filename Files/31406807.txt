@@ -1,0 +1,4 @@
+spring mvc controller run applicationcontext 
+implement webapp spring mvc framework helloworld wasnt problem wanted read data database implemente class called dataprovider handles database access added dataprovider class helloworld class controller exception dispatcher servlet hellocontroller wrong 
+
+ways accessing bean replace code 

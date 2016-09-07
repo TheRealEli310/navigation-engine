@@ -1,0 +1,4 @@
+illegal mappedby sides relationship 
+deploy application shows error org springframework beans factory beancreationexception error creating bean entitymanagerfactory defined springapp mvc config hibernateconfig invocation init method failed nested exception org hibernate annotationexception illegal mappedby sides relationship springapp mvc models user ads wrong mapped model user ad model problem 
+
+user defined onetomany relationship ads ads ads defined manytomany relationship make mapping classes avoid error 

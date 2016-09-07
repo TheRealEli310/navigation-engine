@@ -1,0 +1,4 @@
+fastest dimensions csv file 
+regular procedure coming task dimensions csv file ol li rows li ol loop read lines count successful read cons takes time read file count rows ol start li columns size temp li ol smarter method br file1 read csv br xdimention file1 xdimention br ydimention file1 ydimention 
+
+approach wont work multi line values youll invalid number rows quoted values happen deliminter youll invalid number columns csv parser provided href http www univocity pages parsers tutorial rel nofollow univocity parsers univocity csv parser fastest determine dimensions code parses strong 150mb file strong give dimensions strong seconds strong output disclosure author library open source free apache v2 license 

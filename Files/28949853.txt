@@ -1,0 +1,4 @@
+hibernate embedded entity 
+case class entity entity refers association annotated aware bad design makes perfect sense case force hibernate embed entity hibernate complains missing setter id property problem 
+
+hibernate doesnt treat embed href http vladmihalcea beginners guide hibernate types rel nofollow hibernate types ul li doesnt identifier state part owning li li embedded distinct life cycle li ul class association class turn association entity wanted embed entity make target entity owning side association association bound target entity life cycle 

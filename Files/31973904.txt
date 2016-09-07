@@ -1,0 +1,4 @@
+unable lookup timermanager resources weblogic 
+lookup timermanager resource weblogic enterprise application matter namenotfoundexception lot solutions online havent found works heres ejb jar xml weblogic ejb jar xml bean work end namenotfoundexception entire string part remaining doesnt find strong edit strong timercontroller resource present weblogics jndi tree page strong edit2 strong listing objects context ignoring resource ref ill investigate heres full stack trace 
+
+solved turns problem lied xdoclet generation missing ejb resource ref tag works dont ejb jar xml weblogic ejb jar xml anymore heres full working bean 

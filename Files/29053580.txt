@@ -1,0 +1,4 @@
+multiple scanner objects 
+started learning recently learning user input scanner class started error code error enter deadboy input unable enter age comment line userinput1 close code works problem question answered found similar question answers 
+
+couple problems em em close stream parts program dont interfere normal operation benefit creating scanner object simply reading input stream reference stream isnt beneficial operations end fix ul li em em instance scanner attached li li remove method call li ul 

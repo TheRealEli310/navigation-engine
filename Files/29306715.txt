@@ -1,0 +1,4 @@
+javafx coordinate inside scrollpane 
+object organized inside vbox works pretty access coordinate object getter layoutx put vbox inside scrollpane scrolling vbox configuration works pretty issue dont understand moving inside scrollpane user getlayouty vbox myobject constant scroll access easyly coordinate object realively scroll strong edit strong transform coordinate system parent scrollpane manage acess scrollbar getlocaltoscenetransform access coordinate wrong 
+
+helps achieve 

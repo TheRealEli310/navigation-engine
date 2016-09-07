@@ -1,0 +1,4 @@
+staleelementreferenceexception fluentwait 
+run web e2e tests cucumber junit selenium webdriver ubunto test fails strong sporadically strong remotewebdriver fails local webdriver thought bypassed exception refactored code stabilize test strong update strong solution structured 
+
+page dynamic happen scenario method getsrcafterwait located element getelementafterwaitfordisplay2 call webelement getattribute src element page call webelement getattribute src webelement points obsolete existing element leads staleelementreferenceexception scenario kind animation periodically instance element create times getelementafterwaitfordisplay2 find element condition time time newer object page located element call webelement getattribute src instance created page dom located variable refers obsolete instance simple solution cases catch exception locate object complex solution generic proxy objects implement exception handling locating 

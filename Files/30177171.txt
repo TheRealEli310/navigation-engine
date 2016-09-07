@@ -1,0 +1,4 @@
+noclassdeffounderror styleable robolectric android library aar 
+developing library activity perform functional testing activity includes includes overrides restore ability test specific androidmanifest xml application version attempt run android studio gradle command line class def found error worth noting installation configuration reasonable tests dont involve work fine resolve error 
+
+root problem gradle handle creating modules clues href https github nenick androidstudioandrobolectric tree library aar rel nofollow things working command line android putting chunk basically copying generated application file tests build folder picked test compilation phase putting copy generated sources folder test compile phase doesnt pick 

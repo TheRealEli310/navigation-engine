@@ -1,0 +1,4 @@
+failed start namenode net bindexception address 
+start namenode showing failed start namenode net bindexception address returns normal kill processes node running installation suddenly stopped working ran wordcount job restarting vm formating namenode multiple times didnt hdfs site xml dfs replication dfs namenode dir file usr local hdfs namenode dfs datanode data dir file usr local hdfs datanode h2 namenode logs h2 joel 
+
+issue resolved changing port core site xml shown formatted namenode restarted hadoop services showed expected understand couldn port process running port netstat joel 

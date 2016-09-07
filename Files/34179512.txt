@@ -1,0 +1,4 @@
+set schema creating entitymanager 
+multiply persistence units properties case mysql oracle database persistence xml define persistence unit list entity classes properties set persitence xml class creating entitymanager properties read oracle set schema dynamicly hardcoded table annotation entity class constant means dynamicly set schema property property search found syntax dont combine entitymanager allready asked properties href http stackoverflow questions find entitymanager properties find advance 
+
+found solution post href https community oracle thread tstart rel nofollow https community oracle thread tstart query entitymanager created check current schema 

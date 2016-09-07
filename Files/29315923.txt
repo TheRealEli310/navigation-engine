@@ -1,0 +1,4 @@
+javacc expects found 
+bottom parser problem begin id subset grammar problem function declarations working fine declaration statements function body full grammar working debug output parser lookahead broken problem production expects type constant em void em em int em em float em identifier facilitate user defined types swap lines reads functions intended order make difference 
+
+set looahead option javacc warn lookahead conflicts grammar lookahead conflicts javacc processor report warnings heed warnings javacc default token input make choices href https javacc net doc docindex html rel nofollow documentation href http www engr mun ca theo javacc faq rel nofollow faq details choice made choice made basis kind token token start choice start ways fix problem rewrite grammar lookahead specifications thing start production 

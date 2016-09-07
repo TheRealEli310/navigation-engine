@@ -1,0 +1,4 @@
+spring hibernate jpa transactional insert data postgres 
+implementing service layer transactions configuration handled config service transaction operates jpa repositories transaction executes fine sql shown log set hibernate tracing data inserted database postgres receiving exception occurs whats address issue simplified business logic strong valuesetservice strong strong valuesetserviceimpl strong strong jpaconfig strong strong coderepository strong strong code strong strong sample hibernate sql output console strong 
+
+issue caused data outlier essentially filled transaction logs running leading application essentially halt refactoring process improve performance 

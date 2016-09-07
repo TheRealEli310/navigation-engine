@@ -1,0 +1,4 @@
+null pointer exception drawerlayout 
+mainactivity activity main xml giving error line mdrawerlayout setdrawerlistener mdrawertoggle dont project copied error 
+
+ran code figured problem change change nullpointerexception fixed ran fine 

@@ -1,0 +1,4 @@
+set javafx pane origin bottom left 
+searched problem couldnt find answer advance question asked set origin pane bottom left corner top left adding shapes canvas defined mathematical coordinate system thought easier substract height coordinate advantage dont care resizing pane 
+
+shapes apply reflection pane represent reflection href http docs oracle javase javafx api javafx scene transform scale html rel nofollow tricky part pivot scale vertical center binding case pane size youre putting controls text pane reflected wont correct work shapes 

@@ -1,0 +1,4 @@
+opengl glcolor3f drawing quads colour map 
+make game lwjgl opengl basic understanding top rpg game works learning process recently implement healthbar hover players sprite draw draw class display haywire player turn black player sprite tinted color passed draw method source code strong player class strong strong draw class strong dont include classes guess ill include gameobject class strong gameobject class strong 
+
+figured main problems code ll draw class ol li gl texture 2d disabled gldisable gl texture 2d time started drawing normal textured rectangle enabled reverse texture drawing method enable start drawing disable finish resulted health bar showing li li glcolor3f actual problem question rectangle ended tinting texture display glcolor3f affects vertex draw tackle drawing textured quad set color white glcolor4f 1f 1f 1f 1f rendered perfectly li ol 

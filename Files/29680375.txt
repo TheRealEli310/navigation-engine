@@ -1,0 +1,4 @@
+compare string representations doubles ends 
+writing test cases contentprovider application checkbook recording app test fail comparing double values illustrate code function returns contentvalues account object inserted database inside function code insert account validate cursor function takes cursor contentvalues loops map compare strategy learned udacity tutorial creating android applications compare strings test failing line called error message blockquote junit framework comparisonfailure expected lt lt blockquote cursor getstring method truncating decimal places equal test works fine sqlite responsible dropping unnecessary zeroes change values treated 
+
+h3 feel comparing strings hack bit alternative h3 heres strong tl dr strong code happening instance end projected method causing irregularities hack outlined comparison switch statement specifically designed type em imho solution em strong switch strong version 

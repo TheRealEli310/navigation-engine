@@ -1,0 +1,4 @@
+apply annotations differently derived classes 
+classes compile thing thing annotation visible stub version present version making mistake reflection check annotations present runtime version annotation version whats 
+
+fixed behavior consistent href https bugs openjdk net browse jdk jdk issue details backported 7u80 

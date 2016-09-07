@@ -1,0 +1,4 @@
+keyboard system method 
+conceptually understand code retrieves characters keyboards prints command line input keyboard 
+
+href http docs oracle javase docs api lang system html rel nofollow isnt method field tied keyboard default blockquote standard input stream stream open ready supply input data typically stream corresponds keyboard input input source host environment user blockquote call href http docs oracle javase docs api lang system html setin io inputstream rel nofollow method change input stream reference href https docs oracle javase tutorial essential io cl html rel nofollow command line 

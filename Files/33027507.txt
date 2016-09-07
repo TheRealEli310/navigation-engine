@@ -1,0 +1,4 @@
+problems deserializing iso formatted date json string gson 
+simple json string form created bean written code deserialize string gson object reason announced date field returns null time code snippet deserialization product class result run code print preperties deserialized object wrong 
+
+issues json field named announced date pojo announced date notice underscore dash gson views fields fix annotation data format time zone specifier colon specification href http docs oracle javase docs api text simpledateformat html rel nofollow 

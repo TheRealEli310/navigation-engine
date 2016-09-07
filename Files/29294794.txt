@@ -1,0 +1,4 @@
+spring loads instances loaded beanfactory applicationcontext single spring xml file 
+writing code study ways bean spring container code simple address issue written classes strong triangle class strong strong spring xml strong strong test class strong thought testcase passed failed error question assumptions ol li spring container initializes bean default scope singleton li li spring container instance bean li li extends indirectly li li alternatively li ol question fundamentals strong em correct behaviour spring container load seperate instances beanfactory applicationcontext em strong 
+
+create containers make applicationcontexts instances triangle 

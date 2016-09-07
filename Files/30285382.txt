@@ -1,0 +1,4 @@
+spring propertysource npe 
+trouble npe insight environment ul li jdk jre li li os linux mint li li spring release li ul stacktrace properties file config class model class failed attempts ol li playing annotation file prefix absolute path properties file dropping backslash classpath propertysource classpath mycompany app app properties putting properties file places li li annotation li li added bean public static propertysourcesplaceholderconfigurer propertysourcesplaceholderconfigurer return propertysourcesplaceholderconfigurer li ol advice appreciated 
+
+spring inject dependencies beans manages youre creating instance dependency injection performed spring involved create application context bean definition type retrieve instance annotate spring instantiating pass class youll retrieve beans context 

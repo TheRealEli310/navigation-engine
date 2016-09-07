@@ -1,0 +1,4 @@
+pulling xml child node xml object jaxb 
+pull child node xml received soap string retrieve parent node couldnt retrieve child node surf internet answer avail examples direct child pulling didnt solve problem response class stuff classs problem pull child stuff content id shortname jaxb created class response stuff made stuff list inside response run code throws null exception ps remember xml file string class 
+
+finally solved problem restructuring class creating updated class list easy marshal unmarshal 

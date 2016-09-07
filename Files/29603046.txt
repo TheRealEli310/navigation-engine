@@ -1,0 +1,4 @@
+decrypt string encrypted aes php 
+run php code details copied code issue key byte run localhost code convert byte initialize byte array key localhost 
+
+problems code ul li key characters long bytes represented string prinable characters print key hex base64 reverse process href http stackoverflow questions convert hex string byte hex li li mode operation padding php php zeropadding remove bytes end decryption li li iv prepended ciphertext php dont slice iv provide byte iv li ul 

@@ -1,0 +1,4 @@
+springfox swagger ui working spring mvc 
+spent days unable find solution deal spring boot gradle spring mvc maven remove springfox swagger ui dependency app runs fine return json expected http localhost estfulv2api docs group restful api reason spring application failing pass swagger ui html response set index html adding ol li list files web xml li li resource handlers li li default servlet handling li ol worked h2 app config h2 h2 swagger config h2 code h2 web xml h2 h2 error h2 
+
+fixed adding appconfig 

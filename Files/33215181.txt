@@ -1,0 +1,4 @@
+secret word game 
+assigned create guessing game secret word asterisks guess correct word enter letter time letters revealed word unlike hangman turn counts time pick letter word class requires default constructor code driver href http pastebin 35t9b4wm rel nofollow http pastebin 35t9b4wm understanding accessors mutators guessletter variable letter found secret word letter replaces asterisk hint word list instructions ul li class instance variables li li secretword word user guess li li hintword word guess letters revealed li li numberofturns track number guesses li li class requires default constructor li li set secret word li li number turns default li li hint word constructed asterisk letter secret word li li accessors instance variable li li mutators instance variable check valid values li ul 
+
+yup pretty close logic update trick make set correctly beginning set track instance variable instructions temporary 

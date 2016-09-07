@@ -1,0 +1,4 @@
+runnable created java8 lambda 
+code struggling understand bit reading call method takes args runnable passing runnable object lambda public class lambdatest private final lock lock reentrantlock test public void createrunnablefromlambda locker runlocked lock system println world public static class locker public static void runlocked lock lock runnable block lock lock block run finally lock unlock question explain runnable created lambda explain syntax strong strong specifically brackets 
+
+lambda place functional interface required functional interface interface single abstract method lambda syntax case parenthesis omitted case single argument braces omitted case single command expression words equivalent pretty bytecode equivalent equivalent terms functionality 

@@ -1,0 +1,4 @@
+missing libraries incorrect code android studio apk crashes 
+simply fragment display activity adding methods spinners worked worked downloading support libraries sdk manager fix guess logcat referring potentially uncover whats happening mainactivity strong logcat strong 
+
+calling super oncreate setcontentview remove excessive calls fine stack trace pretty clear telling attached line executed reckon youd paid close attention log line noticed missing libraries 

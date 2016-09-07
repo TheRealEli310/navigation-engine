@@ -1,0 +1,4 @@
+detect sctp connection failuer 
+mobicents cap implementation build cap application camel charging application working fine send receive messages ssf scf detect sctp link client server broken deliberately stop server client running sending doesnt raise error stop server console exception send capdialog send oanswer event simple doesnt request successful ideally return failure case 
+
+capdialog send code return back error underlying ss7 link access sctp stack check sctp connection association association association isconnected 

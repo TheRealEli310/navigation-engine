@@ -1,0 +1,4 @@
+configure spring cloud log4j2 
+log4j2 spring cloud spring boot checked documentation href http docs spring io spring boot docs current reference html boot features logging html rel nofollow logging rewrited pom created config file leave src main resources config file readed miss configuration 
+
+pom missing entries log4j api log4j core app slf4j api include log4j slf4j impl dependency 

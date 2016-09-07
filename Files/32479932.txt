@@ -1,0 +1,4 @@
+maven multi module project start module module 
+maven newbie start module modules frontend backend start frontend module jetty backend functionality run backend module ideas lot ps intellij h2 strong update strong h2 parent pom xml frontend pom xml backend pom xml strong update strong mvn deploy backend 
+
+maven modules separate applications modules parts application jars reusability br start application war project link submodule importing jar parent pom call modules build ran pom xml location parent import jar pom xml br information href http www eclipse org jetty documentation current jetty maven plugin html rel nofollow jetty maven plugin br pom xml 

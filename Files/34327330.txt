@@ -1,0 +1,4 @@
+circular reference error spring integration jpa updating outbound gateway 
+figure issue circular reference spring integration flow spring boot auto configuration entitymanagerfactory transactionmanager beans integration context jpa updating outbound gateway reads message channels send response common channel error running application remove flow application runs fine comments suggestion appreciated 
+
+issue href https jira spring io browse int rel nofollow https jira spring io browse int ctor injection deps instantiated early released si fix workaround jira ticket matter href https jira spring io browse int rel nofollow https jira spring io browse int 

@@ -1,0 +1,4 @@
+programmatic find spring bean created 
+programmatic find configuration class xml file created spring bean digging code figure 
+
+demonstrates obtain source configuration bean ol li obtain bean definition bean strong ctx getbeandefinition beanname strong li li invoke strong getresourcedescription strong li ol working sets configuration based bean called defined appconfig xml bean named xmlbean defined springbeans xml case source configuration class xml file displayed correctly config class sets bean loads xml config file springbeans xml bean xmlbean bean defined springbeans xml simple code getresourcedescription output practical create strong beandefinitionregistrypostprocessor strong request information 

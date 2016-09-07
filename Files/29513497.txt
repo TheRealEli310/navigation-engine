@@ -1,0 +1,4 @@
+tostring object instance null throwing npe 
+sysout expecting string tostring invoked instance null tostring works awesome sysout taking care edit weird thing append stringbuilder sysout behave method taking care 
+
+method called write calls explained javadoc converts null null 

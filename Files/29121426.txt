@@ -1,0 +1,4 @@
+weird logs log4j2 
+running application tomcat works log message appears tomcats whats works perfectly prefer message wrong 
+
+missing log4j web dependency 

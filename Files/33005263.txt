@@ -1,0 +1,4 @@
+sqlexception suitable driver found url jdbc derby 
+problems establishing connection strong local apache derby db strong database small game working code throws exception run code exception ul li adding derbyclient jar libraries checking classpath project properties libraries li li adding db driver libraries checking classpath project properties libraries li li register driver li li register driver li li adding dummy driver li ul combinations worked hair starting fall provide answer wont register driver netbeans jdk 
+
+connection url begin characters url pre class lang prettyprint override url start jdbc 

@@ -1,0 +1,4 @@
+struts dispatcher found error deploying application weblogic 
+error run application weblogic blockquote struts dispatcher found caused struts tags filter struts tags usable request passed servlet filter initializes struts dispatcher needed tag blockquote file pre class lang xml prettyprint override 
+
+struts tags inside jsp page listed removed h2 href http www javatpoint file list rel nofollow h2 blockquote element define list files element define file file file invoked em automatically em server dont file blockquote filter filter defined mapped means serve requests file served web server directly access jsp pages prior action execution returns type result result location jsp file access files handled web container navigate folder web content hierarchy arent extension url inside action mapped url case struts tags inside run filter struts2 filter handled request 

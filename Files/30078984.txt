@@ -1,0 +1,4 @@
+nullpointerexception throws ternary operator 
+return statement equal boxing unboxing issue 
+
+guessed formal explanation answer lies href https docs oracle javase specs jls se7 html jls html jls jls blockquote operands primitive type type result applying boxing conversion type conditional expression blockquote primitive expressions type condition expression expression case null reference converted boolean causing npe expression equivalent return type expression boxed late guessed npe type expression rule applies expression primitive type equivalent 

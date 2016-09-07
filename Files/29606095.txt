@@ -1,0 +1,4 @@
+technical motivation extracting interfaces separate project 
+projects interfaces extracted separate project motivation organizational instance atmosphere project organizing principle project running benefits provide 
+
+exists case strong spi service provider interface strong interface provided separately alternative implementations separately manifest entry interface interface find provider interface xalan xerces xml implementations mind spi provide implementations test driven development prototype make sense 

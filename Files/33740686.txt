@@ -1,0 +1,4 @@
+android call function app close 
+create function called app closed android running app view swipe app 
+
+app closed call methods activity life cycle developer android activity receives call onstop method longer visible release resources arent needed user activity stopped system destroy instance recover system memory extreme cases system simply kill app process calling activitys final ondestroy callback important onstop release resources leak memory onpause method called onstop onstop perform larger cpu intensive shut operations writing information database href http developer android training basics activity lifecycle stopping html stop rel nofollow http developer android training basics activity lifecycle stopping html stop life cycle href http developer android images training basics basic lifecycle stopped png rel nofollow http developer android images training basics basic lifecycle stopped png 

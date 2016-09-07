@@ -1,0 +1,4 @@
+return json object hashmap moxy jersey 
+jersey moxy functions user preferences works fine objects translated blockquote preferences entry key type string language type string en key type string country type string blockquote return javascript object blockquote preferences language en country blockquote 
+
+yeah moxy maps dont work sad json mapped key pairs moxy href https docs oracle javase docs api javax xml bind annotation adapters xmladapter html rel nofollow case json create type class preferences arbitrary key pairs em em form require moxy maps youll map type instance dto dont object place rhetorical question totally understand wouldnt limitations moxy makes heavy jaxb hood jaxb played nicely map sad json map key values reason encountered past recommend moxy recommended jersey jackson jackson defacto goto json processing jackson dependency moxy dependency jackson module work box leave moxy dependency register 

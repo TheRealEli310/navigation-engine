@@ -1,0 +1,4 @@
+javax ws rs core cookie javax ws rs core newcookie difference 
+found classes jax rs api advantages recommended advance 
+
+em recommended em em em request response javadocs href http docs oracle javaee api javax ws rs core cookie html rel nofollow blockquote represents http cookie transferred strong request strong blockquote href https docs oracle javaee api javax ws rs core newcookie html rel nofollow blockquote create http cookie transferred strong response strong blockquote set em response em header cookie information set em request em header cookie information http spec usage 

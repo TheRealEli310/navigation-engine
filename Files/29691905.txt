@@ -1,0 +1,4 @@
+android app crashes proguard enabled 
+time export signed application eclipse install apk file phone app crash proguard enabled proguard file ran adb logcat command check crash report heres snippet report important 2nd snippet thankful accept answer strong update strong added proguard file error related jackson proguard enabled app works proguard disabled heres snippet crash log 
+
+finally solved forgot add proguard file getters setters 

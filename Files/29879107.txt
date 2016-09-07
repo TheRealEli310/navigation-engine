@@ -1,0 +1,4 @@
+apache camel unmarshal singleton scoped bean 
+spring bean registry route defined dsl takes xml marshaled input netty endpoint unmarshalls pbx bean thinking declare result pbx bean singleton camel pass unmarshalled object processor updates singleton bean work 
+
+casor bean bound registry 

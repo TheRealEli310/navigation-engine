@@ -1,0 +1,4 @@
+wait runnable finish 
+app code running background thread myrunnable background thread continue myrunnable finished executing told code care things dont understand ol li background thread acquires myrunnables lock shouldnt myrunnable block call notify li li notify isnt called wait li ol 
+
+ol li release lock wait notify li li add check wait li ol 

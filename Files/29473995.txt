@@ -1,0 +1,4 @@
+maven compiler plugin jdk versions source target 
+configuration pom xml maven compiler plugin source target version jdk depends version jdk installed computer installed jdk source parameter target 
+
+source target define switches means produce compatible code installed jdk create runable classes check installed jdk work jdk installed check jdk version installed href http maven apache org enforcer enforcer rules requirejavaversion html maven enforcer plugin check installed jdk pre class lang xml prettyprint override build jdk anymore jdk btw href http maven apache org plugins maven compiler plugin version 

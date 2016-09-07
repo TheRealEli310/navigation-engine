@@ -1,0 +1,4 @@
+unable connect openfire server smack api 
+run code smack error strong enabling debugging local openfire server message strong wrong 
+
+discussion user problem xmpptcpconnectionconfiguration port default client ssl port openfire blockquote server server settings client connections blockquote error blockquote org jivesoftware smack smackexception noresponseexception response received reply timeout timeout 10000ms 10s blockquote means connecting ssl enabled port sasl negotiation means store ssl certificate provided xmpp server opnefire application internal external memory certificate communication xmpp server ssl port blockquote ssl authentication user href http stackoverflow questions certpathvalidatorexception trust anchor certification path found wit truststore information xmpp sasl negotiation refer href http tools ietf org html rfc3920 page rel nofollow link blockquote 

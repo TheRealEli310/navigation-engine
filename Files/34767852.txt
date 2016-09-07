@@ -1,0 +1,4 @@
+reduce strings 
+streams list continers char assemble strings chars combine chars coupled duplicates ababaaab ababab streams 
+
+h3 href https github amaembo streamex rel nofollow streamex library h3 single stream pipeline href https github amaembo streamex rel nofollow streamex library code creates stream containers maps letter method collapses successive elements matches predicate case predicate equality string start stream method collapse stream element list successive elements input finally collected collector collect collector joins flat map result list joins element list removing successive elements result stored inside array serves holder values output hr h3 stream api directly h3 stay current api library bet write custom custom collector builds letter accepted string letter appended letter appended combiner code ran case parallel execution bit tricky appended start end letter dropped rest appended output 

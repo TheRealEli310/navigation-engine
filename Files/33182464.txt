@@ -1,0 +1,4 @@
+set cancel timeout mongocursor mongo api 
+set queryoption notimeout flag find query flag overrides default minutes timeout mongocursor href http api mongodb org mongodb dbcursor html rel nofollow documentation find return dbcursor find returns finditerableimpl doesnt addoption method heres entire method context 
+
+version mongo driver apparently v2 api v3 documentation outdated 

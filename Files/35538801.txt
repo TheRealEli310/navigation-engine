@@ -1,0 +1,4 @@
+fasterxml jackson module jaxb jaxbannotationintrospector found swagger 
+post expecting good stuff return developed small restful services app integrated swagger controller service repository architecture deployed glassfish chromes advanced rest client perfectly send receive rest calls post swagger throws exception controller returns correct response struggling changing maven entry versions changing moxy jar delting felix suggested forums details h2 exception h2 h2 code h2 beans xml swagger entry pom xml issue frustrating week amp stuck making progress 
+
+dont applies glassfish shipped jackson version issue bring solve youd force glassfish load jackson minimum requirement swagger core href http stackoverflow questions upgrading jackson glassfish upgrading jackson glassfish covers procedure 

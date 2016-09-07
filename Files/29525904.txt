@@ -1,0 +1,4 @@
+jersey rest api filtering ordering correctly 
+jersey rest api add ordering column filtering column base offset find concrete answer practise follow header param query param param order asc order order order asc completely 
+
+generally information place query parameters patterns ill intuitive ul li denotes optionally criteria denote order li ul reason pattern ul li li ul pattern separation makes difficult ensure correctness multiple criteria algorithm parsing error prone dependent client making careful request 

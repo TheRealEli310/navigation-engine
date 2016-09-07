@@ -1,0 +1,4 @@
+android gson pojo optional field parsing 
+heres thing working api json parameter return types receive server json object string pretty android development explain code handle problem json responses video id video video id id video extra data custom deserialisers find easy follow simple solving problem receive error expected string found begin object part craps 
+
+solution wrote type adapter gson activity data manager recyclerview adapter job 

@@ -1,0 +1,4 @@
+performance circularfifoqueue 
+trouble understanding circularfifoqueue class works requirements fifo queue fixed size elements frist arraydequeue performing badly read circularfifoqueue boost performance isnt fast question queue full add element underlying array copied offset set case guess algorithm performing poorly 
+
+href https commons apache org proper commons collections apidocs org apache commons collections4 queue circularfifoqueue html add rel nofollow docs insertion blockquote queue full recently added element discarded element inserted blockquote performance noted methods performs constant time methods data structure perform linear time worse 

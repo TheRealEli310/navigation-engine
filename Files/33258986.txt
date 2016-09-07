@@ -1,0 +1,4 @@
+declaring similar object hashmap conflict 
+question code run eclipse variable conflict hashmap loop work explained bottom run advance 
+
+case youre creating variables specific variable names compile time compiler throws error variables scope case youre strings keys hashmap key hashmap leads overwriting stored key variable names write show youre overwriting instance 

@@ -1,0 +1,4 @@
+caching large object instance multiple runs possibly netbeans 
+figure simple store persistently large object instance jvm memory shared multiple runs programs working netbeans data mb serialized objects fit easily ram minutes de serialize disk time program load serialized object local disk memory run data read test optimal hold memory access directly run weve looked rmi overhead marshalling process transmission kill performance wondering direct access data program running jvm sharing memory multiple runs test processing parameters input data open suggestion practice achieve pre loading hints appreciated 
+
+understood read huge amount data disk data test purpose time run tests reload slow tests situation create disk memory ram disk file saved disk performances ram href https wiki debian org ramfs rel nofollow link command ramfs create linux systems 

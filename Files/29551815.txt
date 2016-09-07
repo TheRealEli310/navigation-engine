@@ -1,0 +1,4 @@
+copying files directory throws nosuchfileexception 
+hashset strings names files copy working direcorory path directory find piece code working exception fix figure exceptions moving empty directory 
+
+dont nio file problem copy initial file directory exist destination directory call instance create base directory copy files 

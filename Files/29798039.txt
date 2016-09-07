@@ -1,0 +1,4 @@
+remove specific item combo box 
+string array populate combo box items item selected submitted button press remove item combo box attempt remove selected item string array remove items combo box repopulate string array choice string array cbochoice combobox strchoice item removed dont simpler method working 
+
+string array jcombobox items order retrieve index location selected item remove jcombobox youre array suggestion make string array arraylist smarter dynamic array stay synch jcombobox make remove array removing jcombobox selected index change arraylist declaration add content list removing items hope helps understand works suggest studying comboboxmodel swing controls model objects add remove modify contents reference actual control 

@@ -1,0 +1,4 @@
+hdiv redirecting errorpage hdiv parameter exists 
+implement hdiv application struts added dependencies pom file listener filter web xml file token hdiv state injected page link test working expected csrf attacks made small html page application sends data application modify data order simulate csrf attack test unfortunatly success target data modified check logs hdiv detects request hdiv state cancel redirecting errorpage wrong configuration simply didn understand hdiv token exist request pom xml web xml hdiv config hml 
+
+debugmode activated hdiv config xml href http www hdiv org hdiv documentation single doc html advancedconfiguration debugmode rel nofollow hdiv reference documentation blockquote hdiv offers debug execution mode order apply hdiv production environments functional integration problems words hdiv process validates requests doesnt change original execution request logging attack stopping blockquote disabling debugmode fernando lozano hdiv team 

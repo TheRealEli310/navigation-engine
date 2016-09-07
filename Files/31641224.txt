@@ -1,0 +1,4 @@
+double parsedouble 
+write program series double string values user attempt convert strings double method trouble enter values pops output code correct problem assuming increment delete 
+
+double method scans token input double 

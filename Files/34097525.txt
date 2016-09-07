@@ -1,0 +1,4 @@
+cassandra query 
+cassandra write simple application query table keyspace return rows error lines code connect cassandra db nodetool status lt keyspace returns normal missing code blockquote error datastax driver core exceptions invalidqueryexception unconfigured table schema keyspaces blockquote 
+
+error suggests connect cassandra cluster incompatible driver version compatible driver version alpha5 beta1 shortly 

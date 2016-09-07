@@ -1,0 +1,4 @@
+add menu fragment 
+fragment dont menu actionbar dont problem code implementation oncreateoptionsmenu method heres code part code implementing oncreateoptionsmenu method menu actionbar 
+
+add menu fragment steps add sethasoptionsmenu true fragments oncreateview override fragments oncreateoptionsmenu method override activitys onoptionsitemselected method dont override fragments onoptionsitemselected activitys oncreateoptionsmenu 

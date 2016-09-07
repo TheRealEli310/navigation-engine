@@ -1,0 +1,4 @@
+set components center jframe 
+formlayout set components jlabel jtextfield center jframe panel setalignmentx panel setalignmenty doesnt work shown piece code 
+
+default component panel added layout centered panel components content pane form centered 

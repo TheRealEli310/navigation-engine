@@ -1,0 +1,4 @@
+inject prototype bean spring singleton controller 
+factorybean prototype beans autowire controller access property prototype instance calls getobject inject applicationcontext access bean directly works providing brand properties bean achieve directly autowired injection 
+
+considered making controller class prototype scoped 

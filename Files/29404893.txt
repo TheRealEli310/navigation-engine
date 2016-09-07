@@ -1,0 +1,4 @@
+differentiate stun rtp dtls packets program 
+writing small udp server receive udp protocol messages stun rtp rtcp dtls packets port differentiate kind protocol messages order execute logic find sample library 
+
+blockquote differentiate kind protocol messages order execute logic blockquote simply run logics parallel pass packet port logic logics designed ignore ill formed requests run open internet robust deal maliciously crafted packets incoming requests polyglots valid multiple protocols client receive multiple responses design left client code deal response arent legal client robust ignore client retry protocol start possibly picking sequence number isnt polyglot anymore pure luck dont good solution problem udp packets small waste space unique identifiers protocol udp protocol designed separate ports services correct solution place services run port ip addresses 

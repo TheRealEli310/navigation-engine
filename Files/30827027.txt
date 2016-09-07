@@ -1,0 +1,4 @@
+create query query string elasticsearch api 
+query request body code api calls prefer api based approach querystring part find api handles query string part request apis match match term query string appreciated 
+
+factory creating query including href https www elastic guide en elasticsearch client api current query dsl queries html query string rel nofollow documentation query built full 

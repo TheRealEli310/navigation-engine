@@ -1,0 +1,4 @@
+detect open transaction committed jdbc connection 
+detect transaction remains open pending jdbc href http docs oracle javase docs api sql connection html rel nofollow connection connection objects connection pool check state connection postgres 
+
+aware detect current transaction status standard jdbc api methods postgresql specifically href https github pgjdbc pgjdbc blob master org postgresql jdbc2 abstractjdbc2connection l878 rel nofollow compare constant href https github pgjdbc pgjdbc blob master org postgresql core protocolconnection l27 rel nofollow postgresqls jdbc4 extends class cast access property constant values defined driver href https github pgjdbc pgjdbc blob master org postgresql core protocolconnection l27 rel nofollow source code pre class lang prettyprint override 

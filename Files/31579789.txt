@@ -1,0 +1,4 @@
+retrofit rxjava implement iterable requests 
+problem implement problem making request fetches active leagues make request grab matches implement solution flatmapiterable dont retrofit interfaces advise iterate leagues order perform getmatchesplayed lambda expressions project 
+
+id change api reads lose lot flexibility streams nicer played matches active leagues lambdas hadnt asked 

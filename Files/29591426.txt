@@ -1,0 +1,4 @@
+completely shutdown undertow server servlets 
+created undertow server servlet deployment methods documentation href http undertow io documentation servlet deployment html rel nofollow http undertow io documentation servlet deployment html stop server application servlet calling makes server unavailable port call application immediately stopped time start memory server freed calling combinations including calling effect searched documentation clues empty clues source code current state developer plenty garishness 
+
+retaining strong reference undertow components directly reference references stored fields issue undertow jvm functions garbage collector begins set roots threads jvm traverses references objects completed traversal inaccessible objects reclaimed logical view process collection timings jvm generations code remove references components place shutdown method restart 

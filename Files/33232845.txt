@@ -1,0 +1,4 @@
+hazelcast spring configuration 
+whats difference tag created defined segment related aware result creation bean type imap wont configuration bean defined subsequently hazelcast configuration 
+
+result creation bean named loggedinusermap pointed attribute map hazelcast context loggedinusermap pointed attribute tag inside refers specific configuration creating referred hazelcast xml shared multiple imaps wildcard mapconfig matches map hazelcast context configuration creating imap object case loggedinusermap found mapconfig default create imap object found defaults imap creating imap object sort things sample config sample code hope code snippet comments explanatory 

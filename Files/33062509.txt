@@ -1,0 +1,4 @@
+returning view spring mvc restcontroller 
+composition controller work mvc rest controller annotating fine correct composition internally means good ol li receiving http request li li sending response json format changed required li ol 
+
+meant return views resolved supposed return data written body response inclusion selectively disable individual handler methods annotation class level work returning work em shouldnt em create separate controllers normal handlers returning views rest controllers restuful stuff annotate class plain put manually methods 

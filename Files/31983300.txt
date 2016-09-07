@@ -1,0 +1,4 @@
+android webview sync cookies older apis 
+cookiesyncmanager sync cookies guide href http developer android reference android webkit cookiesyncmanager html rel nofollow android documentation created instance oncreate stopped syncing onpause resumed onresume additionally fire end onpagefinished api21 deprecated warning android documentation fire synchronisation error api15 minimum idea ignoring deprecation api15 h3 edit h3 comment understood solves lint hint thougt error 
+
+based selvins comment trick 

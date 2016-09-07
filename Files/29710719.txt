@@ -1,0 +1,4 @@
+loop user input incorrect joptionpane 
+simulate lottery game working validating user enter number prevent user enter empty working catch works time user enters numbers lets input blank error shows user press enter empty input program crashes loop things luck code users input 
+
+code didnt work fixed putting catch inside validate method looping time wrong input code 

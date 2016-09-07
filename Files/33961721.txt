@@ -1,0 +1,4 @@
+avoid memory error connecting access database 
+local ms access database connect ucanaccess jdbc driver database linked password protected database network drive connecting authenticated password protected dependencies classpath connecting error blockquote lang outofmemoryerror heap blockquote fired visualvm main thread eating 2gb allocated memory happened select massive number records large mysql database find results google relate happening connection attempting query db code simply idea establish connection large memory consumption 
+
+default ucanaccess loads entire database memory connection life jvm chosen default behavior typical usage case smaller personal databases gigabytes size work proper connection parameters setting related options startup time time connection jvm life high href http ucanaccess sourceforge net site html rel nofollow ucanaccess website details 

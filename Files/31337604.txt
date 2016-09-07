@@ -1,0 +1,4 @@
+noun phrase multiple words inside stanford nlp tregex 
+figure efficently extract np condition multiple words current code lets input phrase tree np tags function argument input controlled asthma return input injection controlled asthma return input strings multiple words program splits words solution dont work 
+
+tweak pattern bit didnt give complete specification wanted result pattern means noun phrase controlled asthma phrases work controlled immediately asthma heres version function creates patterns function output examples 

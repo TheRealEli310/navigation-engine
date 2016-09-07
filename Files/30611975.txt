@@ -1,0 +1,4 @@
+giving jpanel percentage based width 
+whats easiest make takes fixed percentage parent container width width update parent container doesnt update width parent container 
+
+href https docs oracle javase docs api awt gridbaglayout html rel nofollow gridbaglayout href https docs oracle javase tutorial uiswing layout gridbag html rel nofollow gridbaglayout define href https docs oracle javase docs api awt gridbagconstraints html rel nofollow gridbagconstraints single component add constraints include href https docs oracle javase docs api awt gridbagconstraints html weightx rel nofollow tin relative calculated components grid row similar distribution parts aware weightx begins play preferred size components exceeded aware lead interesting bugs setting minimumsize href http stackoverflow answer weightx percentage components current row multiple means component strong strong parent container width make rows weightx values add 

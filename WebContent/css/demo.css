@@ -259,7 +259,7 @@ a:hover {
 .info {
 	font-size: 1.1em;
 	font-weight: bold;
-	padding: 20vh 1em 0;
+	padding: 0vh 1em 0;
 	text-align: center;
 	color: #47484c;
 }
@@ -282,6 +282,31 @@ body #cdawrap a:hover.carbon-poweredby {
 	color: #fff;
 }
 
+
+.hello {
+  font-family: 'Cookie',cursive;
+  font-size: 25pt;
+  	color: #BF1E2E;
+  
+}
+div.centre
+{
+  width: 550px;
+  display: block;
+  margin-left: 550px;
+  margin-right: auto;
+}
+
+h1.close {
+  font-family: freight-sans-pro, sans-serif;
+ margin: 1em 0 0.5em 0;
+	color: #BF1E2E;
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px #BF1E2E, 0 3px white;
+  }
 @media screen and (max-width: 40em) {
 	.bp-header {
 		padding-top: 3em;

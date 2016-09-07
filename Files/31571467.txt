@@ -1,0 +1,4 @@
+open saml xml apis maven dependency issue 
+add open saml libraries grails project maven added open saml dependencies worked fine place built war file tomcat errors startup research found xml apis xml apis added pom file appears web inf lib folder unpackaged war added dependency pom file inspected dependency tree generated found desired xml apis jar packaged int war file web inf lib building war pom file class found errors xml apis jar doesnt web inf lib folder usual prescription issue unable resolve issue xml apis dependency packaged war file error appears tomcat startup 
+
+resolve issue excluding xerces xercesimpl jar open saml dependencies pom open saml dependencies pom 

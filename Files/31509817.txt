@@ -1,0 +1,4 @@
+copy files directories maven post build pre build specific location 
+copying directory 
+
+maven defines list lifecycles executed order maven build project href http maven apache org ref maven core lifecycles html rel nofollow lifecycles reference ordered list phases run maven executes lifecycles including assuming multi module maven project module copy resources generated parent module running tests child module bind phase phase executed phase run directory parent module copy parent module ran child module runs tests 

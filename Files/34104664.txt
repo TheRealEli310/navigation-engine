@@ -1,0 +1,4 @@
+livereload assets intellij spring boot 
+spring spring boot technology start application tomcat maven plugin update html css js restart server effect browser spring boot task intellij everytime change static assets wont browser spring boot application devtools dependency browser connected live reload socket configuration show make static files working 
+
+problem placement static assets put folder package guide spring io advised put static assets package stopped package works 

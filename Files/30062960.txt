@@ -1,0 +1,4 @@
+load chromedriver binary classpath 
+number sources make reference loading chromedriver binary classpath havent worked binary classpath root path binary set system property webdriver chrome driver error driver location working directory directory source code stored thing happened time chromedriver chromedriver binary classpath webdriver chrome driver property configuring 
+
+ultimately found doesnt support classpath relative access binary convert classpath relative string system path directly load bypassing system property 

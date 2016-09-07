@@ -1,0 +1,4 @@
+return view oncreateview setting view directly 
+confuse method fragment code order link view xml file call setcontentview directly fragment oncreateview method return view object method object taking return view parameter 
+
+blockquote fragment code order link view xml file blockquote code return view display layout fragment method override layout container bundle needed override return method blockquote call setcontentview directly fragment oncreateview method return view object blockquote reason oncreate activity protected oncreateview public fragments communicate setcontentview multiple fragments oncreate protected blockquote method object taking return view parameter blockquote lifecycle fragment controlled href http stack imgur 3l2ub png rel nofollow img src http stack imgur 3l2ub png alt lifecycle fragment add fragment stack view called required put screen 

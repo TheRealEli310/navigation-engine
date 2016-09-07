@@ -1,0 +1,4 @@
+functional style chaining links 
+links chain routes output found similar question fully fulfills requirement href http stackoverflow http stackoverflow solution test case work correctly dont solution feel solved functional style feel smell vain convert code pure functional style means intermediate objects creation hints grateful 
+
+alternative solution custom collector close linear complexity faster solutions proposed uglier usage implement step parallel streams hard add idea simple track partial chains found map keys point chain starts ends values objects chains found entry updates existing deque appends prepends merges deques tests version works 1000x faster saka1029 solution element input array chains 

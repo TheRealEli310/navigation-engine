@@ -1,0 +1,4 @@
+android studio navigation drawer switch case error inflating class fragment 
+android development recently started writing app fun navigation drawer template navigation drawer elements selecting elements works fine assign action element binary xml line error inflating class fragment programmed weird coded works fine uncomment case statement error nullpointer exception code advance fl0 edit heres xml requested 
+
+ivo beckers selvin found fix problem inside strong navigationdrawerfragment strong edited em oncreate em final version em oncreate em cheers fl0 

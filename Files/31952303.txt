@@ -1,0 +1,4 @@
+save objets represents entity hibernate 
+simplification real problem lets start class execute exception occurs guess call object saved db thing problem saving entity lets possibly relevant object memory location code throws exception make work 
+
+rewriting jb nizet wrote comments feels answer blockquote hibernate doesnt simply youre telling persists contract associate object session session noop isnt session inserted database yo make state object copied persistent entity give back persistent entity youre merge blockquote solution 

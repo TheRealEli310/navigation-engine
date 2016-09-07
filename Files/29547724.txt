@@ -1,0 +1,4 @@
+prevent managed bean instantiated multiple times 
+terminology correct managed bean setup policyinformation session scope instantiate code pre class lang prettyprint override code checks bean exists object session map work great add label xpage display policyinformation managed bean code expression language managed bean runs call class add label prevent call adding label xpage session map xpage label faces config 
+
+things ol li adding id property managed bean opening tag managed bean em problem set em li ol ol start li remove code creates policyinformation object managed framework manager time confusing creating object li li alternatively make bean pojo plain object managed bean create object entry faces config anymore keyword create reference null garbage collection clean li ol 

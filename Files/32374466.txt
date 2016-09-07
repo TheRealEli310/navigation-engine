@@ -1,0 +1,4 @@
+replace grouping separator decimalformat formatted 
+format formatted create replaced fix 
+
+href http docs oracle javase docs api text decimalformat html rel nofollow javadoc specifies symbol grouping separator default locale separator em em space breaking space shown code printed corresponds href http htmlhelp reference charset iso160 html rel nofollow breaking space iso remove character href http unicode table en 00a0 rel nofollow unicode representation replace general solution depending current locale retrieve grouping separator directly 

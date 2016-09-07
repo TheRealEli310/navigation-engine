@@ -1,0 +1,4 @@
+overflow dots changing colour 
+overflow dots activity remain white dont change colour code solve issue 
+
+problem arent tinted drawable instance icon set colorfilter arent drawable isnt good set object overflow menu icon insist code href http stackoverflow answer accomplish pretty hacky preferred custom style theme attribute reference drawable em resource em means option create asset correct color include drawable resource folders theme end 

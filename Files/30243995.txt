@@ -1,0 +1,4 @@
+trim method work 
+count characters string spaces trim method doesnt cut spaces main method output mistake lot ahead experienced case mistake 
+
+trim wont remove whitespace leading trailing remove whitespace 

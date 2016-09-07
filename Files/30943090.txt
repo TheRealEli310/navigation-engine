@@ -1,0 +1,4 @@
+http client client statements 
+update code apache http client methods work newer versions httpclient wondering rewrite http client documentation getparams dont allthis info context 
+
+heres modern proxy builing method 

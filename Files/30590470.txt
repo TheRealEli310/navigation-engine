@@ -1,0 +1,4 @@
+npe calling mockitoannotations initmocks androidtestcase 
+mockito androidtestcase added dependencies build gradle testcase mockito initialization add attribute class adding annotation test start crash stacktrace wrong 
+
+replace works href http www kevinrschultz blog mockito android ref 

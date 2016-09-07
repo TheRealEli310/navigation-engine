@@ -1,0 +1,4 @@
+set stroke color runtime 
+create interface user change color line mark background foreground image coded part works fine real problem override paintcomponent method dont set color keylistener case user press key color line change green hand user press key color line change red user draws differents lines lines remain shown code sucess result paint lines change color happen lines drew change color automatically color selected dont original color sugestions advance 
+
+ways achieve kind idea marrying single object present work add shapes solution simply map line color href http stack imgur xdmuq gif rel nofollow img src http stack imgur xdmuq gif alt lines avoid key bindings api troublesome href http docs oracle javase tutorial uiswing misc keybinding html rel nofollow key bindings details 

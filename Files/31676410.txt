@@ -1,0 +1,4 @@
+included fxml fit parent correctly 
+including main view thing change height parent included view height doesnt change didnt find doc size included idea 
+
+attempt resize children based constraints set child nodes href http docs oracle javase javafx api javafx scene layout anchorpane html rel nofollow documentation blockquote application sets anchor constraints child configure anchors sides child anchored opposite sides resizable anchor pane resize maintain offsets anchor pane resize preferred size case anchored opposite sides child resizable top left anchor honored blockquote code posted havent set constraints child node sized preferred size wanted child stretch fill entire assumes node generated allowed grow size properties values grows window resized choice href http docs oracle javase javafx layout tutorial builtin layouts htm jfxly102 rel nofollow layout work short special terms layout behaves scene graph hierarchy 

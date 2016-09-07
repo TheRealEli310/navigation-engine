@@ -1,0 +1,4 @@
+custom deserialization list jackson 
+write custom deserializer order trim big set data receive return list custom objects deserializer question custom deserializer work works find bit confusing dangerous isnt deserialization inside aslist method invocation basically maps list array learned typereference heard slower dont create container list return deserialization means wrapped json object simply endpoint produce strong edit strong misinterpreted jackson deserializer cases deserializer called object array thought entire array considered clear confusion json receive deserialize inside deserializer entry array call multiple times 
+
+registered custom deserializer annotation bean deserializer handle instance collection defined jacksons type factory pass mapper required type information 

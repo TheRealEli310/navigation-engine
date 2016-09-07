@@ -1,0 +1,4 @@
+spring data jedis connection pool configuration 
+quick impatient configuration starter jedis spring understand jedis backend apache common pool pool configuration figure configure spring di xml href https github spring projects spring data redis blob master src main org springframework data redis connection jedis jedisconnectionfactory rel nofollow jedisconnectionfactory update completeness defining solution 
+
+create bean class href https github xetorthio jedis blob master src main redis clients jedis jedispoolconfig rel nofollow jedispoolconfig extends apache set properties set bean 

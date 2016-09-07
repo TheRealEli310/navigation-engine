@@ -1,0 +1,4 @@
+set border thickness jpanels 
+wondering adjust thickness border jpanel border defined jpanel adds border thicker 
+
+ul li href http docs oracle javase docs api javax swing borderfactory html rel nofollow borderfactory li li href http docs oracle javase docs api awt basicstroke html rel nofollow basicstroke li ul 

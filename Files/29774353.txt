@@ -1,0 +1,4 @@
+blank page controller returns jsp page links fine 
+blank page connect controller browser request mapping returning jsp displayed browser blank screen br br reaching controller errors dispatcher servlet controller jsp 
+
+sending model object printing spelling mismatch 

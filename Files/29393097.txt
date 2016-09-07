@@ -1,0 +1,4 @@
+deleting multiple rows excel apache poi 
+excel sheet table rows 76th row total function column 77th 92th rows excel chart takes a1 a75 b1 b75 values img src http stack imgur dqp0q png alt picture data total chart apache poi populate rows great xssfworkbook apache poi populate rows delete rows run problems delete rows excel total functions update excel chart updates a1 a30 b1 b30 excel chart moves row mirror behaviour apache poi rows apache row equivalents excel rows include total function chart sheet messy ref errors imagine poi build entire sheet requisite amount rows add chart thought 
+
+solution found simply hide rows issues solved ol li excel chart moves li li excel chart em de facto em rows unhidden ignores hidden rows hidden rows dont create vast empty spaces chart li li total functions work li ol precise assign named ranges columns set chart named ranges code update named ranges hiding rows 

@@ -1,0 +1,4 @@
+treemap custom comparator weird behaviour 
+create sorted keys sorted alphabetically numerical custom wrote unit test illustrate wrong result 
+
+check comparator code comparing return doesnt dont check equality string starts digit dont return proper ordering strings start digits 

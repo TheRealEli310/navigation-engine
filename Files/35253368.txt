@@ -1,0 +1,4 @@
+create array kotlin providing size 
+create array kotlin 
+
+href https kotlinlang org docs reference basic types html arrays reference arrays created ul li javas primitive types distinct types store href https docs oracle javase tutorial data autoboxing html unboxed values created constructors factory functions simillar creates primitive array filled default li li primitive arrays represented class items type types primitive values inside boxed equivalently javas href https kotlinlang org docs reference null safety html nullable null created similar li ul 

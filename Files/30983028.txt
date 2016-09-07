@@ -1,0 +1,4 @@
+map values collectors groupingby 
+sake lets assume simple type attributes transform collection tuples map maps set values contained tuples specific method shows implementation input output implement streams framework expression returns map full tuple values elements 
+
+found solution involves wrap collector applies mapping function applied elements fed wrapped collector 

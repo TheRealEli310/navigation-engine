@@ -1,0 +1,4 @@
+jersey multipart pojo null 
+write rest service upload file file information jersey jackson multipart file uploaded correctly simple fields pojo supposed additional data null simplified pojo application service web xml empty pom xml data json testing dhc postman makes difference idea multipart pojo bean null 
+
+related problem href http stackoverflow problem set part post answer didnt set postman havent found solution tool href http stackoverflow curl ill tool rest development make set part dont curl command tool make http protocol requests makes post request multipart sets part type find examples setting href http stackoverflow hr h3 update h3 options simply set individual parts set type programmatically deserialing 

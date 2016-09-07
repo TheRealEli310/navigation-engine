@@ -1,0 +1,4 @@
+spark display join rdd 
+join pairrdds show lat1 integer double lat2 integer double assuming rdd v1 v2 display rdd operations based perform suggest spark api answers scala requirement implement 
+
+spark documentation blockquote join called datasets type returns dataset pairs pairs elements key blockquote assumption work values method blockquote pass key pair rdd map function changing keys retains original rdds partitioning blockquote displaying output methods usual hr map values mentioned transformation pre class lang prettyprint override 

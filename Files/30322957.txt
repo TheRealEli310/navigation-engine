@@ -1,0 +1,4 @@
+transferfrom functionality netty copy 
+developing http server processes fairly large size payloads netty provide copy thought coping payload nettys copy netty provide providing method read content directly file workarounds 
+
+netty href http netty io news final html rel nofollow href http en wikipedia org wiki splice 28system call rel nofollow splice support href http netty io wiki native transports html rel nofollow native epoll transport href https github netty netty commit ca250c8a4b1308fb8ff5263ee03cd1bde761861d diff 0eda940f5429a2f8abfeca550fe7bc36r193 rel nofollow proper setup call href https github netty netty commit ca250c8a4b1308fb8ff5263ee03cd1bde761861d diff 0eda940f5429a2f8abfeca550fe7bc36r291 rel nofollow handler trick works linux 

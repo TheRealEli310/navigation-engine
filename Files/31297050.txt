@@ -1,0 +1,4 @@
+perform simple email password verification jsp sql database 
+code successfully establishes connection mysql database couple strings scope code email password entered user login page database matching email address verify password matches user entered form table columns id email password pushed rows table sql workbench blockquote email gmail password1 email2 gmail password2 blockquote assuming pure sql send sql commands database receive info back jsp sql logic ideal verify password thinking sql command database finds row meets conditions email password combination verified great secure complicated simplest makes sense moment tutorial find differently bit confused 
+
+heres worked assuming connection conn case code notes user valid record found 

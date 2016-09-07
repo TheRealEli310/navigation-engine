@@ -1,0 +1,4 @@
+android change textview recyclerview items redrawing entire list 
+recyclerview list items item things textview distance user user physically moves update distances items redrawing list assume user standing middle triangle points item1 item1 feet item2 feet item3 feet user moves feet item1 item1 feet item2 feet item3 feet dont redraw words list items user scrolled item changed location dont notifydatasetchanged redraw entire list show user position dynamically change text distance item list user concerned distances changed 
+
+ovoid list redraw works update ui rest assured caches handle small items call recyclerview rebind visible views cost paying actual size adapter irrelevant recyclerview update changed views call case recyclerview rebind changed items visible stable ids call adapter stable ids recyclerview call existing view holder represents item position reference item viewholder called check item update parts 

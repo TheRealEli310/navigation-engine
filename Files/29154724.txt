@@ -1,0 +1,4 @@
+make checkstyle ignore javadocs link 
+methods add links classes instance run checkstyle complains missing param return dont add class inherit link checkstyle link ignore javadoc items missing 
+
+couldnt find ol li created custom annotation proxy valid methods li li method proxy link proxy annotation li li added annotation checkstyle xml li ol 

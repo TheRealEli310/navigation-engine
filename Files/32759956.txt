@@ -1,0 +1,4 @@
+md5 sha hash large file 
+calculate sha md5 hash large file thing make suppose 1gb file calculate hash divide file parts 256mb divide smaller parts start calculate hash part output hash part give input part calculate hash part output hash point give input part calculate hash part output hash point give input fourth part calculate hash entire file searched lot google havent found similar read messagedigest method update read file chunks entire file loaded calculate hash havent understood load chunk calculate hash good case loading hash calculated end file loaded 
+
+calculate hash file intermediate hashes parts luck part clone messagedigest instance hash calculation call clone hash part original messagedigest instance updated bytes part 

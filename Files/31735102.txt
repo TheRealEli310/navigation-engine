@@ -1,0 +1,4 @@
+simpledateformat parse accept invalid date string 
+code inputs date specific format entering invalid date returns date make return null date 
+
+glance href http docs oracle javase docs api text dateformat html parse lang string 20java text parseposition javadocs mode parsing accepts poorly formatted input adding line initialization dateformat object appears fix 

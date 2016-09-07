@@ -1,0 +1,4 @@
+lower case enum gson 
+output enum values gson due client limitations lower case simple looked making class implements manually serialize class complex case 
+
+control type annotate members give serialized dont control provide custom creating instance 

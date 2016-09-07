@@ -1,0 +1,4 @@
+maven surefire print current test run 
+maven surefire print unit test test method starting 
+
+bit stretch implement href http junit sourceforge net javadoc org junit runner notification runlistener html rel nofollow runlistener add surefire configure href https maven apache org surefire maven surefire plugin examples junit html rel nofollow 

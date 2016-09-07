@@ -1,0 +1,4 @@
+library system checking 
+making library system reads file check books list show availability trouble main file checkin checkout checkin isbn finds book system appends checkout date end mm dd yyyy add books check called maingui dont part make checkout method add checkoutdate book list make remove checkoutdate checkin method theyre empty 
+
+books mapped remove checkout date loop remove date isbn match replace loop prefer strong edit strong comment add add checkout date book algorithm apply loop books isbn match set checkout date current date 

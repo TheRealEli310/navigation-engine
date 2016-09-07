@@ -1,0 +1,4 @@
+jpa project eclipse auto generate entity classes db tables 
+jpa project deployed jboss7 eclipse luna defined datasource server referenced file created entity bean scratch works great eclipse tool external plugin connects database reads table autogenerates entities managed local jdbc connection find jta datasource 
+
+dont mention hibernate post href http hibernate org tools rel nofollow hibernate tools reverse engineer pojos docs blockquote powerful feature hibernate tools database reverse engineering tool generate domain model classes hibernate mapping files annotated ejb3 entity beans html documentation entire jboss seam application seconds blockquote 

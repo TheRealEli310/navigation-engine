@@ -1,0 +1,4 @@
+neo4j server fails start database created spring data neo4j 
+href http www tutorialspoint neo4j neo4j spring data environment setup htm rel nofollow guide creating spring data neo4j application included strong em pom xml em strong start server error blockquote starting neo4j server failed component org neo4j server database lifecyclemanagingdatabase successfully initialized failed start blockquote message log blockquote error starting org neo4j kernel embeddedgraphdatabase blockquote read spring data neo4j neo4j server versions compatible strong question versions compatible strong strong stacktrace strong 
+
+solve problem closing stream stated michael hunger misunderstood meant shutting spring app classpathxmlapplicationcontext context classpathxmlapplicationcontext appcontext xml context close 

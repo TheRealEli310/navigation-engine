@@ -1,0 +1,4 @@
+deserialize xml elements map 
+deserialize xml file objects simplexml working fine elementmap part xml file class finally layer class loading xml file map keys point actual layer objects 
+
+simplefrawmerow user guarantee work attirbutes elementmap mappings handle list map conversion problem xml holds list layer elements map pairs key elements add piece class extra field store list map field constructed approaches getters setters layers list inside methods construct list map content needed serialization life cycle mechanism persist commit annotations method called serialization create list content map populate map list values personally prefer getters setters hide layers element finally converter control process completely easier verbose 

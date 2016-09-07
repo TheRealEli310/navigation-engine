@@ -1,0 +1,4 @@
+configure log4j web application hibernate 
+log4j online tutorial integrating log4j project exlipse dynamic web project hibernate added log4j jarfile project created log4j xml file src folder error xml file file calling logger wrong pease 
+
+code manually load log4j configuration find file deployed resource correct make log4j xml classpath eclipse source folders classpath place files organized create source directory src package named resources place log4j xml avoid calling log4j automatically load log4j xml make resources folder part source fodler build path clicking resources folder build path source folder strong edit strong change doesnt test href http stackoverflow strong edit strong hibernate top org hibernate output lots messages level info change level error log issues changing org hibernate org hibernate sql limit kind messages sql dml statements executed read href http stackoverflow http stackoverflow href http stackoverflow http stackoverflow 

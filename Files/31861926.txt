@@ -1,0 +1,4 @@
+encoding jpeg writing 
+title find jpeg encoder good source code external library array represent raw pixel image bufferedimage encode strong writing strong file return encoded image possibly trough array kind possibility choose image quality possibly good efficiency nb array image type input required byte int argb rgb bgr yuv doesnt matter make approppriate conversions 
+
+mentioned comments href https docs oracle javase docs api javax imageio imageio html rel nofollow class write href https docs oracle javase docs api io bytearrayoutputstream html rel nofollow code simple strong strong write image disc write image memory block process manipulate 

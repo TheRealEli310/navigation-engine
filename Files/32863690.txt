@@ -1,0 +1,4 @@
+set spring log4j property file path programmatically 
+spring boot understand set log4j properties file found application properties set programatically log4j properties log4j properties console loggings added log4j debug console output ray 
+
+fixed adding param executable jar 

@@ -1,0 +1,4 @@
+android hibernate validator 
+hibernate validator android javax packages missing android platform javax xml stream xmlinputfactory code dependency error 
+
+managed solve due lack xml packages disable option configuration proposed solution dependencies custom messages strings resources messageinterpolator implemented application extended access global context project configuration 

@@ -1,0 +1,4 @@
+multiple spring datasources junit test 
+simple class junit test content mysql datasource context xml test runs problem mysql database point postgres database test run mysql postgres databases solution mind creating test class tests annotate create datasource context file doesnt good solution solve problem 
+
+simplest solution test class base creating strong empty strong subclass postgres configuration suggested alter spring config files order put datasource separate context import profile href http www mkyong spring spring profiles rel nofollow 

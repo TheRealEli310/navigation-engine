@@ -1,0 +1,4 @@
+perform okhttp network actions background thread 
+okhttp perform post request server follow call run app prompts error logcat blockquote android os networkonmainthreadexception br android os strictmode androidblockguardpolicy onnetwork strictmode blockquote reference questions added override policy unhealthy put actions background 
+
+okhttp supports async imo refer request sample apply post request hope helps 

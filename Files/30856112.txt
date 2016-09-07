@@ -1,0 +1,4 @@
+skip method cipherinputstream 
+running issue code works inputstream backed fileinputstream work cipherinputstream behavior cipherinputstream debugging skip work return values conjunction read call skip work cipherinputstream rolling skip method relies calling read telling cipherinputstream automatically read part invoking skip call skip api flaky cipherinputstream h2 mcve h2 
+
+found solution worked created wrapper class extended filterinputstream implemented skip method code found inputstream h2 wrapper class h2 class change line mcve h2 output h2 

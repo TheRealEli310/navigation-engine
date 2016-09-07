@@ -1,0 +1,4 @@
+android nullpointerexception arrayadapter string due asynctask onpostexecute 
+trouble null pointer exception android project asynctask exception code class realize problem adapter update onpostexecute figure line exception null coming 
+
+guys json doesnt return days worth data request elements string array null nullpointerexception adapters internal methods removed null elements solved problem guys 

@@ -1,0 +1,4 @@
+list months years dates 
+list months years string dates user enter dates string format result ul li jan li li feb li li mar li ul code gave wrong results 
+
+code basic libraries result asked modify date1 date2 variables 

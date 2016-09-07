@@ -1,0 +1,4 @@
+onclicklistener cardview recyclerview created fragment fragment activity 
+multi part question strong part strong building app track local events fragment recyclerview consisting cardviews represent event tap card replace fragment showing details cards event searched google hours solutions presented work class fragment tab1 creates recyclerview adapter rvadapter attempted implement interface onclicklistener test making toasts card clicked doesnt worked toast showing strong part strong correct working write code replace fragment showing information event adapter class tab1 fragment inside fragment inside activity id replace tab1s parent fragment 
+
+helps 2nd part question parentactivity hosting frag1 amp frag2 switch fragment parentactivity framelayout id container hosting frag1 pass event call back activity replace fragment container 

@@ -1,0 +1,4 @@
+application parparedstatement boundstatement session executeasync resultsetfuture consuming high cpu 
+write million records cassandra cluster nodes replication factor steps datastaxs driver application run machine cores monitor process cpu consuming found cpu usage high found high cpu usage time wrote failed wrote records dont wrong steps lead situation advice appreciated 
+
+effectively submitting million requests waiting complete building list futures number requests submitting requests lot memory tracking responses imagine submitting requests waiting response generates lot cpu generating request payloads writing network addition growing gc pressure keeping futures giant list inflight requests time wait complete submit set optimal techniques doesnt handle error cases lower memory footprint prevent hammering requests heres guidance href http www datastax dev blog driver async queries rel nofollow asynchronous queries driver 

@@ -1,0 +1,4 @@
+variable preferred array 
+program array declared stored memory reside assigned element stored memory call loop print statement refer location print statement refer location statements memory location time statement optimal strong edit strong program multiple times times people prefer calling array everytime looked 
+
+accessing processor memory address add address variable requested accessing processor variable directly primitives stored stack pointer heap stored stack applies primitive objects pointer object stored heap main difference accessing youll accessing em location array em accessing youll accessing em location em worth noting fixed index optimised single instruction worry absolutely measurable performance difference ways extremely performance difference affect application lot time consuming work accessing variables memory compiler optimise reduce number memory lookups required processor caches play role real reason preferable write lot readable 

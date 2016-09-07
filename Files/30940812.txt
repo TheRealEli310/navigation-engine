@@ -1,0 +1,4 @@
+setvisibility view invisible makes app crash 
+write app buttons trigger sound buttons visible pressed add setvisibility method crashes app xml code part 
+
+guessing youre nullpointerexception youre calling assigning common practice perform youre setting visibility youre initializing reference actual button view suggested 

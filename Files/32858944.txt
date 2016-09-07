@@ -1,0 +1,4 @@
+wagner fischer algorithm implementation 
+implement wikipedia reference href https en wikipedia org wiki wagner e2 93fischer algorithm rel nofollow wagner fischer code code working strings equal lengths make work unequal strings overcome issue index bounds error 
+
+lets rid local variables make clearer happening youre guaranteed range index guaranteed range index suspect expression id strongly suggest declaring variables point minimal scope based indexing based conditional operator helps loop 

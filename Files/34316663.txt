@@ -1,0 +1,4 @@
+spring mvc url pattern syntax 
+add restful web service call existing spring mvc application app url mapping web xml spring basically end html web service ideally unique context subfolder web services restful work controller wanted access localhost blah restful test text html blah application context handle url pattern web xml interfering existing app add url pattern access localhost blah restful test text error part web xml servlet view resolver spring mvc xml file 
+
+assuming youre default mvc configuration access double spring mvc requests path mapping href http download oracle otndocs jcp servlet fr oth jspec rel nofollow servlet specification chapter extract path segment matched container case rest find handler annotated method simply remove part youd left handle request 

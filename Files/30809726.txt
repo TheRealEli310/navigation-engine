@@ -1,0 +1,4 @@
+aes pkcs padding 
+places code aes pkcs padding understand work pkcs padding meant ciphers block size lt bytes block size aes bytes code aes pkcs wrong framework internally pkcs frameworks question sun provide jce bouncycastle 
+
+code pkcs reason due compatibility older des 3des ciphers pkcs padding bytes bouncy castle sun oracle providers sake compatibilty correct bouncy castle provider information href http crypto stackexchange crypto site disclaimer pointing popular 

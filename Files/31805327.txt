@@ -1,0 +1,4 @@
+cohexist lombok jpametalmodel processors maven 
+href https projectlombok org rel nofollow lombok jpametamodelentityprocessor annotation processor activated maven build maven config build process mvn clean install metamodel objects generated correctly lombok annotation processor added javac compilation anymore getter setter doesnt work 
+
+lombok project found solution jpametamodelentityprocessor javac annotation processor lombok processor removed correct simply add lombok annotation processor maven compiler plugin 

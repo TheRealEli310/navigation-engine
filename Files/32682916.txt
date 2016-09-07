@@ -1,0 +1,4 @@
+mysql sql sqlexception resultset update data 
+snippet throws error pass parameters mysql workbench proper output mysqlserver mysqlconnector solve problem bug call mysql 
+
+section mysql documentation page href http dev mysql doc connector en connector usagenotes statements callable html rel nofollow jdbc callablestatements execute stored procedures dont em em statement return code wrong call doesnt return result set returns string output parameter totally code 

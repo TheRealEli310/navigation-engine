@@ -1,0 +1,4 @@
+maven eclipse spring junit lang noclassdeffounderror filenet apiimpl util j2eeutil initialization failure 
+weird error run eclipse junit works fine release identical code full blown web container works fine externalize code stand application error error reporting class initialized detail j2eeutil class dependent trouble figuring prove disprove confirmed verbose class loading jar jace jar class loaded ideas thoughts misdiagnosed problem lot ps running clicking junit testing class choosing run junit test included annotations top junit test load spring artifacts 
+
+fix problem needed recreate project scratch adding things recreate problem solving easy needed remove websphere application server server runtime projects build path added solve jax rs class references needed resolve references installing jax rs thin client jar mavens local repository adding pom isnt clear didnt information verbose class loading exception traces problem solved 

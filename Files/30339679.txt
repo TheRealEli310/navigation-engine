@@ -1,0 +1,4 @@
+map arrays hashmap 
+string arrays short long number elements map short key long hashmap make looping 
+
+lots ways fairly easy understand apply streams collectors map stream indices key pairs party libraries include zip function streams produce map neater ways achieving thing code 

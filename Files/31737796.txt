@@ -1,0 +1,4 @@
+initializing variable properties file spring 
+newbie spring read properties file annotations properties file gmlcconfig propertise web config autoinitalizer variable access property file code autoinitializer numconfgmlccount logs empty exception 
+
+import property file file gmlcconf properties autowired private environment env class read property file bellow env getproperty pass key propertyvalue abc property file env getproperty happy coding 

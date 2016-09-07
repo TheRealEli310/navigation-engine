@@ -1,0 +1,4 @@
+separate business logic email sending functionality 
+requirement web application send email alerts conditions javax mail api sending email works fine problem programs executions waits methods sending email executed hundreds email points reduces performance significantly spring spring aop suggest separate business logic sending email functionality sending emails advice executed xyz method called main execution wait advice finish execution return back execute business logic email sending executed separately creating threads choice 
+
+describe asynchronous execution natural async execution threads introduce offload mailing task separate threads aspect unsuitable place introduce state aspect check mail task successful returned move logic separate class call aspect 

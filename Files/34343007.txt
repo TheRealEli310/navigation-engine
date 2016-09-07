@@ -1,0 +1,4 @@
+kafka create topic api 
+kafka difficult time figuring api create topic release href http stackoverflow answer deals href http kafka apache org javadoc rel nofollow cluster methods querying partition info topic dynamically create topic 
+
+kafka cluster determines youre create topics create topics fly easiest href http kafka apache org documentation html brokerconfigs rel nofollow auto create topics enable cluster send message topic doesnt exist cluster creates topic cluster default partitions replication factor dont feature enabled methods kafka clients library youre determined href https github apache kafka blob trunk core src main scala kafka admin topiccommand scala rel nofollow internals kafka topics sh youll find kafka creates topics core api 

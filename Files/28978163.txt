@@ -1,0 +1,4 @@
+test method javafx controller 
+testfx test application run test method controller main pre class lang prettyprint override managectrl pre class lang prettyprint override managectrltest pre class lang prettyprint override exception pre class lang prettyprint override 
+
+related strong nature javafx testfx strong extends javafxs objects constructed javafx thread javafx application thread javafx user thread construct javafx thread throw caused strong nature datafx strong inject annotated fields controller objects defined mdash wont solve problem constructing field test test controller hr thing detailed href https github testfx testfx issues rel nofollow issue github created href https bitbucket org datafx datafx pull request rel nofollow pull request bitbucket simplify testing regard 

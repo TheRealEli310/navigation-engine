@@ -1,0 +1,4 @@
+fix javax xml ws webserviceexception lang nullpointerexception 
+running spring boot application stack trace ws method application class searched entire internet find solution success fix exception full stack trace href http pastebin eg8qptpf rel nofollow full stack trace 
+
+issue instatiation endpoint method ws line calling resulted nullpointerexception error trail extended error trail org apache cxf common util asmhelper 

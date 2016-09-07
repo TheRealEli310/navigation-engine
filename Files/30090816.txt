@@ -1,0 +1,4 @@
+aes cfb nopadding encrypting similar data results similar 
+encrypt similar data hope result similar length 
+
+semantic security youre talking vastly ciphertexts similar plaintexts random iv iv supposed secret random achieve property decryption work provide iv supposed secret send ciphertext common prepend ciphertext iv bytes long aes 

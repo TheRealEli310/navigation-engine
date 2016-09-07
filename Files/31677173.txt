@@ -1,0 +1,4 @@
+jpa sequence generator giving null 
+jpa hibernate application sequence generator domain objects giving null inspite fire query database correct 
+
+faced similar problem fix add strong allocationsize strong sequence generator sequencegenerator import run id gen sequencename seq import run id strong allocationsize strong default alllocation size declare increment db side increment db provide allocationsize sequencegeenerator strong allocationsize strong work case hibernate fire query db time id required add strong allocationsize strong sequencegenerator run 

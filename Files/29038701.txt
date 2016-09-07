@@ -1,0 +1,4 @@
+javafx accordion transparent background 
+accordion behave differently javafx elements make background transparent css found hint didnt work syntax dont panels set fx id doesnt work made child nodes accordion titled pane anchor pane titled pane colouring part effect transparency read javafx issues comment solution 
+
+space child node space match single node style class style class title portion titled pane transparent 

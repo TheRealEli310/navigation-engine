@@ -1,0 +1,4 @@
+merge lists map lists values streams api 
+reduce grouping join list values time end result 
+
+collector incorrectly argument em identity em reduction operation modifying adding values perfectly explains result values added expected invariant identity href http docs oracle javase docs api util stream package summary html mutablereduction rel nofollow em mutable reduction em href http docs oracle javase docs api util stream collectors html reducing util function binaryoperator rel nofollow create collector method href http docs oracle javase docs api util stream collector html util function supplier util function biconsumer util function binaryoperator util stream collector characteristics rel nofollow 

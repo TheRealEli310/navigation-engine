@@ -1,0 +1,4 @@
+sessionscoped managed bean saving variables jsf 
+bit strange problem managed session scoped bean jsf strange case loginbean stores variables initialized successful login time initialized successful login user redirected profile xhtml page call variables loginbean page variables loginbean null lose data redirection loginbean profile xhtml jsf strange advance 
+
+overridden bean faces cofig xml bean defined xml higher priority annotation 

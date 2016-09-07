@@ -1,0 +1,4 @@
+create xml based xsd 
+generate xml file based xsd template parse xsd file don parsing hot generate xml file suggestion expert advance 
+
+href https jaxb net rel nofollow jaxb h3 xjc h3 href http docs oracle javase docs technotes tools share xjc html rel nofollow xjc convert xsd file jaxb annotated classes types defined generate folder classes package h3 jaxbcontext amp marshaller h3 generated classes href http docs oracle javaee api javax xml bind jaxbcontext html rel nofollow jaxbcontext href http docs oracle javaee api javax xml bind marshaller html rel nofollow marshaller generate xml output instance classes generated previously 

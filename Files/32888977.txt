@@ -1,0 +1,4 @@
+diamond printing program creating infinite loop 
+problems printing filled diamond program incorrectly formats diamond code prints edit top half diamond bottom half creates infinite loop edit fixed infinite loop stars unaligned output edit stars aligned rid middle row code output 
+
+original code problems firstly youre things automatically adds newline end string change output line time run loop create newline dont define assuming arent defined define loop bottom half diamond simply reverse loop leave line middle line created loop start loop contents starting adding continuing reach start subtract continue reach br print duplicate row removes row duplicate prints rest bottom half complete fixed code inaccurate unclear 

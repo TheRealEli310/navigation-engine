@@ -1,0 +1,4 @@
+bad practice add elements list getter method 
+suppose inside class assign reference words happen wont add elements remove elements ul li write kind task li li disobeying principal li ul suppose lose mark disobey encapsulation 
+
+dont great practice exposing private class variable read pretty frequently auto generated classes argue return unmodifiable list users class add list explicit method strong edit strong reviewing comments wanted add bit setter idea blockquote meant line code inside kind setter inside class public void setter someelement mylinkedlist add someelement blockquote understanding correctly expose method adds list shooting outlined answers labeling setter bit misleading reassigning setting strongly recommend returning read list getter method 

@@ -1,0 +1,4 @@
+session getattribute returning null 
+servlet calls jsp page servlet retrieving username provided login correctly setting session access called jsp page returning null h2 servlet code h2 jsp code snippet accessing wrong 
+
+inverted params 

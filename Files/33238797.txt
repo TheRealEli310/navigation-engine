@@ -1,0 +1,4 @@
+android skipping page view pager depending condition 
+skip page viewpager depending condition swiping forward backward knowing dont position pages 
+
+create set adapter adapter method override method position spit place check condition send reduce number items adapt suit info href http stackoverflow questions changing count viewpager changing count viewpager href http stackoverflow questions update viewpager dynamically update viewpager dynamically 

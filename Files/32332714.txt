@@ -1,0 +1,4 @@
+send consume messages event hub rest api 
+azure eventhub wanted write simple prototype send receive messages azureeventhub rest api providing code snippet demonstrating rest api exposed eventhub message producing consuming 
+
+understanding eventhub rest api exposed send data rest api receive data event hub br implementing receiver event hub br href https github hdinsight eventhubs client rel nofollow https github hdinsight eventhubs client br nodejs href https github noodlefrenzy node amqp10 rel nofollow https github noodlefrenzy node amqp10 

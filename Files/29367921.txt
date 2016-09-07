@@ -1,0 +1,4 @@
+dagger activity injection working 
+dagger time implementing make work concept understand href https github livetyping u2020 mvp rel nofollow copy structure bit modified appcomponent extends graph defined classes inside module providing classes works good dagger seams build dagger efappcomponent correctly application class init constructor goal inject imageloader eventbus activity create activitycomponent activity call inject declared inject eventbus eventbus activity inject method call injected debugging tracking step step app realized dagger activitycomponent build correctly initialize method empty provider declared variable missing full day make work success 
+
+full day spend decide post minutes found solution baseactivity activity thought inject components seams change line activitycomponent activity injecting dependencies brings question implement base component handle activities create component view activity fragment di 

@@ -1,0 +1,4 @@
+invalid format getaudioinputstream play sound 
+play basic sound code based code found forums checked returns true checked file type audio wav audio wav checked problem persists file dont understand wrong error 
+
+finally found duplicate issue bothered href http stackoverflow questions audioinputstream working audioinputstream working code surprised previous code didnt work desperate 

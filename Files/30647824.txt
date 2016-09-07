@@ -1,0 +1,4 @@
+collection sort issue sorting list 
+question asked times understood return exception code snippet 
+
+version jdk jdk6 problem jdk implementation method jdk changed description sorting algorithm util arrays sort indirectly util collections sort replaced sort implementation throw illegalargumentexception detects comparable violates comparable contract previous implementation silently situation previous behavior desired system property util arrays uselegacymergesort restore previous mergesort behaviour dont reason add code sort 

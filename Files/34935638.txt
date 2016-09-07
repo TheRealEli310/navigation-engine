@@ -1,0 +1,4 @@
+java8 optional function chaining expression 
+wondering simplify code database ebean map object return default implementation instance 
+
+lambda anonymous class map desired result orelse default dont rewrite method return throw exception row hr finally add simpler efficient write change method signature caller decide result 

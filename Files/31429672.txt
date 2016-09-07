@@ -1,0 +1,4 @@
+atr change automatically reset 
+em jcop v2 r3 em card insert em acr38 em reader send consecutive atr request opensc tool receive atr pre class lang prettyprint override repeat request delay receive atr pre class lang prettyprint override wait minutes dont remove card reader request atr receive short atr pre class lang prettyprint override 
+
+mentioned reader guess experience difference strong cold reset strong strong warm reset strong iso difference short version historical bytes provided long historical bytes jcop242r3 surely minor importance 

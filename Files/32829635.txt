@@ -1,0 +1,4 @@
+load url webview background splashscreen showing 
+splashscreen activity mainactivity activity performed background splashscreen front advisable asynctask asyncactivity set time splashscreen view long url loaded giving time attempt guys problem ist solved 
+
+asynctask hide splash screen page loaded timer strong webviewclient strong class method called page loaded make project folder place splash screen images splash screen png change line map splash screen image file strong res drawable xxx strong resolutions resolutions apps splash screen hdpi 400x800 br ldpi 240x320 br mdpi 320x480 br xdpi 640x960 code activity main xml strong edit strong found issue code set splash screen webview instantiating change code 

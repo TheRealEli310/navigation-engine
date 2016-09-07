@@ -1,0 +1,4 @@
+error add splash screen android app 
+android newbie tutorial href http www onlymobilepro android beginner creating splash screen rel nofollow android splash screen howto outdated add layout file res layout image drawable mdpi change main image mainactivity default layout activity main xml layout called splash xml application stops application stopped access dont missing heres interesting code mainactivity ideas purposes advance strong edit strong logcat 
+
+views present xml file change layout file accessing 

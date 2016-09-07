@@ -1,0 +1,4 @@
+lang classnotfoundexception mysql jdbc driver dynamic web project creation 
+designing registration page mvc design pattern made class file input parameters database sql commands lang classnotfoundexception mysql jdbc driver code imported driver lib folder project imported build path imported tomcat server folder tomcatv7 lib creating lib folder showing error kindly 
+
+setup db connection server xml follow tutorial href http examples javacodegeeks core mysql connector install eclipse tomcat rel nofollow http examples javacodegeeks core mysql connector install eclipse tomcat href https www mulesoft tcat tomcat mysql rel nofollow https www mulesoft tcat tomcat mysql download mysql connector href http dev mysql downloads connector rel nofollow http dev mysql downloads connector copy jar file omcat7lib 

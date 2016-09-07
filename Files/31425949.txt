@@ -1,0 +1,4 @@
+cassandra prepared statement binding parameters 
+cql query preform cql string application layers abstraction datastax driver layer bind parameters layer id bind parameter problem bind parameters boundstatement bind parameter missing datastax driver version anatoly 
+
+bind number parameters boundstatement em boundstatement setxxxx index em problem youre dynamic column family bind allowed prepare statement table bound statement 

@@ -1,0 +1,4 @@
+wsdl wsimport lower upper case issue 
+wsdl file party web service back february teammate converted wsdl tool large scaled project built based recently web service party updated wsdl convert wsdl strong wsimport strong problem converted classes compatible code base due package upper case lower case strong import gov services food api datacollection extensions caseclient strong changed strong gov services food api datacollection extensions caseclient strong questions choice wsdl convertor tool kind lower upper case data structure advance 
+
+confirmed choice convertors affect codes result convertor tool options pass affect result case strong ant strong build tool core part build xml combined jars wsdl2java requires create codes capitalized package names 

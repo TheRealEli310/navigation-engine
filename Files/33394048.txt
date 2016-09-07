@@ -1,0 +1,4 @@
+sockets address exception 
+facing strange problem sockets project heres code server client run server works run client server code line odd server singleton place instance class dont touch client function dont ideas problem edit heres stack trace servers constructor private shows running client dont transition 
+
+stuff exception fact server host server port client code calls class initializer server class initializer static stuff server class created static server instance fact server instances created avoid server host server port client code real valus directly work share stuff code entities move entity decouple server client server client entity 

@@ -1,0 +1,4 @@
+filling entity links custom repositoryrestcontroller methods 
+spring data rest provide read apis jpa entities writes issue command objects directly write db added custom controller command handling methods output enriched response spring data rest controller add hateoas links relations 
+
+recently href http stackoverflow answered point href http stackoverflow users oliver gierke oliver gierke question keywords wont flag duplicate single entity paginated listing finally paged response injected pagedresourcesassembler passing method injected resourceassembler page instantiating resources details found href http stackoverflow answer moment requires raw types unchecked casts room automation solutions created href https jira spring io browse datarest rel nofollow jira ticket add spring datas documentation 

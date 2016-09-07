@@ -1,0 +1,4 @@
+add horizontal scroll jfreechart 
+title add horizontal scrollbar candlestick chart created jfreechart user scroll horizontally chart zoomed zooming works move left putting chartpanel jscrollpane chartpanel chart custom chartpanel constructor custom jpanel create chart chartpanel put chartpanel inside jscrollpane add mycandlestickchart jpanel main application frame 
+
+move left call case method panning range direction long time ago resulted move chart dragging middle mouse button dont behavior case nowadays method good place start ideas inside source code create custom scrollbar functionality strong upd strong alternatively increase decrease size chartpanel mouse wheel zooming functionality jfreechart jscrollpane job fine easier scale globally nice zooming user selected area customizing jfreecharts panning strong upd2 strong wrong middle mouse button mouse dragging link provided trashgod 

@@ -1,0 +1,4 @@
+javafx loading multiple fxml files borderpane 
+code public class main extends application comment fxml rootlayout loads fine comment borderpane set toolbarview main view works fine load toolbarview rootlayout rootlayout loads fine toolbarview throws exception dont understand fxml load process throw light set root completeness toolbarview fxml 
+
+property reference structure fxml file object created root element fxml file assuming href http docs oracle javase javafx api javafx fxml doc files introduction fxml html custom components rel nofollow dynamic root pattern root set part process object root element fxml stage set exception similar thing true property fxml file specifies attribute controller set part process exception thrown designed interdependent properties typically set part load process elements create fxml file load reuse carefully unsetting set part previous load process intended usage robust future implementation 

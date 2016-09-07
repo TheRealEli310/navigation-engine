@@ -1,0 +1,4 @@
+make square star pattern chess board 
+rows columns stars disappear make chess board row stars disappear row disappear row fourth stars disappear row disappear 
+
+condition check odd position give print 

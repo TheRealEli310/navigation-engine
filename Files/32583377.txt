@@ -1,0 +1,4 @@
+check equality strings 
+strong edited strong tested code printed output strong true strong compiler compares reference strings true 
+
+string equality rules changed prints case point memory location constant pool typically located heap memory checked java6 true 

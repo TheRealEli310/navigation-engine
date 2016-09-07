@@ -1,0 +1,4 @@
+singleton dagger thread 
+move app singletons made aware bad programming practice implementing dagger dependency injection wondering singleton dagger thread synchronized synchronize dont strange data anomalies multiple threads touching things creating singletons id dagger singleton equivalent synchronized 
+
+artem zinnatullin mentioned answer instance creation singleton classes thread dagger touch singleton theads make thread dagger wont singleton annotation developers class threads 

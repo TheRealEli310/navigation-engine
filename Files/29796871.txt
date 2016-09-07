@@ -1,0 +1,4 @@
+slowly change object color 
+achieve scenario color object slowly color color initial color targetcolor final color updatecolor changingspeed variable set mechanism ol li obtain red green blue color li li compute difference color target bytargetcolor color dr dg db li li normalize dr dg db dividing norm vector dr dg db beware div li li multiply changingspeed control speed changing color li li update color color dr dg db li ol make code execute 4th 5th steps code check code correct 
+
+fades background move component component timer update backgrounds interval interpolates color based number steps desired 

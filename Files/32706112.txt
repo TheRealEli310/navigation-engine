@@ -1,0 +1,4 @@
+add embedded barcode scanner fragment app android studio 
+goal put barcode scanner app decode barcodes found answers zxing zbar couldnt answer dated half code wouldnt work put scanner fragment 1st fragment send decoded barcode 3rd fragment results fragment added zxing intent prompted download app dont heres mainactivity firstfragment scanner fragment barcode2 xml fragment androidmanifest xml thirdfragment 
+
+google recently released href https developers google vision hl en rel nofollow android vision api barcode functionality view sample code api href https github googlesamples android vision rel nofollow https github googlesamples android vision 

@@ -1,0 +1,4 @@
+maven add dependencies runtime 
+compile run project maven 3rd party jar library found maven repository maven library runtime works perfectly fine compile time stated pom file issues things href https code google addjars maven plugin rel nofollow add jars plugin adding pom file external dependency things command line argument optional argument shown href http mojo codehaus org exec maven plugin mojo html additionalclasspathelements rel nofollow api throws classnotfoundexception greatly appreciated 
+
+install custom jar local maven repository put standard pom file default compilation strong strong runtime dont scope special op stated reason werent problem compilation em ide em jar classpath em em running dependency 

@@ -1,0 +1,4 @@
+null object reference intent 
+thx awnsers br solution problem line oncreate function br nice day br br hr br br kind question asked lot internet couldnt find answer helped bring special case function mainactivity create intent start activity console output br br sooo til works fine guessede activity opens app crashes wiht errormessage br br br question null pointer log show extra put intend doesnt activity recieve key values br thx tip br br information write comment 
+
+activity intent intent expect main activity put code onnewintent strong activity singletop flag strong onnewintent overrriden oncreate intent 

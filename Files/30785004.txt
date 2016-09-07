@@ -1,0 +1,4 @@
+android sqlite application stopped 
+creating sqlite application application launched perfectly fill edittext fields click add button application stopped message popups mainactivity sqlit logcat guys 
+
+shuffle sql autoincrement location edit complicating appears sql lite documentation href http www sqlite org faq html q1 rel nofollow http www sqlite org faq html q1 blockquote declare column table integer primary key insert null column table null automatically converted integer greater largest column rows table table empty blockquote leave autoincrement altogether long insert nulls 

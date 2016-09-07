@@ -1,0 +1,4 @@
+method reference array clone noclassdeffounderror array 
+run code works expected output replace lambda method reference runtime exception dont understand thought method reference lambda equivalent strange exception explain jdk 
+
+bug href https bugs openjdk net browse jdk jdk listed fixed 8u40 based bug comments javac dummy class point compilation forgets rewrite actual array class causing error 

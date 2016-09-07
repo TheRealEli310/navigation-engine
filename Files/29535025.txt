@@ -1,0 +1,4 @@
+jenkins selecting tests 
+working maven project junit defining tests jenkins ci group tests test class tests dont run tests configure tests run standalone project testng selenium create test method annotation call group run based xml configuration define type groupings jenkins researched plugin tests selector plugin understand started installed plugin href https wiki jenkins ci org display jenkins tests selector plugin rel nofollow title wiki page wiki page understand installing copy pasted property file didnt understand needed manipulate building simply property file found jenkins doesnt permission find 
+
+maven maven surefire plugin href http maven apache org surefire maven surefire plugin examples single test html rel nofollow http maven apache org surefire maven surefire plugin examples single test html run single test set tests tests regexp 

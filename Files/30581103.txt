@@ -1,0 +1,4 @@
+matcher throws illegalstateexception accessing group 
+write simple command parser class project heres main cmdparser running output commented line groupcount correct group index throws illegalstateexception case pattern found 
+
+call method 

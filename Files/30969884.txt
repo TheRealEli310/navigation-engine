@@ -1,0 +1,4 @@
+utilizing binarysearch autocomplete exercise 
+making program takes array terms weights long queries string terms txt file initialize private terms array arrays sort rearrange queries lexicographically term allmatches string prefix function meant utilize binary search find lexicographically sorted terms array match begins match ends confident prefixorder comparator binary search methods work fine loop copy specific terms array called newterms problem return null values test client wrong greatly appreciated 
+
+loop wrong boolean predicate 

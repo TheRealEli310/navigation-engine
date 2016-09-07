@@ -1,0 +1,4 @@
+spring mvc form handling spring tags 
+studying spring week feel missing form handling form entering data bean defined form controller method processes post request create custom form directly adding student fields attribute custom form convoluted fields defined model properties exist class definition concatenate values put case create bean class define attributes form kind redundant href http www pshchegolevatykh viewmodel spring mvc html rel nofollow em viewmodel em thing solution 
+
+create form backing object class specific form copy values fbo entity class redundant form db entity lots fields tool dozer automate storing age full database bad idea storing birth date 

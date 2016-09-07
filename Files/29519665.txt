@@ -1,0 +1,4 @@
+create list menu android 
+create simple item list menu main menu application thought create listview listview objects adapter display items dont adapter data display activities list options lead alternatives tackle problem 
+
+ways build list objects create menu blockquote dont adapter data display activities list options lead blockquote misunderstanding class extends list activities clicking item start activity href https www thenewboston index php rel nofollow good tutorial videos em hosted href https www thenewboston index php rel nofollow thenewboston made href http www mybringback rel nofollow mybringback em wrong originally thought ease design consistency suggest implementing androids menus ul li href http developer android training implementing navigation nav drawer html rel nofollow navigation drawer li li options menu li li action bar menu li li context menu li li popup menu li ul href http developer android guide topics ui menus html rel nofollow found 

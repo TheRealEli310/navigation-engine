@@ -1,0 +1,4 @@
+javafx make combobox hgrow 
+br problem javafx hbox combobox hgrow hgrow work combination combobox br br info strong textfield strong combobox works expected fxml code code result img src http stack imgur svjmm png alt enter image description code success code idea make combobox hgrow 
+
+answer question br testing found setting strong max width strong strong max strong works img src http stack imgur al4t3 png alt enter image description result code xml scenebuilder br strong 7976931348623157e308 strong double max br br work multiple controls hbox br img src http stack imgur vasya png alt enter image description opinion strong consistently strong br dont unserstand hgrow work combobox 

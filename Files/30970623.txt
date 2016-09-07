@@ -1,0 +1,4 @@
+changing bitmap image loop 
+canvas change bitmap image milliseconds basically gif animation images milliseconds change image code doesnt work clue advance 
+
+couple problems decoding resources time fast load image milliseconds faster decode frames store array starting thread time called means hundreds threads created create thread inside thread increment counter set correct frame call invalidate inside draw canvas current image 

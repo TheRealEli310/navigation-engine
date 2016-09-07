@@ -1,0 +1,4 @@
+implementing simple string matching regex 
+implement simple regex string matching wildcards idea needle string search haystack string searched search needle haystack give starting index needle wildcard situation string supplied needle incomplete missing character replaced underscore test equivalent st tes te written simple method takes haystack needle arguments work iillegalstateexception match error code tested regex pattern generated code works wrong 
+
+means regex engine wasnt find match regex thrown ul li dont call methods search match ul li li li li li li ul li li result methods means regex engine wasnt find match case valid index returned li ul suspect method simply replaced match character limit characters added make quantifier reluctant find minimal match 

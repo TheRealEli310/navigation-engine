@@ -1,0 +1,4 @@
+graphstream edit node attributes display gui 
+al graphstream import file parsing creating nodes attributes create nodes edit attribute gui side graph left side properties node click text boxes save properties code nodeclicklistener public class nodeclicklistener implements viewerlistener mouseinputlistener send attributes form form create dynamically labels text boxes node clicked order edit properties idea problem synchronization threads 
+
+work joptionpane dialogs called buttonpressed handler href http graphstream project org doc tutorials graph visualisation integrating viewer gui rel nofollow title integrating viewer gui integrating viewer gui href http stack imgur ecy8a png rel nofollow img src http stack imgur ecy8a png alt screenshot 

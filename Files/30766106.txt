@@ -1,0 +1,4 @@
+spring security lang stackoverflowerror exception providers 
+environment ul li spring li li spring security li ul authentication providers hits activedirectory hits custom database provider created logging user environments works perfectly user authenticated app continues invalid user entered provider authenticate exception page websecurityconfigureradapter configuration special mydatabaseauthenticationprovider myuserdetailscontextmapper classes custom logic mapping users app doesnt crash page show user thoughts rid stackoverflowerror 
+
+problem solution problem brackets userdetailsservice removed works expected code snippet userdetailsservice autowired 

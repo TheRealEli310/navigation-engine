@@ -1,0 +1,4 @@
+wsjar file error starting websphere server 
+web application running local environment websphere myeclipseblue app builds deploys fine start server receive error blockquote cwxrs0010w error processing wsjar file apps ibm websphere appserver profiles appsrv01 installedapps m006node02cell rbb3 ear rb31 war web inf lib ibm ws runtime jar plugin xml lang nullpointerexception ibm wkplc extensionregistry extension equals extension blockquote odd part application running didnt issue advice eliminating error matter gladly provide information needed 
+
+include websphere related libraries application case remove check maven eclipse build process create ear make websphere jars added application 

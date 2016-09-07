@@ -1,0 +1,4 @@
+retrofit android working error 
+implemented retrofit android library rest api call working error code apiinterface restclient activity call androidmanifest set permission internet 
+
+make restclient singleton wanna call api call 

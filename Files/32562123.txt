@@ -1,0 +1,4 @@
+jersey consume dimensional array 
+developing rest webservices jersey submitting data format send additional data format jersey webservice code question consume data jersey web service 
+
+dont send data format objects easily mappable objects thing understand data json map objects array initially json empty array json pojo mapping world generally maps plain array simply start adding javascript objects map json objects adds json objects map objects class hold fields instance maps beginning pretty ugly sending data javascript properties map fields forget pairs simply map javacript object straight object javacript map hope javascript maps directly class simply method work make json provider jersey dont exception em messagebodyreader found media type application json type myobject em exception google search exception messag answers show add provided information figuring version jersey maven h3 update h3 maven add dependency json pojo support configure web xml 

@@ -1,0 +1,4 @@
+enable swagger ui jhipster app prod profile 
+id swagger rest api documentation jhipster app running prod profile shows dev profile configured 
+
+swagger configuration href https github jhipster jhipster sample app blob master src main mycompany myapp config apidoc swaggerconfiguration rel nofollow simply remove line excludes prod profile 

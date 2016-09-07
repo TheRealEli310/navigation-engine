@@ -1,0 +1,4 @@
+proguard config retrofit retrofit 
+app running debug creating apk release follow error mapactivity proguard file build searching errors retrofit site tip 
+
+retrofit gson important add program rule classes strong serialized strong strong deserialized strong ps advice href https github krschultz android proguard snippets rules snippets repository rules lot libraries 

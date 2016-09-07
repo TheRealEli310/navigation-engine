@@ -1,0 +1,4 @@
+hibernate datasource jndi weblogic 
+connect database weblogic 12c hibernate achieve file resource definition addition hibernate config file set properties inside directory created xml file called finally exception time jndi connect data source missing ideas amp recommendations greatly appreciated strong update strong making suggested exception 
+
+connection factory defined data source code hibernate cfg xml weblogic configure connection factories wlinitialcontextfactory default href http docs oracle cd e24329 apirefs e24391 weblogic jndi wlinitialcontextfactory html rel nofollow oracle docs href http docs oracle cd e24329 web e24378 wlthint3client htm saclt369 rel nofollow client examples 

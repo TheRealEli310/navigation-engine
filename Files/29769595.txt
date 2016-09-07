@@ -1,0 +1,4 @@
+webview reload 
+fragments added item action bar refresh webview named strong airport menurefresh strong click tabs methods works code 1tab tab1 working logic refresh main activity strong edit strong edited main activity reloading suppose click reload tab1 tabs reloads solution 
+
+strong finally found solution strong moved oncreateoptionsmenu onoptionsitemselected main activity fragment tabs worked charm 

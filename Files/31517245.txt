@@ -1,0 +1,4 @@
+org apache lucene analysis standardanalyzer resolved 
+implementing strong tokenization strong lucene problem related occurred exception thrown blockquote import org apache lucene analysis standardanalyzer resolved blockquote added dependencies maven pom xml exception thrown dependencies 
+
+remove dependency mix match package versions lucene package longer dependency import 

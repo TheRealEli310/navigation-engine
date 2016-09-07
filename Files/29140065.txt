@@ -1,0 +1,4 @@
+spring boot configurationproperties loaded 
+title href http docs spring io spring boot docs current reference html boot features external config html boot features external config typesafe configuration properties rel nofollow typesafe configuration properties load list objects lombok setter getters main application class annotations configuration pojo yml file finally spring configuration class configurationproperties annotation config combinations change annotation dont error empty 
+
+configuration properties simple pojo getters setters separate properties injected separate class properties injected 

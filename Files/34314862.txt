@@ -1,0 +1,4 @@
+high memory usage gradle daemon 
+gradle compile project consists modules order speed things gradle daemon compilation instances gradle daemon running compilation finishes instances daemon left daemons process consumes mb ram normal daemons running background gradle daemon misconfigured update operating system debian jessie version oracle 
+
+antoniossss advice touch developer turns gradle fact resource hungry simple world application daemon mb alright multiple daemon threads started long run jvm limited control users side control limit memory usage set gradle opts variable order pass xmx options jvm managed build android project settings xmx option set gradle start cli dorg gradle jvmargs xmx gradle daemon memory jvm higher risk build fail tune settings suit purposes settings set gradle properties file 

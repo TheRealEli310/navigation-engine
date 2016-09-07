@@ -1,0 +1,4 @@
+create smooth edged spotlights opengl 
+working implementing lighting project opengl working basic implementation lights display correctly encountered weird problem create spotlight cutoff limited angle affected light hard edges stairs picture ambient light disabled spot exponent specifies light distributed cone attenuations make effect clearer background big white image made black lack ambient light wondering ot image order light img src http stack imgur 8svnf png alt weird light set light scale context applying effects perspective view visual effects maintain orthographic coordinates 
+
+ways achieve ol li continue vertex lighting increase resolution scene put polygons inside li li change pixel lighting learn shader programs href http www lighthouse3d tutorials glsl tutorial spot light pixel rel nofollow tutorials topic li ol 

@@ -1,0 +1,4 @@
+jackson unrecognizedpropertyexception 
+convert jsonstring object json object pojos strong addtocartjson strong strong data strong strong quote strong convert json class mapper throwing likes object mapper recognize object blockquote org codehaus jackson map exc unrecognizedpropertyexception unrecognized field quote class product json data marked ignorable source io stringreader line column reference chain product json addtocartjson data product json data quote org codehaus jackson map exc unrecognizedpropertyexception unrecognizedpropertyexception org codehaus jackson map deser stddeserializationcontext unknownfieldexception stddeserializationcontext org codehaus jackson map deser std stddeserializer reportunknownproperty stddeserializer blockquote fix 
+
+problem op mixes jackson versions ul li shows li li visible imports li ul pointed href http stackoverflow users sam sam comments op version deserialization annotations version recommended newest version 

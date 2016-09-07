@@ -1,0 +1,4 @@
+http status running project eclipse 
+created dynamic web project eclipse run index jsp href http localhost myproject web inf jsp index jsp rel nofollow http localhost myproject web inf jsp index jsp http status http status fix ul li made tomcat apache server working default apache site starting server li li added myproject server li li added superclass javax servlet http httpservlet classpath li li made server running port number li li index jsp default created eclipse li ul information order figure 
+
+default web inf directory accessible directly due security reasons intended work placing jsp web inf directory work 

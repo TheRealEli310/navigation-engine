@@ -1,0 +1,4 @@
+put thread join method inside synchronized method 
+thread join inside synchronized method thread join wait 
+
+static method thread join wont work br call compilation runtime exceptions points dont br joining thread means waits end safely access result continue finished jobs overloaded versions join final synchronized br synchronized methods enable simple strategy preventing thread interference memory consistency errors object visible thread reads writes objects variables synchronized methods 

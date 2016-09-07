@@ -1,0 +1,4 @@
+tango camera preview rgbir 
+tangos demo videooverlaysample color ir data color replaced tango camera color tango camera rgbir places appears screen black code 
+
+api provide connecttotangocamera rgbir color fisheye camera href https developers google project tango apis reference tangocamerapreview rel nofollow display depth image color image compute depth image hand roughly ol li transform point cloud pose timestamp camera frame li li project point cloud points receive pixel li li array resolution camera frame 1240x720 li li fill array black li li store pixel position upsample pixels depth camera resolution 320x180 li li opengl easly array texture li ol details recommend href https github googlesamples tango examples tree master rgb depth sync rel nofollow rgb depth sync 

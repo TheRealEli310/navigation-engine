@@ -1,0 +1,4 @@
+select entities calling strored procedure spring data 
+lets mysql stored procedure select annotation results 
+
+lets procedure define call procedure check entitymanager 

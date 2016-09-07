@@ -1,0 +1,4 @@
+cbarge barge create conference jtapi 
+cisco phones call manager superviser create conference manager answers put supervisors phone mute achieve jtapi wait event create conference code sample thrown wrong 
+
+dont barge create conference set mute application make feature add terminal 

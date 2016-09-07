@@ -1,0 +1,4 @@
+rxjava reflect extract failure observable 
+storeservice calls update key content method couchbase client change content replace part process observable retrywhen handle exceptions case retry exceeds maximum retries passes exception triggers observers onerror method case error handled throw exception update key content method storeservice calls failed h3 ways success h3 ol li throw exception onerror method doesnt thrown observable li li throw runtimeexception didnt work li li dto boolean isfailed member create dto observable case error subscribers onerror set dtos isfailed true observable finishes check dto isfailed throw exception didnt work change happened onerror didnt propagate observable li ol h3 pseudo code h3 retrywhen code 
+
+subscription runs async check run immediately code runs proper return method subscribe notified successes failures interested handling 

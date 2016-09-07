@@ -1,0 +1,4 @@
+error nullpointexception android app drawerlayout 
+create simple material design interface android studio error line opening drawer click home icon actionbar toolbar app crashes code change action fab home icon working normal drawer open home icon error cases didnt initialized object beginning find error appreciated 
+
+happening youre aliasing activitys instance variable method local variable scoping inside youre setting reference method order fix issue remove 

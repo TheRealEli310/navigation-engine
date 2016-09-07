@@ -1,0 +1,4 @@
+convert object map string string 
+suggest convert object org apache commons beanutils beanmap object returning 
+
+quick dirty iterate fill 

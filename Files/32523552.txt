@@ -1,0 +1,4 @@
+javafx metadata 
+find metadata media time works class song simplestringproperties title artist set values class constructor make song fxml controller console method shows title artist properly solution doesnt work fine songs read idea waiting solutions advance 
+
+calling handler invoked ready dont display system console testing display labels ui update automatically data 

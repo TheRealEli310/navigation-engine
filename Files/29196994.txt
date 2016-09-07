@@ -1,0 +1,4 @@
+run configuration missing arguments tab 
+newbie eclipse generate javadoc eclipse fails recognize packages find solution recommend add path vm options bootclasspath path sdk platforms android android jar searching vm option run configuration argument tab found 
+
+preferences installed jres select jre project press edit button set default vm arguments xbootclasspath path jar jar finally click finish button button preferences window 

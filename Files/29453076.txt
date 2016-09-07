@@ -1,0 +1,4 @@
+lang securityexception reflection 
+duplicating question ill explain read questions working goal implement reflection based game jar attach external library eclipse project error line mentioned questions reason error referenced libraries signed differently meaning compiled versions libraries reference jre system project build jar game error occurring jar compiled remake project jre jre version client compiled edit thought jar file game classes signatures stop reflection 
+
+assume signed game jar unsigned reflection code exception strong edit strong find small poc demonstrate problem class called specific package defines signed key classes package compile codes create jar files generate key signing sign game jar call unsigned class package default package solve problem move classes packages 

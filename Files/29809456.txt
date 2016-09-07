@@ -1,0 +1,4 @@
+gradle versions library 
+gradle build project hadoop jetty newer version jetty compatible servlets hadoop appears older version jetty compatible servlets attempt run methods web server thrown older version servlets api ideally jetty hadoop dependency servlets api jetty server entire 
+
+ended href https gradle org docs current userguide dependency management html rel nofollow exclude tomcat hadoop thing putting item class path worked didnt functionality tomcat solution worked case incompatible versions library exclude 

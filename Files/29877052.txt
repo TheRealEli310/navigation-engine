@@ -1,0 +1,4 @@
+stop junit finishing threads stopped 
+unit tests id plot figures fx problem unit test jvm fx shut inspect generated plots unlike case test started main method question stop junit exiting threads finished replicate behaviour test started main method directly aware plotting unit test general moment issue rid nasty block wait javafx platform explicitly exited answer countdown latch joining fx thread explicitly requires explictly stop current thread junit wait javafx thread finish basically junit wait threads blocking code inside test methods appendix classes minimal running 
+
+href http docs oracle javase docs api util concurrent countdownlatch html rel nofollow ol li initialize li li closed invoke li li junit test call wait closed li ol hr alternative href https gist github andytill rel nofollow javafx junit rule perform actions directly fx application thread hr alternative href https github testfx testfx rel nofollow testfx read updated description fits 

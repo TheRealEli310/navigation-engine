@@ -1,0 +1,4 @@
+joptionpane jpanel 
+modify size alert window written code run program description meant middle title bar make work description main text alert window 
+
+href http docs oracle javase docs api javax swing joptionpane html showmessagedialog awt component 20java lang object 20java lang string 20int rel nofollow javadocs state paramter em title string dialog em dialog create text set display add 

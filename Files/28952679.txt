@@ -1,0 +1,4 @@
+spark noclassdeffounderror gson dependency 
+small spark project jar file packaging maven gson work json files specifically jsonreader class added gson dependency run standard project works fine package run spark complains line question import pom file installed libgoogle gson distribution didnt problem edit submitting job standalone mode building maven 
+
+problem project dependencies arent included error generate fat jar href http maven apache org plugins maven assembly plugin rel nofollow maven assembly plugin similar fix issue find href http stackoverflow questions build fat jar maven 

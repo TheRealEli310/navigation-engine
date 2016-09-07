@@ -1,0 +1,4 @@
+implement setonscrolllistener recyclerview 
+show progress bar bottom user reached items visible list written code data web service populate partial records strong records strong json code data json populate recyclerview json real json records guide make code populate records user scroll bottom progressbar showing records strong recyclerviewfragment strong strong cardadapter strong implemented endless href https gist github ssinss e06f12ef66c51252563e strong strong personally prefer recyclerview onscroll functionality work 
+
+activity class recylcerview xml layout file adapter class wallpaper row xml progress item xml separate backgroundtask servicehanlder interface load interface web service data loaded asynctask works issues volley okhttp libraries networking imageloading href https github bumptech glide rel nofollow glide library 

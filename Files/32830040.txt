@@ -1,0 +1,4 @@
+rxandroid return arraylist flatmap 
+started delving rxjava rxandroid combination retrofit love power rxandroid stuck place figure solution basically api takes user info user api works great returning info user separately return arraylist userinfo code logs individual users thrice list users returned single result trivial figure appreciated 
+
+href http reactivex io rxjava javadoc rx observable html tolist rel nofollow transforms 

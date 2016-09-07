@@ -1,0 +1,4 @@
+server event client additional cookie 
+unit test server event resource additional cookie jersey eventsource javax client code works fine hoewever additional unit test add additional cookie request tryed returns builder create required webtarget eventsource 
+
+heres whats eventsource establish conection webtarget chance add cookie return builder desired cookie added delegating class adding desired cookie type methods reerite test cookie inserted caveat testing solution based reading source code jersey media sse good luck 

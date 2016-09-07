@@ -1,0 +1,4 @@
+multiple componentscan spring 
+spring annotations obviusly doesnt compile hope point multiple componentscans differents packages filters unify componentsscan wouldnt create component framework annotated servicecomponent solve advance 
+
+create empty internal classes put annotation work 

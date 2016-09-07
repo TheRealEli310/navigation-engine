@@ -1,0 +1,4 @@
+actual class stack trace element 
+eclipse set breakpoint current stack trace debug view img src http stack imgur pf3wi png alt enter image description inspect stack trace information selected element correlated stack trace dashes superclass method overriden subclass ul li subclass li li eclipse href http docs oracle javase docs technotes guides jpda rel nofollow jpda li ul 
+
+stack records strong code strong waiting call return em objects em method superclass subclass doesnt override stack record superclass method strong control eventually return strong runtime class object involved examine reference activation frame specific call method debugger show easy muck debugging interfaces jdi challenge href https docs oracle javase docs api lang stacktraceelement html rel nofollow reports class strong strong class strong object strong work classes vm doesnt give information distinguish containers tomcat load versions library applications vm 

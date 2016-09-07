@@ -1,0 +1,4 @@
+serialize hotspot state 
+technical reasons isnt save sort image jvm warmed assuming resume platform jit stuff work 
+
+depending jvm functionality jrockit href https docs oracle cd e13188 jrockit docs142 userguide codecach html reported normal consumer jre href https twitter openjdk status 174648974618263552 jep existed make questions topic href http stackoverflow questions save jit information run dont regular oracle jvm function exists fiddle href https docs oracle javase embedded develop apps platforms codecache htm codecache compile functions earliest time href http stackoverflow questions technique utility minimize warm time warm jvm persisted jvm cache carries risks case caches jit state invalidated recalcuated code happen run program code primary reason disk persisted cache limited professional jvm jit optimization happening start time fast repeat start eliminating risk running outdated code 

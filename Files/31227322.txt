@@ -1,0 +1,4 @@
+exception thread awt eventqueue lang nullpointerexception paint 
+testing simple program drawing line problem error code line save lines drawn 
+
+method 

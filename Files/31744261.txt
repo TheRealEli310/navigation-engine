@@ -1,0 +1,4 @@
+spring data neo4j save nodes relationship transitive persistence 
+save entity entity type relationship failed basically hope understand strong transitive persistence strong strong spring data neo4j version strong release br strong neo4j server strong neo4j community tested strong succeed strong save entities seperately create save relationship strong entity entity relationship amp strong strong failed1 strong save entities seperately create relationship type save strong entity a1 a2 entity b1 b2 relationship c1 c2 a1 c1 b1 a1 c2 b2 a2 c1 b2 strong result entitie bs relationship cs exception log strong failed2 strong save entity creat entities set save entity saved relationship exception occurs entity isnt saved entity entity controller exception log 
+
+solve problem strong failed strong saving bs db saving relationship end node annotation strong relatedto strong created doesnot exist save null exception reported 

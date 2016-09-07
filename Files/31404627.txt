@@ -1,0 +1,4 @@
+socket closing catch blocks 
+attempting client server type chat box guis wont details multi threading program part problem hope good amount code post client server create socket stream classes block reason sockets close catch blocks ps call socket close method end early server ran constructor class breaks main server stuff thread previous post fix gui load run server stuff waiting detail code client reason class files project sockets close catch blocks find answer online stuck found problem server side console 
+
+youre creating brackets block automatically closed exiting block creating inside block shouldnt closed read tutorial href https docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow resources information youre current behaviour 

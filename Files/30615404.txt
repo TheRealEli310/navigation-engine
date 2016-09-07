@@ -1,0 +1,4 @@
+provide maven repository xmltype xdb jar xmlparserv2 jar 
+insert oracle xmltype database jdbc websites xdb jar xmlparserv2 jar provide maven repositories dependencies 
+
+found oracle copyrights jars wont find public repository download oracle website add jars manually local repository 

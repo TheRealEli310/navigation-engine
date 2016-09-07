@@ -1,0 +1,4 @@
+maven build errors eclipse 
+build generate classes file eclipse project working machine eclipse build directly command line maven errors miss hr pom xml hr output mvn compile succeeded doesnt create target classes folder classes 
+
+change pom xml pom make maven run compile plugin jar compile sources packaged jar call href https maven apache org guides introduction introduction lifecycle html rel nofollow maven build lifecycle href https maven apache org pom html rel nofollow maven pom reference details 

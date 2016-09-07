@@ -1,0 +1,4 @@
+javafx lookup issues scrollpane titledpane 
+scene called modselectorscene based fxml made scene builder root element scrollpane scrollpane vbox titledpanes anchorpane buttons trouble started modselectorscene lookup buttons fx id assign buttons button objects code turning null found assign fx id scrollpane lookup wrap scrollpane anchorpane move buttons anchorpane lookup method solution involves alternating calls getcontent getchildren scrollpane inside dig buttons works elegant id buttons elements invisible lookup method theyre scrollpane remedy heres add eventhandler modstr instance throws nullpointerexception scrollpane assigned expected vbox directly inside returns null lookup 
+
+layouts method lookup work scene shown wrap lookup code runnable 

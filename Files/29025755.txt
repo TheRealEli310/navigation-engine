@@ -1,0 +1,4 @@
+switch portrait landscape mode libgdx 
+created game working desktop mode run mobile runs landscape mode make game work successfully portrait landscape mode 
+
+set screenorientation fullsensor androidmanifest xml file detect orientation device rotate screen automatically viewports libgdx determine program handle width height screen rotates href https github libgdx libgdx wiki viewports rel nofollow https github libgdx libgdx wiki viewports 

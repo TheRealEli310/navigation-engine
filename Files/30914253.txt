@@ -1,0 +1,4 @@
+upcasting subclass reference 
+exercise em thinking 4th edition em bruce eckel blockquote exercise create class called amphibian inherit class called frog put methods base class main create frog upcast amphibian demonstrate methods work blockquote difference 
+
+blockquote dont understand difference frog frog amphibian frog blockquote understand difference lets add method lets whats difference bottom line programming interface interface general meaning interface programming implementation coming actual question book asks blockquote main create frog upcast amphibian demonstrate methods work blockquote dont meant em whats upcasting em title edited answer upcasting situations calling specialized forms overloaded methods explicitly href http stackoverflow questions whats upcasting answer additional details 

@@ -1,0 +1,4 @@
+processing file long single line input give numbers records 
+spark mode extract process log information file size file 100mb file long single line regular expression split file log data rows strong myapp strong strong logparser strong actual size processed file mb log items spark extract log items file log items correct file partitions checking output total sum partitions merged keeping duplicate items id prevent behaviour workaround give desired result doubt good performance processing performance wise 
+
+partitioning line based default fails interesting single long line filing bug splitting performed hadoop file api specifically class option include entire parser option set delimiter 

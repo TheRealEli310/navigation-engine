@@ -1,0 +1,4 @@
+find replace characters regexp string 
+replace special characters string words begin end xxx ccc yyy ddd regular expression br br 
+
+sample data displays specification vice versa state keys special strings values strings thatll replace special strings iterate map provide keys itll produce regex patterns capture special strings capture group youll provide entire matching string put results 

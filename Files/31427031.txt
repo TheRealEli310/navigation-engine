@@ -1,0 +1,4 @@
+add schema payloadvalidatinginterceptor springs 
+add xsd files validation payloadvalidatinginterceptor add xsd file property schema add xsd files validation 
+
+assuming xsd files namespaces extends class payloadvalidatinginterceptor modify spring configuration adding bean 

@@ -1,0 +1,4 @@
+eclipse jbehave eclipse error 
+error open story file eclipse kepler plug org jbehave eclipse unable instantiate class org jbehave eclipse editor story storyeditor pre class lang prettyprint override 
+
+message stack means youre missing version number checked eclipse installation official jar plugins folder found inside couple plugins folder hidden plugins ol li href http download eclipse org tools orbit downloads rel nofollow http download eclipse org tools orbit downloads find latest build drop li li info page latest build search li li case version isnt compatible li li download jar li li put folder li li restart eclipse li ol doesnt work reinstall jbehave plugin related ul li href http eclipse org luna index jsp topic 2forg eclipse platform doc isv 2freference 2fmisc 2fp2 dropins format html rel nofollow http eclipse org luna index jsp topic 2forg eclipse platform doc isv 2freference 2fmisc 2fp2 dropins format html li ul 

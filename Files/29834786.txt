@@ -1,0 +1,4 @@
+error lang arrayindexoutofboundsexception handled 
+handle error code give message lang arrayindexoutofboundsexception order send packet client server udp socket 
+
+change statement check equals current code means statement reached length addressing index position empty array 

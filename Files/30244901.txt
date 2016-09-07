@@ -1,0 +1,4 @@
+loggerfields syslog output log priority stack trace 
+log4j send logs papertrail syslog appender href http papertrailapp kb configuration log4j logging rel nofollow documentation notice handy property hr managed similar rolling log4j2 works outputs default rfc5424 format hr message priority information full stack traces href http logging apache org log4j manual appenders html syslogappender rel nofollow loggerfields supposed work log4j2 output syslog desired format 
+
+setting href http logging apache org log4j manual layouts html rfc5424layout rel nofollow rfc5424layout attribute 

@@ -1,0 +1,4 @@
+hamcrest assertion boolean fields prefix getter method 
+assert list custom objects object fields values series assertions custom object boolean type fields getter method prefix assertion fail box solution overcome handled kind custom matcher 
+
+moving comment answer ivo mori suggested hamcrest internally implements standard behaviour allowing boolean primitive types afraid create hasgettervalue 

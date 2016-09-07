@@ -1,0 +1,4 @@
+android put global variables broadcastreceiver 
+classes interacting strong receiver strong class hope change variable strong mainactivity strong class listen sms message respond extends strong broadcastreceiver strong class change setting class em original code put variables inside strong onreceive strong em ul li change variable strong var strong class put method li li access change variable class li li strong method strong class work li ul 
+
+em answer strong valid strong instantiated registered unregistered programmatically strong op asked strong em em answer strong wont work strong declared instantiated system returns receiver considered longer active instance created time em hr regular object blockquote change variable var receiver class put blockquote class member class blockquote mainactivity access change variable receiver class blockquote reference class instance blockquote method receiver class work blockquote youll call initialization 

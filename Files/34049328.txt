@@ -1,0 +1,4 @@
+handle temporary file resources 
+application write method takes argument writes content temporary file performs operations finally deletes temporary job ugly wondering handle gracefully strong update strong wrote fly solution ten minutes job suggestions improve suggestions 
+
+resource calls close method classes implementing interfaces implementing stopping creating file implementation implements deletes close called call file jvm delete exits youre waiting jvm delete temporary file wouldnt good idea long running jvm webapp 

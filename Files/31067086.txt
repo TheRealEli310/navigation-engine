@@ -1,0 +1,4 @@
+make persistent navigation drawer android 
+search lot manage navigation easily time implement persistent navigation drawer href https www google design spec patterns navigation drawer html navigation drawer behavior rel nofollow https www google design spec patterns navigation drawer html navigation drawer behavior img src http stack imgur qjul5 png alt enter image description 
+
+implement persistent navigation drawer viewpager works fine width 8f pageradaper fragmentpageradapter 

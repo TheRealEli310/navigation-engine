@@ -1,0 +1,4 @@
+jersey pathparam instance level method level 
+jersey class ol li instance variable pathparam service id private string serviceid li li method argument public response subscribe pathparam service id string serviceid li ol required methods colleague mine comment approach ultimately jersey classes based servlets servlets stateful variables read href https jsr311 net nonav releases index html rel nofollow jsr docs blockquote injection occurs object creation time annotation resource class fields bean properties supported default request resource class lifecycle resource classes lifecycles annotation resource method parameters blockquote webapp jersey class strong em em strong follow request resource class lifecycle feel approach thoughts 
+
+em made em virtue allowing annotation request scope request bean resource instance shared state id give method full set parameters bit repetitive makes easier glance code style issue people opinions 

@@ -1,0 +1,4 @@
+opengl context current current thread 
+tutorial youtube problem opengl solve idea fix strong main strong 
+
+call href http www glfw org docs latest group context html ga1c04dc242268f827290fe40aa1c91157 rel nofollow glfwmakecontextcurrent bind opengl context thread working href http www lwjgl org guide rel nofollow lwjgl website 

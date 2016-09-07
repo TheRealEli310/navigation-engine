@@ -1,0 +1,4 @@
+ee ear deployment descriptor eclipse dtd validator 
+fix small issue deployment descriptor project working reason eclipse doesnt validate xml file dtd figure heres xml file heres error eclipse validator 
+
+introduced ee declared j2ee application ee application itll run j2ee backwards compatibility modus support ee application glassfish jboss websphere root declaration pre class lang xml prettyprint override youre targeting ee container glassfish jboss websphere tomee root declaration pre class lang xml prettyprint override youre targeting ee container glassfish wildfly websphere tomee root declaration xml namespace domain pre class lang xml prettyprint override applies dd xml files servlets jsfs cdis root xml element declaration significant 

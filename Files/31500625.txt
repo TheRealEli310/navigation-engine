@@ -1,0 +1,4 @@
+lwjgl collision 
+make 3d game hard time collision worked system good system collision terrain collide entities terrain height collide blender models consist triangles accurate collision form collision detection triangle game lose performance code based thinmatrix tutorial youtube created code current collision method collision method based position inaccurate player class call system works problems inaccurate edit working vector made called vector6f multiple values easier store values takes parameters xwidth zwidth height made method called getbounds returns entities bounds entity bounds collision 
+
+easily bring check make bit precise creates 3d bounding box object 3d convex hull heres pseudocode close center point entities define position update tick collisions loop cycles number collidable entities 

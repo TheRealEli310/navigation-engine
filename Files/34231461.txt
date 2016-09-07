@@ -1,0 +1,4 @@
+spring websocket messagemapping de serialization issue lang classcastexception util linkedhashmap cast 
+writing spring websocket application stompjs client side client side intending send list objects server side mapping object converts linkedhashmap client side code listids list id object controller lang classcastexception util linkedhashmap cast blah listid normal spring controller restmapping works fine springs messagemapping annotation maps objects differently traditional casting listid 
+
+changed list array works question href http stackoverflow questions classcastexception resttemplate returning listlinkedhashmap listm classcastexception resttemplate returning list lt linkedhashmap gt list lt mymodelclass gt 

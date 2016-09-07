@@ -1,0 +1,4 @@
+jasig cas custom ui settings 
+working ee web application implement sso components solution chosen jasig cas server popular solution cases mine find information customise ui login page settings login url rebuilding cas server source maven project change easy pom xml moment provide information customise cas ui settings general 
+
+okey easier thought carefully read docs href http jasig github io cas installation maven overlay installation html rel nofollow http jasig github io cas installation maven overlay installation html main point put files place cas jsp cas jsp default jsp overlay properties file custom settings settings 

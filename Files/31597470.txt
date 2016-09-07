@@ -1,0 +1,4 @@
+org springframework beans factory beandefinitionstoreexception failed read candidate component class file myxyz class 
+implementing restful web application jersey spring mongo solr adding solr dependency application working production environment works run eclipse run run server pom xml full stack trace questions similar accepted solutions working changing versions pom heres maven dependency resolution tree mvn dependency tree missed tree expert 
+
+pom xml reference href http www srccodes article spring asm dependency issue incompatibleclasschangeerror classmetadatareadingvisitor classvisitor rel nofollow http www srccodes article spring asm dependency issue incompatibleclasschangeerror classmetadatareadingvisitor classvisitor 

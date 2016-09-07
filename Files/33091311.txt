@@ -1,0 +1,4 @@
+concurrenthashmap parallel streams remove keys 
+sequential code removes entries hash map list keys map size 100k entries remove key list 2k 10k solution streams 
+
+kind direct translation step maps key key removed filtered bit shorter directly filtering keys removed key sets method returns directly 

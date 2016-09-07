@@ -1,0 +1,4 @@
+sqljdbc4 glassfish server4 
+running web application connection code open ide run project time glassfish server starts automatically projects server glassfish perform crud operation problem starts make file keeping server run project perform crud operation error blockquote microsoft sqlserver jdbc sqlserverexception driver configured integrated authentication blockquote stop server changing file start changing run project works error stopping starting server taking times total project time suggestion appreciated 
+
+solved problem error question glassfish server access file file glassfish server location working perfectly 

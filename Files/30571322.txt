@@ -1,0 +1,4 @@
+hibernate sql server dependency 
+hibernate sql server installation sqljdbc4 local maven repository error move forward local repository newbie mvn command giving error 
+
+found answer back thought fair post 

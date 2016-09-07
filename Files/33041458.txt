@@ -1,0 +1,4 @@
+inference variable incompatible bounds 
+method signature methods compiles successfully error returned javac jdk 8u60 reads confused types variables provided arguments dummymethod brokencall dont match signature 
+
+youre making invalid 

@@ -1,0 +1,4 @@
+elasticsearch api error 
+api gave error elasticsearch running port causing error fix 
+
+problem add guava jar build path works hope works 

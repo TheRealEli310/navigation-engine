@@ -1,0 +1,4 @@
+refactor factory classes lambda expressions 
+common case kind factory classes defined implementation factory provide object based cumbersome id refactor code expressions preferred imagine alternatives approach preferred readablility conventions 
+
+making life unnecessary complicated implement thinking singleton pattern guaranteed implementation em em return singleton implementation capturing lambdas iron hard guaranty hand harm returned instances singletons hr question lambda expressions method references type factory construct constructor accepts factory input parameter implement factory minor optimization stylistic choice change factory works constructor point method reference 

@@ -1,0 +1,4 @@
+jpa hibernate mappedsuperclass inheritance strategy inheritancetype joined relation 
+tables represented jpa model class extends baseentity student extends person field active person student tables update field active personrepository updates row student table updates person table 
+
+found solution annotation formula implemented method updates active field person table student spring data formula active person insert student id eventually active field student wont rid mappedsuperclass 

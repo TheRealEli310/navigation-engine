@@ -1,0 +1,4 @@
+utility method combine lambdas 
+net easy combine delegates nets version lambda basically combine lambdas mind itd nice utility honestly hard define lambda invokes 
+
+talking lambdas utilities exist href https docs oracle javase docs api util function package summary html rel nofollow util function package find feature specific composing functions functionally speaking compose functions accept arguments return argument void lacking requirement href https en wikipedia org wiki domain function rel nofollow codomain function correspond href https en wikipedia org wiki domain function rel nofollow domain function composition sequentially calling unrelated functions arguments problem solved thing 

@@ -1,0 +1,4 @@
+remove whitespaces xml file read zip file 
+reading xml file stored inside zip file remove whitespaces work heres trim isnt 
+
+trim remove leading trailing whitespace dont combine trim command system println capture results trim command doesnt work replaceall simple whitespace character removes whitespace 

@@ -1,0 +1,4 @@
+add filter http basicauthenticationfilter enableauthorizationserver 
+documentation href https github spring projects spring security oauth blob f25592e682303b0cf89e1d7555174bac18e174df docs oauth2 md mapping user roles scopes rel nofollow https github spring projects spring security oauth blob f25592e682303b0cf89e1d7555174bac18e174df docs oauth2 md mapping user roles scopes documentation order map user roles scopes setting add filter http wondering authorizationserver fantastic provide sample curl test grant type password 
+
+extend include spring configuration 

@@ -1,0 +1,4 @@
+gradle generating serializable classes jaxb 
+gradle build tool configuring jaxb plugin jacobono entry build gradle file xjb directory binding xml content files generated implements serializable interface defined binding xml doubt binding dir configurations advice helpful 
+
+moved binding information xsds worked plugin works properly binging dir paramter didnt work absolute path 

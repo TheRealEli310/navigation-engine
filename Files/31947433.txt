@@ -1,0 +1,4 @@
+rxjava sequence filtering 
+suppose observables emit items filter sequence removing items sequence edit required data flow load items observable blist load items filtering based criteria blist item 
+
+rxjava offers number href https github reactivex rxjava wiki filtering observables rel nofollow filtering operators specifically pass function checks item equality define equality check objects internally tracks objects objects hash correctly equal objects hash code optional parameter define check distinctiveness arent combining streams filtering function check obeservable emitted item scenario observables em em complete filtered rxjava predict future items emitted 

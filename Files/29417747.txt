@@ -1,0 +1,4 @@
+disable jbutton click enable 
+disable jbutton click enable seconds sleeping ui thread event handler leaves button selected state read text disabled button code button remains selected state text seconds instantly disables enables button end isnt aiming button stay disabled state text seconds enable 
+
+href http stackoverflow users user2864740 user2864740 em dont thread sleep ui thread ui freezes chance repaint timer class em heres kind thing referring close 

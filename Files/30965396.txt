@@ -1,0 +1,4 @@
+add layouts tabpane javafx 
+quick question build ui javafx tabs content problem dont arrange content tabs properly possibility add layout tabs grid oder border pane layout tab 
+
+tab setting component setcontent node mehtod tab container control add container children node object border pane flow pane support laying children 

@@ -1,0 +1,4 @@
+jaxb marshalling xml handle schema validation fails 
+order marshall unmarshall objects xml file small service implement xml schema xsd file includes constraints loaded xml schema marshaller object schema valid target file updated validation fails file emptied incomplete data guessing problem marshaller opens file stream validation fails handle situation properly properly handle validation fails writing operation applied xml file 
+
+jax marshaller write wide variety trade output interfaces make bytes written file fixed entity marshalling fail string buffer results marshalling process write marshalled xml document contained buffer marshalling process fails program create output file simply discard buffer string slightly elegant riskier solution buffered writer io bufferedwriter caller creates set buffer size buffer size exceeds size document program write file program calls close flush stream 

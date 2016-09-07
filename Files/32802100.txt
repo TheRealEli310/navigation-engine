@@ -1,0 +1,4 @@
+constructor serversocket int undefined 
+basically code recently needed socket programming strange error serversocket create server socket port code compilation error constructor serversocket int undefined 
+
+comment original question blockquote class named serversocket blockquote youve named class serversocket compiler strong constructor class strong takes int rename class dont conflict core serversocket class 

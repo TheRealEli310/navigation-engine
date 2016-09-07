@@ -1,0 +1,4 @@
+create vm 
+written code create vm run program text shows blockquote jvm dll found blockquote copied jvm dll main directory program message console blockquote error occurred initialization vm unable load native library find dependent libraries blockquote fix 
+
+set library path vm argument make required files present 

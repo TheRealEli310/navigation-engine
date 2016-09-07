@@ -1,0 +1,4 @@
+app crash adding fragment 
+create application similiar google music navigation drawer tabs navigation drawer part working tabs work adding fragment end mains application crashes noticed crash crashes android dont problem error messages descriptive place finger part code main activity extending layout main xml works fine end function main tabbedactivity fragement tabbed content xml fragment tabbed xml error output 
+
+error due replacing fragment layout file layout fragment add code manually href http stackoverflow questions illegalstateexception replacing fragment illegalstateexception replacing fragment 

@@ -1,0 +1,4 @@
+opengl render yuv video android 
+working webrtc staff android figure works trouble understanding opengl code work wondering code convert yuv video rgb work video resolutions link href https chromium googlesource external webrtc 5f93d0a140515e3b8cdd1b9a4c6f5871144e5dee talk app webrtc android org webrtc videorenderergui rel nofollow videorenderergui 
+
+href https www opengl org wiki fragment shader rel nofollow fragment shader perform yuv conversion values passed shader separate textures converted rgb values fragment color underlying math href https en wikipedia org wiki yuv converting 27uv rgb rel nofollow wikipedia shader sampling textures performing pixel conversion differences resolution input output handled automatically videorenderergui code doesnt fixed expectations frame size id expect work arbitrary resolutions 

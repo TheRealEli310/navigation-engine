@@ -1,0 +1,4 @@
+check variable exists jsp page includes page 
+jsps start pagestart jsp works fine main jsp doesnt include language variable defn compilation fails modify pagestart jsp defaults ouputting variable setn strong solution based alex clems answer strong works calling page doesnt set attribute pagestart jsp callingjsp jsp 
+
+check variable exist output doesnt output default jsp change set jsp access 

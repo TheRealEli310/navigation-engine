@@ -1,0 +1,4 @@
+stack trace printed proper order messages console 
+strong strong happen em stack trace em printed program displayed proper order console screen mixed messages screen parallelism involved strong program strong commented lines throw exception strong run strong strong run strong similarly patterns time run explain behavior blockquote eclipse ee ide web developers version luna release build id blockquote em apologize lengthy question em 
+
+implementation standard output error streams eclipse href https docs oracle javase docs api io printstream html printstream io file rel nofollow objects passed buffered streams automatically flush data destinations streams buffering internally data write interleaved streams decide flush times buffer contents filled times calling printing stack traces printing std output stream consistent results 

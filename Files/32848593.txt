@@ -1,0 +1,4 @@
+set location propertyplaceholderconfigurer spring applicationcontext relative applicationcontext xml 
+set location property file propertyplaceholderconfigurer spring applicationcontext xml relative xml file applicationcontext xml datasource properties files directory work wouldnt spring find file modify location property advance 
+
+work location start location applicationcontext xml root directory directory spring application started question 

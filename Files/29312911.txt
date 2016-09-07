@@ -1,0 +1,4 @@
+inject super class dagger2 dependency injection 
+dagger2 di android application found write inject method class inject field inject parent class dont call inject subclass activity activity extends create inject method component baseactivity call inject baseactivitys oncreate inject fields activities injected automatically 
+
+explanation gregory kick blockquote heres members injection methods work ol li make members injection method type class hierarchy doesnt youll error li li ed members entire type hierarchy injected argument type supertypes li li members ed subtypes argument type li ol blockquote issue discussed href https github google dagger issues href https github google dagger issues follow updates change dagger href https github google dagger issues close release 

@@ -1,0 +1,4 @@
+spring amqp transactionnal publish exception 
+transactionnal rabbitmq channel spring amqp swallow exceptions log recover channeltransacted true forces channel join current transactionmanager hibernate case results commit exception rethrown transactionnal boundaries resulting failure upper level catch log manually attach publish transaction executed commit succeeded case channeltransacted true nest registeringsynchronization inside registeringsynchronization fail called achieved update ideally override rabbitresourcesynchronization connectionfactoryutils class private class factory instanciated 
+
+solution implemented publishing inside transaction commit main transaction call method register publishing main transaction committed main transaction committed publishing channel transacted commit message commit transaction fail errors caught previous method 

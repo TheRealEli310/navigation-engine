@@ -1,0 +1,4 @@
+clob oracle allowing insert data chars 
+table insert statement executed side stacktrace large characters throwing function procedure inbuilt make work properly advance 
+
+preparedstatement create clob connection createclob put text clob clob setstring set preparedstatement parameter preparedstatement setclob 

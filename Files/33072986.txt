@@ -1,0 +1,4 @@
+iterator linkedlist 
+project implement classes basic linked list sorted linked list working fine reason iterate sorted linked list class structure test class works fine iterator works test problem sorted linked list class extends heres implementation comparator class constructor heres comparator class test ran separate class prints assumed iterator inherited traverse problem legal loop compiles printed debugged adding removing stuff works expected iterator isnt supposed create separate iterator class wouldnt redundant code inherit appreciated edit heres add method sorted list 
+
+extends wrong inherit field class mark variables protected super class remove subclass declaring node class declare super class class places constructor fields accessible classes change access modifier post code works havent spent time design posting demonstrate change code make work decide access modifiers put classes 

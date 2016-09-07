@@ -1,0 +1,4 @@
+row column find 3x3 subarray 2d 9x9 array 
+entries put sudoku single square 9x9 2d array divided 3x3 subarrays write method takes row amp column combination parameters returns entries made specific position loops method takes existing values entire row amp entire column stores array alreadyinuse stage figure numbers loop row column combination find specific subarray add entries alreadyinuse array find row column subarray row column 2d array 
+
+modulus filter array expression row column column indexed array expression return strong strong return column return column top left cell loop cells nested loop time heres relevant code 

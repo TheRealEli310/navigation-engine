@@ -1,0 +1,4 @@
+store matrix 2d char array 
+store matrix 2d char array accept input char solution store 2d char array matrix wrong output suggestions 
+
+change code loop generating matrix indexes read character read token token iterate characters user answer fails user loop matrix chracter reading iteration denotes matrix length string length string length indexoutofbound exception 

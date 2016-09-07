@@ -1,0 +1,4 @@
+loading custom library jna windows 
+file defined methods dont methods class importing href https github twall jna rel nofollow jna read href https github twall jna blob master www gettingstarted md rel nofollow guide dont understand link specific file 
+
+build compile shared library load strong strong compile usual showing gcc linux strong strong issues finding library fixed configuring adding location dll searched alternatively set directly code loading library works jni work jna didnt 

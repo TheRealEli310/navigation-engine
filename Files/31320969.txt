@@ -1,0 +1,4 @@
+hazelcast join cluster programmatic config 
+manually configure hazelcast instances programmatic api find behaviors supposedly similar things approach rudimentary pre class lang prettyprint override work starting instances join cluster readability purposes heres xml building memory pre class lang xml prettyprint override starting instances make join cluster behavior hr programatically hazelcast wont instances join complain error code supposed thing programatically pre class lang prettyprint override missing 
+
+interfaces added code added xml br set code href http docs hazelcast org docs manual html single configspecifyinterfaces rel nofollow http docs hazelcast org docs manual html single configspecifyinterfaces br configuration work add 

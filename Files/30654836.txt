@@ -1,0 +1,4 @@
+ant places stacktraces standard output 
+ant tasks created custom ant tasks fail output redirected stdout redirected stderr simple full generic ant properly outputs error message stderr line bold shows red eclipse error standard output run custom ant file running expected fail nullpointerexception output shows expected case stdout code throw exceptions custom tasks simple fiddle strong printstacktrace strong strong logger error message strong code success behavior stays stdout errors show stacktraces showing kind errors message stderr 
+
+implement code echo task message test 

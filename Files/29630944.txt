@@ -1,0 +1,4 @@
+make immutablelist sortable observablelist wrapper 
+implementation called wraps guava interface fully utilize easily javafx mutable swapped backing list method notify listeners bindings change href http stackoverflow questions javafx tableview click sorters working noredirect comment47391866 problem ran sorted extend implement implement class create method returns wrapped work kind simple abstract layer list immutable values resorted abstracted layer 
+
+part asked sortedlist wrapper backing list change wrap list mutable sortedlist tableview previous question part notifications ul li dont implement observablelist scratch observablelistbase li li swapping backing list call support methods provided super notify listeners li ul simple 

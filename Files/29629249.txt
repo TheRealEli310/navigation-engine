@@ -1,0 +1,4 @@
+hadoop distributedfilesystem thread 
+hadoop writing data scrape spring service called multiple threads write content hdfs filesystem object member writeservice dont find thread distributedfilesystem object thread member service 
+
+hadoop dfs called href http en wikipedia org wiki write read rel nofollow worm model makes robust concurrency issues strong strong answer question strong strong general concurrency control requirements 

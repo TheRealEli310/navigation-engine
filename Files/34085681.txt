@@ -1,0 +1,4 @@
+avoid lang noclassdeffounderror android os persistablebundle pre 
+href https github beworker tinybus tinybus library dispatch events app minsdk compile sdk pre devices facing issue affect apps reflection register bus base class inherits crash log error caused dalvik failing initialize class find file lot info questions related issue affects otto fix remove usage app strong em reference em strong code system apparently fix problem 
+
+issue resolved code ages ago found em em references located methods ide generate wasnt paying attention replacing fixed problem folks similar issue suggest closely generated stuff newer api 

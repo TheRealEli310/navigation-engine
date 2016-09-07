@@ -1,0 +1,4 @@
+load external property file spring boot wildfly 
+load external property application running inside wildfly war add parameter wildfly execution application recognize properties spring boot read external property file load run spring boot application war inside wildfly id 
+
+linux system entry strong standalone xml strong defined directory end directory em opt jboss wildfly standalone configuration em application yml 

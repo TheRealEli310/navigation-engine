@@ -1,0 +1,4 @@
+handle exception spring rest web services 
+web services based spring boot rest mvc service designservice project calls service userservice project passing email parameter user object user back handle user found designservice project repository userservice usercontroller repository ol li point user found throw exception return empty user object li li excpetion handling http status code li li handle exceptions dont checking user null good idea li ol excuse wrong syntax typed directly 
+
+ol li return null youre empty optional li li user found return empty response found status li ol blockquote responseentity httpstatus found blockquote ol start li catch org springframework web client httpclienterrorexception li ol finally posting endpoint returns resource request mapping support method requestmethod 

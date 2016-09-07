@@ -1,0 +1,4 @@
+spring jdbc template sql query filtered date 
+filter query dates working query oracle sql developer eclipse data webservice implemented spring exception happening 
+
+href http docs oracle cd b19306 server b14200 functions183 htm rel nofollow function provide href http docs oracle cd b19306 server b14200 sql elements004 htm i34924 rel nofollow date format mask pass string query reason working sqldeveloper providing date format default format locale implicit conversion correctly 

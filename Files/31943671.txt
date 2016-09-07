@@ -1,0 +1,4 @@
+classcastexception org apache xerces parsers xincludeawareparserconfiguration cast org apache xerces xni parser xmlparserconfiguration 
+similar problem mentioned href http stackoverflow questions classcastexception org apache xerces parsers xincludeawareparserconfiguration strong mvn clean compile site strong command versions ul li cobertura version li li findbugs version li li maven compiler plugin version li li maven version li li version li ul error 
+
+wrong version findbugs works ul li findbugs li li maven compiler plugin li ul decided resign pom xml cobertura change pmd plugin pom xml prepareing report command 

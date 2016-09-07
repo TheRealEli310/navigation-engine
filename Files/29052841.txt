@@ -1,0 +1,4 @@
+converting decimal fraction 
+method converting decimal double fraction putting numerator denominator values int size testing works fine values hit return method method 
+
+shouldnt work doubles losing precision lead errors case problem parse expect decimal points 

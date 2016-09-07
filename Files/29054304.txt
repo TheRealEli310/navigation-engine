@@ -1,0 +1,4 @@
+android drawable xml setting src programmatically 
+drawable xml resource content portrait landscape activity layout resource background image update drawable xml bitmaps src attribute programatically thing casting view imageview doesnt work backgroundobj null runtimeexception occurs dont reference bitmap xml object change src attribute switch layout backgrounds making objects layout overlap imageview filling background 
+
+doesnt create xml bitmap reference drawable set background change background layout call href http developer android reference android view view html setbackground android graphics drawable drawable rel nofollow root view layout case 

@@ -1,0 +1,4 @@
+file reading storing hashmap 
+read txt file wanted store hasmap string list store values overwritten 
+
+line moved line loop calls removed reason overwritten allocate list put pair map category list contents list cleared rebuilt time line read contents added hand create list iteration category em em list 

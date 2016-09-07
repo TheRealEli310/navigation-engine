@@ -1,0 +1,4 @@
+ssh tunneling mysqldatabase jsch 
+search solutions google stackoverflow plenty topics helped code br create object gtevdatabaseconnection params constructor username password ssh login login order connect mysql database reach ssh br object created creates session jsch getsession connects sets portforwarding localhost br error occurs execute drivermanager getconnection error details missed tracker 
+
+found error firewall server blocking ssh tunneling created code works program connects ssh execute mysql command reads result proffessional nice resultset iterate result works hr things order connect telnet ul li don run program connection error expected li li run program pause order execute cmd cleared response li li type cmd prompt appears em em connection li ul 

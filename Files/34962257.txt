@@ -1,0 +1,4 @@
+remove support parnew serialold defnew cms future 
+hotspot tm bit server vm warning parnew young collector serial collector deprecated removed future release 
+
+reasons alternatives users outlined href http openjdk net jeps rel nofollow jep boils maintenance overhead rarely combinations young collectors href http openjdk net jeps rel nofollow jep future removal deprecated combinations 

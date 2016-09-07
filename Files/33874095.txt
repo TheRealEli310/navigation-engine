@@ -1,0 +1,4 @@
+spring boot service bean creation order 
+spring boot application beans annotated beans created service beans created 
+
+default spring dependencies services determine order creates services finer control services created create service doesnt dependencies href http docs spring io spring docs current javadoc api org springframework context smartlifecycle html rel nofollow smartlifecycle class define phases initializing destroying beans href http docs spring io spring docs build snapshot spring framework reference htmlsingle beans factory lifecycle processor rel nofollow startup shutdown callbacks spring framework documentation 

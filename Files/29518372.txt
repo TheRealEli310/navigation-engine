@@ -1,0 +1,4 @@
+memory hashset long 
+wanted storing large list unique numbers memory calculated approximate memory consumed bit pointer size em long em bytes space initially multiplied number entries memory reality memory bytes entry studied implementation short underlying implementation stores extra dummy object bytes entry em hashset em pointer bytes entry conceding extra bytes entry total memory entry bytes ran code checked memory bytes entry strong question short strong memory instance bit machine 
+
+size objects implementation detail guarantee bytes platform bytes boxed bytes wrong primitive takes bytes size box implementation dependent href http stackoverflow questions storage cost boxed primitive hotspot related answer overhead words padding means boxed byte bytes byte alignment padding mentioned hotspot specific answer apply objects push consumption 

@@ -1,0 +1,4 @@
+nested loop processing 
+task draw grid wheels random color lots spokes real wheel nested loops code reason drawing infinite grid dont understand outer loop run times 
+
+code strong reentrant strong called time start drawing position radius fields local draw method real guis draw paint method called screen updated guess draw called btw convention initial small letter fields local variables methods xpos ypos radius 

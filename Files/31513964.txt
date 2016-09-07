@@ -1,0 +1,4 @@
+minimize iconify javafx undecorated stage ubuntu working 
+created small library custom window stage applications constant uniform basically undecorated stage anchorpane customized em minimize em em maximize em em close em em resize em controls problem method performed em minimize em button pressed main os application frozen heres visual href http imgur eor6szt gif rel nofollow image uploaded imgur havent reps post images minimize method code works fine application iconified enlarged bug javafx compatibility problem gtk3 fix problem workaround officially fixed advance 
+
+issue fixed related left overs jiras fix released em release pushed forward depending fix related bugs em view details follow href https bugs openjdk net browse jdk rel nofollow linux stage seticonified true working transparent undecorated stage 

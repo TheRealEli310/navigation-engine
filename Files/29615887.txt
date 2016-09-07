@@ -1,0 +1,4 @@
+parsing csv column order spring batch 
+csv format columns rest categories listed extra properties spring batch dumb object represent csv problem href http spring io guides gs batch processing rel nofollow spring documentation dont parse csv spaces title spring batch annotate hibernate title csv column dumb object read columns append strings persist rest csv approach multiple commas data change 
+
+implement href http docs spring io spring batch trunk apidocs org springframework batch item file mapping fieldsetmapper html rel nofollow fieldsetmapper object set implementation work positions parse positions set bean suggestion based code url posted pojo object save list categories 

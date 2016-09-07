@@ -1,0 +1,4 @@
+local stateless ejbs remote 
+kind newbie ejbs ejb tier improve br tier consists ejb wich exposes operations ejb local ejbs manage operations entities hard time fully understand architecture tier ul li kind architrcture common li li local stateless ejb managed throught pool instances remote stateless ejbs li li work entityahome entitybhome remote ejbs li ul 
+
+strictly speaking spec stateless beans typically pooled section behaviour local beans vendor specific practice major vendors href http docs oracle cd e13222 wls docs81 ejb session html rel nofollow local remote interfaces interchangeable extra deployment restrictions deployed locally calls local interfaces pass reference semantics remote interfaces pass href http docs oracle cd e19159 abecg index html rel nofollow link stop code working remote interfaces naming confusing session bean entity ejb terminology home refers kind factory class dont intention aware switching add performance overhead link notes 

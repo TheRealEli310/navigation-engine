@@ -1,0 +1,4 @@
+close database connections automatically jersey cdi 
+inject object implements autoclosable jersey resource automatically closed framework end request br basically database connection provider open connections closed end request br annotation object closed br 
+
+href https jersey net apidocs jersey org glassfish jersey server closeableservice html rel nofollow blockquote service scope request add instances closed request scope specifically request processed response returned blockquote inject service create provider add provider inside closed end request register factory binder class method percent details works experiences em em called isnt found reliable days ill digging solve mystery method hr update youre differently complete test jersey test framework run junit test difference dependency run 

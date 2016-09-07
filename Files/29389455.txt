@@ -1,0 +1,4 @@
+add popupmenu items listview android 
+show popupmenu onlongclick android write adapter work itellij idea add appcompat supports popup menu apis older run application everythings long click item listview error wrong 
+
+suspect youre correct view calling popupmenu constructor change code admit view depending layout design suggested code accurate view parameter points row item listview post menu xml menu popup menu 

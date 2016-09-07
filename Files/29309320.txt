@@ -1,0 +1,4 @@
+issue sql query running jdbctemplate 
+strange issue sql query oracle pivot syntax run query sqldeveloper issues running jdbctemplate rowmapper give strange error invalid column sql statement row mapper dao calling class 
+
+figured pivot table columns dont map row mapper change row mapper solved issue forgot sql invalid column error refer resultset access column pivot query orders number column back results 

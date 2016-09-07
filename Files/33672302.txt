@@ -1,0 +1,4 @@
+lambda expressions java8 
+understand impression lamba expressions implement interface override methods replacing anonymous classes lambda expressions situation method called 
+
+line called reason ul li lambda expression formal parameter return result li li signature parameter single result compatible functional method href https docs oracle javase docs api util concurrent callable html call rel nofollow href https docs oracle javase docs api util concurrent callable html rel nofollow interface interface href https docs oracle javase docs api lang functionalinterface html rel nofollow annotation single abstract method li ul invoke create lambda compatible functional method takes parameter returns result conforms signature href https docs oracle javase docs api lang runnable html run rel nofollow prints ran 

@@ -1,0 +1,4 @@
+lang unsupportedoperationexception 
+explain fatal exception lang unsupportedoperationexception refreshing content normal case function download data creates recycler card line data customrecycleradapter recyclerviewholder import android view view import android widget textview 
+
+add returned method return immutable remains empty 

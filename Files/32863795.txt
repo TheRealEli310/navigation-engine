@@ -1,0 +1,4 @@
+avoid unnecessary object creation loop 
+creating json file approx creating objects expensive object creation minimized dont change code structure achieve changing code structure json classes package write file json object 
+
+fast json generation creating intermediate objects href http www docjar docs api org codehaus jettison json jsonwriter html rel nofollow store intermediate json text alternatively write directly file network socket keeping memory 

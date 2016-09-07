@@ -1,0 +1,4 @@
+javac reconigzed jenkins windows batch command 
+issue javac recognized compile file assuming special plugin required apache ant cd src javac helloworld helloworld 
+
+jenkins goto manage jenkins configure system scroll jdk installations click add jdk button recommend install automatically option install fresh copy give recognize project setting jdk8 update51 agree license project check jdk setting correct version windows batch command text box add echo path echo path echo home echo home javac version fails set path program filesjavajdk1 javac version print console output javac program filesjavajdk1 file javac exe 

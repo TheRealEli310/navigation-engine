@@ -1,0 +1,4 @@
+cxf codegen plugin generating code 
+attempting maven generate wsdl familiar maven doesnt surprise wrong running output errors classes relevant part pom pre class lang xml prettyprint override wsdl pre class lang xml prettyprint override 
+
+configuration forgot goal execution plugin invoked correct configuration pre class lang xml prettyprint override 

@@ -1,0 +1,4 @@
+issue connecting google api client 
+building chromecast application launch receiver static text unable interact play media problem timeout status code launching application notice receiver screen stops casting sender device doesnt detect thinks ongoing session problem code reference relevant log 
+
+made work environment ol li changed app id access default app id 4f8b3483 castvideos app create styled receiver li li mediainfo content type added define mediainfo setcontenttype video mp4 li li updated url content exists accessible mp4 media publicly server li ol launch app media playing clicking media route button 

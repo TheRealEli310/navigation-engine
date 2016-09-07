@@ -1,0 +1,4 @@
+index max array shot 
+list integer elements max index shot element max returning index fine sort array based sort order sorting 
+
+generally index ll stream indices task straight forward elegant solution incorporates boxing overhead 

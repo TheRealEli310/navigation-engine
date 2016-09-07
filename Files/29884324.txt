@@ -1,0 +1,4 @@
+geometry vividsolutions jts fails creating json 
+pals vividsolutionss library jts points polygons application convert geometry objects json application fails source json recieved client application throws exception ideas wrong advance 
+
+nice solution helps solve issue issue jackson serialize jts polygon point objects issue solved project jackson datatype jts show library sources github href https github bedatadriven jackson datatype jts rel nofollow https github bedatadriven jackson datatype jts run test point add dependency repository jackson datatype jts change source code works return point pojo solution spring framework repeat step previous section create class extending objectmapper class edit spring config xml servlet xml add strings objectmapper instance substituted custom object mapper realization works 

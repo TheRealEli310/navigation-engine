@@ -1,0 +1,4 @@
+nebula nattable change columns dynamically 
+nattable inside eclipse rcp application time open view table columns based datamodel represented pojo display short 
+
+change data provider including column accessor similar situation product found easiest dispose table recreate table data 

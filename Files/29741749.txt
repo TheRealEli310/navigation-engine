@@ -1,0 +1,4 @@
+start weka error 
+successfully installed weka connect ms sql server start weka error jar lib files listed jar files install run weka successfully comment content weka experiment databaseutils props file line starts jdbc idbdriver lines comment correct understanding warning error make connect weka ms sql databases 
+
+enable connectivity mssql weka href https andersspur wordpress connect weka sql server rel nofollow windows ol li create start script li li create databaseutils props file li ol startscript cp variable set full path jtds jar file jdbc driver mssql beginning databaseutils props file comments removed stored default location full path linked addded screenshot buttons click connection successful messages yellow triangle messages console window red icons connection unsuccessful img src http stack imgur mwtvj png alt enter image description connection urls documentation microsoft href https msdn microsoft en library ms378428 28v sql aspx rel nofollow 

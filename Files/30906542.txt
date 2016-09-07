@@ -1,0 +1,4 @@
+point2d angle method understood 
+thought id point2d class calculating angle betwen points creating utility method turned usable code results whats point point2d alternative javafx works expected calculate angle points 
+
+angle function returns angle vectors vector unit vector pointing left unit vector pointing angle degrees case vector angle result nan case vectors angle degrees angle calculate angle difference vectors respect horizontal axis subtract find angle horizontal unit vector 

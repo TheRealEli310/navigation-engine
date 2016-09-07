@@ -1,0 +1,4 @@
+spring annotated mbeans error instantiated 
+register mbeans spring annotation test class dispatcher servlet xml mbean register exception unable figure mbean register access registered mbean jconsole edit based comments posting web xml 
+
+garys answer resolve problem comment lines web xml turns contextloadlistener loads annotated beans assumed picked component scan dispatcher servlet xml 

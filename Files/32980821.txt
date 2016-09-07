@@ -1,0 +1,4 @@
+running job dsl plugin jdk8 groovy lang incompatibleclasschangeerror 
+job dsl plugin automate jenkins jobs creation maven configuration jdk8 amp groovy groovy eclipse compiler amp uber jar generated shade plugin run scripts added additional classpath process job dsl advanced settings target uber jar run tests locally works jenkins errors changing groovy versions older amp setting jdk amp resulted error fix issue 
+
+jenkins groovy job dsl plugin groovy update groovy pending href https issues jenkins ci org browse jenkins rel nofollow jenkins recommended groovy job dsl project groovy version officially supports href http www groovy lang org releasenotes groovy html groovy2 3releasenotes officialsupportforrunninggroovyonjdk8 rel nofollow release notes groovy recommended groovy project 

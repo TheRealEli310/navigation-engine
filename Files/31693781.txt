@@ -1,0 +1,4 @@
+convert string array map lamda expressions 
+functional converting string array pairs lambda syntax solution functional 
+
+modify solution collect arrays solution protection invalid input add filter case split string separator doesnt protect invalid inputs thrown 

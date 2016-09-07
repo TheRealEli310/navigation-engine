@@ -1,0 +1,4 @@
+implement real singleton scala 
+mixed scala project quartz jobs implemented scala classes classes sparkcontext instance implemented singleton calling sparkcontextloader jobs creates sparkcontext instance allowed scala object doesnt behave singleton 
+
+code overly complicated jobs threads access vals answer href http stackoverflow questions scala singleton object question jobs applications href http stackoverflow questions singleton jvm application instance tomcat instance doesnt share singleton 

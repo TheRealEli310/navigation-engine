@@ -1,0 +1,4 @@
+mkdirs function multithreaded environment 
+creating tree files folder rewriting multithreading weak point creating folders depth write file check path exists mkdirs create missing question threads path lets folder existing check path doesnt exist create fail faster manage ol li thinking removing exists condition leave fail alreadyexists exception catch li li create directory tree li li put directory creation critical section make sequential spring hot neccessary wont slow process li ol overthinking theoretically situation happen regular thread spring taskexecutor handles critical sections shared variable path wont recognize suggestions 
+
+method create directory parents dont exist em ergo em point calling existence checked calling wasting time essentially atomic operation point return isnt necessarily failure directories path existed basically premiss question false 

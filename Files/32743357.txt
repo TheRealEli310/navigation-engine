@@ -1,0 +1,4 @@
+sslsocket reuse session port 
+org apache commons net ftp ftpsclient download files external ftp server server managed configured option em require ssl reuse em enabled means understand session command data connection command connection port data port selected range ports successful connection server yo list directory connection closed due restriction internally client sslsockets reuse sslsession ip ports client supports ssl session reuse advance 
+
+ssl sessions arent bound specific ports jsse supports session resumption work box evidence isnt 

@@ -1,0 +1,4 @@
+program collections sort fail lists size 
+program throws exception understand problem href http stackoverflow questions unable replicate comparison method violates general contract unable replicate quot comparison method violates general contract quot dont understand fails size explain 
+
+depends implementation href http grepcode file repository grepcode root jdk openjdk b132 util timsort source openjdk size array checked min merge equal avoids call throw exception blockquote href http grepcode file repository grepcode root jdk openjdk b132 util timsort jdk jdk openjdk 7u40 b43 b132 b147 b132 util timsort blockquote 

@@ -1,0 +1,4 @@
+caching nested cacheable operation springcache 
+task make springcache services reduce number db lookups testing implementation noticed cacheable operations invoked multiple times log statements investigations revealed cacheable operation called cachable method nested operation cached invocation nested operation leads lookup simple unit test describing problem enlisted actual work methods unimportant test case caching tested understand reason result nested operation cached wondering configuration havent figured enable caching return values nested cacheable operations refactoring providing return nested operation argument outer operation work involve change number operations unit test configuration workaround preferable concrete case 
+
+problem accessing directly prevents proxies handles caching mechanims additionally add annotation caching test test demonstrates properly proxies created spring nested cache pattern works expected 

@@ -1,0 +1,4 @@
+application json resolved field 
+problem producing json application tutorial href https www youtube watch f201an5ueg0 rel nofollow consuming restful web service angularjs created dynamic web project restful server added libraries ul li asm jar li li jackson core asl jar li li jackson jaxrs jar li li jackson mapper asl jar li li jackson xc jar li li jersey bundle jar li li jersey bundle jar li li jersey client jar li li jersey core jar li li jersey json jar li li jersey media json jettison jar li li jersey server jar li li jersey servlet jar li li jettison jar li li jsr311 api jar li ul service error blockquote application json resolved field blockquote question jersey media json jettison jar added sign maven project tutorial didnt maven 
+
+remove add 

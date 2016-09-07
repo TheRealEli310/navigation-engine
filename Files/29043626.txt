@@ -1,0 +1,4 @@
+embedded jetty defining realm jetty xml 
+embedded jetty application dont external xml file jetty xml implement security layer add embedded jetty jetty xml ill realm properties external file href https wiki eclipse org jetty tutorial embedding jetty rel nofollow embedded jetty href https wiki eclipse org jetty tutorial realms rel nofollow jetty realms 
+
+href http docs codehaus org display jetty configure security embedded jetty rel nofollow jetty documentation 

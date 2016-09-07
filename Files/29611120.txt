@@ -1,0 +1,4 @@
+actual block cipher key size ssl connection code 
+client established ssl tls session protocol cipher ciphers keys size aes cbc strong actual key size negotiated connection strong found code apache codebase acceptable workaround 
+
+simply parse key size connection string des ede count parity bits default key size directly symmetric algorithm apache acceptable youll manually insert default key sizes ciphers idea instantiating object acceptable key sizes overkill abstraction automation nice wrong semi hard coded table 

@@ -1,0 +1,4 @@
+interfaces list array type 
+smart guys research topic written find read weeks ago question interface collection type arrays lists functionality give abstract clear code remember types objects share interface interface create list array store object types happy read sparetime find information advance edit fast answer realskeptic 
+
+youre thinking generics version lets interface called myinterface number classes implement interface myclassone myclasstwo create collection list accept class implements myinterface add list produce compilation error objects returned list myinterfaces wont immediately myclassone myclasstwo similar story arrays myinterface implementing class myinterface instances 

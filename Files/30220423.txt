@@ -1,0 +1,4 @@
+problems increasing integer android studio 
+making android studio app screen loop digits user clicks stops loop number code written relevant xml section code doesnt output onscreen variations code display number displays digit makes worked numbers quickly stops looping indefinitely point wrong learning apologies simple query work make clickable put onclicklistener loop 
+
+displays looped numbers quickly couldnt changing wrong pauses changing numbers easy ugly fix adding method recommended android draws receives events main thread block thread milliseconds make thread unable accept events makes app freeze fix freezing update post message main thread update separation wont loop posting messages main thread executes messages thread created heres rough call button clicked rest handled automatically 

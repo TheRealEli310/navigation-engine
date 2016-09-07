@@ -1,0 +1,4 @@
+javax persistence transactionrequiredexception update delete query 
+working simple application records users database displayed primefaces datatable user edit delete records jsf file save update action methods calling bean methods dao layer press edit link delete button error appears problem 
+
+pleased solves problem 

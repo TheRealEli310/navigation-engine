@@ -1,0 +1,4 @@
+android retrofit error response gson error 
+setup api make calls retrofit retrofit response stacktrace triggers onfailure api inside mainactivity class fix stacktrace href http pastebin adxhxsfp rel nofollow http pastebin adxhxsfp source code href https github axiom1999 iron banner companion tree master app src main axiom aapp ironbannercompanion rel nofollow https github axiom1999 iron banner companion tree master app src main axiom aapp ironbannercompanion gradle 
+
+response server add logginginterceptor increase verbosity responses href https github square okhttp tree master okhttp logging interceptor rel nofollow https github square okhttp tree master okhttp logging interceptor read json format api giving illegalstateexception gson converter parse object starting string search column api response pojos handle request create href http www jsonschema2pojo org rel nofollow http www jsonschema2pojo org 

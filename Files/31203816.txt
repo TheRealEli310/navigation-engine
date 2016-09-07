@@ -1,0 +1,4 @@
+jenkins inject environment variable 
+jenkins job couple actions reside pre step build executing shell script jenkins plugin envinject inject environment variables maven build unit tests inside unit tests inside shell script similar building jenkins outputs ip variable inside code unit test full print ip enlisted perform special actions maven pass variable code wrong pretty stuck point onward inject pre step code 
+
+solution create build free style software project ol li jenkins item build free style software project li li add 1st step execute shell build echo pairs properties file li li add 2nd step inject environment variables properties file defined step li li add 3rd step invoke top level maven targets li ol custom environment variables accessible defined step found inject environment variables shell img src http stack imgur a0up7 png alt explained 

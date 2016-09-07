@@ -1,0 +1,4 @@
+jbuttons cardlayout 
+attempting nice ui fun learned cardlayout works issue jbuttons showing correct card cardlayout itemlisteners actionlisteners change cardlayout code notice matter button card layout label instructorviewcard view studentviewcard login1 button missing answer 
+
+youve unique card identifiers dept staff instructor student options basically means view elements added cards managed internally 

@@ -1,0 +1,4 @@
+prevent eclipse formatter adding whitespace annotations annotations 
+format code eclipse adds whitespace closing parenthesis annotation annotation prevent removing whitespaces formatter config change 
+
+finally found workaround add braces annotations 

@@ -1,0 +1,4 @@
+create singleton class enum 
+create singleton class solution java5 versions convert class singleton class simplified class searched answers net found code class variables methods implement provide methods variables appreciated dont debate singleton evil anti pattern curious create singleton 
+
+differences class enum big changed line code added instance mind singeltons enum instances static things hinder run code times vm creating instance main class pass application enums special features ul li class li li predefined methods li li constructors package private private li ul 

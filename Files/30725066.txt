@@ -1,0 +1,4 @@
+schedule job run multiple time intervals 
+weve simple requirement download files end point servers scheduling file downloads happen time day customizable gui weve spring scheduling amp working single job download single server extend operation downloading files server amp time operation file downloading time running end point server location download change task basically parameterizing attributes amp reuse job download files achieve spring scheduling 
+
+blockquote schedule timertask task long delay long period method schedule task repeated fixed delay execution beginning delay blockquote timertask call download logic application starts code make call scheduler method scheduletaskofdownload 

@@ -1,0 +1,4 @@
+spring web mvc request body http delete anymore 
+question developers spring web mvc nutshell previously send request body http delete message anymore detail send exception request body removed http post http delete works fine previously worked fine em previously em dependencies complicated helps post anymore 
+
+problem zuul zuul works spring 

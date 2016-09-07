@@ -1,0 +1,4 @@
+process start unable find javac path 
+compile console application code run set full path found end environment variable references strong type command prompt manually works fine strong full path idea strong edit strong href http stackoverflow questions sharp process start unable find javac path noredirect comment47044202 alexei levenkov suggestion found differently current process printing results excluding path 
+
+reason path launch correspondingly application desktop shortcut start menu default path launch command prompt additional cmd configuration file adds paths fixes ul li update system wide path variable include javac path li li launch devenv exe command prompt correct path variable li li launch program command prompt correct path variable li ul 

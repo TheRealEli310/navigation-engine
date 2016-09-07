@@ -1,0 +1,4 @@
+ibatis resultmap properties pojo variables 
+clarification j2ee project studying codes experience ibatis noob question searched days answers pojo class db table mapping question noticed declaration id title variables underscore front instances underscore title resultmap underscore curiuos mapping doesnt match guidance 
+
+blockquote href http stackoverflow questions difference ibatis mybatis mybatis fork ibatis blockquote simple cases results build result map mix strategies lets deeper works results mybatis property em ignoring case em means column named property named found named em uppercase letters amp underscores words em follow em camel case naming convention em enable auto mapping set setting auto mapping works specific result map result map columns present resultset manual mapping auto mapped manual mappings processed sample columns auto mapping levels fyip refer href https mybatis github io mybatis sqlmap xml html auto mapping rel nofollow auto mapping works 

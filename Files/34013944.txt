@@ -1,0 +1,4 @@
+sqlite database inserting data android 
+follow instructions link href http www androiddesignpatterns correctly managing sqlite database html rel nofollow http www androiddesignpatterns correctly managing sqlite database html approach access database activities data inserted receiving couple errors main class insert data databasehelper logcat put notes apparent errors code time sqlite pretty lost appreciated 
+
+change database schema increase version number implement upgrade case supports case user downloads update app database schema date app isnt released making change schema strong strong wrote simply clearing app data uninstalling reinstalling effect database created anew execute create sql 

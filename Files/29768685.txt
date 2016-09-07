@@ -1,0 +1,4 @@
+populate util properties camel property placeholder 
+started learning osgi camel working services implemented bundle configured run servicemix osgi blueprint located inside bundle externalize changed blueprint configuration works perfectly fine problem facing property file multiple locations util properties loaded simple file static code block util file properties loaded inside camel context code camel code load property files located servicemix classpath camel context code strong minimal code strong current implementation 
+
+discourage static access property file osgi environment create osgi service expose validation method properties getter setter osgi bundle access property referenced lot deadlocks bundles usage static method locks osgi service work problem refreshing deploying bundles assume access property file osgi bundle external code form osgi context access property file osgi context suggest create rest web service mentioned interface implementation 

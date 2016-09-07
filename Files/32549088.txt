@@ -1,0 +1,4 @@
+spring initialize field autowired field 
+guess resolve issue service dependencies bean field initialize entity field method approach good practice mix constructor based field based dependency injection dont access spring configuration files enable suggestion 
+
+good practice combine constructor injection field injection fact usage field injection considered bad practice google constructor field injection recommend constructor injection btw1 fields btw2 work box additional configuration btw3 retrieving database constructor considered bad practice 

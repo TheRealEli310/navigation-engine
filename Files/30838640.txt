@@ -1,0 +1,4 @@
+adding subtracting numbers string 
+program takes string adds integers set delimiter surrounded amount white space works fine work negative integers instance input output doesnt subtracts total delimiters skipped instance correct compiler skipped set delimiter attempt output 
+
+put inside character class 

@@ -1,0 +1,4 @@
+tostring method circular array queue 
+create circular array queue user wrap array enqueue dequeue methods checked teacher trouble queue print correctly client class changed tostring method user jyr suggested doesnt print properly mistake implementing client class 
+
+overcomplicating things start move wrap move reach end enter loop verify queue empty prevent errors turns empty simply return brackets code approach printing brackets commas 

@@ -1,0 +1,4 @@
+bufferedwriter closed throws exception 
+made method write log external storage android works fine method throws exception exception comment close bufferedwriter method works fine havent exception code 
+
+closing underlying streams writers closed calls redundant called point closed leads problem calling closed calling flush stream writer closed exception youre suggest dont close manually close output chain 

@@ -1,0 +1,4 @@
+threadpool parallelisation matrix multiplication 
+parallel matrix multiplication achieved parallelization calculating cell matrix separate thread hope correctly question thread pool creating threads unfamiliar suggested great difference time takes calculate sequential version program compared 
+
+balance scheduling overhead operation duration number cores start size thread pool number cores minimize scheduling overhead slice operation independent tasks ideally equal execution time processors generally smaller operation slice scheduling overhead square tasks excessive overhead create submit times multi runnables work 

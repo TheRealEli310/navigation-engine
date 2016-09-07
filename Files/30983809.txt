@@ -1,0 +1,4 @@
+jersey responsebuilder filename encoding 
+javax ws rs core response responsebuilder set filename polish german french national characters file response client file downloaded bty txt fix edit application works properly utf json content polish characters http headers doesnt 
+
+found solution href https tools ietf org html rfc6266 rel nofollow rfc ascii characters header url encoded values special grammar case 

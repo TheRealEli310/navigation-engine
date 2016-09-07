@@ -1,0 +1,4 @@
+input array find number pairs values equal 
+make nlogn algorithm determines number pairs values input array equal thinking storing array variable continue comparing current previous values match counter confused fact running time nlogn wondering kind method problem convenient pseudo code 
+
+sort array compare adjacent values option youll complexity option track visited elements temporary result counter pairs methods insertion removal em average em worst case important worst case select option select sorting algorithm sorting algorithms worst case complexity 

@@ -1,0 +1,4 @@
+springboot health check 
+spring boot health make time add log show status access application url added pom xml edit add descriptive error mongo add mongo db details application properties file question service mongodb add case make health mongo details 
+
+remove dependency mongo disable health indicator mongodb add property 

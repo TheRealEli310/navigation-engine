@@ -1,0 +1,4 @@
+concatenate bytes 
+integer called takes store bytes byte array called figure represent concatenation arrays bytes ol li breaking bytes concatenated cast produces li li concatenating broken bytes li ol 
+
+covered high level bytebuffer order left default big endian ol li bytebuffer wraps original byte array bytebuffer effect byte array li li sequential writing reading positioning seek overloaded methods positioning li li writes byte array modifying bytes short li li reads short byte array put int li ol hr strong em explanation em strong byte signed integral number meant order endian significant byte big endian 

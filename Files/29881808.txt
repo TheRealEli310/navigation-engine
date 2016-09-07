@@ -1,0 +1,4 @@
+rotate line based number degrees 
+line drawn graphics object rotate line amount degrees based mouse dragged number degrees rotate rotate line based 
+
+create href http docs oracle javase docs api awt geom line2d html rel nofollow object original line href http docs oracle javase docs api awt geom affinetransform html getrotateinstance double double double rel nofollow obtain rotation angle point create rotated object paint painting code roughly 

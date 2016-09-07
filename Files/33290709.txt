@@ -1,0 +1,4 @@
+line token based processing 
+writing program read data files sports statistics line information game basketball line symbol means teams playing home count lines output user number games team played home file games played home team output printing fix heres relevant code 
+
+line variable lines set line loop edit code problem line checked initialize line set null check nextline 

@@ -1,0 +1,4 @@
+aws swf activity returns promise ready 
+unusual issue debugging problems ol li aws swf console shows activity returned valid response flow framework marks promise ready code activities nexttask scheduled execution li li time activities nexttask scheduled execution result empty list li ol workflow code validationerror lombok 
+
+validationerror missing default constructor args constructor changed code passing objects workflow activities serialized deserialized swf requires dataconverter default dataconverter jsondataconverter underpinned jackon jackson requires arg constructor default lomboks provide args constructor jackson wasnt deserialize result activity explains empty list worked expected empty list validationerror didnt work expected turns jsondataconverter swf throws dataconverterexception encounters issue swf internals exception swallowed debugging difficult failure occurs jsondataconverter logged adding arg constructor resolves issue 

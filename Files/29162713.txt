@@ -1,0 +1,4 @@
+collections unmodifiablemap performance critical 
+thousand entries expose modified class wrote method called frequently questions br performance issue br method unmodifiablemap iterating map perform activity constant complexity 
+
+returned href http docs oracle javase docs api util collections html unmodifiablemap 28java util map rel nofollow collections unmodifiablemap map thin proxy real underlying map methods disabled reason expect copy underlying map blockquote returns unmodifiable strong view strong map blockquote remember unmodifiable map strong view strong underlying map underlying map reflected unmodifiable complexity question href http stackoverflow sergey pauk covers nicely 

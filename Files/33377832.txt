@@ -1,0 +1,4 @@
+process observable background thread 
+em rxandroid em stream operations real case fetching list server em retrofit em schedulers work background thread final emission android ui main thread works network call realized operators network call background thread called main thread make operations executed background thread 
+
+strong tl dr strong move hr designate thread em begin em operating subsequent calls write em em executed main thread br place actions em em executed scheduler executed main thread move happen thread main thread hr multiple times case fetching occur thread filtering computation thread main thread checkout href http reactivex io documentation operators subscribeon html rel nofollow reactivex subscribeon operator official documentation 

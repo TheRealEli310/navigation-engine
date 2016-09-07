@@ -1,0 +1,4 @@
+populate arraylist reach max number items streams 
+studying streams populate arraylist messages date date arraylist maximum items pre class lang prettyprint override error line blockquote local variable msgcount defined enclosing scope final effectively final blockquote suspect external variables modified lambda expression accomplished streams filters 
+
+href https docs oracle javase docs api util stream stream html limit long limit number elements changed couple things initial code ul li replaced href https docs oracle javase docs api util calendar html getinstance li li directly collect elements list href https docs oracle javase docs api util stream collectors html tolist li li cleaned exception handling original exception saved making writing stacktrace stderr unnecessary li ul 

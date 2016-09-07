@@ -1,0 +1,4 @@
+jpa attribute converter convert enum insert int 
+spring data jpa hibernate provider persist enums varchar enum tostring enum class converter entity config href https gist github anonymous 480ef7a58cdcc50e7481 rel nofollow https gist github anonymous 480ef7a58cdcc50e7481 app properties href https gist github anonymous 685eaca98fcba9c33872 rel nofollow https gist github anonymous 685eaca98fcba9c33872 finally test method href https gist github anonymous 8bb60fee39a201558e19 rel nofollow https gist github anonymous 8bb60fee39a201558e19 convert jpa2 feature enumerated 
+
+put annotation getter works call convert convert enums strings visversa pulling database problem happened added manytoone class attribute weired problem column added table entity annotated getter thing github repo infos href https github zirconias rfid rewrite rel nofollow https github zirconias rfid rewrite 

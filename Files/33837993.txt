@@ -1,0 +1,4 @@
+spring boot internationalization messages properties 
+simply add version number application thymeleaf fragment spring boot file named strong resources messages properties strong defined thymeleaf view fragment displaying strong application version en strong files named strong messages en properties strong strong messages en properties strong classpath contents resolve problem spent hours incredibly trivial strong application strong strong webconfig strong strong thymeleafconfig strong buy virtual round shots whomever resolve issue 
+
+guess add templateengine method design perspective suggest autoconfiguration thymeleaf removing exclude stuff spring boot automatically 

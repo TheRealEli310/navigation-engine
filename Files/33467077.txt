@@ -1,0 +1,4 @@
+overloading varargs arrays choosing method 
+overloaded methods question outputs br implicitly cast 
+
+basically compiler deciding call specific method call call run time jvm delegates call method argument strong method param strong varags specific call method integer object hr statement call varags type param object object compiler call specific method change method signature removing varags notice call specific method call precise href https docs oracle javase specs jls se8 html jls html jls rel nofollow jls subtyping array types ul li reference types iff li li object object li ul means call integer made method integer object call integer made object integer href https docs oracle javase specs jls se8 html jls html jls rel nofollow choosing specific method 

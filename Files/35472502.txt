@@ -1,0 +1,4 @@
+kafka connect implementation errors 
+running tutorial href http kafka apache org documentation html introduction rel nofollow http kafka apache org documentation html introduction step kafka connect import export data attempt start connectors errors portion tutorial blockquote start connectors running standalone mode means run single local dedicated process provide configuration files parameters configuration kafka connect process common configuration kafka brokers connect serialization format data remaining configuration files connector create files include unique connector connector class instantiate configuration required connector blockquote spent time solution unable find appreciated 
+
+reason error server created config server properties running assuming lead topic messages flushed offsets committed started kafka server server propertes config server properties issue resolved 

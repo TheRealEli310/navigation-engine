@@ -1,0 +1,4 @@
+graphics draw shape jbutton 
+making minimally small paint application class make buttons user select shapes buttons supposed put image shape button lets user draw line image line button draws rectangle rectangle program external image source current button code 
+
+ol li create bufferedimage desired size li li graphics context calling graphics2d object li li id set renderinghints graphics2d object antialiasing method smooth jaggies li li draw shape object li li dispose graphics object li li create imageicon image constructor li li set buttons icon icon li li call button li ol hr 

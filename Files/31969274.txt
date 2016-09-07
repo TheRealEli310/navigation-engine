@@ -1,0 +1,4 @@
+apache mq jms message selector 
+fetch messages queue property problem match jms header property strong process strong strong processname strong message process upper lowercase processname uppercase strong strong equalsignorecase stringjmscriteriabuilder process equalignorecase processname method ijmsselectorcriteriabuilder interface code 
+
+jms specification href https docs oracle javaee api javax jms message html rel nofollow stipulates selectors case sensitive blockquote strings equal sequence characters blockquote solutions include ul li pre processing messages normalize case li li message broker li li browse evaluate code select li li program putting message normalize case li ul good receiver side solution doesnt involve parsing message 

@@ -1,0 +1,4 @@
+converting deeply nested json object vice versa 
+jaxb json conversion object problem facing leads create huge number classes serves purpose acting place holder json tags json deserialize json object classes create total classes mimic json role classes place holders json tags easy 
+
+implement googles gson library manner shown sample class modify strong class proposalaggregation strong strong test main class strong modified names verify conversion correct heres output 

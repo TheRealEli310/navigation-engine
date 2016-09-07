@@ -1,0 +1,4 @@
+intellij enable jpaql validation persistence xml 
+configured jpa hibernate spring config file property intellij idea understand entities jpaql queries marked red message auto completion work blockquote resolve symbol myentityname blockquote configure intellij scans package jpa 
+
+turns properly configured spring intellij project adding spring facet module mapping annotated classes intellij perfectly recognizes entities jpaql queries 

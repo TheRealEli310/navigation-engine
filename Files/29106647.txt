@@ -1,0 +1,4 @@
+convert comma separated arraylist string 
+string values heres code comma separated arraylist comma separated values distinct values 
+
+problem arraylist wont automatically split comma add arraylist single entry added youll split split method returns array bear mind argument split method regular expression wont make difference case gotcha situations 

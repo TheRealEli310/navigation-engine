@@ -1,0 +1,4 @@
+javafx setting background color text controls 
+textflow text items show styled text find set simple background color href https docs oracle javafx api javafx scene text text html rel nofollow text items set fill color font method css property sets background color 
+
+based href http stackoverflow solution quick implementation method provide background coloring nodes css ability set series paint values separated href https docs oracle javase javafx api javafx scene doc files cssref html region rel nofollow commas items insets lead img src http stack imgur afv2t png alt flow1 resizing scene img src http stack imgur xcbc5 png alt flow2 strong edit strong based op request layout nodes spanned lines solution longer valid bounding box text node overlap workaround split nodes single word nodes keeping background color original phrase wont splitting logic add list indices index maps text node index background color behaves img src http stack imgur jpdiw png alt flow3 

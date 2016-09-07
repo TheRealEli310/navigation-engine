@@ -1,0 +1,4 @@
+lang noclassdeffounderror android support v7 app appcompatdelegateimplv14 android studio 
+heres log read article suggesting solution href http stackoverflow questions lang noclassdeffounderror android support v7 app appcompatdelegateimplv14 lang noclassdeffounderror android support v7 app appcompatdelegateimplv14 suggests add build gradle file file original issue build gradle file case code heres code causing noclassdeffounderror heres additional error log hint solution heres xml file activity 
+
+conflict dependencies removing 

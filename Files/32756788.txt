@@ -1,0 +1,4 @@
+string split leave empty strings 
+string split method empty strings element return empty string documentation href http docs oracle javase docs api lang string html split 28java lang string 20int rel nofollow doesnt make sense delimiter empty strings 
+
+assuming delimiter em em fields end fix trimming string remove leading trailing delimiters hr youll em consecutive em delimiters dont exists delimiter deemed empty field reason dont trailing blank fields end limit case trailing leading empty fields removed rid empty fields middle delimiter greedily absorb consective characters single delimiter trick shown rid leading empty fields 

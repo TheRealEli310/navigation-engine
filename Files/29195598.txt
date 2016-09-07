@@ -1,0 +1,4 @@
+filtering class gradle 
+class src main company project config class knowing compiler strip statement evaluates false gradle filter change debug config compile time modifying original file thinking ol li create task updatedebug type copy filters debug copies config temporary location li li exclude sourcesets original config file include temporary li li make compilejava dependson updatedebug li ol 
+
+answer question class src main company project config gradle code admittedly hacky works efficient solution controlling development production builds single point entry build gradle 

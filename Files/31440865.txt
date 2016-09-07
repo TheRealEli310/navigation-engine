@@ -1,0 +1,4 @@
+spring boot release transaction 
+upgrading spring boot exception thrown attempting execute query caused javax persistence transactionrequiredexception executing update delete query transactional annotation spring boot works ideas 
+
+h1 tl dr h1 youre apparently jta 2s support broken spring data release boot release includes workaround spring frameworks h1 details h1 spring data release included spring boot version ships fix transaction bug existed effectively fixes transaction handling repositories controlled spring data switches support jta 2s apparently fixed href https jira spring io browse datacmns rel nofollow datacmns bei included fowler sr2 gosling rc1 created href https jira spring io browse spr rel nofollow ticket spring framework improve scenario library basically suffered picking jta support due copy class 

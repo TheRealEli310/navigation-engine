@@ -1,0 +1,4 @@
+swing jtextpane javafx 
+rich textarea javafx richtextfx component tomas mikula buggy thinking plug swing jtextpane swingnode class works text jtextpane jscrollpane works mouselistener jtextpane triggered correctly mouse events works cursor indicating current position click mouse change position select text key events simply dont arrive keylistener jtextpane javafx missing 
+
+workaround problem br br node swingnode br mousereleased mimic behavior standard fx nodes 

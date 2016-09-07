@@ -1,0 +1,4 @@
+listeners remove listeners 
+classes code similar fire listeners generic snippet works fine listener add remove listener modification inside list handle case modifying listeners invalid handle add remove listeners strong update strong solution 
+
+cases ol li dont modification listeners collection listeners execution br case li li modification listeners reflected current run br make modification impact current run trick read api pitfalls br solution copying list iterating li li reflect current run br tricky case loops iterators wont work noticed track br possbile solution store listeners list standard loop removing listeners set element place array null listeners added end run current execution br notice solution threadsafe maintainance remove elements list growing big li ol decide needed personal favourite modifications execution change current runs behaviour unexpected results 

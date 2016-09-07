@@ -1,0 +1,4 @@
+implementing marquee horizontalscrollview fatal exception main unable start activity lang nullpointerexception 
+attempting implement marquee horizontalscrollview error message stating line happening created declared horizontalscrollview xml attempted start scrolling process href http stackoverflow questions horizontalscrollview auto scroll end views added horizontalscrollview auto scroll end views added unsure fatal exception npe suggestions input appreciated h2 logcat h2 
+
+youre find view setting content view add line finding view 

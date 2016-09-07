@@ -1,0 +1,4 @@
+find largest negative array positive negative values 
+return greatest negative negative values return 
+
+problem steps ol li negative values list li li loop negative values update current result result result li ol code 

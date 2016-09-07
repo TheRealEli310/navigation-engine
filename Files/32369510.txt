@@ -1,0 +1,4 @@
+dozer copy reference working 
+entities created tool similar dtos fetch entity db mapping dozer entities dto dozer mapping file exception dozer solve 
+
+copy reference setters entities type means conversion transformation dozer simple copy object dont ability remove copy reference property work assuming dont complex types dozer transform automatically 

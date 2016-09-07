@@ -1,0 +1,4 @@
+balanced parenthesis count 
+write program tells parenthesis balanced string find correct loop count open closed parenthesis stored integer back dont count parenthesis edit clearer count parentheses blocked work args interpreter compare strings chars count edit pretty code tochararray method work class expected error 3rd line line wont args tochararray remember input string present code 
+
+scan string character character code takes account order parenthesis detected error strong edit strong hope helps 

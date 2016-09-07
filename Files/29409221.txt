@@ -1,0 +1,4 @@
+grid layout jbutton size changing setbounds 
+making frame gridlayout button size changing setbound code frame 
+
+gridlayout isnt choice buttons gridlayout space container setbounds wont choice youre achieve suggest reference layoutmanagers href http docs oracle javase tutorial uiswing layout index html rel nofollow reference layoutmanagers suggest alternative layoutmanagers gridbaglayout 

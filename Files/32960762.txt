@@ -1,0 +1,4 @@
+connecting spring boot web app postgresql server 
+making web application spring boot functionality memory database h2 connect postgresql server set computer time bunch stuff didnt work set back working heres uploadcontroller handles upload server puts memory database heres mediafile class entity object heres pom xml finally heres application properties setup works putting application properties adding dependency pom xml mixing matching things reading tutorials hours avail edit removed line added advice st phane nicoll application properties pom xml application properties app runs error submit post form uploadcontroller changed generationtype identity error 
+
+key part error hibernates table named support youve configured moment actual behaviour varies depending database youre couple options ol li create sequence postgres named li li change generation type li ol 

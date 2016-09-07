@@ -1,0 +1,4 @@
+spring data jpa query manytomany 
+entities tests user entity query finding tests 
+
+method signature href http docs spring io spring data jpa docs current reference html repositories query methods query property expressions rel nofollow property expression feature spring data jpa signature translated jpql perform exact match username 

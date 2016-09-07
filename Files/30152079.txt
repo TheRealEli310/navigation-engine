@@ -1,0 +1,4 @@
+text jtextfield jlabel jframe 
+making application netbeans text set doesnt work event method 
+
+forget jframes forget jtextfields jlabels question basic essence blockquote change state object based state blockquote nutshell easily solved giving class getter accessor method extracts desired information text jtextfield giving class setter mutator method objects inject desired information set text jlabel devil strong strong call methods depend havent told methods called event code actionlisteners actionperformed method 

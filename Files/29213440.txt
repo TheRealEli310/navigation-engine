@@ -1,0 +1,4 @@
+write small benchmark getbytes jmh 
+jmh benchmarking written small test public byte getbytes string charsetname method maven fails build code run mvn clean install build failure error message 
+
+version jmh update jmh sample unacceptable argument jmh call method generate answers provided user classes href http hg openjdk net code tools jmh file 7e1c1c40872d jmh samples src main org openjdk jmh samples jmhsample states rel nofollow jmhsample states href http hg openjdk net code tools jmh file 7e1c1c40872d jmh samples src main org openjdk jmh samples jmhsample defaultstate rel nofollow jmhsample defaultstate 

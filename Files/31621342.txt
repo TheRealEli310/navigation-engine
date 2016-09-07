@@ -1,0 +1,4 @@
+mock generic method mockito 
+mock error 
+
+subtype strong strong subtype method mockito returns object type due compiler inferring type parameter method argument passed declared type hand method argument type expects type argument mentioned earlier compiler error solve simplest change declaration type 

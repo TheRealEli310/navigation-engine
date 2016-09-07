@@ -1,0 +1,4 @@
+effects calling super paintcomponent custom jpanel 
+custom jpanel call super paintcomponent overridden paintcomponent method strong situations recommended strong occures start threads create jframe custom panel panels mix contents program create frames show panel content expected frame frame content earth panels painted manner side call super paint paint make custom panels side moving frame screen make panel draw expected text shown remain strong update strong test windows jre 
+
+call setopaque false custom panel draw graphics object entire component content problem code honoring opaque property href http docs oracle javase docs api javax swing jcomponent html paintcomponent awt graphics rel nofollow http docs oracle javase docs api javax swing jcomponent html paintcomponent awt graphics 

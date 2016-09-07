@@ -1,0 +1,4 @@
+synchronize string object 
+write code code compile plugin eclipse find bugs give follow error report blockquote constant strings interned shared classes loaded jvm locking code locking result strange hard diagnose blocking deadlock behavior blockquote means 
+
+string literals immutable shared vms string pool means time write string representing heap result string pool visible threads synchronizing string literal exposes unstructured synchronization stop deadlock hell train efficient sharing strings shouldnt string constructor signature string string good reason point synchronizing local variable visibility method threads finally synchronize youre effectively code excluding string issue dont 

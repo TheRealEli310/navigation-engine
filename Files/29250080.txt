@@ -1,0 +1,4 @@
+inject instance object request handler 
+lot spring restcontrollers methods annotated inject custom object methods create custom instance request write create mechanism call method request instance created injected method work parameter annotation injecting type create method creates instance request means create mechanism inject custom request objects request handling methods 
+
+spring mvc arguments resolver construct directly supports request handler method annotated em requestmapping em subject argument resolving framework scans handler arguments checks type instantiates object mechanism injecting request model number types declaring object handlers method signature write custom argument resolver custom types resolved method procedure simple step process ol li make pojo class case em myrequestfoo em li li make resolver li ol register resolver config adding type handler method argument 

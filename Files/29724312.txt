@@ -1,0 +1,4 @@
+property found type combining repositories spring data neo4j 
+combine repositories custom correctly nomenclature conventions href http docs spring io spring data neo4j docs release reference html programming model html rel nofollow creating repositories questions href http stackoverflow questions spring neo4j graphrepository handmade interface wrong strong exception message strong strong user entity strong strong repositories strong package strong services strong strong neo4j configuration strong 
+
+case stupid mistake change strong strong userre strong strong positoryimpl struggling custom repository combination bit confusing good examples online finally decided create sample project basic showing hope people future github href https github troig neo4jcustomrepository rel nofollow neo4jcustomrepository 

@@ -1,0 +1,4 @@
+method getrgb int int type bufferedimage applicable arguments 
+tiff image order detectors columns pixels previous created array index column nb pixel build code scanning image correct applying simple interpolation neighboring pixels find pixel reading informations array list bit problems method 
+
+problem missing parameter href http docs oracle javase docs api awt image bufferedimage html getrgb int 20int 20int 20int 20int 20int 20int rel nofollow 

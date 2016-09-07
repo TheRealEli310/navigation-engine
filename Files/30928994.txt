@@ -1,0 +1,4 @@
+populate concurrenthashmap multiple threads 
+concurrenthashmap populating multiple threads method called multiple threads populates thread wrong explanation skip updates understand 
+
+depends wont throw exceptions corrupt map skip updates ol li thread1 errormap error returns li li thread2 errormap error returns li li thread1 errormap put error li li thread2 errormap put error li ol similar race exists operation fix youll atomic operations update map easy older versions compare update loop code threads race end retrying update theyll end alternately guavas href http google github io guava releases api docs google common util concurrent atomiclongmap html rel nofollow atomiclongmap thread safety magic higher performance avoiding boxing operations things 

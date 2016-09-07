@@ -1,0 +1,4 @@
+converting bytes base number 
+query bytes int long conversion ul li bytes integer li li bytes long li ul store values wil bytes represents bytes memory 
+
+href https docs oracle javase docs api math biginteger html rel nofollow biginteger designed internally represents numbers variable length vector polynomial arbitrary sized integers manipulated efficiently long free memory languages similar constructs libraries instance href https gmplib org rel nofollow gmp library similar approach built twos complement converted internally efficient representation doubt href http developer classpath org doc math biginteger source html rel nofollow read source sample code compile amp run output expected 

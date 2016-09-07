@@ -1,0 +1,4 @@
+concurrent threads merge sort 
+code concurrent merge sort aplication time array split create thread half max number threads times continues mergesort algorithm href http stack imgur bcjgr png rel nofollow img src http stack imgur bcjgr png alt enter image description program rewrite code sort concurrently edit code creates threads 
+
+start thread processcommand method righthalf method threads line calling processcommand construct mergesorts object start thread dont forget call join thread ensure completes merge improve parallelism start thread half array processing left half array time move processcommand left block processcommand starts thread join call halves merge edit closer address comment volatile ensure threads threads executing 

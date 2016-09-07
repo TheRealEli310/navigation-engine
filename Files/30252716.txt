@@ -1,0 +1,4 @@
+simpledateformat parse generates wrong date date formats 
+code parse date simpledateformat pattern date passed parse date format simpledateformat case expecting kind excpetion format parsed successfully date values output strong tue mar ist strong pass format strong strong works fine guys prevent things code 
+
+basically strict set lenient false 

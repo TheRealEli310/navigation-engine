@@ -1,0 +1,4 @@
+composite persistence unit jpa versions 
+problem multiple persistence units project persistence units time normal hibernate mysql kundera cassandra problem unlike hibernate mysql kundera cassandra support jpa persistence xml looked didnt work system didnt kundera part file kundera support jpa strong org hibernate hibernateexception missing column time key keyspace ourtable strong error solved changing persistence header version header works charm good question hibernate mysql jpa compliant jpa specific features limited subset relevant jpa hibernate mysql jpa kundera cassandra jpa time application server wildfly wildfly 
+
+jpa api jar classpath problems jpa abstractmethoderror hibernate vice versa jpa kundera option datanucleus cassandra jpa rdbms fwiw persistence xml header problems adequate changed jpa 

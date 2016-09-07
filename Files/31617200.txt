@@ -1,0 +1,4 @@
+lang noclassdeffounderror org apache tomcat util descriptor tld tldparser 
+application worked fine days ago execute today error change tomcat didnt change error 
+
+edit pom file add jar file class org apache tomcat util descriptor tld tldparser pom file link href http www 1maven classname packaging pk org apache tomcat util descriptor tld amp cl tldparser rel nofollow add tldparser pom file 

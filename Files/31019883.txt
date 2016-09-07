@@ -1,0 +1,4 @@
+sonarqube magic numbers allowed constructor enums 
+rule squid s109 magic numbers shouldnt allowed numbers constructor enum code shouldnt violate rule opinion sonar plugin version 
+
+fixed version issue sonarsource href http jira sonarsource browse sonarjava rel nofollow http jira sonarsource browse sonarjava 

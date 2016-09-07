@@ -1,0 +1,4 @@
+append element existing xml vtd xml 
+current xml file code vtd xml parse append rootelement tag sunelement tag code insert single tag insert multiple rootelement tags allowed process append multiple tags xml approach dont dom parser order attributes guaranteed dom output 
+
+appending multiple rootelement single string inserting string existing xml single unit insertbeforeelement toelement vtdnav prevsibling move cursor back remember xmlmodifier doesnt honor document change instantly underlying vtd indexing full reflect content structure original document 

@@ -1,0 +1,4 @@
+override osgi config ootb component partially 
+override standart osgi cq component configuration default configuration fine change option dont override full configuration override single option minify set false 
+
+href https docs adobe docs en cq deploying configuring osgi html par text rel nofollow documentation fine create configuration node amp override change blockquote parameter configure create property node ul li strong strong parameter shown felix console shown brackets end field description create version activation li li strong type strong li li strong strong required li ul strong create properties parameters configure default values set cq strong em emphasis mine em blockquote make override values blank defaults leave default hasnt included config node aware choose default em component em default aem box osgi config node folder override careful case youd copy config node lost 

@@ -1,0 +1,3 @@
+convert wav file base64 encoded string 
+cordova read record audio file iphone creates wav file contents convert encoded string store data server pointers conversion 
+

@@ -1,0 +1,4 @@
+class getresource returning null resource path 
+wondering method returning setup project structure eclipse variable pass method returning set instructions href http stackoverflow questions class getresource eclipse question add folder projects em classpath em em run configurations em success wrong img src http stack imgur zu1vp png alt enter image description 
+
+short answer whats happening path starting class getresource method treated relative entry classpath screenshot shows directory classpath entry class getresource method treats path provide relative entry meaning relative directory method combines string argument directory results file resource exists location returns null 

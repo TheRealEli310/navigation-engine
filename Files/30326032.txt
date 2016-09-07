@@ -1,0 +1,4 @@
+sort swt table viewercomparator calls compare 
+swt table columns sortable user checked stackoverflow sites based click column header asc desc symbol shows data table removed compare method viewercomparator called code dienstleister simple pojo comparator class strong edit strong changed code link provided greg href http www vogella tutorials eclipsejfacetable article html rel nofollow http www vogella tutorials eclipsejfacetable article html exception exception thread main org eclipse core runtime assertionfailedexception assertion failed unknown column layout data dont call createcolumns method tostring output pojos table 
+
+comparator content provider label provider column label provider creating tableitems means tableviewer work creating accessing objects creates manages objects details usage href http www vogella tutorials eclipsejfacetable article html rel nofollow 

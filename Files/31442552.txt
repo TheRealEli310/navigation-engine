@@ -1,0 +1,4 @@
+issue libgdx animation 
+issue specific line set playmode animation href http libgdx badlogicgames nightlies docs api badlogic gdx graphics g2d animation playmode html rel nofollow api possibilities ul li loop li li loop pingpong li li loop random li li loop reversed li li normal li li reversed li ul stated doable api hr edit state href http www kilobolt day supporting iosandroid splashscreen menus tweening html rel nofollow guide gamedev libgdx guide year seek 
+
+href https github libgdx libgdx blob master gdx src badlogic gdx graphics g2d animation rel nofollow https github libgdx libgdx blob master gdx src badlogic gdx graphics g2d animation source code animation class enum called playmode edit imported 

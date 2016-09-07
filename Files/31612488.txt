@@ -1,0 +1,4 @@
+initialise jvm larger maximum heap size rjava 
+attempting make stanford nlp tools rjava package attempting create stanfordcorenlp object error blockquote error jnew stanford nlp pipeline stanfordcorenlp props lang outofmemoryerror heap space blockquote resolve attempted initialise jvm larger maximum heap size variations code maximum heap set 1gb jvm loads continue outofmemoryerror maximum heap size set gb stop responding set 4gb higher message blockquote error jinit parameters xms1g xmx4g force init true create virtual machine blockquote successfully initialise jvm rjava values larger 1gb 32bit versions v8 u51 v3 
+
+blockquote 32bit versions v8 u51 v3 blockquote problem switch 64bit versions 

@@ -1,0 +1,4 @@
+enable sslv3 apache httpclient 
+sslv3 disabled apache href https hc apache org rel nofollow httpclient version version href https hc apache org news html rel nofollow developers wrote blockquote users continue sslv3 explicitly enable support blockquote set supported protocols jvm level didnt work scala relevant problem didnt work connect hosts supporting sslv2hello sslv3 tlsv1 tlsv1 tlsv1 apache httpclient 
+
+httpclient system properties account default instruct httpclient builder manually configure connection socket factory custom protocol settings strong edit strong code snippet works fine site mentioned comment 

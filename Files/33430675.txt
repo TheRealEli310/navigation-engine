@@ -1,0 +1,4 @@
+connection pooling jetty oracle 
+implement concept server tutorial working deploy server giving unusual details class called defined run class error added folder eclipse stackoverflow threads error deploy server version integrated appreciated 
+
+ways ol li maven gradle project simply add commons pool dependency pom xml build gradle file recommended li li mentioned tools place correct jar web inf lib directory li li place jar jettyhome lib directory li ol make correct version commons pool current commons dbcp implementation 

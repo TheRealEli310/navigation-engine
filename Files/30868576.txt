@@ -1,0 +1,4 @@
+saving base64 decoded string zip file 
+save base64 decoded string zip file mentioned code base64 decoded string output running code rhel6 open zip error occurred opening file code windows path working fine zip saved correctly rhel6 code modifications 
+
+dont create string byte array write string running risk introducing encoding issues platform dependent write byte array directly file requires statement 

@@ -1,0 +1,4 @@
+setting custom font color xssfworkbook apache poi 
+trouble setting custom font color font stays black wrong 
+
+href https bz apache org bugzilla show bug cgi id rel nofollow bug apache poi switching black white put fix href http grepcode file repo1 maven org maven2 org apache poi poi ooxml org apache poi xssf usermodel xssfcolor rel nofollow xssfcolor xssfcolor correctrgb correct problem excel excel fixed apache poi wasnt updated deprecated itll close white 

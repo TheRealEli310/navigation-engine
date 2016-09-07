@@ -1,0 +1,4 @@
+error setting google analytics 
+setup google analytics app google tutorial href https developers google analytics devguides collection android v4 rel nofollow https developers google analytics devguides collection android v4 error put code create mainactivity strong analyticsapplication class strong import google android gms analytics googleanalytics import google android gms analytics tracker public class analyticsapplication extends application strong gradle project strong strong gradle module strong apply plugin google gms google services strong androidmaifest strong configuration file copied app directory leave code main activity app run shows analytics account greatly appreciated google tutorial happening put code main activity app crash 
+
+declare application class manifest file android analyticsapplication application tag analytics helper class call application class 

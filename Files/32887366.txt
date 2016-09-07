@@ -1,0 +1,4 @@
+javax ws rs client entity serializing objects json 
+kind serializer serialize deserialize objects custom serializer case serialization wrong object fields guava optional lt data type absent values returned lot 
+
+json serializer isnt jax rs depends configuration jersey jax rs href https jersey net documentation latest media html rel nofollow https jersey net documentation latest media html including ul li moxy li li api json processing json li li jackson li li jettison li ul solution guava fields href http blog joda org optional se html rel nofollow http blog joda org optional se html blockquote fear optional overused focus return type methods perform piece functionality dont field bean blockquote 

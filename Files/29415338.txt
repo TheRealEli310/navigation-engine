@@ -1,0 +1,4 @@
+spring autowire repository controller 
+spring simple webapp running spring data spring mvc controller repository webmvc context xml running maven jetty plugin error user entity 
+
+xml correct repository package org springbyexample web orm remove org springbyexample web beans controller remove getter setter required autowire enoguh magic 

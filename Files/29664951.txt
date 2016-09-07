@@ -1,0 +1,4 @@
+inventory read file fileinputstream 
+assignments semester create inventory program contained array item objects item id assigned add item modified description number items hand unit price save load files file stream save text file fine trouble started readfile method assignment stumped read text files fileinputstream item class inventory class user class instructor save read file methods inventory class invoke user class getter item id variable allowed setter fairly excuse rookie mistakes greatly appreciated looked book googled examples find relevant situation 
+
+read file fileinputstream simply methods scanner read file class perform file manipulations file class methods catch youve printwriter switch forget close file switching writing reading file 

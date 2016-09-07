@@ -1,0 +1,4 @@
+cancel request retofit2 rxandroid 
+retrofit rx android load apis follow section href http inthecheesefactory blog retrofit en rel nofollow site work fine dont cancel loading request observable object give idea 
+
+cancel rxjava observable execution unsubscribe rxjavacalladapter delegate cancel okhttp client simple smth check code href https github square retrofit blob master retrofit adapters rxjava src main retrofit2 rxjavacalladapterfactory concretely lines code 

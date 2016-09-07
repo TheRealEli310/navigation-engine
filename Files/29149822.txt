@@ -1,0 +1,4 @@
+update external jar android project 
+external jar adding android project jar consistently updating changing update jar dalvik vm magic number error dont understand supposed fix heres steps strong adding jar initially strong ol li copy jar folder project li li run project li ol jar picked installed happy strong updating jar strong ol li eclipse jar click delete li li copy jar folder li li receive error li ol strong troubleshooting strong ol li eclipse li li select project clean li li run error magic number li li project properties build path remove li ol private libraries arent added equates missing imports project nightmare suggestions 
+
+turns issue caused multiple jdks android defaulting jdk console jar jdk 

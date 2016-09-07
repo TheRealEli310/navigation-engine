@@ -1,0 +1,4 @@
+android studio recognize anonymous classes 
+write code netbeans testing lightmateconnection class compiles runs error worked netbeans figured moved android studio pretty code work created constructor android studio errors line class anonymous class derived connectionlistener declared abstract implement abstract method onconnect connectionlistener implementing methods netbeans catch errors override annotations method override method superclass android studio isnt interpreting code netbeans 
+
+problem ended related fact moved code android studio package changed sudden couldnt implement public methods explains methods overwritten error default visibility methods werent overwritten werent visible package code solution problem make methods connectionlistener public accessed package 

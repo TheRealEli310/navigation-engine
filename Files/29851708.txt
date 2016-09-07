@@ -1,0 +1,4 @@
+opencv template match 
+detect square marker image href http stackoverflow questions detect marker position 2d image detect marker position 2d image guy showed solution loop responsible find marker detect adapt code infinite loop code notice function minmaxloc arguments problem behaviour advance 
+
+cyriel strong forgot fill zeros maximum location strong infinite loop forgot explain insight problem comment lines code run experience similar problem strong cv scalar strong args strong fill strong existing max found region continue hope helps 

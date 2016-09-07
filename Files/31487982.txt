@@ -1,0 +1,4 @@
+maven properties aggregator pom 
+project structure aggregator pom project1 project defined modules add maven property accessed projects project structure case define property aggregator pom project1 pom xml project2 pom xml duplicate property poms update clarify project1 pom project parent poms aggregator pom set parent 
+
+set aggregator pom parent poms add pre class lang xml prettyprint override edit understand project1 project2 parent poms solution achieve store properties parent pom solution make inheritance chain project2parent pre class lang xml prettyprint override aggregator pre class lang xml prettyprint override project1 pre class lang xml prettyprint override project2 pre class lang xml prettyprint override 

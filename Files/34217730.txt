@@ -1,0 +1,4 @@
+spring test dbunit unable load dataset 
+write integration test spring boot application problems setup configuration exception thrown things ol li changing sampledata xml file li li notation li li classpath file li li additional file li ol sampledata xml directory test class guess missing stupid strong sampledata xml strong strong benutzerverwaltungsintegrationstest strong strong exampleapplicationcontext strong 
+
+maven directories files put files wont processed copied directory time tests run put files directory processed copied 

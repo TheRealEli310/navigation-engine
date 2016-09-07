@@ -1,0 +1,4 @@
+make resizable splitpane tab javafx preferably scenebuilder fxml 
+question basically caveat newbie gui design general javafx reproduce scenebuilder drag tabpane scene drag splitpane tabs anchorpane adjust drag size splitpane match size tab problem splitpane child tested grand child tab youll img src http stack imgur dd0vj png alt enter image description preview expand window size dragging splitpane wont resize img src http stack imgur m3unu png alt enter image description fxml scenebuilder process top post minor didnt 
+
+problem splitpane child anchorpane case anchorpane anchored specific ordinates child anchorpanes anchor strong strong scene builder assign anchorpane constraints ol li select child anchorpane li li move layout section hand side panel li li section called anchorpane constraints type section values save li ol img src http stack imgur zgeev png alt enter image description 

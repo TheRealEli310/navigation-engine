@@ -1,0 +1,4 @@
+skip tag related list xstream 
+convert class instance xml xstream works fine thing hope solve premise nested classes order focal point represented class expressed instance list objects simply formatter class call main xstream logic problem resulting xml unwanted tag orderlines presented orderlines tags annotation misunderstand newbie xstream mention simple resulting string dont preserve indentation 
+
+called implicit collection define ways annotation code 

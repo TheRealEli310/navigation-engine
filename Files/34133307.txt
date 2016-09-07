@@ -1,0 +1,4 @@
+properly handle file copy cut paste javafx 
+working program add possibility copy pasting cut pasting files create works program nicer system wide clipboard huge problem pasting dont files copied cut system explorer file locations javafx clipboard sample code simply copy files aka copy cut br luca 
+
+turns href https stackoverflow questions properly handle file copy cut paste javafx comment56014835 pointed fildor drag drop dragboard clipboard functionality 

@@ -1,0 +1,4 @@
+memory mapped binary search 
+find fastest searching 2gb binary file normal problems file memory mapped linux file system file question binary file search fixed byte string smaller files id buffer convert string regex file memory mapped large idea buffering wrong converting 2gb string wrongerer reading packages set scan file byte file locate instance byte string offer advice input id greatly 
+
+task abstractly linear search wont matter api perform search simplicity simply buffered inputstream implemented agnostic actual data source inherent limit preventing working files larger 2gb long chose reasonable buffer size read tiny reasonable performance close actual speed limit ssd scan longer actual case edit kiss lines code fine mighty inefficient great lengths improve performance em noteworthy em amount 

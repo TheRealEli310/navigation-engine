@@ -1,0 +1,4 @@
+synchonized dateformat jxls 
+object beans class write thread class method called multiple threads field doesnt situation provide thread date formatting creating object time 
+
+add fields ol li create time call li ol calling thread instance threadsafe assuming simpledateformat doesnt live long passed threads passed xslt transformer ol start li create handle multiple threads li ol ol start li option change code jodatime href http joda time sourceforge net apidocs org joda time format datetimeformat html rel nofollow datetimeformat class thread li ol 

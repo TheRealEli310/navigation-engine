@@ -1,0 +1,4 @@
+spring autowire property setter 
+difference anotate autowired property setter result reason strong update concise strong difference 
+
+annotation dont setter method beans constructor allocating creating object spring scan annotation inject object instances annotated setter xml config explicitly set properties annotate constructor setter method autowired annotation prefer give flexibility move spring wont 

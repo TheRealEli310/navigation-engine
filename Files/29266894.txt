@@ -1,0 +1,4 @@
+strange behavior string split method 
+method takes string parameter split string splitting prints length array array elements code strong case strong input strong abc strong output strong case ii strong input strong abc strong output strong em expecting output cases em strong reason implementation split method behaving give proper explanation 
+
+aspect behavior href http docs oracle javase docs api lang string html split lang string rel nofollow argument method surprising trailing nulls discarded returned array blockquote trailing empty strings included resulting array blockquote length case pass negative argument href http docs oracle javase docs api lang string html split lang string int rel nofollow argument method means length unrestricted trailing empty strings discarded 

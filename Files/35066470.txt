@@ -1,0 +1,4 @@
+javacv realm lang unsatisfiedlinkerror 
+recently error attempting start instance javacvs ffmpegframegrabber solutions problem exist worked trials discovered weirdly include realm project longer receive error part build gradle file include libraries thinking solution problem aware found mention internet library incompatibility behaviour occur edit post additional details greatly appreciated strong edit strong attempted apply fix href https realm io docs latest faq rel nofollow packaging options change effect stuck 
+
+coleagues solve issue adition steps question ul li copyed files em app src main jnilibs armeabi em em app src main jnilibs armeabi v7a em folders li li added ndk abifilters armeabi v7a em defaultconfig em part modules em build gradle em file li li added lintoptions abortonerror false em android em part modules em build gradle em file li ul provide clarifications 

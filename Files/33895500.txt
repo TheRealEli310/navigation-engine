@@ -1,0 +1,4 @@
+jcraft jsch jschexception channel opened opening channel jsch 
+connecting remote host jsch version occasionally run exception calling code session created call returns ms error ocurrs call hangs seconds throwing exception 
+
+exception message slightly misleading error ocurrs timeout waiting message server default timeout jsch version seconds numerous reasons error caused reverse dns lookups sshd openssh long time occasionally resolved disabling dns lookups sshd setting sshd config typically generally em gilles em writes href http unix stackexchange questions point sshd usedns option thread option increase timeout connecting channel accepts timeout argument milliseconds control server connecting 

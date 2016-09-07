@@ -1,0 +1,4 @@
+write mouselistener javafx 
+write game schoot object specific direction javafx panel mouse position turn line direction mouse 
+
+add mouse moved event filter line limited length youll proper calculations angle 

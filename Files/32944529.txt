@@ -1,0 +1,4 @@
+prepare cassandra accessor query 
+href https github datastax driver rel nofollow cassandra driver order created accessor method application call method multiple times receive warning log practice create cache 
+
+blockquote create accessor cache blockquote cache caches accessor instances internally successive calls manager instance cost hash map lookup avoid lookup cache accessor instances 

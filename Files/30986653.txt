@@ -1,0 +1,4 @@
+spring boot autowired jpa repository failing junit test 
+junit test failing error lang illegalargumentexception find field userrepository type null target clearsoft demo userresource 756b2d90 test class userresource service repository entity app class 
+
+exception line parameter method field field repository userrepository set test 

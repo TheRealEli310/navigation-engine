@@ -1,0 +1,4 @@
+generating uuid based id playframework 3x 
+good day guys create models dont default id auto generation playframework ebeans online options genericmodel class doesnt included version 3x order workaround fall short aim issue manually set id save object primary model related models onetomany relationship giving issues bind view model object error appreciated 
+
+good day guys finally fixed uuid class ships jdk creating models create routes file map record id br 

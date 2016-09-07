@@ -1,0 +1,4 @@
+modal window top modal window swing 
+problem main application window jframe fills screen br button clicked smaller window appears user input data user main window jump front interaction br solution open modal jdialog lets call dialog br button dialog clicked window dialog supposed pop act modal modal jdialog dialog dialog disappearing br making dialog jframe loose modal bit forcing dialog stay main windows button clickable br missing put modal swing window modal swing window edit minimal working version main class opening main window dialog dialog ps realised dialog hidden suspected simply parent window blocked modal dialog 
+
+mcve modality working advertised 

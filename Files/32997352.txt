@@ -1,0 +1,4 @@
+diference putting property application yml bootstrap yml spring boot 
+diference putting property application yml bootstrap yml spring boot logging config case application works diferent 
+
+asked guys thought share info strong bootstrap yml loaded application yml strong typically ul li spring cloud config server inside li li information li ul technically loaded parent spring applicationcontext parent applicationcontext loaded application yml 

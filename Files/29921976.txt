@@ -1,0 +1,4 @@
+howto change expired password jndi active directory admin user 
+change password user active directory jndi problem users password expired create immediately error means password expired blockquote javax naming authenticationexception ldap error code ldaperr dsid 0c0903a9 comment acceptsecuritycontext error data v1db1 blockquote ibm ldap special bind addresses issue find ad change expired password user admin account provide current password change 
+
+figured ways password ad expire ol li admin sets expired setting flag li li expiration date reached li ol case password changed trough ldap receive case change 

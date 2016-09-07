@@ -1,0 +1,4 @@
+unit test clob conversion string 
+simple method returns content retrieved database test mock properly guaranteeing return full content argument assuming size higher integer 
+
+dont test tested guys sun db provider test correctly apparently mocking clob test implement part jdbc test wrong implementation integration tests setup database fill data run clobutils check returns expected string setting good automated integration tests easy doable reasonable effort 

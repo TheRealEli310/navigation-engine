@@ -1,0 +1,4 @@
+hashset treeset large dataset 
+requirement store million accounts length data structure lookup purpose checking uniqueness initially planned store doubt speed lookup slow hash collisions eventually slower treemap binary search requirement data sorted 64g system 48g dedicated application question duplicate href http stackoverflow hashset treeset performance test question performance strong adding elements strong question performance strong checking existing duplicate values strong 
+
+store million records hashmap proper initialization parameters insertion started slowdown million records changing treemap gave constant insertion retrieval performance observation treemap give performance hashmap large input set smaller set hashmap give performance 

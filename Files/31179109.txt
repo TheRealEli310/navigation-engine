@@ -1,0 +1,4 @@
+org springframework boot springapplication resolved 
+run web service server standalone application spring boot release refereed tutorial provided href https spring io guides gs rest service rel nofollow spring site application unable locate org springframework boot springapplication class apis spring boot pom xml file find wrong 
+
+working strong mvn clean install strong started working initial showing spring boot release jar springapplication class belong project dependencies running command dependency added working fine 

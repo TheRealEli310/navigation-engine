@@ -1,0 +1,4 @@
+servlet filter forwarded request servlet servlet filter 
+application hit servlet directly servlet forward request page servlet filter url pattern forwarded request filter case coming expected behaviour understand 
+
+filter mapping invoked forward requests put web xml support servlet2 supported values dispatcher ul li strong request strong request directly client element absence elements li li strong forward strong request processed request dispatcher representing web component matching call element li li strong include strong request processed request dispatcher representing web component matching call element li li strong error strong request processed error page mechanism error handling error resource matching element li li strong async strong request processed async context dispatch mechanism asynchronous processing web component dispatch call element li ul 

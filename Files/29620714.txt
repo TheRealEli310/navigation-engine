@@ -1,0 +1,4 @@
+method local class class 
+code produces output explain detail happening declaration version instance created method 
+
+guess expected local class method invoked didnt happen youre scope local class accesses closer candidate scope class href http docs oracle javase specs jls se8 html jls html jls jls sect blockquote scope local class declaration immediately enclosed block rest immediately enclosing block including class declaration blockquote line method access local class appearing move class declaration youll expected output href http docs oracle javase specs jls se8 html jls html jls jls sect similar 

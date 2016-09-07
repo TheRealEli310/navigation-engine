@@ -1,0 +1,4 @@
+swapping min max int array 
+supposed make static method named swap scans array integers takes min max swaps max index min index index index array created user inputs supposed make static method swaps min max called swap finds min max stuck swap 
+
+store indices minimum maximum strong code strong strong output strong 

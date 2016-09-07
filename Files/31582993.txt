@@ -1,0 +1,4 @@
+add custom xml storage part word doc preferrably docx4j 
+populate word content control xml data docx4j version evaluating order invoice generation documents generate complicated good approach created content control word dev tools inject xml docx href https github plutext docx4j blob master src samples docx4j org docx4j samples contentcontrolsmergexml rel nofollow exception strong add customxmldatastoragepart docx4j doesnt exist word directly strong decided prepare templates word directly templates edited technical users dont burden extra tools 
+
+created content control word dev tools content control toolkit opendope word addins tools add custom xml part docx associate content controls xpath data bindings runtime invoke docx4j bind docx4j finds existing custom xml part replaces xml file provide runtime data 

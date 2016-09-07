@@ -1,0 +1,4 @@
+android making application wait executing task asynctask usage 
+define problem working android app reads simply nfc tag compares sqlite database stored device short successful tag code exists database screen reflect fails tag tag code exist database show accomplish make screen return initial state seconds error views displayed options unable thread sleep executing verifying asynctasks status finished luck code asynctask class post code needed code onpostexecute screen change anymore error success 
+
+tasks based time android case href http developer android reference android os handler html postdelayed lang runnable 20long rel nofollow handler postdelayed runnable long create execute handler strong problem approach strong stopped execution current thread couldnt updated success failure 

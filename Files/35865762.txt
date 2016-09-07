@@ -1,0 +1,4 @@
+noclassdeffounderror io netty util timer 
+wanted cassandra driver eclipse copied sample code practical cassandra faced error output eclipse sample code added external jars downloaded eclipse questions netty error figure wrong code lot 
+
+wrong netty version version driver view drivers dependencies href http central maven org maven2 datastax cassandra cassandra driver core cassandra driver core pom rel nofollow pom properties defined href http central maven org maven2 datastax cassandra cassandra driver parent cassandra driver parent pom rel nofollow parent pom 

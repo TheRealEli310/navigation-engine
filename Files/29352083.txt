@@ -1,0 +1,4 @@
+log4j logger filtering package owasp esapi 
+log4j configured xml configuration file appenders file email working properly send email errors generated internally esapi put logger xml file complete list loggers doesnt work receive emails errors generated esapi specifically org owasp esapi reference log4jlogger class org owasp esapi org owasp esapi reference org owasp esapi reference log4jlogger org fail work manner thing make stop sending mail esapi errors remove email appender ref root logger dont 
+
+turned esapi scheme producing category names rest application furiously debuggering esapi log4j code determined errors produced esapi category intrusionexception correct logger 

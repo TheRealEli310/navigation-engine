@@ -1,0 +1,4 @@
+floatbuffer opengl wrap allocate bufferutils createbuffer 
+datasource working buffer uploaded opengl works fine examples buffer creation work working working edit browsing api code found case working memaddress buf returns valid address cases returns additional infos href http stackoverflow questions floatbuffer direct error floatbuffer direct error 
+
+bufferutils returns direct buffer check directness wrap allocate methods isdirect method wrappers direct 

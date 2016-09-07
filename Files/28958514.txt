@@ -1,0 +1,4 @@
+javax net ssl sslhandshakeexception received fatal alert unknown ca 
+connect server ssl dual authentication added private key certificate strong keystore jks strong signed certificate server strong truststore jks strong files copied usr share tomcat7 socket factory code delivered provider connect endpoint server exception idea missed 
+
+alert back server server certificate youve send client certificate signed ca trusted server client certificates 

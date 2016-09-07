@@ -1,0 +1,4 @@
+play intellj resolving classes 
+starting play project issue intellij recognizing finding junit play test classes screenshot img src http stack imgur zxn7h png alt issue basically code intelligence isnt picking junit dependency test appears run fine run activator test questions code intelligence pick mark specific directories sources restarted intellij rebuilt sbt 
+
+answer href http stackoverflow http stackoverflow valid project import step blockquote ol start li click red annotation hit kbd alt kbd kbd enter kbd choose em add junit jar classpath em li ol blockquote 

@@ -1,0 +1,4 @@
+race condition avoided 
+notify wait examples understand synchronized block essentially defines critical section doesnt present race condition specifies synchronized block entered output website blockquote waiting complete total blockquote 
+
+guaranteed thread execute thread notification main thread starts wait addition thread return wait notified setting flag checking entering wait technically isnt good rewrite main thread wait calculation starts api documentation recommends synchronize threads jdk synchronizes threads implement thread join thread terminates sends notifyall joining receives call notify notifyall thread youve acquired lock joining return early side effect remove notify code works 

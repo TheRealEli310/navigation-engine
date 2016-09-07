@@ -1,0 +1,4 @@
+kotlin equivalent getclass kclass 
+resolve variables class kotlin aware nice similar syntax kclass variable functionality exist 
+
+easiest achieve kotlin convert obtained class kclass instance calling extension property plan support syntax expression future release 

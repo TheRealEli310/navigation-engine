@@ -1,0 +1,4 @@
+hibernate table parent child relation 
+parent child relationship single table lets simple understand implement practices build hibernate classes single table relationship feed nested json structure parse representation oracledb feed data end db deeper deeper traverse json structure build classes end save db parent instance hibernate mapped class lets feed time descend tree creates feed finds parent add list question manytoone onetomany approach looked inheritance strategy inheritancetype single table apply problem parents dynamic build parent class extend bottom line solve problems ol li easy save parent level li li data parent leaf li ol hibernate mapped classes appreciated 
+
+needed simply 

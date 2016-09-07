@@ -1,0 +1,4 @@
+gradle custom task jar 
+gradle project wondering prevent creating jar file time executed br custom task creating jar dependencies specific location heres custom task code create jar file file compiled files dependencies 
+
+task plugin control jar built set jar built declare true hard set false build jar include sourcesets custom task include compiled files jar explicitly calling compile time dependencies included jar ref href https docs gradle org current userguide plugin html rel nofollow gradle plugin 

@@ -1,0 +1,4 @@
+instance enum 
+good practices define instance enum benefit serialization free effective edition item explain bit means great href http stackoverflow questions approach enum singleton approach enum singleton advance lin 
+
+heres demonstration simple class based singleton enum based version write instances read back output showing class based singleton weve ended em em instances normal created deserialization instance enums serialization deserialization code preserve fixed set values nature write code class based singleton easier 

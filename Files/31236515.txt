@@ -1,0 +1,4 @@
+add link panel tabs shiny top level navigation bars 
+create links withing navbar shiny app found code href https gist github xiaodaigh rel nofollow gist programatically changing panel tabs shiny works great navigation panel doesnt work click sidebar panel foo1 link foo2 responds bar 
+
+solution 

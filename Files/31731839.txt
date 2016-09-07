@@ -1,0 +1,4 @@
+inserting user data jsp postgres database 
+created registered form user information jsp insert user data table userinfo postgre database submitting form adding data table errors output 
+
+blockquote comment comment dont points blockquote scriptlets bad practice work jsp code mind software development principles dry dont repeat srp single responsibility principle mixed views domain model thing ul li poor scalability li li poor maintenance li li spaghetti code li ul structure application adding layers controllers model ul li create access data abstract layer communication data dao repository li li create controller views li li jstl views avoid scriptlets li ul 

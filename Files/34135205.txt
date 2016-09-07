@@ -1,0 +1,4 @@
+message error spring boot rest application 
+created demo spring boot project implemented restful services shown invoke service postman tool url href http localhost api rel nofollow http localhost api request method error message spring boot application dont configure spring dispatcher servlet web xml find missing point 
+
+youre missing strong root package strong application includes scans package children packages controller 

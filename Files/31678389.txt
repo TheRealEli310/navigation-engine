@@ -1,0 +1,4 @@
+jasperreports excel export 
+managed export pdf report jasperreports export excel format xls output file program produces doesnt open excel corrupted totally empty open libreoffice jrxml code test program pdf successful export preview xls format ireport designer desired result guess problem lies code 
+
+figured caused problem bean list pdf report xls reason passing list fillreport create print object pdf beans removed list created jrbeancollection xls print object works fine 

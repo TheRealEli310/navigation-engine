@@ -1,0 +1,4 @@
+draw circular spiral drawarc 
+working programming exercise draw circular spiral drawarc method result similar img src http stack imgur sshs3 jpg alt enter image description working code result img src http stack imgur kgvsr jpg alt enter image description problem lies arguments drawarc method numbers arent dont making numbers circular manner appreciated 
+
+idea modifications inverse angle draw side spiral fixed point 

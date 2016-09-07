@@ -1,0 +1,4 @@
+spring mvc parameter binding 
+code works didnt custom converter annotation argument request filled correctly call code request pojo getters setters shorten argument code plenty methods arguments original method introducing request 
+
+request parameters mapped pojos happening case default additionally href http docs spring io spring docs current javadoc api org springframework web bind annotation modelattribute html rel nofollow modelattribute attribute created attribute views jsps access object annotation tells body request set form parameters format json 

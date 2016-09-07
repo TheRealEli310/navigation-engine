@@ -1,0 +1,4 @@
+list attachments stored cloudant 
+developing demo stuck list web app attachments pdfs retrieve list retrieve common data string ints standard retrieve show reading posts work h2 add vendor attachment h2 retrive data code intended create list vendor data blob add vendor part saved response attachement vendor object retrive data work id rev 
+
+assuming list documents attachments href https docs cloudant creating views html rel nofollow create mapreduce view similar call view list document ids documents attachments request 

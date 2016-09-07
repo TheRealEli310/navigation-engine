@@ -1,0 +1,4 @@
+concurrent thread atomicinteger 
+read api documentation util concurrent package misunderstood overview blockquote small toolkit classes support lock free strong thread strong programming single variables blockquote small test application shows atomicinteger class provide thread safety shared threads accept getandset increment methods strong atomic strong test run class consistently results ranging expect explain consistent results threads access shared atomicinteger variable misunderstood thread safety guarantee 
+
+simple cut amp paste error joining thread w2 w1 present expect thread w1 running half time print final 

@@ -1,0 +1,4 @@
+getview method called custom adapter gridview 
+debug code calling constructors invitelistadapter calling getview method multiple solutions stackoverflow works hope find mistake solution returns greater strong invitelistadapter strong strong strong 
+
+call setadapter inside oncreateview 

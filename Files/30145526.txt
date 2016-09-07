@@ -1,0 +1,4 @@
+jmh switch jit 
+jmh benchmarking switch jit jmh suppressing optimizations prevented disabling jit 
+
+strong tl dr assess formula performance riding bycicle track strong question odd simple follow question point running benchmark conditions drastically production environment words knowledge gained running interpreted mode apply real world issue black white em em optimizations happen happen real world em em broken em carefully selected em places make good experimental setup jmh means constructing experimental setups href http hg openjdk net code tools jmh file tip jmh samples src main org openjdk jmh samples jmh samples explain intricacies scenarios benchmarking fighting compiler lots lots compiler jvm issues href http medianetwork oracle video player 2630310904001 addressed hand jmh magical tool written humans spend time budget addressing simple issues time left address em important em specific experiment 

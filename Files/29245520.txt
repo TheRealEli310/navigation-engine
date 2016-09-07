@@ -1,0 +1,4 @@
+proper shutdown jvm launching 
+launching jvm code jni problem quitting process shutdown hooks jvm run temp resources case prevents launching jvm time open process jvm destroyjavavm process windows closed process running whats wait ensure jvm shut properly launched jni 
+
+wont return till daemon jvm threads stopped waiting stop stop process shut check code thread stopped background message loop thread ui framework 

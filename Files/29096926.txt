@@ -1,0 +1,4 @@
+sikulix maven project 
+strong sikulix strong maven project doesnt work add repository href http sikulix readthedocs org en latest faq dev html comment projects maven rel nofollow http sikulix readthedocs org en latest faq dev html comment projects maven mvn install em find artifact sikulix sikulixapi jar snapshot nexus em nexus repository pom idea maven find artifact correct repo 
+
+problem solved settings xml maven repo removed mirror didnt anymore adding additional repository work 

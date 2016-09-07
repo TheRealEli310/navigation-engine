@@ -1,0 +1,4 @@
+avoid anemic data model repositories injected entities 
+immutable entity add method return information users password changed changed system setting current approach strong question strong make code object oriented avoid anemic domain model antipattern method moved access injected constructor instance provided ctor method require instance provided code important completness 
+
+system wide password expiration policy approach bad long domain service application service embedding password expiration policy user violation srp imho factory initialized correct settings eventually policy individual users simply store policy objects make isp current design implement interface service give flexibility refactoring real policy objects change interacts policy object make things slightly cohesive password creation date embedded password vo 

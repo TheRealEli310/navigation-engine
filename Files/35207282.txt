@@ -1,0 +1,4 @@
+easier create multiple objects class 
+player class setters amp getters read players keyboard fine creating inputs increment make player2 player3 method dont properly advance confusion 
+
+documenting code preferable methods simply perform action user input hr full model object methods assign data 

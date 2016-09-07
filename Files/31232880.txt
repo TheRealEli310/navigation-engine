@@ -1,0 +1,4 @@
+selenium logging practice 
+current practices logging selenium webdriver activity box tools hook native webdriver actions interested specific tools helpful references evidence justify assessment current state art web automation logging 
+
+class native class binding logging doc href https seleniumhq github io selenium docs api org openqa selenium logging loggingpreferences html rel nofollow give option logging level activities events href http selenium googlecode git docs api org openqa selenium logging logs html rel nofollow logs interface 

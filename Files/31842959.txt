@@ -1,0 +1,4 @@
+mvn build success tests executed 
+idea happening run working fine made slight change pom xml file dependencies classes code literally importing classes project terminal console run maven dont understand causing appreciated error slf4j fine culprit happening strong edit strong noticing test executing testng junit mvn clean install build run tests testng junit dependencies added 
+
+surefire mechanism figure run junit testng dependencies code making surefire testng disable automatic detection force test provider href https maven apache org surefire maven surefire plugin examples providers html rel nofollow selecting providers documentation future reference configure surefire previous link force surefire junit compatible provider issue years ago remember fix make surefire detect test provider properly remember debbuging surefire plugin 

@@ -1,0 +1,4 @@
+sqlmapclient starttransaction cases 
+case statements start commit transaction insert update select statement error blockquote mysqlnontransientconnectionexception operations allowed connection closed connection implicitly closed due underlying exception error connection started closed start transactions added catch block blockquote guess start commit transaction select statements clarify 
+
+error connection closed missed exception errors answer question select transaction 

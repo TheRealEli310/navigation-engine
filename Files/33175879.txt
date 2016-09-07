@@ -1,0 +1,4 @@
+jetty programatically enforce security constraint web xml 
+web xml security constraint pre class lang xml prettyprint override works great programatically turn constraint writing filter similar essentially needed jetty essentially change turned based custom configuration system 
+
+jetty dont conditionally jetty xml embedding jetty application programmatically configuring instantiating jetty server dont fits deployment scenario heres embedded jetty server enforces confidential connections modify conditionally apply constraintsecurityhandler built call buildconstraintsecurityhandler depending custom configuration set 

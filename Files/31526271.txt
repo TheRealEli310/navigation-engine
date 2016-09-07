@@ -1,0 +1,4 @@
+type mismatch key map 
+error code struggling understand match key parameters intention read avro format files email run simple calculations counting number emails good start edit similar error occurs mapper error email class generated schema 
+
+problem mapper declare youre telling hadoop youre expect couple text email types key input couple email text type key values mapper emit types declared generics class write signature youre telling hadoop key type input email nullwritable exception 

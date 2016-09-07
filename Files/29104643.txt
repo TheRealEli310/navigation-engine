@@ -1,0 +1,4 @@
+httpclienterror target server failed respond 
+hit server http client setting max connections individual hosts httpparams httpparam httpclient getparams httpconnectionparams setsotimeout httpparam socket timeout connection pooling http persistence error sporadically resolve shutting idle connections href http hc apache org httpcomponents client ga tutorial html connmgmt html rel nofollow http hc apache org httpcomponents client ga tutorial html connmgmt html 
+
+bug httpclient httpclient upgrade information href https issues apache org jira browse httpclient rel nofollow link upgrade links helpful href http www nuxeo blog httpclient properly avoid closewait tcp connections rel nofollow http www nuxeo blog httpclient properly avoid closewait tcp connections good luck 

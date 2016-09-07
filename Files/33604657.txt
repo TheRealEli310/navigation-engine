@@ -1,0 +1,4 @@
+parse date format mon nov gmt india standard time 
+date format india standard time convert sql date format code 
+
+refer href http docs oracle javase docs api text simpledateformat html rel nofollow simpledateformat strong output strong 

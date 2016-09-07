@@ -1,0 +1,4 @@
+iterator array list class 
+bear question silly learning collections written program store student names id marks storing arraylist loop print values program idea iterator code student college main class case correct output remove loop replace iterator error code guide wrong correct 
+
+cast explicitly change listiterator generics easier read alternative foreach loop 

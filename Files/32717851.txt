@@ -1,0 +1,4 @@
+uniquely identify thread jvmti 
+working jvmti agent identify thread method enter exit obtain thread sufficient imagine method entering method exiting thread jvmti report thread identifier identifier thread solution field referenced iterat heap field 
+
+solution pointed getfieldname requires lookup jfieldid annoying simply assign ids stash thread local storage href https www cs uoregon research tau tau releases tau src profile javathreadlayer cpp rel nofollow javathreadlayer cpp uofos tau project specifically function 

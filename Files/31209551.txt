@@ -1,0 +1,4 @@
+saving data jtable jframe netbeans gui builder 
+netbeans gui builder basically created jframe components save data text fields submit button put jtable jframe created jframe specifically hold jtable jframe textfield submit button jframe jtable code jtable button textfield jframe save data jframe jtable greatly appreciated 
+
+update table frame2 values text fields frame1 observer pattern frame1 list observers updated observable frame1 inserts values add code understand observer pattern lets define observable interface methods observable implement lets define frame1 observervable lets define observer interface methods observer implement lets define frame2 observer lets wrap test 

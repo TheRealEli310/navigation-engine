@@ -1,0 +1,4 @@
+custom stopwords stemmer file weka 
+api methods stringtowordvector text file stopwords class stems words custom stemmer stopwords filter taking phrases size preprocess remove stopwords strong update strong worked weka developer version custom stopwords handler custom stemmer create class implements stemmer interface write implementations methods custom stopwords handler stemmer strong strong answer thusitha works stable verion simpler work version 
+
+latest weka library dependency api docs href http weka sourceforge net doc stable weka filters unsupervised attribute stringtowordvector html rel nofollow api doc blockquote public void setstopwords io file sets file stopwords null directory unset stopwords file exists automatically turns flag stoplist parameters file stopwords blockquote 

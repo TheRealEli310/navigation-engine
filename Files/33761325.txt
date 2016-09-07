@@ -1,0 +1,4 @@
+lock screen player controls meta data 
+mediasessioncompat order add lock screen player controls meta data app doesnt work lock screen doesnt show controls meta data playing current code appreciated streamservice heres remotereceiver 
+
+additional information provided issue android lock screen controls removed implemented notification api adding notification builder place lock screen suggest changing include action notification wont control playback 

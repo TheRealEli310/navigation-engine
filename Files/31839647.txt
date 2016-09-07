@@ -1,0 +1,4 @@
+setcontentview multiple activities class 
+creating android application setcontentview multiple android activities layouts methods global class call method activity oncreate buttons textviews assigned findviewbyid method previously defined class code shown call method activity shown methhod executed null error create application class create object extends activity call object method create methods similar things 
+
+easy parent activity baseactivity activities simple extend parent activity activities extend parent activity notice simply calling oncreate method parent class case baseactivity turn calls activity class 

@@ -1,0 +1,4 @@
+problems implementing gcm client android 
+implement android guidelines google href https developers google cloud messaging android client rel nofollow https developers google cloud messaging android client receiving slightly errors devices noticed receive nosuchmethoderror method getnobackupfilesdir devices br logcat android logcat android line correctly imported library documentation href https developers google android guides setup rel nofollow https developers google android guides setup encountered errors resolve development environment eclipse kepler sr2 adt br additional info comment 
+
+method found android support v4 content contextcompat problem appcompat v7 included project download version follow steps href https developer android tools support library setup html adding libraries resources add library application project 

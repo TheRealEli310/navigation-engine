@@ -1,0 +1,4 @@
+elastic search parent child data search api 
+elastic search data elastic search parent child model perform search data api parent type author details child type book details book book publisher book category performing search child details parent details vice versa search conditions parent type child search books written type implement referred elastic search documentation solution 
+
+set index mapping mapping added untokenized field execute filter queries field creating index documents json api api part question create documents create documents relationship request class executes queries ol li search term book title return li li search terms jon doe return li li search written jane smith type fiction li ol run class command line import eclipse click class select run application youll elasticsearch library classpath 

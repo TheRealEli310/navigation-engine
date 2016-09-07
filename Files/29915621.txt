@@ -1,0 +1,4 @@
+spring mvc webargumentresolver resolve list arguments 
+h3 situation h3 creating handle urls extract method retrieve products match query h3 problem h3 apparently work lists searching advice ul li implement custom resolver lists multiple values param li li solution structuring rest url case multiple values argument change format li ul h3 requirements h3 urls attributes interfere properties advice 
+
+bind strike generic type information lost compilation strike bind array possibility custom annotation implement checks parameter annotation resolves argument 

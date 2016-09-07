@@ -1,0 +1,4 @@
+jgrapht apply bfs weightedgraph 
+written code finding optimal path weighted graph returns correct shortest path problem graph obtain path fewest number transfers vertices case case bfs perfect solution jgrapht api write algorithm 
+
+simplest solution ignore edge weights calculate shortest path dijkstras algorithm create unweighted directed graph weighted directed graph href http jgrapht org javadoc org jgrapht graph asunweighteddirectedgraph html rel nofollow class simply overrides method edge returns default weight provide performance improve build iterate graph code based href https github cdk cdk blob master legacy src main org openscience cdk graph bfsshortestpath rel nofollow class updated match recent versions jgrapht class finds shortest path vertices bfs weight edge 

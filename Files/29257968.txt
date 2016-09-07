@@ -1,0 +1,4 @@
+hibernate envers embedded extended mappedsuperclass raise exception startup 
+hibernate envers project exception medicalsummaryid data extends mapped superclass dont fix hibernate final exception medicalhistory medicalhistoryid medicalsummaryid aggregateroot id 
+
+problem composite key found satisfying workaround composite key simple key working 

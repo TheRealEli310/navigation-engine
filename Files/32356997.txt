@@ -1,0 +1,4 @@
+spring boot log4j file external jar 
+pass work put log4j xml classpath passing dlog4j configuration file log4j2 xml command line doesnt work spring boot test application fine putting environment variable property spring 
+
+put line option pass system variable case expected located current directory jar file 

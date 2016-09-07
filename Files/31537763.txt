@@ -1,0 +1,4 @@
+java8 stream groupingby enum counting 
+classes java8 stream api trasform count color arent included list trasforming list map strong strong colors enum count solved solved custom collector 
+
+collector create map add default values absent keys ensure returned map mutable providing map hand adds opportunity create suitable case cleaner fill map default values supplier function stream create initial map completeness stream api 

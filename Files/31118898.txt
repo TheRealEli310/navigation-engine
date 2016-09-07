@@ -1,0 +1,4 @@
+creating named pipes 
+experimenting creating named pipes linux running problem writing pipe hangs fifocreator writing string consists lines writing lines work lines doesnt run cat fifo external shell program proceeds writes hanging strange cat subprocess launched program doesnt work edit ps subprocess status 
+
+external processes input output handle hang exact point hang varies easiest solve issue change occurrence runtime exec obsolete processbuilder strong update strong href http docs oracle javase docs api lang processbuilder html inheritio rel nofollow inheritio shorthand redirecting processs input output parent process redirect input read output read processs output process getinputstream 

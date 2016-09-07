@@ -1,0 +1,4 @@
+hibernate onetomany insert null 
+simple runs quoterequest object generated auto generated id accidents object generated quote request id inserted null error strong em column quote request id null em strong isnt inserting newly generated id accidents column 
+
+blockquote creating accidents dont set quoterequest property bi directional relationship blockquote reason bi directional relationship bi directional relationship set side owning relationship means db column relying field populate field hibernate assuming null inserting null expected behavior short make consistent basic short set lots issue implementation leave previously set replaced list 

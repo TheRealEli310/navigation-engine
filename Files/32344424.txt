@@ -1,0 +1,4 @@
+android camera picture uri photo 
+file path uri image user takes photo surfaceview android display image view heres current code image uri method suggest open image view sending byte array bitmap heavy transferred views bad practice 
+
+save data file store device storage uri file code 

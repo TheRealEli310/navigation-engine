@@ -1,0 +1,4 @@
+wrapper enum switch polymorphism 
+code wrapper original interface bases enums call methods linked list putfirst data putcurrent data putlast removefirst enumposition simple change implement interface remove switch replace polymorphism consumer lambda effective 
+
+answer depends enum pass enum mixed strong enum strong make multiple wrapper implementations make factory takes enum determine implementation make factory method enum strong mix enums call strong enums time act add methods enum support cases 

@@ -1,0 +1,4 @@
+decoupling classes interface level 
+lets class package class package object class reference class classes coupling address coupling recommended define interface package implemented class package object class refer interface package inversion dependency decoupling classes interface level remove coupling classes retain functionality classes coupled 
+
+create fictive class package class package depends replace future start create interface utilize interface change occurences resulting modified version problem instantiate interface href http en wikipedia org wiki inversion control inversion control rescue instantiating type wihtin constructor demand implements parameter constructor approach change concrete implementation suppose write class instantiante implementations change code decoupled change concrete implementation long contract satisfied notably support code generated future implements 

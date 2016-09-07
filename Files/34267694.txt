@@ -1,0 +1,4 @@
+threads synchronized method 
+concurrency implement specifications ul li car park park spots li li car represented thread endlessy change car state driving parking car parking spot li li car parking state park spot spot spot free parks skip parking phase back drive li li car remains spot owner spot park li ul exact specification problem make car skip turn cars pick spots parked waiting park free bahvior idea simply synchronize read write variable occupied run cars end car0 parking spot1 car1 parking spot0 car2 waiting spot0 car1 executing synchronized block park car dont cars park spot willingtopark synchronized 
+
+blockquote dont cars park spot willingtopark synchronized blockquote simple strong car1 strong captures strong spot0 strong starts waiting owner loop inside method provide code waiting owns monitor call synchronized methods strong spot0 strong br reason strong car2 strong hangs method 

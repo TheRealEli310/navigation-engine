@@ -1,0 +1,4 @@
+android relativelayout button textview 
+text views layout toleftof attribute place button text views alignleft alignright attributes button button width height enlarges fit size text views thought linear layout fit size textview place button layout gravity center centered aligned left code inside relativelayout 
+
+adding button textview inside linearlayout vertical orientation 

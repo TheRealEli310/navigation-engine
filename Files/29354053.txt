@@ -1,0 +1,4 @@
+store date field isodate jackson mongodb 
+persist object strong strong field mongo collection fasterxml jackson problem default nature objectmapper store date numberlong type strong strong field strong strong type stored strong strong store strong isodate strong format mongo shell format object mapper store date string dateformat isodate format strong strong advise gurus advance 
+
+href https github fasterxml jackson datatype joda rel nofollow jackson joda module import classpath mapper write desired timestamp replace code sample pojo edit custom serializer youll register mapper datetime types function annotations 

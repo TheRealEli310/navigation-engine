@@ -1,0 +1,4 @@
+setting opaque custom color android setalpha 
+color set opaque 
+
+href https developer android reference android support v4 graphics colorutils html setalphacomponent int 20int rel nofollow colorutils setalphacomponent create color rgb alpha alpha 

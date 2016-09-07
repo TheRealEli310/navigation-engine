@@ -1,0 +1,4 @@
+problems controlling servo pi4j raspberry pi 
+control href http www electronicoscaldas datasheet mg90s tower pro pdf rel nofollow mg90s servo gpio pins raspberry pi pi4j created application hz duty cycle high ms keyboard input strong strong input expect servo strong strong rotation hz high ms result servo strong strong expected strong strong input expect servo strong strong rotation hz high ms result servo strong strong rotation idea wrong 
+
+problem pi4j sleep period wasnt exact enougth granularity sleeps generally bound thread schedulers interrupt period linux interrupt period generally 1ms recent kernels windows schedulers interrupt period milliseconds qwerty href http stackoverflow http stackoverflow 

@@ -1,0 +1,4 @@
+adding jbuttons dynamically jpanel based jlist values 
+working swing application strong requirement strong jframe jlist values select list item show buttons selected strong strong select list buttons jframe code strong problem strong change selected item list jpanel updated words dont buttons select list button created default selection 
+
+made ol li put jlist jpanel jbuttons jpanel li li flowlayout jlist jpanel flowlayout jbuttons jpanel youre free change swing layouts li li changed default buttons jframe pack properly jbuttons li li added method remove jbuttons jpanel add jbuttons jpanel li li revalidated repainted jbutton jpanel li ol heres code 

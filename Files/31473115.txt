@@ -1,0 +1,4 @@
+code duplication enums inheriting common interface 
+enums comply common interface typical implementation implementaions multiple values problem lot code duplication methods implementation identical word word virtually impossible enums extend implementation suggestion strategy cleaner existing pattern 
+
+live level indirection approach present reduce repeated code minimum supplier interface class magic class bean fields private constructor initialize public getters factory method overriden method interface defines method returns instance class class final idea enforce immutability properties allowed change lets create couple enums implement interface lets start defines values defines enums implement interface provide implementation method order comply encapsulate instance receive constructor indirection code repeated enums field constructor receives argument getter method sample showing enums code produces output 

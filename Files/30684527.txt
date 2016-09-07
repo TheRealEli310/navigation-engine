@@ -1,0 +1,4 @@
+xml parsing 
+stax parse xml containg html custom tags xml require resource details attributes option terms parsing speed 
+
+question excessively broad downvote idea circumstances xml interpretation answer limited classically href http docs oracle cd b28359 appdev b28394 adx parser htm adxdk3000 rel nofollow sax jaxp dont strictly require dtd clever enumerations parse href http jsoup org rel nofollow jsoup mentioned rafael cardoso generally html parser html xml parser work youre attributes specific tag data jdk jdom dom4j bunch strengths weaknesses question isnt constructive basically duplicate href http stackoverflow questions library xml parsing recommend href https docs oracle javase tutorial jaxp stax html rel nofollow tutorial explains build parser standard library future conditions program operating provide objective defined question research stack overflow hope good luck 

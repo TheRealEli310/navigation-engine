@@ -1,0 +1,4 @@
+printing array specific position location netbeans 
+learning netbeans attempting assignment arrays difficulties part question required print numbers specific location part requires create print array size insert random numbers completed part requires generate random number represents array locations part program print random numbers array location onwards taking account array boundaries stuck generating random numbers make array print consecutive number random2 location random2 location generated 
+
+href http docs oracle javase docs api util random html rel nofollow random class generates random numbers passed argument nextint purpose statement create object random class object created previously array indices print consecutive numbers array loop check index loop exceeds array boundaries break printing loop change loop requirement printing numbers hard requirement hope helps 

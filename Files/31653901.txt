@@ -1,0 +1,4 @@
+slide javafx stage side screen 
+task make javafx application start window slides smoothly side screen click button slides side finishes found simple timeline animation made window slide run app figure slide window handle defining handler setoncloserequest method stage stuck problems ol li implement animation li li click application closed immediately consume method window event li ol code 
+
+works kind smooth prevent slew window hidden animation causing system access stage longer exists 

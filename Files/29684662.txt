@@ -1,0 +1,4 @@
+xssf poi adding formula column pivot table 
+poi beta1 create calculated pivot table column defined ahead manually edited sheet excel work reversed file zip directory looked found code back program added code generate automatically isnt registering data column indexoutofbounds error stacktrace indexoutofboundsexception occurs bolded line exception thread main lang indexoutofboundsexception org openxmlformats schemas spreadsheetml x2006 main impl ctpivotfieldsimpl setpivotfieldarray unknown source org apache poi xssf usermodel xssfpivottable adddatacolumn xssfpivottable org apache poi xssf usermodel xssfpivottable addcolumnlabel xssfpivottable poi generate column edit scenario exception line executes commenting line add column label open workbook excel error message starts removed feature pivottable report xl pivottables pivottable1 xml part pivottable view removed records workbook properties xl workbook xml part workbook 
+
+resolved problem implementation methods 

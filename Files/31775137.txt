@@ -1,0 +1,4 @@
+make 3d graphics 
+make class file create 3d person holding sword manipulate battle 
+
+includes 2d amp 3d scenegraph api named em javafx em simple youre 2d 3d objects scenegraph javafx tutorial href http docs oracle javase javase clienttechnologies htm rel nofollow http docs oracle javase javase clienttechnologies htm question tutorials 2nd headline interesting em graphics started javafx 3d graphics em official java8 demo zip archive sources examples jdk jre downloads fx demo named 3dviewer import 3d file formats obj maya files display export javas native fx scenegraph xml format load xml 3d object files directly application show fx scenegraph pure external libraries easy 3d beginners good luck 3d experiments 

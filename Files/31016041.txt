@@ -1,0 +1,4 @@
+dynamically load top level class jar classpath 
+strong update strong files project declare package jar loading classpath find writing program plugins modules form jars embedded classpath lot similar questions sites apologize duplication answer hasnt worked wrong folder full jars jar top level class extends module class dont classes called find files directory works fine file instance top level class code opens jar zip names classes top level class supposed load instantiate return load shows class expect throws load class worked fine put file source dir wont jar wrong suspect class kind prefix suffix figure 
+
+suggested didnt work files needed load classpath href http stackoverflow answer works 

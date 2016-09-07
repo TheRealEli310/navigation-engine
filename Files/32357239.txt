@@ -1,0 +1,4 @@
+android flavors multiple src directories flavor 
+explain flavors main flavor specific src directories goal directories flavor flavors a1 a2 ul li favors main src default main src directory li li a1 a1 src default flavor src directory li li a2 a2 src default flavor src directory li li src default flavor src directory li li strong a1 a2 src special shared directory strong li ul put build gradle file bonus question chose order gradle files directories png declared src a1 src gradle file src found a1 src 
+
+href http tools android tech docs build system resource merging rel nofollow blockquote mentioned sourceset define multiple resource folders blockquote define multiple resource folder 

@@ -1,0 +1,4 @@
+forcing jframe resize setresizable false command wont work 
+simple atari breakout program long story short powerups user resize window seconds make window resizable works fine window resizable resizable seconds whats supposed happen seconds window stop accepting input resizing window resizable problem supposed set resizable cursor dragging window resize resizing activate resizable state window window question make happen window taking control resizing timer program immediately resizing window command called waiting mouse suggestions simplified case seconds resize window play 
+
+javas class force mouse release modified code 

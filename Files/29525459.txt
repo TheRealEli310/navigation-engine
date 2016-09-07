@@ -1,0 +1,4 @@
+integrate swagger dropwizard produce swagger json file 
+steps existing drop wizard project setup version added dependence added api annotations resource file added code application run class problem run application swagger json href http localhost swagger json rel nofollow http localhost swagger json pretty follow href https github swagger api swagger core tree master samples dropwizard rel nofollow https github swagger api swagger core tree master samples dropwizard problem setup application runs start fine swagger json file 
+
+youre conflicting incomplete dependencies href https github swagger api swagger samples tree master dropwizard rel nofollow https github swagger api swagger samples tree master dropwizard sample youll include swagger core directly follow similar configuration work fine 

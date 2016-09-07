@@ -1,0 +1,4 @@
+matrix vector multiplication 
+wondering condensed streams making edit received good answer performance 10x slower implementation adding test code case investigate 
+
+direct stream creates stream row matrix maps row double resulting calculating product array stream indexes calculate product built facility zip streams 

@@ -1,0 +1,4 @@
+hadoop writing file mapper 
+write program takes huge data set run queries code build mapper access specific areas input file mappers mappers read part input file based index print part read number lines read output mapper reducers ul li question create write file output file map function reducer read file open mapper path totally wrong apologize question sounds noob noob learn li ul 
+
+single mapper hadoop creates number mappers close number input splits href http wiki apache org hadoop howmanymapsandreduces rel nofollow details concept input split important means big data files splited chuncks chunck assigned mapper totally mapper wont control part file workin control kind global index single mapper mapreduce mapreduce mistake mine assuming file analyzed case case big data files scenario make sense create single mapper file create override method returning 

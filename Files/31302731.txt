@@ -1,0 +1,4 @@
+failed load class org slf4j impl staticloggerbinder loading required dependencies 
+building maven project deploying jetty server issue jetty home lib jcl slf4j jar jul slf4j jar slf4j api jar maven project mvn dependency tree slf4j commons logging jar bundled project build maven project run eclipse jetty plugin issues perfectly working fine deploy remote server jetty webapp folder steps mentioned posts unable fix 
+
+put slf api wrong class loader class loader hierarchy bit inaccurate classes trigger loading slf4j api packages delegation slf4j api classes load slf4j impl classes class loader delegate application class loader delegate diagram delegates finds error put libraries class loader jetty lib war 

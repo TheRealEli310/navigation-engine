@@ -1,0 +1,4 @@
+jackson overriding getter jsonproperty 
+isnt overriding default jackson getter serialize class jackson jsonproperty annotation effect putting string doesnt work change renaming getter problem lowercase letter 
+
+problem jackson libraries change consistent library maven meant updating maven dependencies work needed annotation getter putting object didnt work found answer francescoforesti href http stackoverflow questions jsonproperty working expected jsonproperty working expected 

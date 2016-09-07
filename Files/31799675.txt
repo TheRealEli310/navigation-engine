@@ -1,0 +1,4 @@
+log4j2 xml found log4j2 test xml 
+upgrading log4j log4j updated log4j xml configuration file log4j2 xml configuration running maven spring mule running test maven build log4j2 xml file picked rename file log4j2 test xml picked instance console logger custom patternlayout works correctly case case default config log4j pick log4j2 test xml log4j2 xml 
+
+href https logging apache org log4j manual configuration html automaticconfiguration rel nofollow higher load precedence log4j2 configuration file classpath overriding finding location conf file pulled code execute run maven test build 

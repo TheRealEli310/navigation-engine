@@ -1,0 +1,4 @@
+foreach foreachordered stream 
+understand methods differ order execution test achieve order execution output provide examples methods produce outputs 
+
+line output guaranted order processes elements stream order source stream sequential parallel quoting href https docs oracle javase docs api util stream stream html foreach util function consumer javadoc blockquote behavior operation explicitly nondeterministic parallel stream pipelines operation guarantee respect encounter order stream sacrifice benefit parallelism blockquote href https docs oracle javase docs api util stream stream html foreachordered util function consumer javadoc states emphasis mine blockquote performs action element stream strong encounter order stream strong stream defined encounter order blockquote 

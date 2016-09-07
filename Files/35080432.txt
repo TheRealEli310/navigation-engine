@@ -1,0 +1,4 @@
+apache camel connection pool timeout restlet configuring component options 
+camel dsl route invokes restlet endpoint route works issues hit manually pump larger number requests code strong timeout waiting connection pool strong stackt race doc configure restlet component code issue strong route accepted requests time started errors configuration maxthreads default means bean picking properly strong 
+
+code defined restlet bean route configure changed order defining code defined restlet route configure place restlet configuration picked connection pool issue 

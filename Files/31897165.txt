@@ -1,0 +1,4 @@
+prevent auto start tomcat jetty spring boot resttemplate 
+resttemplate testresttemplate including artifact springboot application automatically starts tomcat jetty turn including artifact testresttemplate boot artifact base resttemplate 
+
+spring boot start web container present provide embedded container analyse dependencies project make web server started spring boot application set configuration key 

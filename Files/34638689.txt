@@ -1,0 +1,4 @@
+tess4j issue windows lang unsatisfiedlinkerror module found instance doocr imagefile 
+days googling unable find solution issue tess4j version lang unsatisfiedlinkerror module found write server side spring boot app windows x64 tutorial href http tess4j sourceforge net tutorial rel nofollow http tess4j sourceforge net tutorial make tess4j projects source command works pc visual redistributable vs2012 visual redistributable vs2013 installed missed dlls pc libtesseract304 dll depends img src http s22 postimg org pqgz5yez5 image jpg alt reason problem tess4j src project works pc full stack trace code maven load libs force success 
+
+problem connected windows fix error adding previously maven dependencies 

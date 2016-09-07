@@ -1,0 +1,4 @@
+json response netty 
+send json response netty http server gson json creation code inside channelread0 method inside channelreadcomplete method problem response back request stuck return response content length 
+
+construct fullhttpresponse end httpreponse writing lasthttpcontent 

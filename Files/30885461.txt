@@ -1,0 +1,4 @@
+rxjava retrofit long polling 
+problem infinite stream credentials initial poll request initial poll request poll request responds sec change earlier returning changed data response data needed poll request poll request poll response code rxjava dont understand infinite stream calls onnext oncomplete solution implement long polling android 
+
+whilst ideal rxs side effects achieve desired result doon operations subscribing internal observable repeat error retry request credentials stream computational steering achieved updating timestamp variable request 

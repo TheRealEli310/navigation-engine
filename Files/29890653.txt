@@ -1,0 +1,4 @@
+exception thread main lang noclassdeffounderror org apache log4j provisionnode 
+running legacy code worked past time giving error line error logger class defined log4j log4j included code date version href http mvnrepository artifact log4j log4j rel nofollow maven error idea problem solved solution accepted solves problem specific issue class found log4j libraries left marked duplicate encounter problem 
+
+ol li download href http www java2s code jar downloadapachelogginglog4jjar htm rel nofollow apache logging jar file li li add apache logging log4j jar file classpath li li clean build project li li run project li ol 

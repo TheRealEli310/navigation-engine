@@ -1,0 +1,4 @@
+setting shapes path transition shapes rotation javafx 
+created circle triangle front moves forward backward circle make triangle orbit circle circle rotates thought require pathtransition binding luck code 
+
+rotate triangle center circle create transform bind pivot point center circle angle amount circle rotated add rotate transform list triangles transforms 

@@ -1,0 +1,4 @@
+match part username password passay library 
+match part username password passay library br username strong jhon strong smith password strong jhon strong found usernamerule control username present password br strong myuser strong strong myuser strong password br 
+
+add illegal substrings dictionary dictionarysubstringrule lets assume block consequtive characters username password 

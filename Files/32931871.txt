@@ -1,0 +1,4 @@
+derive zoneid zoneoffset 
+reading href https docs oracle javase docs api time zoneid html rel nofollow api class states tipes id ol li derived zoneoffset li li offset style ids form prefix examples li li region based examples li ol syntax kind documentation blockquote em id zoneoffset consists ids starting em blockquote whats combination string object supposed create kind 
+
+question answered h1 syntax kind h1 href https docs oracle javase docs api time zoneoffset html lang string rel nofollow find complete list ul li utc li li li li hh li li hh mm li li hh mm li li hhmm li li hhmm li li hh mm ss li li hh mm ss li li hhmmss li li hhmmss li ul wrongly thougt blockquote strong strong ids starting blockquote meant strong strong needed prefix compose strong strong h1 whats needed combination string object h1 combination needed string object 

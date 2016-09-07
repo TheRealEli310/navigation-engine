@@ -1,0 +1,4 @@
+extend patternlayout log4j2 
+log4j2s class extend create headers strong csv strong referred docs doesnt provide info extend existing layout href http logging apache org log4j manual extending html layouts rel nofollow http logging apache org log4j manual extending html layouts previous approach extending patternlayout doesnt work goal add header log file amp headers configured configuration file log 
+
+log4j2 header tag href https logging apache org log4j manual layouts html rel nofollow https logging apache org log4j manual layouts html 

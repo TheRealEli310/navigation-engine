@@ -1,0 +1,4 @@
+gelf appender play 
+play application send logs graylog2 server gelf tcp moocar gelf logback appender issues compiled version logback core jar configure logback send logs tcp udp graylog2 instance hosted 
+
+give href https github mp911de logstash gelf rel nofollow logstash gelf supports tcp udp channels udp blocking logstash gelf compiled logback classic version config 

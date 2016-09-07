@@ -1,0 +1,4 @@
+ontouchlistener issue click swipe inside viewpager 
+viewpager implemented fragment view page list elements swipe movement access page viewpager click event display information chosen element order distinguish click swipe actions implemented touchlistener element list solution dont work perfectly dont element list basically composed textview click action works issue swipe movement swipe starting element works access page hand doesnt work swipe starting textview stack allowing post helpful image href http www hostingpics net viewer php id png rel nofollow http www hostingpics net viewer php id png initiate swipe movement orange background area textview fine dont understand xml file list element 
+
+found answer android issue ul li li li li li li ul href https code google android issues detail id rel nofollow info 

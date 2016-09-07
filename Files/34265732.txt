@@ -1,0 +1,4 @@
+mockito verifying overloaded methods type compatible arguments 
+strong mock strong interface method signatures strong verify strong method invoked time thought line trick work windows doesnt linux environment call method expected br caused strong argument match method signatures strong chosen unpredictable enforce strong mockito chooses strong verification 
+
+strong em mockito issue em strong investigating href http stackoverflow questions compiler prefer int overload varargs char overload ch realized actual method chosen compile time jls basically class files differed windows linux caused mockito behavior interface discouraged changed match change expected method chosen strong thing left strong br compiler windows eclipse compiler produce output oracle jdk javac linux strong em bug ecj em strong expect language spec pretty strict 

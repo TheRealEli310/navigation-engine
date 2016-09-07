@@ -1,0 +1,4 @@
+autowire field performing junit tests spring junit 
+class havin perform tests library junit success strange error posible injection bean bean exists file testservicecontext xml dont understand class declared 
+
+exception receive scenario created implementation interface inject geolocationservice autowired receive exception solution br put component annotation geolocationserviceimpl define spring context xml short make spring applicationcontext aware implementation interface 

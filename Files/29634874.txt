@@ -1,0 +1,4 @@
+find replace regular expression changing file format 
+code replaces text file called strong sample txt strong code changing file format shouldnt regular expression doesnt change file format file original format br br saxws br executing code outputs saxws 
+
+os editor print correctly line separators generated case ul li reading content entire file string including original line separators replacing part interested li li writing replaced string back file li ul code 

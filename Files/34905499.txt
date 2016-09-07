@@ -1,0 +1,4 @@
+grpc pass data server interceptor rpc service call 
+grpc internal services server side interceptor grab information headers set logging context threadlocal internally interceptor similar service call access current context null time grpc context class accessing service call null print memory addresses appears early context root context attaching interceptor calls contexts correct logger data ideas ways propagate data interceptor service call love hear 
+
+callback called thread thread local set callback accidentally contexts intended em em rpcs grpc released week context partially integrated added attaches detaches context callback contexts created server call root contexts propagated client calls callbacks unlike intended tightly scoped generally finally 

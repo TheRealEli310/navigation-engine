@@ -1,0 +1,4 @@
+create camel route references specific method 
+write camel route reads xml files specific directory calls process method class implements processor print result screen class named scriptprocessor process method camel context route suppose xml files directory file camel context definition tag mock element destination route dont call process method scriptprocessor class inwards camel route process tag similar 
+
+solved create xml file route definition process method operations definition route avoid load definition method href http camel apache org loading routes xml files html rel nofollow 

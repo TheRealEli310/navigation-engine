@@ -1,0 +1,4 @@
+spring entitymanagerfactory transaction 
+id access databases application database connection entitymanagerfactory br problem merge entity databases transaction beans xml file repository service method save1 merge order br method save2 merge person br merge order person transaction ps english hr strong edit strong br bitronix nullpointerexception br added line jpaproperties br org hibernate engine transaction jta latform internal bitronixjtaplatform beans xml file manager class removed transactional annotation br repo class removed qualifier annotation stack trace 
+
+local transaction managers manage transactions data store time managing transactions span multiple data stores jta compliant transaction manager href https github manish spring jpa hibernate rel nofollow sample app bitronix jta transaction manager 

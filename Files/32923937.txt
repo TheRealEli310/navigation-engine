@@ -1,0 +1,4 @@
+error unused import statement import android widget adapterview onitemclicklistener import android content context 
+made simple app saves displays bookmarks br view bookmarks activity called clicking menu item main activity problem click option view bookmarks stored view bookmarks activity app crashes br problem bookmark activity unused import statement adapterview onitemclicklistener amp content context solve issue ps click option main activity save bookmark launching save bookmark activity works perfectly code bookmarkpage class bookmark page xml logcat problem starts progressbar press view saved bookmarks option database dbhelper class mainactivity class 
+
+heres error create table access existing column defined string constant created table column column called table br column named hr quick fix simply change 

@@ -1,0 +1,4 @@
+add feed4j dependency pom xml 
+add dependency pom xml feed4j jar img src http stack imgur c3ayj jpg alt enter image description select dependency feed4j feed4junit feed4j img src http stack imgur 7bjbs jpg alt enter image description add dependency pom xml error blockquote missing artifact feed4j feed4j jar blockquote result mvn clean install error blockquote package sauronsoftware feed4j exist blockquote 
+
+eventually found answer href https devcenter heroku articles custom maven settings xml rel nofollow feed4j included href http repository jboss org rel nofollow repository jboss href https repository jboss org nexus content repositories pentaho releases rel nofollow pentaho releases 

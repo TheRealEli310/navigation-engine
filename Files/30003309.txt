@@ -1,0 +1,4 @@
+scala script engine creating instance singleton 
+creating scripting system scala problem find singleton class methods add event listeners scripts dispatch events core worked fine reason added listeners disappeared dispatch event reproducing problem found script engine creates instance singleton class class output stack trace shows script engine ends creating instance idea 
+
+found fix browsing source code 

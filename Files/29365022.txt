@@ -1,0 +1,4 @@
+externalize hibernate configuration 
+app hibernate orm created hibernate cfg xml configuration file added build path works fine development environment create jar production server dynamic db connection credentials spent couple hours searching examples ul li spring list blessed technologies li li separate maven profiles production credentials wont happen li ul separate hibernate db configurations pass parameter configure hibernate programmatically 
+
+proposed solutions ul li build time configuration maven dont credentials build time li li run time configuration resolving ol li spring li li programmatic mechanism li ol li ul 

@@ -1,0 +1,4 @@
+change utf decoding 
+recently migrated application jdk jdk change ran problem snippet code byte array invalid utf byte sequences byte array utf decoding results difference strings href http stackoverflow answer href http stackoverflow questions utf encoding issue bug post fixes error replaces invalid utf byte sequences replacement string accordance utf specification stick 7s version decoded string charsetdecoder codingerroraction replace report ignore generate string technique reasonable complexity 
+
+pointers provided holger clear write custom charsetdecoder copied openjdks version sun nio cs utf class renamed customutf construct string plan run extensive tests cross verifying outputs generated interim solution fix actual problem passing output hmac directly string base64 encoding 

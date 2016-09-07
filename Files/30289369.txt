@@ -1,0 +1,4 @@
+instantiating multiple mutable variable 
+instantiated multiple mutable variable times avoid array collections 
+
+array 

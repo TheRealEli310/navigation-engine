@@ -1,0 +1,4 @@
+sonarqube recognize lombok annotations 
+sonarqube supports partially lombok annotations getters setters support equalsandhashcode tostring methods answers stackoverflow sites work case sonarqube jacoco analyze annotation include test coverage results solution problem 
+
+lets put sonarqube equation tool revealing issue jacoco works instrumenting bytecode means adds instructions probes places bytecode probes hit test runs side lombok generates methods bytecode level generated method instrumented jacoco covered tests configure jacoco ignore methods instrument classes lombok magic write tests generated methods 

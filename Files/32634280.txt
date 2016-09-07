@@ -1,0 +1,4 @@
+compare set atomicinteger works 
+works concepts cas variable variable insures current visible threads cached confused cas compare set concept explained question returns updated case happen thread executing case 
+
+atomic objects make href https en wikipedia org wiki compare swap rel nofollow compare swap mechanism atomic guarantee strong strong strong strong code posted continually set current remember thread performed set threads race change increments fail scenario ol li thread calls li li thread calculates li li thread calls li li thread calculates li li threads write li ol atomics strong thread succeed strong recieve mechanism threads increment resulting increment confusing infinite loop loop threads writing variable time heavy load loop times complete quickly 

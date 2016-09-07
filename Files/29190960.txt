@@ -1,0 +1,4 @@
+print combinations elements matrix size 
+h2 print combinations elements matrix size h2 h3 sample h3 h3 expected output h3 h3 rules h3 ul li combination starts left matrix proceeds switch rows li li combination number elements equal number columns li li combination element column present li li number columns rows vary solution generic li ul works good specific input dynamic h2 advance h2 
+
+recursion process column recursion call starting stores current permutation updated recursively recursively reach column time print current permutation 

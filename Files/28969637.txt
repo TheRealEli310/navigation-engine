@@ -1,0 +1,4 @@
+unable retrieve property oozie action conf xml 
+access property set oozie action configuration wondering workflow access property code dont populated loadtype wrong access property 
+
+xml file couldnt loaded loadfromxml hadoop configuraion class work 

@@ -1,0 +1,4 @@
+edittext custom listview 
+good day guys successfully populated custom listview layout activity problem populated edittext listview approach href http stack imgur odvg8 jpg rel nofollow img src http stack imgur odvg8 jpg alt enter image description picture adapter mainactivity psp row layout xml 
+
+created href http stack imgur jihnt png rel nofollow img src http stack imgur jihnt png alt enter image description strong hashmap map hashmap lt strong item user click assume button click adapter class add strong step strong declare strong hashmap map hashmap lt strong adapter strong step strong put hashmap strong map put key strong code put minus button click event strong step strong call strong showhashmapvalue strong method map put key hashmap values check logcat compare adapter code understand easily problem comment strong listadapter strong 

@@ -1,0 +1,4 @@
+spring data dbref lazy loading rest server error 
+spring data mongodb object return object method receive browser console data remove work fix 
+
+set lazy false load entities notifications entity user load time happen fetches data select query bring user requested notifications query skipped lazy true set lazy false set fetch mode join bring entities thought work work dropping primary foreign keys relationships database make insure consistency application guess wont problem setting lazy true good practice href https developer jboss org wiki ashortprimeronfetchingstrategies sscc rel nofollow link 

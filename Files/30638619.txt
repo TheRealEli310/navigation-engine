@@ -1,0 +1,4 @@
+intellij intention action convert style log4j calls style slf4j calls 
+working project legacy code log4j past slf4j style log4j logging statements remain convert log statements slowly slf4j style realised pressing kbd alt kbd kbd enter kbd style log statements options upload screenshot ul li copy string concatenation text clipboard li li inject language reference li li replace string format li li replace stringbuilder append li li replace test messageformat format li ul option close dont bit strong give intention action strong logging style log4j style 
+
+em logging issues constant string concatenation argument logging call em inspection quickfix automatically convert string concatenation parameterized log message 

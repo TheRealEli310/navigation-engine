@@ -1,0 +1,4 @@
+ajax values 
+call server values working assuming values representation entity method prints values 
+
+restlet give access elements request url headers payload client side configuration properties build request request ajax call tool chome console firebug property isnt request server side url code server resource details javadocs class href http restlet technical resources restlet framework javadocs jee api org restlet data reference html rel nofollow http restlet technical resources restlet framework javadocs jee api org restlet data reference html class access element host domain port path hope helps thierry 

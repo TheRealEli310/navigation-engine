@@ -1,0 +1,4 @@
+synchronize arraylist loop 
+pretty simple case synchronize list synchronize complete loop synchronized block inside loop depending performance relevant difference lock release list single loop 
+
+add entries list thread accessing add href http docs oracle javase docs api util arraylist html addall 28int 20java util collection rel nofollow addall shared arraylist youre reading resultset synchronize minimize contention threads wouldnt holding lock 

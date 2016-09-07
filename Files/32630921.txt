@@ -1,0 +1,4 @@
+parsing json array objects gson 
+gson parse json file array objects exception thread main google gson jsonsyntaxexception io eofexception end input line column error line code bit confused gson dont set things properly data format code read recipelist class intended store array recipe objects json file wrong recipe class creation recipe object json array bit confused reading json text gson create individual objects array rebecca 
+
+theline myreader readline read lines file eof 

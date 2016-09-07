@@ -1,0 +1,4 @@
+define map accept kind thrift 
+define struct thrift problem accept accept words type root python 
+
+create list classes union implementation works langs id struct fields optional thrift create accept field fully portable languages key functionalities thrift 

@@ -1,0 +1,4 @@
+project 3d point 2d screen coordinates 
+project point 3d world space 2d screen coordinates worked hard time projecting point setup blockquote pitch yaw facing north roll normal blockquote casting ray camera position center viewport end frustum debugging ray values means facing correct achieve project fixed camera point point middle ray 3d 2d rotating camera projected point center viewport isnt current output viewport 
+
+firstly projecting plain 3d vector ignore translation perspective parts matrix 4d vector component missing clip 

@@ -1,0 +1,4 @@
+jackson json deserialize commons multimap 
+serialize deserialize multimap apache commons json piece code test serialization works fine results format expect deserialization produces result deserialization multimap strong arraylist inside arraylist strong values key single arraylist key values result produced due fact method multi map called add array found json string multimap implements map interface multimap implementation creates arraylist put existing key circumvent 
+
+assured oxford dictionary circumvent means find obstacle simple work created method generate multivaluemap approach parse json string created deserialization method falls exact issue mentionned created method iterate list inside list correponding key associate values key simple call main method img src http stack imgur 6povw png alt json multivaluemap hope helps 

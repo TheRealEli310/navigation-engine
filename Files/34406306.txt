@@ -1,0 +1,4 @@
+autowire method arguments runtime spring 
+inject instances prototype scoped beans controllers method arguments runtime annotations spring method called spring inject qualifying bean argument familiarly injects modelattribute autowired fields injected context created obtaining bean contexts factory method isnt opinion expose framework component violating hollywood principle completed reading spring action book reading spring reference lot havent found info question 
+
+couple options define prototype bean inject wrapped retrieve handler method time call youll instance directly spring mvc built feature beans injected invoking handler methods href http docs spring io spring framework docs current javadoc api org springframework messaging handler invocation handlermethodargumentresolver html rel nofollow api define implementation type parameter define annotation annotate handler method parameter implementation annotation resolve instance injected type 

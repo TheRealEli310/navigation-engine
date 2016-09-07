@@ -1,0 +1,4 @@
+classcastexception mysql jdbc driver wildfly final 
+taking wildfly datasource datasource configuration standalone full xml driver configuration put jar folder module xml file ideias wildfly final strong put configuration wildfly final works fine strong full stacktrace 
+
+strong datasource class strong supposed sql datasource implementation driver class driver definition careful case connection properties connection url datasource definition href https issues jboss org browse wfly rel nofollow https issues jboss org browse wfly 

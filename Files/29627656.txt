@@ -1,0 +1,4 @@
+error package google common base exist 
+code compiling lot errors hr blockquote main error package google common base exist import google common base preconditions main error package google common collect exist import google common collect lists main error package org ros exception exist import org ros exception rosruntimeexception main error package org ros internal loader exist import org ros internal loader commandlineloader main error package org ros node exist import org ros node defaultnodemainexecutor main error package org ros node exist import org ros node nodeconfiguration main error package org ros node exist import org ros node nodemainexecutor blockquote run intellij work 
+
+adding dependency pom xml solve problem 

@@ -1,0 +1,4 @@
+exception thread awt eventqueue lang nullpointerexception statement 
+developing tic tac toe game problem exception thread awt eventqueue lang nullpointerexception occurs press button buttontext changed problem wrong statements source code main ticgame gui lines error log rest doesnt fit due number words 
+
+youre shadowing variables button1 variable shadowing declare class strong declare strong initialize declared variable classs constructor field variable declared class remains null solution dont shadow variables declaring constructor 

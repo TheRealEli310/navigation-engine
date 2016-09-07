@@ -1,0 +1,4 @@
+map 2d matrix 1d array 
+containers dimensional nxn matrix dimensional array transposed 1d version matrix 5x5 array element array values implement query function 2d coordinates arguments work equivalent 1d array order algorithm efficiency strictly quadratic access array matrix checked questions talk converting matrix array nested loops dont quadratic time run conversion demand coordinate query function method words number columns rows formula correct access element position result greater total number elements 5x5 matrix advance 
+
+array array elements true assuming post created 1d array 2d indices rememeber indices begin edit accessing element element means array order 1d array elements 

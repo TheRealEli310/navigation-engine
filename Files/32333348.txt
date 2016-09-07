@@ -1,0 +1,4 @@
+list active directory users authenticated identity waffle 
+user authenticate retrieve full list active directory users enter password authenticate easily waffle query information specific authenticated user list groups belong waffle doesnt ability make general queries full list users list users belonging group toy configured jndi query user list works fine requires username password order make connection assuming anonymous querying disabled ad server authenticated session established waffle query list users 
+
+figured case interested honestly surprised didnt answer find clear cut solution online turns waffle unnecessary simple user list query modified href http www codeproject articles retrieving users informati rel nofollow code sample produce method trick 

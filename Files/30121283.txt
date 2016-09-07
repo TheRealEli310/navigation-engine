@@ -1,0 +1,4 @@
+spring app run method end transaction 
+wondering configure spring fire method end transaction service class method service class call fire transaction end successfully spring 
+
+good idea delegate spring add bean indirection layer services delegate thing dont choice spring delegate calls default manager intercepts successful calls replace default transaction manager application thismethodfiresonendoftransaction called strong em em strong transaction add context qualifier write end answer flawed approach implementing bean 

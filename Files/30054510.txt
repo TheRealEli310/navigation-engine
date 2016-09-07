@@ -1,0 +1,4 @@
+intellij idea artifact dependencies synchronized maven dependencies 
+working project intellij idea divided maven modules configured modules war artifacts deployed tomcat independently development recognized behavior couldnt solve add remove dependency modules pom xml considered lib directory final artifact leading classnotfoundexceptions server startup solution fix artifact settings manually works handy configure intellij synchronize atrifacts lib folder maven dependencies automatically case duplication found questions related solutions jetbrains docs successful helping 
+
+finally problem arises create war artifacts manually intellij pom xml configure artifacts automatically including war makes idea creating artifacts date maven dependencies 

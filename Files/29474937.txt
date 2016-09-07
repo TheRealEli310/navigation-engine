@@ -1,0 +1,4 @@
+test tree item root node treeview javafx 
+prevent program deleting root node tree view program lang reflect invocationtargetexception compiling program launch launch textfieldtreecellimpl class error takes place error main class realavent thing notice put statment handle methods error 
+
+time object constructed isnt typically shortly construction control call returning chained called causing npe reason works move inside handler code called event triggered clicking time populated cell add event put check set inside docs href http docs oracle javase javafx api javafx scene control contextmenu html rel nofollow contextmenu javadoc 

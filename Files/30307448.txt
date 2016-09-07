@@ -1,0 +1,4 @@
+jooq difference fetchany fetchone 
+real difference return exact record api documentation implementation github 
+
+intent methods ul li href http www jooq org javadoc latest org jooq resultquery html fetchone rel nofollow blockquote strong returns strong resulting record null query returns records strong throws strong href http www jooq org javadoc latest org jooq exception toomanyrowsexception html rel nofollow query returned record blockquote li li href http www jooq org javadoc latest org jooq resultquery html fetchany rel nofollow blockquote strong returns strong resulting record null query returns records blockquote li ul essence query return record query return number records record returned database fetched jdbc result set returned 

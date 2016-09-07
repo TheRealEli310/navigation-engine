@@ -1,0 +1,4 @@
+socket communicating applications 
+applications written send string app app code sending string code receiving data problem receiving data application send string data app print data received application output output application receive full string application increase buffer byte array size doesnt dont experience sockets show wrong 
+
+receiving end picks response chunks considerably smaller total message shouldnt seeking change behaviour fact network programming job glue back blockquote application receive full string blockquote receiving app meant received full string send length field data coming expect end message byte terminator newline passing calling href https msdn microsoft en library system io streamreader readline 28v aspx rel nofollow reading stream hits newline hand line 

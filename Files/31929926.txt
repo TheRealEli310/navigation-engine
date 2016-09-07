@@ -1,0 +1,4 @@
+itext setencryption error 
+recently upgrade itext problems setencryption work itext error thought wrong jar file bouncycastle apparently itext older jar files results bcprov jdk15on bcprov ext jdk15on wrong point 
+
+turns bouncy castle library hiding mkl 

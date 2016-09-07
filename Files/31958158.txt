@@ -1,0 +1,4 @@
+pass parameters dynamically created classes 
+successfully loading class external file runtime call methods assuming problem figure pass parameter constructor class loading modify pass parameter constructor access public variable files working mind classloaderexample pde written processing lack function identical h3 classloaderexample pde main file loads class h3 h3 myclass class loading h3 
+
+class loaded hold constructor create instance 

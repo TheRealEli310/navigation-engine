@@ -1,0 +1,4 @@
+add dependency siddhi cep pom xml file 
+add dependency latest version siddhi cep preferably cloning source href https github wso2 siddhi rel nofollow github repo missing dependency error pretty dont maven havent figure strong update strong requested pom xml file 
+
+finally stumbled answer add pom xml file add dependencies 

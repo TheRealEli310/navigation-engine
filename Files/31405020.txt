@@ -1,0 +1,4 @@
+scale libgdx ui mobile 
+moment version application fine buttons scaled nice deploy theyre tiny barely usable code desktop img src http stack imgur 4vj6g png alt desktop android img src http stack imgur s0aj0 png alt android 
+
+default set virtual viewport size href https github libgdx libgdx blob master gdx src badlogic gdx scenes scene2d stage l91 rel nofollow desktop start size 800x480 told launcher android dynamic depends device device 1920x1080 change button sizes size devices em terms pixels em totally screen density android buttons smaller easiest solution level fixed virtual size supply viewport stage scaling depending screens size aspect ratio virtual resolution good idea uis set actors sizes relative set width widget root table takes screen setfillparent true 

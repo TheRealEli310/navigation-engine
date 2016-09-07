@@ -1,0 +1,4 @@
+determine number bytes read wave file timestamp 
+href http docs oracle javase docs api javax sound sampled audioformat html rel nofollow audioformat object returned timestamp milliseconds start reading wav file determine bytes read skip audioinputstream order timestamp confused frame rate doesnt relate sample rate startpos timestamp milliseconds edit code fact work errors 
+
+wav format typically starts byte header audio samples times sample rate sample bit signed integer endian bit depth bit rate calculated multiplying fundamental factors sample rate bit depth mono stereo samples interleaved api reference probe property vbr variable bit rate true calculation desire unattainable wav constant bit rate false retrieve property bitrate bitrate sample rate bit depth number channels bits 

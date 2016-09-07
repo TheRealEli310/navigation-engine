@@ -1,0 +1,4 @@
+oracle blob exception deployment starting war wildfly8 
+exception start war spring app deployed clustered wildfly application quartz ver spring version similar eof mentioned problem lower enviroment due lack jdbc driver configuration quartz configuration similar href http quartz scheduler org documentation quartz configuration configjdbcjobstoreclustering rel nofollow http quartz scheduler org documentation quartz configuration configjdbcjobstoreclustering data source configured wildfly confused mirrored enviroment works fine clues 
+
+manage resolve issuse turned problem org quartz impl jdbcjobstore oracle oracledelegate oracle works fine oracle problem jobs oracle serialized null deserialized stack trace resolve issue write delegate extending oracledelegate override getobjectfromblob method change quartz properties works fine 

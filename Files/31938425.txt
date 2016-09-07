@@ -1,0 +1,4 @@
+spring integration jdbcpollingchanneladapter commit rollback handled exceptions 
+eip flow consume messages oracle database table entry point flow configured sessions rolled back committed thrown correctly handled reading thread href http stackoverflow questions spring transactions prevent rollback unchecked exceptions runtimeexcept spring transactions prevent rollback unchecked exceptions runtimeexception feeling prevent rollback force commit correct cleanest force commit rollback error safely handled current configuration integrationconfig errorhandler edited include expressionevaluatingrequesthandleradvice bean edited show dummy test message handler edited show executorchannelinterceptor method 
+
+wont work works finish tx couple lines source code ol li applied default li li applied proxy li ol tx starts work inside fix issue figure downstream flow part isnt critical tx rallback make burke noticed reasoning strong strong tx 

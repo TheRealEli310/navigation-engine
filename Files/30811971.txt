@@ -1,0 +1,4 @@
+util serviceconfigurationerror running tests arquillian omnifaces 
+error blockquote util serviceconfigurationerror javax servlet servletcontainerinitializer provider org omnifaces applicationinitializer found blockquote running arquillian tests put basic test case href https www dropbox kou5v8kqs5g4g4m test zip dl https www dropbox kou5v8kqs5g4g4m test zip dl 
+
+run built war running wildfly standalone managed narrow problem arquillian testing arquillian glassfish embedded running problems figured issue arquillian wildfly googling found similar issues related wildfly embedded arquillian wildfly managed arquillian runs reason sort bug general advice line managed remote containers arquillian tests embedded solution simple removed added solution ends wildfly embedded arquillian managed 

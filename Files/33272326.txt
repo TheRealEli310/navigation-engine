@@ -1,0 +1,4 @@
+externalize properties file web application war 
+developed webapplication jsp code key env lifecycle specific properties file conf dev properties conf stg properties conf prod properties externalize properties file war effecting war war file tightly coupled properties file modify thing build make war deploy limited access deployment server machine access folder put configuration files amp deployment process handled ci jenkin amp automated script explored internet achieve spring achieve 
+
+spring suppose location property file resolved spring includes classpath servletcontext file references uris file absolute paths href https docs spring io spring docs current javadoc api org springframework beans factory config propertyplaceholderconfigurer html rel nofollow https docs spring io spring docs current javadoc api org springframework beans factory config propertyplaceholderconfigurer html 

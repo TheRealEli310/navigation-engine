@@ -1,0 +1,4 @@
+data session attribute returns null pointer 
+pretty comments redirect jsp page submitted create list session handler point program saving user input list sessions make difference users lists users null pointer exception statement retrieve existing list add items missing 
+
+approach maintaining session scoped object youre relying return http session session scoped object absent session implicitly created servlet invoked return youve opened jsp page session checking session scoped object interest present strong strong put list back session session hold copy object youd expect procedural languages php object oriented language session holds copy strong reference strong object mutable objects reflected back references learn http session works covers head href http stackoverflow questions servlets work instantiation shared variables multithreading servlets work instantiation shared variables multithreading 

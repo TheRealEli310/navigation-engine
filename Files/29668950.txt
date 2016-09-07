@@ -1,0 +1,4 @@
+access apache mina sshd sftp server remote machine 
+start sftp server apache mina sshd api refer follow link details local sftp server href http stackoverflow questions set root directory apache mina sshd server link connect server remotely giving host ip address couldnt enable connect sftp server strong connection refused strong error message connect locally connect locally strong href http winscp net eng index php rel nofollow winscp strong sftp client giving host localhost remotely give host localhost gave host machine ip address gave error message connect local sftp server remote machine 
+
+finally found strong access apache mina sshd sftp server remote machine strong problem apache mina sshd sftp server set refer attached href http stackoverflow questions set root directory apache mina sshd server link apache mina sshd sftp server details previously set host changed access local sftp server providing machine ip address host remote machine 

@@ -1,0 +1,4 @@
+mime media type application vnd ms excel found 
+generate excel file wich data measures file returned rest service debug project generate file fine rest service returns file error appears 
+
+solved problem adding dependency pom 

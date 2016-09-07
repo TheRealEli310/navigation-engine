@@ -1,0 +1,4 @@
+spring junit datasource autowiring 
+spring config style configuration datasources autowire datasources test class run result result method findtestdb logs rowcount string findrealdb datasources build jdbctemplate img src http stack imgur qg7by png alt enter image description 
+
+test code autowiring type surprised dont unique bean exception trouble beans qualified isnt spring profiles assigning test datasource test profile production datasource default profile setting active profile test case test heres href http fahdshariff blogspot uk spring javaconfig unit testing html rel nofollow http fahdshariff blogspot uk spring javaconfig unit testing html put profile annotation individual bean configuration class 

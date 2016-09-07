@@ -1,0 +1,4 @@
+restful web service call input parameter object 
+rest call spring application send objects input parameter rest methods requestentity inputstream suitable code inputstream 
+
+read objects stream rest method deserailize stream object dont managed sending object json xml consuming rest method convert object parsing xml json frameworks jersey fairly simple request mime type 

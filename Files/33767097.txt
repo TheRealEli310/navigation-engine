@@ -1,0 +1,4 @@
+spring boot enablejparepositories error 
+building app spring boot hibernate adding repository kind error problem enablejparepositories figure files repository file configuration file pom xml 
+
+changing hibernate dependencies spring data jpa spring boot starter data jpa added application properties resolved issue 

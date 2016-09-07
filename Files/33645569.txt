@@ -1,0 +1,4 @@
+return multiple values void boolean methods 
+problem boolean static method computes similarity integers asked return results ol li changing return type method stay boolean li li updating values external variables objects li ol change return boolean int boolean 
+
+bad practice catch exceptions define extra outputs convention instance 

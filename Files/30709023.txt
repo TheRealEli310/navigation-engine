@@ -1,0 +1,4 @@
+spring mvc link jsp jsp suffix returns 
+simple page called headers jsp spring mvc release web app call index page url headers works fine suffix jsp jspx result links work real life legacy database spent time googling found solution requests links handled controller code controller methods called requesting headers jsp headers jspx strangely spring test mock mvc fired tests check mentioned url passes greatly appreciated rest config code dispatcherservlet init mvcconfiguration security config 
+
+issue extensions handled container checkout tomcats youll notice configuration similar containers tests working real app request fail option implement filter mapped pattern redirect handled controller leaving requests processed container href http stackoverflow questions servlet filter change incoming servlet request url question 

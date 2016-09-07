@@ -1,0 +1,4 @@
+maven release plugin jar dependencies 
+maven assembly plugin section pom file made maven release plugin release archiva jar dependency file release perform command upploads jar dependencies inside missing 
+
+ill answer question missing execution phase package assembly plugin sergey pointing package phase 

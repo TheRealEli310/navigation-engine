@@ -1,0 +1,4 @@
+volatile variables semaphores 
+starting threads semaphores volatile variables semaphores define variable volatile threads increases decreases variable access mutex controls time thread playing variable define volatile 
+
+api doc href https docs oracle javase docs api util concurrent semaphore html rel nofollow semaphore blockquote memory consistency effects actions thread prior calling release method em happen em actions successful acquire method thread blockquote read write variables guarded semaphore 

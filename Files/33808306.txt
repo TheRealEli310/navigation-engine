@@ -1,0 +1,4 @@
+org hibernate hql internal ast querysyntaxexception unexpected token line 
+login site controller userservice getuserbyemail log write correct query getuserbyemail rid exception 
+
+omit part implicit 

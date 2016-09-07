@@ -1,0 +1,4 @@
+jersey ignoring jackson annotations 
+jersey jackson create simple json api objects serialized custom enum fields default enums converted string based enum vale enums href http sirious net sirious rel nofollow slightly complex serializations jackson annotations enum endpoint ignoring spinning wheels figure issue turn strong enum code strong strong api code strong call endpoint output output lines configuration files strong pom xml strong strong web xml strong 
+
+things ul li jersey rid li li moxy default provider glassfish jackson disable moxy adding li li alexey gavrilov pointed add jackson provider li li register provider adding package packages scan li ul thing unrelated issue point glassfish jersey implementation version add runtime jersey dependencies conflict things put jersey dependencies requirements version functionality updating jersey version glassfish href http blog dejavu sk updating jersey glassfish rel nofollow updating jersey glassfish 

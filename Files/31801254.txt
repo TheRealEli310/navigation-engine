@@ -1,0 +1,4 @@
+hibernate criteria shows results generated query returns correct results 
+puzzled wrote criteria returns results run generated sql query database returns correct results strong console output strong 
+
+sergey lagutin suggested suppose issue whitespace code solution check database connection make connected correct database 

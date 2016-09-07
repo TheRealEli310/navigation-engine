@@ -1,0 +1,4 @@
+synthesizedannotation visible class loader jsonview 
+spring frameworks jsonview sample code href http docs spring io spring docs current spring framework reference htmlsingle mvc ann jsonview rel nofollow http docs spring io spring docs current spring framework reference htmlsingle mvc ann jsonview works fine spring framework release doesnt work release dependency problem wrong ideas pom xml 
+
+issue dependency problem check href https jira spring io browse spr rel nofollow https jira spring io browse spr blockquote dont mixed versions framework run mvn dependencies list project check spring jars release case share project reproduces problem blockquote 

@@ -1,0 +1,4 @@
+cglib enhancer selective class method 
+develop utiity class intercept methods project project files intercept methods files achieve cglib enhancer lets code intercept method m1 m3 
+
+cglib works creating subclasses types runtime suggest cglib class cglibs creates class similar cglib call code original implementation field instances class virtual modified cglib due subclassing approach cglib existing code changed agents redefine existing code aop programming style libraries powerful cglib href https github raphw byte buddy rel nofollow byte buddy library wrote wrote aop byte buddy logging interested href http mydailyjava blogspot make agents frameworks html rel nofollow http mydailyjava blogspot make agents frameworks html 

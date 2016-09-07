@@ -1,0 +1,4 @@
+delete items database 
+making app stores mark database displays listview delete item listview database long press item listview code database helper 
+
+unique id entry database delete based item long pressed call method remove database call ensure updates display correctly em edit em answer question apply long click listener item depends youve implemented itss custom adapter simply set root convertview youre attaching custom adapter getview method add returning convertview 

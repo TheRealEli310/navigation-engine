@@ -1,0 +1,4 @@
+rational floating point 
+rational number represented structure assuming ieee binary64 representation structure converted nearest correct rounding naive method converting dividing compounds rounding error 
+
+achieving desired result perform division integer space standard offer bit integer type tool chains offer extension efficient produce correct results code generates quotient bits remainder bit time significant quotient bits represent mantissa portion result significant quotient bit remainder needed rounding nearest ieee code compiled program tool chain lightly tested due bit wise processing isnt fast optimizations machine specific data types intrinsics employed 

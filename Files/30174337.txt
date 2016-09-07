@@ -1,0 +1,4 @@
+unsatisfiedlinkerror ios android loadlibrary succeeds 
+code compile platforms build native libraries verify libraries functions expect load libraries android ios android smoothly crash ios frustrating error snapshot code test native code compiles info built shared library verifying exports ideas driving crazy hours reproduce error android device simply library searching function guessing xcode hiding stripping symbols doesnt correlate output shows 
+
+solution front usual line building ios architecture armv7 misconfigured xcode subproject 

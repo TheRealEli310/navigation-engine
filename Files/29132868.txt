@@ -1,0 +1,4 @@
+spullara mustache partials 
+trouble finding examples implement partials spullara mustache implementation github page doesnt straight forward partial examples defaultmustachefactory methods compilepartial resolvepartialpath supposed override works great partials templatecontent raw template html including mustache syntax pretty straight forward template content partialname inside template content extend defaultmustachefactory possibly class partial content missing matt 
+
+assume template files stored folder src main resources org web assume template page html file referencing template files header html footer html template file page html 

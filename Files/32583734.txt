@@ -1,0 +1,4 @@
+fail rcp export apllication class found 
+running lang classnotfoundexception rcp export havent succeed resolve context creating standalone rcp application created org eclipse core runtime applications extention launch rcp eclipse application works perfectly export lang classnotfoundexception added dependencies needed class rule editor rcp application error log plugin xml manifest mf build properties product configuration based plug ins dependencies rule editor rcp product 
+
+build properties class files pre class lang prettyprint override dont file includes 

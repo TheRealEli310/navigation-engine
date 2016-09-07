@@ -1,0 +1,4 @@
+exclude classes jar files jacoco coverage report 
+jacoco code coverage report including classes system path jar added maven dependency exclude files jar jacoco plugin exclusion working showing coverage report files contained jar shown image files strong org apacke em strong strong org clobus em strong package coverage report img src http stack imgur 0ymsn png alt enter image description 
+
+found answer exclusion exclude classes jar file system scope 

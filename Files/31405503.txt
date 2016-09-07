@@ -1,0 +1,4 @@
+weka classifier 
+created model weka explorer saved model file load saved model code read instance classify arff file file instance class attribute code make classification instance strong strong 
+
+correct sample code wanted method returns double probabilities instance avery class label clear problems class membership fuzzy concept 

@@ -1,0 +1,4 @@
+swing jframe minimize maximize resize bug 
+problem maximize jframe frame maximized content size preserved href http imgur 7q5yh9f png rel nofollow http imgur 7q5yh9f png main frame class make listener catch maximize event succes found corectly maximizing frame listener maximize event happened 
+
+youre href http docs oracle javase tutorial uiswing layout card html rel nofollow wont resize hold manage components share display space br add set panels layout strongly recommend reading documentation href http docs oracle javase tutorial uiswing layout visual html rel nofollow visual guide layout managers 

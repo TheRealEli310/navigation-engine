@@ -1,0 +1,4 @@
+android app closing button click newbie error 
+learning basics android programming online class created simple application stuck opening activity clicking button error emulator returns jogonumeros stopped code mainactivity mainactivityfragment numberguessgame numberguessgamefragment logcat errors clicking button 
+
+heres error blockquote caused lang classcastexception android support v7 widget appcompattextview cast android widget edittext blockquote heres whats causing hr modify code modify xml layout view suits 

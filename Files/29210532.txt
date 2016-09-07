@@ -1,0 +1,4 @@
+arraylist cast util arraylist toarray returns 
+write hierarchal block puts elements arraylist larger arraylist block existing input text adds line text elements arraylist line created arraylist strings string word line string split spaces perform problem create needed arrays aslist string split returns list original method return error adjusted slightly longer returns error doesnt return feedback ideas approach solution greatly appreciated edit people asked linetolist function majority program arraylists strings heavily 
+
+taking comments toarray aslist work approach based linetolist function result included approaches problem simplifies things arraylist words arraylist arraylist characters array list words hold letters blunders 

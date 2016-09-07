@@ -1,0 +1,4 @@
+case insensitive check role httpservletrequest 
+class method called check user role method case sensitive role request false method number places accross multiple applications check number roles achieve functionality case insensitively require checking case combination 
+
+implement filter wraps requests implement httpservletrequestwrapper override method make case insensitive configure roles upper case test role params converting upper case quick search find plenty httpservletrequestwrapper examples 

@@ -1,0 +1,4 @@
+jooq binding timestamp time zone type postgres 
+href http stackoverflow jooq support jsr types href https github jooq jooq issues rel nofollow support v3 simple converters generally works types postgres requires custom binding write generated classes data type fields db strong change code postgres jooqs generated classes strong h3 converter h3 h3 custom binding h3 h3 pom xml extracts h3 
+
+escape spaces backslashes regular spaces default href https github jooq jooq blob version jooq meta src main org jooq util abstractdatabase l248 rel nofollow parse regular expressions comments mode makes created object href http docs oracle javase docs api util regex pattern html comments rel nofollow ignore whitespace regex href https github jooq jooq blob version jooq meta src main resources xsd jooq codegen xsd l364 rel nofollow full maven plugin tag works found unnecessary 

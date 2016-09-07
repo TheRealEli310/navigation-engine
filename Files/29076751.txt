@@ -1,0 +1,4 @@
+jdbc connection extremely slow windows fine linux 
+jdbc connect sql server windows server computer ran extremely confusing problem works great linux laptop microsofts jdbc driver jtds works extremely slow move application windows running device single sql command seconds execute techniques connect database server fast linux slow windows jtds data source learned works fine windows slow move code computer running database windows server week stuck kind appreciated 
+
+true solution works hours working writing custom connection pool apache dbcp realize problem starts exist tcp connection made server realize reconnect sql database connection made server extremely slow behavior simply degrades fast transaction taking 50ms seconds good idea bet windows server vmware network bug behavior changing platforms hope helps experiencing problem 

@@ -1,0 +1,4 @@
+swt application draggable tabs 
+building application swt requirements application multiple windows forever independent windows thought cool implement feature browsers single tabular window tab dragged create separate window research google accomplish href http berry120 blogspot draggable detachable tabs javafx html rel nofollow javafx easy achieve functionality swt advance 
+
+late nonetheless snippet rough poc drag item item dropped bounds folder shell opened show items content pre class lang prettyprint override native missing visual feedback dragging item means abort drag operation esc key things 

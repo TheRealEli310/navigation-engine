@@ -1,0 +1,4 @@
+encode string ibm charset 
+encode string ibm1047 error message unsupportedencodingexception jdk version 
+
+supported locales jdk href http docs oracle javase docs technotes guides intl encoding doc html rel nofollow http docs oracle javase docs technotes guides intl encoding doc html ibm1047 supported table em canonical api api em cp1047 

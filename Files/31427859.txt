@@ -1,0 +1,4 @@
+db4o compatible 
+side project db4o doesnt work jvm deserialising ol li fix jvm db4o dead li li db4o jvm version independent serialisation de serialization li ol 
+
+strong quick answer strong db4o compliant hibernate proxy issue javassist dynamic classes strong em update strong db4o correctly works jvm strange test case explain time native serialisation works correctly db4o doesnt em strong full answer strong details issue appears hibernate previous versions works expected didnt find correct solution quick dirty workaround skip problem fields exporting db4o keyword strong update strong found solution issue appears javassist 

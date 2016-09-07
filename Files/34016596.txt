@@ -1,0 +1,4 @@
+settings tab titles smarttablayout custom adapter extending pageradapter 
+custom adapter viewpager wondering set title tab href https github ogaclejapan smarttablayout rel nofollow smarttablayout opened ticket hoping custom adapter set viewpager initiate smarttablayout suppose include relevant portions xml works fine set titles standard getpagetitle blank continue smarttablayout aesthetically appealing default pager titles horrendous 
+
+apparently work extending pageradapter correct answer context override getpagetitle custom pager adapter class custompageradapter return string array order provide titles tab make number titles equal number images views viewpager 

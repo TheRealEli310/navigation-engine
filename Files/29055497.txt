@@ -1,0 +1,4 @@
+list list list list incompatible types 
+code compile type generics nice h1 context h1 library function signature works fine simple types passed argument case generics result parametrized wildcard causing javac complain raw type propagate result rest application simple cast work expect h1 edit solution h1 answers working end 
+
+due subtle semantic difference raw type equates type compiler fact subclass type work fine derivation type literally em list unknown em href http docs oracle javase tutorial extra generics wildcards html rel nofollow docs dont subclass things type fact type unknown type compile time error 

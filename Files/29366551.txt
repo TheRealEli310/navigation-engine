@@ -1,0 +1,4 @@
+difference model javabean pojo 
+mvc started learning mvc spring heard lot lot time bean setter getter model basically data flows pojo bean confused term explain exact difference strong javabean strong strong pojo strong strong model strong 
+
+youre mvc architecture model represents domain means entities related term br models represented beans practice ee br bean normal class implements serializable interface parameterless constructor getters setters field pojo denomination objects bound restriction forced language specification href http en wikipedia org wiki plain object rel nofollow wikipeadia conventions sake strictly related mvc architecture br beans pojos implementing serializable interface 

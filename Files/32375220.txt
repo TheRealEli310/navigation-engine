@@ -1,0 +1,4 @@
+doc file convert pdf itext things 
+dont understand added latest version itext jar file solution give correct solution code mention stepwise time 
+
+solve case easily itext support word pdf conversion requires good knowledge ooxml format employee itext software weeks investigating xdocreport tool lets users manipulate ms word files docx openoffice libreoffice files odf plugin converts docx odf pdf itext users functionality choose itext lgpl license itext agpl license xdocreport excellent job creating converter tool limited human resources made minor progress project fixing bugs layout problems lot things fixing order make pdfs closely resemble ms word documents xdocreport documentation plugins easy thing lot maven dependencies make work created plugin discovery project make easier havent released doesnt produce quality pdfs feel customers timeline availability plugin 

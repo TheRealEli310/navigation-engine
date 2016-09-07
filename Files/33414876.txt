@@ -1,0 +1,4 @@
+jna callback function pointer structure argument 
+busy project native calls proprietary library jna tested number successful projects trouble passing structure pointer callback function scenarios basically structure member requires memory allocation string char instance null retrieve illustrate problem code code main class string null complete noob jna lots learn mapping structure correct null greatly appreciated hr strong edit made question bit interesting strong argument callback function union struct struct part union struct string variable null 
+
+found answer updated question href http www eshayne jnaex example19 html rel nofollow ultimatley shows union takes memory largest member type set strong strong member union read function called read selected variable teststruct variable accessed correct callback function 

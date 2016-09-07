@@ -1,0 +1,4 @@
+load cordova plugin dynamically android app 
+code dynamically load class android app successfully loaded cordova config xml called execute method javascript error system err lang classnotfoundexception helloclass system err caused lang noclassdeffounderror helloclass system err system err caused lang classnotfoundexception didnt find class helloclass path data app sandbox apk wrong appreciated 
+
+assume dynamically load external class cordova plugin android app mentioned approach loading class dexclassloader make class call javascript load class cordova execute method called modify existing codova pluginmanager execute method helloclass js problem 

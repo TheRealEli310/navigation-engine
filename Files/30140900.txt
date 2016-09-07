@@ -1,0 +1,4 @@
+generating zip download zip4j 
+zip4j generate zip file download error blockquote error nio exec dispatcherservlet servlet service servlet dispatcherservlet context path threw exception request processing failed nested exception lang illegalstateexception getoutputstream called response root blockquote calling zout putnextentry file null function putnextentry function doesnt response allready obtained stream 
+
+line throwing null pointer null argument dont rest servlet guess servlet fetch outputstream handle throw exception parameter putnextentry call zipparameters describes argument zip parameters zip password protected content zip read form file input stream required argument parameter call file object required building zip local file streams building zip external streams case parameter null good design fixed upcoming releases fix scenario 

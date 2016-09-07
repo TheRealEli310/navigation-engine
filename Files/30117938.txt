@@ -1,0 +1,4 @@
+jdk bug system console 
+code method opinion bug method write whats opinion 
+
+href http grepcode file repository grepcode root jdk openjdk b132 io console rel nofollow implementation find null check inside method initialize variable problem nested null check resides method impossible distinct objects 

@@ -1,0 +1,4 @@
+hibernate custom collection embeddables 
+custom collection type set embeddables hibernate spring boot based configuration embeddable entity set embeddable achieve href https docs jboss org hibernate orm api org hibernate usertype usercollectiontype html rel nofollow usercollectiontype href https docs jboss org hibernate orm javadocs org hibernate type collectiontype html rel nofollow collectiontype succeed didnt find tutorials examples strong mycustomset strong strong entity custom set strong strong throwns exception strong 
+
+supposed override collection types associating hibernate collection proxies check href http vladmihalcea anatomy hibernate dirty checking rel nofollow entity dirtiness provide lazy initialization hibernate replace type href https hibernate atlassian net browse hhh rel nofollow usercollectiontype entity associations work embeddable collections convert entity custom collection 

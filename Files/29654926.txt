@@ -1,0 +1,4 @@
+rolling back action install jdk windows 
+install jdk 8u45 windows x64 updated received rolling back action wizard installation finished error log install successfully windows sp1 x64 
+
+finally found solution uninstalling software security temp folder ol li run type temp li li properties folder rclick empty choose properties li li security add give full permission remember select replace child objects li ol enjoy recommend give system user access time 

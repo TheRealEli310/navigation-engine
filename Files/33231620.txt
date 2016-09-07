@@ -1,0 +1,4 @@
+spring creates session post request 
+goal create stateless api requests work fine post made creates session wrong configuration strong question updated comments removing boot starter strong part em aplicationcontext xml em part em web xml em end point valid stack trace making post request dont application sessions thought supposed stack trace spring dependencies 
+
+csrf protection create session stateless service disable pre class lang xml prettyprint override 

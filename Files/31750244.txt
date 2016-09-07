@@ -1,0 +1,4 @@
+jmockit mocking system currenttimemillis 
+running test illegalstateexception lang illegalstateexception missing invocation mocked type point make invocations declaration suitable mock field parameter unittests datetest datetest unittests datetest testsystemcurrenttimemillis datetest whats wrong test jmockit 
+
+things jmockit easy found href https blog nl articles mockito powermock jmockit rel nofollow site excellent reference tripped static method declare class static method mocked refer variable named unused 

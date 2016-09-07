@@ -1,0 +1,4 @@
+spring converter complex object 
+problem conversion service spring invoke conversion service converter configuration converters controller receive entity related tomcat load web app error 
+
+found solution webconfig added code converter1 added invoke conv converter invoked correct method convert2 

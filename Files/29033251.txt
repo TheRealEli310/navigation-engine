@@ -1,0 +1,4 @@
+hibernate exception org hibernate propertyvalueexception null property references null transient 
+developing small app practice hibernate relation stuck classes question answer configuration files question hbm xml answer hbm xml main file run app error 
+
+fixed adding question setting question answer 

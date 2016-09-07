@@ -1,0 +1,4 @@
+authorization dropwizard 
+make small application dropwizard rc3 snapshot user call api user pass authtoken header part till dont wrong working 
+
+servlet assuming added jersey configuration dont forget annotation filter class ul li filters href http www dropwizard io docs manual core html jersey filters rel nofollow strong jersey filters strong dropwizard documentation li ul hr strong update strong problem youre dropwizard jersey case posted exist jersey parameter method argument jersey show dependencies verify class actual class 

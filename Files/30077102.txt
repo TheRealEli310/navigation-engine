@@ -1,0 +1,4 @@
+groovyclassloader classloader work 
+code interested class purpose 
+
+class loaders work vertical hierarchy manner fact built class loaders hierarchy img src http stack imgur upm1z png alt class loader hierarchy pass constructor creating classloader parent classloader loaded current class give kind classloader hierarchy img src http stack imgur pf9w7 png alt enter image description creating classloader built upto fact remind em classloaders load classes top fashion em classloader asks parent load class parent find class loads class notice call recuring fact em classloaders cache em loaded classes cached similar urs loader loaded current running thread classes hope cached class requesting 

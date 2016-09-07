@@ -1,0 +1,4 @@
+junit working ant build file junit working fine 
+intellij projects ant build tool project junit ant build file errors junit tests ran successfully issue advance 
+
+junit compile time dependency org hamcrest core add org hamcrest core classpath href http mvnrepository artifact junit junit http mvnrepository artifact junit junit junit doesnt compile time dependency link org hamcrest core package junit jar href http mvnrepository artifact junit junit http mvnrepository artifact junit junit 

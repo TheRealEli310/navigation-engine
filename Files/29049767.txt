@@ -1,0 +1,4 @@
+spring boot changing datasource point mysql database 
+springbootapplication load datasource change datasource default database simply add properties file establish connection mysql code added resources application properties file throws error 
+
+question found reason basically read tutorial spring io put properties file resources folder made resources folder src folder put properties file maven project default directory structure requires resources folder src main folder maven found url href http maven apache org plugins maven resources plugin examples resource directory html http maven apache org plugins maven resources plugin examples resource directory html spring tutorial href https spring io guides gs accessing data jpa https spring io guides gs accessing data jpa 

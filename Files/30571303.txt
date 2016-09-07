@@ -1,0 +1,4 @@
+set validationquery karaf ops4j jdbc apache dbcp 
+tutorial href http www liquid reality de display liquid apache karaf tutorial part database access rel nofollow http www liquid reality de display liquid apache karaf tutorial part database access explains set datasource karaf apache dbcp wrapped ops4j jdbc set properties underlying object pool pool property prefix set validationquery property property underlying pool basicdatasource set property experiencing connection timeouts dev server break nightly integration tests 
+
+found set validation query independent basicdatasource org apache commons dbcp2 poolableconnectionfactory setvalidationquery poolablemanagedconnectionfactory internally pax jdbc set property added jira issue add option href https ops4j1 jira browse paxjdbc rel nofollow https ops4j1 jira browse paxjdbc 

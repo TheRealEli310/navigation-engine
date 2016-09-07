@@ -1,0 +1,4 @@
+spring ws endpoints document literal wrapping unwrapping 
+integrating system expects consume ws document literal wrapped messages working solution appears simpler deal payload wrapping unwrapping endpoint wsdl defines contract generated jaxb objects foo types xsd schema referenced endpoint class issue receive soap messages document literal wrapped style soap body payload expected respond soap body payload spring ws handle box consume produce compliant messages code style referenced spring docs href http docs spring io spring ws site reference html tutorial html tutorial xsd rel nofollow http docs spring io spring ws site reference html tutorial html tutorial xsd 
+
+solution add namespace element xmlrootelement annotation jaxb bindings xml 

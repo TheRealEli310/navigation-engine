@@ -1,0 +1,4 @@
+maven package org junit exist 
+maven excuse elemental searched problem solve removing tag pom xml file tag converted existing project eclipse problem read default schema maven storing code default folders origin problem error change edit included junit4 dependency changed file folders img src http stack imgur wzkez png alt enter image description console execute output erasing bin target folders find classes tests 
+
+add junit dependency pom file dependencies section 

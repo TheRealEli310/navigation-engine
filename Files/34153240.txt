@@ -1,0 +1,4 @@
+array index printing wrong 
+code code retrieve maximum array index output max returned fine whats wrong index print printing wrong fix thankd 
+
+update max index loop reason returns array primitives converted single element array doesnt original array 

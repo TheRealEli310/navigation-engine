@@ -1,0 +1,4 @@
+user credentials google api 
+include strong google sign strong android application strong google api strong account details user signed strong null strong strong requesting username strong call blockquote peopleapi getcurrentperson mgoogleapiclient getdisplayname blockquote logcat shows blockquote basicnetwork performrequest unexpected response code href https www googleapis v1 people rel nofollow https www googleapis v1 people blockquote email user blockquote accountapi getaccountname googleclient mgoogleapiclient blockquote discover mistake 
+
+code working fine ensure things register digitally signed apk files public certificate google apis console link href https developers google mobile android started step enable google api https developers google mobile android started step enable google api make added google api access client key created sha1 br rest fine 

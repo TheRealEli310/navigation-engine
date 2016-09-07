@@ -1,0 +1,4 @@
+highest score 
+make program display top highest scorers students sample output largest score 
+
+sorting methods solve problems future href http docs oracle javase docs api util arrays html sort int rel nofollow sorting arrays href https docs oracle javase tutorial collections interfaces order html rel nofollow sorting collections case select max elements simply variables code cleaner define student class hold score printing 

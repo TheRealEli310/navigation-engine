@@ -1,0 +1,4 @@
+resize worldwind panel 
+put pane strong make resizable strong call method heres em em display world wind size pane make resizable thought give size strong bind size worldwindpanel pane strong function em doesnt work em strong edit strong found alternative solution pane directly swingnode resize automatic pane problem youre force group 
+
+setsize working code java8 couldnt make resize work sample code swingnode mess resizing solution advised href http stackoverflow 

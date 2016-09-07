@@ -1,0 +1,4 @@
+iterative brute force sudoku solver 
+implement iterative sudoku solver avoid recursion stack problems management starting board represented string array variable input code element composed numbers row col means element 1st line 1st col translated array int constructor run solution mistakes nested cycles appreciated 
+
+ol li stack implementation adding removing element arraylist bad idea forces content array shifted back time linkedlist modify end list li li add remove instance matrix back stack matrix object call current means change matrix remove stack change stays element stack identical links object logic solution store previous state solution stack allocate array time copy data efficient starting li li good question specific doesnt work bad question fix problems debug puzzled provide information state program data data step li ol 

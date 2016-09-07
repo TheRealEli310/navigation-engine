@@ -1,0 +1,4 @@
+conversion utc ist returning joda time library 
+convert timezone project utc ist vice versa purpose joda time jar project problem occurs convert string utc ist converted ist kindly mentor part code completely stuck code strong output strong strong expected output strong converted timezone output format 
+
+problems firstly youre parsing youre time zone local time zone youre formatter result youre calling implicitly simplest approach create formatters pattern utc relevant time zone dont manually convert formatter 

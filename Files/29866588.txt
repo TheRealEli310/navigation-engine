@@ -1,0 +1,4 @@
+cmusphinx recognizes word audio files 
+sphinx doesnt recognize process audio files accepts audio stream spits empty array speechresult result feel isnt issues audio file doesnt work audio file works stands causing stream produce transcription heres output running doesnt failures 
+
+nikolay shmyrev file 16khz 16bit mono mswav file recorded audacity img src http stack imgur bmstm png alt 16khz mono file export make pick wav microsoft signed bit pcm 

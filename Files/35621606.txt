@@ -1,0 +1,4 @@
+mission control flight recorder throws parser exception 
+profile clojure app jmc exception start flight recorder jmc start mbean server puzzled run jmc consolelog option result start flight recorder havent found mention issue searches bit loss proceed investigation suggestions 
+
+found culprit running flight recorder blank clojure project worked deduced problem lie code mine dependencies added dependencies blank project found href https github stathissideris dali rel nofollow dali causing bug idea dali causing problem 

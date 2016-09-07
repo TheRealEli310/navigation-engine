@@ -1,0 +1,4 @@
+spring requestmapping log messages 
+deserialize json object coming javascript ui request client syntactically incorrect error rest service works hit service successfully hard code json generate json actual js object spring generate log messages set 
+
+add logging filter processing chain spring boot simply providing results similar malformed body isnt nicest filters omits information http method post time request response source easily write nicer fits copy request response easily servlet filters add href http stackoverflow http stackoverflow access springmvc specific details access request amp response content consuming compare href http stackoverflow http stackoverflow 

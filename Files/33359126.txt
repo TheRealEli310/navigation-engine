@@ -1,0 +1,4 @@
+web module find classes core module starting tomcat 
+project consists modules web module core module web module core dependency pom spring separate spring configuration class module web spring config imports core spring config load spring context starts loading web spring configuration starting server apache tomcat error occurs instantiate simple classes core module inside restarting server threw running simple class method instantiated class core module time exceptions thrown web module core module tomcat thought placing dependency pom suffice wrong appreciated 
+
+dont worked tomcats server configuration eclipse ol li clicked strong open lauch configuration strong li li strong classpath strong tab added core module strong user entries strong li ol web module ol li opened strong properties strong window li li strong deployment assembly strong added core module li ol 

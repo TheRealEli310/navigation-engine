@@ -1,0 +1,4 @@
+make simple timer button click start stop timer 
+android studio mainactivity oncreate strings xml added activity main xml added activity main designer href http stack imgur lkxjs jpg rel nofollow img src http stack imgur lkxjs jpg alt design mainactivity touch event touch event true line start timer display timervaluerecord time running including milliseconds seconds minutes user touch stop part stop timer problem build timer stop start 
+
+code function start stop timer 

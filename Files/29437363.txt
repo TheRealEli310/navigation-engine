@@ -1,0 +1,4 @@
+lwjgl glteximage2d implementation 
+make texture array integers code classes bind texture black made values array correct assuming opengl code wrong 
+
+couple problems ul li type pass work intended texture internal format means buffer strong component strong texture values texel based build values rgba components texel packed data interpreted format specifies packed values li li texture parameters default sampling attributes assume texture mipmaps texture call set minification mask mipmaps li ul 

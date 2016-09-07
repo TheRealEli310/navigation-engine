@@ -1,0 +1,4 @@
+parallel processing threads split apache camel 
+split incoming exchange route based logic split part connect ssh server bean maximum processing parallel parts added code increase size thread pool factory 
+
+configure splitter thread pool configure default profile means threads pools created api camel profile baseline read camel docs href http camel apache org threading model html rel nofollow http camel apache org threading model html 

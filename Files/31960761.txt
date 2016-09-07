@@ -1,0 +1,4 @@
+hibernate nested exception 
+problem hibernate nested exception couple hours deploying app server errors start showing problem mysql connection expires tomcat show application memory leaks sample dao class app orm query sqlquery hibernateannotationutil class stacktrace 
+
+configure href http sourceforge net projects c3p0 rel nofollow c3p0 connection pool apache href https commons apache org proper commons dbcp rel nofollow dbcp connection pool details connection pooling read href http stackoverflow questions hibernate connection pool default unsuitable hibernate connection pool default unsuitable production 

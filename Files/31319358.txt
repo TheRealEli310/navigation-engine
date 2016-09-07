@@ -1,0 +1,4 @@
+jsonmanagedreference jsonbackreference 
+difference em jsonmanagedreference em em jsonbackreference em jackson 
+
+blockquote jsonmanagedreference forward part reference serialized jsonbackreference back part reference omitted serialization blockquote depend direction relationship 

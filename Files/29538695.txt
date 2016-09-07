@@ -1,0 +1,4 @@
+mocking spring validator unit testing controller 
+writing unit tests postmortem code project created issue mock validator bound controller making inputs valid extra calls validator case validator class coupled checks data sources mess test coupling dates back common libraries scope current work fix mock external dependencies validator powermock mocking static methods eventually ran class requires data source class created didnt find normal mockito tools mock validator didnt work set validator call doesnt register annotation validator finally ran href http stackoverflow questions mocking spring controller validator question field controller fails fix work strong validator strong strong controller strong strong test class strong strong exception strong 
+
+avoid creating business objects spring application application context ease mocking test case simply create validator bean inject controller simply inject mock test 

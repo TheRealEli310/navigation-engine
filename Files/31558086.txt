@@ -1,0 +1,4 @@
+jframe combobox class getselecteditem 
+main jframe code class call method getclient createbuildandpr class selected combobox correct lets call class return result class correct getselecteditem class 
+
+line creates object class reference existing selected solution pass combobox reference frame object parameter modify class variable define constructor class pass combobox variable reference combobox class single passed entire gui object access methods 

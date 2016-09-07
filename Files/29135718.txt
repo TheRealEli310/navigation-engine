@@ -1,0 +1,4 @@
+substitute imageicon imageio load images 
+making game eclipse export runnable jar run game computer images arent visible checking web stack overflow similar problems change code uploading images method load images methods draws image jpanel convert checked oracle documentation lost sort programming strong update strong suggested href http stackoverflow questions loading resources getclass getresource solution problem answers post didnt work case 
+
+created project eclipse copied class files projects src folder made resource folder added build path created images package resource folder copied images images package reason worked 

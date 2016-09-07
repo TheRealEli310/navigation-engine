@@ -1,0 +1,4 @@
+static variable referenced static context 
+line sb init back static variable referenced static context figure 
+
+change calling method 

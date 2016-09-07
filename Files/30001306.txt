@@ -1,0 +1,4 @@
+jbutton start simple animation 
+strong headfirst 2nd edition strong perform simple animation circle moving diagonally point click button jpanel draw circle actionlistener interface event button directly call animate function main animation works fine click button program freezes directly displays end result code 
+
+call repaint puts repaint request queue thinking immediately repaints screen requests stacking queue waiting executed effectively executed timer call thread sleep put distance animations timer provided util swing recommend google search animation sites explain things detail 

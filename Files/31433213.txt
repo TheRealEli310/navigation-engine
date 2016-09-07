@@ -1,0 +1,4 @@
+redelivery policy camel 
+small route custom redelivery policy repeat sending messages endpoint behaviour strange redeliverypolicy repeating error throwing send exchange begin route policy working creating time wrong repeat request intervals error occurs camel version logs 
+
+strange camels error handler redelivery performs step failed start route throwing error call problem frequent call stack deep put separate route configure route call error handler redeliver entire route beginning 

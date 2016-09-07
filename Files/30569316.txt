@@ -1,0 +1,4 @@
+dropwizard returns valid 
+developing href http www dropwizard io rel nofollow dropwizard app facing strange bug request included href http mongojack org rel nofollow mongojack simple query id path parameter worked included mongojack added annotations entity puzzles request accepted debug step method entity loaded mongodb memory fine suspect serialization issue stuck ideas strong update strong mongojack issue href https github devbliss mongojack issues rel nofollow https github devbliss mongojack issues custom dtos objectids shouldnt relevant anymore dont understand dropwizard maps response 
+
+blockquote dont understand dropwizard maps response blockquote dropwizard jackson generates json getters annotated fields methods exception occurs getters setters deserialization dropwizard automatically returns guess makes sense expects simple pojo dtos dumb getters setters 

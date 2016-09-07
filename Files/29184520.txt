@@ -1,0 +1,4 @@
+jvm memory management 
+memory management work jvm memory allocation crash mpi program mine order added lines underneath ran code heap size increased added line code heap size didnt expand anymore question jvm prefer expanding heap garbage collection expect jvm garbage collection memory allocation advance 
+
+jvm assumes allocating heap allowed heap headroom means greater gc throughput frequent gc pauses decide ram invest helping jvm perform default reasoning influence jvms choice large arsenal configurable options 

@@ -1,0 +1,4 @@
+spring mvc hibernate test autowired dao return null 
+strong maven dependencies strong strong accountdao strong strong test strong strong appconfig strong strong springmvcconfiguration strong strong springmvcinitializer strong strong autowired accountdao returning null strong strong em em strong web application works good lot things ul li create sessionfactory doesnt work li li classes appconfig class springmvcconfig class li li contextconfiguration initializers springmvcinitializer class loader annotationconfigcontextloader class throw type mismatch convert class class li li springapplicationconfiguration classes springmvcinitializer class li ul 
+
+em resolved making hibernateutils create sessionfactory em 

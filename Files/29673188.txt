@@ -1,0 +1,4 @@
+appending text textarea 
+create show line br advance 
+
+call replace text construct string setting append youll performance considered good practice stringbuilder string build string understand whats problem making overly complicated 

@@ -1,0 +1,4 @@
+error jdbc hiveconnection error opening session hive 
+run jbdc code hive2 error hive version hadoop version command line hive beeline works fine problem jdbc error strong error run code strong solution 
+
+blockquote org apache thrift tapplicationexception strong required field client protocol unset strong struct topensessionreq client protocol null configuration database default org apache thrift tapplicationexception read tapplicationexception blockquote error occurs strong version mismatch strong hive hive jdbc check versions match refer href http stackoverflow questions required field client protocol unset information 

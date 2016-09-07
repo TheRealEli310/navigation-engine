@@ -1,0 +1,4 @@
+creating jframe variable amount jlabels 
+make jframe string text entry field entry hashmap longtoshortnamesmap displaying entries follws joptionpane frame message longtoshortnamemap keys part editable text field ot popping jframe label editable text field edit contextual side field names limited characters place application forced trim field names characters notify user trimmed field trimmed additionally give option change trimmed named 
+
+main issue choice layout manager borderlayout component areas youre adding labels center area default replacing appending recommend adding label jtextfield editable field gridlayout panel 

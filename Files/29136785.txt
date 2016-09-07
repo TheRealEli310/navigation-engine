@@ -1,0 +1,4 @@
+write token file 
+tokenization code write result file txt file remove punctuation result code set tokens stackoverflow set tokens write file txt write file txt 
+
+added code comments code write token line file remarks ul li code basic tokenization href http docs oracle javase docs api util stringtokenizer html rel nofollow documentation doesnt care em stop words em punctuation instance li li legacy class backwards compatibility recommended regular expressions li li advanced tokenization apache lucene library li ul hope helps 

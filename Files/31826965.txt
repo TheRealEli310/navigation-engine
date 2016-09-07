@@ -1,0 +1,4 @@
+jsp send request servlet receive response open url 
+solve ways found approach existing web application jsps include button moment calls applet replaced jsp send base64 encoded xml file consisting parameters captured webpage properties file server thought steps ol li jsp sends request servlet required user introduced parameters li li step servlet receives information jsp extra information required properties file server side li li servlet creates required xml file encodes b64 li li proceeds send back users browser li li finally jsp open url b64 encoded xml parameter li ol thing jsp send request receive response finally response open url advance 
+
+blockquote solve ways blockquote ajax form submit jsp blockquote thing jsp send request receive response finally response open url blockquote ajax call br jquery included jsp br click button send ajax request servlet br check response ajax success callback open url br 

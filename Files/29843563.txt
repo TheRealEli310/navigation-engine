@@ -1,0 +1,4 @@
+disable service provider initialized sso spring saml 
+product identity provider initialized sso works fine requests href http localhost saml sso rel nofollow http localhost saml sso validated correct requests session created wrong status problem incoming requests endpoints secured href http localhost messages rel nofollow http localhost messages request correct authenticated session id works fine authenticated requests redirected identity provider page url https sso sso samlrequest disable behavior reject requests authentication failed response interaction identity provider 
+
+simply remove responsible initialization sp sso spring security default entry point behave expect send saml messages saml sso strong edit strong detailed steps ol li create bean implementing em org springframework security web authenticationentrypoint em simplest imlementation li li bean li li remove li ol 

@@ -1,0 +1,4 @@
+gradle deploy project ear 
+project structure deploy prj ear file structure ear configuration actual result generate 
+
+ill start observation instances build script refer task refer declarations level add folder source set result compiled classes added root ear exclude task copy compiled classes directory ear 

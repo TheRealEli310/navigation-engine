@@ -1,0 +1,4 @@
+set hibernate interceptor entitymanagerfactory 
+jpa unwrap entitymanagerfactory add interceptor session afterward wrap session back entitymanager session entitymanager reduce impact technology migration blockquote interceptor blockquote resume problem project works running queries alarms database place database alarm table client single database create multiple alarm table place table alarm place1 table alarm place2 means multiple tables entity interceptor goal changing table generate hibernate final sql blockquote pretend interceptor blockquote ul li em project jpa hibernate final em li ul 
+
+store information static href https docs oracle javase docs api lang threadlocal html rel nofollow instance read avoid complications session scoped interceptors mechanisms achieve goal session factory scoped interceptor bit easier configure 

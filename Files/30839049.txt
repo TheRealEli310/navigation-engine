@@ -1,0 +1,4 @@
+javapos print reciepts epson printer 
+develop software print reciepts epson reciept printer 
+
+ol li epson javapos adk epson website youll register download li li bit jvm installed li li install epson javapos adk ul li select bit jvm li li select option lib files copied jvms ext folder li li create port printer li ul li li installation folder epson javapos checkhealth check printer connected correctly li li run epson javapos setuppos setuppos exe create jpos xml file lets programm deviced connected configured ul li press li li add devices li li save jpos xml file li ul li li test installation href http sourceforge net projects javapospostest2 http sourceforge net projects javapospostest2 select newly created jpos xml li li specific path jpos xml system enviroment variable path li ol ready 

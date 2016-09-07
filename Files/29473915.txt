@@ -1,0 +1,4 @@
+jdk jaxb provider sun xml bind v2 contextfactory found 
+jdk eclipse unmarshaller xml line throw loaded jdk1 loaded javax xml bind contextfinder program filesjavajre1 25lib jar sun xml bind v2 contextfactory 
+
+hive jdbc standalone jar classpath remove solved problem 

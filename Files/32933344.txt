@@ -1,0 +1,4 @@
+update document mongodb objectid 
+accomplish pretty simple update single document mongodb collection document field update query succeeds query lookup document objectid works doesnt match document make query work object ids agree question bit similar href http stackoverflow questions query documents id field mongodb driver query documents quot id quot field mongodb driver errors update document doesnt match 
+
+youre update based string objectid make initialise objectid string building query 

@@ -1,0 +1,4 @@
+rxandroid textview events called automatically text change events 
+rxandroid debounce operation edittext search observer problem link called edittext occurs calling textchange events missing wrong rxandroid rxjava strong edit strong works null pointer logic list onerror method put stacktrace found problem skip initial call call strong skip strong subscription object strong daniel lew strong strong code working perfectly strong 
+
+emits current text emitting href https github jakewharton rxbinding blob master rxbinding src main jakewharton rxbinding widget rxtextview l96 documentation debounce add ignore initial emission 

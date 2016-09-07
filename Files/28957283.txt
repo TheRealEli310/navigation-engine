@@ -1,0 +1,4 @@
+android studio create project android dependencies 
+add pure module existing android project create pure project android dependencies 
+
+manually create files steps gradle based project ol li remove include app form settings gradle li li remove app directory li li replace build gradle end post intellij creates similar li li create folder hierarchy code src main img src http stack imgur s2xxf png alt enter image description li li select edit configuration drop menu start project li li click add configuration select application img src http stack imgur goqta png alt enter image description li li main class point main class li ol android studio intellij community edition 

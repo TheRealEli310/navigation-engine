@@ -1,0 +1,4 @@
+sudoku effiecent 4x4 sudoku 
+making sudoku program establish 2d array represent 4x4 grid sudoku point number horizontally vertically box case 2x2 dont write bunch statement comparing index index hundred times guys make loop compares vertically horizontally squares planning make sudoku 
+
+view algorithm simpler 1d array 2d trivial print table irrespective data structure solution algorithm 2d array youll complex 

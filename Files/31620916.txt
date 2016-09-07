@@ -1,0 +1,4 @@
+spring boot environment variable dashes application properties 
+application properties file override variables command line setting environment variables heres running command print values variables equals true expected equals href http blah rel nofollow http blah unexpected doesnt change property assume spring converts environment variables property keys find specific documentation 
+
+fixed spring boot previously youd notice dash translated underscore play bindings href https github snicoll demos spring boot configuration binding rel nofollow sample project 

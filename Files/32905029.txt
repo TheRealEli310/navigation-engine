@@ -1,0 +1,4 @@
+paypal transaction expired 
+paypal rest api process payments paypal express checkout method web application application point paypal sandbox testing transactions problem recently suddenly working coding redirect paypal site user approval page redirect url approval url bellow redirect url similar reason behavior suggestions 
+
+encountered issue resolved modifying return url received paypal callback explicitly add url redirecting actual url received href https www paypal cgi bin webscr cmd express checkout amp token ec 6u3345417c9052027 rel nofollow https www paypal cgi bin webscr cmd express checkout amp token ec 6u3345417c9052027 modified url href https www sandbox paypal cgi bin webscr cmd express checkout amp token ec 6u3345417c9052027 rel nofollow https www sandbox paypal cgi bin webscr cmd express checkout amp token ec 6u3345417c9052027 

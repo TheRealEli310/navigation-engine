@@ -1,0 +1,4 @@
+display prime numbers mvc 
+prime class extends jframe simple jspinner displaying prime numbers create model displaying prime numbers infinitely long ends model class written run code displays prime numbers displayed 
+
+suppose current invoked newlatest set false increment newlatest making assign current return makes number prime solve increment newlatest prime loop ensure continue found prime number 

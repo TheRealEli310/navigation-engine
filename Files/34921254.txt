@@ -1,0 +1,4 @@
+fibonnaci sequence 
+beginner programming code found kindly 
+
+implementation href https en wikipedia org wiki fibonacci number rel nofollow algorithm calculates fibonacci numbers amount numbers number blockquote numbers fibonacci sequence depending chosen starting point sequence subsequent number sum previous blockquote definition number sequence starts algorithm hr statements handle possibility user enters limitation prints case input calculates longer sequences sample input case entered printing br loop run times printing br fibonacci numbers hr read href https docs oracle javase tutorial nutsandbolts html rel nofollow statement works understand whats basically values change iteration sample calculated 

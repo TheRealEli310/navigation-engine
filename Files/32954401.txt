@@ -1,0 +1,4 @@
+filter objects inside arraylist result multiple conditions processing 
+searched solution havent found wondering create generic method accept strong variable strong number conditions returns subset arraylist conditions idea retrieve conditions method declaration point selected variables compare create subset filtered elements 
+
+youre href https docs oracle javase docs api util stream stream html filter util function predicate rel nofollow method works youre good define interface href https docs oracle javase docs api util function predicate html rel nofollow method call supplies method implementing class anonymous class lambda filter method simple 

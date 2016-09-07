@@ -1,0 +1,4 @@
+properly handle onerror eventbus rx 
+rx android event bus class lot error logs rx exceptions onerrornotimplementedexception fix suggest solution problem 
+
+subscribe implement method dont overload 

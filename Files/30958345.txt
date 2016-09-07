@@ -1,0 +1,4 @@
+observeon android ui thread crashes emulator testing 
+rxandroid run tests emulator android studio test run crashes blockquote instrumentation run failed due blockquote output android studio output mention lines code project tests relevant parts short project created reproduces crash h3 h3 h3 h3 h3 h3 test runs correctly modify code id cleaner modular tests run emulator running api version android 
+
+href https github reactivex rxjava rel nofollow rxjavas github page rxjava versions work android api rxandroid depends rxjava restriction applies mentioned rxandroid page tests run fine emulator running recent version android 

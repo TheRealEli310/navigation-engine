@@ -1,0 +1,4 @@
+jooq maven code gen find symbol 
+current project jooq framework code generator plugin maven ide eclipse working fine compile project ci server manually cmd fails message find symbol code generator plugin adding generated code classpath source path maven build therefor compile fail adding maven buildhelper plugin execution success idea part pom xml build plugins 
+
+compilation issues caused modification commons library infact jooq helped find bug 

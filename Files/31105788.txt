@@ -1,0 +1,4 @@
+openshift deploying simple ee app wildfly fails 
+deploy simple application openshift ear project single war ejb module inside war rest service calls ejb defined ejb module locally openshift wildfly cr2 postgresql deploying locally works fine code deployed openshift errors logs address mentioned openshift wildfly ip idea causing issue thought database connectivity issue 2nd phase starting persistence unit connected db openshift created successfully heres persistence xml datasource default didnt change standalone xml thing noticed deploy problem add ejb project simple defined ejb module web module class calling connected bindexception running application locally standalone standalone full ha profile works cases feel issue openshift configuration idea anymore openshift ee point direction appreciated 
+
+href https issues jboss org browse jgrp rel nofollow https issues jboss org browse jgrp talk rado husar resolve 

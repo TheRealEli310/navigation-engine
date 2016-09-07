@@ -1,0 +1,4 @@
+lang abstractmethoderror jersey rest webservice call upgrading weblogic 12c 
+part application calls rest webservice jersey client stopped working upgraded weblogic weblogic 12c exception trace mismatch jersey weblogic ws libraries strong dependencies strong 
+
+longer realize application logs stack trace misleading started weblogic logs domain log fact gave totally stack trace firefighting playing package overrides issue sorted final package overrides solve problem 

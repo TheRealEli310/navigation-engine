@@ -1,0 +1,4 @@
+ajax parsing spring mvc controller redirect jsp pages 
+object type controller handle method data binding front end html form method bind display method page spring framework jquery function pass data controller working method noticed successfully grabbing string controller method redirect webpage data binding longer work work change direct understand redirect javascript front end 
+
+understand requirement trigger ajax call loading output data current jsp populate jsp similar requirement jquery load implement worked fine case basically step process ol li trigger ajax call controller required data loaded jsp li li load required data load jsp current page div load completely replace current page empty contents current page laod jsp li li write javascript jquery codes manipulate dom jsp rendered previous step li ol snippet share results approach 

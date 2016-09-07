@@ -1,0 +1,4 @@
+http connections marklogic client api run deadlock 
+stress testing based middle ware accessing marklogic server client api run situation http connections opened deadlock situation occurs making shared instance create request reading specific closing concern handled issue connections closed properly care point connections handled connections marklogic server running number tcp connections marklogic server mac osx marklogic client api part thread dump similar threads wait server response details stack trace left readability jerseyservices tweak system properties improvements 
+
+sounds encountering bug jacksonhandle tupleshandle closing connections github issue href https github marklogic client api issues rel nofollow fixed client api run tests instance ml server version client api 

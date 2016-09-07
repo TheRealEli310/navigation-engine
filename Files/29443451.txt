@@ -1,0 +1,4 @@
+android expandablelistview null pointer exception called activity 
+issue expandablelistview widget work app app supposed start main activity button press start activity expandablelistview showing categories movies issue works correctly expandablelistview main activity throws null pointer exception attempting activity called button press learn run issue clear code mine received input borrowed sources attempt code work love wrong package case error occurs work code strong main activity strong strong main activity xml strong strong movie list strong strong movie list xml strong strong expandablelistadapter strong strong logcat strong strong edit strong forgot logcat 
+
+set content view main xml thing main xml listview return null 

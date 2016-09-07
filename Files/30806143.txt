@@ -1,0 +1,4 @@
+mocking private method enters method 
+powermockito mock private method test run test line method methods implementation considered mocking behavior avoid reason mock provide object 
+
+strong problem solved strong calling method validated found order avoid invert logic makes disregard methods body immediately return 

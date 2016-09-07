@@ -1,0 +1,4 @@
+image media mime type responses undertow 
+struggling find deliver jpeg png contents undertow sending byte wont work undertow blocking dont write file output usual achieve encoded image base64 undertows default base64 library didnt work edit providing code method encodes file works js html text files images encoding working question wrong sending back person requested responding hardcoded stackoverflow purposes strong exception undertow side image wont show browser browser decode image strong 
+
+lot work wondering mime configuration found write file outputstream exchange object heres 

@@ -1,0 +1,4 @@
+javafx chart origin coordinates 
+figure javafx coordinate systems work coordinates origin point scatterchart working video animation editor decided make timeline scatterchart nodes media images videos audio dragged similar windows movie maker scatterchart strong scrollpane strong user zoom pan timeline display line indicating player position strong coordinates start end strong timeline add line pane background chart coordinates origin matter img src http stack imgur pv6ri png alt enter image description axis find position chart doesnt work adding point chart find nodes position position provide solution explanation coordinates javafx calculated 
+
+solved problem adding chart data point start graph coordinate points node circle radius coordinate graph start function offset parent chart end coordinate acquired simply adding start offset result getvaluefordisplay function max coordinate argument 

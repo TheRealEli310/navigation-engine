@@ -1,0 +1,4 @@
+error find symbol loop 
+run program find symbol shots line problem declaring shots inside loop wanted print declaring shots loop output shots number enter shots cups shots shots cup1 shots cup shots cup store shots values int array 
+
+couple problems firstly println statement line youre referring declaring loop fine youre redefining inside loop hiding variable array array indexes begin updated reflect general style point variables generally begin lower case letter ideally 

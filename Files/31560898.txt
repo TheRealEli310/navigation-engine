@@ -1,0 +1,4 @@
+camera parameters setrotation method rotate frames recieved onpreviewframe 
+custom view extends surfaceview implements camera previewcallback view camera preview implemented functionality captureing video frames buffer streaming orientation device changed call setrotation argument sadly change orientation frames captured onpreviewframe callback achieve rotate streaming device video stream device rotated photos changed rotation setrotation affects rotation pictures front facing camera weird photos back facing camera affected question properly rotated frames usable streaming rotate callback onpreviewframe method 
+
+rotation swap width height 

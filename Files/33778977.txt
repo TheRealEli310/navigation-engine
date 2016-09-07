@@ -1,0 +1,4 @@
+create pojo classes csv header 
+csv file field names firstname lastname salary file generate pojo class datatype information csv file fields string type create pojo class build time csv file csv file generate pojo 
+
+finally solution requirement creating pojo class manually setting classname parentdirectory packagename csv file create directory file fields setter getters tostring method work header row file br code 

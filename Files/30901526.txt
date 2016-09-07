@@ -1,0 +1,4 @@
+android crash asynctask 
+run projent run asynctask activity shows content item app crash showing follow error message put current code itemactivity class crash asynctask activity item xml searching found checking progress dialog null set null problem fix doesnt work put wrong class solution itzik samara ligi explanation problem fix problem removing lines itzik samara adding code onpostexecute 
+
+touch ui elements background thread settext wrap runonuithread stuff onpre onpost execute ui thread read android threading 

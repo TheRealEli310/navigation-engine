@@ -1,0 +1,4 @@
+touch coordinates libgdx resolution al devices 
+code coordinates touch screen device 1280x960 resolution 800x600 orthographic camera obtain coordinates inside camera device touch coordinates strong touch limit screen axis strong 
+
+correct camera give world coordinates screen coordinates change camera zoom rotate work youre viewport vieports unproject method additional issues handle allowing letterboxing fitviewport gave itd reuse single vector3 instance wanted simple 

@@ -1,0 +1,4 @@
+wait intent service finish intent service started asynctask 
+scenario login form member key field user enters key communicate server authenticate fields key type add json object send server due request send gcm token login information call submit button click start async task background method start starting intent service registered local broadcast determining service finished handler oncreate activity wait middle doinbackground till receive local broadcast intent service add json object async task update ui relevant messages authentication success false migrated logic intent service lot couples good design 
+
+move logic broadcast receiver declare receiver class activity manipulate ui steps user click ul li start intent service li li send broad cast service li li send json object method li ul strong strong send json background thread simply define thread inside work 

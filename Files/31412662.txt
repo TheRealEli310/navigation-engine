@@ -1,0 +1,4 @@
+imageio open hdr file 
+open hdr file work imageio doesnt supports format problem information loss 32bpc perfect fine wont work solutions ol li find plugin open hdr file searching lot luck li li find convert hdr file format find plugin tiff luck li li reduce dynamic range 32bpc 16bpc convert png tricky png file win easy cut range killing image li ol recommend make options works idea 
+
+href https github haraldk twelvemonkeys issues rel nofollow read hdr imageio version rough edges work standard default settings radiance rgbe files youll download build project sources ill hope make release returned image custom backing samples samples bit interleaved rgb format default simple global tone mapping applied rgb values normalized range image reasonable reasonable time pass instance faster values unnormalized exceed max custom sophisticated tone mapping image data converting displayable 

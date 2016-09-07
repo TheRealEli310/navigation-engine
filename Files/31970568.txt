@@ -1,0 +1,4 @@
+reactive pull muti threaded rxjava 
+build strong reactive pull strong observer strong rxjava strong observer process concurrent batches buffer batch results size problem commands observable strong processed strong processed strong needed strong log notice commands run called needed strong question strong pause thread observer doesnt emmit commands request operator work 
+
+backpressure aware sources operators operators support backpressure source supports backpressure emit requested 

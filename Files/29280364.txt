@@ -1,0 +1,4 @@
+eclipse class found exception jars included classpath 
+running mapreduce program biginsights server eclipse mysql jdbc driver classnotfoundexception jars included classpath strong error strong suggestions similar issues stackoverflow suggestion helpful 
+
+include jar biginsight lib folder run biginsights application add path biginsights env file default location em opt ibm biginsights ihc lib em run application added classpath 

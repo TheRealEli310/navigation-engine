@@ -1,0 +1,4 @@
+mvn failure build 
+build project error installed maven ubuntu error wrong understand 
+
+problem maven assembly plugin configuration href https jira codehaus org browse massembly rel nofollow version href https maven apache org plugins maven assembly plugin assembly mojo html tarlongfilemode rel nofollow tarlongfilemode posix long file mode support edit pom xml inside tag add pre class lang xml prettyprint override tag pre class lang xml prettyprint override 

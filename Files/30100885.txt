@@ -1,0 +1,4 @@
+log4j external file loading multiple war 
+multiple web applications multiple war instance wildfly web application read log4j properties file called strong webapp1 log4j properties strong stored strong wildfly home standalone configuration strong directory start servlet called loadpropertiesservlet class webapp1 log4j properties deployed war wildfly problem deploy war structure logger war file deployed write filename defined code deploy webapp called webapp2 war load webapp2 log4j properties write path webapp1 previous webapp1 war write logs strong users otherpath webapp log strong log4j jar library inside war file change log4j appender log4j properties webapp1 webapp2 results solve 
+
+solved wildfly standalone xml war insert manifest file 

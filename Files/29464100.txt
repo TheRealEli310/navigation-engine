@@ -1,0 +1,4 @@
+set url includes ampersand thymeleaf 
+resulting html print shows url suggestions backticks escape ampersand code printed looked didnt find relevant update wont break link spring doesnt resolve parameter someparam true rendering tag output 
+
+thymeleaf href https github thymeleaf thymeleaf issues rel nofollow recent issue encoding escapes fixed 

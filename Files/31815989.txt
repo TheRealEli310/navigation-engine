@@ -1,0 +1,4 @@
+buffer latest emission rx observable backpressure 
+emits progress task emissions occur quickly resulting href https github reactivex rxjava wiki backpressure rel nofollow backpressure handle backpressure buffering latest emission ul li emits strong strong receives strong strong li li processing strong strong emits strong strong strong strong strong strong li li finishes processing strong strong begins processing strong strong emissions strong strong strong strong dropped li ul common case handling progress rx observable care updating ui latest progress information figure achieved rxjava 
+
+friend href http reactivex io rxjava javadoc rx observable html onbackpressurelatest rel nofollow http reactivex io rxjava javadoc rx observable html onbackpressurelatest 

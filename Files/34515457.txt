@@ -1,0 +1,4 @@
+dao design pattern category 
+category creational structural behavioral dao design pattern falls 
+
+dao data access object retrieve store data daos combined design patterns mvc model view controller daos act models dao pretty similar models pojo plain object dao design pattern j2ee design pattern implement design patterns classify major categories design patterns wikipedia blockquote computer software data access object dao object abstract interface type database persistence mechanism mapping application calls persistence layer dao provide specific data operations exposing details database isolation supports single responsibility principle separates data accesses application terms domain specific objects data types public interface dao satisfied specific dbms database schema implementation dao blockquote 

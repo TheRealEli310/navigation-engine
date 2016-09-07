@@ -1,0 +1,4 @@
+dynamic appcompat theme activity background fail 
+app api user switch dark light theme problem theme change activity background doesnt follow theme ul li simulators devices problem li li change androidmanifest xml theme br android style theme translucent notitlebar work br actionbaractivity li li create fake translucent theme inherited appcompat br problem li li force view apply theme activity doesnt li ul made sample app simulate problem pictures explain darktheme default setup androidmanifest img src http stack imgur o3vnj jpg alt lighttheme default setup androidmanifest img src http stack imgur aodns jpg alt user switch darktheme light theme img src http stack imgur njzd6 jpg alt user switch lighttheme darktheme img src http stack imgur hjniq jpg alt code files androidmanifest xml main activity xml layout file mainactivity class class menu main xml styles xml 
+
+simply move 

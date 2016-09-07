@@ -1,0 +1,4 @@
+loop input data arrays 
+make simple program user inputs employee information database employees including age wage id stored automatically trouble loop work run problems array suspect problem located loop code 
+
+problem code make array declaration elements change solve problem happening call nextline finishes line user enters age employee nextint reads int finish line code declaration reading code change 

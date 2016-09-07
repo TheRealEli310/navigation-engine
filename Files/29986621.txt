@@ -1,0 +1,4 @@
+custom printstream printwriter logs file prefixes line 
+application couple instances log level text streams ul li log file li li system li ul prefix lines timestamp code timestamp string give instance exception making class extending unfortuately work debugging code turns method called 
+
+logback framework easy set logger located located configuration prints logged timestamped file prefixes messages nicely 

@@ -1,0 +1,4 @@
+greenrobot eventbus 
+greenrobots app place configure bus stop sending subscriber message discussed href https github greenrobot eventbus blob master howto md rel nofollow https github greenrobot eventbus blob master howto md code configure return instance bus doc put instance make singleton include library plumb calls class confused appreciated judd 
+
+dont read document carefully href http greenrobot org eventbus documentation configuration rel nofollow work config 

@@ -1,0 +1,4 @@
+find smallest number formed digits divisible number 
+asked question interview clue blockquote write program find smallest number formed divisible number br number output number output number output blockquote found solution online havent understood bit good understanding alternative solution 
+
+similar approach manually lets pattern binary ill till number divides form binary replacing numbers formed strong ascending order strong 

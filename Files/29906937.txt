@@ -1,0 +1,4 @@
+twilio add pause loop 
+repeat message played loop entire call duration works message played pause seconds sample code twilio documentation mention href https www twilio docs api twiml rel nofollow https www twilio docs api twiml insert long pause verb tags nested inside current implementation pause reached guide edit redirect repeat message call dropped seconds answered adding pause casuing redirect guide wrong 
+
+twilio developer evangelist href https www twilio docs api twiml redirect rel nofollow verb twilio loop gather xml helps 

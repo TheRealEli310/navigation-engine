@@ -1,0 +1,4 @@
+deploy angular app wildfly 
+made angularjs application rest api backend built deployed wildfly made servers accessible internet public ip address port forwarding question make angular application accessible internet public ip deploy wildfly 
+
+package angular application application rest backend api package rest api war package put anglar application files html pages js scripts war package root rest resources web inf lib directories packaged jar files war packaging details href https docs oracle javaee tutorial packaging003 htm rel nofollow query rest api ton provide resource uri base url including webapp context angular app belongs webapp exposes rest api resource angular rest api rs path application config http angular service 

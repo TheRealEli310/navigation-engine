@@ -1,0 +1,4 @@
+drawing dynamic lines applets awt mousemotionlistener 
+thing lecturer taught mouse coordinates clicking applet thinking drawing dynamic lines mousemotionlistener class mousedrag method mouse coordinates couldnt make work suggest made error lot 
+
+order draw line start point point user clicked end point point user dragged simple matter simple start taking href http docs oracle javase tutorial uiswing events mouselistener html rel nofollow write mouse listener href http docs oracle javase tutorial 2d rel nofollow 2d graphics href http www oracle technetwork painting html rel nofollow painting awt swing details advice dont awt directly start override method perform custom painting add panel display screen awt years date applets gotchas dont deal start href http docs oracle javase tutorial uiswing rel nofollow creating gui jfc swing research javafx 

@@ -1,0 +1,4 @@
+generics involving inheritance 
+complex generics problem read documentation understand basically solve result error give condensed code generics understand achieve additions closer solution correct version point specific documentation general documentation generics code interfering challenges hard correct solution abstract base type implementing variants method calls decides depending operate instance calculation returns target instance version generics added version faulty compile 
+
+make code working resolve incompatibility type issues replace returning types cast result invoke returns btw reason complicated type structure 

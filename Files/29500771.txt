@@ -1,0 +1,4 @@
+set method object variable set 
+wondering difference set method object variablename set 
+
+main reason encapsulation variables private modifiable directly user client affect behavior parts system 

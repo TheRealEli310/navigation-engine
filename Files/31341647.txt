@@ -1,0 +1,4 @@
+illegalargumentexception servletcontext required 
+spring boot application running aws instance works fine machine autowiring resolves correctly environment clean configuration classes bit ideas strong configuration strong hr exception 
+
+make isnt set solve missing servlet context problem 

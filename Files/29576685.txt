@@ -1,0 +1,4 @@
+confusion private protected fields 
+users protected fields bad introduce problems code grows refer code car class extended class named toyotacar toyotacar object fields decided extend car class private members inherited subclass access fields public getter setter confusion make fileds car class protected private people introduces problems matter class write make fields private instances protected keyword methods planning subclasses 
+
+nailed good practice make private default specific design require attributes preferably methods inside subclass situation youll move protected situation remember accessors getters amp setters perfectly breaking encapsulation 

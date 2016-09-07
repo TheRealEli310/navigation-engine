@@ -1,0 +1,4 @@
+retrofit singleton gson covertor 
+blockquote jake wharton answer call restadapter create instance mytaskservice time interact stress regular singleton pattern order ensure single instance objects dependency injection framework manage instances bit overkill utilizing blockquote code works fine type adapter request create type gson parse setting adapter makes create restadapter everytime app requests running parallely correct 
+
+dont create time create restadapter register call multiple times pair instance custom gson call correct depending return type retrofits method calling 

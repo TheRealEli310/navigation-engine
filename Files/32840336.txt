@@ -1,0 +1,4 @@
+standalone form month date format 
+format incomplete date month precision guess apply pattern mmmm yyyy works fine locales english german ugly result languages flexion russian read href https docs oracle javase docs api text simpledateformat html rel nofollow documentation found supposed give context insensitive month day month pattern pattern llll yyyy works perfectly russian flexion languages fails english german test code output tested locales en de work properly hu fine dont important capital letter ru fi pl give correct output russian polish presume similar finnish questions ul li make similar date formatting class treat properly locales li li alternatively simple locale li ul 
+
+official bug href https bugs openjdk net browse jdk rel nofollow jdk bug status resolved fix backported versions earlier versions proper solution upgrade 

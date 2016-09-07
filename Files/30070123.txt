@@ -1,0 +1,4 @@
+mysql server configuration issues 
+topic max allowed packet variable working project eclipse loads csv files store mysql database servlet files smaller 1m works fine file 95mb big increase max packet variable ini file section mysqld 500m doesent work eclipse error pictures eclipse img src http stack imgur jg88t jpg alt enter image description ini mysqld img src http stack imgur xrikt jpg alt enter image description edit main code file upload store mysql edit set varibale de client section ini file work error code set varibable 
+
+strong check points strong ul li restarted mysql service changing ini li li run query 500mb equal bytes li li query return 500m running repeat step li li shown repeat file upload li ul problem persists mysql variable 

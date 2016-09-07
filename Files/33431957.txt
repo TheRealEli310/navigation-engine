@@ -1,0 +1,4 @@
+hide spring boot banner txt junit test springjunit4testrunner 
+configure spring boot application disable banner run configuration static main method good run test static main method banner displayed making harder focus relevant logging statements switch config annotation simulate 
+
+put test properties 

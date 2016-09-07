@@ -1,0 +1,4 @@
+embed vaadin composite component created visual editor webpage 
+design webpage website vaadin framework language visual editor vaadin place ui elements created composite component class mycomponent downloadmanager class extends ui class displays web page creating object mycomponent ui class components added visual editor shown web page doesnt display blank page pretty vaadin framework kindly excuse question trivial book vaadin guidelines find answer problem code snippet classes mycomponent 
+
+call href https vaadin api vaadin ui ui html setcontent 28com vaadin ui component rel nofollow https vaadin api vaadin ui ui html setcontent 28com vaadin ui component 

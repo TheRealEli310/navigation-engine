@@ -1,0 +1,4 @@
+mule maven failing 
+error run mule maven error failed execute goal project middleware services resolve dependencies project ch koala middleware services mule failed collect dependencies org mule transports mule transport vm jar org mule modules mule module xml jar net dev stax utils stax utils jar failed read artifact descriptor net dev stax utils stax utils jar transfer artifact net dev stax utils stax utils pom codehaus href http repository codehaus org rel nofollow http repository codehaus org failed transfer file href http repository codehaus org net dev stax utils stax utils stax utils pom rel nofollow http repository codehaus org net dev stax utils stax utils stax utils pom return code reasonphrase download mule module dependencies added provided tag pom xml files solution 
+
+modifying settings xml worked href http www javaroots solved mule maven failing html rel nofollow blog post 

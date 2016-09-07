@@ -1,0 +1,4 @@
+android stop background service 
+beginner android development learning services created simple service toast string continuously buttons start stop service clicking start button service started toasting string continuously stop service clicking stop button stopped toasting string continuously code start stop service 
+
+md mentioned stopping service remove callbacks runnable message queue waiting post 

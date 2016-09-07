@@ -1,0 +1,4 @@
+sort values map type map string list string 
+map type sort elements list sort map sort list map sort values independently hope clear keyset entryset elements map error list sort sort list null 
+
+list sort call doesnt methods fields provide comparator handle sorting method instance place end ascending order implement rules ul li dont swap point return li li swap null bigger return li li dont swap argument smaller return li li return default result comparing null values li ul comparator hr h3 update h3 methods wrap comparator create place nulls start end collection methods ul li li li li ul method added interface means dont call explicitly code stops comparator stored created method reference 

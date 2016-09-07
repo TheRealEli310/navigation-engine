@@ -1,0 +1,4 @@
+hibernate sqlite sqlite busy 
+hibernate sqlite multi threaded application sqlite busy error simplified code reproduces error thread widely suggested set pool size didnt packages 
+
+custom connection pool hibernate c3p0 job add pom xml hibernate cfg xml 

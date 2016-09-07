@@ -1,0 +1,4 @@
+split time equal intervals 
+start time end time split equal interval strong start time strong 10am strong end time strong 14pm strong split time strong minutes output strong output strong time time time time time time time time time advance 
+
+convert hours minutes order convert minutes back hours display hours minutes digits eventually pad leading digits pad zeros ways steps strong intuitive strong loop dont loops wrong input data wrong ends infinite loops strong strong begin end step loop strong test strong strong result strong 

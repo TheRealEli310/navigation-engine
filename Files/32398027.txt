@@ -1,0 +1,4 @@
+jxls jx image ends lang illegalargumentexception imgbean image bytes 
+put image xls file template jxls xls template defined cell a1 added comment jx area lastcell l10 cell a10 added comment jx items rows var lastcell l10 cell d10 add comment jx image imgbean barcodejpgimage imagetype jpeg lastcell l10 execute code exception blockquote caused lang illegalargumentexception imgbean image bytes byte org jxls command imagecommand applyat imagecommand org jxls area xlsarea applyat xlsarea org jxls command eachcommand applyat eachcommand org jxls area xlsarea applyat xlsarea blockquote variable null jpeg image bytes idea wrong 
+
+ol li upgrade jxls li li href http jxls sourceforge net reference image command html rel nofollow image command jx image src barcodejpgimage imagetype jpeg lastcell l10 li ol 

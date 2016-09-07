@@ -1,0 +1,4 @@
+save odocument map field vertex 
+assuming vertex lets call pokemonmaster db embeddedmap linkmap class pokemon create vertex put field pokemons pokemons lets pokemon assume create element pikachu map hoping add pokemons map working totally wrong error h2 edit h2 found solution creating map putting pokemons simply giving map parameter hope 
+
+strong update strong case embeddedmap create schema create master pokemon add pokemon hr embeddedlist href https gist github vitorenesduarte 164ded0bc52bf0e4418b rel nofollow 

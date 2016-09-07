@@ -1,0 +1,4 @@
+ejb receiver handling 
+learning deploy ejbs jboss tutorials ol li href http www tutorialspoint ejb ejb stateless beans htm rel nofollow tutorialspoint li li href https docs jboss org author display as72 ejb invocations remote client jndi rel nofollow jboss docs li ol basically created ejb project called ejbcomponent netbeans classes strong librarysessionbeanremote strong strong librarysessionbean strong deploy jboss server successfully ejb create standalone client creating project netbeans called test class strong ejbtester strong strong jboss ejb client properties strong run application error making mistake read threads stackoverflow listing problem solutions including code error configuration details ul li netbeans ide li li jboss eap li li li li ubuntu bit li ul 
+
+reproduce error missing jboss ejb client properties file ensure correctly project resolve case blockquote src blockquote hope helps 

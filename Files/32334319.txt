@@ -1,0 +1,4 @@
+collections sort mergesort arrays sort 
+jdk x64 found documentation blockquote sorting algorithm dual pivot strong quicksort strong vladimir yaroslavskiy jon bentley joshua bloch blockquote found blockquote implementation stable adaptive iterative strong mergesort strong implementation strong dumps list array sorts array strong iterates list resetting element position array blockquote array doesnt call dual pivot strong quicksort strong strong mergesort strong 
+
+api guarantees em stable em sorting quicksort doesn offer sorting em primitive values em natural order won notice difference primitive values identity quicksort primitive arrays slightly efficient objects notice objects deemed equal implementation provided change order quicksort option variant mergesort current versions em timsort em applies override sort algorithms 

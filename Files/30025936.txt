@@ -1,0 +1,4 @@
+heap dump jre windows jdk 
+create heap dump remote machine jdk installed change installation settings running windows pnly access commandline tools problem app remote machine freezes memory exception xx heapdumponoutofmemoryerror useless create dump option supported anymore jdk6 jmx allowed due security reasons ideas edit ul li windows li li jdk li li jmx li ul 
+
+solved problem patch jre files jdk version running jre6uxx files jdk6uxx copy files ul li jdk6uxx inattach dll javajre home li li jdk6uxx injmap exe javajre home li li jdk6uxxlib ools jar javajre home lib li ul files overwritten jre shouldnt affected jmap find dumps bye 

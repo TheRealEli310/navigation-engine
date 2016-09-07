@@ -1,0 +1,4 @@
+preserving entire jpa entity change 
+working application hibernate backend things id asynchronous event handlers fire jpa entity object updates tricky part jpa entity updated longer persistent reference original object end goal store original em em updated entity asynchronous component em entirety em couple ways strike complex ul li serialize original object store database refer asynchronously li li serialize updated object send jms message update database asynchronously li li create separate auditing object track replay li ul simpler pattern kind thing embrace complexity 
+
+hibernate envers handy case journal object change href http docs jboss org envers docs rel nofollow http docs jboss org envers docs 

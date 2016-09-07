@@ -1,0 +1,4 @@
+eclipse mars import org osgi resolved 
+eclipse mars latest version create osgi bundle activator class plug project selecting osgi framework standard select equinox result creation activator class empty compiler raises errors import org osgi resolved bundleactivator resolved type bundlecontext resolved type paolo 
+
+finally solved target platform wasnt selected paolo 

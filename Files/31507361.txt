@@ -1,0 +1,4 @@
+injecting mongodb instance play framework 
+understand connect mongodb play framework version 4x built di framework guice jongo version create jongoprovider class initialise mongodb instance relevant ip address mongodb inject model access injected instance static method correct accessing inject mongo object edit based mon calamaris answer 
+
+class belong guice dependency injection framework inject guice dependency guice static methods object 

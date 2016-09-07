@@ -1,0 +1,4 @@
+fastest char string conversion 
+alternatives converting slowest convenient speculate return previously created instance api documentation applies option reusing instance fortunate hash based lookup advantage caching feature api documentation people told coming feel lack complexity informations disturbing speculations correct kind official documentation performance guaranties caching mechanisms declared 
+
+specification performance methods results vary depending jre version vendor oracles jre easily inspect source code ul li doesnt compile constructor li li ugly cumbersome tricky internally creates empty appends character creates instance li li delegates li li creates instance li ul strong readable strong point view 

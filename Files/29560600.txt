@@ -1,0 +1,4 @@
+unbound classpath variable 
+rebuilding project maven hundreds blockquote unbound classpath variable m2 repo blockquote eclipse errors time rebuild occasion cursed stick file system jars details eclipse reason m2 repo correctly referenced preferences classpathvariables section environmental variables likewise properly set ideas folks 
+
+times strong step strong strong step strong br br strong step strong br deleting redefining env vars ul li open eclipse preferences window preferences li li build path classpath variables li li click set m2 repo li li click folder select maven repository folder repository folder users user m2 repository li li rebuild project li ul inside eclipse em add strong m2 repo variable em strong command line maven command br strong step strong br build path correctly defined check maven settings xml set change localrepository path settings tag inside settings xml find settings xml m2 folder user folder documents settingsusername m2 

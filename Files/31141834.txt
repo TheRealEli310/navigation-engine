@@ -1,0 +1,4 @@
+overloading method extended class 
+simple question strange result classes hr call method supposed call specific 
+
+blockquote y1 y2 calls method blockquote compile time type overloading performed em compile time em execution time type object call method relevant em overriding em compiler choosing method method aware call checked applicable argument list method isnt overridden execution time implmenetation called starker code wont compile doesnt method compiler doesnt compile time type execution time reference object 

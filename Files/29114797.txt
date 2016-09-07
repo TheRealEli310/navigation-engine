@@ -1,0 +1,4 @@
+good practice throw exception dao layer controller 
+writing rest api exceptions dao layer encountered exception dao layer controller return status code controller return thinking throw encountered exception dao layer controller service layer block controller return response acceptable standard 
+
+acceptable suggest implement exception handlers rest controllers wont clutter rest methods create model object rest layer error messages information return object exception handlers btw map exception class directly response annotation dont write exception handler exception 

@@ -1,0 +1,4 @@
+rxjava andriod results returned map function 
+list multimedia information part api call rxjava map function create list image urls response json handle returned list map function create string list urls response handle list urls separate activity fragment flatmap improved 
+
+java8 syntax subscribe method notes ul li assume multimediaobservable network call main thread observable emitted retrofit dont worry separate async thread li li bindfragment part rxandroid library automatically observe mainthread activities bindactivity alternatively observeon mainthread li li flatmap converts object observable back normal object map directly receive li li dont forget onerror subsribe li ul strong update strong flatten array handle multimediaimage item subscribe 

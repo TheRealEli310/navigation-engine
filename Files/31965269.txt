@@ -1,0 +1,4 @@
+util map primitive array single primitive 
+examples strong map single strong strong map array strong primitive wrappers forced single primitive arrays allowed question single primitives map 
+
+maps store primitives wrapper class arrays kind data stored map problems typically prefer primitive values faster smaller memory usage cases boxed type cases typically generics href https docs oracle javase tutorial data autoboxing html autoboxing effect important difference primitive counterpart null primitive null 

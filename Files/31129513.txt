@@ -1,0 +1,4 @@
+configuring intellij idea ultimate add jar classpath native location 
+problem setting project libraries expected intellij idea ultimate engine store native libraries jar runtime extract temporary directory load intellij ultimate detecting jar natives natives library location wanted classpath img src http stack imgur 1qdhy png alt problem extract runtime classpath documentation intellij community edition add jar select classes img src http stack imgur 5hj6a png alt expected change behaviour add classpath property advance 
+
+dont copy ultimate solving ui workaround edit library config file directly youre directory based project format itll find entry called move close project making change 

@@ -1,0 +1,4 @@
+spring boot jpa json nested object onetomany relation 
+project deals orm mapping objects relations rest interface treat objects spring jpa manage api pojos making request json prefer id referenced object bodies give insight finding tutorials opposite solution 
+
+purpose pair jackson annotations entity model serialized json mentioned href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsonidentityreference html rel nofollow official documentation blockquote jsonidentityreference optional annotation customizing details reference objects object identity enabled href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsonidentityinfo html rel nofollow jsonidentityinfo marker referenced values serialized ids true strong strong true deserialization require additional contextual information possibly custom id resolver default handling sufficient blockquote 

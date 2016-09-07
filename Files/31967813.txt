@@ -1,0 +1,4 @@
+produce ambiguity 
+wrote code structure surprised compiled invoked pick sense natural pick method didnt exist reasonable invoking empty varargs array surely considered ambiguous produce compile time error treated special case wrong treat means adding method break existing code happy state affairs goodness youd end invoking added method subclass 
+
+href http docs oracle javase specs jls se7 html jls html jls chapter language specification search applicable method phases blockquote phase performs overload resolution permitting boxing unboxing conversion variable arity method invocation applicable method found phase processing continues phase blockquote method considered applicable phase rest phases skipped string method considered phase blockquote phase overloading combined variable arity methods boxing unboxing blockquote 

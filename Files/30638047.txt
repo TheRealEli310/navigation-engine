@@ -1,0 +1,4 @@
+deserialize jackson spring boot 
+types json calling resttemplate parsing data jsondeserializer class question parse json isnt helpful case options case 
+
+modify strong approach strong alternatively de serilaize json object mapper require customjacksondeserialize strong strong extracted json modify logic strong approach strong iterate json array create separate objects activities 

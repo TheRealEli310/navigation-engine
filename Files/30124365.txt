@@ -1,0 +1,4 @@
+response header resteasy client 
+implementing restful service jax rs href http docs jboss org resteasy docs final userguide html single index html rel nofollow resteasy final share interface client service return void clientresponse deprecated resteasy introduced jax rs version return location created object inject response annotation add content location header shared interface implementation class service client build resteasy proxy framework retrieve header information atom links injected service reasonable client side filters interceptors 
+
+solution found filter process incoming response header 

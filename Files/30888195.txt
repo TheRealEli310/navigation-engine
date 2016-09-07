@@ -1,0 +1,4 @@
+sequential file io threads fail filesystemexception 
+fast ol li write small file li li rename li li delete li ol basically works absolutely fine id large number files relevant figures operation thread resembles end architecture communicate blocking queues operation file thread working running windows fails basically write operation works fine hands path object filemover move file fails file process file created process created closed file ensured files write strong idea file system sees file shouldnt solve strong code call app temp file fails app filewrite filemover fileremover randomstring pom xml 
+
+simply typo strong filemover strong run method destination em empfile infile em wont work file directory replace 

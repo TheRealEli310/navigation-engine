@@ -1,0 +1,4 @@
+distributed configuration hashicorp consul spring boot 
+share properties hashicorp consul spring boot read dependency spring cloud consul config find load folder properties files spring cloud config server spring cloud config consul 
+
+assuming consul running standard port configuration needed spring boot code pasted configuration files tricky part figure key values stored consul order visible spring boot app information documentation bit misleading answer question put values key config bootstrap key1 inside consul make work sample code worked pom xml application 

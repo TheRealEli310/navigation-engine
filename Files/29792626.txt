@@ -1,0 +1,4 @@
+orientdb create constraints edges code 
+nodes orientdb constraints edges node type master type slave edges master slave slaves constraint relationshiop master slave constraints edit doesnt work add slave pointing master access schema graph db create vertices edges work constraint correct 
+
+href http orientdb docs schema html rel nofollow schema graphs 

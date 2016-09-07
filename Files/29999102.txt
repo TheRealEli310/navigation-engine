@@ -1,0 +1,4 @@
+android app crashes start null pointer exception 
+android create navigation drawer screen android tutorials href http www androidhive info android sliding menu navigation drawer rel nofollow http www androidhive info android sliding menu navigation drawer exception android internal os zygoteinit main zygoteinit copied code activities code working perfectly add navigation drawer activity app crashes start menifest file main activity class 
+
+action bar theme activity check href https developer android training basics actionbar styling html rel nofollow part document theme activity manifest application activity sections instance 

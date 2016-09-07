@@ -1,0 +1,4 @@
+processing variable mousewheel 
+variable stores mouse scrolling 
+
+youll create variable set inside function variable valid single frame event 

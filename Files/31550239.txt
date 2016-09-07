@@ -1,0 +1,4 @@
+size linkedlist 
+linkedlist set recursion loop write size function return size linkedlist guess confused size function linkedlist setup doesnt initialize node head 
+
+current formulation instances nodes lists means distinguished head list context fix change variable start formulation empty list represented calling instance size list hr konrad states em list encapsulate nodes em design choice oo design principles situations pragmatically dont sacrifice abstraction performance reduce memory utilization 

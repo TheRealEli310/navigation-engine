@@ -1,0 +1,4 @@
+preventing swt shell disposing 
+created swt dialog implementation text fields buttons checkboxes important question dialog window popups correctly make gui problems click button swt close event firing validation method called depending result dialog closed shell close closes dialog disposes shell problem ol li dont rebuild dialog gui everytime open method called create dialogs program startup open close needed li li values text fields states checkboxes closing dialog positions main program good idea hold reference dialog object implement getters pull data shell disposed chance information li li shell disposed loose state dialog refill time display dialog li ol question possibility prevent shell disposing concept overlooked dont restructure complete dialog set 
+
+setvisible false close hide wont dispose values text box hide rebuild past values textbox hide 

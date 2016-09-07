@@ -1,0 +1,4 @@
+array bound exception splitting string 
+splitting string array bound exception find program 11th element null print null string records 11th element null kindly debug error 
+
+split method applied argument discards trailing null elements debug assigning resulted values array notice elements resulted array ends element pass limit parameter limit parameter positive pattern applied times array length split method return array trailing null elements 

@@ -1,0 +1,4 @@
+divide retrofit service declaration multiple interfaces 
+creating app linking api methods break declaration apis multiple files organized accessible retrofit explicitly disallows combining interfaces extension declare discussion issue pull request library authors decided extending interfaces spirit library href https github square retrofit pull rel nofollow https github square retrofit pull jake wharton author retrofit favors composition response single adapter ton proxies generated service declaration protos interface service reading composition inheritance fail grasp achieve goal breaking declaration divide interface declaration practice missing 
+
+create separate interfaces 

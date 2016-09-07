@@ -1,0 +1,4 @@
+order simplejparepository 
+entity dao simplejparepository implementation method findall accept pageable sort parameters sort order specification implementation give exception order make order 
+
+support sort multiple fields sort directions 

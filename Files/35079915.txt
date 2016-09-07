@@ -1,0 +1,4 @@
+url ids android async task 
+edit found solution problem json string output returned wrong url local images barely android struggle asynctask image marker map entry map image loaded server json image load works fine dont workflow image entry solution load async task loop app refuses tasks stops econnection timeout asynctask loop hope code public class mapsactivity extends appcompatactivity implements onmapreadycallback 
+
+problem asynctask limitations android os asynctask core size blockingqueue size counter asynctask debug problem lots async tasks blockquote asynctask blockquote blockquote change code buffer requestdata async task update market instance publishprogress onprogressupdate blockquote 

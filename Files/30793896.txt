@@ -1,0 +1,4 @@
+nxn matrix algorithm finds shortest path nodes 
+algorithms searched web including answers stackoverflow find find distance nodes simple matrix simple matrix set size matrix simple cool empty grid populating simple data distances test distance matrix ready tested alright nodes distances matter finding shortest distance reading algorithms implementations wanted implement dijkstras algorithm accept starting number distance variable distance variables heres attempt implementing algorithm algorithm find shortest distance nodes normal adjacency matrix distance matrix 
+
+dijkstras preferred route takes node finds shortest path em nodes em distance nodes create check inside dijkstras return desired end node reached fact href http en wikipedia org wiki dijkstra algorithm 22wikipedia rel nofollow wikipedia nice psuedocode instance step dijkstras find distance origin point distances nodes put priority queue 

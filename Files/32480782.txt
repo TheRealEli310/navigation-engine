@@ -1,0 +1,4 @@
+id missing json response spring data mongodb 
+saving object spring data mongo db created id return json response object inside controller object submissionid populate response json object property clue submissionid missing reponse request id coming response spring boot environment spring data mongodb 
+
+found solution creating config class 

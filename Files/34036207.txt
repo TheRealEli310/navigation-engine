@@ -1,0 +1,4 @@
+javafx load font face font sun javafx css stylemanager loadstylesheetunprivileged 
+asked similar question href http stackoverflow questions javafx font face css error loadstylesheetunprivileged wasnt clear lot code project couldnt post strong strong dont mark duplicate decided create project strong label strong make code small clean eliminate strong potential suspects strong error strong source code strong strong css file strong error intellij idea blockquote project files package font file present production teamviewer sample roboto thin ttf upgraded jdk 8u65 jdk 8u66 blockquote greatly appreciated 
+
+found work hood css loader function load font face css simply returns fails give warning function work path url string resolve path replace space means load fonts code stead css clojure work 

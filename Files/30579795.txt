@@ -1,0 +1,4 @@
+mule throw exception successful 
+mule flow strong http strong strong logger strong strong soap cxf strong successful strong strong strong logger strong spring flow component returns string xml string shows error hr error suppose parameters correct wrong strong updated strong init method implemented methods automatically method 
+
+partial information provided source problem located based main issue mule locate method call custom component methods arity prevent mule pick entry point solutions fix ul li set property named method call call component li li message processor call desired method directly li ul side component performs outbound http calls typically mule http custom code youre burying interactions inside custom code mule config wont outbound http call involved mule general lifecycle error management stats custom http calls 

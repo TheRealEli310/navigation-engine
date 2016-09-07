@@ -1,0 +1,4 @@
+javafx multithreading 
+facing problem javafx application strong preface strong dont specific application generalized people idea similar situation strong background strong implementing javafx application fxml file multi threading concept strong summary strong make application basically multi threading task multi threading completed sequentially move task multi threading main gui freezes strong strong outcome start threads controller main application freezes thread running background application runs sequence step works threads complete work t1 join t2 join freezes main application main application main gui proceed threads completed optimal solution multi threading blocking main application strong wrong strong strong info strong em solution suggestions stack overflow google em 
+
+chain tasks call handler cleaner make subclass daemon threads give idea 

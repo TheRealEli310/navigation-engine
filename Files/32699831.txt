@@ -1,0 +1,4 @@
+camel rest dsl response codes 
+route builder return created http response code present returns routebuilder forward results separate service class manually set code exchange 
+
+managed work 

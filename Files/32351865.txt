@@ -1,0 +1,4 @@
+share common module multi module maven project 
+project modules common put common logic inside common module model modules dependency modules build separately create jars testing put log dependency inside common module build project build correctly run jar jar jar fails noclassdeffound root pom common pom pom 
+
+default maven doesnt pack dependencies jar missing expected provide jar classpath run option create called fat jar href http stackoverflow questions build fat jar maven thread btw backup boris spider comment spring boot lot problems solved box strong edit reaction 1st comment strong common dependency deployed artifact reporitory nexus artifactory party dependencies common dependency local repository build put spring boot maven plugin build build fat jar multi module project 

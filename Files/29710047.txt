@@ -1,0 +1,4 @@
+maven spring hibernate lang classnotfoundexception org springframework context support classpathxmlapplicationcontext 
+working app maven itegrating spring hibernate searching internet added proper dependencies doesnt work netbeans builded project dependencies downloaded included ideas pom xml main 
+
+changing maven dependency scopes href https maven apache org guides introduction introduction dependency mechanism html dependency scope rel nofollow https maven apache org guides introduction introduction dependency mechanism html dependency scope 

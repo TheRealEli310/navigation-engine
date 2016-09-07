@@ -1,0 +1,4 @@
+log4j getallappenders returns null enumeration 
+file log4j log file solution answer href http stackoverflow http stackoverflow returns null enumeration care mentioned answer idea 
+
+source found place implemented category method returns enumeration elements loggertest execute test case comments deprecated test case commented find declared couldnt find thought helpful wasting time debugging hr explained href http stackoverflow questions migrating log4j log4j list appenders rolli answer getappenders api 

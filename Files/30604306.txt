@@ -1,0 +1,4 @@
+vagrant 
+installed strong vagrant strong machine strong hashicorp precise32 strong virtual machine installed strong strong install virtual machine 
+
+add lines strong vagrantfile strong install set environmental variables guest vm refer href http www dzone articles vagrant rel nofollow creating provisioning vm vagrant 

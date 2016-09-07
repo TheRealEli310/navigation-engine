@@ -1,0 +1,4 @@
+cdi inject class jpa converter eclipselink 
+question cdi jpa convert tests study inject objects converter eclipselink code analyze code wrong strong basically greater understanding ill session bean represents user logged session bean user timezone inject time zone converter write data utc database strong strong code strong em jpa converter em strong org eclipse persistence mappings converters converter strong strong usertimezonequalifier strong strong usersessionproduce strong strong strong injection converter features working perfectly eject entitymanager classes persist data database 
+
+spec mandates support cdi injection implementations applied converters access injection points access instance things retrieve bean instance qualifier literal instantiate 

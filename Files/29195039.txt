@@ -1,0 +1,4 @@
+getconstructor throws nosuchmethodexception 
+learn href http tutorials jenkov reflection index html rel nofollow reflection specific constructor picking form href http tutorials jenkov reflection constructors html rel nofollow class instantiate missing 
+
+working method doesnt array defined meaning accepts variable amount arguments passed passing array youve originally equivalent return good question lets debug documentation href https docs oracle javase docs api lang class html getclasses rel nofollow https docs oracle javase docs api lang class html getclasses check youll find reason sake completeness super original question edits contained constructor parametric problem occurs thrown returns empty array constructor matches criteria parametric constructor doesnt arguments array returned doesnt means constructor successfully found instantiate fails found constructor strong doesnt strong accept arguments 

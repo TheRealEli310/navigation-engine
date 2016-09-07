@@ -1,0 +1,4 @@
+google guava cache app engine 
+reasons google guava cache library google app engine href https code google guava libraries wiki cachesexplained rel nofollow https code google guava libraries wiki cachesexplained eviction listener concern cache isnt replicated instances case creating cache thusly post http servlet cache posts taking action removal concerned nuance app engine handles cache mention eviction listener app engine docs href https cloud google appengine docs memcache rel nofollow https cloud google appengine docs memcache guava docs update testing google guava cache work gae cache evicted end transaction seconds advance 
+
+problem caches stored local memory mind gae instances created destroyed time guarantee requests user served instance backup cache shared resource memcache datastore luck 

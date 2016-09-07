@@ -1,0 +1,4 @@
+upgrading cxf cxf 
+upgrading code bases cxf classes deprecated upgrade dependencies containerrequest response filters couldnt find set response 
+
+refer jax rs filter href http cxf apache org docs jax rs basics html jax rsbasics server rel nofollow filters containerrequestfilter containerresponsefilter introduced short actions achieve cxf configuration file 

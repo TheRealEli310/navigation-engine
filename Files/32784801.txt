@@ -1,0 +1,4 @@
+tomee javax servlet servletexception lang noclassdeffounderror initialize class javax ws rs core uribuilder 
+tomee host jsp web application server running perfectly manager webapp deploy web application home page web application displays perfectly attempting navigate jsp pages produces stack trace start debugging simple configuration error dont resolve package dependencies 
+
+wrong version tomee light weight href http www apache org dyn closer cgi tomee tomee apache tomee webprofile tar gz rel nofollow web profile edition switch href http www apache org dyn closer cgi tomee tomee apache tomee jaxrs tar gz rel nofollow jax rs edition supports jax rs made switch servlets worked perfectly 

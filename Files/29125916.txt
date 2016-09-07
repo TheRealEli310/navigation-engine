@@ -1,0 +1,4 @@
+handle exception 
+working spring mvc app problem call delete method dao controller class exception handle dao catch calling method controller itll catch error controller class method rapository class catch handle error handle exception dao class exception thrown child record found unexpectedrollbackexception 
+
+entitymanager remove immediately transaction commit forces jpa flush statements database exceptions handle exception dao add em flush block force statement database throw exceptions immediately 

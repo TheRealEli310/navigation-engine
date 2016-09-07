@@ -1,0 +1,4 @@
+dynamically resize cached threadpool 
+asynchronous threading futures work moment functionality similar cachedthreadpool things ol li increment maximum number threads allowed time thread successfully completes li li decrement maximum number threads allowed thread throws exception timeouts li ol custom executors pointing direction helpful solving 
+
+dynamically resizing thread pools considered carefully timeouts response reduce number threads assuming task parrelizable make problem worse heres code size pool task throws exception makes larger task completes succesfully 

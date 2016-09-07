@@ -1,0 +1,4 @@
+counting query spring data couchbase n1ql 
+writing couchbase repository spring module add implementation count method n1ql query doesnt work question write counting query spring data couchbase find spring documentation href http docs spring io spring data couchbase docs rc1 reference html rel nofollow link 
+
+exception annotation designed case retrieving entities mind projections scalar count uncovered corner cases rc1 adding support explicit boolean flag annotation unable find workaround custom repository method implementation appears support broken rc1 edit case simple return types long select single aggregation work bug improvement opened ticket href https jira spring io browse datacouch rel nofollow datacouch spring data jira 

@@ -1,0 +1,4 @@
+glassfish returns bad request payload 
+application working rest web service expects request payload backward compatibility longer working fine glassfish upgrade glassfish returns bad request glassfish source code found flag default false response returned flag populated bellow method based server config final attribute public getter didnt question setting flag true programmatically doubt admin gui work glassfish 
+
+issue king behaviour description href https net jira browse glassfish rel nofollow fix aplied glassfish developers added attribute element http server configuration 

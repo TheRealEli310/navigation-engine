@@ -1,0 +1,4 @@
+cassandra keyspace hypen 
+cassandra version cassandra cql driver creating keyspace problem create keyspace hypen test hypen code exception work create keyspace hypen characters 
+
+h2 h2 href http docs datastax en cql cql cql reference create keyspace html rel nofollow documentation blockquote keyspace names fewer alpha numeric characters underscores alpha character keyspace names case insensitive make case sensitive enclose double quotation marks blockquote 

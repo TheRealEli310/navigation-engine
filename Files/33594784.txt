@@ -1,0 +1,4 @@
+hibernateexception obtain transaction synchronized session current thread invoke transactional method 
+followig service dao run application log mark dao method application starts fine understand started transaction service method 
+
+invoking refreshstopjobs spring proxy directly observing stack trace case wont transactional aspect method invocation move transactional dao work considered bad practice transactional dao layer solution move refreshstopjobs method service inject reference service invocation works people aspectj proxy spring proxy based aop spring aop works read proxy pattern aspectj bytecode manipulation compile time adds code real methods runtime works good normal object invocation inject proxy works companyservice defined singleton prototype proxy statically mind service initialized companyservice 

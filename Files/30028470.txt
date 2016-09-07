@@ -1,0 +1,4 @@
+make netty app scalable 
+starting team develop chat server college students made research found netty suitable kind concurrent based app experience developing server side application time tackle kind project direction build server goal build whatsapp kik messenger line wechat real question make netty app scalable redis data persistent mysql saving relationship nosql database mongodb hope guide 
+
+documentation dont ul li href https github netty netty tree src main io netty securechat rel nofollow securechat li li href http netty io wiki user guide html rel nofollow netty user guide li ul scalability complex answear making application multi servers horizontal scalability depend information context session updated redis data persistency database usage depends data relationship sql language application clear database making join parts sql command application depends amount data millions billions amount connections choice back issues youve 

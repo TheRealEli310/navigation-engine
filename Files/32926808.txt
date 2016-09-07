@@ -1,0 +1,4 @@
+android listview linkedhashmap scrambled list scrolling 
+trouble finding documentation linkedhashmap listview android list populate correctly scroll list scrambled regular hashmap wrong strong mainactivity strong portion strong listviewadapter class strong 
+
+simplest solution rolling subclass assuming extend rid widgets class declaration moving local variables inside populate local variables inflating layout improvements ul li call themes styles li li stay sync li ul 

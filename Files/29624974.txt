@@ -1,0 +1,4 @@
+jersey unit tests http server 
+setup lightweight jersey unit test webservice produces json result validate directly http server create lighweight jsersey tests http server grizzly http 
+
+version jersey jersey test framework memory container doesnt involve network connection heres documentation ul li href https jersey net documentation latest test framework html rel nofollow jersey test framework li li href https jersey net documentation user guide html test framework rel nofollow jersey test framework li ul examples project source code tests ul li href https github jersey jersey tree test framework providers inmemory src test org glassfish jersey test inmemory rel nofollow jersey li li href https github jersey jersey tree master jersey test framework jersey test framework inmemory src test sun jersey test framework impl container inmemory rel nofollow jersey li ul dependencies ul li jersey li li jersey li ul side dependency specific servlet functionality 

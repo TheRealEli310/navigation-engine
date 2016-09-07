@@ -1,0 +1,4 @@
+identifying matching ascii characters files 
+read delimited file parse contents unlike csv delimiter string qualifier ascii u0014 u00fe unable detect string qualifier character fe characters greater heres simple program illustrates core issue make work heres link small test file href https www dropbox 1cilircwc3pq78c nonascii dat dl rel nofollow https www dropbox 1cilircwc3pq78c nonascii dat dl 
+
+file valid utf read iso change encoding file format strange source files live times sequence bytes valid default substitute href http www fileformat info info unicode char fffd index htm rel nofollow fffd byte sequence convert order throw exception case instantiate instance default 

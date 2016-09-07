@@ -1,0 +1,4 @@
+dynamically add view fragment oncreateview call 
+looked posts read documentation activities fragments em em incredibly common issue missing fundamental fragment fragment creating view xml runtime add image adding view viewgroupd creating linearlayout adding view things work crash error log attempted code advise add view fragment greatly 
+
+incredibly common problem solution private variable inflated view assuming root layout top element xml 

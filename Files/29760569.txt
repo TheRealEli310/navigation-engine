@@ -1,0 +1,4 @@
+resultset threadsafe 
+curious test case wanted realistic scenario code rs getint threadsafe single connection object scenario highly wanted opinion 
+
+values individual columns thread read row row navigation thread base odbc spec jdbc build risk thread values row row changed values rows track thread row work thread moves suggest resources preparedstatement resultset throw exceptions close resources lets avoid 

@@ -1,0 +1,4 @@
+jython 7b4 webstart importerror module named site 
+injected application webstart console client machine webstart app click details find exception stack trace jython2 7b1 worked jython2 7b3 fails 
+
+due class loader differences web start environment jython find files directory inside standalone jar file fix rearrange contents standalone jar bit script convert standalone jar workable web start environment youll run href http bugs jython org issue2283 rel nofollow jython bug work set system property point existing directory 

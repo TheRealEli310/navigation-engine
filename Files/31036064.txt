@@ -1,0 +1,4 @@
+add spark maven project eclipse archetype 
+patchy tutorial href http sparkjava documentation html started rel nofollow http sparkjava documentation html started added archetype img src http stack imgur gwgu8 png alt enter image description creating project giving error blockquote unable create project archetype sparkjava spark core defined artifact archetype blockquote repo url documentation nexus 
+
+create maven project add pom xml file youre create class run 

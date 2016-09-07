@@ -1,0 +1,4 @@
+rxjava multiple requests 
+rxjava rxandroid dealing multiple requests token server result parameter login verification returns success sessionid getsessionid method considered zip merge dont itll work give idea don train thought heres code 
+
+subscription call subscription br avoid flapmap operator observable subscription offen replaced flatmap call manage error flatmap token invalid return error observable returning api call observable 

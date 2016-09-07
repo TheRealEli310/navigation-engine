@@ -1,0 +1,4 @@
+convert oracle number long 
+strong convert oracle number long strong br em number means equivalent long href https docs oracle cd e19501 gcmaz rel nofollow https docs oracle cd e19501 gcmaz em br dont long parselong long valeof throws exceptions br br data db br br alternative br br returns values em null values replaced em br br br br throws exception pojo setter accept long br expecting result strong null null strong db null hold db long null hold br br spring jdbc template rowmapper br strong alternative steps strong apache utility method spring inbuilt method br 
+
+catch exception handle suitable application setting long check null longvalue strong edit strong understand confusion primitive types things native types strong store null values strong object types notice capital store null function accepting wont pass null store null function accepting modified accept object handle situation alternative 

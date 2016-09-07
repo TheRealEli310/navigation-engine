@@ -1,0 +1,4 @@
+mongodb aggregated month wise data 
+data db extract sum total credits debits month wise 
+
+strong href http docs mongodb org manual core aggregation introduction rel nofollow aggregation framework strong aggregation pipeline mongo shell implementation outputs console implemented 

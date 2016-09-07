@@ -1,0 +1,4 @@
+jdbc hive connection fails invalid operation isvalid 
+href https cwiki apache org confluence display hive hiveclient rel nofollow doc set jdbc connection hive eclipse shows error figure means connection password username works beeline problem authentication error facing code 
+
+call em legal em em implemented em hive jdbc driver href https github apache hive blob master jdbc src org apache hive jdbc hiveconnection rel nofollow hive source replace check simple youll fine 

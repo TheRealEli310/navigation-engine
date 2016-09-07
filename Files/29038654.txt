@@ -1,0 +1,4 @@
+create connection oracle 11g spring hibernate 
+application spring hibernate desktop application web application server involved create connection database brevitys sake copy paste left essential stuff problem heres spring config autowired dao obtain connection logs shortened successfully user login database applications sql developer strong made multiple times user password correct strong hopes research username password automatically capitalized oracle verifying important code connecting database fine spring hibernate suggestions fix problem strong edit strong important combination annotations xml configure project inject services daos session factory dao layer dont makes difference answer working 
+
+found needed add file spring bean spring configuration changed explanation works em em explained properties werent passed hibernate configuring hibernate spring helps correct configuration feel free correct wrong 

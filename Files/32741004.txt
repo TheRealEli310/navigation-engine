@@ -1,0 +1,4 @@
+probem string getbytes method 
+byte array size converting string code convert string byte getbytes method result absurd sized byte matching bytes previous byte array wrong printbytes function output 
+
+original illegal byte sequences sequences dont form valid utf characters unspecified behavior href http docs oracle javase docs api lang string html string byte 20java lang string rel nofollow constructor implementation bad bytes replaced characters href http unicode table en fffd rel nofollow byte character utf account bytes 

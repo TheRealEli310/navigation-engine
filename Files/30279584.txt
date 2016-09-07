@@ -1,0 +1,4 @@
+graphics repaint image removing 
+graphics draw image player map player moves update player image location updating map image advance replies messy code 
+
+dont draw directly jframe jpanel displayed jframe youre swing gui library draw background bufferedimage draw paintcomponent method draw image sprite location needed issues code ul li dont override call inside li li override call super method inside li li call inside paint paintcomponent swing timer li li method read image time method called slow painting crawl dont read image save variable li ul 

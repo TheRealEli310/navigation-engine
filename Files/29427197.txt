@@ -1,0 +1,4 @@
+javafx button detecting event time elapsed 
+implemented version project support multi touch functionality rewriting program wait user clicks object timeout seconds means program present screen point proceed phase pressed seconds pass pressed detecting click elementary adding solve tricky part measuring time implementing objects loop inside periodically check elapsed time purpose pseudo code prevent loop executing practice trick apparently worked objects realized thing objects turns shape mouse pointer circulating ring indicating process busy windows worse button recognize mouse inputs busy phase guessing objects heavier objects causing problem result question possibly native function make expire requiring loop lighter weight objects works similar manner listening mouse clicks work original approach 
+
+wait seconds add action performed button pressed cancel transition action 

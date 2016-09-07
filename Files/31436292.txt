@@ -1,0 +1,4 @@
+spark compute classpath sh 
+downloaded latest spark version started couldnt find compute classpath sh file bin previous versions provide party libraries application provide classpath party libs lokesh 
+
+spark driver extraclasspath property set spark defaults conf file conf folder setting sparkconf class info href https spark apache org docs latest configuration html rel nofollow https spark apache org docs latest configuration html search spark driver extraclasspath 

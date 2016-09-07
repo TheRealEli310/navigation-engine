@@ -1,0 +1,4 @@
+double checked locking work final map 
+implement thread cache cached lazily initialized heres pass implementation writing code netbeans warned double checked locking started researching found href http www cs umd pugh memorymodel doublecheckedlocking html rel nofollow em double checked locking broken declaration em read unsure implementation falls prey issues mentioned issues mentioned article related object instantiation operator block operator strings immutable article relevant situation thread cache strings thread safety depend action method 
+
+correct access side sync block implemented bare mind strong atomic operations strong implemented return operation progress method return wrong bit convoluted correct behaviour code relies workings map class good code account compiler jit processor optimisations inlining effectively change order operations wacky correct chose write map implementation 

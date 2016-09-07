@@ -1,0 +1,4 @@
+wildfly throws error launching standalone 
+build ms active directory authentication standalone application wildfly standalone full xml added web xml added created jboss web xml deploy application open browser error server log adding xml application deploy run fix 
+
+added code added standalone full xml standalone xml solved issue 

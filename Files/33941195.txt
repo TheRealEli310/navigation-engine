@@ -1,0 +1,4 @@
+maven compiler plugin error maven compiler plugin testcompile 
+error popup em pom xml em file dont happening blockquote plugin execution covered lifecycle configuration br org apache maven plugins maven compiler plugin testcompile br execution default testcompile phase test compile blockquote strong pom strong strong strong add projects workspace single displays error pom xml file strong solution strong worked clear 
+
+adding pom m2eclipse official href https www eclipse org m2e documentation m2e execution covered html rel nofollow site find answers edit br change pluginexecutionfilter plugin info change goals fit 

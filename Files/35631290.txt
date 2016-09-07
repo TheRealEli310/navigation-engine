@@ -1,0 +1,4 @@
+kotlin data class implementing interface 
+introduce kotlin current project decided begin entities map perfectly data classes data class implements interface reason compiler doesnt understand method implemented blockquote class video declared abstract implement abstract member public abstract fun getid kotlin long defined net alfad data entity blockquote additional keywords id param signature 
+
+problem kotlin loads class sees function getter property property getter kotlin class override function property bound implementation function workaround override original function kotlin class result jvm signature clash function getter bytecode prevent compiler generating getter making property answer adapted href http stackoverflow http stackoverflow 

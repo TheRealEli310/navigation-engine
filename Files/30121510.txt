@@ -1,0 +1,4 @@
+httpsurlconnection tls 
+read article transparently negotiate ssl connection official document blockquote class hostnameverifier sslsocketfactory default implementations defined classes href http docs oracle javase docs api javax net ssl httpsurlconnection html rel nofollow blockquote open connection ssl tls encrypted hassle view set tsl version standard implementation tsl tsl h2 references h2 ol li oracle corp href http docs oracle javase docs api javax net ssl httpsurlconnection html rel nofollow em javax net ssl httpsurlconnection em javadoc li ol 
+
+create set protocoll br br strong strong strong strong set em sslcontext em strong httpsurlconnection strong trick 

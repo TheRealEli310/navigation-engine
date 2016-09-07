@@ -1,0 +1,4 @@
+cast spring beans loaded applicationcontext interface 
+creating strategy factory loads applicationcontext beans specific annotations service pass string parameter factory return correct implementation faced cast exception service call strategy class 
+
+putting beans bean 

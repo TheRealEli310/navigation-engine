@@ -1,0 +1,4 @@
+class found exception junit 
+similar questions related maven maven running intellij junit jar added library create test methods classes problem run testrunner main method instantly error code thing confuses exact code eclipse previous project test worked perfectly fine missing ul li closing restarting intellij work li li importing libraries didnt change li ul 
+
+update problem correctly added library apparently intellij write test hit alt enter prompt auto fixes choose option import junit automatically adds classpath didnt properly manually 

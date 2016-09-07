@@ -1,0 +1,4 @@
+display popup progressbar javafx 
+display progress bar pop automatically close process finished code progress form class problem code ol li show displaying pop smooth progress bar li li showandwait displaying pop requires manual exit pop close progress bar displays li ol thoughts ideas 
+
+rules multithreading javafx ol li code modifies ui creates properties nodes part scene graph strong strong executed javafx application thread violating rule throw result unpredictable behavior li li code takes long time execute strong strong executed background thread fx application thread violating rule ui unresponsive li ol code violates rule calls constructor background thread set ui show dialog start background thread repeatedly bind properties progress bar indicator property task bound remain bound unbind hard fix code stands background task doesnt takes time heres version youre pause 

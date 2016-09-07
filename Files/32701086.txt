@@ -1,0 +1,4 @@
+type mismatch convert map string list animal map string list dog 
+trouble solving problem generics list cat objects list dog objects pass method return type method map string list animals figure convert maps list animals map list cats dogs works fine separate method cats dogs flexible solution lines error title simplified lists maps cat dog objects br br br dog class cat docatstuff method advance 
+
+href http stackoverflow questions listdog subclass listanimal arent javas generics implicitly isnt make method generic upper bound inferred youll replace body method 

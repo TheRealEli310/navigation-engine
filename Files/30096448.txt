@@ -1,0 +1,4 @@
+veracode cwe session fixation 
+fixing flaws found veracode static scan found flaws session fixation ul li request getsession set attribute li ul owasp invalidate session logout login login lines dont understand detected flaw lines understand happening fix 
+
+owasp invalidate session time log generic comment rightly mentioned logging lines code session set retrieve values good post code understand mark false positive veracode provide fix fix provide clarification mitigation case doesnt impact system 

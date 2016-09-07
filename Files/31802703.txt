@@ -1,0 +1,4 @@
+passing properties file oozie action 
+oozie action workflow set plan oozie coordinator schedule action runs camus job jar properties config file put workflow lib directory ideas pass argument camusjobproperties workflow doesnt run stuck prep ideas fix edit correcting namenode url error basically question pass properties file argument properties file located hdfs workflow lib directory 
+
+part question due incorrect url part configure strong core site xml strong property program set path core site xml object 

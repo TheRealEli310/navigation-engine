@@ -1,0 +1,4 @@
+sse broadcast jersey send event specific eventoutput 
+restful service user sse broadcast code id eventoutput added broadcaster send message eventoutput listening broadcaster receive message send event specific eventoutput 
+
+call object href https jersey net apidocs jersey org glassfish jersey media sse outboundevent html rel nofollow making appears require tedious builder class href https jersey net documentation latest sse html d0e11479 rel nofollow documentation minimum code send message 

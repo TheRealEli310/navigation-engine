@@ -1,0 +1,4 @@
+random dice roll 
+kind programming wondering write program random dice roll requirements br private members br final int numsides br number sides die br public methods br dice int sides br sets numsides sides parameter br create dice varying number sides main dice d6 dice create sided die br int roll br returns random integer including numsides br nextint random class return passed br br examples explanation finish 
+
+youre calling method dont write 

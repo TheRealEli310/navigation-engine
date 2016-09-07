@@ -1,0 +1,4 @@
+spring data rest intermittent error classcastexception 
+working spring data rest continues moving gave behavior strange intermittent exception time reload deploy application sdr endpoint data throws full error report href http pastebin xzzxkfir http pastebin xzzxkfir occur time reload deploy app occuring completely stuck reload fix odd behavior wondering insight issue occur roll back spring data rest relevant information provide ul li sdr li li sfw li li sdjpa li ul testing issue occurs latest snapshot 
+
+bugs jackson databind library upgrade release train gosling sr3 released href https jira spring io browse datarest rel nofollow https jira spring io browse datarest href https jira spring io browse datarest rel nofollow https jira spring io browse datarest 

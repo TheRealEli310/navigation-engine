@@ -1,0 +1,4 @@
+game crash callback failed closure instance garbage collected 
+problem game ljwgl3 long time implement key switch window fullscreen mode big problems game crash press key earlier timed crash hours run ideas wrong post complete source code post important parts code error code check key fullscreencreation code post 
+
+strong reference callback create garbage collector doesnt native code collects means store callback object field callback destroy window release strong strong release callbacks window href http javadoc lwjgl org org lwjgl glfw callbacks html glfwreleasecallbacks long rel nofollow callbacks glfwreleasecallbacks hr differences lwjgl href https github lwjgl lwjgl3 wiki wiki lwjgl3 migration rel nofollow migration guide explanation problem 

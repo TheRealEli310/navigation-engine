@@ -1,0 +1,4 @@
+ehcache spring mvc pagination cacheable 
+ehcache spring application cache result based pagination ehcache purpose pagination correct idea employee list evict cache evict cache related companyid write remove cache related companyid make caching work pagination evict cache related companyid add employee company 
+
+solution based comments native ehcache object cache interface spring doesnt support getkeys method cache manager iterate cache keys starting companyid remove cache href http ehcache org apidocs net sf ehcache ehcache html rel nofollow http ehcache org apidocs net sf ehcache ehcache html 

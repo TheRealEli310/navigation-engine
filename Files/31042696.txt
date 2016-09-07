@@ -1,0 +1,4 @@
+reference atomic 
+reference assigned atomically ul li understand means long double thread partially constructed number li li object dont understand assignment copy pointing address memory li ul wrong reference assignment atomic 
+
+means corrupted reference suppose class memory null pointer integer number suppose thread assignment suppose allocated memory pointer reference atomicity ensures check thread null pointer pointer object circumstances partially assigned reference points problem low level languages depending cpu architecture memory alignment pointer misaligned crosses cache line synchronously updated order avoid situation virtual machine aligns pointers cross cache line references atomic chance dereferencing reference written thread object referenced assignment random memory location lead segmentation fault corrupted heap disaster 

@@ -1,0 +1,4 @@
+akka creating child actors reusing single child actor 
+akka simple question actor repeatedly small subtask time actor receives message subtasks subtask designated child actor question creating instance child actor subtasks simply spawn single child actor send messages whats practice situation illustrate question dumbed examples simple scala guys actor class creates single child actor construction sends messages single child actor compare actor spawns child actor message 
+
+distributing work actors akka href http doc akka io docs akka snapshot routing html rel nofollow routers idea move selection child rsp worker actor message flow top referenced doc master creates set child actors called routees adds router router configured set routing logic implementations simple round robin logic message child actors router cares selecting child sending getsender pass message sender case message orginally received worker pass result getself unsure send directly 

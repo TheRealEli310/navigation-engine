@@ -1,0 +1,4 @@
+soap request apache camel blueprint apache karaf fails 
+send soap request camel blueprint blueprint xml class service empty class deploying karaf error wrong xml send request 
+
+xml parser runs error wont em cxfendpoint em correct xml namespace defined route work make reference cxfendpoint camelcxf cxfendpoint complete blueprint cxf similar question camel source href https github apache camel blob master examples camel cxf blueprint src main resources osgi inf blueprint camel context xml rel nofollow 

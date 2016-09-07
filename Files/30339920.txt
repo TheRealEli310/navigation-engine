@@ -1,0 +1,4 @@
+deploying spring application fails 
+context definition deployment error 
+
+attribute removed spring heres href https github spring projects spring framework commit 0fc5a5d912a4548f9bbf6f14024dc489d94cb2c9 rel nofollow juergen hoeller explanation blockquote removed ref local attribute spring beans xsd local lost differentiating role regular bean ref back days started allowing bean id reappear beans section configuration file profile blockquote replace occurences pre class lang xml prettyprint override pre class lang xml prettyprint override 

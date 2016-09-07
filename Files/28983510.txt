@@ -1,0 +1,4 @@
+subclassed swiperefreshlayout throws nullpointerexception refresh 
+searching week havent found suitable answer subclassed swiperefreshlayout onrefreshlistener initialisation works propperly listener added custom swiperefreshlayout custom swiperefreshlayout buildmethod class asynctask swipe exception implementing button refresh activity work completion activity layout advance 
+
+setting onrefreshlistener swiperefreshlayout change things layout thin activity change rest good 

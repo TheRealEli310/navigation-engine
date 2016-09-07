@@ -1,0 +1,4 @@
+communicate servers sockets 
+connect servers code run servers check nodes connected notand proceed stage ill start actual communications servers running didnt proper result output output node making system ready waiting connection node established hr output node making system ready waiting connection node established node connected node hr node showing connected shown wrong 
+
+make connection node node started connection fails throws exception ignore changed ignore printstacktrace find happening ignore exception dont things happen time loop isconnected socket makes connection socket finishes meaningless check connection worse connects immediately disconnects stuck infinite loop 

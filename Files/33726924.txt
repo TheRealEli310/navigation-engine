@@ -1,0 +1,4 @@
+netflix reactivex rxjava android library 
+quick question playing rxjava time writers tutorials dive em em talked differences reactivex netflix versions libraries confuse things mvnrepository link netfix github redirects reactivex ul li href https github netflix rxjava rel nofollow https github netflix rxjava li li href https github reactivex rxjava rel nofollow https github reactivex rxjava li ul tutorials answers question interchangeably ul li href http stackoverflow http stackoverflow li li href http stackoverflow http stackoverflow li ul theyre found class reactivex version netflix version version numbers missing lack clarity documentation reading reading wrong documentation point good place rtfm 
+
+library versions lt groupid groupid href https github reactivex rxjava blob md change log rel nofollow changelog item latest stable reactivex groupid deprecated removed point exists older versions tutorials refer netflix version written awhile ago updated 

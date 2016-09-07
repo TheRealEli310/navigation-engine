@@ -1,0 +1,4 @@
+aws validate provided access credentials eclipse 
+working aws sdk start amazon ec2 instance simple program provided secret access key code added credentials key error code 
+
+confusion program line finally credentials set replaced profilecredentialsprovider time valid credential file file form case youll credential file create credentials api em simple em understand run quick test make work main method declaring bad practice ec2client static simple program alright infrastructure growing multiple region instances 

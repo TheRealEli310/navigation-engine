@@ -1,0 +1,4 @@
+submit spark job program standalone spark cluster spark submit 
+spark perform computations submitted application works proper submitted spark submit script 
+
+dont forget add fat jar code context 

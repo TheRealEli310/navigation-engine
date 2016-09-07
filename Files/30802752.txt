@@ -1,0 +1,4 @@
+scala matcherror dataframes 
+application convert dataframe fields data types integer string list map double executing code error 
+
+fields error message points match error issue href https github apache spark blob branch sql core src main scala org apache spark sql sqlcontext scala l1193 rel nofollow source code match digging source code strong stated strong documentation href https spark apache org docs sql programming guide html inferring schema reflection rel nofollow tab blockquote spark sql support javabeans nested complex types lists arrays blockquote switch scala supported blockquote case classes nested complex types sequences arrays rdd implicitly converted dataframe registered table blockquote solution scala remove javabean resort href https spark apache org docs latest api org apache spark sql types sqluserdefinedtype html rel nofollow sqluserdefinedtype define persisted hack 

@@ -1,0 +1,4 @@
+properties pass app authenticate http proxy 
+application access web service http proxy app 3rd party app dont access source code launch configured passing launch parameters things wondering properties pass app logged users ntlm credentials authenticate proxy connections passed https proxyhost https proxyport dhttps proxyhost abcd jvm command line difference logs fails message passing http proxyuser http proxypassword didnt work wondering configuration make app transparently proxy info make code 
+
+finally figured trial error passing net usesystemproxies true https proxyport https proxyhost resolved basically vm command line strong djava net usesystemproxies true dhttps proxyport dhttps proxyhost proxyserver mycompany strong didnt pass https proxyuser https proxypassword proxy authentication credentials login ntlm credentials 

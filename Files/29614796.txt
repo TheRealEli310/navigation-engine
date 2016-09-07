@@ -1,0 +1,4 @@
+correctly output meta inf libraries spis gradle 
+attempting make test application gradle libraries service provider interface means modify error lucene50 spi information meta inf gradle specifically lucene hadoop jars build file 
+
+libraries provide implementations service file merge dependencies files added jar file lucene sees merge service files manually task href http cmoz blog service files uber jars gradle rel nofollow post basically finds service files combines easier solution href https github johnrengelman shadow rel nofollow gradle shadow plugin add task task 

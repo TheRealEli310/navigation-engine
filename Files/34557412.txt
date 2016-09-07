@@ -1,0 +1,4 @@
+command foreach function 
+command map foreach function introduced lets pretend strings sets 
+
+href https docs oracle javase tutorial javaoo lambdaexpressions html syntax lambda syntax kinds definitions body ul li single returning expression li li multiple statements enclosed curly braces li ul special case avoid curly braces invoking returning method 

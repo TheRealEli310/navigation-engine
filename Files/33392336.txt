@@ -1,0 +1,4 @@
+stream length wrong fall back reading stream endstream 
+send pdf documents parsing href http wiki apache org solr extractingrequesthandler extending extractingrequesthandler rel nofollow extractingrequesthandler specifically href https github mausch solrnet rel nofollow solrnet dont related problem pdf file warning log solr admin href http stack imgur lt7zg jpg rel nofollow img src http stack imgur lt7zg jpg alt enter image description researched pdfs read pdfbox found similar href https issues apache org jira browse pdfbox rel nofollow bug report change problem solr figure configure setting configure solr index files 
+
+pdfs broken pdf stream object endstream doesnt expected offset message means pdfbox plan message displayed pdf processed creator pdf work cleanly calculate stream lengths properly avoid opening pdf file cheap text editor saving issue pdfbox describes error pushback buffer small 

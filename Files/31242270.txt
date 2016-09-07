@@ -1,0 +1,4 @@
+int 0x0000 0xffff defined unicode character 
+read doc href http docs oracle javase docs api lang character html character blockquote set characters ffff referred basic multilingual plane bmp blockquote code found int defined thing wrong misunderstanding output blockquote blockquote 
+
+href http docs oracle javase docs api lang character html isdefined int rel nofollow documentation states character defined entry range href http www unicode org public ucd unicodedata txt rel nofollow unicodedata file identifies set code points em assigned em characters mightve named discovered code points basic multilingual plane assigned characters href https en wikipedia org wiki file roadmap unicode bmp svg rel nofollow map shows empty spaces code point assigned assigned future version unicode valid code point encoding decoding working unassigned code points perfectly valid strange 

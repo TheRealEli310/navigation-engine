@@ -1,0 +1,4 @@
+javax servlet servletexception adapter handler handler implement supported interface controller 
+question asked times solutions helps spring handle servlet methods reason methods isnt running test method running takes string parameter returns string add method takes body parameter returns int isnt working exception web xml mvc dispacher sevlet xml controller exception 
+
+missing responsebody method 

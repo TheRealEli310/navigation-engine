@@ -1,0 +1,4 @@
+implements interface spring aop 
+simple interfaces getters setters methods read write file system directly code write single invocation handler instantiate objects interfaces wondering spring code implements interface easily invocation handler interface 
+
+clean spring proxyfactorybean class initialised target bean object created target forward requests implement interface proxy call proceed method invocation object passed invoke method methodinterceptor nullpointerexception application context xml goodbyemethodinterceptor proxytester anyinterface basic pom xml 

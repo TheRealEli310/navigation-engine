@@ -1,0 +1,4 @@
+resolve method checkselfpermission 
+make app ready android stuck point request check permissions docs problem android studio included appcompat support lib method isnt dont wrong project write method recognized targetapi solution 
+
+godness stupid mistake imported supportlib jar jar replaced jarimport real dependency working guys 

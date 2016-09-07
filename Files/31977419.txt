@@ -1,0 +1,4 @@
+render jsp file browser jersey 
+site login page redirect page user logs post method sends username password server server checks username password exist method client post username password properly check exists idea make render redirect page 
+
+h3 em em h3 redirect href http docs oracle javaee api javax ws rs core response html seeother net uri rel nofollow passing needed values query parameters h3 correction option href http stackoverflow answer work h3 h3 em em h3 jerseys href https jersey net documentation latest mvc html d0e15323 rel nofollow jsp mvc feature demonstrated href http stackoverflow strong strong em em pass password uri path hats huge security risk pass body request hr h2 update h2 redirect login post href https en wikipedia org wiki post redirect rel nofollow post redirect pattern jsp mvc entire approach controller returning login page success post redirect feed controller redirect back login page solutions 

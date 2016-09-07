@@ -1,0 +1,4 @@
+spring configure tomcat datasource programatically groovy dao 
+tomcat datasource configured xml customdao groovy class datasource wanna switch tomcat datasource class file xml 
+
+heres piece code follow postgresql work 

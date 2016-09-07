@@ -1,0 +1,4 @@
+unselect selected rows datatable 
+working datatable single selection mode problem refesh page selected rows refreshing stay refreshed idea unselecting datatable rows case helping issue datatable code 
+
+managed bean sessionscoped unchange recommand read href https stackoverflow questions choose bean scope choose bean scope sessionscope reset selected rows clean selectedtype inside bean 

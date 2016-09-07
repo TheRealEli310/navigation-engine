@@ -1,0 +1,4 @@
+string split prevent empty element array 
+string test includes elements generate empty elements split 
+
+quantifier handle leading character 

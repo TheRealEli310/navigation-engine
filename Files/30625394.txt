@@ -1,0 +1,4 @@
+spring integration test loading annotated beans 
+reason dao loaded componentscan dao config class overrides datasource bean embedded db test class understanding componentscan find mydao load datasource testconfig class loaded fine mydao loaded org springframework beans factory nosuchbeandefinitionexception qualifying bean type acme dao mydao found dependency packages componentscan acme acme dao include mydao class classes contextconfiguration works fine dont list classes integration tests 
+
+setup load default beans appconfig overriding beans testconfig testconfig nested class mydaotest long declared static 

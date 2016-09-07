@@ -1,0 +1,4 @@
+sonar maven analysis class found 
+setup sonarqube maven support configuration correct sonarqube analysis run errors projects dependencies sonar maven plugin sonarqube analysis throws errors mentioned classes project makes confusing wrong 
+
+analysis run end failed analysis succeed message class found means raised sonarqube analyzer analyzes dependency source file instance extends class spring sonarqube analyzer file rule count number hierarchy level dependency class file meaning classes em directly em project message harmless warns analyzer find class files end accurate results fix classpath provided analysis 

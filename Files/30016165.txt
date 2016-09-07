@@ -1,0 +1,4 @@
+spring mvc thymeleaf random crash 
+wierd issue spring mvc thymeleaf run web application random crash time time works fine tells dont springtemplateengine bean configuration thymeleaf pom weird thing crash totally randomly works fine couple builds starts crashing build start crashing remove maven build target directory invalidate cache restart intellij idea idea wrong ps intellijidea 
+
+youre hitting subtle dependency issue href http docs spring io spring framework docs release spring framework reference html beans html beans injecting dependencies advised declare inter beans dependencies 

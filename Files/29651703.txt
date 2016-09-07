@@ -1,0 +1,4 @@
+set classpath ojdbc14 jar netbeans 
+application throwing exception caused settings set netbeans 
+
+netbeans project properties window click libraries left panel panel categories classpath configure compile run compile test run test add jar click project folder netbeans open properties choose libraries add jar 

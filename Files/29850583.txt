@@ -1,0 +1,4 @@
+ant junit gentoo fails 
+build jogl gentoo installed ant packages find build failing ant folder ant home idea causing failure check 
+
+work end gentoos provided ant packages downloaded ant package official website extracted created symlink home dir removed ant related packages previously emerged made junit4 jar found ant creating symlink junit4 jar tada works gentoos ant packaging fundamentally broken 

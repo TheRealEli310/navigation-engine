@@ -1,0 +1,4 @@
+exit message step spring batch 
+href http docs spring io spring batch reference html metadataschema html rel nofollow spring batch reference table column class href http docs spring io spring batch apidocs org springframework batch core stepexecution html rel nofollow find getter field database stacktraces stored column display stacktraces 
+
+blockquote truncateexitdescription stepexecution getexitstatus getexitdescription blockquote 

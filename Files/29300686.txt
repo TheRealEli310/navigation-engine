@@ -1,0 +1,4 @@
+ftpclient listfiles returning time seconds 
+written function retrieve file details retrieving details seconds part file retrieving actual 
+
+href https commons apache org proper commons net apidocs org apache commons net ftp ftpclient html listfiles rel nofollow ancient command command common ftp server returns listing similar unix command displays timestamps day precision files older year nowadays href https commons apache org proper commons net apidocs org apache commons net ftp ftpclient html mlistdir rel nofollow modern href https tools ietf org html rfc3659 page rel nofollow command retrieves timestamps precision connect ancient ftp server support command supported apache commons net 

@@ -1,0 +1,4 @@
+hibernate generatedvalue genericgenerator 
+field auftragsnummer stays null annotated generatedvalue store referenced generator class implements idea environment ul li hibernate li li spring li li li li db2 li ul 
+
+jpa mandates support fields order number doesnt depend entitys primary key easiest solution 

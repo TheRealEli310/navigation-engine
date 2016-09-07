@@ -1,0 +1,4 @@
+iterate arraylist appending values based user input 
+write method changing values objects arraylist time based user input users input dialog box converted integer assigned list called studentlist populated student objects objects int called result problem input dialog box added variables subsequent entries effect entry change objects move list object request input user bespoke dialog request import framework user input lines pop dialog box request user input string form method class called group problem resides loop exclude unnecessary code included method implement things assume setresult method exists student class studentlist populated advance hoping small tweak made 
+
+behaviour expected inputresult computed based inputstring put dialog request inside loop 

@@ -1,0 +1,4 @@
+temp disable jdbc resource connection pool glassfish resources xml 
+ee web app manage users database login thing productowner option login db made problem deploying glassfish deploying glassfish checks connection configure build dont database connection easily enable solution persistence xml glassfish resource xml deploying glassfish glassfish 
+
+managed setting jbdc resouce enabled false glassfish resources xml persistence xml commenting jta data source line 

@@ -1,0 +1,4 @@
+write subclass constructors duplicating code 
+call abstract method constructor abstract super class abstract method depends fields respective subclasses pieces code clarity abstract class subclass subclass subclass constructors wont work statement constructor otoh make statement constructors subclasses wont call fields subclasses fields initialized solve problem appears remove call superclass place call end constructors em em subclass results code duplication solve problem duplicating code calling end constructors em em subclass 
+
+guillaumedarmont pointed overridable methods constructs bad practice oblige superclass initialized subclasses change constructor change static method reference superclass constructor called strong edit strong calculate enforce id options solution option difference solutions strong strong id calculated object initialization time time id requested turing85 discussing 

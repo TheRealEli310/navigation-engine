@@ -1,0 +1,4 @@
+mahout adjusted cosine similarity item based recommender 
+assignment supposed test types recommenders implement good library thought weka stumbled mahout put forward completely mahout strong background recommenders algorithms wouldnt class developper world id layman terms tutorials href https www youtube watch yd40rvkuwpi rel nofollow href https www youtube watch 63k560livmg rel nofollow part2 preliminary results item based user based recommenders happy item based prediction found similarity functions strong consideration users rating biases strong wondering hints 
+
+sample created remember slower sqrt computations produce results dataset results make trade quality performance depending implementation 

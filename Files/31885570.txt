@@ -1,0 +1,4 @@
+check paginate button enabled disabled 
+webpage options navigate pages bottom previous check button enabled disabled selenium webdriver scenario refer html snippet 
+
+resolved issue utilizing getattribute function button class attribute button disabled utilized aspect resolved issue loop checked class equal current class class condition returns false control loop 

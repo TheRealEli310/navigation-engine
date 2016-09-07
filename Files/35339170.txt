@@ -1,0 +1,4 @@
+react native android splash screen 
+build splash screen android rn app steps href https www bignerdranch blog splash screens rel nofollow https www bignerdranch blog splash screens launch app build successful app crashes code strong splashscreen strong strong mainactivity strong strong androidmanifest xml strong 
+
+works changed strong androidmanifest xml strong works dont understand shows splash screen 

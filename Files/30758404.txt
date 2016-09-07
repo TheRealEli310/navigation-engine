@@ -1,0 +1,4 @@
+switch dispatcherservlet spring boot 
+disable dispatcherservlet springboot disable servlet registration uri mapping appears log log 
+
+added code main class servlet removed log 

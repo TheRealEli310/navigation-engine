@@ -1,0 +1,4 @@
+extract data excel mysql 
+extract data excel mysql beginning read file code file test xsls rows sheet test code run application row duplicated doesnt read seconde heres data file heres ideas 
+
+assume usage loop href https poi apache org apidocs org apache poi xssf usermodel xssfsheet html getlastrownum rel nofollow https poi apache org apidocs org apache poi xssf usermodel xssfsheet html getlastrownum strong number rows index row strong rows return row data loop 

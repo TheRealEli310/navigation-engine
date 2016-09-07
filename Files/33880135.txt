@@ -1,0 +1,4 @@
+rmi blocking void method return 
+rmi interface method void return create stub unicastremoteobject export stub required rmi spec calls block returns block case throws exception return type void throw exception transported rmi transfer arbitrary exceptions heard conflicting reports rmi block void return case definitive answer looked rmi href https docs oracle javase docs platform rmi spec rmitoc html rel nofollow spec address issue href https gcc gnu org bugzilla show bug cgi id rel nofollow people claim block addition read jdk source code blocks return method void 
+
+spec blockquote stubs method invoked ul li initiates connection remote jvm remote object li li marshals writes transmits parameters remote jvm li li strong waits result method invocation strong li li strong unmarshals reads return exception returned strong li li returns caller li ul blockquote emphasis mine block 

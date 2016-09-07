@@ -1,0 +1,4 @@
+multiple pom testng files project 
+setup jenkins points pom xml points testng xml goal multiple jobs jenkins pointing environment environments separated multiple testng files parameters setup testng xml file point environments multiple pom files pointing testng file 
+
+single pom file defines profile environment profile environment customize configuration required environment including pointing proper testng file pom include invoke jenkins job environment pfoo configuration job single jenkins job pass profile parameter job 

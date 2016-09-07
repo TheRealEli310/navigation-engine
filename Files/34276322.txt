@@ -1,0 +1,4 @@
+integer changing 
+made simple program running program immediately output fact debug href http en wikipedia org wiki eclipse 28software eclipse suspending program stepping loop increment resuming suspending debugger change long running program wait debugger pausing program increment works whats problem int 
+
+incrementing integer type eventually overflow large negative eventually cycle repeat convenience methods avoid inadvertent overflows href https docs oracle javase docs api lang math html addexact int int wouldnt loop hr blockquote overflowing puzzled overflowing fast find strange time suspend debugger blockquote suspend running thread chance thread slow call traversing huge stack native os code versus probability landing test loop incrementing local variable youd pretty quick trigger finger print statement stepping billion times row pretty good guess happen time branch prediction case optimizing runtime removes increment operation test intervening values read 

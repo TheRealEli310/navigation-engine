@@ -1,0 +1,4 @@
+finding repeating number integer array 
+question exam blockquote integer array find number repeating array time complexity space complexity blockquote couldnt solution iterate array maintain linkedhashmap store array element number times appears end search hashmap find number space complexity greater couldnt solution read problem carefully max size array 1million create custom hashmap utilise fixed size array million size achieved space complexity case storage required constant nore correct solution 
+
+multiples entries elements element repeating xor operator number xored number appears xor result leaving repeating number million numbers variable store xor result large 

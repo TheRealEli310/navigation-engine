@@ -1,0 +1,4 @@
+package exist 
+directory stuffjava created package compile statement folder pack created class import package program compile code error dont understand code fails run file pack folder explain error code 
+
+error program directory stuffjava means compile compiler find class make visible add classpath means compiling case sets classpath current directory directory package run program add class path assuming windows unix option slightly syntax replaced 

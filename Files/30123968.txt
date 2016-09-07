@@ -1,0 +1,4 @@
+html head title apache type lang string converted jsonobject 
+sending json servlet android application exception occurs servlet code correct wrong assign values uname pwd directly request getparameter servlet runs fine returns json output 
+
+servlet code threw uncaught exception ended server default http error page html flavor case apache tomcat server header pre class lang html prettyprint override explains json parser client side flipped reproducing normal webbrowser youll html error page entirety problem line youre prechecking catching potential read server logs fix code parameter wrong local variable named doesnt sensibly match request parameter 

@@ -1,0 +1,4 @@
+change textview activity class 
+settext textview activity class inflating layout textview unsuccessful gettext current tv heres code properly update kays answer added code working 
+
+good idea create objects adapter activity class object textview class activity change text class make textview static activity access adapter activity adapter 

@@ -1,0 +1,4 @@
+faster collections sort 
+made median filter algorithm optimize taking filter 2mm lines file read arraylist reduce half time arraylists algorithm minimized nested loops avoid increase time achieve lower seconds tops heres code snippet median filter whats happening looping arraylist provided add elements temporary arraylist sort avoid find median add final output arraylist clear arraylist loop filter anymore due lack elements optimize faster treeset index 
+
+implementation fast sorting dual pivot quick sort problem nitty gritty details fact sorting find median linear algorithms sorting log linear href https en wikipedia org wiki selection algorithm selection inspiration code dont library public implementation thing suggest fixed size array created size filter give small speed boost dont avoiding loops helps performance profiled proved thing write readable code finally kind sorted data structure wont time complexity log linear em em insertions 

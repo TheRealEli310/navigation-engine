@@ -1,0 +1,4 @@
+null pointer exception jpa query 
+glassfish server jpa injection query database retrieve full list company objects error companydao file line companydao file searchcompany xhtml file searchcompanybean persistence xml file 
+
+searchcompanybean create object companydao case field injections wont happen container doesnt persistencecontext enable injection inject companydao searchcompanybean container handle lifecycle object dependencies companyservice 

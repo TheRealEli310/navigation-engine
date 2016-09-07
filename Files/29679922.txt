@@ -1,0 +1,4 @@
+split servletrequest getparametermap effincietly spring mvc servletrequest 
+problem pose today request hits controller spring mvc environment controller split request parameters initial approach modelattribute annotation approach parameters efficient end question split request entities efficiently traversing list times reading answer 
+
+youre deal multiple objects handler method splitting form query parameters model wrap tom jerry therest object spring mvc href http docs spring io spring docs current spring framework reference html validation html rel nofollow data bind dont beanutils 

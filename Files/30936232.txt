@@ -1,0 +1,4 @@
+instance initializer keyword 
+compile piece code produces error change initializer row works charm printing default int em em bit confusing makes difference shouldnt redundant case explain scenes make clear works ps declaring initializer make work 
+
+explain compiler layer method compilation succed execution change method compile compiler copies code intializer initialization works set intializer bytecode field declared call doesnt work set reason code field declared usage makes sense works keyword lets code bytecode ctor whats easy speaking keyword loads main object reference stack field accessed call executed successfully 

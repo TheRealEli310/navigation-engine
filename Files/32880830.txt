@@ -1,0 +1,4 @@
+webservice play 
+wrong program 
+
+issue class context dependency injection assuming guice couple ways tackle easiest create interface bind implementation guice injected dependencies assume spawned controller inject controller hit method controller interface interface implementation reference docs href https www playframework documentation javadependencyinjection binding annotations rel nofollow https www playframework documentation javadependencyinjection binding annotations 

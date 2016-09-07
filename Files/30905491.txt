@@ -1,0 +1,4 @@
+class object resides memory 
+class created heap reference variable points understand write object class created heap points heap separate objects instance variables write created heap reference members accessible referring outer heap referred reference eligible garbage collection impact usage 
+
+class hidden reference outer class instance hidden reference outer class instance alive references action source code compile class inspection tool hidden reference youll package scope hidden reference called type reference talked 

@@ -1,0 +1,4 @@
+spring propertysource maven submodule 
+spring boot application single module inject configuration file properties located created submodules moved configuration file submodule start main application gedt exception solve issue writing path correct file loaded horrible solution pretty elegant flexible alternative solution 
+
+spring implementations find resource prefix telling spring search resource classpath classes bundled application depending applicationcontenxt spring default resource class case spring instantiating finds files filesystem relative absolute paths inside jars rule thumb prefix module component jar prefix module component jar people mad read href http docs spring io spring docs reference resources html rel nofollow spring documentation resources 

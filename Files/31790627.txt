@@ -1,0 +1,4 @@
+override default servlet behaviour url pattern web xml 
+jsp serve root page website url requests served statically naturally configured handling url href http docs roguewave hydraexpress html rwsfservletug html rel nofollow special cased functions default mapping handling strong requests captured url patterns strong case servlets handles em em urls request servlet invoked matter request made explicitly map url url servlet 
+
+empty pattern string match context root 

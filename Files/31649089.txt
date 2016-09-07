@@ -1,0 +1,4 @@
+mybatis insert complex object 
+scenario query xml wrote insert reading mybatis result map guide add lines mybatis config xml file error clarify set 
+
+attribute refer result map type stored database separate table nested inserts href http stackoverflow questions persist collection object mybatis supported call inserts resultmaps em selects em putting columns table separate object dot notation 

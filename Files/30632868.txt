@@ -1,0 +1,4 @@
+override library methods 
+working large android project href https code google google gson rel nofollow gson method called dozens times files provide special case tests time method called repeating tests time method id follow href http en wikipedia org wiki don 27t repeat rel nofollow dry doctrine simply override method thought make child class gson override method make dozens hundreds make work work gson extended thought alter gson library code dont route afraid break works perfectly area ventured suggestions 
+
+responses ahead give answer library class method declared point inherit override class library dont access source change ul li solution write library defeats entire purpose libraries invent wheel li li solution find work hack sounds reasonable choice li li solution live bug error lack feature issues show stoppers great program doesnt live desired detail li li solution abandon project viable option time li ul 

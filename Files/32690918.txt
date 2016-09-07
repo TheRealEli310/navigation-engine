@@ -1,0 +1,4 @@
+nullpointerexception filter ajax request 
+recently migrate apache nginx web server npe error filters ajax request realipfilter line setcharacterencodingfilter line thought npe added test change occur ajax request dont error great clue marc 
+
+told marthusson seelenvirtuose npe thrown data process classes filters filters relays fixing classes fine 

@@ -1,0 +1,4 @@
+compile clojure gcj 
+clojure built top jvm guess href https gcc gnu org rel nofollow gcj compile directly machine code find information strip bare essentials startup time memory footprint small id write small terminal programs unix principles clojure 
+
+theory aot compile clojure source code bytecode compile byte code native machine code practice expect work href https gcc gnu org onlinedocs gcj limitations html limitations rel nofollow severe limitations prevent modern applications specifically support language features stops clojure requires href http clojure org started rel nofollow incomplete implementations standard class libraries required clojure runtime wild clojure applications crash burn accidentally launched runtime openjdk oracle jres 

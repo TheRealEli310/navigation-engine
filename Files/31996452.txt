@@ -1,0 +1,4 @@
+return integer significant figures 
+figure ways return integer convert significant figures description problem method called returns instance variable type int called method definition separate class call method returned significant figures messy attempt instance variables separate class run separate test program error error changing return type method string weird error 
+
+dont hours getvalue tostring hours getvalue means integer hours getvalue return integer tostring converting string 

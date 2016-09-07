@@ -1,0 +1,4 @@
+debounce retrofit reactive request 
+working android project makes requests retrofit rx observable subscribe interactions request called multiple times execute predefined window time debounce apply operator directly observable work code executed time interaction occurs guess created observable interaction append execution observable kind rx dont 
+
+href https github reactivex rxjava wiki subject rel nofollow subject create publish subject subscribe receive notifications ready publish subject notice operator strong strong occurrence time frame strong strong depending case 

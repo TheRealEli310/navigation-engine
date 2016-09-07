@@ -1,0 +1,4 @@
+httpclient apache commons working jboss 
+set logback slf jcl slf maven project removed dependencies commons logging log system works expected org apache http wire http client jboss work fine tomcat fragments maven org apache httpcomponents httpclient commons logging commons logging edited added jboss deployment structure solution make commons logging working parallel logback file jboss version red hat jboss enterprise application platform version ga 
+
+putting slf4j logging framework dependencies jboss em boot classpath em log system initialized application war ear deployed servers directory servers directory put start based version documentation move proper place solution works hope helps 

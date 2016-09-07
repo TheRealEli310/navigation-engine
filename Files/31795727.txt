@@ -1,0 +1,4 @@
+stax complex large xml 
+xml file gb parsing entire dom practical sax stax accomplish parsing gigantic xml file examples simple xml file dealing nested nested nested areas levels found tutorial viable solution href http www javacodegeeks parsing xml dom sax stax parser html rel nofollow http www javacodegeeks parsing xml dom sax stax parser html botton stax handle nested objects created objects mimic structure xml display record summary ewuid pubinfo code update data xml licensed show full file small segment scrambled data 
+
+similar solution lscoughlins answer dom4j mechanims deal scenario href http dom4j sourceforge net dom4j faq html large doc rel nofollow http dom4j sourceforge net dom4j faq html large doc opionin straight forward easier follow support namespaces 

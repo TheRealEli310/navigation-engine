@@ -1,0 +1,4 @@
+changing labels resource bundle 
+writing application stuck point make menu menu item language change language application clicking desired language wrote properties files default called labelsbundle englisch extension called labelsbundle de german class dont mate told dont assume write btw click german menu list receive error edit strong id stress main issue change labels things rid mentioned error solved strong 
+
+strong exception strong output expected resource file called labelsbundle project happen resource file exists resource required exist put resource file called strong labelsbundle properties strong resource directory class means file properties file directory file properties files package give fully qualified path load properties file package named newpackage load resource strong setting label strong refer href https docs oracle javase tutorial i18n resbundle propfile html rel nofollow link details assigning resourcebundle variable case put precise 

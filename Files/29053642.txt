@@ -1,0 +1,4 @@
+optional jsonobject 
+strong strong strong strong rewrite util optional dont make jsonobject checks 
+
+refactorable nicely optionals case em getjsonobject em method return null provided key throw jsonexception optional monad designed handling nulls exceptions checks case hr educational purposes lets assume stored key method return null refactor 

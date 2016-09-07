@@ -1,0 +1,4 @@
+deploying soap web service jboss 
+jboss final rhel problems deploying servlets server deploy soap web service find href http servername jbossws rel nofollow http servername jbossws created dynamic web project soaptestservice jboss server wrote simple web service export project testsoapservice war file put war pathtojboss jboss final server default deploy restarted jboss server restarting analyze strong href http servername jbossws rel nofollow http servername jbossws view list deployed services strong found strong endpoints deployed strong explain deploy service 
+
+problem resolved adding web xml web inf directory contents 

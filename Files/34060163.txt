@@ -1,0 +1,4 @@
+produce metrics statistics api calls spring mvc 
+spring mvc produces statistics metrics restful apis href http www baeldung spring rest api metrics rel nofollow link explaining spring boot acutator understand good approach br correct produce statistics metrics apis spring mvc 
+
+spring boot creators recommend excellent href https dropwizard github io metrics rel nofollow metrics module href http www dropwizard io rel nofollow dropwizard project br spring application 

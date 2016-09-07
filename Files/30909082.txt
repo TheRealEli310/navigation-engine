@@ -1,0 +1,4 @@
+difference log4j slf4j binding log4j slf4j adapter 
+title difference log4j slf4j binding log4j slf4j adapter 
+
+simple log4j2 slf4j binding routes calls slf4j log4j2 common usage case code application slf4j api log4j2 underlying implementation log4j2 slf4j adapter opposite routes calls log4j2 slf4j commonly log4j2 older frameworks existing application coded log4j2 framework framework adapter route calls log4j2 slf4j slf4j route calls compatible implementation discussed case ideally case straight forward efficient require refactoring working existing implementation logging 

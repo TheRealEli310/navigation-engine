@@ -1,0 +1,4 @@
+jnaerator multiple dynamic libraries header 
+jnaerator generate single jar file include project id support dynamic libraries operating system arch single jar fiddling jnaerator include single dynamic library command packages dynamic libraries multiple systems packaged supported jar approach run jnaerator generate jar file platform 
+
+jnaerator option designed href https code google jnaerator wiki commandlineoptionsandenvironmentvariables doc terribly vague bundle libraries format expected href https code google bridj bridj href https code google bridj wiki librarieslookup wiki page embedded binaries library names expected platform easily fixed href https github nativelibs4java jnaerator issues author bridj amp jnaerator 

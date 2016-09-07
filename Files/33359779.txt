@@ -1,0 +1,4 @@
+jdbc pgbouncer work createstatement 
+learned jdbc pgbouncer work session pooling pre compiled pgbouncer transactional level pooling question pgbouncer pre compiled point api connect database pgbouncer 
+
+href https pgbouncer github io faq html bgbouncer faq states support pooled disable adding parameter jdbc connect url benefits databases connect future working connection pgbouncer 

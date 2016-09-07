@@ -1,0 +1,4 @@
+extending jconsole functionality client remote connections 
+simple jmx application exposed mbeans based href http www journaldev jmx mbean jconsole tutorial tutorial launch application custom class classpath extends jconsole client access remotely extended jconsole window opens create simple application package myapp jar run commands cmd managepement properties client connect remotely pull jconsole window extended functionality client reference extension connect 
+
+jconsole extended server side extension called client side theyd access jar extended 

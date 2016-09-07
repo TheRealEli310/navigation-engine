@@ -1,0 +1,4 @@
+append beginning string replace regex 
+string replaceall replacefirst append beginning blockquote desired output joe blockquote 
+
+dont escape special meta character regex matches start line 

@@ -1,0 +1,4 @@
+solr block join children query parser 
+evaluate block join children query parser href https cwiki apache org confluence display solr parsers otherparsers blockjoinqueryparsers rel nofollow created collection inserted documents issue query results error parent query guess part meant yield document matched filter 
+
+solr wiki refer href https cwiki apache org confluence display solr parsers otherparsers blockjoinqueryparsers rel nofollow query field contained parent child documents introduce field parent documents wiki parent documents parent documents field submit query match child documents return parents similar fashion match parent documents return children 

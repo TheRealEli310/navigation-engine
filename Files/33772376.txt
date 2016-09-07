@@ -1,0 +1,4 @@
+variables set 
+implement class field set field declaration prevent users call lead confusion user set knowing set user confused giving set method happened solution dont make constructor provide setter makes class lot harder extended multiple string fields needed approach constructor couple parameters user easily confused missing parameters apparently setting wont work prevent issue mentioned 
+
+generally builder pattern cases href https en wikipedia org wiki builder pattern rel nofollow https en wikipedia org wiki builder pattern builder object lets set fields options myclass instance builds 

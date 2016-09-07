@@ -1,0 +1,4 @@
+retrieving sharedpreferences android 
+building multi activity app geographic coordinates activity1 defined user saved sharedpreferences coordinates activity2 trouble retrieving heres method written retrieval variable written wrong 
+
+wrong context preference sharedpreferences change 

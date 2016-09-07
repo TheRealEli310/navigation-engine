@@ -1,0 +1,4 @@
+ejbconetxt setrollbackonly applicationexception rollback true 
+method throws application exception rollback true explicitly call ejbcontext setrollbackonly docs href https docs oracle cd e19229 detrans html wp16844 rel nofollow call ejbcontexts setrollbackonly exception marked rollback true case catch applicationexception rollback attribute set true explicitly call ejbcontext setrollbackonly throw exception catch block exception propagated client code snippet 
+
+exception exception created thrown thrown ejb transactional methods order caught transactional proxy ejb instance container completely unaware exception wont rollback case exception doesnt cross boundary transactional ejb method container wont aware exception wont rollback throw rollback true exception catch block explicitely mark transaction rollbackonly 

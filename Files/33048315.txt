@@ -1,0 +1,4 @@
+issue deployment websphere cxf 
+deploy webservices developed cxf websphere liberty receiving error request wsdl file suggestions bundling cxf libraries works locally version deploy server version issues 
+
+deploying classic v8 liberty v8 addition involved install libraries needed installed main culprit jaxws library bundled classic liberty issue specifically select feature activated server xml website instructive conflict issue href https www ibm support knowledgecenter sseqtp ibm websphere wlp doc ae rwlp restrict html rel nofollow https www ibm support knowledgecenter sseqtp ibm websphere wlp doc ae rwlp restrict html 

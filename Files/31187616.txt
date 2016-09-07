@@ -1,0 +1,4 @@
+remove multiple files multithreading 
+application generates lot log files clean folder time startup application simplest execute code separate thread performance reasons question remove file separate thread leave code usage multiple threads inside thread boost cleaning process worth mention talking android application hdd internal external memory smartphone 
+
+constructing files file deleting thread executes delete files needed spinning threads improve performance iteration loop lot io time words thread cpu bound io bound spinning threads cpu cores pay hand start thousands threads happen thousands files case logic bit complex distribute files delete threads 

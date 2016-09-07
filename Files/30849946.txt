@@ -1,0 +1,4 @@
+populating text view android fragment text file res raw 
+attempting populate textview android fragment luck fragment blank fundamentally missing read docs fragments confused code fragments xml application compiles errors view blank show correct understand wrong proceduraly 
+
+bug code cuz forgotten reference add hope work 

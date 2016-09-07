@@ -1,0 +1,4 @@
+updating textview android studio 
+textview set main activity button click button id textview start updating based code doesnt work problem loop explain android development 
+
+em em happen rid line increments iteration starts run enter conditions run fast wont recognize change 

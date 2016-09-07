@@ -1,0 +1,4 @@
+getactionbar returns null actionbar 
+creating android studio created action buttons aim dropdown menu everytime click button em menu main xml em added items search em mainactivity em added strings dropdown method added case everytime click button call function code run program app crash blockquote nullpointerexception attempt invoke virtual method void android app actionbar setnavigationmode int null object reference blockquote points null thoughts 
+
+error found solution put work wont null anymore hope 

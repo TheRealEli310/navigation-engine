@@ -1,0 +1,4 @@
+user enter account number return balance text file 
+text file columns account numbers balances user account number balance text methods deposit withdraw apply balances user update text file array easier ways text file 
+
+array practical approach problem made sample program array make run make account file names strong bankaccounts txt strong program simply opens file finds bank account number checks desired returns found 

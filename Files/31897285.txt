@@ -1,0 +1,4 @@
+nullpointerexception harmless line 
+junit tests fail stacktrace line local variables nullpointerexception place code set initialized add line exception occurs intellij marks warning tells false software threads variables local shouldnt matter issue rarely run tests times problem whats line file version file doesnt change full code href https github languagetool org languagetool blob master languagetool core src main org languagetool rules patterns patternrulematcher l300 rel nofollow https github languagetool org languagetool blob master languagetool core src main org languagetool rules patterns patternrulematcher l300 strong update strong complete stacktrace requested 
+
+issue didnt occur doesnt happen anymore jvm bug href http bugs view bug bug id rel nofollow http bugs view bug bug id 

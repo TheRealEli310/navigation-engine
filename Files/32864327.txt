@@ -1,0 +1,4 @@
+migrating hibernate 
+migrating application hibernate hibernate final postgres company deployment bad practice session factory initializes throws error apparently generated alias long postgres situation assigning annotation work worse relationship point screwd 
+
+addressed situation custom truncates hibernate generated identifiers chars max length postgres previous versions hibernate encountered error ignores proceeds initializing sessionfactory hibernate boot strap api throws schemamanagementexception cases aborts hibernate logs test scenarios pasted reference hibernate hibernate final strong solution strong ul li custom implicitnamingstrategy li li persistence xml li ul scalable solution helps show running permanent solution explicitly supply identifiers hibernate generate long identifiers 

@@ -1,0 +1,4 @@
+hibernate strange classcast exception transformers 
+code calling method classcastexception part trace pretty strange source code hibernate doesnt make sense target type class code cast map pointers hibernate upgrading edit spring release upgrading calls methods deploy debugging pointers edit factcodedto class requested 
+
+end wasnt hard find solution created custom resulttransformer setresulttransformer method code custom result transformer hibernate set aliasses queries anymore hibernate correct wrong aliastobean aliasses didnt exception 

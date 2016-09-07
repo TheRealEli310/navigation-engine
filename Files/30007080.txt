@@ -1,0 +1,4 @@
+sql sqlexception ora nullable foreign key 
+ora insert column foreign key constraint table definition column nullable child table column referencing parent pk table confused exception greatly appreciated exception ddl strong exception strong strong ddl strong code junit fact insert record null sql developer query directly failing programmatically spring culprit 
+
+havent disclosed data access code guess problem conveying database properly href http docs oracle javase docs api sql preparedstatement html setnull 28int 20int rel nofollow method code work edit based unit test code snippet provided setting parameter explicitly reason returns primitive object unassigned href https docs oracle javase tutorial data autoboxing html rel nofollow autoboxed object array created 

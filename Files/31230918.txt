@@ -1,0 +1,4 @@
+deserialization map integer keys jackson 
+serialize simple integer string map json read back serialization pretty simple json keys strings resulting json read code add key deserializer key deserialzier called fact prints wrong fix problem 
+
+program output text 

@@ -1,0 +1,4 @@
+restlet jackson lang noclassdeffounderror org codehaus jackson jsonfactory 
+make restlet work jackson br strong lang noclassdeffounderror org codehaus jackson jsonfactory strong jars img src http stack imgur jagzw png alt enter image description strong edit strong solved adding classpath href http www java2s code jar downloadjacksonall190jar htm rel nofollow jar br interested mistakes redundancies jars adding 
+
+configure application maven automatically required dependencies included dependencies dependencies transitively case file hope helps thierry 

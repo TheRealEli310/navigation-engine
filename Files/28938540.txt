@@ -1,0 +1,4 @@
+access path variables custom handlermethodargumentresolver 
+spring mvc handler method question access resolver parse url manually 
+
+nativewebrequest reference accessible resolveargument method handlermethodargumentresolver 

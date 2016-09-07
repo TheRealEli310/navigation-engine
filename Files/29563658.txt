@@ -1,0 +1,4 @@
+operator opencv 
+encountered convert code opencv opencv id operator mat object code whats equivalent 
+
+equivalent href http en wikipedia org wiki bitwise operation rel nofollow bitwise operator overloaded class case invert bits matrix listed section matrix expressions href http docs opencv org modules core doc basic structures html matrix expressions rel nofollow documentation blockquote bitwise logical operations logicop logicop logicop logicop amp blockquote href http docs opencv org org opencv core core html bitwise 28org opencv core mat 20org opencv core mat rel nofollow method blockquote bitwise public static void bitwise mat src mat dst inverts bit array blockquote store result 

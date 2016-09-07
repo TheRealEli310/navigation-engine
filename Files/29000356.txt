@@ -1,0 +1,4 @@
+runtime arrays copyofrange 
+big runtime javas arrays copyofrange array startindex endindex function equivalent efficient terms space time complexity write simple binary search arrays function copyofrange passing start end indices 
+
+href http grepcode file repository grepcode root jdk openjdk b14 util arrays arrays copyofrange 28long 5b 5d 2cint 2cint rel nofollow href http grepcode file repository grepcode root jdk openjdk b14 lang system system arraycopy 28java lang object 2cint 2cjava lang object 2cint 2cint rel nofollow native code href http en cppreference cpp string byte memcpy rel nofollow memcopy depending jit implementation hood magic copying making call copy block memory making distinct calls means efficient comparing solution youll choose implement dont binary search array direct access src dst items copy big perspective complexity number items copy size bits item space complexity 

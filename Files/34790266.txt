@@ -1,0 +1,4 @@
+length multidimensional array 
+similar questions asked times nicely answered length array dimension purpose arrays case null create things simple 1d case array iterate extremely nasty memory allocated pointless creature 
+
+point view language concepts youre express specifically disallow length array type specifically disallow length array disallowing necessitate compiler checks enforce rule basically useless rule behavior defined bottom line compiler checks ensure program makes sense theyre check unambiguous hr em edited add em pointed comments check array length part type information run time special case directly source code compiler doesnt means length array 

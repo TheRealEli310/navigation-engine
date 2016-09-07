@@ -1,0 +1,4 @@
+apache samza run 
+set apache samza kafka environment experiencing problems run modules kafka working correctly make samza work installed debian jeesy amd64 boxes instructions samza documentation launch script start yarn appmaster script provided samza error run test job run job sh script similar error referencing org apache samza job jobrunner class thinking configuration issue find reference wrong 
+
+working step ahead executing samza provided scripts path expect located bin folder lib samza jar files located dependencies issues 

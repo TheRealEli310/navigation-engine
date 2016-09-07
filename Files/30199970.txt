@@ -1,0 +1,4 @@
+serialize send form list objects inside main object ajax spring mvc 
+share code give situation class person call person serialize send form ajax call jsp jsp traverse list ajax call controller method retrieve person count correctly issue list persons null 
+
+list persons jquerys function takes account form elements href https api jquery serialize rel nofollow official documentation blockquote description encode set form elements string submission serialize method creates text string standard url encoded notation act jquery object selected individual form controls typically easier select serialization blockquote element listed names options serialize function correctly serialize selected elements href http jsfiddle net ab18r8ao rel nofollow working strong edit strong automatically fill list form parameters query string format means form ajaxs set youre 

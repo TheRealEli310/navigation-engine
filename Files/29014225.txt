@@ -1,0 +1,4 @@
+difference year year era 
+class documentation defines separate symbols year year era href https docs oracle javase docs api time format datetimeformatter html patterns https docs oracle javase docs api time format datetimeformatter html patterns difference year year era 
+
+answer lies documentation href https docs oracle javase docs api time chrono isochronology html isochronology ul li era eras current era ce current era bce li li year era year era proleptic year current ce era bce era iso epoch year increases upwards time backwards li li proleptic year proleptic year year era current era previous era years negative values li ul give proleptic year give year era difference important years bc era proleptic year bc proleptic year ad proleptic year negative year era snippet visualize works 

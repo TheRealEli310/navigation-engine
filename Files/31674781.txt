@@ -1,0 +1,4 @@
+android detect action event button 
+problem custom button built consist box small line button animates vertically press release handled custombutton class rest application button set clicklistener return false correct consume event pass clicklistener hierarchy problem emerge press button move finger button release screen button show animation action listener clue fix 
+
+found solve testing reading documentation found href http developer android intl zh cn reference android view motionevent html action cancel rel nofollow motionevent action cancel blockquote current gesture aborted receive points treat event perform action blockquote touchlistener works started switch case solved changed order make code handle action action cancel exact return false order onclicklistener trigger wouldnt returned true 

@@ -1,0 +1,4 @@
+reading inputstream webservice response 
+simple thing inputstream jersey webservice returned class restresponse dont stream client ideas missing pipe stream 
+
+types read based comment appears pipe commenting call access make stream consumed code point strong update strong appears actual problem caused closing chance solution stream open close typically good design practice open stream open long time underlying resource wont open stream consume 

@@ -1,0 +1,4 @@
+error parsing json scala case class 
+spring mvc web application scala code map json scala objects case classes json string array json objects objects line throws error blockquote exception thread main org codehaus jackson map jsonmappingexception construct instance scala collection immutable list problem abstract types instantiated additional type inform blockquote 
+
+problem type erasure runtime jackson types elements create luckily jackson support parsing describes types simple sample 

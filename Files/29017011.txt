@@ -1,0 +1,4 @@
+aspect pointcut annotation afterthrowing running 
+facing strange behaviour aspectj pointcut custom annotation pointcut problem aspect executed modify pointcut runs expected method raises aspect idea aspect executed custom annotation pointcut 
+
+make restrict pointcut em execution em restricted annotation em call em em execution em aspectj advise call method code good comparison href http stackoverflow http stackoverflow pointcut guarantee syntax dont aspectj compiler hand 

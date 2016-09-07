@@ -1,0 +1,4 @@
+convert seconds accumulated hhh mm ss 
+convert elapsed amount accumulated seconds hours minutes seconds seconds 24h wrap 0h 
+
+copy class prints 

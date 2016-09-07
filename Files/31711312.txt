@@ -1,0 +1,4 @@
+setting action bar elevation programmatically throws nullpointer exception 
+setting elevation action bar programmatically code highlighted yellow warning thrown remove warning strong warning strong blockquote method invocation getsupportactionbar setelevation produce lang nullpointerexception blockquote 
+
+add null check 

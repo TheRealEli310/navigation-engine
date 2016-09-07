@@ -1,0 +1,4 @@
+return type generic type implementation 
+refering code snippet interface takes generic type parameters implementation implementations write factory method returns implementation based key parameter passed factory method question correct manner returning instance implementation client side type argument splitter type 
+
+raw type raw types key carries type information infer type parameters argument passed avoid raw types make return type ugly forces caller method cast key carries type information usual objects caller 

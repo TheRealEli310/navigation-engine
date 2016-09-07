@@ -1,0 +1,4 @@
+retrieve date datepicker move fxml file 
+question passing selected date datepicker fxml file ve code similar threads head basically select date datepicker discountcontroller retrieve selected date fxml file confirmcontroller print wrong missing fxml file confirmcontroller file fxml 
+
+singleton pattern essentially creates instance calling argument constructor calling route wanted setting controller factory loaded discount fxml file doesnt make sense controllers singletons cases multiple instances simpler ways achieve define method pass date call load fxml href http stackoverflow questions passing parameters javafx fxml passing parameters javafx fxml bunch ways 

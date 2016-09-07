@@ -1,0 +1,4 @@
+android resolve method custom pageradapter 
+implement viewpager custom pageradapter access modify fragment displayed viewpager compiler error call method made put inside class google dev extends fragmentstatepageradapter method isnt recognized screenslidepageradapter class getcurrentfragment works inside class works fine inside object class call inside mainactivity error resolve method getcurrentfragment fix approach displayed fragment wrong 
+
+full code suspect declared incorrectly 

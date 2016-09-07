@@ -1,0 +1,4 @@
+parse xml set data model class 
+xml file parse requirement parse xml file set data pojo class tag data set pojo class respective field code print dom xml parser href http www mkyong read xml file dom parser rel nofollow link parse print data set data individual fields 
+
+efficient sax parser times efficient dom parser create handler class extend defaulthandler saxparser parses xml file sequentially override methods startelement method called saxparser start tag xml characters method called saxparser content tags xml contents tag large call time part content reason stringbuilder sample code make delete contents stringbuilder object endelement methods endelement method called saxparser end tag xml sample code typed editor tested compile time errors correct added main method added code call handler class parse xml problem 

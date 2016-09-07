@@ -1,0 +1,4 @@
+expire spring cache ehcache 
+spring cache spring context running fine ehcache href https github michaelisvy proxy samples tree master src main cache simple rel nofollow https github michaelisvy proxy samples tree master src main cache simple cache stored strong expire minutes strong lot examples ehcache ehcache spring cache 
+
+documentation library supports abstraction reference guide href http docs spring io spring docs spring framework reference htmlsingle spring framework reference html cache specific config rel nofollow set ttl tti eviction policy xxx feature option guava spring href http stackoverflow spring guava set cachettl 

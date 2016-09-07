@@ -1,0 +1,4 @@
+good pratice spring validation frontend backend 
+developing spring web application spring mvc bean validation jsr occasions validation frontend thymeleaf build register form save users information fields emailconfirmation passwordconfirmation kind fields dont save db transient notnull validate form domain save bean validation blocks notnull notempty fields question situation thought ul li make custom validation domain remove notnull notempty annotations fields li li create domain frontend validate copy entity domain li ul thx alexandre 
+
+option strong create domain frontend validate copy entity domain strong good separate dto data transfer object entity add validation dto check data correct trust client validation hacker wrong script client reason data work server correct 

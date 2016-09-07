@@ -1,0 +1,4 @@
+log4j rest service 
+log4j rest client logs information log events server side log4j dose record logs sample server side client code captures logs captures log testlog log project root directory server side code method running tomcat capturing logs log4j xml reference 
+
+refer href https logging apache org log4j manual api html rel nofollow documentation helloworld mixing log package log4j logger syntax code problems youre calling instance logger logging method catch block log exception library ability log exception object including message stacktrace edit finally found answer project client side main server side rest service log config problem client side logging local directory server side logging tomcat directory 

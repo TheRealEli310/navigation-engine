@@ -1,0 +1,4 @@
+send json object array objects spring controller 
+domain models mapped hibernate onetomany create json object frontend send spring mvc controller set model data model classes conceptmodeldetails instructions send method frontend create send json object controller eror bad request suggest deal 
+
+found problem code explained bozho href http stackoverflow questions hibernate lang classcastexception org hibernate collection persisten br spring controller 

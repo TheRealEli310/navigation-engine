@@ -1,0 +1,4 @@
+stop listener separate method 
+create file watcher org apache commons io monitor filealterationmonitor file captured correctly stop monitor task separate method working source code 
+
+called time recreated called instance created called save variable created time subsequent calls access original instance fix declaring method create monitor true passed 

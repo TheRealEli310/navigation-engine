@@ -1,0 +1,4 @@
+dropwizard admin resource 
+drowpizard upgrade add admin resource dropwizard shown operational menu 
+
+dont easily href https github dropwizard metrics blob master metrics servlets src main io dropwizard metrics servlets adminservlet rel nofollow created built extend href https github dropwizard dropwizard blob master dropwizard core src main io dropwizard server defaultserverfactory l171 rel nofollow override href https github dropwizard dropwizard blob master dropwizard core src main io dropwizard server abstractserverfactory l435 rel nofollow create custom admin servlet links set server factory configuration involve duplication code fragile easier register admin servlet addition regular ideal 

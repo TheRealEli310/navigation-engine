@@ -1,0 +1,3 @@
+convert inputstream stream string charset 
+convert consists lines line read immediately case 
+

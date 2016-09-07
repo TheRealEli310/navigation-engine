@@ -1,0 +1,4 @@
+game programming passing main class object 
+efficient dont time implement game main class loop updates frame creates objects question considered efficient pass main class object constructor case developed game android 
+
+increases coupling objects depend reduces usability tenancy produce spaghetti code dont understand efficient shouldnt main class single object reconsider system design mind elaborating 

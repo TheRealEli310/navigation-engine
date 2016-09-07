@@ -1,0 +1,4 @@
+enable remote management operations wildfly 
+read values standalone xml wildfly error message jboss works fine coding inside ejb singleton error moment client execute modelnode id 
+
+dont el lord code accomplish project pattern startup singleton initialize application thing programatic login logout wildfly logout credential cache flushing depends acccessing security domain problem remote management accessible startup shutdown starts ends application started stopped posted similar question href https developer jboss org message rel nofollow https developer jboss org message 

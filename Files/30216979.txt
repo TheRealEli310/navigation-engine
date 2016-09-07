@@ -1,0 +1,4 @@
+difference streams rxjava observables 
+streams similar rxjava observables stream definition blockquote classes package provide stream api support functional style operations streams elements blockquote 
+
+stream rxjava pretty similar alike operators filter map flatmap built usage perform asynchonus tasks rxjava stream youll traverse items collection pretty thing rxjava traverse items collection rxjava focussed concurrent task synchronization latch task rxjava slower stream rxjava compared compute 

@@ -1,0 +1,4 @@
+android push notifications gcm 
+developing simple app receives gcm push messages php server app server works fine multiple push messages thing add app push message received seconds lets 5seconds app toast message network error wakefulbrodcastreceiver receiving push messages code working fine expect working br pressing button notifies server app ready receiving notifications br scenarios ol li app havent received push message seconds passed button press event show toast li li received push messages seconds passed received message show toast li ol code snippet written gcm handler class handles push messages constants time toast log displayed 
+
+wanted show check network connection message app dont receive push notification php server seconds br href http stackoverflow users udi udi href http stackoverflow users zharf zharf stated onhandleintent returns service shuts delayed runnings br timer task code 

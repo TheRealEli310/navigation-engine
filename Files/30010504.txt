@@ -1,0 +1,4 @@
+serialportevent receive data jssc continous loop 
+serial communication arduino uno library jssc strong seriaportevent strong listener receive bytes serial port arduino store linked list send individual data loop dont wait response serialevent prints bytes received console wait till data linked list program looping serialevent adds bytes linkedlist register bytes received debugged program debugging program work program stuck check bytes linkedlist lt dont check eventually receive correct response bytes arduino 
+
+found answer wasting 4hours method bytecount timeout 100ms side read method 

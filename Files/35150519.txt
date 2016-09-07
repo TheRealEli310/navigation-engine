@@ -1,0 +1,4 @@
+jersey modify query parameter inside resource 
+calling resourceb inside resourcea query param param1 change param1 inside resourcea calling resourceb code 
+
+initialize resource modified values control di provider injects declaring jax rs annotated fields br understand question modify request context matching resource method found hook injection change values suggesting design modifications initialize resource programmatically leverage fields injection class super class declare strong annotated fields strong injected possibly jax rs aware fields declared constructor overridden 

@@ -1,0 +1,4 @@
+simpledateformat show unix date december 
+working date picker range dates noticed dates day investigating issue narrowed problem simpledateformat object matter unix time give sets date previous day behaviour output logger formatter december january 1st 
+
+system isnt set utc change href http docs oracle javase docs api text dateformat html settimezone 28java util timezone output expected 

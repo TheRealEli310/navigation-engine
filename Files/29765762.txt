@@ -1,0 +1,4 @@
+message found code class base package servlet context 
+part servlet context relating internalisation root context message jsp page controllers package work package defined servlet context messagesource bean autowired root context default messagesource servlet context overriden package 
+
+configuration defined servletcontext specific controller overrides configuration rootcontext private root context configuration put servlet context specific servlet controller global functionality internationalization define messagesource bean root context applicationcontext loaded automatically searches messagesource bean defined context bean messagesource bean found calls preceding methods delegated message source message source found applicationcontext attempts find parent bean bean messagesource strong applicationcontext find source messages empty delegatingmessagesource instantiated order accept calls methods defined strong 

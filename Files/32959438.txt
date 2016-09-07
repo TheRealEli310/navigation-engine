@@ -1,0 +1,4 @@
+removeviewat id onclicklistener 
+dynamically create taglayout onclickbutton works fine creating taglayout give image id click image id taglayout remove doesnt work main bottom works fine delete element attempt invoke virtual method void android view view unfocus android view view null object reference app crashes public class mainactivity extends activity implements view onclicklistener taglayout tag layout activity main 
+
+understand ol li show taglayout button pressed li li remove taglayout image inside taglayout pressed li ol copied code empty project created default taglayout extends linearlayout edit layout files replicated activity code made small 

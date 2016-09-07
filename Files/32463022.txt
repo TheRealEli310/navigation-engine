@@ -1,0 +1,4 @@
+sessionregistry empty concurrentsessioncontrolauthenticationstrategy concurrentsessioncontrolstrategy 
+inside http tag wrote sas bean code information registry working problem class deprecated replaced sas bean returns empty list fix full configuration web xml security context applicationcontext xml datacontext xml resttemplatecontext xml securitycontext xml 
+
+encountered issue problem instances sessionregistry loaded spring context wrong configuration web xml bean referring controller referred spring security fix web xml make loading beans present root dispatcherservlet loads servlet context xml spring mvc related stuff root context xml imports dao service security configuration beans update issue check registering sessions compose 

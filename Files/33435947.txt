@@ -1,0 +1,4 @@
+object initialized constructor methods class 
+programming newbie creating simple login app swing jdbc oracle works expected part app classes logic ui dbconnection strong refer code href http pastebin vvj5hxaz rel nofollow full code strong strong loginlogic strong initially displayed joptionpane directly place loginsuccess loginfailed methods worked expected wanted delegate ui functionality ui class created methods ui class methods called ui object created constructor error joptionpane ui object reference strong lu strong process method call methods ui class 
+
+jb nizet explained code code worked strong edited strong comments problem creating object means calling object statement object constructed parameterized constructor initialize lu update strong edited2 strong change bit design work handle exceptions loginui change logindbconn hope vote answer 

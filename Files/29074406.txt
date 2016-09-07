@@ -1,0 +1,4 @@
+aes cbc pkcs5padding results jni 
+code encryption port code jni build openssl made jni wrapper function dont results jni version version problem 
+
+youve padded plaintext jni code code pkcs padding change based research padding default step youve redundant fix implement pkcs padding hand jni code easy higher level evp functions understand pad data 

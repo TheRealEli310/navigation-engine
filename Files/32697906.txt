@@ -1,0 +1,4 @@
+error package org testng annotations exist javac import org testng annotations test 
+simple project build ant project testng error message run build xml spent lot time whats problem results project import org testng annotations test public class homepage lib file testng jar test xml suite runs class build file div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 
+
+fixed issue compile target property missing classpathref project sees required libraries compile classpathref project doesnt external system fix div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override compile target added property div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 

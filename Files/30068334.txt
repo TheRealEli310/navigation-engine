@@ -1,0 +1,4 @@
+lang nullpointerexception attempt invoke virtual method lang string 
+method process stringfilter class commented method back working line 
+
+method static instance invoke method calling instance method null instance 

@@ -1,0 +1,4 @@
+regex double comma 
+regular expression validate double values doesnt accept comma regex accept values br br br br br 4e br 4028235e38 br 
+
+simple fix adds block optional comma numbers changed block optional decimal ensure decimal number dont match 

@@ -1,0 +1,4 @@
+ee singleton injection reflection 
+ee headache wildfly imagine singleton pojo instance set property strong se singleton strong depate approach bad design singleton instances configured confronted approch ee world made work bloat ugly annotation hell code familiar ee easier ways strong projectmanager abstract strong strong projectmanager implementation strong strong producer annotation strong strong producer strong usage bean works things dont sleep night frameworks spring similar questions ol li easier ee support singletons ejbs runtime class singleton compile time li li inject singleton instance additional dynamicprojectmanager annotation li li make projectmanager abstract li ol 
+
+simple dont mix ejb cdi absolutely multiple implementations work select implementation dynamically em runtime em qualifier selecting class bad practice violating loose coupling distinct qualifiers implementation prefer shared qualifier add argument qualifier select argument 

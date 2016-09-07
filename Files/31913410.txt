@@ -1,0 +1,4 @@
+spring data pagination returns results jsonview 
+spring data pagination rest controller returning paged entity control data returned json jsonviews achieve result return single object return page receiving blank json response method signature receive response remove jsonview annotation 
+
+piece code dont credit reference href http stackoverflow questions jackson jsonview applied jackson jsonview applied retrieve variables entity annotated jsonview travelrequestview myrequests class variables annotated jsonview dont properties object annotated view 

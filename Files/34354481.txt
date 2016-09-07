@@ -1,0 +1,4 @@
+org springframework web util nestedservletexception request processing failed nested exception lang nullpointerexception rest spring 
+create rest service spring access service returns proper data shows problem checked data returns null applying breakpoints shows exception strong edited strong code strong user strong package rest service strong springservicecontroller strong data database userservice strong dbutility strong class connect jdbc web xml rest servlet xml ps thing delete annotation driven tag spring xml file works simple datatype doesnt work json conversion required wildfly 
+
+issue wildfly wildfly jboss 

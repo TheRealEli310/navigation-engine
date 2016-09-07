@@ -1,0 +1,4 @@
+finish main activity onbackpressed 
+setting themes application themes set activities main activity settings activity setting theme settings activity called main activity onbackpressed settings activity changed theme appears press back main activity shows main activity previous theme time closes application show previous theme finish main activity back pressed calling finish onbackpressed main activity work main activity edit finish settings activity changed theme dose applied main activity called theme onactivitycreatesettheme oncreate main activity started main activity settings activity apply theme finish settings activity 
+
+finish settings activity back pressed settings activity main activity put code override method onbackpressed 

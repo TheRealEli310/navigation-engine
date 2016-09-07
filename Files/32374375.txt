@@ -1,0 +1,4 @@
+read input field jsp form servlet id field 
+tag 
+
+field proper method request getparameter 

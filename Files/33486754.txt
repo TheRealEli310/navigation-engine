@@ -1,0 +1,4 @@
+jsp file upload conversion ftp sftp 
+jsp page link upload file initially file transfer happening ftp server transfer file client ftp require change code support sftp server initiated ftp session client machine sftp client code 
+
+blockquote server initiated ftp session client machine sftp client code blockquote sftp completely protocol ftp reuse ftp specific code youve meant ftps ftp extended tls supported depends setup server change client code long server supports href http stackoverflow questions secure ftp org apache commons net ftp ftpclient secure ftp org apache commons net ftp ftpclient 

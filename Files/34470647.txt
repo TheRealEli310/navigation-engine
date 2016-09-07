@@ -1,0 +1,4 @@
+customizing log level display logback logstash logback encoder 
+logstash logback encoder print logs json format display lowercase default strong update strong created suggested zakhar updated 
+
+configurable xml override behavior implement classes enable encoder config strong update strong updated question additional logic transform warn warn warning happen log message create overhead change hardcoded class 

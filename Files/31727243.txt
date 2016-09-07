@@ -1,0 +1,4 @@
+tomcat support bearer token authentication configure 
+system tomcat servlet randomly generated token created hmac hash based message authentication code token utilized restful web service understand called bearer authentication involves setting authorization http header tomcat support bearer authentication configure bearer authentication back plan configure basic authentication pass token custom http header ostensibly https enforced specifically tls type authentication 
+
+tomcat support bearer authentication version implement authentication writing valve handles significant interest authentication supported tomcat future youll involved raise popular support heard bearer authentication work implement jaspic authentication make easier pluggable authentication modules tomcat make easier implement scheme hand roll joining tomcat dev list 

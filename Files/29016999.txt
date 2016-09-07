@@ -1,0 +1,4 @@
+printing strings array random order 
+assignement school whitch make small program question list answers input number answer problem things answers show order time question asked teacher gave specific class methode structure follow ul li input output li li logic class ul li constructor string question string answers int indexofthecorrectanswer li li public string getquestion li li public string getanswers li li public string getcorrectanswer li li public boolean controlanswer li li private void randomize li ul li ul guys hint randomizing rest isnt problem handle 
+
+method specifically designed underlying fairly optimized shuffle algorithm customize algorithm overriding specific methods href http www tutorialspoint util collections shuffle htm rel nofollow http www tutorialspoint util collections shuffle htm refer shuffles list hope helps 

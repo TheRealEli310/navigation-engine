@@ -1,0 +1,4 @@
+open navigation drawer layout click event 
+navigation drawer listview layout navigationdrawer works fine open button click mainactivity xml code rigthmenu layout xml code mainactivity oncreate code logcat error nullpointexception view layout rigthmenu 
+
+errors firstly inflate layout youve included main layout inflated id returning null causing youve reference dont find 

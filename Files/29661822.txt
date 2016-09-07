@@ -1,0 +1,4 @@
+check uniqueness elements arraylist 
+class called lineup arraylist class called event event values string act venue class int session event declared event e1 event foo fighters northstage lineup arraylist event elements e1 lineup class make invariant checks event contained arraylist lineup unique venue session assignment requires follow specification irrelevant combination act venue session unique follow specification ensure venue session unique check duplicates specific values arraylist 
+
+check duplicates venue session pairs create helper class attributes matter specific case events objects remove duplicates check size create nested class inside create method return false duplicates 

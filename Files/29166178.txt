@@ -1,0 +1,4 @@
+character encoding sun net httpserver 
+write mock http server unit tests sun net httpserver classes problem encoding url query parameters iso encoded uri passed handler httpexchange change encoding original server wondering httpserver encoding decoding url advance test program code mock server 
+
+javadoc returns undecoded query string request uri null request uri doesnt decoded http headers bit ascii ietf org rfc rfc2616 txt decode urldecoder decode iso 

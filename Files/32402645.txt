@@ -1,0 +1,4 @@
+testing ee application maven 
+world ee build enterprise application works fine doesnt ide specific features embedded application server deploying application testing glassfish works fine wrote unit test lot trouble unit test ejb container added ejb module added glassfish resources xml ejb module jdbc resource setted das perstistence xml settings unit test successfully executed deploy application testing glassfish exception occurs unit test successfull deploy doesnt work unit test throws exceptions deploy works hope simple mistake configuration suggestions change persistence xml glassfish resource xml deploy application unit test crashes schwerwiegend invalid resource jdbc mes pm unit test successfull deploy doesnt work unit test throws exceptions deploy works hope simple mistake configuration suggestions hope understand gibber jo 
+
+arquillian testing framework href http arquillian org rel nofollow http arquillian org 

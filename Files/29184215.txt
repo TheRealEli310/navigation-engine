@@ -1,0 +1,4 @@
+resttemplate form multipart image json post 
+call rest ws resttemplate accepts image json dont running relevant code pojo required json annotations receive web service part works thing tells httpmessagenotwritableexception write request suitable httpmessageconverter found change bytearrayresource byte bad request change content type json bytearrayresource serialized json converters configured ideas advance strong update strong instructions register converters ws call 
+
+simply register simply register content type image part image type set individual parts data type hr create providing collection outermost multipart content type 

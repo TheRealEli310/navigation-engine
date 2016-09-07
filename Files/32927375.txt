@@ -1,0 +1,4 @@
+rest servlet camel guice undertow 
+setting application set static files apache camel expose rest services spring servlet3 app container class extending camel route pretty close whats href http camel apache org servlet html rel nofollow http camel apache org servlet html undertow embedded guess guice finds servlets created undertow manually expose camelhttptransportservlet guice binding doesnt change things static resource work expected rest servlet running responses wont start restlet camel port port static files rest camel identify initiated 
+
+finally found wrong suspect camel wouldnt link automatically changed section deployment changed servlets mapping return inside nb encountered problem beause initially set contextpath messed sessions cookies 

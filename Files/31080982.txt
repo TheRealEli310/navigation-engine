@@ -1,0 +1,4 @@
+netbeans maven rest web service working 
+netbeans create rest web service initially steps create netbeans tutorials create maven project working created maven web application copied files maven project receive access url project dployed glassfish srver server descibes project soapui postman throws project deployed 
+
+project created ide eclipse netbeans dependencies provided application ide maven required add dependency jar file required application check pom file missing add file present include servlet url pattern jersy place web applcation web services servlet mapping required 

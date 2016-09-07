@@ -1,0 +1,4 @@
+spring boot dependency injection 
+spring couple days learning spring boot changed applicationcontext file bean tutorials code working fails miss controller error assume bean defined tutorials defenicion bean didnt 
+
+class recognized spring component inject order inject object controller annotate class annotation annotation class auto scanned 

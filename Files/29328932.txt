@@ -1,0 +1,4 @@
+activator found starting service 
+wrote test class osgi felix framework testing class manifest mf file commands compile classes generate bundle jar file logged osgi start service command bundleexception found activator class exception service jar error advice 
+
+problem classes anret correctly packaged jar file manifest file correclty configured correct option jar command add jar file recommend advanced build system build project ant maven sample file ant make fixes problem hope helps thierry 

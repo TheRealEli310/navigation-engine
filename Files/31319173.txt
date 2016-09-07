@@ -1,0 +1,4 @@
+junit mocking private method 
+mock private method return true serviceimpl execute request call eventrequest private boolean eventrequest evenrequest call return true strong serviceimpltest strong strong serviceimpl strong strong responsebuilder strong 
+
+create mock eventnotifyresponse whitebox set private internal field assuming field eventnotifyresponse type named eventnotifyresponse test class whitebox class powermock org powermock reflect whitebox br setinternalstate overloaded parameters ol li target object inject object tested li li internal field setted string li li case mock li ol 

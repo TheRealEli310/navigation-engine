@@ -1,0 +1,4 @@
+unit test hbase api 
+hbase api hbase code works fine writing unit test mockito api test class langnullpointerexception table class thenreturn result called 
+
+h2 edit h2 unit test verify validate unit code unit code depends external calls mock calls return values dont invoke actual unit code test case point unit testing code mock external calls actual method actual method mock 

@@ -1,0 +1,4 @@
+soapui build maven failed 
+git clone soapui installed maven instructed href https github smartbear soapui rel nofollow https github smartbear soapui build soapui end error screenshot connectivity fine org sonatype install4j i4jruntime jar href http www soapui org repository maven2 rel nofollow http www soapui org repository maven2 editor forget put mistake wrong fix contact editor 
+
+error problem href https github smartbear soapui blob soapui pom xml rel nofollow soapui pom xml referencing guess jar href http search maven org search 7cga 7c1 7cg 3a 22org sonatype install4j rel nofollow maven central entire project custom repository href http www soapui org repository maven2 rel nofollow mentioned error jar chances jar local artifactory bothered updating dependencies mind maven tool tool wrong wrong things remove dependency pom project builds search internet jar manually place local repository 

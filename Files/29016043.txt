@@ -1,0 +1,4 @@
+hibernate session null pointer exception 
+stuck issue days figure sessionfactory null stacktrace understand exception back line trimmed version stacktrace dao hibernate cfg xml hibernateutil pom xml app hbm xml userstats jsp 
+
+null pointer exception eradicated changed line thought problem originally attempting session closed id expected receive session closed message previously null pointer exception resolved code createsessionfactory method hibernateutil changed 

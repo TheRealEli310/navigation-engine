@@ -1,0 +1,4 @@
+wildfly migration ejb issues final final 
+deploying application authenticate simple webpage based supplied ear file exception occurs wildfly runs jdk1 deployed application built jdk greatly appreciated 
+
+investigation finally reading spec earlier found chapter source href http download oracle otn pub jcp ejb edr spec ejb core edr pdf rel nofollow http download oracle otn pub jcp ejb edr spec ejb core edr pdf chapter problem href http stackoverflow questions stateless session bean protected final method stateless session bean protected final method 

@@ -1,0 +1,4 @@
+paths strange behavior linux 
+writing code work files lot implemented file paths processing concatenation normalization nio classes paths path windows works expected linux paths class behavior broken code windows prints output code linux ubuntu bit bit leaves path normalized file path exists reported existent looked bit href http grepcode file repository grepcode root jdk openjdk b132 sun nio fs linuxfilesystem rel nofollow linuxfilesystem href http grepcode file repository grepcode root jdk openjdk 7u40 b43 sun nio fs windowsfilesystem rel nofollow windowsfilesystem windows path checked characters method shouldnt linux implementation bug implementation wrong alternative make linux paths parsed normalized correctly parsing manually 
+
+windows valid character filename code assume wrongly typed path separator linux byte acceptable filename youre effectively joining path called level deep path called level deep 

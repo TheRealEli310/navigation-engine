@@ -1,0 +1,4 @@
+simple string jndi 
+set simple string configuration tomcat read application context xml server xml web xml application application run tomcat errors 
+
+web xml code href http www cs repository info jndi tutorial programmers html namingservice rel nofollow naming service tutorial good understanding initialcontext jndi 

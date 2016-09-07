@@ -1,0 +1,4 @@
+add parameters soap url retrieve service side 
+jaxws rt wsdls built web services created works fine parameters tagged url web service 
+
+web service provider access query string soap client pre class lang prettyprint override query string string standard methods ul li href http docs oracle javaee api javax servlet servletrequest html getparametermap rel nofollow getparametermap li li href http docs oracle javaee api javax servlet servletrequest html getparameternames rel nofollow getparameternames li li href http docs oracle javaee api javax servlet servletrequest html getparametervalues lang string rel nofollow getparametervalues li li href http docs oracle javaee api javax servlet http httpservletrequest html getrequesturl rel nofollow getrequesturl li ul soap client class pre class lang prettyprint override prints 

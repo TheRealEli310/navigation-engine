@@ -1,0 +1,4 @@
+testng xml running class 
+clicking testng xml running testng suite class inside doesnt run xml file mytestclass code class runs perfectly fine dont understand testng isnt running doesnt throw errors displays 
+
+change suite class package 

@@ -1,0 +1,4 @@
+generate string constants properties file keys 
+properties files message internationalization code string literals problematic theyre error prone autocompleted id generate code keys properties file standard prefer maven plugin stand tool run manually good 
+
+code generate interface strong myproperties strong root directory project interface 

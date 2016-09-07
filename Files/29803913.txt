@@ -1,0 +1,4 @@
+remove elements hashset iteration 
+suppose iterate sum iterating elements find elements sum remove iterating remove throws approach iterator removes current element element parameter update techniques additional set wanted optimal solution increasing time space complexity 
+
+strong running set numbers found strong pass solution start empty running set iterate set numbers element iterate sum compliment set remove iterator add running set code modify original contents end code block case set end code modify original make code flexible reusable 

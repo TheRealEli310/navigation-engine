@@ -1,0 +1,4 @@
+gradle test failing due interceptor class found 
+working exercises em beginning ee em adapt gradle maven chapter interceptor exercise wrote build gradle src dir directly href https github agoncal agoncal book javaee7 rel nofollow authors github succeeds expected output spits lot unexpected warnings fails error beans xml class files straight authors repo github error theyre beans xml declares interceptor interceptor class annotated interceptor guess problem lies gradle build problem 
+
+allen assuming agoncal book javaee7 chapter02 chapter02 putting mvn test works found difference build target directory maven gradle maven combines classes resources directory packaging jar gradle separates folder classes resources weldcontainer testing unable pickup class reading beans xml heres build gradle result running 

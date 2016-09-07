@@ -1,0 +1,4 @@
+add actionbar preferenceactivity 
+make problem wont show matter works apps settings 
+
+appcompat theme pay attention points strong doesnt extend strong deprecated solution create strong strong standard appcompat href https developer android reference android support v7 app appcompatdelegate html appcompatdelegate extend appcompats support activity check official link href https android googlesource platform development master samples support7demos src android supportv7 app appcompatpreferenceactivity appcompatpreferenceactivity find technique 

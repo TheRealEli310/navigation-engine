@@ -1,0 +1,4 @@
+wifiinfo getssid returning 0x 
+problem whit function connect wireless network supplicant state changed action broadcastreceiver listen completion authentication failures working fine errors ssid connected network code log receiving logcat folow em actual ssid ssid clicked connect em phone wifi configuration connected wifi android documentation read ssid utf decoded return hex string case convert hex string back string check network connected results ssid wrear characters advance 
+
+make reference wifiinfo variable correctly declared onreceive api ouput hv proper referance variable 

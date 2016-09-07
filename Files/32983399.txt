@@ -1,0 +1,4 @@
+array index bound exception 
+code throws array index bound exception initialized size fully utilized values unused indices 
+
+allocate longer reachable reassign reference wanted href http docs oracle javase docs api lang system html arraycopy 28java lang object 20int 20java lang object 20int 20int rel nofollow default 

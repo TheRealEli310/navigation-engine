@@ -1,0 +1,4 @@
+generating classes xsd maven dependency maven jaxb 
+data model stored maven repo xsd file goal create jar classes representing model maven jaxb maven jaxb2 plugin codehouse mojo net differ dont xsd maven dependency input write plugin doesnt jaxb tool 
+
+strong disclaimer strong author href https github highsource maven jaxb2 plugin rel nofollow check href https github highsource maven jaxb2 plugin wiki rel nofollow documentation href https github highsource maven jaxb2 plugin wiki compile urls filesets maven artifact resources rel nofollow compile urls filesets maven artifact resources href https github highsource maven jaxb2 plugin wiki catalogs rel nofollow catalogs rewrite schema urls href https github highsource maven jaxb2 plugin wiki referencing resources maven artifacts rel nofollow maven artifact resources rewrite uri reference resource jar artifact features unique href https github highsource maven jaxb2 plugin rel nofollow 

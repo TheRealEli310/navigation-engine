@@ -1,0 +1,4 @@
+nullpointer exception recyclerview setting layout manager fragment 
+strong full error trace strong time recyclerview fighting day ton things moving attaching recyclerview adapter create oncreateview making declare layout manager checking code weird errors opgavefragmentindhold opgaverecyclerviewadapter opgave class opgave fragment xml 
+
+inflating wrong xml file change 

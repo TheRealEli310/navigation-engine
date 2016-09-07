@@ -1,0 +1,4 @@
+android studio fix lang nullpointerexception 
+building apps time android studio app simple web browser make lot fixes working fine decided pressing enter key simpler convenient clicking dumb button boy wasnt wrong app builds fine launch phone crashes immediately mainactivity exception generated checked extensively null object attributes error persists code exception dont providing 
+
+remove field initialization code invoke invoked field initialization code code methods leave fields declaration 

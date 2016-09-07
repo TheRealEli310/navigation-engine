@@ -1,0 +1,4 @@
+aggregator akka 
+implement href http www enterpriseintegrationpatterns aggregator html rel nofollow aggregator akka href https groups google forum topic akka user 2in6ovnofug rel nofollow doesnt api supports strong strong heres attempt missing kind construct time seconds aggregated timeout throw exception sort aggregation timer reset ideas 
+
+akka feature timeout actor received predefined amount time inside actor trigger sends message type actor decide exceptions logging resetting find information section receive timeout href http doc akka io docs akka snapshot untyped actors html rel nofollow http doc akka io docs akka snapshot untyped actors html hand open source libraries kind things github href https github sksamuel akka patterns rel nofollow https github sksamuel akka patterns examples 

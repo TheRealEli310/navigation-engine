@@ -1,0 +1,4 @@
+tycho connect eclipse p2 repository 
+setup tycho maven dependencies eclipse plugin project documentation online tutorials found add eclipse p2 repository maven pom xml point build fail included configuration parent pom xml build fails found googeling start eclipse djava net preferipv4stack true didnt fixed problem reason reach href http download eclipse org releases luna content xml rel nofollow http download eclipse org releases luna content xml web browser find mirror repository found tutorials create mirros doesnt worked whats 
+
+problem proxy configuration correct tycho proxy configuration configured maven check href https maven apache org guides mini guide proxies html rel nofollow maven documentation configure proxy maven build tycho eclipse configuration command line build tool runs independent eclipse workspace 

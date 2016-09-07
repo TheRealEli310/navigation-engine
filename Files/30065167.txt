@@ -1,0 +1,4 @@
+advantages spring security custom filters 
+question naive advantages spring security security framework versus custom filters webfilter restrict pages web app custom filter check session user user bean mapped session check user bean role gain access restricted area gain spring security surely secure find harder custom filters advance 
+
+security principle dont roll security youre expert href http security stackexchange questions shouldnt roll http security stackexchange questions shouldnt roll spring guys arent sitting making work solving real problems implement spring securitys features filters youd spring security wouldnt handling csrf making convenient handling session fixation filters handle path traversal handling runas functionality read docs decide 

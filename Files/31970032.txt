@@ -1,0 +1,4 @@
+maven eclipse packaging pom working 
+eclipse mars maven recently maven update project se sudden eclipse didnt strong pom xml strong valid wanted change packaging strong pom strong leave strong jar strong overview packaging choice disabled running maven console jar packaging enabling jar packaging strong edit strong strong pom xml strong lines added dont caused issue removing made problem 
+
+pom declares modules aggregator pom aggregator modules error log back remove declarations pom refer documentation href http maven apache org pom html aggregation rel nofollow multi module projects 

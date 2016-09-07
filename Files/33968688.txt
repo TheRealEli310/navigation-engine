@@ -1,0 +1,4 @@
+react native write asyncstorage 
+text side arrives id save access react chance achieve solution make communicate js 
+
+fight strong finally found solution strong doesnt read source code asyncstorage located differently sqlite depending phone dirty duplicate logic created module href https facebook github io react native docs native modules android html content rel nofollow doc suggests passed argument call module exposes method js world call hr heres detail finally method 

@@ -1,0 +1,4 @@
+classnotfoundexception dynamically generated compiled source code 
+code works correctly cases method accesses file throws file completely written solve problem cases increasing sleep time forces thread sleeps file completely written stead static strong strong problem logic code compiling executing file dynamically related sleeping time exception decreased sleep 
+
+h3 writing file problem h3 means class named package named runtime reference classpath h3 directory generating file strong strong classpath h3 blockquote reproduce problem works single call blockquote h3 href https github jarrodhroberson stack overflow blob master src main stackoverflow q31083880 rel nofollow q31083880 h3 compiles exercise reader change behavior easy 

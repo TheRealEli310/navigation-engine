@@ -1,0 +1,4 @@
+g1 gc single long young gc occured parallelgcthreads 
+set settings default run spark ec2 nodes gb heap heap usage graph red area young generation black area generation young gcs small sudden young gc collects gb young gcs small gc logs shows mixed gcs full gcs concurrent marking tens young gcs wondering huge young gc href http stack imgur nrxri png rel nofollow img src http stack imgur nrxri png alt enter image description part gc log huge young gc heap 1g 
+
+blockquote attempt heap expansion reason recent gc overhead higher threshold gc recent gc overhead threshold blockquote guess driving g1s decisions relax setting cpu cycles relative application time gcing ul li cpu cores make easier meet pause time goals turn means defer collections longer making easier meet throughput goal br cores fewer cpu cycles li li relax pause time goals collect li ul 

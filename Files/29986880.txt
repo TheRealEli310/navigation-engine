@@ -1,0 +1,4 @@
+disable left swipe cardview 
+href https github brnunes swipeablerecyclerview rel nofollow swipeablerecyclerview wondering disable left swipe code strong mainactivity class strong strong swipeablerecyclerviewtouchlistener class strong 
+
+simple recyclerview strong itemtouchhelper callback strong strong youradapter strong class extending recyclerview adapter add functions strong itemtouchhelper strong flags disable em left swipe em remove strong itemtouchhelper start strong flag disable em left swipe em remove strong itemtouchhelper end strong flag pass strong strong strong swipeflags strong swipe work strong dragflags strong implemented works charm happy coding lt 

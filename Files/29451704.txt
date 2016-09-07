@@ -1,0 +1,4 @@
+javassist log method calls argument values make logger class visible instrumented class 
+tool comprises classes problem make class visible class instrument shown statement doesnt work error dynamically loading class inside instrumented class incorrectly javassist compiler primitive compile dynamic class loading code error classes exported jar file manifest mf file defining passed jvm running instrumented program switch classes transformer class thread logger class 
+
+href https docs oracle javase docs api lang instrument package summary html rel nofollow documentation agents agent class loaded em system em classloader instrument core classes refer custom class class em bootstrap em classloader system move class separate jar file list file attribute agent jars manifest logger class visible bootstrap loader instrumented classes 

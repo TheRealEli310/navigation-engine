@@ -1,0 +1,4 @@
+fetch content web crawling 
+href http stack imgur rfznq png rel nofollow img src http stack imgur rfznq png alt enter image description implement pseudocode strong spider algorithm exploring web strong idea step pseudocode strong spiderleg fetch content strong method class strong spiderleg strong method urls webpage wondering class hr cheers queue working doesnt stop program searching word finds shows link webpage specific urls finds word wondering 
+
+crawling algorithm essentially href https en wikipedia org wiki breadth search rel nofollow breadth search maintain queue unvisited urls time visit url de queue en queue unvisited urls find html parser spiderleg conditions adding url queue typically hold distance urls seed urls stopping point arent forever traversing web rules include specifics interested searching add urls relevant 

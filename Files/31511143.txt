@@ -1,0 +1,4 @@
+play framework executioncontext resolved map promise 
+displays error type scala concurrent executioncontext resolved indirectly referenced required class files adding error moves line promise top file wont compile adding thing imported play framework sbt file 
+
+confronted executioncontext resolved problem realized play eclipse setup incomplete missed steps amp retried setup time relevant steps executioncontext resolvable strong instructions play eclipse setup strong reference href https www playframework documentation ide https www playframework documentation ide strong append line project plugins sbt strong strong append line build sbt strong strong append lines build sbt assuming scala sources strong strong save project files close eclipse strong strong command prompt project folder run strong strong open eclipse open project refresh strong package explorer click project refresh 

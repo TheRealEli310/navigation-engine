@@ -1,0 +1,4 @@
+post spring controller giving bad request 
+ajax call calling spring controller calls importer error message browser console jackson json dto error dont fix 
+
+code f12 browser view outgoing message make legit json 

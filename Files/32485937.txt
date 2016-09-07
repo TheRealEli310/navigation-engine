@@ -1,0 +1,4 @@
+extract key phrases text opennlp 
+apache opennlp id extract keyphrases text gathering entities keyphrases problem tf idf dont models single text multiple documents code prototyped clean basically giving nouns back sorting prominence text counts honestly doesnt work soo good lucene analyzer results good achieve kea maui indexer afraid gpl hr interesting algorithms tf idf text href http techcrunch etsys pulling plug grand st end month rel nofollow http techcrunch etsys pulling plug grand st end month good output opinion etsy grand st solar chargers maker marketplace tech hardware 
+
+finally found href https github srijiths jtopia rel nofollow https github srijiths jtopia pos opennlp stanfordnlp als2 license havent measured precision recall delivers great results opinion code modified configurationfile bit posmodel loaded pipeline instance 

@@ -1,0 +1,4 @@
+optimizing multithreaded queue processing code 
+code creates objects class implement runnable object hashmap usage object running separate thread object public method items added queue object processes queue infinite loop solution totally wrong useless missing volatile syncronized keywords strong multithreadingtest class strong strong threadworker class strong suggestions appreciated 
+
+ol li thread local private doesnt public setter method li li make href https docs oracle javase docs api util concurrent blockingqueue html rel nofollow blockingqueue queue thread dont synchronize addition dont spin inside call queue thread blocks item li li work inside adding items individual queues workers share add items single workers care load balancing shared doesnt reference doesnt change worker initialized make field field li ol 

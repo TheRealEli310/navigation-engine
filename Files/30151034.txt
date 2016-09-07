@@ -1,0 +1,4 @@
+load class kafka consumer consumeriterator 
+gem href https github joekiller jruby kafka rel nofollow https github joekiller jruby kafka installed succefull error execute app ubuntu app works errors installed systems setup os jvm rvm jruby version suspecting paths jar files suggestions 
+
+problem solved removed jruby reinstall stating ruby time gem installed jar dependencies 

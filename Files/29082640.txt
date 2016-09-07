@@ -1,0 +1,4 @@
+context webapp tomcat 
+configuration running tomcat context xml server xml obtaining context works espected null requesting context context path idea null 
+
+turned regression tomcat version filed bug report href https bz apache org bugzilla show bug cgi id rel nofollow reverted tomcat working 

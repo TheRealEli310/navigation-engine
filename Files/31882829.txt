@@ -1,0 +1,4 @@
+quadtree spatial partitioning 
+implement quadtrees partition map research past week wasnt successful divide map rectangles areas map depending person stuck past depth tree reason code quadtree class attached class quadnode quadrectangle quadnode node tree quadrectangle rectangle area player quadtree quadnode quadrectangle apologize amount code stuck days 
+
+implementations created clarify thoughts href https github pvto quadtree blob master src main struct quadtree quadtree rel nofollow https github pvto quadtree blob master src main struct quadtree quadtree idea make comparisons quadnode remove quadrectangle altogether replace pairs coordinates x1 y1 upper left corner x2 y2 lower corner create quadnode set x1 y1 x2 y2 change store item type quadnode store list items child quadnodes created store item round helped bit 

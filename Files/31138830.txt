@@ -1,0 +1,4 @@
+spring autowire interface 
+interface imenuitem implementation interface create multiple instances menuitem configuration class imenuitem interface autowired autowire arguments constructor 
+
+perfect scenario autowire specific class implemention interface choose implementations simply choosing object annotation creating instance multiple times qualifier annotation implementation case instantiate items specific constructor parameters xml configuration file nice tutorial qulifiers autowiring found href http www tutorialspoint spring spring qualifier annotation htm rel nofollow 

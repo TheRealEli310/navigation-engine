@@ -1,0 +1,4 @@
+fseek ftell equivalents text file input 
+seek text file processing text based journal file checkpoint work resumed future invocation program similar stdio fseek ftell functionality 
+
+href https docs oracle javase docs api io randomaccessfile html rel nofollow random access file surprise surprise method process line line current position queried method seeks 

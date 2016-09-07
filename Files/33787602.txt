@@ -1,0 +1,4 @@
+base64 encode protobuf string 
+protobuf encode binary representation base64 textual encoding transmission text protocol whats cleanest 
+
+easiest option href https developers google protocol buffers docs reference google protobuf messagelite tobytearray rel nofollow convert proto href https github google guava rel nofollow guava href http google github io guava releases snapshot api docs google common io baseencoding html rel nofollow class encode bytes base64 string number roughly equivalent mechanisms write encoded data file writable resource write returned href http google github io guava releases snapshot api docs google common io baseencoding html encodingstream io writer rel nofollow hr jon skeet mentioned proto3 href https developers google protocol buffers docs proto3 json rel nofollow map json dont explicitly transmit data binary format youre proto3 

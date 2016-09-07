@@ -1,0 +1,4 @@
+disable remove palette eclipse graphiti editor 
+remove palette eclipse graphiti editor override return editor crashes diagram behavior dont collapsed removed prefer api manipulating preferences 
+
+reply eclipse forum href https www eclipse org forums index php rel nofollow https www eclipse org forums index php override isshowflyoutpalette tool behavior provider return false hide palette 

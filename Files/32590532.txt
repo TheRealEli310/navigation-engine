@@ -1,0 +1,4 @@
+load file resources relative path spring 
+spring project file src main resources file txt full path run test works tomcat shows path inside tomcat folder spring find path strong edit strong getclass getclassloader getresource file txt null strong updated strong stupid question works set wrong file 
+
+file resources directory copied build process tool maven gradle easy load file relative path thread extensively talked load file href http stackoverflow questions read text file classpath read text file classpath 

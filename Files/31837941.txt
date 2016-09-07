@@ -1,0 +1,4 @@
+gson fromjson throws stackoverflowerror 
+json beans beans bank categoria call error appears pre class lang prettyprint override wrong 
+
+reproduce problem things wrong ol li beans defined check fields hidden getter setter method section href http stackoverflow happen circular reference ul li youve stated comments problem recommend ol li remove extra fields bean li li create class extra fields field instance li li deserialize instance gson pass classs constructor li ol li ul li li unexpected setup method heres works great li ol check bean class definitions extra fields failing make deserialization match mine 

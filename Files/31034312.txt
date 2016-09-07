@@ -1,0 +1,4 @@
+jedis pubsub classes 
+wondering publisher jedis pushing messages channel completely separate class subscriber listening messages channel class class listen subscriber class extending jedispubsub 
+
+research found code stays long channel read properties file problem subscriber subscribed channel amp waiting messages publish channel 

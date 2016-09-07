@@ -1,0 +1,4 @@
+quartz scheduler start stop button 
+create cronjob application plugin good find stop pause restart created gui system tray buttons stop start start button works fine starts scheduler outputting desired results click icon menu popup system tray scheduler shutdown function starts cronjob cronjob http request server response sleep shutdown seconds prevent ending execution gui responding job running 
+
+prevents application handling input seconds 

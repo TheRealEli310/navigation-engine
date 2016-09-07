@@ -1,0 +1,4 @@
+eclipse plug development nashorn 
+developing eclipse plug nashorn run application standalone application face errors run plugin error stack trace points location creating options object adding access restriction rules case doesnt related links href http stackoverflow questions make jdk nashorn api scripting jsobject visible plugin make jdk nashorn api scripting jsobject visible plugin href http stackoverflow questions access restriction type application api restriction required access restriction type application api restriction required library rt jar problem persists double checked ensure project 
+
+working hack actual solution copied included build path 

@@ -1,0 +1,4 @@
+return values calls mock 
+code current counter db updates counter db retrieves mock static methods call return call return powermockito achieve testng mockito powermock 
+
+mockito supports changing returned support extends powermockito href http docs mockito googlecode hg org mockito stubbing ongoingstubbing html thenreturn 20t rel nofollow blockquote sets consecutive return values returned method called br return sequence determines behavior consecutive calls blockquote case answer assumes mock methods href http stackoverflow questions mocking static methods mockito question 

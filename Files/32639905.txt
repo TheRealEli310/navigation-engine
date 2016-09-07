@@ -1,0 +1,4 @@
+protobuf determining message type deserialize 
+protobuf define messages generate classes serialize deserialize binary suppose multiple messages defined byte wire determine message type class deserialize 
+
+ended solution declare generic type transport layer create generic logic types mapped enums instances transport layer passing class parses concrete class mapped selected type found fail fast runtime exception type message current client 

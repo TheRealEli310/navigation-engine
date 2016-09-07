@@ -1,0 +1,4 @@
+unable resolve dependency urlutil conflicting requirements 
+error compile project maven dependencies project absolutely em em depend httpclient version greater dependencies bugs ran previous versions bit research discovered class question urlutil removed httpclient httpclient resolve library vfs2 attempting write files sftp user pass key authentication schemes 
+
+turns artifacts releases httpclient include silly thinking theyd override 

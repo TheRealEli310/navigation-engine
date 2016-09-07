@@ -1,0 +1,4 @@
+spring social facebook oauth data api v2 
+implement facebook oauth spring social part call uri href https www facebook v1 dialog oauth client id 12345678900 amp response type code amp redirect uri http uri amp success url uri amp error url uri amp scope email 2c user birthday rel nofollow https www facebook v1 dialog oauth client id 12345678900 amp response type code amp redirect uri http uri amp success url uri amp error url uri amp scope email 2c user birthday token fine api returns full facebook profile data email link case configured app facebook app developers console api today date version api newly created apps console case newly created app api returns data basically user id present spring social facebook version release spring social release parameter update libraries code data newly created apps api version 
+
+spring social facebook v2 release targets graph api v2 include fields 

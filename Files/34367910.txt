@@ -1,0 +1,4 @@
+retrofit okhttp cancel running requests 
+retrofit beta2 okhttp object retrofit href https square github io retrofit retrofit retrofit retrofit html client rel nofollow retrofit client method cancel running requests calling href http square github io okhttp okhttp squareup okhttp okhttpclient html cancel lang object rel nofollow cancel object tag method requests running response clients href http square github io okhttp okhttp squareup okhttp dispatcher html getqueuedcallcount rel nofollow getqueuedcallcount href http square github io okhttp okhttp squareup okhttp dispatcher html getrunningcallcount rel nofollow getrunningcallcount return calling cancel work bug okhttp workaround calling clients id prefer cleaner solution 
+
+find create subclass retrofit line cancels requests tag class sets requests requests cancelled 

@@ -1,0 +1,4 @@
+guava memoizingsupplier thread safety 
+guava suppliers class memoizingsupplier pre class lang prettyprint override explain comment blockquote volatile visibility piggy backs volatile read initialized blockquote volatile initialized field affect field href http www cs umd pugh memorymodel doublecheckedlocking html article inconsistent combination initialized fields true null wrong 
+
+sentence basically means reads amp writes ordered volatile reads amp writes guarantees written visible read hr h3 simplified proof h3 initialized program execute statements initialized program execute statements volatile semantics relationship volatile write volatile read normal read guaranteed write works normal write strong em em strong volatile write normal read strong em em strong volatile read hr h3 order important h3 program written return null write happen volatile write acts memory barrier benefit volatile semantics 

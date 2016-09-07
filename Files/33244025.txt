@@ -1,0 +1,4 @@
+file download restful http applicable error 
+download excel file restful call thought pretty simple http applicable eror controller method setting request header accept html response back error message case heres ajax test call commented lines removed didnt simple config change figure 
+
+based esalas answer things finally working setting header content type heres code worked works firefox flawlessly simple anchor tag ajax call hope helps 

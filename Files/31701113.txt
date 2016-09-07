@@ -1,0 +1,4 @@
+performance collectionutils isempty collection isempty 
+performance collection isn null apache commons lib isn performance difference 
+
+code collectionutils isnotempty assuming talking apache commons difference null check bottleneck 

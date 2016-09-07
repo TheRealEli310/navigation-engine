@@ -1,0 +1,4 @@
+run programme intellij command line file input 
+running osx intellij programme takes txt file argument run terminal strong em searchcmd test txt em strong enter search term searches list intellij click run button reads file enter search term intellij console main class searchcmd main method run usage searchcmd order pass test txt file intellij entered file path run debug configurations em sadly attach picture em fixing helping run intellij greatly appreciated 
+
+figured pasting absolute path paste relative path root directory intellij project importantly ommit initial forward slash absolute path file computer project testinput itcwww small txt path put programme arguments testinput itcwww small txt hope 

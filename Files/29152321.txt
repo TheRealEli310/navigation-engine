@@ -1,0 +1,4 @@
+implement open link tab html anchors tags 
+implement em open link tab em dealing html anchors plain divs anchor adding attribute plain 
+
+user action add click handler open window code driven action call method 

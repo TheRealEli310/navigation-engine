@@ -1,0 +1,4 @@
+hibernate embedded id field naming issue 
+entity field entity class composite key consisting fields database fields called app working fine eclipselink switch hibernate ran exception hibernate unlike eclipselink expects prefix explicitly state column named prefix strong hibernate category strong hr em setup em ul li glassfish li li derby li ul em database structure em table cashflow table cashflowcategory em entities em cashflow cashflowcategory cashflowcategorypk embedded id em stack trace em em persistence xml em 
+
+explicitly telling hibernate map field column error hibernate join foreign key column table join columns field jpa spec default join key column names form case error message guessing eclipselink performs bit defaulting required spec fix problem explicitly join columns 

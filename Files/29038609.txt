@@ -1,0 +1,4 @@
+fake date returned time localdate 
+fake system time testing source makes time localdate make return pre set date 
+
+options youve ol li wrap call static method class mock method return specific instance practical youre directly calling method places code li li method pretty test friendly suggested comments youve modify application code li li href https powermock googlecode svn docs powermock apidocs org powermock api mockito powermockito html rel nofollow case youve pretty easy approach mocking static methods href https powermock googlecode svn docs powermock apidocs org powermock api mockito powermockito html mockstatic lang class 20java lang class rel nofollow method li ol 3rd approach implemented 

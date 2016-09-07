@@ -1,0 +1,4 @@
+sparql unresolved prefixed dbpprop author 
+running query works fine dbpedia href http dbpedia org sparql rel nofollow http dbpedia org sparql doesnt work code infact stated query validator href http www sparql org query validator html rel nofollow http www sparql org query validator html work dbpedia dbpedia automatically add missing prefixes found prefix make work inside code 
+
+dbpedia endpoint defaults common prefixes common vocabularies pointed kborja comment looked href http dbpedia org sparql nsdecl rel nofollow http dbpedia org sparql nsdecl add prefixes informal prefix registry good guess encounter prefix dont uri href http prefix cc rel nofollow http prefix cc href http prefix cc popular rel nofollow http prefix cc popular 

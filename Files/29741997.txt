@@ -1,0 +1,4 @@
+textfield choose date datepicker 
+made datepicker class extends jfxpanel datepicker feature swing application stuck date textfield textarea string field stored localdate object assigned tostring method coming back null heres code 
+
+number problems creating instance instance screen pass reference wouldnt representation reference format limit people access class fields favor getters button clicked grab 

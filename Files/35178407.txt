@@ -1,0 +1,4 @@
+intellij kotlin plugin gradle match 
+intellij early access version project wont compile gradle intellij versions kotlin match installed kotlin plugin dont public repository latest declared gradle project intellij kotlin gradle 
+
+short kotlin idea plugin rc incompatible beta libraries rc libraries builds maven central add eap repository project part incorrect shouldnt part solution rollback kotlin plugin beta version involves deleting subfolder idea installation preinstalled eap installing beta zip distribution learn eap builds refer href https discuss kotlinlang org kotlin early access preview updated rel nofollow topic hr h1 upd h1 rc released artifacts 

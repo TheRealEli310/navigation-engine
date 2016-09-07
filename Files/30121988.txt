@@ -1,0 +1,4 @@
+xmpp bosh client session closed randomly connecting openfire 
+message basically send messages queue hour bytes session terminated message solution 
+
+run constraint href https github igniterealtime openfire blob c99af1e734df7f5befdf57c478ea0733d5ac236c src org jivesoftware openfire http httpsession l752 rel nofollow source means outstanding bosh requests href https github igniterealtime openfire blob c6dd1ae4d331924e04635dbae1887872954ea3ad src org jivesoftware openfire http httpsessionmanager l271 rel nofollow openfire defaults modify openfire settings recommend ensure bosh client sends requests outstanding 

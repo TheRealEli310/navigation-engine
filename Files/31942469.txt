@@ -1,0 +1,4 @@
+check references holding object 
+equivalent pointer comparison suppose invoking getsomething method object class party implementation getsomething returning strong instance strong everytime returning instance object strong strong check objects identical check instance motivation 3rd party implementation creating instance everytime optimize code invoking method everytime assume getsomething invoked 1000s times run time read articles shouldnt rely hashcode case 
+
+reference types pointing object equivalent identity operator hr question blockquote check objects strong identical strong check strong instance strong em emphasis mine em blockquote mixed equality identity initially answer instance em identity em em equality em 

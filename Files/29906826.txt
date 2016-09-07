@@ -1,0 +1,4 @@
+print factorials table 
+print words create left column make print factorial numbers hand column code prints factorial hand column print factorials order number fix code 
+
+pretty simple defining variable call method updated time loop rewritten loop theyre designed couple things ol li basically short form caveats href http stackoverflow questions post increment pre increment operators work question information li li defined em em loop li li defined setting variable directly result li ol pretty overflow confronted strong strong 265252859812191058636308480000000 pretty big number overflows turns handle properly href http docs oracle javase docs api math biginteger html rel nofollow href http docs oracle javase docs api math biginteger html tostring rel nofollow magic dont change make work recommend advice 

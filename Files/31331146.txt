@@ -1,0 +1,4 @@
+picasso library working recyclerview android 
+issue adapter set picasso method convert image url pass context matter class work happening adapter class issues 
+
+work working adapter code 

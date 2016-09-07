@@ -1,0 +1,4 @@
+sending email mailgun message body writer type formdatamultipart mime media type application www form urlencoded found 
+attempting send email android app mailgun jersey problem post request response app crashes error case researching suggested add multipart class creating client work email simply plain text send email app attachments images class build gradle module 
+
+youre post object meant multipart request setting change strong strong mentioned href https documentation mailgun api sending html sending rel nofollow api documentation 

@@ -1,0 +1,4 @@
+make spring serve static html file 
+created spring application web xml serve static index html web inf sources correct index html logs context root deployed war wrong configuration strong updated strong path spring big problem wrong advices spring debugging context dispatching requests configuration instantiation 
+
+code working put static html files index html webapp static pass requests starting static webapp static directory href http stack imgur t7xbh png rel nofollow img src http stack imgur t7xbh png alt project href http stack imgur iida7 png rel nofollow img src http stack imgur iida7 png alt browser 

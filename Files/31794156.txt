@@ -1,0 +1,4 @@
+getter boolean variable maven jaxb2 plugin 
+working generate stub files xsd stub files generated boolean getters generated isxx getxx modify boolean variables getter names generate getisfailure istead isisfailure 
+
+option maven plugin 

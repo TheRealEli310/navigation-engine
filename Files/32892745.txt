@@ -1,0 +1,4 @@
+querydsl jpa join relashionship group 
+query querydsl adres fk 
+
+key problem aliases make join results simply tuple class 

@@ -1,0 +1,4 @@
+lambda equality instantiation 
+snippet print true pass instance 
+
+check href http www infoq articles lambdas peek hood article lambdas implemented essentially compiler turned static methods class created constant reference target typed href https docs oracle javase docs api lang invoke lambdametafactory html frankly disappointed compiler didnt realize lambda body identical create instance compiler sufficiently smart line printed 

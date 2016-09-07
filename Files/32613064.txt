@@ -1,0 +1,4 @@
+format date mmm dd yyyy hh mm ss mm dd 
+format date mmm dd yyyy hh mm ss mm dd code exception 
+
+explanations ol li default locale incompatible input date understand month li li wrong input string li li wrong type type altogether declared li ol include details exception question figure heres working basically code addition specific output 

@@ -1,0 +1,4 @@
+disable mapping fields spring data mongodb documents 
+spring data persist pojos documents mongodb mongorepository spring automatically persisting fields getters mongodb general persist getters automatically persist fields transient annotations configure general behavior configure 
+
+writing custom converters state question spring data mongodb persist strong strong fields getters knowlegde strong strong fields persisted docu href http docs spring io spring data mongodb docs release reference html mapping conventions rel nofollow http docs spring io spring data mongodb docs release reference html mapping conventions version shipped spring boot older versions short pojo repository application code document save template repository getter conversion myclass object documentation cited shows write converter register mongotemplate section write code declared getters class maps fields document 

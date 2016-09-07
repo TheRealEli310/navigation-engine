@@ -1,0 +1,4 @@
+define default jvm arguments idea 
+option define default jvm arguments intellij idea activate ul li li ul eclipse option found ul li preferences installed jres edit default vm arguments li ul 
+
+run type application junit test edit configurations window run edit configurations expand defaults item select run type edit defaults left pane full documentation href https www jetbrains idea creating editing run debug configurations html rel nofollow idea docs 

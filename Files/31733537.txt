@@ -1,0 +1,4 @@
+unmodifiable collection equality 
+test fail 
+
+call returns implement method implements interface compares object references comparing references result false fact passed underlying collection documented javadoc blockquote returned collection em em pass hashcode equals operations backing collection relies methods preserve contracts operations case backing collection set list blockquote href http stackoverflow answer good explanation violate contracts 

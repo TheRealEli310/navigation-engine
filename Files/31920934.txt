@@ -1,0 +1,4 @@
+mapstruct requires impl class 
+classes strong mapper strong strong entity strong strong dto strong method strong spring service strong class mapping run method exception blockquote error dispatcherservlet servlet service servlet dispatcherservlet context path threw exception handler processing failed nested exception lang exceptionininitializererror root lang classnotfoundexception dto devicetokensmapperimpl blockquote mapper require implementation class advise 
+
+mapstruct generates code compile time call generated implementation mapper interface reason missing deployment unit war btw working spring di container obtain mapper instances dependency injection factory 

@@ -1,0 +1,4 @@
+convert android bluetooth socket inputstream python string kivy 
+working kivy app data bluetooth adapter code missed code find bluetooth socket inputstream python string 
+
+finally find solution work kivy app communicating arduino based device bluetooth arduino serialcommand library recieve custom commands respond commands send arduino main thread thread loop reads inputstream bluetooth socket response arduino enclosed lt proper response extract text brackets send function mainthread hope helpful 

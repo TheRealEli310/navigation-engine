@@ -1,0 +1,4 @@
+retrofit convert object json request 
+class retrofit send data server req method interface server wrap body myobject fix 
+
+easiest thing wrap response object youre send 

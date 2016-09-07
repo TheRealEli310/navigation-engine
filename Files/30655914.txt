@@ -1,0 +1,4 @@
+map rdd pairrdd scala 
+map rdd pairrdd scala reducebykey userrecords org apache spark rdd rdd userelement create pairrdd userrecords error type mismatch found org apache spark rdd rdd string mypackage userelement required org apache spark rdd pairrddfunctions string mypackage userelement missing lot 
+
+missing import brings implicit conversions scope create pairrdd work assuming initialized sparkcontext sc 

@@ -1,0 +1,4 @@
+current day caldroid calendar 
+current day day click caldroid calendar application string format dddd mm yy 
+
+caldroidlistener date select 

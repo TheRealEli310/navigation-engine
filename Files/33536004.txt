@@ -1,0 +1,4 @@
+android javax mail authenticator send email longer 
+good day gmail application made send emails attached files app automatically compose message attach attachment send recipients open mail application application production morning found wasnt send emails longer thought devices internet connection password changed werent true checked logcat error googling problem found google released update oct nov affected office outlook thunderbird mailing application couldnt figure changed ports code class class activity dont send email error happened ports changed dont errors typographical errors email address send addresses sending appreciated 
+
+facing similar issue adding gmail senders email address worked 

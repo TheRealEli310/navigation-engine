@@ -1,0 +1,4 @@
+lang arithmeticexception division undefined 
+simple operation program exposurenodecimals long cureffspreadpremium long wsrate bigdecimal problem issue recreatable production machine debug inputs issue suggestions ideas 
+
+source code href http grepcode file repository grepcode root jdk openjdk b14 math bigdecimal rel nofollow thrown message division undefined attempt divide suggest fix correct lt lt fix depend calculation supposed divisor dividend happen putting checks solution band aid solution hides problem fixing back bite 

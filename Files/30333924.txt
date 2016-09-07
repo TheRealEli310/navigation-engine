@@ -1,0 +1,4 @@
+randomaccessfile access dev raw raw1 
+created raw device access run sudo proper permissions fails expects block device raw device behaves char device runs problems disable page cache make work write device driver 
+
+href http linux die net man raw rel nofollow raw man page blockquote raw involves direct hardware access processs memory extra restrictions observed os correctly aligned memory disk start sector offset disk exact number sectors long data buffer virtual memory aligned multiple sector size sector size bytes devices blockquote obey restrictions low level href http linux die net man write rel nofollow write system call return einval invalid argument youre tough time issue correctly sized aligned write calls layers abstraction os requirement sticky data buffer virtual memory aligned multiple sector size guarantees luck classes 

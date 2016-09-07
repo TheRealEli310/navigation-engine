@@ -1,0 +1,4 @@
+lang nosuchmethoderror javax persistence entitymanager createquery jpa hibernate 
+running app jboss ga complaining entitymanager createquery method implementation method org hibernate ejb abstractentitymanagerimpl places included code suspect picking older version hibernate jboss libs directory fix code exception 
+
+fixed removing class parameter method added method hibernate 

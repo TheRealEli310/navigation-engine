@@ -1,0 +1,4 @@
+servlet connecting mysql database 
+error connect mysql database databaseaccess run servlet class works partially giving errors added mysql connector mysql connector jar build path resolve errors 
+
+add mysql connector jar jar web inf lib folder order loaded tomcat 

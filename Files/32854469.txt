@@ -1,0 +1,4 @@
+maven support websphere pom xml 
+find deploy war file websphere mavens pom xml plugin called was6 maven plugin support deploy war file plugin throws error comment pom xml configuration fyr 
+
+developing project websphere maven follow document href http www ibm support knowledgecenter ssaw57 ibm websphere wdt doc topics setenv htm lang en rel nofollow setting environment maven configure environment entry pom target required launch configuration scripts copy runtime libraries local maven repository href http www ibm support knowledgecenter ssaw57 ibm websphere wdt doc topics localrepo htm lang en rel nofollow configuring dependency pom files emulate classpath specific websphere runtime environments detailed instructions copy libraries 

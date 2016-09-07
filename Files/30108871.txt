@@ -1,0 +1,4 @@
+sqlgrammarexception setting empty set sql parameter 
+code href https docs jboss org hibernate orm api org hibernate exception sqlgrammarexception html rel nofollow set empty set sql parameter works set empty make agnostic set collection submitted populated 
+
+problem sql syntax doesnt empty clause case empty simply add collection passing query pre class lang prettyprint override read trick href http stackoverflow questions sql clause parameters sql clause parameters 

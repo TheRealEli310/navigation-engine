@@ -1,0 +1,4 @@
+creating file download link spring boot thymeleaf 
+sound trivial question hours searching find answer problem understand return controller thymeleaf expects supply resource render page returning error controller mapping html link dont redirected file downloaded link clicked implementation 
+
+change change controller include annotation 

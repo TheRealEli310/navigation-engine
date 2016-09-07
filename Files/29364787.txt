@@ -1,0 +1,4 @@
+mongocollection versus dbcollection 
+mongocollection dbcollection questions apply dbobject basicdbobject document things similar find confusing advice 
+
+question mongodb driver general advice document mongocollection mongodatabase application development dbobject dbcollection db classes remain driver existing applications driver series upgrade path driver driver authors make clear deprecating mongoclient getdb method returns instance db class order encourage mongoclient getdatabase method returns instance mongodatabase 

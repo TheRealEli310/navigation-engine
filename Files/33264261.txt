@@ -1,0 +1,4 @@
+serialize util map string object json scala play 
+client library returns id serialize json endpoint return json http response passing directly compiler error handle fine method returns string id prefer endpoint return actual json plain text string heres feels bit hack essentially serializing gson deserializing plays json serializing stick 
+
+implicit type type subtype equivalent scalas structure unknown compile time plays json serialization relies solely information compile time solution pattern match type convert specific type instance simply json string output gson render method result apply content type 

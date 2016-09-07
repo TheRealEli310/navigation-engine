@@ -1,0 +1,4 @@
+add back button arrow functionality navigation bar 
+beginner programmer resent started android developing watched answers couldnt find answer witch fit added back arrow button action bar couldnt figure add navigation loaded screen blockquote mainactivity blockquote blockquote demofragment blockquote blockquote androidmanifest xml blockquote blockquote activity main xml blockquote blockquote app bar main xml blockquote blockquote content main xml blockquote blockquote fragment demo xml blockquote blockquote nav header main xml blockquote blockquote activity main drawer xml blockquote 
+
+call strong sethomeasupindicator strong amp strong setdisplayhomeasupenabled strong blockquote set alternate drawable display icon logo title display home enabled mode display alternate selection navigation sliding drawer blockquote strong strong handling override strong strong method activity 

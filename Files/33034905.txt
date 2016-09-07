@@ -1,0 +1,4 @@
+inject jmscontext wildfly 
+code ee message driven bean receives messages expected fails send replies jmscontext null injection fail ways inject context additional jmsconnectionfactory annotation shown jndi screen admin web interface 
+
+answer simple container inject dependencies message driven bean default add applicationscoped annotation bean class jmscontext injected 

@@ -1,0 +1,4 @@
+logging wrapper 
+starting project considerations logging pattern class logging static logger approach copy line class log considered android approach log class static methods log started searching internet similar approach find question disatvantages approach advantages dry pattern categories handled android tags parameters static log methods log class common logging framework log4j slf4j interested opinions 
+
+based href https docs oracle javase docs api util logging logger html getlogger lang string rel nofollow title getlogger util logging logger api href http hanoo org index php article generate logs rel nofollow title generate logs article main reason ensure set independently subsystems javas recommended solution obtain top file log object time static require processed em time em correct set efficient log object ready differentiating subsystems static functions reasonable shortcut long library suited 

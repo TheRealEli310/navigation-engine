@@ -1,0 +1,4 @@
+number threads limit cpu usage 
+application web server thread pool threads processing single request runs thread suppose running application computer cores configure limit cpu usage cpus processing em em cpu bound set processing io run application monitor suggest estimate 
+
+cpu usage necessarily number threads cores dealing cpu wastes cycles waiting data arrive devices tool measure strong real cpu usage strong experiments increase number threads real cpu usage strong perf strong linux tool strong href http stackoverflow questions measure real cpu usage linux strong question addresses problem collect statistics system wide strong perf record strong interested cpu issuing executing strong instructions cycle strong ipc modern servers execute ipc intense compute bound workloads close good cpu utilization means increase thread count wont due context switches bring penalties cache flushing kernel code final answer increase thread count real cpu usage 

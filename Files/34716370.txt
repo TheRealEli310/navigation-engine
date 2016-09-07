@@ -1,0 +1,4 @@
+error exception thread main lang noclassdeffounderror 
+beginner taking em algorithm em provided princeton professor asked download em algs4 jar em folder add em algs4 jar em classpath step step program em helloworld em compile file console reminds checked classpath programming file error fix advice helpful hr href http algs4 cs princeton code rel nofollow http algs4 cs princeton code 
+
+youre referring jar file classpath explicitly em em provide case safely ignore jar 

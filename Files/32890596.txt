@@ -1,0 +1,4 @@
+webdriver assertions fail swicthing 
+switching webdriver assertions fail assert element rendered speed rendering tests isnt sync webdriver project selenium chrome driver havent browsers make work putting wait elements 
+
+implicit explicit waits implicit influence requests easier application generally slow bump wait requests setting high test waiting long time cases dont explicit waits give flexibility require work operations complete sec set implicit wait sec operation fail implicit wait element takes sec average show change 

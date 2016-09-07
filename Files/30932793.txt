@@ -1,0 +1,4 @@
+spring integration splitter task execution 
+working spring integration application inbound channel adapter read directory splitter split file lines finally udp outbound channel adapter sends lines send line define splitter wait 1s time read line xml file simple advance 
+
+put messages poller send udp channel adapter doesnt support poller bridge bear mind file quickly loaded queue channel memory issues large 

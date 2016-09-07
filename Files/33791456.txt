@@ -1,0 +1,4 @@
+generating indexes triangular mesh sphere object opengl 
+explain indices generated triangular mesh programme generated array vertices sphere object indices generated drawn gldrawelements method dont understand indices relate stacks slices opengl spending lot time understand code works advance img src http imgur 9a5hpus png alt cylinder finally understand indexing sphere code shown work figured make cylinder shown pic 
+
+create vertex array wich vertices perform function sory simpler usage generic containers algorithm index arbitrary vertex array optimize performance memory consumption wery usefull explains vertex indices works case simple linearize stack slice 2d coordinates single 1d overal slices coord standart algo stack slices algo simply give specific vertex normal texture index created early arrays loop simple arrange proper polygon winding modified code draw cylinder proper 

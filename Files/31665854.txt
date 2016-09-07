@@ -1,0 +1,4 @@
+util nosuchelementexception arraylist updating message digest 
+browse directories print contents present add messagedigest update method perform md5 check sum encountering error mentioned code attached stacktrace 
+
+problem caused calling href http docs oracle javase docs api util iterator html rel nofollow method loop calling iterator fetch element loop elements resulting access 2nd element end iterator change 

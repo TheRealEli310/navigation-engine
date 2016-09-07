@@ -1,0 +1,4 @@
+j8583 configparser fails default template fields 
+strong em j8583 em strong build parse strong em iso em strong messages template parse place default values template fields fails strong em nullpointerexception em strong template fails strong em nullpointerexception em strong field doesnt default 
+
+youre field numeric field digits didnt set weird npe numberformatexception parse empty string file issue github chochos j8583 ill author j8583 meantime setting dont field omit template 

@@ -1,0 +1,4 @@
+spring hibernate c3p0 lang nosuchmethoderror org springframework orm hibernate4 localsessionfactorybuilder addannotatedclass 
+webapp works wanna add c3p0 webapp manage connection pooling error leading bunch exceptions heres configuration files spring config xml hibernate config xml database properties pom xml confusing dont reason comments edit maven dependency tree 
+
+wrong c3p0 dependency working charm configurations hope facing problem merged hibernate config xml spring config xml eliminated database properties id simple strong pom xml strong strong spring config xml strong 

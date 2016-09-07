@@ -1,0 +1,4 @@
+convert jsonnode pojo 
+json string parse pojo fasterxml jackson databind jsonmappingexception deserialize instance sg info account start array token source io stringreader 1f6dcfe2 line column json parsing pojo 
+
+problem json array multiple accounts change parsing code work collection type construct type mapper gettypefactory 

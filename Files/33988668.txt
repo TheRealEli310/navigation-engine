@@ -1,0 +1,4 @@
+exception spring mvc 
+crud web layer works attached spring mvc doesnt work deploy app tomcat exception understand web xml spring mvc xml spring app xml spring db xml dont 
+
+introduced href https docs spring io spring docs current javadoc api org springframework core annotation synthesizingmethodparameter html rel nofollow spring youre maven dependency 

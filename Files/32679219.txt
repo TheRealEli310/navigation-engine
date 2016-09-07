@@ -1,0 +1,4 @@
+spring service start 
+working basic spring rest service problem running service due jdbc simple href http www tutorialspoint spring spring jdbc htm rel nofollow tutorial end error log strong error log strong strong application strong strong pom xml strong project viewed href https github tislars fenrir service rel nofollow github repo page 
+
+code tutorial spring boot reason creates application context source problems spring boot dont create application context manually create manually illustrated tutorial dont spring boot hr spring boot modify code remove manual application context creation main class define data source spring boot properties file rid beans xml modify autowire repository controller dont manually create adjust dependencies remove add 

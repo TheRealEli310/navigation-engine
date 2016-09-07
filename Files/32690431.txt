@@ -1,0 +1,4 @@
+lang noclassdeffounderror learning spring framework 
+searching reason failed long time couldnt figure strong structure files strong strong main strong strong testobject strong strong beans annotation xml strong error 
+
+add pom xml maven 

@@ -1,0 +1,4 @@
+change kerberos ticket cache location 
+setup windows secured submitting job executing user commands hadoop referring kerberos ticket cache default location strong usersusernamekrb5cc username strong change location runtime change default property refer ticket cache location system strong updated strong changing default location command refer href http docs oracle javase docs technotes tools windows kinit html rel nofollow kinit operations hadoop takes default ticket cache location user information change default location user specific cache location greatly appreciated 
+
+solved problem setting environmental variable setting variable makes hadoop ticket location 

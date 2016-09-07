@@ -1,0 +1,4 @@
+configure sessionlistener spring boot 
+spring boot add listener br br configure 
+
+referring listeners spring context life cycle href http docs spring io spring boot docs current reference htmlsingle boot features embedded container servlets filters rel nofollow spring boot documentation states blockquote embedded servlet container register servlets filters listeners servlet spec httpsessionlistener directly spring beans convenient refer application properties configuration blockquote update 

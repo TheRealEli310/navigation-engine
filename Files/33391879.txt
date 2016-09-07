@@ -1,0 +1,4 @@
+fix missing websocket servercontainer enabling websockets cometd jetty spring 
+experiencing problem enable websockets cometd configuration br cometd br jetty br springmvc br br br web xml applicationcontext xml exception 
+
+mismatch versions libraries stick cometd jetty spring recommended setup skeleton cometd web application follow href http docs cometd org reference primer rel nofollow primer instructions maven boils single line create skeleton cometd web application works box jetty maven plugin generated file deploy jetty href http docs cometd org reference deploying cometd application rel nofollow instructions 

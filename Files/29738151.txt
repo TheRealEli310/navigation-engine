@@ -1,0 +1,4 @@
+hikaricp wrapper thread safety 
+learning hikaricp found wrapper thread safety instance singleton thread safety method getconnection class needed send arguments hikariconfig hikaridatasource write experienced advice class original thread safety implementation thread safety 
+
+hikaricp thread understand prevent callers initialized method prevent multiple calls datasource wrapping synchronized bad idea general respect pool throughput recommend pattern based code 

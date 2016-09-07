@@ -1,0 +1,4 @@
+jna back byte array 
+library developed successfully decompresses lzma encoded file signature file pointer data compressed decompressed field error code return pointer array null fails function similar pointers memory examples working properly pass byte array pointer data back interface 
+
+appears wanted make pointer memory class solution working create pointer objects library fill pointers back handle appropriately interface turned write data pointer written call function pointer back read pointer null appears solved problem jna missing errors run feel free post correct 

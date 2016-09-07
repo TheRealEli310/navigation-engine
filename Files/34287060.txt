@@ -1,0 +1,4 @@
+create custom action found page play framework 
+access defined path play framework application default action found page appears make custom action found page order show system information browser checked page href https www playframework documentation javaerrorhandling rel nofollow https www playframework documentation javaerrorhandling implemented code error scala html isnt shown default action found page appears logger debug wasnt called found question scala isnt answer href http stackoverflow questions handle action found dependency injection play framework handle quot action found quot dependency injection play framework give advice 
+
+solved problem noticed add errorhandler default package add package write class path application conf support 

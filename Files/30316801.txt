@@ -1,0 +1,4 @@
+popupmenu positioned properly inside recyclerview 
+making android app load data recyclerview imageview inside overflow button users click popupmenu displayed options choose managed show position screenshots img src http stack imgur rfu66 jpg alt items source code guys point issue hours searching found clicked button marked red circle helps appreciated 
+
+luckily found solve problem ul li li li replace li ul honestly dont voila 

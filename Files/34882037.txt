@@ -1,0 +1,4 @@
+ie11 cors rejecting options https 
+ie11 reason rejecting put request https hard time find issue http localhost browsers works fine console showing errors option request browser response server angularjs client side standard http put jersey server side request filter handle cors wrong 
+
+managed find issue issue https portal host domains replicate issue localhost server portal domain means option request worked expected running portal localhost ip address server url localhost option request included request replicate issue issue code server reason multiple headers changing code issue solved 

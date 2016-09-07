@@ -1,0 +1,4 @@
+ti sensortag app development 
+android development knowledge matlab run ti sensortag app source code href https git ti sensortag android sensortag android trees master rel nofollow https git ti sensortag android sensortag android trees master app crashes run emulator androidmanifest xml refers serviceactivity source file simply exist version tweaked slightly data calculated differently supposedly work thing causing problem app running emulator post logcat file guys actual code feedback 
+
+sensortag application run emulators dont bluetooth support href http developer android tools devices emulator html limitations rel nofollow http developer android tools devices emulator html limitations 

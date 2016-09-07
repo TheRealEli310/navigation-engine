@@ -1,0 +1,4 @@
+configure spring propertysourcesplaceholderconfigurer custom classpathresource 
+configure propertysourcesplaceholderconfigurer custom properties files environments production dev staging deploy spring throws resolve placeholder property placeholder string classpath property placeholder pom xml propertysourcesplaceholderconfigurer configuration works xml spring configuration didnt work config idea make works 
+
+found add plugin builds section pom xml modify propertysourcesplaceholder configuration spring config file add annotation spring config class write env dependent properties properties files developer properties staging properties build project maven copied application properties propertysourcesplaceholder configuration 

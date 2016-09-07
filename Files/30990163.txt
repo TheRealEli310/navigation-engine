@@ -1,0 +1,4 @@
+invalid argument error invoking setlength method randomaccessfile instance 
+code error wrong 
+
+give write permission passing read write constructor changing files length writing 

@@ -1,0 +1,4 @@
+camel context starting world app 
+attempting run camel spring files ol li pom xml file relevant dependencies li ol blockquote blockquote ol start li main context file main context xml li ol blockquote blockquote ol start li route li ol blockquote blockquote ol start li finally main class li ol blockquote blockquote issue dont log world give feedback missing 
+
+enable component scanning 

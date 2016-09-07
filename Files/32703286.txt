@@ -1,0 +1,4 @@
+nosuchbeandefinitionexception autowired spring test 
+spring mvc security project create junit test javaconfig controllers exception test class configurations class service class stacktrace list part controller webmodel 
+
+stacktrace posted org springframework beans factory beancreationexception error creating bean getwebbody injection autowired dependencies failed nested exception org springframework beans factory beancreationexception autowire field private secure service face userservice secure entity web webbody userservice nested exception org springframework beans factory nosuchbeandefinitionexception qualifying bean type secure service face userservice found dependency expected bean qualifies autowire candidate dependency dependency annotations org springframework beans factory annotation autowired required true org springframework beans factory annotation qualifier userservice error creating bean getwebbody didnt find code snippet posted getwebbody code 

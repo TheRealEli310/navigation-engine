@@ -1,0 +1,4 @@
+sonarqube analyze projects share multiple modules 
+projects modules common run sonarqube complete analysis project successfully analyzed starting project error message lines xxx module present server projects aggregator pom build run maven sonar sonar goal approach solve issue 
+
+youre breaking component module library conventions mis principles youre supposed include build case binary configuration management component multiple times library depends independant dependancy manage appart framework youre supposed install deploy component refer principles apply shared components analyzed products life cycle manage evolution shared librairies projects living parallel 

@@ -1,0 +1,4 @@
+parse search android direct hit search 
+essentially built edittextview collects string input user attempts communicate back end order pull users objectid column user database showprofileactivity function shown simply works excluded isnt relevant problem takes users objectid shows users profile string userid users objectid database generated dynamically showprofileactivity function works literally input string hard coded objectid brings users profile question based string input user search field retrieve relevant objectid column 
+
+showprofileactivity passing userid assuming query assuming usernames unique case assuming findinbackground method return single user showprofileactivity user data showprofileactivity objectid id hardcoded showprofileactivity objectid retrieving separate table objectid 

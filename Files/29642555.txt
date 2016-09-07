@@ -1,0 +1,4 @@
+filtering arraylist characters string android application 
+study android development created android application called contacts basically phonebook list contacts phone number edittext filtering list filter list finding entries string inputted edittext contacts input oe list return john doe jane doe hoping filtering initials enter jo return john joseph smith start implementation overrided filterresults performfiltering ended approach implementing avoid nested loops update ended loops implementation code acting bit funny added snippet perform additional filter enter returns jane doe display john doe whats 
+
+split input space character check result array bigger initials check strings method 

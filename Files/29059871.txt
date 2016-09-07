@@ -1,0 +1,4 @@
+chunking np vp pp phrases corenlp 
+stanford corenlp aware doesnt support chunking sentences input sentence output opennlp apparently supports feature wrote lot code corenlp wouldt switch external library ideas implementing feature simple references publications links starting parse tree dont accurate state art chunkers implement fast change future needed 
+
+end found href http cogcomp cs illinois page software view chunker rel nofollow illinois chunker needed 

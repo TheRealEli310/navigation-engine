@@ -1,0 +1,4 @@
+date picker dialog showing selected date dialog reopened 
+working date picker dialog android display selected date rest working fine selecting date hitting reopening dialog pointer back min date selected date show selected date fix opens dialog user clicks callback methods set date 
+
+calling method creating fresh instance object passing show current date selected date shown global calender object pass datepicker updating inside 

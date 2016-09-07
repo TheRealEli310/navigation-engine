@@ -1,0 +1,4 @@
+injecting ejbs inject class library 
+full fledged ee application glassfish server ee standard netbeans project apache maven application class library named projectlibrary added modules ee module web module ide shows basic tree structure diagrammatically href http stack imgur bnawf png rel nofollow img src http stack imgur bnawf png alt enter image description hr requirement inject ejb jpa entity listener listener present ee project class library stateless local ejb works coherently annotation replaced case exception thrown officially disallowed inject ejbs class libraries glassfish weld final cdi implementation 
+
+fail include application library components eligible cdi injection receiving injection points injectable components added made library injected classes eligible injected catch purpose library dependency knowledge wouldnt typically cdi related code 

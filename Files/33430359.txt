@@ -1,0 +1,4 @@
+configure embedded undertow server programmatically 
+code create embedded undertow servlet server problem setting max parameters connector settings understand undertow configured xml file xml change configurations max parameter embedded code found href https docs jboss org author display wfly8 undertow subsystem configuration rel nofollow list stuff configure xml set code update yay found options io undertow undertowoptions doesnt work declared final 
+
+hours research trial error finally idea simply code compile negative side id download source code compile proved trouble decided quit endless dependencies hours downloading source code configuring server looked method class finally made sense bad undertow isnt popular sample code lying hope wishing embedded road undertow 

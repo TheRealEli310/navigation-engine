@@ -1,0 +1,4 @@
+slow jms mq message sending 
+websphere mq javax jms classes performance problems arent reproducable isolated performance issue method calls href https docs oracle javaee api javax jms connection html createsession rel nofollow href http docs oracle javaee api javax jms messageproducer html send javax jms message rel nofollow calls large amount time 300ms message call slowdown jms waiting resources send messages occurence issue suddenly slow isnt problem code step doesnt time jms method calls question sudden performance drop debug queuemanager logs idea helpful strong edit strong client bindings sharecnv setting set 
+
+blockquote isolated performance issue method calls createsession send blockquote hope createsession method call message put queue terrible design createconnection method call createsession method call send messages multiple threads connection pooling 

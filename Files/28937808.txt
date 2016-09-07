@@ -1,0 +1,4 @@
+pass object server side client side 
+pass pojo class object client side br user send request server strong user strong server send response strong user strong object br br user class 
+
+simple ways ol li jaxb convert user object xml back transfer data client server li li gson jackson json li ol ways xml json directly map objects fairly easy implement ways assume web service suited 

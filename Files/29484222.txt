@@ -1,0 +1,4 @@
+solve javax crypto illegalblocksizeexception increase size key 
+exception caught line key size solve problem increasing size key 
+
+asymmetric encryption encrypt data longer key minus padding bytes conclude pkcs padding compress data depending data length nature easily fail option combine symmetric block ciphers limitation size data asymmetric encryption ol li generate random aes key li li encrypt data aes li li encrypt aes key aes bytes rsa private key li li combine wrappedkey ciphertext appending binary format li ol 

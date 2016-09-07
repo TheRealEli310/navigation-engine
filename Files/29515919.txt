@@ -1,0 +1,4 @@
+chain responsibility multithreading exception handling 
+rest service call chain responsibility performance added multi threading unable handle exception find code sample starting rest service method handlerexecutor handlerlocator handler basichandler strong consolehandler filehandler finalhandlers strong questions ol li run method returning void handle exceptions throws exception li li roll back handler executed fails li ol 
+
+implementing thread handling directly investigate concurrency classes executor framework callable return exception implement exception handling rollback executor framework callables href http stackoverflow questions recommended spawning threads servlet tomcat recommended spawning threads servlet tomcat 

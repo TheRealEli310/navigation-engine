@@ -1,0 +1,4 @@
+convert milliseconds 
+spinner configure time task case set numeric spinner combobox set hours minutes convert spinner milliseconds based combo box selection convert minutes milliseconds implement listener milliseconds display minutes 
+
+guess main mistake code inside switch statement switch spinner combobox corrrects problem system println end original converted printed application edit added hint comment enter time milliseconds seconds remember press enter event triggered combobox changed changed written spinner enlarge maximumvalue spinner higher entries milliseconds based integer calculation rounding adjustments time lost 

@@ -1,0 +1,4 @@
+lambda method reference working 
+original code intellij replaced method reference thought tells void functional interface dont return handler execute fix 
+
+mixing lambda expression method reference change 

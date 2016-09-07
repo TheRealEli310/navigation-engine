@@ -1,0 +1,4 @@
+array index bounds space 
+writing piece code reads data txt file stores 2d array files code works perfectly fine files throws arrayindexoutofboundsexception array space heres code exception line extremely annoying find answer problem text files doesnt work parses lines file correctly throwing exception idea 
+
+line returns em em array stored variable array originally created longer referred array created elements elements separators guaranteed elements loop declaration style consistent spaces operators descriptive iterators case meaning na ve iterators number names make lot easier follow complex loops 

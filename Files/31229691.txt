@@ -1,0 +1,4 @@
+synchronized method mutex 
+coundnt understand simple question synchronized method globally declared mutex br methods mutex br owning objects thiss mutex elaborate advance 
+
+option href http jcip net rel nofollow goetz al em concurrency practice em blockquote method shorthand block spans entire method body lock object method invoked static methods object lock blockquote 

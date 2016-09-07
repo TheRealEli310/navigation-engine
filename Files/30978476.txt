@@ -1,0 +1,4 @@
+slf4j logger info format 
+generate nice log message escaping characters xml pattern id output lines achieved figure cleaner looked info takes argument inserting values find add line breaks tabbing 
+
+slf4j log frontend intended provide log level message backend logback case shouldnt format messages frontend expecting special format actual log output freely configured backend indentation independent lines doesnt work lines start logger names part lines msg printed line stuff href http logback qos ch manual configuration html rel nofollow logback configuration log message issuing programmer possibilities runtime environment software simply shouldnt assume simply embedding tabs newlines format log messages slf4j good reason count tabs presented user log file totally dependent text editor convert tabs spaces show width log statements spanning multiple lines considered href http juliusdavies ca logging html grep rel nofollow bad practice 

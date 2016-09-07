@@ -1,0 +1,4 @@
+compiler inherited methods 
+inheritance abstract similar behavior superclass classes inherit advantages copy method maintain superclass understand compiler method type reference copy method subclass defeats purpose superclass letting subclasses inherit information stored place 
+
+compiler sees class public instance method called takes parameters doesnt find moves inheritance chain check finds good information isnt stored code byte code 

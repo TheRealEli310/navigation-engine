@@ -1,0 +1,4 @@
+insufficient string buffer declaration 
+tool check coding style advise blockquote stringbuffer constructor initialized size characters appended blockquote code whould happen br count br edit size stringbuffer br method solve problem 
+
+changing capacity created costly creating expected needed capacity constructor remove warning 

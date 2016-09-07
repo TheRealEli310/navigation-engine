@@ -1,0 +1,4 @@
+advice android setlistadapter combining xml layout 
+list adapter shown code resultlist resultlist2 initialized layouts named list item1 xml list item2 xml br layout list item2 xml br list item xml br layout result wanted result shows elements adapter2 empty list element adapter2 elements br br expected result br adapter br adapter br adapter br adapter2 br adapter2 br adapter2 br br achieve setlistadapter problem reason listadapter fetch set data database data fetch table named tblfruit tblperson br 
+
+extend inflate row desired layout adapters href http developer android reference android widget adapter html getview int 20android view view 20android view viewgroup rel nofollow method method called row listview record inside adapter specific set inflate view record things setting hiding unnecessary components row havent differente layout resources suppose approach 

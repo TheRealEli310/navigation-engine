@@ -1,0 +1,4 @@
+stanfordnlp lemmatization handle ing words 
+experimenting stanford nlp toolkit lemmatization capabilities surprised lemmatize words transform lemma simmilar feeling thing remove word form behaviour normal lematizatiors english expect transform variations common words lemma normal stemmers stemmers porter snowball stanfordnlp mention stemmers documentation api stanfordnlp stemmers recommend 
+
+lemmatization crucially depends part speech token tokens part speech mapped lemma sentence confusing analyzed adjective lemmatized sentence confusing contrast analyzed verb lemmatized tokens parts speech mapped lemma stemming algorithm href http tartarus org martin porterstemmer txt rel nofollow porter stemming simply call token 

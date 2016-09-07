@@ -1,0 +1,4 @@
+parsequery properly handling indexoutofboundsexception parse 
+properly handle throwindexoutofboundsexception basically querying user user exists shows profile entry found crashes app throws exception put statement app doesnt crash logcat 
+
+check list empty catch exception catch 

@@ -1,0 +1,4 @@
+biginteger thread 
+requirement update global multiple threads thread 
+
+href http docs oracle javase docs api math biginteger html rel nofollow immutable access multiple threads side href https en wikipedia org wiki thread safety rel nofollow thread safety term deals multiple threads accessing em piece code em variable 

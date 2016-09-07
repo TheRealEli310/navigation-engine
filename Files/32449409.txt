@@ -1,0 +1,4 @@
+send list custom model intents 
+found lots answers working pass retrieve intents br mymodel implements parcelable implementation br br runtime throws exception blockquote util arraylist cast android os parcelable br blockquote wrong argument type br explaination helpful br edit model class br send list primary data activity 
+
+phew br long hours work conculsion ill update answer find reason br strong parceble serializablwe passing list reference access list activity returning null strong br maintained global list singleton application class updating retreiving 

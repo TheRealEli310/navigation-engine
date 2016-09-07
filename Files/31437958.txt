@@ -1,0 +1,4 @@
+connect microsoft sql 
+working project connect microsoft sql pull information database error wrong driver figure wrong path code wrong code 
+
+missing jar file classpath set classpath class check jar file class href https msdn microsoft en library ms378422 sql aspx rel nofollow check system requirements href https msdn microsoft en sqlserver aa937724 aspx rel nofollow jdk jdk compatible jar file 

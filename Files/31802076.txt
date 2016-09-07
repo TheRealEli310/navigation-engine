@@ -1,0 +1,4 @@
+classes jar file program eclipse 
+converted code jar class jar file class unable kind 
+
+eclipse click project jar select properties select build path libraries add jar copied lib folder project select external jar dont lib folder code class red scribble underlining class hover select import classname package alternately eclipse auto import logical package pressing ctrl shift hotkey auto import 

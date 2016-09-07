@@ -1,0 +1,4 @@
+xml schema element types cases 
+legacy applications xml schema definition types defined cases schema validation works fine jaxb generate objects complains classes generated schema existing clients change workaround generate objects schema jaxb 
+
+bindings change generated class 

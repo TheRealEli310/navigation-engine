@@ -1,0 +1,4 @@
+spring aop field calling setter 
+dear curently spring aop v4 aspectj load time weaver add dirty flag mechanism beans aop call method setter beans called achieved access field beforeit modified field call getter setter called provide pointcut advice passed arguments spring aop support set field pointcut construct correct exists someway 
+
+recommend full aspectj combination pointcut order efficient solution mind slow ugly solution involving reflection pre class lang prettyprint override pre class lang prettyprint override strong console log strong pre class lang prettyprint override 

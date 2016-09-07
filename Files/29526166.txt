@@ -1,0 +1,4 @@
+adding buttons paintcomponent drawn shape 
+program consist classes test paintclass files paintclass class draw 5x5 square board paintcomponent method add buttons small square big square run code dont buttons 5x5 buttons jpanel shape drawn paintcomponent edit problem loop number default loop didnt work defined number beginning solved problem invervals wrong changed 
+
+choose add buttons gridlayout paint buttons paintcomponent define loop constraint create jbutton loop code reuses instance register actionlistener respond events register listener href https docs oracle javase tutorial uiswing events mouselistener html rel nofollow mouselistener respond user generated events 

@@ -1,0 +1,4 @@
+converting date string format joda datetime fasterxml 
+simple exercise converting string joda datetime faster xml jackson href https github fasterxml jackson rel nofollow https github fasterxml jackson convert string format 28t12 000z convert format simple mm dd yyyy code fails code exception simple issue change date format mm dd yyyy date works persist data database columns mapped joda localdate entity object convert date localdate persistent issue lets problem lot 
+
+finally working custom deserializer working code bean question adapter 

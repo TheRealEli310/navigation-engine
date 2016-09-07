@@ -1,0 +1,4 @@
+bigdecimal unscaled 
+javadoc suggests expect return coded dont understand decided returns unscaled return decimal scale default returns scale 
+
+dont advantage defining scale developer set scale needed construct bigdecimal scale scale good default adheres href https en wikipedia org wiki principle astonishment principle astonishment lets admit defined code equal href https docs oracle javase docs api math bigdecimal html equals lang object scale scale scale href https docs oracle javase docs api math bigdecimal html add math bigdecimal returns scale max scale 

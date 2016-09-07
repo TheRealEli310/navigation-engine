@@ -1,0 +1,4 @@
+life span enum instance 
+understand single instance predefined constant enum type suppose instance variable called enum suppose predefined constant modified instance affects variables referring garbage collector rid instances enum thrown em em simple variables referring negated time garbage collector rid instance line reset back presume correct strong enum strong strong main method strong strong output strong blockquote blockquote question output added blockquote blockquote 
+
+enums implicitly fields garbage collected edit kindly pointed comments realskeptic things bit complex jvm instance multiple class loaders static field values disapear href https docs oracle javase specs jls se8 html jls html jls rel nofollow classes unloaded default class loader alive long jvm instance alive application happen static fields garbage collected 

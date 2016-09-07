@@ -1,0 +1,4 @@
+algorithm find length longest suffix string prefix string 
+strong input strong long string array integers denotes prefixes string denotes prefix strong output strong return array size length longest matching suffix strong sample input strong strong sample output strong naive algorithm match number characters end strings algorithm length original string strong question strong br algorithm pre processes string quickly return longest length suffix entire input array 
+
+href http maxx eng github io string function html rel nofollow function reversed string slight difference element function chosen equal length em em algorithm calculate function string em em algorithm problem ul li reversed li li function li li em em output len li ul 

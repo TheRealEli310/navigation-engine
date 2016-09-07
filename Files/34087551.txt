@@ -1,0 +1,4 @@
+liferay scheduler working server restart 
+scheduling job code problem code scheduler valid till server session method executed trigger schedulerjob mentioned time server restart implement liferay 
+
+issue implementation liferay scheduling quartz correctly storing restoring trigger job liferay isnt job wrap register triggered restart send message message bus didnt registered point receiver message em solution em register startup calling scheduling calling question href http stackoverflow questions run action plugin deployed liferay options register startup actions case create trigger dynamically due action ui fixed trigger drop put code question whats point executing triggers fired server started server 

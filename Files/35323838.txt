@@ -1,0 +1,4 @@
+file uploading painfully slow 
+built small service receives images android device saves amazon s3 bucket code pretty simple painfully slow notice print logs steps code runs smoothly begins transfer file client device takes time complete transfer finished uploading android studio network monitor server takes minutes processes line prints rest code runs smoothly finally response client side question takes minutes upload finished 
+
+sounds app sending data android end isnt closing connection finishes sending data result ends sitting read timeouts triggers written code android device browser party app 

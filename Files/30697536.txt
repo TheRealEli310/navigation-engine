@@ -1,0 +1,4 @@
+hibernate constraint fails cascade save 
+problem cascade save related entities userentity related registrationtokenentity save entities cascaded exception code userentity registrationtokenentity save database sql related user registertoken tables output root exceptions stack idea wrong 
+
+add generated strategy id 

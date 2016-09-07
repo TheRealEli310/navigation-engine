@@ -1,0 +1,4 @@
+android studio android manifest unable resolve symbol 
+imported android eclipse project android studio import source code files manually added project error found activity names found androidmanifest xml file androidmanifest unable resolve symbols beforelogin initialactivity read href http stackoverflow questions androidstudio resolve symbol mainactivity androidstudio resolve symbol mainactivity android studio doesnt recognize code source code href http stackoverflow questions android studio recognize file source test android studio recognize file source test add directory sourceset build gradle file didnt work project structure greatly appreciated 
+
+assuming structure refers root package source create directory peer child move 

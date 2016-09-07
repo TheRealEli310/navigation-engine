@@ -1,0 +1,4 @@
+jpa transaction required exception persisting entity 
+maven application set wildfly server running mysql datasource read entitymanager attempt persist entity error javax persistence transactionrequiredexception transaction progress bellow basedao class persistemce xml service class calls manager manager class checked stating jta true wildfly standalone xml file wrong application updates applied reviewers suggested npe service class calling manager create user 
+
+youre manually instantiating dao manually building persistence unit jta enabled youve configured reason injection case wanted switch injection simple approach based youre container instantiates classes provide resources needed provided 

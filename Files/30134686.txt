@@ -1,0 +1,4 @@
+avoid nested loops 
+class parse xml file unmarshall jaxb process result objects statistics max order amount total orders amount bad practice level foreach loop case customer order position classes generated automatically xsd schema good change wrong avoid nested loops 
+
+recommend extracting methods thing order position loop give methods descriptive names make return proper values nice clean code nested loops eyes dont hurt 

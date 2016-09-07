@@ -1,0 +1,4 @@
+convert timestamp obtained adb shell getevent hh mm ss sss format 
+convert timestamp captured adb shell getevent command output timestamp normal time format convert hh mm ss sss format proper time format adb shell getevent advance 
+
+answer start googling queries good hours search write properly arranged works convert dmesg adb shell date format replace inside adb shell time fully accurate blockquote main method convert getevent file blockquote blockquote method event timestamp line blockquote blockquote method convert epoch time human readable round millisec blockquote 

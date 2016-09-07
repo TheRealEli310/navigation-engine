@@ -1,0 +1,4 @@
+write interactive program parameters objects 
+cs class learning parameters object problem difficulties beginner bare write program includes method called pay accepts parameters real number employees hourly wage integer number hours employee worked day method return money pay employee day call pay return employee receive overtime pay times normal hourly wage hours call pay return calculated include main method program calls pay method calls data calls data determine feel 
+
+suggest starting breaking question smaller pieces question asks method calculate employees pay reasonable place start question method parameters blockquote method called pay accepts parameters real number employees hourly wage integer number hours employee worked day method return money pay employee day blockquote method start adding logic method start simple case overtime back add overtime calculation finally question include calls pay method main method dont prompt input 

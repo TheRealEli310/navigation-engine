@@ -1,0 +1,4 @@
+cxf webservice response xml content 
+existing cxf webservice returns deep complex nested response type parts response type exists db stored plain xml message exact xml returned response type partyresponse partyrec partyinfo partyinfo structure stored xml db return response inserting xml part deserializing objects jaxb serialize xml cxf 
+
+jaxws providers payload mode href http cxf apache org docs provider services html rel nofollow http cxf apache org docs provider services html service return source object generic xml object shown 

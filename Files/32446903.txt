@@ -1,0 +1,4 @@
+handle invalid csrf token found request session times spring security 
+spring mvc security issue login page strong session timeout strong underneath invalidcsrftokenexception thrown spring framework mentioned spring documentation href http docs spring io spring security site docs current reference htmlsingle csrf timeouts rel nofollow csrf timeout issue handled handle scenario custom accessdeniedhandler intercept csrf exception strong question strong handle situation refresh page bad user experience endless session advance 
+
+easiest found strong handle invalidate csrf token session times login page strong followings ol li redirect request login page vi customaccessdeniedhandler li li add refresh header neil mcguigan suggested li ol optimum solution spring security handle situation framework 

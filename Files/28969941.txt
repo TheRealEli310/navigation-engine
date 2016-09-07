@@ -1,0 +1,4 @@
+inputstream utf shows characters 
+dealing problem months checked related solution google couldnt find solved case problem download html source website cases text shows characters beacuse site hebrew heres code pre class lang prettyprint override 
+
+read characters byte stream encoding case bytes read directly characters readers problem read bytes create character buffer basically approach decoding bytes read 

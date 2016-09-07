@@ -1,0 +1,4 @@
+android unable find explicit activity class 
+lot people put question read couldnt found mistake questions activitys main create intent put bundle information recieve error log mainactivity mapactivity manifest read answer href http stackoverflow http stackoverflow update android apis eclipse problem continues create app android studio solution put full package info manifest ideas strong edit strong href http stackoverflow users karan karan mer wrote comment problem solved creating intent inside strong onlistitemclick strong code 
+
+creating intent listonitemclick 

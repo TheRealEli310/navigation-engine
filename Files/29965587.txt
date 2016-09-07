@@ -1,0 +1,4 @@
+spring repository auto casts entities class types 
+mongorepository interface extend custom repositories entities faced problem lets assume entities repositories saving models findall repositories objects spring automatically casting avoid auto casting class 
+
+repositories annotation mongodb json query string query derived methods convention parsing repositorys method names building mongodb queries scenes generate query similar minor problem code change fully qualified class query throw return case wildcard invoke method provided replace wildcard query built properly repository difference provide fully qualified class attribute info ul li href http docs spring io spring data mongodb docs current reference html repositories rel nofollow spring data mongodb repositories li ul 

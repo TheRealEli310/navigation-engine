@@ -1,0 +1,4 @@
+spring annotations confusion 
+confused spring annotations autowired class bean component understand spring solve purpose constructor spring provide string constructor article make sense great give simple explanation 
+
+spring doesnt perfectly legal singleton bean play instantiate class singleton spring bean annotate automatically registered singleton bean long component scanning setup correctly option define singletons annotating classes explicitly create class annotate class define definitions trade beans defined place annotating individual classes typically depending 

@@ -1,0 +1,4 @@
+sql sqlexception connection closed 
+sql sqlexception connection closed exception intermittently performing transaction tomcat configuration missing configuration property causing issue suggest library fix issue find root advance 
+
+configuration worked key strong connectiontimeout strong factory default timeout forces session close connection timeout worked application scenarios youll experiment bit 

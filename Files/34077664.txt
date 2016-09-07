@@ -1,0 +1,4 @@
+hibernate mappingexception unknown entity 
+mapping exception hibernate stand application netbeans configured hibernate cfg xml setup hbm xml file mapped app configured time hibernate hibernate cfg xml file garmenttype mapping file garmenttype entity class main run class pom xml 
+
+double check correct hibernate find hope helps 

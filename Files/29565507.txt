@@ -1,0 +1,4 @@
+put string array array double 
+work basically achieve move numerical terms string array double called sequence 
+
+returns passing array strings change code pass string 

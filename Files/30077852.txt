@@ -1,0 +1,4 @@
+slidingpanelayout items recyclerview 
+populating items achieve swipe delete functionality basically dragging item reveals delete button problem drag item intercepts touches drag diagonal horizontal starts scrolling cancels closing opening pane adding touch listener prevents recyclerview intercepting touches performed good blocks scrolling ideas 
+
+solution prevent recyclerview intercepting touch events condition lt sliding pane offset lt 

@@ -1,0 +1,4 @@
+decrypting openssl pem encoded rsa private key 
+encrypted private key password decrypt library id prefer bouncycastle option based previous experience change documentation private key form key data base64 encoded characters decrypt key exception passing parameter constructor make work ericsonn suggested small change working base64 getmimecoder base64 decode error error input length multiple decrypting padded cipher sun crypto provider ciphercore dofinal ciphercore keydatastr length keybytes length 
+
+standard openssl method deriving decryption key decrypt pkcs ndash encoded key mdash working em em pkcs envelope youll iv header input processes lot code link answer definition href http stackoverflow method 

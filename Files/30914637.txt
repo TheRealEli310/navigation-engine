@@ -1,0 +1,4 @@
+thymeleaf exclude outer tag 
+thymeleaf official doc demonstrates usage generates iteration perfect fit situation case dont outer tag hr case generating tag recursive tags include tag href attribute including side 
+
+suggest href http www thymeleaf org doc tutorials usingthymeleaf html synthetic thblock tag rel nofollow block 

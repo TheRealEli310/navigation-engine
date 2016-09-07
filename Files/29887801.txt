@@ -1,0 +1,4 @@
+level cache hibernate final 
+facing problem level cache required source find problem hibernate cfg xml employee persistance class stacktrace couldnt create session factory 
+
+assuming maven based project add dependency pom xml 

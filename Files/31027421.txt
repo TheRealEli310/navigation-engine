@@ -1,0 +1,4 @@
+setting javaagent task gradle 
+run configuration set javaagent jettyrun 
+
+gradle runs jetty inside jvm set javaagent specific task set jvm ways accomplish run gradle javaagent enabled spawn jvm process run jetty solution pretty easy provide option put pretty hard spawn jvm run gradle task guess youll href https docs gradle org current userguide embedding html rel nofollow gradle tooling api spawn process based exising build config href https docs gradle org current javadoc org gradle tooling gradleconnector html rel nofollow gradleconnector solution pretty ugly id choose approach 

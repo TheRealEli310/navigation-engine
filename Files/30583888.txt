@@ -1,0 +1,4 @@
+timeout based bufferedwriter flush 
+default size strong strong characters write lines local file lines read socket inputstream em readline em method blocking average line length strong strong characters works fast mln lines client stops writing lines stored buffer wont flushed disk fact buffered characters wont flushed disk client resumes writing connection closed translates delay time line transmitted client time line committed file long tail latency flush incomplete buffer timeout milliseconds 
+
+em real em works periodically checking writer em underlying em unbuffered writer flushing longer timeout 

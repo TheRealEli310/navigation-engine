@@ -1,0 +1,4 @@
+listen methods invocation registering object explicitely 
+listen method calls order attach additional behavior dynamically call junit methods custom annotation runner standard application main idea abstract idea dont concrete curious found approaches proxy defined interface decorate concrete classes similar injection pattern concern approach href http stackoverflow questions alternatives lang reflect proxy creating proxies abstract classes factory pattern proxyfactory class solution requires explicit calls create method produce object proxies listening method invocations bypass natural constructors classes working constraining explicit call factory time create object transparency proxy newproxyinstance working concrete classes 
+
+commonly spring framework aspect oriented programming delegate constructor calls spring easy spring put proxy place intercept calls actual objects intercept calls proxy mentioned spring aop 

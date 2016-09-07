@@ -1,0 +1,4 @@
+unable create maven based application maven archetype webapp plugin 
+j2ee development tutorials shared href http www tutorialspoint jsf jsf application htm rel nofollow http www tutorialspoint jsf jsf application htm creating maven based application issue running command em mvn archetype create dgroupid tutorialspoint test dartifactid helloworld darchetypeartifactid maven archetype webapp em error location information 
+
+problem href http stackoverflow questions unable create maven world project question answer generate create 

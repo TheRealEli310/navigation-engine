@@ -1,0 +1,4 @@
+cxf interceptor alter response soap body 
+cxf interceptor alter response body client response add nodes interceptor configured outgoing interceptor invoked body empty trial error getbefore getafter phases luck advance 
+
+solution checked cxf sources lot interceptors ideas 

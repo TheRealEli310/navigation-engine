@@ -1,0 +1,4 @@
+random number generation algorithm 
+encountered naive algorithm random number generation produce series numbers wondering achieve statistically equivalent results iterating number max 
+
+lets denote number added probability probability probability href https en wikipedia org wiki geometric distribution rel nofollow geometric distribution easily generate random number distributed geometric distribution approach generate random number uniformly distributed calculate geometric distribution href http math stackexchange questions prove generate geometrically distributed random numbers question calculate number add difference numbers distributed geometrically starting calculate difference obtain number pseudocode code traveh 

@@ -1,0 +1,4 @@
+android cardview click callback 
+library card view href https github denismondon material design library rel nofollow https github denismondon material design library figure add onclicklistener labels normalbutton highlightbutto give hand set image programatily cardview 
+
+listeners implement activity override methods implement click listeners buttons set functions 

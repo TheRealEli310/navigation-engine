@@ -1,0 +1,4 @@
+statelesssession support lazy loading 
+data model persistence hibernate lazy association pre class lang prettyprint override snippet load access pre class lang prettyprint override throws session active strong infer lazy loading supported conjunction strong notes ul li code works fine change association li li tested hibernate li ul 
+
+persistence context level cache lazy loading mechanism work lots lazy loading concepts based existence level cache entity instances referencing entity instance association lazy load referenced instance times referencing instance lazy loading strategies work batch initializing initialize multiple proxies collections access uninitialized proxy collection hibernate aware instances initialized tracking hand fetch eagerly defined lazy lead fetching large portion database single entity instance solution write query clauses explicitly loaded reconsider classic benefit advantages persistence context 

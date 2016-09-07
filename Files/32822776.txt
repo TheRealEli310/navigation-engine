@@ -1,0 +1,4 @@
+securitycontextholder setcontext invoked 
+trouble null lot combination annotations examples code site work application href https github spring projects spring security blob master core src main org springframework security core context securitycontextholder rel nofollow sources spot delegated thread local field populated initialization spring security populate authentification servlet filter method invocation strong updated strong security configuration restcontroller application initializer code data source entitymanager transactionmanager config sprng data rest request url result exception strong strong form authorization config correct replace basic auth unauthorized response fo exception strong versions strong spring spring security 
+
+solution fixing spring security simple add move method works 

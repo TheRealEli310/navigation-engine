@@ -1,0 +1,4 @@
+anonymous runnable memory leak 
+lets static method static class runs operations runnable separate thread returns result listener class call method getsomedata situation anonymous runnable created mexecservice garbage collected memory leaks issue snippet opinion anonymous runnable exist long time someotherclass field mresult garbage collected create object runnable passed reference listener 
+
+problem anonymous classes memory leaks opposite create implicit reference outer class instance case instance garbage collected listener collected case problem created inside method executed eligible gc anonymous listener memory leaks created case 

@@ -1,0 +1,4 @@
+android bundle putstring fails add string 
+working android project android studio pass message handler bundle class code defined problem putint putstring methods methods execute read message handler getint getstring return null debugged bit attached pic show problem key pairs added places exceptions researched lot find solution suggestions great strong edit strong finally open blank project added lines intent init code blank project returned exception makes insane ideas 
+
+doesnt youre attaching bundle message sending call message dont create 

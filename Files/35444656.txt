@@ -1,0 +1,4 @@
+thrift client handle union properly 
+dead simple thrift union env latest thrift cpp server client client print string properly wrote python client work full code gist href https gist github wilbeibi ee05f49c00d33d973558 thrift file code 
+
+observing href https issues apache org jira browse thrift rel nofollow thrift bug compiler produce invalid code union types case server writes fields union type client reads remaining bytes resides buffer read ends finds unexpected data buffer maintain single field logic manually contribute wait till bug fixed option applying patch incorrectly generated source code 

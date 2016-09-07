@@ -1,0 +1,4 @@
+switch ldap connection runtime spring 
+spring admins spring based web app configure settings web interface users authenticate ldap server company username password change ldap settings restarting application happen migration reason couple beans refreshed admin saves settings ldap server springframework problem constructor arguments change affect running jobs playing scoped proxy success successful ldapserver reinstantiate prototype scope running piece code scopes proxies mechanism spring reflect configuration running program instance update clear question update root problem aop proxies root exception 
+
+worked adding attribute tag created scope works prototype destroys beans settings update beans xml controller ldap settings inject ldapscope call method destroys current life cycle objects starts life cycle time user presses apply button ps handle life cycle start people auto start beans start event setting apply 

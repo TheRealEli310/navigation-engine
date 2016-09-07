@@ -1,0 +1,4 @@
+add compile time dependency eclipse 
+developer android site information android strong apache http client removal strong hr android release removes support apache http client app client targets android api level higher httpurlconnection class api efficient reduces network transparent compression response caching minimizes power consumption continue apache http apis declare compile time dependency build gradle file android problem eclipse http client httpurlconnection add dependency eclipse ide android studio feature giving solution problem 
+
+add libs folder jar found blockquote sdk path android sdkplatformsandroid 23optional blockquote copy file add libs folder 

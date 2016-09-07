@@ -1,0 +1,4 @@
+jersey custom provider throws ioexception utf encoding 
+created custom provider serializes objects json default jackson serialization work properly utf encoding adding extra illegal characters decoded client provider jersey servlet web xml sample logic web service method call method jsonserializer correctly internal server error blockquote nio charset malformedinputexception input length nio charset coderresult throwexception coderresult nio charset charsetdecoder decode charsetdecoder sun faces application bytearrayweboutputstream writeto bytearrayweboutputstream sun faces application viewhandlerresponsewrapper flushtowriter viewhandlerresponsewrapper blockquote weird thing works correctly annotation produces response data isnt correctly encoded forced add encoding manually problem 
+
+wrong roundabout json em em serialised utf add content type 

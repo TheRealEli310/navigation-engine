@@ -1,0 +1,4 @@
+jdatechooser parameter mysql query 
+correct method query statement date jdatechooser parameter 
+
+ol li li li dont convert resulting values incompatiable database column date time stamp type youre wrong li ol assume database column type compatible href http docs oracle javase tutorial jdbc basics prepared html rel nofollow prepared statements details 

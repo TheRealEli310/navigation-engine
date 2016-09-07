@@ -1,0 +1,4 @@
+tesseract recognition results android studio 
+making app android studio tesseract ocr made code recognize text images phone camera problem tesseract function getutf8text result null picture text program give errors wondered issues integrated tesseract project properly compilator show issues tesseract classes code problem code bad traineddata path main class code tessocr class tesseract traineddata file finding adding text recognition constructor finding traineddata file ul li problem caused bad tesseract integration post proper tutorial integrate tutorial internet hard understand properly li ul 
+
+problem permission write external storage apply method extract file assets folder method href https github gautamgupta simple android ocr rel nofollow github project make add permission write external storage code line manifest em androidmanifest xml em file 

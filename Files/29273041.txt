@@ -1,0 +1,4 @@
+test async method mocking object mockito 
+test code mockito verify methods executed early runnable thread sleep works verify test result strong callback onresult strong executed main thread 
+
+move anonymous runnable nested class split testing parts check jobexecutor started execution class instance check run method nested class works expect 

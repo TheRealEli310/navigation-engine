@@ -1,0 +1,4 @@
+javafx close window open button title bar button window 
+application user presses button current window hide close open window window exit button user clicks close hide current window reopen parent window behaviour button title bar solved code blocks buttons events code action goal code block handle exit button button title bar code code works identical code class call class rewriting code exit button onaction event created class modifications needed run stage setoncloserequest event 
+
+managed find solution changed method closebackuptaskandshowmaintask replaced code stage setoncloserequest lambda expression 

@@ -1,0 +1,4 @@
+execute commands remotely ssh program 
+ssh ubuntu server api ul li setup openstack ubuntu machine li li launched instance ubuntu server li li installed android sdk virtual machine li li ssh ing virtual machine create avd run emulator headless li ul plan provide web client start emulator click button set virtual machine running sdk installed guess execute command start emulator api openstack4j jclouds find figure ssh client library missing 
+
+href https github jclouds jclouds examples blob master rackspace src main org jclouds examples rackspace cloudservers cloudserverspublish rel nofollow cloudserverspublish method added constructor youll make dependency 

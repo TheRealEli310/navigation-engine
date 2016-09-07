@@ -1,0 +1,4 @@
+trapping rain water elevations array 
+problem exam paper found solution answer book understand algorithm explain algorithm works negative integers representing elevation map width bar compute water trap raining input return solution answer book 
+
+href http stackoverflow wodosc nice draw diagram elevations trapped water water trapped higher elevations run code output results trapped water calculated code starts ends mountain range whichever end lower moved closer center case ends height end moved closer center move left end closer center column height index elevations left column height index elevations column maximum minimum height words maximum height left whichever maximum smaller number important determine local water level fourth column sum follow diagram algorithm works heres code putting print println statements places understand code 

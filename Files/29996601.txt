@@ -1,0 +1,4 @@
+android progressdialog showing blocked code thread 
+similar questions solve problem appearing progress dialog putting intermediate code separate thread problem mentioned solution working activity method activity runnable class expected run intermediate code separate thread question executing code show dismiss methods progress dialog thread ui thread dialog showing 
+
+running directly method runnable call progress dialog cleared calling progress dialog show due dismiss called make call progress dialog dismissed dont call directly show progress dialog 

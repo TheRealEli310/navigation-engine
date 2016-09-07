@@ -1,0 +1,4 @@
+ignore class properties swagger 
+question simple ignore property classes defined library framework anotate fields classes si case change theclass returning swagger ui shows nested fields resource springfox spring mvc spring boot newest versions dont annotate fields leave work swagger 
+
+clear ignore type ignore properties modify representations classes control href http wiki fasterxml jacksonmixinannotations rel nofollow title mixins jackson mixins jackson solve problem guess serialize supposed rendered differently swagger service description case recommend creating alternate type rule href https github springfox springfox issues issuecomment rel nofollow title substitutes ts service link lead direction 

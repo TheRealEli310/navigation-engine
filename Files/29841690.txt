@@ -1,0 +1,4 @@
+consume message 
+href http www rabbitmq tutorials tutorial html rel nofollow rabbitmq consumer messages queue time consume message exit 
+
+declare basicqos setting message time ack nack status disable auto ack give acknowledgement explicitly hope helps 

@@ -1,0 +1,4 @@
+path post 
+restfull service define methods path differentiate http calling method method post 
+
+annotation decorator method core principle stop original structure classes perfectly legal multiple handler single file 

@@ -1,0 +1,4 @@
+linphone android crash start linphone 
+working android application linphone order make calls library downloaded href http www linphone org technical corner liblinphone downloads rel nofollow http www linphone org technical corner liblinphone downloads liblinphone android version added libs folder android project present project build path launch app device error log idea error raised miss find edit linphone jar cordova plugin 
+
+found solution gonna explain future added files needed liblinphone libs directory android project adding files android app found lib linphoneservice linphonemanager lib classes require resources didnt good liblinphone reuse basic features linphonecore linphoneservice linphonemanager android service registration listeners page href http www linphone org docs liblinphone javadoc rel nofollow liblinphone interface builds correctly features work charm 

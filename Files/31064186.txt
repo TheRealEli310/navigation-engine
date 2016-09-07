@@ -1,0 +1,4 @@
+equals app layout anchorgravity bottom end 
+xml attribute view create view programmatically add 
+
+change 

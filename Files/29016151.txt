@@ -1,0 +1,4 @@
+jaxb rename class duplicate 
+schema snippet duplicated jaxb originally happy import fail compile sources object class declared added option leads compile time error adding custom binding rename objects produce error helps bindings file make instances renamed left intact 
+
+complex type missing close tag strong xsd strong strong bindings strong strong paramobjecttype strong 

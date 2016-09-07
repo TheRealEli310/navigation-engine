@@ -1,0 +1,4 @@
+send mobile number click button server url android 
+make app user enter mobile number click proceed button user mobile number send server url code mainactivity xml file mobilenumber xml 
+
+arent passing mobileno makin server call replace parameter 

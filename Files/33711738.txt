@@ -1,0 +1,4 @@
+read calculate sum integers file 
+assume simple text file strong simple txt strong data read file print sum integers 
+
+code edit catch improper inputs file change loop 

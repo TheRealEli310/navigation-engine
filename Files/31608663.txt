@@ -1,0 +1,4 @@
+spring data count distinct items grouping 
+db visits users places place id user id amount distinct users place ended native mongo aggregation implement spring data problem size operation projection spring data api havent found reference create size field nested api appreciated 
+
+answer hit address project issue advise approach href http docs mongodb org manual reference operator aggregation addtoset rel nofollow strong strong operator create unique array set elements add basically form href http docs mongodb org manual reference operator aggregation group rel nofollow strong strong difference elements added array set results bad scalability potential problem set exceeds bson limit document size code write ten years time thing pipeline stages distinct count stages shell equivalent simple code scalable individualt user id values contained separate documents pipeline place project size counts distinct amounts determined grouping key learn limitations pitfalls code 

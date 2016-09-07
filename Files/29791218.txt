@@ -1,0 +1,4 @@
+set captured image imageview 
+set image captured imageview getdata run click application closes 
+
+append code path 

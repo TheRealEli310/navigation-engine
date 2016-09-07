@@ -1,0 +1,4 @@
+read properties file class located folder workspace 
+properties file located workspace read servlet properties file folder properties file workspace 
+
+add external folder em sample properties em classpath eclipse ul li open run configuration li li select lt app entry gt li li classpath tab li li select user entries li li click advanced button li li check add external folder li li click button li li select external folder em properties em file li ul viola resource bundles found 

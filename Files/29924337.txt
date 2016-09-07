@@ -1,0 +1,4 @@
+cache handling rxjava 
+implement workflow rxjava misusing stuff wrong ul li user asks login li li loginresult cache emit cached loginresult li li perform request webservice cache result successfull li li error occurs retry times 4th time purge cache li ul full snippet code find similar examples started playing rxjava day ago unsure implementation time 
+
+code alright good job result call cached internally wouldnt unnecessary simplify code utility methods stores emit internally resubscriptions produce hinted shouldnt called 

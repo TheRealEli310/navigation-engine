@@ -1,0 +1,4 @@
+tomcat lang noclassdeffounderror initialize class 
+full error class dao compiled deployed checked exists isnt loaded suppose add classpath manually manifest file load properties file full stacktrace 
+
+exception propagating constructor class static initializer 

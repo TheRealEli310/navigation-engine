@@ -1,0 +1,4 @@
+spring constructor autowiring initializing field 
+spring class autowiring service constructor constructor intializing field class functionality working fine good practice annotation impact intialization process 
+
+shouldnt back xml days pass argument constructor mentioned ref bean constructor arg means constructor takes bean type argument doesnt matter add constructor long creating valid object constructor normal programming spring auto wiring easy create object dependencies code code 

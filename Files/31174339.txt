@@ -1,0 +1,4 @@
+junit testing method joptionpane showmessagedialog 
+made game user ai takes turns rolling dice game automatically takes ais turn returns users turn joptionpane showmessagedialog popup dialog box notifying user turn working properly execute junit test class test hold method popup suppress popup automatically close window junit test class turnalert static method class called humanplayerpanel code call doclick method option button find button appreciated 
+
+refactor statement lets assume class called game test code extend game class strong update strong imho idea href https en wikipedia org wiki mock object rel nofollow mock testing personally suggest href http jmockit org rel nofollow jmockit trivial deal kind troubles focus test cheers 

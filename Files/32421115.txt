@@ -1,0 +1,4 @@
+daoimpl interfaces 
+spring creating dao class access database implement dao interface implement interface public class employeedaoimpl 
+
+question similar link href http stackoverflow questions interfaces writing dao classes interfaces writing dao classes hope clear doubt 

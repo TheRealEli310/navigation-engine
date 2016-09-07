@@ -1,0 +1,4 @@
+class average 
+application write application performs tasks prompts user number students class loop asks user enter grade student maintain sum grades ol start li displays class average user li ol methods h2 public static int obtainnumberofstudents h2 method prompt user number students class return users input h2 public static double obtaingrade h2 method prompt user grade return users input h2 public static double calculateclassaverage double sum int numstudents h2 sum grades class number students class method computer return class average advice code doesnt work import util scanner 
+
+error method return grade loop em em loop means statement executed loop doesnt executed impossible biggest problem method give pseudocode real code prompt user number students store input variable lets call create array length loop loop array call loop store inputs array prompt user em em grade parameter array ad average stuff 

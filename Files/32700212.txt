@@ -1,0 +1,4 @@
+adding quartz project breaks jdbc datasource 
+blockquote found problem decided post case banging head wall blockquote added latest version quartz scheduler project suddenly tests started falling weird moved quartz dependency module started fail exception spring closed combopooleddatasource removing quartz changing version helps exceptions happen instantiating quartz object 
+
+quartz jdbc pool distributed job storage version project newer version quartz versions fairly quartz classpath causing runtime exceptions dont quartz distributed job storage solved problem excluding transitive dependency 

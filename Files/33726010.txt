@@ -1,0 +1,4 @@
+immediately terminate thread interrupt 
+question cleanly terminate thread calling interrupt thread respond appropriately modify code thread executing specifically immediately terminate thread dont care state things left similar thread stop throws threaddeath exception thread terminate exception caught code dealing catches exception rethrowing thread destroy method implemented achieving 
+
+kill thread youre describing comment wont thread executing sets flag thread notice thread waiting sleeping throw imagine youre describing kill process thread running call 

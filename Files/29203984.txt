@@ -1,0 +1,4 @@
+change execution starting point program 
+interview question asked execution program begins main method signature change starting point execution program method tweaking jvm configuration parameters 
+
+application covers things fiddled program method declared vararg declaration outlined href http docs oracle javase specs jls se7 html jls html rel nofollow jls section blockquote virtual machine starts loading class invoking method class blockquote exist runtime error ensues specifically href http docs oracle javase docs api lang nosuchmethoderror html rel nofollow complain finding 

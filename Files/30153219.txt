@@ -1,0 +1,4 @@
+randomaccessfile readline returns null reaching eof 
+file 10k lines read chunks lines problem lines chunk returns start reading chunk reads chunk stops return null force reading chunk reads chunk stops code time 
+
+time call youre skipping number chunks rewinding start call youll read ul li chunk leaving stream start chunk li li chunk leaving stream start chunk li li chunk leaving stream start chunk li ul options ul li read chunks sequentially skipping li li rewind start method li ul chunks arent equally sized terms bytes 

@@ -1,0 +1,4 @@
+sorting integers array recording time 
+trouble program record fastest slowest average time sorting method takes execute trial run working sorting method selection program random integers array find time works method trial code sorting methods doesnt work output shows selection sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds insertion sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds bubble sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds merge sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds quick sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds comparison sort fastest time nanoseconds slowest time nanoseconds average time nanoseconds 
+
+problem reinitialize redo sort 

@@ -1,0 +1,4 @@
+jmockit make constructor invocation return mock 
+mockito powermock main mocking framework issues started moving code decided evaluate jmockit alternative good understanding mocking concepts admit experience jmockit limited problems testing view basic class test creates instance class inside constructor invocation thing make return mock instance code package org app running exception testng testing framework reality test method bunch parameters expecting test data passed data provider pretty basic approach jmockit advance support 
+
+easy jmockit 

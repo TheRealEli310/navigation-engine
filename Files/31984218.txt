@@ -1,0 +1,4 @@
+android nullpointer retrieving images 
+making app picks images gallery asynctask content asynctask run program crashes error message jonas shoppinglist shoppingcontacts image execution failed blockquote util concurrent executionexception lang nullpointerexception attempt invoke virtual method lang string android net uri getscheme null object reference blockquote problem detected line program complains source solution 
+
+misunderstand method br guess uries returned bitmaps br true 

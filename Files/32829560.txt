@@ -1,0 +1,4 @@
+hibernate creating wrong entity subtype relationship 
+strange issue hibernate create expected entity type relataionship entities subclass hierarchy simplified entities declared order create instances a1 b1 db instances saved db correctly id discriminator id hibernate session exception debugging found hibernate creating correct entity type b1 creates incorrect entity type a2 relationship correct type a1 created order changed hibernate doesnt discriminator column table account case creates subtype declared configuration fixed wrong annotations concrete implementation method annotations supertype leads similar problems 
+
+hibernate final make work replaced ordinary getter find behavior documentation observations ul li hibernate didnt query column table eagerly fetching rows made decision actual type li li added appeared queries objects created classes class li ul 

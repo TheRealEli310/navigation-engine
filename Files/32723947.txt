@@ -1,0 +1,4 @@
+javax net ssl sslhandshakeexception received fatal alert handshake failure grab random line project gutenberg 
+grab random line adventures tom sawyer heres code heres error message receiving line whats wrong months ago trouble back week handshake failure error 
+
+updating dont jdk1 worked jdk1 jdk1 didnt versions gave error mention ill investigate improve answer hope helps hint vm argument information error update dave thompson pointed jdk1 tls1 disabled default enable gutenberg org requiring supported add provider luck jdk1 option achieves jdk1 nice 

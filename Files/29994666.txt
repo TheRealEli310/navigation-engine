@@ -1,0 +1,4 @@
+properly execute mvn clean inside project 
+clean build package project error pre class lang prettyprint override figure project set auto clean apache instructed pom file ill include pre class lang xml prettyprint override lost retryonerror added find maven helps 
+
+version clean plugin explicitly configuring differs shipped maven similar mismatch default properties comments suggest remove entire section pre class lang xml prettyprint override run mvn clean mvn clean package set plugin setting property manually config pre class lang xml prettyprint override 

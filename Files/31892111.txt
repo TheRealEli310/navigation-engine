@@ -1,0 +1,4 @@
+stack parse string 
+string select values enclosing braces pass problem detecting output 
+
+stack based solution problably simpler lets solve problem em googles guava library needed treetraverser em output strong edit strong modified create tree additional input op strong edit strong modified treat siblings correctly 

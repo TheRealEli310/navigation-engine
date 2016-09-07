@@ -1,0 +1,4 @@
+load mchange v2 resourcepool basicresourcepool 1destroyresourcetask lang illegalstateexception 
+working mobile web application database part connection pooling running application beginning working fine transaction select save update exception dont happening strong hibernate cfg xml strong 
+
+hitting tomcat hot redeploy issues things ol li make application shutdown hibernate ed place hot redeploy c3p0 threads discarded app continue running href http docs jboss org hibernate orm javadocs org hibernate sessionfactory html close rel nofollow sessionfactory close li li settings href http www mchange projects c3p0 tomcat specific rel nofollow prevent stray references objects defunct add li ol hr hr c3p0 config section recent version c3p0 settings ish 

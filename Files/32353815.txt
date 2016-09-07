@@ -1,0 +1,4 @@
+sling scheduler method refactor 
+deprecated method href http docs adobe docs kr aem develop ref javadoc org apache sling commons scheduler scheduler html addperiodicjob lang string 20java lang object 20java util map 20long 20boolean rel nofollow scheduler addperiodicjob refactor code replace href http docs adobe docs kr aem develop ref javadoc org apache sling commons scheduler scheduler html schedule lang object 20org apache sling commons scheduler scheduleoptions rel nofollow scheduler schedule href http docs adobe docs kr aem develop ref javadoc org apache sling commons scheduler scheduleoptions html rel nofollow scheduleoptions interface pass values 
+
+href http sling apache org apidocs sling7 org apache sling commons scheduler class scheduleoptions html rel nofollow page replace call 

@@ -1,0 +1,4 @@
+versions display plugin updates understand maven enforcer plugin 
+latest version plugins earlier prerequisites tag lots resources href http blog peterlynch ca robustly enforcing minimum maven html rel nofollow title considered deprecated maven enforcer plugin configuration run em mvn versions display plugin updates em text prerequisites tag works 
+
+credits aleksandr finding br issue reported href https jira codehaus org browse mversions rel nofollow https jira codehaus org browse mversions br apparently display dependency updates goal relies prerequisites element find maven version required current project totally ignores enforcer plugin prerequisites tag required order dependency plugin behave expected 

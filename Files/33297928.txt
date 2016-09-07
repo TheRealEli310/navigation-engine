@@ -1,0 +1,4 @@
+adding maven local dependecies mvn install install file 
+local jar files folder src main resources foobar basepath included dependencies pom xml add local repository error message jars inside reposirtory found command happy solution dont edit folder structure jar inside funny warning missing pom file running maven install 
+
+declare repository party dependencies dependencies inside repobase path directory jar follow pattern groupid artifactid artifactversion inside folder jar named artifactid artifactversion jar br pom project tag group id br directory repo project directory br path repofoo ar1 bar jar file inside directory compiles jar empty matter br url repository slashes file br hope bit understandable 

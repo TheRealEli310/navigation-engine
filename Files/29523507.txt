@@ -1,0 +1,4 @@
+disabling logback console appender increase performance log file 
+disabling logback console appender increase performance fileappender playframework logback logging framework store application logs files slow strong make sense disable standard console appender increase logging performance premature optimization strong logger performance issue console logger enabled curious matter case disable appender 
+
+disable console appender production environment stated href http javarevisited blogspot top tips logging html rel nofollow blog blockquote logging severely affects performance application common sense log perform file io slows application blockquote carefully choose level log production environment prefer warn level file appender affects performances native href http logback qos ch manual appenders html asyncappender rel nofollow asynchronous logback appender block application threads 

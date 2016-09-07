@@ -1,0 +1,4 @@
+add dpi responsive images android studio 
+android development environment add image application dpi drawable image asset add icon app menu button notification icon select launcher icon image small click menu bar menu white click notification theyre tiny ant wondering make android studio make image responsive adding differing dpis splash png em hdpi em splash png em mdpi em made splashscreen devices small big strong pardon asked kinda strong 
+
+res folder multiple folders drawables drawable mdpi drawable hdpi drawable xhdpi add image hdpi devices add drawable hdpi 

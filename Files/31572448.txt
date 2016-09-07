@@ -1,0 +1,4 @@
+ee7 websockets server endpoint working 
+heres servers code send received message users connected problem treats connection individually instance server connect browser windows messages show separately ideas 
+
+finally working solution variable static call scope implicates fact instance created user connected variable mutual 

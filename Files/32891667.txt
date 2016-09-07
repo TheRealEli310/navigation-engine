@@ -1,0 +1,4 @@
+rest authorization jersey session management 
+restful backend jersey thing don implement authorization methods check user authorized method rest api jersey authorization nice annotations rolesallowed permitall denyall annotations act server realm users server application users store database sake authorization define filter checks user logged application apply filter rest endpoints authentication bit days 
+
+reading lot found good cool solution href http stackoverflow questions jersey request filter uri jersey request filter uri order check authorization methods annotated custom annotation authorization filters annotated methods rest api named 

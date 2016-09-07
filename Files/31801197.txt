@@ -1,0 +1,4 @@
+noclassdeffounderror install project maven 
+build eclipse plugin run mvn install error message apparently noclassdeffounderror means class isnt runtime plugin doesnt run xtext code built xtext language plugin guess problem code runtime maven installed parent plugin linked jar locally maven pops ideas heres projects pom 
+
+adding dependency 

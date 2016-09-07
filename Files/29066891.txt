@@ -1,0 +1,4 @@
+subclass implementations cdi 
+classes service services s1 s2 s2 extends s1 inject s1 class s2 class accomplish cdi 
+
+href http docs jboss org cdi api javax enterprise inject typed html rel nofollow annotation enables href http docs jboss org cdi spec cdi spec html restricting bean types rel nofollow restricting bean types write deployment href http docs jboss org cdi spec cdi spec html bean types rel nofollow beans types bean class restricted bean bean types type ambiguous resolution resolved annotation cdi rely qualifiers preferable qualifiers em functional em semantic 

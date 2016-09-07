@@ -1,0 +1,4 @@
+configuration error class org apache derby jdbc embeddeddriver found connecting db 
+command run application persistence xml properties pom xml dependency build properties run main class runs fine command error configuration error class org apache derby jdbc embeddeddriver found 
+
+missing library driver add pom xml eclipse running probable added manually driver classpath 

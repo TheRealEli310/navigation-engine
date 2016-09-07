@@ -1,0 +1,4 @@
+deleting section binary file 
+mb file remove bytes 1m 2m resultant file 9mb data starting 2m bytes file starting 1m make nio files typically 10mb size accessed network elegant solution performs aware btebuffer allocatedirect file getchannel struggling work doesnt involve write 8mb file channel temporary buffer order write back file place allocatedirect 
+
+approach temporary file disk good approach situation create temporary file disk nio options api nio tutorial tools tested code point direction nio open file open read write channel file open channels file work transfer portion file portion file method dont experience api states method takes explicit position argument argument proceed concurrently operation writes file wouldnt rule rewrite file megabyte size chunks work chop megabyte file finished writing portions file megabyte earlier position file 

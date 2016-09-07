@@ -1,0 +1,4 @@
+jackson databind jsonmappingexception getwriter called 
+exception writing response back jackson unable find solutions net error flushing response error stack trace 
+
+youre transform httpservletresponse json send httpservletresponse transform list json 

@@ -1,0 +1,4 @@
+minor major garbage collection count jdk jdk 
+publish garbage collection statistics services running jdk jdk8 read question href http stackoverflow questions basic gc stats basic gc stats total garbage collection count mbean slightly picture publish major minor collection count separately method total collection count segregating minor major strong strong collectors list ps scavenge ps marksweep ps scavenge pool names ps eden space ps survivor space ps marksweep pool names ps eden space ps survivor space ps gen ps perm gen strong jvm parameters strong xx useparnewgc xx useconcmarksweepgc xx disableexplicitgc usecmsinitiatingoccupancyonly cmsinitiatingoccupancyfraction mentioned advance 
+
+works jdk jdk typical collectors ul li xx useconcmarksweepgc li li xx useparallelgc li li xx useserialgc li li xx useg1gc li ul 

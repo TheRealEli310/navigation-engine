@@ -1,0 +1,4 @@
+provisionexception playframework 
+migrating project play exception understand solve occurs added dependency injection ws api file includes configuration missing wrong 
+
+line nullpointer ws null time guice instantiates class controller field thread change code 

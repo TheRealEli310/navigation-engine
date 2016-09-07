@@ -1,0 +1,4 @@
+mixing dao service calls 
+lets layer service layer web controllers service layer turn dao repo layer upper layer service calls alongside repo calls breaks layering application extent bother wrapping repo methods service methods dont drawbacks lot pain design transactional issues 
+
+turn question service layer method pain wrap dao method strong client data strong dont send back data entity represents person controller map data service layer object clients dependent strong coupling strong coupling layers controller layer depend service layer service layer depend dao layer strong transactions strong transactions handled service layer service method call multiple dao methods strong business logic strong business logic service layer bypass logic calling dao directly method findall pointless point layer coupling defeats argument 

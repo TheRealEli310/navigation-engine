@@ -1,0 +1,4 @@
+find maximum integer inside string array 
+find maximum number inside string return performance parse million rows solutions 
+
+supposed integers presented negative dont trailing zeros dont parse search custom comparator compares strings length 

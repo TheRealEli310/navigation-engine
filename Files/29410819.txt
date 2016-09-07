@@ -1,0 +1,4 @@
+authorize service layer spring application 
+building application displays information database website application secured spring security users roles records displayed depending roles current user display books database role books role role books authorization thought service layer good place query books roles current user access tables query books current user role simply select books database execute queries spring service method common authorization task spring mechanisms 
+
+simple redesign make data layer reusable strong service layer strong current users roles pass data layer strong data layer strong query books based roles fetch books logged users administration panels em didnt time checked jpql query error kindly check em strong entity model strong map relationship 

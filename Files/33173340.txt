@@ -1,0 +1,4 @@
+cdi injection beans scope 
+cdi project ul li tomee container li li apache openwebbeans cdi li li deltaspike cdi extensions li ul file webapp discovery mode configured recommended setting inject class isnt annotated scope class issues expected throw exception leave field null happening injected scope injected advance 
+
+behavior youre describing cdi ee compliant containers follow youre tomee ee cdi compliant operate rules cdi makes cdi component tomee begin demonstrate behavior youre describing 

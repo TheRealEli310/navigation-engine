@@ -1,0 +1,4 @@
+update jersey classnotfoundexception sun jersey server impl cdi annotatedcallableimpl 
+figure unable change jersey server newer versions works fine crashes deploy glassfish lib improvements weld osgi bundle guess involved error mojarra attempting follow javaee specifications package class mentioned log lost researches mvn dependency tree result 
+
+friend analyzed jersey libs discovery cdi package moved jersey server dependency called jersey servlet forcing dependency jersey servlet pom solved issue project arquillian dependency declaration jersey multipart dont dependency manager didnt care declaring dependencies worked fine upgrade libs glassfish declare provided worked omitting jersey servlet jersey multipart pom results error deploy couldnt find elegant solve 

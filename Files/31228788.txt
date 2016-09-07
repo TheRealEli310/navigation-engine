@@ -1,0 +1,4 @@
+set item shape size jfreechart 
+plotting line chart href http www jfree org jfreechart rel nofollow jfreechart series connected straight line problem shape circle rect represents data point big lot values series screenshot img src http stack imgur mwflo png alt enter image description learned shapes represent data point scale rest plot resize chart panel strong question strong make shape circles rects represent data point smaller wont clog code generate chart customized renderer draw color part line data series 
+
+override return desired shown href http stackoverflow alternatively invoke abstract parents methods nicolas xu reports code similar href http www jfree org jcommon api org jfree util shapeutilities html rel nofollow 

@@ -1,0 +1,4 @@
+creating jar project jdbc 
+finished application eclipse sql code iam oracle database jdbc connector create jar file shows message jar export finished warnings details additional information finally creating exe jar database functions doesnt work suggestions 
+
+exporter jdbc library folder finding missing couple ways fix find file located put change classpath reflect actual location file eclipse ide click project strong build path configure build path strong open build path configuration strong libraries strong tab manage libraries strong order export strong explicitly state libraries exported select 

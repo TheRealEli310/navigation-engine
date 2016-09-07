@@ -1,0 +1,4 @@
+removing duplicates list storing list memory 
+find efficient remove duplicate lines file reading entire contents file memory file randomly ordered read memory file big 20gb suggest fix code doesnt read entire file memory data li line long 76561193756669631 li ordered final result ordered li list generated program number repeated 4million 
+
+ways tackle problem read original file line line adding file unique lines check file line exists pretty slow code perform called href https en wikipedia org wiki external sorting rel nofollow external sort invented precisely sorting large amounts data fit memory faster method sorts small chunks dataset fit memory stores temporary files merges fun fact os virtual memory option os similar swapping data doesnt fit memory hard drive generic solutions work kind data provide information content file clever 

@@ -1,0 +1,4 @@
+error exporting pdf fop fo list item valid child fo list item body 
+error export pdf fop severe exception org apache fop apps fopexception org apache fop fo validationexception fo list item valid child fo list item body context info javax xml transform transformerexception org apache fop fo validationexception fo list item valid child fo list item body context info xsl run heres excerpt xsl div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 
+
+templates generate generates remove templates wont generating inside validating fo fop suggest strong focheck strong href https github antennahouse focheck rel nofollow https github antennahouse focheck 

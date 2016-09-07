@@ -1,0 +1,4 @@
+heap sort considered stable sorting alogorithm 
+heap sort sorting algorithm sorting array random numbers href http www sorting algorithms rel nofollow http www sorting algorithms read heap sort stable sorting algorithm considered algorithm sorting array random numbers 
+
+blockquote strong stable sort strong sort doesnt change relative position equal elements br br stays intact blockquote explained easily heapsort begins extracting maximum number max heap element putting position size decreased heapify operation applied size elements satisfy heap property strong step show heapsort stable strong extract maximum heap element put position size position left order elements strong reversed original order strong remaining part heapsort sort elements elements remain intact positions reason heapsort stable final result 

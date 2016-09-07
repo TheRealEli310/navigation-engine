@@ -1,0 +1,4 @@
+repository pattern repository factory 
+improve android persistence layer multiple aplications setup base repository abstract class base repository interface complete code check href https github grmaciel android repository ormlite rel nofollow https github grmaciel android repository ormlite interface repositories extends base repository achieve create repository factory people instantiate repositories place create singleton factory initialized container class relations factory called wondering good approach implement abstraction dont idea calling init method factory obligating people dont call throw exception dont point direction improve design dont discover project created lots strong dependencies hard time change advices appreciated 
+
+improve code reinventing wheel started dependency injection library dagger href http google github io dagger rel nofollow http google github io dagger define modules return desidered repository application activities depending 

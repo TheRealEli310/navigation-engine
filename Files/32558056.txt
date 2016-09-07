@@ -1,0 +1,4 @@
+error retrieving bitmap file getparcelable android 
+bitmap file passed intent getparcelable method return null everytime code sending bitmap image intent code retrieving image issue line code onactivityresult methode settingfragment logs 
+
+blockquote intent dat file storage sdcard0 cometchat images img20150914111228 jpg typ image jpeg blockquote uri image response bitmap uri 

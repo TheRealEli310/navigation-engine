@@ -1,0 +1,4 @@
+check properties file compile time 
+advices today working project huge constants holding class lots externalise order configure project thought ways ol li configuring project multiple myconstants li ol compile rest classes constants ensure compile time safety ol start li adding properties file li ol file set constants code elegant multiple classes wouldnt compile rest project doesnt ensure compile time safety required avoid man made mistakes questions ol li check strong compile time strong properties existing properties file li li li ol ps found topics href http stackoverflow questions create dynamic interface properties file compile time href http stackoverflow questions maven properties compile time dont 
+
+sorts things compile time custom compiler tasks dont practical personally id enum property keys property files configurations calling tostring enum textual key representation 

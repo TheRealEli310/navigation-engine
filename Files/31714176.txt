@@ -1,0 +1,4 @@
+spring xml config config 
+current app xml configurations spring servlet hibernate works xml files dont understand quiet challenging future developing translate configuration configuration xml files follow information href http docs spring io spring javaconfig docs m4 reference html rel nofollow guide make confused bootstrap application root context xml servlet contenxt xml hibernate cfg xml rip config web xml javaconfig bootstrap bootstrap read servlet context xml translate code unable hibernate persistence config 
+
+ways creating config files spring pure xml pure combination assuming files completely entries afaik converted code initializer class made extends convert class doesnt matter equivalent code servlet context xml make pass initializer beans initialized properly means change type servletcontext pass webmvcconfig class hope helps 

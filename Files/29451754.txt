@@ -1,0 +1,4 @@
+store method return arraylist 
+writing program creates game board superclass subclasses generate board essentially arraylist stores values returned back methods subclasses cell figure written boardgame class error img src http stack imgur nzp7r png alt gameboard 
+
+declared return type methods store instances type store return types methods type wont work primitive solution 

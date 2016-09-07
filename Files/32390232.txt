@@ -1,0 +1,4 @@
+sieve eratosthenes greater int 
+find prime numbers billion times big int hold limitation arrays type attempting allocate 2billion time results heap space error list boolean array set element method arraylists indexes int bugs pretty quickly sieve integer number elements crossed method work create partition arrays smash ugly suggestions elegant solve python lol brute force implementation takes long time run solve big fast sieve implementation works 2billion 
+
+approach ul li sieve ints size suitable li li implementation sieve end save computed primes data structure comfortable arraylist li li times loop time sieve compute primes range 1st iteration primes computed li ul ps code ill recommend wrong approach call 

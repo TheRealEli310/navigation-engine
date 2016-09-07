@@ -1,0 +1,4 @@
+encrypt rsa zipexception invalid entry size 
+writing program takes input console zip file zip file made containig encrypted files generate zip file public key exception time stream closes fix code bellow 
+
+rsa encrypt tiny amounts data size bytes rsa modulus execute wrapped cipher object method called generates silently swallowed data made cipher object messed throws exception closure rsa 

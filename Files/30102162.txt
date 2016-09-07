@@ -1,0 +1,4 @@
+maximum android heap 
+2gb ram needed android device single application 32mb heap load big images ram 3000x3000 34mb 
+
+true argue poses biggest challenges developing applications android load large images overcome simply accept limitation working android application careful creating bitmaps principle bitmaps memory displayed screen time means loading smaller bitmaps recycling bitmaps longer hold lots bitmaps amount exceeds memory limitation app option render bitmaps opengl es textures opengl es android textures essentially opengl bitmaps saved devices heap limited memory limit normal bitmaps full advantage devices ram opengl es considered slightly advanced topic developers follow tutorials href http www jayway opengl es tutorial android part vi textures rel nofollow set basic pretty quickly final define manifest file allocate app bit memory ultimately end problem access full device memory good fix memory memory requirements large wont 

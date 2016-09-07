@@ -1,0 +1,4 @@
+apply jdk consumer string 
+question source code works produces output question syntax lambda style write lines 
+
+lambda expressions functional interfaces talk problematic mistake em calling em em thread em start thread call instance run code sequentially don create method functional interfaces combining functions chain href http docs oracle javase docs api util function function html andthen util function function combinations complete combining task repeats application creating utility methods parts task stream api left creation thread hasn benefit parallel processing character basis won benefit simplicity task fixed overhead parallel processing 

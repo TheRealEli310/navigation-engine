@@ -1,0 +1,4 @@
+sonar fails analysis unable create symbol table 
+run analysis sonarqube receive exception source running analysis maven project running command mvn sonar sonar psonar gidi 
+
+encoutering issue href http jira codehaus org browse sonarjava rel nofollow http jira codehaus org browse sonarjava basically type method reference expression resolved set encountering illegal state exception expression type logs sonar plugin version update plugin latest version solve issue 

@@ -1,0 +1,4 @@
+memory custom providers 
+setting spring security v4 web application authentication providers memory manage administrator account custom refers implementation system attempt authentication memory provider custom place code code leads framework custom implementation makes bit sense href http docs spring io autorepo docs spring security release apidocs index html org springframework security config annotation authentication builders authenticationmanagerbuilder html rel nofollow method adds provider internal list href http docs spring io autorepo docs spring security release apidocs index html org springframework security config annotation authentication builders authenticationmanagerbuilder html rel nofollow configures internally manage work 
+
+create manually configure finished configuring installs custom created added list configurers applied built youve installed custom 

@@ -1,0 +1,4 @@
+libgdx text size differs android desktop 
+libgdx stuff facing weird problem text small desktop normal android screenshots desktop img src http stack imgur tdvpo png alt ubuntu android img src http stack imgur ettze png alt android code 
+
+firstly figured getprefheight getheight bad practise height scaling ratio width corrected wrong aspect ratio code full code snippet 

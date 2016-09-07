@@ -1,0 +1,4 @@
+include message properties thymeleaf 
+spring boot thymeleaf project structure img src http stack imgur ki9mh png alt enter image description app start class home leaf html run application username en things resolve configuration issue 
+
+refer official documentation spring boot href http docs spring io spring boot docs current snapshot reference htmlsingle howto convert existing application spring boot rel nofollow http docs spring io spring boot docs current snapshot reference htmlsingle howto convert existing application spring boot blockquote static resources moved classpath root spring boot detects automatically root classpath blockquote create ur internationalization file place root classpath edit default location proper location adding entry file store files locale folder inside resources folder specific language 

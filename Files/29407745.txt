@@ -1,0 +1,4 @@
+gson conversion issue key user defined objects 
+facing problem converting json object map key user defined objects illustrates problem blockquote error exception thread main google gson jsonsyntaxexception lang illegalstateexception expected begin object string line column blockquote employee addresskey address test advance hope question clear 
+
+ran code found fix gson v2 work hth 

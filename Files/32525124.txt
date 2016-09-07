@@ -1,0 +1,4 @@
+efficient write pojo arraylist 
+correct efficient terms time amp memory consumption write simple pojo class arraylist mechanism references pass ref assignments 
+
+blockquote ol li initialize li ol blockquote initialize make check null possibility initialized blockquote ol start li declare constructor li ol blockquote dont point people prefer declare writing comment href https en wikipedia org wiki nop rel nofollow nop wont change related memory usage logically default constructor initialize list initializing beginning options pass exists parameterized constructor default constructor create empty list blockquote ol start li initialize list pass li ol blockquote pass point receiving argument initialize assign make sense check received null initialize blockquote ol start li copy assignment li ol blockquote make copy check href http docs oracle javase docs api util collections html copy util list util list rel nofollow point setter correct 

@@ -1,0 +1,4 @@
+fx titledpane title css selector 
+javafx application overriding element add special content header kinda works expect add css styling header javafx css reference documentation definition structure access styling title hbox works problem add specific padding title element depending code current solution css defined styles possibilites returned solution horrible possibility easier element add styling class version java8 
+
+lookup retrieve element set inline style lookups work css pass made typically means titled pane shown screen inline styles approach padding programmatically determined manipulating style classes remember nodes multiple styles depending code invoked remove style classes avoid duplicates 

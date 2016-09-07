@@ -1,0 +1,4 @@
+split string byte 
+ascii control characters 0x1e 0x1f defined code code split string characters doesnt work correctly fiddling found work case remember codes static byte parts changing real option create means double work clean good solution 
+
+declaring character fixed works fine byte type fail cast back refer parts code 

@@ -1,0 +1,4 @@
+elasticsearch api addmapping setsettings usage 
+strong problem create index json file strong json file definition index defines analyzer custom filters respective index json works curl sense assume adapt syntax work api em dont xcontentfactory jsonbuilder json file em json file create mapping set settings sense put indexname create index work addmapping split seperate files realized remove part code load add set json complaint mapping files structure fails error 
+
+strong solution strong managed original json file 

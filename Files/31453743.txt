@@ -1,0 +1,4 @@
+bytebuffer arraylist byte 
+recently created wrapper read write data array wondering efficent ul li doesnt work arrays returns fix looping adding loop suppose supposes lot function calls performance cost li li cast loop li li suppose storing byte byte memory li ul inconvenients ul li wanted implement methods reading data types byte order classes read write byte byte array isnt problem fix wrapper problem li li wanted write read time decompress files create wrapper include dont syncronized id write entire data time wrote wrapper li ul question efficient change byte order wondering real performance change 
+
+strong bytebuffer strong strong bytearrayoutputstream strong case href http docs oracle javase docs api nio bytebuffer html rel nofollow bytebuffer fine em inspect javadoc nice methods em putint getint set order bytes files variants bytebuffer wrap byte array allocate 

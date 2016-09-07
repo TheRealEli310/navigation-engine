@@ -1,0 +1,4 @@
+writing set implementation randomelement method 
+write implementation additional method returns element random based implementation fast method method choose random index code drawback maintaining makes method element found elements moved place wondering write operations 
+
+thing replace set hashmap maps element position arraylist size add random remove makes work dont order array random access storage changing order data problems long sync hashmap 

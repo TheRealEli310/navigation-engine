@@ -1,0 +1,4 @@
+stringutils join returning pointer 
+join elements array method apache commons library explain resulting string pointer location array primitive types code arrays works understood arrays primitives internally treated differently arraylist higher order objects topic question instantiate warnings exceptions arrays internally wrapped object maps read doc parametrize map set array list primitive types understand find bit confusing reasonable explanation appreciated 
+
+signature arrays called string char happened call matched signature arguments interpreted objects integer array string space character creating result string method concatenated string representation integer array string 

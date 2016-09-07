@@ -1,0 +1,4 @@
+extract find create method abstract class spring data jpa 
+spring data jpa bunch repositories repositories services lot implemented method findorcreate string extract method abstract class avoid implementing services testing abstract class problem due fact find object string creating interface jparepository doesnt offer method solve problem 
+
+create href http docs spring io spring data jpa docs current reference html repositories custom behaviour repositories rel nofollow custom jparepository implementation includes behaviour href http stackoverflow questions reference normal spring data repo custom implementation post writing custom jparepository implementation 

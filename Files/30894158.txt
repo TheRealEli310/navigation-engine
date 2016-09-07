@@ -1,0 +1,4 @@
+hibernate sessionfactory opensession hanging 
+junit test calling method calls session object code hangs hibernate properties initialization sessionfactory code missing initialize sessionfactory code 
+
+calling background async thread database write junit exiting background thread complete write database put timeunit wait flushdata queues task writing worked 

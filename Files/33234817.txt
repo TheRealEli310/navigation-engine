@@ -1,0 +1,4 @@
+add request logging filter jetty 
+setup jetty server starts exception missing strong jetty v20110908 strong 
+
+solution 

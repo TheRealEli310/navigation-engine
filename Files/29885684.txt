@@ -1,0 +1,4 @@
+android button text color change 
+working quiz app question answer options wrong answer button clicked text color specific button turns red button clicked text color button turn green wait move question spent days figure doesnt work googled answers make work handlers runnables doesnt work posted full code activity 
+
+firstly case runs main thread main thread sleep suggested load question delay 

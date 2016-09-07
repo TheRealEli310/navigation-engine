@@ -1,0 +1,4 @@
+class conflict jar files classes 
+jar files similar util class names method signatures jar1 main method method util class jar1 jvm linking util class jar2 resolve class conflict 
+
+avoids situation package names extreme situations dont choice change jar files option bootclasspath classes loaded 

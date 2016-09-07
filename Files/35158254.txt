@@ -1,0 +1,4 @@
+writing shared array multiple threads 
+problem called sounds simple head algorithm problem em write concurrent program declares array integers create threads writes element array thread writes element array threads terminated print array result threads terminate synchronized method synchronized statement achieve thread write element array em thread write element told algorithm meet run method appreciated 
+
+ol li t1 writes li li t2 writes li li t1 writes li li t2 writes li li li ol 

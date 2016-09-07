@@ -1,0 +1,4 @@
+loggers rarely tostring system println 
+frequently annoyed changing logger required log info someobject add tostring make compile recall logger simply object tostring making specific reason surely annoyed add tostring 
+
+key point understand purpose logging loggers print human readable english messages event occurs application logging apis built basic principle blockquote log info someobject tostring blockquote problem line basic concept logging achieve log object human readable entity make work casting string implement tostring method lastly overloaded function blockquote public void info string format object arguments blockquote logging object directly developers debug lets contents object achieve correctly implement tostring method advise href http projectlombok org rel nofollow project lombok ready implementations common hashcode tostring functions beans dont code implement method 

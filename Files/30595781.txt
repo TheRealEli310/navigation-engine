@@ -1,0 +1,4 @@
+current story scenario scenario jbehave 
+current running story scenario afterscenario context object currentscenario returning null return current running story scenario 
+
+questions ill address separately question creating context calling getcurrentscenario return running scenario assuming referencing em org jbehave core context context em class case created instance context details current running scenario makes sense returns null stepmonitor context dont access code access current scenario afterscenario method normal method accessing data inside lifecycle methods scenario story stories reporter basically listener events stories running track story scenario step progress provide back lifecycle methods providing point related question covers case href http stackoverflow questions jbehave story inside beforestory jbehave story inside beforestory 

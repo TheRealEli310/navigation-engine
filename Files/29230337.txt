@@ -1,0 +1,4 @@
+transactional annotated method calling transactional annotated method object instance 
+studying spring handle transaction annotated method calling annotated method object instance transactional propagation defaul level annotated instance call annotated instance level performed transaction created reasoning correct missing methods called instance works 
+
+call class annotation method effect called proxy directly methods enhanced transactional behavior called proxy autowired bean instance injected generally speaking classes annotated propagation share transaction started 

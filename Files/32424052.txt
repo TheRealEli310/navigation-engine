@@ -1,0 +1,4 @@
+android method broadcastreceiver 
+method broadcastreceiver fragment receiver fragment error appeared blockquote attempt invoke virtual method android content context android content context getapplicationcontext null object reference blockquote code lines receiver fragment blockquote blockquote edit upgraded code fragment myreceiver 
+
+intents declare broadcast receiver react kind intent manifest programmatically intercept intent receiver 

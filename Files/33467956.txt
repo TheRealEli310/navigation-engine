@@ -1,0 +1,4 @@
+spring boot long running application web app 
+simple spring boot application amqp dependency web dependencies app server included jar application run listen queue log info db message recieved application server starts shuts application running whilst listening messages surprising code standard application config class marked rabbitlistener option considered spinning scheduled process heartbeat nice monitoring standard 
+
+make start message listener container bean shown examples 

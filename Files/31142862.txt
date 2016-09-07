@@ -1,0 +1,4 @@
+akka eclipse 
+include required jar files run akka code generate correct folder structure akka eclipse understand install sbt eclipse plugin run akka microkernal akka code step step order achieve 
+
+akka library add jars library depend libraries scala library easiest maven maven eclipse plugin file maven project select create simple project add txt grup id artifact id junk edit pom http maven apache org xsd maven xsd junk junk snapshot maven libraries youll add jars classpath manually akka actor m2 jar scala library jar config jar scala similar change pom href http alvinalexander jwarehouse akka akka samples akka sample main lambda pom xml shtml rel nofollow http alvinalexander jwarehouse akka akka samples akka sample main lambda pom xml shtml make add scala nature project create scala files 

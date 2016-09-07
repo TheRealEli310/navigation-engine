@@ -1,0 +1,4 @@
+understanding median medians algorithm find element 
+code understand median medians algorithm blocks size understand medians input code block recursing input median median pivot throw useless information partition input returns array size ceil input length returns median array arrays length lt pre class lang prettyprint override 
+
+median medians basically quick select algorithm href http en wikipedia org wiki quickselect rel nofollow http en wikipedia org wiki quickselect improved quick select average time complexity slow tricky input finding median medians iteration quick select algorithm median medians nice property larger elements smaller elements guarantees quick select median medians pivot run worst time complexity refer href http en wikipedia org wiki median medians rel nofollow http en wikipedia org wiki median medians suggest start implementing quick select code select pivot step quick select 

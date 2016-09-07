@@ -1,0 +1,4 @@
+jspinner spinnerdatemodel spinning 
+developing application swing create gui problem jspinner whih user select time hh mm format specific range created custom spinnerdatemodel dateeditor run application spinner shows proper doesnt spinn put nulls start end parameters creating spinnermodel spinner works wrong 
+
+strange behavior find reasonable explanation works custom editor class solve problem 

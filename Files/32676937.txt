@@ -1,0 +1,4 @@
+split command line arguments string array 
+object oriented programming programmer command line arguments ab5 bc4 cd8 dc8 de6 ad5 ce2 eb3 ae7 code supposed split argument string array spaces commas delimiters wanted print working message prints ab7 exception thread main lang arrayindexoutofboundsexception line wrong 
+
+code command line arguments separated spaces dont pass comma delimited string call split 

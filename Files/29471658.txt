@@ -1,0 +1,4 @@
+check resultset empty null datastax cassandra driver 
+check empty resultset datastax cassandra driver suppose executing query select table mykey great chance query matched code work 
+
+pretty close correct solution driver return result set returned results documentation href http www datastax drivers datastax driver core resultset html states rows returned rs returns null href http www datastax drivers datastax driver core resultset html getavailablewithoutfetching getavailablewithoutfetching returns number rows result set fetching rows pagesize assured row return greater 

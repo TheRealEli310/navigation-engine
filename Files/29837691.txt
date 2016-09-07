@@ -1,0 +1,4 @@
+swagger generation mule jetty 
+generate swagger apis mule added jetty connector mule server running added web xml src main app webapps swaggerdoc web inf web xml content pom file dependency starting mule hitting href http localhost api rel nofollow http localhost api throwing authorized annotations apis correctly appreciative stuck problem days interface generate swagger mule flow 
+
+mule specific module tutorial sample swagger core repository depend require jetty href https github swagger api swagger core wiki swagger core mule project setup rel nofollow https github swagger api swagger core wiki swagger core mule project setup tutorial information including dependency link sample id opt version found href https github swagger api swagger core wiki swagger core mule project setup rel nofollow https github swagger api swagger core wiki swagger core mule project setup mule module version published compiled develop branch 

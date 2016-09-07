@@ -1,0 +1,4 @@
+bounded wildcard return type static factory pattern 
+read effective bounded wildcards return types dont code compiles return type static factory wrong workaround thing noted method method 
+
+code class generic odd issue caller passes url create cloner passes theory type request clone method kinds solutions depending generic strong requestcloner generic strong change base class subclasses override optionally changing return return subclass disadvantages solution return request post request prefer strong remove switch adding code enum strong return depend type request caller kind type token explicitly reference subclass add static method type request strong requestcloner generic strong code question benefit making generic make return post options ol li making subclasses constructors public li li replace method multiple creational methods li ol option 

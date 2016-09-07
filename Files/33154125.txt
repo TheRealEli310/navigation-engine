@@ -1,0 +1,4 @@
+log4j2 wildfly 
+log4j2 default logging run webapp wildfly logs wrapped info strong info stdout default task strong debug za manticore core aspect cacing cachingaspect entering caching aspect method getapplicationmeta causing logs cluttered logs logged info configure wildfly googleing find answer worked 
+
+configure wildfly wrap strong stdout strong strong stderr strong logs run cli commands 

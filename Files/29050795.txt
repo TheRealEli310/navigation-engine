@@ -1,0 +1,4 @@
+add json object httpget request webapi 
+send json object client webapi input parameter null code webapi method send json object 
+
+problem webapi expecting person object json format fromuri complex object expecting url query parameter field person nice href http www strathweb asp net web api parameter binding part understanding binding uri rel nofollow works basically query parameters href http naviserver azurewebsites net api person dave amp age rel nofollow http naviserver azurewebsites net api person dave amp age send person json format http post set json body webapi method public httpresponsemessage post frombody person person change client send post request 

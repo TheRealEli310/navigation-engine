@@ -1,0 +1,4 @@
+keyevent key code extended key code 
+noticed keyevent object getextendedkeycode method getkeycode method return integers difference 
+
+javas href http docs oracle javase docs api awt event keyevent html rel nofollow documentation getkeycode specific keyboards getextendeskeycode international keyboards support unicode characters potentially getextendedkeycode thai language application words getkeycode pick unicode characters getextendedkeycode detect wider range characters read difference unicode compliant unicode compliant languages href https irfansworld wordpress unicode unicode data formats rel nofollow 

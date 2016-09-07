@@ -1,0 +1,4 @@
+duration audio file android 
+fail duration bundle audio file android fails illegalargumentexception exception path incorrect variants media supported m4a wav mediametadataretriever class audio plays fine android path variants ul li assets assets sounds testsoundwave wav li li android resource package assets assets sounds testsoundwave wav li ul cocos2d v3 inherent working afaik duration audio files audioengine code static method activity called jni side cocos2d 
+
+turned cocos2d gave incorrect exact paths asset files singleton file class exact paths side paths platform side ios android worked ios reason didnt work android working path android side strong assets sounds testsoundwave wav strong specifically remove assets beginning string funny setup problem cocos2d figured exact paths recursively list stuff bundle href http stackoverflow questions directory listing resources android app directory listing resources android app 

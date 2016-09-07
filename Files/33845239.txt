@@ -1,0 +1,4 @@
+jooq single query relationship 
+table experiment table tags tags experiment schema create query jooq wich returns experiments list tags result record experimentrecord list tags map query wich returns result convenient edit java8 newest jooq 
+
+ways materialise nested collection sql jooq h3 joins h3 dont deeply nest collections denormalising flattening results trick adding overhead data duplicated essentially youll write map experiment records keys nested collections tags values h3 creating queries h3 materialise complex object graph joins longer optimal collect data client distinct queries merge results clients memory 

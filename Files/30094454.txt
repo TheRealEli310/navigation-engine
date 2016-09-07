@@ -1,0 +1,4 @@
+visual vm interpret time time cpu 
+read href http stackoverflow questions visualvm time visualvm time dont interpret case understand method 72s cpu execution time real work method called interpret threads blocked method reason 428s begin search concurrent access em context em webapp tomcat 
+
+blockquote interpret threads blocked method reason 428s blockquote explanation conceivable thread descheduled thread sheduler threads run blockquote begin search concurrent access blockquote synchronization contention locks waiting notifies explanation waiting blocking operations complete 

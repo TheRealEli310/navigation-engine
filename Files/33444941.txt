@@ -1,0 +1,4 @@
+class path multiple slf4j bindings exclusion 
+error class path multiple slf4j bindings starting web app server solutions found didnt work excluded artifacts domain error dont understand error exclusions glassfish server excluded artifact link furnished error code mvn tree pom xml 
+
+building end point standalone application start adding dependency web application include slf4j implementations delete dependency 

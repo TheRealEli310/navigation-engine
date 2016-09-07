@@ -1,0 +1,4 @@
+multi module spring boot start class 
+made application multi module plan eventually splitting multiple repos problems figuring make work layout problem directory structure run passes fine start class works fine cd run tells find dependencies guessing things meant run repository root set tells find class rpf application make work root repository xenoterracide 
+
+multi project spring boot app parent multiple modules run child module install rest project local maven repository xenoterracide run assuming works put snapshot versions local repository change rpf application run run explain project works conscious working directory environment specific configuration files 

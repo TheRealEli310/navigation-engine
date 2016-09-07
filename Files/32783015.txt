@@ -1,0 +1,4 @@
+obtaining beanmanager object weblogic 
+specification beanmanager href https docs oracle javaee api javax enterprise inject spi beanmanager html rel nofollow https docs oracle javaee api javax enterprise inject spi beanmanager html ee components obtain instance beanmanager jndi comp beanmanager wrote code jboss static initializer block class worked expected weblogic error doesnt work weblogic update call method doesnt call method doesnt namespace namespace 
+
+problem occurred developer edition weblogic weve installed middleware version worked versions 

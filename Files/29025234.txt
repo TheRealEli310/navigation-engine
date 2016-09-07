@@ -1,0 +1,4 @@
+fix util concurrentmodificationexception 
+purpose code user enter car search array list find object matches user entered run code util concurrentmodificationexception error explanation error means advice fixing appreciated 
+
+javadocs relevant collections href http docs oracle javase docs api index html util concurrentmodificationexception html rel nofollow clear blockquote exception thrown methods detected concurrent modification object modification permissible blockquote started iteration modified back iterator dont open iterator youre dont access enhanced loop 

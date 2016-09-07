@@ -1,0 +1,4 @@
+retrieving information contact google people api 
+recently released googles people api href https developers google people quickstart rel nofollow extended sample bit display additional information contact email address phone number code job presented testing program contact list successfully obtain list people fields values email addresses phone numbers lists null values set contact list verified gmail contacts missing 
+
+problem solved googles documentation bit misleading released fetch contacts em people connections list em href https developers google people api rest v1 people connections list rel nofollow query parameters set em requestmask em parameter stated omitting field include fields case work explicitly fields returned response modified code google people clarify point bit 

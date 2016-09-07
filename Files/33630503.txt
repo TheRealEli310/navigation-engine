@@ -1,0 +1,4 @@
+spring mvc calling method admin pages 
+spring mvc working web project admin panel admin pages controllers mapping contoller named admincontroller authenticate admin bring login page logged authenthication classes admin page authenthication class request session references classes references created spring httpservletrequest constructor method wrote request mapping call method eventhough set properties method admin url suggestion write request mapping controller call method controllers admin page child fyi thinking spring security 
+
+implementing servlet filter implement method determine apply filter strongly recommend href http projects spring io spring security rel nofollow spring security 

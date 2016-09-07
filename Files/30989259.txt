@@ -1,0 +1,4 @@
+counting special characters recursion 
+code dont expected result string compute recursively loops number lowercase chars string method 
+
+idea complicated things check explicitly character increment case strong strong wasnt continue recursing 

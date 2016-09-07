@@ -1,0 +1,4 @@
+javafx fit parent adding fxml file splitpane 
+splitpane treeview left content area click item treeview display content load fxml create scenebuilder problem fxml doesnt fit splitpane load fxml file make anchorpane created fit original splitpane size 
+
+aligning fx pain suggest pane mydynamiccontent stretched corners answer set ancorpane attributes content dont nested anchorpane edit thinking outer pane container pane stick 

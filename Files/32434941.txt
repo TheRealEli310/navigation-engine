@@ -1,0 +1,4 @@
+migrating struts1 struts2 
+migrating application struts struts encountered code snippet replace code snippet struts pre class lang prettyprint override code snippet pre class lang prettyprint override replace code 
+
+struts return method struts returns result code type code expected replaced result code action result configured action configure forwards struts create result configs result type result type pre class lang xml prettyprint override code replace pre class lang prettyprint override errors provided class action inherit code pre class lang prettyprint override jsp display errors pre class lang jsp prettyprint override 

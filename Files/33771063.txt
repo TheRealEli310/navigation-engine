@@ -1,0 +1,4 @@
+spring clienthttprequestinterceptor 
+listed logginginterceptor spring boot app interceptor called rest service invoked sysout statement printed immediately 3rd sysout statement printed rest call made rest call made getbody called explain works 
+
+cents due fact clienthttprequestinterceptor interceptor request acts proxy means pretty handle modifying requests sending response needed executed clienthttpresponse response execution execute request body response committed request fired buffered modification evident class class interceptingclienthttprequest extends abstractbufferingclienthttprequest inputstream responsestream response getbody buffered request fires request response output stream 

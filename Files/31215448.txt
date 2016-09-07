@@ -1,0 +1,4 @@
+android settext button onbuttonclick resolve method 
+preface completely android development simply text buttons change click button change visibility fine setvisibility referencing buttons correctly attempt settext error resolve method settext lang string change visibility text correct problem heres portion xml buttons attempting change text code onclick event 
+
+fragment activity add elements set button widget layout reference widget declaring proper type casting fragment activity bind proper view advice dont reference views widgets listener listener 

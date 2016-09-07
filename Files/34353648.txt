@@ -1,0 +1,4 @@
+largest prime factor number 
+find largest prime factor number solving problem href https www hackerrank contests projecteuler challenges euler003 rel nofollow test case failing corner case fail heres code spot basically 
+
+bug code input strong strong em largestprime em function return true input power 

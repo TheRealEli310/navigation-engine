@@ -1,0 +1,4 @@
+change package classes inside jar 
+typical problem depends tool bundle dependencies single jar change package names internally avoids conflict software package foo change classes package foo references make jar jar publicly exposed classes foo packages feel free alongside conflict problem totally forgotten tool considered company management concerned binary level modifications classes years similar problem affects test code propose totally forgotten things remember ul li open source hosted google code li li based objectweb asm underneath li li pun description li ul tool 
+
+remembered tool called jarjar links 

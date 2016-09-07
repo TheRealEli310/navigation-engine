@@ -1,0 +1,4 @@
+pom project missing dependency information 
+strong strong created project bundle external jars libraries bundled custom jars needed legacy purposes bundle jar build runs fails warnings error strong question strong build pass generate artifact 
+
+href https maven apache org plugins maven install plugin install file mojo html rel nofollow goal href https maven apache org plugins maven install plugin rel nofollow mavens install plugin blockquote em install externally created artifact local repository pom em blockquote href https maven apache org plugins maven deploy plugin deploy file mojo html rel nofollow goal href https maven apache org plugins maven deploy plugin rel nofollow mavens deploy plugin blockquote em install artifact remote repository em blockquote placing artifacts projects directory 

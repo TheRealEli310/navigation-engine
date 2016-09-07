@@ -1,0 +1,4 @@
+android find method jar runtime 
+working app aes encryption requires jar base encoding decoding tutorial href https www youtube watch dpujpoxkfg4 rel nofollow importing jar issue idea line line compilation happy runtime phone error message application gradle script reference jar call commons codec gradle script calling class bit 
+
+gradle dependencies href http mvnrepository artifact commons codec commons codec rel nofollow http mvnrepository artifact commons codec commons codec android base64 library href http developer android reference android util base64 html rel nofollow http developer android reference android util base64 html 

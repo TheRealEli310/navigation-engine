@@ -1,0 +1,4 @@
+passing driver object page class lang nullpointerexception 
+pass driver object class page nullpointerexception beginning class strong pageobject class searchresultspage strong strong pageobject class homepage strong strong test class strong problem run test checkishomepage fails nullpointerexception changecurrency pass dont test fail thist methods pageobiect class homepage wrong searchproduct method pass compare product addtocompare idea pagefactory initelements make test page search results updated foud reason doesnt work becouse base class basepage made extended classes pageobjest constructor super driver deleted extends super pageobject classes driver driver working made base class didint work updated basepage poor 
+
+fundamental problem intended defer call snippet constructor passes instance super member variable set null called instance parent class dropped masking declaration child class 

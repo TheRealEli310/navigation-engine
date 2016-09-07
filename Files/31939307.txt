@@ -1,0 +1,4 @@
+android httpurlconnection json string 
+call url address add user database class call working error returns null 
+
+add line code localhost emulator connect localhost work device 

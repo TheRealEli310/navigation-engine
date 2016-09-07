@@ -1,0 +1,4 @@
+spring data query onetomany relation returns result 
+entities repository interface class run integration test fails absolutely dont beginner spring learn error message blockquote lang assertionerror expected lt lt blockquote result empty test setting wrong entity relation fine 
+
+field entity basically means relationship managed field entity test code setting addresses customer customer address null records database relation returned query setting collection bad things jpa environment existing instance overwrite persistent collection remove method create method cleans test code 

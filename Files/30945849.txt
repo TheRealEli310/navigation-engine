@@ -1,0 +1,4 @@
+android recyclerview onclick work 
+change background clicking isnt work viewholder blockquote attempt invoke virtual method streamviewholder getadapterposition null object erference blockquote 
+
+put method 

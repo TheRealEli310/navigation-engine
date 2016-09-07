@@ -1,0 +1,4 @@
+create object valid attributes 
+basic problem create object passed valid parameters constructor make alternate class call constructor validation realized static method class validation practice case 
+
+standard practice validate arguments constructor side verify arguments null fairly common hr update reply specific comment social security number add method class calling code design achieved things ul li validate user input users good typos li li made misused exception thrown detect bugs li ul creating class holds ssn encapsulates validation logic accept object argument valid ssn construction 

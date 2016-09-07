@@ -1,0 +1,4 @@
+spark kafka streaming lang noclassdeffounderror akka util helpers configops 
+writing spark application written scala listens kafka topic application prints message received running locally machine scala maven configuration scala version spark version idea dependencies arent latest scala binaries fails 
+
+guess problem spark streaming version spark core spark streaming kafka refer working pom xml sample project href https github atulsm test projects blob master pom xml rel nofollow https github atulsm test projects blob master pom xml 

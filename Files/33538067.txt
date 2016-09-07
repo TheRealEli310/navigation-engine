@@ -1,0 +1,4 @@
+write program round number multiple conditions 
+blockquote write program round number multiple digit round previous multiple round round rounds ints input round input values return sum blockquote strong myapproach strong created functions function counted sum numbers function checked unitdigtit amp amp lt proceed set statements question checked digit digit number digit returned num proceded sets statements h1 sample input h1 sumrounded h1 sample output h1 rounds h1 sample input h1 sumrounded h1 sample output h1 results 
+
+h2 rounding h2 remainder subtract add ten minus remainder strong strong href https docs oracle javase docs api lang math html round float rel nofollow h2 href https docs oracle javase docs guide language varargs html rel nofollow varargs h2 implement varargs method href http docs oracle javase docs guide language foreach html rel nofollow loop h2 testing h2 test 

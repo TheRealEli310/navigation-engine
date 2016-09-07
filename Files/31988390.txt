@@ -1,0 +1,4 @@
+dropwizard json pretty print query param 
+pretty print jsonby default give choice user make configureable queryparam pretty print json default false good idea copying code thousands resources messagebody writer outgoing filter strong solution alexey gavrilov hint strong container filter extended application class run 
+
+href https github fasterxml jackson jaxrs providers pull rel nofollow objectwriterinjector objectwritermodifier customize object writer resource method depending query parameter href https github fasterxml jackson jaxrs providers blob d56af1bb3d38a9448d5dccfa6ecd23887a46b426 json src test fasterxml jackson jaxrs json dw writemodificationstestbase l49 rel nofollow code sample jackson jax rs provider repository 

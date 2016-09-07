@@ -1,0 +1,4 @@
+serializable hashmap bytearray creating blob 
+message error io notserializableexception works fine class implements serializabe class 
+
+class static class static behaves static field exist part instance outer class serialize instance static class serializing enclosing outer class object guessing serializable fields serializable 

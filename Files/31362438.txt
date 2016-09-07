@@ -1,0 +1,4 @@
+change appbarlayout height programatically android 
+implement flexible space image pattern href http blog grafixartist toolbar animation android design support library rel nofollow tutorial works fine notice height definition appbarlayout 192dp id make height screen match href http material design storage googleapis publish material material ext publish 0b6okdz75tqqscxnqy3dndvlyetq patterns scrolling techniques flex space image xhdpi webm rel nofollow google pattern heres code activitys oncreate layout xml tutorial reason result expecting app bar code code height shows expected xml set dynamically 
+
+original code calculation screen wrong layoutparams match parent setlp wasnt imported correctly declare view type coordinatorlayout layoutparams make easy framelayout layoutparams instance 

@@ -1,0 +1,4 @@
+load initialize shader jogl 
+initialize shaders ideas error empty check size larger printed error console data fragment shader vertex shader 
+
+check shader logs shader compilation href https www khronos org opengles sdk docs man xhtml glgetshaderinfolog xml rel nofollow https www khronos org opengles sdk docs man xhtml glgetshaderinfolog xml 

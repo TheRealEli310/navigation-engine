@@ -1,0 +1,4 @@
+udp multicast working localhost 
+recently implementing multicast multiplayer game locate games running players network created classes problem listener hears heart beat running part computer heart listener make listener hears beat computer strong edit strong finds local ipv4 address 
+
+make listener joined multicast group proper interface sender sending proper interface cases methods suppose sender ip addresses receiver addresses sender send call receiver receive receiver receive multiple interfaces call multiple times calling edit dont local ip address ip computers host ip system call list network interfaces call ip addresses edit send multiple interfaces receive multiple interfaces constructor 

@@ -1,0 +1,4 @@
+elements hashset random order 
+wondering place element hashset determined built hash function result explanation order output 
+
+hashset based array item index array calculated based function iterator hashset moves array elements skipping null elements order strange preserve insertion order 

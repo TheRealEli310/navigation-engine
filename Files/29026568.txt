@@ -1,0 +1,4 @@
+dynamic port spring boot geb configuration 
+spring boots test framework option select random port test run href http docs spring io spring boot docs current reference html howto embedded servlet containers html howto discover http port runtime rel nofollow documentation suggests grabbing port spring wanting set access dynamic port number configslurper 
+
+simply override base spec 

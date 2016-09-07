@@ -1,0 +1,4 @@
+spring socket convertandsendtouser external message broker rabbitmq cluster environment 
+spring append sessionid destination queue external message broker rabbitmq noticed sessionid username fetched defaultusersessionregistry usersessionids work cluster environment fetched defaultusersessionregistry mapping stored 
+
+youre clustered environment fully work moment track href https jira spring io browse spr rel nofollow spr issue targeted spring framework 

@@ -1,0 +1,4 @@
+fail jenkins build tests run 
+running tests job configuration br em build section invoke gradle script gradle wrapper tasks em console output logs execution specific parameters lot jobs automation tests br daily basis checking failed jobs refactoring tests group changed typo occur br changed test group test repository forgot update job br strong strong tests executed job passing strong build successful strong mark build successful tests executed 
+
+generates file time test run br tests executed analyze file simplest solution found href https wiki jenkins ci org display jenkins text finder plugin rel nofollow text finder plugin br case added added follow href http stack imgur hcflj png rel nofollow img src http stack imgur hcflj png alt text finder plugin console output logs 

@@ -1,0 +1,4 @@
+gradle build failed resolve aar library dependency trnql sdk 
+attempt build project gradle error find android archive file aar libs folder dependencies section build gradle file href http stack imgur y7iq3 png rel nofollow img src http stack imgur y7iq3 png alt enter image description project structure href http stack imgur 7uaqa png rel nofollow img src http stack imgur 7uaqa png alt enter image description aar file valid resolved build system fix problem 
+
+dependency top list dependencies compile trnql lib release aar top list compile filetree 

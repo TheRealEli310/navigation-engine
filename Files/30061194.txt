@@ -1,0 +1,4 @@
+subspace clustering clique elki 
+detect dense subspaces high dimensional dataset elki library documentations examples elki library gave input br br br br result expect output input datapoints grouped subspaces picking wrong values setting parameters wrong advance 
+
+clique produces strong overlapping strong clusters elements clusters time choose parameters badly clique parameters hard choose weird results case clusters data set elements essentially clustering tells elements cluster elements cluster element cluster element elements cluster elements cluster element cluster element subspace element separate cluster choose parameters fragile algorithm tau points points cluster words result asked 

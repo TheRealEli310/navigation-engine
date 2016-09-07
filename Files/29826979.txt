@@ -1,0 +1,4 @@
+create savedinstancestate dynamically selected image android 
+create android application select image gallery button retrieve imageview image fetching successful saved state selected image fix makes crash application change horizontal orientation app crashed solve issue code 
+
+tested dont working hope aware blockquote completely restore activity state bundle system saves onsaveinstancestate callback designed carry large objects bitmaps data serialized deserialized consume lot memory make configuration change slow situation alleviate burden reinitializing activity retaining stateful object activity restarted due configuration change blockquote 

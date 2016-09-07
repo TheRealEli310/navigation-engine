@@ -1,0 +1,4 @@
+issue accessing post method cxf rest service 
+create simple restful web service client cxf service client problem accesing login method working expected access logout post method error correct mistake 
+
+path segment logout body request uri add uri path path endpoint doesnt exist put data post body change path logout make method param type string parse 

@@ -1,0 +1,3 @@
+spring io notserializableexception mapsqlparametersource 
+insert simple base spring mapping query parameters taking error data error log bean solve problem 
+

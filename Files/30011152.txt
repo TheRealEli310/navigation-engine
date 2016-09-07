@@ -1,0 +1,4 @@
+libgdx draw spawn sprite object 
+spawn sprite object sprite rendered playerspr rendered timer reset spawn draw 
+
+conflating game logic drawing method drawing stuff list enemies draw class reference sprite batch call game screen class owns class call begin end called game spawn enemy method increment timer line spawn enemy creating adding list reason theoretically spawn enemies max frame time prevents game logic falling slow frame method sprite set add enemies list simply instantiate sprite creates sprite seeds existing prototype sprite pooling avoid triggering gc stuttering game pooling remove enemy track game structure bit confused class called player player enemies 

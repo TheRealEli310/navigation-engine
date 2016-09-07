@@ -1,0 +1,4 @@
+android studio drawable images iteration 
+put images res drawable folder named s1 png s2 png s3png 2n png loop process ofcourse works advance edit coreproblem convert filename strings ressourceids android studio assigns 
+
+drawable id passing string em imagename em code href http stackoverflow answer pass image string variable dont convert automatically easily readable 

@@ -1,0 +1,4 @@
+super class annotation processing 
+run annotation processor written generate code based annotated classes super class processed class typeelement returns current class annotation processor processing classes extends classes implemented class methods helpful thankx 
+
+understood question correctly href http docs oracle javase docs api javax lang model util types html directsupertypes 28javax lang model type typemirror rel nofollow method return type direct superclass directly implemented interfaces represent superclass superinterface cast href http docs oracle javase docs api javax lang model type declaredtype html rel nofollow method query things simple fully qualified youll works superclass superinterfaces directly simply calling separately rest process 

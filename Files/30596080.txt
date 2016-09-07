@@ -1,0 +1,4 @@
+persistent session glassfish nginx proxy 
+running glassfish webserver nginx proxy resolves domains store sessionscoped data webserver problem nginx opens session everytime connects glassfish session connected client client active session nginx glassfish aware fact wrong sessions handled manipulates links application session intact proxytest page2 jsf jsessionid 4372da9b75a2043875c73b12f998 connect directly webserver proxy behaviour totally unacceptable manipulation session individual persistent session glassfish user connects proxy pass sessionid url nginx set cookie browser send back assuming cookie formatted correctly nginx settings server listen server www abc ch problem browser send back cookie reason doesnt throught server request server generates session id confirming data stored sessionscoped bean lost 
+
+helps post nginx proxy config basic reverse proxy config 

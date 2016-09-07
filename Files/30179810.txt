@@ -1,0 +1,4 @@
+project netbeans gradle plugin find native libraries 
+figure gradle netbeans plugin easily put simple projects convert project jogl gradle run problems compile run assume finding native libraries build gradle run appreciated 
+
+avoid tilde character paths build script interpreted bash command line gradle 

@@ -1,0 +1,4 @@
+parse textfield bigdecimal 
+parse bigdecimal textfield code parse bigdecimal strings textfield worked code make work idea 
+
+youre parsing string float converting float string text field youre line wont culture sensitive decimal separator culture sensitive parsing 

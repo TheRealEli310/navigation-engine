@@ -1,0 +1,4 @@
+multiple views data sets recyclerview 
+adapter populates recyclerview cardview items textview fills textviews data string array add textview cardviews populate separate data array wondering achieve appreciated 
+
+simply add view cardlayout xml finally set data desired textviews 

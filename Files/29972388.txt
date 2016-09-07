@@ -1,0 +1,4 @@
+word frequency line number 
+blockquote write program counts frequencies word text output word count line numbers appears define word contiguous sequence white space characters hint split capitalizations character sequence considered word python python input lines empty line terminating text text file input optional alphabet characters white spaces present input output formatted blockquote figure output include line numbers word 
+
+idea hashmap store words occurences store word line number occured combining hashmap required output output program 2nd 1st line 

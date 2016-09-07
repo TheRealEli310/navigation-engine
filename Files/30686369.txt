@@ -1,0 +1,4 @@
+extend actionbaractivity listactivity 
+listview populated database extends actionbaractivity listactivity code features action bar br class xml href http stackoverflow doesnt fit design 
+
+create layout listview strong activity xml strong actionbaractivity 

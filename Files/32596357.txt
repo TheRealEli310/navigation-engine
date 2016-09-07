@@ -1,0 +1,4 @@
+set object datasource custom control 
+bean method returns object type paymentitem method returns nth item button main page renders custom control main page sets viewscope correct index set datasource cccompaymentinput paymentitem returned added code createobject var pitem object pitem created track 
+
+generally cleanest create custom property custom control context object conventional pick youd control reference object data source youre referring work isnt 

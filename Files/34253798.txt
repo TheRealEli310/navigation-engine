@@ -1,0 +1,4 @@
+rxjava rx exceptions missingbackpressureexception filter map 
+br started playing rxjava rxandroid problems understand correctly handle backpressure file scanner observable scans directories emits files files processed fast skipping pipeline strong rx exceptions missingbackpressureexception strong error read backpressure understand loss options buffers windows commands effects buffer groups items questions ol li supposed filter groups make sense li li implement filescanner observable backpressure handling waits pipeline operators subscribers capacity li li good practice transform items xyz entities store separate list active subscriber side effect operator li ol feedback hints lot appreciated 
+
+found solution problem code working code strong strong working order make huge difference question kind topic open comment 

@@ -1,0 +1,4 @@
+find maximum number duplicates array 
+utilizing finding maximum number duplicates strong sorted strong array algorithm doesnt work returning desired results strong code strong strong strong br em input em br em output em duplicates supposed maximum duplicates total number values 
+
+href https en wikipedia org wiki element distinctness problem rel nofollow element distinctness problem explained details thread href http stackoverflow find duplicates array mentiones thread discusses solutions problem shows lower bounds hash table data sorted strong sort iterate hash set dont sort array strong sort array array sorted single iteration single iteration sorted array hashset sort hr maximal number element repeats total number repeats approach slightly hashing solution href https en wikipedia org wiki histogram rel nofollow histogram sorted array solution 

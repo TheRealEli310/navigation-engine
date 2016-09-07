@@ -1,0 +1,4 @@
+error spring boot 
+running simple desktop application spring boot error stack blockquote blockquote div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override main class div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override error error creating bean defaultservlethandlermapping enablewebmvc annotaions feedback 
+
+enableautoconfiguration auto configs webmvc pls exclude 

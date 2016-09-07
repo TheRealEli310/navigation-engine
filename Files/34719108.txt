@@ -1,0 +1,4 @@
+okhttp v3 rc1 post request parameters 
+strong update strong okhttp library version rc url send strong post strong request parameters code fails onfailure method executing problem adding request params incorrectly 
+
+adding query parameters incorrectly heres problem submitting data body request html form submit query parameter intended httpurl add query parameters url worth noting simply ul li builder create url add parameters li li create content request html form youre submitting li ul make internet permission app make active internet connection okhttp similar works 

@@ -1,0 +1,4 @@
+jax rs jersey working jboss 
+upload simple rest service jboss tomee jax rs pre class lang xml prettyprint override dependencies pre class lang xml prettyprint override server endpoint pre class lang prettyprint override error happen works fine tomcat container hr update 
+
+solution lines added web xml lines web xml commented create em jboss deployment structure xml em edit em standalone xml em 

@@ -1,0 +1,4 @@
+akka dead letters encountered 
+inside constructor initializes child receives request actors world received sends childs messages actors message back aslo notification find 2nd message shutting actor stop lowest inside 
+
+returning messageresponsex main sending messageresponsex events long operator works events sending long string collection long object mainactor receive method intercepting deadletters 

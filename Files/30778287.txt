@@ -1,0 +1,4 @@
+appium xpath escaping apostrophes 
+code appium script test hanging treats apostrophe dont final apostrophe close escaping apostrophe dont apos working tests failing round 
+
+afaik escape quotes xpath escape quotes escaped double quotes xpath literal string delimiter 

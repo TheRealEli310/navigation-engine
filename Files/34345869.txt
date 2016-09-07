@@ -1,0 +1,4 @@
+lang noclassdeffounderror scala predef any2stringadd 
+akka distributed publish subscribe href http doc akka io docs akka snapshot distributed pub html rel nofollow examples documentation run code file scala library scala library dependencies tab version akka dependencies dependencies intellij shows href http stack imgur nixfx png rel nofollow img src http stack imgur nixfx png alt enter image description code causing exception singleton pass actor system complete stack trace solve exception 
+
+conflicting dependencies requires scala requires scala libraries arent binary compatible accepted answer dont change kafka dependency run similar problems maven doesnt scala version suffix convention libraries doesnt treat specially notice conflict sbt projects scala dependencies 

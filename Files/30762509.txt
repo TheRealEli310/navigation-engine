@@ -1,0 +1,4 @@
+print triangle 
+make program takes user input long triangle direction problem adding numbers program run code 
+
+adding input variable cycle loop make print prompt iteration simply put call inside loop prompt displayed em em input entered 

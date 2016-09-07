@@ -1,0 +1,4 @@
+spring boot batch reading xml input convert elements list 
+code batch service spring boot reads xml file input structure xml input change created classes reader batch configuration class correct reading run batch error understand error find correct code create fake setter parent adding child children list doesnt work idea 
+
+solved problem jaxb2marshaller xstreammarshaller beans works fine auto generated getters setters recover list children elements 

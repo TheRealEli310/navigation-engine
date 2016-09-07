@@ -1,0 +1,4 @@
+maven archetype create project include language folder 
+recently create maven archetype existing multi module project folder structure basically process working properly problem sql folder folder copied archetype performing mvn archetype create project pass archetype properties success option adjust archetype metadata xml archetype generation generate sample project manual advance 
+
+dont didnt work yesterday today problems creating sql folder drawback archetype plugin support empty folders general issue documented maven issue href http jira codehaus org browse archetype rel nofollow http jira codehaus org browse archetype bothering guys 

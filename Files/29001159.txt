@@ -1,0 +1,4 @@
+bitmaps overlap canvas drawbitmap 
+recently started learn android practice started make space invader type game order draw images player enemy overridden method problem starts draw images coordinates previous bitmap canvas makes overlap refresh canvas rid leftovers dont call made impression move image screen wrong code draw player bitmap method method called thread game timer 50ms appreciated couldnt find 
+
+draw canvas canvas clear draw character ondraw method expanded view class triggered calling invalidate canvas automatically clear manually calling surface texture view clear manually 

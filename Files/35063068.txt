@@ -1,0 +1,4 @@
+dl4j canova working 
+deeplearning4j canova working output eval stats nan accuracy 
+
+nn configuration based dl4j version current release versions dl4j rc3 nd4j rc3 canova recent versions 

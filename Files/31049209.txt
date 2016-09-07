@@ -1,0 +1,4 @@
+exception thread main datastax driver core exceptions invalidqueryexception unknown definition referenced primary key 
+create tables cassandra api query works perfectly creates table execute query throws error error dont understand missing 
+
+column names case insensitive default enclose double quotes define column dont quotes called primary key definition quotes column called quotes depending case sensitivity matters 

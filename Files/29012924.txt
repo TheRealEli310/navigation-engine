@@ -1,0 +1,4 @@
+apache poi logging log 
+log find error href http poi apache org spreadsheet eval html rel nofollow information apache poi page log expected happen console underlying issue 
+
+couldnt systemoutlogger work helped fact apache poi documentation enable logging disappeared managed find link back machine href http web archive org web 20070701061428 http poi apache org utils logging html rel nofollow title archived link http web archive org web 20070701061428 http poi apache org utils logging html log4j rest project log4j properties file link states commons logging required compile time task included runtime added maven project file included log4j poi reference project programmatically set system property redirect commons logger pick log4j logging mechanism works code logging debug level instance 

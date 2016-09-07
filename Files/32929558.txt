@@ -1,0 +1,4 @@
+supportmapfragment loading main thread freezing interface getmapasync 
+default mapview loaded created fragment instantied heavy work main thread log called moment main thread freezes seconds strong log proves created strong isnt map supposed load called fragment strong related strong ul li href http stackoverflow questions launch activity google maps slow launch activity google maps slow li li href http stackoverflow questions makes map fragment loading slow makes map fragment loading slow li ul 
+
+solved delaying fragment instantiation added supportmapfragment inside fragment delayed instantiation suggested href http stackoverflow strong storemapfragment strong strong fragment map xml strong 

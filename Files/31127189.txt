@@ -1,0 +1,4 @@
+android recyclerview setup click listener casting class interface 
+understand implement click handler recyclerview piece code click handler successfully simpleadapter called loose coupling definition class cast interface isnt explicit cast adapterview onitemclicklistener class implements adapterview onitemclicklistener interface explicit cast 
+
+dont cast case lower hierarchy interface strong em compile time em strong implements cast strong em runtime em strong implements interface instance variable holds object instance instantiated problem class implements multiple interfaces doesnt introduce ambiguity 

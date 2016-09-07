@@ -1,0 +1,4 @@
+spring cacheable inheritance 
+make work class user objects fails getmyobjectconcrete fail 
+
+check equals hashcode implementation application domain object making properly implemented formed href http uet vnu vn chauttm books effective 2nd edition 3000th release pdf rel nofollow effective 2nd edition item obey general contract overriding equals small simple application working similar code snippets spring configuration mind cache implementations href http gemfire docs pivotal io latest userguide index html started topics gemfire overview html rel nofollow pivotal gemfire option copy read serialize values stored cache concerns transactions applicable cache distribute data grid cached data partitioned sharded cluster nodes factors affecting results equals method construction read attributes serialization aware settings caching implementation feel free follow troubles problem persists shed light application domain object types caching implementation configuration 

@@ -1,0 +1,4 @@
+make bouncy castle ecpublickey 
+curve coordinates ec public key make read href http stackoverflow http stackoverflow code ecpublickey interface instantiable class 
+
+h2 generating ecpublickey bouncy castle h2 generates ec public key jce jca bouncy castle provider directly software keys bouncy generate parameters required generate public key h2 generating bouncy castle ecpublickeyparameters h2 initially thought bouncy castle specific key required code generates ec public key bouncy castle lightweight api tricky didnt include jce specific code subclass conversion copied code base bouncy castle 

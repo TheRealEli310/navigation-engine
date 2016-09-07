@@ -1,0 +1,4 @@
+update statement ms access database 
+developing small application insurance domain error update statement program error net ucanaccess jdbc ucanaccesssqlexception unexpected token half lang nullpointerexception code 
+
+typo lines building sql string single quote end line youre inserting modeofpaymenttype line starts resulting extra single quote inserted modeofpaymenttype resulting sql adjacent single quotes treated escaped single quote parser thinks literal string mode mode payment profile description thinks token youre passing mode payment profile description replace update dont error prone things inserting arguments string concatenation handling quoting reduces opportunities sql injection preparedstatement embedded escape characters readable 

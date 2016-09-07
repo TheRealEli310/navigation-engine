@@ -1,0 +1,4 @@
+restful service eclipse tomcat http error 
+rest service found tutorials explain running made dynamic web project version tomcat eclipse load jars web inf lib img src http stack imgur pxzag png alt enter image description projectname freespots rest created web xml img src http stack imgur 3f1ze png alt enter image description iam create class resources src freespots rest service img src http stack imgur xvktx png alt enter image description start tomcat type url browser localhost freespots rest tomcat shows index html file url localhost freespots rest api http error img src http stack imgur pqs7s png alt enter image description iam webdevelopment figure problem hope guy explain mistake advance 
+
+youre jersey configuration jersey class namescpaces property names changed deployment options href https jersey net documentation latest deployment html deployment servlet rel nofollow 

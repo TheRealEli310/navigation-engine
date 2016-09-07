@@ -1,0 +1,4 @@
+tomcat7 ubuntu14 html works error servlets 
+servlets installed tomcat7 ubuntu14 service runs fine found error servlet href http localhost helloservlet rel nofollow http localhost helloservlet html application runs fine tomcat managerial tools idea wrong strong tomcat webapps structure strong var lib tomcat7 webapps strong web xml strong strong helloservlet strong 
+
+finally running directory structuring creating problem application directory webapps root directory specific put application directory directly webapps specific case tomcat7 ubuntu 04lts corrected structure previous structure error 

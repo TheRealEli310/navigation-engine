@@ -1,0 +1,4 @@
+spring boot post method supported 
+post method support spring boot mvc implement simple post method accepts list entities code hitting url request body receive strong edit strong debugging spring web request handler methods 
+
+error restcontroller annotation definition docs blockquote public interface restcontroller suggestion logical component turned spring bean case autodetected component return suggested component string default blockquote means entered backoffice tags controller path add requestmapping backoffice tags controllers class remove restcontroller annotation strong edit strong fully working comment work code run locally ide strong build gradle strong strong tag strong strong samplecontroller strong strong demoapplication strong 

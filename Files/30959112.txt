@@ -1,0 +1,4 @@
+cartesian plane 
+learning cycles arrays methods started playing graphics encountered problems href http javaceda blogspot ch draw cartesian coordinate system html rel nofollow http javaceda blogspot ch draw cartesian coordinate system html cartesian plane understand pretty code lines invokelater swingutilities lets create class point constructors getters method converts cartesian coordinates point pixel coordinates method print point plane code link class point add manual small chapter graphics swing reason implement class inserted inside wouldnt couldnt inside main bit vague general question work searched lot usage graphics2d g2 graphics2d find precise explanation javadocs link explain grateful advance 
+
+class doesnt access object move functionality methods draw points separate data ui function draw 

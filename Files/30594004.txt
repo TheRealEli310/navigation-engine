@@ -1,0 +1,4 @@
+resize swingnode pane 
+fairly javafx add jpanel javafx pane code works panel small resize fits javafx pane code create swing content method fit swingnode jpanel fit size javafx pane fmxl create fx pane advance 
+
+issue strong problem strong dont find em solutions em ul li read href http stackoverflow questions resize swing control inside swingnode javafx8 call solution li li implement jpanel put automatically fits li ul dont work post compilable code 

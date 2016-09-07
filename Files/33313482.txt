@@ -1,0 +1,4 @@
+output sum numbers integers 
+working simple question college courses stumped program display give question answer looked similar question stackoverflow isnt problem didnt program write write program loops perform steps prompt user input integers firstnum secondnum firstnum secondnum output odd numbers firstnum secondnum inclusive output sum numbers firstnum secondnum inclusive calculate numbers sum 
+
+created loopcounter variable handle required iterations changing values inputted user made code part added loop validate user input changed logic statement part loop print odd numbers total numbers 

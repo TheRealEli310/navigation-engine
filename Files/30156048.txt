@@ -1,0 +1,4 @@
+lang nosuchmethoderror sun mail util traceinputstream 
+send email mail api works fine laptop heroku guess version mail api inside heroku jdk doesnt constructor fixed 
+
+default apps running latest heroku stack openjdk problem related actual jvm implementation due missing classpath load correctly traceinputstream 

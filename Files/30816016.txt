@@ -1,0 +1,4 @@
+parse standard month names datetimeformatter 
+parse german dates form month names cut month characters weirder dont aks month march shortened parse dates formatted based localization android device creates list dates parsing android approach create pattern fit dates shortened pattern match shortened months match characters months aware formatters solution formatter possibly custom locale 
+
+answer problem href http docs oracle javase docs api time format datetimeformatterbuilder html rel nofollow class href http docs oracle javase docs api time format datetimeformatterbuilder html appendtext time temporal temporalfield util map rel nofollow method text formatting parsing solves problem effectively elegantly notes ul li populated months li li formatter assigned static final constant created time li li added directly year parsed year leap year case 29th feb parsed li ul 

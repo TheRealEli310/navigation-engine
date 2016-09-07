@@ -1,0 +1,4 @@
+read txt file hashmap split 
+txt file form put keys hashmap created split keys values colon 
+
+read file line line line perform occurrence line ignore line code avoids scanner subtle behaviors imho trouble worth 

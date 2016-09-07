@@ -1,0 +1,4 @@
+create sheets excel jxl jar loop 
+write code create multiple sheets based amount array objects stored breaks giving run run breaks calls function write stacktrace post code response struggling problem time 
+
+h2 reason h2 lines stack trace youre access index size array line function lines create workbook sheet inside call documentation blockquote creates returns worksheet position index equal sheet created beginning workbook index greater number sheet sheet created end workbook blockquote end index workbook brand instruction access sheet index raises exception index h2 fix h2 logic ill write code ol li create pour xls file create empty workbook initialization phase li li loop workbook create sheets li li close close workbook leave clean tidy li ol h2 bit code h2 main ul li constructor li li loop moved li li parameter loop li li returned li ul compile 

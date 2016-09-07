@@ -1,0 +1,3 @@
+rootview findviewbyid working fragment file 
+running project shows compilation error find symbol variable rootview import run code android studio deafult builds seperate file fragments 
+

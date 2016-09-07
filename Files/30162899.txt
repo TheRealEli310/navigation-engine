@@ -1,0 +1,4 @@
+send udp message android phone pc windows working 
+send udp message android phone client pc server wifi connection phone pc connected wireless router message received phone mobile tested code pc pc connection successfully added internet permission manifest xml greatefull added permission client server 
+
+dealing network operations android recommended separate thread perform operations isolating code method run background onclick modify fit send data lifetime app background thread heres detailed explanation network operations shouldnt ui thread href http www androiddesignpatterns app force close honeycomb ics html rel nofollow http www androiddesignpatterns app force close honeycomb ics html 

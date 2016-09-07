@@ -1,0 +1,4 @@
+store object json string mysql database 
+performance wise smart gson simplify store retrieve objects building separating pieces individual columns time store retrieve database concern json string length impact performance database fills 
+
+issue space performance mysql deal fine entire json chunk pulled pushed processing mysql continue handle database fills problems normalization opaqueness information design databases information blob json blob json sql database data json relationships queries participate indices constraints relational part database json em opaque data em contents binary file working relevant normalization switch json href http en wikipedia org wiki document oriented database rel nofollow document oriented database raven redis couch mongo 

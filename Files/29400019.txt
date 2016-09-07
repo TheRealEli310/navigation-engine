@@ -1,0 +1,4 @@
+cast base class inherited class deserialized collection 
+base class strong socialrecord strong derived classes strong socialemailrecord strong strong socialdiscussionrecord strong create instances socialemailrecord socialdiscussionrecord classes add objects collection serialize collection gson deserialize collection dont construct original objects collection doesnt work 
+
+implement href https google gson googlecode svn trunk gson docs javadocs google gson gsonbuilder html rel nofollow register gsonbuilder manage deserialisation specificities subclass href https code google google gson source browse trunk gson src test google gson functional typehierarchyadaptertest rel nofollow full classical object instances actual define methods overridden subclasses polymorphism process list 

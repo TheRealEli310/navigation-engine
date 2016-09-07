@@ -1,0 +1,4 @@
+significant performance difference 
+stumbled thought case branch misprediction href http stackoverflow questions processing sorted array faster unsorted array case explain branch misprediction phenomenon implemented versions bubble sort performance tests difference sorting methods running program expect slower similar output machines set parameter expected results ported program determine problem specific code program shows behaviour explain executing change results 
+
+due branch prediction count number swaps compared number sort iterations find strong limit strong ul li 560m swaps 1250m loops li li 1250m swaps 1250m loops swaps loops li ul strong limit strong ul li 627m swaps 1250m loops li li 850m swaps 1250m loops li ul case swap performed time sort favourable branch predictor case swap hit randomly branch predictor beneficial 

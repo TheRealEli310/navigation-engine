@@ -1,0 +1,4 @@
+reading external txt file main class 
+litlle question blank main class thing read external txt file located package main testes package main lerdaqui txt read print content lerdaqui txt main btw simple people call lazy sort stuff code package testes import io public class main filenotfound exception 
+
+path mentioned filereader wrong file folder program present path input stream bufferedreader br bufferedreader filereader lerdaqui txt 

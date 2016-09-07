@@ -1,0 +1,4 @@
+memory efficient initialize string reused inside loop 
+couple strings code reused loop wondering initialize string variables improve memory usage loop strings longer 
+
+optimize initialization memory usage strings snippet code reasons ol li strings immutable change characters inside string point string li li loop called function responsible allocating string loop li ol advanced programmers optimize memory usage strings stringbuffer stringbuilder raw character array pass function calls youd create buffer loop pass functions buffer allocating returning 

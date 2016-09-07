@@ -1,0 +1,4 @@
+add select option zk combobox 
+zk framework populate combobox values list include select option combo required submit view viewmodel retrieve list record set database dont add record avoid adding empty item list works 
+
+modify method view model add desired item list edit option href http books zkoss org wiki zk component reference base components inputelement placeholder rel nofollow title placeholder placeholder text select additional button hotkey clearing selected item combobox 

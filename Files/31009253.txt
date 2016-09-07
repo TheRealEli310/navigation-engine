@@ -1,0 +1,4 @@
+print objects memory usage 
+question href http stackoverflow questions spring boot spring security memory leak spring boot spring security memory leak user prints objects command user print info btw added arguments process hope phrased question correctly 
+
+output possibly run external tool supply pid jvm provided directory jdk installation typically run production aware triggers full gc show live objects trigger gc href https docs oracle javase docs technotes tools unix jmap html rel nofollow jmap documentation 

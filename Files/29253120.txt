@@ -1,0 +1,4 @@
+outputstreamwriter cp437 
+code problem characters put byte array char correspond charset set ran code correct 
+
+cp437 encoding requires bits store executed code found stored byte range standard byte convert unsigned positive obtain correct result code convert unsigned printing required 

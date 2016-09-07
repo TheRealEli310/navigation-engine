@@ -1,0 +1,4 @@
+create custom field store user credentials revinfo table 
+hibernate envers aud table stores historical state entities global revinfo table revision number timestamp add user field revinfo table add user field revinfo table 
+
+create custom revisioninfo entity custom revisions entity integer valued unique property preferably primary id annotated link revisionnumber long valued property annotated link revisiontimestamp link defaultrevisionentity fields extend write revision entity scratch case revision entity addition give custom revisionlistener special pre class lang prettyprint override custom revisionlistener provided argument revisionentity annotation 

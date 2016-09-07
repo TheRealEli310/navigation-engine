@@ -1,0 +1,4 @@
+spring requestmapping working controller 
+sample code strong web xml strong strong springdispatcher servlet xml strong strong mycontroller strong works fine code remove strong mycontroller strong class strong component scan strong xml based configuration controller annotation 
+
+spring reference documentation href http docs spring io spring docs current spring framework reference htmlsingle mvc ann controller rel nofollow blockquote controller annotation acts stereotype annotated class indicating role strong dispatcher strong scans annotated classes mapped methods detects requestmapping annotations blockquote strong controller strong required strong dispatcher strong scan mapping class component scan 

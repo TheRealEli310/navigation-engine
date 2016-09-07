@@ -1,0 +1,4 @@
+import csv data mysql table program 
+method import data csv file method adds pid sugestion fix 
+
+youre load file default load data options chance csv file youre upload format field enclosed terminated line terminated option examples dump csv amp load csv files check csv file format amp verify options 

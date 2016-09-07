@@ -1,0 +1,4 @@
+catch splitted string stream 
+lets string randomtext1 randomtext2 array loaded stream lines stream split line space character sides string oracle docs href http www oracle technetwork articles architect streams pt2 html rel nofollow oracle doc link managed find harder cases instance fail fit solutions simpler problem mine 
+
+tool job apparently process stream single instance generally streaming array treat elements uniformly em em position special meaning preserved subsequent operations hr em em create flat stream words tokens shouldn combination create fill unnecessary intermediate array case href http docs oracle javase docs api util regex pattern html splitasstream lang charsequence rel nofollow 

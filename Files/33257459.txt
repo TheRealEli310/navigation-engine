@@ -1,0 +1,4 @@
+mongodb async driver find 
+webapp return results mongodb find front end back end async driver return results mongo assumption 
+
+asynchronous apis api based callbacks necessarily mongodb true blessing multithreaded applications benefit design application architecture asynchronous fashion feasible supposed fit framework isnt built callbacks case asynchronous api synchronous fashion case class href http docs oracle javase docs api util concurrent completablefuture html rel nofollow class methods method block called provide return called returns immediately provided method completablefuture href http docs oracle javase docs api util concurrent completablefuture html long util concurrent timeunit rel nofollow alternative overload timeout parameter recommend prevent program accumulating hanging threads callback called reason good idea implement callback block block make result resolved unexpected error callback 

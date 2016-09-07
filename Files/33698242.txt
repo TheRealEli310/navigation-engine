@@ -1,0 +1,4 @@
+spring hibernate error org springframework orm hibernate5 sessionholder key bound thread 
+upgrading hibernate facing error getcurrentsession spring hibernate transaction manager full stack trace error 
+
+found solution problem hibernate sf bean change hibernate sf bean fix problem 

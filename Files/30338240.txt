@@ -1,0 +1,4 @@
+show jpopupmenu stealing focus 
+writing program swing program search bar jtextfield typed field display search results popup menu directly underneath search bar google havent populating menu search results test menu fixed items stuck problem everytime character typed field focus field popup menu display menu invoker text field box everytime function called popup menu takes focus text box big problem show method invoker popup menu isnt shown relative search bar setinvoker component invoker problem show method set invoker initialization invoker isnt visible create popupmenu invoker taking focus search text field accomplish 
+
+give focus back search text field end popup menu code assume code create popup menu add end code doesnt information code 

@@ -1,0 +1,4 @@
+elasticsearch noclassdeffounderror jsonxcontentgenerator 
+update elasticsearch client api version code work exception pom xml 
+
+reason didnt fasterxml jackson core dependency list causing added pom xml problem solved 

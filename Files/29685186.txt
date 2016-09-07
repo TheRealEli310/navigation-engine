@@ -1,0 +1,4 @@
+store clients list 
+running server arraylist type client client connects serversocket accept pass socket arraylists constructor inside constructor problem client disconnects closes socket doesnt delete spot arraylist shift arraylist constantly growing bigger fix problem run commands execute clients store clients arraylist alternative storing clients server strong update strong classes beginning stages implemented hashmap option suggested answer works replies 
+
+interesting problem hash map add client object key disconnect remove map good question key object reference depends choice unique respect client object generate easily 

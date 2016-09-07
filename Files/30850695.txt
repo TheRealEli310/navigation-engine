@@ -1,0 +1,4 @@
+prefer call double constructor 
+code pass constructor argument code compiles fine run code expected print em object em prints em double em reason strong strong linked question duplicate question related primitive datatype object 
+
+reason interprets type choosing method invoke choose specific method argument types type compiler choose method takes choices involved equally unrelated types compiler choose method result ambiguous method call error href https docs oracle javase specs jls se8 html jls html jls jls section states blockquote null reference assigned cast reference type practice programmer ignore null type pretend null special literal reference type blockquote 

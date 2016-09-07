@@ -1,0 +1,4 @@
+remote ejb method parameter isolation 
+remote ejb takes object modifies data object setter methods client printed getter method observed changed documentation href http docs oracle javaee tutorial doc bnbmg html rel nofollow parameters isolated explain 
+
+bean server side operates objects existing jvm server client jvm set objects remote ejb invocations objects transferred client back thing transfer occurs ejb invocations client invokes setter ejb object server client modifies object invoking ejb bean clients object transferred server server client changed object understand scenario invoking setter ejb getter property setters getters methods ejb include ejb calls make client propagate server case 

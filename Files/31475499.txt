@@ -1,0 +1,4 @@
+wsdl2java classes xml type http objectfactory 
+problem occur newer version servicemix tested cxf cxf older version cxf works webservices created project lot webservices generated maven plugin wsdl2java diffrent bundles servicemix webservices due errors strange previous servicemix bundle start modification project maven additional extraarg result stacktrace strong edit strong downgrade cxf errors suppose problem org apache aries blueprint core strong edit strong create big bundle generated classes problem 
+
+problem wrong pom definition changed imports fuse documentation start work properly 

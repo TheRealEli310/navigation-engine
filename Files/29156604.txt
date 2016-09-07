@@ -1,0 +1,4 @@
+optional injection guice 
+guice inject constructor arguments constructor takes args types optional system ol li present li li missing li li present li li present li ol depends modules providing bindings constructors 
+
+href https github google guice wiki frequentlyaskedquestions inject optional parameters constructor rel nofollow preferred guice pattern pre class lang prettyprint override sane default values 

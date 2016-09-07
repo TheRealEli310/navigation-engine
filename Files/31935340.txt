@@ -1,0 +1,4 @@
+increase maximum length hssfcell 
+store data hssfcell error suggest method increase cell length characters code error suggestions 
+
+option switch file formats hard limit file formats characters apache poi simply enforcing file format excel limit details limits microsoft documentation captured nicely href https poi apache org apidocs org apache poi ss spreadsheetversion html rel nofollow apache poi javadoc page text long youll switch file format csv 

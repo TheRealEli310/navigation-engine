@@ -1,0 +1,4 @@
+spring data rest projection embedded entities 
+lets assume entities create json representation dont user data projection created exception works getusername statement defined interface wrong correct edit exception 
+
+exception member entity failed understand expose projection change line setting asked spring data rest apply projection issue depending type member methods practice share common ancestor main problem href http docs spring io spring data rest docs current reference html projections excerpts hidden data rel nofollow virtual projections thing didnt sample work hope dont familiar href http docs spring io spring docs current spring framework reference html expressions html rel nofollow spel previous code create bound instance object documentation 

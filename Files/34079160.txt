@@ -1,0 +1,4 @@
+geb spring boot element found error 
+geb run full stack test spring boot application mockmvchtmlunitdriver provided spring load context test test test fails element error standard logs spring loading servicing request wrong html served correctly run application index html file webapps jar test testcompile dependency webapp jar noticed change url index html load page view resolver isnt working htmlunit find function document queryselectory reason 
+
+youre strait headless driver agains real application headless limited degree htmlunit driver handle javascript complex jquery phantomjs driver maintained href https github detro ghostdriver needed rel nofollow https github detro ghostdriver needed advise real browser run headless mode needed xvfb xephyr 

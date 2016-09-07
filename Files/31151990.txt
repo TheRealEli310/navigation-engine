@@ -1,0 +1,4 @@
+efficiently resttemplate multithreading application 
+library correctly multithreading environment library heavy load multithreading environment fast dataclient class simple class perform actual task factory create single instance dataclient means single instance make call data question correctly main goal efficiently multithreading environment library heavy load fast heavy load lot time wait connections added method 
+
+href https spring io blog rest spring resttemplate rel nofollow thread spring create instance application share multiple threads assuming http properties timeout set alive case change connection properties create pool app start objects inject resttemplate instance caller class 

@@ -1,0 +1,4 @@
+exception ioexception thrown body statement 
+simple problem search stackexchange problems found didnt situation apparently compiler claims ioexception thrown block reason detail office1 initialized instantiated object heres tricky compiler wrote code claimed piece code perfectly fine reason compiler complaining upper code doesnt throw ioexception lower code 
+
+surprisingly href http docs oracle javase docs api io printwriter html rel nofollow methods dont throw exceptions blockquote methods class throw exceptions constructors client inquire errors occurred invoking checkerror blockquote explains code doesnt throw code add call throw 

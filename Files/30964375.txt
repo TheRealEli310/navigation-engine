@@ -1,0 +1,4 @@
+synchronized make drainto method blockingqueue atomic 
+simply assured concurrent calls executed inside synchronized block words making drainto method atomic strong generally make composition thread operations atomic strong 
+
+excerpt href https docs oracle javase docs api util concurrent blockingqueue html rel nofollow docs blockingqueue blockquote strong blockingqueue implementations thread strong queuing methods achieve effects atomically internal locks forms concurrency control bulk collection operations addall containsall retainall removeall necessarily performed atomically implementation addall fail throwing exception adding elements blockquote check shows blockingqueue implementation safely multiple producers multiple consumers bulk collection operations thread dont directly em blockingqueue implementations thread em bulk collection operations hope helps 

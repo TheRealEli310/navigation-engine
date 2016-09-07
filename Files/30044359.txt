@@ -1,0 +1,4 @@
+exclude class path reference manifest mf file 
+ings deploy ears jboss issue explained href http stackoverflow questions jboss as7 deployment warning point valid jar class path thread removing refernces manifest mf file warnings appreared question exclude class path manifest mf removing manually taking mvn build maven 
+
+finally resolved maven documentation href http maven apache org plugins maven war plugin examples war manifest guide html rel nofollow generating manifest classpath set property warnings console 

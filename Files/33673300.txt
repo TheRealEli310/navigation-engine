@@ -1,0 +1,4 @@
+spring security configuration authenticated users role 
+configure spring security configuration spring boot websecurityconfig class configure method login page fine unauthenticated users user authenticates access url individual error log replace works user page desired role checked figure user authenticated role user looked examples combinations work desired examples refer older xml based configuration avoid url patterns accessed authenticated users roles requested success handler method early stage wip comments code works log message appears role check websecurity class desired page served edit noticed typo question referring roleservice getdefaultrole mistake corrected 
+
+logged user foo bar wrong authorities set log authorities user working roles role user define authorities foo bar switching 

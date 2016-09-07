@@ -1,0 +1,4 @@
+inject form 
+play di framework di app moved jpa finders static methods models classes methods service layer inject controllers main problem forms validate method validate methode finders exemple login form user authenticate method replaced static method usersvc inject service form work inject form solve problem 
+
+forms dependency injectable scope inject dependencies login form annotation 

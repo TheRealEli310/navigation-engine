@@ -1,0 +1,4 @@
+passing dynamic query params path params http request connector 
+pass list query params path params http request mule connector input coming connector list pojo query path params http request connector pojo class input http request connector object data class set query path params sumved 
+
+assign object data payload required variables targetcurrency date sourcecurrency assign variables query params path params class information link href https docs mulesoft mule user guide http request connector rel nofollow https docs mulesoft mule user guide http request connector 

@@ -1,0 +1,4 @@
+json parse gson jsonsyntaxexception lang illegalstateexception expected begin object begin array line column path 
+parse json response href http nominatim openstreetmap org search format json amp rue de la folie c3 a9ricourt 11e paris rel nofollow http nominatim openstreetmap org search format json amp rue de la folie c3 a9ricourt 11e paris gson based response created bean parse error strong google gson jsonsyntaxexception lang illegalstateexception expected begin object begin array line column path strong 
+
+remove square bracket string 

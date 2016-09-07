@@ -1,0 +1,4 @@
+disable mongodb driver logging 
+disable log outputs set beginning application loading drivers didnt kind logs console completely packed mongo logs read 
+
+solved issue set higher hide logs 

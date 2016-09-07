@@ -1,0 +1,4 @@
+difference join path navigation jpa query 
+entities fetch users usertype equal admin write queries return result wanted understand approach preferable difference result navigation entities follow join approach 
+
+analysing sql generated queries jpa spring data observed navigation leads cross join mentioning join leads join default navigation efficient explicitly joining required columns 

@@ -1,0 +1,4 @@
+import spark packages 
+make sample code provided spark build maven working spark standalone module pom xml run errors modify path variable unable locate proper jar 
+
+error message blockquote package org apache spark streaming api exist blockquote means missing dependency pre class lang xml prettyprint override 

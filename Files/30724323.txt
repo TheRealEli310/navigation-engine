@@ -1,0 +1,4 @@
+run meteor ddp server protocol server 
+implementing real time features application reinventing wheel meteor ddp protocol implementation 
+
+legally href http meteorpedia read ddp clients rel nofollow multiple independent implementations exist meteor content href https github meteor meteor blob devel license txt rel nofollow licensed mit long include license href https github meteor meteor tree devel packages ddp rel nofollow ddp doc href https github meteor meteor blob devel packages ddp ddp md rel nofollow ddp specification prevents implementing place 

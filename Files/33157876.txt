@@ -1,0 +1,4 @@
+gradle build fat jar dependencies included distzip exclude jar files 
+heres gradle script builds produces distributable zip bundled dependencies jar archive custom jar task prevent distzip bundling jar files time reason theyre bundled jar task originally meant standalone library decided command line interface distzip automatic creation wrapper scripts linux mac windows exist standalone fatjar dependencies bundled dont extra cruft libs distzip exclude 
+
+modify distzip task exclude libs dont distribution archive configuration application plugin change make list files shorter bind excludes dependencies list 

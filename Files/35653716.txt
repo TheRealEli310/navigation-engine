@@ -1,0 +1,4 @@
+intellij dependency viewer package cyclic dependency 
+programming life thinking cyclic dependency br strong strong ul li package1 li li package2 ul li subpackage2 li ul li li package3 li ul strong strong ol li class package1 references class package2 li li class package2 references class package3 li li class package3 references class package1 li ol strong strong br project cyclic dependency package1 package2 package3 package1 pretty huge surprise intellijs dependency viewer told strong strong ol li class package1 references class package2 li li class subpackage2 references class package3 li li class package3 references class package1 li ol strong strong br project cyclic dependency package1 package2 package3 package1 explain strict definition cyclic dependency intellij show weird results 
+
+dependencies transitive virtue depending subpackage2 turn depends package3 package2 depends package3 forming exact graph surprised tools em dont em circle intellij correct 

@@ -1,0 +1,4 @@
+connect hive jdbc 
+gradle run program sample code referenced href https github onefoursix cloudera impala jdbc rel nofollow https github onefoursix cloudera impala jdbc run repo failures sample code throw exception part miss 
+
+closed connection read results line end block database em cursor em dataset access data db 

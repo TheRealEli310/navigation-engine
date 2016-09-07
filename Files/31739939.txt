@@ -1,0 +1,4 @@
+restful services test resttemplate 
+application lot rest services written tests services rest service invokation check response body works fine disadvantage application started order invoke rest services question junit test methods spring boot application embedded tomcat 
+
+good href http docs spring io spring boot docs current reference html boot features testing html rel nofollow chapter documentation suggest read fully understand custom configuration starts entire server lets test complete system replace parts system mocks excluding configurations beans replacing heres small left interface default implementation relevant spins entire application minus issue real http requests running application test case strong application classes strong em integrationtestdemo em em indexcontroller em strong test classes strong em integrationtestdemotest em em testconfig em 

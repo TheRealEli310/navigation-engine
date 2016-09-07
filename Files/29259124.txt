@@ -1,0 +1,4 @@
+determin angle points 
+firstly apologies kind question asked questions answers unable work situation img src http stack imgur ytmtx png alt fig simply work angle p1 p2 assuming degrees shown point arrow correct direction simply case dont returning negative result changed p1 p2 angle returned wondering point wrong calculate 
+
+computes standard cartesian coordinate system anti clockwise positive orientation angle point ray means coordinate angle ray situation coordinate direction small positive angles preference depicted angle 

@@ -1,0 +1,4 @@
+set time property joda time 
+set hour minute seconds joda time set changing property code output output whats happening wrong strong edit strong basically similar shown code code doesnt work properly hour format switched joda time 
+
+joda time objects immutable word copy telling doesnt set fields directly creates copy field modified quick fix fluent approach chain methods single call introduces package inspired joda time joda time web site recommends se onwards users asked migrate jsr 

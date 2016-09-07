@@ -1,0 +1,4 @@
+error javax swing jtable cast javax swing table defaulttablemodel 
+creating inside instance error adding rows table error occurs add rows table 
+
+problem invoking href http grepcode file repository grepcode root jdk openjdk 8u40 b25 javax swing jtable rel nofollow constructor check source code link invoking constructor internally constructed anonymous instance returned method cast wont work rows data represented element array add rows resize array constructed construct explicit construct familiar swing backed row data dont exact front 

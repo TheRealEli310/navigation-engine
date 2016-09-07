@@ -1,0 +1,4 @@
+create program computing student grades 
+asked create oop program specifications blockquote student grade string id string math grade double english grade double science grade double average double printinfo void blockquote instructions blockquote create student grade class create array student enter grade info keyboard print list students average blockquote problem time run public class error blockquote blockquote put portion codes class studentgradeapp class class 
+
+issues posted code ul li equivalent invoking li li double li li incorrect li ul pfb corrected implementation 

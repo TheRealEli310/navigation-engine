@@ -1,0 +1,4 @@
+create sharepoint user group ldap api 
+create user group sharepoint ldap api 
+
+code craete group ad ldap 

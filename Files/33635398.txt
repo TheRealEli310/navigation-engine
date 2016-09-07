@@ -1,0 +1,4 @@
+html org w3c dom node 
+build method extracts data html document xpath components saxon w3c dom object model created method returns text similar text method jsoup jsoupelement text works fine underlying html selected node jsoup jsoupelement html w3c dom object model org w3c dom node html org w3c dom node string couldnt find documentation clarification html node element tag string similar href http api jquery html rel nofollow http api jquery html href http jsoup org apidocs org jsoup nodes element html html rel nofollow http jsoup org apidocs org jsoup nodes element html html 
+
+serialize w3c dom child nodes html saxon default set output method serialization tree original xml html stored dom tree saxons tree model access 

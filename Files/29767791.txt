@@ -1,0 +1,4 @@
+hibernate parse mapping document input stream 
+builded application maven run server eclipse luna spring hibernate run error searching similar questions web thought occurs due lack hibernate dependencies added didnt work ideas project href https github fsel spring hibernate jsf mysql eclipse integration tree master spring hibernate jsf mysql rel nofollow https github fsel spring hibernate jsf mysql eclipse integration tree master spring hibernate jsf mysql appreciated 
+
+exception convey duplicate mapping hibernate data person hinernate cfg xml code applicationcontext xml code closely observe files duplicating hibernate mapping resource hibernate cfg xml applicatincontext xml blockquote solution removing mappingresources property applicatincontext xml file resolve problem blockquote 

@@ -1,0 +1,4 @@
+jackson combine jsonvalue jsonserialize 
+combination lets start current container class case custom serializer change container serializer called introduces data level output json combine write custom serializer functionality hack opinion jackson version 
+
+combination make converter extract map container add jsonvalue somekey serialize simply annotating accessor method container dtrt easily combination jsonvalue jsonvalue container basically designating converter implemented calling annotated method effectively youre pleasant jackson learned key serializers arent normal serializers implement jsonserializer call writefieldname jsongenerator writestring deserialization side distinction jsondeserializer keydeserializer spelled serialization side make key serializer somekey jsonvalue em em annotating somekey jsonserialize surprised 

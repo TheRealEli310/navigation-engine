@@ -1,0 +1,4 @@
+basic income tax 
+question write program prompts user enter taxable income calculates income tax due tax table express tax decimal places mind specific question code final output enter amount taxable income year user input entered tax bracket income tax income tax hr output output specifically decimals sign output code working 
+
+simply append part code technique format numbers properly instance commas separating thousands digits decimal dot code sloppy error prone doesnt make sense subdivide calculation taxes brackets 

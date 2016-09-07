@@ -1,0 +1,4 @@
+maven lambda expressions supported source 
+maven build project configuration blockquote freelancepolyndrom mvn verion apache maven 33f8c3e1027c3ddde99d3cdebad2656a31e8fdf4 12t00 maven home program filesapacheapache maven version vendor oracle corporation home program filesjavajdk1 25jre default locale ru ru platform encoding cp1251 os windows version arch amd64 family dos blockquote compile project errors confused mven sees pom xml 
+
+default maven assumes wrote code jdk compile target add maven compiler plugin build plugins order check plugins docs info href http maven apache org plugins maven compiler plugin compile mojo html http maven apache org plugins maven compiler plugin compile mojo html 

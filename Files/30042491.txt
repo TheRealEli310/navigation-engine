@@ -1,0 +1,4 @@
+ternary string node class 
+interview question kills mind write method parameter tree ternary operators basically br hope wrote confused class fields return nodes left string hope understandable information provide basic idea nodes recursion figure 
+
+question solved simple href http en wikipedia org wiki recursive descent parser rel nofollow em recursive descent parser em intention question implement recursive algorithm recursion makes sense opposed code boring recursive factorial heard recursion implementation href http ideone ai98xb rel nofollow demo idea method written parse variable check question mark consume question mark parse current position left node skip colon error colon missing finally parse node skip whitespace 

@@ -1,0 +1,4 @@
+center multiple jlabels jpanel set labels text orientation centered 
+make jpanel text displayed jlabels movie book title set labels centered jpanel set text alignment jlabel centered writing title document book movie author title centered headers edit remain true fullscreen mode 
+
+em adding answer dont waste time em pointed andrew achieved combining href https docs oracle javase tutorial uiswing layout grid html rel nofollow gridlayout create column labels setting text alignment labels gridlayout makes labels size centering text inside labels centers relative 

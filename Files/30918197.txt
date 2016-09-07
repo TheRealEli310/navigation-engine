@@ -1,0 +1,4 @@
+transformer ignore namespaces 
+transform xml xhtml xml defines namespace xml parser wont parse ignore namepsaces oracle transformer libraries 
+
+ignore namespaces namespace declaration xmlns href http www lotus dxl rel nofollow http www lotus dxl appears outermost element isnt contrary effectively element document ignore xslt stylesheet pretty unprefixed match pattern xpath expression interpreted referring namespace href http www lotus dxl rel nofollow http www lotus dxl sadly youve chosen xslt processor doesnt implement xslt youll hard posts find searching xslt default namespace 

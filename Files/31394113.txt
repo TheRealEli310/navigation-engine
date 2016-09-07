@@ -1,0 +1,4 @@
+enlarge text gagawa graph 
+code generate gagawa chart graph img src http stack imgur a01qt png alt enter image description enlarge text axis axis legend title 
+
+appears jfreechart href http www jfree org jfreechart api javadoc index html rel nofollow javadoc class font object sad developers enabling modification font default heres solved literally ripping entire source code found href http www jfree org jfreechart api javadoc src html org jfree chart chartfactory html rel nofollow replacing default font object font object constructor code replacing trick assuming customfont reference default font entire chart font essentially replacing default font sahil r2050s answer valid require individual section chart fonts set answer good setting default font custom charts sahiil r2050s answer line proper usage package sahil r2050s answer sizes section sum chartfactory customchartfactory create charttheme apply chart apply method hope helped 

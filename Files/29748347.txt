@@ -1,0 +1,4 @@
+main method war file 
+recently reapackaged spring application war file deployment tomcat testing noticed executed initialization application method war file appropiate place war file run initialization 
+
+found independent spring tomcat annotation code method executed run application standalone tomcat information href http stackoverflow questions spring call method bean initialization complete spring call method bean initialization complete href http stackoverflow questions init method spring controller annotation version lq init method spring controller annotation version 

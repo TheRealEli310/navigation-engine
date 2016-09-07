@@ -1,0 +1,4 @@
+jdbc null pointer exception resultset loop 
+loop aftermigration method working properly warnings statement responses jdbc code connecting local db selecting records method updating aftermigration method 
+
+warnings due logic statements instance statement null condition true code continues hits triggers nullpointerexception logic makes statement true object null empty means code inside statements executed warnings edit pointed mark rotteveel strong strong throw recommend reading compare strings href http stackoverflow questions string equals versus string equals versus 

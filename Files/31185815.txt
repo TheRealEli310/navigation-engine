@@ -1,0 +1,4 @@
+apache poi 
+working reading data excel document updated bi weekly basis rows data reach beginning sheet apache poi data exception important exception caused lang outofmemoryerror heap space tested code excel sheet data read data methods suggestions read large excel document share 
+
+heap size set 2g memory erroy excel document working pivot table apache poi limitations exception 

@@ -1,0 +1,4 @@
+convert ffff byte 
+string convert byte problem byte doesnt range 
+
+byte 8bits values ranges lt lt 0x00 0xff encode 0xffff representing integer byte cos fit representing short 0xffff means signed convertible byte code print 

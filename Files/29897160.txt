@@ -1,0 +1,4 @@
+code generated soap client 
+make soap client href https ec europa eu taxation customs tin checktinservice wsdl rel nofollow eu tax id service mamanged generate code wsdl wsimport problem figure specifically make soap call service validate tax id multiple ways code generated soap ui code intellij kinda stuck light difficult spent hours result al tutorials find google guessing answer future heres generated code checktinservice checktinporttype objectfactory checktinresponse checktin 
+
+sample client code add handler response soap message soap ui send request 

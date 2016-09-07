@@ -1,0 +1,4 @@
+javafx treeview hide context menu tree empty 
+treeview context menu works tree empty tree empty prevent show context menu user table component fix problem dont apply treeview alternative 
+
+root item shown supposed root item null treeview empty bind root item show tree supposed empty root item children returns true case binding 

@@ -1,0 +1,4 @@
+illegalargumentexception uploading war file tomcat 
+problem deploying web application tomcat manager maven tomcat7 plugin problem appears transfer triggered transfer transfere returns status transferred file 0kb 50mb manually place war file webapps folder automatically launched manager gui plugin error ideas stderr log access log server config file info configuration 
+
+problem tomcat iis connector isapimodule connect tomcatmanager iis manager configured packet size change tomcat server configuration ajp connector sets max accepted packet size iis connectors default 8mb referance tomcat href https tomcat apache org tomcat doc config ajp html rel nofollow docs packet size blockquote attribute sets maximum ajp packet size bytes maximum max packet size directive configured mod jk change maximum packet size problems default reported sending certificates certificate chains default blockquote 

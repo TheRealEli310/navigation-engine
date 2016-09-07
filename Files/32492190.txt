@@ -1,0 +1,4 @@
+generating random grade labeling properly 
+weeks learning college assume dont tips question write program generates random number representing grade program separate lines prints generated grade letter grade standard scale label output properly escape characters lineup outputs labels enter grade statement true 
+
+dont scanner requirements asks user input generate number generated random score figure grade scale fits simplest series statements 

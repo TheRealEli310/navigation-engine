@@ -1,0 +1,4 @@
+spring session websocket rest token security 
+spring application rest api websocket broker endpoints realtime updates database weve successfully migrated spring session project embedded redis server authenticates basic auth session id subsequent requests auth token header issue secure websocket angular wrapper directive stomp js sockjs libraries figure set auth token header websocket upgrade requests wrong recommended approach kind security scheme stack ul li tomcat li li spring security rc2 li li spring session release li li spring mvc li li angularjs li ul 
+
+js websocket api doesnt setting http headers initial handshake upgrade request proper scheme send authentication token connect frame handle server side weve migrated browser cookie sessions find suitable implementation server side 

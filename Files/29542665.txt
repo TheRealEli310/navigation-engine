@@ -1,0 +1,4 @@
+inheritance instance object parent class child classes 
+instantiate object parent class called pobject assume type protected boolean child class extends parent class sets object true child class extends parent class check object set true 
+
+instances subclasses share state independent instance pobject change object ways solve problem easiest make field pobject static work simple limitation instance pobject 

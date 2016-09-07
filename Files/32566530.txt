@@ -1,0 +1,4 @@
+invoking rest client call wso2 esb service unable find valid certification path requested target 
+invoke esb service wso2 rest client invoking facing exception esb service default echo service rest clent prints throws 
+
+public certificates installed client establish secure connection https esb point carbon truststore keystore certificates code esb keystore located repository resources security keystore trust store 

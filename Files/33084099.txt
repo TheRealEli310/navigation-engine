@@ -1,0 +1,4 @@
+apache jackrabbit jca docx xlsx indexing 
+ussing appache jackrabbit jca problem files docx xlsx indexed steps ul li deploy href https archive apache org dist jackrabbit jackrabbit jca rar jackrabbit jca glassfish li li create indicating li li create connector pool jndi li li create web application li li create class session connector ressources code li li create custom filetype li li create abstract class persistence li li create bean li ul configuration files ul li repository xml li li tika config xml li ul query bean work call function fulltext search docx xslx document fulltext search pdf txt xml xls doc work perfectly 
+
+solution focused jars href https archive apache org dist jackrabbit jackrabbit jca rar rel nofollow jackrabbit jca rar errors dependency make change ul li add apache mime4j jar li li add apache mime4j core jar li li add commons compress jar li ul add jars jackrabbit jca rar deploying indexation docx xlsx wors succesfully ashok felix 

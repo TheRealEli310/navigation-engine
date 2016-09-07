@@ -1,0 +1,3 @@
+rxjava timer observable wait complete 
+basically ul li observable start initially 10seconds ul li completed li li completed li li wait sec repeat eveything 10s waits run forever li ul li ul find work simply repeats process seconds waiting onnext called supposed 
+

@@ -1,0 +1,4 @@
+wrong post body json serialization postforentity spring 
+send instance object json post body spring reason object serialized string possibly 
+
+caused misconfigured jackson mapper default jackson accessors named javabeans fashion set retrieve set values model naming convention field names jackson fails serialize object mapper configuration makes work correctly 

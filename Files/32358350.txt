@@ -1,0 +1,4 @@
+spring framework generic class dependency autowire working 
+spring autowired working class extends region extends map giving exception assuming collection injection point work adding qualifier giving error 
+
+correctly hard code snippet assume yeah problem autowired inject auto wire region reference application components resource reason spring version default autowires map application component attempts create mapping spring beans defined spring applicationcontext bean id bean reference end auto wired map application component happening case beans spring context defined terms type gemfires pdxinstance data custom regions assign beans spring context autowired custom region sprig identifies map assign beans types pdxinstance taking generic type account short resource autowire gemfire region custom question extend gemfire region wrapper composition hope helps cheers 

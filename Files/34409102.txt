@@ -1,0 +1,4 @@
+run application foreground android versions 
+blockquote implemented small timer application starting received call receiving incoming call starting timer application displaying timer foreground blockquote working em lollipop em version lower end version running background run application foreground devices achieve code reciever 
+
+steps solve problem br create receiver listen call strong phonestatreceiver strong br create service show view timer view phone call view strong hbfloatinghead strong br create timer inside strong hbfloatinghead service strong update window layout timer br update strong androidmanifest xml strong strong code strong strong phonestatreceiver strong strong updated strong hbfloatinghead br strong create layout commented hbfloatingservice class strong br strong update androidmanifest xml strong strong add permissions strong br strong declare android components strong br 

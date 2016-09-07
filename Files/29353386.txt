@@ -1,0 +1,4 @@
+set application database tapestry hibernate fail 
+set pom xml web app connect database problem occurs change output build latest version netbeans ide full pom xml file 
+
+version tapestry hibernate href http mvnrepository artifact org apache tapestry tapestry hibernate rel nofollow maven central repository href https repository apache org content groups staging org apache tapestry tapestry hibernate rel nofollow apache staging repository refer pom file beta version suggest latest href https repository apache org content groups staging org apache tapestry tapestry hibernate beta rel nofollow br strong edit strong end pom file property change strong edit2 strong btw define dependency harm moment youd clean 

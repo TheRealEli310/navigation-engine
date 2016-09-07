@@ -1,0 +1,4 @@
+practice declare arraylist collection implementation classes 
+explain difference declaration store declaration practice declare string 
+
+raw types means list isnt type compiler store integers inside intention list strings compiler emit warning ignore tells compiler intention list strings specific implementation chose arraylist change mind linkedlist line code change fourth tells compiler program doestt list list arraylist code call methods specific arraylist present list interface cases case prefer declare variable initialize null creating list design smell youll make list null safer initialize valid list 

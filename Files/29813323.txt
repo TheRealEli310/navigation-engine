@@ -1,0 +1,4 @@
+spring aop proxies work javafx 
+good day working project spring aop javafx wrap interface javafx scenes receive null pointer stack trace main method create instance myscene interface wrap proxy application config scene interface implementation wrapped fxml scene class wraps scene pointcut methodinterceptor classes finally pom xml project make javafx recognize spring aop proxies share 
+
+figure fails making subclass causing problem basically proxy created order intercept methods initialize instance correctly fix aggregation inheritance add method update implementation class making subclass holds reference instance reference passed method populated buttons defined fxml finally returned method update class call 

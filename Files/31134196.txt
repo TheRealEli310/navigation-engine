@@ -1,0 +1,4 @@
+javafx combobox setvalue actionevent 
+combobox page numbers user select page mouse keyboard combobox editable show total pages combobox action final code code fires actionevent code cycles ways ol li handle specific events li li find change combobox firing event li ol solve problem 
+
+held combo box data state underlying model change data displayed change display selected setting button cell button cell track selected item number pages editable button cell default combo boxs convert string text field model vice versa case install converter converts integer string default converter display text cells drop integer values install explicitly create cells 

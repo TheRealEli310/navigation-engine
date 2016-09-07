@@ -1,0 +1,4 @@
+changing dicom tags read text file 
+working project potentially change tags file based tags read text file searched web examples changing dicom tags library find limited number samples advise happen provide shows changing inserting dicom tags em em 
+
+working project found modify create tags dicom file read text file basically added tags found txt arraylist looped list replace tags matching putstring arg1 arg2 arg3 method found 

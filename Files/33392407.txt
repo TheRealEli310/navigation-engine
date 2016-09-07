@@ -1,0 +1,4 @@
+color changing graphics timer 
+draw disc colors disk drawn drawpanel extends jpanel main method drawpanel added frame colorchanging timer works change background drawpanel main method commented doesnt work graphics object suggestions copied code main method added paintcomponent method doesnt work 
+
+object transient cache compiler establish timer constructor class set bg panel call repaint 

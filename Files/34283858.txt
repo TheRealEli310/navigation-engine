@@ -1,0 +1,4 @@
+access android contacts array 
+begining android general write app select contacts grabbing main number putting seperate list arrays added manually type persons number method text put arrays 
+
+access contact list phone follow steps strong step strong add permission access contacts manifest xml file strong step strong code fetch phone number store arraylist strong arraylist contacts strong application code 

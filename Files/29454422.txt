@@ -1,0 +1,4 @@
+wait thread finish 
+threading work threads run thread1 print wait thread2 finish printing finishes task notify thread1 print thread1 terminate code output based current understanding threading strong index amp amp index strong block notify thread run wait completed work time index thread2 stops working thread1 continue print30 
+
+working code hope helps 

@@ -1,0 +1,4 @@
+threads hang selecting channel 
+performance testing application weblogic point performance starts degrading threads serving http requests stuck code means weblogic channel send responses back setting related checked file limit os set unlimited check ideas code running solaris box running sunos edit thread pool configured initialize minimum threads grow threads point problem threads serving requests 
+
+blockquote threads hang selecting channel blockquote blockquote means weblogic channel send responses back blockquote em em thread em blocking em em selecting network event em means incoming data space socket send buffers depending events selected case invoked write stack lack space socket send buffer peer slow reading end 

@@ -1,0 +1,4 @@
+spring integration dsl serviceactivator method header parameter annotations 
+spring integration bean method signature moment call service method spring integration dsl spring integration dsl release flow works absolutely fine wondering call service method sort reason call service method sort manner code ide eclipse drill services method highlighting method pressing f3 question alternative calling method includes annotations strings service service method 
+
+pass message selected headers pass payload individual headers assuming payload annotations meaningless scenario directly pulling headers lambda expression doesnt annotated invoke bean method variation magic matching message contents method parameters magic invoke method directly 

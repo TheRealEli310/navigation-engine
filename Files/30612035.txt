@@ -1,0 +1,4 @@
+circular buffer implementation android 
+achieve circular buffer implementation android pre defined method exists support standard libraries android 
+
+android development preference implementing things ofcourse jni requires overheads implement garbage collection logic code circular buffer achieved automatically class works case links give explanations href http www java2s tutorial collections circularbuffer htm rel nofollow href http www sanfoundry program circular buffer rel nofollow href http www vias org javacourse chap16 html rel nofollow depth article 

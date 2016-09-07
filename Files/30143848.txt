@@ -1,0 +1,4 @@
+simpler split string txt file 
+code created works wanted simpler content test txt desired output similar whats integer values stored int datatype delimiters customer delimiters lot errors suggestions 
+
+suggest start routine count number matching lines regular expression reading file dont leak file handles easiest href http docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow pattern matches consecutive alpha characters consecutive digits create routine populate arrays line finally method assuming users home folder recommend formatted io renaming variables 

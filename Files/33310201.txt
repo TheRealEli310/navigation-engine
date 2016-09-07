@@ -1,0 +1,4 @@
+mockito verify variables set mock calling method 
+write unit tests legacy code struggling work test piece code pattern basically mocked static objectgetter class powermock managed pass mocked foo object performexecute run check variable amp set predetermined foo run code foo getvariablez called pass back variablez passing back work make conditional variable set values mockito powermock suffice change code testing reasons 
+
+verify methods mock called correctly simply write result test failure method object called test variable doesnt exist mock verify setter called correctly 

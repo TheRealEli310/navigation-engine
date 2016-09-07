@@ -1,0 +1,4 @@
+read opc values utgard 
+code read values kepware opc server read present tag full path result doesnt shows values present tag giving message place print message wrong 
+
+variant explicitly 

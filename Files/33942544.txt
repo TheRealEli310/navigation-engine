@@ -1,0 +1,4 @@
+skip weekends adding days localdate 
+answers refer joda api time suppose todays date 26th nov thursday add business days result monday 30th nov working implementation great exists edit looping derive function br x1 x2 br actual number days add br x1 number business days add br x2 day week monday sunday x1 x2 derived day week date find plusdays method localdate br derive consistent confirm looping desired number workdays added 
+
+method adds days skipping weekends positive values hr fiddling algorithm em calculate em number workdays add 

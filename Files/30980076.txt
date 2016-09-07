@@ -1,0 +1,4 @@
+override autowired property annotation xml configuration 
+class fetch data mysql database hibernate fetch data databases mysql oracle case beans injecting defined context configuration works fine ul li exclude order avoid auto creation entityloader li li add bean definitions li li add bean definitions li ul added attribute hoping spring autowire defined ref resulting configuration spring autowire case error blockquote qualifying bean type org hibernate sessionfactory defined expected single matching bean found mysqlsessionfactory oraclesessionfactory blockquote remove works fine maintain code part generic lib apps usual case load database accomplish removing annotation 
+
+modify lib entityloader step trip ol li make optional autowired required false li li xml configuration exclude mysqlsessionfactory oraclesessionfactory beans autowire candidates add sessionfactory li ol pre class lang html prettyprint override voil 

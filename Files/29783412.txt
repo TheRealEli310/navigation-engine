@@ -1,0 +1,4 @@
+html pdf flying saucer internal css showing pdf page 
+displays pdf css works correctly displays gray background displays text page background color f0f0f0 styling text stop showing pdf 
+
+replace tag recognize style style wont count html weve put inside comment 

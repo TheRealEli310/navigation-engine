@@ -1,0 +1,4 @@
+spring wrong autowiring 
+basic spring application field null output wrong spring xml config file class execute app output 
+
+add spring xml file scan spring annotations files hope helps 

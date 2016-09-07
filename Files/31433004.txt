@@ -1,0 +1,4 @@
+remove character string 
+write program remove user input word remove repeated characters written code output thati expecting enter line enter word remove line line remove word removing repeated character line 
+
+initialize sb line iterate check sb append string builder 

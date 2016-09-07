@@ -1,0 +1,4 @@
+split texts delimiters line txt file 
+txt called readings data position represents temperature speed precipitation time hours minutes split string fourth token exists code splitting string splits delimiter logic gave arrayindexoutofboundexception split fourth token exists parts code explanation question means case clear provided advance 
+
+href http docs oracle javase docs api util stringtokenizer html rel nofollow stringtokenizer class easier handle tokens easily check 

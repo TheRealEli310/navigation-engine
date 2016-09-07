@@ -1,0 +1,4 @@
+deprecated getplayer server 
+piece code error deprecated heres plugin stacktrace pre class lang prettyprint override 
+
+error isnt related piece code href https docs oracle javase docs api lang arrayindexoutofboundsexception html rel nofollow blockquote thrown array accessed illegal index index negative greater equal size array blockquote change depending user input href http wiki bukkit org plugin tutorial check arguments length rel nofollow check arguments length href http wiki bukkit org plugin tutorial rel nofollow official plugin tutorial deprecation message error warning ignore code compile hide hover yellow highlighted crossed text click em add suppresswarnings deprecation em href https hub spigotmc org javadocs spigot rel nofollow spigot javadoc href https hub spigotmc org javadocs spigot org bukkit server html getplayer lang string rel nofollow isnt marked ide glitch 

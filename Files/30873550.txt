@@ -1,0 +1,4 @@
+higher api level android external library 
+import external library jar file android project features api level application minimum sdk version set em em matierial design google states em material design android apps follow guidelines defined material design specification components functionality android api level em implement material design transitions lower api level android device 
+
+limited features material design pre lollipop versions path animations check link features backported appcompat v22 latest sdk released google 

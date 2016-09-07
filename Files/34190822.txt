@@ -1,0 +1,4 @@
+roboelectric giving lang illegalargumentexception internet permission required 
+retrofitting unittests existing app run simple unit test error assumption robolectric wasnt manifest fundamental missing hurry wrote added details manifest explicitly setting manifest reading page href http stackoverflow questions robolectric junit test missing internet permission robolectric junit test missing internet permission update problem http call triggered oncreate thoughts add 
+
+apparently running unit tests robolectric permissions wont enabled checking segment lib checks internet permission em running tests app internet permission internet calls solve internet permission shadow application context segment lib add method testapp change code hope 

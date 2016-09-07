@@ -1,0 +1,4 @@
+disable log spring boot console 
+redirect log output file spring boot stills logs console disable console output set properties file solved 
+
+spring boot doc provide logging config file log file link href http docs spring io spring boot docs current reference html howto logging html rel nofollow http docs spring io spring boot docs current reference html howto logging html 

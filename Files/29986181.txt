@@ -1,0 +1,4 @@
+multiple typecasting single line program 
+messing syntax today compile piece code code gave compilation runtime errors changing data type data type worked introducing operations declaration worked errors auto format netbeans format code declaration formatted understanding code compiled 
+
+basically chain casts unary equivalent final assignment widening primitive conversion href https docs oracle javase specs jls se7 html jls html jls jls chapter conversions promotions blockquote specific conversions primitive types called widening primitive conversions ul li byte short int long float double li li short int long float double li li strong char strong int long strong float strong double li li int long float double li li long float double li li float double li ul blockquote 

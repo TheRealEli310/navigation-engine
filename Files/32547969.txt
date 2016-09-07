@@ -1,0 +1,4 @@
+http status access denied spring security 
+added spring security project configured configuration redirects login success shows error href http stack imgur pyo2t png rel nofollow img src http stack imgur pyo2t png alt access denied message mistake 
+
+spring security denying access ul li define login authentication manager authority strong strong li li restrict access users strong strong authority li ul user authority spring security deny access protecting resource granting user simplest fix add required authority user admin 

@@ -1,0 +1,4 @@
+regex mask alphanumeric string show digits 
+input string ul li z43524429 li li 46d92s429 li li 3488dfj33 li ul basically string alphabet characters digits symbols letters numbers mask ul li li li s429 li li fj33 li ul looked find code regex mask found href http stackoverflow questions masking digits javascript post stack assumes input purely number adjusted regex include characters work href https regex101 jo9au1 rel nofollow implement doesnt work heres line code mask ends accountnumber regex working thoughts 
+
+youre href http docs oracle javase docs api lang string html replace lang charsequence 20java lang charsequence rel nofollow replace doesnt regular expressions href http docs oracle javase docs api lang string html replaceall lang string 20java lang string rel nofollow replaceall 

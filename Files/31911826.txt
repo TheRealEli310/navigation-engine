@@ -1,0 +1,4 @@
+spring init methods 
+learning spring confused init destroy method constructor part question called main class supposed call method beans constructors init method called wrong init destroy methods beans initialize call specific bean constructors init methods 
+
+default spring beans eagerly initialized initialize lazily add property bean definition 

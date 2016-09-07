@@ -1,0 +1,4 @@
+configuration issue bean datasource beans element 
+problem define maven profiles pom xml defined profiles context xml file profile choosed wrong configuration utilisation theses profiles dont building maven command error wrong test lot things giving errors dont fix advance 
+
+profiles xml defined dev profile beans prod profile bean common beans activating profile set system property achieved web xml 

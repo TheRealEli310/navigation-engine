@@ -1,0 +1,4 @@
+encrypt bouncycastle gcrypt result 
+wrote simple program encrypt string output hex iv salt derived key cipher text program iv salt initialized values program padding needed length text bytes problem derived key programs br bouncy castle deriving function working gcry kdf derive br br 
+
+looked pbewithsha256and256bitaes cbc bc algorithm bc provider found compatible gcry kdf pbkdf2 gcrypt algorithm pkcs scheme bc implementing pkcs found named algorithm provider matches gcrypt bc api directly matching results bouncy castle gcrypt output blockquote 4182537a153b1f0da1ccb57971787a42537e38dbf2b4aa3692baebb106fc02e8 blockquote 

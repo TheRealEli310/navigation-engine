@@ -1,0 +1,4 @@
+cdi passivation capable bean passivation capable dependencies injected passivated 
+cdi passivation capable bean passivation capable dependencies injected passivated code em em dont care deserialized producer called h1 edit h1 original discussion started href http www cdi spec org news cdi edr1 released comment rel nofollow http www cdi spec org news cdi edr1 released comment hoping cdi expert group 
+
+checking href http docs jboss org cdi spec cdi spec html passivating scope rel nofollow spec answer serializable bean type passivation capable container doesnt provide trick requesting solution write ans code 

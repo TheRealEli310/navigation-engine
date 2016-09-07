@@ -1,0 +1,4 @@
+collectors tomap sortedmap 
+lambdas return call method dummy equal dont pass merge function basic implementation practise method return 
+
+dont lambda directly call package private make static method 

@@ -1,0 +1,4 @@
+orm titan graph exposed gremlin server 
+titan server running configurations ol li titan graph cassandra storage backend li li gremlin server websocketchannelizer li li titan version titan hadoop1 li ol application gremlin driver incubating open client connect remote gremlin server submit gremlin queries create vertex results back queries convert list object mapper gremlin driver gremlin server 
+
+mapper aware eye issue href https issues apache org jira browse tinkerpop3 rel nofollow https issues apache org jira browse tinkerpop3 completes existing orms work gremlin server conversion person pattern necessarily return raw vertices return transformation vertices construct work generically client 

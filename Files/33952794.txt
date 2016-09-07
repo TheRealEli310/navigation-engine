@@ -1,0 +1,4 @@
+set mavens version 
+upgrade systems including maven running jenkins quick google led change desired version set maven completely path strong question strong change mavens strong edit strong rottens answer manged maven running mavens set error deploy building works fine pom compile plugin set jenkins project config jdk noticed maven version configured jenkins versions jenkins 
+
+problem resolved uninstalling jenkins leaving configuring project explicitly work maintenance reasons wanted dont letting jenkins automatically choose compile work issue addition upgraded maven maven plugins respective newest version affect maven build break ant build upgraded jenkins run didnt effect making compile times marginally shorter 

@@ -1,0 +1,4 @@
+poor performance processing pair rdd skewed data 
+pair rdd millions key pairs list single element billions elements leads poor performance large groups block nodes cluster hours groups seconds processed parallel cluster busy improve strong edit strong operation giving problems list key analyzed key touched operation compares element list rest list takes huge amount time means list node time resulting rdd sublist depending calculated broadcast variables case scenario common data key pairs partitioner oreilly learning spark book kind operation benefit partitioner shuffle involved true partitioner situation strong edit strong code double loop times avoided 
+
+processdata expensive parallelize step pick gains pseudo code flatmap step bounded biggest list youll incur shuffle repartition moving processdata step step gain parallelism 

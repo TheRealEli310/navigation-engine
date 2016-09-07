@@ -1,0 +1,4 @@
+add custom cookies browsermob proxy 
+writing automation test capture network call made background browsermob proxy browsermob proxy set cookie making requests code 
+
+request filter approach highly recommend building latest version browsermob proxy littleproxy integration filters reliable easier href https github lightbody browsermob proxy rel nofollow github page information building latest version href https github lightbody browsermob proxy littleproxy interceptors rel nofollow littleproxy interceptors section relevant heres simple adding cookie request request filters 

@@ -1,0 +1,4 @@
+processbuilder process waitfor long ist wait 
+executing exe file href https docs oracle javase docs api lang processbuilder html rel nofollow processbuilder class href https docs oracle javase docs api lang process html rel nofollow process class explain wanted long waitfor waiting waiting exe executed waiting till execution finished exe compiled autoit script means interactions mouse movements time code execution calling exe waiting achieve rotational execution scripts afraid code executing script running workaround glad ideas 
+
+current execution thread blocked process terminated execution finished source href https docs oracle javase docs api lang process html waitfor rel nofollow process terminated waitfor blocked dont code put question run careful create instance process execution script calling start multiple times process wont work execution 

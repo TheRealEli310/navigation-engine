@@ -1,0 +1,4 @@
+thread instantiate class final outer class object 
+read tutorial class oracle href http docs oracle javase tutorial javaoo nested html rel nofollow http docs oracle javase tutorial javaoo nested html tutorial simple examples instantiation question final instance outer class safely instantiation threads concurrently calling threads 
+
+blockquote thread instantiate class final outer class object blockquote general depends context true thread safety instantiation performed depends constructor shown initialization shown thread indirectly instantiation thread thing sufficient blanket assurance thread hr rule meaningful talk thread safety code complete executable ellipsis em em code em em including stuff thread reasoning difficult 

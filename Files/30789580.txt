@@ -1,0 +1,4 @@
+call scala generic method 
+call scala method eclipse isnt giving autocomplete 
+
+ugh classtags added list implicit parameters explicit add generated object ugly untested 

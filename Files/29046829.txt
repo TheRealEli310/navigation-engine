@@ -1,0 +1,4 @@
+error building signed apk android studio class provide default constructor 
+error class provide default constructor public constructor arguments tasbih counter tasbihcounter registrationadapterr instantiatable error occurs build signed apk debug mode app working fine 
+
+add script build gradle write android tag release build generate error lint build task abort 

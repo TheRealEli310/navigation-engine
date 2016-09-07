@@ -1,0 +1,4 @@
+mapreduce job read hbase throws lang noclassdeffounderror 
+goal strong run simple mapreduce job cloudera cluster reads dummy hbase database writes hdfs file strong important notes successfully run mapreduce jobs hdfs file input wrote hdfs file output cluster replaced libraries compiling project purely hbase hbase cloudera jars previously encountered kind issues simply copy lib distributed cache worked google guice jobconf conf jobconf getconf parsejobconfig class distributedcache addcachefile uri user hduser lib guice multibindings jar conf doesnt work hbaseconfiguration class create configuration configuration exists cloudera version hadoop version driver code mapper reducer classes needed solve issue exception exception thread main lang noclassdeffounderror org apache hadoop hbase hbaseconfiguration 
+
+weve solved colleague case needed update bashrc file ol li li li put libraries classpath li ol ol start li dont forget reload bashrc li ol 

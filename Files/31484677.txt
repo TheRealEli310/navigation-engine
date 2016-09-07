@@ -1,0 +1,4 @@
+dijkstra algorithm running heap space 
+dijkstra algorithm vertices program worked vertices fails make 2d array represent path node node stored double array weight memory heap space memory ran line input href http pastebin vwr6wmrh rel nofollow http pastebin vwr6wmrh vertices edges line single number vertice line number vertice edge weight weight node node code 
+
+adjacency matrix store edges matrix entry existing edges vertices adjacency matrix entries assuming stores efficiently heap space running jvm give larger heap size works bit real solution href https en wikipedia org wiki graph 28abstract data type representations rel nofollow space efficient implementation edge representation graph em sparse em href https en wikipedia org wiki dense graph rel nofollow density 

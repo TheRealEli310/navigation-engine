@@ -1,0 +1,4 @@
+nullpointerexception set item texture minecraft modding 
+learning build minecraft mod problem trouble item texture adding system google friend havent found fix npe base mod class item class error report line marked base mod class wiht line code ill transcribe 
+
+href http www minecraftforum net forums mapping modding minecraft mods modification development lessons mc mod rel nofollow http www minecraftforum net forums mapping modding minecraft mods modification development lessons mc mod guy explains register item renders init method worked move render part init method turned base mod class guys 

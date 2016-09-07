@@ -1,0 +1,4 @@
+clojure multiple type hints 
+possibility types variable 
+
+href http clojure org interop 20interop type 20hints rel nofollow clojure documentation blockquote clojure supports type hints assist compiler avoiding reflection performance critical areas code avoid type hints performance bottleneck blockquote purpose type hints compiler avoid reflection documentation aspects type hinted code secondary youre telling compiler resolve interop method calls compile time method calls class allowing form hinted multiple classes defeat purpose compiler wouldnt class compile method call object time method calls compiled class guaranteed fail happened passed vice versa 

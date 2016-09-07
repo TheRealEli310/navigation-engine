@@ -1,0 +1,4 @@
+switching form serial gc g1 increase rss 
+sample app starting rss size 600mb serial gc g1 rss memory bootstrap increases 800mb profile increase g1 tuning options improve memory footprint 
+
+care memory footprint dont g1 complex gc auxiliary data structures avoids full gcs collecting gen piece meal pause time goal default prefer growing heap missing pause time goal stick serial gc throughput parallel collector g1 aggressively yield back memory os start collecting gen sooner 

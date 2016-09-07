@@ -1,0 +1,4 @@
+bukkit api set material data itemstack 
+bukkit api compare based make change material change material set method variable searched google stackoverflow spigot forums bukkit forums find answer set em em hint idea 
+
+havent tested gettype itemstack material call getdata materialdata 

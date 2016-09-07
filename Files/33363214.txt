@@ -1,0 +1,4 @@
+spring batch input resource exist class path resource 
+developping spring batch converts excel xsls file cvs step read cvs process store data database step works batch stops step throwing warning input resource exist class path resource work referentielagencece csv code spring config xml step1 convertxlsxtocvs mention file paths properties file follow delete spring config xml reader definintion error 
+
+found solution add file output cvs file path batch referentielagencece inputfilepathcsv file work eferentielagencece csv work eferentielagencece csv 

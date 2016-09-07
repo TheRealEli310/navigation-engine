@@ -1,0 +1,4 @@
+arraylist remove object throws arrayindexoutofboundsexception 
+observable notifies registered observers method observable class make shure remove calls made notifying wait thread notifying finished added observers calling method observable added method arrayindexoutofboundsexception line removecall arraylist happen 
+
+solved couldnt figure exception thrown question found rewrite method worked converted list array iterated array list attribute methods simple delegating method call methods interesting solution didnt work 

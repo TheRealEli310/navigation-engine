@@ -1,0 +1,4 @@
+implementation sieve eratosthenes past 
+prime generator limited lt expand limit limit elements array sieve modify past 
+
+array href http docs oracle javase docs api util bitset html rel nofollow objects represent long bit set heres complete program takes 512mb memory works couple minutes prints correct number primes billions href http www wolframalpha input number primes 4000000000 rel nofollow wolfram alpha ram setting bigger 

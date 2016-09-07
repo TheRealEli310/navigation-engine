@@ -1,0 +1,4 @@
+parse xml inputstream string objects android studio 
+iam android program iam retrieve xml file internet parse objects iam struggling hours isnt complicated find iam started href http developer android training basics network ops xml html rel nofollow lot stuff dont write clean code things read lot articles internet working created default project android studio activity created subclass activity caled xmlmanager subclass extends asynctask methods link working easy find read simple xml library parsing xml objects retrieve xml string parse library advance 
+
+found missed needed bufferedreader stringbuilder making string xml website parse string object simplexml library getstream method string total xml code 

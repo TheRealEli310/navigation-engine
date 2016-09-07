@@ -1,0 +1,4 @@
+read large text files faster 
+made simple sequential median filter algorithm happened scanners handle command line input scanner reading file problem text file lines columns text form taking long time minutes read file basically program simply grabs input median filter algorithm writes output file code strong main strong strong serial strong read file faster seconds edit input 
+
+href http docs oracle javase docs api io bufferedreader html rel nofollow buffered reader improve speed takes read file larger buffer size scanner previous questions buffered reader initially read line line split string space 

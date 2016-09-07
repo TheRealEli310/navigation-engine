@@ -1,0 +1,4 @@
+problems distributionmanagement site url maven multi module environment 
+trouble maven site plugin sample structure module tag branches trunk structure deploy cycle lets parent pom xml effective pom modules module nested trunk directory doubled relative urls module module reason module normal failing maven conventions missing strong edit strong effective pom real minimal 
+
+href https maven apache org plugins maven site plugin usage html rel nofollow documentation maven site plugin blockquote subprojects inherit site url parent pom automatically append form effective deployment location blockquote fact half story parent project direct ancestor maven generated inadequate url site url values parent project root project module trunk case declare explicitely url site url 

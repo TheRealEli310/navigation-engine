@@ -1,0 +1,4 @@
+jackson xml json format 
+apache wink based rest project jackson jax rs providers handling json xml content type response object map key whitespaces serialized xml element names json serialization works fine json format desired xml format achieve jackson jax rs xml json providers define custom jackson serializers extend jax rs providers suggest approach 
+
+change xml jaxb href https docs oracle javase docs api javax xml bind annotation adapters xmladapter html rel nofollow annotate field property result figure wrapper thing make jackson arent provider jaxb annotation support configured provider json array object map assuming href https github fasterxml jackson jaxrs providers rel nofollow provider plain make register hr h3 edit h3 forgot add class test hr h3 update h3 lets assume em em jaxb annotation support jackson json serialization configure jaxb support class href http stackoverflow 

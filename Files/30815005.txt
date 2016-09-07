@@ -1,0 +1,4 @@
+org hibernate mappingexception repeated column mapping entity 
+domain models userbean loginbean relationship user record login loginbean userid foreign key userbean id ddl database run application message checked place defined user id loginbean 
+
+mapping bidirectional association userbean parent loginbean child mappings user id table userid user id map user id totally removing userid field explanation manytoone tag class marked manytoone association mappings userbean finds loginbean userbean user property loginbean hibernate map userbeans id loginbeans field marked fk db user table 

@@ -1,0 +1,4 @@
+correct handling background calls jersey 
+background calls web service web application response call time critical barely interesting rare cases react throwing exception logging failure conrete question refers correct handling asynch calls jersey client option async calls jersey starts thread response option immediatly start thread jersey inside thread generally option adviseable option worker thread option worker thread 
+
+implement blocking thread simply make href http docs oracle javaee api javax ws rs client invocationcallback html rel nofollow passing instance method href https jersey net documentation latest async html d0e10419 rel nofollow asynchronous client callbacks 

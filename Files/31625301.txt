@@ -1,0 +1,4 @@
+custom list view adapter null nullpointerexception error 
+program application show word error blockquote lang nullpointerexception attempt invoke virtual method void android widget textview settext lang charsequence null object reference blockquote error refer custombaseaadpter dont fix custombaseadapter item row adapter vocab program word row xml vocab layout xml 
+
+inflating wrong layout row required view inflating xml required view elements method returns view instance id present inflated layout inflated wrong layout layout view found medthod returns null view line set call methods instance throws npe 

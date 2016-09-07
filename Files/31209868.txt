@@ -1,0 +1,4 @@
+json deserialization throwing exception deserialize instance util arraylist start object token 
+json response caused fasterxml jackson databind jsonmappingexception deserialize instance util arraylist start object token source io pushbackinputstream bce1d9 line column reference chain totalhours data totalhours hourly totals pojo class exception deserialize json data dont list array response options 
+
+object hour represented string object pojo class representing data hour natural choice 

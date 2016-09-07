@@ -1,0 +1,4 @@
+compare dates drools 
+rule file added person object fire rules didnt print beep conditions matched understand happen compare dates drools actual rule set changing type date variable person exception generating rules set strings convert knowledgebase function 
+
+apparently results string comparison work times wont change leave rule drools convert string date provided corresponds locale setting strong strong experiments find earlier versions weird behaviour compiling comparisons util date string absolutely confusing programmer rely fact bound variable behaves property bound strong finally strong strong dont public fields fact classes stay beans model declare getters setters strong turns drools isnt automatic conversion string util date public instance variable accessed due lack getter 

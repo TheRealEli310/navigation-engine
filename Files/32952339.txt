@@ -1,0 +1,4 @@
+netty channelread0 called 
+send files server app client app file send server client output problem client side called chunk server called base class overwritten handler called idea wrong code advance client pipeline server pipeline filechunkhandler client filesenderhandler server public class filesenderhandler extends channelinboundhandleradapter 
+
+receive bytes 

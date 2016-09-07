@@ -1,0 +1,4 @@
+generate system architecture code 
+system architecture computational components software system interactions relationship components components tasks processes objects modules components connected connectors procedure call implicit invocation message passing instantiation shared database generated uml diagrams reverse engineering visual paradigm generate architecture 
+
+components interactions explicit code general case generate diagram automatically study aspects application source code existing documentation user interface configuration jira tasks restore original architecture 

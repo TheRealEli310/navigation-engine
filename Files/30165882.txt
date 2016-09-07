@@ -1,0 +1,4 @@
+mail api imap folder uidnext 
+fetch mails api imap folder headers uidnext coming mail uidnext supported ail mail servers proper values parameters uidnext uidnext returning 
+
+documentation href https javamail net nonav docs api sun mail imap imapfolder html getuidnext rel nofollow https javamail net nonav docs api sun mail imap imapfolder html getuidnext depends server blockquote servers implementing rfc2060 wont return folder opened servers implementing rfc3501 return folder opened blockquote close folder calling getuidnext 

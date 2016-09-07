@@ -1,0 +1,4 @@
+parsing neo4j executionresult dumptostring 
+neo4j graph database neo4j cypher api query result dump string method give execution result string format output string default apis parse generic answer result throws exception solve 
+
+info including columns detailed href http neo4j docs tutorials cypher html rel nofollow http neo4j docs tutorials cypher html update based comment cypher query column returned column wanted type property query type column string 

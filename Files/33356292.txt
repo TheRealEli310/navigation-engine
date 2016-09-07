@@ -1,0 +1,4 @@
+found multiple defaults yaml resources 
+submit topology found error appeared updated pom xml error pom file part pom file part pom file 
+
+fundamental difference running topology remotely default setting project scope set default class files cluster tells maven classes included file assembled reducing size jar avoids conflicts files provided multiple times change scope case files packaged submitted cluster storm finds file locally locally worker machine cluster storm raises error excludes class files run locally locally files automatically included em classpath em starting local jvm excludes files exception alternative change scope time submit environment set scope include topology main bolt spout classes explicitly settings explicit inclusion automatically excludes files jar files 

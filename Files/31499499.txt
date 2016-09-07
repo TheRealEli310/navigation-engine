@@ -1,0 +1,4 @@
+set text array textview clicking button increment array position 
+code working array strings display textview time button click user clicks button string array position fetched displayed helps db allquestions method found database created dummy values added advance 
+
+remove loop current code doesnt work doesnt block execution called incremented means incremented loop blocking ui thread 

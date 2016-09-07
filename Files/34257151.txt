@@ -1,0 +1,4 @@
+access webview function mainactivity class 
+correctly access view variable function throws error line blockquote blockquote wrong fix 
+
+finally found answer problem web js accessed android creating class view wasnt defined replaced works fine good bye 

@@ -1,0 +1,4 @@
+spring ldap granted authorities 
+remove constructor info xml file info loaded system getproperty original code worked fine modified code ldap find user authenticated false granted authorities ideas update 
+
+issue fixed code figure previous method work suspect ldapconfig bean injected appropriately beans instantiated successfully 

@@ -1,0 +1,4 @@
+neo4j transaction rolling back 
+neo4j object graphdatabaseservice creating transaction marking rollback javadocs blockquote strong void failure strong marks transaction failed means unconditionally rolled back close called method invoked doesnt matter success invoked transaction rolled back blockquote node created matter committed rolled back behaviour explanation build commit function nested transactions operation fail transactions parent transaction fail process found matter transactions committed strong update strong embedded version neo4j works fine rest version causing trouble package rest 
+
+transactions rest version transactions http cypher endpoint library discontinued recommend jdbc driver implementation spring data rest 

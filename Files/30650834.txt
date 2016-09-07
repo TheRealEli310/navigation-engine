@@ -1,0 +1,4 @@
+half round double 
+code produces result href https ideone zohdaa rel nofollow live code numbers represented floating point numbers actual floating point representation 5999755859375 href http www schmidt net floatconverter ieee754 html rel nofollow page strong half round em em case strong 8u25 
+
+bug numberformat roundingmod half href http bugs view bug bug id fixed 8u40 href http www oracle technetwork javase 2col 8u40 bugfixes html release notes 

@@ -1,0 +1,4 @@
+android studio volley json data server 
+android coders attempt create login system android studio trouble code php script returns json parse json loginactivity inside login method error creditentials forwarded server login button clicked work earlier stringrequest jsonrequest fine server side android development unable figure desperately heres loginactivity imports heres php 
+
+passing params syntax handle volley requests singleton class href http stackoverflow questions android volley isolate requests class question hope helps 

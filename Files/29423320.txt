@@ -1,0 +1,4 @@
+spring rest controller post request 
+controller spring testing result testing http status required string parameter uouo present thing post passed parameter url post object json parameter make string parameter send post 
+
+servlet container provide parameters body post requests content type ignore body content type href http download oracle otndocs jcp servlet fr eval oth jspec rel nofollow servlet specification chapter parameters blockquote conditions met post form data populated parameter set ol li request http https request li li http method post li li content type li li servlet made initial call family methods request object li ol conditions met post form data included parameter set post data servlet request object input stream conditions met post form data longer reading directly request object input stream blockquote arent sending json set content type infer pass query parameters url 

@@ -1,0 +1,4 @@
+username connection pool declaration runtime 
+connection pool declared context xml tomcat server initializing datasource usual access username tiger case runtime method class schema connection error error unwrap connection ther schema username datasource connection 
+
+tomcat datasoruce implementation basicdatasource href https tomcat apache org tomcat doc api org apache tomcat dbcp dbcp2 basicdatasource html rel nofollow https tomcat apache org tomcat doc api org apache tomcat dbcp dbcp2 basicdatasource html cast ds basicdatasource access user getusername print db getclass getname actual implementation 

@@ -1,0 +1,4 @@
+org hibernate service jdbc connections internal c3p0connectionprovider provider class found 
+c3p0 configuration checked log found c3p0 properties encountered org hibernate service jdbc connections internal c3p0connectionprovider provider class found classpath properties lib c3p0 jar amp hibernate c3p0 final sources jar 
+
+blockquote org hibernate service jdbc connections internal c3p0connectionprovider provider class found classpath blockquote hibernate c3p0 final strong sources strong jar jar source code em files compiled code em class expecting c3p0connectionprovider class classpath reality strong solution strong hibernate c3p0 final jar jar c3p0connectionprovider class file resolve issue 

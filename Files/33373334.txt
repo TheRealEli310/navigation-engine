@@ -1,0 +1,4 @@
+http server sending chunked response 
+working application built http server moment server implemented serversocketchannel listens port requests thread installed manage requests responses thread simple main bulk code dealing response function processrequest implemented chunked response present chunked responses supported code edit implement chunked response adding method modified processrequest read specifications chunked responses sending data correct format dont receive browser wrongly assume browser correctly piece chunks wrong client side handler handler set object 
+
+solved removing header chunk lengths beginning chunk resolved issue write data byte chunks works reliably final method produce chunks data string loop write chunks lengths beginning byte end chunks required 

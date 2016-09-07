@@ -1,0 +1,4 @@
+proper restrict access data 
+working application employee customers br br employee display modifiy delete customer ensure customer employee url actions valid access customer service call database access ensure customer employee br br application written spring mvc spring security restriction access 
+
+find convenient requirements specifically ol li enable method security annotating configuration class li li fetch customer controller call service method passing customer li li annotate service method li li configured li li cleaner pattern method delegate permission checks entity classes li ol href http docs spring io spring security site docs current reference htmlsingle el permission evaluator rel nofollow details 

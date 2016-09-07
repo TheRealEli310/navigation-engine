@@ -1,0 +1,4 @@
+program referenced libraries noclassdeffound 
+run program referenced libraries jar files command line put jars lib folder root folder project added jars build path project project run program cmd locate bin folder execute strong entry strong strong noclassdeffound strong exception run 
+
+jvm classes running program parameter jvm strong classpath strong ways achieve ol li strong recomended strong add classpath location run command alternatively pass jar locations assuming jar files jar jar lib folder command li li put jar files location classpath current folder classpath easiest option put jar current folder recomended achieve li li modify classpath variable environment properties list folder jar trivial achieving li ol 

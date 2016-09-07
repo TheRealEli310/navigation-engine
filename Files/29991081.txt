@@ -1,0 +1,4 @@
+set bold font style selected text jtextarea instance 
+set bold font style selected text jtextarea instance work effect 
+
+set caret listener jtextpane listen text selected heres gui created img src http stack imgur mqwrk png alt jtextpane heres code 

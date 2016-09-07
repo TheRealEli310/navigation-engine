@@ -1,0 +1,4 @@
+extending simpleweightedgraph jgrapht 
+wanted extend simpleweightedgraph jgrapht library simplified alias include additional functionalities required creating graph time created class instantiate doesnt create object missing constructor 
+
+figured class edgefactory constructors included 

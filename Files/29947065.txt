@@ -1,0 +1,4 @@
+libsvm classes classpath 
+weka libsvm implementation installed weka version add weka folder libsvm jar file put path jar file classpath environment variables libsvm function weka api receiving message type console libsvm file idea wrong default batch script run weka commands run weka jar file jar weka jar message error cases 
+
+explicitly classpath flag classpath variable add libsvm classpath semicolon separated windows add weka classpath variable 

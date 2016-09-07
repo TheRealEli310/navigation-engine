@@ -1,0 +1,4 @@
+loading properties file file path spring 
+bean application context properties file parameter read file dont mind error handling pass file location bean dont add path creating doesnt work 
+
+code wrong file classpath added classpath files copied root classpath case directory named suggest configuration simply write dont bother loading properties simply pass constructor spring hard loading load properties simply reference constructor option code clean saves loading 

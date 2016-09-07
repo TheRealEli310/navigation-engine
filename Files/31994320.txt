@@ -1,0 +1,4 @@
+implement dropwizard metrics single process 
+learn dropwizard metrics library measure performance single process looked started run wrote metricsregistry dont understand combine process metricsregistry measures time takes process time takes run wording lot things wrong question clear advance clarification pasted code measure pi digits nth number dropwizard metrics gave started 
+
+put pi computation logic method called computepi main method meter measure time takes execute measures rate occurrence count changed timer measures time timer begins call timer time execute computepi process block finally block stop timer matter inside computepi exact time takes execute process 

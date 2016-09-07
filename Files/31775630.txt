@@ -1,0 +1,4 @@
+connect ms access database 
+strong strong connect ms access database ucanaccess driver connect database strong strong eclipse ms access database strong ms access database path strong strong jar files project strong ul li mysql connector bin jar li li ucanaccess jar li li jackcess jar li li hsqldb jar li li commons lang3 jar li li commons logging jar li ul strong error strong strong code connect database strong 
+
+href http mvnrepository artifact healthmarketscience jackcess jackcess jackcess depends commons lang version backward compatible jdbc driver mysql hsqldb goal connect ms access 

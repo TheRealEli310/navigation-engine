@@ -1,0 +1,4 @@
+passing data jsp servlets html page dynamically 
+jsp page reads data html css jquery code webpage jsp text labels add button user enter values text field requirement time user enters alue fields clicks add data passed servlet servlet basically validation return boolean variable based boolean change appearance text boxes required time user clicks add button achieve html code ipaddress port passed servlet depending return parameter appearance change enlighten work tia 
+
+passing data servlet options option wrap html form tag set action method properties servlet http method submit send request input servlet handle request parameters servlet set values flags response object forward user jsp html page choice option make ajax call jsp process input return response page asynchronously href http stackoverflow questions simple ajax jsp simple ajax jsp 

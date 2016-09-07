@@ -1,0 +1,3 @@
+decrement operator recursive function 
+recursive funtion funtion slight modification pass interger printvar01 works expected decrements successive recrsive calls eventually causing program exit printvar02 stays assuming variable assignment values passed funtions 
+

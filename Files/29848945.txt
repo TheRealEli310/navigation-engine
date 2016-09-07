@@ -1,0 +1,4 @@
+issue hibernate ehcache program 
+learning configure hibernate ehcache facing issues details hibernate cfg xml file file version run program create sessionfactory configuration exception making mistake configuration strong update strong replacing ehcache xml file throwing error 
+
+ehcache xml file start tag declare 

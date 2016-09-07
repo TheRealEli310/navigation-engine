@@ -1,0 +1,4 @@
+gson parse json array length jsonarray object jsonobject object 
+gson force json objects array element construct json jsonparser creates jsonobject place array length majority json system arrays greater length parse correctly discovered attempting utility method brute forcing jsonobject jsonarray working expect output majority json correctly system clever problem effectively force objects arrays process stream catch handling 
+
+shouldnt work directly make pojo class data gson deserialize json 

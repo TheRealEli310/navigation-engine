@@ -1,0 +1,4 @@
+iterate list 
+worked pretty collection doubts aware iterate list iterator problem time call list size build tree impact performance thought solution solve problem exposed thread thinking whetherthis approach thought loop compiler checks size list give solution alternative performance efficient approach 
+
+calling iteration problem operation collections size simply returns field list holding size main problem repeated call operation arraylist linkedlist making iteration forces list start element list node ith element iterator foreach loop internally iterator guarantees iterating iterator list implemented element btw iterate indexed collections sets youd kind loop 

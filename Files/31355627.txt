@@ -1,0 +1,4 @@
+android studio swipe view tab layout 
+write app tab layout viewpager fragments everytime run crashes nullpointerexception code main activity tabpageradapter logcat problem returns added error ideas 
+
+found problem erased solved problem hope 

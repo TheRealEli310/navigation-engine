@@ -1,0 +1,4 @@
+ignore case comparing string keyvalue hashmap 
+check hashmap key set string buffsb tostring wanted compare ignoring case upper lower greatly appreciated 
+
+implementation hashmap getkey method pass proper key generate hash actual bucket solutions 

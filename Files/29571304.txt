@@ -1,0 +1,4 @@
+autowire spring bean created external jar 
+module jar created util em strong library strong em created service resides package strong inin architect permissions strong main application referencing loading jar set dependency maven pom xml file app application service applications spring setup run application tomcat complains isnt bean strong permissionsservice strong org springframework beans factory nosuchbeandefinitionexception qualifying bean type bring bean lib application surely set library full blown spring mvc application work configuration componentscan setup lib 
+
+scan package class inject spring annotation idea xml 

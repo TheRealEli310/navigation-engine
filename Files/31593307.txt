@@ -1,0 +1,4 @@
+main method abstract class 
+legal main method abstract class eclipse run class application make sense real world scenario main method abstract class 
+
+create class hierarchy classes share main method doesnt prints expected boring doesnt shadowing static method calls doesnt work virtual overriding instance methods start explicitly naming class starting point finding method signature default class call made problem main method subclasses whats point putting abstract class good subclass specific information superclass main method preference minimize static keyword reserving constants enums stateless functions dependencies favor object oriented techniques static methods specific oo idea avoid specific subclasses care 

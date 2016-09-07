@@ -1,0 +1,4 @@
+server activate thread process incoming client request 
+server client application make multithreading server activate thread process incoming client request server client part change server part multithreading 
+
+accepted connection pass thread easy thread handling code 

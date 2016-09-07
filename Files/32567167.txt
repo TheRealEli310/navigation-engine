@@ -1,0 +1,4 @@
+gradle main manifest attribute 
+kind crazy error running jar file built gradle error reads main manifest attribute rxjavademo jar manipulating manifest property forgetting add dependencies wrong 
+
+change manifest attributes change helloworld class main method case make manifest attribute point class jar running 

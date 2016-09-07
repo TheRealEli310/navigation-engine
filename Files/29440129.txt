@@ -1,0 +1,4 @@
+error incompatible types return scores required int found arraylist integer 
+solution find store scores player guessing game put getscore method 
+
+problem youre returning arraylist method declares returns int 

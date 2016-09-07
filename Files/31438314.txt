@@ -1,0 +1,4 @@
+jersey messagebodyreader found media type multipart form data 
+found questions address problem unable find solution error sending jquery ajax request endpoint people luck changing parameter endpoint method formdataparam formdatamultipart href http stackoverflow questions status code messagebodyreader found multipart form data formdatamul edit class pom xml dependencies web xml thing dig register multipartfeature resourceconfig project working application classes class extends resourceconfig war deployed tomcat main class configuration stumped working 
+
+required reader writer register feature youve mentioned registration subclass web xml simply add list classes add provider adding servlet configuration register providers features comma delimit class names 

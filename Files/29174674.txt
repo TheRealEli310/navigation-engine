@@ -1,0 +1,4 @@
+redirect jersey jul logging log4j2 
+redirect jersey request response log log4j2 jersey logging enabled code jersey jul logging internally default output stdout moment stdout eclipse console log4j2 documentation section href http logging apache org log4j log4j jul index html rel nofollow jdk logging adapter blockquote jdk logging adapter set system property strong util logging manager strong strong org apache logging log4j jul logmanager strong command line djava util logging manager org apache logging log4j jul logmanager argument strong system setproperty strong calls made logmanager logger blockquote call logger call put class log logging files log4j2 xml 
+
+imagine set system property launch add code init method setting system property worked 

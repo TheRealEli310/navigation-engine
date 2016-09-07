@@ -1,0 +1,4 @@
+android os networkonmainthreadexception button click 
+error read threads avoid asynctask dont buttonclick event code strong mainactivity strong guys give suggestion asynctask buttonclick event failed 
+
+network operations main thread thread write code run method thread start thread onclick hope helps 

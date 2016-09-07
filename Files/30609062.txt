@@ -1,0 +1,4 @@
+nio charset malformedinputexception input length 
+stripped html tags code function builds html table csv runtime error everytime run dont google encoding wrong idea change csv encoded ansi characters control encoding change future error occurs line sourcecode 
+
+utilize correct encoding form method href https docs oracle javase docs api nio file files html lines nio file path nio charset charset rel nofollow javadocs href https docs oracle javase docs technotes guides intl encoding doc html rel nofollow heres list supported encodings oracle jvm href http stackoverflow post cp1252 windows ansi 

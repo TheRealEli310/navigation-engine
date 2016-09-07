@@ -1,0 +1,4 @@
+framing multiple servlet request url pattern 
+servlet request frontend make single servlet multiple operation based url pattern url mapping means hit url framed invoke functionalities ul li url helloservlet function li li url helloservletone function li li url helloservlettwo function li ul achive extending servlet br code link examples appreciated 
+
+url pattern url called request made due http methods post parts href http www oracle technetwork frontcontroller html rel nofollow frontcontroller pattern getservletpath method work explicit url patterns information url check href http www coderanch web component scwcd certification getcontextpath getservletpath getpathinfo rel nofollow link 

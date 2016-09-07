@@ -1,0 +1,4 @@
+buffered writer write line time 
+creating program amend driver letters saved program file method works sense locates file correctly amends drive letter correctly open file changed directory listings line directory line saving individual line array list printing didnt work wondering appreciated messing make work ran issue printing line spaces 
+
+problem href http docs oracle javase docs api io bufferedreader html readline rel nofollow reads line tosses line ending documentation blockquote string contents line including line termination characters null end stream reached blockquote add back possibly preferred line ending platform platform dependent line ending alternatively ransom briggs easier read perform slightly left method general approach adding newlines strings 

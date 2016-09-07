@@ -1,0 +1,4 @@
+subclassing javafx stage scene 
+coming swing javafx subclass fx stages scenes quickly run problems init method subclassed sceen found initialization wondering fx stages sceens subclassed subclass jframes jpanels swing discouraged 
+
+subclass fx library classes pretty id recommend doesnt style appears examples official tutorials fact long ago stopped subclasses vast majority swing code preferring style fx examples 

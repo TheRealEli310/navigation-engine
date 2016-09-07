@@ -1,0 +1,4 @@
+copy notes item 
+copy item document lotus script version achive 
+
+item including properties fromdoc href http www ibm support knowledgecenter ssvrgu ibm designer domino main doc getfirstitem method html lang en rel nofollow getfirstitem copy todoc href http www ibm support knowledgecenter ssvrgu ibm designer domino main doc copyitem method html rel nofollow copyitem line code 

@@ -1,0 +1,4 @@
+thread crashes 
+confused uncaught exception code crashes app executed thread fish initialized npe code doesnt crash app produces nullpointerexception thread pool threadpool threads running threadpool crash threads die bit confused previously thought thread crashes thread dies threadpool living unaffected explain 
+
+docs blockquote actions enclosed tasks futuretask explicitly methods submit task objects catch maintain computational exceptions abrupt termination internal exceptions passed method blockquote reason code crash app exception silently handled submitted task encounters exception executions silently suppressed case scheduled thread pool pass determines number threads scheduled concurrently thread pool contrast fixed thread pool maintain number threads pool crash 

@@ -1,0 +1,4 @@
+preventing infinite recursion jax rs jpa entity serialization json jackson annotations 
+entity returning jax rs deploying jboss wildfly final stacktrace answers answered questions href http stackoverflow questions infinite recursion jackson json hibernate jpa issue question requires jackson specific annotations projects requirement strong strictly strong stick ee specific frameworks solution prevent infinite recursion jackson annotations create config file xml file jackson place annotations reason application bound wildfly specific libraries 
+
+create dedicated data structure representation data structure map jpa entity data structure youre mixing concerns ends badly jpa entities api data structure rest representations api rest 

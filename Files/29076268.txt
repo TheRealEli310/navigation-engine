@@ -1,0 +1,4 @@
+repeat spring model thymeleaf fragment 
+spring thymeleaf project fragment header part pages include header essential part header fragment includes model object spring view header fragment add line problem controller view header give proper model object uncomfortable error prone spring give proper model object write code controller 
+
+create controlleradvice read documentation link href http docs rel nofollow http docs spring io spring docs current javadoc api org springframework web bind annotation controlleradvice html 

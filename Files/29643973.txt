@@ -1,0 +1,4 @@
+run jar parameters gradle 
+run jar file parameters located users nwuser fitnesse fitnesse standalone jar gradle script parameters similiar console apply frontpage suite amp format text inside gradle script kind 
+
+args array simply supply arguments 

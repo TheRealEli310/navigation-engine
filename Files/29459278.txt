@@ -1,0 +1,4 @@
+initializing webview created scenebuilder 
+started javafx created simple gui scenebuilder function work webview fxml code controller class code run button pressed run program press button prints string console programmed throws null pointer exception webview remains blank shed light stumped moment 
+
+dealing fxml files fxml annotated components class provide id case css settings check documentation href https docs oracle javase javafx fxml tutorial rel nofollow 

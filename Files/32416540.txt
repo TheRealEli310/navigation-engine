@@ -1,0 +1,4 @@
+http status servlet init servlet fittrackerservlet threw exception 
+time working spring tutorial pluralsight running run error listed title console errors older versions dependencies made follow tutorial closely messed deprecated href http localhost fitnesstracker greeting html rel nofollow http localhost fitnesstracker greeting html hellocontroller servlet config xml jsp web xml pom xml 
+
+problem pluralsight tutorial installed project apparently throws exception rectify situation ensure spring sts environment set ol li click project select strong properties strong li li strong properties strong dialog select strong compiler strong li li bottom dialog select link configure strong installed jres strong li li add definition point jre select default li ol pluralsight tutorial works beginner spring mvc solve problem 

@@ -1,0 +1,4 @@
+version api jax rs resteasy 
+version rest api version api single resource thaught javax ws rs core application api version referes resources exposes version api passed version header question activate myapiapplicationv1 version header myapiapplicationv2 version header jax rs resteasy 
+
+jax rs application mapped path web xml configuration href https jax rs spec net nonav rev apidocs javax ws rs applicationpath html rel nofollow applicationpath path identifies application applications running path workaround add application simple servlet redirects version depending version header strong unrelated strong heres href http www infoq presentations rest misconceptions rel nofollow good talk versioning restful apis makes sense starting 

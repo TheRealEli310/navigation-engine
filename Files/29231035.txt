@@ -1,0 +1,4 @@
+android ram usage continues increase fragment replace 
+navigationdrawer replace fragments application start fragment loaded allocation heap mb replace fragment work allocation heap 40mb replace fragment allocation heap maintains 40mb force garbage collection allocation heap decreases mb load fragment allocation heap maintain mb fragment destroyed destroyed memmory freed understand fragments added back stack destroyed removing replace call remove add fragment basicly listview 
+
+destroyed created anew shift view unlike provided suspect strong strong set app manifest strong strong possibly making heavy cached static references unrestricted heap growth reasons top head situation 

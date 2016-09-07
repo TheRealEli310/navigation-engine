@@ -1,0 +1,4 @@
+send cookies asynctask 
+web server log android application loging recive xml user logged field named token token open session calls webservice works sendidnt token cookie named acrsession working everytime check logged call named currentuser returns forbidden isnt working good asynctask class calls server plesae bad advance 
+
+finally found solution fortgot set cookie domain path onced putted worked cookie creation hope 

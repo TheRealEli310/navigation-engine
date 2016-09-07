@@ -1,0 +1,4 @@
+run testng suite maven surefire plugin 
+lot posts running testng suite maven surefire plugin examples add pom command line problem ties testng suite run groups error maven surefire plugin test failed testsuitexmlfiles0 null run command line passing suite path groups 
+
+surefire configuration property ol li remove surefire configuration replace href https maven apache org surefire maven surefire plugin test mojo html suitexmlfiles rel nofollow surefire documentation li li continue li ol surefire configuration removed error wont present option maven profiles configure surefire plugin depending property pass maven 

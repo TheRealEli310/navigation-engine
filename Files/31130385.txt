@@ -1,0 +1,4 @@
+insert json data mysql 
+json data text file pair latitude longitude store data mysql db amp whats approach suggest json data 
+
+comments suggested leaving json format storing text column id suggest control schema store fields latitude longitude fundamentally data fact youve received json container format irrelevant data store latitude longitude simpler query recreate json end wanting fetch em em json youll position means youre tying json future personally good idea mentally separate intrinsic nature data happen receive store data format idiomatic storage youre storing number numeric data types youre storing date time dont end extra layer data time access approach means youre spot bad data early store json directly parsing em em find latitude longitude isnt valid number heck fact sample data suggests data cleanup 

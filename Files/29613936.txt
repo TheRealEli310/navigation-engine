@@ -1,0 +1,4 @@
+closing connection resultset jdbc dao layer 
+reading href http balusc blogspot dao tutorial data layer html rel nofollow excellent post href http stackoverflow users balusc balusc highly reputed active stackoverflow member post find closed database access finished pretty missing overlooked connection closed infact end post mentions code handles returning connection pool dont happenening relevant class due respect balusc found comments post similar question guess balusc time 
+
+balusc href http docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow resources statement automatically closes connection statement resultset opened inside parentheses block 

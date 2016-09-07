@@ -1,0 +1,4 @@
+integer parentheses giving compilation error 
+initializing integers compiles fine error 
+
+reason datatype valid values range wrap inside parentheses expression evaluated big fit big problem happen valid relevant parts jls ul li adding parentheses creates parenthesized expressions href https docs oracle javase specs jls se8 html jls html jls section li li integer literal treated default href https docs oracle javase specs jls se8 html jls html jls section blockquote integer literal type suffixed ascii letter ell type blockquote li ul 

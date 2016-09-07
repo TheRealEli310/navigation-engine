@@ -1,0 +1,4 @@
+hibernate generate tables models database 
+database tables models class problem auto generating tables hibernate annotations maven models projet nammed strong models test strong class projets nammed interface test interfaces maven projet nammed services test made persistence xml fil standalone xml jboss server connection string consol 
+
+issue persistence xml property named hibernate hbm2ddl auto update create create drop development environment generate tables models database list options hibernate hbm2ddl auto 

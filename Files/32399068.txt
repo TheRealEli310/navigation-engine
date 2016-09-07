@@ -1,0 +1,4 @@
+maven generated sources annotations 
+hey guys posting question spent good deal time researching found detailed answer issue generating sources aws workflow maven plugins work generating client classes activities fail error running workflow classes br error plugins fixing issue great 
+
+error message clear mvn find target generated sources annotations pom stated source aspectj maven plugin code intend generate sources target generated sources annotations issue generation youll expose pom wrong remove part give shot ps id put comment 

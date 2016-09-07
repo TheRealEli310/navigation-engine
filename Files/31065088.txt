@@ -1,0 +1,4 @@
+webdriver chromedriver selenium jenkins integration 
+selenium script written eclipse invokes chromdriver launch url read title close browser successfully execute eclpise comand prompt create jenkins job build routine execute batch command build running time tracing sysout statements found build stopping drive build failed error message waiting long time 
+
+selenium webdriver display work server accurate xvfb run headless mode detailed instruction bit outdated valid href http alex nederlof blog installing selenium jenkins ubuntu rel nofollow http alex nederlof blog installing selenium jenkins ubuntu 

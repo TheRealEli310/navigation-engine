@@ -1,0 +1,4 @@
+handle listview event android sliding tabs technique 
+searching internet found tutorials tabhost technique toolbar adding tabs display contents fetched database listview dynamically tab focused activity code edited tab activity xml code tab code public class tab1 extends fragment tab xml 
+
+add specific tab selected fetch data fill 

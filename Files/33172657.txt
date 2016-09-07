@@ -1,0 +1,4 @@
+print shape pyramid stars 
+write program outputs pattern number top bottom connecting line loops current code producing half pyramid upside 
+
+logic code ul li loop row output excluded rows li li loop column output excluded columns li li print row row column opposite diagonal li ul code sample output pre class lang prettyprint override output trailing white spaces row included easy remove adding check 

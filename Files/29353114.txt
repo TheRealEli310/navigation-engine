@@ -1,0 +1,4 @@
+running antrl testrig gui application 
+generate graphical representation parse tree antlrs testrig grun terminal call testrig application make testrig capabilities make application takes user input shows generated parse tree graphical representation message blockquote load lexer parser blockquote work correctly identified arguments set eclipse testrig find grammar set arguments properly running antlrs testrig inside application 
+
+solved issue source code testrig class found needed inspect method generate gui view heres code edit version code generates tree 

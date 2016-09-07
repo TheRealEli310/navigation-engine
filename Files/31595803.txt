@@ -1,0 +1,4 @@
+add jar files android studio 
+moved strong eclipse strong strong android studio strong android programming trouble importing jar files strong android studio strong import files jsoup package 
+
+add build gradle file dependencies part assumes library inside folder project alternatively add dependency telling gradle single jar file added lines sync project android studio import classes library strong update strong jsoup library mavencentral repository nice include dependency latest version mavencentral repository added build grade 

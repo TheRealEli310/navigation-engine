@@ -1,0 +1,3 @@
+insert current date robomongo 
+add date field mongo db robo mongo string number numberint datatype date field insert current date 
+

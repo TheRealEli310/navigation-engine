@@ -1,0 +1,4 @@
+sequence arithmetic geometric progression 
+make application takes sequence numbers line produce stops reaches sequence zeros prints arithmetic progression geometric progression number series input output code wanna whats wrong possibilities wont work code 
+
+problem discover progression type incorrectly ap algorithm gp gp return ap dont proceed cases offered sequence progression absolutely clear numbers involved suppose integer numbers form ap gp discover progression simple math ol li form ap element li li form gp element li ol em notice changed switch ap gp em 

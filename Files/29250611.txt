@@ -1,0 +1,4 @@
+android fragments method mainactivity defined interface 
+design pattern confusion issues fragment call methods mainactivity defined fragments interface solution cast attached activity mainactivity doesnt defeat purpose interface mainactivity methods fragment class method fragments interface correct calling methods 
+
+creating tight coupling activity fragment approach callback activity implement callback interface handle callbacks 

@@ -1,0 +1,4 @@
+dagger injection recyclerview fails members inject raw type 
+list adapter extended attempting inject dagger fails error salient file contents relevant lines deleted listadapter listfragment injectionmodule injectioncomponent googled extensively found href https medium patrykpoborca dagger base classes generics presenter injection 7d82053080c yfqd9jxo9 rel nofollow article effectively superclass method mentioned half article working managed inject recyclerview adapter dagger share solution 
+
+replace order construct listadapter object module dagger find context object pass context module constructor listfragment inject dependencies 

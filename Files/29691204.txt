@@ -1,0 +1,4 @@
+send json ouput servlet jsp 
+making inventory control check entered quantity item stock quantity servet json output send jsp back strong em jsp jquery code em strong servlet query br br system println output coming correctly sending jsp back 
+
+practice create dto class properties pass gson library inside loop set values dto object pass gson gson give proper json structure client side 

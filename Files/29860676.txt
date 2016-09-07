@@ -1,0 +1,4 @@
+gson convert json object 
+working project steam web api api returns data json format wanted make program data json format api googles json api called gson trouble setting classes method json data array objects data thing confusing outer tag called construct class representing objects create class represents encloses file named included variables plan json data contained string called testing main method running indexoutofboundsexception gson unable information store object shed light problem curious set classes correctly 
+
+replace gson reflection field populate case field named instantiate field gson strong edit strong wrapper class top level object 

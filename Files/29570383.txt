@@ -1,0 +1,4 @@
+basic authentication sharepoint rest api 
+application access sharepoint rest api href https msdn microsoft en library office jj860569 aspx rel nofollow https msdn microsoft en library office jj860569 aspx prefer basic authentication examples rest apis web deal authentication missing simple works manually postman href http tech bool se basic rest request sharepoint postman rel nofollow http tech bool se basic rest request sharepoint postman requires enter username password browser implementing href http stackoverflow questions httpclientbuilder basic auth httpclientbuilder basic auth results warning ntlm authentication error credentials ntlm authentication org apache http auth usernamepasswordcredentials 
+
+fateddy trick remember switch usernamepasswordcredentials username password ntcredentials maven dependency org apache httpcomponents httpclient end http 

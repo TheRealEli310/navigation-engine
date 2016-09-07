@@ -1,0 +1,4 @@
+elasticseach api find aliases index 
+find aliases index elasticsearch rest api pretty easy href https www elastic guide en elasticsearch reference indices aliases html alias retrieving rel nofollow https www elastic guide en elasticsearch reference indices aliases html alias retrieving unable find good reference api 
+
+working elasticsearch ran issue needed list aliases based provided index list aliases pretty struggled find easy aliases index iterate implementation looked poking idea efficiently restgetindicesaliasesaction package org elasticsearch rest action admin indices alias end find aliases index setaliases hope helps 

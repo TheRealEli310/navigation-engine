@@ -1,0 +1,4 @@
+difference parallel sequential method 
+code yesterday found href http snatverk blogspot ch streams jdk8 examples html rel nofollow source examples linear algebra basis matrix vector multiplication link coded owner method multiplication matrices code question difference method calling class important part multiplication explicitly based knowledge correct usage calling defined place method solution change dont difference output 
+
+strong parallel strong operations happen concurrently means elements stream processed simultaneously strong sequential strong operations happen time changing impact result operations state independent affect run time operations perform affect future operations assume matrix operations happen parallel familiar math link href https docs oracle javase docs api util stream basestream html sequential rel nofollow javadoc referenced the8472 

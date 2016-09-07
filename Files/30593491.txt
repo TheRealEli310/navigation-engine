@@ -1,0 +1,4 @@
+weka voting algorithm classifications inconsistent probabilities 
+problem weka href http weka sourceforge net doc dev weka classifiers meta vote html rel nofollow vote command average probabilities classifiers ol li href http weka sourceforge net doc dev weka classifiers functions smo html rel nofollow smo li li href http weka sourceforge net doc dev weka classifiers functions multilayerperceptron html rel nofollow multilayerperceptron li li href http weka sourceforge net doc dev weka classifiers trees j48 html rel nofollow j48 li ol weka results output strong bit confused instances classified active distribution alternative inactive higher probability strong line consistent imagine results explanation direction greatly appreciated 
+
+things turned solution upgrade version weka previously version upgrade trick results receiving expected 

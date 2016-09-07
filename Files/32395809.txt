@@ -1,0 +1,4 @@
+intellij idea debugging application stepping fails application terminate 
+crazy suppose youre debugging application stopped breakpoint line strange lets create class wrapped catch exception press step step button application terminate debugger frame console report process finished exit code whats wrong advance 
+
+found problem main thread exited daemon threads vm simply exited debug 

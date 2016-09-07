@@ -1,0 +1,4 @@
+jboss ga redirect port working redirected 
+issue setting redirect port scenario load balancer listening ports requests port forwarded port hosts load balancer requests port forwarded port hosts load balancer request port href http address rel nofollow http address port load balancer port host fine redirect point href https address rel nofollow https address points href https address rel nofollow https address load balancer understand request dies changing https port https connector knowing port information coming effect port idea change advance server xml http connector https connector confidential block web xml 
+
+found workaround googling web lost actual page found server default conf bindingservice beans meta inf bindings jboss beans xml xsl transformation redirect port commenting changing redirects correctly 

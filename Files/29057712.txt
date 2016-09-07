@@ -1,0 +1,4 @@
+parse line break 
+parsing json file gson line json file json object fields bunch unicode coupled entire thing line line char end json object characters field treated literally field gson translate string gson turns characters line breaks mess entire structure edit appears json decoder gson interpreting line break suppose question parse json field string turning line break 
+
+supposed characters properly encoded json json string encode 

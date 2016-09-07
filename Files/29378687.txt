@@ -1,0 +1,4 @@
+wait notify 
+understand suppose call wait mutex current thread stop working thread calls notify mutex object doesnt working make thread print wait thread print thread print strong main strong strong child1 strong strong child2 strong strong output strong missing 
+
+add reference change calling wait notify equivalent code made child1 child2 

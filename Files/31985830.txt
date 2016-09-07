@@ -1,0 +1,4 @@
+calling super finalize preferred overriding finalize method 
+sonarqube error em calling end method implementation highly recommended case parent implementations dispose system resources em found class implementation href http grepcode file repository grepcode root jdk openjdk b27 lang object object finalize rel nofollow finalize method call 
+
+finalizer writing idiom time future refactor code class extends class method practice prevent strange bugs popping idiom ensures superclass finalizer trivial called exception thrown catches exceptions finalizers execution simply stops strong avoid finalizers strong item joshua blochs effective edition 

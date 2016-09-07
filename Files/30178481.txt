@@ -1,0 +1,4 @@
+arquillian maven 
+making ee project figure test ejb read arquillian integration tests maven difficult tutorial 
+
+sort dependency management tool ivy recommend makes things easier arquillian maven maven figure dependencies work maven pom files start sample maven based setup maven dependency plugin export libraries href https gist github mojavelinux rel nofollow https gist github mojavelinux personally recommend dependency management tool maven ivy 

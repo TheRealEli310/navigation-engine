@@ -1,0 +1,4 @@
+import org springframework data resolved gradle 
+refreshed gradle project error import org springframework data resolved imports doesnt understands imports unable resolve give suggestion resolve issue advance 
+
+added dependency strong build gradle strong file solved problem 

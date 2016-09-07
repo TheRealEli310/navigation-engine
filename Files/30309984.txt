@@ -1,0 +1,4 @@
+exception integration test jhipster app mongodb 
+create jhipster app run integration tests exception 
+
+solution change version embeddedmongobuilder mongo spring bean 

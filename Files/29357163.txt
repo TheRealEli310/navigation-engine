@@ -1,0 +1,4 @@
+linear search array lottery program 
+program starting confuse ways work met sort error time supposed create program simulates real life lottery randomly generating numbers user input numbers choice program supposed linear search arrays users numbers equal numbers randomly generated taught linear search include searching mutliple numbers array confused return integer greater prints youve won statement prints youve lost statement stopped messing code feel break 
+
+solution works give good rating solution 

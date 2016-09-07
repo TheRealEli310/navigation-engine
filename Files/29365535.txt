@@ -1,0 +1,4 @@
+spring boot configuration morphia 
+utilize spring data mongodb support leverage orm mongodb called morphia href https github mongodb morphia rel nofollow https github mongodb morphia configure morphia spring boot externalize configuration morphia spring boot philosophy leverage environment variables configuration morphia properties spring boot approach achieve simple main program morhpia orm working 
+
+spring boot approach create autoconfiguration needed properties creates instance bean href http docs spring io spring boot docs current snapshot reference htmlsingle boot features mongodb reference guide find set properties connect mongodb autoconfiguration morphia autowire datastore spring beans usual points correct unclear existing classes spring boot 

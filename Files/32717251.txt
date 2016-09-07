@@ -1,0 +1,4 @@
+set project version passing version property gradle command line 
+build jar defined version passed command line execute gradle build task myproject jar generated adding line strong em build gradle em strong work 
+
+override existing project properties command line href https discuss gradle org project property command line overrides broken rel nofollow rename version variable differing version set flag command build gradle operator 

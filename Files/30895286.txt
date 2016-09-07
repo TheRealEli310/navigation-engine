@@ -1,0 +1,4 @@
+spring mvc return simple string json rest controller 
+question essentially follow href http stackoverflow questions simple string json return spring rest controller question spring add world response body return string json response understand add quotes feels hack provide examples explain concept blockquote strong strong dont written straight http response body return string json format controller href https resty gwt github io restygwt requires response valid json format blockquote 
+
+strike string json proper json strike return href http stackoverflow questions return string message spring mvc controller return string message spring mvc controller wrap string object set response type youll json 

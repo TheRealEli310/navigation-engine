@@ -1,0 +1,4 @@
+print short binary bits 
+br prints br function print short digits write 
+
+pad left side 0s 

@@ -1,0 +1,4 @@
+hornetq persistence jboss eap 
+honetq jboss ran issue jms messages arrive queues suddendly crash restart messages lost read enabling persitence queues parameter defaults true read questions user persistence persistence enabled persistence refer queue level higher level hornet jboss configuration hope 
+
+jboss hornetq configured messaging domain jboss configuration standalone domain xml set message posting queue configured flag false href http stackoverflow questions meaning durable attribute jms queue jboss hornetq meaning durable attribute jms queue jboss hornetq 

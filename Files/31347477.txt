@@ -1,0 +1,4 @@
+prevent spring injecting autowired references inside mock 
+test class spring junit mockito dont manage make work properly lets class references service service references repository testing mycontroller class service mocked problem strong service mocked spring inject repository mock strong test class configuration class error initialize mock mockitos annotation fails method called mocks injection generating simply mock repository real life make mock lot classes 
+
+interfaces kind aop transactions security youll interface class configuration youll 

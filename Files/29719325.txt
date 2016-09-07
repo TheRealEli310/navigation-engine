@@ -1,0 +1,4 @@
+log4j2 xml configuration file location ear 
+ee application packaged ejbs war structure ear log4j2 configure web xml href https logging apache org log4j manual webapp html rel nofollow instructions initialize log4j web application creating ejb throwing instruction href https logging apache org log4j manual logsep html ee applications rel nofollow clear understand place log4j2 xml shared location place xml inside ear inside ear lib inside ear meta inf result case havent configured web xml configure log4j2 ear configuration classes classes ejb module web module weblogic 12c previously successfully log4j2 weblogic 11g case packaging war file 
+
+package log4j2 xml file ejbjar1 jar create configonly jar shared ejb modules war separate logs ejb war configure file appenders loggers ejb war working sample log4j2 xml glassfish v4 status trace trace configuration issue 

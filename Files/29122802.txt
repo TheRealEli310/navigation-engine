@@ -1,0 +1,4 @@
+run test gradle debug level 
+br built app build gradle br understand test gradle debug mode enter debug messages building messages log debug test log info messages builded test results standart error tab debug messages 
+
+dont set log level programmatically setup configuration file util logging find detailed instructions href http tutorials jenkov logging configuration html rel nofollow property set finest log 

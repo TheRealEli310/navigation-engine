@@ -1,0 +1,4 @@
+docker running nginx jar 
+run docker container jar server nginx front perform subdomain port forwarding dont setting correctly br dockerfile jar listens ports run container jar doesnt start dont console output reach container reach nginx port requests forwarding jar coming back empty reply comment line aaa jar starts fine generates console output reaches run nginx jar 
+
+docker containers designed single process sandboxing cmd argument case picking file run multiple prorcesses container makes sense href http supervisord org rel nofollow supervisor run commands run supervisor goodies process watchdogs thrown 

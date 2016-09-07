@@ -1,0 +1,4 @@
+post supported custom servlet bean spring boot 
+integrate 3rd party servlet spring boot application submit post servlet logs made simple test show started href http start spring io rel nofollow auto generated spring boot project created servlet created configuration run application tomcat7 logs hit endpoint curl adding requestmapping didnt work figure support servlet inside spring boot application find sample application href https github andrewserff servlet demo rel nofollow https github andrewserff servlet demo 
+
+previous experiences call servlet slash end dont put slash end request routed servlet mapped default dispatcherservlet spring error message servlet 

@@ -1,0 +1,4 @@
+url parameter servlet doget 
+working web application sending email url clicking link requetesucceso jsp displays hotelid city parameters user accept clicking button acceptoffer mapped servlet decisionpage clicking button calling doget method parameter hotelid received doget function null expecting found url case hampton null hampton 
+
+make form submit form action create request parameters defined form run application mentioned url parameters avilable dont include form wont submit form include parameters fields dont wont show user made fields servlet youll access request parameter 

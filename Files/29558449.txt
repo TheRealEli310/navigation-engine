@@ -1,0 +1,4 @@
+javafx center stage screen 
+center stage screen br calling centeronscreen stage high work properly calulate pos function correctly 
+
+default implementation set stage higher center position stage exact center set em custom em 

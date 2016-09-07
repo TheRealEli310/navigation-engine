@@ -1,0 +1,4 @@
+rdfcat code 
+jena api class rdfcat tool convert data file format commande line execute tool inside code code failed 
+
+jena specific command line arguments supposed em array em arguments youre passing array em em string member youre call rdfcats main youd kind strange thing easily flexibly load input model write format 

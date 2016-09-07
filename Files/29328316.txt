@@ -1,0 +1,4 @@
+polling job status 
+check job status period time polling result job completed return polling period set return failure result timer loop advance 
+
+pool result href http docs oracle javase docs api util concurrent completionservice html rel nofollow completionservice asynchronous communication make thread implement callable implement call method similar run method completion service executor service submit completion service blocking queue result completion service put result queue result 

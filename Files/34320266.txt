@@ -1,0 +1,4 @@
+add gradle testcompile dependency webarchive shrinkwrap arquillian 
+dependency file dont final file order run tests test phase maven write gradle resolver gradle dont add dependency tests fail selenium classes change selenium dependency works war file size jumps megabytes filled test classes advance 
+
+generally gradle maven parts dependencies maven repositories explicitly define additionally maven repositories dont pom sets shrinkwrap set automatically combine provided calls sth similiar add dependency shrinkwrap resolver maven related modules btw wont arquillian graphene solve issue related selenium arquillian 

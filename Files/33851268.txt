@@ -1,0 +1,4 @@
+android set margins programmatically gridlayout 
+rows buttons grid layout buttons size margins broken edit code worked 
+
+views layoutparams parent gridlayouts layoutparams shouldnt gridlayout layoutparams parent gridlayout replacing 

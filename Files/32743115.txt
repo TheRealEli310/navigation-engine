@@ -1,0 +1,4 @@
+powermockito lang noclassdeffounderror 
+mock static final class junit test run test error message generate error spring tool suite break command prompt intellij normal eclipse edit powermock info spring boot starter test class path ul li mockito li li mockito core li ul imported project import existing maven project including pom xml idea similar things 
+
+provide findings situation digging deeper junit class loader problem loading class class loaded previously case controller test run fist services test running class def found exception listed commenting controller test junit test work problem proves test fine figure deal situation potential dealing separate service controller projects unit test dont run 

@@ -1,0 +1,4 @@
+android studio accessing properties object method 
+beginner programming basics missing ill learn things mainactivity code details location read class defined class called usercurrentaddress details declared usercurrentaddress class mainactivity class instantiated oncreate button click onclickview bottom code connect api location handlenewlocation method eventually populates usercurrentaddress object works successfully read details usercurrentaddress buttonclick event toast back null put toast handlenewlocation correctly populated properties usercurrentaddress visible buttonclick event thought declaring activity class visible realise handlenewlocation method preferable access properties event hope managed explain issue code 
+
+youre describing line executed em em call moving line spot calls makes difference 

@@ -1,0 +1,4 @@
+make text textview string error 
+updated replaced code gave runtime error clarify textviews id text inside declared strings textview code takes strings puts textviews prints strings letter time rate set speed current mainactivity class update letterdisplay class logcat run keyguardupdatemonitor issimpinsecure return false activitymanager force finishing activity micor projectsero2 mainactivity keyguardupdatemonitor issimpinsecure return false 
+
+method gettext doesnt arguments returns charsequence charsequence applied string call tostring method edit fixed letterdisplay class activity 

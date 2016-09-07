@@ -1,0 +1,4 @@
+copy dependencies jars child projects parent project directory 
+build maven parent project script incorporates 3rd party project dependencies couple projects mine id copy dependencies strong strong dependencies including jars requested dependencies turn requested child project parent project directory lib run wildcard classpath methods point maven child projects dependencies parent project pom parent project pom writing copy direct child project jars bin directory thinking manual copy maven copy brutally copy jars child projects directories brutal existing maven software content maven exec directly hope set classpath automatically edit id modify child projects poms 3rd party 
+
+ended main project pom submodules added plugin code basically submodules copy dependency jars target lib main project copies jars jars folder project specific filenames hard coded things option maven provided tools maven plugin optimal dont time 

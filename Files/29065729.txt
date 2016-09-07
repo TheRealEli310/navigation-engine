@@ -1,0 +1,4 @@
+jlayeredpane transparency setopaque working 
+creating simulation type application background layer layer top animations jlayeredpanes background top layer show transparent background appreciated heres code background layer top layer missing 
+
+dont jlayeredpane jlayeredpane future read tutorial href http docs oracle javase tutorial uiswing components layeredpane html rel nofollow comment youre correctly recommend simplify drawing single jpanel drawing background bufferedimage constructor drawing image sprites jpanels paintcomponent method 

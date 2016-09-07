@@ -1,0 +1,4 @@
+import findbug pmd sonar qube 
+import configuration files findbug pmd xml format sonar qube find xml files import advance 
+
+explanation sonarqube integration blockquote sonarqube plugin covers checkstyle pmd rules related plugins bundled sonarqube rid plugins forget related rules findbugs rules complementary sonarqube plugin rules sonar findbugs profile anymore convention language plugin sonar profile blockquote information refer original post href http stackoverflow questions sonarqube combining sonar findbugs pmd checkstyle duplicates sonarqube combining sonar findbugs pmd checkstyle duplicates 

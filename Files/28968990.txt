@@ -1,0 +1,4 @@
+closing resultset closing preparedstatement 
+type resource leak expect resultset closed preparedstatement suspicious open cursor issue oracle 11g jdbc plz answer question focusing fix 
+
+blockquote type resource leak expect resultset closed preparedstatement blockquote leak maximum open cursor issue maximum open cursors exceeded database unusable cursors held times happen held cursors case question hr handle href http docs oracle javase tutorial essential exceptions tryresourceclose html rel nofollow ressources implements interface closed needed anymore dont handle block make verify null values closing encounter npe ressource initialized reverse wont problem closing statement automatically close result set hr easily cursors application chance exceeding maximum time encounter maximum open cursors solution hide real problem 

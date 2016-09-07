@@ -1,0 +1,4 @@
+algorithm combinations size array 
+write function takes array integer list size combination list int arrays write nested loops works specific size subset figure generalize work size combination recursion code combinations elements algorithm number elements 
+
+studied problem generating subsets href https en wikipedia org wiki combination rel nofollow combinations easily recursion idea array size keeping sequence em indices em elements input array numbers increasing order em subset em created taking items indices initial array generate index sequences index sequence step switches sequence step algorithm closest end item incremented increments fills items item step index sequence code 

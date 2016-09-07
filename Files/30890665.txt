@@ -1,0 +1,4 @@
+correct write javadoc abstract methods 
+class hierarchy idea public final abstract dosomething pattern extending classes obligated call super href http stackoverflow questions force derived class call super method android andrzej answers eventually implementations extend abstractsomething clients code instantiate implementations isomething methods question design idiom correct write good javadoc hierarchy correct clients call concrete id concretesomething javadoc method final simply override write concrete javadoc addition clients wont dosomething method protected put concrete javadoc words strong opposite inheritdoc strong suggestions 
+
+problem similar interfaces documentation clients abstraction abstractions generic documentation case add documentation constructor concrete class client details implementation include relevant needed 

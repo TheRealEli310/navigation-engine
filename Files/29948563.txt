@@ -1,0 +1,4 @@
+jmx jaas jconsole authentication 
+scenario application jmx expose methods sat server present users connect command line jconsole access restrictions users logging machine access rights stored form active directory add authentication authorisation jmx process user types command line check ad user group determine authorisation read read write managed resource solution retrieving ad groups pass jmx process set hard coded passwords file jmx process calling user automatically determine access rights current jmx process execute callback determine users access rights connect existing tools frameworks jboss 
+
+solved jaas custom login module bouncing relaunching jmx process command line sample jaas config setting sampleloginmodule implements loginmodule interface login method callback authorization logic module 

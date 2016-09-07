@@ -1,0 +1,4 @@
+dagger throws illegalstateexception injecting nested dependency 
+inject activity object nested dependency dependencies managed dagger module method throws error dont fully understand explain method isnt working strong method working foo implementation interface strong strong method working foo normal class module doesnt strong strong method throws error foo normal class module strong 
+
+provider method creates cycle instance create instance obtain instance proposed solution 

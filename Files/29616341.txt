@@ -1,0 +1,4 @@
+netty encoder called 
+netty amp attempting learn netty works building simple chat server typical networking tutorial program guess designing simple protocol called arc andrews relay chat arc code lot heres issue start server register handlers inboundhandler strong strong called user connects encoder strong strong called code calls ctx writeandflush packet run doesnt invoke encoder point missing adding encoder incorrectly compare examples 
+
+encoder em em inbound handler means method calls evaluated encoder fix problem move inbound handler information event evaluation order read href http netty io api io netty channel channelpipeline html rel nofollow api documentation 

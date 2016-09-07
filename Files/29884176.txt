@@ -1,0 +1,4 @@
+gradle multi project projects 
+gradle multi project setup external dependencies main project folder file em em include dependent projects parent project folder 
+
+assuming filesystem hierarchy add inside repeat projects depend 

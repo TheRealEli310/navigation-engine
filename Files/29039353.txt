@@ -1,0 +1,4 @@
+difference jndi binding module app ee 
+migrated eap development environment logs understand binding read href https docs jboss org author display as71 jndi reference rel nofollow jndi namespace binding totally clear works log doubts ol li explicitly interface binding li li difference binding components needed illustrate helpful li li lines log show binding jboss bind set jndi binding li ol bit illiterate binding reading docs helped great extent 
+
+answer doubt names thing contexts global full jndi context bind globally client ear file module bind application ejbs ear local bind locally jar war slightly efficient shorter names bind locally full global time jboss eap list names enterprise bean deployment intended developer identify jndi bean 

@@ -1,0 +1,4 @@
+spring mvc return select form model 
+wrong writing app starts simple page drop select progresses based selection spring mvc thought easiest solution set select object returning null initial home page controller opens page home jsp div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override wanting return post controller redirected fruit dummy entity essentially model basic attributes string date moment returning null guessing form object returned isnt selected grateful making selected form returned completely wrong approach 
+
+errors existing code br home page controller adding fruits fruit list br home jsp option fruit variable array solution br model attribute list div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override 

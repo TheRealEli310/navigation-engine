@@ -1,0 +1,4 @@
+set margin textview programatically tablerow 
+hy making project eclipse project made xml layout mainactivity mainactivity added textview jenis spinner spin tablerow added tablerow linearlayout frame added frame linearlayout xml file buttons add amp del button problem add margin textview jenis spinner spin mainactivity work work idea adding margin textview advance 
+
+code works 

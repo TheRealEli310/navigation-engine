@@ -1,0 +1,4 @@
+bad practice make generic arrays alternative 
+coding school years started coding days ago question bad practice make generic arrays alternative stumped make generic array weird 
+
+bad idea se generics arrays dont mix reason due covariance invariance arrays covariant generic classes em invariant em em em deal unchecked casts defeat entire purpose generics common create generic array type enforced compile time reason runtime compile time checks generics bring table lost point answer question directly href https docs oracle javase tutorial collections rel nofollow collections play em em nicely generics glancing supplied code imagine problems hope youre passing operations expensive linked list 

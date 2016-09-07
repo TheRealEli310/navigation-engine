@@ -1,0 +1,4 @@
+tank game movement 
+making game ran troubles make player isnt allowed implemented diagonally distance axis equal make forced direction changing direction players tank tank passed cases players tank 
+
+code gross current code enemy moving pixel direction frame pixel direction frame makes movement diagonal code sets short term target point enemy tank head direction distance defined move block enemy move passes target point recalculate direction moving enemymove called time frame created times 

@@ -1,0 +1,4 @@
+booktest prints author arraylist isbn 
+strong requirements strong accommodate multiple authors components collection framework requires book isbn collection authors junit guidance testvalidate test cases case book properties hold correct data types empty hold null guidance testequals test cases case authors isbn match test authors teacher told testequals add isbn authors create arraylist add authors create book object add arraylist instance isbn authors printing isbns total newbie loss strong edit addition strong isbn print printing isbn change print matter strong output strong page strong booktest strong strong book strong strong booktest strong 
+
+isbn test class local variable setting values check object created correctly printing book getauthorlist book getisbn 

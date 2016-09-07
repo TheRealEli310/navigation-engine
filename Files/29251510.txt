@@ -1,0 +1,4 @@
+spring oauth oauth token returns war tomcat 
+href https www youtube watch lnjsspvxe1c rel nofollow https www youtube watch lnjsspvxe1c setup oauth spring war application spring release spring security oauth2 release adapt http oauth token returns war kma war request kma oauth token security filters work fine logs dont call tokenendpoint bean remote debugged put breakpoint notice line log match url tokenendpoint bean beginning log web xml kmaappcontext xml security context 
+
+loaded xml files security hit context handle request recommend web xml switching spring boot things working prefer version sparklr2 sample steal href https github spring projects spring security oauth blob samples oauth2 sparklr src main webapp web inf web xml rel nofollow web xml 

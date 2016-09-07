@@ -1,0 +1,4 @@
+meaning local variable hides field 
+part code entire program compiles works local variable hides field lines consecutive lines starting gameboard myboard getgameboard curious means program long run 
+
+means youve variables field class local variable youve declared inside method bad idea variables make code confusing difficult maintain 

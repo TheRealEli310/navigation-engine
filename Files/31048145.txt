@@ -1,0 +1,4 @@
+spark cassandra connector filtering clause 
+facing issues spark cassandra connector filtering cassandra filtering column partition key clause count clause cql query spark range queries 
+
+wondering spark code work thought spark wont partition keys case hood answer question href http stackoverflow questions spark datastax api select statements spark datastax api select statements case cassandra spark connector allowed stack clauses href http docs datastax en cql cql cql reference select html scroll reference ds d35 v2q xj selectin rel nofollow normal rules cassandra cql apply range queries function similar manner 

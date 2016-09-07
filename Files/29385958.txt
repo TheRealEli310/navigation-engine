@@ -1,0 +1,4 @@
+aerospike database design 
+make aerospike database structure scheme scheme fields belong level aerospike doesnt support union join operations designed db 
+
+aerospike supports nested lists amp maps href https github aerospike aerospike client blob master examples src aerospike examples listmap rel nofollow 

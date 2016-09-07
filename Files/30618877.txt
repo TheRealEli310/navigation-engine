@@ -1,0 +1,4 @@
+configure specific sfsb stateful timeout standalone xml jboss 
+jee application sfsb set specific timeout easy access easily configurable annotation sfsb class works expected easily configurable removed annotation xml ejb jar xml works expected ejb jar xml packaged jar ear application deployment question setting standalone xml file jboss 
+
+easy application restart define system property standalone xml recommend cli admin console purpose property values ejb jar xml property values updated web console cli application restarted 

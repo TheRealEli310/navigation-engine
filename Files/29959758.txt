@@ -1,0 +1,4 @@
+setup datatables servlet object array 
+servlet returns collection model bean objects jsp page display data correct average number rows returned database hundred default jquery datatables verify data collection request jsp page originally hard coded values data make datatable setup properly based href https www datatables net examples data sources js array html rel nofollow javascript sourced data datatables site actual data table properly jquery code showing error eclipse error means html datatable code scriptlets loop collection objects add columns rows working main question practice display array objects jsp page datatables based hundred rows data 
+
+code initale datatables ajax call time data jsp scriptlet case dont ajax part needed id event simple initialize statement set id suggest el jsp pages itll save lot headaches easier scriptlet written 

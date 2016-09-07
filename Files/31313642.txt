@@ -1,0 +1,4 @@
+ignoring command incorrect key message console jetty 
+starting jetty server localhost leaving idle half hour repeatedly message ignoring command incorrect key havent accessed site browser starting server port stacktrace pom xml file messages coming jetty generated href https eclipse googlesource jetty org eclipse jetty project 91f6170c40a88c26dd0af863c9f1540c3078a1a6 jetty server src main org eclipse jetty server shutdownmonitor rel nofollow shutdownmoitor href http git eclipse org jetty org eclipse jetty project git tree jetty start src main org eclipse jetty start monitor id 43c9bba86d076cae33f4fa21a3effd127c03ae67 n96 rel nofollow monitor class method loop executed commands issue jetty server idea solve 
+
+conflicting jetty versions environment sections section version em href https dev eclipse org mhonarc lists jetty announce msg00080 html rel nofollow final released version requires btw em 

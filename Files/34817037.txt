@@ -1,0 +1,4 @@
+exception lang numberformatexception input string 
+return query database dont means 
+
+javadoc href https docs oracle javase docs api lang numberformatexception html rel nofollow numberformatexception blockquote thrown application attempted convert string numeric types string format blockquote case space number trim blockquote number blockquote attempting parse number make formatted number 

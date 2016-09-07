@@ -1,0 +1,4 @@
+itextrenderer setdocumentfromstring html causing javax xml transform transformerexception 
+transforming html final html produced render pdf file libraries html render method rendering html pdf error log idea happening 
+
+wrap dtd uri quotes youre unbalanced existing code youre missing 

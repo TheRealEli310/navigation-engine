@@ -1,0 +1,4 @@
+rxjava understand publish unsubscribe work 
+observe strange behavior conjunction folowing examples code output condition totally fine strange thing add output understand condition ps understand check goal understand current behavior 
+
+reacts subscribers consuming source stream completion sole subscribe source running forever call returned connect call case subscriber isunsubscribed true overflow observeons publishs internal queue chain dies triggers unsubscription reaches observable eventually share publish source terminated subscribers observable doesnt respect backpressure prone generally suggest standard operators observable factories rolling observable examples javadoc implement backpressure aware custom observable 

@@ -1,0 +1,4 @@
+powermock issue interfacemethodrefinfo cast methodrefinfo 
+issues execute unit test powermock mockito powermockito mock static method versions add annotation preparefortest graph class error read official powermock google page related javassist bit lost don fix case downloading latest snapshot powermock snapshot work advance 
+
+problem powermock dependency javassist exclude transitive dependency pom include dependency fixed version javassist worked 

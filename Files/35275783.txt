@@ -1,0 +1,4 @@
+gradle checkstyle plugin console output 
+gradle checkstyle plugin produces lot console output gradle run option output swamp output tasks plugin configured problem build launched output shows console edited brevity gradle version checkstyle plugin version reduce suppress console output checkstyle tasks 
+
+temporarily change log level task logging revert back default case task completed 

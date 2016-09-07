@@ -1,0 +1,4 @@
+redraw recyclerview touch event 
+recycleview shows bunch list item selected showing background color blue user select item list color changed blue implement inside recyclerview adapter logic 
+
+call define interface called itemview clicked instantiate adapter answer href http stackoverflow questions doesnt recyclerview onitemclicklistener recyclerview dif doesn recyclerview onitemclicklistener recyclerview listview 

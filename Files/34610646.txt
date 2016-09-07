@@ -1,0 +1,4 @@
+spring boot create jar file target plugin pom 
+reading href http docs spring io spring boot docs current snapshot reference htmlsingle started introducing spring boot rel nofollow spring boot doc blockquote create executable jar add spring boot maven plugin pom xml insert lines dependencies section blockquote main pom includes module db web created multi module project spring boot parent modules pom strong plugin create jar file target folder run command web module base directory strong blockquote mvn clean install spring boot run blockquote missing thing understand comment 
+
+maven href https maven apache org plugins maven jar plugin rel nofollow maven jar plugin build executable file href http docs spring io spring boot docs current maven plugin index html rel nofollow spring boot maven plugin create executable jar case create file check build logs 

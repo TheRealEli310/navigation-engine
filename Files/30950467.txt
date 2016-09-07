@@ -1,0 +1,4 @@
+simple traffic light simulation threads 
+questions states make simple traffic light simulation intersection problem threads bounce back wait notify em inside loop em psuedo code call notify reactivate thread wrong 
+
+program multiple issues conditional variable loop check condition solution classes blockquote mylock lock object blockquote blockquote trafficlightworkerone traffic worker blockquote blockquote trafficlightworkertwo traffic worker blockquote blockquote trafficlightsimulator main class blockquote 

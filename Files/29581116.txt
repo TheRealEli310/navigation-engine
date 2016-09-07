@@ -1,0 +1,4 @@
+parsing itunes xml library xpath 
+create method input track id return track belongs track id required xpath parse xml document turn serialize library sample xml document fairly xpath xml general struggling navigate itunes xml file due complexity massive size thoughts navigate check id track produces null code written greatly appreciated edit mathias llers suggestion produced correct result save track expected input track id returns save incorrect idea thought return track id input returns track edit included xml edit changed xpath expression mathias advice working perfectly 
+
+comment code explain xpath expression assuming input sample shown applying return element select text content result path expression works hr original expression relying position element works minor 

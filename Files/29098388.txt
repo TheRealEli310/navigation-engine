@@ -1,0 +1,4 @@
+decorator design pattern ambigous 
+simple class diagram img src http stack imgur ucuox png alt enter image description question strong strong isnt implements type object decorator classes 
+
+add reference class youre decorating redirect methods instance dont youd repeat code subclasses diagram subclasses override behavior theyre supposed modify 

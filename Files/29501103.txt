@@ -1,0 +1,4 @@
+reflection results hashmap linkedhashmap 
+ill class main method run arbitrarily outputs time place key calling method apparently doesnt ease method call problem overcome issue calling method time reflections stuff shouldnt wrong implement method calling edit result 
+
+javadoc href http docs oracle javase docs api lang class html getmethods blockquote elements array returned sorted order blockquote code assumes element index method dont make assumption find method reflection tool job youre explain higher level youre reflection good idea 

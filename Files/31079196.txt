@@ -1,0 +1,4 @@
+android studio webview problems 
+building application requires local pdf file viewed made android asset required file included br strong directory structure invoice app src main android asset originalinvoice pdf strong br br error open br strong webpage strong br webpage br file android asset originalinvoice pdf br loaded br strong net err file found strong br br strong mainactivity strong br androidmanifest xml br br vaguely aware kit kat fixed vulnerabilities webview application causing problems dont fix br developing api higher br android programming br advance br kevin grout 
+
+webview display pdfs basic approaches viewing pdfs href http stackoverflow questions display pdf app android display pdf app android ol li display webview google docs require internet connection li li fire intent open pdf viewer installed system open play store install li li pdfrenderer view class added lollipop li ol 

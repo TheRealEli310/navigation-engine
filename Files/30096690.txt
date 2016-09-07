@@ -1,0 +1,4 @@
+classcastexception casting object array generic type array 
+code creating bag correctly main strong exception thread main lang classcastexception ljava lang object cast ljava lang comparable mid bag bag mid bag main bag strong 
+
+youre creating cast compiler converting cast raw type due constraint arrays generics dont work terribly nicely basically simpler make field cast individual values 

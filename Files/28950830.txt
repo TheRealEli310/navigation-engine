@@ -1,0 +1,4 @@
+implementing singleton db connection 
+implement singleton db connection correct classes lang nullpointerexceptions error filemanipulation class preparedstatement line conn preparedstatement query conn passed null dont fix db code heres class 
+
+query connection defined class 

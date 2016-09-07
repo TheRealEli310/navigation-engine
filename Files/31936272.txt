@@ -1,0 +1,4 @@
+spring application context xml io filenotfoundexception http www springframework org schema social spring social facebook xsd 
+spring social creating application interact facebook twitter twitter part twitter4j facebook spring facebook hard time exceptions applicationcontext xml 
+
+resolved issue wrong spring dependency correct dependency spring facebook 

@@ -1,0 +1,4 @@
+static injected services junit parameterized tests 
+guice guiceberry inject static legacy service factory class inject factory parameterized junit test issue junit requires method static factory test usage requesting static injection factory method method called guiceberry considered ratings id parameters find reusable solution approach flawed 
+
+solution add class wraps integer create factory return static parameters overloaded method interface accept type inject rating service test directly added factory test 

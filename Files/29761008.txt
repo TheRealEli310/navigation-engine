@@ -1,0 +1,4 @@
+character input validation 
+validate single character application dont user enter character range ignoring uppercase lowercase ideas 
+
+href http docs oracle javase docs api util regex pattern html rel nofollow strong regex strong filter input assert position start string create character range adjascent tokens single character range em case sensitive em single character range em case sensitive em single character range repeat previous token times times assert position end string href https regex101 bz5lt3 rel nofollow strong regex demo strong 

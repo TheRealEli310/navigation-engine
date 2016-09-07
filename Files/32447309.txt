@@ -1,0 +1,4 @@
+xor negative bytes 
+output expecting 
+
+negative numbers calculated twos complement arithmetic xor 

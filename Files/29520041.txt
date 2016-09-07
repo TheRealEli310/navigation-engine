@@ -1,0 +1,4 @@
+alchemy entity extraction retrieve json output 
+running file alchemy api sdk found href https github alchemyapi alchemyapi rel nofollow title programs works fine strong change output format json strong executing code code throws runtimeexception prints console method alchemyapi params file evident code strong acceptable output formats xml rdf strong output json 
+
+solved problem resorting completely approach sdk made http connection endpoint urlgetrankednamedentities api retrieved response code sample demonstrates similar endpoints avaliable apis found href http www alchemyapi api rel nofollow 

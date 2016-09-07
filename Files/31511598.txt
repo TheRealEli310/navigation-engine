@@ -1,0 +1,4 @@
+write hashmap csv 
+method prints list method id csv file output opencsv dont hashmap 
+
+looked supercsv framework built csvmapwriter href http super csv github io super csv examples writing html rel nofollow http super csv github io super csv examples writing html basically define header array maps sorted keyset simply write map 

@@ -1,0 +1,4 @@
+handle pagination page factory 
+table view anchor pane panel children table view pagination pagination directly linked table view put button label updated examples found pagination handles ui updates method shouldnt design dont time change heres current solution acceptable workaround doesnt update ui listeners behavior method page offset clicked paginations arrows paginations numbers 
+
+observe heres sscce 

@@ -1,0 +1,4 @@
+equivalent org springframework ui model spring webflow 
+developing web application spring mvc spring webflow recently realized integrate state flow state add normal jsp page developed spring mvc standard spring controller defining request mapping intercepting request parameters convert logic developed inthis spring controller spring helper flow question equivalent set attributes spring helper flow 
+
+needed create class model object view state bound attributes adding model addattribute hope 

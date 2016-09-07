@@ -1,0 +1,4 @@
+biginteger equals biginteger 
+biginteger class java8 wrote piece code ideally print true output false output false 
+
+checks objects point reference condition recommended primitive types check objects content function href http docs oracle javase docs api lang object html equals lang object rel nofollow return objects content return object references 

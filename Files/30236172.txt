@@ -1,0 +1,4 @@
+liferay maven service builder portlet developer studio 
+liferay platform implement crud liferay portlet liferay ide developer studio creating project values image developer studio img src http stack imgur m7pta png alt enter image description creating project developer studio project liferay project explorer shown image img src http stack imgur vhhin png alt enter image description question project created create strong strong service builder portlet 
+
+liferay maven creates parent project bookserviceportlet liferay assumes build service layer implement portlet access services generated liferay maven creating subprojects parent project service web tier distribute service layer portlets distributing front end code dont front end doubt leave blank bookserviceportlet portlet 

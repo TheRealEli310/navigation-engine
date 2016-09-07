@@ -1,0 +1,4 @@
+method intercepted called 
+code snippet calling method instance intercepted defined parent class defined interception logic work expected interception byte buddy incorrectly 
+
+intercepting method call type interceptor methods intercept case intercept methods declared type easy implement intercept method intercepted declared intercepted type finally source code older version byte buddy version em rc6 em runs stable additional features fixes bugs apis changed 

@@ -1,0 +1,4 @@
+client server username password authentication 
+working client server authentication program ran problem client makes server connection fine type password username doesnt return valid username password user logins username password server supposed return username invalid returns failed login looked printwriter bufferedreader docs make methods pass text server client properly debugging printing username password server client make listening writing print proper username password give insight wrong br br 
+
+flush printwriter server client side end method 

@@ -1,0 +1,4 @@
+limit ram usage eclipse 
+writing program eclipse ide kepler service release causing jvm hog memory dont run ram fan ramps id experiment limiting jvms seemingly godlike power system memory apparently start jvm switch limit amount ram program consume setting eclipse ini file ide limit ram usage program start dev debug mode accomplished 
+
+set vm arguments specific run configuration found run run configurations arguments tab vm arguments xms512 

@@ -1,0 +1,4 @@
+method ifpresent stream 
+behavior present filter stream lets suppose code put kind case present methods stream call 
+
+returns describing element stream empty optional stream empty apply function empty call lambda empty 

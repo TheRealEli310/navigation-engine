@@ -1,0 +1,4 @@
+scheduledexecutorservice shutdown hook 
+executorservice submit runnable shutdown hook called program hangs executors thread daemon expect shutdown hook called idea 
+
+event absolutely shutdown executor task run implement 

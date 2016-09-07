@@ -1,0 +1,4 @@
+test controllers services junit 
+spring mvc controller service testing junit drivers services cover logical conditions end bunch test lines cover logical conditions recommend mockitojunitrunner create classes create configuration beans charge contextconfiguration implement pattern 
+
+testing controllers integration testing suggest href http www luckyryan unit test controllers spring mvc test rel nofollow springs mockmvc href https github jayway rest assured rel nofollow rest assured rest assured action testing services suggest href http mockito org rel nofollow mockito additionally href http hamcrest org rel nofollow hamcrest matchers library assertions tests 

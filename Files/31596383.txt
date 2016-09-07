@@ -1,0 +1,4 @@
+turn jhipster application mobile app 
+turn jhipster application mobile app app html5 phonegap 
+
+means substantial manual effort split server side client side put client side cordova project adapt build process add cors headers server side servlet filter client side assumes decide bootstrap css framework decide mobile framework ionic rewrite views parts controllers feasible experienced angular developer possibility write yeoman generator reads jhipster json format describing entities generate ionic code 

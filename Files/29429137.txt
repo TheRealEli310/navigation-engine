@@ -1,0 +1,4 @@
+edit config file stanford pos tagger 
+tagged simple sentence code output editing properties file doesnt effect changed tag separator output prints model config file eclipse 
+
+load properties file pass constructor maxent set properties object directly nb original properties file fails exception remove attributes 

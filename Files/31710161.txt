@@ -1,0 +1,4 @@
+opengl lwjgl pixel color texture 
+pixel color rgba texture function hard time work dont access pixel coordinate 
+
+heres accomplish set pixels pixel specific coordinate heres algorithm returns object arguments ranging expected 

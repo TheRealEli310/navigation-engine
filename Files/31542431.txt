@@ -1,0 +1,4 @@
+appium run physical device 
+run tests real physical device instrument crashes start error code comment udid simulator launches properly launch launch device connected machine missing simple 
+
+missing ios webkit proxy refer href https github appium appium blob master docs en advanced concepts ios webkit debug proxy md rel nofollow link include full documentation installing running running test start proxy 

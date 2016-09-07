@@ -1,0 +1,4 @@
+jaxrs cxf http headers method parameters 
+retrieve http headers inside jaxrs resource method explicitly headers method parameters interface class implements interface dont change method signature header added interceptor client side client code doesnt put explicit method parameter 
+
+inject object type resource class variable access request headers hope answers question thierry 

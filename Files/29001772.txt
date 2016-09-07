@@ -1,0 +1,4 @@
+roadblock generics jax rs rest services jpa 
+writing rest service exposes relational database layers application ol li persistence layer jpa entities li li ejb layer li li rest layer li ol entity methods implementing generics strong rest layer strong strong ejb layer strong order write code hit road block strong ejb layer strong implementing method entities database type primary key type primary key generic ejb implementation dont write abstract classes rest layer ejb layer primary key type find integer string date rest layer receives primary key url pass ejb layer method automatically convert type forced write abstract classes primary key type side change database 
+
+thinking reflection type field assuming common id field conditionally set pk check generic approach dont field alternatively check annotation fields whichever annotation type parse 

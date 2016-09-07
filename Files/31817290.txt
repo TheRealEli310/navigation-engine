@@ -1,0 +1,4 @@
+string join string concatenation operations 
+quickly read java8 href https docs oracle javase docs api lang string html rel nofollow string api documentation curious string join method concat join strings kind helped understand dont understand performance differences processes greatly appreciated 
+
+relies class href http docs oracle javase docs api util stringjoiner html relies internal build joined string performance wise appending chain nowadays converted operations compiler significance general replacement reverse operation operation makes sense context bunch strings join delimiter replacement build output array list make operation clear readable 

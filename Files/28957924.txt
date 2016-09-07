@@ -1,0 +1,4 @@
+authenticate user logout page 
+cas server encountered issue user clicks logout button application redirects blockquote href https localhost cas logout rel nofollow https localhost cas logout blockquote show user message successful logout remaining parts page login page inputs username password submit button configurations spring security xml file somethings 
+
+gotta add spring security xml uncomment blockquote cas logout followserviceredirects true blockquote cas properties file cas server application hope 

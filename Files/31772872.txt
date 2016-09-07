@@ -1,0 +1,4 @@
+strong immutability weak immutability 
+interview amp list make object immutable ways ways blockquote ensure methods overridden making class final strong immutability making methods final weak immutability blockquote making methods final considered immutable making class final meant strong immutability weak immutability 
+
+href https en wikipedia org wiki liskov substitution principle liskov substitution principle states subclass instance substituted superclass instance expected changing semantics callers point view subclass introduce mutable behaviour violating lsp hand final methods private member variables limit scope altering semantics directly superclass interface hand mutable subclass introduce violations indirectly caller framework doesnt bother cloning synchronisation multi threaded scenarios based immutability assumption major issues applied mutable subclass due semantic change superclass interface 

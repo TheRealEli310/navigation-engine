@@ -1,0 +1,4 @@
+disable logging application logs server log file wildfly 
+migrating application strong jboss strong strong wildfly strong achieve creating application logs expected strong standalone log server log strong file filled application logs strong standalone full ha xml strong configuration suggest option disable application logs filled strong server log strong section standalone full ha xml 
+
+add additional custom file handler logging subsystem application category categories href http stackoverflow questions log application auditing separate file wildfly log application auditing separate file wildfly 

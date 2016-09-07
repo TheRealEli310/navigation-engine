@@ -1,0 +1,4 @@
+spring security preauthorize working 
+facing issue annotation user asked roles secured methods executed controller spring security configuration class referenced base configuration class class checked class authorities logged user alright run code user role method executed fired 
+
+collegues found trick enableglobalmethodsecurity prepostenabled true annotation configuration class strong servlet configuration class strong works 

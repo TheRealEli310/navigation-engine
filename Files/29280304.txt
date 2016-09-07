@@ -1,0 +1,4 @@
+approaches transactions object 
+simple object connected database transactional semantics contrived options jta intended purpose ejb implementing memento pattern object simplest option 
+
+avoid reinvent wheel ul li memory database h2 hsqldb li li define classes transaction behavior jpa entities li li jpa configure persistence xml create structure database automatically jpa entities application startup li li jee environment jta container managed transaction programmatically transactions li ul 

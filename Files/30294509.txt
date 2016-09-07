@@ -1,0 +1,4 @@
+paintcomponent oval appearing netbeans 
+learn draw oval paintcomponent made called attempting call issues program runs successfully image displayed isnt showing 
+
+paintcomponent method method strong override strong accessed inside class extends jpanel create class extends jpanel override paintcomponent method draw oval add jpanel jframe display modified code display oval madprogrammer noted construct gui context edt avoid concurrency issues omit simplicity 

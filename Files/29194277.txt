@@ -1,0 +1,4 @@
+postgis jdbc sql query 
+postgis extension postgresql database work postgis custome build source postgresql jdbc4 jar additional project hibernate configuration irelevant case test code postgis folder run pggeometry successful pggeometry failed difference explicit type column geometry normal wrong configuration normal hibernate generate sql query type casting 
+
+och stupid mistake geography column database geometry type works fine change driverconfig properties add line work geography type geometry type db 

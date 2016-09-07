@@ -1,0 +1,4 @@
+message service jms api service bus amqp 
+execute href https azure microsoft en documentation articles service bus jms api amqp rel nofollow program class found exception included dependency pom file find class file jndi directories local maven repository 
+
+solved downloading jars separately installing maven repository document blockquote href http stackoverflow questions add local jar files maven project add local jar files maven project blockquote adding pom definitions jar installs projects pom xml file 

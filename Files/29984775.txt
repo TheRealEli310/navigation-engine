@@ -1,0 +1,4 @@
+surefire run tests sequence parallel 
+make tests run sequence surefire plugin junit running tests parallel tests hard convert sufficient didnt run parallel part pom xml 
+
+consult href https maven apache org surefire maven surefire plugin examples fork options parallel execution html rel nofollow surefire plugin documentation tests thread annotation solution separate surefire executions explicit href https maven apache org surefire maven surefire plugin examples inclusion exclusion html rel nofollow test inclusions exclusions execution run parallel mode including thread suites thread 

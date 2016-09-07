@@ -1,0 +1,4 @@
+application stopped running android studio 
+customized layout xml file create heres code mainactivity time run galaxy s4 application stopped hope big issue screen shots logcat img src http stack imgur mh8tw png alt enter image description img src http stack imgur usb8y png alt enter image description 
+
+xml layout file layout rows list stacktrace tells linearlayout textview arrayadapter takes single textview layout place show content row layout xml 

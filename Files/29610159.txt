@@ -1,0 +1,4 @@
+combine observable ontextchangeevent observable oncheckedchangeevent 
+learning rxjava rxandroid library retrofit networking retrolambda java8 lambdas app build functionality ul li user type query wikipedia api li li wait typing network call li li show progress indicator app busy fetching result li li progress indicator starts immediately typing finishes result error received li ul working add widget wikipedia query language ill settle switch en nl prefix wikipedia url img src http stack imgur 2lpe5 png alt gui user interacts make observable switch emits thinking combine observable switch flipped basically functionality run current running query running obsolete url prefix change wait start network call work merge question approach proper rx solution expanding approved answer added switchs observable waiting flipped emitting 
+
+href http reactivex io documentation operators combinelatest html rel nofollow combinelatest emit observable observable emits 

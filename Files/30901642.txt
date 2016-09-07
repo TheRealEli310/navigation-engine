@@ -1,0 +1,4 @@
+thread interrupt working android 
+strong edit strong href http stackoverflow thread runnable shown problem figure half times call thread stop terminate catched problem method long network operation guess method interrupted flag reset find statement didnt find mentioned references classes involved method method written method problem throws called entering href http stackoverflow questions calling thread sleep interrupted status set calling thread sleep interrupted status set checked reached interrupt reached datarunnable started interrupted onpause called log 
+
+struggling similar problems past found satisfying solution workaround worked introducing volatile boolean stoprequested member variable set true order interrupt runnable checked condition runnable threads interrupted status unfortunate detail experiences extract small compilable reproduces problem case id interested positive working instance mdatathread verify logging hashcode 

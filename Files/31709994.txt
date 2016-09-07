@@ -1,0 +1,4 @@
+hibernate test jpa hibernate predicate instance 
+written builder class generates instance based conditions write junit test class test query integration tests testing instance generated builder hints ideally test instance digging api found tostring method easiest assuming method generating make sense practice test return output predicate test output recursively instance hoping avoid method hibernate custom implementations 
+
+generates correct jpql criteria query compiler single predicate query makes sense identify correct entity variable examples identify query account create call offer snippet wrote 

@@ -1,0 +1,4 @@
+arraylists arraylist representation relationships 
+values elements row relationship find values relationship put list code creates arraylist elements row separately debugging img src http stack imgur kvxbw jpg alt enter image description 
+
+ill steps define data structures define problem provide solution h2 define data structures h2 ul li vertex vertex unique pair integers href http docs oracle javase docs api awt point html rel nofollow point pretty good fit li li relationship edge defined vertexes write simple pojo sake brevity href http commons apache org proper commons lang javadocs api release org apache commons lang3 tuple pair html rel nofollow pair apache commons lets declare relationships left equivalent line data li ul h2 define problem h2 method takes list relationships spits list lists showing vertex ill return map points keys sets points values h2 solution h2 point background defined finding solution easy em tested em 

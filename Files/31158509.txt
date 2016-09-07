@@ -1,0 +1,4 @@
+generate custom id hibernate primary key table 
+pojo class department id primary key department table entries key dep0001 dep0002 dep003 
+
+response finally department class class generating ids code departmentidgenerator 

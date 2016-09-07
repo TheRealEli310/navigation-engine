@@ -1,0 +1,4 @@
+setting character spacing pdfbox 
+pdfbox library create pdfs fly set character spacing tracking text figure method href http ci apache org projects pdfbox javadoc index html org apache pdfbox util operator setcharspacing html rel nofollow http ci apache org projects pdfbox javadoc index html org apache pdfbox util operator setcharspacing html apply situation appreciated 
+
+hard tc operator isnt supported pdpagecontentstream class setcharspacing method mentioned parsing existing pdfs ps dont forget call close finishing writing content stream 

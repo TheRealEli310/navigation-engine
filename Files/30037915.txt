@@ -1,0 +1,4 @@
+convert char inside string lowercase uppercase 
+string called originalstring sentence mixed upper lower case characters simply flip string character lowercase make upper case vice versa return code returns original string uppercase 
+
+adding characters original string means loop end iteration loop loop infinite loop create stores converted characters youre iterating original string convert return end 

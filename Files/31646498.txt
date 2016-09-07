@@ -1,0 +1,4 @@
+android application force closes screen rotation notification fragment 
+application fragment built runnable timer create notification device time reaches screen orientation app force closes logcat produces attempt invoke virtual method lang string android content context getpackagename null object reference heres full logcat error apparently notifying orientation change attempt invoke method null object reference issue heres call notification method created dont heres onsavedinstancestate code oncreateview greatly appreciated 
+
+orientation activity recreated href http developer android reference android os handler html removecallbacks 28java lang runnable rel nofollow removecallbacks runnable remove runnable doesnt called activity destroyed recreate runnable handler activity created 

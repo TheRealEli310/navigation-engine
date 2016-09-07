@@ -1,0 +1,4 @@
+jackson serialization deserialization dynamic properties fields 
+spring mvc drive api application working serialization api response jacksons faced situation extending number objects support em userdefinedfields udf em shown abstract saas solution multiple clients configuration stored database custom fields goal question respond client udf data require ol li dynamically rename fields udf labels li li remove undefined udf fields client fields li ol abstract response response product extends object finally assuming client sets ul li li li li ul serializing customer result similar 
+
+jackson annotations annotate properties base class wont part response make annotation flatten map hold dynamic properties finally annotation meant jackson deserialization missing part utility class product entity client client idea specific mapper entity client pair entities clients filling map mappers dynamically reading config file reflection read properties entity 

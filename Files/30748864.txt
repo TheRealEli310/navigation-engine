@@ -1,0 +1,4 @@
+libgdx load process texture asynchronously 
+discussions async loading textures assets libgdx libgdx methods async amp sync load data case rely opengl functions main thread gl context synchronously asynchronously load process textures asynchronously loading quickly process process deformation texture requires lot time reason separate threads thread stops main thread sec suppose thread executes inside main thread whats point separate threads libgdx share gl context threads found href https github perpetual mobile sharedglcontextstest rel nofollow libgdx interesting class href https github libgdx libgdx blob master backends gdx backend android src badlogic gdx backends android surfaceview glsurfaceviewapi18 rel nofollow 
+
+ol li share gl context threads li li gdx app postrunnable start thread adds runnable main thread handled frame main thread stops li ol href https github libgdx libgdx wiki threading rel nofollow https github libgdx libgdx wiki threading 

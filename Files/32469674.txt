@@ -1,0 +1,4 @@
+create android button android studio 
+android apps find tutorial explains detail show code create buttons sign sign android correct implement strong activity main xml strong 
+
+edit edited question thing declare buttons instance variables declare methods oncreate inside mainactivity pre edit ill show main activity class layout xml file hr h2 main activity h2 findviewbyid method inherited appcompatactivity class activities extend appcompatactivity class older versions android extended activity class findviewbyid method takes int parameter specifically id reason cast required findviewbyid method assume returns type view casted button hr h2 xml layout file h2 code represented text buttons ways strong strong hard coded string sign strong strong string resource string signuptext good practice change hard coded strings format 

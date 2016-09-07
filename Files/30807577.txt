@@ -1,0 +1,4 @@
+javafx sortedlist stable 
+lets sort list comparators comparator taking precedence simply call sortedlist constructor call comparator clarify lets unordered list objects fields end result achieve list younger students earlier list case group students age sorted order catch restricted comparators case compares students age depending comparator sorting list age la radix sort solves problem sorting algorithm involved stable stable exerts behaviour atkins answer curious stable 
+
+stable checked implantation discovered class named performs sorting method named href https en wikipedia org wiki merge sort rel nofollow stable good cleaner combine comparators href http docs oracle javase docs api util comparator html thencomparing util comparator rel nofollow 

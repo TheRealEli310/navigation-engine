@@ -1,0 +1,4 @@
+mock autowired list spring beans 
+read plenty articles mock springs bean autowired fields find autowired lists beans strong concrete problem strong class called class loop validators implements test class find mock property strong strong singleton mock instances beans hoping reflected success create list annotated initiating manually hoping inject created list success npe thrown thougth mocked concrete implementation called leads bad behavior tests class false positives completly fail figure mock autowired list beans possibility mock specific implementations idea start solution 
+
+finally figured question give approach problems problem linking validators list mocked validators null reference updated avoid iterator problems finaly solution 

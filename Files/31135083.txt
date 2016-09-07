@@ -1,0 +1,4 @@
+pathparam request body web services 
+calling services map data path param request body web services call type post problem form path param scenario path param departmentnumber departmentsnumber departmentname request body addrequest removerequest case valid case addrequest removerequest values object missing departmentnumber departmentsnumber departmentname department map values form pathparam request body values call 
+
+dont work explain resteasy jax rs reference correct resteasy form annotation blockquote object incoming outgoing request responses param annotations fields methods parameter unmarshall request marshall response depending youre server side jax rs resteasy client framework blockquote case pathparam fields parameter populated form type parameter match strong request body strong case arrays pathparam path params ignoring annotation 

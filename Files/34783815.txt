@@ -1,0 +1,4 @@
+recursive mergesort arraylists 
+problem mergesort function sort series integers strings inputting program class calls items simply doesnt sort numbers strings methods dont problem numbers randomly inputted code 
+
+blockquote class calls items simply doesnt sort numbers strings methods dont problem blockquote problem call method wont sort call appart point dont youre implement merge sort algorithm top bottom implementation youre splitting inside merge method odd easier provided pseudo code call method imho real issue algorithm fact merge sort algorithm simple implement illustrate wrote href https en wikipedia org wiki merge sort top implementation merge sort algorithm objects ways prettier imho absolutely implementation implementation work hope helps 

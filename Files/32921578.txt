@@ -1,0 +1,4 @@
+lang nullpointerexception selenium testng 
+yesterday test works bust testng appeared problem main class leadtest class leadspage problem part error works becouse place nametofind variable dont wrong 
+
+driver variable initialized call findelement method null object confirm print driver exception thrown noticing gotoleadspage findleadbyname functions class leadspage objects dbp ldsp work leadspage class change findleadbyname function class leadtest call function findleadbyname 

@@ -1,0 +1,4 @@
+flood fill issue 
+write flood fill algorithm color pixels image inside black borders wrote based posts doesnt work expected test image img src http stack imgur 6patw png alt enter image description random rectangles recolored depending clicked clicking purple rectangle recolor purple rectangle clicking inside purple rectangle recolors green rectangle checked passing parameters method issue inside loop 
+
+algorithm correct input parameters blockquote random rectangles recolored depending clicked clicking purple rectangle recolor purple rectangle clicking inside purple rectangle recolors green rectangle blockquote picture colored rectangles random real problem incorrect coordinate specifically coordinate inverted time libgdx lower left coordinate system case top left simple fix invert 

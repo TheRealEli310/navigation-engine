@@ -1,0 +1,4 @@
+file generated jaxb complete missing end tags 
+jaxb spring oxm generate large xml files transactions processing multiple threads working fine wired issues generated xml corrupted tags closed properly generate files mount drive solaris nfs didnt errors server log dont clue start investigations encountered issue 
+
+case fileoutputstream filewriter flushed closed properly marshal 

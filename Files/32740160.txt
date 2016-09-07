@@ -1,0 +1,4 @@
+annotations transform dto entity byte buddy 
+simple entity user dto achieve show avoid multiple classes transformers classes expensive consumes annotations transformation byte buddy read annotations create class transformer decompiled code strong update strong rafael winterhalter 
+
+answer question byte buddy create instances implement method implement instance recommend users byte buddy performance work majority cases true case implemented classes cache classes mapping class generation costs significant share maintain transformer caches objects reflection api href https gist github raphw 881e1745996f9d314ab0 rel nofollow reflective lookups expensive part operation reflective invocation problematic reuses previously looked values gain performance dragging code generation complex element application 

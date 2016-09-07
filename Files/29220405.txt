@@ -1,0 +1,4 @@
+apache httpclient android dealing connection refused 
+working intentservice httpget server retrieve json string code works aslong server problem server deal properly unclear documentation return proper response throw ioexception clientprotocolexception doesnt trace back code app crashes suggestions heres full stack trace edit guess isnt related server refuse connection reason question remains deal properly app crash 
+
+type handling properly throw exception return meaningful error 

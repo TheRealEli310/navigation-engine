@@ -1,0 +1,4 @@
+method stateless pagination cassandra 
+lets assume web service method returns set records web page method parameter paging number feed number results page number stackoverflow href https stackoverflow questions page url parameter viewing questions achieve cassandra records sorted clustering key 
+
+href http datastax github io driver features paging rel nofollow page doc dropdown top left corner switch driver version short cassandra supports saving state previous page restart page offset queries start random page supported box ways emulate provided accept performance hit basically skipping results time 

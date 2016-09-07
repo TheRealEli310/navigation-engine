@@ -1,0 +1,4 @@
+spring rest return unauthorized json 
+spring application development utilizes ui restful apis send receive json post requests api request validated token request action completed boolean returned problem boolean false token valid return error end user returning list converted json return error end user 
+
+change return type recommend pass proper json error response client parse required 

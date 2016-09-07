@@ -1,0 +1,4 @@
+decode read decoded message 
+socket server app created packetfragmenter reads packets length byte packet send packet back pipeline code wrote stack tests everythings playing packets row nicely spliced handler job dont handle exception ignore simple thing fix netty expert started week ago easy fix found nettys user guide 
+
+fixed fact lengthfieldbasedframedecoder extend bytetomessagedecoder 

@@ -1,0 +1,4 @@
+gson detect type mismatch deserialization 
+converts json class object suppose json data class json deserializes defined call parse json data convert object problem suppose data isnt typed calling json fromjson words deserializing class object gson silently thinks asdasd false throwing exception type mismatch noticed throws exception thrown suppose number quote fields json object doesnt detect text true false fields json object detect json object strings true false fields 
+
+gson convert json values false make conversion strict registering deserializer 

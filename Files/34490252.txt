@@ -1,0 +1,4 @@
+timeout publishing aws lambda sns 
+publish data sns lambda function call doesnt working function code call results timeout seconds lambda invocation fails comment sns publishing part log data received dynamodb works fine sns publishing code added times timeout message logged cloudwatch proper permissions place publish sns code running pc result missing 
+
+people commented question answering ill answer increasing memory usage mb timeout seconds solved issue 

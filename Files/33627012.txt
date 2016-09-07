@@ -1,0 +1,4 @@
+mybatis generate sql database backend 
+mybatis spring spring4 create web application main data storage mysql production environment memory database h2 unit testing mybatis works mysql h2 testing production problem day query mysql syntax error unit testing h2 hasnt supported result unit testing totally broken mybatis handle situation type database differs testing production support sql grammar identical mapper file 
+
+mybatis multi db vendor support structure sql differently depending database vendor wrap problematic code test relevant pieces documentation href http www mybatis org mybatis dynamic sql html multi db vendor support rel nofollow href http www mybatis org mybatis configuration html databaseidprovider rel nofollow 

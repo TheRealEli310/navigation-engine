@@ -1,0 +1,4 @@
+android null pointer exception iinappbillingservice getskudetails 
+run android code nullpointerexception line calls getskudetails doinbackground method getitemlist class step debugger parameters getskudetails values pname empty string queryskus items exact error message attempt invoke interface method android os bundle android vending billing iinappbillingservice getskudetails int lang string lang string android os bundle null object reference heres log 
+
+happening instance connection class takes time connect connection established remains null fix code 

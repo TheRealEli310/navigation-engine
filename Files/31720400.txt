@@ -1,0 +1,4 @@
+configure spring boot app continue resteasy 
+web application pure servlet spring run fat jar app lot rest services dont modified code br configure spring boot app continue resteasy 
+
+wasnt difficult simply rewrote configuration web xml spring annotations 

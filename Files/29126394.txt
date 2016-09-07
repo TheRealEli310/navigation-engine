@@ -1,0 +1,4 @@
+static variables preserved multiple app instances 
+discovered apparent gap android understanding em appears em static class variables preserved invocations app em expected em diligent search stackoverflow find mention experiment code initial activity exit app finish restart mycount incremented surprised expected behavior br lectures evils static variables 
+
+blockquote expected blockquote depends invocations app lets suppose single activity application manually execute pseudo code assuming significant delays loop processing maintain process entirety loop static data members exist lifetime static data members lifetime process href http developer android guide components processes threads html lifecycle rel nofollow control process 

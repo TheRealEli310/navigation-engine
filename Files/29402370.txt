@@ -1,0 +1,4 @@
+system arraycopy clone method 
+array objects overridden method func copy element method makes shallow copy 
+
+create shallow copy original array dont copy clone contained objects copy objects hand simple loop objects elegant solution provided 

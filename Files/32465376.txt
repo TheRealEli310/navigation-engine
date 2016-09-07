@@ -1,0 +1,4 @@
+dbunit error missing beans dbunitdatabaseconnection datasource 
+dbunit multiple databases loading configuration files projects foo configuration file bean bar configuration file bean project test file run test throws error isnt dbunit finding connections 
+
+database configurations defined found dbunit default placing configuration test class solve problem info href http springtestdbunit github io spring test dbunit rel nofollow spring test dbunit 

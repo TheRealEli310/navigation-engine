@@ -1,0 +1,4 @@
+setinitparameter setattribute servletcontext 
+define em context visib em parameter runtime wouldnt init parameters defined deployment descriptor suppose ol li approach correct case li li method called em init parameters em defined em web xml em file setting em context parameters em owning li ol 
+
+ol li approach correct correct youre javadoc youll li ol blockquote illegalstateexception servletcontext initialized blockquote context started wont call method ol start li introduced servlet introduces annotation based config alternative xml config assume method added annotation based config populate init params method call li ol 

@@ -1,0 +1,4 @@
+mouseentered exited fired hovering adjacent nodes 
+instances adjacent img src http stack imgur xsavs png alt enter image description notified picked node mouse entering exiting red blue node moving mouse black colored boxes correctly triggers mouse entered event vice versa red blue black fires mouse exited event moving mouse red directly blue blue directly red trigger events missing 
+
+add add notified leaving entering event changing element inside element 

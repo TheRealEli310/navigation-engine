@@ -1,0 +1,4 @@
+check parent directory exists 
+check parent directory created creating file directory file exists checks file obj created parent directory parent path 
+
+return true parent exists false 

@@ -1,0 +1,4 @@
+gridfsinputfile gridfs add file mongodb 
+developing application user add comentary attach file simple form ui case time optional add file obligatory add comentary case user add file comentary code code works user doesnt add file return nul obtain list comments file attachment 
+
+thing missing empty input stream file attachment fairly easy fix shell bytestream empty chunks collection objects expected grab object add real content 

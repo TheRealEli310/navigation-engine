@@ -1,0 +1,4 @@
+difference util objects equals google common base objects equals 
+reason guava istead util implementation 
+
+method exist guava version predates reason guava version 

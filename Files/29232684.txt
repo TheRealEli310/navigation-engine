@@ -1,0 +1,4 @@
+signing encrypted pdf document pdfbox 
+sign encrypted pdf document signature allowed br document href http www etsi org deliver etsi ts ts 102023v010201p pdf rel nofollow encrypted pdf document br pdfbox sample code href https svn apache org repos asf pdfbox trunk examples src main org apache pdfbox examples signature createsignature rel nofollow createsignature exception br dont pass document signing allowed img src http stack imgur lta0p png alt document restrictions summary sign document 
+
+fixed pdfbox rc3 released today answer gleb meant correct due reasons written issue href https issues apache org jira browse pdfbox rel nofollow https issues apache org jira browse pdfbox solution problem reads saves file longer signing problem encrypt method initially encryption key aes256 internal encryption key random component user keys api 

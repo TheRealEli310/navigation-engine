@@ -1,0 +1,4 @@
+testng itestcontext getincludedgroups returns null 
+tests test groups run set data dataprovider itestcontext inside nullpointerexception code 
+
+ul li directly run testng class call dataprovider groups information groups call class testng xml groups info itestcontext li li call class class parameterbyitestcontextindataprovider testng xml li ul sample xml 

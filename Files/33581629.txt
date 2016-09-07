@@ -1,0 +1,4 @@
+inserting data gridpane fxml file 
+fxml button fxml gridpane controller main idea pressed button insert data gridpane show fxml fxml share controller feel root problem dont solve 
+
+controllers compiled class implement code object hierarchy defined fxml define methods manipulate ui elements called classes case define controller create method responsible adding elements grid method called responsible loading updating href https docs oracle javase javafx api javafx fxml fxmlloader html rel nofollow fxmlloader helps instance controller referenced fxml controllers fxml file fxml button lets call controller responsible loading sencond fxml fetching controller instance call method gridpanecontroller class logic updating set gridpane include parameters method fxml special controllers strong grid fxml strong strong main fxml strong 

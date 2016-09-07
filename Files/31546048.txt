@@ -1,0 +1,4 @@
+migrating joda time datetime 
+find alternative write code 8s datetime library closest prints br 
+
+time formatted string oclock today dont bother calculating time manually write format pattern meaning letter found href https docs oracle javase docs api time format datetimeformatter html rel nofollow javadoc fixed string wont parsed added returned string formatted time output blockquote 21t10 blockquote 

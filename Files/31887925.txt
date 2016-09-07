@@ -1,0 +1,4 @@
+call array images 
+assigned problem display javafx random cards refresh button shuffles displays cards problem stems display cards show display images consulted textbook figure path solving problem consulting classmate deck card images source file peers suggestion project 
+
+heres modified version code ul li load images li li create imageview nodes put hbox li li refresh code shuffle list assign images existing imageview nodes li ul code 

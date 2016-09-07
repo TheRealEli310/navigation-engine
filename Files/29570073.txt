@@ -1,0 +1,4 @@
+parameters post request 
+handle incoming post requests working partly receive requests extract parameters values request code receiving requests aware class called class doesnt exist eclipse btw find classes make work basically achieve receive data post request send back client hope 
+
+servlet container tomcat study servlets extends httpservlet post method post username parameter post jsp 

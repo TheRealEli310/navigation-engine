@@ -1,0 +1,4 @@
+appium espresso automated testing framework 
+weeks android testing yesterday decided shift automated testing couple reasons making shift ul li scale automated testing lot features present appium li li latest testing framework android nice backward compatibility li li small api easy customize li ul reading href https google github io android testing support library docs espresso index html rel nofollow espresso dont find great compare appium couple points understand understand shift testing framework good future missing bigger picture greatly appreciated 
+
+ol li shifting espresso supports testing activities app camera browser dialer appium support li li espresso test toast message auto complete dialogs app li li espresso test suit find code coverage measure testing efforts li ol 

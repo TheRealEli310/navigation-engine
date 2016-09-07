@@ -1,0 +1,4 @@
+android service context builder 
+read android developer didnt understand completely ideas context builder service relate didnt general purpose idea 
+
+class configures returns instance term em builder em refers strong builder pattern strong suggests em em em em feature framework component performs operation requiring front facing ui provide instance blockquote relate blockquote perform action related google play services android 

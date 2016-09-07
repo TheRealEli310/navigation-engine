@@ -1,0 +1,4 @@
+error google play services read failed eperm operation permitted 
+logcat error error code register device asynctask havent changed 
+
+read logs pretty clear whats problem strong missing required permission needed gcm strong blockquote caused lang securityexception allowed start service intent act google android c2dm intent register pkg google android gms extras permission google android c2dm permission receive blockquote inside androidmanifest xml add make gcm receiver registered service 

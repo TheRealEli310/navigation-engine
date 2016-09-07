@@ -1,0 +1,4 @@
+dynamic router uri apache camel 
+chapter camel action book testing dynamic router defined routes dynamicrouterbeans route method implemented route logic code works book issue recognized return endpoint uri double slash middle route method condition check previous equals seda fail dynamic route stop feature camels dynamicrouter require addition middle uri search book camel official website mentioned reason 
+
+endpoints camel formatted double slashes compare book 

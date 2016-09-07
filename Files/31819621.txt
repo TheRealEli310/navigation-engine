@@ -1,0 +1,4 @@
+maven dependency entry wildfly ejb standalone client 
+writing standalone client ejb application deployed jboss wildfly final documentation reviewed suggests readme file readme ejb jms txt wildfly directory file contained suggestion maven dependencies error version required modified dependencies run mvn clean install error full output mvn clean install shown dependencies 
+
+works fine 

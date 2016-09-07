@@ -1,0 +1,4 @@
+connect db process jdbc datasource 
+writing application apache camel jdbc datasource apache commons dbcp create connections connections handled oracle client process sessions table question connect application oracle processes improve performance technologies interesting 
+
+oracle change db propeties dedicated shared share processes users recomended give performance creation multiple datasources reduces performance 

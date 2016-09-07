@@ -1,0 +1,4 @@
+configure velocity template engine eclipse 
+velocity template engine created dynamic web project eclipse required jar files amp lib folder configured created servlet vm file execute project errors solutions errors share complete steps configuring velocity template engine eclipse 
+
+maven easy adding dependency main site velocity blockquote jumpstart application simply include strong velocity jar strong classpath includes classes velocity engine exclusion examples include jars lib subdirectory blockquote 

@@ -1,0 +1,4 @@
+import hive sqoop io error 
+sqoop import sql server table hive connection string working correctly import failing output error import hdfs issue 
+
+issue turned column called text causing error fixed renaming column 

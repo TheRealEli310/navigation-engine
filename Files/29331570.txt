@@ -1,0 +1,4 @@
+jvmti usage javavm parameter agent onload javavm char void 
+working jvmti time href http docs oracle javase docs platform jvmti jvmti html onload rel nofollow jvm tm tool interface documentation questions find javavm parameter em environment em calling getenv purpose find documentation javavm class parameter blind point direction explainations documentation tutorials typical code parameter useage 
+
+structure part href https docs oracle javase docs technotes guides jni spec invocation html rel nofollow invocation api functions ul li getenv li li destroyjavavm li li attachcurrentthread li li attachcurrentthreadasdaemon li li detachcurrentthread li ul 

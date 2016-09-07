@@ -1,0 +1,4 @@
+liferay serviceutil localserviceutil difference 
+whats difference utils read question official liferay forums clear read parts explanation exact complete clear explanation difference 
+
+liferay em local em services typically work permission checks theyre local access remotely fact pierpaolo states comments theyre jvm appserver em remote em services services typically implement similar interface execute permission checks delegate actual execution local services return data caller dont distracted remote part services call locally local interface local services call local services youre dont permission checks practice implement permission checks remote services 

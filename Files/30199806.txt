@@ -1,0 +1,4 @@
+https connection ssl certificate error 
+ssl certificate obtained startssl apache server connection browser fine application exeption blockquote exception thread main javax net ssl sslhandshakeexception sun security validator validatorexception pkix path building failed sun security provider certpath suncertpathbuilderexception unable find valid certification path requested target blockquote dont understand problem browser ssl green label 
+
+problem trusting certificate import javas strong changeit strong default truststore password certificate imported truststore provide alias import method quote href http stackoverflow questions digital certificate import cer file truststore file 

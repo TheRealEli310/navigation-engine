@@ -1,0 +1,4 @@
+javafx gridpane calculating incorrect column width 
+expected gridpane calculates columns default width maximum preferred width elements column code calculate small width resulting labels column cut heres cashflowform fxml set stage setting size calculate size result href http stack imgur jku6p png rel nofollow img src http stack imgur jku6p png alt enter image description column small fully show anmerkung label fix ps side question cares noted box added space filler labels fields buttons displayed white vertical line closely box thing starting javafx counterpart swings box createverticalglue pps asks fxmlloader code javafx fxml fxmlloader custom utility class 
+
+found setting label fixes infinity resolves region control pref size dont neccessary preffered size default behaviour column sizing gridpanes documentation kind hack solves problem 

@@ -1,0 +1,4 @@
+validate android device token 
+push notification services remove invalid android device token server database validate token gcm service advance 
+
+send gcm message gcm connection server http ccs registration token call device token validate invalid youll error response 

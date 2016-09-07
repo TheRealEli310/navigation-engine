@@ -1,0 +1,4 @@
+jasperreports jrdesigntextfield setfont jasperdesign getfontsmap deprecated removed 
+set font jrdesigntextfield object jasperreport jasperdesigns getfontmap upgrading jasperreports setting font jrdesigntextfield fontmap jasperdesign flagged deprecated digging bit workaround adapt code correct problem divided ul li fontmap jasperdesign object li li setting font jrdesigntextfield ill fontmap li ul proposed problem correct 
+
+solution proposed feasible style details font size master template designing templates textfield code 

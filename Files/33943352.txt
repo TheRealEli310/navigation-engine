@@ -1,0 +1,4 @@
+spring spel set property null 
+spring set property passed null doesnt work add property null add dont add default 
+
+set default null set false set 

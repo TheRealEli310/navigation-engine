@@ -1,0 +1,4 @@
+stream operated 
+href https docs oracle javase docs api util stream package summary html api blockquote traversal pipeline source begin terminal operation pipeline executed blockquote code throws blockquote lang illegalstateexception stream operated closed blockquote filtering operation api supposed operate stream 
+
+ignoring return href https docs oracle javase docs api util stream stream html filter util function predicate rel nofollow returns em em consisting elements stream match predicate important stream operated filter added wasnt quoting href https docs oracle javase docs api util stream stream html rel nofollow javadoc blockquote stream operated invoking intermediate terminal stream operation blockquote case intermediate operation operated stream instance code work fine hr noted brian goetz commonly chain calls 

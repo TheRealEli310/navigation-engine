@@ -1,0 +1,4 @@
+lang unsatisfiedlinkerror ndk android studio gradle 
+folder structure build gradle android mk jni unsatisfied error local properties generating files 
+
+youve mistakes build gradle task relevant technique early versions gradle android plugin shouldnt lead bugs remove task put files inside directories abi armeabi v7a x86 properly integrated inside apk set deactivates built ndk integration gradle plugin make gradle libs fine youre defining ndk module block useless remove youve cleaned parts call youre windows command line root android project generate files inside integrated apk told gradle libs check files integrated opening apk zip file files present 

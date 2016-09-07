@@ -1,0 +1,4 @@
+print values 2d arraylist matrix 
+2d arraylist matrix error occurs system println line print values arraylist matrix suggest method 
+
+matrix numbers stored matrix element means dimensions represented code dont ways achieve dimensions constructs external library h1 array numbers h1 array easy understand construct lets start code declares array type initializes rows columns partially fills numbers long access element initialized youll access element hasnt initialized bad h2 initialize array h2 thing initialized array rows columns h1 nested arraylists h1 array fine realize declare initialize outer create finally give h1 summary h1 arrays prefer initialize correctly accessing elements initialize depends data structure choose h1 codes h1 

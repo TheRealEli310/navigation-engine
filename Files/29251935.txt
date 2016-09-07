@@ -1,0 +1,4 @@
+hibernate override entity getter add annotations 
+override getter entity object db column defined superclass add additional annotations class common attributes entities class extends person defines database table table class strategy serialize class xml add additional annotations getters overriding problem run code hibernate duplicate property mapping found employee hibernate getter employee duplicate overriden annotation 
+
+adding overriding property 

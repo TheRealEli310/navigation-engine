@@ -1,0 +1,4 @@
+liquibase memsql 
+manage database migrations difference memsql command compared mysql causing problem running command liquibase giving error blockquote feature foreign shard key sharded table supported memsql blockquote control liquibase add word shard foreign key make foreign shard key memsql configure foreign keys shard keys dont add shard keyword command 
+
+memsql added table created converting foreign shard key relationship wont work case solution work changing create ordinary index foreign key 

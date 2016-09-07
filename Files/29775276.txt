@@ -1,0 +1,4 @@
+designing objects magento json 
+raw json string returned magento rest api call pre class lang json prettyprint override construct pojo time classes parsing result suspecting class format wrong suggest whats format number beginning set automatically generated magento 
+
+doesnt work default gson expects field named order default deserialization easiest strong necessarily strong solution simply pre class lang prettyprint override adding field mapping gson output instance write href https google gson googlecode svn history r1298 trunk gson docs javadocs google gson stream jsonreader html rel nofollow custom deserializer customers class modify output magneto add surrounding hr strong strong em em generate type internal gson class 

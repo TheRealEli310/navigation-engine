@@ -1,0 +1,4 @@
+convert japanese date western date 
+methods intialize string result convert date back western date format yyyy mm dd figure 
+
+formate locale japanese format default option convenience refer documentation href http docs oracle javase docs api text dateformat html rel nofollow http docs oracle javase docs api text dateformat html br output refer previous ideone answer href http ideone 0w7szq rel nofollow ideone 

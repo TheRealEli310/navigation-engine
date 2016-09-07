@@ -1,0 +1,4 @@
+sorting strings collections sort 
+attempting sort strings collection sort method issues understanding logic implementation issues implementation sort alphabetically apple orange 
+
+href http docs oracle javase docs api lang string html rel nofollow implements implemented em lexicographical em comparison words default default sufficient href http docs oracle javase docs api util collections html sort 28java util list rel nofollow variant takes comparator account simply hr implementation shouldnt cast back string compare operator implementation strong recursive strong em em characters equal doesnt equal em se em instance implement complex comparator 

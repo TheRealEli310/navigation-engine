@@ -1,0 +1,4 @@
+shell script jar file 
+application based spring boot structure build maven single jar file public folder html files make shell script starts web server add path start folder isnt server crashes find folder make script refer folder current path 
+
+working putting answer simplest runs process subshell line bash script omit small braces reason braces avoid changing directory case source file simply simple script job 

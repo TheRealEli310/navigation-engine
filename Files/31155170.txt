@@ -1,0 +1,4 @@
+javafx editable combobox issues getvalue 
+issues wrapping head returns eclipse issue combobox fill integers set editable problem store variable lang classcastexception lang string cast lang integer runtime store eclipse compile error type mismatch convert integer string compiler tells integer store integer workarounds storing values variables datatypes theyve similar errors 
+
+href http docs oracle javase javafx api javafx scene control combobox html rel nofollow documentation blockquote combobox editable default means allowing user input textfield string converter property provided developers translate users string object type property default converter simply returns string input user typed assumes type editable combobox string type combobox editable custom stringconverter blockquote basically editable editor supplies editable combo box type supply convert string text field type vice versa 

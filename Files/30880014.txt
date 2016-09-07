@@ -1,0 +1,4 @@
+absolute path file 
+bufferedimages necause eaier loading bit finiky absolute path load src package image png export runnable jar doesnt work code works inside eclipse reason doesnt work export jar contents text txt exported jar contents text txt project 
+
+understand correctly package image png file read inside jar file problem path locate file projects url location file ill give jar file images folder images png create imageicon check read file url edit read file works wrap inputstreamreader stuff image 

@@ -1,0 +1,4 @@
+multiple runs jar file affect 
+jar linux machine jar runs start jar args means instances application running time application hits db actions file system creating files folders problem jars running creating files folders file system effect means folders saved wrong place instances application complete folder structure problem jvm programmatic problem call start jars 
+
+instances jar run isolated jvms execution jar doesnt impact filesystem concerned write location processes time 

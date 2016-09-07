@@ -1,0 +1,4 @@
+gradlew bat automatically run tasks 
+wondering gradlew bat gradle wrapper automatically run tasks test jacocotestreport putting lines gradle test execute area gradlew bat told gradle command sidequestion created gradle wrapper files scripts jar properties file files diffrent computer doesnt gradle execute gradlew bat build successful creating empty gradle folder supposed happen lack documentation makes hard read lot official gradle documentation helping bit googled bunch default gradlew bat file build gradle file 
+
+href https docs gradle org current javadoc org gradle api project html setdefaulttasks util list rel nofollow build script youd add 

@@ -1,0 +1,4 @@
+gracefully handle kafka outage 
+connecting kafka kafka clients library successfully connect kafka handle failure gracefully kafka configuration kafka error logs error repeats infinite loop locks application configuration settings related timeouts retries acknowledgements unable prevent loop occurring configuration setting prevent version client kafka outage handled gracefully 
+
+figured combination settings kafka client fail quickly holding thread spamming logs dislike kafka client holds thread connect kafka server fully async functional 

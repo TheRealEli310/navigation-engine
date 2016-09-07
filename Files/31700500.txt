@@ -1,0 +1,4 @@
+netbeans org apache commons io fileutils 
+specifically method downloaded extracted files added pathname netbeans project folder didnt compile make program compile 
+
+click project properties library compile tab add jar folder select jar file href http stack imgur lm6ej png rel nofollow img src http stack imgur lm6ej png alt enter image description 

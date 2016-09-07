@@ -1,0 +1,4 @@
+start stop fragment programmatically 
+implement feature toggle osgi means start stop bundles programmatically plug ins easy fragments easy stopping work fragment good install dont correct location fragment problem facing fragment contributing eclipse extension points stopping host plug remove services reason stop fragment manually clear stupid eclipse cache screwing applications install fragments runtime 
+
+fragments life cycle part life cycle host bundle means start stop independently host background bundles fragments life cycles advise read osgi specification downloaded href http osgi org rel nofollow http osgi org website 

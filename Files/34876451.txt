@@ -1,0 +1,4 @@
+submit spark application jar 
+stated title wondering spark submit jar datastax enterprise cassandra spark watched videos href https academy datastax courses started apache spark ds320 datastax enterprise analytics apache spark connecting spark remotely application running nodes dse connect spark spark shell days connect spark code giving code result connecting change spark master ip spark local ip config variables success found articles submiting jars spark find proof spark submit interactive shell ways spark articles grateful give tip 
+
+greatly recommend dse required easier ensuring security class path options set dse work cluster simpler approach opinion configuring sparkconf placing jars executor class paths dse automatically route application correct spark master url simplifying setup manually construct sparkconf map spark master output equivalent version dse 

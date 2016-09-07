@@ -1,0 +1,4 @@
+akka start access actors returned data 
+actor initializes send messages expecting result back child actors basically build model data actors arrived access higher level class initialized ms tasks returned data ms time ms tasks abandoned interested data access tasks time outed questions ol li limit execution ms future access data partially actor li li access data actor highest level time push data higher level extending sending messages higher level create initialize exception method invoke method send message actor starts job response back extending overriding method anymore li ol 
+
+akka based message passing data actor send message actor reply send message fortunately akka helper called lets send messages actor receive reply send message helper actor hierarchy instantiated reply data href http doc akka io docs akka untyped actors html send receive future rel nofollow http doc akka io docs akka untyped actors html send receive future 

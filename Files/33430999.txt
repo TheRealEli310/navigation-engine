@@ -1,0 +1,4 @@
+add groovy scripts project classical maven structure 
+maven project usual structure generated spring boot project creator add groovy scripts ol li access functionality implemented scripts li li sufficient run groovy scripts ide dont intend package distribute li ol intellij idea community edition incl put groovy scripts order write execute groovy script ide access class depends libraries managed maven encoded 
+
+made href https github mikematusiak mavengroovyspringboot rel nofollow repo case started spring boot added things groovy code run tested idea community edition recent version bundle maven ways achieve ol li add dependency pom xml dependencies section dependency groovy li ol create run configuration groovy scripts ol start li test source folder idea maven add plugin em build helper maven plugin em pom xml section li ol test clone href https github mikematusiak mavengroovyspringboot rel nofollow repo import idea maven project 

@@ -1,0 +1,4 @@
+illegalblocksizeexception aes ecb pkcs5padding decrypt byte array 
+understand aes encryption blocks impression padded byte array achieve code strong cipherutils strong strong main program strong file encrypted function cipherutils written file update building android gradle 
+
+managed work jonskeets answer pointed shouldnt method amp faster write file iterating byte comments changed encryption cbc mode random iv 

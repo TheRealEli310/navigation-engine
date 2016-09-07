@@ -1,0 +1,4 @@
+migrate cxf 
+cxf version changed version version cxf integrated spring framework application fixed compilation error interceptor class changed deployed tomcat fails error cxf context file imported spring context file 
+
+duplicate href https issues apache org jira browse cxf rel nofollow https issues apache org jira browse cxf check class path conflicting libraries 

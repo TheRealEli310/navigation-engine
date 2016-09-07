@@ -1,0 +1,4 @@
+hikaricp connection error 
+hikaricp mariadb database error initialize strong caused mysql jdbc exceptions jdbc4 communicationsexception communications link failure strong mariadbdatabase class database class pom xml 
+
+dont set datasourceclassname jdbcurl mutually exclusive simplicity recommend jdbcurl 

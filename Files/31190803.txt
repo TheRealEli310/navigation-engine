@@ -1,0 +1,4 @@
+libgdx box2dlights throws error render 
+box2d pointlight render screen rendering throws exception revised api box2d user manual watched videos topic find solution problem code error error 
+
+issue newly generated libgdx project updating box2dlights version solved error 

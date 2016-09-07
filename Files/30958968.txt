@@ -1,0 +1,4 @@
+spring framework unable start embedded container 
+spring action 4th edition chapter stuck eclipse luna project structure img src http stack imgur sju3n png alt project structure run project spring boot app throws exceptions fix problem contents files spittrapplication spittrwebappinitializer webconfig rootconfig homecontroller home jsp pom xml 
+
+spring boot include spring dependencies directly rely boots dependency management provided starters needed libraries included matching version including artifact pom xml pre class lang xml prettyprint override dedicated boot starter webapps pre class lang xml prettyprint override details href https spring io guides gs spring boot maven rel nofollow official guide hr em parts pom xml superfluous spring boot starter javax servlet api spring boot maven plugin em 

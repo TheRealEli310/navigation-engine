@@ -1,0 +1,4 @@
+cxf webservice client ignores ssl configuration http conf tlsclientparameters 
+establish ssl connection cxf client webservice proof concept running test springjunit4testrunner spring config client cxf pick configuration logs startup ssl connection fail sun security provider certpath suncertpathbuilderexception unable find valid certification path requested target keystore certificate chain correct execute test command line passing arguemnts keystore truststore works fine ssl connection work conclusion cxf ignoring tlsclientparameters greatly appreciated edit remove taskexecutor issue remains logs 
+
+port qualified namespace http conf conduit attribute check href http cxf apache org docs schemas namespaces html rel nofollow apache cxf documentation 

@@ -1,0 +1,4 @@
+netty eventloop combine operations 
+href http normanmaurer presentations facebook eng netty slides html rel nofollow suggestion combine operations underlying channels eventloop execute provided write operations assumption write operations asynchronously thread eventloop provided netty execute multiple operations eventloop channel assigned operations eventloop thread sort performance benefit apply multiple operations single clarification appreciated 
+
+understand call code strong eventloop strong hood transforms reducing dispatching overhead combine 

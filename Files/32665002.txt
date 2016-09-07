@@ -1,0 +1,4 @@
+make gson create empty lists nulls de serialization 
+gson de serialize json arrays object empty pass de serializing behavior 
+
+gson default behavior 

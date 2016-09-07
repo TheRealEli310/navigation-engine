@@ -1,0 +1,4 @@
+lang stackoverflowerror calling method 
+learning interface behavior created interface implementer class calling method m1 lang stackoverflowerror dont proper reason code sysout give error console output 
+
+call initializes member initializes member infinite chain calls constructor stackoverflowerror equivalent constructor shouldnt call infinite loop removing line solve issue class hold reference passing constructor alternative solution change valid solution instances share instance referred 

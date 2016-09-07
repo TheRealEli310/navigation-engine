@@ -1,0 +1,4 @@
+basic background service android open socket 
+app simply starts background service button pressed background app open connection socket server send dummy data service die click button application stops main activity xml button background service activity main xml android manifest service finally actual backgroundservice class fragments caused error causing error future debug console vague 
+
+create intent service service intent service called ui thread android doesnt network call ui thread code register service manifest start service 

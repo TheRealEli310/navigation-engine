@@ -1,0 +1,4 @@
+unsatisfiedlinkerror netbeans calling native dll windows upgrade 
+upgrading windows windows netbeans project throws unsatisfiedlinkerrors calling native dlls running program netbeans works fine netbeans problem finding dlls added djava library path vm options improvement experienced similar give hint 
+
+clean reinstall windows msvc libs netbeans creating project source files dlls run project netbeans tested project eclipse works switching eclipse projects solution mind work hr adding projects rootfolder dlls path environment variable netbeans ideal solution projects versions dll 

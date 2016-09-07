@@ -1,0 +1,4 @@
+prevent android fragment recreated device rotate 
+h2 problem h2 rotate device information contained fragment app reloaded app pulls information internet means lack data time data recollected h2 h2 read articles questions give general pointers solutions manifest adding worked fragment reloading activity app detail activity activates user selects news story works properly preventing activity reloading h2 structure app h2 simple app pulls data hacker news api shows user navigationdrawer user select news types item navigationdrawer fragment loads fragment question loads main news stories h2 h2 find works structure app stands find solution seemingly trivial confusing problem h2 code h2 h3 mainactivity h3 h3 homefragment h3 h3 androidmanifest xml h3 
+
+calling prevent created em em creating forcefully creating resulting behavior check create dont system automatically restore 

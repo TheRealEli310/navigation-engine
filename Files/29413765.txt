@@ -1,0 +1,4 @@
+selecting fields join joining nested queries 
+recently migrating database moving remaining sql queries jooq fun returned query append additional modifiers depending context executed issue select queries named original names joins correct behaviour jooq hard time finding querys fields join route renaming queries href http stackoverflow questions alias jooq stackoverflow answer types dont line ideas 
+
+found solution workaround queries names join point field schema future dont flag compile time error interested 

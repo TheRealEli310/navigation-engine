@@ -1,0 +1,4 @@
+gson deserialize boolean json false input 
+object consists fields parse items web server receive string receive json save sharedpreferences read saved object false values read string correct deserialize object filled wrong values solution 
+
+annotation references key json string serialize serialized handy dont tie json key field instance prefer standaard convention prefixing private field refactor field easy refactor json key change annotation 

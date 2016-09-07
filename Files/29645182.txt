@@ -1,0 +1,4 @@
+sonar exclude cyclomatic complexity check class 
+sonar project exclude cyclomatic complexity check class adding exclusion strong ignore issues multiple criteria strong rule key pattern strong squid methodcyclomaticcomplexity strong file path pattern strong services images submission impl submissionscreenimageserviceimpl strong file included cyclomatic checks sonar greatly appreciated cheers damien 
+
+directory root project recommend add ul li start file path pattern giving li li correct directory prefix standard maven project giving li ul 

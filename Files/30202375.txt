@@ -1,0 +1,4 @@
+spring generic type class 
+question asked unable find solution generic type class spring injected repository base repository interface finally implementation type advance 
+
+general answer question documentation href http docs spring io spring data jpa docs current reference html repositories custom implementations rel nofollow http docs spring io spring data jpa docs current reference html repositories custom implementations chapter custom implementations spring data repositories case 

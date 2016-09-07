@@ -1,0 +1,4 @@
+whats difference net uri android net uri 
+object returns values question whats difference values supposed strong update strong found documentation pages href http developer android reference net uri html rel nofollow net uri href http developer android reference android net uri html rel nofollow android net uri blockquote builds parses uri references conform href http www faqs org rfcs rfc2396 html rel nofollow rfc blockquote surely bug return string 
+
+difference googles implementation rfc immutable thread implementation href http grepcode file repo1 maven org maven2 org robolectric android r2 robolectric android net uri rel nofollow comments source forgiving throw attempt garbage uri android implementation return uri garbage throw nullpointerexception seemingly exceptions implementation throw exceptions similar uri valid throwing 

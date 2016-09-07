@@ -1,0 +1,4 @@
+change textview text 
+found solution multiple change text click wont work click shows em text em 
+
+code counts displaying writes assumes textview called txtcount current contentview layout 

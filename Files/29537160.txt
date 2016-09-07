@@ -1,0 +1,4 @@
+spring4 hibernate configuration 
+started learning spring configure hibernate hard found lot things dont understand stupid questions copied dataaccessconfig based question href http stackoverflow questions configuration hikaricp spring4 hibernate configuration hikaricp spring4 hibernate error tomcat error log thankful edit show model entity wrong type import time localdate insted import org joda time localdate thx href http stackoverflow users master mind master mind 
+
+jodas datetime class models whitout mapping type import build file depedency project code 

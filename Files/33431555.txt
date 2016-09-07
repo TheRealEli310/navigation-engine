@@ -1,0 +1,4 @@
+paho mqtt mqtt paho spring integration 
+fixing issues client application paho spring framework discovered spring mqtt integration fix problems explain difference spring framework bring errors paho integration solve save technologies separate dependencies integration dependency painful advantage 
+
+spring integration framework spring eco system configure enterprise integration patterns easily enterprise application integration good processing data source filter accumulator processor sink kind architecture highly cohesive loosely coupled components ideal multiple systems speaking protocols integrated systems fuss 

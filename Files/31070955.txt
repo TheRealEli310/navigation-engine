@@ -1,0 +1,4 @@
+ruby compatible strict page object pattern 
+built test automation frameworks page object pattern href https code google selenium wiki pageobjects https code google selenium wiki pageobjects big benefits found methods instance page typing show actions methods call homepage navigation methods return instance subsequent page homepage navigate tests simply writing code takes benefits work perfectly type object page case ide ruby object type fixed point ambiguous ide writing cucumber step definitions variables initialised current scope realise benefits automation suite built ruby calabash automation suite show ruby cucumber gain benefits outline alternatively beneficial model 
+
+investigation initial requirement fulfilled long step definition class explicitly create page object launchpage subsequent pages provide intellisense method property values 

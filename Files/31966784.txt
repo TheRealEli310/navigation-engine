@@ -1,0 +1,4 @@
+full duplex communication socket 
+threads read write socket synchronization code problems ol li string write constructor printed client terminal happening li li exception thrown write run method li ol 
+
+blockquote threads read write socket synchronization blockquote avoid synchronization implementation socket synchronized avoid em additional em synchronization thread reading thread writing blockquote string write constructor printed client terminal happening blockquote running code client blockquote exception thrown write run method blockquote error easier diagnose read told including stack trace threads time start run close connection immediately threads chance read connection closed 

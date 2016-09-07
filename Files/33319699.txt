@@ -1,0 +1,4 @@
+netty client ssl configuration request https sites 
+web crawler based netty 1b7 massively request sites http https configure netty client deal https sites authentication settings simple netty configuration certificates approx half https sites requested failed href https docs oracle cd e19798 gjrgy index html generate local certificates set https sites failed errors advises href http stackoverflow questions ssl handshake exception unable find valid certification path luck whats wrong give kind step step guide configuring netty client deal https sites auth settings 
+
+finally solved issue hacking trustmanager code found technique https sites browser chrome doesnt show warning read netty 

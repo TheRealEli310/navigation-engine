@@ -1,0 +1,4 @@
+maven resolve dependency module multi module project 
+running commands maven unable resolve dependency modules project structure parent pom child module failing resolve dependency child module dependency 
+
+run mvn clean install project install dependencies local repository 

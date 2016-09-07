@@ -1,0 +1,4 @@
+android parcelable object activities clone 
+class implements parcelable interface required read write methods important methods parcelable object activity listview arrayadapter arraylist parcelable object clicking list item pass specific parcelable object detailactivity read parcelable object problem til perfect strong big problem strong starts change properties object write change clone original object thatve held previous activity listview problem occurs parcelable creator returns object parcel god object reference cloning newsdetailactivity class write values object activity solve problem english 
+
+id prefer broadcastreceivers 

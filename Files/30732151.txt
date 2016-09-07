@@ -1,0 +1,4 @@
+design pattern incremental code 
+business logic output method input logic linear flow emulate behaviour controller class messy loc hard modify exception handling complex individual method handling global exceptions bubble involves lot statements exists design pattern address problem controller class code 
+
+called pipeline href http en wikipedia org wiki pipeline 28software rel nofollow http en wikipedia org wiki pipeline 28software pattern algorithms data flows sequence tasks stages search library href http code google pipelinepattern rel nofollow http code google pipelinepattern implementation basically objects list output si passed naive implementation add generics 

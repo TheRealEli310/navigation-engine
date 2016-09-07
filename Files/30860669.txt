@@ -1,0 +1,4 @@
+gradle missing map hibernate 
+unittest project code hibernate run test junit passes run test gradle mapping error class config file missing gradle 
+
+problem gradle fact jpa spec stupidly requires classes entities jar directory persistence xml file gradle doesnt store compiled resources output directory compiled classes hibernate doesnt find mapped entities add line gradle build fine 

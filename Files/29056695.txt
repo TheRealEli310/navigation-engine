@@ -1,0 +1,4 @@
+illegalblocksizeexception rsa encryption android 
+working cyrpto api include android app tested function crypto api unit test succeeded decided include jar android project project started generating bit key pair order add object class call function api data object encrypt data app throws exception encrypt data rsa google find whats wrong found posts invalid key lengths debugger keys values generated app test directly api api tests succeeded errors android restrictions problems rsa encryption h2 edit h2 encryptwithpublic method rsa rsakeypair simple class added store key object similar returns keys added 
+
+encrypt data amount data encrypted rsa pkcs padding key size bytes minus padding overhead bytes making total bytes true android se part bit misnomer rsa doesnt mode operation block plaintext encrypted encrypt generate random aes key encrypt message subsequently encrypt random key rsa called hybrid encryption 

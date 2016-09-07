@@ -1,0 +1,4 @@
+spring application listener contextrefreshedevent comp env jdbc db found 
+database cleanup application starts defined jndi connection retrieve resource applicationlistener contextrefreshedevent applicationlistener implementation problem unable find comp env jdbc mydatasource tested events event works good solution 
+
+found answer stack overflow question stackoverflow questions quote andy wilkinson blockquote tomcat threads context class loader determine jndi context perform lookup thread context class loader isnt web app classloader jndi context empty lookup failure blockquote suggested fix andy wilkinson 

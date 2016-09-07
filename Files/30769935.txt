@@ -1,0 +1,4 @@
+jpa prevent unnecessary join querying relationships 
+entities product category joined simple relationship paginated list products filtered single category write automatic method query method produce similar join table isnt reference closest thing resulting produces redundant join category table applies clause category table resorting native 
+
+map entity join table replace product lt category relationships pointing entity product category change line hibernate practices href https docs jboss org hibernate orm reference en html practices html rel nofollow https docs jboss org hibernate orm reference en html practices html blockquote strong exotic association mappings strong practical test cases real associations rare time additional information stored link table case associations intermediate link class fact associations strong reason proceed cautiously association style strong blockquote 

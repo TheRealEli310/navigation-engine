@@ -1,0 +1,4 @@
+android add item top arraylist 
+model class items add item position shift 
+
+method 

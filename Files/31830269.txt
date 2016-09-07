@@ -1,0 +1,4 @@
+bean collection spring conversionnotsupportedexception 
+spring create simple quick start application application composed classes pom xml file xml file produttore team test1 test1xml xml pom xml dont lunch application fails post error lot 
+
+strong convert type lang string required type mkyong core produttore property membri strong tells spring unable convert string position arraylist type produttore explanation error line defining arraylist membri objects type produttore putting string position xml convert decalaration membri team class code work 

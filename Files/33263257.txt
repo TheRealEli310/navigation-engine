@@ -1,0 +1,4 @@
+xml file processed incorrectly rest service jboss 
+jboss eap ga deploy application method rest service defined class mapping incoming xml file incoming xml files saves iso files inside define encoding regular characters works fine issues start xml case rest method called exception weve multiple ways resolve issue strong changed method signature xml received string unmarshall relying jboss strong case receive xml file string replaced method strong set system properties standalone xml strong result strong change standalone conf strong set result strong change annotation xml file strong case unsupported media type strong change encoding incoming xml files utf save utf strong case works expected preferable xml files iso require efforts change workflow give hint fix iso appreciated 
+
+ended changing signature service method string pass array bytes creating string object 

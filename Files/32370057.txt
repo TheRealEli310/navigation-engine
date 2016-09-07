@@ -1,0 +1,4 @@
+sort numeric array jmeter beanshell 
+beanshell jmeter scripts code jmeter beanshell processor output run script sorted numerically stored variable named sortedvar code sort store variable sorted array coming jmeter requests 
+
+ondrejm suggested change approach storing values stringbuffer store arraylist sort code work 

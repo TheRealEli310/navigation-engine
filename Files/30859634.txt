@@ -1,0 +1,4 @@
+splash screen display execute jar file works execute netbeans ide 
+set application splash screen img src http stack imgur yk5fk png alt enter image description splashscreen draw startapp class code draw splash screen work works 
+
+commandline parameter represents image file disk reference embedded resources image path reference simply wont exist program built packaged exported id recommend manifest approach href http docs oracle javase tutorial uiswing misc splashscreen html rel nofollow create splash screen section titled jar file display splash screen netbeans ability automatically including packaging image jar updating manifest file img src http stack imgur wwstg png alt splash screen properties 

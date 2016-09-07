@@ -1,0 +1,4 @@
+facebook sdk sharedialog android null 
+share facebook sdk reference href https developers facebook docs sharing android share dialog rel nofollow share dialog facebook based facebook sdk lines code manifest file tag problem nullpointerexception launch app activity line funny thing null based debug idea nullpointerexception throws dont log function called img src http stack imgur r3iwe png alt enter image description finally log shows suggestion appreciated 
+
+created sample project find problem finally found mistakes facebook crazy forgot add facebook activity manifest file didnt log strong em em strong create inside strings xml file link meta data directly put app id facebook dialog project things wasted days mine hope doesnt happen 

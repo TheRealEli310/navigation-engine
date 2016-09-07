@@ -1,0 +1,4 @@
+started oauth2 google contacts api 
+make google contacts api oauth authentication sample codes working api found sample code makes request access token response google servers give access token hour limit refresh token code issue issues oauth2 google apis guide mistaken provide working code snippet great advance 
+
+service account impersonate user achieved google work google education accounts work normal gmail accounts case case remember domain administrator grant access application grant href https developers google drive web delegation rel nofollow domain wide delegation authority make tests api normal oauth check href https developers google drive web auth web server rel nofollow tutorial drive basic steps authorization token call google apis similar recommend check href https developers google oauthplayground rel nofollow oauth playground check complete oauth process play api 

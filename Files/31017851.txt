@@ -1,0 +1,4 @@
+turn usb storage android devices programatically 
+search confused control usb storage rooting phone method enable disable permission vain idea share knowledge advance 
+
+short answer question strong strong play usb mass storage permission programmatically wont find android apps reliably phones default android framework party applications programmatically bypass usb storage permissions strong em choice left user correct approach em strong permitted party app misuse permission transfer data usb connection approach assumes names relevant methods call reflection work oems modified base framework exposed relevant api calls assumes names methods work tiny subset vast number android phone models wont work phones wont work nexus devices original android os source code 

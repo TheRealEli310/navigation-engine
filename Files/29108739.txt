@@ -1,0 +1,4 @@
+maven web app deploying local tomcat 
+web app project eclipse luna created dynamic web project order test option run server ran correctly tomcat server mavenized project run easily option run server run application applet click project folder run maven install build click pom xml file back ti running beloved webapp local server 
+
+add youll set things tomcat config set things set variables mavens file stuff youll run thatll run config info href http tomcat apache org maven plugin tomcat7 maven plugin usage html rel nofollow docs 

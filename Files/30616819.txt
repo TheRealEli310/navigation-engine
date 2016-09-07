@@ -1,0 +1,4 @@
+nullpointerexception analysing project sonarqube activating rules tracking quality issues unit test source code 
+execute sonarqube post build action analysis jenkins job maven clean install jenkins job log stack strong sonar plugins strong br checkstyle br cobertura br findbugs br br pmd delete sonar step jenkins job dont problem job success dont jenkins sonar problem 
+
+similar issue href http sonarqube x6 nabble javascript upgrade version gt analyses crash npe td5034160 html rel nofollow href http comments gmane org gmane comp sonar general rel nofollow fixed upgrading sonar href http jira sonarsource browse sonar rel nofollow http jira sonarsource browse sonar 

@@ -1,0 +1,4 @@
+matter version jdk android studio 
+choose sdk location android studios project structure img src http stack imgur ndmvz png alt project structure sdk location questions ol li jdk android sdk developing jvm li li difference jdk li ol 
+
+blockquote jdk android sdk developing jvm blockquote android build process depends number tools jdk check href https developer android sdk installing studio build html rel nofollow build system overview documentation big piece jdk source code written compiled converted dex foramt code compiled dexed packaged apk sign apk blockquote difference jdk depends features older projects dont features issue personally recommend modern projects blockquote efforts bring features android notably href https github evant gradle retrolambda rel nofollow gradle retrolambda require jdk compile properly 

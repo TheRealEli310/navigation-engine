@@ -1,0 +1,4 @@
+make userdetailsmanager bean 
+experimenting spring security authentication add users runtime figured userdetailsmanager minimally intrusive strong make bean access controllers objects strong code starting creates works fine dont access web apps initialization variants didnt work filling login form initialize bean properly initialization builder method work 
+
+creating importantly registers configurer configurations executed order luckily public call knowing move main configuration load back configurers alternate constructor worked end setting data source redundant leaving results exception initialization error validation bean returned configurer executed authenticationmanagerbuilder configured write controller 

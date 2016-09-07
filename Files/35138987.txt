@@ -1,0 +1,4 @@
+spark loop javardd tuple 
+loop javardd tuple issues loop javardd properly set rdd equal tuples contained rdd array iterator counter code edit guys zero323 advice foreachloop javardd receiving error resolve method 
+
+attempt answer dealing key long tuple7 presented original question achieved efficiently javapairrdd starting rdd convert javardd javapairrdd include repartitioning based key final processing serialize rdd results driver program execute contained logic serial pushing logic upstream rdd filter reduce paradigms achieve level parallelism compute task nodes driver program lambda syntax write logic compact thing easier dedicated class generic processing 

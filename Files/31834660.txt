@@ -1,0 +1,4 @@
+notifydatasetchanged viewpager fragment listview 
+viewpager fragmentstatepageradapter page loads fragment listview listview loads textviews text static arraylist static arraylist updated asynctask data server update listview time arraylist updated notifydatasetchanged viewpager adaptar work access listviewadapter suggestions asynctask doinbackground method update testing found problem occurs page viewpager fragmentstatepageradapter 
+
+solution assigning data adding contents change line notify data set calling 

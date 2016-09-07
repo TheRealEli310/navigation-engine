@@ -1,0 +1,4 @@
+bundling jre spring boot package jar 
+bundle spring boot application executable jar including jre josh long resulted jar start googled hour couldnt find documentation edit found conference spring boot introduces called executable jars href http docs spring io spring boot docs m1 reference html deployment install html rel nofollow wrap jar shell script enabling makes run jar tying unix init system installed host enabling feature gradle easy adding build gradle 
+
+installer wrapper create native binary code jar jre solutions download jre positive side effect needed create solutions linux windows mac stick simple linux solution href http stackoverflow questions bash script binary executable bash script binary executable 

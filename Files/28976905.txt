@@ -1,0 +1,4 @@
+replace text powerpoint file 
+requirement replace text powerpoint file runtime powerpoint file template placeholders tokes user poi luck referred links forum started docx4j point documentation clear pptx loaded presentationmlpackage mainpresentationpart slides mainpresentationpart getslide steps approach place suggestions greatly appreciated lot vini 
+
+jaxbxmlpart slide part invoke variablereplace youll variables format expected xmlutils unmarshallfromtemplate 

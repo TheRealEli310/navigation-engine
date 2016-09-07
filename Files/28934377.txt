@@ -1,0 +1,4 @@
+check certificate revocation status 
+implement revocation checking digital certificate file program connection internet program download cas web site put server program running program check certificates revocation status downloaded 
+
+ol li rely crl strong strong crl date recomment li li update crl crls expiration date case download newer released crl date ca publish crls expiration date check li li rely solely crls check revokedcertificates field href http docs oracle javase docs api security cert x509crl html rel nofollow title x509crl x509crl certificate contained collection revoked mind check revocation date list li ol recomment read href http www ietf org rfc rfc5280 txt rel nofollow title internet public key infrastructure certificate certificate revocation list crl profile rfc internet public key infrastructure certificate certificate revocation list crl profile 

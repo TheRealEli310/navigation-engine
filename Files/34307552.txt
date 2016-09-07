@@ -1,0 +1,4 @@
+aws account details api iam user 
+aws accounts production testing differentiate environment running simple account straight forward dont aws credentials properties idea account information aws credentials considered possibility account permissions account type prevent account 
+
+href http docs aws amazon awsjavasdk latest javadoc amazonaws services identitymanagement model getuserresult html rel nofollow returned href http docs aws amazon awsjavasdk latest javadoc amazonaws services identitymanagement amazonidentitymanagement html getuser rel nofollow method href http docs aws amazon awsjavasdk latest javadoc amazonaws services identitymanagement model user html rel nofollow fields required information 

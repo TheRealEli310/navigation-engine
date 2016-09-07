@@ -1,0 +1,4 @@
+runtime polymorphism creating base class object 
+code program print understand method executed selected depending class actual object case constructor called print method called print understood correctly question base class constructor running jvm call method object created 
+
+blockquote method executed selected depending class actual object blockquote understanding correct method selected based type object created call blockquote class constructor running jvm call method object created blockquote constructor running object em created em fully em initialized em precisely reason avoid making calls methods overrides inside constructor language programmers extreme care href http stackoverflow amp information problems happen base class constructors call overridable methods 

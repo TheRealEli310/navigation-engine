@@ -1,0 +1,4 @@
+handle digits numeric postgresql 
+developing tool javafx postgresql database task handle digits numeric long short small remember postgres grumbled didnt correct datatype change lines affected problem math numeric save null whats advice string biginteger code 
+
+case oracle postgresql type number numeric javas bigdecimal types internal representation number stored decimal digits face problems rounding errors casting faster big misunderstanding developers int long ids told int long faster jee practically perform mathematical computations numbers returned database size bigdecimal smaller long 

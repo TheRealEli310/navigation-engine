@@ -1,0 +1,4 @@
+model android rest connection 
+making android app connects web service rest api dilemma design internal architecture class client purpouse make connect server connectionmethod enum post values sample method requests info server server responses json status result array int string response correct status message string response incorrect additionaly make classes model components json result user message intermediate methods ui api implement logic app classes design homogeneous connection system manages automatically correct fail response independent model user message 
+
+describing tools exist favorite href http square github io retrofit rel nofollow retrofit retrofit handle success fail responses map json directly pojo api client retrofitcallback model 

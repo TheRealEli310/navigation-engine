@@ -1,0 +1,4 @@
+applying list functions java8 stream api 
+single log message pojo apply bunch transformations transformations unaryoperators list implements current solution reduce running parallel make sense combining messages make compiler happy composing function throw exception support parallel execution href https docs oracle javase docs api util stream stream html reduce util function bifunction util function binaryoperator javadoc states operations dont 
+
+work constructs single applies functions turn calls input alternatively looping version 

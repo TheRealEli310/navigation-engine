@@ -1,0 +1,4 @@
+pass variables jframe class 
+looked couple examples return values dont fully understand make work code figured post good pointers check user logged logged open window create event make logic work statements part passing variables login class createeventactionperformed mainframe jframe class login jframe class havent posted code hope figure thought getter setter methods make work 
+
+correct assumption getters setters add getter method boolean top login jframe class simply set variable finally method create reuse current instance jframe login class invoke method wanted create instance login class simply add bit method login class boolean perform checks activities process creating getter method pass variable classes save variables memory preserved application shutdowns href http stackoverflow questions store data database storing persistent data luck questions 

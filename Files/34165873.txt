@@ -1,0 +1,4 @@
+mimetypesfiletypemap return application octet stream png file 
+content type string image png returns application octect stream shouldnt return image png 
+
+javadocs href https docs oracle javase docs api javax activation mimetypesfiletypemap html rel nofollow method file called order blockquote strong mime types file search order strong mimetypesfiletypemap places users system mime types file entries requests made search mime types mimetypesfiletypemap searches mime types files order ol li programmatically added entries mimetypesfiletypemap instance li li file users home directory li li file li li file resources named li li file resource named found file li ol blockquote file found method returns blockquote return mime type based file mime type entries searched em mime types file search order em entry found type application octet stream returned blockquote 

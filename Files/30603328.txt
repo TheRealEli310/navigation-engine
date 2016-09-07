@@ -1,0 +1,4 @@
+improve performance updating data jpa 
+ejb container managed em local testing creating em requirement update database based condition issue em update taking long time em reduce approach update query update entity mistake approach exist em code update em 
+
+execute em flush number iterations low number db interactions slow executing code high objects resides memory swappings slow executing code choose moderately apply update million records faced problem 

@@ -1,0 +1,4 @@
+scanner accept words space 
+create simple project user true false true scanner gonna storing category arraylist works fine enter words space category reason jump condition true false check entered word true false execute catch clause scanner nextline nextline jump true false category 
+
+inputstreamreader wrapped bufferedreader 

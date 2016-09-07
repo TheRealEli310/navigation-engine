@@ -1,0 +1,4 @@
+subscribe retrofit observable 
+retrofit rxandroid request config change thought href http blog danlew net grokking rxjava part rel nofollow blog post flow pretty code retrofit source responsible cancelling request called unsubscribing makes work leaks managed handle config retrofit approach 
+
+hint href https www reddit user insane cabbage rel nofollow insane cabbage managed implement safely encapsulated presenter heres flow 

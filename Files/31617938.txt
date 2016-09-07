@@ -1,0 +1,4 @@
+setting values repeat control managed bean 
+repeat control xpage managed bean requestbean bound xpage read save repeat control values bean getter setters load save doesnt work repeat control fields multi valued making vector wasnt structure inputtext field managed bean advance ideas 
+
+question comments requestbean represents request document document multi fields ul li driverinfo li li driverchanges li ul element multi list represents driver drivers info element driverinfo drivers element driverchanges youd create repeat control shows data driver separate line href http stack imgur zbyb6 png rel nofollow img src http stack imgur zbyb6 png alt enter image description change requestbean pre class lang prettyprint override change repeat control pre class lang xml prettyprint override returns vector driverinfos holds driverinfo current driver inside repeat br calls requestbeans method returns vector driverchanges selects current driver rowindex 

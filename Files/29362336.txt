@@ -1,0 +1,4 @@
+sugar orm library data retrieve properly 
+sugar orm library add data retrive data data retreive properly code main xml book mainactivity retrieve data display list view data display listview type azx1lz currect data retreive currect data thnks advance 
+
+add tostring method public class book extends sugarrecord 

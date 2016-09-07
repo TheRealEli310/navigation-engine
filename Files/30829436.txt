@@ -1,0 +1,4 @@
+solr custom updaterequestprocessorfactory fails error instantiating updaterequestprocessorfactory 
+custom class extending work document added index working fine standalone solr moved solrcloud throws error adding collection node solrconfig xml configured add custom jar ways ol li add folder jars located fails li li add collection suggested make attributes fails li ol exception dont move standalone solrcloud require custom code missed 
+
+issue issue added custom jar folder added instantiate custom class class solved rmoving jar adding line putting custom jar folder make custom classes loaded added correct 

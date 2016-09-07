@@ -1,0 +1,4 @@
+liquibase generate sql script changelog comparing databases 
+compared databases liquibase api generated changelog xml file generate sql script update target database code strong edit strong steve donie 
+
+approach liquibase run commandline case diffchangelog command create changelog run updatesql generate sql required update database liquibase source code href https github liquibase liquibase blob liquibase core src main liquibase integration commandline main l1057 l1058 rel nofollow liquibase update method arguments href https github liquibase liquibase blob liquibase core src main liquibase liquibase l243 l267 rel nofollow null output writer file sql saved 

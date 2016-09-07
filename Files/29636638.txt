@@ -1,0 +1,4 @@
+gradle hibernate configuration requires mapped classes 
+gradle manage dependencies hibernate previously maven encountered strange save trivial instance annotated class database wind class mapped situation unique storing instances assume situation properly annotated hibernate class saved persistance xml hibernate configuration files relying auto detection mapped classes feed recognized properly annotated hibernate code worked switch method calls place transactional context transaction committed session flushed exception gradle dependencies edit test case problem main class persistence xml build gradle exception persistence xml meta inf package resources main folder 
+
+errors code ol li entities nested classes li li entities arg constructor li li entities fields final li li entities attribute annotated li li entities listed persistence xml file li ol 

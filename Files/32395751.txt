@@ -1,0 +1,4 @@
+convert xml file string manipulation optimization 
+trouble jdom2 whitch work xml files convert xml file string manipulation optimization code compare string original xml file notice original string umlauts changed stop behaviore 
+
+firstly stated shouldnt xml processing read file text file umlaut characters showing due incorrect charset encoding charset error code xml file original xml file unusual xml encoded utf suspect file utf file encoding claims correct forcing utf reading file good practice charset converting bytes text 

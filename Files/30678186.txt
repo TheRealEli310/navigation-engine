@@ -1,0 +1,4 @@
+deserializing arrays protostuff 
+protostuff serialize deserialize json serialize object size array put front trie desirialize string works charm data dosent tags simple trie desirialize string exception thrown code product class 
+
+protostuff href https github protostuff protostuff blob master protostuff runtime src main io protostuff runtime arrayschemas rel nofollow special schema serializing arrays puts array size serialized form performance reasons change field type list lists serialized directly json array 

@@ -1,0 +1,4 @@
+file web inf junit test 
+controller webapp redirecting page xyz jpsx condition true junit test enforce redirect correctly redirect points jsp exists couldnt find inside junit read files inside web inf dont hardcode fullpath solution wont portable totally understand fact files web inf classpath access theses files portable solution work integration server 
+
+great href https docs oracle javase tutorial essential io path html rel nofollow nio api jdk class href http docs oracle javase docs api nio file path html rel nofollow path class easily access folder jsps servletcontexts list jsp files sample 

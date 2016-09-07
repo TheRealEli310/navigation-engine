@@ -1,0 +1,4 @@
+combiner stream collect method work 
+created simple demo problem part doesnt run runs arguments equal supplier make work method 
+
+combiner executed parallel stream combine issue stems accumulator supposed modify argument combining argument strings immutable code produce create string throw stringbuilder intermediate results work correctly parallel stream blockquote res1 hgr jyt res2 jyt br res1 bcd abc res2 abc br res1 adf bcd abc res2 bcd abc br res1 edr biu res2 biu br res1 hgr jyt edr biu res2 edr biu br res1 adf bcd abc hgr jyt edr biu res2 hgr jyt edr biu br collect adf bcd abc hgr jyt edr biu blockquote 

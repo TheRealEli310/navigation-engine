@@ -1,0 +1,4 @@
+hibernate jpa ignore wrong sql foreign key values 
+project maintain persistance layer project running server database engine tables foreignkey relationshps mapped relationship entities problem columns supposed order mapped arent engine theory columns wrong values strong negative inexistant dead parents strong db values change db structure edit data columns change code hibernate ignore values throw list element wrong strong update strong stacktrace 
+
+annotate association hack top ugly solution hibernate heavily relies transactions myisam afaik doesnt support transactions guess fixing database choice 

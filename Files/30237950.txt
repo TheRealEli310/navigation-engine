@@ -1,0 +1,4 @@
+add polyline receiving coordinates 
+google cloud messaging send coordinates phone coordnates saved sqlite open mapactivity draw polyline map coordinates mapactivity activ receive coordinates google cloud messaging update polyline map needing restart broadcastreceiver retrive coordinates intentservice handle message coordinates send coordinates mapactivity update polyline mapactivity 
+
+check gcmintentservice mapactivity open open send broadcast mapactivity fire intent mapactivity 

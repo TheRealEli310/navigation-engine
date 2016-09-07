@@ -1,0 +1,4 @@
+generic method find median values 
+needed method median values thought good opportunity write generic method dont practiced wrote pretty straight forward warning work fine tests aware inherently sorted set approach sake understanding pinpoint things ol li noticed doesnt work declare search unrelated results elusive happening present li li warning wrong missing li ol method 
+
+havent correctly introduced type parameter generic strong sort strong list elements strong strong method significantly shortened returns unmodifiable list means youre allowed add remove elements created comparisons manually add elements 

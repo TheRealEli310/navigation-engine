@@ -1,0 +1,4 @@
+running app jar file spark submit google dataproc cluster instance 
+running jar file dependencies packaged dependencies checked class file jar file hit command spark submit master node googles dataproc cluster instance error happened sense overwriting dependencies decompiled file jar checked method happened ran google dataproc instance process executing flag solve problem 
+
+youve found dataproc includes hadoop dependencies classpath invoking spark primarily hadoop input formats file systems fairly straight forward downside end hadoops guava version href https issues apache org jira browse hadoop rel nofollow hadoop work depends build system maven maven shade plugin relocate version guava package href https github googlecloudplatform bigdata interop blob master gcs pom xml l249 rel nofollow gcs hadoop connectors packaging crux plugin declaration pom xml build section similar relocations accomplished sbt assembly plugin sbt jarjar ant jarjar shadow gradle 

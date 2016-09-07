@@ -1,0 +1,4 @@
+generate wsdl wsgen ant task 
+generate jax ws wsdl file application service wsgen ant task ants taskdef giving lots class found exception time gave class fount sun tools ws ant wsgen added jaxws tools jar class path gave class found sun istack tools protectedtask added istack commons tools jar giving class found sun tools xjc api util toolsjarnotfoundexception path build xml 
+
+debugging dependencies jars drive demented ant project requires dependency manager href http ant apache org ivy rel nofollow apache ivy problem noticed youre running version jaxws tools released href http search maven org search 7cga 7c1 7cg 3a 22com sun xml ws 20and 20a 3a 22jaxws tools rel nofollow lots lots updates h1 h1 demonstrates ivy create managed classpath wsgen task h2 build xml h2 notes ul li build file automatically install ivy plugin li li dependencies automatically downloaded cached resolve target li ul 

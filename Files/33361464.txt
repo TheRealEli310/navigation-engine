@@ -1,0 +1,4 @@
+spark read file byte format inputstream 
+read multiple files byte array format input stream spark job reason inputfiles contents byte format input file split multiple files blocklength size mb stored hdfs parallel process files apache spark req read entire block 64mb single file process efficient process writing custom record reader filesystem apis inputstream read file 
+
+solved issue api sparkcontext newhadoopapifile written custominputformat class inputformat thing return pojo object blockquote javapairrdd baserdd sc newapihadoopfile args inputformat class nullwritable class arraylist class conf blockquote ignore key create rdd values blockquote javardd maplines1 baserdd values blockquote flatmap rdd inside inputformat class extended fileinputformat override issplittable false read single file blockquote blockquote 

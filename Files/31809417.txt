@@ -1,0 +1,4 @@
+send data dopost response 
+complete beginner web programming created application eclipse ee tomcat server running localhost goal application information client send back information developped servlet implement dopost method works perfectly information saved bean named ussdpull write text file named log txt servlet send back specific booleans string client dont proceed httpservletresponse send data find call doget method 
+
+doesnt give write data back client headers response code method called href http docs oracle javaee api javax servlet servletresponse html getoutputstream rel nofollow method href http docs oracle javaee api javax servlet servletresponse html getwriter rel nofollow give resp write data response 

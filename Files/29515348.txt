@@ -1,0 +1,4 @@
+specific file zipinputstream 
+starting iteration specific file iteration 
+
+youre working real file disk simply backed direct access zip entries youre processing stream directly receipt network socket similar youll buffering copy stream temporary file open file maximum size data advance http request declares front buffer memory youve found required entry havent tested code find commons io zip stream close closing underlying youve rewound 

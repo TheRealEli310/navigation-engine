@@ -1,0 +1,4 @@
+sonarqube rule squid s1200 counts classes limit 
+sonarqube rule blockquote squid s1200 classes coupled classes single responsibility principle blockquote count coupling number limit counts classes standard packages rules limit class rules limit additional info sonarqube version 
+
+answer question directly source code rule href https github sonarsource sonar blob c1f15b81bcd9d643ab403aeea6e1606040f84eac checks src main org sonar checks classcouplingcheck rel nofollow https github sonarsource sonar blob c1f15b81bcd9d643ab403aeea6e1606040f84eac checks src main org sonar checks classcouplingcheck counts declared type lang integer count type rules limit good news configure magical number quality profile 

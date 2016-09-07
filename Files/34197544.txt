@@ -1,0 +1,4 @@
+return static html page spark 
+world spark return static file index html notes ul li index html jar li li spirit simplicity spark id avoid templates overkill static page li ul 
+
+passing absolute path static resources directory method passing relative path method call setting route create index html file root static resources directory 

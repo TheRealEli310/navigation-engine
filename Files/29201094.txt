@@ -1,0 +1,4 @@
+split string multiple lines 
+making game text box text box draw string separate multiple lines fit text box bit trouble separating multiple lines part method wrote return string width pixels method works problem output print line null reason loop breaking finishing line 
+
+assign current line full dont make assignment loops finishes meaning remainder run words lost add block code loop rodrigoap start line word didnt fit line goeas block 

@@ -1,0 +1,4 @@
+queens find queen fits 2d matrix 
+attempting write program solves queens problem dimensional array booleans backtracking find solution optimal solve problem 1d array simplicity solve stuck function supposed check queen fits coordinate row column diagonal checks work left diagonal check work struggling find correct indexes start counter increment decrement iteration function problem loop id happy give working loop check left diagonal advance hr edit heres working code 
+
+flip board horizontally reuse algorithm diagonal arrange make optimal 

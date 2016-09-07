@@ -1,0 +1,4 @@
+setting global environmental variables linux red hat web application tomcat 
+externalized properties application reading setting environmental variables code works windows mac environmental variable env props correctly resolved fails resolve linux red hat setting environmental variables locations linux ol li profile env vars sh li li profile li li bashrc li li tomcat conf setenv sh code system getenv works xml fails resolve li ol 
+
+turns issue order applicationcontext xml loaded linux tomcat environmental variable issues multiple context files application applying bean main applicationcontext xml defined web xml import bean resource multiple xml files explicitly 

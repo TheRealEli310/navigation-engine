@@ -1,0 +1,4 @@
+sun istack saxexception2 class util linkedhashmap super class context 
+sending post request create resource named strong resource strong send resource object converting json jaxb strong client strong service retrieve resource type resource convert type strong rest service strong sop prints sop prints intially conversion prints corrects data request validation exception strong server log strong related href http stackoverflow questions convert linkedhashmapstring string object convert linkedhashmap lt string string gt object 
+
+issue resolved jackson library client converting pojo json jaxb strong client code strong issue parameter pojo type jaxb making converting json provided jaxb context error corrrectly converted json earlier jaxb converted jackson 

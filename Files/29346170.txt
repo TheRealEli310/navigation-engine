@@ -1,0 +1,4 @@
+hash map sorts default 
+hash map default sorting implementing comparable comparator output default provide sorting key output question feature bug 
+
+behavior completely incidental provide guarantees order entries fact adding result longer sorted 

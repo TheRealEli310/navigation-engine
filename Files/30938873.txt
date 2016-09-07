@@ -1,0 +1,4 @@
+android image fade animation 
+id ran code event called touch button doesnt change opacity imageview wrong code 
+
+code viewpropertyanimator good set duration animation long supposed run edit attach motionevent ontouchlistener edit button onclicklistener ontouchlistener attach image initiate imageview 

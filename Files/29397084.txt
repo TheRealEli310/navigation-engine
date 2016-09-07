@@ -1,0 +1,4 @@
+closing remote akka actor connection 
+close remote actor akka start server scala connect client actorsystem running seperate jvm send messages receive response messages time client shutdown log messages server actorsystem client jvm dead blockquote warn testserver akka remote default remote dispatcher akka tcp consolesystem localhost failed address gated ms reason disassociated blockquote warnings bad method calling prevent warning messages advance 
+
+warning bad test warn remote system system dissasociated shutted connection lost 

@@ -1,0 +1,4 @@
+difference 
+reading javas source code noticed comparisons statements method href http grepcode file repository grepcode root jdk openjdk b147 util arraylist arraylist grow 28int didnt exist method href http grepcode file repository grepcode root jdk openjdk b27 util arraylist arraylist ensurecapacity 28int reason change performance issue style imagine comparing faster performing complete subtraction check negative bit overkill terms bytecode involve instructions 
+
+things code run print false overflows negative array length close code close overflow negative subtracting em underflows em back positive number check ensures executed code written case negative forced overflow case handled overflowed defined rightly handled method returns nb comment method 

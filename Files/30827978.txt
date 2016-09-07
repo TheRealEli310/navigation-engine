@@ -1,0 +1,4 @@
+programmatically set ssl context axis client 
+project client developed axis call soap web service web service mutual authentication mechanism private certificate installed inside keystore public key installed inside truststore soap client inside task bpm process dont jvm global truststore keystore configure programmatically jvm global trustore keystore approach force synchronize process jvm properties dont processes running machine question axis offer api keystore truststore specific web service call 
+
+googling found answer question answer solely axis keystore truststore service invocation external library called href http mvnrepository artifact org codehaus mojo axistools maven plugin rel nofollow axistools library implements kind service call keystore truststore explicative folks 

@@ -1,0 +1,4 @@
+javafx collision issue path line thick stroke circle 
+javafx library task simple check circle collides path thick stroke problem functions path intersect shape intersect ignores stroke path line path made lineto objects format implement successful collision detection 
+
+collision detection works fine switch testing console shows intersection problem youre comparing bounds documentation href https docs oracle javase javafx api javafx scene node html rel nofollow node section em bounding rectangles em bounds calculated 

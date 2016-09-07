@@ -1,0 +1,4 @@
+regex pattern catastrophic backtracking 
+regex shown systems causing backtracking issues backtracking threads cpu machine hit upper limit return back application restarted suggest rewrite pattern tool pattern values working catastrophic backtracking values wrong values extra brace added end 
+
+thing noticed regex optional opening closing square brackets required pretty dont treat valid input biggest runaway backtracking alternatives match things youve part regex engine conceivable path string constructs endless tug war group digits point fix problems structure wrong youre consumes token thing string comma end string fails immediately em em comma match complete token fails immediately important thing remember youre creating regex fail fail quickly features atomic groups possessive quantifiers end structure regex rarely backtracking inevitable 

@@ -1,0 +1,4 @@
+set cell cell apache poi 
+apache poi task read command line excel file values columns modified end application run test test xls b2 b3 b4 created map holds cell values dont map order access cells b2 set code bellow 
+
+entry cell reference text create href http poi apache org apidocs org apache poi ss util cellreference html rel nofollow text obtain based row column indexes object call href http poi apache org apidocs org apache poi ss usermodel cell html setcellvalue util calendar rel nofollow 

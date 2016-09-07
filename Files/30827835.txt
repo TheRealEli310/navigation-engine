@@ -1,0 +1,4 @@
+android bufferedreader read response 
+problem reading ulr response android reads half response code normal project works fine 
+
+half response rely printed aware logcat limitation prevents printing characters truncated check response print ot situation href http stackoverflow existing question reference 

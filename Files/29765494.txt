@@ -1,0 +1,4 @@
+jsch lls command reflect directory change lcd command 
+working sftp project jsch library code href http www jcraft jsch examples sftp html rel nofollow http www jcraft jsch examples sftp html problem encountered default local directory change local directory command test returns local working directory expected execute command lists directory beginning bug library commands xshell result expecting worked properly bug solve 
+
+bug implementation command calls method call field retrieved method implementation command lists actual local working directory process virtual local working directory solutions ul li fix li li absolute paths li ul 

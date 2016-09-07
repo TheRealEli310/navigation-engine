@@ -1,0 +1,4 @@
+de serialize immutable object default constructor objectmapper 
+serialize deserialize immutable object fasterxml jackson databind objectmapper immutable class internal attributes getters constructors run unit test exception exception asks create default constructor immutable object dont set internal attributes totally confuse user api strong question strong de serialize immutable objects default constructor 
+
+jackson create object deserialization href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsoncreator html href http fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsonproperty html annotations constructors 

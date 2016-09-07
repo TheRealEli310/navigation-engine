@@ -1,0 +1,4 @@
+apache poi modify cell values excel sheets 
+small application written apache poi read modify values excel document referencing cells sheet cell a1 sheet sheet1 sheet1 a1 application runs command line arguments document cells values replace cells output readexcel test xls sheet1 b2 sheet1 b3 sheet1 b7 works fine problem modifiy cells output sheet readexcel test xls sheet1 b2 sheet1 b3 sheet2 b2 code bellow 
+
+longest constructor href https poi apache org apidocs org apache poi hssf util cellreference html cellreference 28java lang string 20int 20int 20boolean 20boolean rel nofollow youd notice reference consists properties ul li string sheetname em null em li li int row li li int col li li boolean rowabsolute li li boolean colabsolute li ul command line arguments include sheet youre remove line code strike strike youll lookup sheet href https poi apache org apidocs org apache poi hssf usermodel hssfworkbook html getsheet 28java lang string rel nofollow create 

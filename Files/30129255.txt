@@ -1,0 +1,4 @@
+registering web service eureka 
+explore service discovery eureka netflix service steps mentioned wiki link shown eureka service running postman client register service post method twiki reading xml schema sending content type json strong xml strong parameters register request url href http tpdeva13 eureka v2 apps service1 rel nofollow http tpdeva13 eureka v2 apps service1 content type application json parameters json json supplying aligns xml schema send post request tomcat server hosts eureka error web services written rest apis exposed eureka register deregister services stuck eureka server running development mode 
+
+error youre missing outer field supposed wrap fields defined 

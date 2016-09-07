@@ -1,0 +1,4 @@
+lang nullpointerexception occuring developing android fix 
+lang nullpointerexception occuring log cat attempt invoke virtual method lang string org json jsonobject tostring null object reference heres code json data server mysql database displaying list exception lang nullpointerexception attempt invoke virtual method lang string org json jsonobject tostring null object reference occuring exception lang nullpointerexception occuring button ui data server show list tap button pdialog shows app responding exceptions occur logcat 
+
+means jsonobject json null check code calling methods jsonobject guess dont data call httprequest 

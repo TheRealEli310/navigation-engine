@@ -1,0 +1,4 @@
+javafx button working 
+started writing simple music player tested found button wasnt working replaced code buttons event handler simple system println button didnt write console fxid button playbutton fxml declaration initialize seteventactions handler havent find google past hour making playbutton setdisable false worked greatly appreciated 
+
+testing regular implementation anonymous class works button bound solutions logger debug code adding break point 

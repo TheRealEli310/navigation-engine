@@ -1,0 +1,4 @@
+catch exception netty 
+netty handle exceptions override method exceptioncaught handler handler exceptions pipeline inboundexceptionhandler inboundhandler1 inboundhandler2 outboundhandler1 outboundhandler2 outboundexceptionhandler means place exception handler pipeline separated head tail ugly idea 
+
+single inbound outbound exception handler top tail pipeline catch exceptions assuming netty exceptions thrown inbound handlers propagate pipeline invoke handlers method assuming handler consume outbound operations add catch exceptions strong method invoked exceptions inbound events strong handler top pipeline catch exceptions outbound handlers outbound handlers encoding fails exception handled channel future listener added operations promise exception handler installed bottom head pipeline initially suggested exceptions handlers method invoked write failed previous handler handler top avoid confusion top bottom pipeline configure pipeline 

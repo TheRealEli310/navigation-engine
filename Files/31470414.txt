@@ -1,0 +1,4 @@
+orphan removal work onetoone relations 
+workaround issue href https hibernate atlassian net browse hhh rel nofollow https hibernate atlassian net browse hhh facing similar issue created sided reverse reference relationship entities set orphan removal attribute true referenced object database setting reference null sample domain model working manually deleting orphans 
+
+href http vladmihalcea beginners guide jpa hibernate cascade types rel nofollow cascading makes sense href http vladmihalcea beginners guide jpahibernate entity state transitions rel nofollow entity state transitions propagate em parent em em child em case parent child association fk mapping cascade orphan removal 

@@ -1,0 +1,4 @@
+return false 
+writing android app adapterview multiple calls adapterview class simply line function returns false override function life figure function exists returns false description returns true filter mode definition missing typical source code code obfuscated 
+
+lack visibility modifier referred em package private em visibility scale classes package override package private methods href https docs oracle javase tutorial javaoo accesscontrol html rel nofollow controlling access members class information android framework framework override methods allowing end users android developers potentially interfere framework operates case default support filter mode subclasses support href https github android platform frameworks base blob master core android widget abslistview rel nofollow descendants case method returns internal property tracks list filter mode 

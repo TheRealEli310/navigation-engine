@@ -1,0 +1,4 @@
+classcastexception starting spring boot application 
+mysterious classcastexception starting spring boot application started issue recently change configuration debug issue strong info strong heres href http pastebin ca rel nofollow build info 
+
+dont dependency blockquote blockquote blockquote blockquote tomcat server dont tomcat dependencies default container strong tomcat strong spring boot blockquote blockquote blockquote blockquote ref href https docs spring io spring boot docs current reference html howto embedded servlet containers html rel nofollow springboot embeddedcontainers 

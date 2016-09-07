@@ -1,0 +1,4 @@
+regression initial capacity arraylist iterations 
+bit confused iterations fill loops regression filling time initial capacity common sense question href http stackoverflow questions start arraylist initial capacity start arraylist initial capacity absolutely inversely strong written benchmark test strong strong iteration strong em em consumes time cpu initial capacity test output tested 
+
+heap allocation artifact causing results dont expect adjust initial heap allocation consistent results removing heap allocation times mix process running benchmark swapped system oom error reduce tests ran allocating heap startup adding explicit gc results make individual times consistent adding back warmup important make test consistent didnt bother strong original test strong strong test strong strong test strong 

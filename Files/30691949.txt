@@ -1,0 +1,4 @@
+inject map spring annotation 
+strong inject values map properties file annotation spring strong spring class error message blockquote autowire field private util map test standard nested exception lang illegalargumentexception resolve placeholder test standard string test standard blockquote properties properties file 
+
+spring boot supports loading properties maps box href http docs spring io spring boot docs release reference htmlsingle boot features external config loading yaml rel nofollow configurationproperties annotation docs load properties bean configurationproperties feature loading map href http docs spring io spring boot docs release reference htmlsingle boot features external config typesafe configuration properties rel nofollow enableconfigurationproperties annotation enable feature cool stuff feature href http docs spring io spring boot docs release reference htmlsingle boot features external config validation rel nofollow validate properties 

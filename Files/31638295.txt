@@ -1,0 +1,4 @@
+multitheading static static method 
+behavior multi threading synchronized static static method class understood thread enters sync method thread acquire lock object execution method thread enters static sync method thread acquire lock class object real confusion part output 
+
+synchronized method obtains lock object representing class method defined case keyword principle meant synchronize methods synchronized instance method locks current object method called synchronized method synchronized instance method interleave lock objects 

@@ -1,0 +1,4 @@
+constructor interface abstract class generics 
+em notice updates question formulated em assume code position dont make constructor signature implemented define ol li constructor signature interface li li abstract class enforcing constructor missing requirement implemented constructor subclasses li li static method href http stackoverflow questions define static method interface interface href http stackoverflow questions static methods abstract abstract class overridden implementation factory pattern li ol 
+
+sounds youre solution write generic factory method bunch blocks writing class reflection code href http ideone gemm13 rel nofollow run demo ideone 

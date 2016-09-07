@@ -1,0 +1,4 @@
+org postgresql util psqlexception error relation app user exist 
+application spring boot postgres error create user run query database error change works configure spring boot app dependencies pom xml application properties entity calling action form controller validator cath error userserviceimpl service repository crudrepository interface implementation debuging validator stack 
+
+postgresql sql standard case means identifiers table names column names forced lowercase quoted create table table apparently table spring regular string table capital letters spliced query postgresql server quotes check reading postgresql log files show query spring generated error top message control spring constructs queries entities sql standard lower case identifiers 

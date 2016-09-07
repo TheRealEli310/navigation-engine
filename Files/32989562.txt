@@ -1,0 +1,4 @@
+build object inheritance relationship lombok builder 
+project lombok avoid writing getters setters class lombok builder build object writing obeject setting values inheritance relationship construct child object lombok builder parents field child class test class build child object handle scenario lombok 
+
+determine fields expose class fields explicitly declared class added static method constructor resulting method argument assume meant immutable supply examples mutable immutable immutable h3 immutable parent child h3 pre class lang prettyprint override h3 mutable parent immutable child h3 pre class lang prettyprint override 

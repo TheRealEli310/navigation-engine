@@ -1,0 +1,4 @@
+serializedsubject thread safety rxjava 
+created instance rxjava call multiple threads href https github reactivex rxjava wiki subject rel nofollow rxjava documentation blockquote care call method methods multiple threads lead serialized calls violates observable contract creates ambiguity resulting blockquote ul li call assuming dont care serialization li li thread break rxjava li li em observable contract em documentation mentions li ul 
+
+blockquote call toserialized subject assuming dont care blockquote yep operators applied subject assume proper serialization occurring upstream stream fail produce unexpected results happen blockquote subject thread break rxjava toserialized blockquote answered blockquote observable contract documentation mentions blockquote href http microsoft fwlink linkid rel nofollow title rx design guidelines pdf rx design guidelines pdf section defines observable contract rxjava documentation make discoverable ill raise issue 

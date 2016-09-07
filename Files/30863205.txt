@@ -1,0 +1,4 @@
+multi threading error binding stringproperty 
+question multi threading binding stringproperty class updates cache server notify user text percentage progress javafx public static defined class bind updater thread update works fine showing progress perfectly updating status text throws error question strong work fine throws error difference multi threading strong ideas redesign greatly appreciated 
+
+wrong call code results ui thread fx application thread em throws exception em fx toolkit makes effort throw exception violate rule cases effect performance great perform check create bindings subsequent properties bound em em executed fx application thread running background thread em em change properties code dont service code tied javafx class listeners bindings scheduling updates listeners replace bindings listeners free update properties thread 

@@ -1,0 +1,4 @@
+abstract classes methods interface 
+program calculates total areas number shapes instantiated problem dont output em draw em method interface main class superclass shape interface drawable subclass circle subclass rectangle assumed print draw method code working correct print draw method explanation newbie 
+
+method array theoretically extends doesnt implement compiler wont call method exist call concrete subclass implement class implement doesnt implement subclasses implement method 

@@ -1,0 +1,4 @@
+okhttp application level okhttpclient instance 
+wondering performance bottleneck issues create instance okhttpclient serve entire android application application class create static public variable instance okhttpclient http request basically build request object created okhttpclient instance fire request code 
+
+single instance problem practice check similar app href https github jakewharton u2020 blob master src main jakewharton u2020 data datamodule github dagger make okhttpclient singleton injects modules href https google 118239425803358296962 posts 5nzavpaithu discussion jakewharton suggesting kind usage singleton pattern purpose 

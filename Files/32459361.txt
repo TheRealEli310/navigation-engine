@@ -1,0 +1,4 @@
+read data multiple csv files similar names 
+multiple files start file date folder consists files script read data concrete file data files named mind heres 
+
+list files directory createing file object directory call method iterate file names check matches pattern customer yyyymmdd csv 

@@ -1,0 +1,4 @@
+design pattern interface determines order method invocation 
+create interface number methods user interface invoke methods sequence order define instance called strong design pattern tips strong considered ul li ul li interface wrapped showing method invocation method returns called li li li li li ul li li ul li kind state machine records position execution enums factory obtaining operation li ul li ul thoughts suggestions greatly appreciated 
+
+feeling strong dont strong pattern logic methods requires strong strong call order exposing implementation detail make easy interface wrong meaning force client code adhere specific order design interfaces client code doesnt care order problem ticket object reserved bought bought tickets turned back refunded case solution strong strong classes reserved tickets bought tickets dont worry refund ticket reserved 

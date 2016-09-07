@@ -1,0 +1,4 @@
+map log file spark 
+monitor log file written history utilization app log file formatted referenced app expressed format expressed specific strong em check percentage cpu usage memory usage em strong application monitored spark map reduce algorithm strong output print alert cpu memory usage strong suggestion start advance 
+
+idea declare class map line scala object lets declare case class initialize sparkcontext create rdd text file data present parse line map app object range checking faster parse method defined assumed input give idea entire program filter transformation perform check report anamoly conditions docheckcpuandmemoryutilization function defined batch processing real time processing 

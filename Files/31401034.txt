@@ -1,0 +1,4 @@
+spring multiple implementation interface 
+interface multiple implementation classes interface naming convention runtime add access implementation class method accessing implementations impl needed runtime depends message received 
+
+implement href http docs spring io spring docs current javadoc api org springframework beans factory beanfactoryaware html rel nofollow beanfactoryaware interface class injected bean factory needed implementation 

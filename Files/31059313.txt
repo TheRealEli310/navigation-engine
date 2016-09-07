@@ -1,0 +1,4 @@
+interceptors confused interceptorbinding 
+playing interceptors annotations pretty confused find extensive tutorial dont understand difference interceptorbinding searching good tos examples annotations interceptors covering cases found documentation basic usages cryptic code explanation give pointer 
+
+interceptor declaration strong interceptorbinding strong indicator bind annotations specific interceptor blockquote interceptor application defines interceptor binding types annotations associate interceptor target beans methods billpayment interceptor binding type named logged interceptor named loggedinterceptor blockquote strong inherited strong annotation class hierarchy blockquote interceptor binding lang annotation inherited annotation annotation inherited superclasses inherited annotation applies custom scopes discussed tutorial apply qualifiers blockquote href https docs oracle javaee tutorial doc gkhjx html rel nofollow documentation 

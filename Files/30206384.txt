@@ -1,0 +1,4 @@
+test server gradle 
+server written application run tests gradle manage dependencies build tasks stuff start server run unit tests make bunch http requests ideally shut server tests adding build gradle jettyrunwar runs server guess simple returns jettyrunwar proceed tests wire gradle start server runs tests 
+
+yeah ya gotta add build gradle wanna shut server end ya gotta throw make include comment gradle luser 

@@ -1,0 +1,4 @@
+instance derby booted database embedded db 
+derby db javafx app works fine connect db netbeans check records start app error blockquote instance derby booted database blockquote disconnect db exception resolved restart pc resolve 
+
+embedded mode process allowed access derby database files open database netbeans whats javafx application process accessing database files embedded mode files open netbeans development view database contents time application accesses database start href http db apache org derby papers derbytut ns intro html rel nofollow derby network server access database client mode embedded switch connection strings netbeans javafx application deploy application easily switch back embedded mode changing connection string configuration 

@@ -1,0 +1,4 @@
+difference getnext 
+writing pseudocode algorithm swap nodes linked list quick question difference amp getnext method wondering identical arent explain efficient 
+
+difference accessing field directly accessing field indirectly accessor method accessing directly efficient theory direct access data object violates encapsulation field class hidden implementation details separate read write access access modifiers granular accessing accessory method good encapsulation freedom mess implementation details store node file memory affecting users class extend class override logic specialized purpose encapsulation important object oriented programming direct access fields strongly discouraged accessor methods preferred approach 

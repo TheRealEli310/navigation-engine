@@ -1,0 +1,4 @@
+rxjava rx exceptions missingbackpressureexception exception 
+basic rxjava based application work defined observable class reads returns lines file defined subscrober code file close records running app rx exceptions missingbackpressureexception documentation suggested added onbackpressurebuffer method call chain exception completed call isint fired handle scenario fast producing observable 
+
+problem readline logic ignores backpressure apply start recent addition lets generate values takes care backpressure problem thread complete elements io thread delivered main program exits remove add 

@@ -1,0 +1,4 @@
+multithreading increment 
+class application multiple threads instance particulary calling inserterrorline method threads stopped instance question rewrite class wont concurrency problems count method callings threads static method static variable make method synchronize make variable volatile 
+
+suggest href https docs oracle javase docs api util concurrent atomic atomicinteger html atomicinteger thread increment method 

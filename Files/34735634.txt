@@ -1,0 +1,4 @@
+lang classnotfoundexception ubuntu 
+added required jar files library results error 
+
+add hive jdbc jar class path resolve problem 

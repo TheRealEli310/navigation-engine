@@ -1,0 +1,4 @@
+notfoundexception simple call jbpm rest api 
+simple call jbpm rest api request postman works expected returns tasks back simple client jbpm remote api server returning notfoundexception nullpointer exception thrown client code pretty copy pasted jbpm docs server log rest endpoint called internally executed fails absolutely idea wrong demo evaluation project easily reproducible 
+
+find solution post problem reading documentation jbpm jbpm included kie service client pom xml kie remote client slightly href https docs jboss org jbpm v6 userguide jbpmremoteapi html rel nofollow https docs jboss org jbpm v6 userguide jbpmremoteapi html started working 

@@ -1,0 +1,4 @@
+store boolean array file read fast 
+store boolean array items file dont care time saving takes interested loading time array didt store dataoutputstream requires access make approaches ol li serialize boolean array li li bitset boolean array serialize li li transfer boolean array byte array true false appropriately write filechannel bytebuffer li ol test reading files approaches run approach times loop results ol li deserialization boolean array takes ms li li deserialization bitset ms li li byte array filechannel mappedbytebuffer ms li ol approaches long approach accomplish advice strong edit strong method ran ol li li li li li ms appropriatively li ol 
+
+writing byte boolean develop custom parser propably fastest methods save space put booleans byte require bit shifting operations short code takes 2ms load booleans tested jdk 

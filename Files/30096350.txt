@@ -1,0 +1,4 @@
+code class 
+making tank game avoid redundancy making classes extend menupanel atm written code matters question knop dutch button code make buttons backgroundpath coordinate made class button menupanel dont buttons wont code button class correct bc code menupanel works dont fix problem multiple problems javaproject explain fix rid redundancy project advance lola combination answers helped buttons kind reason images dont load code public class menupanel extends jpanel implements actionlistener buttons work 
+
+observe difference line code add action listener passing reference code set reference class 

@@ -1,0 +1,4 @@
+validation working spring boot thymeleaf 
+spring boot application version controller shows form works fine add validation method controller type invalid whitelabel error page submit breakpoint inside method hit remove annotation breakpoint hit error page shows spring notice object valid show form user fix mistake wrong 
+
+found answer due href http codetutr spring mvc form validation tutorial change method signature notice em immediately em object annotated 

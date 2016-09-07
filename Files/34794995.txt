@@ -1,0 +1,4 @@
+serialize observablelist 
+working strong javafx strong project add listners includes model persons strong store strong object file serialization strong exception strong implimented serialization object model luck method serialize strong observablelist strong h2 strong employeemodel strong h2 h2 strong serialization strong h2 h2 strong exception strong h2 
+
+implementations essentially define behavior serializing listeners serializing listeners serializing observable list data assuming class instances serialized read back complete test ran worked removed persistence annotations didnt javax persistence classpath test environment make difference 

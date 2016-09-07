@@ -1,0 +1,4 @@
+string corrupted udp 
+sending udp datagram string content creating packet problem arrives weird binary data end displayed characters sublime text shows nul symbol extract information parts string tokenizer solved problem adding end sending data 
+
+heed carefully answers advising character encoding explicitly ends advice excellent character data received accurately addition junk end issue arise character encoding mismatch arises incorrect receiver fixed length buffer messages method returns buffer longer message recently received tail end data unrelated message receiving message packets method determine bytes buffer correspond message 

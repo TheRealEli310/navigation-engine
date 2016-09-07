@@ -1,0 +1,4 @@
+jersey disable default json provider 
+jersey json automatic feature discovery custom json provider extending annotated automatically registerd default disable exclude default giving feature scanning manually registering solution make provider higher priority dont idea relying priority change 
+
+yeah jackson feature wrapped href https jersey net documentation latest deployment html deployment autodiscoverable rel nofollow auto discoverable automatically registered couple options h3 em em h3 disable auto discovery feature property thing feature expect registered automatically auto discovered registered arent features auto discovered big problem disable h3 em em h3 provider doesnt provide jackson functionality register mbr mbw exceptionmapper wrap auto discoverable extended register h3 em em h3 extending register common approach configure href https jersey net documentation latest media html json jackson rel nofollow 

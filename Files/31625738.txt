@@ -1,0 +1,4 @@
+libgdx scene2dui layer actors position 
+problem configurate position buttons scenes layer build menu fill buttons ignore commands code happening buttons ignoring commands position itselfs horizontally forget 
+
+tables libgdx set position children setposition wont work make align firstly set dimensions position table align things assume table full screen change width height position buttons relative table order set button centre table position top center stop buttons adding line add multiple rows table buttons adding simply call positions add table row directly order make things bit nicer padding hope helps 

@@ -1,0 +1,4 @@
+problems injecting custom userdetailsservice spring security oauth2 
+spring security oauth2 release orm connect database default jdbcuserdetailsmanager jdbc wanted implement userdetailsservice modified authorities schema injecting custom userdetailsservice send oauth token request grant type password error clientid clientsecret encoded apparently default jdbcdaoimpl fact started debugging found steps ol li authenticates client havent modified oauth client details table li li authenticates user custom userdetailsservice users table modificated custom userdetailsservice supports li li authenticates user default userdetailsservice error li ol dont happening sounds bug find wrong 
+
+creating auth managers default pointing custom putting hope userservice jdbc autowired inside point add authentication configurations authentication manager configuring 

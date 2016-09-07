@@ -1,0 +1,4 @@
+stream reduction wildcard types 
+experimenting href https docs oracle javase docs api util stream stream html reduce util function binaryoperator rel nofollow run snag type system heres toy works reduce list doesnt compile error conceptually return type sources elements isnt unsure handle case collections subclass reduced collected hr helps heres practical similarly fails compile 
+
+issue isnt parameter sotirios delimanolis suggested bounded type identity wildcard bounded methods determine identity parameter type lists elements types share workaround argument href https docs oracle javase docs api util stream stream html reduce util function bifunction util function binaryoperator rel nofollow method treat result type em em heres heres annoyingly duplicate reduction function types define variable pass unsafe cast improvement 

@@ -1,0 +1,4 @@
+restlet routing basic concepts 
+restlet routing apis href http localhost www ping rel nofollow http localhost www ping dont type method href http stackoverflow questions restlet routing nightmare restlet routing nightmare practice restlet routing implement api 
+
+fact part restlet application classically application accessible restlet component created ul li strong standalone mode strong application server li li strong container mode servlet support strong extension case front servlet provided automatically wraps component class application implementation li ul implement restlet application implement class extends routing defined method server resource attached path server resource responsible handle request sample implementation hope helps thierry 

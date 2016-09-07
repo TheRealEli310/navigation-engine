@@ -1,0 +1,4 @@
+ejb deployment apache tomee hibernate persistence provider mysql db 
+facing problem configuration project build ejb technology server container apache tomee built openejb module mysql database hibernate persistence provider configuration files strong tomee xml strong strong persistence xml strong strong person entity strong entities similar strong managerbean strong strong local interface strong access getallpersons method interface manager servlet followss idea exception wrong transactionmanager wondering map entities hibernate cfg xml add mapping reference persistence xml noticed access method entitymanager removes records table didnt find tomee documentation ideas 
+
+found solution usefull hibernate persistence provider jta transaction manager till implicit open ejb transaction manager solove problem strong persistence xml strong aware hibernate version provider deprecate 

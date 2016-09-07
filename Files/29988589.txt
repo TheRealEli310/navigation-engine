@@ -1,0 +1,4 @@
+resource query parameter validation jersey dropwizard 
+href http www dropwizard io rel nofollow dropwizard application resource required query parameter jersey supports href https jersey net documentation latest bean validation html rel nofollow bean validation notnull annotation didnt work heres code resource case isnt clear happen client sends request parameter em required param em return error reading docs thought dropwizards configuration reason added piece code applications run method didnt work idea 
+
+object primitive type 

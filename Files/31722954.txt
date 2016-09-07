@@ -1,0 +1,4 @@
+jtree display files directory jpanel 
+working developing gui swing gui implemented user load set text files filechooser dialog open user selects directory files present list files selected directory jscrollpane jtree implement jtree code href http www java2s code file input output filetreedemo htm rel nofollow http www java2s code file input output filetreedemo htm jtree displayed jpanel select directory jtree code actionperformed method code filetreemodel class revalidating content container gui href http stack imgur mxodr jpg rel nofollow img src http stack imgur mxodr jpg alt enter image description 
+
+havent revalidated container end actionperformed method add lines 

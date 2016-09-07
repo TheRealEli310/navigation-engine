@@ -1,0 +1,4 @@
+hadoop stdout empty bytes written 
+execute weka mapreduce stdout empty class runs program responsible input user setting mapper reducer organizing weka input mapper class class mapper weka classifiers chunk data sets classifier run data lot handling occurs method reducer class class reducer output weka classifiers bunch cross validated data chunks mappers job aggregate data solution lastly inputformatclass takes jobcontext returns list data split pieces basically handling large data sets method split large data set smaller chunks pass worker nodes case make life easier pass chunks single node overwhelmed large data set 
+
+mapper reducer job stderr file stdout file syslog file printing stdout mapper reducer check stdout file mapper reducer job luck 

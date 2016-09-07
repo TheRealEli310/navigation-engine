@@ -1,0 +1,4 @@
+increase http post maxpostsize spring boot 
+fairly simple spring boot web application single html page form error blockquote multi part request contained parameter data excluding uploaded files exceeded limit maxpostsize set connector blockquote spring boots default embedded tomcat server apparently default megabytes edit create customized beans mess xml files 
+
+found solution add code class running springapplication run 

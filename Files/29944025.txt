@@ -1,0 +1,4 @@
+add raw xml text soapbody element 
+xml text generated application wrap soap envelope make web service call code builds envelope dont add existing xml data element adds content escaped 
+
+adds xml document document creation logic href http www journaldev convert string xml document xml document string rel nofollow post 

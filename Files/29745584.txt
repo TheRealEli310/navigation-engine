@@ -1,0 +1,4 @@
+getdirectbufferaddress jni 
+understand jni layer understand build simple native jni layer run debian linux wheezy amd64 openjdk understand values index amp values make sense expected misunderstood bytebuffer usage jni 
+
+missed documentation default notation explains behavior system ref href http docs oracle javase docs api nio byteorder html big endian rel nofollow code reads appears default effort made provide api explained bug report href http bugs bugdatabase view bug bug id rel nofollow jdk bf newdirectbytebuffer order byteorder big endian 

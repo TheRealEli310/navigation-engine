@@ -1,0 +1,4 @@
+tyrus websockets set client local ip address 
+local ip address port websockets tyrus thing full parameters constructor href http docs oracle javase docs api net socket html socket net inetaddress 20int 20java net inetaddress 20int socket strong edit strong found low level grizzly href https grizzly net docs apidocs org glassfish grizzly nio transport tcpniotransport html tcpniotransport href https grizzly net docs apidocs org glassfish grizzly nio transport tcpniotransport html connect net socketaddress 20java net socketaddress connect method local address dont make href https tyrus net apidocs org glassfish tyrus client clientmanager html tyrus client 
+
+grizzlyclientsocket calls transport connect method local address parameters youll feature request tyrus project write implementation grizzlyclientsocket youll call implementation grizzlyclientcontainer 

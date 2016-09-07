@@ -1,0 +1,4 @@
+display attribute type sdo geometry 
+jdbc display rows table created oracle 11g database problem dont manage attribute shape type sdo geometry code works fine attributes table ddl statements create testgeo table test data 
+
+strong problem caused fact retrieve complex object custom oracle object handled mapping library strong type statement part oracle spatial package relies custom objects read easily basic sql columns call yields results solution href http docs oracle html b14373 oracle spatial geometry jgeometry html jgeometry package provided oracle designed purpose blockquote class maps oracle spatials sql type mdsys sdo geometry supports oracle jdbc driver version higher basic access functions geomeries stroed oracle spatial database blockquote library classpath custom mappings manipulate shape object 

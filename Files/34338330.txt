@@ -1,0 +1,4 @@
+azure webapp tomcat shutdown 
+azure webapp newest tomcat application container option enable web app day tomcat shutdown gracefully access applications tomcat automatic startup happen day encountered issue prevent tomcat shutdown advance 
+
+resolve issue application configured redirect traffic https problem alwayson service redirect https stop working web servers layer ping application layer change rewrite url redirect https tomcat default root application result worker process time result alwayson ping 

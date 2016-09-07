@@ -1,0 +1,4 @@
+spring integration message store configuration microsoft sql server 
+setup messagestore spring integration jdbc configuration underlying db microsoft sql server starting server exception fix problem 
+
+implement dont rdbms vendors dml feel free raise href https jira spring io browse int rel nofollow jira ticket href https github spring projects spring integration blob master contributing md rel nofollow contribute 

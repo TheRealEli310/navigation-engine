@@ -1,0 +1,4 @@
+wildfly jms injection happening 
+class deployed jboss final injected fields null context syncqueue fields injected null pointer exceptions send jms message error message jboss log war started jboss startup jms related output named queue started error message idea injection happening 
+
+kudos john ament asked question found factory class reference created weld injection issue resolved removed added field factory class btw working version resource lookup 

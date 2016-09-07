@@ -1,0 +1,4 @@
+javafx piechart control size 
+javafx adjusting application developed javafx lots pie charts depicted children charts dont number categories reason bigger control radii prefer radius uniformity 
+
+public api directly control radius piechart control public methods href https docs oracle javase javafx api javafx scene layout region html rel nofollow region pie radius depends height width enclosing region radius labels absent controlled piece code inside piechart combination href https docs oracle javase javafx api javafx scene layout region html widthproperty rel nofollow width href https docs oracle javase javafx api javafx scene layout region html heightproperty rel nofollow height methods control size pie chart min max properties min max region space 

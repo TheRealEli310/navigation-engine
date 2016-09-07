@@ -1,0 +1,4 @@
+bdd embedded tables serenity jbehave 
+create bdd test serenity thucydides jbehave extension story originating serenity jbehave examples generated code retrieve table arguments test parameters documentation jbehave tabular parameters work make annotation readable adding table parameters 
+
+retrieve parameter readable annotations doesnt find declared method tells step pending check whitespace story word em fruit em access rows columns tables written jbehave documentation href http jbehave org reference stable tabular parameters html rel nofollow http jbehave org reference stable tabular parameters html creating table code access parameters work read exampletable 

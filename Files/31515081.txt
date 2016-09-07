@@ -1,0 +1,4 @@
+write comment jenkins log 
+test run jenkins debug test add dummy comment values variables console output jenkins work 
+
+testing framework junit tests run logged jenkins including print statements tests execute jenkins plugin specifically junit href https wiki jenkins ci org display jenkins junit plugin rel nofollow found publish results easily access jenkins allowing tests fail inspect printed stack trace test 

@@ -1,0 +1,4 @@
+spring data html form 
+create simple application involves jsp page textarea enter query submit button query class simple class shown querycontroller interact querycontroller print console test output printed clicking submit button takes results error valid webpage simple classes shown appreciated query class query jsp simple querycontroller 
+
+configuration modules working h2 option web xml h2 strong strong modify strong strong create file path strong strong add contents file created step edit spring version references strong strong set package configuration h2 option web xml h2 strong strong delete strong strong add annotation based strong strong modify package strong strong add create class extending required configurations h2 update h2 configuration part resulting error ol li configured accept url li li deployment descriptor li li user running defaults load files move spring version li ol 

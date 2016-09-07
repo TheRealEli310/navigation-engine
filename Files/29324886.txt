@@ -1,0 +1,4 @@
+retrywhen operator retries 
+implementing db update approach retrials common pattern strong retrywhen strong operator explained href http stackoverflow questions rxjava retry delay rx retrywhen retry logic executes debugging breakpoint hitting strong place strong shown back retry logic strong place strong place strong place strong oncomplete handler strong code lambdas strong blockquote applied workaround removing retrywhen block altogether invoking updatewithretrials recursively subscribes onerror block working dont approach blockquote suggest incorrect retrywhen operator 
+
+suppose error occurs inside occur works implement observable make errors occur error thrown create block called unit work retried depending retry logic 

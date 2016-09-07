@@ -1,0 +1,4 @@
+streams lambdas 
+interesting part code refactor streaming api capabilities refactored streams 
+
+rewritten pretty check unnecessary code empty loop executed 

@@ -1,0 +1,4 @@
+save json mongodb 
+save json isnt query 
+
+isnt valid json start youd quotes field wouldnt href http docs mongodb org manual reference limits rel nofollow mongodb documentation blockquote field names dots null characters start dollar sign href http docs mongodb org manual faq developers faq dollar sign escaping rel nofollow dollar sign operator escaping alternate approach blockquote depending em em characters field potentially replace dots storing sort escaping mechanism 

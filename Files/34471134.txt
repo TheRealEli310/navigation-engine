@@ -1,0 +1,4 @@
+error org hibernate mappingnotfoundexception resource hbm xml found 
+href http stack imgur s2jcn png rel nofollow img src http stack imgur s2jcn png alt enter image description hibernate sample code hibernate cfg xml table hbm xml inserttable mysql database mysql connector jar shows error whats problem code jar files added appreciated edit replace tabledata hbm xml works good hibernate learning beginners 
+
+file hibernate cfg xml add 

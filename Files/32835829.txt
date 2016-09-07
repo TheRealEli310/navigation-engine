@@ -1,0 +1,4 @@
+create socket thread 
+create socket connection problem create thread error becouse create thread call null create msocket thread 
+
+interface create interface socketmanager class return boolean method check connection success activity implement interface 

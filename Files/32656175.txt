@@ -1,0 +1,4 @@
+pentaho data integration transformation loading fields csv file api 
+create simple transformation kettle api blocks read csv file write text file code run code output csv file rows problem transformation doesnt fields exported transformation xml file loaded pentaho spoon pressed fields button worked correctly rows read manually create fields set automatically button fields spoon 
+
+curious found solution csv reader class gui class methods private directly write method dirk method find ready csv parser 

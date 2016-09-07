@@ -1,0 +1,4 @@
+groovy handling closures throwing exceptions 
+system customise groovy scripts spotted strange effect type exceptions throw scripts groovy script process defined closure base class script strong class strong runs scripts method omitted set code doesnt relevant process method doesnt declare throws exceptions throws exception caught code valid compiles runs happily throws exception wanted legal code theory shouldnt throw checked exception method doesnt declare throws 
+
+works compiler starting determine thrown exception thinks checked exception declared read href https docs oracle javase docs technotes guides language catch multiple html rel nofollow https docs oracle javase docs technotes guides language catch multiple html code compiles perfectly compiled sees runtimeexception caught doesnt declare fail compile caught thrown 

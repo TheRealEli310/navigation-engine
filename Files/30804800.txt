@@ -1,0 +1,4 @@
+insert entity jpa 
+perform semantic equally query jpa pre class lang sql prettyprint override tables pre class lang sql prettyprint override entity entity execute entity guess set access execute query mentioned perform similar jpa result query 
+
+jpa doesnt support reading entities table create entities table lot slower sql query 

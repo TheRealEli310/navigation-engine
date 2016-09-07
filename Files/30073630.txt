@@ -1,0 +1,4 @@
+create classify instance weka 
+created decision tree j48 weka api train decision tree arff file arff file includes instances instance attributes pt1 w1 d1 pt2 w2 d2 numeric class code working resulting decision tree create instance arff file classify instance values instance decision tree return class 
+
+found solution problem hope itll 

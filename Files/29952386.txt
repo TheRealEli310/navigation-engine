@@ -1,0 +1,4 @@
+embedded id repeated column mapping entity exception 
+problem jpa hibernate fail solve applicationcontext xml performance entity embedded id class classes run application exceptions exception caused repeated column mapping entity good idea embedded id class 
+
+variables class mapped columns embedded id error mapped insert false update false essentially makes fields readonly hibernate change columns values embedded id changed values changed 

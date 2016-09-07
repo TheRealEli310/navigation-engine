@@ -1,0 +1,4 @@
+convert string byte byte array 
+limitted storage stores bytes byte array long string string getbytes work convert encode long string bit standard ascii characters set byte byte array encoded back original string understand limtation original input string advise set requirements reasonable lengh limitations email address length 
+
+youre impossible arbitrary sufficiently long complex string encoded bytes string bit standard ascii characters limited encoding decoding strings characters bits byte bytes bits character actual bit shifting arithmetic case messy resulting memory savings negligible 

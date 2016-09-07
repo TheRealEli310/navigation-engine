@@ -1,0 +1,4 @@
+predicate generic function accepting list integers 
+filter method predicate interface filter list conditions integer array list list arraintegerlist arrays aslist calling method giving compilation error giving compilation error list string working fine 
+
+give list parameterized type lambdas parameter match parameter list works output stuart marks commented works 

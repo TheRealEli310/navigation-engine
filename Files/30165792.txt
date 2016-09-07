@@ -1,0 +1,4 @@
+simulate connection timeout wiremock tools 
+simulate 
+
+wiremock calling api posting replacing milliseconds youd delay 

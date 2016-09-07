@@ -1,0 +1,4 @@
+throw block 
+method throw exception isnt inside block 
+
+throw exception isnt inside block declare method throws exception compiler give error dont extends runtime exception code wont give compiler error npe runtimeexception throw exception exception propagated method called method method deal exception catch propagate call stack rethrowing 

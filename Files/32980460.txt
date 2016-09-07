@@ -1,0 +1,4 @@
+suffix tree implementation issue 
+studying suffix tree implementation reference implementation question indexes refer line class suffixtreenode indexes nodes children character find values indexes class suffixtreenode feel free correct insights appreciated advance lin 
+
+surely needed implementation suffix tree multiple versions suffix tree optimized variable plays integral part returning indices string sip sis exist original string mississippi back calling method returns base case list occurrences string output 

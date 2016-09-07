@@ -1,0 +1,4 @@
+level vertices vertex level gremlinpipeline 
+write query find vertices level vertex level unknown strong gremlin strong suppose vertex set vertices connected vertices 2nd level 
+
+give leaves assume tree structure traverse vertex reach level path vertices emitted traversal finds termination dangerous traversal arent data structure simply loop forever graph cycles side control emission intermediate vertices final adding closure emit closure loop end emit vertex finds finding height tree grabbing max loops 

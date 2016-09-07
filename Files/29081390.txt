@@ -1,0 +1,4 @@
+documented jboss eap runtime dependencies added maven project 
+jboss eap ee jboss tools add jboss runtime libraries eclipse fails compile maven maven add jboss eap libraries maven order build successfully documented artifacts add jboss eap libraries classpath single dependency add representing ee stack jboss extensions change update container boom magic 
+
+information pom xml files included quickstarts bundled jboss kitchensink defined parent pom explained href https access redhat documentation en jboss enterprise application platform html development guide maven bom usage html rel nofollow https access redhat documentation en jboss enterprise application platform html development guide maven bom usage html requires redhat support account jboss component versions listed href https access redhat articles rel nofollow https access redhat articles 

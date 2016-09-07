@@ -1,0 +1,4 @@
+firefox notconnectedexception 
+configuration version openjdk version internal openjdk runtime environment build internal b27 openjdk bit server vm build b25 mixed mode ubuntu href https github semperos clj webdriver rel nofollow clj webdriver running test exception 
+
+clj webdriver recent version selenium included firefox updates frequent breaking webdriver connectivity supported latest selenium versions change dependency exclude included selenium add dependencies href http www seleniumhq org download rel nofollow latest selenium version time posting 

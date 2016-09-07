@@ -1,0 +1,4 @@
+oracle service bus maven build time times slower linux windows 
+osb project set modules roughly minutes build local core 12gb ram laptop running windows threading simple build install takes seconds module building exact project ci server running ubuntu cores 16gb ram build time closer minutes minutes module details linux build ul li minutes module spent sitting idle cpu utilization li li maven opts xmx512m xms512m li li build time li li running flag spends time end configuration li ul increasing file descriptor limit thinking problem build time 
+
+profiling maven visualvm windows linux found linux spent abnormal amounts time generating random seed href http stack imgur jyosx png rel nofollow img src http stack imgur jyosx png alt enter image description changing slighty secure build time minutes strong 1minute 47seconds strong passing setting flag set permanently file changing br bring security implications research 

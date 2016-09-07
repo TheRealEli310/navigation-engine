@@ -1,0 +1,4 @@
+mysql multiple transactions incrementing row 
+understanding resultant behaviour concurrent transactions updating row database database mysql scenario transaction update row transaction update row transactions executing parallel auto commit mode turned final state row reflect made potential data loss answer change transactions simply incrementing data records 
+
+transactions update row transaction blocked transaction rolled back committed words transactions run parallel end depends isolation level href http developer mimer documentation latest jdbcguide html programming html rel nofollow http developer mimer documentation latest jdbcguide html programming html details 

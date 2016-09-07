@@ -1,0 +1,4 @@
+spring rest controller selectively switch validation 
+controller method creating entity add controller method method allowed empty null line write class annotation inheritance 
+
+short answer em validation groups em reference intended group method handler parameters validations group applied validation groups defined empty interfaces read group constraints href http docs jboss org hibernate validator reference en html ch05 html rel nofollow hibernate validator documentation 

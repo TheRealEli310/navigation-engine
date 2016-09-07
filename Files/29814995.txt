@@ -1,0 +1,4 @@
+libgdx bitmapfont setscale method working 
+scale font receiving error method setscale float float undefined type bitmapfont code section error specifically lines created variables check examples setscale function format ideas occurring 
+
+method doesnt exist anymore href http libgdx badlogicgames nightlies docs api badlogic gdx graphics g2d bitmapfont html bitmapfont class href https github libgdx libgdx blob master api change bitmap classes introduced libgdx released april explained href http www badlogicgames wordpress libgdx team blog post tutorial outdated long story short latest libgdx version 

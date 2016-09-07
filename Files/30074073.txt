@@ -1,0 +1,4 @@
+calculating placing angle geometric shape 
+working program enables user draw geometric shapes issues calculating placing angle objects panel accurately angle object basically extension object additional method called inside class method computes finds starting extension angle values bit buggy code works connect lines connect make triangle result img src http stack imgur auv9d png alt enter image description adb angle correctly couldnt figure overcome additional info code strong edit strong b1 b2 line2d objects method 
+
+things made simplify calculation ul li vertices ordered clear calculate vertex angles pointing corner li li draw polygon direction draw angles direction assumes polygon drawn clockwise angle calculation result arcs drawn polygon drawn counterclockwise li ul code dont code similar functionality results img src http stack imgur guwsr png alt screenshot polygon 

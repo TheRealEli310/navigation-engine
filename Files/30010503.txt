@@ -1,0 +1,4 @@
+autowire implementer specific profile spring 
+demonstrate code dynamically request arrives make spring autowire classes profile thing wiring time background seeking good practice implement server side version control mechanism request belongs version v1 autowire class v1 profile vice versa autowiring list iterating find suitable version 
+
+blockquote autowire bean request blockquote beans injected context created blockquote seeking good practice implement server side version control mechanism blockquote follow answer href http stackoverflow questions manage rest api versioning spring manage rest api versioning spring 

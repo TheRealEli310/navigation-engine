@@ -1,0 +1,4 @@
+parsing dicom tags arraylist string 
+dcm4chee2 parse tags converting metadata arraylist type string tostring method convert tags dicomobject string noticing full list dicom tags vr codes description dicomobject method full list tostring code 
+
+define dicomobjecttostringparam object suspect providing attributes defaults small dataset loop attributes youre handling sequence elements appropriately loop iterator 

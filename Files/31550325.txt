@@ -1,0 +1,4 @@
+put response apioperation swagger 
+code status class apioperation method return response nocontent build 
+
+omit part default href http docs swagger io swagger core apidocs wordnik swagger annotations apioperation html response rel nofollow docs blockquote response type operation jax rs applications strong return type method automatically case operation return type default actual response type strong emphasis mine setting property override automatically derived data type class representing primitive primitive type strong default strong blockquote 

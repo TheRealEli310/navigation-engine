@@ -1,0 +1,4 @@
+show listview custom list adapter inside fragment 
+facing problem show custom inside xml files strong section2fragment strong strong customlistadapter strong strong fragment section2 xml strong strong listview item xml strong question list items appearing screen solve problem 
+
+problem oncreateview inflate layout reference listview returning inflated layout return inflated layout replace 

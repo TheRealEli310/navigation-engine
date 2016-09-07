@@ -1,0 +1,4 @@
+jackson generic json list converter method work 
+method invoke returned list dont generics code works fine invocations unable understand generic creating fyi changing method signature invocation didnt worked 
+
+element class mappers argument 

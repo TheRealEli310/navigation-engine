@@ -1,0 +1,4 @@
+class forname mechanism needed 
+code open jdbc connection heard longer needed modern jdbc drivers remove project exception java7 tomcat7 omit construct 
+
+class forname needed jdbc excerpt href https docs oracle javase tutorial jdbc basics connecting html tutorials jdbc blockquote strong previous versions jdbc strong obtain connection initialize jdbc driver calling method class forname methods required object type sql driver jdbc driver classes implements interface sql driver drivers db org apache derby jdbc embeddeddriver org apache derby jdbc clientdriver mysql connector mysql jdbc driver documentation dbms driver obtain class implements interface sql driver strong jdbc drivers found class path automatically loaded strong manually load drivers prior jdbc method class forname blockquote 

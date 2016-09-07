@@ -1,0 +1,4 @@
+method ambiguous overloading variable argument 
+newcomer today piece code thinking figure produce compile time error code compile complained 
+
+problem methods vararg argument means considered href https docs oracle javase specs jls se7 html jls html jls final phase overloading resolution automatically converted href https docs oracle javase specs jls se7 html jls html jls widening primitive conversion converted href https docs oracle javase specs jls se7 html jls html jls boxing conversion applicable arguments precedence 

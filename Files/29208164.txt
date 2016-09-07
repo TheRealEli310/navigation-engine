@@ -1,0 +1,4 @@
+client kafka producer send method accepting keyedmessage 
+running kafka included jars provided libs directory main kafka directory run producer href https cwiki apache org confluence display kafka producer rel nofollow https cwiki apache org confluence display kafka producer method accepting kind argument object keyedmessage converted incompatible types compiler error heres code commented code giving class def found exception lot net helping kinds jars libs directory kafka client kafka version number including wrong jar work 
+
+problem importing scala api import simplepartitioner code found add directory 

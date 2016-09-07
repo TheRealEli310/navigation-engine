@@ -1,0 +1,4 @@
+configure project json provider jersey restful web services 
+create restful jersey webservice pass json object webservice thing add json provider project added maven dependency href https github fasterxml jackson jaxrs providers rel nofollow page auto registration working strong unsupported media type strong error access web service guide register json provider properly 
+
+auto registration work app configured scan entire classpath optimal examples wont mention web xml empty subclass annotation enable classpath scanning ways package scanning web xml scans package scan jackson classes add package list subclass jaxb annotation support subclass add instance provider overridden method hr jersey href https jersey net documentation latest media html json jackson rel nofollow dependency configuration automatically register dependency dependency mentioned post jersey specific auto discoverable feature register 

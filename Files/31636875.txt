@@ -1,0 +1,4 @@
+layoutinflater contextthemewrapper themed 
+inflate layout theme app default time view doesnt theme main app theme view recreated minutes correct theme theme view created edit set theme dinamically 
+
+created view testing found create view works fine 

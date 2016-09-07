@@ -1,0 +1,4 @@
+jackson incorrectly deserialize joda dates custom date format 
+serialize deserialize simple object custom date format executing main method expecting similar blockquote date br blockquote blockquote date br strong strong 01t00 strong year incorrect strong blockquote jackson ignores jsonformat annotation objects deserialization treat string date iso notation fix update change date pattern dd mm yyyy start error illegalargumentexception invalid format jackson ignores date pattern deserialization 
+
+href https github fasterxml jackson wiki jackson release rel nofollow jackson release notes support joda jsonformat pattern deserialization added version 

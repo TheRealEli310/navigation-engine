@@ -1,0 +1,4 @@
+sql server connection wildfly jtds driver 
+strong correct setup sql server datasource widlfly strong access sql server database web application runs wildfly setup datasource works fine sql server restarted connection lost datasource doesnt manage recreate errors blockquote invalid state connection object closed blockquote href http stackoverflow post suggests adding validation solve problem connection closed error time time href http stackoverflow post suggests datasource driver added configuration test connection exception blockquote sql sqlexception servername property set br net sourceforge jtds jdbcx jtdsdatasource getconnection jtdsdatasource blockquote 
+
+issue migrating wfly resolved adding properties complete ds xml valid connection checker adequate adding background validation select working moved jdbc driver directly msft make difference set jboss as7 jdts driver long time 

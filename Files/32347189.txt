@@ -1,0 +1,4 @@
+style selected text jtextpane 
+bold italic styles jtextpanes selectedtext applying style checking text bold italic 
+
+code style selected text jtextpane 

@@ -1,0 +1,4 @@
+loop condition validate input 
+loop checks marks student loop invalid input catches exception characters numbers entered loop making result appreciated 
+
+remove statement breaks loop input 

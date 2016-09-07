@@ -1,0 +1,4 @@
+prevent recyclerview showing previous content scrolling 
+recyclerview gridlinearlayout custom adapter content item picture downloaded json parsing basically grid pictures works fine scrolling content shows previous views item show proper picture prevent fix advance guidance provide adapter code 
+
+suggests recycles views optimize memory displays content previous view loading image internet takes time load image content previous image observed things set default image local resource loading actual image preferably small size image preserve memory set visibility invisible loading image make visible image loaded 

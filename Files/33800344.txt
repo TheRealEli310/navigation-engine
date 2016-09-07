@@ -1,0 +1,4 @@
+private constructors visibility 
+understand difference accessibility class members speaking constructors private members private accessible fields methods case constructors rule jls href http docs oracle javase specs jls se8 html jls html jls determining accessibility read blockquote member class interface field method reference type constructor class type accessible type accessible member constructor declared permit access ul li li li member constructor declared access permitted occurs body top level class encloses declaration member constructor li ul blockquote explain constructor accessible declared 
+
+method private dont inherit call directly class private methods constructor declared class access works access redefine foo method method override 

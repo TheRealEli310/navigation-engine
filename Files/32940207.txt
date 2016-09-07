@@ -1,0 +1,4 @@
+akka cassandra persistence 
+test akka cassandra persistentence url href http doc akka io docs akka rc3 persistence html rel nofollow http doc akka io docs akka rc3 persistence html make persistentactorexample work cassandra running problems mentioned application conf guys implementation sample started code works fine leveldb datastax hoping application conf issue hr project maven dependency error experiencing 
+
+stable version akka youre release candidate bump dependency cassandra plugin href https github krasserm akka persistence cassandra issues milestone 3a0 20is 3aclosed rel nofollow released week supports akka reason youre error pulled conflicting versions akka journal plugin api journal implementation journal plugin api experimental akka subject change making stable akka journal api strong stable strong change breaking ways 

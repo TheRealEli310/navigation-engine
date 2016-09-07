@@ -1,0 +1,4 @@
+error executing sql script hibernate hbm2ddl import files 
+h2 db hibernate autogenerate db schema entities fill db file relevant database tables generated called sql statement hibernate runs sql statement error adding column names inside statement doesnt error h2 database means error 
+
+replace doulbe quote single quote 

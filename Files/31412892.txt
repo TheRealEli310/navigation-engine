@@ -1,0 +1,4 @@
+nosql dao implementation 
+concluded dao design achieve befor bit trouble read documentation examples goal hard time figuring include dao interfaces object dont id create dao interface put method id id class actual queries nosql database stands update model add remove group list groups things care inside dao class address inside respective dao classes understanding isnt fully learn stuff 
+
+implement wanted important thing make objects responsible interface acts connector dao objects make object methods interface put accessor mutator interface point make functions public words true dao generally speaking dao objects highly coupled interface decide tht stick dao structure small number method swhich perform change field called wouldnt call setname modify field object call updatefields interface hope helps wall text complex question answer 

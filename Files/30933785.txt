@@ -1,0 +1,4 @@
+javacc unicode issue u696d managed javacc belong range u4e00 u9fff 
+javacc parser parse source code utf language japanese javacc declaration meets string fail character remove works expected code character u696d declaration belong range u4e00 u9fff suggestion ps rewrite grammar antlr 
+
+wrong token fragment wrong javacc problem lies javacc specification made copying pasting problem code javacc output resulting program generated tokenizer trouble 

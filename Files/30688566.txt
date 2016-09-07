@@ -1,0 +1,4 @@
+timeout submitting jobs ec2 cluster 
+make work luck launch cluster submit job argument main method bit status output exception spark local machine access ui master machine verify spark processes fact ssh master tips 
+
+open ports editing security policies access ports ec2 spark cluster spark ec2 py doesnt open ports master accessed cluster connect master machine spark cluster command upload job file scp key submit job ensure driver access cluster master slaves running applications section href https spark apache org docs latest ec2 scripts html rel nofollow running spark ec2 documentation 

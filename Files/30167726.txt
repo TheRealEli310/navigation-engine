@@ -1,0 +1,4 @@
+keyevent focus javafx fxml 
+working instant messaging program created text user enter message fxml add enter pressed text field focus strong update doesnt work strong 
+
+add event listener controller declare method strong update comments strong avoid cursor step line em consume em event leaves method 

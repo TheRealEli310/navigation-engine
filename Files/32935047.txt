@@ -1,0 +1,4 @@
+jgrapht finding path breadthfirstiterator 
+code traverse graph expected code prints list visited vertexes problem dont api obtain path removed backtracks algorithm path output list visited vertexes stopping reaching destination obsiously solved issue 
+
+shortest path vertices href http jgrapht org javadoc org jgrapht alg dijkstrashortestpath html findpathbetween org jgrapht graph rel nofollow implementation href https en wikipedia org wiki dijkstra algorithm rel nofollow dijkstras shortest path algorithm path return sample code 

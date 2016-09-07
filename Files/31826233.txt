@@ -1,0 +1,4 @@
+custom authentication manager spring security configuration 
+spring security springmvc create web application refer webapp clarity speaks existing application refer backendapp delegate authentication responsibilities backendapp dont synchronise applications implement webapp running spring security communicate backendapp rest username password provided user form authenticate based backendapps response unauthorised understand write custom authentication manager spring find information implement set authentication setauthenticated true successful false written configure spring security authentication manager configuration file advance assistance 
+
+sample return usernamepasswordauthenticationtoken principal grantedauthorities hope ps userrepo rightrepo spring data jpa repositories access custom user db springsecurity javaconfig 

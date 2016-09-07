@@ -1,0 +1,4 @@
+start elasticsearch service multiple jdks 
+servers jdk change dependencies older versions start current elasticsearch version jdk versions including installed version executable stored bin newer installed usr jdk1 xx bin havent found option elasticsearch elasticsearch yml set path executable set environment vars path home newer version luck force elasticsearch newer version 
+
+elasticsearch bash script launch elasticsearch installed rpm located search function launch service line function add line pick version set line added 

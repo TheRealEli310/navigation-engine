@@ -1,0 +1,4 @@
+org glassfish jersey server containerexception io ioexception stream closed 
+register filters application class extends jax rs application filters call targeted method resource exception resource method exception set priority request filters filter response filter problem occurs calls filter chain unable find whats wrong chain request filter response filter 
+
+problem reading request entity generally read empty reason reads stream closes jersey read closed wasnt closed empty case jersey buffer stream read multiple times cast method methods reading stream similar client 

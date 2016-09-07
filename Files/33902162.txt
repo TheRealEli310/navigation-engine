@@ -1,0 +1,4 @@
+realm object fully persisted 
+trouble understand realm io persist save objects objects inventory inventoryitem product create inventory inventoryitems works fine close app open app inventoryitems loses reference product start show null strange thing attributes inventory reference inventoryitem persisted fine problem products strong model strong strong product strong strong inventory strong strong inventoryitem strong strong finally millions ways persist strong looked trough answers href http stackoverflow questions saving realm relationships persist stack answer examples person dog cat provided api understand properly insert 
+
+problem setting list inventoryitem elements added realm database change inventoryitems isnt stored realm db add loop 

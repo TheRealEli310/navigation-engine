@@ -1,0 +1,4 @@
+property function extension sparql 
+write property function extension sparql arq jena write request function code extract sebject predicate object rdf comparison suject predicate rdf subject predicate request register function 
+
+property functions syntax regular properties isnt special syntax property function access subject object triple pattern subject object rdf list arguments object object list results subject subject list shouldnt cast existing property functions simple takes list argument object position returns subject variable 

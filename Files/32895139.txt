@@ -1,0 +1,4 @@
+error opening lucene index io ioexception map failed 
+problem href http stackoverflow questions error opening lucene index map failed error opening lucene index map failed solution apply case providing details index created solr line code causing exception exception stacktrace suggested solutions exception message work case running application server permissions change prints bash ulimit virtual memory modify limit operation permitted sysctl vm max map count error permission denied key vm max map count solve 
+
+found solution answering set ulimit vm max map count solution href http blog thetaphi de lucenes mmapdirectory 64bit html rel nofollow http blog thetaphi de lucenes mmapdirectory 64bit html configure solr work lucene api choose explicitly simplefsdirectory windows niofsdirectory slower default 

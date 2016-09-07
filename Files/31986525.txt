@@ -1,0 +1,4 @@
+stripe exception invalidrequestexception missing required param amount request id req 6mshzrgwqeie8c 
+integrated strip api play framework calling create method charge class time exception comming br code br source link href https stripe docs api charge object rel nofollow api 
+
+error passing parameter parameter expects cents means charge supported stripe href https support stripe questions minimum amount charge stripe rel nofollow minimum amount charge pass parameter work expected edit error amount cents whats causing end issue 

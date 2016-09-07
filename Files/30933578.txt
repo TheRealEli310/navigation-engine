@@ -1,0 +1,4 @@
+create pptx poi xslf 
+create pptx poi xslf blank slide slide blank text 
+
+text box anchor position size check examples poi add text box href https svn apache org repos asf poi trunk src examples src org apache poi xslf usermodel tutorial6 rel nofollow xslf examples tutorial 

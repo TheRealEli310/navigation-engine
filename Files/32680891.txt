@@ -1,0 +1,4 @@
+default method override eclipse 
+working interface declaration interface derived interface derived interface irequestbuilder processparameters set default purposes works fine class derive asks implement default method work eclipse eclipse issue avoid 
+
+youre eclipse bug lets code eclipse rightfully compile error blockquote type implement inherited abstract method imyrequestbuilder createbody blockquote suggests quick fixes including add unimplemented methods quick fix quick fix find eclipse mars generates stubs code compile fine remove stub expected method default method found bug reports eclipse bug tracker href https bugs eclipse org bugs show bug cgi id rel nofollow bug href https bugs eclipse org bugs show bug cgi id rel nofollow bug latest bug resolved fixed version eclipse neon 

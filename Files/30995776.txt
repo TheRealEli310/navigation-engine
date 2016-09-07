@@ -1,0 +1,4 @@
+issue importing android support test 
+add strong dependencies gradle strong unit testing dependencies set dependency hamcrest matcher library stuff mockito add intent mocking support add webview testing support sync build gradle successfully import classes ide android studio give error resolve symbol test search didnt find answer 
+
+found whats fault androidstudio file settings compiler uncheck process build test work 

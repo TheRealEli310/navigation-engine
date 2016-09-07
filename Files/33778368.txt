@@ -1,0 +1,4 @@
+jboss spring applicationcontext load start web xml 
+wildfly load spring config xml start unsuccessful wrong web xml http xmlns jcp org xml ns javaee web app xsd version 
+
+spring mvc load configuration xml form web xml load application startup 

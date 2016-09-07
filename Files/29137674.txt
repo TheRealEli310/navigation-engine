@@ -1,0 +1,4 @@
+avoid memory leaks implement canvas drawbitmap method 
+canvas drawbitmap method bit application throw nullpointerexceptions random occurrences implement drawing render properly creating board consists cells cells conists pixel coordinates image mentioned images shown error specifically error 
+
+suggest debug line figure null initialized dont null pointer problem debug causing null pointer exception helps 

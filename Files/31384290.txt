@@ -1,0 +1,4 @@
+splitting string middle words issue 
+automated flow filling form website taking fields data csv address fields form address address address field limit characters characters continuing address string address field issue current solution split cut word chars instant word barcelona str 35th char address na case identify 35th char middle word word field current solution preferably scala fine allot 
+
+youd accept code code wrap input string lines maximum length output necessarily approach guess youll adapt scala prefer library solution invent wheel href http commons apache org proper commons lang javadocs api org apache commons lang3 text wordutils html wrap 28java lang string 20int rel nofollow wordutils wrap apache commons 

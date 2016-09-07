@@ -1,0 +1,4 @@
+firebase authentication limits 
+firebase insights appreciated writing server side test code grab users database migrate data user authenticated nodes firebase code selects users db spins thread user thread connects authenticates successfully subsequent simultaneous authentication attempts fail error message thread instance firebase reference object restriction number simultaneous logins ip address havent find documentation change code run single thread login logout user receive error insights appreciated 
+
+authenticating users security rules href https www firebase docs web guide login custom html section rest server authentication rel nofollow server token solution firebase connection user authenticated time firebase library undocumented officially supported workaround create multiple independent connections class package run code open independent connections server 

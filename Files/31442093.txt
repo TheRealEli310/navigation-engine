@@ -1,0 +1,4 @@
+build multiple independent gradle projects project 
+basically href http stackoverflow maven build multiple independent maven projects project href http stackoverflow accepted answer question describes maven pom packaging list modules thing gradle separate projects build individually directory project projects build interdependent generally built time 
+
+rene groeschke answer href https github breskeby gradle snippets tree master multiparallel rel nofollow https github breskeby gradle snippets tree master multiparallel summary project structure top level top level directories files work build separately 

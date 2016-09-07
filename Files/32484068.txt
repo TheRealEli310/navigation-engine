@@ -1,0 +1,4 @@
+convert date birth age spark dataframe api 
+simple couldnt find answer convert column date birth date format date format spark dataframe api calculate ages system dates found libraries difficulties dataframe api blockquote aug br feb br apr blockquote strong edit strong found spark adds date time functions helpful future released href https spark apache org docs latest api scala index html org apache spark sql functions rel nofollow doesnt work current spark version aws emr strong evening edit strong convert date birth age code br em function deprecated work fine em 
+
+deprecated getxxx methods util date util calendar solution doesnt work cases born december 31st age computed january 1st wont full year computation shown href http howtodoinjava code calculate age date birth rel nofollow http howtodoinjava code calculate age date birth converting code scala shouldnt problem 

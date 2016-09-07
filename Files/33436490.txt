@@ -1,0 +1,4 @@
+sum subtract depending odd 
+suppose list int add number subtract number odd loop feature 
+
+solution map array opposite odd summing result added numbers subtracted odd retrieve href https docs oracle javase docs api util stream intstream html int array href https docs oracle javase docs api util arrays html stream int href https docs oracle javase docs api util stream intstream html map util function intunaryoperator transform odd values finally call href https docs oracle javase docs api util stream intstream html sum sum values sample code 

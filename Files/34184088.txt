@@ -1,0 +1,4 @@
+return function onresponse retrofit 
+return method call request overrided method code method declare final give 
+
+problem synchronously return asynchronous method callback options ol li change method accept callback chain callback similar mapping frameworks rxjava li ol roughly caveat approach pushes async stuff level problem ol start li object similar container object careful thread check set li ol synchronously wait result calling method highly suggest reading framework rxjava 

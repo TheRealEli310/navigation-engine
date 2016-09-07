@@ -1,0 +1,4 @@
+set jtree node icon dynamically 
+display separate icon grouped ungrouped nodes created customtreecellrender sample codes loop odd nodes icon evens change icon nodes application populating tree nodes db grouping based conditions sample runnable code 
+
+couple mistakes original code notably ul li setting cell renderer time node added tree single cell renderer added wins li li expecting slightly altered method coded tree cell renderer called strong em em strong experiment proposed comment li ul lines requirement stick close original code approach differently ul li strong strong examines passed method cell renderer character splits string parses part back integer li li strong strong pass objects leaves tree cell renderer check instance prefix number li ul img src http stack imgur mvxnf png alt enter image description 

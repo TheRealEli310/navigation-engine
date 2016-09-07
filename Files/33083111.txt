@@ -1,0 +1,4 @@
+loop execution time changing 
+pre class lang prettyprint override explain setting doesnt change execution time loop 
+
+execution jvms time jit compiler compiles bytecode class format native instruction set machine jit performs optimizations compilation case jit realised followings guessing ul li method visible side effects li li return call stored li ul jit simply omitted invocation native code removing call entire loop removed doesnt change program semantics 

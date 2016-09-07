@@ -1,0 +1,4 @@
+error spark cassandra connector lang nosuchmethoderror 
+problem running general follow href http planetcassandra org blog installing cassandra spark oss stack rel nofollow tutorial installing cassandra spark oss stack al tobey spark cassandra connector part ul li manage connect cassandra cluster li li run method object class li ul idea interpret console error output googling bring effect kindy hint wrong strong console output strong strong running spark spark cassandra connector jar strong strong performing imports strong strong defining defining strong strong function build object class strong strong calling function object class strong 
+
+common indication version mismatch dependencies compiled recent version dependency runtime provided earlier version method case run align versions release spark compatible version spark cassandra connector 

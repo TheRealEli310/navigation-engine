@@ -1,0 +1,4 @@
+flyway ignoring sql migration files 
+flyway gradle spring based mvc application sql files src main resources db migration folder flyway gradle config file run gradle flywaybaseline output finds sql file execute run flywaymigrate output issue 
+
+sqlmigrationprefix default files dont start rename files set prefix empty 

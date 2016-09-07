@@ -1,0 +1,4 @@
+posting data relationship thymeleaf 
+simple model class exhibits relationship product class productcategory class spring boot thymeleaf create forms usual crud operations essential portion html page add object database problem insert resulting object controller havent shown dont problem changing doesnt fix h1 nutshell h1 pass complex object post parameter controller thymeleaf h1 update h1 contrary thoughts related 
+
+strong changed form method post strong thymeleafs perspective assure code work provided controller strong update strong models proper getters setters correct names property strong strong em compiled code extracted current working project replace names class names em 

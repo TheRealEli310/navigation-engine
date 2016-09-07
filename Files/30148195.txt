@@ -1,0 +1,4 @@
+android handle fragment onclick activity 
+fragment class field activity add instances fragment set field put instance list set fragment tag fragment0 fragment1 handle click instance reviewfragment instance android studio designer attach method onclick root layout reviewfragment fragment tag find fragment reviewfragments list problem view gettag return null reviewn write method reviewfragment class android studio didnt attach onclick problem onclick handle method activity fragment 
+
+case bunch case type easily listen click event number list item fragments follow ways br firstly fragment tag view tag argument br follow common approach case fragments callback method br problem views onclick directly fragment overlay layout case handle layout onclick event br solution mentioned callback method steps implement create interface fragment activtiy implement interface determine framgent method cast activity interface wanna fragment tags fragment 

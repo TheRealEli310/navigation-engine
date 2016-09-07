@@ -1,0 +1,4 @@
+boolean returns false 
+written loop method called findcar linked list cars checks entered id user input id instances car car instance id gathered getid method car class returning false references classes clients person omitted sake simplicity code assist reaching answer add assistance greatly appreciated root class class carmanager loop called marked problem area car class user input processed 
+
+problem call method implies linkedlist empty return false 

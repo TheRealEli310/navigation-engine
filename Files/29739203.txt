@@ -1,0 +1,4 @@
+mouseevent add circles scene 
+program involves application eventhandlers mouseevents goal program present blank scene user left click primary add circle object scene mouse located time event number circles added matter user clicks secondary mouse hovering target node circle object object removed scene program written display circle origin scene mouse located add circle scene click primary unable click secondary remove circle located origin dont event handlers accomplish originally event handler body root getchildren statement handler reason changed wasnt implement mouseevent mouse entered target circle object remove scene 
+
+advice doesnt auto arrange child node read layouts behave advice href http stackoverflow answer circle created add monitoring remove 

@@ -1,0 +1,4 @@
+log4j creates log file write messages creating 
+log file created logs written doesnt write things log trace log error 
+
+trace lowest level logging current configuration info highest 

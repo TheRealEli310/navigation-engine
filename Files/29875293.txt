@@ -1,0 +1,4 @@
+log4j2 tomcat windows produces warning unable instantiate org fusesource jansi windowsansioutputstream 
+web app deployed tomcat dev env eclipse luna windows x64 finished integrating log4j2 code start tomcat warning extensive googling question related problem class supposed add coloring log file interested feature log4j config 
+
+diggind log4j2 code found hidden runtime parameter 

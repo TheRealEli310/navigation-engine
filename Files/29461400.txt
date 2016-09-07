@@ -1,0 +1,4 @@
+jni jna calling fortran95 
+implement compute return fortran implemented jni sequence achieved advantages 
+
+fortans shared libraries compatible jna access interfaces exported including callback inputs advantages jna jni ul li strong speed development strong dont configure compile native code significantly speed development build cycle li li strong clarity strong jnas mappings functions youd calling native code semantics translating jni jni wrappers fortran li li strong maturity code strong jna worked gotchas details managing native interface focus solving real problems plumbing em em plumbing jni li ul 

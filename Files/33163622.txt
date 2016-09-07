@@ -1,0 +1,4 @@
+neo4j update properties million nodes 
+neo4j core api update million nodes thought multithreading performance good minutes setting properties explain node person relation pointsrel point node property points sum points point node set property person node code runnable class faster setting aws instance cpus 32gb ram neo4j wrapper conf neo4j properties 
+
+found problem property cache type soft set cache type duration execution decreased minutes minutes updates threads blocked seconds changing property helps avoid blockings search detail explantation 

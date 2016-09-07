@@ -1,0 +1,4 @@
+convert xml hibernateconfiguration config 
+convert xml config spring thinking params luck tells spring fetch actual bean strong update strong bean listener prints schema xml relevant requested 
+
+dont youll mention factory bean methods config class wire sessionfactory class works configuration class autowire session object fails create object config rest configuration refer guide href http www baeldung hibernate spring rel nofollow example1 href http www sivalabs springhibernate application html rel nofollow example2 hope solve issue 

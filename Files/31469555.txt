@@ -1,0 +1,4 @@
+serialize deserialize datetime lift json 
+case class serialize deserialize storing purpose mongodb creating problem link href http stackoverflow questions deserialize datetime lift deserialize datetime lift luck unable write date time date time issue code error message printed console remove datetime parameter case class works fine problem datetime 
+
+ran code intellij idea error debug invocation stack deep finally gave guess lift doesnt provide default format localedatetime post mentioned dateparser format lift default compromise reference lift json default date format write customized serializer change data type fit default date format net liftweb mongodb dateserializer line support date serialization provide method easily localedatetime figure hope helps 

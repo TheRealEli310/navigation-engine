@@ -1,0 +1,4 @@
+add timepicker fragment 
+app dialog pop user double click accidentally click times app crashed fragment added fix insted clicking edittext timepicker dialog shown click strong logcat error strong 
+
+code hardcoded easy extend lead bugs future encapsulate general logic max current case code wont create time picker screen pass target edittext timepicker fragment values edittexts variables read needed ontimesetmethod onstop method provided handle activity recreation cases hide active timepicker 

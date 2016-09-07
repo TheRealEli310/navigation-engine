@@ -1,0 +1,4 @@
+gwt exception dispatching incoming rpc call extjs gxt ui client data baselistloadresult 
+br serializationexception rpc call br gwt version br extjs gxt lib version gxt gwt22 br deploy app tomcat works bu glassfish br server strong glassfish v3 strong classes implementation lot solutions class implement serializable isserrializable interfaces gave default constructor br interesting thing tomcat works fine glassfish exception br 
+
+solved problem br web inf lib folder jetty libs removed libs worked fine br 

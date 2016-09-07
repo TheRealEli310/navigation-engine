@@ -1,0 +1,4 @@
+gradle file collection parent directories 
+configure task generate single report collection binary junit test results unable create paths result files located task defined part work code list output bin files build structure transform list directories files creating custom class base class passing results line parameter calculating files dynamically error return compatible docs function isnt custom class file 
+
+declare task type reporton property listing tasks aggregate approach outlined section gradle action benjamin muschko highly recommended reading 

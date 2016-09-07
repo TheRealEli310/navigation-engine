@@ -1,0 +1,4 @@
+spring data repository delete manytoone entity 
+spring data repository delete entities delete call works exceptions error messages entity deleted entities repository simple delete call ideas change doesnt reflect database strong edit strong found workaround dont understand real problem works delete post couple exceptions constraint violations post deleted strong edit strong sql statements executed hibernate delete thing select statements strong edit strong turns cascade cascadetype posts problem delete works fine missing cascade posts 
+
+problem includes means child entity completely managed parent delete directly order delete remove parent add thing remove child parent removed 

@@ -1,0 +1,4 @@
+spring make securitycontext thread executing hystrix command 
+running spring boot app starting integrate hystrix spring cloud netflix hystrixcommand wrap service service call made feign client feign client spring security context add security headers request makes problem hystrixcommand executed run separate thread hystrix thread pool code access spring security context thread accessing spring security context question spring provide passing spring security context application context hystrix threads running hystrix commands 
+
+bean normal means ways pass authentication object parameter method run hystrix href https github netflix hystrix wiki configuration execution rel nofollow semaphore isolation separate thread 

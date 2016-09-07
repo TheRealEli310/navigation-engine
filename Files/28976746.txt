@@ -1,0 +1,4 @@
+map xml ignoring namespace jaxb 
+receiving xml web service format unmarshall pojo unmarshalling code error blockquote unexpected element uri href http someurl rel nofollow http someurl local string expected elements lt string blockquote namespace xml omitted work altering xml make namespace part doesnt trouble marshalling unmarshalling jaxb achieve behaviour 
+
+map namespace package level annotation strong information strong written jaxb namespace qualification blog ul li href http blog bdoughan jaxb namespaces html rel nofollow http blog bdoughan jaxb namespaces html li ul 

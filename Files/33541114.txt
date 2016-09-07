@@ -1,0 +1,4 @@
+kafka unable publish messages 
+written client publishing message kafka code shown execute code message exception infinite loop application hangs checked kafka broker found topic created message stuck 
+
+finally figured issue running kafka hybrid evironment mentioned post href https medium thedude rog running kafka hybrid cloud environment 17a8f3cfc284 rel nofollow https medium thedude rog running kafka hybrid cloud environment 17a8f3cfc284 changed host internal ip advertised host external ip 

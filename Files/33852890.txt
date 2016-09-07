@@ -1,0 +1,4 @@
+send photo caption telegram ex3ndr 
+ex3ndr creating telegram client send message witch photo caption description send photo code snippet donot add caption photo code snippet sample url href https github ex3ndr telegram bot blob master app src main org telegram bot application rel nofollow ex3ndr sample 
+
+href https github ex3ndr telegram api blob master libs rel nofollow ex3ndr library support layer telegram api href https core telegram org method messages sendmedia layer rel nofollow sendmedia method doesnt support captions photos means library send captions photos layer updated repository abandoned 

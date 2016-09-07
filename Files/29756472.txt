@@ -1,0 +1,4 @@
+itext pdfptable larger columns 
+modify table generated itext column change constructor argument add content columns table doesnt exist generated pdf guessing fit document width 
+
+suppose works work case table single row columns added change snippet table added table wont added single row incomplete rows arent rendered options add add adding reason add table columns table columns width isnt issue dont define absolute width columns itext calculate exact width column automatically dont document table columns table href http itextpdf sandbox tables simpletable rel nofollow simpletable href http itextpdf sites default files simple table pdf rel nofollow simple table pdf 

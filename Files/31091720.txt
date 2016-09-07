@@ -1,0 +1,4 @@
+spring autowired variable null inside component 
+component auto wired problem initialized null user service works fine controllers autowire service inside component pre class lang prettyprint override pre class lang xml prettyprint override 
+
+definition component scan overrides previous definitions 

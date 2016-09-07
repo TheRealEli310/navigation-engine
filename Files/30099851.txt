@@ -1,0 +1,4 @@
+spring security samples preauth xml fails run 
+project href https github spring projects spring security tree master samples preauth xml rel nofollow https github spring projects spring security tree master samples preauth xml run project exception xml code related error running tomcat error occurs tips greatly appreciated 
+
+sample properly migrated spring security logged bug href https jira spring io browse sec rel nofollow sec href https github spring projects spring security commit 7b158d05258340c944cabadeb0b183c7b4a0f210 diff a7fe380061e04d29d799333bdce5bde7l78 rel nofollow fixed problem expression attribute spring security changed true default explicitly state false pre class lang xml prettyprint override 

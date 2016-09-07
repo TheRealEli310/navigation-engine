@@ -1,0 +1,4 @@
+hibernate foreign key part composite primary key 
+br work hibernate solve problem tables relationship br table col pk col pk fields table col pk col pk fk table col col fk table col fields manage hibernate idea declare foreign key part primary key database schema generated hibernate model 
+
+found solutions problem workaround neat define primary key entity composite key supposed primary key place define unique constraint disadvantage column conceptually part primary key annotations wanted beginning 

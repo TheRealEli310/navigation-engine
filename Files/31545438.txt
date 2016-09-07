@@ -1,0 +1,4 @@
+android decodebytearray slow thread ui thread 
+working camera based project adding queue preview frames strong onpreviewframe strong camera back running thread process draw surfaceview goal send network problem bitmapfactory decodebytearray function slow custom thread works fine strong ui thread strong strong works fine strong strong slow strong googled lot didnt find problem efficient camera surfaceview surfaceview display camera frames standard simulate frames network drawing surfaceview time 
+
+found problem coming pushing queue camera preview frames ui thread frames retrieving queue thread problem ui thread pushing frames seconds queue thread handle decodebytearray ui thread slowing time thread draw bitmap changed kind queue make faster find render faster thread advice 

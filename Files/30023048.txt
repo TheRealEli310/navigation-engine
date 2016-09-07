@@ -1,0 +1,4 @@
+entitymanager nested transaction atomicity 
+legacy code solving problem nested transactions spring cdi pure jpa eclipselink problem call inside method opened transaction method transaction behave atomic solution achieve giving open entity manager parameter 
+
+jpa jta support nested transactions transaction management system possibilites spring javaee container managed system application server handle operation jta compliant transaction manager wrote distributed transaction management system based jboss tm don easy cost huge amount time 

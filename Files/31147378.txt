@@ -1,0 +1,4 @@
+hbase map reduce function classpath issues 
+attempting run sampleuploader code found href http grepcode file repository cloudera content repositories releases org apache hbase hbase examples cdh5 org apache hadoop hbase mapreduce sampleuploader source rel nofollow hbase cdh5 hadoop cdh5 compile run errors aha included hbase classpath hbase packages work errors insight fix issues edit run differently instructions href https sites google site hadoopandhive home run compile hadoop program rel nofollow method 
+
+missing classess part hadoop common jar verify classpath mentioned 

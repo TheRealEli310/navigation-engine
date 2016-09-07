@@ -1,0 +1,4 @@
+connect database spring test 
+create connection spring project soemthing simple create configuration fields application properties dont error dont info null pointers connections made properly part pom dependencies properties dont error query database null pointer makes working properly idea configure edit configuration class controller service implementation entity repository error null pointer data exist change database password wrong dont error 
+
+remove dependency pom springboot h2 mysql dont error wrong mysql password application properties property names found springboot document href http docs spring io spring boot docs current reference html boot features sql html rel nofollow http docs spring io spring boot docs current reference html boot features sql html 

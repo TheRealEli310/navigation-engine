@@ -1,0 +1,4 @@
+ejb stubs thread 
+ejb stateless beans thread sense accessed clients time concerns fact client served instance client side proxy references stateless ejb ejb proxy remote stubs thread call spring controller ejb methods called possibly threads time thread 
+
+asked similar question rmi jrmp stubs years ago rmi mailing list defunct answer sun presumption jdk class considered thread javadoc states contrary assuming holds good answer thinking client side connection management answer 

@@ -1,0 +1,4 @@
+wait notify special class 
+methods separated class question moving class litter class shortcomings idea ul li wont purpose fields monitors agree principle modularity li li synchronized methods require hack generated hidden fields closures valid monitors li ul move methods object woe 
+
+real answer mistake finally acknowledged creation href http docs oracle javase docs api util concurrent locks condition html rel nofollow class youd expect em object possibility youll accidentally invoke hilarious consequences em things youve listed tying monitor single object makes impossible immutable objects returning boxed integer time shouldnt problem object immutable isnt mutable state monitor making kind synchronization whats evil youve created mutex pieces code face independent 

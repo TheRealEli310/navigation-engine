@@ -1,0 +1,4 @@
+start activity oncreate method 
+h3 problem description h3 writing android application activities starts takes time load ui work background order show incomplete ui white screen decide start method start time close assume point loaded code h3 code h3 manifest file activity set code ol li shown li li close front li ol strong behavior strong ol li starts background li li front time close li li mainactivty loaded front li ol 
+
+start firs data loaded start 

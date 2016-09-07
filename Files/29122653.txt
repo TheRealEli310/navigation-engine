@@ -1,0 +1,4 @@
+convert image inputstream pdf inputstream 
+convert inputstream image inputstream image converted pdf inputstream received mtom ws project 
+
+blockquote ideas comments blockquote risk stating steps ol li create li li wrap li li embed li li write li li wrap li ol hr theoretically transformation buffering image memory existing apis dont support em lot em coding standalone image pdf conversion utility avoid intermediate buffer pair 

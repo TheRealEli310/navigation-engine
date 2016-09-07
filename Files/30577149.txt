@@ -1,0 +1,4 @@
+sorting rdd apache spark mappartitions reduce 
+sort rdd spark aware transformation obtain sorted rdd measure performs compared sort individual partitions reduce function merge partitions obtain sorted list approach run implementation error wrong 
+
+class marked serilizable serilization debugger failing process masking serialization error 

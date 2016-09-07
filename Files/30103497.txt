@@ -1,0 +1,4 @@
+connection class connect db 
+connect db application creating runnable code run code error messages change uname upass based information gonna connecting database tips tricks loaded db services reach add data run sql commands netbeans basically loaded mysql connector driver run code furthur information 
+
+error log clear imported wrong class beginning class drivermanager getconnection url uname upass return instance sql connection btw change local variable dbconnect dbconnect wont class dbconnect follow convention lowercase 1st letter variable 

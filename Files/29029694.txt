@@ -1,0 +1,4 @@
+multithreading wait method return valid 
+faced situation app threads strong stop thread wait strong returns strong null strong version work hr strong edit strong make things complicate return null thread finishes work give threads countdownlatches semaphores 
+
+loops forever methodfoo returns null specific code loops forever due recursion call methodfoo inside methodfoo unclear wait method method method main object 

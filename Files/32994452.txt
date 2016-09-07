@@ -1,0 +1,4 @@
+collect doublestream list 
+code return code doesnt compile error fix issue 
+
+href https docs oracle javase docs api util stream doublestream html boxed rel nofollow maps stream primitive doubles returned href https docs oracle javase docs api util stream stream html maptodouble util function todoublefunction rel nofollow changed href http docs oracle javase docs api lang double html valueof lang string rel nofollow href http docs oracle javase docs api lang double html parsedouble lang string rel nofollow prevents returned unboxed primitive begin 

@@ -1,0 +1,4 @@
+equals hashcode 
+implement equals hashcode compare objects plan put objects hash based containers bibles implemented concerns implement hashcode equals lots code unit test covering unit test hashcode put object hash based container objects intended looked hashing strategy 
+
+youll breaking general contract lead weird bugs dont youre hash codes external code pass objects rely doesnt hash based youre give objects decent hash method make throw runtime exception give objects decent hashcode 

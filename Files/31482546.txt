@@ -1,0 +1,4 @@
+select items knapsack items benefits maximize minimize weight 
+knapsack problem select items items lesser weight selected check condition function dynamic programming type case maxweight item select item lesser weight 4th implement condition code problem statement blockquote goal determine things put package total weight equal package limit total cost large prefer send package weights case package price blockquote 
+
+strong maximise strong minimising strong weight strong check dp maximal obtained minimal weight strong strong solution trivial condition maximise fun cost arent messing fun cases pick lesser weight elsewise end weight knapsack assumed knapsack problem havent explained conditions 

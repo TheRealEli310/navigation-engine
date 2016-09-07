@@ -1,0 +1,4 @@
+update node state javafx 
+deck cards generated problem gui reflect change status instance leads constructor isnt supposed gui understand display alternative picture card faced case reflected gui 
+
+update state time constructor called cool javafx proprety binding 

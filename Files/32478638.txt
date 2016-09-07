@@ -1,0 +1,4 @@
+change font text tableview initialize 
+change font text applying font find nodes custom function thought initialized wrap working thing working placing code listener selection hover hover font working code located superclass screen application run subscreen build shown missing greatly appreciated css solution case 
+
+find css lookups inherently unstable advice avoid find nodes css applied typically frame render pulse addition case make table rows cells created wrapping lookup makes guarantees conditions fulfilled additionally typesafe rely string binding things fail checked compiler case set style table rows directly update styles time create hold style bind simply calling valid css style update style rows cells rows completely avoids lookup sscce 

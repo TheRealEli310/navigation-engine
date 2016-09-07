@@ -1,0 +1,4 @@
+replace deprecated method date sethours int 
+deprecated methods code guide private date variable method declared methods deprecated code sethours getminutes lined 
+
+understand question correctly work show full method replace date code edit updated version full method basically works instance calendar object maintains state planning changing hours set updating minutes query set calling calendar gettime 

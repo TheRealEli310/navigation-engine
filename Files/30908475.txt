@@ -1,0 +1,4 @@
+port numbers single web application 
+working web project eclipse ide project working fine server access application url works fine project servlet request file side eclipse file make request servlet instructor telling request port servlet port number kind requirement solution great 
+
+find tomcat installation eclipse tomcat installation conf server xml file add http connector port desire restart tomcat tomcat listening extra port added bind specific servlet port put hack straight forward run tomcat instances separate ports hack based href http stackoverflow questions servlet implementing socket connection post 

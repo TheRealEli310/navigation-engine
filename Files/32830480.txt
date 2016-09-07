@@ -1,0 +1,4 @@
+spock unit tests fail gradle build upgrading jdk 
+compile application source jdk groovy spock groovy gradle firm hass custom plugins built top build environment retain projects due build gradle explicitly gradle jdk source files compile successfully reached unit tests written spock fails error confirmed sda class compiled jdk reason unit tests error unit test run jdk 
+
+youre hacks involve overriding gradle internals work version gradle unexpected side effects 

@@ -1,0 +1,4 @@
+hibernate calling mysql stored procedure warning message 
+project call stored procedure hibernate sample code works fine results expected results leaves message logs websites source code hibernate figure rid warning greatly appreciated cheers damien 
+
+related correction href https hibernate atlassian net browse hhh rel nofollow hhh blockquote cases database metadata incorrect supported supported case preferable simply log warning turns named parameters supported sqlexception thrown named parameter bound sql statement blockquote warning warn calling method queries metadata named parameters 

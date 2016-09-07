@@ -1,0 +1,4 @@
+sonar redundant throw interface 
+defined function interface throws strong exception strong run sonar redundant throw solve problem definition function info managed information exception descendant exception end descendant messagge em unable obtain information class ownbeanexception em 
+
+explanation ownbeanexception extends runtimeexception explain redundant runtimeexceptions including classes extending definition unchecked declaring throws doesnt make sense possibilities href http gazelle ihe net sonar coding rules rule key squid 3aredundantthrowsdeclarationcheck 7cs createdat 7casc false rel nofollow documentation blockquote exception throws declaration redundant ul li listed multiple times li li subclass listed exception li li runtimeexception descendants li ul blockquote 

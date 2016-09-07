@@ -1,0 +1,4 @@
+bufferedreader chained socket readline null work 
+bit confused head making multithreaded server part dont understand reader bufferedreader chained inputstream socket getinputstream activate input coming server shouldnt null readline method sort loop detects data servers stream understand readline blocks loop activating returns line question detect inputstream null 
+
+blockquote question detect inputstream null blockquote call block data stream closed server isnt providing data socket open call block connection closed end remaining data read future calls return stream closed return underlying reader returns em em data case happen underlying stream closed 

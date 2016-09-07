@@ -1,0 +1,4 @@
+dropwizard datasourcefactory heroku database url 
+deploy dropwizard app heroku dokku open source heroku stuck configuration database reason provided line connection url heroku whats datasourcefactory configuration config file 
+
+heroku href https devcenter heroku articles connecting relational databases heroku jdbc database url rel nofollow connecting relational databases heroku youd prefer parse youself canonical representation href https github jkutner heroku jdbc rel nofollow heroku jdbc library 

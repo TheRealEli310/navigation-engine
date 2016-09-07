@@ -1,0 +1,4 @@
+org apache hadoop io text cast org apache hadoop io nullwritable 
+convert sequence file orc file mapreduce input types key text text program mapper exception output key orcnewoutputformat nullwritable convert text nullwritable fix exception 
+
+strong strong strong strong public class reducetask extends reducer 

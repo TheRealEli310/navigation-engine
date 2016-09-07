@@ -1,0 +1,4 @@
+add row column jtable loop 
+working netbeans ide language main class jframeform jtable em tab em row column button jtextfield em en em type integers input variable em em create matrix em em rows em em columns em em em em dimension matrix jtable click button variable em em saved dimension loop start add column row till em em code error em exception thread awt eventqueue lang arrayindexoutofboundsexception em cells empty input column object 
+
+set column names jtable add rows jtable work 

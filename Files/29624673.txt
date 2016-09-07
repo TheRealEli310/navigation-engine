@@ -1,0 +1,4 @@
+monte carlo calculate pi multiple threads 
+wrote simple program calculate pi monte carlo method lot drops pi precise slower decided implement multi threading question speed calculation calculates iteration physical thread time completley wrong concept multithreading code 
+
+realize big long max 1e18 big number whith todays computers filling buildings takes 1000s comment approach compare previous calculated current pi compare difference precision limited eps smallest number eps cancel execution return thread difficult update pi synchronized wouldnt gain guess threads calculate pi independently compare average results 

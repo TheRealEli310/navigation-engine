@@ -1,0 +1,4 @@
+generic works 
+question arrlist1 stick string hr question compilation error giving run type error hr question hr question operation arrlist4 hr question generic assigning object work arrlist1 
+
+q1 generics compile time check implicitly cast arraylist raw type compiler idea created allowed backward compatibility work code written generics q2 runtime error elements string dont match type expects q3 wild card unknown type doesnt matches em em ways makes read return values q4 made arraylist integer add integer int boxed integer q5 compile time run time checks bypass compile time checks case obscure turned compilers ability check code errors runtime compiler trust compiler warn turn 

@@ -1,0 +1,4 @@
+anyvalue silly math sonar anyvalue double 
+sonarqube raises major violation href https dev eclipse org sonar coding rules silly 20math silly math performed code description blockquote math operations silly performed results predictable silly return blockquote case double works href http docs oracle javase specs jls se8 html jls html jls intended heres actual code analyser assuming variable bug missing 
+
+bug lot reporting problem code href https github sonarsource sonar blob checks src main org sonar checks constantmathcheck l117 rel nofollow https github sonarsource sonar blob checks src main org sonar checks constantmathcheck l117 absolutely check type left operand operator filed bug handle href https jira sonarsource browse sonarjava rel nofollow https jira sonarsource browse sonarjava 

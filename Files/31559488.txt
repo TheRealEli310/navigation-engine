@@ -1,0 +1,4 @@
+glassfish reuse jdbc connections 
+jdbc connection pooling glassfish webserver injecting datasource statement code load data reason glassfish reusing database connections running fast sooner error understood concept pooling glassfish supposed close connections reuse connection needed glassfish closes connection demand connection program open connection time connection 
+
+call pool manage connections wont closed dont close code wont returned pool strong edit strong alternatively resources href http stackoverflow http stackoverflow 

@@ -1,0 +1,4 @@
+osgi missing package javax security auth 
+started developing osgi application mac os el capitan maven netbeans moment app consists minimal osgi bundles compilation options set jdk application compiles runs jdk application run message generated complaining absence security auth included jdk guessing osgi friendly environment missing version info org osgi core jar ve versions change behaviour steve 
+
+version felix running tested recent version felix running package exported system bundle meaning application bundles version felix predate lack definition jre packages platform 

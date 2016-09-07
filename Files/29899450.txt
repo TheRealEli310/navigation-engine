@@ -1,0 +1,4 @@
+ssl connection hangs 
+cxf web services server running embedded jetty br client connects send successful requests server br seconds suddenly client hangs br client server reuse connection requests running server djavax net debug noticed message connection hangs idea fixed disable alive timer close connection 
+
+upgrading cxf problem disappeared 

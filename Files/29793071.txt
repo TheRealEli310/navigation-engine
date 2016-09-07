@@ -1,0 +1,4 @@
+rcp progress dialog starting job 
+start job default progress dialog change behavior h3 problem h3 href http www eclipse org articles article concurrency jobs api html rel nofollow article providing feedback jobs thing set progress dialog work reproduce problem created eclipse4 project sample content modified created abouthandler press menuitem thing println debugger default behavior change h3 solution h3 wrote greg suggested found jface href http eclipse org juno index jsp topic 2forg eclipse platform doc isv 2freference 2fapi 2forg 2feclipse 2fjface 2fdialogs 2fprogressmonitordialog html rel nofollow good reference 
+
+e4 application responsibility provide progress provider job system provider class extending provider returns progress monitor job href http www vogella tutorials eclipsejobs article html rel nofollow article information progress provider 

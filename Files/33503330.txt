@@ -1,0 +1,4 @@
+parsing date simpledateformat class android 
+easy solution issue describe parse date format parse exception passing format parse string timezone included string throwing crash remove parse properly wrong timezone format standards declared link href http developer android reference text simpledateformat html rel nofollow simpledateformat developer site suggest whats wrong 
+
+easy solution separate timezone string format replace default timezone set applying simpledateformat updated date timezone convert gmt stuff 

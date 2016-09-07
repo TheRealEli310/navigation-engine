@@ -1,0 +1,4 @@
+generate dynamic callgraph jmh benchmark 
+generate benchmark written framework href https github gousiosg callgraph rel nofollow https github gousiosg callgraph generating static callgraph jar file works generate dynamic callgraph command output file created 
+
+creating dynamic call graph regular application invoke host jvm javaagent mere fact static call graph works imply dynamic dynamic youll realize work jmh involved trick include classes instrument 

@@ -1,0 +1,4 @@
+jsr bean validation annotations validate time types 
+bean validation jsr defines annotations validating temporal types work box field type mandate future write annotation support type shame semantically ideal enhanced options bv configure validator existing annotation custom support time classes strong edit strong ideally code writing xml xml based solution suggested acceptable id xml 
+
+finally figured heres version custom constraint definition 

@@ -1,0 +1,4 @@
+spring response time 
+soap webservice spring ws save response time request receive create servlet filter measures time difference http request http response log response time values read soap request envelope time request raw unmarshalled expensive redundant operation unmarshall request calculate springws payloadinterceptor 
+
+implementing href http docs spring io spring ws site apidocs org springframework ws server endpointinterceptor html rel nofollow fit task access soap messages href http docs spring io spring ws docs current reference html server html server endpoint interceptor rel nofollow reference documenation 

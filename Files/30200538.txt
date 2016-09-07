@@ -1,0 +1,4 @@
+wrong recursive fibonacci function 
+written piece reason console numbers wrong order numbers repeated problem 
+
+program calculates fibonacci number correctly number printed top level call numbers repeatedly printed calculated calls calls separate recursive calls argument repeated calls recursive calls descend low input higher numbers performance problems algorithm exponential nature complexity current print statements highlighting extra calculations performed remove algorithm exponential complexity program correct eliminate exponential complexity replacing linear complexity storing results intermediate calls array intermediate step calculated 

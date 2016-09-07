@@ -1,0 +1,4 @@
+transferring cdi qualifier injected field 
+working ee application wildfly container entites exist data sources jar entity bean couple methods retrieving saving entity database criteria query provide instances producer application includes jar classpath strong configure settingrepository injection point specific entity manager strong similar 
+
+route chose created qualifier annotation tells container dont parameter annotating producer method sine implement generic producer injection point enumeration simply lists data sources changed implementation added public initialize method longer injected container inject simply decorate qualifier define producer voila data sources repository implementation data sources xa strong finds problems choice strong 

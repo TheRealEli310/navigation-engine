@@ -1,0 +1,4 @@
+sliding tabs recycleview fragments swipe refresh 
+issues implementing sliding tabs activity fragments swipe refresh layout implementing swipe refresh part rest working fine xml files main activity xml viewpager wrapped swiperefreshlayout tab xml tabs similar ll post main activity handles viewpager adapter slidingtabslayout finally fragment tab issue null pointer exception method guess swipe refresh layout main activity xml tabs fragment proper implement implementing swipe refresh layout tabs xml wrapping viewpager crash swiping tab code entire fragment tab1 tobs answer recycleview adapter 
+
+youre inflate fragment layout layout parent recommend move code manages refreshlayout mainactivity tab fragments implements interface adapter track fragments 

@@ -1,0 +1,4 @@
+google authentication restlet 
+basic authentication app adapt google authentication scheme showing username password browser popup google authentication page 
+
+arent context challenge authentication leverage authentication service google implementation approach tested custom restlet implementation authenticator exists extension leverages service gae version restlet sample strong edited strong notice gae authenticator gae enroler purpose admin implement simply instantiate enroler set authenticator desribed server resource check role hope helps thierry 

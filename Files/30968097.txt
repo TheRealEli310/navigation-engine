@@ -1,0 +1,4 @@
+reading csv file scanner class error 
+original code book program simply reads text file clients txt modify clients txt clients csv program read csv file parsed data delimiter format added updated lines code file added updated code thought simple modification reading file file print message classes class wanted figure method working h1 error message h1 h1 readtextfile h1 h1 readtextfiletest h1 h1 accountrecord h1 h1 clients txt original file h1 h1 clients csv change txt csv file h1 
+
+code fails read balance delimiter comma read double comma line character delimiters href http docs oracle javase docs api util regex pattern html rel nofollow trailing spaces line files 

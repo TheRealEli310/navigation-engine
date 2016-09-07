@@ -1,0 +1,4 @@
+javamail classcastexception sending multipart messages 
+exception attempting send multipart message code mailsender send method works sends emails expected bringing server calling unrelated webservice jax ws precipitate problem understanding exception typical classloader issues dont libraries project packages shown exception classloader loading classes startup runtime jboss javax activation api module modules depend exclude jboss deployment structure xml jdk jboss mail 
+
+href https bugs openjdk net browse jdk rel nofollow bug interaction javamail jax ws latest versions jdk include fix bug upgrade jdk latest version jdk workaround jax ws initialized jax ws fail handle multipart message 

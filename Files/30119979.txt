@@ -1,0 +1,4 @@
+jubula rcp testing tool inject parameter 
+test rcp application gui tests found tools jubula rcp testing tool inject parameters tests test case multiple inputs 
+
+found rcp testing tool href https www eclipse org rcptt documentation faq pass rel nofollow https www eclipse org rcptt documentation faq pass ol li add parameter include test aut vm arguments li li ecl function passed property li ol 

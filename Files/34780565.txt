@@ -1,0 +1,4 @@
+android development 
+jdk installed awhile recently professor instructing class uninstall jdk install jdk work homework jdk write deploy android apps problems wondering make upgrade jdk assuming wont needing specific methods functions android development stay android development affected side havent find official documentation states jdk make upgrade 
+
+youve deploy android apps point havent features dont matter follow instructors directions assignment school simply select jdk language level project structure select default sdk limit 7s features android apps simply set homework projects sdk em limb assuming android studio includes core settings intellij em 

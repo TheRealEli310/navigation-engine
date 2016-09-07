@@ -1,0 +1,4 @@
+library supports guava tables csv format 
+library supports guava tables csv format generated generating process takes time query processing needed save intermediate result read 
+
+href http commons apache org proper commons csv user guide html rel nofollow apache commons csv 

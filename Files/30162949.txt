@@ -1,0 +1,4 @@
+couchbase sdk bucket connection management 
+understand objects shared application components connect application initialises disconnect application shutdown true objects web based application retain reference open connection share reference threads initialise object perform operation close object http request 
+
+couchbases href http docs couchbase developer managing connections html rel nofollow docs blockquote important things mind create instance couchbasecluster share threads strong buckets strong sdk thread additional synchronization needed interacting sdk clusters accessed reuse clusterenvironment sharing resources blockquote lazily create bucket objects hashmap singleton application threads pick dont find required bucket create add map threads case application hosted servers connecting couchbase cluster release bucket closing application serving request shutting load balancer connections applications occupied 

@@ -1,0 +1,4 @@
+wildfly resource lookup stopped working 
+webapp jms queue worked fine wildfly wildfly naming exceptions guide href https docs jboss org author display wfly9 messaging configuration rel nofollow https docs jboss org author display wfly9 messaging configuration blockquote local client jboss exported jms queue test jms queue test simply jms queue test blockquote standalone xml class upgraded wildfly final exception context createconsumer changing resource lookup jms queue test jms queue test work 
+
+define default connection factory javaee7 spec href http www oracle technetwork articles jms20 html rel nofollow http www oracle technetwork articles jms20 html set default bindings specific connection factory absence annotation default connection factory 

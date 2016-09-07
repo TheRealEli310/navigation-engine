@@ -1,0 +1,4 @@
+entity persistent id property extracting superclass embeddedid class 
+spring boot spring data jpa early primary key generation dedicated object primary key advised href http rads stackoverflow amzn click rel nofollow implementing domain driven design suppose entity object works fine create superclass id classes bookid class problem run application exception suddenly work anymore 
+
+put class properties treated persistent 

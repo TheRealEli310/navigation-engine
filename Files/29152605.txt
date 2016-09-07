@@ -1,0 +1,4 @@
+implementing virtual mouse clicks move browser inside application 
+wondering potentially load website means clicking control actual mouse dont familiar runescape bots game window log game click move youre retain mouse control thing hoping website game ideas searching havent 
+
+things ol li robot class control mouse keyboard href http docs oracle javase docs api awt robot html rel nofollow http docs oracle javase docs api awt robot html li li ability global events application impossible capture event app href https code google jnativehook rel nofollow https code google jnativehook li ol 

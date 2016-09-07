@@ -1,0 +1,4 @@
+attributes stored set servlets 
+servlet learnt webapplication loaded servletcontainer create servers memory collection attributes configurations apply entirety web application servletexample create attribute attributes stored attributes configurations stored 
+
+scopes ol li application scope sevletcontext li li session scope httpsession li li request scope httpservletrequest li ol servletcontext object ol li getservletcontext set attribute attribute accessible servlet application httpsession object li li request getsession true set attribute name2 name2 attribute accessible current session li li request set attribute name3 name3 attribute accessible servlet jsp sending response back client li ol ques attributes stored ans attributes stored map pair respective scope session map request map servletcontext map 

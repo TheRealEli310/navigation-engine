@@ -1,0 +1,4 @@
+handle multiple fragment interaction listeners activity properly 
+attached fragment interface activity implements listeners order receive callbacks messy interested patterns ways simplify make elegant 
+
+good solution onfragmentinteractionlistener fragments param listener methods tag parameter identificate fragment action make class fragment class onfragmentinteractionlistener activity object type pass type data convert object type maintenance easier differents listeners method type data pass hope helps 

@@ -1,0 +1,4 @@
+mongo spring query fields equal 
+execute query path id fields mongo document results list fields equal document query retrieve results properly received empty list case results field values equal mongo 
+
+href http docs mongodb org manual reference operator query rel nofollow strong strong operator mongodb standard query operations compare values field order employ javascript evaluation server side compare field values thing native operators strong href http docs mongodb org manual reference operator aggregation redact rel nofollow strong pipeline stage href http docs mongodb org manual reference method db collection aggregate rel nofollow aggregation framework pretty support spring mongo wrap aggregation operation class basic mongodb query operations compare field values follow methods 

@@ -1,0 +1,4 @@
+record swt mouseenter exit events composite filllayout 
+id track events inside consumes entirety region due sample code illustrate due fact fills entirety parent record mouse enter exit events em em expose bit area expose bit creating margins commented lines ideal aesthetic reasons huge margins reducing margin size doesnt consistently detect mouse events moving mouse composite quickly move mouse em em slowly 1px margin trigger design perspective project supposed deep controls nest setting event listeners children isnt ideal track mouse events consuming area 
+
+add filter handler check source child give idea 

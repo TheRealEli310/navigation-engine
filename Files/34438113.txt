@@ -1,0 +1,4 @@
+maven compiler plugin order 
+working mixed kotlin project maven problem facing runs compiling source code referencing classes written kotlin javac runs kotlinc maven interrupts compiler errors pom parent pom submodules 
+
+kotlin documentation href https kotlinlang org docs reference maven html maven suggests explicitly binding execution phase bound phase binding phase makes run 

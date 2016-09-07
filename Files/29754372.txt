@@ -1,0 +1,4 @@
+compiler treat missing type arguments types extends foo 
+understand difference lines code lets class foo compiler handle differently lot examples type arguments excluded doesnt check examples examples put strong compiler default restrictive type argument declaration omitted simply strong em em default declaration reason style edit question compiler treats specific examples differ referenced question pecs difference 
+
+h1 tl dr h1 h1 long form h1 simple test case eclipse error calls method applicable arguments compiler error commented compiled individually 

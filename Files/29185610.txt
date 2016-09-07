@@ -1,0 +1,3 @@
+read file multiple delimiters 
+file store line data structure set values stored inside delimiter file colon space advance 
+

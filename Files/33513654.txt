@@ -1,0 +1,4 @@
+warning resource method empty path annotation 
+configured rest path v1 endpoint configured servlet test removed v1 class test warning make change handle warning v1 removing rest paths run warnings 
+
+warning means resource method annotated instance jersey give warning make reason resource method redundant implied works remove warnings 

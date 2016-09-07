@@ -1,0 +1,4 @@
+calculate distance tangoposedata 
+project tango device recorded href https developers google project tango apis tangoposedata rel nofollow tangoposedata observations calculate distance meters observations 
+
+href https developers google project tango overview frames reference rel nofollow coordinate pair frames documentation blockquote coordinate frame pairs unit measurement meters blockquote blockquote project tango handed local level frame start service area description coordinate frames convention sets axis aligned gravity pointed upwards plane perpendicular gravity locally level ground plane blockquote coordinates standard libraries href http tsusiatsoftware net jts main html rel nofollow jts topology suite coordinates strong start service area description coordinate frames strong coordinates provide href http tsusiatsoftware net jts javadoc vividsolutions jts geom coordinate html distance vividsolutions jts geom coordinate rel nofollow distance method 

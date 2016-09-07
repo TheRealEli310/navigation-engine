@@ -1,0 +1,4 @@
+implementing fix client quickfixj throws nosuchmethoderror 
+fix time connect attempting quickfixj library connect uat environment provided specifically quickfixj jar implemented sample code href http mprabhat quickfixj initiator acceptor integration rel nofollow works full code sample error sendercompid targetcompid variables provided removed sample quickfix mina message fixprotocolcodecfactory addmessagedecoder ljava lang class thrown socketacceptor start method changed config examples point fix uat environment understand method contained jar throw error send message stage open connection worked exact error fix client href http www dailyfx forex forum fix api support quickfix html rel nofollow found 
+
+importing href http www dailyfx forex forum fix api support quickfix html rel nofollow implement eclipse project worked problem appears caused incorrect import quickfix jar causing wrong method called start 

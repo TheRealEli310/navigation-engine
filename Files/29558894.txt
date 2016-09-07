@@ -1,0 +1,4 @@
+problems accessing gridpane node 
+hope project create video game javafx gui troubles code made practice dont dont work problem function getcanvasnode produces null pointer exception dont node click map event handler pd dont efficient simple give tips awesome javafx 
+
+iterate child nodes grid pane nodes added nodes part internal implementation grid pane happening case called grid pane added child node represent grid lines node doesnt properties set loop encounters node throws implementation nodes property map object specific key implicitly calls result set attempts call reference fix lines treating special case approach achieve registering listener pane digging find child clicked register listeners child nodes 

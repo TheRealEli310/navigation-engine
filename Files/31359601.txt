@@ -1,0 +1,4 @@
+predestroy called runnable 
+spring context runnable beans started basemydispatcher class abstract class samplerunnablex implementations prototype scope base class basically postconstruct method predestroy method main functionality call notify lock object run method problem postconstruct method called run method completes object doesnt destroyed predestroy method called stuck waiting parent lock object code called function inside parent runnable executed inside threadpoolexecutor starts sequentially children method startchildandwait passing time class make predestroy method called completion child thread 
+
+callback method called application shuts register shutdown hook jvm close application context jvm exits execute code child thread completes put end run method thread 

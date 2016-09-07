@@ -1,0 +1,4 @@
+lazy evaluation 
+streams video found confused streams api giving lazy evaluation imperative loop approach heres typical loop code checks number greater simply prints returns expected output heres code streams api evaluates providing traditional loops 
+
+heres key strong composability strong innocuous hand method build equivalent loop copy paste composable abstraction stream makes strong strong iterating processing data abstract worker pools fork join order favorable cpu cache locality number things youre longer telling jvm closer telling letting figure 

@@ -1,0 +1,4 @@
+spring mail inline images attached 
+written code sending mails inline images code working perfectly required send mail regional language code fails change code attachimage method language showing fine inline images attached language support meant highly appreciated 
+
+revert made code thing encoding easier intrusive ways ol li configure li li pass encoding li ol intrusive add line configuration xml mails send utf set href http docs spring io autorepo docs spring current javadoc api org springframework mail javamail javamailsenderimpl html setdefaultencoding lang string rel nofollow property encoding bit intrusive change code href http docs spring io autorepo docs spring current javadoc api org springframework mail javamail mimemessagehelper html mimemessagehelper javax mail internet mimemessage boolean lang string rel nofollow constructor takes encoding line reverted code change constructing give utf encoded emails lot simpler 

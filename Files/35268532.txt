@@ -1,0 +1,4 @@
+default size arraylist 
+piece code noticed strange initialization arraylist opened em javase em sources elementdata arrray initialized empty array constant pass capacity constructor question difference shouldnt set default capacity size smth answers 
+
+internal array store list elements difference constructor calls creates object array size static empty object array size switches private array add items list edit javadoc default constructor contradict create element array length immediately add elements ensure capacity 

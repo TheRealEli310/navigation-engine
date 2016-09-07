@@ -1,0 +1,4 @@
+exceptionmapper webapplicationexceptions thrown entity 
+legacy codebase throwing webapplicationexceptions ways attempt make order handling exceptions wanted create exceptionmapper waes realized jerseys exceptionmapper maps wae werent thrown entity exception caught exceptionmapper exception caught exceptionmapper thrown point code exceptionmapper create exceptionmapper catch webapplicationexceptions response built entity jersey 
+
+code gist href https gist github jeorfevre 9fb2c447a01bcc724998 rel nofollow https gist github jeorfevre 9fb2c447a01bcc724998 ol li register mapper magicexception response li li define exception response li li throw exception li ol 

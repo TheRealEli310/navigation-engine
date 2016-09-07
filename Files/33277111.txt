@@ -1,0 +1,4 @@
+write jooq converter enumset mysql set type 
+mysql type href https dev mysql doc refman en set html rel nofollow set jooq code generation nutshell mysql href https dev mysql doc refman en enum html rel nofollow enum multiple values generics type erasure prevents current implementation solve problem href https sites google site gson gson user guide toc serializing deserializing generic types rel nofollow gson library lets work database code generator xml converter write converter enumset lose enclosed type useless wrong 
+
+good idea suspect worth adding functionality feature future jooq href https github jooq jooq issues rel nofollow fixes implement youre h3 xml configuration h3 h3 converter code h3 create type information lost object href http stackoverflow question tricks youve mentioned dont apply tricks 

@@ -1,0 +1,4 @@
+libgdx return keys held time 
+gdx input iskeypressed int key edit return keycode 
+
+didnt notice answer typed answer method advantages inputprocessor proper play nice input processors stage2d dont iterate keys frame fires key press frame isnt automatic handle multiple key presses pretty easy implement libgdx intset class perfect avoids generating garbage primitive ints 

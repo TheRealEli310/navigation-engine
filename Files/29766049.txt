@@ -1,0 +1,4 @@
+spring dateformat formatting dates properly china 
+class preparing dates strong february strong function works english french work chinese hardcoded chinese locale purpose order test input provided format yyyy mm dd find solution solve issue suggestions appreciated solution provided joda time embedded classes 
+
+input format dont construct locale br output strong strong read href https docs oracle javase docs api util locale html rel nofollow doc locale 

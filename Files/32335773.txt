@@ -1,0 +1,4 @@
+configure embedded jetty reload static content dynamically 
+embedded jetty spring mvc html didnt reload config 
+
+resourcehandler didnt finally figured ide updating target folder 

@@ -1,0 +1,4 @@
+unable store data database unmarshalling xml resource 
+entities mapping remote resource data stored database entity em entities em strong entity strong strong entity strong unmarshalling whe run code throws understand serialize cell table obtain achieve throws exception store data database em question em store data table missing jaxb annotation technique persistence strong strong xml parsing 
+
+onetomany relation valcurls inform jpa store relation missing bit onetomany annotation collection cascade cascadetype roughly means insert valcurs valutes inserted remove valcurs valutes removed orphanremoval true effect remove valuete allvalutes list removed table relationship represented db link betweenthe valcurs valute simplest parent column valute table id valcurs achieve adding joincolumn annotatins join table google dont valcursservice implementation cascade setup persist valcurs related valutes saved automatically jpa hibernate 

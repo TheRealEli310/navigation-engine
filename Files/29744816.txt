@@ -1,0 +1,4 @@
+postgis geography data type jdbc 
+working web project column type table store insert select type jdbc object read postgis manual information strong questions strong ol li pojo model class type column li li write insert sql li li write select sql retrieve put object li li effect answers questions li ol 
+
+dont special types geometries primitive data types coordinates insert type parameters href http postgis net docs reference html geometry constructors rel nofollow geometry constructor functions back floating point numbers href http postgis net docs reference html geometry accessors rel nofollow geometry accessor functions input output formats geojson wkt 

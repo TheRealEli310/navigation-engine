@@ -1,0 +1,4 @@
+jni reference types passing bytebuffers 
+create allocate directbytebuffer native pass back directbytebuffer allocated resides heap memory immune javas garbage collector free free call env getobjectreftype buffer object jni returns meaning local reference local references automatically freed javas gc jni method returns clarify freed gc case env newglobalref env bb turn allocated buffer global ref 
+
+answer shovel salt long ago blockquote create allocate directbytebuffer native pass back directbytebuffer allocated blockquote true allocated jni allocated thing object wrapping blockquote call env getobjectreftype buffer object jni returns meaning local reference local references automatically freed javas gc jni method returns blockquote makes sense byte buffer freed underlying memory blockquote env newglobalref env bb turn allocated buffer global ref blockquote guess 

@@ -1,0 +1,4 @@
+jackson deserialize object array generics 
+write custom jsondeserializer figure generic type information class strong i18nproperty class strong desired json representation instance write read field names values strong strong figure create instance generic type marked lines generic type information give jackson arbitrary class generic fields correctly deserialize advance benjamin 
+
+dont custom jsondeserializer make work solve create objects annotation somemethod string simple easy remove part json provided annotation i18nproperty set objectmapper git repo full working git demo additional examples serialisation code href https github varren jacksondemo tree master demo src main rel nofollow https github varren jacksondemo tree master demo src main href http stack imgur p4jdu png rel nofollow img src http stack imgur p4jdu png alt log demo 

@@ -1,0 +1,4 @@
+vlcj player taking room 
+writing small swing program involves embedding video player interface order achieve vlcj gui components analog code structure code separately facing problem gui basically window parts left panel display data panel video embedded panels put order user allocate amount room desires player video components pixels width problem confortable set preferred size 200x100 refuses shrink vertical split moved bring player pixels width enlarge bring back pixels setting maximum size doesnt change problem annoying forces left panel shrink practically invisible media player follow constraints set user resize components left pane application crushed player 
+
+works improve code fit purpose 

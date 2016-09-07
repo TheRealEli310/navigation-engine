@@ -1,0 +1,4 @@
+android setcontentview pretty short activity life time 
+activity android app launcher activity finishes pretty quickly goal redirect mainactivity userloginactivity depending shared preferences variable variable exist automatically perform startactivity mainactivity variable set perform http request api order authenticate user start mainactivity http request takes thing display progress bar center launcheractivity user understand loading problem displayed screen comment line starts activity displayed activity duration fast display thought calling setcontentview method instantly load views screen case normal behavior display progress bar screen knowing activity launcher activity xml ressource file oscar 
+
+blockquote thought calling setcontentview method instantly load views screen blockquote wont ui activity cycle rework code move authentication separate activity meybe ps real reason 

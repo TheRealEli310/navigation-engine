@@ -1,0 +1,4 @@
+make jtextarea fill jpanel completely 
+id jtextarea component completely fill jpanel padding jtextarea colored red etched border picture img src http stack imgur ydzes png alt image program 
+
+youre flowlayout give jtextarea size fiddling min max preferred size jtextarea layout give jtextarea room borderlayout option default layout jframe borderlayout set specifically default layout jpanel flowlayout set specifically 

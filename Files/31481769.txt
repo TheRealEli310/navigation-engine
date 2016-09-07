@@ -1,0 +1,4 @@
+read bytes nio socketchannel marker reached 
+searching efficient read bytes socket channel nio task easy solution searching cleaner efficient solve scenario ol li data read socket channel li li data utf encoded string li li line ended length unknown front li li line read message li ol solution reads data byte byte compares byte marker utf code pages code job doesnt byte comparisons iteration 
+
+read kb read copy data byte byte buffer stringbuilder data left buffer time read continue buffer consumed point read data system call expensive micro seconds doesnt sound call millions times add seconds reading mb 

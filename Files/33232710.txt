@@ -1,0 +1,4 @@
+intellij resolve symbol 3rd party jar maven 
+3rd party jar created artifact command artifact added project modules imported fine creating class symbol 3rd party jar remains unresolved red light bulb displays option import class expect invalidate caches restart avail ideas em edit em install compiled jar symbol resolved em edit em adding pom xml displaying internally shared artifact 
+
+maven project file fixes tips hints changed changed strong remark strong rare case project extends 3th party parent pom project kind extention plug 3th party project maven plug versions dependecies 3th party makes lickly em extention plug em works parts 3th party software em concrete em 

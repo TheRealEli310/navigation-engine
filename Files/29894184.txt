@@ -1,0 +1,4 @@
+bluej input keyboard 
+written code bluej doesnt prompt input prints console thougts compile run program powershell runs thing bluej reason 
+
+input bluej bufferedreader statement bufferedreader bufferedreader inputstreamreader system writing statement class method input console give statement case integers int variable integer parseint readline 

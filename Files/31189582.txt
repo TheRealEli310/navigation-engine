@@ -1,0 +1,4 @@
+detecting circles graph 
+directed graph stored map data structure key nodes id array nodeids nodes pointed key node wrote recursive searching algorithm locate circle graph function called code paths extra nodes arent circle rid select nodes ways lists actual nodes circle algorithm find circles graph 
+
+circle directed graph represents strongly connected component algorithms referenced wikipedia page finding strongly connected components href https en wikipedia org wiki strongly connected component rel nofollow https en wikipedia org wiki strongly connected component instance tarjans algorithm based depth search href https en wikipedia org wiki tarjan 27s strongly connected components algorithm rel nofollow https en wikipedia org wiki tarjan 27s strongly connected components algorithm edit strongly connected component multiple circles share nodes manual checking component follow easy 

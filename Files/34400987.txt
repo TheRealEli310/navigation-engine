@@ -1,0 +1,4 @@
+insert pojo key database table 
+whats easiest insert pojo strong em key table em strong springs strong manually looping strong field calling insert pojo strong key strong table 
+
+jacksons href https fasterxml github io jackson databind javadoc fasterxml jackson databind objectmapper html rel nofollow objectmapper class convert pojo key pair iterate map entry insert database alternatively href http commons apache org proper commons beanutils javadocs v1 apidocs org apache commons beanutils beanutils html rel nofollow apache commons beanutils 

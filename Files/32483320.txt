@@ -1,0 +1,4 @@
+retrieve integer data database store variable 
+integer field product table store originalqty variable error store result int variabe 
+
+quote query input number remove quotes em prepared statements em handle escaping inputs automatically prevent sql injections 

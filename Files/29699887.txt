@@ -1,0 +1,4 @@
+spring integration tailing multiple files 
+writing spring integration application supposed tail multiple files osdelegatingfiletailingmessageproducer message source beginning pipeline involving multiple filters channels tailing file works fine pipeline xml configuration file channels transformers tailing files multiplication xml configuration good programming practice eyes guess build pipelines programmatically constructing spring application context options edit beanfactorypostprocessor href http stackoverflow http stackoverflow 
+
+easiest create message producers programmatically wire create spring application context time channel context set polled adapters bit complicated case tail adapter simple single bean invoke setting properties unique downstream flow tailer technique similar href https github garyrussell spring integration samples tree master advanced dynamic ftp rel nofollow dynamic ftp sample parameterized application contexts 

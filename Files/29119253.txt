@@ -1,0 +1,4 @@
+retrofit okhttp client cache response 
+cache response http calls retrofit okhttp made network calls make call internet restclient okhttpsingletonclass myactivity href http square github io okhttp javadoc squareup okhttp okhttpclient html manage work simply hitting server wrong 
+
+retrofit caching support instance square library compile retrofit caches response headers seconds read headers href https en wikipedia org wiki list http header fields caching headers instructed server response implement cache headers servers dont option retrofit cache add interceptor okhttpclient instance finally add okhttpclient restadapter href https docs google presentation 1eja0gbzlpzrq5vjw eqlyekegb54n4fq1n4jdcgmz1e edit usp sharing slide reference 

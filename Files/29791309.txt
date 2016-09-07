@@ -1,0 +1,4 @@
+3x3 gaussian filter correctly 
+tutorial image processing sample image apply 3x3 gaussian filter read postes suggested br problem faced type cv cv beacause parameter3 underscred red line parameters size sigma ran step wrote mat returned hard drive found image empty size happening 3x3 gaussian filter correctly strong update strong smooth image 
+
+href http docs opencv org org opencv imgproc imgproc html getgaussiankernel int 20double rel nofollow docs href http docs opencv org org opencv imgproc imgproc html filter2d org opencv core mat 20org opencv core mat 20int 20org opencv core mat rel nofollow filter2d href http docs opencv org org opencv imgproc imgproc html gaussianblur org opencv core mat 20org opencv core mat 20org opencv core size 20double 20double rel nofollow gaussianblur code blur box filter gaussian 

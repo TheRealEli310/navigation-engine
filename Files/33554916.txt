@@ -1,0 +1,4 @@
+abstract class interface 
+working project basic roleplaying game ood question guess pretty simple project started working weapons created abstract weapon class abstract method named attack weapon subclasses meleeweapon rangedweapon attack method fine thought thing happen meleeweapon object spear close combat thrown good solution case 
+
+option composition inheritance weapon offer set attacks returns set supported attacks subclass returns instances attack multiple weapons mace spear offer bash attack hp damage thrust spear foot pole throw spellbook things hurt general define results action object 

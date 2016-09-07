@@ -1,0 +1,4 @@
+approach multiple services inside resource controller 
+controller call services approach encapsulate service calls 
+
+possibly design patterns approach create coarse grained href http en wikipedia org wiki facade pattern rel nofollow facade fine grained services account process release href http stackoverflow questions coarse grained fine grained coarse grained fine grained facade basically services injected encapsulate behavior making controller perform minimize business logic invoking coarse grained service controller encapsulating guts system 

@@ -1,0 +1,4 @@
+inserting 16mb document mongo db 
+evaluating mongo db encountered scenario document size exceeded 16mb scenario list primary keys unique records document embedded collection additional fields pks exceed 16k error document size exceeded collection document embedding required scenario document separate collection works fine inserts updates slow search pks insert update accomplish gridfs examples storing images videos file system suggestions helpful advance 
+
+official documentation href http docs mongodb org manual reference limits bson document size rel nofollow mongodb limits thresholds suggest gridfs exceed size limit bson object mbytes gridfs media files kind binary content 

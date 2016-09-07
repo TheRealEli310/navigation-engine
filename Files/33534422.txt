@@ -1,0 +1,4 @@
+referential generic types 
+compiles perfectly make compile diamond work raw type attempts raw types dont work original version diamond work inferred type write inferring raw type inferring kind infinitely nested type 
+
+placeholder type bind time write source type referred error messages assign expression variable expressible type diamond operator works type inference runs captured ndash assuming assign words diamond operator syntax directly specific capture syntax directly anonymous type overload resolution method type inference resolve specific captures hr code means capture shorthand case compiler automatically constrains constraints type covariant view type parameter convertible type assume constraint reason create thing 

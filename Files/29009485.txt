@@ -1,0 +1,4 @@
+play framework mysql error save model 
+model created save controller values error activator console partial table structure relevant variable mysql db questions ol li executing query suppose play internally full query values executed li li solve li ol 
+
+blockquote full query values executed blockquote ol li strong application conf strong add li li create file strong logger xml strong inside strong conf strong folder content show sql generated console li ol href http stackoverflow questions logged sql statements play2 source blockquote solve blockquote error href http dev mysql doc refman en reserved words html rel nofollow strong current time strong reserved word mysql solution trick 

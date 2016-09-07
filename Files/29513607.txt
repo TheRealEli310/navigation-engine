@@ -1,0 +1,4 @@
+spring contextconfiglocation 
+context parameter set named defined shown code parameter set dispatch servlet shown difference 
+
+ul li contextconfiglocation context param loaded start web container server li li daoimpl service singleton datasource helper objects objects ready hand li ul hr ul li contextconfiglocation init param specific dispatcherservlet loaded servlet starts lazily loaded call servlet load startup positive servlet li li means beans defined possibly created controller beans li ul hr ul li beans defined context param contextxml visible beans defined init param contextxml li li beans defined init param visible context param context beans li li controller bean defined childapplicationcontext service part rootapplicationcontext li li means controller injected service easily easily inject service bean controller li ul hr blockquote basically control visibility scope beans context config files blockquote 

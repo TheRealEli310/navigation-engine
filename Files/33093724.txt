@@ -1,0 +1,4 @@
+peak usage ps gen symptomatic excessive garbage collection 
+investigating loss throughput problem web application running tomcat information ps gen memory usage settings irrelevant normal ps gen completely fill collection space triggered full typically occur sooner long running memory leak usage gc shows usage application generally good uptime showing increase heap usage monitored jmx 
+
+fact recovered promising real question full gc running turn gc logging surmise information gc run long blocking type gc run turned xloggc em path em additional details turned xx printgcdetails xx printgctimestamps 

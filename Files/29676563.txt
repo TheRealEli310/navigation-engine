@@ -1,0 +1,4 @@
+jersey modelvalidationexception injection source found 
+weird problem absolutely doesnt understand strong jersey strong explain strong query parameter strong make jersey throw strong modelvalidationexception strong queryparam somevalue make jersey throw string somevaluedto everythings somevaluedto classic pojo empty constructor getters setters idiea 
+
+convertible options accomplish ol li public static returns type li li public static returns type li li public constructor accepts string li li implement href http docs oracle javaee api javax ws rs ext paramconverter html rel nofollow href https github javaee samples javaee7 samples blob master jaxrs paramconverter src main org javaee7 jaxrs paramconverter mybeanconverterprovider rel nofollow li ol cases youll construct instance parsing string constructor mentioned methods 

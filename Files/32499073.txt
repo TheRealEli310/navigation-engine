@@ -1,0 +1,4 @@
+error configuring hibernate mysql 
+problem configuring hibernate mysql questions stating bug version weather bug wrong configuration file hibernate cfg xml sessionfactory code error log 
+
+solution replace add code top file config file replace 

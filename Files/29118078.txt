@@ -1,0 +1,4 @@
+call setoncloserequest close application error occurs javafx 
+close javafx application showing error dialog main class 
+
+event handled called application level shutdown detected called connected stage add stage wouldnt called kind stage level methods correct methods detect process application level shutdown event implement href http docs oracle javafx api javafx application application html stop rel nofollow stop application detect application shutdown handle needed actions primary application 

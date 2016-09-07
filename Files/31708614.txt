@@ -1,0 +1,4 @@
+libgdx http post request recieving message node js server 
+working game libgdx library part game involves collecting game data sending server json array recorded database node server running issue time game sends post request server libgdxs http net library send request http error message data isnt recorded attached screenshots relevant code messages images href https imgur cf1u6 rel nofollow https imgur cf1u6 dont reputation insert images 
+
+figured problem libgdxs included json library construct json string created defaults writing minimal names surrounded double quotes format href https libgdx badlogicgames nightlies docs api badlogic gdx utils jsonwriter outputtype html rel nofollow https libgdx badlogicgames nightlies docs api badlogic gdx utils jsonwriter outputtype html solution set format json express recognize 

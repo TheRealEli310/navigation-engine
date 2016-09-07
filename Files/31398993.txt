@@ -1,0 +1,4 @@
+writing code thymeleaf 
+strong short strong tring create tag pagination thymleaf hr strong detail strong jsp stuck middle write code googled results confusing strong jsp strong stuck 
+
+thymeleaf framework strong doesnt strong encourage write logic inside views poor coding practice strong create bean method logic strong strong access bean inside thymeleaf layout strong refer href http www thymeleaf org doc tutorials thymeleafspring html springstandard dialect rel nofollow http www thymeleaf org doc tutorials thymeleafspring html springstandard dialect 

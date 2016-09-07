@@ -1,0 +1,4 @@
+android zoom animation animatorset 
+official href http developer android training animation zoom html rel nofollow zooming view tutorial zoom creates illusion downward movement view expands simply replayed backwards create illusion zoom img src http stack imgur lz5uc png alt zoom downward movement implement exact reverse start expanded view shrink smaller view upward movement img src http stack imgur 7lazu png alt zoom upward movement doesnt reversal code assumes zoom view expand shrink back original thumbnail icon heres xml layout method performs zoom operation basically reverse procedure tutorial invoking method folks isnt working loss demo works perfectly doesnt work gander crazy identify error point direction greatly appreciated 
+
+solution ultimately key factor parameter understanding works main thing rest simple 

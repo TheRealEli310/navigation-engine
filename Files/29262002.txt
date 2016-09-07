@@ -1,0 +1,4 @@
+lambda fail compile 
+code fails compile compiler reports weird thing line marked compiles fine line marked error fails essentially identical 
+
+lambda congruent refer href http docs oracle javase specs jls se8 html jls html jls jls type lambda blockquote lambda expression congruent function type true ul li li li function types result void lambda body statement expression void compatible block li ul blockquote lambda statement expression void compatible block ul li constructor invocation href http docs oracle javase specs jls se8 html jls html jls statement expression compiles li li string literal isnt statement expression void compatible cf href http docs oracle javase specs jls se8 html jls html jls examples compile li ul 

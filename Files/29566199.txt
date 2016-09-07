@@ -1,0 +1,4 @@
+calling shell script giving relative path script location 
+working project call shell script stored location files reside calling shell script giving hard coded absolute path strong make script run giving relative path strong running script code arg location file script runs current implementation works issue store script location server webapp deployed apache tomcat server making war file good relative path store script inside war file generated attempt location script resides top application error file found error javaioexception attempt error loc path script location debugger tool figured null classloader getsystemresource returns url processbuilder accepts string directly append 
+
+deployed tomcat put script web inf war assuming start process servlet dont servletcontext order make correct classloader loaded class 

@@ -1,0 +1,4 @@
+rebuilding error 
+usersiandroidstudioprojectsprojectappsrcmain esmipmap hdpiexchange png error error android ide common process processexception org gradle process internal execexception process command usersiappdatalocalandroidsdk uild tools21 2aapt exe finished exit error execution failed task app mergedebugresources blockquote usersiandroidstudioprojectsprojectappsrcmain esmipmap hdpiexchange png error android ide common process processexception org gradle process internal execexception process command usersiappdatalocalandroidsdk uild tools21 2aapt exe finished exit blockquote question isnt answered accepted answer stackoverflow doesnt work solve problems build gradle 
+
+install drawable plugin check images op good sizes make drawable maps mipmap icons 

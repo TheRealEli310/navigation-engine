@@ -1,0 +1,4 @@
+camel http endpoint set url string post parameter 
+strong prerequisites strong ul li apache tomcat li li spring release li li apache camel li li camel http endpoint li ul strong problem strong moment code set post parameters message body camel http component reads parameters sends problem ist parameters urls send post request question send href http www http www urlparam1 value1 amp urlparam2 value2 postparameter2 advance max 
+
+isim mentioned works idea parse url fist encode avoids double encoding 

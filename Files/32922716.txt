@@ -1,0 +1,4 @@
+jsp form tag action attribute uri spring mvc 
+controller jsps pizzas jsp newpizza jsp works fine untill change uris controller form tag question attribute opportunity request mapings 
+
+issue attribute treated relative path added current url depending current url browser work avoid absolute paths attribute 

@@ -1,0 +1,4 @@
+put xml apis jar stax apis jar xercesimpl jar pom xml 
+trece jira plugin apache poi caused apache poi looked faq apache poi href http poi apache org faq html faq n1017e rel nofollow http poi apache org faq html faq n1017e put xml apis jar stax apis jar xercesimpl jar pom xml dependencies 
+
+declare dependencies dependencies section directory versions search add xml apis href http mvnrepository artifact xml apis xml apis rel nofollow http mvnrepository artifact xml apis xml apis xerces href http mvnrepository artifact xerces rel nofollow http mvnrepository artifact xerces stax apis href http mvnrepository artifact stax stax api rel nofollow http mvnrepository artifact stax stax api 

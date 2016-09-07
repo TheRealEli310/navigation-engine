@@ -1,0 +1,4 @@
+spring parent container 
+container concept springs param defined file configuration create child containers big parent container 
+
+assume youre create single href http docs spring io spring framework docs current javadoc api org springframework web context configurablewebapplicationcontext html setconfiglocation lang string rel nofollow method set configuration location separated white space single spring container parents spring create parent 

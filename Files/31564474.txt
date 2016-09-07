@@ -1,0 +1,4 @@
+install4j linux installer fails server jvm error client 
+installer created weeks ago runs fine linux installs software perfectly reload install4j recreate installer project installer build fails run linux error error home jaz rc2 appxsetup linux sh dir jre lib i386 server libjvm jre bundle compared generated installer scripts noticed older installer includes client option running jre ran failing installer client option works idea install4j decided include jvm command line option convince start adding 
+
+launcher wizard invocation preferred jvm step select client option 

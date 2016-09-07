@@ -1,0 +1,4 @@
+pass struts2 action class angularjs http 
+goal display values list table model pop jsp page strong action strong strong js strong pre class lang js prettyprint override strong struts xml strong pre class lang xml prettyprint override jsp file angularjs figure issue preventing list displayed hardcoded json data working fine 
+
+result processed em struts2 json plugin em href http stackoverflow serializes action ol li read desired object serialized action strong strong li li attribute result single element serialize pre class lang xml prettyprint override li ol 

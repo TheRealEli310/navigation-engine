@@ -1,0 +1,4 @@
+confusing test fail daylight saving time 
+nightly build jenkins tests failed 12am time debugging changing systemtime computer confused wrote test simulating issue fails unable understand google found similar br strong explain assert fails strong brussels time zone daylight saving time ended 3am clock jumped back hour 
+
+print step heres matchup expected times minutes central european summer time matchup interesting added hours date times span dst switchover time summer time time standard time add days forgets summer time days calendar time hours step change final sets additions problem guess designers make guesses expected behaviour days meant spans dst switchover 

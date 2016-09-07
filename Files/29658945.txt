@@ -1,0 +1,4 @@
+weird error parsing iso date 
+snippet code scala href https docs oracle javase docs api util date html rel nofollow util date href http en wikipedia org wiki iso rel nofollow iso standard implementing modified version offset utc xml rpc protocol implementing format problem parsed date returns digits initial date currentdate parse string formatted times return initial date supposed return bug idea fix library scala support dates recommend href http www joda org joda time rel nofollow joda time 
+
+problem printing current date position parsed date silly mistake weird error thing notice parsing date string milliseconds date tests confirm dates identical created method em withoutmillis em subtraction removes milliseconds digits current date comparison 

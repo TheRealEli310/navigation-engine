@@ -1,0 +1,4 @@
+httpsurlconnection net socketexception connection reset 
+br br ve problem code works perfect switch strong error strong br problem httpsurlconnection figure strong initialize httpsurlconnection strong br methode error br strong class strong em performaction em br strong methode strong em getcontent httpsurlconnection con em br hope problem kinda clear understands br taking time problem strong edit strong br br found wireshark packets fail smaller succed bytes fail bytes true br br thinking isnt encrypting data ip packet oder isnt sending certificate br br noticed ssl handshake successful client requests data fails server anwsers server calling connection reset br lost 
+
+robert mentioned comment blockquote server communicating securely maintained problems support insecure versions ssl tls tls support outdated ciphers fix upgrade version blockquote unable upgrade version strong apache httpclient strong 

@@ -1,0 +1,4 @@
+failed execute goal project unable find pom project 
+build application dependency found red hat site href http www jboss org quickstarts eap helloworld jms rel nofollow http www jboss org quickstarts eap helloworld jms netbeans maven command dos eclipse error building log locate file path href https maven repository redhat techpreview org jboss jboss jms client bom final redhat jboss jms client bom final redhat pom rel nofollow https maven repository redhat techpreview org jboss jboss jms client bom final redhat jboss jms client bom final redhat pom 
+
+add em redhat repo em href https access redhat documentation en red hat jboss data grid html started guide chap install maven repository html rel nofollow install maven repository 

@@ -1,0 +1,4 @@
+moving top disc tower hanoi recursion 
+weird issue program attempts solve tower hanoi puzzle solve move discs end pole pole move remainder discs back starting pole tower hanoi discs move discs start pole top make end pole rest discs end back pole index bounds error wrong greatly appreciated advance class run program 
+
+tracked lines method statement tring access towertwo towerthree discthree changed code pull disc tower discs causing error running found typo area statement targeting discthree disctwo code ran error free issue unable solve puzzle algorithm solve puzzle discs solved program stopped winning configuration managed shuffle discs solution run solid minutes case tl dr suggestions careful copy pasting mindful index algorithm solve puzzle written hanoi puzzle familiar implement code idea solve puzzle discs solve discs good luck rest work 

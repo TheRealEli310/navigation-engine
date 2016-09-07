@@ -1,0 +1,4 @@
+final private private setters immutable classes 
+reading href https docs oracle javase tutorial essential concurrency imstrat html rel nofollow creating immutable objects wondering class oracle suggests create immutable classes declare setter private immutable wrong implementing private setter making private variable final constructor 
+
+reason setting method private effects scope method immutable variable set final variable mutated return clone userid getanonymousclientid method objects mutable default edit return userid method 

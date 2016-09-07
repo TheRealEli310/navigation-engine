@@ -1,0 +1,4 @@
+load based securityconfig xml based spring config file 
+xml based spring application asked integrate spring security based config initialized instructions href http docs spring io spring security site docs rc2 reference html jc html abstractsecuritywebapplicationinitializer spring mvc rel nofollow config load class 
+
+add annotation add component scan tag spring configuration xml file 

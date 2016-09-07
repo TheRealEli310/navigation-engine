@@ -1,0 +1,4 @@
+covert time based util uuid datetime 
+generate time based uuid convert back date time package fine 
+
+href http docs oracle javase docs api util uuid html timestamp rel nofollow javadoc resulting timestamp measured nanosecond units midnight october utc expects timestamp milliseconds 01t00 00z href http joda time sourceforge net apidocs org joda time datetime html constructor summary rel nofollow javadoc 

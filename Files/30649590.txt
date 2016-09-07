@@ -1,0 +1,4 @@
+wholefileinputformat hadoop mapreduce results mapper processing line time 
+expand header hadoop send files mapper single line time tom whites code definitive guide create wholefileinputformat wholefilerecordreader mapper processing files line time missing code book guidance appreciated wholefileinputformat wholefilerecordreader main method mapreduce mapper good measure simply returns test case returning line file 
+
+ramzys input found error file passed main method needed inputformatclass needed mapper expect correct types input successfully byte entire file mapper manipulate needed 

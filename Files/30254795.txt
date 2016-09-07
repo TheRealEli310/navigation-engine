@@ -1,0 +1,4 @@
+mock facescontext jmockit tests fail nullpointerexception 
+junit tests fail nullpointerexception bean facescontext creates object class facescontext suggest test code junit h2 bean h2 h2 test h2 h2 error h2 
+
+mock record expectation 

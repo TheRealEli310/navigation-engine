@@ -1,0 +1,4 @@
+spring data rest difference prepersist handlebeforecreate 
+mappings jpa annotation methods called persistence en entity db spring data rest annotation method called catching entity creation event equivalent 
+
+ol li handlebeforecreate called rest request prepersist called entities lifecycles call path rest instance calling entity manager directly due internal cascading operations jpa impl catch event handlebeforecreate li li handlebeforecreate called spring easy place bean enjoy spring features entity listeners lifecycle managed jpa impl tricks wired spring ecosystem li ol instance handlebeforecreate prepersist security checks due item check security exposed rest operations due item easily secured preauth annotations methods check 

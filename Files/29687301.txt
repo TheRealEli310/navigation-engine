@@ -1,0 +1,4 @@
+android parcelable class classes static declarations 
+create android parcelable object running error classes static declarations reference official android tutorial located href http developer android reference android os parcelable html rel nofollow current code found online encountered similar issue concluded compiler didnt static initializer block static class advice declaring initialising error workable compile 
+
+blockquote matter blockquote error error due due methods data members class net effect classes directly implementing classes regular classes based implementation making solve problem 

@@ -1,0 +1,4 @@
+javamail throwing error 
+send email mail giving exception javax mail internet parseexception content type string expected mime type null code complete stack trace javax mail internet parseexception content type string expected mime type null deeply appreciated 
+
+clean href http www oracle technetwork javamail faq index html commonmistakes rel nofollow common mistakes jiffieapplicationcontext class getresourceasstream return inputstream dont youre casting datasource work getresource urldatasource 

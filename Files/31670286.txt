@@ -1,0 +1,4 @@
+calledfromwrongthreadexception androidschedulers mainthread 
+alright implemented mvp layer presentation rxjava rxandroid href http fernandocejas architecting android clean rel nofollow built presenter called start acting submits model interactor interactor creates sets thought call back presenter call ui thread bind data view raises stacktrace cuts point run ui thread manually view shouldnt set weve problem missing implementation details dagger2 di interactor created schedulers constructor presenter interactor constructor injection presenter injected view 
+
+youre remind clarify em subscribeon em method specifies thread em onsubscribe em method executed em observeon em method specifies thread em onnext em em onerror em em oncompleted em executed youre interactor creates observable sets observeon schedulers io subscribeon androidschedulers mainthread confused methods 

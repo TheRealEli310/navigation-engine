@@ -1,0 +1,4 @@
+spring webflow spring security expression role 
+created customwebsecurityexpressionhandler check users db table searching function id change roles function db update restart context recompile editing mountain xml springsecurityexpression inside webflow parts spring make isfuu key working custom customaccessdecisionmanager needed 
+
+found workaround debug classes spring security webflow discover securityflowexecutionlistener set spring security work expression listener role based found parsing expression specific type config attribute webexpressionconfigattribute precise public class href https jira spring io browse sec rel nofollow https jira spring io browse sec suggested jira needed creat customsecurityflowexecutionlistener package org springframework security web access expression customsecurityflowexecutionlistener webflow config xml 

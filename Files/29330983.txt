@@ -1,0 +1,4 @@
+ignore blank line srt file 
+srt file remove blank line line pre class lang prettyprint override 
+
+steps file bufferedreader step text file buffereader print writer write string line text file read line check line null line empty write line empty output srt file line close printwriter end input output make clear questions state problem assumed line1 line2 part input file prepared solution change make clear precise proper answers 

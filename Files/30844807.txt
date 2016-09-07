@@ -1,0 +1,4 @@
+redirect relative path servlet api 
+send relative redirect original request domain amp port browser send automatically full absolute path href http docs oracle javaee api javax servlet http httpservletresponse html sendredirect lang string rel nofollow documentation mentions relative url converted absolute url servlet container send relative url redirect 
+
+manually set redirect status header replace 

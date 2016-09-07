@@ -1,0 +1,4 @@
+properly set ssl socket connection 
+problems connect socket client socket server server deployed centos server keystore private key entire trust chain primary intermediate root client running laptop win7 x64 client running laptop win7 x64 client server success client server fail hr server errors client errors wrong hr edit tests fault client client connect https website exchange http requests application doesnt crash 
+
+found problem incorrect keystore merged tutorials creating keystore merge private key entire trust chain pem import pem keystore result keystore main cert recently wanted verify keystore windows realized wrong made keystore successful tool 

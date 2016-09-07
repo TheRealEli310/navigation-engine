@@ -1,0 +1,4 @@
+forcing work directory executing jar file systemd 
+attempting start jar systemd service linux jar executing assumes current directory xml file passing file config argument sample service created service file usr lib systemd system directory called myservice service commands start command shows jar file ran application find xml file addition jar states executed directory part problem xml file applicable path jar directory things ul li prepend path jars location xml file li li changed path jar make permissions enabled li li add section systemd service made change root user machine permissions check li ul makes strange cd manually execute words fine evident missing systemd service execute jar make working path opposed 
+
+solve ended attribute section solved problem 

@@ -1,0 +1,4 @@
+javafx alert throwing uncatchable illegal state exception 
+running unit tests class javafx alert implemented catch block making top level catch calling code didnt fix stack ways work error javafx scene stage associate alert deal 
+
+solving problem simple extending application class youre running tests generate alert boxes avoids crash edit leaves alerts handled require forced quit process 

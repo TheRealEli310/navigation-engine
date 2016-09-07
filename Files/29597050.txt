@@ -1,0 +1,4 @@
+maven project spring mvc error 
+creating spring mvc project maven receive errors run tomcat create maven project spring mvc archetype errors pom xml fix errors 
+
+tomcat issue ul li stop tomcat server li li remove project tomcat webapp wptwebapp directories manually li li remove catalina folder inside work directory li li start tomcat project deployed li li started deploy app run li ul 

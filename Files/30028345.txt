@@ -1,0 +1,4 @@
+hibernate mssql datetime2 mapping 
+stored procedure returning column datatype datetime2 database date file call gettime obtained time database returning 19994321211 millisecond equivalent mon ist ideally return milliseconds time shown database procedure executed directly hibernate unable understand issue related hibernate mapping missing 
+
+registering driver dialect changing 

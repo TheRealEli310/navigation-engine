@@ -1,0 +1,4 @@
+replace text file stream 
+write api replace lines substring string text file stream filter lines pattern problem file write part code reads file line wise filters lines match pattern replaces give string back stream strings replaced lines write lines back file lose stream pipeline ends appended pipeline hoping write file modified pipeline line lines untouched truncate file line file processed line deletes lines matched pipeline missing handling files streams 
+
+eliminates doesnt match filter stream additionally worth isnt effective streams coming sources good idea youve parallel found slow filter lines match pattern youre code 

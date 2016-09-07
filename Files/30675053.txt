@@ -1,0 +1,4 @@
+spring data couchbase error finding documents pagerequest 
+spring data couchbase created simple repository execute paged findall thrown doesnt happen create query skip limit startkeydocid pagingandsortingrepository idea wrong friendly 
+
+issue approach small change core implementation support query object types essentially add instance check added logic paging working havent fully vetted comments community appreciated wired things didnt wanted override method required override things ended copying bit code ideally added part href https jira spring io browse datacouch rel nofollow https jira spring io browse datacouch impl 

@@ -1,0 +1,4 @@
+generic logger log4j 
+generic class logging messages code constructor accepts class argument classes call initialize logger object slf4j problem view log log displays class logs class called class displaying log log4j properties loggerutils log expecting 
+
+method line called utility class current stack trace move leave code called utility class 

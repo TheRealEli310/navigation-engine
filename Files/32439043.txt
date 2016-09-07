@@ -1,0 +1,4 @@
+disable request level logging aws sdk 
+disable request level logging aws sdk tomcat linux fresh installation tomcat test servlet works prints standard default id disable request level logging aws sdk adding logging config href http docs aws amazon awssdkdocsjava latest developerguide dg logging html rel nofollow docs verbose logging tomcat startup information shows logging properties file 
+
+logging properties configuration file util logging jul witch framework log4j create log4j config file strong log4j properties strong strong root classpath strong insert code log4j logger amazonaws warn 

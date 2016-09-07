@@ -1,0 +1,4 @@
+adding volley library android project eclipse luna 
+created android project eclipse add volley library searching web approaches ul li copy strong libs strong folder click add build path li li open library android project mark library add reference android app li ul works access classes provided library importing classes follow solution 
+
+strong solution strong ul li add folder em dont em add build path li li eclipse make selected li li click li ul doesnt resources styles layouts reference library project work provided steps strong doesnt work strong make library added build path remove ul li closing opening project li li restarting ide resort li ul 

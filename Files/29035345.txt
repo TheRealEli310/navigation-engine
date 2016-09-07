@@ -1,0 +1,4 @@
+apply wordcount individual lines mapreduce job 
+input file result parse line apply wordcount line based counts high low desired result lines consideration end line proceed problem desired answer strong code mapper strong heres mapper function modify fetching 
+
+problem input file code check input file correct write logic counting distinct words mapper hope helps 

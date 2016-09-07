@@ -1,0 +1,4 @@
+maintain stream order completablefuture join 
+input stream queries executed asynchronously make result requires collected int order input query stream code sqlqueryengine execute query returns output flatten combine results single list flatmap list stream collection flatten maintain ordering 
+
+meant retain ordering explicitly passing avoid scheduling io bound sql queries ruben href http stackoverflow questions maintain stream order completablefuturejoin comment54521094 pointed joining task current thread immediately submitting em em submitting query bug submit queries start joining static import 

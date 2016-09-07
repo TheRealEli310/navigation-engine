@@ -1,0 +1,4 @@
+creating custom outputstream handles byte characters correctly 
+basically redirect console output javafx textarea code problem ascii characters work fine byte print symbol takes bytes encode cyrillic characters dont print properly things blockquote io ioexception blockquote fix approach strong update strong end thinking optimize strong update strong bit optimization code ended 
+
+work javadoc means character consist bytes 0xd0 0x9f method called create character based single byte default encoding leads garbled output writes byte level characters snippet prints expected output console 

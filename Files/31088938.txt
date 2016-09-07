@@ -1,0 +1,4 @@
+hibernate propagation work 
+programmers understand properly attribute works propagation transactional strong service class strong expect method method2 throw exception set attribute propagation happening strong output strong 
+
+transactions spring proxy based bean calls transactional bean calls method dynamic proxy deals opening transaction delegates actual bean deals commit rollback transaction call method2 method1 single bean call intercepted transactional proxy anymore spring completely unaware method2 called check transaction put method2 em em bean injected bookmanager work expected 

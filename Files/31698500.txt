@@ -1,0 +1,4 @@
+nullpointerexception action bar setdisplayshowhomeenabled android 
+create custom action bar dont mistake problems creating custom action bar showing null pointer exception line strong mactionbar setdisplayshowhomeenabled false strong error log hours find proper solution activity code menifest file style xml 
+
+method extended android system style incorrect appcompat activity default styling return appcompat style applicable 

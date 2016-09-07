@@ -1,0 +1,4 @@
+initialize subclasses postconstruct 
+context dependency injection cdi framework javaee wildfly application server initialize subclasses super class somthing method print order fine annotation dont find overriding doesnt work called container simplier initialize subclasses 
+
+section em invocation order interceptors declared target class em href https net downloads interceptors spec interceptor mrel pdf rel nofollow jsr interceptors applies cdi specification blockquote interceptor methods declared target class superclasses invoked order ul li target class superclasses interceptor methods defined superclasses invoked general superclass li li interceptor method target class invoked li ul interceptor method overridden method method interceptor method invoked blockquote case write printed order 

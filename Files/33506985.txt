@@ -1,0 +1,4 @@
+spring boot setting active profiles environment 
+couple linux environments spring boot application deployed qa amp prod set system property thsese pull spring boot app set active environments potential limitations technicnal administration continuous integration issues face approach pick active environment 
+
+environment variable automatically picked spring boot implement custom logic documentation externalized configuration href http docs spring io spring boot docs current reference htmlsingle boot features external config rel nofollow http docs spring io spring boot docs current reference htmlsingle boot features external config 

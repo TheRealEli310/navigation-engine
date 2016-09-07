@@ -1,0 +1,4 @@
+validate nic focus lost event 
+validate nic focus lost event code gave correct nic working situations prints invalid nic message wrong code amp guidelines correct code 
+
+dont surrounding slashes regex work added trim make putting whitespace 

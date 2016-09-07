@@ -1,0 +1,4 @@
+vaadin table set maximum initial column width 
+vaadin table columns widely varying content widths rows characters times rows text fill screen set explicit column width prevent column taking space default values column shorter width revert auto sizing column wide cases column manually resizable essentially auto size maximum width 
+
+jump javascript sscce main js adjust javascript suit 

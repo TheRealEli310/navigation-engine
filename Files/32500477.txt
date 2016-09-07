@@ -1,0 +1,4 @@
+birt runtime tomcat jdbc connection error 
+created report birt view report birt runtime tomcat report connects oracle database works fine report designer execute birt runtime exceptions put jdbc jar tomcats lib folder web inf lib folder birt runtime report connection profile hope idea 
+
+issue sorted comments landing question ul li jar application li li search jars class href https www google search oracle jdbc driver oracledriver 20jar amp utf amp oe utf rel nofollow google land oracles driver page href http www oracle technetwork apps tech jdbc html rel nofollow 11g release href http www oracle technetwork database features jdbc jdbc drivers 12c download html rel nofollow 12c release similar li li check correct jar file rename jar file zip extract find folder exists jar avoid classnotfound exception li ul 

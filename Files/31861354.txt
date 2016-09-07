@@ -1,0 +1,4 @@
+make jsonnode serializable 
+simple failed serialized jsonnode deserialized test class deserialize error unit test 
+
+read write operations matched write side write serialized json content read side read raw bytes stream read object wrote alternatively solution write side 

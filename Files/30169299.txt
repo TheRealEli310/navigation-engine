@@ -1,0 +1,4 @@
+jax rs service replies unsupported media type error post requests 
+similar questions asked numerous times solutions didnt work creating rest service jax rs jersey consumes json beans post requests runs programmatically configured embedded tomcat post json serialized apicredentials rest service replies add mimepull classpath service add content type header client didnt change clinet code ideas 
+
+comment answer comments discussion blockquote strong artem zhirkov strong explicitely registered resourceconfig solved problem blockquote 

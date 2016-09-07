@@ -1,0 +1,4 @@
+set stanford corenlp server windows return sentiment text 
+attempting set local server windows stanford corenlp calculate sentiment scores 1m article video texts dont successfully installed stanford corenlp server running running http post computer works expected response xxx xxx xxx xxx servers ip address response doesnt sentiment solution add annotator server side error solution add parameter starting server runs running http posts exact result error wrong modification core code work dont unable make side similar command starts console load sentiment correctly 
+
+running href https github stanfordnlp corenlp rel nofollow github version code solution correct fact find sentiment annotator bug code side property documentation show pass arbitrary properties recommend production 

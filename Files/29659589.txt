@@ -1,0 +1,4 @@
+fetch data wear data layer 
+sync list handheld wearable phone side listview add items wear side displaying list adding items path adding array size ondatachanged method called add items list phoneside read items wearside working nullpointer exception connected nodes therefor read data heres code log snapshot strong error strong blockquote androidruntime caused lang nullpointerexception attempt invoke interface method android os looper google android gms common api googleapiclient getlooper null object reference blockquote strong wear side strong 
+
+stacktrace pretty wearable dataapi thread looper method crashes move code directly method solve issue 

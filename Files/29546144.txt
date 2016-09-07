@@ -1,0 +1,4 @@
+choppy audio decoding audio video xuggler 
+writing audio decoder pre existing video decoder works libgdx problem audio code wasnt threaded audio video choppy audio play chunk video play chunk solution multithreading video stuff work libgdx render threads threadsafe messing bad things fail natural choice threading stuff audio fixes video choppiness audio choppy artifacts place stab audio programming mind basic executor service singlethreadexecutor idea audio decoded written order heres update method heres audio thread 
+
+solved making dedicated thread em em writes audio data works mline write byte bytes block writing data 

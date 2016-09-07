@@ -1,0 +1,4 @@
+access textview activity listview adapter android 
+activity listview textviews call settext method textviews onclicklistener fill method adapter dont access textviews activitymoshtari class activity moshtari xml adapter listview adaptermoshtariitem class 
+
+pass view adapter update needed add params adapter constructor adapter declare variables adapter class change fill data function finally pass textviews adapter class file 

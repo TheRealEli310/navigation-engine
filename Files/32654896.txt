@@ -1,0 +1,4 @@
+passing info steps spring 
+make spring batch experience pass information batch step completely independent getsqls triggers bean executes class generates list type string reference list bean triggered runsqls triggered term update getsqls step triggers bean triggers mytask class executes method pass stepexecution execute method 
+
+spring batch supports pushing data future job steps precisely referring href http docs spring io spring batch trunk reference html patterns html passingdatatofuturesteps rel nofollow official documentation ultimate reference blockquote make data future steps promoted job executioncontext step finished spring batch executioncontextpromotionlistener purpose blockquote listener configured step sharing data future pre class lang xml prettyprint override data populated execution code block pre class lang prettyprint override subsequent steps retrieved post computation hook annotated pre class lang prettyprint override 

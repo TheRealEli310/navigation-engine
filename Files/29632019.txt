@@ -1,0 +1,4 @@
+static block executed 
+expected static blocks execute time object creation called static method static block executed created object static block execute strong result strong 
+
+dont static initialization block block inside method code executed part method nested code blocks introduce scope create variables visible block initializer class method declaration change code move block method instance initializer execute object instantiated dont instantiate object instance initializer wont run 

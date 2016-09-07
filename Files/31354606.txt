@@ -1,0 +1,4 @@
+lang exceptionininitializererror org hibernate annotationexception mappedby reference unknown target entity property 
+hibernate reverse engineering create models mapping relationships simple select error shown dont whats wrong mapping code models student model parent assessment model child assessment model student model error 
+
+classes upper case property student assessmentmodel changing lower case property mappedby reference adding parameters annotations hibernate simple word annotations important parent class pre class lang prettyprint override child class pre class lang prettyprint override 

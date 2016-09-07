@@ -1,0 +1,3 @@
+program tells user belongs group ldap 
+write program takes user input searches opends ldap tells user belongs group user part multiple groups groups user belongs users belonging groups excel file query query giving desired result user write code code user code error output opends open ldap 
+

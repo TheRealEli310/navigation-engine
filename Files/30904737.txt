@@ -1,0 +1,4 @@
+sending double tcp 
+socketserver sends doubles client sever sends doubles client reads double send flush server client reads outputs 1463026401691e doubles encoded differently 
+
+converts double long sending writing high byte big endian reads endian format words byte order changing fix problem easiest change byte order big endian bytebuffer endian type 

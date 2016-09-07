@@ -1,0 +1,4 @@
+programmatically adding beans spring application context 
+add simple string spring application context autowire existing bean application context usual add beans programmatically make xml configuration huge running property instance null missing edit application context test 
+
+instantiate beans javadoc blockquote beanfactorypostprocessor interact modify bean definitions bean instances premature bean instantiation violating container causing unintended side effects blockquote case bean instantiated autowired remove lines work 

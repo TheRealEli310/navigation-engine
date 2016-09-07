@@ -1,0 +1,4 @@
+start service tomcat8 windows issue failed creating 
+start tomcat8 service windows computer development purpose annoying error wasnt file folder fact folder correspond x64 version tomcat service wont start told valid bit version solve install jdk1 program files tomcat8w exe path tab named virtual machine set field service tomcat8 x64 dll work correctly question replace safely windowssystem32 x86 version solution good 
+
+replacing lib good solution guarantees work correctly programas propose download version lib separate directory link tomcat issue happen missing msvcr71 dll file tomcat doesn msvcr71 dll directly virtual machine jvm solution copy msvcr71 dll bin directory tomcat bin folder add bin directory windows environment variable copy msvcr71 dll bin directory windowssystem32 folder make tomcat pointing correct jvm dll folder img src http stack imgur qi11c jpg alt enter image description 

@@ -1,0 +1,4 @@
+volley appcontroller class object returning null 
+making app makes retrieves json data url volley networking library android strong appcontroller strong strong method mainactivity class strong error rectify code 
+
+extend application class appcompatactivity class remember update manifest add class androidmanifest xml attribute tag 

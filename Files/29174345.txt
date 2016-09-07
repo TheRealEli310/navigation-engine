@@ -1,0 +1,4 @@
+illegal reference static field initializer 
+enums confused code compiles fine code fails error illegal reference static field initializer dont understand reason inexperienced enums dump lot question asked href http stackoverflow questions refer static enum field initializer refer static enum field initializer exact opposite asked case declaring static compiles code fine 
+
+enum 

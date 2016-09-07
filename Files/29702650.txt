@@ -1,0 +1,4 @@
+deck cards objects 
+apcs class create deck cards method shuffle play game figure step creating deck code theyve heres portion main method supposed create deck cards included sample theyve assume supposed create cards jack queen king suits theyve red blue creates duplicate cards commented stuff theyve commented stuff thought work run code creates card objects figure 
+
+code bug part prints correct shuffling deck collections shuffle cards custom method 

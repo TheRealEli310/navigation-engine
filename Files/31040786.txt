@@ -1,0 +1,4 @@
+call spring scheduler ui 
+defined spring scheduler works automatically based cron gave call scheduler ui scheduler run run call spring bean controller manually call 
+
+context config controller class controller function call task 

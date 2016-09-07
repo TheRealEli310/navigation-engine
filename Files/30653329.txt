@@ -1,0 +1,4 @@
+melody spring jpa persistence xml file 
+configure melody jpa configured spring persistence xml file specifically eclipselink melody instructions show configuring persistence xml file href https code google javamelody wiki userguideadvanced jpa monitoring rel nofollow https code google javamelody wiki userguideadvanced jpa monitoring 
+
+spring jpavendoradapter abstraction create melody enabled vendor adapter created eclipselink shows melody configured persistence xml file 

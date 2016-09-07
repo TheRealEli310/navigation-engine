@@ -1,0 +1,4 @@
+object initialization 
+class called team class called player wanted set player1 calling team method set player2 reset player making fresh player1 player2 object time method called question initialize player1 player2 objects time run team method achieve moved object initializations team class wouldnt access getname setname alternate achieving arrays greatly appreciated 
+
+understand relation current implementation move initialization constructor initialization em driver em class responsible initializing setting team setting players class class responsible team details change class itll easier expand class future important compare strings compares references strings content 

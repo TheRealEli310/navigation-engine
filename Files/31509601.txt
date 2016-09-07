@@ -1,0 +1,4 @@
+dropwizard hot deployment restarts static resources 
+referred href http stackoverflow questions dropwizard hot deployment make files build jar file run server settings put avoid restarts static resources picked fly code command fire plugin add 
+
+href https github spring projects spring loaded rel nofollow springloaded limitations worked good easy integrate dropwizard static resources dont work 

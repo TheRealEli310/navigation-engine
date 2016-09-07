@@ -1,0 +1,4 @@
+static string static stringbuilder 
+android project singleton class called time application running class static variables named question answer instance called repeatedly strings question answer object created time thinking changing variables replace contents time code variables code variables prefer memory 
+
+scenarios design bit flawed static variables initializing constructor counter intuitive create multiple instances static variables set instance created suggest simple class create instances regular objects creating singleton static variables process introduce unintended bugs android garbage collection objects 

@@ -1,0 +1,4 @@
+make grade bar chart 
+homework problem straight program prompts user enter number students prompts user enter grade percentage student thing draw columns correct positions columns space number student horizontal axes grade vertical axes comments included code 
+
+jfreecharts library information href http www tutorialspoint jfreechart jfreechart bar chart htm rel nofollow http www tutorialspoint jfreechart jfreechart bar chart htm 

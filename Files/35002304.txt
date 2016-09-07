@@ -1,0 +1,4 @@
+youtubeplayerview created activity extends youtubebaseactivity context 
+error xml file figure activity extends youtubebaseactivity activity stack trace 
+
+similar exception happened due extending bug layout inflater instantiate view passing context check latest version sdk tools youtube api put attributes add programatically simple contribute view hierarchy give fragment version player 

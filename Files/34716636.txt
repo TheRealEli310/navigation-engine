@@ -1,0 +1,4 @@
+authenticationprovider found refresh token spring oauth2 config 
+spring boot project configured spring oauth2 authentication process partially works authenticate refresh token exception oauth configuration custom components defined custom token granter custom authentication provider ill post authentication flow works post oauth token token refresh token exchange refresh token token posting href http localhost oauth token rel nofollow http localhost oauth token grant type refresh token refresh token refresh token exception strong authenticationprovider found org springframework security web authentication preauth preauthenticatedauthenticationtoken strong set authentication provider spring custom authentication provider refresh tokens 
+
+fixed explicitly defining preauthenticationprovider custom userservice adding provider oauth2 config 

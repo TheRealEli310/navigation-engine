@@ -1,0 +1,4 @@
+google protocol buffers pretty print 
+logging purposes write content google protocol buffer message log output havent found found textformat textformat expects instance messageorbuilder message print doesnt extend messageorbuilder extends generatedmessagelite implements messageliteorbuilder idea pretty human readable string representation message 
+
+sounds protobuf lite mode file lite mode removes introspection facilities protocol buffers textformat depends introspection capabilities result change back lite mode regular mode means library bigger slower start introspection stringification cost options ul li debugging purposes lite mode release builds regular mode debug builds li li production logging make sense write logs raw protobuf format decode tool write li ul 

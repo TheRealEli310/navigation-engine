@@ -1,0 +1,4 @@
+unable create threadpoolexecutor spring application context 
+em illegalargumentexception em creating threadpoolexecutor wrong spring stack trace passing corepoolsize maximumpoolsize result 
+
+javadoc added extract apps worked fine changed parameters violate conditions forcing illegalargumentexception order parameters config work provide stack trace starting app 

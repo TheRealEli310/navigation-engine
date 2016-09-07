@@ -1,0 +1,4 @@
+split array output 
+heres code input amp output print output question start loop 
+
+split input array size due length elements initialized update elements index index numbers index output approach href http docs oracle javase docs api lang string html tochararray rel nofollow 

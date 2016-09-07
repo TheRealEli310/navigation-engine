@@ -1,0 +1,4 @@
+jna processentry32 szexefile returns converted string 
+jna attempting program list processes windows run bit trouble reason output process identifiers valid running system snapshot reason strings corrupted similar examples stackoverflow gave result latest version jna procedure work code based heavily msdn featured href https msdn microsoft en library windows desktop ms686701 aspx rel nofollow 
+
+youre missing options jna automatically map jna loads library definition included jnas em em work unicode version due definition structure filename reason youre junk encoded byte array ansi version read array attempting read array unaware data originally encoded bytes 

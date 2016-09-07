@@ -1,0 +1,4 @@
+serializing rdd 
+rdd serialize reconstruct deserializing apache spark exception line perform action newly created rdd serializing similar internally spark rdd created loaded process dont understand error 
+
+author warning message spark support performing actions transformations copies rdds created deserialization rdds serializable methods invoked executors end users shouldnt manually perform rdd serialization rdd serialized loses reference sparkcontext created preventing jobs launched href https github apache spark blob a38774b8892a85184520078a2187e9ce2a190038 core src main scala org apache spark rdd rdd scala l79 earlier versions spark code result nullpointerexception spark access private null field error message worded users frequently running confusing nullpointerexceptions things caused actions invoked deserialized rdds executor machines didnt anticipate manually serialize deserialize rdds driver error message slightly misleading 

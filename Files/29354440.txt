@@ -1,0 +1,4 @@
+aws swf flow activity start close timeout include activity retries 
+configure swf activities flow framework find documentation starttoclose timeout single activity attempt retry attempts activity configuration activity activity expected short execution time sec activity fails retrying activity hours ul li configuration li li change defaulttaskstarttoclosetimeoutseconds li li change defaulttaskstarttoclosetimeoutseconds activity fail execution single activity attempt long sec li ul 
+
+starttoclose timeout single activity attempt exponential retry natively supported swf backend implemented decider logic curious href https github aws aws sdk blob master aws sdk swf libraries src main amazonaws services simpleworkflow flow aspectj exponentialretryaspect rel nofollow exponentialretry aspectj aspect implementation answering questions ol li li li li ol 

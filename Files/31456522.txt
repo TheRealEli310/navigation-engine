@@ -1,0 +1,4 @@
+problems connecting postgresql db app running tomcat 
+explain problem create web app netbeans tomcat created backend app provide services frontend back end connected postgresql db manages entities persistence unit eclipselink jpa version component id services frontend included jar backend project probleme connecion tomcat db hours research config files web xml context xml persistence xml data source touched server xml javax naming namenotfoundexception jdbc maintenancedb linked context exception varied depending change make find db fails querying appreciated information 
+
+context xml file cheers anant bind jndi data source wanna add function servlet init anant 

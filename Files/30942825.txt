@@ -1,0 +1,4 @@
+exclude package gradle dependency 
+experiencing issue multiple versions class showing classpath class question version brought jira rest client library dependency older version jersey included ws packages bundled jar snippet build file remove package version class def found exceptions jira client options point ol li revert jersey implementation jsr311 li li gradle exclude package jersey client li ol id newer version jersey ideal solution open suggestions 
+
+found sun jersey jersey core doesnt bundle javax ws rs class files lists compile time dependency adding snippet build gradle fixed issue 

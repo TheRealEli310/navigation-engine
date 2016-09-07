@@ -1,0 +1,4 @@
+maven test error javac source release requires target release 
+run error maven output jdk setting compiler version add element pom problem error solve 
+
+made typo 

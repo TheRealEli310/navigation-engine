@@ -1,0 +1,4 @@
+gson serialize multiple properties object 
+experimenting retrofit gson project unusual case convert properties json object gson android json typical examples create class accomplish gson creating pojo retrofit response loop convert format defeats entire purpose gson 
+
+suggest approaches h2 class act bridge builder h2 redefine initial class acts builder youll call method deserialize json instance h2 implement custom deserializer h2 parser deserialize json entity register parser yields output deserializer bit specific iterating entry set object instance give insights hope helps 

@@ -1,0 +1,4 @@
+display chart javafx 
+rewrite simplify oracle tutorial charts controller class work fxml reason working code main class controller fxml wont display chart properly drawing lines 
+
+remove line supposed initialize controls defined fxml integrated controller annotation replace lines reasons define barchart correctly fxml declared controller defined 

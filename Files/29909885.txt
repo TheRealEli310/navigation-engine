@@ -1,0 +1,4 @@
+jsp import util arrays resolved 
+code test jsp resolve error importing arrays change array string ljava lang string 71810ee1 println error org apache jasper jasperexception unable compile class jsp error occurred line generated file import util arrays resolved error occurred line jsp file test jsp arrays resolved current result desired result stored string 
+
+finally solved import array 

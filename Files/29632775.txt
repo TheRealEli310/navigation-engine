@@ -1,0 +1,4 @@
+global sum wrong multi threads 
+multi threads made code works global int variable loop initialize lot threads add global variable br end code result end code number question threads fight dont make sum dont pretend yo future delete result wrong 
+
+classic race condition threads call read added hasnt stored back threads call reading adding stores back thread finally allowed store back increments place net result increment effectively place occurs operation incrementing storing back variable em atomic em means multiple separate operations interrupted yield incorrect result create block enforce operation atomic lock class object alternative make variable href https docs oracle javase docs api util concurrent atomic atomicinteger html handles atomic updates 

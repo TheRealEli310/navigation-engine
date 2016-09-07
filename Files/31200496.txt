@@ -1,0 +1,4 @@
+android studio plugin show image editor 
+id display image class level javadoc android studio assumption write plugin make happen image jpeg png display class level javadoc comment class file looked basic information creating intellij idea plugin idea accomplish task 
+
+current version intellij idea editor display text support embedding text things image file display images hover popups dialogs editor 

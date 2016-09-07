@@ -1,0 +1,4 @@
+reading words numbers text file 
+writing program reads text file adds unique words numbers arraylist delimiter nosuchelementexception run program delimiter wrong make mistake program 
+
+work tostring iterator show words 

@@ -1,0 +1,4 @@
+pause resume thread 
+tread starts press button gui thread basicly starts download files wanted implement stop tread worked fine deprecated problem wait throws exception exception thread awt eventqueue lang illegalmonitorstateexception time pause start download button pause continue thread class download works fine download file errors stop thread wait wrong implementing wait wrong 
+
+change method check stop pause event stop pause thread jvm steps order safely pause stop thread end running thread wait calls object called download method loop read block write block add checks loop handle pausing options save incomplete restart download href http www w3 org protocols rfc2616 rfc2616 sec14 html sec14 rel nofollow range header continue looping pause thread sleep object wait option range header work robust 

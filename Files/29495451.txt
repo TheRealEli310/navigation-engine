@@ -1,0 +1,4 @@
+convert utf file iso 
+h2 strong question strong h2 strong source strong strong expected result strong strong current result strong strong code strong h2 question h2 convert big utf csv file iso read file convert save 
+
+youre convert utf iso youre escape unicode characters ascii stream recoding function escapes unicode chars fly writing output stream file open wrap quick dirty unit test demonstrates produces output expect 

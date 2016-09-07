@@ -1,0 +1,4 @@
+hibernate column transformer 
+hibernate case apply transformer encrypt encode persistent class member saved decrypt decode data loaded transformers result text data persisted db define transformers reuse persistent classes easy 
+
+href http docs oracle cd e16439 doc e13981 cmp30cfg014 htm rel nofollow jpa life cycle callbacks href https docs jboss org hibernate orm manual en html events html rel nofollow hibernate inerceptors implement pre persist pre update post load listeners 

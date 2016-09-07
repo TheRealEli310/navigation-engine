@@ -1,0 +1,4 @@
+print map map string list edge graph hashmap string list edge solved 
+map br filled nodes string edges neighbor string weight int print keys couldnt reach neighbor weight variables main class read txt data node weight pattern 
+
+add method class return neighbor weight variables print correct output 

@@ -1,0 +1,4 @@
+mule rest component return type 
+implement rest component mule flow expose rest services response coming back client put mule component access properties rest component response code mule message processor output sysout cast object giving classcastexception means class solution basically route message based rest component response sending response client hope clear question 
+
+answer mule forum anonymous class type org mule api transport outputhandler created jersey component byte array string worked solved purpose 

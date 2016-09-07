@@ -1,0 +1,4 @@
+spring xd reactor streams configuration xml 
+href http docs spring io spring xd docs release reference html reactor streams rel nofollow http docs spring io spring xd docs release reference html reactor streams documented em reactor stream em implemented spring xd documentation built application spring annotations class xml configuration 
+
+works xml configuration needed 

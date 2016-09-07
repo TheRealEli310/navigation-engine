@@ -1,0 +1,4 @@
+findby query method woking spring data elasticsearch 
+spring data elasticsearch plugin retrieving information elasticsearch server repository class usage actorrepository null response method invocation dont missing fyi method working method working method call comment needed information advance 
+
+problem noticed due improper mapping pojo respect elasticsearch data nested objects pojo nested field types fieldtype nested field spring annotation mappings worked good 

@@ -1,0 +1,4 @@
+custom fest assertions displaying readable message 
+created custom fest condition verify actual string matches equal expected string conditon fails display message shows original expected string display string message displays match made overriding tostring method class work 
+
+set calling href https github alexruiz fest assert blob def03985ff7cfb158754cbc4a7b8c7d5ce809f2d src main org fest assertions condition l44 rel nofollow constructor alternatively override href https github alexruiz fest assert blob def03985ff7cfb158754cbc4a7b8c7d5ce809f2d src main org fest assertions condition l71 rel nofollow 

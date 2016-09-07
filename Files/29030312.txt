@@ -1,0 +1,4 @@
+sort csv date column dd mm yyyy 
+csv input columns sort data basis date column dd mm yyyy code sort date correctly related date output code code 
+
+easiest object represent row csv sort rows extra points implement comparable relevant part inside block daterow class static internal class main method 

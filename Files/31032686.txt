@@ -1,0 +1,4 @@
+junit assertequals working comparing objects 
+hang unit testing pretty important recently started junit tough begin hang tests worked point exception comparing objects class havent testing function creates object class basically method class creates instance class test method weird error expected runnerslog mtlog 433c675d runnerslog mtlog 3f91beef researching problem havent found href https github buglebudabey runnerslog rel nofollow heres link classes github method test method test class case problem class method returns object class exact 3f91beef error object complicated arguments 
+
+object compared class doesnt override method calling compare references theyre object references result false options ol li override li li relevant fields implement method requires code modify class es asserted li ol 

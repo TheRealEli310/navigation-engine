@@ -1,0 +1,4 @@
+infinite loop program 
+issue program reproduce game play matches program stops supposed enter numbers loop stop continues turn happened variables match end conditions br pretty problem lies part main loop end full source code rules game rules game player game players turns picking matches pick number matches player player picks matches player pick matches player pick anymore matches loses game means end scenarios matches player picked previous round 
+
+conditions final loop means loop repeat long matches left isnt player 1s turn match left pick match isnt player 2s turn match left pick match happen reasons requires switch fix problem pointed comments reverse player turn check turn counter incremented point reason spots code checking concept time check reasons loop repeated time check reasons loop end negate doubt plug values comparison evaluates 

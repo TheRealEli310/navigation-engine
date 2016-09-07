@@ -1,0 +1,4 @@
+suitable method found add lang string arraylist constructor 
+basically highlights add showing error message lang illegalargumentexception bound positive dont understand wrong looked lot kinds problem threads 
+
+adding parametrized compile ul li add constructor class taking argument relevant logic li li idiom li ul noted generics precisely fail compilation stage raw style code compiled sorts evil happened runtime youd expect objects contained youd 

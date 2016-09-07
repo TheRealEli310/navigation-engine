@@ -1,0 +1,4 @@
+pass rjava jnew call multiple parameters 
+href http www rforge net doc packages rjava jnew html rel nofollow documentation describes pass single parameter worries challenge pass multiple parameters constructors comma delimiting doesnt work putting space 
+
+href http www deducer org pmwiki pmwiki php main development wwjoir rel nofollow document explains work constructors section em constructors methods em apparently call function experimenting 

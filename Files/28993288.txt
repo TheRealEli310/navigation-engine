@@ -1,0 +1,4 @@
+coverage report coverage android gradle 
+unable code coverage work android projects simplify things created project selected empty activity added utility class project src main created unit test src androidtest updated gradle file enable coverage ran tests gradlew createdebugcoveragereport unit test shows test created passed coverage report reports coverage assume missing gradle file running correct gradle task figure 
+
+configuration project work fine 

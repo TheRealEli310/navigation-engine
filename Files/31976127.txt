@@ -1,0 +1,4 @@
+accessing field settings pivot table apache poi 
+creating workbook sheet populated data data source creating sheet pivot table view data works fine change default pivot table setting row labels click list field settings subtotals row labels click list field settings layout amp print show item labels tabular form checked creating pivot table couldnt find handle flag poi finding pivottable getctpivottabledefinition pivottable getctpivottabledefinition getpivottablestyleinfo lock advise set settings poi pivot table creation fact steps mentioned parenthesis pivot table code 
+
+finally figured lack good documentation forced zillion things finally achieve wanted code 

@@ -1,0 +1,4 @@
+play framework jpa entitymanager interceptor action class 
+action class annotation intercept calls specific controller actions retrieve session database interceptor function jpa helper class action class interceptor method call guide retrieve database entities interceptor functions interceptor class error runtimeexception entitymanager bound thread annotate action method play db jpa transactional 
+
+wrap body action annotate method annotated 

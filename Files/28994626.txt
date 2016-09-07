@@ -1,0 +1,4 @@
+test void method conditioned loop mockito 
+method asks user input valid user credentials entered generates id user sets registered true check local variable registered unit test assert test loop executed registered true usage argumentcaptor capture variables method tested invoke methods passing variable registered method captured 
+
+ol li li li verification ul li loop invariant false loop entered true li li loop exited ul li bodies start case true li li throwable thrown caught catch exception case li ul li ul li ol strong review testing strategy strong ul li function input parameters output parameters li li input part fixture li li output part assertions li ul input set creating anonymous classes output captured asserted junit rule href http stefanbirkner github io system rules index html standarderrorstreamlog rel nofollow standarderrorstreamlog mockito needed method 

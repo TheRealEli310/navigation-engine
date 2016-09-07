@@ -1,0 +1,4 @@
+javafx numberaxis autorange infinite loop 
+axis set auto range occasionally javafx thread hangs due stuck infinite loop data generated worker thread added chart jfx thread seconds infinite loop code debugging conditional time variable updated compiled version class local variable debug info local variables building javafx runtime classes lot work step reliably repro issue provide href http stackoverflow mcve minimal complete verifiable issues logged oracle openjdk bug databases jdk version 8u60 edit reported bug oracle waiting accept 
+
+h3 problem h3 meant loop rely double values small double values minvalue maxvalue fail h3 bug h3 bug show big fractions axis scale user application happier reading base axis label 5e things api happen simple number overflow h3 simple h3 demonstrate values small loop infinite h3 update h3 bug report href https bugs openjdk net browse jdk rel nofollow https bugs openjdk net browse jdk fix scheduled version 

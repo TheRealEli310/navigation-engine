@@ -1,0 +1,4 @@
+spring boot externalize config properties 
+application spring boot application embedded tomcat property file named config properties storing application level properties loading property file application application works fine property file embedded jar file externalize property file provide folder system jar adding folder classpath supplying location folder vm argument work question achieve scenario property file supplied external source supplied jar 
+
+load file code starting jar 

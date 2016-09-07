@@ -1,0 +1,4 @@
+solve regex stackoverflowerror large 
+regexp jakarta apache validate values regex basically allowing unicode special characters br running code performs validation regex large text error regular expression efficiently written causing loop check leads stack overflow error question write regex 
+
+adding reluctant specifier fixes problem apache id strongly recommend jdk standard regexps works original regexp general works faster supports features 

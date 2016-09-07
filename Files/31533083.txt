@@ -1,0 +1,4 @@
+upload retrieve files image audio video spring mvc 
+designing small application spring mvc framework html page user upload multiple files html file div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override based code allowing user upload files bean called mcqitem div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override controller designed method pass data option1 option bean model save db dont save files prefer save file save uploaded files 
+
+link controller div class snippet data lang js data hide false div class snippet code pre class snippet code js lang js prettyprint override basically problem files form save db giving error current request multipart request 

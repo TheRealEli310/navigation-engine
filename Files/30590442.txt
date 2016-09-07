@@ -1,0 +1,4 @@
+cdi desktop application 
+business logic cdi javax inject inject javax persistence persistenceunit reuse inside desctop application added beans xml meta inf folder set default wrote simple class prints null console cdi desctop application 
+
+mentioned bootstrap weld beans programmatically injection working define startup method desktop application replace method invoked weld bootstraped achieve executing main class 

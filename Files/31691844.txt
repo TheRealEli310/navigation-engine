@@ -1,0 +1,4 @@
+bukkit creating custom method problems 
+create method add items easier amp create inventories alot easier heres code heres problem click glowstone dust throws eventexception error heres suppose clicks glowstone dust open inventory named gadgets green item inventory named hideplayers error gadgetcore core 
+
+stacktrace stacktraces friends read learn understand error message debug href http stackoverflow http stackoverflow fix specific problem change line method multiple number inventories columns creating inventory size make columns row slots 9x2 9x3 modify method return raw slot number youll making mistake 

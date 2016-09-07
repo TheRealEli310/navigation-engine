@@ -1,0 +1,4 @@
+solve javafx progressindicator repainting issues downloading 
+downloading file ftp client loop progressindicator position method setprogress successfully priniting progress 
+
+href http docs oracle javase javafx api javafx concurrent task html rel nofollow task class meant reinvent wheel bind bind properties 

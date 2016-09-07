@@ -1,0 +1,4 @@
+reusing fragment class inside activity 
+familiar fragments confused solutions presented stackoverflow techniques achive task class called mapfragment extends fragment works fine inside viewpager reuse class activity heres sample fragment called mapfragment activity reuse mapfragment program call intent mapactivity knowing display mapfragment accomplished 
+
+create layout activity class mapactivity rough snippet activity class fragment code expecting bundle make check bundle null code passing data setarguments hope helps 

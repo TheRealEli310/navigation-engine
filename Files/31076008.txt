@@ -1,0 +1,4 @@
+inheritance initialization 
+reading blochs em effective em inheritance composition section understood inheritance good blockquote related fragility subclasses superclass acquire methods subsequent releases suppose program depends security fact elements inserted collection satisfy predicate guaranteed strong strong strong subclassing collection overriding method capable strong strong adding element ensure predicate satisfied strong strong adding element strong works fine strong method strong capable inserting element strong added superclass strong subsequent release blockquote doesnt work superclass interface add method compile time error harmful 
+
+suppose collection superclass library v1 subclass order accept strings length contract invariant class string doesnt length version library released start base class modified subclass left unmodified users subclass contract subclass broken supposed accept strings length doesnt anymore additional method added superclass 

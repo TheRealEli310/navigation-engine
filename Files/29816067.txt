@@ -1,0 +1,4 @@
+read snappy compressed file s3 
+running mapreduce job hadoop output compressed snappycompression moving output file s3 read compressed file s3 
+
+found answer read snappy compressed file s3 object content s3 decompress file 

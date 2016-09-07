@@ -1,0 +1,4 @@
+getsupportactionbar nullpointerexception 
+oncreate method activity code ide warms produce nullpointerexception question ignore fix 
+
+ide warns potential cases app throw strong noactionbar strong theme theme concerned youre retrieve action bar ignore warning mind notes 

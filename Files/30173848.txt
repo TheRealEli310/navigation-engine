@@ -1,0 +1,4 @@
+parameterize datasource properties spring 
+spring parameterize persistence data config parameterize application properties things put datasource properties reading spring builds datasource automatically apparently jdbctemplate propertiess properties couldnt find doc hr h2 edit h2 dao implementation 
+
+define bean spring configuration configuration assumes file root classpath setting property placeholder configurer access properties database configuration class easy parametrize properties href http docs spring io spring boot docs current reference html common application properties html rel nofollow spring boot file automatically create data source properties things automatic datasource creation mentioned question 

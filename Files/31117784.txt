@@ -1,0 +1,4 @@
+convert complex json level pojo jackson 
+lets imagine json turned simple object dont create intermediate class wrap level1 mind map class doesnt work inverse problem turn complex object plain json simply solved annotation suggest workable solution issue 
+
+write custom deserializer add setter transform structure 

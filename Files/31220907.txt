@@ -1,0 +1,4 @@
+create open polyline geotools rc1 
+create geojson stream data roads roads polygons open start end points code achieve goal doesnt work error resulting geojson coordinates create polyline line connects point closed geotools rc1 strong update msk strong define feature types points polygons lines points polygons work fine lines dont 
+
+href http docs geotools org stable javadocs org geotools geometry geometrybuilder html createlinestring util list rel nofollow createlinestring modify feature type expect line polygon 

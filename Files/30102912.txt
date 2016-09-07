@@ -1,0 +1,4 @@
+make text dateformat threadsafe 
+working project date format static utility field shown luckily findbugs started giving warning dateformats inherently unsafe multithreaded remove warnings developer team changed field access private provided public accessor function magically findbugs warnings disappeared question doesnt snippets code semantically findbugs showing warnings case 
+
+em em public fields bad idea mutable objects em em thread threads absolutely call method end formatter time create wrapper object possibly extending offhand serialized requests possibly pool underlying formats joda time date time apis start thread formatters alternative static methods em em care thread safety 

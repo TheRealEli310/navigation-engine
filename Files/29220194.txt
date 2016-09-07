@@ -1,0 +1,4 @@
+jasper reports json data post rest service 
+json data rest service pretty simple service provide uri jasper studio pull data post rest service consumes json input workflow ol li send userid request header json parameters request body li li json data output li li json data build report li ol jasper jasper server japser studio find documentation point direction closes thing find href http community jaspersoft wiki create jrdatasource adapter rel nofollow link create constructor data rest service serve report json object retrieved bit complex lists number items strong edit strong alright custom adapter create adapter test connection feature jasper studio returns true read fields json auto generate report blank document fyi json 
+
+strong solved strong feel stupid solution pretty easy turns return json object return fields manually add fields report record purposes final code future 

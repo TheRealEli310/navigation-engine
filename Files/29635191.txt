@@ -1,0 +1,4 @@
+swt make label scrollable 
+swt lines text make scrollable vertically setting style parameter doesnt 
+
+support scrolling read control scroll 

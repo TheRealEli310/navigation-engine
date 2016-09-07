@@ -1,0 +1,4 @@
+fixing tiny images gridview 
+implement basic gridview gallery android developer guide tutorial imageviews inside grid bitmaps users camera works fine fact images incredibly small xml things fix issue work adjusting imageviews layout params enormous numbers images small 300dp 300dp idea wrong 
+
+setting layout params adapter managed fix issue found solution href http stackoverflow questions gridview items small android comment45342512 gridview items small android 

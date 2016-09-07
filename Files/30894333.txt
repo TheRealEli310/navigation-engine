@@ -1,0 +1,4 @@
+show web pages elements depending user role privilege 
+spring mvc web application thymeleaf template engine spring security manage login phase users login roles role admin role user role guest user role role user part workgroups set users workgroup act privileges wg admin wg user wg guest privilege wg user actions wg resources set views manage authorization pages elements pages depending users role wg privilege canonical make things spring mvc thymeleaf 
+
+require combination preauthorize secured difference controller methods annotated preauthorize user role user redirected based security settings secured user role method executed secured service layers required service layer 2nd controller method method called wont execute secured annotation processed method wont execute understood question delete answer 

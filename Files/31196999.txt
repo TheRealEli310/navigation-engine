@@ -1,0 +1,4 @@
+display data sqlite database 
+making app users add school subjects continue give code mainactivity tabledata databaseoperations explain press buttonadd button enter subject save database make display database mainactivity ul li names subjects left side li li average subjects side string pass average add subject li ul make subjects clickable click show marks subject add remove guess displaying data shouldnt hard making subject clickable idea subject marks dont activity subject database edit mainactivity 
+
+display data listview cursoradapter sample code href http www mysamplecode android listview cursoradapter sqlite html rel nofollow http www mysamplecode android listview cursoradapter sqlite html sample code onitemclicklistener handle item listview clicked hope 

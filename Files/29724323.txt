@@ -1,0 +1,4 @@
+android ndk multithreading block ui responds 
+recently write android program game design threads written ndk taking charges working tasks read write buffers ui surfaceview runs thread draw graphics found ndk threads running ui main thread response events button click screen touch layout xml code mainactivity surfaceview ui rendering thread ndk ndk thread running buttons main ui dont response guess createthread function pthread join block function return main ui doesnt receive message solution issue 
+
+solved problem comment pthread join function create thread return android main thread message loop pthread join isnt 

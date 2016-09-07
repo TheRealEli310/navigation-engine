@@ -1,0 +1,4 @@
+relace hwpfdocument paragraph text results strange output 
+require replace text file text replaces text process writes output text strange rectify issue code snippet input output 
+
+hwpf library perfect state changing writing doc files time looked time ago developed custom variant hwpf client things correct replace save operations library publicly absolutely doc files replacing strings length instance spaces works make sense find absolute location replaced string doc file hwpf changing doc file directly hwpf word file format complicated trivial task spend man months fix part library saving works data structures handled precisely single slip lets word crash generated output file 

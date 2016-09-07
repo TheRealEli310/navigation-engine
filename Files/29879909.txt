@@ -1,0 +1,4 @@
+element id dom parser 
+xml file structured parse obtain contained element attribute ul li text content element dont text content node li li dont text content element contained element li ul finally obtain result code dont access 
+
+access element youre accessing elements method order exclude nodes contained node check parent node 

@@ -1,0 +1,4 @@
+min max 2d array 
+output max min 2d array max works min outputs zeros array set prevent smaller chance array heres full code 
+
+choose random values guarantee values initialize default array elements smaller answer initialize immediately start outer loop block labelled finds min alternatively set guaranteed values smaller larger 

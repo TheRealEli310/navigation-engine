@@ -1,0 +1,4 @@
+maven compilation fails find symbol eclipse compiles 
+compilation error maven eclipse wrong maven bug created code snippet reproduce source files pom xml br br run output result 
+
+em reverse em order imports compile fine due compiler presuming folders exist beneath isnt case em feels em wrong change bring rid import class longer 

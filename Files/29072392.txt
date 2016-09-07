@@ -1,0 +1,4 @@
+hibernate table tag reverse engineering working 
+honestly dont looked reverse engineering file alter primary key generator class tables identity database ms sql primary key column set identity hibernate interprets assigned correct problem put reverse engineering xml file tag consideration wrong missing 
+
+figured include schema catalog catalog case database whats annoying official hibernate documentation schema catalog optional hibernate 

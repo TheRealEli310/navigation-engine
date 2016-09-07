@@ -1,0 +1,4 @@
+unable set field reflectionutils setfield 
+creating custom made annotation sets random int number specific interval min max implemented interface implementation spring context xml config test program desired field checked times code line prints field injected doesnt work error proper define field custom made annotation ps class annotation interface describes annotation generaterandomint 
+
+href http docs oracle javase docs api lang class html getfields rel nofollow href http docs oracle javase docs api lang class html getdeclaredfields rel nofollow give fields fields tip suggest href http docs spring io spring docs current javadoc api org springframework util reflectionutils html dowithfields lang class org springframework util reflectionutils fieldcallback org springframework util reflectionutils fieldfilter rel nofollow method simplify code 

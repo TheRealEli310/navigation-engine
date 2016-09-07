@@ -1,0 +1,4 @@
+inject ejb implementation interface cdi 
+configuration wildfly weld inject bean interface cdi strong edit strong info previous question href http stackoverflow questions stateless ejb implements interface injection failed stateless ejb implements interface injection failed 
+
+ejb inject business view business view exposing view default implement interface case local business interface inject bean container interface view implement interface inject annotation means bean exposes interface view dont implement interface bean defines default interface view h2 h2 ul li href http stackoverflow questions local remote interface view ejb local remote interface view ejb li li href http piotrnowicki defining ejb views local remote interface rel nofollow defining ejb views local remote interface li li href http stackoverflow questions ejb localbean annotation ejb localbean annotation li ul 

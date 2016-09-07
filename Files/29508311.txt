@@ -1,0 +1,4 @@
+spring annotation retryable set interceptor 
+annotation method class works charme message directly rabbitmq acknowledged error number attempts reach time messages straight dlq wanted problem set maxattempts dynamically property file solution setting interceptor fact error myinterceptor defined infinite loop exception pretty keeping simple clues error solve idea 
+
+finally managed obtain needed flexibility annotation created parameters delay maximum number attempts inserted advice advicechain listener throwing container retry number times desired delay exception propagated message delivered dlq 

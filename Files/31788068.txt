@@ -1,0 +1,4 @@
+redis alternative check existence multiple values set 
+application set values check values present strong set redis strong make simple give multiple parameters multiple redis call time consuming thinking alternatives thought good hacky achieving href http redis io commands hmget rel nofollow hmget page blockquote time complexity number fields requested blockquote good compared making multiples calls correct dont drawback wanted drawbacks approaches solve 
+
+valid solution wasteful youll maintaining bunch values ram overhead fyi redis sets implemented internally hash table structs hashes youre variadic form easily scriptable flow lua 

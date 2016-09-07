@@ -1,0 +1,4 @@
+text tokenization stanford nlp filter unrequired words characters 
+string tokenization classification tool meaning words word tokens important words stop words solve problem 
+
+domain specific task dont perform corenlp make work regular expression filter href http en wikipedia org wiki stop words rel nofollow stopword filter top corenlp tokenizer heres href http www ranks nl stopwords rel nofollow list english stopwords 

@@ -1,0 +1,4 @@
+create ecdsa keypair 256bit bitcoin curve secp256k1 spongy castle 
+creating key method keypairgenerator method keysize pass ecspec 
+
+code sufficient secp256k1 sets correct size method em alternative em call call keysize bc provider choose default curve size prime256v1 secp256r1 

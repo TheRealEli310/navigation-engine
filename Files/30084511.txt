@@ -1,0 +1,4 @@
+add words frequency hashtable 
+program takes words file put hashtable frequency words output word number appearances add method messed dont file txt output 
+
+youre incrementing keys em map em dont loop increment condition represents word 

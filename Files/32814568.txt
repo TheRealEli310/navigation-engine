@@ -1,0 +1,4 @@
+spring hibernate io filenotfoundexception class path resource hibernate cfg xml resolved url exist 
+searching internet solutions fix error initially strong hibernate cgf xml strong src main resources move folders web inf meta inf find location heres strong pom xml strong strong hibernate cfg xml strong strong servlet context xml strong strong web xml strong blockquote strong edit strong balwinder recheck file location supposed src main resources turns filing src test resources blockquote 
+
+move hibernate cfg xml src main resources folder 

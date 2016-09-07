@@ -1,0 +1,4 @@
+fix noclassdeffounderror custom kafka producer eclipse 
+include kafka module project added jars external jar libraries eclipse update build xml include references jar ul li kafka clients jar li li kafka jar li li scala library jar li ul wrote sample producer class ensured zookeeper kafka brokers running started project instantiate missing 
+
+completion sake reason error didnt jars classpath added jars classpath worked perfectly 

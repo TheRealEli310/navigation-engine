@@ -1,0 +1,4 @@
+arguments invoke mule callable oncall method 
+call class implements callable invoke mule figure pass method arguments invoke configuration configuration xml passed message payload sake keeping argument part empty 
+
+class created work component mule reference muleeventcontext payload link href https docs mulesoft mule user guide component reference rel nofollow https docs mulesoft mule user guide component reference href https docs mulesoft mule user guide invoke component reference rel nofollow https docs mulesoft mule user guide invoke component reference create custom class addtwonumbers class method arguments flowvars sessionvars payload 

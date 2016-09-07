@@ -1,0 +1,4 @@
+custom soapheader soap request spring 
+making soap request custom headers security part request request headers throwing error request processing failed nested exception org springframework ws soap client soapfaultclientexception ws security header found root headers formed code request suggest resolve error tia 
+
+uhm provided youre spring inside xml ws marshaller unmarshaller clear suppose important part case inside securitypolicy xml define desirede policy outgoing incoming messages signature usernameandpassword file signing request certificate hope give hand general concept times advice colleague ws dirty alternative altering simple spring forum notice strong wssesecurityheaderrequestwebservicemessagecallback strong define public class wssesecurityheaderrequestwebservicemessagecallback implements webservicemessagecallback class feel free change header fit youre 

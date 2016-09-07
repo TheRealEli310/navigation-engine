@@ -1,0 +1,4 @@
+color map theorem recursive backtracking algorithm 
+coded program implement color map theorem map colored colors adjacent regions color nutshell recursively compiles output erroneous data regions color biggest question output incorrect wondering input file adjacency matrix code 
+
+wanted reason youre entries call returns moment hits neighbors colored assign reach line return immediately return assigning color assume input graphs connected call finds neighbor colored doesnt set return immediately receives assignments undoes coloring line loop hr assume implement greedy coloring optimal end uncolored regions color problem intricate simple color color neighbors assigned youre good wouldnt century proof colors suffice show href http people math gatech thomas pap fcstoc pdf rel nofollow outline correct algorithm takes quadratic time appeared years proof coloring planar graphs 

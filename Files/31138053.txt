@@ -1,0 +1,4 @@
+import websocketstompclient class stomp sockjs client 
+create websocket client stomp sockjs href https github rstoyanchev spring websocket portfolio blob master src test org springframework samples portfolio web load stompwebsocketloadtestclient rel nofollow sample find maven gradle dependency href http search maven org search 7cga 7c1 7cfc 3aorg springframework web socket messaging websocketstompclient rel nofollow maven search give results searching found part blockquote build snapshot blockquote javadoc class href http docs spring io spring framework docs build snapshot javadoc api org springframework web socket messaging websocketstompclient html rel nofollow import import class import build snapshot gradle spring module spring web spring messaging javadoc strong edit strong correct assuming part javadoc url 
+
+add snapshot repository 

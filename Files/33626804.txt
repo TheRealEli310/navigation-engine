@@ -1,0 +1,4 @@
+jackson serialize deserialize property 
+pojo setpoints rest api send problem deserialize setpoint json send serialize setpoint property named case 
+
+annotation getter setter doesnt work extra setter 

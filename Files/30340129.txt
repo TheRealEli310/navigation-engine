@@ -1,0 +1,4 @@
+spark save multiclassmetrics confusion matrix 
+org apache spark mllib evaluation multiclassmetrics performing svm classification persist matrics multiclassmetics precision recall confusion matrix print save file spark version spark 
+
+found multiclassmetrics class org apache spark mllib evaluation multiclassmetrics serve purpose write resulting metrics precision recall confusion matrix string rdd saveastextfile results part files cat getmerge command read complete pieces found precision recall work expected confusion matrix correct 

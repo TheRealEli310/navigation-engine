@@ -1,0 +1,4 @@
+netty udp multicast working windows 
+udp multicast working windows couple days success simple application joins group writes console works osx throws channel closed exception windows appreciated 
+
+found problem binding multicast address joining group reason work windows update bootstrap bind blockquote channelfuture channelfuture bind inetsocketaddress port number blockquote 

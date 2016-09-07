@@ -1,0 +1,4 @@
+difference traditional loop loop 
+difference difference common efficient 
+
+h2 traditional loop h2 ul li modify list ul li add extra element end list iterated li ul li li index ul li refer list size li li refer previous element li ul li li efficient lists ul li case iteration loop iterate elements starting li ul li li works li li error prone lot things wrong ul li refer variable declared loop side effects loop li li loop execute li li infinite loop li li element li ul li ul h2 loop h2 ul li modify list ul li result li ul li li dont index element ul li refer previous element li ul li li efficient cases specific collection ul li efficient case li ul li li works ul li easily replace loop required li li easily replace class implement li ul li li robust code fewer special characters li ul h2 summary h2 loop wins score reason traditional loop ul li index element required li li list modified li ul 

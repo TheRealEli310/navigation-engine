@@ -1,0 +1,4 @@
+repeat observable interrupted 
+create repeated times condition satisfied interrupted similar operator 
+
+options interrupt sequence repeat times condition longer satisfied 

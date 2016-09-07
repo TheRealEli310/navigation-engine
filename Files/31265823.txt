@@ -1,0 +1,4 @@
+information constraintviolationexception jersey 
+jersey implement rest api enabled transform validation errors working addition response code text response created custom exception mapper map http response code choosing working additional information longer present int response call exception returns access information mapper 
+
+call href http docs oracle javaee api javax validation constraintviolationexception html getconstraintviolations rel nofollow return href http docs oracle javaee api javax validation constraintviolation html rel nofollow api information access message showings string built information obtained 

@@ -1,0 +1,4 @@
+access httpservletrequest object inside aspect solution solutions mentioned 
+request object aspect found solutions performance wise details wanted execute myaspectmethod methods annotated myannotation spring finds myannotation method level myaspectmethod executed request object perform business logic request found solutions ol li inject request object aspect class br li li sending request object argument annotated method access argument list received li ol access request aspect ol li ways request object usage performance perspective important question answer li li pros cons approach li ol 
+
+ol li method works autowire youll make aspect request scoped li li option method thread local storage populated spring doesnt method signature li ol 

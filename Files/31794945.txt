@@ -1,0 +1,4 @@
+include root object jackson springboot deserializer 
+include objeto root jackson deserializer spring boot put application properties configurator put classe annotation dont work return root 
+
+youre serializing deserializing 

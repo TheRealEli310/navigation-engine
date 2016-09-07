@@ -1,0 +1,4 @@
+activemq openwire amqp stomp 
+activemq message broker supports protocols openwire amqp stomp confusing ul li differences openwire amqp base protocol send receive messages project li li merits demerits protocols li li machine simultaneously li li possibility send message browser stomp receive message server protocols li ul 
+
+pages helpful ul li href http blogs vmware vfabric choosing messaging protocol amqp mqtt stomp html rel nofollow choosing messaging protocol amqp mqtt stomp li li href http stackoverflow questions openwire amqp perform openwire amqp perform li li href http activemq n4 nabble jms amqp comparison article feedback activemq td4658207 html rel nofollow http activemq n4 nabble jms amqp comparison article feedback activemq td4658207 html ol start li single activemq instance provide protocols time li li href http stackoverflow questions amqp openwire activemq broker consumers amqp amp openwire activemq broker consumers li ol li ul 

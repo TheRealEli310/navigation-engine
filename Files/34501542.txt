@@ -1,0 +1,4 @@
+spring test autowire beans 
+heres project structure href http stack imgur 3gxbf png rel nofollow img src http stack imgur 3gxbf png alt enter image description heres heres test fails startup error heres classes heres pom version info pre class lang xml prettyprint override ol li dont understand error autowires autowires assuming overwrite replace mock autowire test start error goal avoid real test context autowired classes code real code test autowire achieve li li expect test fail find test autowire havent told scan li ol 
+
+mock object instance dynamically created class extends class mocked class mocked fields annotated spring supposed autowire fields beans autowire dont exist exception reason load spring context implement unit test mockito spring iy fou constructor injection problem youre facing dependencies wouldbe explicit wouldnt annotation support mockito question est fail create beans referenced context 

@@ -1,0 +1,4 @@
+disable duplicate dependencies check qulice 
+href http www qulice rel nofollow qulice code quality control tool definition run build fails problems modify definition order build succeed problems fixing classpath question 
+
+href http maven apache org pom html plugins rel nofollow plugins section pom manage dependencies plugin exclusions configuration configure transitive dependencies direct dependencies excluded 

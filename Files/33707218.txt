@@ -1,0 +1,4 @@
+port required tomcat v7 server localhost 
+fedora downloaded tomcat apache tomcat url href http www coreservlets apache tomcat tutorial tomcat7 files tomcat preconfigured zip url rel nofollow http www coreservlets apache tomcat tutorial tomcat7 files tomcat preconfigured zip url add eclipse eclipse ee ide web developers version helios release build id start href http stack imgur 67iiq png rel nofollow img src http stack imgur 67iiq png alt enter image description error port required tomcat v7 server localhost server running process system process port start server stop process change port number checked process working port code netstat grep ps aux grep tomcat code process working port tomcat running checked lsof potential problem 
+
+run eclipse linux box dont case open ports 

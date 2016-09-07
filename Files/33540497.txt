@@ -1,0 +1,4 @@
+onoptionsitemselected preferenceactivity preferencefragments 
+trouble android studios default settings activity important parts activity works great fragments work returning strong return control parent activity button strong read href http developer android guide components fragments html rel nofollow documentation understand blockquote fragment receives item selected callback menu item adds activity receive respective callback user selects menu item blockquote means simply add similar handle case fragments return parent activity attempted handling doesnt whats good deal 
+
+template created android studio onoptionsitemselected methods belong fragments solved commenting writing onoptionsitemselected method activity overriding onbackpressed 

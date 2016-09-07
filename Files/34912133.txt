@@ -1,0 +1,4 @@
+maven shade includes slf4j log4j12 explicitly excluded pom 
+goal write storm topology version maven shade version generate uber jar efforts blockquote lang illegalstateexception detected log4j slf4j jar slf4j log4j12 jar class path preempting stackoverflowerror blockquote run topology reading excluded pom included nested dependencies ran ensure tree run maven shade build jar execute classes attempted exclude artifact attempted filter guess understand fundamental function maven shade performing figure included uber jar edit added full maven find results mvn dependency tree 
+
+problem resolved control dependent jar files updated remove reference means excluded storm topology project update made problem transient issue bug em em spend time troubleshooting 

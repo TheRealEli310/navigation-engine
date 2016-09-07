@@ -1,0 +1,4 @@
+classpath issue gradle working 
+uinsg gradle netbeans compilation error additional libraries automatically added classpath produces error blockquote package org apache poi hssf usermodel exist blockquote fixing error edit gradle build file 
+
+add library dependency compile requirements read dependencies href http www gradle org docs current userguide artifact dependencies tutorial html rel nofollow dependencies found public maven repositories add custom repo 

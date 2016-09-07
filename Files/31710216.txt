@@ -1,0 +1,3 @@
+add embed custom font file fontfactory register itext 
+assistant adding custom font class writing pdf selected font arial ttf located path blockquote web app public html resources arial ttf blockquote previous code testing read font drive make web app war file deploy change path drive path blockquote web app public html resources arial ttf blockquote embed file location produces error blockquote io ioexception resources fonts arial ttf found file resource blockquote ways refer file blockquote public html resources fonts arial ttf resources fonts arial ttf fonts arial ttf arial ttf blockquote wasnt successful 
+

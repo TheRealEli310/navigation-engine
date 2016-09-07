@@ -1,0 +1,4 @@
+ading foreign key field javabean 
+regular javabean orm personally doesnt make sense reason manipulate foreign key bean wrong cases good 
+
+alternative user make immutable case classes autoincremented autoincremented basically option classes make unique id unique id passed common dilemma id exist object case object created program id created db inserted assigned case bean notice id final object exist id present added needed 

@@ -1,0 +1,4 @@
+read header opencsv 
+csv file extract column csv opencsv read data header caste1 
+
+href http opencsv sourceforge net rel nofollow official faq simply fetch column row accesing row remember arrays indices based case 

@@ -1,0 +1,4 @@
+add tostring hashcode equals generating jaxb classes 
+generate jaxb classes xsd file programmatically code snippet achieve generated classes methods fields include methods generating code 
+
+strong update strong answer incorrect mislead interface plugins moment sidola pointed addition seanmickeys answer ill address code generation ul li add jaxb2 basics jars class path li li instantiate ul li li li li li li li li ul li li li li pass plugins parameter li ul generate code programmatically 

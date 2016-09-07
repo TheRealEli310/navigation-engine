@@ -1,0 +1,4 @@
+android studio configure project 
+recently started development android studio bundle windows jdk version installed bit works fine strong import strong classes added recognized import strong util optional strong util stream case project subset jdks standard library recommended change looked version param properties files manifest ide settings didnt find experienced btw comment href http stackoverflow questions android development basically cover eclipse 
+
+read linked comments find solution blockquote jdk android development compilation supports version case kitkat blockquote jdk development set language level jdk jdk features added jdk set language level android studio 

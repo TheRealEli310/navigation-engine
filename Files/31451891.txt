@@ -1,0 +1,4 @@
+intersection list int types streams 
+generate list type int common arrays form lists values equal efficiently streams 
+
+stream solution isn efficient performing biglist size smalllist size operations fly resorting intermediate storage strongly recommended shouldn set operations semantics source result ordering handle duplicates source lists unspecified 

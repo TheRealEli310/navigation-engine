@@ -1,0 +1,4 @@
+orientdb shortestpath specific edge class 
+function takes direction 3rd argument modify function traverses edges specific class add class argument line href https github orientechnologies orientdb blob b21429d600f87193611eed3d33b90d5fb9c2f61e graphdb src main orientechnologies orient graph sql functions osqlfunctionshortestpath rel nofollow https github orientechnologies orientdb blob b21429d600f87193611eed3d33b90d5fb9c2f61e graphdb src main orientechnologies orient graph sql functions osqlfunctionshortestpath rebuild source create custom function queries 
+
+implemented orientdb released days compile source branches develop current signature function usage 

@@ -1,0 +1,4 @@
+nullpointerexception javafx initialize tableview 
+controller class showing database query tableview error nullpointerexception setcellvaluefactory propertyvaluefactory nullpointerexcepetion solution 
+
+instance fields controller lacking annotation field private fxml loader unable inject control reference field loading instance field declarations notice field tbcnome annotated result initialize method called field reference resulting exception fix problem add annotation instance field declaration encouraged error adopting habit listing variable type declarations opinion bad habit encourage errors happen suggest adopt coding style instance field type declaration statement 

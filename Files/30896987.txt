@@ -1,0 +1,4 @@
+regex extract string strings separated newline 
+string extract movie names separate matches lookahead lookbehind couldnt succeed matches 
+
+fixed regex 

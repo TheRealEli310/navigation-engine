@@ -1,0 +1,4 @@
+parallelize libsvm multicore computer 
+version libsvm data mining problems noticed multicore computer libsvm core doesnt parallelize problem searched faqs solution href http www csie ntu tw cjlin libsvm faq html f432 rel nofollow http www csie ntu tw cjlin libsvm faq html f432 existing class concept changing loop class svc change cores machine results decreasing percentage correctly classified instances test set training time didnt reduce proper parallelize libsvm mistake code 
+
+avoid parallelize code write multi threaded parallel code case href https stackoverflow questions wait threads finish executorservice wait executor finish jobs return result kernel function method thread 

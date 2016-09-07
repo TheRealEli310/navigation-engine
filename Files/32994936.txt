@@ -1,0 +1,4 @@
+max card apdu data command respond size 
+recommended data field size card apdu zhiqun chens book mentions le field max interpret follow apdu command cla ins p1 p2 lc le bytes assume safely set bytes data region apdu response interpret response data safely set bytes bytes sw total response consisting data response sw bytes considerations safely send receive data chunks face situations chaining manually handle data flow 
+
+lc le byte signalize hold request upto 0xff bytes case command apdu header lc le 0xff bytes maxiumum response bytes statusword bytes standard suggest diffrent hardware tokens implementations accurate data implement extendedlength 

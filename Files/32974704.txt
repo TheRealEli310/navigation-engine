@@ -1,0 +1,4 @@
+grails time support 
+grails application time classes persisted database dynamic queries create criteria works wondering store time data database database binary data serialize time objects similar plugin joda time plugin configure database mapping time classes 
+
+blockquote strong edit strong grails hibernate issue anymore blockquote grails finally found solution hibernate implements persistent time href https hibernate atlassian net browse hhh rel nofollow https hibernate atlassian net browse hhh grails hibernate havent found plans upgrade hibernate grails implementation time hibernate user types jadira extended package similarly joda time plugin href http gpc github io joda time guide persistence html rel nofollow http gpc github io joda time guide persistence html version ga lower worked build gradle application groovy 

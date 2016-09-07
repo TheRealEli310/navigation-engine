@@ -1,0 +1,4 @@
+spring boot webjars unable load javascript library webjar 
+spring boot thymeleaf templating project jquery libraries unfortunatly webjars arent laoding configuration failed code snippet html page added pom file calling page jquery min js jquery fileupload min js 
+
+referencing jquery library correctly missing resource handler configuration javaconfig href http www webjars org documentation springmvc rel nofollow webjars documentation work check webjars classpath open application jar 7zip check webjars resources inside 

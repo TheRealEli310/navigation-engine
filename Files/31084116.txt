@@ -1,0 +1,4 @@
+add jar dependency maven 
+run downloaded icu4j jar installed local repository confirmed inside jar file missing class file added dependencies section run error wrong 
+
+manually installing things maven repository directory directory maintained maven dependencies work run goal connect maven central repository download needed dependencies dependencies manually install jar file dependencies icu artifact things depends maven automatically resolve dependencies recommend clean target directory rebuild fails download change maven configuration proxy server configure maven proxy credentials manually copied m2 repository directory delete maven put correctly beauty maven dont worry things downloading jars handles job 

@@ -1,0 +1,4 @@
+adding gridpane gridpane 
+beginner javafx create interactive sudoku board final project plan add gridpanes gridpane make nice board outlined boxes excerpt blankboard creation method board box predefined global gridpane variables gridpane href http stack imgur rxlsg png rel nofollow gridpane simply add borders columns rows gridpane 
+
+creating grid panes creating adding set board style settings size text fields appropriately put black border blocks grid panes sscce href http stack imgur crzio png rel nofollow img src http stack imgur crzio png alt enter image description 

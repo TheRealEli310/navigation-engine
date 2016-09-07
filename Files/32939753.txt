@@ -1,0 +1,4 @@
+socket stuck objectinputstream 
+server client model game stuck initialization code clients start method server code advance 
+
+construct em em end preferable avoid accidents blocks read stream header hasnt written peers blocked notes ul li object streams life socket ends unlike current code reason stream header creating writing stream headers peer wont expect understand li li remove sleeps networking code literally waste time li ul 

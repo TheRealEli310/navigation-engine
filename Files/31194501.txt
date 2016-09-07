@@ -1,0 +1,4 @@
+guessing game jcreator 
+ol li create program random class package generate number li li user max attempts guess number fail guess correctly 6th attempt target number displayed program provide feedback user indicating guess high low guess correct program em congratulations guess correct em li li user provide starting session stored subsequent record generation li li program create session user session program generate random number provide user attempts guess target number guessed correctly attempted made user choice quit game li ol part 
+
+suggest approach problem oop design requirements ul li user li li session session user li li attempt game user guesses li li game maximal number attempts li ul pseudocode 

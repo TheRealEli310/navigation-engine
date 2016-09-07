@@ -1,0 +1,4 @@
+document condition elastic search api 
+parse document elastic search search keyword return document code api question suppose documents string documents conditions 
+
+indexing documents form elasticsearch parse strings dates correctly case transformed strings href https www elastic guide en elasticsearch reference current mapping date format html rel nofollow correctly formatted timestamps perform query propose index documents format subsequently run href https www elastic guide en elasticsearch reference current query dsl script filter html rel nofollow script filtered query compiling script calculates difference dates scripting languages elasticsearch bear mind script filtering scoring slower simple index lookup faster cleaner index duration period alongside start end dates index documents form simply perform filtered query duration field 

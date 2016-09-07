@@ -1,0 +1,4 @@
+parentheses string 
+interview asked solve problem string count number parenthesis pairs string pairs wrote code problem length count determine string function wrote parentheses string found print strings meet requirement solve problem nice write code solution 
+
+dynamic programming solution written main idea recursively build strings satisfy conditions strings built end beginning adding denote method takes parameters length part string left constructed function number parentheses process building string strings form easy check basically cases strings add parenthesis case incremented strings add left parenthesis current string case left parenthesis matches parentheses put final solution code observations ul li cache order prevent calculating strings reduce time complexity li li top solution bottom approach efficient li ul 

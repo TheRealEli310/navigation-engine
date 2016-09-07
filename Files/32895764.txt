@@ -1,0 +1,4 @@
+output console eclipse mars 
+basically experimenting writing path finding program find path point grid fine class arraylist glorified ordinates written small method class display path problem minor infuriating arises run code call em em output console program terminates errors code included line ensure console system print working correctly displayed time method called code uninstalled installed eclipse copied files project ect make difference console working fine displays line correctly greatly appreciated 
+
+work middle condition supposed loop supposed executed loop execute equal initially equal skip loop equal satisfies condition loop executed increment happening equal point condition fails loop exit words condition loop em em true opposed loop em em true 

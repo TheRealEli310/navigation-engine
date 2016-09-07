@@ -1,0 +1,4 @@
+reading excel data selenium testng 
+selenium learning write program testng tests read data excel write apache poi xls xlsx file folder files configure path excels testng xml executed test read data sheet read xml testng xml class code run eclipse exception 
+
+stack trace poi thinks attempting open xlsx file pois xls code xlsx code file extension wrong file xls xlsx file corrupted youve found bug suggest pois href https poi apache org apidocs org apache poi ss usermodel workbookfactory html rel nofollow workbookfactory blockquote factory creating kind workbook href https poi apache org apidocs org apache poi hssf usermodel hssfworkbook html rel nofollow href https poi apache org apidocs org apache poi xssf usermodel xssfworkbook html rel nofollow auto detecting supplied input blockquote 

@@ -1,0 +1,4 @@
+remove element hashset 
+add element hashset prints size hashset returns expected modified object store hashset remove object object size previous code output code 
+
+doesnt remove existing element attempts remove object set remove line refers string added set removes string set 

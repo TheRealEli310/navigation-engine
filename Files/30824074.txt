@@ -1,0 +1,4 @@
+add images spinner android studio 
+load image mainactivity based selected spinner element spinner consist channel names layout names stored array channels skysports premierlive defined imageview creating spinner channels array calling channels current selected spinner element finally implement image switch switch case inside getlogo blockquote lang nullpointerexception attempt invoke virtual method void android widget imageview setimageresource int null object reference blockquote tnx edit activity main mainactivity 
+
+ser activity private field logo oncreate method local variable called logo variable initialized oncreate method initialize private field methods class 

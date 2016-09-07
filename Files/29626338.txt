@@ -1,0 +1,4 @@
+apache poi hssf xssf trouble reading cell data format xx xx 
+issue atempting apace poi libraries read excel file data format hr imagine columns tag date preaty easy obtain issue hour column classified numerical atempted turn string strong cell setcelltype cell type string strong returns sort number make sense returned values return wierd thing tjese numbers behave awkward day reaches end numbers bit end record list returned 98958333336702 properly obtain apreciate source code running code missing case code case atempt 
+
+understanding return timestamp online website convert date time timestamp vice versa verify solution desired format href http stackoverflow 

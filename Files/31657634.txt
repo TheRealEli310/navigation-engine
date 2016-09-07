@@ -1,0 +1,4 @@
+post method payload object 
+pojo rest resource client sends object json url parameter set expected parameter valid json body request object jerseys log problems debug mode ideas tia jersey jackson 
+
+filter reading stream empty means data left method param deserialization buffer entity reading casting href https jersey net apidocs jersey org glassfish jersey server containerrequest html rel nofollow give methods interact context call method implies familiar working client api familiar works pretty inbound content type href https github jersey jersey blob master core common src main org glassfish jersey message internal inputstreamprovider rel nofollow doesnt special return orginal stream 

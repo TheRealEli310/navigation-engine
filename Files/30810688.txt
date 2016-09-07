@@ -1,0 +1,4 @@
+run libsvm classifier fold cross validation weka linux commandline 
+installed weka linux machine commandline interface downloaded libsvm jar file copied directory run fold cross validation commandline similar 
+
+command macosx weka libsvm ran command weka directory downloaded moved libsvm jar file directory information weka primer site href https weka wikispaces primer rel nofollow find parameter number folds 

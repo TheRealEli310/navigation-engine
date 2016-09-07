@@ -1,0 +1,4 @@
+configuration error application secret set 
+error running play server production mode fix 
+
+default play template changed production play utility generate random secret populate environment variable ensure href https www playframework documentation applicationsecret play documentation explains blockquote line configuration sets secret environment variable called application secret environment variable set leaves secret unchanged previous line blockquote error 

@@ -1,0 +1,4 @@
+shading dependencies scala jar library 
+distribute jar library created dependencies bundled inside avoid version conflicts dependencies adopting project maven shade find scala sbt found onejar experiments work executables achieve 
+
+classloader strong classloader strong br write class loader loads class files diferent classloader rewrite add library prefix classpath fetching resource created classloader teqnuiqe href https github espenbrekke dependent blob master src main dependent hacks pathrewritingclassloader rel nofollow https github espenbrekke dependent blob master src main dependent hacks pathrewritingclassloader br replaces method findclass urlclassloader adding prefix br rewrite resource loading br strong building jar strong br build place library private classes selected prefix gradle build simple loop collecting dependencies br 

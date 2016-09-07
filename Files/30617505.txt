@@ -1,0 +1,4 @@
+slf4j trace debug log4j 
+log4j documentation levels href http logging apache org log4j manual html rel nofollow http logging apache org log4j manual html trace debug info warn error fatal fatal top level understand difference trace debug setting log level debug trace messages set log level trace debug messages means debug lt trace confirm 
+
+trace lowest level debug 

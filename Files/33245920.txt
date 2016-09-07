@@ -1,0 +1,4 @@
+msvcr100 dll cpu load 
+start program creates fullscreen movie foreground windows pc bit i5 processor process explorer problem exe creates msvcr100 dll threads excessive cpu searching solutions remove dll library places windows system32 syswow64 folders decrease cpu load library loaded jdk folder program files x86 javajdk1 60jre inmsvcr100 dll begins increased maximum heap size didnt problem 
+
+figured thread dump doest sampler cpu tab visualvm tool show list classes priority moustly load cpu pc 

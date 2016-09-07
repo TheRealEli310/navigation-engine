@@ -1,0 +1,4 @@
+adding foreach capability custom container class 
+wrote container class game similar arraylist ways write foreach method iterate backing array curious write custom lambda implementation foreach method iteration array clue instance lets wanted 
+
+implement method similar interface class implementation serial simpler implementations parallel ignoring fact doesnt pass compilation issue 

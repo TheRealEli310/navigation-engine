@@ -1,0 +1,4 @@
+jooq fetch foreign objects jpa 
+tables database relation author books author books application fetch authors collection books implemented code requires queries database select fetch authors additional query fetch books author join tables dont parse results correctly jooq ideas 
+
+efficiency point view steps 

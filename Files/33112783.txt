@@ -1,0 +1,4 @@
+largest amount consecutive odd integers equal target 
+find largest amount consecutive odd integers added equal target number current code find consecutive integers thinking loop building iterations increments trouble developing correct algorithm tips appreciated otterman 
+
+lets answer equal odd write sum href https en wikipedia org wiki arithmetic progression rel nofollow arithmetic progression formula compute applying formula basing formula suggest algorithm ol li iterate li li positive odd integer update answer li ol simple implementation running time algorithm 

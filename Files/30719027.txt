@@ -1,0 +1,4 @@
+authenticating plain text passwords md5 hash db apache shiro 
+shiro ini login page type username password exception org apache shiro authc incorrectcredentialsexception submitted credentials token org apache shiro authc usernamepasswordtoken root rememberme false match expected credentials db md5 hash password validation isnt working understand 
+
+removing property made work md5 hash property 

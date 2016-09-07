@@ -1,0 +1,4 @@
+parallel code multiple cpus 
+code parallel monitoring resource monitor cores evenly distribute task made task parallel changing cores time cores usage explain capping cores due processor stone ages core quad explain sequential task multiple cores 
+
+sequential computation performed single os thread os threads bound cpu core os decide move thread core called thread migration bind thread process core setting thread affinity depends os 

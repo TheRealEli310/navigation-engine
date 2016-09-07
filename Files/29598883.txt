@@ -1,0 +1,4 @@
+arrays aslist return interface 
+api oracle method part class method returning list object interface 
+
+ul li called strong polymorphism strong li li means refer subtype supertype reference li li case method returning instances class implement interface li ul source code href http grepcode file repository grepcode root jdk openjdk b14 util arrays arrays aslist 28java lang object 5b 5d rel nofollow arrays aslist method 

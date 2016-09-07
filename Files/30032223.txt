@@ -1,0 +1,4 @@
+lwjgl display crashing implemented jframe canvas 
+working creating 2d game lighting engine opengl lwjgl hit wall link keyboard inputs render loop works fine implement jframe canvas getparent keylistener combo application crashes immediately starting shut application netbeans window doesnt respond clicking applications entry start toolbar code point tested works 
+
+god realized call main loop commented facepalm 

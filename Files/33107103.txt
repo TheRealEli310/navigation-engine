@@ -1,0 +1,4 @@
+spring boot batch multiresourceitemreader move file error 
+batch service read multiple xml files multiresourceitemreader delegate staxeventitemreader error raised reading file parsing exception spring start reading matching file onreaderror annotation skippolicy reading exception raised batch stops idea edit multiresourceitemreader method readnextitem private 
+
+sb code suppose write wrapper check flag setted move file perform standard read delegate br flag stored execution context wrapper cleared move br class delegate inject set br test code hope good starting point 

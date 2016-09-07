@@ -1,0 +1,4 @@
+reading string rest client apache cxf jersey 
+dont understand receive json encoded string decoded automatically code apache cfx jersey request successfully executed backslash double quotes included json deserialization hasnt triggered 
+
+problem server response server return quoted string correctly encoded href http stackoverflow questions minimum valid json string valid json object 

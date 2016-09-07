@@ -1,0 +1,4 @@
+spring rest returning pdf response status acceptable 
+read questions type issue recommend correct jackson version current situation rest api produces error mapping request occurs pom add dependencies response client side headers incude whats wrong hr details code return remote pdf file 
+
+basically add requestmapping convert responebody internally add response headers 

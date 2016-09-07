@@ -1,0 +1,4 @@
+setting onseekbarchangelistener null object exception 
+update textview seekbar trouble setting onseekbarchangelistener dont compile errors time run app null pointer exception error attempt invoke virtual method void android widget seekbar setonseekbarchangelistener android widget seekbar onseekbarchangelistener null object reference life figure trawling stackoverflow similar problem tutorial set onseekbarchangelistener suggest 
+
+set lines oncreate method find seekbar view solves problem findviewbyid method find view id layout file activity search point setcontentview 

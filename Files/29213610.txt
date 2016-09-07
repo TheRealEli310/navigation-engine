@@ -1,0 +1,4 @@
+lang illegalargumentexception queue named default 
+load data pig dump data console errors cloudera sandbox commands dumps data sampledata file mapr cluster commands error advance 
+
+typically scheduler specific queues created users assigned user submitting job doesnt queue assumes default queue permission end error avoid issue export pig opts pig opts dmapred job queue queue pig dmapreduce job queuename queue path script pig 

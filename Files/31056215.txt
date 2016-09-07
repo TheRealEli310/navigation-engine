@@ -1,0 +1,4 @@
+access default jackson serialization custom serializer 
+create custom serializer tiny bit work leaves rest default serialization idea creating custom serializers aggregated objects behave differently based speical attribute code work unsurprisingly infinite recursion jackson default serialization set attribute dont enumerate properties custom serializers class fairly complex dont duel maintenance serializer time change class 
+
+strong strong provide access default serialization h2 inject default serializer custom serializer h2 h2 create h2 h2 register serializer modifier h2 

@@ -1,0 +1,4 @@
+externalize properties pom xml 
+mvn projects properties externalize properties dont duplicated properties dependenciesmanagement 
+
+parent project projects move common properties parent maven project add projects pre class lang xml prettyprint override 

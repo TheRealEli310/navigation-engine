@@ -1,0 +1,4 @@
+android display json object 
+json likes main activity code activity main xml title element jsonarray blank text view screen android general format xml easier work insight hints greatly appreciated 
+
+assuming json posted array key title key element object array hr function pass string called changed return type lastevent string object parameter field intention call asynctask hr check logcat thrown catch print message return null returning null calling result empty hr edit function doesnt call anymore return dont generic code wrote 

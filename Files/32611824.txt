@@ -1,0 +1,4 @@
+serve angular app jetty server jersey 
+working application front end developed angular back end jersey jetty http server directory structure started jetty server configured issue configuration restful endpoints picked tells resource found change resource base serves angular project visit serve restful endpoints properly configure angular app served visit restful endpoints reachable 
+
+answer contained line specifies base url jersey base url index served changing fixed problem allowed serve angular app hit jersey endpoints 

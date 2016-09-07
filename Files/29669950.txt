@@ -1,0 +1,4 @@
+nio bytebuffer allocatedirect result memory 
+allocating length buffer implementation dependent br returns null pointer safely freed totally implementation dependent happen called br happen memory br function allocate small piece memory libc malloc 
+
+returns constructor allocates memory size pa ps pagesize follow line href http grepcode file repository grepcode root jdk openjdk b14 nio directbytebuffer rel nofollow http grepcode file repository grepcode root jdk openjdk b14 nio directbytebuffer creates memory size 

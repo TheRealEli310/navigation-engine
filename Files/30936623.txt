@@ -1,0 +1,4 @@
+catch finally block 
+understanding follow practice releasing resources end prevent connection leaks code helperclass doubt em finally em block executed matter dynamodb returns empty connection closed em finally em block execute em return em statement tia 
+
+understanding correct execute familiar framework youre working organize code create wrapper dynamodb connection calls inside 

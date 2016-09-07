@@ -1,0 +1,4 @@
+display fragment container selected action bar 
+app consists google maps implementation action bar spinner make fragment instantiation select item navigation bar simply put display screen click selections sort onnavigationitemselected function implemented dont heres code heres xml img src http stack imgur wiwvz png alt screenshot 
+
+xml build fragments activity case replace spinner listener edit response commnent declare fragments activitys attributes replace callback 

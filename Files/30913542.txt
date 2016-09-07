@@ -1,0 +1,4 @@
+save adobe pdf file selenium web driver click build jenkins 
+heres dilemma creating automation tests selenium web driver coding main output software load pdf adobe acrobat jenkins problem wont physically output created software save file location test completed 
+
+works firefox change firefox profile selenium create dedicated profile href http kb mozillazine org creating firefox profile windows rel nofollow em tools settings applications em change em action em file type pdf save file case window open file save strong strong show file quietly saved configured directory settings general downloads remember locally jenkins cases webdriver told firefox profile environment variable startup custom profile default set href http stackoverflow questions setting selenium custom profile opening default profile programmatically python csv files transform pdf 

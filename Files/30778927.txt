@@ -1,0 +1,4 @@
+roundingmode half issue java8 
+jdk tests discovered bug rouding roundingmode half works roundingmode half decimal decide rounding found related issues roundingmode half fixed update put bug oracle experience unresponsive actual result round round expected result obtain jdk round round 
+
+intended change jdk behavior incorrect problem simply em em represent number type stores data ieee binary format assign decimal number variable closest represented ieee format number bigger correctly rounded mode check numbers represented binary binary number rounded mode mode restore behavior convert number href https docs oracle javase docs api math bigdecimal html valueof double constructor translates canonical string representation 

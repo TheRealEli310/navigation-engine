@@ -1,0 +1,4 @@
+security exception connecting spark master 
+spark project set master url app sparkconf object code run code stack trace pom xml show wrong error 
+
+spark core depends org eclipse jetty orbit javax servlet v201112011016 exclude problem part run inside container 

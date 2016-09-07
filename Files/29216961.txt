@@ -1,0 +1,4 @@
+extends implements comparable create object 
+studying data structures asked write program store manager manipulate inventory classes listinterface expandablearraylist class implements interface class item type stored arraylist test class methods require strong compareto strong strong comparable strong dont class comparable write strong implements strong strong extends strong comparable class headers reason create object test class type errors solve changed lot advance 
+
+type item implement comparable expandablearraylist class run compareto method elements type item comparison provided class implement compareto comparable give comparing items based attributes item class ideally class def write interfaces classes inheritance href https docs oracle javase tutorial iandi subclasses html rel nofollow tutorial interfaces href https docs oracle javase tutorial iandi createinterface html rel nofollow tutorial 

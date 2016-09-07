@@ -1,0 +1,4 @@
+orientdb find command executor command request error 
+originally posted bug orientdb href https github orientechnologies orientdb issues rel nofollow issue tracker bug basically run project ide works great queries executed hitch package project start errors subset queries declare added filter shade plugin make stripped doesnt fixed issue hr stacktrace 
+
+problem maven shade plugin merge services files default orientdb services inject command interface log building shade plugin skip file exists solve adding merge strategy href https maven apache org plugins maven shade plugin examples resource transformers html servicesresourcetransformer rel nofollow https maven apache org plugins maven shade plugin examples resource transformers html servicesresourcetransformer 

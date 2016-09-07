@@ -1,0 +1,4 @@
+create javafx keycombination keys 
+creating simple text editor em javafx em br found add shortcuts menu items frequently application em save em em open em works fine long keys kbd ctrl kbd kbd kbd create combinations keys em save em option programs shortcut kbd ctrl kbd kbd kbd kbd kbd em save em extra kbd kbd logically stands em em brings problem br javafx doesnt keys method error run application google find em em keys decided question set keys require shortcut javafx 
+
+problem href https docs oracle javase javafx api javafx scene input keyevent html rel nofollow keyevent href https docs oracle javase javafx api javafx scene input keyevent html getcode rel nofollow keycode keycombination match multiple keycodes store pressed keys list event listener keypressed write keycombi class menu work wrote prototype href https bitbucket org kogs multiplekeycombi rel nofollow bitbucket repo 

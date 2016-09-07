@@ -1,0 +1,4 @@
+environment specific configuration spring hibernate application 
+struggling configure spring application properties files hibernate plan create maven property reflect environment choose selected profile mine hibernate cfg xml load properties variables file hibernate cfg xml file persistence dev properties file spring context xml missing 
+
+managed spring replacement order filter useless maven resource filtering support conjunction spring profiles support assuming pass spring profile maven build time runtime run spring profiles related tests maven 

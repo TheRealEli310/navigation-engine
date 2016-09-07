@@ -1,0 +1,4 @@
+streams manipulate string 
+lets remove letters order order convert stream back instance treat stream objects type javadoc creation signature blockquote stream values blockquote lousy isnt good missing 
+
+heres answer part question resulting calling casting boxing result calling heres turn casting essential boxed result big problem dealing data supplementary characters represented em surrogate pairs em values algorithm deals individual values fail presented supplementary characters supplementary characters obscure unicode feature dont worry emoji supplementary characters strong fail strong presented string code point 1d400 mathematical bold capital code point represented surrogate pair string surrogate pair alphabetic character correct result youd recommend code points reassemble string href http stackoverflow sleiman jneidis answer reasonable arg method heres alternative bit flexible cases youre accumulate string data dont create time convert 

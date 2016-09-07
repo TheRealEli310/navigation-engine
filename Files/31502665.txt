@@ -1,0 +1,4 @@
+spring batch memory database huge file processing 
+spring batch process huge data gb produce gb output file vertical scaling approach threads step partitioning approach job execution details stored memory database cpu utilization running single machine file size huge server good configuration core processor gb memory process question move separate database reduce cpu utilization memory database production bad choice decision shankar 
+
+talking moving memory db separate db talking batch runtime tables job instance job execution step execution wouldnt expect cpu usage drop lot depending chunksize lot cpu usage needed data processing updating batch runtime tables memory db production good decision depends points ul li lose information written batch runtime tables helpful debug sessions simply kind history persist information logfiles li li implement restartable job issue job takes hours complete job reads file writes file completed couple minutes problem li ul 

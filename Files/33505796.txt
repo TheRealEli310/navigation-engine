@@ -1,0 +1,4 @@
+string system getproperty line separator act differently 
+program takes input text file words separated newline program takes deals data required output file whilst keeping console output wondering append stringbuilder prints line console file output doesnt line puts words line newline give line console output output file string system getproperty line separator 
+
+systems windows line defined linux unix depending software reading text chose adhere forgiving relevant wikipedia text href https en wikipedia org wiki newline rel nofollow https en wikipedia org wiki newline blockquote systems based ascii compatible character set lf line feed 0x0a decimal cr carriage return 0x0d decimal individually cr lf cr lf 0x0d0a blockquote retrieve system defined line separater class constant class 

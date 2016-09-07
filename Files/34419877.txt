@@ -1,0 +1,4 @@
+android screenshot2 tool nullpointerexception linux 
+version sdk tools revision october taking screenshot tool screenshot2 raise nullpointerexception ubuntu server kali linux works mac os command error argument error fix reason 
+
+found solution avoid screenshot2 tool dependencies linux works machine dont thing python package strong pillow strong version strong strong dependency mac linux made basic script create screenshot image file screenshot py command line simply screenshot device argument specific device 

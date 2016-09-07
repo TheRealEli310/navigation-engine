@@ -1,0 +1,4 @@
+android studio picture camera api send picture activity 
+picture camera api picture displays screen activity send picture covers screen activity called pictureeditor add functionality edit picture pictureeditor code oncreate retrive picture pictureeditor picture thing visible screen activity decode bitmap display image screen kind 
+
+call image bundle call back method activity pass image 

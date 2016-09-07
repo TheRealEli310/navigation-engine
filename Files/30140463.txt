@@ -1,0 +1,4 @@
+future cancel method documentation 
+href http docs oracle javase docs api util concurrent future html rel nofollow http docs oracle javase docs api util concurrent future html returns called blockquote method returns subsequent calls isdone return true blockquote task running set return call cancel wrong clear method returns implementing simple thread pool inheriting 
+
+ol li doesnt matter returned li li returns means future cancelled li li returns means completion due call li li means method attempt cancel task complete future meaning task depending implementation task running future cancelled isdone true li li means attempt cancel running task attempt successful future cancelled isdone true li ol remember contract enforced implementation strong edit strong true heres test experiment scenarios 

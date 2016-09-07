@@ -1,0 +1,4 @@
+jmh 
+wrote benchmark jmh building compilation failure set jdk1 changing target source jmh source folder jmh core error 
+
+mac installed recommend removing system library javavirtualmachines check version jdk version type mvn version command line pointed add mavenrc jdk version version 

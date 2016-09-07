@@ -1,0 +1,4 @@
+implementing iterator iterable interface object array 
+internal class implements iterator class internal class dynarray object internal array called arraypal type object boolean array store null values iterator add method hasnext returning true element list additionally arraypal iterator invoke iterator array type object 
+
+method obtains iterator calls multiple times calls pointing element array return false assuming array empty 

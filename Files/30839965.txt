@@ -1,0 +1,4 @@
+generate random bytes based byte seed 
+id strong generate em em random bytes em em byte seed strong generated sequence strong reproducible strong seed sequence generated strong em em strong strong higher strong strong lower strong strong em em strong trivial approaches coming mind biased ul li hash em em bytes create long seed feed generator em problem em discard entropy lt default random seed byte long li li hash em em bytes generate random data em problem em cap em em sha1 li ul standard relevant class guess basic cryptography em em crypto level extra secure random random passes basic statistical randomness tests id prefer relying standard code code em edit em fit bill generated sequence purely random depend seed jvm id predictable result 
+
+em record em slow solution discussed generates 1m random bytes 500ms passes basic statistical randomness tests picking faster hash sha1 speed thing investigated 

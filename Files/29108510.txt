@@ -1,0 +1,4 @@
+spring boot war size embedded servers 
+som experimentation spring boot realized embedded tomcat server resulting war size smaller jetty undertow servers rest dependencies supposed undertow jetty ultralight compared tomcat sizes tomcat 18mb undertow 21mb jetty 24mb big dummy rest endpoint dependencies 
+
+spring boot includes sample applications minimal pretty identical functionality spring boot release archives sizes ul li 12mb li li 8mb li li 6mb li ul tomcat undertow pretty jetty artifact larger notable reason size difference jsp support undertow doesnt support jsps spring boot doesnt include tomcats jsp support default 7mb jetty based archive eclipse compiler jsp compilation jetty arent jsps exclude dependency reduces jetty based artifacts size 8mb 

@@ -1,0 +1,4 @@
+properly call single server multiple actors web handlers akka http 
+service lets call service akka server http handle incoming requests 3rd party application service web services purpose service transform client requests call multiple web services service merge transform results serve back client actors parts future make call service akka http client issue flow created service request multiple concurrent connections results asked question suggestion single flow href http stackoverflow questions properly call akka http client multiple 10k 100k requests properly call akka http client multiple 10k 100k requests works batch requests coming single place dont single flow concurrent request handlers correct akka 
+
+buffer requests code assume answer 3rd party service welcomed provide overflow strategy prevent resource starvation code copied href http kazuhiro github io scala akka akka http akka streams connection pooling akka http source queue html rel nofollow blog post 

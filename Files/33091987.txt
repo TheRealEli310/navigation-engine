@@ -1,0 +1,4 @@
+singly linked list removing element head tail reference 
+implement singly linked list project trouble remove method work searched answers find incorporate tail reference project head tail reference list updated class remove method iterations method time lose head reference tail reference dont remove element stumped figure reference test running dont fail test failure trace edit forgot mention remove method removing instances target data list 
+
+bug list initially empty method loop node refers fix 

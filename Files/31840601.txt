@@ -1,0 +1,4 @@
+deploying war file vesta cp 
+time vps server vesta cp installed ol li created web domain li li automatically created entries dns li li setup ftp user li li connect ftp fileszilla li li filezilla public html folder htaccess li li created war file eclipse application li li uploaded war inside public html li li href http myserver ip menubook homepageservlet rel nofollow http myserver ip menubook homepageservlet browser page found menubook contextroot web application li ol explain make work read modify htaccess file href https documentation cpanel net display ckb deploy applications rel nofollow https documentation cpanel net display ckb deploy applications htaccess file ftp greatly appreciated 
+
+install web server support servlets tomcat glassfish vestacp default webservers install check link href https forum vestacp viewtopic php amp rel nofollow https forum vestacp viewtopic php amp 

@@ -1,0 +1,4 @@
+chronicle map data types 
+whats implementing chronicle map side map set data structures similar store multiple versions data specific id possibly maps atomicity serialisation performance main concerns methods dont work standard map set implementations 
+
+ol li thing switch chronicle map version defines solid set patterns abstractions evolve support native li ol chronicle map ol start li ensure atomicity thread safety ul li 8s map methods methods li li acquire context operate bytes optimizing serialization deserialization costs find couple advanced multimap usages chronicle map reveals additional abilities crdt replication multi entry locking chronicle map readme ul li href https github openhft chronicle map crdt values replicated chronicle maps grow set rel nofollow crdt values replicated chronicle maps grow set li li href https github openhft chronicle map undirected graph rel nofollow undirected graph li ul li ul li ol 

@@ -1,0 +1,4 @@
+android sign user database 
+registration api signup user backend work registration api code params username email pwd password cname company cmobile company mobile number cwebsite company website cfbaddress company fb address cbssid company bssid href http pages create user app json username mega amp email megavasu08 gmail amp pwd password amp cname ttd amp cmobile 7896325410 amp cwebsite website address amp cfb 20address http facebook amp cbssid 48f8b3aa05c5 rel nofollow link logcat 
+
+post logcat due strong networkonmainthreadexception strong code network operation performing main thread 

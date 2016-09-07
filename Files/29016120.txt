@@ -1,0 +1,4 @@
+pcsc exception 0x8010002f 
+jcop tool load card successfully loaded card sending command select applet giving command gpshell error debug mode result coming good mistake 
+
+found iso7816 sw1 null byte request action data transfer communication error code works good simulator real card 

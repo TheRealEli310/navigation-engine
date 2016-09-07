@@ -1,0 +1,4 @@
+json escaping logstash 
+sending json data server tcp logstash logstash sends elasticsearch json data escaped elastic serialization socket data elastic logstash config data elastic json filter fields kibana edit change configuration logstash refuses launch line log 
+
+problem incorrect logstash configuration logstash running sending filter correct configuration 

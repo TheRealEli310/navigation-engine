@@ -1,0 +1,4 @@
+ubuntu build android error attempting build incorrect version 
+error version javac version 
+
+build gingerbread kitkat requires oracle jdk system configured lollipop jdk heres easiest update system add ppa updated builds install completes simply linux older version compiler render content run commands separately making correct selection oracle jdk times prompted terminal 

@@ -1,0 +1,4 @@
+global variables guaranteed initialize 
+global variables variables class wide initialization method lets constructor pertaining android variable guaranteed initialized methods class called 
+
+pathological case explain object created things order ol li object allocated heap correct object type instance fields default initialized false li li expressions evaluated constructor class chain called recurses chain constructor constructor executed li li instance variable initializers instance initializer blocks executed order li li body constructor executed li li constructor returns li ol execute written instance variable initialized method called hr pathological case case initializer call strong strong initialized return default initial implement pathological instance initialize block called constructor instance variables initializer executed 

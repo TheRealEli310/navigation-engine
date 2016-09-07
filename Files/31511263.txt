@@ -1,0 +1,4 @@
+unable find element xpath 
+guys suggest click element html code strong xpath strong element found error displayed 
+
+guys thing iframe found solution switching iframe clicking event driver switchto frame rightmenu driver findelement xpath html body div div div click 

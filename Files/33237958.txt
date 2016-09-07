@@ -1,0 +1,4 @@
+rest jersey exception obtaining parameters 
+ajax call method signature error stacktrace 
+
+href https jersey net apidocs latest jersey org glassfish jersey media multipart formdataparam html rel nofollow api supported href https jersey net apidocs latest jersey org glassfish jersey media multipart formdataparam html rel nofollow javadoc blockquote server consumes request entity body optional named body part enabled required named body parts optional part processed part absent true part processed jaxb bean meta data part part file uploaded processed additional information file header accessed parameter blockquote 

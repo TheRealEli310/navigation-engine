@@ -1,0 +1,4 @@
+android implicit intent viewing video file 
+android app button clicked launches external application choice play video gather called implicit intent relevant code method expected work tutorials android developers documentation pretty closely test app avd prompting menu external applications view video app crashes causing app crash 
+
+change onclick method code give option choose external player 

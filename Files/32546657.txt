@@ -1,0 +1,4 @@
+mocking call method class inside method tested 
+testing method makes call method class returns type mock call code 
+
+creating actual instance create version define strong expectations strong calls returns instance finally strong verify strong actual interactions expected href http mockito org rel nofollow docs details 

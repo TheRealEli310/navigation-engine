@@ -1,0 +1,4 @@
+rate limiting number threads executor 
+number threads executing limited code bellow called thread pool filled running threads code check threads running executor number threads launched 
+
+pool creates fixed number threads doesnt change based jobs passed queue thread pool tasks queue pool busy tasks pulled queue added tasks queue longer avoids creating task item breaks work sections efficient executorservice naive write startup thread pool shut waits tasks completed change size href https docs oracle javase docs api util concurrent forkjoinpool html rel nofollow forkjoinpool commonpool setting command line set pragmatically provided class loads 

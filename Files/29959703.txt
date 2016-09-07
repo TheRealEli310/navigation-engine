@@ -1,0 +1,4 @@
+selective load beans start spring 
+issue implement selectively loading spring beans start web application background application based j2ee spring run web application managed servers managed servers run web service run services reporting scheduler services configured spring bean spring configuration xml files wed disable unused beans start servers web service problems override method remove unused beans context good idea remove loaded beans stopping loaded place couldnt figure implement investigation kind stuck dont implement function stopping loading beans spring start time removing beans spring started work code override method 
+
+suggestions serge guys profiles feature project figured adding beanfactorypostprocessor configurablewebapplicationcontext method customizecontext solved problems code class bootprocessor implements beanfactorypostprocessor 

@@ -1,0 +1,4 @@
+osgi weld frameworkutil getbundlecontext returns null 
+apache felix weld classes object class created cdi container reason class frameworkutil getbundle returns null classloader problem reference bundle context class weld injects dont reference inside pass classes reference bundle context inside taking didnt work important classes bundles 
+
+object instance type cdi container created runtime custom classloader creating subclass calling calling case type loaded classloader bundle work btw recommend weld cdi technologies osgi integrated lots pain due tricks tricks work application servers classloader app 

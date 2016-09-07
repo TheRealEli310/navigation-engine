@@ -1,0 +1,4 @@
+rerefrence sqlite database folder project files 
+working management system sqlite primary database netbeans gui builder work project googled stack overflowed reference sqlite database dir project files including full path promising dont include full path database sqlite file project files work smoothly distributing project connection class work remember connection class database saved dir avoiding absolute path 
+
+work shown load put absolute path jdbc url connection code doesnt work problem location case home dir programm 

@@ -1,0 +1,4 @@
+create topic ibm mq program 
+create topic manipulation application error code href https www ibm support knowledgecenter ssfksj ibm mq dev doc q030830 htm rel nofollow accessing queues topics processes ibm mq classes 
+
+code create subscription topic slight modification working snippet parameter topic object topic object object exist case administratively create topic object constructor create subscription topic exist exception thrown options administratively create topic object manipulation dont create topic object create subscription fly topic object shown 

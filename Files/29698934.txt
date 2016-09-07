@@ -1,0 +1,4 @@
+shutting executorservice running task 
+single threaded order process tasks finished work reschedules variable delay indefinitely catches safely doesnt thread provoking interrupt exception caught executing id ideally calling manage reschedulings id structure analogous infinite loop doesnt guess subclass override handle shutdown reference concern approach invoked thread ran effects calling alternative approach 
+
+blockquote shutdown shutdownnow executorservice safely task run doesnt thread provoking interrupt blockquote interrupt running tasks prevent task beeing submited doesnt interrupt running tasks signals workers terminated implementation honor signal remember perfectly fine thread signal terminated executor running task 

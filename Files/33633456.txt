@@ -1,0 +1,4 @@
+lang classnotfoundexception org jsoup nodes document maven 
+maven manage project main file pom xml run commands errors blockquote error jni error occurred check installation exception thread main lang noclassdeffounderror org jsoup nodes document lang class getdeclaredmethods0 native method lang class privategetdeclaredmethods class lang class privategetmethodrecursive class lang class getmethod0 class lang class getmethod class sun launcher launcherhelper validatemainclass launcherhelper sun launcher launcherhelper checkandloadmain launcherhelper caused lang classnotfoundexception org jsoup nodes document net urlclassloader findclass urlclassloader lang classloader loadclass classloader sun misc launcher appclassloader loadclass launcher lang blockquote directly run app eclipse runs errors run command line 
+
+include dependencies packaged add code section add file resources directory run 

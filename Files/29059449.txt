@@ -1,0 +1,4 @@
+read files maven modules 
+application consisting modules module module module web module maven build application logic implemented module included module maven dependency module included module dependency separate pom files module module deployed module folder called files content files folder located webapp folder read files module reading files getclass getresourceasstream files file returned null 
+
+clean solution ul li create module li li put files li li add dependency li ul makes files resource classpath keeping separate files load relative current class careful dont file names random file pick 

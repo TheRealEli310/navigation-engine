@@ -1,0 +1,4 @@
+jetty embedded server change path war file deployed 
+jetty run war file inside embedded jetty server web xml webapp folder war file deploy running war file problems code problem war deployed unpacked predefined location usersmypcnameappdatalocaltempjetty change lets bin folder project 
+
+answer problem turned pretty simple desired functionality provided jetty add lines setwar method href http download eclipse org jetty v20150529 apidocs org eclipse jetty webapp webappcontext html settempdirectory io file rel nofollow jetty documentation 

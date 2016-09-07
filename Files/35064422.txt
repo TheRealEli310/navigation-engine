@@ -1,0 +1,4 @@
+efficient array list 
+efficient instantiate list 
+
+create types objects creates added type called nested type em doesnt em elements added removed em em wraps array dont care differences end roughly equivalent implementations wrapping array interface surprised differ performance significant em specific em performance concerns test context 

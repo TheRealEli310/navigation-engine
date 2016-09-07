@@ -1,0 +1,4 @@
+deploying jar file external resource files maven 
+maven wanted automate build steps automatically deploying files folders production environment project structure started adding element moves directory fine copy jar conf properties files folder run files moved local repository external repositories install deploy phases thinking resource moved repositories ul li program run li li rollback previous version fast locate version folder easy conf properties files folder automatically included li ul main questions ol li line thinking reasonable li li reasonable include external resources repositories li ol 
+
+maven build tool deployment tool deployment environments test amp prod tools suitable chef puppet simply shell script 

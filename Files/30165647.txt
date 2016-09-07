@@ -1,0 +1,4 @@
+generic class extends parametrized type 
+assume existing classes create variant axx class overrides foo method basic idea posible extend class parametized types objective skip code statements hint lot 
+
+finally solved proxy class standard reflection proxy applicable proxies librarian cglib short interceptor code foo href https stackoverflow questions reflection proxy valid override reflection proxy valid override details tagir valeev 

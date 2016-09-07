@@ -1,0 +1,3 @@
+webpage frame popup window handling 
+webpage automate steps functioning application ol li launch application selenium li li clicking button frame pop main web page li li perform operations frame selenium web driver li li calendar icon frame li li click calendar icon pop window calendar button pops li li select date pop click button pop window closes automatically li li switch frame perform operations li li script crashes error window found browser window closed li ol part code 
+

@@ -1,0 +1,4 @@
+open tab servlet response 
+open tab run file web application servlet perform current situation click button content page open tab displaying current tab servlet response written file content couldnt file browser 
+
+servlet works server side generate http response browser response command open tab depends user browser settings open window tab servlet 

@@ -1,0 +1,4 @@
+create jar file android studio 
+fairly latest version android studio created module project basically supposed library build creates aar file jar file library supposed eclipse library activity create jar file eclipse android studio created module building result generated aar file jar file 
+
+gradle based builds doesnt allowing create jar android studio decided intelij option community edition update jar produced intelij resources dont work easy jar resource decided opt aar hoping eclipse support aar gradle supports lands main concern 

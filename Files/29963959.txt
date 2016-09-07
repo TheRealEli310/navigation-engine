@@ -1,0 +1,4 @@
+gradle create multiple jar 
+gradle groovy id hope solve problem packages compiled jar br solution found create multiple tasks type id avoid copy paste end giant gradle file add package project current implementation multiple jar tasks works charm add packages end lot packages lot tasks lot copied pasted code fiddling file found needed extend order jar created heres code class problem jar created ignores basically method line manifest version project task needed find code online href https github crocmagnon iut ihm rel nofollow github repo french idea appreciated 
+
+easier option pass parameters found inspiration topic href https discuss gradle org passing arguments task rel nofollow https discuss gradle org passing arguments task sounds basically define method returns task parameters rest testing version code question adapted opal great sufficient include builds block make tasks run build single package compile 

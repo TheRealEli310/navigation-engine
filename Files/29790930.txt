@@ -1,0 +1,4 @@
+android context sharedpreferences 
+context run async sharedpreferences context app crashes included sharedpreferences sharedpreferences work sharedpreferences work getdefaultsharedpreferences applied mainactivity2 createuser 
+
+blockquote app crashes included sharedpreferences blockquote extends dont constructor takes context parameter context activity keyword fragment retrieve context activity hosting edit case possibilities add constructor takes read values activity pass recommend approach 

@@ -1,0 +1,4 @@
+order follow close bufferedwriter filewriter 
+bufferedwriter close automatically close underlying filewriter source reason task requires closing order filewriter close bufferwriter close order feels correct bufferedwriter close filewriter close wont throw null pointer filewriter closed correct order apply bufferedreader filereader 
+
+throw null pointer exception thinking method sets field passes object references original closing wont effect implementation 

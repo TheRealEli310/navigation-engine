@@ -1,0 +1,4 @@
+sort hashset values duplicate 
+working android project save values dont sort remove duplicate values list exact data saved arraylist output save inside hashset sort sharedpreferences xml file sorted arraylist code 
+
+definition set duplicate values hashset doesnt preserve order ordered set href https docs oracle javase docs api util linkedhashset html rel nofollow linkedhashset preserves insertion order 

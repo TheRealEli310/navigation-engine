@@ -1,0 +1,4 @@
+spring data query methods 
+spring data studying thought type query simple query obtain query methods obtain invalid derived query property fleet found type string traversed path car id car table id fleet foreign key complex query write code structured domain class car services carservicesimpl database services group database method part car class 
+
+question dont put foreign key method member car class field named fleet fleet class field named idfleet question custom repository implement complex queries custom interface declare methods class implement spring magic proxying interfaces classes custom queries code custom class parameter 

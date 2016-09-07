@@ -1,0 +1,4 @@
+updating jtextarea loop 
+problem writing updating textarea readtemp function result calling system function appears textarea problem 
+
+strong correction strong wont infinite loop block edt forever nevermind loop strong bad idea strong insist give edt chance update ui dispatching append asynchronously 

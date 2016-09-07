@@ -1,0 +1,4 @@
+spring batch transaction manager job repository actual tasks 
+spring batch assume simplicity databases storing job datas batch tables running business logic data things dont understand ol li declared jobrepository transactionmanager tasklet default purpose li li giving tasklet trasactionmanager jobrepository manages connections inside steps transaction management inside writer reader li li true href http stackoverflow questions spring batch transaction management work spring batch transaction management work problem xa data job data connections li ol 
+
+separate transaction manager tasks job repository href http forum spring io forum spring projects batch datasources spring batch rel nofollow http forum spring io forum spring projects batch datasources spring batch designate separate transaction managers doesnt dont xa imagine happen business process ran successfully job data wasnt saved time batch process ran spring batch job failed run 

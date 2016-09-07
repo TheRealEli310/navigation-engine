@@ -1,0 +1,4 @@
+add back button actionbar android studio 
+created app wanted back button action bar navigate back previous page android studio looked number examples errors 
+
+assuming detailactivity back button mainactivity change manifest detailactivity detailactivity fix things simplest implementation 

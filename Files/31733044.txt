@@ -1,0 +1,4 @@
+resolve contextcompat android 
+alertdialogue object called dialog attempting add icon syntax deprecated reading work contextcompat syntax recognized android studio importing 
+
+href http developer android reference android support v4 content contextcompat html contextcompat part support library v4 added support library project include support library build gradle file app folder havent 

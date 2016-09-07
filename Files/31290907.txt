@@ -1,0 +1,4 @@
+wildfly undertow properties placeholder work alias attribute host configuration 
+generalize wildfly final xml configuration order single configuration xml file references system properties key proerties order distinguish dev prod env properties files worked fine till rich undertow subsystem reference property alias attribute vertual host configuration doesnt recognize resolve position key properties small snippet wildfly xml configuration show entries dev properties file prod properties file key undertow virtual host alias mydomain substituted wrong functionality support alias attribute advance 
+
+attribute doesnt operation expressions allowed resource href http wildscribe github io wildfly final subsystem undertow server host index html rel nofollow wildscribe site versions 

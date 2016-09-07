@@ -1,0 +1,4 @@
+gwt unable load module entry point class 
+included dnd jar gwt project build path class path execute program exception occur included line module understand error occur jar file added project information jdk 
+
+found solution problem app engine disabled app engine run configuration put jar user entries putting bootstrap entries worked 

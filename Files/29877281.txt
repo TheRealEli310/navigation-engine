@@ -1,0 +1,4 @@
+singleton prototype spring beans jmx moniterable 
+newbie spring jmx monitor prototype beans project spring jmx created sample project register bean singleton springs mbeanexporter working googled register singleton bean spring jmx monitor didnt found thing helpful href http forum spring io forum spring projects management singleton beans jmx rel nofollow spring forum post describes problem answer point 
+
+googling issue found posts stackoverlow helped copying code configure exporter ignore autodetect autodetect works prototypes create instance add additional instance jmx console href http stackoverflow questions change managedresource objectname dynamically stackoverflow link href http stackoverflow questions change managedresource objectname dynamically link courtesy thejc 

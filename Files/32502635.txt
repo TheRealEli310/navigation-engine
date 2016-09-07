@@ -1,0 +1,4 @@
+generate unique sequence numbers 
+working steganography pixels image random values keyword algorithm creates sequence unique numbers key ps keyword retrieve list find pixels modified 
+
+ul li create iterable shuffled list li li define element pixel coordinate li li initialise random number generator specific seed li li shuffle list li ul list pixel coordinates randomised order iterating members sequentially youll transverse pixels randomised order visiting initialise prng seed time randomised order guaranteed h2 h2 assume 2x3 image list pixels shuffling specific seed wanted modify pixels h2 code h2 conceptually speaking list lists performance wise shuffle list integers number pixels convert numbers pixel coordinates division modulo operation easily extend dimensions include colour planes 

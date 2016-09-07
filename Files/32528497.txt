@@ -1,0 +1,4 @@
+rxjava group timestamp 
+problem solve rxjava proper handle kind thing kinda lost variety operators work case finite stream objects type goal group timestamp lets hour group generated collection groups represent events hour looked operator fully understand key selector element selector concepts 
+
+job key selector lets chose keys groups established sql statement selector lets extract youd observe group doesnt object parts equivalent sql case give sequence hour calculation rudimentary depending environment jodatime 8s date api perform accurate calculations 

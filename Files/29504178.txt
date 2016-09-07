@@ -1,0 +1,4 @@
+cometd session timeout embedded jetty 
+set sesion timeout embedded jetty cometd set timeout server sessions shows timeout 
+
+cometd parameter controls frequency cometd heartbeat messages channel tune setting set snippet setting explicitly set case calling returns set explicitly object setting timeout controls heartbeat message frequency expiration objects server case client crash refer href http docs cometd org reference server configuration rel nofollow documentation information meaning cometd configuration parameters 

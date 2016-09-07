@@ -1,0 +1,4 @@
+store binary file unit testing 
+store resource binary file case unit testing specifically directory structure standard mock file read file system replace file project 
+
+good place resources unit testing mavens standard directory layout read directories href https maven apache org guides introduction introduction standard directory layout html rel nofollow https maven apache org guides introduction introduction standard directory layout html 

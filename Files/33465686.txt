@@ -1,0 +1,4 @@
+spark crash reading json file linked aws sdk 
+small json file made simple code read json file file s3 local hdfs textfile convenient sbt file pull library program works expected writing content config json standard output link aws sdk amazons sdk access s3 executing code spark throws exception reading stack aws sdk linked detects file json file parse jackson assuming format find link aws sdk questions adding modifies behavior work file hdfs s3 local 
+
+talked amazon support depency issue jackson library sbt override jackson strong answer strong em mac ec2 redhat ami instance emr amazon linux environments root issue sbt builds dependency graph deals issue version conflicts evicting older version picking latest version dependent library case spark depends version jackson library aws sdk version conflict sbt evicts sparks dependency version older picks aws sdk version latest em 

@@ -1,0 +1,4 @@
+zip4j zipfile getinputstream returns byte array size 
+code results byte array size ideas zip file fine 
+
+expect understanding isnt correct method returns em estimate em dependent implementation docs blockquote implementations inputstream return total number bytes stream correct return method allocate buffer intended hold data stream blockquote defining buffer read data 

@@ -1,0 +1,4 @@
+setting libsvm train eclipse 
+start libsvm href https www csie ntu tw cjlin libsvm rel nofollow source eclipse windows started couldnt find add classpath variable blockquote program files x86 libsvm 20javalibsvm jar blockquote data set training version windows needed select current directory path selecting svm train exe giving train data train path program files x86 libsvm 20svm train exe train download package file train question training function started eclipse advance 
+
+basically ways started ul li pre build exe files based code cmd li li import source code freshly generated eclipse project provided jar file provide manifest started command line start usual eclipse provide parameters exe approach li ul 

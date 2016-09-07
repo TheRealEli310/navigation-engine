@@ -1,0 +1,4 @@
+opengl es texture size info 
+context question opengl es android environment texture problem display method width height info internal format simply starting binding id save texture bitmap knowing texture size 
+
+es kind surprising functionality size renderbuffer size texture inconsistent thing values parameters texture es es added access values youre width height bound texture 

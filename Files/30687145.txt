@@ -1,0 +1,4 @@
+instance mediaplayer fragment classes 
+creating soundboard android app multiple fragments display buttons clicked play sound code instances mediaplayer idea single instance mediaplayer fragments code knowledge change fragments public classes public static classes find solution 
+
+singleton pattern pattern mediaplayer call getinstance mediaplayer instance 

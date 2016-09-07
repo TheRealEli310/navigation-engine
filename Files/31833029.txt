@@ -1,0 +1,4 @@
+intellij idea terminal version issue 
+facing issue intellij idea compiler settings jdk installed project idea works jdk changed compiler version idea preferences compiler page restarted idea href http stack imgur n3kyt png rel nofollow img src http stack imgur n3kyt png alt enter image description problem facing idea terminal version updated setting home profile idea solve href http stack imgur vcjhy png rel nofollow img src http stack imgur vcjhy png alt enter image description 
+
+works expected changed compiler version intellij idea affects compilation process intellij idea setting affect terminal session environment change shell launch arguments setting set project module understand project specific settings pass project specific variables hard code arguments simple case changed lets windows machine similar 

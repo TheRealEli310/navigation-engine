@@ -1,0 +1,4 @@
+map string map string object convert string back 
+class field implement ormlite create custom persister dont good convert string back persister class 
+
+serialization encode base64 solution objects serializables result readable portable serializable class public class myclass implements serializable mandatory declare inside private static final long serialversionuid 6569837232917408380l inside serializable standard types collections 

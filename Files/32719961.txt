@@ -1,0 +1,4 @@
+passing context custom adapter listview 
+class called contacts accepts data activity creates custom listview dilemma customadapter class pass activity context customadapters constructor em contacts em working widgets update text custom listview load passed getapplicationcontext worked set flags custom adapter class programming practice contacts activity file customadapter class pass context issue set onclick widgets start intent clicked specifically open androids dial screen sets click widget customlist view app crashes fix setting flags id solve context issue context passing causing issue fix log cat error 
+
+youre calling activity thinks youre call activity youll flag pass youre call 

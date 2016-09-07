@@ -1,0 +1,4 @@
+javamail header order 
+facing problems mail header order order added itens custom header information header return path read method addheader key reverse dont generated information generated add header information idead advance 
+
+header order strong strong isnt supposed matter put headers order beginning message simplest approach subclass mimemessage override writeto method write headers calling super writeto youll headers separate list internetheaders object 

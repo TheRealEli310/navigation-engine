@@ -1,0 +1,4 @@
+hibernate transaction started spring 
+based href http www byteslounge tutorials spring hibernate persistence transactions rel nofollow tutorial manage hibernate transactions spring transaction started session method reached spring start end transaction shouldnt transactional annotation precisely strong entity strong strong dao strong strong service strong strong context beans xml strong strong main strong strong stack strong 
+
+change line file strong context beans xml strong line annotation support spring config bean add 

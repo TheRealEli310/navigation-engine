@@ -1,0 +1,4 @@
+send data activity running sticky service 
+created sticky backround service started boot service intended work background implemented creating thread messenger class sending work status main activity main activity receives messages background thread running inside service commands service sending periodically problem works start service activity activitys context service started boot app closed removed app list opened activity unable messages service anymore invoke start service service running simply run thread created dont destroy running thread run thread actvity receiving messages service touching running thread inside bound services clear specific case 
+
+alternate href http developer android reference android support v4 content localbroadcastmanager html rel nofollow localbroadcastmanager send data broadcast message service register broadcast receiver activity receive messages 

@@ -1,0 +1,4 @@
+libgdx scaling background issue 
+creating game draw background background doesent cover screen lower window size doesent cover window code drawing background code initializing sprite finally code initializing camera amp spritebatch stuff question work wrong 
+
+dont 1920x1080 resolution game overkill imagine lower spec device play set screen match background strong strong resolution stretch background 

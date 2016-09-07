@@ -1,0 +1,4 @@
+error maven resolve dependencies 
+log run full error stack trace run command whit paramter ul li remove folder li li add dependencies li ul time errors 
+
+quick workaround problem download jar manually href http search maven org search 7cgav 7c1 7cg 3a 22woodstox 20and 20a 3a 22wstx asl rel nofollow maven central install required dependency locally hand blockquote mvn install install file dfile home tomasi tmp wstx asl jar dgroupid woodstox dartifactid wstx asl dversion dpackaging jar blockquote solve definitively legacy dependency problem continue build 

@@ -1,0 +1,4 @@
+running task custom task gradle 
+write custom gradle plugin things ill plugin copy defined dependencies folder found task build gradle file struggling figure run task custom task run exception understand havent find execute task dsl 
+
+create tasks tasks gradle write custom plugin task write custom plugin class plugin class declare task type apply plugin buildscript automatically task named copydeps type build h2 thing h2 convenient simple copy operation custom task util method task plain h2 thing h2 call method considered internal api gradle executing directly unexpected behaviour breaks gradles incremental build feature 

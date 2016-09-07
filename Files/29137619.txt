@@ -1,0 +1,4 @@
+xpath issue detection element firebug 
+doubt copy xpath firebug selenium script functionality work error unable locate element write expression execute code snippet works fine problem firebug popular tool suggestions welcomed 
+
+multiple reasons firebug generated xpath work selenium common ul li element find em present dom em happen page completely loaded loaded asynchronously li li elements page find element inside em switch em li ul dont blindly trust xpath generated firebug time reliable expression operate attributes dont start xpath expression root html element make relative 

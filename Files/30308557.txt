@@ -1,0 +1,4 @@
+stringobservable inputstream share missingbackpressure 
+read emit parsed data lets handle types apply filter initial means share state decided encountered code fails method quick fine remove code works understand expensive operation produces lot messages messages strong question strong implement read share state 
+
+current v0 doesnt support backpressure properly avoid ill release latest code work addition surprising reference counting subscribers subscribe subscribers receive values start operator call returned observable subscribers subscribed replay source late subscriber doesnt support backpressure 

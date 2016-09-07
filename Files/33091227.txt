@@ -1,0 +1,4 @@
+ignore timezone identifier date parsing 
+parse date hours live utc timezone 2am format string date string format allowed change upd dont format date proper timezone compare dates values timezones date parsed ignoring timezone original string timezone matter original string utc utc 
+
+upd2 solved 

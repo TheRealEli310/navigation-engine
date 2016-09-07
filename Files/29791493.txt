@@ -1,0 +1,4 @@
+hibernate inserting clob string database oracle mysql 
+recently upgraded hibernate href https access redhat documentation en jboss enterprise application platform html migration guide migrate hibernate 33x application hibernate 4x html rel nofollow article reference facing problem inserting clob data string database application runs oracle mysql mssql databases hibernate domain insert object database exception thrown solve issue 
+
+exception paths solve exception occurs due version server version dpcp implementation version href http chat stackoverflow rooms discussion amogh shahe discussion chat oa shahe tomcat mysql connector version latest shahe commons dpcp version problem strong updating version commons dpcp latest solve issue strong 

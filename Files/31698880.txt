@@ -1,0 +1,4 @@
+nullpointer exception map task mapreduce 
+running program extract english tweets map task completed reduce begin throws null pointer exception couldnt figure working fine input set mapper task reducer task stack trace wrong input 
+
+make add null check accessing user object find user object null null 

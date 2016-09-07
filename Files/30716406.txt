@@ -1,0 +1,4 @@
+default lifecycle maven 
+learn maven statement href https maven apache org guides introduction introduction lifecycle html rel nofollow maven docs blockquote built build lifecycles strong default clean site strong default lifecycle handles project deployment clean lifecycle handles project cleaning site lifecycle handles creation projects site documentation blockquote statement blockquote default build build application blockquote run commands amp successfully run commands exceptions strong commands strong amp strong error details strong 
+
+havent read blockquote call build phase executed case deploy blockquote fact default lifecycle phases order blockquote blockquote command line step execute execute step exemple execute validate compile test package integration test verify install phases href https maven apache org guides introduction introduction lifecycle html lifecycle reference rel nofollow complete list 

@@ -1,0 +1,4 @@
+restrict fields result 
+working mongodb v3 mongodb driver rc1 user collection fields username firstname lastname email select users fields username firstname lastname mongo shell working empty result back translated basicdblist isnt accepted mongo driver possibility fetch fields br ren 
+
+crud api driver proper projection method chained mongocollection find projection method takes instance bson interface number classes projection works driver compile proper accomplish dbcollection class supported driver 

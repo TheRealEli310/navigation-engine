@@ -1,0 +1,4 @@
+open url webview screen based button click 
+solutions stackoverflow working app stopped button clicked click button app crashes app open url webview button clicked greatly appreciated post modified code 
+
+reason crashing calling webview belong activity pass string activity secondactivity string load webview achieve activity edit onclick method public void onclick view secondactivity public class secondactivity extends actionbaractivity 

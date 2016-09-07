@@ -1,0 +1,4 @@
+jpa column dtype found resultset 
+spring application entity called resource specific purpose fields added results created subclass extendedresource works fine query extendedresource resource bothering discriminator column guess solution avoid making extra classes 
+
+trivial problem coding creating solution creating entity hierarchy call resulting class give result form row create instance loop option make columns ensure order returned create extra field class eliminate additional class matter personal preference approaches suites involve amount coding 

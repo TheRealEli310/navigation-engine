@@ -1,0 +1,4 @@
+mapreduce string index range 
+problem mapreduce code string index range string long suggestions code error message lang exception lang stringindexoutofboundsexception string index range org apache hadoop mapred localjobrunner job runtasks localjobrunner org apache hadoop mapred localjobrunner job run localjobrunner input file text file 
+
+input mapper empty keyvaluetextinputformat line divided key parts separator byte strong byte exists key entire line empty strong href http hadoop apache org docs r2 api org apache hadoop mapred keyvaluetextinputformat html rel nofollow class keyvaluetextinputformat change input format default mapper work good luck 

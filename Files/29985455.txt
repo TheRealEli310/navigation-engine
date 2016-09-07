@@ -1,0 +1,4 @@
+fx task returning returns null 
+return string fx task expected output true testabc real output true null call task task 
+
+href http docs oracle javase javafx api javafx concurrent task html rel nofollow implements call calling href http docs oracle javase docs api util concurrent executorservice html submit lang runnable rel nofollow overloaded form taking general return values returned version aerus pointed returns method extends directly task directly result 

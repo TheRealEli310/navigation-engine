@@ -1,0 +1,6 @@
+ 
+reflection 
+A way of treating classes and methods as objects on their own, to be referred to during runtime, for instance by quering a particular class about its methods and their parameters.
+ <img src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /> (window.RLQ = window.RLQ || []).push(function () {
+mw.log.warn("Gadget \"commons-file\" was not loaded. Please migrate it to use ResourceLoader.  See \u003Chttps://en.wikibooks.org/wiki/Special:Gadgets\u003E.");mw.log.warn("Gadget \"toolboxcompat\" was not loaded. Please migrate it to use ResourceLoader.  See \u003Chttps://en.wikibooks.org/wiki/Special:Gadgets\u003E.");
+} ); 

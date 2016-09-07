@@ -1,0 +1,4 @@
+pitest locate junit test 
+gradle pitest give results locate test files build gradle file run output output stored correct folder run gradle test runs fine 
+
+additional information issue supplied pitest user group href https groups google forum topic pitusers 8c7bhh vb6y rel nofollow https groups google forum topic pitusers 8c7bhh vb6y tests run pitest correctly reporting tests provide coverage class coverage keyword flag set jvm running tests assertions disabled basically hidden block code generated compiler assertions enabled code executed fix issue built junit assertions href http junit sourceforge net javadoc org junit assert html rel nofollow http junit sourceforge net javadoc org junit assert html 

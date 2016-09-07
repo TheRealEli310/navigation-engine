@@ -1,0 +1,4 @@
+return array values output sequentially 
+hey guys output values separately sequentially returned method main method sysouts give 55f96302 3d4eac69 explain fix 
+
+printing array object calling array tostring method default tostring method return string consisting class object instance sign character unsigned hexadecimal representation hash code object words method returns string equal getclass getname integer tohexstring hashcode javadoc case avoiding calculating array 

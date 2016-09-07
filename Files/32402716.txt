@@ -1,0 +1,4 @@
+wildfly load ear deployments correct order 
+href https docs jboss org author display wfly8 class loading wildfly rel nofollow wildflys documentation declare order subdeployments deployed ear respect order dependencies defined application ear dependency chain jboss specific file missing declare expect deployment order ol li li li li li li ol wildfly deploys 
+
+start deploying time initialise order means individual components deployment initialised order ejbs servlets webapp started webapp started parse deployments build deployment metadata parallel reason 

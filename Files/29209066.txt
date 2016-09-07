@@ -1,0 +1,4 @@
+compare objects type 
+class objectx objects class objectx1 objectx2 method checks objects class biggest object class consists large number stored arraylist heres method declaration method working fine takes object class returns biggest problem call method inside statement statement check supposed solve 
+
+number issues attempt strong edit strong href http stackoverflow users tim biegeleisen tim biegeleisen spotting firstly reference context class scoped context specific instance compare object strong references strong case work depending implementation method strongly recommend implement replace type objects question interface objects compare method implemented logic method contract return blockquote negative integer positive integer object equal greater object blockquote api href http docs oracle javase docs api lang comparable html rel nofollow 

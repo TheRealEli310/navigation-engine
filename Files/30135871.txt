@@ -1,0 +1,4 @@
+move item front linkedlist 
+method find element list true node moved front list creating deleting nodes dont move node part working 
+
+updating 

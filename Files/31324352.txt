@@ -1,0 +1,4 @@
+consume kafka topic immediately disconnect 
+kafka traditional messaging id ability consume small topics batch fashion connect topic consume messages immediately disconnect block waiting messages topics single partition replicated cluster id high level consumer clear docs accomplish thing scala advice gratefully received 
+
+consumer timeout ms setting throw timeout exception time message consumed option high level consumer afaik set disconnect acceptable solution youd simple consumer check message offsets 

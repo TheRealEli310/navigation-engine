@@ -1,0 +1,4 @@
+jsp ajax call returning code servlet controller executing 
+index jsp calling controller performs operation returns result code sitting server tomcat running server call index page local machine problem ajax calls controller bringing back code executing server bringing back result literally ajax code ps installed server project works fine run localhost problem communication local machine server running localhost url logincontroller running server finding file relative path add end work advance info edit web xml define servlets code 
+
+correct wrong jsp calling controller strong solution strong servlet annotations tested strong solution strong servlet annotations intuitive web xml web xml make web xml loaded server correctly 

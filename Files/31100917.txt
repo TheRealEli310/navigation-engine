@@ -1,0 +1,4 @@
+credentialstore warning firebase user authentication 
+firebase examples specifically authenticate user standard jdk android time run code warnings presume firebase api referring alludes persistence referring persistence application session successive runs application resolve warning code based examples firebase guides account details obscured 
+
+firebase android sdk android application context required instantiating firebase client context automatically persisting authentication state em application restarts em vanilla firebase jvm sdk authentication state automatically persisted default mechanism persisting state application restarts dont care auth state automatically persisted ignore warning alternatively implement firebase interface server process isnt needed 

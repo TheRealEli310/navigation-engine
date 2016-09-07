@@ -1,0 +1,4 @@
+hibernate auto detection persistence xml working 
+read href http stackoverflow questions class elements persistence xml lt class gt elements persistence xml href http stackoverflow questions auto detect entities jpa auto detect entities jpa tag useage persistence xml auto detected hibernate remove tag longer works reason enable auto detection stand hibernate application shouldnt matter persistence xml person init main class 
+
+remove element remove applicable se persistence units official schema definition href http www oracle webfolder technetwork jsc xml ns persistence persistence xsd rel nofollow http www oracle webfolder technetwork jsc xml ns persistence persistence xsd noticed inter mixing jpa code hibernate code youre jpa stick jpa code creating remember access returned entity call access auto generated fields maven pom dependencies work expected se environment 

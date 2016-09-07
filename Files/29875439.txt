@@ -1,0 +1,4 @@
+ssl tcp connection android cert 
+android platform coming net world write tcp ssl client class app send recieve text messages server server public certificate cer file communication sslstream class job lot examples android lolipop find good examples subject http protocol top hint appreciated 
+
+basially steps create ssl connection android strong step strong public key ur server cert file strong step strong create keystore href http bouncycastle org download bcprov jdk16 jar rel nofollow bouncycastle jar commands verify certificates imported correctly keystore output chain copy keystore raw resource android app res raw strong step strong create httpsclient query service client case holds true connection http connection http keystore procedure remains sockets open close connection 

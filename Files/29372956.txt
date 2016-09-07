@@ -1,0 +1,4 @@
+programmatically create xml 
+programmatically create xml elements jaxb reading page href https jaxb net nonav docs ch03 html marshalling element default values marshalling rel nofollow found start defining bean serialize code whould produce xml program class create element tag depending entered program instance tag element called set runtime generics 
+
+jaxb stands em bean em jaxb defining beans dinamically create xml href https code google joox rel nofollow joox href https gist github raffaelesgarro 1c9e30305676126b7eb1 rel nofollow link full gist 

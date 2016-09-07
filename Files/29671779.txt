@@ -1,0 +1,4 @@
+maven exec plugin passing arguments external executable 
+configure app work build submit external binary manually automatic maven exec plugin current configuration executes maven debug info problem si arguments meant passed executable divided commas executing shell command thing split arguments executes commas maven execute hope maven exec plugin problem understood greatly give 
+
+found optional configuration parameter correct configuration 

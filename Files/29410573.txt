@@ -1,0 +1,4 @@
+rdd pairrdd based key 
+spark application large amount data requirement rdds large pairrdd based keys 
+
+dont api heres scala key flatten mention operation build original rdd means small fit memory dont make rdds 

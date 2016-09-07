@@ -1,0 +1,4 @@
+program called crapsgame implements variation popular dice game played casinos called craps 
+wrote method public static void main string args write public static int rolldie write public static write separate method accomplish function call rolldie return randomly generated number call rolldie method generate random numbers dice check sum dice sum called craps lose sum called natural win sum point established program working running public static void main string args putting program method public static void main string args public static int rolldie dont 
+
+rolling achieved youll encapsulate functionality method main method method inside main method call rolldie method 

@@ -1,0 +1,4 @@
+maven replace token content file 
+insert content file xml file xpath replacer token happen build process maven maven ant task plugin xmltask task ant worked fine insert valid xml xml made valid future steps required insert invalid xml afaik work xmltask ant disable validation searching xmltask combination maven ant validation xml guys maven ul li list item li li include shell script li li write maven plugin li li li ul opinion 
+
+youre ant ant replace task href https ant apache org manual tasks replace html rel nofollow https ant apache org manual tasks replace html replaces text file doesnt care valid xml read replacement file marker token original file xmltask insert marker token xpath give valid xml textual replacement replace 

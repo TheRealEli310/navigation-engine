@@ -1,0 +1,4 @@
+maven eclipse dmaven multimoduleprojectdirectory system propery set 
+installed maven mac os building maven project eclipse giving error happen maven fix downgrading set multimoduleprojectdirectory property eclipse 
+
+edit put set maven home 

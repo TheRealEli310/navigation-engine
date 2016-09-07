@@ -1,0 +1,4 @@
+print bold 
+print output bold printf 
+
+print bold streams standard output stream principle unformatted text software packages interpret special character sequences called ansi escape sequences formatting ansi escape sequences start escape character add string u001b 1m bold unix terminals interpret ansi escape sequences default dos times needed ansi sys escape sequences work windows eclipse terminal codes work 

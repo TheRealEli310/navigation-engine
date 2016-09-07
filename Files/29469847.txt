@@ -1,0 +1,4 @@
+mutating reading hashmap multiple threads thread time 
+linkedhashmap multi threaded environment multiple threads access hashmap read write thread time synchronization required ensure thread readable thread accesses edit people wanted question explicitly stated ensure linkedhashmap visible threads written main memory threads read map main memory concurrent access map 
+
+answer depends enforce thread access map time naive understanding time inapplicable synchronization meaning time programs piggybacking external synchronization work albeit fragile blockquote ensure linkedhashmap visible threads written main memory threads read map main memory blockquote strong strong synchronization semantics guarding accesses object routine penalizes reads performant guard accesses reads greatly outnumber writes 

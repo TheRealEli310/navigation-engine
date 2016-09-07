@@ -1,0 +1,4 @@
+realm orm deal maps 
+creating android app persist started href https realm io rel nofollow realm orm supports enumerations lists found workaround lists strings create stringwrapper class encapsulating string href https realm io docs latest rel nofollow documentation understand easy lists persist map current idea replace map list objects encapsulating map key similarly href https docs oracle javase docs api util map entry html rel nofollow solution rework domain model technology reasons 
+
+notice realm doesnt support maps href https github realm realm issues rel nofollow https github realm realm issues model classes object called fetch query 

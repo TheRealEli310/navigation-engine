@@ -1,0 +1,4 @@
+bug util scanner 
+util scanner handle breaking spaces file content bizarre input text put file called breaking space specifically copy paste href http www fontspace unicode analyzer rel nofollow http www fontspace unicode analyzer offending character code util scanner pukes content surprisingly throw exception process character doesnt stop offending line scanner pukes roughly characters offending character documentation util scanner read breaking space puking util scanner process breaking space make process normal 
+
+scanner assumes systems default charset oses windows iso charsets compatibility reasons luckily argument constructors href http docs oracle javase docs api util scanner html scanner io file lang string rel nofollow 

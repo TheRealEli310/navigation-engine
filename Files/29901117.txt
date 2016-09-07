@@ -1,0 +1,4 @@
+insert elements arraylist intervals 
+ranges insert insertion resulting ranges range original range increased added range similarly add original range resulting range time lower bound reduced widening range lower side range attempting make class represent problem start numbers arrayliststart end numbers arraylistend loop compare smaller smallest number method work solve problem 
+
+assume change maxarray case dont state values ranges assumed figure 

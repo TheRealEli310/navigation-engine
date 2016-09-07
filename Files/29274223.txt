@@ -1,0 +1,4 @@
+delimiter exclude parenthesis 
+string world usedelimiter method output prints world separate lines bunch delimiter pattern examples weird syntax inside usedelimiters parameters 
+
+weird syntax called regular expression find syntax href https docs oracle javase docs api util regex pattern html rel nofollow javadoc class pattern default delimiter means ore whitespace previous javadoc case change spaces dont forget escape 

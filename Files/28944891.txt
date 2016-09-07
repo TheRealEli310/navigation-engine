@@ -1,0 +1,4 @@
+parsing xml doc nested repetitive element names dom parser 
+parse xml doc bellow getelementsbytagname method parsing xml files case dont outer element calling getelementsbytagname entry return elements suggestion parse doc 
+
+suspicions wont work problem correct href http docs oracle javase docs api org w3c dom class nodelist html rel nofollow documentation blockquote returns nodelist elements document order tag contained document blockquote parse properly xpath sample code obtain tags 

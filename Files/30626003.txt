@@ -1,0 +1,4 @@
+measure time spark run action partitioned rdd 
+wrote small spark application measure time spark run action partitioned rdd combinebykey function sum problem iteration work correctly calculated duration ms time ms spark persists data request avoid programmatically duration spark calculate rdd caching persisting earlier iterations duration ms ensure recalculation moved sparkcontext generation loops didnt bring advices code persist data helper functions problem finally output spark console 
+
+found solution wrote separate class calls spark submit command process loop benchmark started thread sparkcontext separated process garbage collection works fine 

@@ -1,0 +1,4 @@
+application stopped admob error 
+steps copy pasted documentation developers admob site implemented eclipse adt working application stops unexpectedly activity main xml mainactivity manifest file error log logcat 
+
+imported google play services lib project important import google play services lib project click select browse enter click finish href https developers google maps documentation android intro rel nofollow https developers google maps documentation android intro sample code follow instructions linked answer blockquote ul li import actual source google play services lib project link android library li li project properties android library add google play services lib click project choose properties select android li li add dependent project build path project didnt work li ul blockquote 

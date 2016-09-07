@@ -1,0 +1,4 @@
+automatically optimize loops multi core processors 
+fellow developer told today jit automatically optimize execution loop cpus computer long code iteration loop execute relying variables modified previous iterations loop outrageous wishful thinking truth 
+
+verified writing simple program work checking cpu cores busy run em em cpu core parallelize multiple threads stream api easily 

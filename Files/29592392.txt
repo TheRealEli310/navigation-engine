@@ -1,0 +1,4 @@
+android toast inside asynctask 
+asynctask class called activity looping array find correct context toast asyntask standard error undefined solutions offerred listed href http stackoverflow questions android toast thread concern uithread running work heres code snippets put method calling isnt recognised newbie 
+
+close question havent solved problem number answers provided apparently work situations suggest structure classes call asynctask 

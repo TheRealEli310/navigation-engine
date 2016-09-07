@@ -1,0 +1,4 @@
+deserialize objects rdfbeans apache jena 
+h1 question problem h1 easily managed deserialize objects simple properties type string link type automatically resolved exception link resolved handled simple uri property strong automatically deserialize object graph strong h1 update h1 debugging element resolved querying triple store predicate manually adding lines reading file unmarshalled javabean object created reference subgeographicalregion h1 update h1 implementing based elements id solves problem multiple instances h1 code h1 rdf xml file excerpt pre class lang xml prettyprint override substation subgeographicalregion hint method returns declared start engine 
+
+stated update original post solution add binding classes manually couldnt find classes works fine workaround 

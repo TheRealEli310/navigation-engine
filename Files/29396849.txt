@@ -1,0 +1,4 @@
+beannameautoproxycreator setbeannames regular expression working 
+clientservice bean dont call setting properly interceptors put service exception put clientservice works fine beans ends service intercepted reason service working 
+
+youd set spring cglib proxy instances jdk proxies support interfaces youre proxying knowingly unknowingly beans registered web mvc configuration necessarily support proxying classes 

@@ -1,0 +1,4 @@
+android listview checkbox issue 
+attempting check checkbox time listview item clicked work cut code causing problem mainactivity friendlistdata friendbaseadapter friend item xml appreciated code needed 
+
+onlistitemclick code notice referencing parameter view find strong correct checkbox strong listview row youre cutting code point find bugs full code save time case 

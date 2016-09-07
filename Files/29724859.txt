@@ -1,0 +1,4 @@
+jackson deserialization builder pattern build method bad return type compatible pojo type 
+simple class builder pattern builder build method returns object interface type implemented type mixin annotations class foo 3rd party class defining types interface foointerface mixin defining builder pattern class foo finally deserialize error strong em build method foo builder build params bad return type foointerface compatible pojo type foo em strong href https github fasterxml jackson databind blob master src main fasterxml jackson databind deser beandeserializerbuilder rel nofollow culprit dont understand returning super type build method wont acceptable ideas 
+
+jackson bug reported issue href https github fasterxml jackson databind issues rel nofollow https github fasterxml jackson databind issues 

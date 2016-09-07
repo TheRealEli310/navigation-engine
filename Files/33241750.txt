@@ -1,0 +1,4 @@
+jax rs consume text plain string 
+method postman rest client testing post request simply type path strong myfile txt strong raw section string passed method hard code path works problem consume 
+
+answer header content type strong text plain strong sending request server postman reference image href http stack imgur 8viwj png rel nofollow img src http stack imgur 8viwj png alt enter image description 

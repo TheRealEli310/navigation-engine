@@ -1,0 +1,4 @@
+extract resultset hibernate application 
+problem authenticate user spring security extracting users db postgres purpose configured manipulate entities tables error receive user class userrole class reference tutorial href http www mkyong spring security spring security hibernate annotation rel nofollow http www mkyong spring security spring security hibernate annotation edit creation tables user role users answers appreciated duplicate question mark duplicate clue error 
+
+thing missing user id column foreign key mapped id field user role table primary foreign key 

@@ -1,0 +1,4 @@
+jpa entitygraph based meta model mappedsuperclass 
+type method constructing entity graph type hierarchy basically eclipselink creates meta model problem refer attribute entity graph api work wouldnt method signature shortcoming specification overlooking problem related href http stackoverflow questions jpa static metamodel mappedsuperclass bit generation gap patter author question points criteria api method singular attributes define type parameter add node ugly warning presume suppressed 
+
+id agree changed code compile problem spec api entitygraphs generic type applied addattributenodes argument allowing superclass fields type em root em entity expect people mappedsuperclass id confirm attribute generic type fixes taking javax persistence jar source modifying rerunning raised href https net jira browse jpa spec rel nofollow issue jpa id recommend holding breath update 

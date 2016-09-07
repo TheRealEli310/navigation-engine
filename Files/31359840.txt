@@ -1,0 +1,4 @@
+check element list prefix 
+implement list strings check element list element prefix element list list element prefix element dont iterate list 
+
+iterate list naive approach force iterate list element list algorithm depending size list frequency perform operation acceptable trade save time expense space element create hashset prefix element check elements prefixes algorithm time list size average element length takes bit space efficient solutions increasingly complex involve finite state machine construction prefix tree 

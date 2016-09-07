@@ -1,0 +1,4 @@
+finding minimum array recursion 
+dont understand recursive function heres code ill explain thoughts works element array return element array length element understand find code correct line check half numbers array code check half array call math min function minimum number array 
+
+lets code begin lets find minimum array href http en wikipedia org wiki divide conquer algorithms rel nofollow divide conquer technique finding minimum finding minimum halves array em em termination case division single element em element em break back magic code shown work walking code split array call turn splits time termination cases 

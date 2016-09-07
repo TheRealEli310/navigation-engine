@@ -1,0 +1,4 @@
+cut tree removing edges 
+question removal edge tree result formation separate trees t1 t2 vertex tree assigned positive integer task remove edge tree diff resultant trees minimized tree diff defined input format line integer number vertices tree line integers separated single space values assigned vertices lines pair integers eah separated single space denote edges tree input vertices numbered output format single line minimum tree diff constraints number written vertex sample input sample output code code working properly smaller inputs input output expected output suggestionss 
+
+add method disconnecting child parent node call method method 

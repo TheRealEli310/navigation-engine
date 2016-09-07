@@ -1,0 +1,4 @@
+make bean programatically spring boot 
+idea create bean programatically made xml configuration dont finish 
+
+assuming suggestions made mailsender templatemessage blockquote configuration public class mailsender bean public javamailsender mailsender javamailsenderimpl impl javamailsenderimpl impl sethost mail mycompany return impl bean public simplemailmessage templatemessage simplemailmessage message simplemailmessage message setfrom customerservice mycompany message setsubject order return message blockquote setters simpleordermanager 

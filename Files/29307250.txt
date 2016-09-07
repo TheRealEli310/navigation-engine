@@ -1,0 +1,4 @@
+android preferencefragment save load preferences 
+created preferencefragment save changed preferences load app restart question preference values class prefsactivity prefsfragment 
+
+read preferences activity read preferences argument key defined xml file perferences case argument returned key types preference work similar boolean set checkbox explicitly save load preferences automatically information href http developer android guide topics data data storage html pref rel nofollow docs initialize default values preferences href http stackoverflow questions android preferences load default values user hasnt 

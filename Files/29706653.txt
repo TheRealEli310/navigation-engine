@@ -1,0 +1,4 @@
+morse code translator simple 
+working simple morse code translator intro programming class simple design based techniques taught program works single character conversion words sentences problem statement end figure print translated text 
+
+achieve good path pointers code ol li created array string alphanumeric english input user split char created array char compare user input array equals method string character compare comparision sign li li good practice initiate variable declare starting line line code thing loop initiate index variable directly loop declaration starting letter variable li li double end compare character input character english letters numbers li li answer suggested concatenate morse simply print li ol modified bit code play outputs creates learn code good luck learning 

@@ -1,0 +1,4 @@
+happen thread throws exception inside synchronised block 
+multiple threads access critical section happen thread occurs exception inside synchronized block wait notify accrue release lock 
+
+synchronization monitor released execution body completed abruptly unlock action automatically performed monitor language specification href https docs oracle javase specs jls se8 html jls html jls rel nofollow synchronization threads continue synchronizing calling wait notify thread exception holding critical program logic resource finally ensure released 

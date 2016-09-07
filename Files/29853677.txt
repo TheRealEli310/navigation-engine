@@ -1,0 +1,4 @@
+create spring security datasource bean class 
+jsf spring security building jsf project based href http mprabhat spring security jsf custom form rel nofollow tutorial put datasource bean class generating url jdbc connection users class put code security config xml class 
+
+create class implements drivermanagerdatasource whith iss constructor beans definiton class tag put class class bean definition 

@@ -1,0 +1,4 @@
+eureka service discovery spring boot 
+written spring boot micro service rest client client part module make restful calls micro service micro service registers eureka registry client spring boot project eureka query service endpoints problem client spring boot applications annotations auto wired application manually auto wire bean client annotations 
+
+basically lot easier anticipated copied href https github netflix eureka tree master eureka examples rel nofollow netflix eureka project add configuration file class path eureka client file read information eureka servers provide eureka client dependency eureka1 supports jdk7 part built jdk8 provide older versions archaius core servo core make run jdk7 eureka2 fully supports jdk7 

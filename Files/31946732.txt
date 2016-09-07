@@ -1,0 +1,4 @@
+liberty runtime jre 
+application running jre7 problems begin jre testing purposes test jre problems idea jre provided buildpack 
+
+due planned jre updates liberty buildpack potential updates affect application encourage tailor application test jre environment variable fact end august strong default jre change v7 v8 strong youre concerned article upcoming liberty runtime href https developer ibm bluemix liberty buildpack updates ee https developer ibm bluemix liberty buildpack updates ee 

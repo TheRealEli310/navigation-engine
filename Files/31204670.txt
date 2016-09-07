@@ -1,0 +1,4 @@
+loading tiledmap stage class libgdx 
+loading tmx map stage class run game screen dont show map print character problem camera dont solve abstract screen screen 
+
+whats size tiles px case abstractscreen resize method adjust camera display map screen basically tiled maps resize programatically setsize setwidth methods trick play camera tile size display correctly 

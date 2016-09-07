@@ -1,0 +1,4 @@
+jackson property naming strategy work jsoncreator 
+jackson serialize deserialize immutable pojos pojos immutable defining forced constructor arguments bytecode parameter names aware em em em em circumvent option lets suppose property naming strategy change property names lower case underscores camel case dont change existing pojos jackson worked treat jackson explicit naming annotated constructor arguments trumped naming strategy renaming annotations pojos leaky abstraction id set mapper globally apply property naming strategy constructor arguments 
+
+version rc2 official bugs area resulting division implicit names getter setter field constructor parameter names explicit overrides fixes backported earlier version fix problem classing overriding close javadocs adding conversions work things working version works expected 

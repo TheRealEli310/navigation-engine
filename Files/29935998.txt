@@ -1,0 +1,4 @@
+de escape string scala 
+found posts escaping string de escaping scala play controller accept json request extract string print transform escaped text normal result point approach creating escaping rules complicated question easily possibly standard library solutions 
+
+href http docs scala lang org overviews core string interpolation html interpolations transform strings formatted escaped sequences interpolations handled href http www scala lang org api current index html scala stringcontext stringcontext offers reverse function 

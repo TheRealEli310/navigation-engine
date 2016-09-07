@@ -1,0 +1,4 @@
+generate jar embedded jetty maven jetty plugin 
+goal href https wiki eclipse org jetty feature jetty maven plugin rel nofollow maven jetty plugin start web application project built maven create fat jar embedded jetty start app maven jetty plugin generate fat jar embedded jetty 
+
+marianp answered question comment add jetty dependencies pom xml add shade plugin add server client main 

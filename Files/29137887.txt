@@ -1,0 +1,4 @@
+run scheduledexecutorservice periodically based condition 
+specific task executed periodically based condition approach task runs fine case task cancelled case execution required em em doesnt execute 
+
+doesnt execute youre cancelling task chance run return immediately method continue executing thing cancel unexecuted task scheduling task cancelling submit scheduled task case task execute 

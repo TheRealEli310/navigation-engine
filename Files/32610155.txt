@@ -1,0 +1,4 @@
+define subclass recycler adapter vh extends recylerview viewholder 
+define custom recyclerview recyclerview adapter recyclerview dont define subclass recyclerview adapter generic type code android studio shows strong unexpected bound strong 
+
+define structure class abc lt em definition em extends def lt em usage em definition quote class declaring quote meaning statement definited subclass subclass superclass statement valid 

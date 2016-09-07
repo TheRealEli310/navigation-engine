@@ -1,0 +1,4 @@
+tomcat7 maven plugin behavior jstl tomcat run goal 
+behavior running run servlet container tomcat plugin reason run plugin command exception suspect classloader maven repository classpath run option versus war explode location main reason run run war hot deploying tagx jstl markup relevant pom xml inclusions 
+
+solution balusc 

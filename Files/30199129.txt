@@ -1,0 +1,4 @@
+dialing soapui api logging 
+href http www soapui org developers corner integrating soapui html rel nofollow soapui api write integration tests soap web service code similar sample code run test spews lot log console dial soapui logs relevant soap ui code dependencies jar files project common logging frameworks log4j jar dependencies programatically set logging level thing 
+
+create log4j configuration files soapui apache httpclient log4j httpclient default log4j xml loaded classpath resource soapui load log4j configuration file called soapui log4j xml classpath resource defaultsoapuicore class message change log4j xml jar youll override placing classpath found log4j xml httpclient logging low log4j soapui xml lastly override default loading behavior defining couple system properties defining config files 

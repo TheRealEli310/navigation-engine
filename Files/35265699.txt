@@ -1,0 +1,4 @@
+add row num employee loop variable 
+add current row number excel row mapped employee variable employee yuri excel row number find access xlsrowcursor add mapped bean reader current processing row number writing exceptions poi simple row counting solution side isnt valid idea skip row error mechanism tips hints strong xml file strong strong excel file employees strong 
+
+extend href http jxls sourceforge net javadoc jxls reader org jxls reader simpleblockreaderimpl html rel nofollow simpleblockreaderimpl override em read xlsrowcursor cursor map beans em method teh em xlsrowcursor em current excel row inject bean automatic inject customblockreader implementation xml manually sheet readers em xlsreader em replacing block readers custom instances 

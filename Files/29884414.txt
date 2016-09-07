@@ -1,0 +1,4 @@
+mpi broadcast 
+grips parallel programming interface mpi wondering explain simply broadcast works worker process call bcast receive bvalue workers section incompatible type error void converted int greatly appreciated mike 
+
+parameters wrong method call method signature href http mpj express org docs javadocs mpi intracomm html bcast lang object 20int 20int 20mpi datatype 20int rel nofollow title parameter describes array case array integers parameter describes offset array broadcast start parameter describes elements offset send final parameter describes rank sender master node error method call return returns call blocking call essentially rewrite code accomplish behavior expecting hope helps 

@@ -1,0 +1,4 @@
+selenium click element form pops top main page 
+point automation project click element part form pops top main page doesnt menus show hovering element disappear successfully accessing page clicking element brings form kinds solutions suggested comments questions offsets waiting element clickable worked heres code current state field strong edit working code segalaj strong 
+
+popup iframe webdriver switch iframe youll access iframe elements br forget back main page youre frame find doc href http selenium googlecode git docs api org openqa selenium webdriver html switchto rel nofollow hope helps 

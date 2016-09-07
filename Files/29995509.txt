@@ -1,0 +1,4 @@
+hibernate unidirectional onetomany composite key 
+wanted frame hibernate onetomany relationship parent composite primary key child primary key hibernate auto generated working sample code class parent wanted model onetomany unidirectional relationship child reference parent omit parent instance child class 
+
+approach pre class lang prettyprint override 

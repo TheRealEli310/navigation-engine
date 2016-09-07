@@ -1,0 +1,4 @@
+put object jsonobject properly 
+fill jsonobject instance basic class fields firstname lastname wrong json tree wrong code 
+
+represent primitive types instance passed generate nested items em trees em 

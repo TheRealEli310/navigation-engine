@@ -1,0 +1,4 @@
+lookup ejb wildfly server client 
+ejb located wildfly server remote client jndi initialize context console output deploy server lot combination time javax naming namenotfoundexception defined app module ul li project server analyseexcelserveur li li ejb databaseserviceimpl li li ejb implements databaseservice located package serveur database li ul declare ejb client side implementation databaseservice interface located package compte remote ejb dont ejb appname modulename bean location appname modulename bean location put file war declare ejb 
+
+problem classpath ejb ejb server side serveur database databaseservice interface ejb client side compte remote ejb databaseservice path relocate ejb client side package serveur database work 

@@ -1,0 +1,4 @@
+detecting browser closed middle http request response cycle 
+strong scenario strong ol li web application connecting servlet embedded jetty li li high latency request report generation takes seconds li li user close browser http request response cycle li ol strong problem strong detect browser closed request response cycle server side problem solved request ui wondering information communication protocol http tcp ip base protocol shouldnt detect connection closed connection initiator side servlet apis api configuring jetty server couldnt find closely related stackoverflow questions ol li href http stackoverflow questions servlet detect browser closing servlet detect browser closing li li href http stackoverflow questions detect browser close server side asp net detect browser close server side asp net li ol insights 
+
+youll exception attempt write servlet output stream writer 

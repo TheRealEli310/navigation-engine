@@ -1,0 +1,4 @@
+crash menu key samsung devices 
+crash reports users samsung devices galaxy edition lt03wifi galaxy edition lt03lte galaxy note3 hlte galaxy note3 neo hl3g running android user presses physical menu key app exception thrown devices open menu fine display correctly behaviour fixed activity oncreateoptionsmenu stylemenu function 
+
+finally fixed replacing theme parent theme xml samsung devices support android default themes correctly 

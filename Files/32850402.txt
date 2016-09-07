@@ -1,0 +1,4 @@
+interrupt thread onbackpressed crashing 
+overriding onbackpressed finish current activity interrupt thread calling intent activity pressed back splash activity finished thread running call intent activity include thread interruption onbackpressed app crashes press back wrong updated solution worked 
+
+give succint answer explain future href http developer android reference android os handler html rel nofollow handler class href http developer android reference android os handler html postdelayed lang runnable 20long rel nofollow handler postdelayed method based documentation href http developer android reference android os handler html removecallbacksandmessages lang object rel nofollow 

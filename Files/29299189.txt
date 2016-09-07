@@ -1,0 +1,4 @@
+log4j deactivate drools logger 
+href http logging apache org log4j rel nofollow log4j unsuccessfully change logging level href http www jbpm org rel nofollow jbpm drools reference drools class logging href https github droolsjbpm drools blob master drools core src main org drools core xml extensiblexmlparser rel nofollow extensiblexmlparser slf4j log4j compatible sl4j doesnt log4j configuration work provide working configuration configure jbpm drools logger indendently 
+
+log4j ignore tweaks file means youre fiddling file configuration file classpath found earlier account search entire classpath pattern include contents jar files application server lib ext folders blockquote extensiblexmlparser slf4j log4j compatible sl4j blockquote compatible equivalent configured slf4j plugs logging framework class search classpath ide library class class slf4j logs 

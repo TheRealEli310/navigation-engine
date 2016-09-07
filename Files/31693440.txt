@@ -1,0 +1,4 @@
+apply runwith spring boot starter test 
+spring boot starter test writing junit test cases love junitparamrunner facilitates passing files parameterized test basically reads data file line line line invoke test case issue pass runwith springjunit4classrunner junitparamsrunner figure provide leads 
+
+springclassrule mentioned wjans solution spring version latest spring boot starter test depends spring version initialize context test constructor 

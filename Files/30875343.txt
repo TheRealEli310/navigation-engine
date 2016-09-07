@@ -1,0 +1,4 @@
+store patient information text file load 
+task write simple hospital management system user enter patient information gender date birth disease br data stored arraylist saved textfile br problem display patients entered system br data back correct display console window br output someting patient gender disease date birth heres code parts br main class patient class br guess mistakes main class case solve br 
+
+reason loads data disk startup statment case checks patientlist size empty load data disk statment runs somthing list solve check patientlist isempty load data disk data print records found 

@@ -1,0 +1,4 @@
+locale fragment 
+created buttons pressed intent launches locale fragment locale desire convert string put extra worked perfectly fine activites set fragment gave error heres code activity sending extra fragment receiving locale error line lots stuff putting reciving code place putting activity managing fragment didnt work show code problem line string changelee getactivity getintent getstringextra key change 
+
+overriding strong onconfigurationchanged strong updated locale update listen localbroadcastmanager locale changed pass data intent update activity send data intent fragment oncreateview method 

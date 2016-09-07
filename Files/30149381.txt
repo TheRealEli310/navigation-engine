@@ -1,0 +1,4 @@
+error executing ant bash ant command found 
+deploy application linux box file called setapppath sh file execute command error message echo printing ant home location path printed properly execting file echo ant home gave empty line figuring issue strong edit strong give ant sh setapppath sh command execute sh file 
+
+run script shell starts process script runs process script process dies control returns shell modifications script environment die effect parent shell youre run script expecting parent shell move run script context shell subprocess commands 

@@ -1,0 +1,4 @@
+fill treetableview correctly 
+record database tree table view filling method method user doesnt treetableview nessessary define cell content code put drops nullpointerexception guess reason problem drops figure strong upd strong add setting cell factory stacktrace upd rootitem img src http stack imgur un58g jpg alt rootitem 
+
+adding data gui element fxml initializing avoid initialization fxml elements change signature set items em preferably return data list returning treeitem create controller set root em 

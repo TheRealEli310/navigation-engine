@@ -1,0 +1,4 @@
+guava cacheloader load work 
+assume threads thread thread empty expiration minutes build retrieve database assume empty invoked thread thread simultaneously method called read docs blockquote strong call getunchecked loading key simply waits thread finish returns loaded strong multiple threads concurrently load values distinct keys blockquote verify understanding 5ms difference thread thread thread automatically lock method loads thread picks loaded synchronization isnt 
+
+load called win thing case thread waits thread computes picks extra synchronization required 

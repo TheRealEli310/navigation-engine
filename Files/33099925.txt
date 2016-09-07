@@ -1,0 +1,4 @@
+invoke stream array type enum 
+invoke array type strong enum strong 
+
+arrays dont method 

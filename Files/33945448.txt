@@ -1,0 +1,4 @@
+spring boot maven module autowried 
+spring boot maven parent project maven module called called controller invoke method project struct href http stack imgur ulhl5 jpg rel nofollow img src http stack imgur ulhl5 jpg alt enter image description parent pom xml pom pom heres strong productcontroller strong strong productservice strong strong productserviceimpl strong test code simple start tomcat idea14 error error log show strong autowired spring boot strong spring boot compile error boot dont whats wrong full error stack 
+
+configure project locally fixes works productcontroller productservice productserviceimpl productrepository productrepositoryimpl product parent pom running applicetion productcontroller check urls check source code href https github ayurchuk stackoverflow tree master stackoverflow pocs stackoverflow spring boot maven rel nofollow github page 

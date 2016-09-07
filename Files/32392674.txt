@@ -1,0 +1,4 @@
+make oauth2 authorization request post custom api scribe 
+fellow developers oauth2 found scribe library suits problem oauth2 server receives request post user credentials passed payload application www form urlencoded sample request href http stack imgur 0ronp png rel nofollow screenshot implement apiclass documentation blockquote href https github fernandezpablo85 scribe wiki custom apis rel nofollow https github fernandezpablo85 scribe wiki custom apis blockquote noticed client credentials attached url means authorization requests made configure apiclass properly make post request advance upd oauth2 server side blockquote github filsh yii2 oauth2 server blockquote 
+
+result deleted scribe project implemented method access token 

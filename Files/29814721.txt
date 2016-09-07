@@ -1,0 +1,4 @@
+access files webcontent folder 
+made folder webcontent save uploaded images user initially access files directly passing location src tag unable fetch researching found set path conf server xml file inside tag made unable access file strong tomcat installed worktomcat strong strong webroot workproject strong strong image folder workimages strong path setting confserver xml access file url unable fetch http status request resource found error blob feild store image storing image inside folder user request particuler image dont specific servlet write image browser direct access user solve problem regard 
+
+solution write servlet read files external folder stream client essentially acts proxy client external file system call simply servlet 

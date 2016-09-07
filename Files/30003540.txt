@@ -1,0 +1,4 @@
+url class getpath getquery getfile inconsistent rfc3986 uri syntax 
+writing utility class semi wraps javas written bunch test cases verify methods wrapped customized implementation dont understand output javas getters strings rfc specification path component defined query component defined couple test cases treated valid urls getters path file query dont return values expected results output test case results output documentation test cases result empty string invoked case expected return case expected output test cases interpretation rfc correct output line documentation url class explain 
+
+executable code based fragments works fine result expected difference strong print strong strong println strong printed result path file line 

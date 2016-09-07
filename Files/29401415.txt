@@ -1,0 +1,4 @@
+setter methods multiple parameters single 
+working based game friend noticed hes taking approach concerns terms maintainability class representing playable creating method sets objects property hes creating separate methods set property specific options follow forward ul li option li li option li ul 
+
+enum set speed quickly update values predefined amount flexible easy maintain save enum float 

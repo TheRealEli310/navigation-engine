@@ -1,0 +1,4 @@
+activemq taking messages queue 
+recently upgraded server activemq latest noticed sporadically messages build queue architecture producer consumer consumer connected messages piling producer solution delete queue web console immediately consumer reconnect messages begin processed relevant case producer running nms net consumer running jms 
+
+consumer connected queue check number uncommitted messages queue web console change long time means consumer problem reading input message case true producer sending files jms complaint 

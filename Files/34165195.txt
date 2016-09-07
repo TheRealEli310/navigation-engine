@@ -1,0 +1,4 @@
+error connect controller class javafx 
+compile controller main class javafx project compile errors run main class javafx gui built scene builder pop supposed controller connected javafx connect controller file javafx scene builder run project gui popup give list errors find solution completely blank controller class work solutions 
+
+bit evil fxml file loaded injects fields annotated controller elements attributes attribute fxml file matching field controller undocumented small number additional values injected reference resource bundle provided similarly reference url provided guessed happen automatically stack trace defined fxml file controller called fxml loader sees possibly parse fxml file inject url provided loader field fails assign fix change combo box similarly attribute fxml file 

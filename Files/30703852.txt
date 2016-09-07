@@ -1,0 +1,4 @@
+set localdatetime autogenerate hibernate 
+base entity annotate make database default current date time allowed hibernate 
+
+prepersist annotation blockquote executed entity manager persist operation executed cascaded call synchronous persist operation blockquote deem fit preupdate annotation read href https docs jboss org hibernate entitymanager reference en html listeners html rel nofollow events occur inside hibernates persistence mechanism 

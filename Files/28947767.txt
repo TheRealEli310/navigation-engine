@@ -1,0 +1,4 @@
+javah failing create header file jni class 
+baffling classpath things commands prompts windows linux ides error insight error run javah command stuck figure refuses generate header file matter consistently find class file confused simpler examples real code refuses work code 
+
+jna longer generate headers compile native code direct mapping methods declared automatically bound methods target shared library jna method signatures tagging interfaces figure translate call native call type conversions strong edit strong make call static initializer add question youve achieved working model test execution writing simple function calls methods 

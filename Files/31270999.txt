@@ -1,0 +1,4 @@
+idea play junit test full sbt build 
+run junit tests play application intellij idea leverage full junit integration tests executed fine create junit run configuration test run full sbt build executed delaying tests seconds img src http stack imgur kzvks png alt junit run configuration remove form pre launch steps junit run configuration tests executed directly full sbt build code test application code picked idea play running auto compile file idea doesnt pick tests h1 edit h1 exchanged opens sbt console loading project stops prompt executing action test compile starting test change run configuration project settings fast seamless junit integration play projects idea 
+
+finally found answer digging href https github orfjackal idea sbt plugin issues rel nofollow issue tickets idea sbt plugin exchanging pre launch step sbt plugin expects default sbt shellpromt play projects define custom promt add line sbt action work 

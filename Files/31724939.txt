@@ -1,0 +1,4 @@
+spring scheduling scheduled annotation method inside class annotated controller runs 
+code snippet deploy controller j2ee web server method triggered hour found reference href http docs spring io spring docs current spring framework reference html scheduling html rel nofollow spring docs scheduling blockquote make initializing multiple instances scheduled annotation class runtime schedule callbacks instance related make configurable bean classes annotated scheduled registered regular spring beans container double initialization container configurable aspect consequence scheduled method invoked blockquote related schedule method edit configurable contributing problem reason causing behaviour edit web xml mvc dispatcher servlet xml module module servlet xml 
+
+forcing root application context root application context loaded root context dispatcherservlet renaming root context xml adding empty solves problem 6ton pointing 

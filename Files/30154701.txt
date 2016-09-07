@@ -1,0 +1,4 @@
+cucumber windows command line works batch pom 
+running examples href http rads stackoverflow amzn click rel nofollow cucumber book windows command line execute fine windows batch file attempting maven sources compile tests run needed pom point classes features batch full output 
+
+cucumber jvm maven project respect maven conventions cucumber jvm pick files ul li feature files stored li li step definitions stored li li unit test annotated annotation stored li ul tests executed running check href https github tychobrailleur cucumber jvm examples tree master checkout rel nofollow put github 

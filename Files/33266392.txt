@@ -1,0 +1,4 @@
+noclassdeffounderror jersey 
+application returning error due noclassdeffounderror error weblogic includes jersey pom file complete stacktrace 
+
+libraries provided weblogic dependencies marked youll pulling external dependencies deploying app words youre compiling packaging app external dependencies libraries provided weblogic runtime 

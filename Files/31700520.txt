@@ -1,0 +1,4 @@
+read files folder spring batch multiresourceitemreader 
+configure read files inside specific folder sequentially work delegate open file named invalid change equivalent xml configuration written rewrite config 
+
+href http docs spring io spring docs release javadoc api org springframework core io support pathmatchingresourcepatternresolver html rel nofollow 

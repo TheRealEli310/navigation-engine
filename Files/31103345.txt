@@ -1,0 +1,4 @@
+setter params final 
+programming recently started learning conventional set setter params const dont disadvantages creating setter enforce object param stay constant set function edit final param enforce happen user set carlos 
+
+parameter variable assigned compiler capable determine variable parameter em em final anonymous classes optimization factor afaik larger tool set reduce important ol li string passed pointer access automatically dereferenced li li actual argument variable variable changed li li mind conversion operator passing li ol ol li allocate objects stack primitive types object handles stack li li output parameters variable passed method call change li ol back question setter benefit final parameter final contract variable assignment method overriden safely constructor calling overriden method constructor context initialized child instance 

@@ -1,0 +1,4 @@
+recursive method count number odd integers array 
+write recursive method count number odd integers array heres code 
+
+recursive line incorrect youve lost endindex odd youre calling assuming strong explainer strong order understand implement break problem recursively count odd numbers array code basically notice operand return subset size operand basically length smaller recursion continues size subsets calculate return result summing individual counts odd digits strong extra notes strong notice recursion differently result 

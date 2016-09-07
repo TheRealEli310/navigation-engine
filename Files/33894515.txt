@@ -1,0 +1,4 @@
+mapping working run spring boot application standalone 
+spring boot project start application ide run jar file open page browser text spring boot configuration class solve problem edit project tree edit spring security config 
+
+typically spring boot application place static files templates belong official href http docs spring io spring boot docs current snapshot reference htmlsingle boot features spring mvc static content rel nofollow documentation blockquote src main webapp directory application packaged jar directory common standard work war packaging silently build tools generate jar blockquote 

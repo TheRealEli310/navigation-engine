@@ -1,0 +1,4 @@
+guice provider multiple implementations 
+interface annotated implementations inject correct compile time dynamically inject based runtime parameters understood documentation injections excessive bind specific implementation injected class 
+
+h2 inject href https google github io guice api docs latest javadoc index html google inject multibindings mapbinder html rel nofollow mapbinder h2 module load bindings make runtime parameters injectable based documentation object inject parameter assume youve bound href http docs oracle javase docs api util properties html rel nofollow runtime parameters inject simple guice binds 

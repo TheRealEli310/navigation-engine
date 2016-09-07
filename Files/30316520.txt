@@ -1,0 +1,4 @@
+versions jvm recommended storm 
+jvms greater work storm gotchas aware vaguely remember reading life find information 
+
+jvm side remember run nimbus supervisor version target version topology target nimbus supervisors running versions choose target run jvm starting project check href https www en download faq xml rel nofollow notice oracle providing updates hope helps jose luis 

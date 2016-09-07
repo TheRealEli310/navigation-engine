@@ -1,0 +1,4 @@
+elasticsearch error mapperparsingexception failed parse 
+add entry elasticsearch apache httpclient sending request elasticsearch responds error blockquote org elasticsearch index mapper mapperparsingexception failed parse caused org elasticsearch elasticsearchparseexception failed derive xcontent offset length blockquote request invalid idea full trace elasticsearch apache log 
+
+found mistake entity handled json stringentity worked 

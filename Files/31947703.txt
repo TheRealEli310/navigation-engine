@@ -1,0 +1,4 @@
+netbeans local deploy fails glassfish remote deploy works 
+application deploys remote server clean build works error deploy locally thinking problem code revert older version code wich problem exact error occurs reinstalling netbeans glassfish changed ps project started developper working problems mounth thinking problem configuration error netbeans glassfish error previously working version code 
+
+error lack heapspace local server real problem visible stacktrace managed bean main instanciated deployment removing parameter allowed underlying error 

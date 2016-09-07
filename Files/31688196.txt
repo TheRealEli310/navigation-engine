@@ -1,0 +1,4 @@
+deselect item listview 
+scenario listview selected item remain selected user click dialogfragment button problem user click back button click dialogview item listview remains selected read href http stackoverflow questions deselect selected item listview post solutions work click item dialog appears click back button selector scroll list selector back wrong code dialogfragment deselect listview element 
+
+due recycling views viewholder pattern single select item moment track position item selected adapter check position current position view populated viewholder data lines 

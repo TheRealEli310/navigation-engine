@@ -1,0 +1,4 @@
+error android pre dex android sdk 
+downloaded gdx setup jar website run jar gdx setup jar select options generate project idea libgdx click generate button tool doesnt throw error run idea file open select ipr file generated run desktop launcher idea throw error error android pre dex android android sdk build tools api android throw warnings pressed generate button gdx setup jar build tools api configuration gdx setup jar doesnt throw warnings check local properties general project sdk dir home xxxx escritorio android sdk linux libgdx check file project structure sdks android sdk home xxxx escritorio android sdk linux libgdx advice 
+
+project structure select platform settings sdks left panel add android sdk selecting project settings module choose android module choose android sdk added 

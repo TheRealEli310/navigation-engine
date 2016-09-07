@@ -1,0 +1,4 @@
+client server app readline 
+write program user send message server receive modified version message reason flow program stops line pointed explain isnt working server side client side 
+
+server href http docs oracle javase docs api io bufferedreader html readline rel nofollow bufferedreader method requires end line delimiter client sending reads line end line delimiter stripped attempts echo message append line character data client method server block waiting line 

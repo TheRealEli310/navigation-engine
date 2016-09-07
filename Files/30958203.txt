@@ -1,0 +1,4 @@
+write custom crudrepository method query filter result case 
+spring jpa repository stuff auction class bunch fields field category custom method crudrepository filter results category category auction repository added method throwing error omit method works fine told type custom methods declared crudrepository spring care thing methodname query hint gave point direction 
+
+add annotation method variable refer query code written absolutely fine case access custom repository omitted compiling hope helps tip post question post exception details helps understanding issue 

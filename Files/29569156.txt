@@ -1,0 +1,4 @@
+bluemix perform autowiring deployment 
+downloaded bluemix sqldb boilerplate playing extending additional tables confused autowiring links database services bluemix application deployment runtime inside boilerplate configuration persistence xml bluemix liberty map deployed services jta data source persistence unit conditions requirements satisfied autowiring place 
+
+pretty cool deployment app buildpack perfom extra logic logic liberty buildpack auto wires couple services monitoring analytics logging node buildpack captured autowiring buildpacks bound services app bound services cloudant monitoring analytics add correct resources cloudant jdbc create jdbc connection additionally liberty buildpack automatic configuration service types sql database cleardb mysql database mysql elephantsql postgresql cloudant nosql database mongolab dashdb data cache session cache mq light monitoring analytics auto scaling single sign relic 

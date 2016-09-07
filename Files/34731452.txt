@@ -1,0 +1,4 @@
+algorithm determine proper html tag closing 
+writing implementation html parser lexer proceeded coding parser creating dom tree determine html properly constructed strong em img em strong tag strong em void em strong tag based href https www w3 org tr html markup syntax html void element rel nofollow w3 org html syntax end tag hand tags strong em body em strong strong head strong end tag question proper handle dont tool external site determing determine 
+
+youre dealing html set tags pretty limited easily track tag strong void strong tag rest tags suggest algorithm ol li tag opening tag em lt body gt em simply push stack closing tag step tags left parse html valid li li pop tags stack encounter em opening tag em stack reaching opening pair current tag html structure corrupt empty stack isnt pair current em closing tag em html corrupt encounter em opening pair em current tag avoiding cases step li ol rough pseudo code hope idea write implementation 

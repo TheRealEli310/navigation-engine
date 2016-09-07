@@ -1,0 +1,4 @@
+dynamic entity jparepository 
+spring provide generic interface generic derived sql queries expressions works fine desired entity underscore define strategy el expressions translate entity 
+
+annotation 

@@ -1,0 +1,4 @@
+jsonschema2pojo referencing objects type 
+generate classes json schema file jsonschema2pojo encountered problem keyword schema href http spacetelescope github io understanding json schema structuring html extending rel nofollow http spacetelescope github io understanding json schema structuring html extending expected generated class named call attribute attribute generated separate classes attributes referencing attributes type achieve jsonschema2pojo 
+
+hr h2 update h2 understanding javatype href https github joelittlejohn jsonschema2pojo issues rel nofollow expected result adding javatype address definition hr h2 answer files h2 em javatype em address json em ref em billing address shipping address suggest separate address definition separate json billing address shipping address hr h2 address json h2 hr h2 mainclass json h2 

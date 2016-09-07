@@ -1,0 +1,4 @@
+system println array 
+wondering means print array output receive 7fbe847c br assume means float correct wrong notice string array things change output ljava lang string 7fbe847c br assume ljava lang string means string array correct wrong br 7fbe847c stays strong question isnt print array strong arrays tostring question strong strong 
+
+object tostring method default method display objects class representation hashcode general contract hashcode invoked object execution application hashcode method consistently return integer provided information equals comparisons object modified youre default tostring representation float string array 

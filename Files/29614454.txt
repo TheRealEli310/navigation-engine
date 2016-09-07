@@ -1,0 +1,4 @@
+show result program console output eclipse log4j logger 
+write program jena library ontology br jena log4j add jena libraries project eclipse console show result works good problem log4j set console output dont br code br library list br img src http stack imgur a0xdf jpg alt enter image description img src http stack imgur xznfu jpg alt enter image description br share information br regard 
+
+create log4j properties file add classpath add log4j properties make apache log4j library declare initialise capture errors debug info messages hope helps 

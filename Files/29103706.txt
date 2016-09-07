@@ -1,0 +1,4 @@
+configuring spring transactions spring integration dsl 
+configuring spring integration spring integration dsl follow dont configure flow transaction manager configured 
+
+spring integration dsl supports transaction features xml href http docs spring io spring integration docs latest ga reference html transactions html rel nofollow components provide info start transaction mind tx support restricted thread boundaries start tx jms amqp message driven channel adapter advice endpoint flow case tx restricted strong update strong start tx part flow isnt standard task achieved transactional black box purpose component interface mark add alongside mark method interface gateway send message separate flow jdbc jackson conversion wait result continue main flow tx finished return gateways method invocation call gateway regular 

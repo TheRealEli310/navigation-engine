@@ -1,0 +1,4 @@
+arraystoreexception thrown code 
+explain google search array declaration allowed br br br br difference declaration amp allowed href http stackoverflow questions creating array store generic types creating array store generic types talks create generic array question create generic array arraystoreexception thrown runtime amp difference generic array creation syntax 
+
+generic parameterizations class distinguishes generics implemented href https docs oracle javase tutorial generics erasure html rel nofollow type erasure means compilation replaced casting thrown type program execution generic array disallowed perform checks type parameters execution type parameters dont exist anymore called unchecked conversion array stores weve basically em pretend time em array object points hr program illustrate href http ideone dfczjy rel nofollow http ideone dfczjy output 

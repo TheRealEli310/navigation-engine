@@ -1,0 +1,4 @@
+pause main thread separate thread 
+working application pause main thread mid processing idea threads main thread listening input stop commands thread main stop main continues loop stop command lock main thread releases main 
+
+dont structure youre dont thread stop arbitrary point problems resume give thread clear stopping points create worker thread programs main thread manage commands delegate instructions worker method em incremental em amount work reading line large file worker task modify subclass worker processing work main class turn worker needed skeleton refactor behavior multiple methods add controls reading status worker thread reading href http stackoverflow wait notify 

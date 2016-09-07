@@ -1,0 +1,4 @@
+load image resource viewadapter 
+reciclerview adapter called simpleitemrecyclerviewadapter item reciclerview projects drawable folder set test textviews images output images appearing black square imageview widget img src http stack imgur ijzvx png alt enter image description code adapter detailed display images contained drawable folder greatly appreciated 
+
+access imageview place onbindviewholder 

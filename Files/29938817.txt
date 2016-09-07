@@ -1,0 +1,4 @@
+write encoded text file 
+write encoded text file jsp filewriter encoding testfile base64 storing file 
+
+data plain text filewriter href http docs oracle javase docs api io fileoutputstream html rel nofollow fileoutputstream encode text base64 write file dont lose existing data write append mode setting boolean true 

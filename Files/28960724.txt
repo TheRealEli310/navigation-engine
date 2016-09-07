@@ -1,0 +1,4 @@
+play access conf property routes file 
+older version play written code routes somevar defined application conf accessed somevar routes accessing properties routes application conf 
+
+absolutely benefit accessing vars file whats difference changing route file file cases change restart server effect whats trade case strong controller strong strong route strong strong application conf strong version access endpoint youll redirected version application conf 

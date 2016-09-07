@@ -1,0 +1,4 @@
+split method string api 
+wrote code testing method string api noticed code output br br br expected br change contents br br br br output dont understand output splitting delimiter thought extra space output edit br br br br br output 
+
+delimiter character return empty string element output array returns array similarly consecutive delimiters produce empty string produce array leading trailing whitespace change 

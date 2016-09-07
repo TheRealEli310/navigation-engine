@@ -1,0 +1,4 @@
+spark hive datanucleus 
+spark amp spring project sparkhivecontext initial error added maven dependencies version error strange thing find class datanucleus core jar generated war web inf lib jar war idea happen details ul li maven project li li spark em provided em scope li li include spark home lib spark assembly hadoop2 jar servlet container li li maven jetty plugin run servlet container li li worked spark hive li li dont hive installed told wasnt li li spark hive manage sql interface hdfs files spark sql good li ul 
+
+stupid version datanucleus dependencies datanucleus core provided spark made href https github julien diener sparkhivewebapp rel nofollow simple prototype spring webapp spark hive interested 

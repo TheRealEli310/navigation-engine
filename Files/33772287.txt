@@ -1,0 +1,4 @@
+lang illegalstateexception configure flatfileitemwriter stream scpoe step spring batch 
+spring batch configure stream log records exception flat file configure place holders configurations put exception remove exception configuration job configuration skip listener property writer configuration writer exception 
+
+set scope step component spring create proxy component spring proxy sees interfaces original class class inject proxy component defined property matching interface type refuse inject property concrete class defined type exception scoped proxy flatfileitemreader implements interfaces property named writer bean defined flatfileitemreader proxy injected dont code provided bean inject rejectfileitemwriter property named writer type flatfileitemreader changing type interface resourceawareitemwriteritemstream trick code assume writer processor log rejected files 

@@ -1,0 +1,4 @@
+mybatis bind foreach parameter 
+found issue mybatis href https github mybatis mybatis issues rel nofollow sql parameter substitution functionality differs substantially string substitution functionality exist workaround code static methods em em expression create statement em em takes 
+
+created extension item parameter class wraps methods replaced original objects executing query rewrote query nice works 

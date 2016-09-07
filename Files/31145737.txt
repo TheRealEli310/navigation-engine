@@ -1,0 +1,4 @@
+saveastextfile write final rdd single text file apache spark 
+working batch application apache spark wanted write final rdd text file method rdd text file fields delimited delimiter model class tostring method added fields seperated delimiter correct handle approach iterate rdd write file content class advise shankar 
+
+write single file options writing hdfs similar distributed store rdd single partition data fit single worker data driver filewriter 

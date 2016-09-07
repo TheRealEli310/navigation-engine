@@ -1,0 +1,4 @@
+mockito spy invocation argument doanswer 
+day writing unit tests mockito started complex exercise class structure writing tests class2 targetmethod class1 static method modifies passed object returning results setup tests tests fail exception due doreturn line suggestions problem approach completely wrong 
+
+syntax calling give mockito chance em temporarily deactivate em stub calling real thing doesnt important mockito insists pattern calls 

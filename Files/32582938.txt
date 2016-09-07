@@ -1,0 +1,4 @@
+http status request processing failed nested exception lang nullpointerexception refactoring service class 
+early services personservice actionservice service built nullpointerexception run application controller class service class application context stacktrace 
+
+code feel sad exposing internal state modified world method totally screw managed objects collections confuse hibernate add method user initialize collection empty collection sample assumes notice annotation user save remove individual entities basically properly mapped managed method delete simpler modify methods code sign imho improper collection management entity mappings 

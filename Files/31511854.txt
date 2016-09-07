@@ -1,0 +1,4 @@
+jboss wildfly jndi exception 
+jboss wildfly jboss working fine database changed standalone xml file connect server database wildfly jboss run standalone bat file giving error mysql connector bin jar modules mysql main module xml file datasource standalone xml advance 
+
+dont version wildfly isnt finding module wildfly put directory modules system layers base mysql main module xml 

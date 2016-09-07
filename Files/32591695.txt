@@ -1,0 +1,4 @@
+javafx drawing object changing property position canvas 
+create project javafx robots represented points move canvas based communication protocoll figured mvc approach relevant data robots object type observablelist controller update canvas running controller javas test method error unable resolve commented relevant line controller removing resolves error message realize approach practice grateful hints resolve issue make observable controller draw robots position canvas changed main model robot memory controller overview fxml error 
+
+observing coordinates robots changing ui response change coordinates fx application thread order abide javafx single threading rules conceivably listeners schedule change ui fx application thread worry synchronization coordinates accessed threads method public void run fixes problem find 

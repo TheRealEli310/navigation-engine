@@ -1,0 +1,4 @@
+create view lookat matrix opengl manually 
+write simple physics based game struggling create lookat matrix avoid adding math library dependencies project share create matrix modify work custom class heres method setup orthographic projection matrix heres custom class 
+
+matrix 

@@ -1,0 +1,4 @@
+declare beans inside applicationcontext xml 
+answers correct rewarded implementation nextshipmentdaoimpl logincontroller creating required bean applicationcontext xml works fine create bean shows error heres nextshipmentdaoimpl 
+
+nextshipmentdaoimpl lines code declared jdbctemplate inside implementation function relevant bean declared logincontroller remains shifted spring spring security jars problem solved manner 

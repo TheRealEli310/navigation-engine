@@ -1,0 +1,4 @@
+unwanted redirect http localhost login security check logging 
+log redirected href http localhost login security check rel nofollow http localhost login security check desired page web xml log log scratch works charm login page logout page logout bean 
+
+logoutbean redirect page login form standard web security displays designated login form client requests resource protected user authenticated container returns originally requested resource happening deliberately display login form protected container redirects login form user authenticates returns originally requested login form link login page directly presented protected resource requested 

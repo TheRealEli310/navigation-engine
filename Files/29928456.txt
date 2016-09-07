@@ -1,0 +1,4 @@
+deploy libgdx desktop application android studio intellij idea based ide 
+read href https github libgdx libgdx wiki deploying application deploy windowslinuxmac os rel nofollow article deploying libgdx application linux windows macs describes export eclipse android studio deploys android apk files nicely intend figured deploy desktop version project deploy libgdx desktop application android studio intellij idea pretty 
+
+gradle build jar href http gradle org docs current userguide tutorial projects html rel nofollow heres android studio start gradle tasks gui side recommend learn ide 

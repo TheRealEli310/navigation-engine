@@ -1,0 +1,4 @@
+adding appcompat v7 gradle creates multipledex error compiling 
+added appcombatactivity v7 generated errors sorted running application multiple dex error blockquote android dex dexexception multiple dex files define landroid support annotation animres blockquote till didnt work ol li removing annotations jar sdk li li removing v4 android support v4 jar li ol code compiles remove compile statement gradle gradle ps compiled entire error report ran gradlew log 
+
+command check dependencies project command tells dependencies tree case dependencies repeated repeated dependencies folder 

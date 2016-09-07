@@ -1,0 +1,4 @@
+change gridline width jtable 
+title simple change width gridlines jtable found simple change color showed gridlines jtable find methods change gridline width 
+
+ways override preparerenderer method jtable class borderfactory create custom border 

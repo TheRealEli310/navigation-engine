@@ -1,0 +1,4 @@
+convert list map indexes stream 
+created method whih numerating character alphabet learning streams functional programming dont case rewrite streams 
+
+avoid stateful index counters based solutions presented answers fail stream parallel stream indexes assumes incoming list supposed duplicate characters alphabet possibility duplicate elements multiple elements map key href https docs oracle javase docs api util stream collectors html rel nofollow merge function parameter method 

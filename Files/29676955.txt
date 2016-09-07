@@ -1,0 +1,4 @@
+convert enum 
+enum class string represent val convert enum strong update strong illegal access static member ctor error 
+
+ideally youd build add method id term avoid confusion static initializer block static variables enum initialized em em enum values means enum constructor runs null 

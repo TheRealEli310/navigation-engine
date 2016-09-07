@@ -1,0 +1,4 @@
+spring websocket fallback load balancer 
+spring websocket stomp sockjs fallback option based solution guide href https spring io guides gs messaging stomp websocket rel nofollow https spring io guides gs messaging stomp websocket environment running multiple tomcats sticky session problem run fallback websocket due xhr requests ending separate tomcats original session exist causing retry websocket connection continue loop preferred solving issue hoping spring session answer case 
+
+answer br rest services br sticky sessions br session replication 

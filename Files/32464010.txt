@@ -1,0 +1,4 @@
+spark maven clean install compile scala classes 
+spark project scala files compile type classes maven build ran mvn clean install creates class file scala pom xml missing ps build scala classes eclipse ide inconvenient bad automatic build solution maven command line 
+
+easy add build plugin compile scala classes time heres slightly detailed description href https itellity wordpress mixing scala maven project rel nofollow https itellity wordpress mixing scala maven project 

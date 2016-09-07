@@ -1,0 +1,4 @@
+tomcat8 illegalargumentexception main resource set var lib tomcat8 app1 root valid 
+problem deploying application tomcat instance app1 app2 app2 intended app1 isnt pre class lang xml prettyprint override pre class lang prettyprint override rest log app2 booting set context pre class lang xml prettyprint override checked permissions ownership knowing identical app2 works fine copied root war checked checksum make didnt corrupted checked config xmls xmllint parsing errors configuration error side fact app2 working previously set apps tomcat8 instance worked 
+
+chmod directory root war tomcat read write didnt 

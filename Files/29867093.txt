@@ -1,0 +1,4 @@
+structure app mvp rxjava retrofit data observables 
+ill question point involve code snippets traverse entire codepath context fairly completely taught android dev notify clear misunderstandings poor organization main focus question bug experiencing network request variable supposed set result network request null code moved forward network request completed activity method supposed populate variable result structuring method real magic class thinking calling set response api request time responds ideas structure 
+
+started learn similar callbacks presenter activity implements view mvp check retrofit returning null list made small app learning fetches user data github shows list working ormlite picasso db stuff dagger dependency ignore heres href https github jayrambhia daggertest rel nofollow link heres presenter behaves works module sort interface retrofit naming confusion activity 

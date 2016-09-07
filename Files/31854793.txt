@@ -1,0 +1,4 @@
+finding column number string found apache poi 
+suppose find string xxx excel sheet aware column number row number cell string traverse row cell iterator encounter string column number deeply appreciated 
+
+cell nicely href https poi apache org apidocs org apache poi ss usermodel cell html getcolumnindex rel nofollow column number href https poi apache org apidocs org apache poi ss usermodel cell html getrowindex rel nofollow row number string compare cell string bit optional butll excel style reference cell matched 

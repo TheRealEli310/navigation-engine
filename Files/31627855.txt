@@ -1,0 +1,4 @@
+javafx setonclosedrequest dialog fired 
+problem javafx app devided parts main stage stage dialog close main stage setonclosedrequest fired expected setoncloserequest dialog stage fired wrong code main app controller fxmlloader 
+
+calling display dialog method implies waits dialog dismissed returning dialog dismissed register handler late process event 

@@ -1,0 +1,4 @@
+add setonaction method custom scene builder control 
+href https rterp wordpress adding custom javafx components scene builder rel nofollow blog href https rterp wordpress adding custom javafx component scene builder part rel nofollow part create custom control import scene builder href http stack imgur j5lqx jpg rel nofollow img src http stack imgur j5lqx jpg alt custom control holds arraylist fxml file class file works fine click previous button happen original project adding method object method exist add custom control strong make custom control invoke actionevent time buttons clicked create setonaction method object work strong 
+
+found make work code added class file basically copied buttonbase action event fired invoking method method back node class inherited class extends anchorpane inherited method node case replaced onaction methods buttons buttons pressed actionevent fired passed buttons event purpose catch project adding usual 

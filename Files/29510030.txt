@@ -1,0 +1,4 @@
+connect client multiple server sockets 
+connect client server components problem tied specific socket port id connect client multiple server sockets achieve 
+
+tcp connection bound parameters ul li source address li li source port li li remote address li li remote port li ul intended offer possibilty create connections socket tcp definition href http en wikipedia org wiki transmission control protocol rel nofollow wiki article tcp solution create multiple sockets holding connection server 

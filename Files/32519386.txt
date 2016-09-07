@@ -1,0 +1,4 @@
+spring throw exception additional request parameters passed 
+controller mapping pass request params spring throwing exception ignoring additional request params hit app working fine pass additional params working fine case spring restrict url additional params passed achieve 
+
+check manually 

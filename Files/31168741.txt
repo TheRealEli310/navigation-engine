@@ -1,0 +1,4 @@
+spring mvc base root url war 
+created basic rest service spring mvc xml config app strong myservice strong create war receive war named strong myervice strong conclusion access application strong href http localhost myservice resource rel nofollow http localhost myservice resource strong id myservice project lot tomcat gradle strong web xml strong 
+
+rename war maven build tool solution share configuration details pom xml web xml 

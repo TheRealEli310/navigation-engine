@@ -1,0 +1,4 @@
+arguments passed specific slave jenkins 
+jenkins slave launched execution command master node set max heap size enable verbose gc logging file errors launch slave depending command unknown mac xmx6g launch slave desired parameters launch method 
+
+change 

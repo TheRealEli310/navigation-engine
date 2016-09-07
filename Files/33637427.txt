@@ -1,0 +1,4 @@
+spring requestbody enum 
+strong enum strong class called review class property type strong enum reos strong finally controller receives object review strong requestbody strong invoke controller problem invoke error undertand problem wanted spring object reos enum reos fromtext reos valueof 
+
+found href http chrisjordan ca post 50865405944 custom json serialization enums jackson rel nofollow http chrisjordan ca post 50865405944 custom json serialization enums jackson steps ol li override tostring method reos enum override public string tostring return text li li annotate jsoncreator fromtext method reos enum jsoncreator public static reos fromtext string text li ol hope facing problem 

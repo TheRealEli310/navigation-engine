@@ -1,0 +1,4 @@
+tomcat7 memory error occurred executing shutdown sh 
+tomcat server running days shut executing error kill tomcat order shut weird thing tomcat worked error generated process web request vm options server 2gb memory figure whats happening 
+
+setting memory configuration environment variable tomcats processes send shutdown message configuring tomcat memory setting setting applied tomcat process control processes execute fine default memory settings 

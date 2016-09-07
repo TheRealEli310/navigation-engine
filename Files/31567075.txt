@@ -1,0 +1,4 @@
+setting object http request 
+writing client side program pageable spring data resource repository api format created pageable request format set pageable googled bit found links spring rest controller apache http client springs hateoas option adding jar client project question set payload request additionally approaches loop pages till data exhausted 
+
+solution turned simple mistake making setting parameters default names springs rest api create pageable object pass correct params explained handlermethodargumentresolvers pageable sort section href http docs spring io spring data data commons docs release reference html repositories html rel nofollow reference doc spring data repositories pageable automatically created request params names page size 

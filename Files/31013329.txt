@@ -1,0 +1,4 @@
+javafx resizing textfield window 
+javafx create textfield inside hbox borderpane layout resize width length user resizes window 
+
+set textfield enable shrink grow width strong mcve strong strong output strong img src http stack imgur qwzin png alt enter image description 

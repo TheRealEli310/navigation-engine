@@ -1,0 +1,4 @@
+send list entities jersey service endpoint 
+sending list entities jersey server client side list entities giving unmarshal excepiton adding end elementname emps emp 
+
+work tested works fine 

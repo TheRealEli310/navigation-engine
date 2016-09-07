@@ -1,0 +1,4 @@
+jersey path working jetty servlet 
+failing combination jetty servlet jersey working steps strong pom xml strong strong web xml strong strong sources strong deploy war created executing copying directory accessing url returns hardcoded json change resource urls work combinations working 
+
+adding strong web xml strong enable package scanning jersey scan package fully working defined tomcat ported successfully jetty href https github dominikangerer gsonjerseyprovider blob master webcontent web inf web xml rel nofollow https github dominikangerer gsonjerseyprovider blob master webcontent web inf web xml bootstrapping jersey api part jetty nice tutorial lot href https github amacoder demo restws spring jersey jpa2 hibernate rel nofollow https github amacoder demo restws spring jersey jpa2 hibernate 

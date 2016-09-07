@@ -1,0 +1,4 @@
+kalman filter operate method api 
+good tutorial kalman vehicle speed href http commons apache org proper commons math userguide filter html rel nofollow http commons apache org proper commons math userguide filter html unable resolve identify operate operate api give reference noise operate add pnoise operate stand matrix vector multiplication 
+
+explains previous lines comment matrix vector matrix vector multiplication href http commons apache org proper commons math apidocs org apache commons math3 linear realmatrix html operate double rel nofollow find javadoc 

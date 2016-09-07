@@ -1,0 +1,4 @@
+difference noverify xverify 
+difference jvm arguments noverify xverify 
+
+represents standard argument standard arguments work vms em standard em simply shortcut dont youll real answer asked developers documented guess stay consistent lower verbosity 

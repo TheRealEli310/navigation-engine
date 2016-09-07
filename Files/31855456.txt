@@ -1,0 +1,4 @@
+jasypt password based aes encryption pbkdf2withhmacsha1 key 
+implementing encryption mechanism work security guys demands ol li create bit key pbkdf2withhmacsha512 secret password 256bit salt iterations minimum li li salt generated securerandom getinstance sha1prng li li encrypt aes256 derived key li ol jasypts em standardpbestringencryptor em class exception blockquote security nosuchalgorithmexception aes cbc pkcs5padding secretkeyfactory blockquote jasypt incorrectly missing 
+
+ended contacting daniel fern ndez jasypts lead programmer answer blockquote afraid jasypt offer algorithms secretkeyfactory instantiation cipher blockquote bit code jasypt 

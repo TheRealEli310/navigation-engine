@@ -1,0 +1,4 @@
+openjpa query fails time possibly byte array parameter 
+openjpa query db2 database column uuid defined varchar bit data entity represented byte type field problem call method query time websphere server works fine consequential calls result error enabled trace log error nested exception code falls exception additional info drop bit data column description error learned source href https apache googlesource openjpa openjpa jdbc src main org apache openjpa jdbc sql db2dictionary rel nofollow openjpa doesnt 
+
+disable prepared query cache buggy search openjpa jira find details 

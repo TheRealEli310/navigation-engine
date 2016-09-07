@@ -1,0 +1,4 @@
+input integers list int arrays allowed 
+list integers inputted user method call method calculate max min average separate methods problem asks user enter number students class loop write program takes exam grades students entered create menu display options minimum grade max grade average arrays allowed separate methods blockquote import util scanner public class hw07 emena blockquote 
+
+dont store grades results 

@@ -1,0 +1,4 @@
+autowired component scan setter getter 
+field strong setter getter strong strong component scan strong config 
+
+constructor injection good discussion types injection lot refernce links href http www petrikainulainen net software development design changed mind field injection rel nofollow em update comment em explained change code accout test case test specific xml context reduce packages scanned handy construct inside test context xml redifine injected beans instantiating property usefull mocking snippet 

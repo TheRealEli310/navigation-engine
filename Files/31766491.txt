@@ -1,0 +1,4 @@
+jvm word size operand stack 
+jvm specification jvm operand stack works units word size implementations size native pointer bytes bit systems bytes bit systems question operand pushed stack char bytes operand stack pushes pops operands units word size bytes bit systems waste space 
+
+wasted space simplifies runtime immensely word sizes match cpu theyre built waste space theyre efficient terms cpu processing runtime parameters actual stored data finally programs bulk pass pointers objects scalars pretty works wash 

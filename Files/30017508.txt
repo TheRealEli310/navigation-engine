@@ -1,0 +1,4 @@
+musixmatch api gson track snippet track lyrics 
+working final project intro class part project involves lyric snippet href https developer musixmatch documentation rel nofollow musixmatch api lyrics api snippets started wrapper found href https github sachin handiekar jmusixmatch rel nofollow https github sachin handiekar jmusixmatch added classes snippet based track snippet api method run program error pre class lang prettyprint override method applicable classes follow based method classes found original wrapper class class class class 
+
+reproduce exact error message find error string change type getters setters sample json response href https developer musixmatch documentation api reference track snippet rel nofollow make work dont fix problem href http stackoverflow posts edit edit question actual json response making program work 

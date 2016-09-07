@@ -1,0 +1,4 @@
+unmarshalling multiple xml elements field jaxb 
+xml file format jaxb unmarshall xml elements objects properties work fine br xml element stores strong strong date stores strong strong time event combine xml elements em localdatatime em field named getters setters em xml em em desired object em thought map xml element object implement overriding setters setters change time date stored time wasnt working ugly read href http stackoverflow questions jaxb convert multiple attributes type unmarshalling jaxb convert multiple attributes type unmarshalling project external library moxy solely jaxb em clean em 
+
+define event object lifecycle methods construct localdatetime property unmarshalling date time values prepare date time fields marshalling current localdatetime time date fields match xml localdatetime field xmltransient set getter approach clean 

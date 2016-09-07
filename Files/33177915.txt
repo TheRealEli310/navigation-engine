@@ -1,0 +1,4 @@
+create pattern length width user 
+write program produces kind spiral pattern based width length user inputs length characters screen width characters tall trouble figuring mathematical relationships make pattern happen correct sample output br input desired length br input desired width br href http stack imgur uikes png rel nofollow img src http stack imgur uikes png alt enter image description code generates input desired length br input desired width br href http stack imgur xqrfh png rel nofollow img src http stack imgur xqrfh png alt enter image description br wrong 
+
+concentrate start check cases draw part draw side basically grabbed code deleted 3rd condition statement behavior draw mod horizontally width modding length position width treats drawing complete care horizontally respect picture care respect current drawing hope helps 

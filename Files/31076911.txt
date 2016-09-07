@@ -1,0 +1,4 @@
+spring boot alternate start class multiple entry points 
+add alternate entry point spring boot application prefer fat jar href http docs spring io spring boot docs current reference html executable jar html rel nofollow documentation property specifies main class launch start class pom xml run remove pom xml error packaging alternatively dont good add nested jars classpath suggestions strong edit solution strong jst suggested changed launcher propertieslauncher modifying configuration spring boot maven plugin created fat jar mvn package called alternate main 
+
+dont property apply case launchers back docs building jar jarlauncher class switch propertieslauncher loader main meta inf manifest mf 

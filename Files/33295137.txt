@@ -1,0 +1,4 @@
+convert datastax driver core localdate util date 
+working dates datastaxs cql cassandra api returns convert object returned api 
+
+href http docs datastax en drivers datastax driver core localdate html getmillissinceepoch javadoc em returns number milliseconds january 1st gmt em href http docs oracle javase docs api util date html date 28long constructor javadoc em allocates object initializes represent number milliseconds standard base time epoch january gmt em 

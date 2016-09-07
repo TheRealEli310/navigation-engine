@@ -1,0 +1,4 @@
+change color cell existing excel xlsx xls 
+requirement read validate excel file insert data base initially reading file inserting database data database returning row column numbers duplicates database change color cells based row column numbers solve problem suggest idea read write validate excel file validation sense compare data excel file data database apache poi 
+
+answer xls api xlsx similar reading excel file easy open fileinputstream file create hssfworkbook change color cells create style color changing style cell change properties font things bit messy excel works loop rows workbooks identify duplicates change style cells finally write workbook file fileoutputstream 

@@ -1,0 +1,4 @@
+jni native method malloc causing crash cygwin 
+custom dll native function simple inside stripped version crashes malloc due tests made comment malloc compile dll fine crashes fatal error exception access violation 0xc0000005 runs fine times hang point calls native method wrong allocate native memory temporary buffer 
+
+jni declarations em em parameters including parameters arent function declaration include macros jniexport jnicall jni function wont return stack correct state exits resulting undefined behaviour change function declaration 

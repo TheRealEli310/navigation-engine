@@ -1,0 +1,4 @@
+error apache error 
+day understand working tutorial read spring documentation understand errors web xml controller servlet controller class home jsp 
+
+strong offers servlet xml strong web xml configuration configuration add belows strong offerscontroller strong final notes ul li spring webmvc jar checkpom xml li li add offers servlet xml check notes dont run server inside eclipse make request href http localhost offers rel nofollow http localhost offers browser li ul strong strong blockquote caveat overriding servlet mapping requestdispatcher default servlet retrieved path defaultservlethttprequesthandler attempt auto detect default servlet container startup time list names major servlet containers including tomcat jetty glassfish jboss resin weblogic websphere blockquote href http docs spring io spring docs current spring framework reference html mvc html mvc default servlet handler rel nofollow resource 

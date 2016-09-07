@@ -1,0 +1,4 @@
+android google map inflateexception binary xml file line 
+activity main xml file main parts actionbar toolbar top framelayout middle bottombar toolbar framelayout add replace fragment based button selection made bottom toolbar fragment google map 2nd 3rd fragment listview adding fragment backstack adding replacing adding fragment problem open fragment clicking bottom bar buttons fragment working fine completely open 2nd 3rd fragment 1st google map fragment comeback google map fragment clicking back button showing errors logcat map fragment xml file map fragment class manifestfile repeating showing error comeback fragment clicking back button 
+
+code oncreat 

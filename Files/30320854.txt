@@ -1,0 +1,4 @@
+net connectexception connection refused connect localhost 
+connect h2 database hibernate project worked fine oracle migrate h2 things changed driver hibernate cfg xml pom xml hibernate cfg xml file exception successfully connect h2 start h2 connecting hibernate dono advice appreciated 
+
+started h2 server based url youre tcp connection server started ways ul li master program start server li ul ul li start manually prior connection attempt li ul noticed youre ifexists true connection refused database exist prior connection 

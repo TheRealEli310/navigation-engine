@@ -1,0 +1,4 @@
+set session cookie listener 
+web times cookie loaded login credentials jsp runs show result result username credential reload page count times cookie reloaded response jsp loginservlet update jsp servlet 
+
+cookies easy hack simply setting user cookie pretty useless ensuring security session cookie copied computer expiring cookie suggest store user session cookie stolen useless server expires session things improve security store session attribute counter subsequent requests query session consistent increase counter em em request server requests login page secured youre basically counting requests 

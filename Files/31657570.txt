@@ -1,0 +1,4 @@
+javaee serialize object json 
+jackson create json strings easily problem relies specific api implementation pure javaee achieve send json websocket sending rest problem mediatype create json rest api 
+
+theorey lines add worked reliably ended calling jackson directly 

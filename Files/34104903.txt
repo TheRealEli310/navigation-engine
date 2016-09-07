@@ -1,0 +1,4 @@
+load properties file classpath 
+create config file save username ip data client inside classpath resources folder project retrieve properties set values file attempt method running method error confirmed file exist read data unable create output stream advance problem open output stream file classpath 
+
+property inside jar file question modify contents jar file executing good idea main question strong values persisted strong values set stay active program run fine alls fine hand values persisted start application youd href https docs oracle javase docs api util prefs preferences html rel nofollow 

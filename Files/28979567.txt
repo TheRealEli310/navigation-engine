@@ -1,0 +1,4 @@
+null pointer exception accessing google analytics report data credentials 
+href https developers google analytics solutions articles analytics api rel nofollow tutorial access ga account report data executing simple ga query google developers console steps mentioned tutorial code works fine included code error access ga account report data giving credential client secret id user shared access report data successfully access report data users credentials run application credentials run app users credentials error stack trace shown specific exception occurs line method getgaaccountid workaround issue 
+
+client secrets json configured delete file store analytics sample run 

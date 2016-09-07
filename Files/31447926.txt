@@ -1,0 +1,4 @@
+ant build eclipse mars fails due missing classpath reference 
+recently moved eclipse mars installed jdk 8u51 jboss tools plugin eclipse couple ant files build projects double click build file ant view project wont built error message checked file system jar ideas fix spaces path dont dependency strong external tools configuration strong strong additional tasks amp support strong edit entry find dialog configure reference 
+
+eclipse released october 2nd href https bugs eclipse org bugs show bug cgi id rel nofollow bug fixed update resolves issue 

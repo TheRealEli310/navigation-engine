@@ -1,0 +1,4 @@
+android local unit test view null returns null 
+experimenting local android tests run local jvm device understand classes android jar properly mocked reason instantiate view class inherited view null totally breaks belief returns null heres test code code prints test report output view null heres build gradle rest project generated interest give clues kind magic happening 
+
+code tells string representation null afaik strong strong 

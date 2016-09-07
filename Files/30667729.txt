@@ -1,0 +1,4 @@
+cucumber test spring boot application 
+find sample application cucumber test spring boot application gradle run tests fine starting server cmd line ide run programmatically ci server answer solution work multiple step def files setup build grade mentioned question cucumbertest abstractspringtest extended stepdef files correct thing start initialize step def files application started cucumber tests make connection edit start stop application gradle acceptable 
+
+solved issue href https stackoverflow questions spring boot working cucumber jvm rq question repository answer href https github jakehschwartz spring boot cucumber rel nofollow https github jakehschwartz spring boot cucumber short class annotations 

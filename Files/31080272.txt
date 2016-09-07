@@ -1,0 +1,4 @@
+iterator incrementing 
+writing loop loop access current element linked list wasting everytime call start beginning run time order code achieve iterator time attempt 
+
+maintain variable equal previous loops entire linked list 

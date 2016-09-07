@@ -1,0 +1,4 @@
+handshake response received closing websocket 
+tyrus websocket client connect websocket running local server test connection client connects websocket sends text string binary load 0xb5 0xb2 0xb1 0xb0 0xb1 0xb2 0xc6 string disconnects server sees expect strong em strong entity connection class extends runs asynchronously log lines order em things arent peachy client side logs agree connection made chunks connection closed stacktrace em connection failed handshake response received em full log href http paste ubuntu rel nofollow apparent attempt connect threw timestamps whats suggests connect messages didnt connect call blocked transact ws assume error connection closed end callback 
+
+closing session callback em reason em confused thinks connection failed testing sending messages synchronous closing socket switched closing messages wsc correctly reports success connection good idea block callback 

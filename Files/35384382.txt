@@ -1,0 +1,4 @@
+compiler optimizing trivial method 
+simple class illustration purposes bytecode produced compiler inspected compiler optimizing method bytecode produced method expect avoid redundant initialization variable easy conclude observed eclipse compiler version installed part jdk 
+
+typical virtual machine optimizes program runtime compilation runtime jvm lot application actual behavior program actual hardware program executed byte code description program supposed behave runtime free apply optimization byte code argue trivial optimizations applied compilation general makes sense distribute optimizations steps optimization effectively causing loos information original program make optimizations impossible optimizations easy approach simply drop optimizations compilation apply runtime 

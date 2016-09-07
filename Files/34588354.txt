@@ -1,0 +1,4 @@
+difference size length column length 
+difference validation check fields read ddl stuff bean validation hibernate validation correct dont understand annotations trigger edit situation requirement develope entity field type string length mentioned methods choose questions find suits purposes 
+
+ol li automatic schema generation li li href http docs oracle javaee api javax validation constraints package summary html rel nofollow jpa annotation validates string length bounded minimum maximum values li li href http docs jboss org hibernate stable validator api index html org hibernate validator constraints length list html rel nofollow hibernate specific annotation meaning li ol h2 update h2 validate string length bean validation id pick generic 

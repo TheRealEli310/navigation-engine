@@ -1,0 +1,4 @@
+kind constructor beginning extends drawable drawertoggle 
+browsing source code class href http grepcode file repository grepcode ext google android android r1 android support v7 app actionbardrawertoggle rel nofollow actionbardrawertoggle found constructor declared access specifier declaration starts explain 
+
+generic type declaration type arguments specifically means extend implement classes interfaces access specifier mandatory case missing means class method accessible classes package 

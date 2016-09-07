@@ -1,0 +1,4 @@
+spring blocking rest send forget 
+writing blocking spring rest controller client send request doesnt care response doesnt wait server code call href http localhost test rel nofollow http localhost test postman chrome server log strong strong strong strong waiting seconds browser shows strong server processing request strong correct send forget behavior 
+
+doc page href http docs spring io spring framework docs current javadoc api org springframework scheduling annotation enableasync html rel nofollow added configuration class blockquote enables springs asynchronous method execution capability similar functionality found springs xml namespace configuration classes myasyncbean user defined type methods annotated springs async annotation ejb javax ejb asynchronous annotation custom annotation annotation attribute blockquote 

@@ -1,0 +1,4 @@
+add postgresql datasource spring rest api project 
+developing spring rest api gradle figure declare postgresql datasource found google maven gradle code declare datasource 
+
+connection pooling solution bonecp bonecp define pooled datasource inject datasource daos bonecp define bean properties takes skip optional provide driverclass jdbc url uname password bean daos 

@@ -1,0 +1,4 @@
+yourkit measures time spent unsafe park native method 
+yourkit measures wall time methods thread sleep unsafe park native method bellows sampling settings blockquote walltime io randomaccessfile readbytes byte int int walltime io randomaccessfile read walltime io randomaccessfile write int walltime io randomaccessfile writebytes byte int int walltime net socketinputstream socketread0 io filedescriptor byte int int int walltime net socketoutputstream socketwrite0 io filedescriptor byte int int walltime lang thread sleep sampling period ms blockquote unsafe park walltime cpu time based yourkit documentation cpu time actual time cpu spent method time entrance exit method yourkit showed lot time spent park method dont cpu spent lot time park method confirm 
+
+default yourkit profiler show unsafe park profiler agent measures time ui show change dyjp time methods false yjp ini restart profiler ui 

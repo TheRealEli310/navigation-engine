@@ -1,0 +1,4 @@
+check observable empty returns boolean 
+lets observable call rest api service store result database save observable perform database saving return true case success false case error occurred observable correctly return true database saving operation successfully return false return feedentity null correct check observable returns true false empty observable 
+
+blockquote check observable returns true false blockquote subscribe emits true false called true false blockquote check observable returns empty observable blockquote href https github reactivex rxjava wiki creating observables rel nofollow documentation em emits em completes called called em em wanted monitor called isnt called emitted isnt blockquote observable correctly return true database saving operation successfully return false blockquote arent call observable emit doesnt emit default simply wont emit 

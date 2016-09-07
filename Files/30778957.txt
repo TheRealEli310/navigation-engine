@@ -1,0 +1,4 @@
+quartz spring dynamic scheduling 
+web service makes strong dynamic scheduling strong job job class extends quartz job interface expose api receives jobid cron expression schedules startjob received id strong spring configuration strong spring quartz config xml strong strong pseudocode problem change job strong job scheduled strong job jobdetailfactorybeans complexjobdetail missing configuration correct jobs triggers retrieved factories instances class class instance 
+
+problem calling method works job created 

@@ -1,0 +1,4 @@
+pagingstate statement cql 
+understand href http datastax github io driver features paging rel nofollow pagingstate works statement cassandra sample inserts 1000s records database reading db fetch size set paging state working perfectly fine sample junit code execute program iteration testpagination printing records documentation ul li strong setting fetch size doesn cassandra return exact number rows returns slightly results strong li ul understand cassandra return number rows fetch size case clause provided query return exact number records query constrained partition key clarify 
+
+href https github apache cassandra blob trunk doc native protocol v3 spec rel nofollow cql protocol specification blockquote clients assert result results current implementation respect exact strong reserve return slightly smaller bigger pages future performance reasons strong blockquote good practice rely page size case cassandra implementation future 

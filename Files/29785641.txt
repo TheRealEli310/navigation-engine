@@ -1,0 +1,4 @@
+nullpointerexception mockito mocking method primitive argument 
+spent pulling hair find problem test eventually figured mocking method takes primitive arguments heres sample test demos problem running test mockito java8 reason stack trace showing npe line part stack trace suppressed digging bit slightly info run eclipse inspect line tells simply questions ol li workaround bug li li reproduce info stack trace li ol 
+
+matcher matches long object checked runs correctly 

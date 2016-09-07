@@ -1,0 +1,4 @@
+difference dynamic web project enterprise application project 
+difference dynamic web project enterprise application project eclipse ide directly create dynamic web project eclipse normal jsp classes server faces classes 
+
+dynamic web project ul li requires servlet container provided web server tomcat jetty li li enterprise features ejb container li ul enterprise application project ul li requires servlet container li li requires ejb container jms container called enterprise features provided enterprise application servers wildfly li ul project jsp jsf perfectly fine dynamic web project 

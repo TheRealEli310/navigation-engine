@@ -1,0 +1,4 @@
+android toggle button show fragment hide fragment 
+toggle button show fragment clicked click remove fragment hide basically show hide 
+
+works works notice fragment object clause put override method shouldnt problem 

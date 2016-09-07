@@ -1,0 +1,4 @@
+retrofit generic response object primitives 
+ios responses dont specifically encapsulated object dynamic object returning refer specific objects href http stackoverflow questions decode json nsarray nsdictionary decode json nsarray nsdictionary equivalent method android retrofit calrify object back call object object key names primitive object 
+
+making couple assumptions assuming retrofit gson converter json valid assume enclosing object present case youd array define enclosing class values strings return type retrofit call assuming put result variable named access fields youll add null bounds checks 

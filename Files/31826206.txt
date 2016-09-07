@@ -1,0 +1,4 @@
+eclipse paho mqtt client persist published messages published till acked delivery broker qos 
+default paho mqtt implementation persist messages pushed delivery confirmed specifically qos implement 
+
+href https www eclipse org paho files javadoc index html org eclipse paho client mqttv3 mqttclient html rel nofollow javadoc mqttclient blockquote default mqttdefaultfilepersistence store messages file persistence set null messages stored memory lost client runtime device shuts blockquote means long set path correctly android permissions write local storage qos2 messages persisted delivered broker end subscribers 

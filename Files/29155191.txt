@@ -1,0 +1,4 @@
+biginteger isprobableprime 
+confirm intuition method code large prime certainty accurate return true cases method guesses prime number composite 
+
+blockquote large prime certainty accurate isprobableprime certainty return true blockquote href http docs oracle javase docs api math biginteger html isprobableprime 28int rel nofollow documentation return number composite blockquote returns true biginteger prime false strong strong composite blockquote parameter influence chance false positive composite number prime 

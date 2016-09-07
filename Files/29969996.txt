@@ -1,0 +1,4 @@
+set access control origin jetty 
+set access control origin code reading href http www w3 org wiki cors enabled jetty rel nofollow set doesnt work solve 
+
+addfilter method filterholder snippet 

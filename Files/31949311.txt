@@ -1,0 +1,4 @@
+convert binarytree linkedlist leaf nodes 
+question binary tree make linked list leaf nodes constraints supposed extra space node pointer connect linked list tree result pointer references leafnodes leafnodes pointers output correct expected output 
+
+add leaf nodes conditions leaf node shouldnt left amp nodes root left amp root null guess make amp amp condition tested 

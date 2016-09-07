@@ -1,0 +1,4 @@
+find number unordered anagramic pairs substrings 
+solve question href https www hackerrank challenges sherlock anagrams rel nofollow https www hackerrank challenges sherlock anagrams code code worked test cases small strings failed work string size big sample input output solve change existing code executed time 4mins 
+
+check href http www geeksforgeeks org anagram substring search search permutations rel nofollow link explained storing substrings searching anagram pair space complexity code improve reduce number operations strong em check em strong function returning strong em false em strong point mismatch implemented problem code 

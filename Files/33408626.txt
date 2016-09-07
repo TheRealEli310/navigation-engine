@@ -1,0 +1,4 @@
+pass system property docker containers 
+pass environment variables docker container pass system property docker container run jar pass system property docker 
+
+variable passed container command 

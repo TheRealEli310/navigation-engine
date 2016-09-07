@@ -1,0 +1,4 @@
+adding hibernate dependencies maven 
+add hibernate core dependencies maven project pom xml find libraries blockquote org hibernate boot registry standardserviceregistry org hibernate boot registry standardserviceregistrybuilder blockquote depdencies include pom 
+
+based href http grepcode search query org hibernate boot registry standardserviceregistry amp start amp entity type amp rel nofollow page id dont dependency version hibernate core interface solution upgrade version final 

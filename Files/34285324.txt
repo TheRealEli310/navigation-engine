@@ -1,0 +1,4 @@
+voice activity detection vad sar lium 
+wrote shell script train gmms kinds voice activity silence lium speaker diarization toolkit voice activity detection script extracts mfcc features wav audio file sphinx4 trains gmms applies viterbi decoding segmentation results poor resulting segmentation completely wrong case applying gmms training set wrong put lot effort working lot advance btw double checked input format wav file mono 16bit le sphinx4 documentation parameter settings parameters emctrl training gmms dpenalty viterbi decoding segmentation helped shell script 
+
+adding end fdescin fdescout worked specifies normalization method cluster wise case segment wise works achieves comparable results code examples liums official website wrong respect 

@@ -1,0 +1,4 @@
+individual letters string 
+confused search individual letters specific vowels array string runner getnumvowels work searching individual letter input 
+
+errors code youre calling methods exists modify class put lot innecessary stuff call method static strong update strong word class count vowels array simply existing method inside class add overload existing method receives array 

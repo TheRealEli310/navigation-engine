@@ -1,0 +1,4 @@
+split string comma ignore comma brackets quotes 
+examples expected result string string array regex 
+
+trick employs negative lookahead assert bracket char em em close bracket produces desired output question trailing commas assume oversight em em commas produces em em trailing commas intact 

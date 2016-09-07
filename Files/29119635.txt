@@ -1,0 +1,4 @@
+add json payload javapns push notification 
+add json notification send alert send json notification code snippet add json pass 
+
+found solution string create json object pass string pushnotificationpayload fromjson works 

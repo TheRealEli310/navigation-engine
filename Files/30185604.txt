@@ -1,0 +1,4 @@
+vaadin setitemcaptionpropertyid caption combobox 
+beanitemcontainer fill combobox dto fields itemcaption combobox show category dto field em categoryname subcategoryname em suggestion appreciated thx 
+
+set item caption combobox add read property bean similarly put captioning logic inside overridden 

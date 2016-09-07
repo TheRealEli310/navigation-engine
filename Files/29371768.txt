@@ -1,0 +1,4 @@
+unzip spring integration 
+listen directory read zip files case pass serviceactivator unzips directory worst case absolute path read zip files call unzip util path unzip heres inboundchanneladapter reads zips passes small writer writes directory works fine unzip method invoked message requestchannel unzip file moment hardcoded path zip message arrives implementation error dont understand reliably unzip zip file directory crashes horribly 
+
+simple solution implement messagehandler overwrite handlemessageinternal method 

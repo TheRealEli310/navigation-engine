@@ -1,0 +1,4 @@
+set resources directory eclipse dynamic web project 
+build web project minimum libraries ul li make dynamic web project eclipse luna li li configure maven project li li import libraries pom xml li li implement li ul made configuration classes initializer intend replace root context xml suppose replacement servlet context xml finally initializer works put jdbc properties file put file absolute path code distribution refer relational location project server ways find directory part part static method good solution spring templates xml files answer 
+
+shouldnt anymore loading files class put files maven add class path assumes properties directory structure created 

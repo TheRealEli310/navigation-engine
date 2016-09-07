@@ -1,0 +1,4 @@
+lang nullpointerexception attempt invoke void android widget edittext settext lang charsequence null object refrence 
+retrieve database edittext display android application project stopped retrieve eclipse develop android project select activity select xml select php 
+
+assume lines problem activity select xml doesnt define control id call findviewbyid returns null call edittext3 settext results npe textviews ids 

@@ -1,0 +1,4 @@
+nullpointerexception due failed autowiring 
+refactored href http spring io guides gs batch processing rel nofollow spring doc creating batch service implement stand class reader thrown replaced filename works read href http stackoverflow answer amp code good understand isnt autowired 
+
+boils objects constructed autowired construct object call constructor reference object set fields spring creating beans autowiring calls constructor sets fields annotated set field calling constructor wouldnt object constructor access fields supposed autowired spring object constructed possibly happen access autowired bean constructor constructor injection option move code constructor method annotated 

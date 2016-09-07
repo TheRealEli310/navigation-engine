@@ -1,0 +1,4 @@
+connecting mongodb spring 
+problems spring access mongodb credentials credentials works charme fails auth default read href http docs mongodb org manual core authentication http docs mongodb org manual core authentication blockquote changed version scram sha default mechanism mongodb versions beginning series blockquote strong question strong found spring credentials version make trick 
+
+lot attempts reading found make mongodb work authentication installation mongodb upgrade involved maven dependencies parent configuration file finally access mongotemplate bean youll 

@@ -1,0 +1,4 @@
+collections algorithms multithread mode 
+task execute collection related logic parallel threads compare single thread mode question href http stackoverflow questions multithreading read file multithreading read file noticed file reading task multi threading decided focus logic logic execute transformation initial words list map words frequencies fork join framework resulted map values execution point bottleneck propose solutions embed concurrency standard jdk version 
+
+strong putinmap strong synchronized concrete forkjoinfrequencyreader instance time create instances forkjoinfrequencyreader strong compute strong method synchronization simply doesnt work related instance check replace strong putinmap strong read href http www cs umd class fall2013 cmsc433 examples wordcount wordcountparallel rel nofollow http www cs umd class fall2013 cmsc433 examples wordcount wordcountparallel 

@@ -1,0 +1,4 @@
+prevent lag loading picture android studio 
+pictures gallery touch activity calls piece code loads image activity start lagging avoid tought reduce imageviews resolution store original images works 
+
+scale lower actual resolution codes reduce size 

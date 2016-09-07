@@ -1,0 +1,4 @@
+jvm maximum linline depth 
+argument default controls maximum number nested calls inline limit arent usual heuristics based frequency code size sufficient jvm decide deeply inline prompted href https github adoptopenjdk jitwatch jitwatch showing deeply nested guava call inlined due depth 
+
+significant searching uncovers interesting href https searchcode codesearch view rel nofollow fragment page strong strong google search suggest expected hard limit deep stop inlining suggests refers direct recursive calls mutal recursive calls calls calls guess comment protect strong mutual strong recursion detect references full depth inlining call stack controls calls inlining referenced code real jvm comments apangin locates modern version hotspot open jdk suggest nowadays longer simple full stack searched recursive calls mutual recursion blocked past 

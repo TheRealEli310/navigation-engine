@@ -1,0 +1,4 @@
+saving state togglebutton recyclerview android 
+recyclerview data url outputs json loads image picasso datas item view image date togglebutton implemented setoncheckedchangelistener toggle button add images toggled database user closes app opens items toggled saved database toggle button set true database multiple toggle buttons activated app restarted avoid implement part code added saveliked method 
+
+toggle toggle changing recyclerview reuses views binding data issue manifest rv resuses view previously toggled button reset toggled state binding data 

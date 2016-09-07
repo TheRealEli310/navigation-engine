@@ -1,0 +1,4 @@
+phrase matching multiple fields 
+issue doesnt search partial phrases parts words wildcards found works field implement search 
+
+multi match doesnt support query wildcards multimatch sounds href https www elastic guide en elasticsearch reference current query dsl query string query html rel nofollow query string query pattern matching flexibility run multiple fields query string powerful lucene query language dsl lines wildcards pattern matching search time strong discouraged strong high computation cost index time solution fuzzy searching cases href https www elastic guide en elasticsearch reference analysis ngram tokenizer html rel nofollow ngram tokenizer produce partial matches required fields kinds analyzers search index bend query builders 

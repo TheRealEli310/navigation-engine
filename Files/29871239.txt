@@ -1,0 +1,4 @@
+install openehr libraries maven 
+libraries href https github openehr libs rel nofollow https github openehr libs netbeans installation guide tells meet requirements netbeans bundled maven find install libraries project 
+
+instructions installing libs artifact local maven artifacts repository referenced project h3 installing h3 ol li youll href https github articles fetching remote rel nofollow clone href https github openehr libs rel nofollow libs repo machine li li run inside directory created cloned repo li ol h3 h3 install artifact project adding href https maven apache org guides introduction introduction dependency mechanism html rel nofollow dependency projects pom xml file parameters href https github openehr libs blob master pom xml rel nofollow libs pom xml file strong edit strong jack pointed reference specific library needed dependency 

@@ -1,0 +1,4 @@
+send json android php 
+post json android php volley library object catch data php verify correcttly em output em noticed sending json string post method volley library lot anti slashes added escape double quotes em problem em decode json array objects php returns empty array invalide json caused anti slashes method php sdk providing contract sending receiving json kind problems reformat json php delete anti slashes 
+
+finally solved problem custom method order clean json string decoding 

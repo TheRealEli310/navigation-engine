@@ -1,0 +1,4 @@
+android video real time filtering 
+writing video player apply filter decoded frame showing screen extract frame frames decoded surface created rendered screen pbuffer extracted strong extractmpegframestest strong page href http bigflake mediacodec rel nofollow http bigflake mediacodec point extracted pixels post processing converting em grayscale em running edge detection render filtered frame screen encode mediacodec videoview render frame encoded decoded unnecesarryly efficient render frames screen 
+
+simple answer upload pixels gles texture render quad depending filtering performing operations gles significantly faster bit harder pull filters written fragment shader glsl find shader based image filtering href https github google grafika rel nofollow grafika href https www youtube watch kh9kcp2t5gg rel nofollow demo video send bitmap data texture 

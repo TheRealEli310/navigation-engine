@@ -1,0 +1,4 @@
+qos1 qos2 messages difference handling paho mqtt client 
+reference href http www hivemq mqtt essentials part mqtt quality service levels rel nofollow title article article difference qos1 qos2 messages dont difference handling paho mqtt client imagine subscribe topic publishing messages moment mqttcallback interface handle messages arrives subscribers method override mqttmessage find isduplicate method mqttmessage returns true message subscriber received interested finding solution shows handle qos1 answer clarify appreciated cracow 
+
+sufficient rely duplicate flag missed message qos messages idempotent suggestions duplicate detection ul li hash payload topic table messages hashes check received message li li unique id payload table messages id li li timestamp payload table messages timestamp li ul make message arrives qos qos means clients handle duplicates ignoring duplicate message messages idempotent 

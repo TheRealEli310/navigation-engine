@@ -1,0 +1,4 @@
+panel shows setlayout null 
+created jpanel added jtabbedpane added panels tabbedpane setlayout null panels frame shows change layout null borderlayout gridlayout main panel works perfect problem advance code creating objects component setting bounds getters checking null constraint panel panel mainpanel 
+
+problem method add child components parent container location width height child component code parent component add child component set bounds parent component child change set bound child component jtabbedpane 

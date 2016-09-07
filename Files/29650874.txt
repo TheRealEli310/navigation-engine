@@ -1,0 +1,4 @@
+nullpointerexception awt eventqueue getcurrenteventimpl 
+migrated swing application recently npe exception migrating back j7 problem lambdas easily confirm j8 issue code question running years surviving chances j8 specific reason exception currentevent eventqueue set setcurrenteventandmostrecenttimeimpl awtevent trace back stack eventqueue 0u45 dispatch method called dark variable null debugging close impossible events handled piece code aware swings event handling j8 
+
+end opening popup menu rescheduled edt code opening running edt running j8 

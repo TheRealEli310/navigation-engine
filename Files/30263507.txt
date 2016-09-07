@@ -1,0 +1,4 @@
+null pointer exception autowiring class 
+building rest api spring boot shiro authentication nullpointerexception autowire repository realm code autowiring repository produce error authorizing realm exception occurs call findbyusername method code repository injecting test autowired repository application class printed results errors completeness code show greatly appreciated strong edit strong question duplicate answer question resolve problem injecting bean informing ioc container component autowiring results npe scopes single service object configurable tag autowiring create object strong update strong calling ccdauthorizingrealm shiro pretty correct creating instance realm controller runtime error initializing security manager complain realm null dont understand realm null annotated component root problem 
+
+discovered answer problem applicationcontext xml problem configuration login url filtered fix simply change home sets home url filter 

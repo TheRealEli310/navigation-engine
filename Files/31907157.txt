@@ -1,0 +1,4 @@
+free allocated memory jni newbytearray 
+jni function calls instance method function passes byte array side pseudocode side side 
+
+blockquote deletelocalref releasebytearrayelements side blockquote exceed local reference table jni code large blockquote side blockquote isnt side calling method holds reference callback executing 

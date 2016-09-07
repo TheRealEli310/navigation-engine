@@ -1,0 +1,4 @@
+hailstone recursion working 
+write simple program compute hailstone sequence recursion hailstone sequence basically integer integer sequence odd integer sequence return string number separated comma algorithm isnt working explain 
+
+problem dont print actual number change code edit btw dont result 

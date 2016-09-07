@@ -1,0 +1,4 @@
+version library runtime 
+project external jar controlled version library update project recent required project versions library problem dont clue make imports version jar runtime 
+
+project build time dynamically runtime heres good answer add jar system classloader dynamically runtime work general logic href http stackoverflow questions load jars dynamically runtime lq load jars dynamically runtime respect imports fact dynamically pick imports youre lucky versions basic api holds add jar classloader early app develop normal versions api youre write convoluted code building objects ubiquitously catches class load class incompatibility exceptions classnotfoundexception worse youll sort facade factory architecture running software insulated class loading shenanigans short apis writing separate products 

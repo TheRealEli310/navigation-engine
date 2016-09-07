@@ -1,0 +1,4 @@
+enabling flight recorder tomcat error initializing jfr 
+adding catalina opts error catalina log full catalina opts enable parameter tomcat instance crash enable flightrecorder crashes opts result tutorials internet flight recorder enabled tomcat dont idea wrong bit centos box tomcat 
+
+flight recorder create repository directory store temporary recording data recording base directory directory system property em io tmpdir em points reason process access create directory process doesnt privileges 

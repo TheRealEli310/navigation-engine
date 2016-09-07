@@ -1,0 +1,4 @@
+solve failed instantiate webapplicationinitializer class 
+crud spring application run dependencies part packaging war reach pom xml issue log startup tomcat webappconfig ideas 
+
+pom xml setting spring core optional causing exclusion spring core war file remove optional spring core dependency copy jar tomcat lib folder application maven link optional dependencies href https maven apache org guides introduction introduction optional excludes dependencies html rel nofollow maven optional dependencies 

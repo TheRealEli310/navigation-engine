@@ -1,0 +1,4 @@
+override tostring method final bluetoothdevice class 
+android app displays bluetooth devices works problem displayed mac address list display adapter calls method object returns mac address call solution override return address final class override ideas force bluetooth device return address 
+
+mentioned comment extend arrayadapter method tostring method 

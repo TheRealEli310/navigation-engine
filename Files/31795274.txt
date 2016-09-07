@@ -1,0 +1,4 @@
+enable fly compilation jsps wildfly 
+wildfly cr2 enable fly compilation jsps found configuration thread alas doesn work result gin exception restart jboss server 
+
+xml parsing issue evident error message parsing failed line xml schema documents figure types xml parsing issues schemas located docs folder wildfly build version latest release candidate build make undertow subsystem updated highly recommend cli make avoid xml parsing errors find exact xml schemas 

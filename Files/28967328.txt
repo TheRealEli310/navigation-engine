@@ -1,0 +1,4 @@
+swt show paintings tooltip 
+set tooltip styledtext swt idea show information text mouse clicks show text tooltip tooltip image painted drawing methods swt show structure information tooltip wont handle suggest widget achieve edit set size composite returns paintings composite wont shown fully 
+
+class derived draw tooltip control tooltip shown simplest form tooltip area control override method change tooltip depending position control image createtooltoparea 

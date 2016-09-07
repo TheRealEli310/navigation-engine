@@ -1,0 +1,4 @@
+jsoup loops elements 
+learning jsoup understanding difference jsoup elements jsoup element heres url href http en wikipedia org wiki list bow tie wearers architects rel nofollow http en wikipedia org wiki list bow tie wearers architects parse text names category architects output learn basics traversing html document trouble jsoup cookbook confusing beginner appreciated 
+
+question difference elements element names number items object type element html node type elements multiple constructors api documentation href http jsoup org apidocs org jsoup nodes element html rel nofollow element href http jsoup org apidocs org jsoup select elements html rel nofollow elements parsing part code mw redirect wich navigate correct section made working sample hope helps 

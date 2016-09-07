@@ -1,0 +1,4 @@
+prohibit resolving loading typesafe config 
+prohibit resolving substitute config case remains set loading config doesnt work overcome 
+
+found workaround problem config file include config files substitution syntax files declaration config values substituted 

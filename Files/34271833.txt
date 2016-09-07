@@ -1,0 +1,4 @@
+id mapping entities extending base entity generic id 
+strong situation strong jpa entities extending strong base entity generic id strong interface generic id base implementation abstract defines additional common attributes concrete entities id assigned persisting ids generated sequence mapping ide eclipse issues warning id attributes br em attribute id inherited referring inherited attributes orm xml supported persistence providers em running tests exception strong question strong realize mapping base class defines generic id attribute id differently mapped generated subclass made attempt id worked override sequence hints appreciated 
+
+solved strong splitting strong parts id unmapped metadata creation modification timestamps version entitymetadata mapping define id allowing define id attribute named mapping arbitrary column generated actual type generic id recognized jpa method overridden narrow result actual type 

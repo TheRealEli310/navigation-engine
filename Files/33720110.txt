@@ -1,0 +1,4 @@
+post google cloud messaging retrofit 
+href http download net jdk7 archive b123 docs api net httpurlconnection html rel nofollow httpurlconnection em post em message href https developers google cloud messaging rel nofollow gcm href http square github io retrofit rel nofollow retrofit em post em message gcm br json string em data em failed error body parameters form multi part encoding didt found solution fix 
+
+send form parameters parameters encoded body form parameters remove recommend gson convert pojo json retrofit send raw retrofit json encode means youll end object send wrapped send raw string href http stackoverflow answer options retrofit 

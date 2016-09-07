@@ -1,0 +1,4 @@
+weird java2d setclip effect bug 
+create dialog custom shape transparency info bubble pointing component add overwrite method panel panel regular works fine panel draw code components overdrawn background dont set clip completely fresh object works fine puzzling idea fix anti aliasing actual usecase draw large background image cut info bubble shape strong sscce strong demonstrates issue mouse top corner multiple times strong edit strong circumvent bug windows added problems performance hits case vary 
+
+mousing panel repainting bounds needed repaint bounds button check bounds changing clip bounds results alpha colors composite previous paint call clip cleared background jdialog completely transparent blockquote create dialog custom shape transparency info bubble pointing component blockquote lightweight component approach setting glass pane jframe dialog items toggling visibility contents glass pane needed 

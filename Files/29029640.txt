@@ -1,0 +1,4 @@
+perform model selection libsvm library 
+search algorithm tweets classification problem crossed svm starting implemented system library command line resulting linear function perform model selection scaling cross validation feature selection hope improve accuracy problem couldnt find features library options programmer option write algo machine learning library algo task 
+
+model selection process svm helps select model based parameters function libsvm library model selection cross validation method partitions training data subsets trains model parameters time data order improve accuracy eliminates href http en wikipedia org wiki overfitting rel nofollow fitting problem 

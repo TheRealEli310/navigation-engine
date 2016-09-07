@@ -1,0 +1,4 @@
+reading excel calculate total apache poi 
+h2 scenario h2 working application open excel file iterate rows worksheet calculate total numeric values row h2 question h2 cases img src http stack imgur rzku5 png alt enter image description img src http stack imgur drb5t png alt enter image description output case output case shouldnt h2 code h2 
+
+ordering hashmap doesnt return entries insertion order href http docs oracle javase docs api util linkedhashmap html rel nofollow linkedhashmap documentation blockquote hash table linked list implementation map interface predictable iteration order implementation differs hashmap maintains doubly linked list running entries linked list defines iteration ordering order keys inserted map insertion order insertion order affected key inserted map key reinserted map put invoked containskey return true immediately prior invocation blockquote 

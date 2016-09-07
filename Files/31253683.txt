@@ -1,0 +1,4 @@
+hibernate ignore property serialization deserialization 
+table entity class json conversion database storage issue create test hibernate exception strong mysql jdbc exceptions jdbc4 mysqlintegrityconstraintviolationexception column creationtimestamp null strong run sql query passing timestamp fields make hibernate avoid sending timestamp fields insert query strong mark transient timestamp fields de serialization strong test object caused javax persistence entitynotfoundexception row identifier exists column transient fields entity class pass proper creationtimestamp ui populates field json de serialization hibernate pass insert query works case creates row database ui create call call timestamp values populated object 
+
+annotate creationtimestamp field formula href http www concretepage hibernate formula hibernate annotation rel nofollow 

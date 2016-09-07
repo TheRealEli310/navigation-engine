@@ -1,0 +1,4 @@
+maven resolve dependencies project 
+make webservice pack war file worked fine untill made edits pom ctrl zs back current working pom error em failed collect dependencies sun jersey jersey client jar em web xml added jars build path ul li json jar li li javax ws rs api jar li li jersey bundle jar li li jersey server jar li ul give hint make work properly strong edit removing jars closing proxy trick unfortunatly error coming strong em severe servlet jersey servlet web application gis threw load exception lang classnotfoundexception sun jersey spi container servlet servletcontainer em hints 
+
+updated add jersey server dependency 

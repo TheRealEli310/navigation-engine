@@ -1,0 +1,4 @@
+generate unique id distributed system oracle coherence 
+distributed application oracle coherence caching capabilities generate unique uuid distributed system pretty implementing sequence generator leveraging coherences cache capabilities href https github aseovic coherence tools blob master identity src main seovic identity sequencegenerator rel nofollow cassandra href http wiki apache org cassandra timebaseuuidnotes rel nofollow timebaseuuid find similar coherence 
+
+coherences href https docs oracle cd e24290 coh e22843 tangosol util uuid html rel nofollow uuid class constructor similar functionality offered cassandras href http wiki apache org cassandra timebaseuuidnotes rel nofollow timebaseduuid coherence incubators href https github coherence community coherence incubator blob develop coherence common src main oracle coherence common identifiers uuidbasedidentifier rel nofollow uuidbasedidentifier default constructor internally 

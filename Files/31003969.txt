@@ -1,0 +1,4 @@
+clear selected items gridview 
+gridview inside expandablelistview choice mode multiple deselect items press button unselecting item clear 
+
+calling activity fragment list inside adapter 

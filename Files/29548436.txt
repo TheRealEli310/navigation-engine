@@ -1,0 +1,4 @@
+error building spark jdk maven centos 
+build spark added dependencies package error related class mismatch errors build included maven jdk full build output pastebin id i9pfevj8 full pom xml pastebin id 8gegt5ee updated changed spark version match cyclic dependency errors 
+
+realized kafka streaming modules pre built spark mapr modules dependencies needed produce stream application 

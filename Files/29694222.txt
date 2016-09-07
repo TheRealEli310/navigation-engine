@@ -1,0 +1,4 @@
+runnable memory leak 
+total beginner created simple android snippet runnable seconds change works flawlessly basically prevent memory leak happening doubt absolutely memory leak device orientation occurs love check manage change orientation emulated android code strong edit strong memory leaks answers concerned ui thread blocking fact code runs handler main ui thread spawn thread spawning thread manually issue delay spawned thread works makes app quit dont tells delaying wrong strong edit2 strong link eugenmatynov give href http stackoverflow questions update ui thread android update ui thread android understood app quitted reason em call ui methods threads main thread em bad practice update ui thread 
+
+code leak free stored view weakreference method simply call main handler ui thread activity destroyed view null runnable dose weakreference activity garbage collected strong reference 

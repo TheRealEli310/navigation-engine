@@ -1,0 +1,4 @@
+change comparator minmaxpriorityqueue guava 
+recently working goal top elements text files queue working change didnt work dont set output returns manage lot 
+
+youll pass creation time queue takes default ordering javadocs blockquote comparator construction time natural order elements blockquote reverse ordering create queue passing 

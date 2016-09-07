@@ -1,0 +1,4 @@
+private method call child object 
+run code prints class child object call private method parent class 
+
+calling declared argument constructor class simple call invoking constructor executing stands instance child result remember returns specific class object belongs href http docs oracle javase docs api lang object html getclass rel nofollow works extends instance instance scope modifier controls methods fields accessed taking modifier method accessed invoked inside class code invokes method inside constructor class compiles rule access control href https docs oracle javase tutorial javaoo accesscontrol html rel nofollow 

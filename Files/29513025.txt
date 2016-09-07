@@ -1,0 +1,4 @@
+spring ws server side soap response xml adding soap header sign 
+spring web service sign soap response server web service give soap request xwss wss4j interceptors suitable format add soap header block response xml soap response including soap env xml modify adding soap header send response plz 
+
+finally solved problem custom smartsoapendpointinterceptor created mycustomendpointinterceptor implements smartsoapendpointinterceptor changed handleresponse sourcecode 

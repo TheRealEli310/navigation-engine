@@ -1,0 +1,4 @@
+scan user input convert gregorian calendar 
+simple scanner place variable type gregoriancalendar convert string gregoriancalendar specifically user enter date format mm dd yyyy line starting ending time user doesnt enter ending time event form hour clock 30pm ideas online print gregoriancalendar string formats 
+
+href http docs oracle javase docs api text simpledateformat html rel nofollow class convert vice versa heres 

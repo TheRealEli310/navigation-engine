@@ -1,0 +1,4 @@
+selecting objects arraylist based fields 
+class fields types respective getters setters arraylist objects method method arraylist courses compares field based parameterid field equals passed adds returned arraylist generics feel poor coding practice 
+
+understand method returns courses match condition lambdas funky theyre powerful pretty easy means call meaning dont level returned whats collection turn conditions match filter stream finally convert filtered back array add elements back lambda defines condition function accepts single argument type equivalent method loops elements applying lambda equiv method returns included result 

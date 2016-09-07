@@ -1,0 +1,4 @@
+spring batch accessing job parameter inside step 
+spring batch job config starting job code access parameter job steps 
+
+method takes parameter spring batch injects metadata dig job parameters metadata structures option access job parameters map cast string 

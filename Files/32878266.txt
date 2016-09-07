@@ -1,0 +1,4 @@
+spring thymeleaf tomcat process utf character correctly 
+display utf character spring mvc web page utf values coming database converted database utf web services written displaying values expected web page showing correct spring configuration wrong thymeleaf templating engine strong thymeleafe configuration strong added charecterencodingfilter web xml changing server xml tomcat configuration working expected showing place actual strange thing unicode actual working wrong missing strong update ans config xml strong set characterencoding servletcontexttemplateresolver 
+
+add utf thymeleaf view resolver 

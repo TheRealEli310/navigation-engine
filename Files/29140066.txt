@@ -1,0 +1,4 @@
+spring mvc google api giving null pointer json key 
+working spring mvc project google calendar functionality sample code href http samples google api client googlecode hg calendar cmdline sample src main google api services samples calendar cmdline calendarsample rel nofollow google sample code implement projectname json key days google authorization null pointer exception kindly check wrong key located src main resources keys key json code error code pom xml 
+
+guess problem part find json wrong path 

@@ -1,0 +1,4 @@
+improvednamingstrategy longer working hibernate 
+simple spring jpa configuration configured hibernates means entity class variable hibernate convert querying database naming conversion stopped working upgraded hibernate error blockquote error unknown column user0 username field list blockquote hibernate config entity class dont explicitly database fields column annotations configuration implicitly convert camel case underscore guide 
+
+figured issue configuration absolutely fine hibernate version lt hibernate hibernate final spring release guess hibernate fully compatible spring downgraded hibernate final things started working fine hibernates class deprecated hibernate 

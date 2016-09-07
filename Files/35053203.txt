@@ -1,0 +1,4 @@
+connect mysql server grails framework intellij15 
+fairly grails intellij wondering connecting grails mysql ill provide configuration application yml file build gradle file ill provide error message message receiving strong application yml file strong strong build gradle file strong basically added runtime mysql mysql connector dependencies strong error message strong 
+
+error message port check running port kill process required start grails app unused ports cases intellij grails app failed shutdown properly app running background port search process kill 

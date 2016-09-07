@@ -1,0 +1,3 @@
+pass arraylist customobject fragment fragment serializable parcelable android 
+put bundle bundle strong strong dont serialize parcelable solution 
+

@@ -1,0 +1,4 @@
+long displays wrong values 
+create program calculates separate product numbers division rest basically calculate products solving problem ways ways display wrong results attempt run program blockquote product numbers rest rest 6661643765781265135 rest 2885954222765899776 rest 9150527387120197261 blockquote attempt run output attempt advance 
+
+numbers big mere href https docs oracle javase tutorial nutsandbolts datatypes html rel nofollow supports numbers result href http stackoverflow questions handle integer underflows overflows check fo em overflow em means results youd expect solve supports larger numbers href http docs oracle javase docs api math biginteger html rel nofollow href http docs oracle javase docs api math bigdecimal html rel nofollow 

@@ -1,0 +1,4 @@
+jax rs jersey properly nested json 
+fairly jax rs jersey problem facing response json response similar class named car fields id model getters setters properly formatted json response single instance car function return type car response result success solve complex problems future thought return hashmap error deeper hole 
+
+assuming youre provider jackson wrap custom object field getter annotated instance make serialized properties create instance desired result 

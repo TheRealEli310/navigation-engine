@@ -1,0 +1,4 @@
+maven download snapshot jar replace jar created build 
+lets assume build building modules em version em elements pom files projects set snapshot build pom file maven starts project finally reaches project depends maven check remote repo latest snapshot jar potentially strong replace snapshot jar created part build target local maven repo strong avoid scenario wanted understand set specific groupid avoid obscure errors happen scenario configure build download artifacts unavailable local repo dont replace existing 
+
+projects reactor preferred dependencies hold true circumstances ul li running maven flag set meaning update checks forced li li setting pom li li configuring plugin li ul maven figure artifacts part reactor exclude update checks easy prove running maven configurations maven wont download artifact instance download logged console lets assume root pom module module replaced version artifact repository 

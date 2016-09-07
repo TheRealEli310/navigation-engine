@@ -1,0 +1,4 @@
+reusing assetmanager disposing 
+assetmanager load assets back button app load crashes reloading assets line method means disposed assetmanager perform actions reload assets work catch back button exit application starts fresh dispose user choses quit option reinitialize 
+
+create time call load 

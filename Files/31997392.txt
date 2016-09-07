@@ -1,0 +1,4 @@
+dagger injection returning null 
+application file app component activitymodule activity component injection baseactivity injection proper compilation errors problem access presenter fragment null defining presenter module presenter module 1st ol start li 2nd module public class presentermodule li ol fragment onviewcreated set view mypresenter similar href https github pedrovgs effectiveandroidui blob master app src main github pedrovgs effectiveandroidui ui presenter tvshowpresenter rel nofollow effectiveandroidui difference constructor 
+
+sounds arent injecting fragment annotate member call signature inject method options presenter fragment add method application component call oncreate function pass fragment presenter create 

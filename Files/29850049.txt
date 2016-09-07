@@ -1,0 +1,4 @@
+alternate scheduledexecutorfactorybean spring 
+upgraded spring version project found org springframework scheduling timer timerfactorybean class exists spring solution mentioned href http stackoverflow questions upgrading springframework scheduling concurrent stackoverflowsolution working context xml bean solution mentioned link changed bean definition org springframework scheduling concurrent scheduledexecutorfactorybean solution working code breaking type cast run code org springframework beans factory beannotofrequiredtypeexception bean named timerfactory type util timer type util concurrent scheduledthreadpoolexecutor modifications make make code work spring 
+
+working bean declaration bean declared type cast wrong place cast didnt work spring factory bean means meant create object target type instance case target type casted bean type worked modified line code 

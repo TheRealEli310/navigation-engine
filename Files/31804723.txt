@@ -1,0 +1,4 @@
+apache spark sql issue multi node hadoop cluster 
+spark apis fetch data hive code working hadoop single node cluster hadoop multi node cluster throws error master local single node yarn cluster multi node code change master local throws unknown hostname exception br strong updated strong error logs 
+
+exception yarn cluster mode directly run standalone multi node cluster start standalone spark cluster set url spark cluster hope solves problem 

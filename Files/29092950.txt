@@ -1,0 +1,4 @@
+mybatis issue select annotations 
+java7 spring mybatis strong pom xml strong annotation based select strange issue mentioned code throwing exception due lt greater works expected googling find issue reported href https code google mybatis issues detail id rel nofollow https code google mybatis issues detail id issue fixed replacing lt shown suggestion cdata respected scenarios havent strong question strong ul li question shouldnt issue fixed mybatis team xml specific conversion frequently query tags behaviour expected tag li li alternate solution missed li ul 
+
+fair issue behaviour xml parsing dont characters parsed term prevent xml parser parse text refer href http www w3schools xml xml cdata asp rel nofollow http www w3schools xml xml cdata asp detail escape comments 

@@ -1,0 +1,4 @@
+pass date parameter jasper report servlets 
+pass start amp end date parameter jasper report working properly blank pdf hardcode start amp end date sql query output pdf mysql eclipse luna jre1 jaspersoft plugin amp required jars lib folder servlet code jasper report jrxml pre class lang xml prettyprint override 
+
+ol li make properly designed report li li working fine ireport bug jaspersoft studio v6 li ol em make report ireport amp check issue persists em strong edit em things remember em strong blockquote public timestamp int year int month int date int hour int minute int int nano blockquote strong em deprecated constructor timestamp long millis em strong 

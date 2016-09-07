@@ -1,0 +1,4 @@
+ionic android build stopped working 
+ionic cordova app sudden stopped building android updating ionic cordova cli spent days searching google solution couldnt find helped assuming cordova gradle build apache ant android sdk build tools version gradle ant jdk strong details strong br cordova cli br ionic cli version br ionic app lib version br os mac os yosemite node version v0 run ionic build android error 
+
+set android versioncode config xml file similar issue resolved changing code apparently android single integer config xml change hope helps 

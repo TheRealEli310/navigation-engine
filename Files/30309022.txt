@@ -1,0 +1,4 @@
+make jlabel background transparent frame background 
+jlabel jframe jframe picture background problem jlabel opaque grey background annoying br code advance 
+
+paint method completely farked reason problem dont draw labels paint strong strong call dont draw jframes paint method jpanels paintcomponent method call supers method important read href http docs oracle javase tutorial uiswing painting index html rel nofollow painting swing standard swing tutorial explained 

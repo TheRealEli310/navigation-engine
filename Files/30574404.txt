@@ -1,0 +1,4 @@
+simplegrantedauthority resolved 
+add spring security project created class manage authentication problem resolve object giving error blockquote import org springframework security core authority simplegrantedauthority resolved blockquote dependency problem heres pom xml pre class lang xml prettyprint override spring version release 
+
+didnt exist spring security added spring security stable version spring security intend incidentally spring doesnt single version products spring framework 

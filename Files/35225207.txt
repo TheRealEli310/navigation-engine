@@ -1,0 +1,4 @@
+datastax cassandra resultset parallel streams quickly 
+fetching lot rows cassandra datastax driver process quickly looked great acts lot sadly unable directly work slow assume iterates element faster process row result set 
+
+blockquote work resultset slow blockquote fetch strong rows strong server side strong paging strong control page size blockquote faster process row result set blockquote depends query youre full partition scan couple machines job youre fetching data multiple partitions parallelize multiple queries partition 

@@ -1,0 +1,4 @@
+loading rjdbc shiny app 
+shiny app running ubuntu connect sql server database jdbc connection app console install jdbc package dependencies load connect query database issues shiny app running shiny server app fails load errors browser error occurs rjava isnt loading run console user shiny rjava rjdbc load issue suggestions 
+
+issue shiny rjava app working microsoft sql server odbc driver documentation explicitly mention support ubuntu work setup suse rodbc package dependencies rjava connection remote database works fine short plan deploying shiny app ubuntu make sql server connection odbc jdbc make life lot easier 

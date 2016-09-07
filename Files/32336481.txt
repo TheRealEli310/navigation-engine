@@ -1,0 +1,4 @@
+table exclusive lock jpa 
+lock exclusively entire table jpa database agnostic native queries instance href https docs oracle javaee api javax persistence entitymanager html lock lang object 20javax persistence lockmodetype rel nofollow locks record 
+
+dont supported jpa natively lock single entity entity result query inserts allowed entities native query trigger lock sql supported db server lock insert programmatically programmatically acquire lock insert creating separate lock entity class entity table lock insert lock entity read lock check lock entity exists database create entity field entity 

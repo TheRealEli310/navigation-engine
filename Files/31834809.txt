@@ -1,0 +1,4 @@
+pmd avoid branching statement loop 
+playing pmd bit avoid branching statement loop fix warning thought removing loop wrote statement expecting resultset 
+
+loop exit matter suggestion statement good proceed youll rid pmd violation code make sense check href http stackoverflow questions row resultset query row resultset query fun pmd 

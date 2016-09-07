@@ -1,0 +1,4 @@
+checkstyle eclipse plugin error initialize module treewalker token wildcard type 
+problem eclipse checkstyle plugin installed execute checkstyle configuration sun checkstyle eclipse file error blockquote initialize module treewalker token wildcard type found acceptable tokens list check puppycrawl tools checkstyle checks whitespace whitespacearoundcheck 2261fbd initialize module treewalker token wildcard type found acceptable tokens list check puppycrawl tools checkstyle checks whitespace whitespacearoundcheck 2261fbd blockquote checkstyle configuration sun checks google checks works solution neyoh 
+
+error xml file sun checks eclipse xml found plugins folder checkstyle eclipseplugins sf eclipsecs core xxxxxx simply remove entry wildcard type suspect people writing checkstyle assume isnt correct specific version eclipse minutes ago changed entry works 

@@ -1,0 +1,4 @@
+javafx wait page load continuing 
+method sets web page webviews webengine wait page finished loading continue current method essentially changelistener execute method finished executing googled terms lead frustration blocking wait boolean eventually made starting threads prevent application gui locking countdowntimer opposed thread join code umpteenth attempt whati file class 
+
+ended putting testmethod thread wait main application thread finish loading page blocking ditched countdownlatch favor boolean checked 250ms true times seconds performant intensive 

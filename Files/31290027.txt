@@ -1,0 +1,4 @@
+libgdx big freetype mipmapped font pixelated 
+developing game android libgdx found problem searched answers smooth text things ol li freetype fonts li li mipmap texture filter li ol freetype font applied mipmap pretty filter scaling font mipmap font size real screen absolutely big dont making kind stupid mistake figure happening thing solves issue people strong strong assets class things load forgetting sprites load fonts method main class draw file texty things screenshot text href http stack imgur zvcjf png rel nofollow title link image post images directly heres link image shows part circle comming 1024x1024 png scaled mipmapping looked text drawing shaperenderer fine idea happening 
+
+finally found answer stupid big size font causing sharpness helping make text smooth reduced size viewport write text font size divided text smooth 

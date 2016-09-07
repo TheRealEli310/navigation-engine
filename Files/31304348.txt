@@ -1,0 +1,4 @@
+processing align text ellipse 
+align string text ellipse vertically em processing em set slight offset text ellipse 
+
+specifies horizontal alignment guarantees text aligned horizontally vertically 

@@ -1,0 +1,4 @@
+nosuchmethoderror google common util concurrent moreexecutors directexecutor conflits elastic search jar 
+creating elasticsearch client exception lang nosuchmethoderror google common util concurrent moreexecutors directexecutor ljava util concurrent executor lookup seams guava overwrite older version runtime guava works compile task maven configuration follow force guava version execution time 
+
+find version guava exclude find dependency exclude href https maven apache org guides introduction introduction optional excludes dependencies html rel nofollow https maven apache org guides introduction introduction optional excludes dependencies html info dependency exclusion 

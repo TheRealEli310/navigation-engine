@@ -1,0 +1,4 @@
+analytics api app engine appidentitycredential insufficient permissions 
+attempting hit google analytics app engine module code retrieve credential enabled analytics api project cloud dev console google analytics service account read access google analytics google account google cloud app engine dev server code works hit api client library run app engine appidentitycredential exception attempting hit api assume authenticates user owns engine project guess doesnt understand recommended production instances access analytics 
+
+uh figured app engine project tied identity account projectname appspot gserviceaccount giving account access analytics settings app engine code access appidentitycredential 

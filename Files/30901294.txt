@@ -1,0 +1,4 @@
+read nested json objects serialized gson library 
+storing object shared preferences serializing object gson library typeadapter storing heres object json works deserializing device bluetoothdevice object simple string int typeadapter properly deserialize heres read method typeadapter 
+
+reason mapping directly json object instance calling token types 

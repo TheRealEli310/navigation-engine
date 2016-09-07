@@ -1,0 +1,4 @@
+file createnewfile method throws exception android 
+problem create file android strong nexus strong strong android strong set project h2 androidmanifest xml h2 h2 build gradle h2 h2 mainactivity h2 build success application launched exception message h2 ioexceiption h2 solve problem dont catch miss 
+
+edit code add request checks permission code hr laalto didnt runtime permission solved exception h2 mainactivity h2 works 

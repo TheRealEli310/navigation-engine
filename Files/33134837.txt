@@ -1,0 +1,4 @@
+maven install fails import selenium jar repo 
+run href http docs seleniumhq org docs webdriver jsp introducing webdriver rel nofollow basic selenium pom xml include entry point executable jar run maven install execute jar sample code selenium tutorial receive noclassdeffounderror org openqa selenium webdriver suggesting maven install selenium jar failed resolve adding selenium jars local classpath solutions building maven central considered harmful 
+
+issue adding dependent jars selenium case jar sample code add plugin add selenium sample code jar href http stackoverflow questions create executable jar dependencies maven create executable jar dependencies maven href http stackoverflow questions including dependencies jar maven including dependencies jar maven 

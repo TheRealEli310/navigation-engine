@@ -1,0 +1,4 @@
+maximum count digit array list 
+suppose array list values maximum repeat continuous sequence find maximum count total count maximum continuous values 
+
+code print max sequential occurrence element list 

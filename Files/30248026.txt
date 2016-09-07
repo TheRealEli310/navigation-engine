@@ -1,0 +1,4 @@
+specific id jbutton 
+build program utilizes 3x3 grid buttons swing initialize gridlayout loop create buttons buttons load fine understand actionlisteners differentiate buttons check paramstring method printout button modifier modifier act buttons identifier change 
+
+multiple ways distinguish button fired actionevent ol li set action command button li li compare instances li li text jbutton li li set jbutton li li add actionlistener button words listener button li li ways added comments section li ol 

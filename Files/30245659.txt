@@ -1,0 +1,4 @@
+converting text entry char integer database 
+making database system school project matric pat make database netbeans create program connects data perform specific tasks change data database display data creating add entry made jframe form gui entries alright add entry put char variable types column variable type integer feel dont fix sql statement generate table database working code add entry database add picture gui error message dont rep error message sql sqlsyntaxerrorexception columns type integer hold values type char 
+
+values put statement surrounded single quotes line databases accept values surrounded single quotes valid values integers numbers strongly recommend href http docs oracle javase tutorial jdbc basics prepared html rel nofollow prepared statement building statement prone sql injection makes code hard read debug prepared statement takes care single quotes based type 

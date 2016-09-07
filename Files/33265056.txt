@@ -1,0 +1,4 @@
+determine offset apache spark 
+searching data files 20gb id find specific terms data mark offset matches spark identify offset chunk data operating id filter operation compute offset babe ruth original file offset babe ruth current line whats process function tells offset line file 
+
+spark common em hadoop input format em read byte offset file class href https hadoop apache org docs r2 api org apache hadoop mapreduce lib input textinputformat html rel nofollow textinputformat hadoop em org apache hadoop mapreduce lib input em bundled spark read file strong key strong byte offset strong strong text line blockquote inputformat plain text files files broken lines linefeed carriage return signal end line keys position file values line text blockquote spark calling pre class lang prettyprint override 

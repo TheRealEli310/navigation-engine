@@ -1,0 +1,4 @@
+ensure user enters valid choice 
+making simple rock paper scissors program unsure ensure user enters valid choice reprompt dont type varriant rock paper scissors capitalization doesnt matter suggestions 
+
+play session em roshambo em computer id make selection typing letter rock paper scissors rich natural choice functionality coded declaratively client code simpler handles computers random selection idea href http stackoverflow answer encapsulate logic method 

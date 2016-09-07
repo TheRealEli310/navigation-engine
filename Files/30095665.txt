@@ -1,0 +1,4 @@
+exception setbackgroundcolor 
+question code change background color start activity choose blue red radio buttons radiogroup error click radiobutton red blue settings menue lines wrong blockquote lang nullpointerexception attempt invoke virtual method void android widget relativelayout setbackgroundcolor int null object reference clecks reaction game activity settings changetoblue activity settings clecks reaction game activity settings oncheckedchanged activity settings blockquote code xml code 
+
+layout returning null 

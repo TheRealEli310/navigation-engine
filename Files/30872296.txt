@@ -1,0 +1,4 @@
+deploy wildfly datasource arquillian 
+deploy datasource datasource info deployment jboss console possibility deploy datasource arquillian 
+
+separate standalone xml arquillian testing datasource instance arquillian xml datasource section standalone 

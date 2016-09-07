@@ -1,0 +1,4 @@
+hadoop mapreduce total sort word count 
+total sort mapreduce word count error dont understand inputsampler randomsampler work 
+
+code set job default configured em text intwritable em doesnt match type mismatch error thrown 

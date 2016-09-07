@@ -1,0 +1,4 @@
+identifier expected 
+code compile test2 
+
+assign variables class body alternative assign constructor setter method 

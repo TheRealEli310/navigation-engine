@@ -1,0 +1,4 @@
+set separate streams logging log4j 
+class printing info turn types info parameters results time problem logging levels differentiate finer levels granularity encompass coarser levels easily set 
+
+set logging behaviour creating custom logging classes heres solution setup log4j properties loggers logger log output loggerone isnt printing set error properties file redirect seperate log files set appenders loggers 

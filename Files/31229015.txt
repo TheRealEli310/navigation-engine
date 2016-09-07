@@ -1,0 +1,4 @@
+sse implementation spring rest 
+provide sse server events spring rest basically request response server multiple chunks server client implementation spring rest api party rest api jersey 
+
+isnt direct support sse spring rc2 details href https jira spring io browse spr rel nofollow https jira spring io browse spr works returning sseemitter responsebodyemitter controller methods reference documentation href http docs spring io spring docs rc2 spring framework reference htmlsingle mvc ann async http streaming rel nofollow http docs spring io spring docs rc2 spring framework reference htmlsingle mvc ann async http streaming 

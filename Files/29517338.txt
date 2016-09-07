@@ -1,0 +1,4 @@
+spring security oauth type spel builder 
+implementing oauth2 resource server spring security spring security oauth case pretty simple ul li resources authorized clients li li resources http basic authenticated users li li resources http basic authenticated users li ul configuration enforce security constraints lot spel works fine dont ol li spel markup tricky verified runtime li li repeating constants scopes roles multiple spel strings li li prevent duplicated constants character long concatenations poor readability li ol general spring security builder provided security configuration base classes perfect simple constraints composite sophisticated constraints end spel spring security oauth2 dont spel strong question strong existing utility class kind type fluent builder oauth2 spel 
+
+short answer utility 

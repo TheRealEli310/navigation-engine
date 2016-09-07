@@ -1,0 +1,4 @@
+trick algorithm find substrings time 
+brute force solution calculate substrings input string time takes long time input string long find substrings time strong count substrings character substring returning count function code time strong brute force solution optimize solution find answer time input string extremely large approx length brute force runs approx seconds maximum runtime seconds 
+
+substring identity determined bounding indexes content suffices compute frequency letter letter sum term frequency frequency div pair letter positions duplicates regard order yields counted substring 

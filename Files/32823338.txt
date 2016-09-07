@@ -1,0 +1,4 @@
+create array incremental int stream loop 
+create function builds array incremental numbers obtain function receive parameters start number inclusive final length array loop loop stream api stream api 
+
+built method href https docs oracle javase docs api util stream intstream html range int int rel nofollow returns sequential ordered start inclusive end exclusive incremental step include end element href https docs oracle javase docs api util stream intstream html rangeclosed int int rel nofollow 

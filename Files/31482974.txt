@@ -1,0 +1,4 @@
+user jvm parameter log4j2 configuration 
+rollingfile appender defined log4j2 xml pass parameter jvm startup href https logging apache org log4j manual lookups html jmxruntimeinputargumentslookup rel nofollow documentation pretty straight forward understand work doesnt verified working general absolut path application log4j works 
+
+href https logging apache org log4j manual lookups html systempropertieslookup rel nofollow system properties lookup section documentation define variable system property log4j configuration access 

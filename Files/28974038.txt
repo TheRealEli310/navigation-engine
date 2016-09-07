@@ -1,0 +1,4 @@
+spring secure web app rest app 
+read lot manual configure spring security stuck configuration configure rest calls http calls understand create urls server web application rest rest application call web application urls create login page user authenticated rest app fire unauthorised code spring annotations extend websecurityconfigureradapter server works fine add rest call rest browser forwards login page dont understand break mind helpful responses 
+
+means access role access authentication direct formlogin multiple authentication conf href http docs spring io autorepo docs spring security ci snapshot reference htmlsingle rel nofollow http docs spring io autorepo docs spring security ci snapshot reference htmlsingle 

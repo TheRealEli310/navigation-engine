@@ -1,0 +1,4 @@
+reading extjs writer root property jersey rest web service 
+successfully implemented jersey simple webservice calls queryparams simple objects store record jersey doesnt understand writer doesnt start json record extjs sending mandatory extjs transform data json transform object advantage jerseys automatic object marshalling general practice store data records edit dont problem objects json stores proxy configured create post request parameter model configured function declaration error blockquote org codehaus jackson jsonparseexception unexpected character code expected valid number string array object true false null blockquote guessing jackson doesnt object starting avoid mandatory root property stores records 
+
+found solution problem question hand idea read writers root property jersey found dont anymore change proxys writer mandatory set sends records array understood jerseys serializer decode data objects correctly 

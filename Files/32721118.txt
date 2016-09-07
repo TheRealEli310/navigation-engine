@@ -1,0 +1,4 @@
+add existing saml assertion ws security header 
+spring ws custom insert security header saml receive create testing marshal send request issue verification signature fails server side digests dont match comparing output saml sending receiving receiving side namespace declarations elements didnt sending callback insert element soap xml making element modified approach achieve spring method find working pass existing saml assertion parameter strong saml xml sending strong strong saml xml receiving strong hr strong edit strong found add additional namespaces importing node strong strong diff shows difference outputs strong verification failing strong point trust output change saml ideas digests match 
+
+approach documented question edit prevented additional namespaces added saml validation work saml added soap message original approach adds additional namespaces validates missing id assertion heres saml 

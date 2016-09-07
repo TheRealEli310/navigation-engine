@@ -1,0 +1,4 @@
+javafx swing performance issues 
+perpetual performance issues running javafx inside jfxpanel swing based applications problem running jdk1 run jdk1 works perfectly changing code symptoms application render fonts fuzzy performance terrible multiple seconds respond keypress typing textfield observing correct rules edt awt platform threads doubt issue stuck support jdk1 plug netbeans users running jdk1 good reasons force upgrade edit mcve recreates problem tests performing simple javafx anchorpane textfield absolutely code typing textfield painfully slow behavior lock contention swing javafx threads find explanation solution 
+
+answer problem support answer reached end life blockquote july updates longer public oracle offers updates customers purchased support oracle products require blockquote href https www en download faq xml rel nofollow https www en download faq xml good reasons problem solving easy version dont break things upgrading 

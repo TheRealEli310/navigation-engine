@@ -1,0 +1,4 @@
+fetch data aws iot platform 
+fetch data aws iot broker api github complete documentation aws official site purpose href https github aws aws sdk tree master aws sdk iot rel nofollow https github aws aws sdk tree master aws sdk iot href http docs aws amazon awsjavasdk latest javadoc index html rel nofollow http docs aws amazon awsjavasdk latest javadoc index html find single supporting mqtt http protocol examples 
+
+aws iot parts answer sdk works node android ios swift posted reuse android work point aws iot supports straight mqtt tls connections shelf paho client docs href https www eclipse org paho clients rel nofollow http posting simply cli hope helps 

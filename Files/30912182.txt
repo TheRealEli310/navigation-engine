@@ -1,0 +1,4 @@
+resolve cwe issue 
+cwe issue reported product cwe issue software properly sanitize incorrectly sanitizes output written logs solution add logging question central place log4j single change solve issue 
+
+href https logging apache org log4j apidocs org apache log4j layout html rel nofollow responsible serializing log message newline transformation code belongs suggest creating trivial subclass transformation discussed log4j mailing list href http apache logging n7 nabble search replace message text outgoing log messages td35625 html rel nofollow heres slightly modified version solution suggested thread related question potentially answer ul li href http stackoverflow questions log4j modify logged message custom appender log4j modify logged message custom appender li ul 

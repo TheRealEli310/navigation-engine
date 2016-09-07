@@ -1,0 +1,4 @@
+arrayadapter causing lang nullpointerexception 
+add item arrayadapter item saved throws nullpointerexception whats causing info saves db reloading app heres file line question heres full file error console code sends intent 
+
+change problem occurring method calling method 

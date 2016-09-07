@@ -1,0 +1,4 @@
+finding string inside string 
+find part str1 inside str2 strings working program working correctly correct logic opinion work turn strings longer works improve logic finding match possibly substring fit inside solution thinking possibly making statements compare lengths make str2 longer length longer errors decent solution length substring charat 
+
+algorithm ol li main loop stop word found weve reached length minus length string str1 length str2 length str2 begin index li li loop check indexes str2 fit str1 check index inside doesnt correspond looped indexes main loop break loop add index main loop li li loop finished succesfully word found li ol hr short solution 

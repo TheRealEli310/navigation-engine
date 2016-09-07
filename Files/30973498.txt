@@ -1,0 +1,4 @@
+scanner reading newline wrong input datatype verification loop 
+looked similar questions follow answers solved issues putting sc sc nextline loop infinite loop problem user enters incorrect input number multiple times entering correct info empty lines shown output block enter enter output wrong format entering blank lines wont read enter character sort nextint reading newline work correctly method output enter number blank returns output enter blank return number 
+
+reading scanner line basically reading line scanner comparing forgetting read line read line query happen completely string conclusion read line validate read invalid method complicated questions answers href http stackoverflow questions check string numeric type comparing strings method href http stackoverflow questions compare strings 

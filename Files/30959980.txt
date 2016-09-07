@@ -1,0 +1,4 @@
+3des encrypt 
+code migrate 3des encryptation mandatory strong strong strong strong test execute desencrypt method strong strong strong strong main problem byte byte primitive number values data key variables obtained conversion hexadecimal string byte code returns code moment values returns dont common results 
+
+solution href http stackoverflow questions 3des decryption error invalid key length 3des decryption error invalid key length removed messagedigest key generation code 

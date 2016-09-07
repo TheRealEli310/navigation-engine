@@ -1,0 +1,4 @@
+spring mvc size annotation resolve error message correctly 
+validator spring define error messages defined javax annotations resolved message raw string size firstname length printed tomcat shows warning additionally checked similar questions worked lets simple person pojo related config related jsp file strong webconfig strong strong registerform jsp strong strong validationmessages properties strong validationmessages properties firstname invalid error message rendered raw string size firstname length shown 
+
+spring delegates message lookup configured doesnt default bean validation configuration wrong href http docs spring io spring docs current javadoc api org springframework context support resourcebundlemessagesource html setbasename lang string rel nofollow file directory capable loading files href http docs spring io spring docs current spring framework reference htmlsingle context functionality messagesource rel nofollow classpath reconfigure rename put 

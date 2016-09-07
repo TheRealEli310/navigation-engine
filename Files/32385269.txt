@@ -1,0 +1,4 @@
+illegalargumentexception passing array parameter method invocation 
+miss fundamental pass array kind method invocation error works strong complete code fails strong strong exception thrown strong work btw 
+
+problem parameter meant array arguments youre single argument cases parameter varargs parameter argument array compatible compiler isnt creating wrapper array id expect compile time warning explicitly create array wrapping argument cast argument compiler wrap 

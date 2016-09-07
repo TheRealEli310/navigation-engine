@@ -1,0 +1,4 @@
+hibernate initializing final fields arg constructor 
+class hibernate pulling userid username database make basicuser object worked fine work hibernate required arg constructor provided fields final initialized constructor sake initialized shown code expecting error running code hibernate formed object field values database happening understand objects application immutable lot posts telling provide arg constructor access type field immutable objects provide arg constructor final field field initialized whats 
+
+hibernate reflection related low level trickery set private instance fields approach pass reassign values constructor returns 

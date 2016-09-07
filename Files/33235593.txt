@@ -1,0 +1,4 @@
+jersey client closing inputstream response work 
+jersey client v2 transitive dependency dropwizard puzzled closing mechanism response entity read href https jersey net documentation latest client html d0e5069 rel nofollow documentation states blockquote entity read inputstream response readentity inputstream class connection stays open finish reading inputstream case inputstream response closed manually end reading inputstream blockquote response entity end instance suggest release beneath method called breaking contract method consequence end http connections pool unreleased slowly filling pool easy hold reference response official docs state manage release physical resource 
+
+bug jersey client appears fixed href https net jira browse jersey rel nofollow https net jira browse jersey href https github jersey jersey releases tag rel nofollow https github jersey jersey releases tag 

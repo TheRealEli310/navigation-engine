@@ -1,0 +1,4 @@
+comparing multi lined strings 
+working application compare strings multi lined output function string1 string2 experimented find answer met string lines relative string1 line directly function return true string1 string2 false string string3 give greatly appreciated vb similar codes advance 
+
+based comment rufusls href http stackoverflow 20answer answer blockquote promising work string1 lines long code easily adaptable make cycle lines lengths blockquote assuming source compared hold lines compared string steps basically ol li convert source compared strings lines li li sufficient candidate start lines source find matching start line li li matching substring candidate start source line found check subsequent lines match substring position match li ol code snippet implementation algorithm extension method usage 

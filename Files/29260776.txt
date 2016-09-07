@@ -1,0 +1,4 @@
+android eclipse project making file error 
+issue eclipse work android issue create project click finish auto generates project file project creating window doesnt closes close projects work fine issue coming make project error styles xml file error retrieving parent item resource found matches theme appcompat light press ctrl rightclick file takes window source found solution post answer question edit appcompat error solved 
+
+solve missing generated files make android sdk tools android sdk build tools installed updated sdk manager make eclipse updated clean project rebuild solve resource found appcompat make android support library installed updated sdk manager appcompat library found reference appcompat library android project import library eclipse click android project select properties click add bottom add library select support library finally clean rebuild project 

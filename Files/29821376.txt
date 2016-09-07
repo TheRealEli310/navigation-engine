@@ -1,0 +1,4 @@
+serialization reflection compiled classes 
+due limitation client jvm popular serializers due fact reflection supported tool perform byte code manipulation achieve serialization injecting writer reader methods compiled class byte code manipulation code bind code building process generating code injecting source code compiling custom serializer avoid approach dont yo modify source files aware kryo xml json serializers dont match 
+
+href https github jboss javassist javassist javassist bytecode generation library project youll reuse part current code generator javassist parse simple forms code instance dive deep bytecode generation href http asm ow2 org asm asm write bytecode directly overkill type problem strong implementation javassist strong base skeleton javassist dependency href http mvnrepository artifact org javassist javassist ga 

@@ -1,0 +1,4 @@
+convert blob string sqlite 
+code retrieve data sqlite database 4th column database stored string blob string values back gave exception solve exception 
+
+method supported jdbc library implementation due href http grepcode file repo1 maven org maven2 org xerial sqlite jdbc pre1 org sqlite jdbc4 jdbc4resultset jdbc4resultset getblob 28int rel nofollow sources jdbc4resultset doesnt implement 

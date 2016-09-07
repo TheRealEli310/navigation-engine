@@ -1,0 +1,4 @@
+remove jlabel click key keyboard 
+gui tile class method class created tiles game class consists tiles letter color create method click key keyboard specific letter tile remove tile create method model class call game gui class hr 
+
+ul li game controller responsible managing functionality communication model view li li view representation model li li model possibly view providing event notification support controller monitor order manage requirements logic li ul start code mess making worked class calling time called character youll character begin kind observer contract mode things changed special means provide notification removed removed updated actual models maintains functionality adding removing support event triggering updated adds data setup ui registers finally event asks remove key proof concept h1 h1 general rule thumb pain work making key bindings api href http docs oracle javase tutorial uiswing misc keybinding html rel nofollow key bindings details 

@@ -1,0 +1,4 @@
+call aftermethod testing method class executing test case class 
+abc def call method calc def class executing testcase abc class 
+
+test class scope move class 

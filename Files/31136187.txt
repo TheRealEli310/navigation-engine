@@ -1,0 +1,4 @@
+search database text hibernate search 
+implement search query searches database text back empty result text appears dataset idea result empty 
+
+answer question integer fields general numeric fields hibernate search annotation index integers numeric fields dont numericfield annotations optional analyze dont analyze numeric fields construct query lucene numericrangequery combine queries object lucene booleanquery finally wrap lucene query jpa query 

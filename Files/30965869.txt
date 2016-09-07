@@ -1,0 +1,4 @@
+fileinputstream read text file 
+text file contents abcdefgh saved computer wanted fileinputstream display characters console measuring time console rest letters read operations mind direction char size reads single byte time 
+
+reading data condition printing loop reading check official documentation href http docs oracle javase docs api io fileinputstream html 

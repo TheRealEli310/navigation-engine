@@ -1,0 +1,4 @@
+save read key pair spark 
+javapairrdd format save key format job read data directly spark api works dont option eclipse suggestion problem 
+
+href https spark apache org docs api scala index html org apache spark rdd sequencefilerddfunctions rel nofollow sequencefilerddfunctions implicits scala nastier usual suggestion implementing extending work check compilation fits data model 

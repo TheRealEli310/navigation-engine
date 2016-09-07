@@ -1,0 +1,4 @@
+reflected method calling constructor multiple times 
+working launching javafx gui app custom classloader reflection inadvertently invoking application constructor multiple times throws exception sort singleton pattern guarantee initialize main app class constructors thrown call class comment exception constructor app starts fine means invoked constructor unsure guard people invoking constructor research appearing call static method attempting build instance javafx application thread fixed adding static method invokes method class load class call static method 
+
+creates instance class called necessarily subclass instance coming 

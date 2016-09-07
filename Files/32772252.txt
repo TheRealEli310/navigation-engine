@@ -1,0 +1,4 @@
+jcenter gradle android studio 
+edit figured implemented jbaruchs suggestion allprojects repositories section project wide build gradle file writing project depends ioio compiling ioios libs project giving trouble placing aar jar files directly libs directory working aar files gradle proving trouble mite attempting jcenter find libs jcenter repository gradle originally resolve version number fixed gradle failing resolve library compiled project copy app build gradle file jbaruchs suggestion adding maven url project root build gradle file noticed gradle build file gradle search maven url provided force gradle 
+
+transitive dependency ioio project problem spare time labs repository doesnt publish artifacts bintray add repository list repositories gradle 

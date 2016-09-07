@@ -1,0 +1,3 @@
+spring boot configure datasources 
+spring spring boot configure data sources doc page href http docs spring io spring boot docs build snapshot reference htmlsingle howto configure datasource rel nofollow http docs spring io spring boot docs build snapshot reference htmlsingle howto configure datasource data source strong application properties strong strong application class strong modify application properties add data source autowire repo 
+

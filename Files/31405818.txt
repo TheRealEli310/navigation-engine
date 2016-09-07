@@ -1,0 +1,4 @@
+jar version build gradle 
+jar version build gradle build gradle strong gradle clean build strong expecting generated jar abc jar happening output jar abc jar ignoring version jar version achieve 
+
+configuration forcing abc jar default format jar basename project version version project remove archivename line configuration youll format youre archive project set basename href https docs gradle org current dsl org gradle api tasks bundling jar html org gradle api tasks bundling jar archivename rel nofollow https docs gradle org current dsl org gradle api tasks bundling jar html org gradle api tasks bundling jar archivename info configuring task 

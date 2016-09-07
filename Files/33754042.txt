@@ -1,0 +1,4 @@
+read phone state permission added crashing 
+added permission read phone state manifest android studio app crashing error androidmanifest xml 
+
+found solution problem persists phones android marshmallow update security issue user manually permissions app settings apps app permissions enable required permissions 

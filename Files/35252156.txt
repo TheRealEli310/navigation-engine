@@ -1,0 +1,4 @@
+count list ids elasticsearchtemplate spring data elasticsearch 
+spring data elasticsearch project provide full text search functionality real data relational database relevant metadata respective id elasticsearch search results id field required actual data retrieved relational database building search query based search criteria performing queryforids total count specific searchquery call redundant understand list id total count single call custom class annotated actual document class big passing large classes extra load engine fields json mapped id field query builder 
+
+prevent calls elasticsearch suggest write custom resultsextractor searchresult custom class information elasticsearch question calling passed class checked annotation 

@@ -1,0 +1,4 @@
+set multiple rmi servers machines 
+rmi calculatorserver calculatorclient class purpose load balancing set servers separate machine multiple clients access servers strong calculatorserver strong strong calculatorclient strong 
+
+assume number servers populate arraylist ip addresses time client makes request select random server ip arraylist connect server nextint int method uniform distribution probability choosing ip arraylist equal probability choosing ip 

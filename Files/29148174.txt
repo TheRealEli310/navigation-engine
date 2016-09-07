@@ -1,0 +1,4 @@
+duplicate class definition bug occured jaxb jboss 
+jaxb inside jboss 1ga container strange exception startup appears stacktrace class initialisation frameworkutil class frameworkutil line validate stack trace reference stacktrace refers field heres stack trace 
+
+check href https net jira browse jax ws rel nofollow bug fixed version jaxb implementation replace jaxb jar files theyre servers lib webapp overwrites lib folder 

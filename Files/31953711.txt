@@ -1,0 +1,4 @@
+trouble connecting mongodb 
+write program connect mongodb database ip address port userdb username password database access mongodb driver jar file set referenced library eclipse created mongodbdriver file src folder shown run script error message wrong fix 
+
+exception means class path mismatch create small app connect mongodb curd operations href https github yasithabangamuwage mongodb app rel nofollow emongodb app solution connect database 

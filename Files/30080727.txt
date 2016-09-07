@@ -1,0 +1,4 @@
+train objects sizes opencv 
+train licence plate car licence plate motorcycle opencv version images positives negative images positive images licence plate car real size cm cm licence plate motorcycle real size cm cm train vectors separately software works fine train utilizing plates software doesnt work utilized code training code works licence plate car doesnt works licence plate motorcycle detectmultiscale code 
+
+types plates aspect ratios train classifier type paper accurate 

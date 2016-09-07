@@ -1,0 +1,4 @@
+sorting string array int array 
+practicing sorting arrays successfully sorted string array program users enter number students grade sort int array grades printout matches student stuck explanation method 
+
+case solution easy place exchange student names exchange grades time switch student names switch grades time arrays synchronized recommending create class represents student grade real world case student data subjects matching grades attendance record contact information university add loop data item make intractable information record exchange record references data exchanged em em basis class define array sort directly implements sorting algorithm method loop 

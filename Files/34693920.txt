@@ -1,0 +1,4 @@
+azure sdk classes 
+sdk automate azure tasks start server shutdown server version sdk maven code compiled ran successfully eclipse upgrade latest version sdk classes dont exist longer couldnt find online state classes deprecated lib idea classes libs moved great suggest improvements code starting server appreciated damien 
+
+reproduce issue error issue caused maven repository downloading dependencies version microsoft azure sdk management suggest version present version add complete maven list libraries dependencies manually file download amp add library files project classpath manually 

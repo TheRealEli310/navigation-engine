@@ -1,0 +1,4 @@
+cast appbarlayout coordinatorlayout android studio 
+gradle build successful app force closing due line remove appbarlayout tag activity home xml thought move create separate app bar xml layout directory error coordinatorlayout casting appbarlayout persists find real problem heres homeactivity mainactivity activity home xml activity main xml content home xxml content main xml 
+
+cast appbarlayout coordinatorlayout classes coordinatorlayout set id xml file id 

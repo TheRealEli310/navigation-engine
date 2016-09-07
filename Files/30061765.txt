@@ -1,0 +1,4 @@
+android pass data parent fragment child fragment 
+application pass search query edittext adapter located child fragment childfragment filter adapter based text entered edittext located parent fragment firstly fragment viewpageradapter call global variable adapter public results null pointer adapter dont understand interfaces make interface child fragment implements interface parent fragment childfragment interface explain working push direction solve problem doesnt give result back adapter filtered entered query 
+
+variable assigned nullpointerexception happening reference child fragment depending youre attaching options youre attaching child fragment directly fragment layout tag xml recover instance assign id set fragment xml xml case youre attaching child fragment transaction add replace reference child fragments instance assign variable id fragment container viewgroup youre attempting attach child fragment layout xml 

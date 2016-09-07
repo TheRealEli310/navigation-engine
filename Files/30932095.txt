@@ -1,0 +1,4 @@
+classnotfoundexception android blank activity 
+problem android studio dev channel created default blank activity menu file project api minimum sdk blank activity default settings wanted test simple setup load class called package end simply added method runtime successful wheras fails yarpdroid stacktrace completeness touch file 
+
+ry change class loader 

@@ -1,0 +1,4 @@
+antlr based rule engine 
+writing antlrv4 grammar implement simple rule engine parse fix messages action rule violated grammar stands problem generated code unable correctly parse rule action direction error mismatched input error expecting action parsing successful parsing fails pointers correct highly appreciated 
+
+lines lexer rules upper case start character lexer responsible split input tokens determined type error token type antlr decides rules match defined resolve transform lexer rules parser rules lower case start character parser rules compose tokens joining means action 

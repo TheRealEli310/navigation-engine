@@ -1,0 +1,4 @@
+android studio displaying compilation errors suddenly reason 
+android studio suddenly displaying compilation errors files project today gradle build successful worked perfect till yesterday restarted project clean made sdk jdk locations project structure valid bit surprised facing issue thoughts error log 
+
+facing issue couple months ago ul li navigate taskbar menu li li build rebuild project li li build clean project rebuilding li li tools android sync gradle files li li file invalidate caches restart li ul worked 

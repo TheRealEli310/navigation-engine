@@ -1,0 +1,4 @@
+yuv nv21 image convertion bitmap takes long android studio 
+capture images camera preview drawing problem fps drawing half frame processing time receiving decoding nv21 image camera preview converting strong bitmap strong code task found stack question fast optimize takes ms samsung image size 1920x1080 make work faster code final format image bitmap processing set camera parameters setpreviewformat rgb assign camera params camera read nv21 format find solution format advance 
+
+alex cohn helping make convertion faster implemented suggested methods renderscript intrinsics code made renderscript intrinsics converts yuv image bitmap times faster previous code ms samsung takes strong task code strong create function initialize onpreviewframe receive convert image 

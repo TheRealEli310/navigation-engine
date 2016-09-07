@@ -1,0 +1,4 @@
+spring autowired object 
+starting work spring boot question autowire spring beans objects managed springs application context scenario spring boot application code scheduled task fetches list master data type environment database environment object multiple asynchronous rest calls executed return json data applicationserverdata data locally rest call responses arrived processing result written database thought creating kind processor class capable holding requested data locally environment object created operator problem wont work objects managed spring simply make multiple instances hold data class read solution annotation good practice make class make component caches data wiped task finished empty lists run good practice case 
+
+service spring scoped prototype scope prototype check href http www mkyong spring spring bean scopes examples rel nofollow http www mkyong spring spring bean scopes examples 

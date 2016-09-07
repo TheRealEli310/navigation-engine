@@ -1,0 +1,4 @@
+spring application context instantiation beans 
+code href http www mkyong spring spring auto scanning components rel nofollow mkyong code instantiating bean configured file simply happen 
+
+easiest answer question add break point constructor bean debugging added break point radom class called random app bean definition br img src http stack imgur cms7q png alt debug frames ol li instantiation main method li li default bean scope spring point instantion singleton beans start li ol method invoked bean called constructor triggered important mention method place bean definitions loaded file img src http stack imgur mxjpr png alt debug frames load beans exact code refresh method call 

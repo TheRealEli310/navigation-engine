@@ -1,0 +1,4 @@
+logback siftingappender generated log files deleted untill stop tomcat server 
+logback siftingappender generating log files based date information cycle date multiple cycles sample logging file names job1 log br job1 log scenario logback configuration code logging details specific logs files jobs housekeeping log files retention days day files moved location job completes move file suspect logback holding resource letting file move delete jobs deployed single war file apache tomcat server suggest enforce logback release resource logging completed br mayuran 
+
+suggestion suggested logback support support group asked question blockquote mayuran add finalize session marker mdc trigger appender cleaned documented href http logback qos ch manual appenders html rel nofollow http logback qos ch manual appenders html appender lingering state seconds appender closed dave blockquote 

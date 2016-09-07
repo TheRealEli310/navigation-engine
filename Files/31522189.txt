@@ -1,0 +1,4 @@
+renderrequest attributes null calling renderurl 
+access data pass jsp files simplified bare bones doesnt work portlet deployed liferay portal problem click link call renderurl jsp page doview method set attribute setattribute retrieve attribute jsp returns null expected output proper actual output default strong newportlet controller strong strong view jsp strong strong edit jsp strong 
+
+exact usecase issue setting attribute fetch parameter returns null solution issues code el 

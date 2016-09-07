@@ -1,0 +1,4 @@
+spring mvc returning string controller 
+string facing staring issues spring mvc application view resolver maps view names respective jsp files working expected call method controller show returned string view url request href http localhost demo greet rel nofollow http localhost demo greet method controller server request call url browser method browser invoked returns string find page doesnt exist user send raw string controller method browser 
+
+change controller code documentation href http docs spring io spring docs current javadoc api org springframework web bind annotation responsebody html rel nofollow responsebody 

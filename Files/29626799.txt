@@ -1,0 +1,4 @@
+resteasy web service response url 
+web service facing strange issue resteasy web service hitting web service url error plase mistake web xml resteasyservice 
+
+add context param web xml 

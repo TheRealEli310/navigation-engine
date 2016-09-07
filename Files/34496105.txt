@@ -1,0 +1,4 @@
+spring transactional timeout 
+spring annotation parameter basically test code put codes timeout exception expected timeout exception database operations longer timeout period lock record table database update select statement update record program wait sample code case program throw timeout exception fix 
+
+solved problem application context annotation work jdbc read timeout exception 

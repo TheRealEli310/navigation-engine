@@ -1,0 +1,4 @@
+2d array printing grid full array 
+issue 2d array printing array run evolve method doesnt print 2d array time wondering whats wrong make print entire array print array evolve method runs print array 25x75 grid desired initial result href http stack imgur qlw1u png rel nofollow img src http stack imgur qlw1u png alt enter image description actual result href http stack imgur g8w1z png rel nofollow img src http stack imgur g8w1z png alt enter image description evolve method result href http stack imgur 2sr52 png rel nofollow img src http stack imgur 2sr52 png alt enter image description project gameoflife 
+
+add loop start printing grid line strong updated strong problem failed notice printing entire row line grid visible loop print blank line entire grid printed solution extracts printing game catch file reader removes unnecessary variable bottom exiting 

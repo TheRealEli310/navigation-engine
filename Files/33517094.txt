@@ -1,0 +1,4 @@
+redirect ajax request login page 
+redirect ajax request login page server side understand request ajax request javascript lot places sending ajax request server server side work 
+
+short answer long answer youre thinking redirect login page required means user authenticated send back href http www w3 org protocols rfc2616 rfc2616 sec10 html rel nofollow response client login required trick handle call handle global point youre jquery register href https api jquery ajaxerror rel nofollow global error handler check status code redirect login page accept authentication data 

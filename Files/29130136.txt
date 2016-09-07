@@ -1,0 +1,4 @@
+layout json array objects jquery bootstrap 
+working online shopping application struts mysql jquery jsp bootstrap gson tomcat entity called controller action return json array products jsp page calls action ajax displays products user dont understand display json array googled href https www datatables net rel nofollow jquery datatables plugin propose filtering pagination dont configured group information product fields group product entity picture img src http stack imgur xvh53 jpg alt products view plugins solutions suggest future development add image entity action controller class viewallproducts code jsp page ajax call action json array output 
+
+loop write values page items id div id class target product actual markup hard youll similar success function works data page nee build entire list products page suggest js template system mustache js icanhaz href http icanhazjs rel nofollow http icanhazjs 

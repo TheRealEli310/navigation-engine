@@ -1,0 +1,4 @@
+android studio resolve method 
+migrate android studio eclipse sample project working figure hope call sample class main activity call method sample 
+
+youve declared instance member means call method instantiated object class method static member class simply declare rest code fine instantiate object call method method misspelled code youve posted additionally standard naming convention class capitalized 

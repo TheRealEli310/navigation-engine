@@ -1,0 +1,4 @@
+libgdx rendering sprite character hides wall 
+making game libgdx isometric perspective problem rendering character map loaded tiled map editor character sprite wall layer map drawing wall sprite sprite wall sprite wall wall rendering sprite wall sprite sprite front wall sprite idea fixing 
+
+havent worked tiled maps tileed create object layer character sprite layer background stuff stuff obscure player characters create mapobject subclass render sprite load map sprite put sprite layer prepared subclass map renderer render sprite subclassed version original instance basics works player front wall create multiple extra layers move sprite object layers libgdx feature enhancement orthogonaltiledmaprenderer draw objects automatically merged tilelayer inserting draw order based row 

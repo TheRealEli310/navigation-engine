@@ -1,0 +1,4 @@
+iteration order hashmap key 
+hashmap give sequence key iterated time adding records code output program 
+
+dont make iterations youll iteration order guaranteed deterministic data structure adding removing entries iterations change iteration order rely iteration order linkedhashmap default keys iterated order added map iterate keys specific order treemap keys ordered natural ordering supplied comparator 

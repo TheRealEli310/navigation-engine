@@ -1,0 +1,3 @@
+serve index html page root grizzly 
+single page web application scenario serving static files route directory files addition serve 
+

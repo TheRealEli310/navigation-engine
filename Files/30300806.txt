@@ -1,0 +1,4 @@
+zxing 2d barcode decoding utf characters decoded properly 
+zxing read 2d barcodes works fine doesnt recognize utf characters code set encoding wrong edit calling overload decode takes hints result 
+
+creating bitmap wrong worked 

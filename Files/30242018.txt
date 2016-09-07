@@ -1,0 +1,4 @@
+jdbc preparedstatement foreign key constraint failed 
+designing billing program sqlite jdbc helper method parameter pass timesheets rows id date attorney notes id set autoincrement attorney foreign key attorney table attorneyname passing exists attorneys table working fine prior build regular statements swapped prepared statements loss wrong suggestions 
+
+additional single quotes wrapping parameters causing fk violation loop remove semicolon statement 

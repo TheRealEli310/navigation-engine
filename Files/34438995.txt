@@ -1,0 +1,4 @@
+generate pdf documents rpt multi threaded approach 
+rpt file generating multiple reports pdf format engine class inet clear reports process takes long reports generated mutli thread approach speed process helpful partial code pdfexportthread execute 
+
+basic code href https docs oracle javase docs api util concurrent threadpoolexecutor html rel nofollow threadpoolexecutor fixed size threads pool backbone considerations ol li thread pool size equal db connection pool size optimal number reasonable parallel engines li li main thread wait sufficient time killing threads put hour wait time li li youll proper exception handling li li api doc stopall shutdown methods engine class invoking work li ol hope helps hr 

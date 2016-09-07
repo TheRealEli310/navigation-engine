@@ -1,0 +1,3 @@
+practice edx mooc 
+description program blockquote assume computer game player allowed play game levels highscore table show top list game records game record highscore table set attributes players total score obtained level score obtained list game records sorted highest lowest score indicating rank players blockquote description method modify blockquote strong minpos strong method finds returns array index gamerecord lowest level smallest score portion gamerecord array case multiple records lowest level smallest score strong return index position strong strong higher index strong portion blockquote testcase gamerecord class values level score order minpos method find position level score minimum implementation simplify implementation confused correct output 
+

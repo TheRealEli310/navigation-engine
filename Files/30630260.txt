@@ -1,0 +1,4 @@
+rtfeditorkit read write bug 
+code expect print string times cycle reading textpane replacing content read results additional paragraph created bug rtfeditorkit wrong 
+
+bug rtfeditorkit empty defaultstyleddocument kit internlly till paragraph end kit dont care paragraph creates time existing href http sl advanced rtf editor kit html rel nofollow alternative rtf editor kit supports things 

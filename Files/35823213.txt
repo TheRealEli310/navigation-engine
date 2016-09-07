@@ -1,0 +1,4 @@
+spark sql nested classes parquet error 
+write parquet class defined create manually setting basically nested rdd save parquet file address class encounter error caused lang classcastexception strong test schema address cast org apache spark sql row strong running spark ul li bug li li importing nested json file format save parquet li li create dataframe error li ul read complex data structure text file save parquet 
+
+api limitation spark documentation href http spark apache org docs sql programming guide html interoperating rdds rel nofollow http spark apache org docs sql programming guide html interoperating rdds em spark sql supports automatically converting rdd javabeans dataframe beaninfo obtained reflection defines schema table spark sql support javabeans nested complex types lists arrays create javabean creating class implements serializable getters setters fields em scala case classes work updated write parquet format 

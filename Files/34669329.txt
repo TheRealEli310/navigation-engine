@@ -1,0 +1,4 @@
+appbarlayout allowing views match parent 
+layout appbarlayout toolbar tablayout viewpager floatingactionmenu problem appbarlayout views inside coordinatorlayout match entire screen layout height match parent views match whats left parent excluding appbarlayout behavior perfect viewpager content covered appbarlayout floatingactionmenu match entire screen menu opens dim screen question make floatingactionmenu takes entire screen strong xml strong relativelayout root view linearlayout hold toolbar tablayout solve problem coordinatorlayout appbarlayout add scrolling functionality strong edit strong testing devices found problem newer versions photos api href http stack imgur wqqne jpg rel nofollow img src http stack imgur wqqne jpg alt older version api api href http stack imgur b0mpi png rel nofollow img src http stack imgur b0mpi png alt newer version api 
+
+problem wasnt android elevation floatingactionmenu appbarlayout appearing top menu 

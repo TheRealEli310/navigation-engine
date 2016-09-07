@@ -1,0 +1,4 @@
+android libgdx make texture text touch start blink 
+pretty finished libgdx project adding user friendliness texture sprite fade fade repeatedly fast blinking rectangular funky text touch start ul li considered making animation pictures varying opacity changing slides li li libgdx effect controls transparency avoid overhead make animation choppy li ul relevant code add img src http stack imgur lf7dr png alt enter image description edit defined numberprinter bitmapfont supposed draw text read api guide interpolation blinkfontcache notice change screen strong solution strong edit interpolation edit actions definitions render 
+
+class scene2d actor texture region methods heres implementation 

@@ -1,0 +1,4 @@
+aspectjexpressionpointcut wrong classloader 
+ee application consisting multiple osgi bundles running apache felix container bundles responsible loading spring application context spring aop application error arised bundle problem class somepackage someclass pointcat aspect loaded bundle classloader aspectjexpressionpointcut passes default classloader buildpointcutexpression method class somepackage someclass 
+
+problem solved changing classloader thread initializing spring application context method classutils getdefaultclassloader returns bundleclassloader load class mentioned pointcut 

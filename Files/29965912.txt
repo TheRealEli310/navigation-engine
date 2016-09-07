@@ -1,0 +1,4 @@
+pass requestbody forwarded controller spring mvc 
+consume forwarded controller passed json request body controller forward controller controller strong mycontroller strong strong stacktrace strong achieve scenario spring mvc 
+
+exception annotation reads underlying servlet input streams consumes read closer stack trace origin blockquote org apache catalina connector inputbuffer readbyte inputbuffer blockquote read data stream closed controller change choose redirect controller put object session extract method controller business logic call controller put json parameter http call authorize avoid problem authorize rest ednpoint anymore simple http integration 

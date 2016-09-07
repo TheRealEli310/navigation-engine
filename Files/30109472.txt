@@ -1,0 +1,4 @@
+exception building applicationcontext junit test activiti spring boot 
+solve exception run junit test activiti spring boot exception junit test main application class beans defined class reason external xml context configuration file dependencies 
+
+finally solved defining junit test follow revise junit test taking account activitirule initializes processegine activiti cfg xml resource classpath default href http activiti org javadocs org activiti engine test activitirule html rel nofollow http activiti org javadocs org activiti engine test activitirule html 

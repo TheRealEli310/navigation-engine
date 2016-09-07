@@ -1,0 +1,4 @@
+unmarshal blank strings null beanio 
+href http www beanio org docs reference index html fixedlengthfields rel nofollow beanio reference guide states fixed length stream blockquote required set false spaces unmarshalled null field padding character blockquote understand sentence correctly means test pass pojo test fails spaces unmarshalled empty string missing unmarshal spaces null string 
+
+end managed problem href http www beanio org docs reference index html customtypehandlers rel nofollow type handler based href http beanio org docs api org beanio types stringtypehandler html rel nofollow stringtypehandler strong update strong user href https groups google msg beanio 0em4ytgcwlc ibxslvuybaaj rel nofollow beanio users group suggested annotation 

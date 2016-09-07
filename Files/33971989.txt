@@ -1,0 +1,4 @@
+comparison double 
+double values check double values compare double values compare accurate ways comparison double values 
+
+handles case nan negative zeros differently equal code print operations equivalent depend requirement exact rule found jls href https docs oracle javase specs jls se8 html jls html jls rel nofollow section blockquote floating point equality testing performed accordance rules ieee standard ul li operand nan result false result true test true nan li li positive negative considered equal li li distinct floating point values considered unequal equality operators representing positive infinity representing negative infinity compares equal compares unequal values li ul subject considerations floating point numbers rules hold integer operands floating point operands nan ul li produced operator true left hand operand equal hand operand result false li li produced operator true left hand operand equal hand operand result false li ul blockquote 

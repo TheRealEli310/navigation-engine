@@ -1,0 +1,4 @@
+double brace initialization serialization 
+noticed strange behavior double brace initialization initialized object serialization fails result error sending object jms queue running fine syntactic sugar lead creation anonymous class dont understand breaks serializable contract explain whats happening 
+
+created anonymous class strong static strong serialized worse null object reloaded solution setter return void chain setters 

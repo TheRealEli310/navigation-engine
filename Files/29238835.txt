@@ -1,0 +1,4 @@
+style multiple buttons javafx 
+searched couple questions similar dont answer question set buttons changing style button individually avail error stating duplicate children added assuming means buttons point templatebutton inheriting templatebuttons properties set separately 
+
+loop create class extends set properties constructor 

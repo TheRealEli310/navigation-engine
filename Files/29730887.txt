@@ -1,0 +1,4 @@
+viewing database db files berkeleydb 
+playing open source project href http bimserver org rel nofollow bim server checked code href https github opensourcebim bimserver wiki rel nofollow git bim server started creates folder inside database folder files data stored berkeley db tools find href http stackoverflow questions connect berkeley db jdbc question answered 
+
+berkeleydb embedded key store runs inside application disk records stored binary form typically makes sense application grant means query applications data stored berkeleydb application query data frequently diagnostic commands specific application enable experiment db dump command line utility youre lucky output meaningless 

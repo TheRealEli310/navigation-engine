@@ -1,0 +1,4 @@
+android classloader loadclass fails class implements interface 
+code dynamically load class external package problem class load simple class fine implents interface loading fails heres class fails load interface implements basically call returns null class implements interface remove implements statement loads fine wrong 
+
+turns problem interface question android library project shared app loading apk class load defined classloader confused finds copies interface classpath solution turn shared library jar library plugin apk import provided compile mode copy interface exists apk classloading 

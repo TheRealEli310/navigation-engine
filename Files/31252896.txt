@@ -1,0 +1,4 @@
+inject services javafx controllers dagger 
+javafx means di binding xml uis controllers side work create instance mycontroller javafx stuff strong good strong dagger inject fxml dependencies constructor controller class problem control instantiation process javafx api promising good point start experience libraries approach problem 
+
+custom construct controllers types runtime perfectly di libraries guice dependencies type dependency graph dagger resolves dependencies compile time biggest features time biggest problem type runtime compiler distinguish invocations wouldnt work final fields invokes default constructor hr generic types lets approach controller instance dagger pass fxmlloader coffeeshop dagger modified construct javafx controllers coffeemakercontroller fields injected easily fxml file fx controller attribute loader construct controller stands conflict dagger provided full href https github totalvoidness daggerfx rel nofollow github 

@@ -1,0 +1,4 @@
+implement cloneable deep cloning snippet 
+class coloredcircle mentioned method named testclone works deep cloning confused fact implement cloneable clone program kind deep cloning 
+
+implement strong clone strong clone method strong protected access modifier strong javadoc explantion em method creates instance class object initializes fields contents fields object assignment contents fields cloned method performs object operation em method correct cloning behavior cloneable object cloneable object implement interface preferably public access class strong reaading class hard time understanding importance method strong 

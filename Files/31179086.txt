@@ -1,0 +1,4 @@
+validate json schema compliance jackson external schema file 
+jackson library href https github fasterxml jackson rel nofollow https github fasterxml jackson deal json files json schema file validate parsed json complies json schema file parsed json schema module jackson href https github fasterxml jackson module jsonschema rel nofollow https github fasterxml jackson module jsonschema appears primary focus em creating em json schema file good validate json schema preferably jackson open solutions 
+
+jackson produce schemas types validation href https github fge json schema validator rel nofollow json schema validator longer maintained 

@@ -1,0 +1,4 @@
+sharing array onclick classes android studio 
+writing code takes input user user clicks enter activity button button taking information enteranotherbutton onclicklistener transfer information donebutton onclicklistener send activity intent heres current code 
+
+feantury suggested simply create class house information saving access object donebutton click clicking enteranotherbutton obj coursename test1 accessible onclick donebutton 

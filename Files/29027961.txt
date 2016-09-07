@@ -1,0 +1,4 @@
+implement saml basic spring security application 
+requirement application implement spring saml app enable federated sso customer maintain existing login flow spring security customer question security mechanism web application treated multi tenancy implement oauth saml application advance 
+
+combine existing password authentication saml sample application spring saml details methods combined include oauth cases aware guide 

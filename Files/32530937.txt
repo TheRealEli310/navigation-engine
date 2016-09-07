@@ -1,0 +1,4 @@
+upload file mongodb gridfs 
+spring boot upload file mongodb database save objectid link document order download class person controller method method error access usb denied 
+
+found solution reading multipartfile documentation uploaded file server transfered directory allowing total control directory usb controller method linkfiletomydoc method youll find link href http stackoverflow questions reference gridfsfile dbref annotation spring data mongodb reference gridfsfile dbref annotation spring data mongodb 

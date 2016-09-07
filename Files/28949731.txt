@@ -1,0 +1,4 @@
+eclipse build slower moving project git 
+git recently moved eclipse projects noticed significant delay auto build project moving git git update save updating git status repository git id insights eclipse version luna rc3 release 0rc3 
+
+culprit time couple eclipse releases issues remote system explorer reason called source control plugins aspectj project git project luna turned href http stackoverflow questions annoying remote system explorer operation causing freeze couple seconds annoying quot remote system explorer operation quot causing freeze couple seconds answer problem found remote system explorer culprit indirectly dont turn things faster href http stackoverflow git specific answers referenced question found turn rse completely 

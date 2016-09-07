@@ -1,0 +1,4 @@
+date format validation working yyyy mm dd 
+validate date format yyyy mm dd give digits year yy yyyy throwing exception appended date time format parsing date added validating correctly 
+
+href https docs oracle javase docs api text simpledateformat html rel nofollow api docs specifies strong year strong blockquote parsing number pattern letters year interpreted literally number digits pattern mm dd yyyy parses jan blockquote perform validation digit years valid years digit years assume scope question validating digits year trivial regular expression outputs 

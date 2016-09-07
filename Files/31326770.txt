@@ -1,0 +1,4 @@
+buffered reader running heap space 
+parse large file gb lines file bigger maximum allowed string size error line suggest alternative approach case 
+
+file doesnt lines read entire file single lines scale solution dont read chunk time character time dictated unstated structure file 

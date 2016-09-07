@@ -1,0 +1,4 @@
+extremely slow netezza database batch inserts 
+batch inserts prepared statements insert data netezza performance extremely slow code speed 
+
+insert statement batches strong strong performant overhead query limit efficiency operations recommend dumping data flat files executing refer href https www ibm support knowledgecenter ssulqd ibm nz load doc load transient external tables html rel nofollow transient external tables 

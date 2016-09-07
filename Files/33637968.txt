@@ -1,0 +1,4 @@
+rxjava cache item future subscribers 
+implemented simple rxeventbus starts emitting events subscribers cache emitted event subscriber subscribes receive item created test class describes problem runnable0 emitting events subscribers runnable1 subscribes sec receives item runnable2 subscribes sec runnable1 receives items runnable1 received item received runnable2 cache events rxbus problem runnable2 subscribes runnable1 receives event rxjava operator achieve 
+
+extra work reemitting stored event subscribes addition cached events single hold event emit subscribers 

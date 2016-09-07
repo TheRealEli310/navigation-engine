@@ -1,0 +1,4 @@
+mybatis collection association return row 
+mybatis project define resultmap collection association ill simplify problem suppose database table strong world strong idworld worldname strong level strong idlevel levelname em idworld em world levels moment manage result result map mapping result result result map change entity order list level levels anymore world problem level world result map query miss understand association level levels appreciated advance 
+
+replace supposed expected result hr quote href http mybatis github io mybatis sqlmap xml html result maps rel nofollow mybatis doc result maps blockquote important id elements play important role nested result mapping properties uniquely identify results truth mybatis work leave severe performance cost choose properties uniquely identify result primary key choice composite blockquote absent mybatis work mybatis filter duplicated rows thinks 

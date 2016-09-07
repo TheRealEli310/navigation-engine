@@ -1,0 +1,4 @@
+spring boot mvc send file browser user 
+entity bytes spring controller return file 
+
+work approach set types attachment param client request content type header set content type based attachment assume stored db content 

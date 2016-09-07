@@ -1,0 +1,4 @@
+rest api oauth2 spring security roles 
+application implemented authorizationserver resourceserver user system set roles permissions id protect spring mvc rest endpoints oauth2 security based user roles oauth2 authentication authorization roles permissions defined userdetails getauthorities method configs id secure path user accesstoken access endpoint wrong 
+
+suppose href http docs spring io spring security oauth apidocs org springframework security oauth2 provider expression oauth2securityexpressionmethods html rel nofollow oauth2securityexpressionmethods em resourceserverconfiguration em works 

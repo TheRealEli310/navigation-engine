@@ -1,0 +1,4 @@
+log4j appenders found logger org apache hadoop util shell 
+maven project run program error program execution progress program producing expected outputs pom xml missing dependency configure log4j properly advance 
+
+maven put log4j properties log4j xml file main resources folder create property file give info error warning fatal debug log4j rootlogger property replace debug whichever mode logs suits 

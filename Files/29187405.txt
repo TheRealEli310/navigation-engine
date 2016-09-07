@@ -1,0 +1,4 @@
+passing data intentservice 
+flow br activitya fragmenta passes activityb fragmentb intents custom large object br attributes object br user presses widget fragmentb fragmentb starts activityc fragmentc passing custom object parcelable supposed show details ui strong strong starts fetch list populates specific object br service fetches result background http call update list ui expected display items fetched list fragmentc copy custom object null br copy custom object fetched update list fragment br making static variable fragment assigning exposing public method fragment call pass items works dirty br wondering clean standard design 
+
+blockquote localbroadcastmanager list fairly large passing intent good idea blockquote cross process boundaries converted byte array means problem large data passes object downside message em em ipc limitations data types personally recommend greenrobots eventbus squares otto reason easy data size issue 

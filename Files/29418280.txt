@@ -1,0 +1,4 @@
+configure jackson deserializer nested entites spring boot 
+entities post json restcontroller default configurations spring boot serialize deserialize objects post json works fine post json error debug found jackson create uri regiao property posted object waiting string template id googling find properly answer related issues stackoverflow worked guys matter configuration dont avoid custom serializers deserializers strong edit strong post json ids nested entities message correct send nested entity regiao hardcoding javascript workaround works sucks fix javascript configuring jackson reading docs uritoentityconverter dont correct configure 
+
+solved restresource exported false annotation estadorepository regiaorepository classes hides de repo spring auto config endpoints stuff 

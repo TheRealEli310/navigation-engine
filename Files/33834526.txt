@@ -1,0 +1,4 @@
+scala class javadstreamkafkawriter application 
+maven project eclipse compile javadstreamkafkawriter class resolved type included maven dependency href https github cloudera spark kafka writer rel nofollow https github cloudera spark kafka writer details 
+
+thing downloading source href https github cloudera spark kafka writer rel nofollow https github cloudera spark kafka writer building snapshot locally created jars local maven repsoitory dstream code 

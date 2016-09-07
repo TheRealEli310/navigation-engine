@@ -1,0 +1,4 @@
+jxls xlstransformer thread safety 
+call method creates file multiple threads field class method expensive create instance time create talking wont break call multiple threads 
+
+single thread assume analyze jxls source code href http grepcode file repo1 maven org maven2 net sf jxls jxls core net sf jxls transformer xlstransformer xlstransformer transformxls 28java lang string 2cjava util map 2cjava lang string rel nofollow link informed lib version check update keyword illegal modifier fields methods lock object blocks choose object treated lock information tutorials ol li href https docs oracle javase tutorial essential concurrency syncmeth html rel nofollow synchronized methods li li href https docs oracle javase tutorial essential concurrency locksync html rel nofollow intrinsic locks synchronization li ol 

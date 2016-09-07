@@ -1,0 +1,4 @@
+sonarqube checkstyle plugin enabling summaryjavadoccheck makes analysis failed 
+recently change sonarqube configuration ul li sonarqube li li plugin li li pmd plugin li li checkstyle plugin li li findbugs plugin li li issue assign plugin li ul ul li sonarqube li li plugin li li pmd plugin li li checkstyle plugin li li findbugs plugin li li issue assign plugin li ul configuration enabled rules brought plugin version analysis batch fails issuetracking decorating stage batch analysis idea happened strong edit strong removed rule em checkstyle puppycrawl tools checkstyle checks javadoc summaryjavadoccheck em brought checkstyle plugin version analysis works correctly 
+
+issue due checkstyle rules remove solves problem reference href http sonarqube x6 nabble arrayindexoutofboundsexception decorating file td5034646 html rel nofollow http sonarqube x6 nabble arrayindexoutofboundsexception decorating file td5034646 html 

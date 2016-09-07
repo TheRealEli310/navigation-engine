@@ -1,0 +1,4 @@
+token ring protocol 
+source code working order learn network programming sending packets classes initially isnt longer code problem occurs tokenclient1 class entered packet isnt client ideas longer working 
+
+program working expected make running programs parallel meaning open command prompts run tokenserver tokenclient1 tokenclient2 

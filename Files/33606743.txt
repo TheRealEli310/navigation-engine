@@ -1,0 +1,4 @@
+run multiple web application port tomcat 
+web applications developed spring hibernate deployed applications tomcat applications running fine dont access applications giving exceptions applications accessed time whichever application accessed works fine doesnt work run number applications server 
+
+answering actual question blockquote run multiple web application port tomcat blockquote tomcat run multiple web applications single port default tomcat port number blockquote blockquote causing error 

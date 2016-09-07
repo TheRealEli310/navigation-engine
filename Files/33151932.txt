@@ -1,0 +1,4 @@
+retrofit error object json pojo request 
+simple request returns loginresponceobject http code error json describes exact error wrong handle error status response doesnt json raw text doenst work doesnt nice solution 
+
+access response body error code href https square github io retrofit javadoc retrofit response html errorbody rel nofollow method 

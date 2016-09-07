@@ -1,0 +1,4 @@
+efficient spark cassandra join 
+tables ol li keyspace columns ul li string partition key li li timestamp date part partition key li li id int part partition key li ul li li keyspace data columns ul li timestamp date partition key li li id int part partition key li li data string li ul li ol join timestamp id table timestamps ids retrieving data data table entries fast cql expected spark cassandra equally fast full table scan due knowing fields partition primary key dont find mappings make join efficient heres code sample 
+
+join efficiently invoke wrapping results call important thing wrap call 

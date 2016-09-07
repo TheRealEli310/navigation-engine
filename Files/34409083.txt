@@ -1,0 +1,4 @@
+jackson object mapper custom escapes limit field length 
+strong jackson object mapper custom escaping return wrong output strings larger char strong jackson escape special characters lt data input map working fine special input string length larger characters main function jackson variable string escaped values specific input sequence characters expected strong xmlcharacterescapes strong class strong escapedserializablestring strong class 
+
+href https gist github manusa dcde2b77472005360898 rel nofollow gist working version code groovy script couple syntax errors code check version jackson dont understand values escaped input string added tag escaped script output 

@@ -1,0 +1,4 @@
+create arraylist columns 
+change lot things result add display code 
+
+matrix array type list type simplified code generics factored logic casts sign bad design improve edge case strings empty dont handle 

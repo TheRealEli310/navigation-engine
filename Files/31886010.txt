@@ -1,0 +1,4 @@
+show hide row sections jtable 
+jtable rows list files folders directory folder rows button hide show rows listing files folder application starts files rows folder row hidden rowfilter initially hide rows table created subclass method code successfully hides rows wondering show hide hidden rows filter class filter function called button filter based found column 
+
+basic idea class filters entries depending fields created field simple filter methods change fields create button calls method pressed call signals table data changed redraw heres working 

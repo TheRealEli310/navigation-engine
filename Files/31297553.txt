@@ -1,0 +1,4 @@
+navigation drawer menu categories 
+navigation drawer app drawerlayout class navigationview drawer showing categories inflating menu xml file categories separated subheadings dividers 
+
+easily modifying existing menu xml file code menu item give parent item title 

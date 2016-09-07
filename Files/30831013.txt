@@ -1,0 +1,4 @@
+hibernate org hibernate queryexception resolve property 
+class docmovement docmaster class run code exception cases make query criteria shown query runs fine unable understand wrong case eager fetch earlier alias alias solve issue 
+
+adding alias call 

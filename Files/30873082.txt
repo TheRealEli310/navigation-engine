@@ -1,0 +1,4 @@
+access services adding corsfilter resteasy 
+access services adding corsfilter applicationpath curl server warn org jboss resteasy core exceptionhandler default task failed execute javax ws rs notfoundexception find resource full path href http localhost unika usuarios rel nofollow http localhost unika usuarios org jboss resteasy core registry classnode match classnode resteasy jaxrs final jar lines code commenting lines curl access control origin update manually update classes rest services classes add myrestservice class line corsfilter setallowedheaders content type gave trouble access control headers line worked 
+
+override return empty set disable automatic registering classpath scanning resources longer registered overcome problem href http stackoverflow answer href http docs oracle javaee api javax ws rs core feature html rel nofollow annotated registered annotation discovery 

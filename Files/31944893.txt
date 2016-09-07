@@ -1,0 +1,4 @@
+android geocoding functioning ios 
+function converting address string coordinates ios android ios function runs setupmarker function android method returns coordinates big deal problem supplying functions exact address arguments ios returns coordinates perfectly android returns properly android function equivalent ios geocode properly android calls api tested doesnt give good results good ios strong edit examples strong work ios ul li ebs burlington road dublin li li aib bankcentre merrion road ballsbridge dublin ireland li li aib unit sandyford business centre sandyford dublin li ul 
+
+url returns data json format parse latitude longitude hope helps 

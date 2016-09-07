@@ -1,0 +1,4 @@
+create database liquibase postgresq spring boot result databasechangelog exist 
+create database schema liquibase postgresql spring boot relevant code exception pasted created empty test db local postgresql server application properties changelog xml dbinitializer 
+
+youre running liquibase base script creating additional tables track database updates liquibase tables ol li databasechangelog li li databasechangeloglock li ol dont create manually automatically creates running liquibase script run manually commandline liquibase script create tables table time incrementally updated database liquibase scripts 

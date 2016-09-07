@@ -1,0 +1,4 @@
+powermockito unfinishedstubbingexception 
+powermockito test throws unfinishedstubbingexception class superhero static method findsuperhero returns instance superhero reading data db error due fact thenreturn return instance mocked class superhero powermockito scenario refactoring 
+
+reproduce heres full test class including imports ran test passed didnt class powermockito case helps 

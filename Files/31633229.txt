@@ -1,0 +1,4 @@
+finding cheese array maze 
+youre mxn array number cheese number wall number path mouse start top left corner find path cheese question solving wondering correct path kind thought spur moment ran time test thinking start top left corner move array top left corner means path exists recurse top left corner provided adjacent cells left creating subarrays called ispath method subarrays basic version method looked solve missing edit helper methods 
+
+forget array recursive function finished previous check size array finish recursion algorithm find cheese edit handle directions dont repeat square visit add pseudo code explain main idea solution merge methods explain solution writing optimized code 

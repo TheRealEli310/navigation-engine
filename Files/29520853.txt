@@ -1,0 +1,4 @@
+spring restcontroller reject request unknown fields 
+endpoint today received request unknown field create person ignore unknown field check unknown field return bad request thx 
+
+spring release href http docs spring io spring docs current javadoc api org springframework http converter json jackson2objectmapperbuilder html rel nofollow jackson2objectmapperbuilder default disable fail unknown properties overload jackson default behaviour href http stackoverflow questions globally set jackson ignore unknown properties spring link configure spring thx helps 

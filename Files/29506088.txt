@@ -1,0 +1,4 @@
+javax imageio iioexception png image data 
+implementing server recieves images android application basically recieving image android emulator android device process recieving image android emulator android device localhost code server exception exception javax imageiio exception case sending image android device android emulator working fine kindly plz 
+
+main problem located line returns number bytes received time bytes waiting transferred server side transmitted image truncated incomplete load choices ol li transferring image data send integer length data li li image transferred close stream client side image written server side read reach end stream li ol 

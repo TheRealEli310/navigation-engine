@@ -1,0 +1,4 @@
+group properties spring boot configuration properties 
+spring boot documentation properties grouped property group moment create property class marked configurationproperties prefix test1 group prefix test1 property class prefix test2 property group test1 update added nested class working commented annotation configurationproperties class failing tests spring doesnt load properties annotation property file case application emx properties separate properties resolved noticed add field type nested class getter setter methods spring wont load properties nested class 
+
+compose classes property file spring mapping success approach composition mimics structure property file properties validatable fail fast configuration downside approach properties mutable properties file big application wider problems 

@@ -1,0 +1,4 @@
+overriding method access modifier protected access modifier 
+override methods allowed reduce visibility inherited method table accessible class package subclass world public protected modifier private accessible accessible override subclass error strong reduce visibility inherited method myinterface strong method myinterface access modifier subclass protected accessible missing 
+
+methods interfaces href https docs oracle javase tutorial iandi interfacedef html implicitly access modifier implement weaker access modifier 

@@ -1,0 +1,4 @@
+google app engine managed vm cloud endpoints 
+running app engine test managed vms google beta testing builds endpoints work build error back blockquote severe endpoints configuration updated app returned error google cloud endpoints server attempted communicate blockquote admin logs attempted error back blockquote api configuration update failed blockquote discovery docs created locally isnt logs post getapiconfigs details failure encountered problem essence question cloud endpoints running managed vm app engine 
+
+issue caused due custom filter preventing backend module creating discovery documents 

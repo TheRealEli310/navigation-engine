@@ -1,0 +1,4 @@
+program throwing concurrent modification exception 
+induce concurrent modification exception accessing hashmap instance variable reference program throwing error understand 
+
+method detect concurrent modifications throw anonymous concurrent access hashmap dangerous href http stackoverflow questions hashmap concurrency issue read post enforce read parallel 

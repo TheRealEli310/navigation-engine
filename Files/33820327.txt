@@ -1,0 +1,4 @@
+excluding null fields pojo response 
+exclude null fields pojo transactionhistorybo pojo div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override strong transaction history response pojo strong div class snippet data lang js data hide false div class snippet code pre class snippet code html lang html prettyprint override array list type transaction history bo transaction history response pojo exact pojo showing response exclude strong fields null values transaction history bo strong jsoninclude jsoninclude include null working jsonserialize deprecated jackson version appreciated 
+
+produces output annotation add jsoninclude annotation classes properties hr strong update strong add custom jacksonjsonprovider application register provider web xml tested works 

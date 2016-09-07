@@ -1,0 +1,4 @@
+org springframework beans notreadablepropertyexception invalid property bean property readable invalid getter method 
+struggle errors figure make code change error days ago worked full stack trace generally problem binding data serialized html form object class login class customer class dont paste form view class error occur binding form customer class parameter binding code error occur playframeworks form class 
+
+follow javabean specification login class leave customer member login public youll wrap getter setter play generating getters setters compile time doesnt understanding entity model classes dont jpa entity annotation login login static class strange 

@@ -1,0 +1,4 @@
+bytebuffer array returns larger array bytebuffer android 
+basically scenario bytebuffer array method returns byte array buffer based href http developer android reference nio bytebuffer html array rel nofollow title ref ref working android api change byterbuffer arrayoffset method happening nexus device dont matter 
+
+dont care code shouldnt care reason youre misusing api shouldnt data buffer isnt capacity adjust calling sequence directly amp oe youll find efficient 

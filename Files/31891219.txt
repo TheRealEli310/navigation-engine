@@ -1,0 +1,4 @@
+illegalstateexception hibernate metamodel generation maven 
+hibernate jpamodelgen generate metamodel classes maven run strong mvn clean package strong works fine problem run strong mvn package strong time clean exception strong environment strong snippet pom xml 
+
+found answer bug strong strong amp strong strong versions strong maven compiler plugin strong run strong mvn package strong time previously generated source directory added source path strong generate source strong phase strong parser exception strong switching back older version strong lt strong maven compiler plugin strong fixes strong issue strong incremental compilation strong strong broken strong strong strong amp strong strong versions strong maven compiler plugin strong prefer switch strong strong version maven compiler plugin 

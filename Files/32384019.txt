@@ -1,0 +1,4 @@
+jre updating issue centos 
+recently installed centos server box process transferring servers windows server linux centos running small problem checked install installing centos thought speed process installed code bunch features removing jre manually downloading rpm installed overriding jre install provide logs neccessary hr rpm qa 
+
+centos7 box downloaded jdk rpm oracle href http www oracle technetwork javase downloads jdk8 downloads html rel nofollow http www oracle technetwork javase downloads jdk8 downloads html chose jdk 8u60 linux x64 rpm installed worked track binary binary linked alternatives href http linux die net man alternatives rel nofollow alternatives choose desired version 

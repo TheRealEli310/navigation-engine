@@ -1,0 +1,4 @@
+installing service windows nssm 
+inno setup install windows service jar file running nssm sucking service manager ends putting service paused state doesnt started location exe change updates run service explicit path exe launch service explicit path nssm 
+
+similar week replace full path exe service run work dont nssm searches path application 

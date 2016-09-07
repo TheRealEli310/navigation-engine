@@ -1,0 +1,4 @@
+find character string api method 
+recently asked question interview blockquote find character method class blockquote gave approaches assuming string ol li li li li li li ol suggest achieved 
+
+api create pattern captures character find print href https docs oracle javase docs api util regex pattern html dotall rel nofollow dotall mode enabled handle case character line separator 

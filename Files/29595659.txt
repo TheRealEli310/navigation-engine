@@ -1,0 +1,4 @@
+error ucanaccess osgi 
+read question href http stackoverflow questions manipulating access database odbc ucanaccess intro driver work osgi rcp application classloader issue dont resolve relevant snippet code fails line mdb exists osgi app ucanaccess successfully open exception steps ol li create plugin bundle ucanaccess li li require bundle org hsqldb hsqldb bundle version manifest li li make registered buddy eclipse buddypolicy registered li li make bundle eclipse registerbuddy ucanaccess li li ensure bundles autostarted ucanaccess hsql bundle li ol 
+
+originally included ucanaccess jar file bundle put jar files target platform plugin list solution create bundle ucanaccess required jar files ucanaccess jar commons lang jar commons logging jar hsqldb jar jackcess jar 

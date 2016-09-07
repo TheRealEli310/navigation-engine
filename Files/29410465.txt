@@ -1,0 +1,4 @@
+translate words string bufferedreader 
+working days make headway scanner bufferedreader luck basically working method shortenword takes string shortens text file formatted accounts punctuation lo read string translate word individually lo ne ne1 thx basically method word string code translate word rest bufferedreader working nudge direction appreciated edit closing bufferedreader end shortenword method results error word string bufferedreader closed 
+
+simpler solution read abbreviations map object created reference word word abbreviation output edit atommans answer basically remove method modifying method 

@@ -1,0 +1,4 @@
+read character text file 
+code snippet works fine nio package prior reliable accomplish prior versions idea thing read file line line reading complete retrieve character 
+
+ahwell solution supposes open file truthfully return em char em em code point em 

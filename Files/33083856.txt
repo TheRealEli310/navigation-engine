@@ -1,0 +1,4 @@
+spring service injection null pojo rest controller 
+spring jhipster access database service injection rest controller problem injected service pojo service null service null acces database pojo rest controller directly main service null pojo rest controller sending request output autowired resource inject result access theservice pojo allways passing parameter 
+
+spring container manage beans objects created container create object keyword spring inject dependencies doesnt object exists dependencies ul li declare pojo spring configuration annotate li li create spring container main li li spring managed instance pojo li ul 

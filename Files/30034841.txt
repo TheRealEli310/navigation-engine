@@ -1,0 +1,4 @@
+gnuplot plot 2d graph variable points sizes colors 
+plot scatter data points size colors depend input check examples write error message missing plot labels point size works fine columns add 5th input error appears 
+
+simply tells variable points size variable colors plotting style workaround draw labels hypertext white point color colored points solution send data read stdin 

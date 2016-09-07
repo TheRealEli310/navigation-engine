@@ -1,0 +1,4 @@
+apache flink streaming window wordcount 
+code count words sockettextstream cumulate word counts time windowed word counts needed program issue cumulatecounts windowed counts issue occurs correct calculate cumulate counts base windowed counts 
+
+group apply window keyed data stream code works flink api flink strict apply window keyed data stream single threaded window operator single machine parallelism build window stream flink global window split windows flink work counts words build window distinct key stream key apply window operator stream window operator instance stream allowing parallel execution global cumulated count simple apply construct stream split stream key compute sum stream stream strong strong windowed sum computed cumulative updated incoming tuple details sum initial result result updated tuple invocation sum current result emitted code special sink function 

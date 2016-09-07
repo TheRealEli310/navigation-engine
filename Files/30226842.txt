@@ -1,0 +1,4 @@
+android care exit status code passed system exit 
+kill android app href https docs oracle javase docs api lang system html exit int rel nofollow matter status code pass couldnt find documentation android ignores lead error messages meaning 
+
+android care thing debugging heres system exit codes href http www opensource apple source libc libc include sysexits rel nofollow http www opensource apple source libc libc include sysexits pretty means abnormal exit set id stick youre interacting things accepted convention 

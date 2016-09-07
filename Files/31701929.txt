@@ -1,0 +1,4 @@
+lang numberformatexception invalid int 
+read txt file basically csv file located assets folder android row number row columns file rest composed values separate heres code strange error read file inputstream getassets open method heres csv file error line shows string proper error caused portion code convert string integer 
+
+wild guess file href https en wikipedia org wiki byte order mark rel nofollow bom beginning text stream confusing parser command nix system verify swapping line error number line set bom google removing bom utf instructions 

@@ -1,0 +1,4 @@
+analyzer javasonarqube common sonarqube 
+locally code analysis sonar server rules pmd findbugs checkstyle problems download import netbeans plugins question concerns additional sets rules find sonar called javasonarqube common sonarqube kind analyzer refers import run netbeans 
+
+directly netbeans href http www sonarlint org rel nofollow sonarlint intellij idea eclipse run rules locally netbeans run href http docs sonarqube org display sonar issues report preview mode rel nofollow preview analysis 

@@ -1,0 +1,4 @@
+bigdecimal compareto bigdecimal return 
+return expect equal alternative compare 
+
+represent closest represent binary bits constructor href https docs oracle javase docs api math bigdecimal html bigdecimal double rel nofollow designed preserve precise argument result comparison em em display outputs hints workaround href https docs oracle javase docs api lang double html tostring double rel nofollow converting chooses shortest decimal representation needed distinguish values create representation expect comparison true fact method href https docs oracle javase docs api math bigdecimal html valueof double rel nofollow strong strong exists purpose shorten constructor purpose preserve precise binary argument call documentation blockquote generally preferred convert blockquote em em avoid subtleties 

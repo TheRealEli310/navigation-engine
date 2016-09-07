@@ -1,0 +1,4 @@
+setting objects equal eachother 
+class called person class creating object person fine print statement br p1 bob br p2 joe create object p3 set equal p1 class error message thinking add method main person class add set objects equal eachother 
+
+ways interpret set objects equal refer em em object clark kent superman names references person accomplished scenario thing happened kill clark kent killed superman determines equality method objects equal iff return objects equal base definition equality dont worry interpret meaning create em em person object exact copy person order youd add constructor person class takes person argument setup youre main order make equal teach person class fields checking equality overriding method class person overwrite method good practice overwrite method returns unique object field object simply hashcode person class 

@@ -1,0 +1,4 @@
+random shuffle list elements collections shuffle 
+output lines random shuffle fact true seed lt list elements seeds makes list seemingly random whats wrong list elements 
+
+problem isnt small seeds heres program demonstrating youd em expect em output half calls return half return em em call returns seeds vastly calls return seeds bit seeds dont maths rngs kinda broken small seeds 

@@ -1,0 +1,4 @@
+enumeration converted arraylist list utils 
+good reason href http docs oracle javase docs api util collections html list util enumeration collections list method package returns impression generally good practice return interface type implementation type 
+
+strong disclaimer jdk author strong agree correct write em code em interfaces youre return strong mutable strong collection party important party sort theyre back performance wise operations removing element removing element fully return type jdk authors strong communicating extra information strong unambiguous code sort object theyre giving back write code method properly finally main reason code interface implementation implementation change jdk authors figure em em change method return cases 

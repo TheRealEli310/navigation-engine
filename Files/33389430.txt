@@ -1,0 +1,4 @@
+unable login password base64 authentication spring security 
+angularjs front end spring security back end login controller sends post request customer credentials encrypted base64 algorithm code back end configuration spring security authentication successful send back cookie wrong simply send back error message send valid login password encrypted base64 userdetailsservice find customer login causing error strong question spring decode login password authorization header strong put code base64 spring successfully finds user login btoa encryption front end fails 
+
+nitpick base64 em encoding em algorithm encryption dont base64 problem part fine problem url basic auth form login request hit fail authentication form data authorization header checked basic auth url path fix problem form login wont invoked correctly basic auth 

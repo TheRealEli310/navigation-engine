@@ -1,0 +1,4 @@
+nio read large file inputstream 
+read large inputstream return file split inputstream read inputstream multiple threads affect performance 
+
+open multiple http connections resource url href http www w3 org protocols rfc2616 rfc2616 sec14 html sec14 rel nofollow header http make stream begin read point speed data transfer high latency issue overdo parallelism aware puts additional load server resume downloads supported server announce prepared connection return requested entity status read input streams urlconnections separate threads blocking io nio wrapping helps 

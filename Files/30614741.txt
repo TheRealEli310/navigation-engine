@@ -1,0 +1,4 @@
+collections sort comparison method violates general contract 
+question topic aware plenty questions answers read problem figure wrong code blind error thankful edit determine line upper lower left moste line coordinate system coordinate upper left corner points type double error message 
+
+proper ordering method return coordinates left point smaller coordinates point return means comparing point coords point coords youll return point argument equivalent point1 lt point2 point2 lt point1 point1 point2 method handle combination relations lhs p1 rhs p1 relations lhs p2 rhs p2 cover conditions form lhs p1 rel rhs p1 amp amp lhs p2 rel rhs p2 rel 

@@ -1,0 +1,4 @@
+eclipse osgi unsatisfied constraint 
+basic osgi project eclipse created class activator imported bundleactivator eclipse changed manifest mf adding lines eclipse problems view prompts error message imported newest apache felix runtime found maven dependency solve problem running eclipse change solve dependency print versions strong update strong plugin part pom xml dependency part pom xml import works 
+
+maven bundle plugin manifests bundles depend determine package versions finds package org osgi framework felix framework exports package version creates import range version excluding major version manifest good reason run eclipse lower osgi framework version offer version package run felix framework 

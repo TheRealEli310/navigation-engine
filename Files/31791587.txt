@@ -1,0 +1,4 @@
+spring boot remove jsessionid url 
+remove jsessionid urls spring boot mvc spring security tomcat embedded read setting disableurlrewriting true spring security solution dont simple project login pages session controller exists session controller googlebot creating urls id edit solved solution href https randomcoder org articles jsessionid considered harmful rel nofollow https randomcoder org articles jsessionid considered harmful 
+
+created quick dirty spring boot app heres servletinitializer generated alter fashion 

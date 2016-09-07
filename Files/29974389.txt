@@ -1,0 +1,4 @@
+relationship rxjava promises 
+relate rxjava javascript programming core idea rxjava promises observables 
+
+comment explain promise chain operation end youll result rxjava notified multiple time multiple result promise async operation observable async operation 

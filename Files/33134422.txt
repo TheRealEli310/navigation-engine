@@ -1,0 +1,4 @@
+converting string representation unknown date format date 
+string represents date strong date format string strong ul li 14t16 000z li li 14t19 li li li ul valid format website describe date meta tag format official opposed whimsical set possibilities small joda time solve issue strong update strong find javascript equivalent href https developer mozilla org en docs web javascript reference global objects date rel nofollow https developer mozilla org en docs web javascript reference global objects date answer strong strong 
+
+real solution found javascript javascript solution href https docs oracle javase docs technotes guides scripting programmer guide rel nofollow scriptengine quick dirty sample code prints eval tostring part improved locale settings 

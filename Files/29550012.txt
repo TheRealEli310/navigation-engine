@@ -1,0 +1,4 @@
+request url solrj 
+solrj query index times kick reindex server issues verify url solrj constructing problem line null solrj calling solr fact kick index request time strong intercept retrieve url solrj constructing request strong 
+
+href http stackoverflow questions transform solrquerysolrj url transform solrquery solrj url href http lucene apache org solr solr solrj org apache solr client solrj util clientutils html toquerystring 28org apache solr common params solrparams 20boolean rel nofollow clientutils toquerystring matter javadoc helper methods accepts input full url concatenate code sample trick 

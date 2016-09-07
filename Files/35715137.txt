@@ -1,0 +1,4 @@
+collections sort declaration super 
+href http docs oracle javase docs api util collections html sort util list rel nofollow signature ul li understand serve purpose framework developers option li li declarations li ul 
+
+proposed signature work previous versions type inference smart extends implements compile perfectly works inferred lets signature inferred specification inference code compiled fails compiled type inference greatly improved separate jls href https docs oracle javase specs jls se8 html jls html chapter dedicated rules href https docs oracle javase specs jls se7 html jls html jls simpler 

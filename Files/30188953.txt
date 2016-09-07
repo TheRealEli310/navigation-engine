@@ -1,0 +1,4 @@
+jboss eap policycontext getcontext remains null 
+jboss eap enterprise app stuck attempt retrieve active subject user authenticate code snippet works fine subject filled problem lies retrieve subject point execution remains null missing appreciated 
+
+strong solved strong article href https access redhat documentation en jboss enterprise application platform html security guide run jboss enterprise application platform security manager html rel nofollow introduce security manager jboss eap problem security manager configured jboss open standalone conf standalone conf bat uncomment add enable security manager make point custom server policy sample give permissions modules operate youll edit policy file tighten security retrieving easy hope itll work guys 

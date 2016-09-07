@@ -1,0 +1,4 @@
+spring amqp insert message amqptemplate convertandsend 
+small spring program expected insert message rabbitmq queue applicationcontext check contents queues server inserted set exchange queue rabbittemplate shows server log application show errors logs ideas whats wrong 
+
+give queue parameter call convertandsend wondering spring amqp throw exception messages delivered queue 

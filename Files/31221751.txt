@@ -1,0 +1,4 @@
+creating client aws sdk hangs aws lambda 
+line hangs lambda timeout credentials permissions 
+
+experienced issue found solution increasing memory timeout settings lambda lambda allocates cpu resources relative amount memory allocate service case memory setting low process didnt changed realized cpu due based cryptographic implementations https aws credentials appears node js aws apis cpu intensive aws sdk test create node js lambda simply describe empty simpledb domain observations maximum memory setting case execution time 300ms worse case seconds 

@@ -1,0 +1,4 @@
+reentrantlock condition wait illegalmonitorstateexception 
+application monitoring folder empty wake worker thread illegalmonitorstateexception thrown wait reason 
+
+assume meant invoke href http docs oracle javase docs api util concurrent locks condition html await rel nofollow typically case behavior experienced blockquote current thread assumed hold lock method called implementation determine case respond typically exception thrown implementation document fact blockquote loop iterated released lock inside iteration thread doesnt lock calling throw thread lock invoke acquire lock loop 

@@ -1,0 +1,4 @@
+iterator foreachremaining doesnt remove element consumer lambda 
+lets works fine throws illegalstateexception question short 
+
+updated studro comment href http docs oracle javase docs api util iterator html foreachremaining util function consumer rel nofollow api documentation states blockquote behavior iterator unspecified underlying collection modified iteration progress calling method blockquote unspecified behavior part applies internal iteration granted documentation states behavior equivalent fact call snippet throw exception supported operation documentation bug 

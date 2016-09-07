@@ -1,0 +1,4 @@
+joincolumn mappedby works 
+confused working joincolumn mappedby department class unidirectional relationship add fk bidirectional relationship define classes bidirectional relationship place write h1 update h1 mappedby joincolumn works 
+
+youre annotation simple words mappedby tells key relationship table class case em link tables db system foreign key constraint em strong link table constraint table strong easier table foreign key hibernate column column strong join strong table blockquote join column declared annotation annotation parameters named em referencedcolumnname em parameter declares column targeted entity join em referencedcolumnname em primary key column class serializable em referencedcolumnname em primary key column mapped property single column cases work blockquote find href https docs jboss org hibernate stable annotations reference en html entity html rel nofollow mapping documentations 

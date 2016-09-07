@@ -1,0 +1,4 @@
+resultset returning false query correct 
+written code jsp file basically dose checks data bank card number password check select query query correct result set returning false checked query separately working fine problem code netbeans ide derby database 
+
+mentioned comments actual code shows problems ol li secure prevent hackers move sql injection find information href http www journaldev jdbc statement preparedstatement sql injection rel nofollow strong jdbc statement preparedstatement sql injection strong li li checking password code sql query query checks password correct return result result empty li li closing connexion statement em bad em practice statement deal block close li ol improve code thiss 

@@ -1,0 +1,4 @@
+recyclerview oncreateviewholder called excessively scrolling fast dpad 
+developing amazon fire tv tv app touch focusables inside rows layout navigate simple recyclerview image text focusable press scrolls stuff correctly noticed navigate faster scroll creates viewholders screen lags ui created activity creation numbers scroll slowly highest creation scroll fast cards creation number enormous lag application drops lot frames approach totally wrong code test row element xml test image urls xml urls owned subtle focus glass normal glass focus appreciated 
+
+quick hack delay selection inflated selected dont works return null onfocussearchfailed 

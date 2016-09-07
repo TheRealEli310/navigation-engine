@@ -1,0 +1,4 @@
+observer pattern ejbs working web app 
+ejb observer pattern work straight forward examples href http www devchronicles javaee revisits design patterns html rel nofollow http www devchronicles javaee revisits design patterns html implement method observer annotation import inserted manually work classes jars ejb hoping present case observer pattern ejb 
+
+part href http docs oracle javaee tutorial partentbeans htm bnblr rel nofollow ejb href http docs oracle javaee tutorial partcdi htm gjbnr rel nofollow cdi href http docs jboss org cdi spec html rel nofollow jsr cdi ee covers ejb youve ejb hands means youre ee days ee time upgrade examples ee servers jboss wildfly oracle glassfish apache tomee ibm websphere examples ee servers jboss oracle glassfish apache tomee ibm websphere h3 h3 ul li href http stackoverflow questions weld jsr weld jsr li ul 

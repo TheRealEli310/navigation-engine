@@ -1,0 +1,4 @@
+make udp connection tcp connection client 
+simple server main thread accepts clients starts thread client thread make connection udp client confused threads clients running ten open datagramsocket port throw socketbindexception 
+
+ul li client connects server tcp li li decides udp port listen sends information server tcp li li spawns thread binds udp port udp server li li server receives udp port information tcp socket li li spawns udp thread receiving port information udp client li li udp thread connects udp server tcp client li ul 

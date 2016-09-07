@@ -1,0 +1,4 @@
+managing spring boot parent pom version multiple projects 
+created spring boot projects pom including strong href http mvnrepository artifact org springframework boot spring boot starter parent rel nofollow spring boot starter parent strong parent version manually update pom adding pom dependency strong spring boot starter parent strong href http docs spring io spring boot docs current reference html boot build systems html boot maven parent rel nofollow spring boot documentation states import scope work dependencies spring boot version define super pom projects inherit set spring boot version project 
+
+approach parent pom child pom child pom youll 

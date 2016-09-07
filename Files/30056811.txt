@@ -1,0 +1,4 @@
+jpa batch insert causing constraintviolationexception 
+working project ejb jpa problem constraintviolationexception happen class id unique fields stateless class method returns myentity null calling entitymanager method stateless bean method called bean method long io work problem opinion occur check condition calling persist method idea delay commits calling method condition check commit occurs method throws exception give suggestions read learn solve problem edit found problem threading solution locking write read 
+
+generally high concurrent enviroment hard solve problem simply locking work dont table locks hibernate annotation entity problematic show error message user case good sql statement supported mysql rdbms aproach 

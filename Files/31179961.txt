@@ -1,0 +1,4 @@
+removing success message jsp page refresh 
+jsp page displays success message successful deletion item page refreshed message displayed doesnt happen setting attribute struts class request scope retrieving attribute jsp page statement set attribute success message remains refreshing page dont 
+
+refresh page browser assume sending request server means execute executes put attribute request back jsp page avoid server side operation executed order put attribute request insert check inserted dont put attribute request 

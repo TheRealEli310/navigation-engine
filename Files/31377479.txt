@@ -1,0 +1,4 @@
+swing jcombobox set element default selected 
+element drop shown default passed default selected user select 
+
+move registration triggered sets 

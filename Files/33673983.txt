@@ -1,0 +1,4 @@
+jackson custom deserializer arrayindexoutofboundsexception 
+english isnt native language excuse mistake consume webservice wich power serving array objects json result kinda malformed form deserialize pojo jersey client jackson core basic jackson deserialising wasn working created custom deserializer pojo class mydeserializer class jersey jackson call call wich jackson isnt custom deserializer missed 
+
+code 

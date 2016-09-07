@@ -1,0 +1,4 @@
+spring integration response webservice gateway asynchronous processing backend 
+requirement external client calling spring integration inbound webservice gateway acknowledge generic status payload submitted channel asynchronous processing dont response email based business validation asynchronous gateway executor channel task executor figure make gateway respond immediately cases working webservice response configuration 
+
+dont requirements implemented send request distributes message channels returns simple reply ws immediately shifts message separate subscriber channel work blocking ws hope clear 

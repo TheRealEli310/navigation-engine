@@ -1,0 +1,4 @@
+jdbc select 
+make method retrieves customer database stores object reason sql statement working method tested errors running statement directly database console works fine 
+
+invoking getter methods resultsets move cursor forward href http docs oracle javase docs api sql resultset html rel nofollow http docs oracle javase docs api sql resultset html case avoid empty result set modify code 

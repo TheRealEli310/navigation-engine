@@ -1,0 +1,4 @@
+android notificationlistenerservice user clicked notification opening related app simply deleted 
+working notifications generated app mine android device android extending notificationlistenerservice push notification posted overriding onnotificationposted method notification removed overriding onnotificationremoved method problem notification removed clicking opening app swyping removed advance 
+
+list running processes onnotificationremoved method obtain list running processes href https github jaredrummler androidprocesses rel nofollow android processes library compare process packagename comparison return true check process foreground 

@@ -1,0 +1,4 @@
+dice sum probability types dice 
+working application calculate probabilities rolling sum variety dice dice types supporting d4 sided dice d6 sided dice d8 sided dice d10 d12 d20 user input number type dice calculation user enter d6 d4 information number dice type calculate probability sum rolled information create chart showing probability distribution selected combination dice provided application written function calculate probability specific sum size dice code find probabilites current code handle dice size d6s d4s mix community provide guidance greatly appreciated open approaches read generating functions combinatorics statistics bit weak coding nice lot folks 
+
+entry brute force method list integers dice sides handle multiple die types advantage lot probabilities run query probabilities disadvantage brute force method inefficient single probability 

@@ -1,0 +1,4 @@
+unable read uploaded multipart xml file 
+write service receives xml file parses additional processing ui controller converted multipart file contents string passed service ui controller upload file call service method parse xml file doc null rest xml file 
+
+problem bytes file text header eof bytes dont represent text make inputstream build document 

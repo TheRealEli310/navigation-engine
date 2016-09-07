@@ -1,0 +1,4 @@
+create custom output format hadoop 
+create variation word count hadoop program reads multiple files directory outputs frequency word thing output word file frequency file word1 word finds times file1 times file2 ect outputing key pair file understand format outputcollector unsure edit mapper recuder outputting word unsure making key pair key entry 
+
+dont custom output format long pass filename reducer simply modifying string textoutputformat type operation explanation mapper filename append textinputformat reducer reducer appends beginning line order force display formatting simpler writing outputformat 

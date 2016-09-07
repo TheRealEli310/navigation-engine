@@ -1,0 +1,4 @@
+spring boot setup logging spring application starts 
+project logging mechanism start springapplication achieve setup logging mechanism logmanager getlogmanager readconfiguration overridden spring application starts basically logging mechanism 
+
+manage solve issue removing spring boot starter logging dependency project adding org slf4j slf4j jdk14 commons logging commons logging gradle case achieve removing loggingapplicationlistener logback xml didnt worked 

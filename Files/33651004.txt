@@ -1,0 +1,4 @@
+rxjava combine hot cold observable 
+observables type cold called simply emits list items hot called notifies subscriber item client subscribe initial updates published initial approach merge wont work send point items emit wont arrive 
+
+merge source observables case complete rx net code produces id astounded rxjava 

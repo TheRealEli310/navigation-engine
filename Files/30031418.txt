@@ -1,0 +1,4 @@
+deal code runs foreach block apache spark 
+deal code runs differently spark stand mode spark running cluster basically item strong rdd strong add list send list solr works perfectly fine run code stand mode spark work code run cluster run code cluster send solr part code executed list solr filled items force execution effect sending solr part executes list solrdocuments added works cluster mode 
+
+mentioned spark mailing list familiar solr api provided solrindexerdriver singleton guess whats running cluster call happening singleton instances solrindexerdriver jvms happening driver practical terms lists executors filled committed driver opposite happening recommended handle add data partition commit results local context executor aware add commit thread order avoid data loss corruption 

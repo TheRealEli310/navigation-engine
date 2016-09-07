@@ -1,0 +1,4 @@
+android studio junit json empty 
+json androidtestcase jsonobject empty put element special order make jsonobjects work unit test heres androidtestcase class modules build grade android studio dont jsonobjects tests work 
+
+mentioned jsonobject mocked testing default config work choose external json implementation testing href https code google json simple rel nofollow json simple choose framework mocks equivalent classes full functionality href http robolectric org started rel nofollow robolectric personally choose 2nd option massive testing environment bit oversized simple jsonobject testing answer stackoverflow href http stackoverflow http stackoverflow 

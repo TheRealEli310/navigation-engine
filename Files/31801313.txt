@@ -1,0 +1,4 @@
+variables inside foreach loop java8 final 
+iterating array list loop loop loop variable inside loop final explain drawback 
+
+memory model important property guarantees local variables method parameters writable thread adds safety multi threading programming create lambda anonymous class passed thread execution modify local variable important property violated thing language developers sacrifice lambdas program functional functional programming mutable variables considered bad practice assign variable modify local variable smells stream reduction methods produce good functional code 

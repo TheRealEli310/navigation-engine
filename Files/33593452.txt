@@ -1,0 +1,4 @@
+generated keys executebatch arrayindexoutofboundsexception 
+method insert records simultaneously point expect pks generated insert exception blockquote blockquote exception table company records added correctly expected resultset row insert performed pk generated 
+
+appears bug oracle windows driver jar ojdbc6 jar knowing oracle significant problem code presented work ran numbers rows inserted time returned href http docs oracle javase docs api sql statement html success info rel nofollow ignoring numbers code runs fine oracle 11g xe linux versions oracle jdbc driver jar run windows version oracle xe ojdbc6 jar fails arrayindexoutofboundsexception problem ojdbc7 jar ojdbc6 jar recommend replacing ojdbc6 jar ojdbc7 jar download href http www oracle technetwork database features jdbc jdbc drivers 12c download html rel nofollow 

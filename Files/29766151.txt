@@ -1,0 +1,4 @@
+maven assembly plugin wrong dependency filenames 
+making extra artifact maven build maven assembly plugin version classpath added meta inf manifest mf dependencies added assembly xml file problem dependency included manifest mf file copied lib folder called fixed actual runtime classpath expressed jar manifest refers existing files 
+
+problem plugins work snapshots maven archiver responsible creating manifest imho force timestamped versions setting property false href http maven apache org shared maven archiver class manifest rel nofollow detail assembly plugin work works em snapshot em timestamp 

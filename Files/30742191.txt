@@ -1,0 +1,4 @@
+weblogic 12c basic authentication prompting userid 
+configure basic authentication servlet deployed weblogic 12c web xml weblogic xml ol li created user test created group testusers li li added user test testusers li li created role testservicerole added testusers group role condition li li restarted weblogic making application deployment li ol access servlet browser dont pop enter http userid password access servlet security configured test servlet soapui client explicitly set wrong http credentials base64 encoded userid wrongpassword http header authorization basic weblogic rejects request authorization required error http authorization header request access granted configuration missing weblogic basic authentication check happen http auth header struggling issue days 
+
+turned deployment issue side configuration original post fine responded question 

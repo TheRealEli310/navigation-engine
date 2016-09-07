@@ -1,0 +1,4 @@
+convert result system nanotime date 
+convert result href http docs oracle javase docs api lang system html nanotime rel nofollow date converted seconds href https en wikipedia org wiki nanosecond rel nofollow nanoseconds multiplying convert current system time parameter converted nanoseconds date 
+
+quote javadoc blockquote method measure elapsed time related notion system wall clock time returned represents nanoseconds fixed arbitrary origin time future values negative origin invocations method instance virtual machine virtual machine instances origin blockquote case date number milliseconds future subtract scale add similar result youre adding original number seconds directly 

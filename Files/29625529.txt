@@ -1,0 +1,4 @@
+hashmap streams streams collect map 
+hashmap inserted values hashmap q1 apply filter condition key hashmap retrieve list query key output list1 wrote dont retrieve list output stream operation q2 apply filter condition key hashmap retrieve list lists query key key output list1 list2 list3 list lists 
+
+single element passed filter guaranteed filter general case filter match multiple lists collect list lists 

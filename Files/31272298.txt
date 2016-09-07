@@ -1,0 +1,4 @@
+selenium grid run tests linux hub 
+work selenium tests built test website building support firefox chrome tests run browsers working setting selenium grid hub linux xubuntu specific machine hub run tests windows vm external machine proving troublesome error blockquote path driver executable set webdriver driver system property information href http code google selenium wiki internetexplorerdriver rel nofollow http code google selenium wiki internetexplorerdriver blockquote repeatedly adding iedriverserver webdriver driver property linux machine windows vm code avail details path iedriverserver path linux windows pretty stuck running hub windows vm 
+
+hours working include driver selenium server standalone jar windows path environment variable include system setproperty webdriver driver details line test running linux machine confused 

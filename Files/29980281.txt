@@ -1,0 +1,4 @@
+android create custom recyclerview adapter create class 
+people recyclerview wich populate webservice dataprovider class manage async requests data fetched dataprovider inform recyclerview adapter data add method recyclerview adapter communication create base class extends recyclerview adapter method create custom adapter wont override recyclerview adapter methods wrong base class custom adapter extends baserecycleradapter guess type parameters figure 
+
+h2 check gist h2 helped started strong source strong href https gist github passsy f8eecc97c37e3de46176 rel nofollow https gist github passsy f8eecc97c37e3de46176 

@@ -1,0 +1,4 @@
+maven odl osgi wiring package javax 
+working application top opendaylight objectdb activate bundle mvn clean install post pom xml dependencies suggestions running 
+
+make add relevant bundles features xml inside feature features src main features features xml bundle dependency error javax jms fixed adding bundle dependencies features xml shown similarly add relevant bundles javax jdo features xml build build succeed errors resolved alternatively running build tests skipped mvn clean install dskiptests case manually install dependencies karaf 

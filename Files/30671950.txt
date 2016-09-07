@@ -1,0 +1,4 @@
+share jpa persistence xml accross multiple ejb jars inside ear 
+project multiple ejb modules share single file put file inside ears meta inf directory persistence unit runtime file read forced incorrect classes jar files weblogic reading file inside ear error running code pu found persistence units persistence xml structure persistence unit inside ear weblogic jpa toplink eclipselink shipts 
+
+deploying ears meta inf folder trigger server load persistence unit weblogic 10g jpa enabled persistence unit deployed lib jar file working structure persistence unit jar pack jpa configurations create ears data sources href https wiki eclipse org eclipselink examples jpa composite rel nofollow composite persistence units increase reusability approach 

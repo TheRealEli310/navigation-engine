@@ -1,0 +1,4 @@
+object wait waits forever 
+piece code wait time calculated situation wait time notice wait time thread wait forever find specific case javadoc add check understand happening allowed send wait time 
+
+href http docs oracle javase docs api lang object html wait long javadocs blockquote timeout real time consideration thread simply waits notified blockquote means wait indefinitely 

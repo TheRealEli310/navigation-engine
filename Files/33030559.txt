@@ -1,0 +1,4 @@
+hadoop lang nullpointerexception org apache hadoop hdfs dfsoutputstream islazypersist dfsoutputstream 
+append file hdfs exception advise strong exception strong issue hadoop version strong strong working fine version strong strong 
+
+problem version apache hadoop client jar pom xml latest version surprise incompatible hadoop installation strong backward compatibility hadoop client jar strong final change pom xml 

@@ -1,0 +1,4 @@
+opentext content server categories call 
+project involves opentext content server sp1 update find categories system category volume call soap web services rest web services side found couple methods exposed documentmanagement wsdl require categoryids argument rest side managed obtain access categories long trip ol li call response url subsequent call li li call id system category volume category ids li li call required info category li ol single call returning information categories achieve 
+
+find ids categories definitions call strong strong project store categories folders categoryvolume content server 

@@ -1,0 +1,4 @@
+httpurlconnection authentication working 
+heres curl command attempting replicate curl request code httpurlconnection connection getinputstream line error authentication wrong 
+
+youre setting method implicitly setting post isnt dont reason expect result dont authentication hand 

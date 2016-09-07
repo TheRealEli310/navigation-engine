@@ -1,0 +1,4 @@
+encoding httpresponse utf 
+url method response error checked content encoding httpentity gzip suggestion encode response utf8 update solved solved problem method 
+
+dont response uncompressed automatically href http hc apache org httpcomponents client ga httpclient apidocs org apache http impl client decompressinghttpclient html rel nofollow http hc apache org httpcomponents client ga httpclient apidocs org apache http impl client decompressinghttpclient html 

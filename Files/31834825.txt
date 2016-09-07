@@ -1,0 +1,4 @@
+iterate rdd row 
+iterate rdd strings string output loop understand function rdds idea understand syntax documentation helpful regular loop understand require function void return type work attempted syntax wrong 
+
+em mattinbits em comments return values basically transform data row rdd perform operation return row achieved spark works perform actions transformations rdd instance transforming rdd function create function time anonymous forces override method receive row rdd return 

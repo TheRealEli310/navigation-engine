@@ -1,0 +1,4 @@
+make httpclient consume garbage request 
+apache httpclient send requests server improve performance id reuse httpclient instance requests requests happen sequential order multi threading involved servers endpoints faulty returning http content data response body fixed latest release deal older versions server behaviour causing http client hang timeout request href http stackoverflow questions request apache httpclient fails request apache httpclient fails details workaround client side entity null consume response data stuck connection socket clean socket throwing httpclient instance http connection client log 
+
+managed work problem created subclass em httprequestexecutor em overriding em canresponsehavebody em method registering em httpclients custom setrequestexecutor em retrive garbage em response getentity em consume request works charm 

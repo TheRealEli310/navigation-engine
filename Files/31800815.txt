@@ -1,0 +1,4 @@
+programmatically create mp3 
+create mp3 audio file code windows gave error playing back imagine beginning ending sequence bytes write file order properly decoded generate mp3 file 
+
+answer question explain key concepts digital audio mp3 mp3 compressed digital audio file digital audio raw form consists audio samples typical khz mono single channel raw audio audio samples size bits stereo samples size bits minute raw audio file 50mb size mp3 compressed audio employs complex compression algorithm reduce size audio write write raw audio file ways creating mp3 file create raw wav file encode mp3 compression library answer href http stackoverflow questions pure convert wav mp3 pure convert wav mp3 mp3 compression library accepts raw samples hope helps 

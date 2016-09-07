@@ -1,0 +1,4 @@
+package exist error package added classpath 
+linked solutions href http stackoverflow questions fatal error unable find package lang classpath bootclasspath fatal error unable find package lang classpath bootclasspath work error package imported commons jar source code build code blockquote export home library javavirtualmachines jdk1 jdk contents home library javavirtualmachines jdk1 jdk contents home bin javac target source classpath lib commons lang3 jar lib httpclient jar lib httpcore jar lib org json jar lib pdfbox app jar src lib commons lang3 javadoc jar lib pdfbox app sources jar output src tymaf pdf blockquote fix problem 
+
+double check classpath mixed delimiters including compiled classes library youve included useless classpath 

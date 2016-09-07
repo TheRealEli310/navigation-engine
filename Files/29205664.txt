@@ -1,0 +1,4 @@
+maven exclude folder working 
+pom file code exclude generating files time building project exclude generating folder including subfolders amp files building project pre class lang xml prettyprint override file exclusion starting ihg working folder ihg excluded idea exclude folder case 
+
+refer href http stackoverflow questions maven exclude folder build maven exclude folder build short exclude foo folder 

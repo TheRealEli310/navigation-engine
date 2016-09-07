@@ -1,0 +1,4 @@
+avoid nullpointerexception null check 
+code skip null check alternate solution 
+
+avoid null checks em yoda expressions em literal built method check null ness alternative require check folk find obfuscating arrange syntax 

@@ -1,0 +1,4 @@
+parsing mm dd yy format workaround 
+parse date strings formats strong yyyy strong strong yy strong supports case add year calling simpledateformat parse initial nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp adding br string nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp parse nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp nbsp year prefix br br works fine problem string year detect year 
+
+workaround issue year strict parse mode case parser wont enter result exception year user forced enter digits confusing year hope 

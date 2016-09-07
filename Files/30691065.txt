@@ -1,0 +1,4 @@
+native library architecture depend jvm os 
+load native library program fine dont architecture load running x64 x64 jvm load bit library run x86 jvm x64 load based os jvm 
+
+bitness native library jvm bit jvm bit native library matter os bit bit bit jvm bit native library 

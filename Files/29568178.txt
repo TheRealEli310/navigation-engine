@@ -1,0 +1,4 @@
+finding printing perfect numbers liang intro exercise 
+perfect number number equal sum positive divisors excluding homework write program find perfect numbers code doesnt work run runs build successful printing included comments explain thought process whats wrong 
+
+initialize loop dont reset factors adding equal tot number check reset beginning loop move test print number perfect number loop end outer loop print 

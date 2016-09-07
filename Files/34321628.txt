@@ -1,0 +1,4 @@
+add weld cdi support working jetty application 
+jetty deploying war files dependency management gradle file pre class lang xml prettyprint override deploy stack trace pre class lang prettyprint override working dependencies jetty find struggling configuration settings days end 
+
+weld cdi jetty distribution youll blockquote partly documented weld cdi side href https docs jboss org weld reference latest en html environments html jetty rel nofollow environments jetty blockquote ol li include weld jars usage directory war file lets call li li create directory configure properly li li edit change delete rename content jetty properly li li create xml deployable weld cdi standard servlet classloader isolation file called li li copy directory li li start jetty li ol setup pre class lang xml prettyprint override 

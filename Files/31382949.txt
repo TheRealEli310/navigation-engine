@@ -1,0 +1,4 @@
+bit operations converting integer 
+binary operations working expect byte array bytes values 0x5 0xe0 combine integer 0x5e0 coming 0xffffffee0 byte 0x5 lost thought easy wrong 
+
+bytes signed high bit set sign extended converted integer 

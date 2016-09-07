@@ -1,0 +1,4 @@
+preauthorize working controller 
+define access rules method level working securityconfiguration examplecontroller access v2 home executes fine shouldnt give access denied error due user thinking ditching access rules method level stick http ant rules working 
+
+common problem prepost annotations controllers spring method security based spring aop default implemented jdk proxies means works fine service layer injected controller layer interfaces controller layer controller generally implement interfaces opinion ul li prefered move pre post annotation service layer li li controller implement interface annotated methods li li em proxy target class true em li ul 

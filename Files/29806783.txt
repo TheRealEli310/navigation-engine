@@ -1,0 +1,4 @@
+cdi inject standard library pojos ejb 
+inject pojo managed object pojo works fine inject ejb jsf backing bean null expected inject exception deployment someejb date public argument constructor thought cdi satisfy dependency behaviour spec big hole understanding cdi explain doesnt work whats difference cdi perspective context ul li ee li li glassfish li li dont case li ul 
+
+reproduce eap problem occurs ee util date located rt jar jar beans xml file enable cdi inject objects jars beans xml common workaround href http docs oracle javaee tutorial doc gjdid html rel nofollow producer method inject object wirte producer inject objects arbitrary classes jar belong behaviour changed ee beans xml optional cases href https blogs oracle theaquarium entry default cdi enablement rel nofollow https blogs oracle theaquarium entry default cdi enablement hope helps jan 

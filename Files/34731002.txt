@@ -1,0 +1,4 @@
+spring boot war find index html 
+beginner spring boot tomcat issue deploying spring boot war file tomcat server problem add static index html alongside war enable deployed war added application class application works index html located src main resources wont show whitelabel error page unexpected error type method allowed status request method supported create shows index html application wont work request browser work earlier http status requested resource configure work pom xml 
+
+blockquote located src main resources blockquote add directory href http docs spring io spring boot docs current reference htmlsingle boot features spring mvc static content rel nofollow spring boots doc blockquote default spring boot serve static content directory called static public resources meta inf resources classpath root servletcontext blockquote 

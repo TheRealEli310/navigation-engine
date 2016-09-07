@@ -1,0 +1,4 @@
+run testng programatically eclipse maven plugin 
+run testng testng eclipse plugin normal maven quickstart project read href http testng org doc documentation main html running testng programmatically rel nofollow http testng org doc documentation main html running testng programmatically amp sources idea classes strong messageutil strong strong testngexample strong strong app strong exceptions strong exception box strong img src http stack imgur 2wvoe jpg alt jni error strong exception box strong img src http stack imgur jxdmb jpg alt exception strong exception console strong problem dont compile time error testng dependency successfully downloaded helps writing code class doesnt load run time guess xml causing error eclipse plugin testng testng program 
+
+issue happening runtime testng jar classpath resolve testng pom dependency 

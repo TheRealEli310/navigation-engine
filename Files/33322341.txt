@@ -1,0 +1,4 @@
+draw triangles connect square 
+draw graphics pattern image href http stack imgur a7n8i png rel nofollow img src http stack imgur a7n8i png alt enter image description href http stack imgur lmiub png rel nofollow img src http stack imgur lmiub png alt enter image description problem draw triangles connected square code draw triangles ill 
+
+drawpolygon int xpoints int ypoints int npoints method make triangles swing load xpoly ypoly coords triangle create polygon call method directly data triangle line coords square polygon set 

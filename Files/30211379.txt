@@ -1,0 +1,4 @@
+client exception spring oauth2 
+implement spring security oauth2 config usecase requires password grant type configured web xml prefer versions ul li spring framework li li spring security li li spring security oauth li ul make explaining easier enabled token endpoint request making header includes authorization header encoded version exception exception description appears oauth clientdetailsservice client em user em em user em user credential missunderstanding configuration configuration strong servletinitializer strong strong webmvcconfig strong strong securityconfiguration strong strong oauth2serverconfig strong code gitrepo ease access href https github dooffas springoauth2 rel nofollow https github dooffas springoauth2 
+
+case json converter access token spring register default jackson jackson token endpoint works add jackson databind classpath works token request 

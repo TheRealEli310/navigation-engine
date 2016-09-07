@@ -1,0 +1,4 @@
+connect h2 database h2 db 
+fairly eclipse amp work project implement database connect eclipse h2 database h2 database part works fine figure connect eclipse created class stated website identifier errors lines code doesnt connect copied h2 jar file project folder subfolder called lib reason install dtp plugin apparently missing org eclipse core runtime file change code connect h2 copy h2 files specific folders 
+
+main resource delegate close jvm added benefit cases exceptions wouldnt close didnt work variables ran em scope em close em em main ended 

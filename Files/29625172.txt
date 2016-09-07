@@ -1,0 +1,4 @@
+robolectric test activity loader 
+activity spinner loader fetch data contentprovider advised sources pre class lang prettyprint override good app works charm run unit tests activity wont run pre class lang prettyprint override basic test fails pre class lang prettyprint override issue robolectric workaround doesnt translate writing bunch shadow classes strong tools trade strong android studio unit testing experimental feature activated gradle plugin robolectric strong questions strong recently heard rxjava observables easier test substitute loadermanager cache results loadermanager give working query contentprovider unit test evaluate 
+
+strong case falls issue strong robolectric lacked implementation added method modifications created pull request find master branch version check href https github robolectric robolectric issues rel nofollow https github robolectric robolectric issues 

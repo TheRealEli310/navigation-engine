@@ -1,0 +1,4 @@
+recursively add node linked list specific index 
+writing recursive function add item list index recursively iterating index adding item function parameters string integer index check index valid check validity works passing string strong test bench main strong strong linked list class strong make add function takes parameters string int values modify checking index valid check 
+
+valid index add size field counting existing nodes adding node method check index greater current size add node correct position count number nodes youve allready visited correct position reached add node 

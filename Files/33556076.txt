@@ -1,0 +1,4 @@
+handle exceptions map observable rxjava 
+bascially method throw exceptions make observer handle 
+
+rx catch error runtimeexception throw kind runtime exception catch block work 

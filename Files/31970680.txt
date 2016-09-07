@@ -1,0 +1,4 @@
+mapping cobol display unpacked numeric fields 
+confused display format unpacked numeric type reading copybook output db2 stored procedure code read values properly sign number clear handle copybook changed give unpacked numeric correct logic read number proper sign 
+
+start packages ibm amp href http www legsem legstar rel nofollow legstar generate classes cobol copybooks package href https sourceforge net projects jrecord rel nofollow jrecord orientated files line processing basically character field holds sign number guessing data coming mainframe ebcdic cp037 ibm237 digit 00000012c 00000012l make matters worse ebcidic dialects ascii version ebcidic conversion byte level strong fromzoned strong method href https sourceforge net jrecord code head tree jrecord source jrecord common src net sf jrecord common conversion l43 rel nofollow jrecord conversion conversion easier byte level code tested 

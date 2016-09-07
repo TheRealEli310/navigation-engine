@@ -1,0 +1,4 @@
+apache poi find cell row 
+code reads spreadsheet writes pipe delimeted file rows differing length cell shouldnt appended pipe character things href https poi apache org apidocs org apache poi ss usermodel row html getlastcellnum rel nofollow https poi apache org apidocs org apache poi ss usermodel row html getlastcellnum make work 
+
+fixed 

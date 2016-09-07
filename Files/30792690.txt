@@ -1,0 +1,4 @@
+generate model classes firebird database 
+execute reverse engineer firebird pojo classes eclipse jpa options jboss tool hibernate success find schemas dont give option continue netbeans netbeans generate netbeans doesnt option generate lists sets firebird jaybird hibernate eclipse mars rc3 jboss tools nightly people problem links eclipse bug list href https bugs eclipse org bugs buglist cgi quicksearch firebird amp list id rel nofollow https bugs eclipse org bugs buglist cgi quicksearch firebird amp list id 
+
+appears jboss tools eclipse data tools platform firebird fully supported default eclipse dtp add support add firebird dtp plugin eclipse folder download href https github mrotteveel fbdtp releases latest rel nofollow firebird dtp plugin github repo plugin outdated hasnt tested recent eclipse versions understood works recent eclipse versions disclosure developed firebird dtp plugin 

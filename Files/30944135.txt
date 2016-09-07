@@ -1,0 +1,4 @@
+mockito completely stop method running 
+unit testing method lot logic mockito end method execution statement reason test conditions stop blocks lot stuff mocking database connections refactor put statement utility class expose public turns refactor code anymore 
+
+dont stop mockito mockito point stop dirty solution mock method call succeedes throw exception test method catch stop method execution dont mock db stuff 

@@ -1,0 +1,4 @@
+convert html docx apache poi 
+convert html document docx apache poi bringing styles font sizes 
+
+apache poi doesnt converting html document docx creating docx file blockquote short poi helps creation transformation blockquote 

@@ -1,0 +1,4 @@
+externalized location logback xml spring boot application properties 
+customized location logback xml spring boot application properties working application properties working logback xml located resource folder working located project working supply environment variable 
+
+construct worked relative path absolute 

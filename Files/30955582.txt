@@ -1,0 +1,4 @@
+gwt type signature class 
+working application gwt searches files servers searching code server package class called search search locate servers server locations class called login shared package login authentication objects store information individual server code call search run program search program prints code authentication changing type declaration adding serialization switching isserializible works 
+
+blockquote changing type declaration adding serialization switching isserializible works blockquote missed default arg constructor instance created deserialization process creates object assigns fields make constructor protected developer accidentally 

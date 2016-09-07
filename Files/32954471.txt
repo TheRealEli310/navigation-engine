@@ -1,0 +1,4 @@
+testing jersey rest resource invalid return response 
+test specific jersey resource jersey client returning response expecting dont understand behavior investigate debugger resource returning expected means jersey client making wrapping conversion dont understand good comparing response dropwizard resource test consequences 
+
+creates outgoing response jersey send client compare coming response client call implementations abstract class generally validate responses 

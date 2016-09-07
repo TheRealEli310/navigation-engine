@@ -1,0 +1,4 @@
+document null loadcontent webview javafx 
+simple code maincontroller class initialize method em doc em em null em fix 
+
+commented add listener loading takes time execute content successfully loaded 

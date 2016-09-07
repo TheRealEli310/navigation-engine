@@ -1,0 +1,4 @@
+group groupthreads refer jmh 
+jmh implements multithreaded benchmarks understanding annotations enable running parallel benchmarks group cpu monitor cpus fully runner interpret annotations 
+
+reading javadocs answering question produces asymmetric benchmark controls distribution threads group cli dubs threads run total cli dubs 

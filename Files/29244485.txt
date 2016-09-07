@@ -1,0 +1,4 @@
+remove title bar android app 
+big problem removing title bar settings button remove code android theme android style theme notitlebar fullscreen similary app crash application consists splash screen web view activity code android manifest splashscreen xml splashscreen splashscreen mainactivity activitymain xml 
+
+change base application theme appcompat theme android theme create theme splash screen make mainactivity extend activity actionbaractivity open menu main xml change androidmanifest xml set theme splash screen remove lines splashscreen wanted error switching activity actionbaractivity 

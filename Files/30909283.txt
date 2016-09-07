@@ -1,0 +1,4 @@
+jpa apache aries persistence unit unresolved dependency 
+configure datasource mysql corresp persistence bundle top apache aries datasources blueprint file persistence xml blueprint xml files entities persistence bundle bundle mycompany jpa auth entities hr error runtime spotting missing approach debug kind situation 
+
+problem due fistful missing bundles runtime solve problem em blog sample em project apache aries samples replicate runtime bnd file bundles added ul li org apache aries transaction wrappers li li org apache aries jpa container li li org apache aries jpa container context li li org apache geronimo specs geronimo j2ee connector spec li li org apache geronimo specs geronimo jpa spec li li org apache geronimo specs geronimo jta spec li li org apache aries jndi li li org apache commons pool li li org objectweb asm li li org apache servicemix bundles serp li ul 

@@ -1,0 +1,4 @@
+org apache batik dom svg svgdomimplementation 
+href https xmlgraphics apache org batik dom api html documentation batik shows instance dom implementation class href https xmlgraphics apache org batik javadoc org apache batik dom svg svgdomimplementation html org apache batik dom svg svgdomimplementation downloading batik site find class downloaded version found batik svg dom jar exist jar jars package class renamed refactored replaced instance dom implementation batik 
+
+found answer embedded maillist thread posted ajays answer order solve href https issues apache org jira browse batik bug moved package lives jar file batik anim jar time writing batik web site updated reason change highlighted release notes 

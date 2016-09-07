@@ -1,0 +1,4 @@
+apache cxf handle date conversion xsd date util date timezone 
+problem cxf soap1 service written cxf service isnt complicated basically puts xml int db oracle dates wsdl defined xsd date jaxb bindings defined adapter class utilizes cxf runtime datatypeadapter yields util date time added turn problem oracle oracles native procedure xml validation yields error encounters date time change db settings option strong libraries classes marshal unmrashal xsd date dates time strong write class extending xmladapter 
+
+doubt 

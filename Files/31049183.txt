@@ -1,0 +1,4 @@
+lambda default methods type erasure quirk bug ecj 
+accross today spent ages reproduce figure happening explain bug type erasure default methods lambdas polymorphism uncommenting default method makes run fine expected work output code 
+
+problem appears older ecj compiler org eclipse jdt core v20140902 jar newer solves problem oracle javac compiler problem solution update ecj compiler move javac 

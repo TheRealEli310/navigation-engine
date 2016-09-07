@@ -1,0 +1,4 @@
+rest webservise service singleton 
+rest application service make service act singleton save state service service client code web xml configuration application works request variable creates allways class make singleton problem request problem config 
+
+effectively serves purpose subclass dont web xml configuration web xml make things ol li deploying servlet container li li dependency supports servlet pluggability href http stackoverflow li ol subclass em em map jersey servlet choose path case web xml configuration path include web xml configuration rid subclass url reason ol li default behavior create resource class request li li subclass web xml configuration package scanning li ol review information post make 

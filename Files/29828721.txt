@@ -1,0 +1,4 @@
+generating static class initializer javapoet 
+generate static initializer generate adding static initializer constructor modifier produces incorrect syntax 
+
+version latest time writing pull request address href https github square javapoet pull rel nofollow https github square javapoet pull merged release version 

@@ -1,0 +1,4 @@
+
+learn android found statement sample code question header 
+
+creates objectref object textview findviewbyid method parameter id main textview returned casted textview type stored maintextview 

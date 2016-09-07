@@ -1,0 +1,4 @@
+external library folder spring boot 
+externalize jdbc drivers spring boot applications insert jdbc drivers fat jar application built set vm parameter informing external folder included jar execution exists kind spring property dlib file drivers jar sample jar 
+
+documentation propertieslauncher ul li href https docs spring io spring boot docs current reference html executable jar html executable jar property launcher features rel nofollow https docs spring io spring boot docs current reference html executable jar html executable jar property launcher features li ul property define lib folder location jars load fact lib folder inline jar default location blockquote loader path empty defaults lib meaning local directory nested running archive blockquote 

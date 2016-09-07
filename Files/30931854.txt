@@ -1,0 +1,4 @@
+wicket browser information 
+information browser wicket maven project 
+
+capture browser information code blockquote getapplication getrequestcyclesettings setgatherextendedbrowserinfo true webclientinfo webclientinfo getwebrequestcycle getclientinfo clientproperties cp getproperties data cp getnavigatorappname br cp getnavigatorappcodename br cp getnavigatorappversion br cp getbrowserversionmajor br cp getbrowserversionminor br blockquote exerpt href https cwiki apache org confluence display wicket browser information rel nofollow wicket documentation strong edit strong updated comments br em code wicket newer versions wicket replace getwebrequestcycle getrequestcycle em 

@@ -1,0 +1,4 @@
+include white spaces nextline 
+make user input string spaces nextline search text file string store string scanner nextline line words comma heres code code works user inputs word spaces input words condition isnt met text file includes number airports iata city country heres sample 
+
+default searches whitespace delimiter change behaviour match commas delimiters input preceeded whitespaces 

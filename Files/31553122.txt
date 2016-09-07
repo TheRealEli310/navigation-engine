@@ -1,0 +1,4 @@
+migrating spring security access deinied page 
+migrating spring sec trouble setting security xml file custom userdetailsevice login jsp problem replace version spring security working fine spring security lead access denied page hope 
+
+spring security defaults make behavior consistent running change made consistency href https jira spring io browse sec rel nofollow sec meaning derivates prefixing incoming parameter role prefix default wasnt case spring places fix options ol li href http docs spring io spring security site migrate current html5 migrate xml html m3to4 role prefixing disable rel nofollow migration guide li li simply prefix roles converting li li href http docs spring io autorepo docs spring security release apidocs org springframework security access expression securityexpressionroot html hasanyauthority lang string rel nofollow li ol 

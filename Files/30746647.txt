@@ -1,0 +1,4 @@
+wrap method returns optional fromnullable 
+method dont returning null return type optional lt boolean gt call ispresent throws scenario wrapping method fromnullable type mismatch screen shot fix ispresent doesnt throw img src http stack imgur kb9l9 png alt enter image description 
+
+calling methods wrap function 

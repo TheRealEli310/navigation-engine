@@ -1,0 +1,4 @@
+javafx settext working 
+set text textfield error textfield empty rest program working method called system println prints text problem text textfield set write textfield settext textfield empty set text textfield public void initialize works doesnt work setcurrentinfo part controller setcurrentinfo called 
+
+retrieving controller wrong code create point file call reads fxml file creates ui defined result ui created call displayed controller make ui instance displayed displayed created call static version method opportunity controller refactor code 

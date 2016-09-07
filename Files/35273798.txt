@@ -1,0 +1,4 @@
+compute summary statistic cassandra table spark dataframe 
+min max cassandra spark data strong edited show working version strong make put sometable somekeyspace 
+
+import data apply required aggregations store table keyspace 

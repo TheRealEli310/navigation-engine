@@ -1,0 +1,4 @@
+spring register objects destroy method 
+converting xml spring config annotations ran bit annoying situation create beans class internally seperate instances internal beans register shutdown method spring creating beans fine bit wrong polluting class xml config 
+
+solution href http docs spring io spring docs current spring framework reference htmlsingle beans factory scopes prototype rel nofollow reference documentation blockquote singleton prototype scope bean deployment results creation bean instance time request specific bean made blockquote means call middle method creates instance bean 

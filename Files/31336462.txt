@@ -1,0 +1,4 @@
+android creating sqlite database inserting rows practise 
+application sqlite database database created dbhelper class isnt created initially table rows practice fill data code works nicely 
+
+asked practice referencing answer href http stackoverflow reference br br href http www techrepublic blog software engineer turbocharge sqlite inserts android rel nofollow link comparison insertion methods records normal insertion 1657ms statements 92ms 

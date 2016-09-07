@@ -1,0 +1,4 @@
+android app billing handling google server response codes 
+google implementing app billing documentation google sends response code synchronously integer mapped response code key response bundle href http developer android google play billing billing reference html billing codes rel nofollow app billing reference code app handling google response codes tryed make works update logfile give purchaser successful downloaded item time buy thing buyintent start crash give error br code give error time 
+
+thx sree reddy menon find solution google dont start buyintent item give nullpointerexption getpurchases find user item call buy intent user dont item problem buy method 

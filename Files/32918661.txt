@@ -1,0 +1,4 @@
+libgdx dim screen glclearcolor 
+simply draw background overlay 5f transparent black color dim render top pause menu working couldnt find solution online option overlay black sprite dont paint gl 
+
+draw transparent rectangle hope helps 

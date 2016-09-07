@@ -1,0 +1,4 @@
+hibernate cascading type persist relationship 
+classes policy acl manytomany relationship policy acl cascade type persist error cascade type saves policy entity acl entity successfully unable understand happening performing save operation main code 
+
+refer hibernate docs clear details href http docs jboss org hibernate orm javadocs org hibernate session html persist 28java lang object rel nofollow session persist blockquote make transient instance persistent operation cascades instances association mapped strong cascade persist strong blockquote href http docs jboss org hibernate orm javadocs org hibernate session html save 28java lang object rel nofollow session save blockquote persist transient instance assigning generated identifier current identifier property assigned generator operation cascades instances association mapped strong cascade save update strong blockquote 

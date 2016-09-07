@@ -1,0 +1,4 @@
+jscrollpane shrink collapse window minimize 
+jscrollpane jtextarea window minimized restored jscrollpane collapse squish text jtextarea exceeds width height jtextarea horizontal vertical scrollbars question href http stackoverflow questions jscrollpane loses size minimize jscrollpane loses size minimize poses problem issue addressed add weightx weighty fill constraints jscrollpane begin simplified demonstrates problem jscrollpane sustain size window minimized restored 
+
+set weightx weighty layouts createandshowgui set mainpanelconstraints weightx mainpanelconstraints weighty adding text area panel 

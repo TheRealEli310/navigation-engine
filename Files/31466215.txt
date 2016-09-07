@@ -1,0 +1,4 @@
+observable timer memory leak 
+href https github square leakcanary rel nofollow leakcanary reports leak identified method causing removing creation call memory leak reported timer identify leak occurring unsubscribing places leak place leakcanary log leak 
+
+doesnt leak activity strictly speaking holds reference time returns flow control full description issue href https github reactivex rxjava issues rel nofollow https github reactivex rxjava issues basically hold reference event processed case back sleep requesting finishes processing releasing resources null subscriber reference delayed event triggered holds reference holds reference holds reference activity articlecontainerfragment componentcache solution easy dont hold reference activity long running create inside fragment make fragment hold reference activity 

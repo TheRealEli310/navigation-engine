@@ -1,0 +1,4 @@
+apply hibernate validation character type 
+result achieve ul li apply hibernate validation character regex pattern li li restricting return type single letter chose li li single method li ul 
+
+similiar problem didnt find default hibernate validator annotation easy create custom annotation href https docs jboss org hibernate validator reference en html validator customconstraints html rel nofollow https docs jboss org hibernate validator reference en html validator customconstraints html sex br br 

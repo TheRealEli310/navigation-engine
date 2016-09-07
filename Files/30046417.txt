@@ -1,0 +1,4 @@
+practices configuring ehcache modular application 
+ehcache scenarios blockquote ul li hibernate level cache li li spring method cache li ul blockquote persistence xml file module persistence unit org springframework data jpa support mergingpersistenceunitmanager similar setup ehcache blockquote ul li module ehcache xml file li li ehcache xml files merged li ul blockquote didnt find solution solution blockquote ul li ehcache xml file application li ul blockquote solution practices setup ehcache 
+
+ehcache maps configuration file configure application module work option merge multiple xml configuration files single 

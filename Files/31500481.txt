@@ -1,0 +1,4 @@
+variable multiple classes 
+create app android studio main screen tick boxes user number sides dice variable called sides set depending tick box user ticks variable sides activity generate random integer sides set 
+
+activity lets assume button clicks button start activity activity2 add code onclick button oncreate method activity2 retrieve key pass side variable activity 

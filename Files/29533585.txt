@@ -1,0 +1,4 @@
+unhandled exception type messagingexception adding setfrom javamail 
+error lines eclipse suggests cover catch block search internet statement catch block wrong solve 
+
+possibilities solve ol li add catch block arround code mimemessage msg mimemessage session msg setfrom internetaddress xyz msg addrecipient message recipienttype internetaddress abcd catch messagingexception li li add method signature public void mymethod throws messagingexception mimemessage msg mimemessage session msg setfrom internetaddress xyz msg addrecipient message recipienttype internetaddress abcd li ol 

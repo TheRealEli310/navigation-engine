@@ -1,0 +1,4 @@
+association org hibernate invalidmappingexception parse mapping document input stream 
+problem mapping dont add mapping xml file works fine added exception hibernate xml user hbm xml word hbm xml userword hbm xml user bean userwrod bean package mkyong stock model word bean database structure create table user id int auto increment primary key id helping 
+
+missing class file edit 

@@ -1,0 +1,4 @@
+jmeter sequencing flow multiple threads rest api token 
+test scenario jmeter achieve scenario thread works fine br requirement run stuff users br assign multiple token token1 token2 token api dynamically http header passing token header working br br dynamic variable names working stuff 
+
+wont work jmeter doesnt support nested variable reference href https jmeter apache org usermanual functions html rel nofollow href https jmeter apache org usermanual functions html evalvar rel nofollow evalvar function ul li li ul ul li li ul composite variable evaluated href http stack imgur ks4zz png rel nofollow img src http stack imgur ks4zz png alt nested function variable href https blazemeter blog jmeter functions part iii rel nofollow jmeter functions posts series advanced information jmeter functions 

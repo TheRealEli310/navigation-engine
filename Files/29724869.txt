@@ -1,0 +1,4 @@
+char array map 
+convert string map char int index assumes string unique characters streams thought work running errors compile basically equivalent python code 
+
+creates map character integer wont work repeated characters 

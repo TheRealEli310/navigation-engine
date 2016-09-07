@@ -1,0 +1,4 @@
+google drive api access token authorization everytime 
+problem google drive sync insert update delete specific drive account long access token authorization page solution 
+
+read offline access refresh tokens requesting offline access user authorizes app youll receive refresh token obtain access token time 

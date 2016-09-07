@@ -1,0 +1,4 @@
+canvas object instance previously returned lockcanvas 
+custom surfaceview method dodraw draws background bitmap problem run error blockquote caused lang illegalargumentexception canvas object instance previously returned lockcanvas blockquote dont happening dont declare canvases code classes mainactivity surfaceviewexample mainactivity intent open surfaceviewexample surfaceviewexample method called buttons ourview class 
+
+move inside statement guess returning null youre attempting unlock null reference href https android googlesource platform frameworks base lollipop release core android view surface rel nofollow source code test test locked initialized null 

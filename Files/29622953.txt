@@ -1,0 +1,4 @@
+resources dependencies added classpath 
+intellij setup project br product wanna work included compile dependency gradle build file lot transitive dependencies product includes jetty application server wanna start run configuration br run facing problem application server wont startup doesnt find resource files included dependencies files specific product custom file format dependencies project explorer find files arent added classpath correctly solve issue strong edit added console ouput strong strong edit correct eclipse output strong strong edit added image project explorer strong href http i62 tinypic 2m31snp jpg rel nofollow project explorer 
+
+solution case wrong class loader instance classloader returned unable fetch required resources apparently classloader working wrong classpath cases idea classloader current execution context returned 

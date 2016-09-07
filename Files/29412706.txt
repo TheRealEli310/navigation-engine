@@ -1,0 +1,4 @@
+open link html jsoup 
+table html page iterate open links page information page extract data return basic page change pages framework 
+
+href http jsoup org cookbook extracting data dom navigation rel nofollow jsoup cookbook links inside html element iterate elements html link 

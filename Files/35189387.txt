@@ -1,0 +1,4 @@
+parallel processing infinite stream 
+code doesnt print output remove parallel prints ideally limit distinct question related difference caused adding parallel processing 
+
+real em ordered parallel em full barrier operation href https docs oracle javase docs api util stream stream html distinct documentation blockquote preserving stability parallel pipelines expensive requires operation act full barrier substantial buffering overhead stability needed blockquote full barrier operation means upstream operations performed downstream start full barrier operations stream api time ordered parallel case short circuit infinite stream supplied end infinite loop contract emit elements downstream order emit repeating element theoretically implement parallel ordered complex implementation solution user140547 add switches algorithm unordered shared store observed elements emits element downstream adding em em 

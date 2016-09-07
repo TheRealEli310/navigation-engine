@@ -1,0 +1,4 @@
+inject applicationcontext jax rs 
+writing web service spring jax rs kinda confused heres service exmaple heres beans xml technique load application context time resource called change 
+
+creating application factory instance everytime web service call made method good approach method called times head creating context times change implement interface ul li href http stackoverflow questions inject applicationcontext inject applicationcontext li ul place application starts hope helps good luck 

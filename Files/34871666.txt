@@ -1,0 +1,4 @@
+anypoint studio maven wrong directory tools jar 
+installed latest version anypoint studio based eclipse created maven enabled project error maven resolve dependencies jdk installed system path home environmental variables set incorrect location library 
+
+turned default anypoint studio pointing jre jdk lead locate strong tools jar strong thing added jdk searching directory open window preferences installed jres click search navigate jdk jdk added list select default run time href http stack imgur 6qs5s jpg rel nofollow img src http stack imgur 6qs5s jpg alt project properties build path libraries remove current jre system library click add library search jdk list installed jdks href http stack imgur o56xo jpg rel nofollow img src http stack imgur o56xo jpg alt enter image description 

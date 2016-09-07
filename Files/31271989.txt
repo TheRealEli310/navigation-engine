@@ -1,0 +1,4 @@
+paintcomponent called multiple times overlapping components 
+layered top inside parent invoke repaint times layers grows quadratic panels redraws redraws panels redraws found overlapping components override parent return jlayeredpane parent results causing stop panels repainting multiple times strong edit strong sscce mcve extra notes noticed panels repaint multiple times call repaint multiple times panels side side overlapping repainted 
+
+blockquote causing blockquote guessing panels opaque painting opaque component repaintmanager find opaque parent paint parent children times redraws simple change code method repaint requests made parent container individual panels repaintmanager combine requests single request panel children painted 

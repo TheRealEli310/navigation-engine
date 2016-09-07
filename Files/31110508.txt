@@ -1,0 +1,4 @@
+converting aggregationoutput jsonobject 
+program runs mongodb query driver storing result aggregationoutput convert reult jsonobject pass funtion code output convert output jsonobject return function 
+
+href http www java2s code jar downloadjavajsonjar htm rel nofollow json jar href https code google google gson downloads detail google gson release zip amp rel nofollow gson jar changed loop 

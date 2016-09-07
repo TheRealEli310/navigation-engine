@@ -1,0 +1,4 @@
+stored procedure sha256 rsa signature 
+problem stored procedure oracle database version oracle database 11g enterprise edition 64bit production sha256withrsa sign datas case stored procedure source code work netbeans ide jdk1 jdk1 tryed change execute code database side ora call terminated uncaught exception security nosuchalgorithmexception sha256withrsaencryption signature line code signature podpis signature getinstance sha256withrsa solve problem database side jdk 
+
+run class netbeans plsql view output plsql execute signature sha256withrsa 

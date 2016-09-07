@@ -1,0 +1,4 @@
+practice avoiding variable initialized 
+code required error required initialized considered bug compiler understand computationally difficult impossible catch cases solutions ol li suppress warning li li initialize null li li lock longer lock li ol solutions sound ideal solutions 
+
+blockquote practice avoiding variable initialized blockquote avoid initialize dont setting whould cost whould bad surely prevent causing raising exception mind local variable initialized initialize inside statement 

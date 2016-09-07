@@ -1,0 +1,4 @@
+spring beanpostprocessor called implemented bean invoke beans 
+strong bean xml strong friends learning spring implement interface beanpostprocessor helloworld methods invoked beans helloworld bean strong helloworld strong strong main program strong strong output strong beanpostprocessor interface methods invoked helloworld invoked unrelated beans implementing beanpostprocessor interface 
+
+bean implementing works bean postprocessor beans refer href http docs spring io spring framework docs release javadoc api org springframework beans factory config beanpostprocessor html rel nofollow url details mentioned specific bean initializing code implement add entry bean xml alternatively init destroy methods bean register bean xml additionally follow common practice naming init amp destroy methods define methods beans init destory methods called initialization destructions beans 

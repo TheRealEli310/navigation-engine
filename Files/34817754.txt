@@ -1,0 +1,4 @@
+benchmark lambda performance 
+read post href http stackoverflow questions performance difference lambdas anonymous classes performance difference lambdas anonymous classes provided href http www oracle technetwork jvmls2013kuksen pdf rel nofollow article blockquote lambda invocation behaves anonymous class invocation blockquote decided write benchmark added benchmark method reference results intel core i7 4770k 4x difference lambda anonymous method invocation lambda 4x slower strong question strong wrong misunderstanding performance theory lambdas strong edit strong 
+
+problem benchmark victim dead code elimination jit compiler smart understand result automatic boxing null anonymous class simply removed check turn made loop body empty replace jit observe performace anonymous class slower lambda method reference perform level lambda method reference made optimization reason worry method real code optimized completely general apangin blackhole 

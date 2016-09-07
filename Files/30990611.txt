@@ -1,0 +1,4 @@
+embedded jetty rest service file 
+create web service rest api serve documents static html moment rest jersey api working fine struggling serve resources index html strong project structure strong strong localrunner strong hitting works fine hit directory structure expecting file wrong em web xml configuration class em hr strong dependencies helps gradle strong 
+
+turns request dispatched handlers order added collection setting response complete result request made file added response base directory index html setting fixed 

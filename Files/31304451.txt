@@ -1,0 +1,4 @@
+javafx keytyped event working 
+javafx editable combobox key typed key pressed events firing key released event firing change combobox textfield works fxml fxmlcontroller 
+
+found works geteditor method combobox key typed event works put code controller hope helps 

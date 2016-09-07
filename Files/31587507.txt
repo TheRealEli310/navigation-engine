@@ -1,0 +1,4 @@
+spring boot application deployed tomcat start 
+wrote spring boot app put war webapps folder local test tomcat xampp deployed starts dedicated test server tomcat version server deploys application start reach application browser response idea hinder server starting application catalina log 
+
+problem tomcat hint line catalina log switched version tomcat creating setenv sh tomcat bin read default startup catalina sh set environment variables setenv sh thx borg patouche 

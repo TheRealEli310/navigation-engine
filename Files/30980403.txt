@@ -1,0 +1,4 @@
+looping arraylist 
+code involves task includes functions adding elements displaying elements deleting element editing element question add code loops back view elements turns empty 
+
+time call youre creating list create method pass reference 

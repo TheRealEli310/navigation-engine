@@ -1,0 +1,4 @@
+existing application add webinterface 
+written application based swing expand project webinterface database relevant data stored write external webapplication dont approach strong expand existing project ability webinterface technology strong gwt existing project backend build frontend servlets jsp strong write external webapplication data database strong technology question servlets jsp whats design hard create good jsps whats choice technology hope marko 
+
+aware swing application completly web application application console awt swt swing started main function web application served servlet container tomcat jetty add web frontend swing app bit netbeans create web application project spring mvc takes 5min jsp bit outdated struts web application recommend technologies jsf2 spring mvc wicket gwt swing background gwt mentioned 

@@ -1,0 +1,4 @@
+javafx scenebuilder maven integration 
+created javafx8 maven project eclipse put fxml files src main resources fxml load fxml files fxmlloader pick controller class fxml file scenebuilder controller class automatically scenebuilder tool found similar question answer wasnt clear wasnt login jira case href http stackoverflow questions javafx scene builder controller classes javafx scene builder controller classes 
+
+put fxml file folder src main initially mapped elements controller scenebuilder mapping moved fxml src main resources folder works 

@@ -1,0 +1,4 @@
+install plugin jar grails project 
+grails plugin project make jar include grails project plugin project href https github ticketbis grails groobalize rel nofollow https github ticketbis grails groobalize file grails projects buildconfig groovy run grails refresh dependencies error strong install locale plugin jar ma grails project correctly strong 
+
+ways release plugin href https grails org plugin release rel nofollow https grails org plugin release ul li add plugin grails plugin publish plugin added local maven repo li li add dependency main grails project li ul hr checkout plugin project include location main grails project buildconfig groovy line compile plugin time compile main grails project ways 

@@ -1,0 +1,4 @@
+spring xml configuration location 
+learner spring build test project spring ioc container configure beans xml project root path load application bean spring xml project root directory spring xml source file code load beans xml file question standards conventions creation xml file location file real project reading articles found multiple xml files large project service xml dao xml 
+
+bean definitions span multiple xml files individual xml configuration file represents logical layer defining dao beans architecture place xml configuration files src resources access springs manual blockquote application context constructor load bean definitions xml fragments constructor takes multiple resource locations shown previous section alternatively occurrences element load bean definitions file files blockquote 

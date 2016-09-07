@@ -1,0 +1,4 @@
+disable automatic focus textfield 
+creating bunch selected deselect focus listener running automatically br clues sscce repeat process text field edit2 actual code sscce set focus window sth order prevent text disappearing 
+
+discussed comments added radio button focus h3 explanation h3 href https docs oracle javase tutorial uiswing misc focus html rel nofollow tutorial blockquote ensure component gains focus time window activated call method component component realized frame displayed blockquote means reason component focus window focused component inside gain focus h3 notes h3 ul li text field hint href http stackoverflow camickrs answer li li dont layout pick serves gui design picked fast li li setting size frame components added li li creating focus listener text field create class reuse show passing component constructor rid text field instance li ul 

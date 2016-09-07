@@ -1,0 +1,4 @@
+jvm decide reuse lambda 
+code fragment method return lamba object create printout jvm specification guess rule lambda reuse jvm decide reuse 
+
+identity object returned lambda expression instance pre existing instance href http docs oracle javase specs jls se8 html jls html jls jls sect blockquote run time evaluation lambda expression similar evaluation class instance creation expression normal completion produces reference object evaluation lambda expression distinct execution lambda body instance class properties allocated initialized existing instance class properties referenced instance created insufficient space allocate object evaluation lambda expression completes abruptly throwing outofmemoryerror blockquote 

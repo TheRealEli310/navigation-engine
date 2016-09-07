@@ -1,0 +1,4 @@
+gradle failed refresh 
+everytime add error 
+
+clear gradle cache delete folder project directory dont wary recreated home directory file invalidate caches restart 

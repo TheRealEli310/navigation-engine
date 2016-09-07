@@ -1,0 +1,4 @@
+boolean holding method executed 
+method problem method promptforpinnumber calls method canconverttointeger carries action dependent boolean variable pinvalid true false execute method canconverttointeger functions fine pinvalid correct execute promptforpinnumber enter string throws exception pinvalid stays true section block isnt executed pintry exception caught dealt boolean pinvalid true false happen invalid entry made oudialog request box pinvalid set false change pintry 
+
+classic replace strong assignment strong expression condition 

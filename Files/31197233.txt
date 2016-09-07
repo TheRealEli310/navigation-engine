@@ -1,0 +1,4 @@
+setsearchableinfo searchmanager getsearchableinfo null pointer exception 
+checked double checked manifest docs questions understand setsearchableinfo returns nullpointerexception mainactivity androidmanifest xml searchable xml menu main xml 
+
+appcompat appcompatactivity appcompat version searchview support v7 package define menu app actionviewclass android actionviewclass retrieve 

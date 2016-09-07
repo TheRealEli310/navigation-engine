@@ -1,0 +1,4 @@
+mybatis throws exception stream closed 
+application runs cron mybatis mybatis config xml dbs production read slave write master code initialization sqlsessionfactory code runs exception strong write strong initialization message resolve issue stream talking closed create instances inputstream rd1 rd2 sqlsessionfactory initializations checked db credentials alright advance 
+
+case pass stream mybatis configuration xml times invocation stream read fully closed invocation exception open stream time 

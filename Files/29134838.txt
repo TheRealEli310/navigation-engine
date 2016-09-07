@@ -1,0 +1,4 @@
+javafx memory leak tableview dynamic tablecolumns 
+jdk1 strong make tableview dynamically changing columns leaks memory tenured gen eventually hangs jvm strong simple program demonstrates leak imports included code pressing button 2nd time clear items columns reference persists things ul li searching similar issues didnt find relevant li li storing references arraylist explicitly remove ing clear didnt work li li listview works fine isnt table columns li li combinations classes stringproperty string surprise didnt work li ul recently started learning javafx missing dumb question strong fix leak strong em fixed bug intended behavior create tablecolumn dynamically em 
+
+answer question case issue bug submitted jira bug report info updates href https javafx jira kenai browse rt rel nofollow https javafx jira kenai browse rt 

@@ -1,0 +1,4 @@
+convert bufferedoutputstream inputstream jersey rest response 
+rest method filled data call code previously passed byte array file response due memory limitations implementing streaming method return implementation dont access change method api data put inputstream proper streaming technique converting byte array 
+
+easiest return href http docs oracle javaee api javax ws rs core streamingoutput html rel nofollow streamingoutput object 

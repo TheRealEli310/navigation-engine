@@ -1,0 +1,4 @@
+add existing jpanel titledpane 
+row jpanels add jframe panels expand collapse minimize clutter jframe create jpanels add jframe time adding foldersearchcomps jpanels titledpane adding titledpane jframe titledpane setcontent wont jpanel parameter add jpanel titledpane adding titledpane jframe 
+
+blockquote swing component similar titledpane workaround expand collapse jpanel blockquote complete set swing components extension href https swingx net rel nofollow swingx library includes titled pane task pane collapsible pane mention related amp href http stackoverflow create expandable panels swing demos href https swinglabs demos net rel nofollow swinglabs demos 

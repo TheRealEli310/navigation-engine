@@ -1,0 +1,4 @@
+create png jpg random byte 
+wondering create byte array decoded bitmap suppose byte array elements transform image read headers whatnots png markers jpges clueless bytes time create pixels 
+
+question strong create png jpg random byte strong literally directly logic create bitmaps strong width strong strong height strong strong bytes pixel strong predefined ensure size byte matches predefined values accept blank space bitmap strong strong bytes give strong strong pixel bitmap bytes pixel create strong lt gt strong depend strong bytes pixel strong bytes pixel run pixel loops pull assuming number bytes generate pixel colour draw pixel present memory save file 

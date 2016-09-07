@@ -1,0 +1,4 @@
+convert number base decimal number recursion 
+assignment create recursive method makedecimal passed number represented string base converts number base method hint substrings method takes returns integer form return int examples makedecimal works return return attempt overflow error dont written correctly 
+
+simplest solution recursion 

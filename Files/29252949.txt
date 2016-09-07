@@ -1,0 +1,4 @@
+check util date older days compared current moment time 
+heres check eventstartdate days older currentdate calendar isnt preferred time zone zoneid systemdefault 
+
+assuming days default time zone thirty days ago dst change check documentation behaviour blockquote converting back zoneddatetime local date time overlap offset retained earlier offset gap local date time adjusted forward length gap blockquote alternatively em em subtract hour days simpler give unexpected results terms dst 

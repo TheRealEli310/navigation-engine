@@ -1,0 +1,4 @@
+jaybird lang noclassdeffounderror 
+common question dont wrong forget connect firebird db jaybird added strong jaybird jar strong build path error strong lang noclassdeffounderror strong simple code 
+
+full exception message guess receiving error em lang noclassdeffounderror javax resource resourceexception em means missing required dependency included lib folder jaybird distribution zip options ol li add classpath li li classes li ol deploying application server connector api running standalone application deploying application server presence classes package prevent classloader jar war file href http www firebirdsql org file documentation drivers documentation release notes html refheading rel nofollow jaybird release notes section distribution package full disclosure developer jaybird 

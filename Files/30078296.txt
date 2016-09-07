@@ -1,0 +1,4 @@
+spring mvc message source doesnt point properties 
+stuck days webmvcconfig class webappinitializer application launching login page international texts translated instance user mail en user password en properties files located src main resources international called messages properties messages fr properties ul li put web inf success li li change messagesource setbasename international messages messagesource setbasename international messages success li ul errors displayed page rendered correctly pictures css international messages 
+
+solution href http stackoverflow questions spring thymeleaf internationalization identify message resource spring thymeleaf internationalization identify message resource properties file make summary define distinct beans viewresolver templateresolver templateengine define viewresolver definition spring demands distinct beans work properly 

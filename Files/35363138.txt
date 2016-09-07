@@ -1,0 +1,4 @@
+override default activiti spring boot configuration 
+working spring boot application tweak activiti process engine settings added activiti dependency boot start load files correctly override spring boot defaults setting file looked find reference lists properties guess href https docs spring io spring boot docs current reference html common application properties html rel nofollow activiti properties 
+
+spring boot starter activiti configure specific properties application properties yml list properties class href https github activiti activiti blob master modules activiti spring boot spring boot starters activiti spring boot starter basic src main org activiti spring boot activitiproperties rel nofollow github repository prefix variable default values activiti doesnt default spring mail configuration properties wont effect intellij eclipse activated spring boot integrations autocompletion properties edit configuration file 

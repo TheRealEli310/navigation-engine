@@ -1,0 +1,4 @@
+android wear step counter crashing app 
+writing app read heart rate step count android wear device heart rate sensor works properly step count causing issue commenting listener step counter registering null onresume app works heart rate sensor log posted heres code strong update strong log 
+
+fixed called sensor registered text view listener sensor wasnt assigned refrence moved sensor registertion inside listener works 

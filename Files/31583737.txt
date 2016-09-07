@@ -1,0 +1,4 @@
+hibernate select rows table 
+hibernate insert works fine inserted values method public logentrylist getall exception problem casting query result object find cast objects properly row table advice requested post persistence xml code 
+
+georgy gobozov adding logentry class worked 

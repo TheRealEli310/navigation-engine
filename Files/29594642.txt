@@ -1,0 +1,4 @@
+resteasy ignores jsoncreator method enum 
+problems making resteasy final parse path parameter enum enum definition endpoint expect hit missing lot 
+
+problem related jackson mapping path parameter payload object href https jsr311 net nonav javadoc javax ws rs pathparam html rel nofollow jax rs documentation static method construct parameter instance string suggest rename method 

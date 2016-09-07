@@ -1,0 +1,4 @@
+javafx adding custom class parent node 
+id spent hours avail add instance class found online called griddisplay parent root scene display fxml file set root scene order things makes difference shows left window blank space maze href https www dropbox rqxa9dy2w9lw4tz screenshot png dl rel nofollow https www dropbox rqxa9dy2w9lw4tz screenshot png dl linking post image directly greatly appreciated edit griddisplay class share code xml paste window properly picture href https www dropbox 27tbliubdlqdfzm screenshot png dl rel nofollow https www dropbox 27tbliubdlqdfzm screenshot png dl 
+
+root set region code 

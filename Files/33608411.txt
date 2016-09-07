@@ -1,0 +1,4 @@
+setup jacoco wildfly maven 
+jacoco eclipse ide eclemma plugin work worked jboss anymore wildfly run junit tests whithout error code coverage arquillian pom xml suggestion 
+
+guide shows step step setup jacoco project href http www petrikainulainen net programming maven creating code coverage reports unit integration tests jacoco maven plugin rel nofollow http www petrikainulainen net programming maven creating code coverage reports unit integration tests jacoco maven plugin step jacoco maven plugin step maven surefire plugin aware surefireargline property defined jacoco maven plugin maven surefire plugin 

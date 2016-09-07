@@ -1,0 +1,4 @@
+spring logout error 
+solutions listed make work simple spring security xml file logout page error make http post spring error message wrong spring versions pom xml 
+
+href http docs spring io spring security site docs release reference htmlsingle ns logout rel nofollow docs logout url ins spring security work change form action drop attribute set explicitly examples manual 

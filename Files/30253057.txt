@@ -1,0 +1,4 @@
+hmac sha1 generates hash hmac sha1 
+starting learn rewrite existing small application create base64 hash input string key hmac sha1 algorithm strong code strong strong code strong problem code generates output expected input string key output output make mistakes code 
+
+code provided output code kbd href http play golang org ivor2nodo2 playground kbd output made mistake called function call linked code mistake passed empty input function calling empty input key produces expected output provided output 

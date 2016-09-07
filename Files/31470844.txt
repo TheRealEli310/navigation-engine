@@ -1,0 +1,4 @@
+guice singleton follow singleton design pattern 
+classes annotated href http google github io guice api docs latest javadoc index html google inject singleton html rel nofollow follow href https en wikipedia org wiki singleton pattern rel nofollow singleton design pattern guess private constructor method guice makes instance class instantiated 
+
+required follow singleton pattern explicitly strong follow strong system properly set guice creating objects letting framework object creation strong strong random classes system calling em em static instance finally guice creating static reference singleton class thing classes injected classes dependency 

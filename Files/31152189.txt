@@ -1,0 +1,4 @@
+stop running threads threadpooltaskexecutor 
+add threads active threads stopped shutdown executor option stop active threads 
+
+set href http docs spring io spring docs current javadoc api org springframework scheduling concurrent executorconfigurationsupport html setwaitfortaskstocompleteonshutdown boolean rel nofollow setwaitfortaskstocompleteonshutdown false create default shutting immediately interrupting ongoing tasks clearing queue 

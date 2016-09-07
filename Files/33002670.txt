@@ -1,0 +1,4 @@
+beanparam jersey client api 
+jersey api documentation posting service form encapsulate form parameters form object beanparam passed method method acting proxy posting service call endpoint mybean pojo annotated fields post created doesnt invoke provider type 
+
+blockquote form object beanparam blockquote stick strictly server side form params params point combine server side easy access send bean client client handle find error handle strong strong send data bean send stuck strong strong ul li href https github jersey jersey blob master core common src main org glassfish jersey message internal formmultivaluedmapprovider rel nofollow li li href https github jersey jersey blob master core common src main org glassfish jersey message internal formprovider rel nofollow li ul 

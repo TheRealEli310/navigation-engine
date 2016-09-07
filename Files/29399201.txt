@@ -1,0 +1,4 @@
+create object instance subclass external class 
+created application attaches events class jbuttons swing components instantiate times gui class class menuitemeventhandler attached menu item works perfectly fine menuitemeventhandler class external inside gui class external left issue reference event handler subclass external class package guiclass eventhandler subclass external class reference event handler attach collection gui objects making reference menuitemeventhandler class achieve 
+
+options make declare class create event handler reference instance enclosing class personally find option smell bad incorrect design kind construction work kind pattern depends context 

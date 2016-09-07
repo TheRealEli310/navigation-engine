@@ -1,0 +1,4 @@
+ws security properties set outprops object passed 
+cxf connect server soap ui errors connect program writing wrong examples outprops added client setting user directly client past error soap envelope created correctly 
+
+problem mixing manual configuring ws security cxf adding wss4joutinterceptor policy driven approach applies ws securitypolicy wsdl case stacktrace references policybasedwss4joutinterceptor added automatically policy approach dont add interceptor add jax ws properties required configure security runtime information href http cxf apache org docs ws securitypolicy html rel nofollow http cxf apache org docs ws securitypolicy html colm 

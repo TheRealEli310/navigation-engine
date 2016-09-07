@@ -1,0 +1,4 @@
+spring integration smtp server 
+spring integration program flow end process send email working fine handle situation mail server solution work unwrapper working catch exception send meaningful response back user stacktrace spring integration ill write mail service call service activator si extension component found href https jtracdeveloper wordpress category jtrac spring integration rel nofollow blog post read href http docs spring io spring integration docs m3 reference html configuration html namespace errorhandler rel nofollow 
+
+add starts flow show rest configuration alternatively add href http docs spring io spring integration reference html messaging endpoints chapter html message handler advice chain rel nofollow expressionevaluatingadvice mail adapter href https github spring projects spring integration samples tree master intermediate retry rel nofollow sample advice 

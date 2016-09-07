@@ -1,0 +1,4 @@
+gpa calculator grade strings order create final gpa scanner string 
+trouble problem input series string letters simply lists gpa vary input program inputs gpa higher write program accepts letter grades student calculates students gpa prints messages strong eligible ineligible taking classes ineligible gpa ineligible gpa grade gpa ineligible gpa grade strong message ineligible taking classes priority ineligible cases class user grades students report card program continue read grades grade character input point type loop cease program prints gpa eligibility message run output gpa eligible print individual grades 
+
+string entering individual letters essentially split string produce array letter loop add gpa total 

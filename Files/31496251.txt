@@ -1,0 +1,4 @@
+instance empty nil uuid 
+generate instance empty nil href https docs oracle javase docs api util uuid html rel nofollow util uuid object bits nil uuids ul li href https en wikipedia org wiki universally unique identifier variants versions rel nofollow wikipedia li li href http tools ietf org html rfc4122 section rel nofollow section rfc li ul 
+
+h1 hex string h1 create nil uuid hex string zeros canonical format h1 constructor h1 constructor taking pair integers h1 enum h1 make handy app defining href https docs oracle javase tutorial javaoo enum html rel nofollow enum special values specific meaning business logic usage 

@@ -1,0 +1,4 @@
+data byte gridfs api 
+gridfs takes input method instance create fetch data back option method data direct gridfs api manually convert 
+
+direct method returns byte array bytearrayoutputstream achieve similar effect avoid unnecessary memory allocation pass initial size bytearrayoutputstream constructor based length gridfs file length long bytearrayoutputstream constructor takes integer subclass bytearrayoutputstream direct access protected buf field tobytearray method create copy internal buffer 

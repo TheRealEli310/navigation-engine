@@ -1,0 +1,4 @@
+making getcontentresolver work class extending fragment class 
+br br mind fragments show contacts list show details contact selected upper fragment br class extend strong fragment strong class method due context issue fetch contact class extending fragment class show list view details older solution found create function pass context parameter problem dont call class extending activity class extending fragment highly appreciated 
+
+add code previous activity activity oncreate method add line fragment access 

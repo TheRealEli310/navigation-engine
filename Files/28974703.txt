@@ -1,0 +1,4 @@
+fragment backstack 
+activity fragments replace fragment adding backstack move fragments adding backstack press back fragments back fragment works fine remove fragment add fragment remove add press back coming back fragment navigate fragments remove add remove add instance press back exiting app backstackcount shown time removed fragment stored backstack question fragment backstack resets commits stored fragment backstack time 
+
+achieve fragments backstack ol li li li fragment reference instance field mloginfragment addition fragment activitys li li activity override method li ol cumbersome achieve desired effect backstack ol li strong strong call creating fragment li li navigating fragment fragments strong call strong li li navigating deeper call transaction explanation found li ol 

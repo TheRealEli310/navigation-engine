@@ -1,0 +1,4 @@
+javafx handler override 
+fxml file build fxml builder loader fxml file maps click event class implement handler class lets call myclass extend myclass myextendedclass override handlethis method question manage work handle method extended class overrides achieve make print myextendedclass myclass 
+
+called instance myextendedclass fxmlloader parses fxml file reads attribute instantiates strong strong object type strong myclass strong base method called fxmlloader doesnt myextendedclass hackish achieve loading myclass defining controller fxml hr cleaner instantiate controller pass fxmlloader br attribute removed fxml file define base type fxml file controller factory decide actual implementation 

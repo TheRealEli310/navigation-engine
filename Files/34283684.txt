@@ -1,0 +1,4 @@
+compose closeable objects 
+create class manages multiple resources solution easily scalable larger number resources naive solution slightly improved version elegant solution avoids nested catch blocks maintaining exception safety manageable resources unwieldy local scope resources statement applicable hr thought working constructor creating registry objects exporting objects close unregister unexport objects thought creating wrapper objects handle export unexport id advantage raii noticed wont expert university moment works fine interested elegant solution 
+
+resouces 

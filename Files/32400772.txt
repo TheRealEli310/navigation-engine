@@ -1,0 +1,4 @@
+spring batch list defined jobs runtime 
+list defined jobs spring batch runtime db metadata bean similar object 
+
+retrieve list job names href http docs spring io spring batch apidocs org springframework batch core explore jobexplorer html getjobnames rel nofollow define bean href http docs spring io spring batch apidocs org springframework batch core explore support jobexplorerfactorybean html rel nofollow inject bean 

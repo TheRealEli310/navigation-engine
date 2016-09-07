@@ -1,0 +1,4 @@
+change maxframesize javacameraview runtime 
+android app opencv change frame size javacameraview runtime lot processing delivered frame set resolution frame app start created radiobutton group choose resolution frame code fact resolution frame choose resolution reinitiate cameraview object miss 
+
+finaly found easy didnt restart cameraview object code 

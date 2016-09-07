@@ -1,0 +1,4 @@
+generating unique row column dimensional array 
+randomly filling dimensional array numbers generated row column unique code current output change numbers generated random expecting 
+
+problem brute force approach works strong sec strong generate unique board strong output strong codes wrote helper methods inside defined util class brute force approach elegantly efficient recursively unnecessary loopings wasted 

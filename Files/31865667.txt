@@ -1,0 +1,4 @@
+spring autowire dependency 
+configuration import basicconfiguration class operationalloggingconfiguration class restconfiguration class componentscan nl ming cram public class myconfiguration 
+
+spring kind application exception means spring find type injecting implementation check spring config exception exception stack trace br nl ing cram gateway cramimpl cramdao class failed inject dependency type createcustomerrequestserviceoperationclient couldnt find implementation 

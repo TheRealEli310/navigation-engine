@@ -1,0 +1,4 @@
+create itext basefont based inputstream 
+font file arial ttf web application obtain contents create href http api itextpdf itext itextpdf text pdf basefont html rel nofollow itext based method doesnt accept blockquote createfont inputstream string boolean invoke createfont lang string lang string boolean basefont blockquote 
+
+strong ttf strong font method interpret ttf format 

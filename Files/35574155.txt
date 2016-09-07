@@ -1,0 +1,4 @@
+consuming streams clojure 
+brought href http docs oracle javase docs api util stream stream html interface convenient map filter reduce operations collections things turned stream find streams awkward verbose clojure interoperating apis produce compare pre class lang prettyprint override clojure api pre class lang clj prettyprint override approach consuming stream based apis clojure turn stream seq clojure transformation functions 
+
+util iterator stream iterator method made clojure sequence iterator seq 

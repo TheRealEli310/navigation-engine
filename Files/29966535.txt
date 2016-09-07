@@ -1,0 +1,4 @@
+confused docs source countedcompleter 
+code fragment util concurrent countedcompleter class jdk makes confused documentation similarly complete tasks completer invocations complete tasks completer calls worked class issue documentation implementation cook wrong ideas properly deal class appreciated 
+
+youre confused confused writing critique framework years level complexity reaching critical level 8u40 reason class exists join href http www coopsoft ar calamityarticle html faulty rel nofollow doesnt work order stalling threads java8 streams architect invented class work class addtopendingcount fork compute trycomplete count method calls oncompletion bit messy code simple works rest code current countedcompleter chain countedcompleter objects guess parallel stream processing 

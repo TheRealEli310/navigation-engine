@@ -1,0 +1,4 @@
+add module wildfly cli 
+create wildfly docker image postgres datasource build dockerfile fails permission denied install postgres module dockerfile calls output building blockquote starting wildfly waiting executing failed locate file filesystem copying tmp postgresql jdbc41 jar opt jboss wildfly modules org postgresql main postgresql jdbc41 jar tmp postgresql jdbc41 jar permission denied blockquote permissions required set permission 
+
+jar file readable user user comming parent image added root user find details href https github docker docker issues rel nofollow github discussion ul li strong add permissions jar file strong adding image li li add permissions jar file image adding li li change ownership file image li ul simplest solution solutions switching user root dockerfile back jboss 

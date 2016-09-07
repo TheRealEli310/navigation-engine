@@ -1,0 +1,4 @@
+lang outofmemoryerror gc overhead limit exceeded loading xlsx file 
+understand error means program consuming memory long period time recovering program reading 2mb file memory issue occures monitor program quickly reaches 2gb memory consumption crashes reach 2gb reading 2mb file open file chunks doesnt loaded memory solution part library shouldnt handled smartly rows columns future work approx mil records columns code 
+
+work large xlsx files streaming class data xml stax effectively process contents heres xlsx elements cell create small xlsx file unzip examine xml inside information edit href https svn apache org repos asf poi trunk src examples src org apache poi xssf eventusermodel rel nofollow examples processing data sax stax lot nicer efficient 

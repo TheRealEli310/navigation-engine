@@ -1,0 +1,4 @@
+spring boot serveletinitializer spring security 
+configuration files spring boot application spring security config appears isnt working access localhost asks username password configured displays invalid credentials validate edit convert xml configuration javaconfig based avail heres securityconfig security config xml 
+
+wanted version authentication start disabling spring boots spring security configurations add application properties changed http configuration match configurations login form assuming page login page login post request spring security check loginprocessingurl set 

@@ -1,0 +1,4 @@
+include gradle dependency aar 
+shouldnt include gradle dependency strong benefits drawbacks strong added aar libraries supported work 
+
+libraries uploaded multiple formats time youll dont suffix youll downloading library default format defined author dependencies suffix enforce downloading library format exist author forgot library maven gradle treats default suffix dependencies library longer downloaded ensure manually ensure full dependency tree library downloaded suffix write 

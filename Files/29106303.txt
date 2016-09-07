@@ -1,0 +1,4 @@
+load resource bundle file jar bundle base 
+resource bundles base file system jar load resource bundle file system jar bundle loaded jar file system changed bundle base foo bundle bundle jar worked bundle names file system jar 
+
+urlclassloader loads resources strong case urlclassloader strong br resource requested asks parent class loader load resource checks child class loaders br strong solutions strong strong strong constructor give null parent em em strong strong extend urlclassloader override method method load class loader br 

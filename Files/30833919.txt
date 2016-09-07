@@ -1,0 +1,4 @@
+syntax run maven plugin command line 
+asked href http stackoverflow questions execute maven plugin command line execute maven plugin command line dont understand answer syntax form foo bar supposed specifically configured maven resource plugin permutations working figured id stop brute force internet documented 
+
+patterns run location pom xml havent version maven search matching plugin build section prefix recognized part artifactid prefix plugin documentation give exact prefix 

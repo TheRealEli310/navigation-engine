@@ -1,0 +1,4 @@
+android app crashes splash screen 
+load splash screen seconds app crashes load main activity splash screen found topic discussed earlier stack flow didnt helped solve issues blockquote androidmanifest xml blockquote blockquote splashscreen blockquote blockquote mainactivity blockquote blockquote event log blockquote 
+
+error log caused illegalstateexception theme appcompat theme descendant activity id guess problem theme androidmanifest xml changing android theme android style theme holo check href http stackoverflow questions change app default theme app theme change app default theme app theme 

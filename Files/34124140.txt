@@ -1,0 +1,4 @@
+springboot support hibernate 
+confused springboots support hibernate5 reference lists dependency hibernate final lists dependency springframework includes hibernate5 support matter adding extra hibernate5 dependencies override boot bundles clarify 
+
+hibernate hibernate spring boot youve observed hibernate default version hibernate override property spring boots dependency management assuming youre maven hibernate big difference hibernate youll lose spring boots custom naming strategy due breaking change made hibernate youll warning logged startup dislike hibernate 5s defaults custom implicit physical naming strategy spring boots properties 

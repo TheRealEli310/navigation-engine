@@ -1,0 +1,4 @@
+adding elements arraylist loop 
+problem simple find solve basically create arraylist add elements loop elements netbeans gui press button add add string variables capital arraylist display textarea thing print variables capital times code 
+
+youre wanting continually grow make class variable local variable loop youre adding capital class variable youre clear remove items 

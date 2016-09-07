@@ -1,0 +1,4 @@
+android permissions onrequestpermissionsresult called 
+updating app permissions system working onrequestpermissionsresult check permission button press successful send text message grant permission dialog closes doesnt trigger send text press button debugged set breakpoints onrequestpermissionsresult method method called callback ran similar issue 
+
+issue caused nestedfragments basically fragments extend hostedfragment turn extends compatfragment nested fragments caused issues eventually solved developer project low level stuff bit switching working actual final solution 

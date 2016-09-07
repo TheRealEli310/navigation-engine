@@ -1,0 +1,4 @@
+setlookandfeel nullpointerexception jtable 
+panels setting class extends works fine panels dontve add panel panel problem set edit figured problem jtable tablecellrenderer adding tablerenderer nullpointerexception remove setcellrenderer line works fine edit2 googling found href http stackoverflow questions nullpointerexception javax swing plaf synth synthcontext getpainter nullpointerexception javax swing plaf synth synthcontext getpainter works fine ubuntu os gtk exception figure wrong packages actual implementation 
+
+code works fine finally figured problem problem line returning giving implementation line returning actual problem 

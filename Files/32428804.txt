@@ -1,0 +1,4 @@
+javafx work multiple tableviews item selection 
+working javafx solve problem tableviews column select tableview item information listet selected object select tableview click item information shown item selected fine select tableview item information shown works click tableview area clicking direct item clicking tableview item reason adding mouseclick listener deselect tableview didnt work easy forget selections code shows information clicks happen listener clicks displays information 
+
+imo problem click 2nd tableview calling 1st triggering changed event 1st tableview adding mouse pressed event handlers tableviews remove mouse handlers 

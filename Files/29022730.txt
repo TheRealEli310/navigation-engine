@@ -1,0 +1,4 @@
+close serversocket accepting client socket establishing connection 
+question general simple program concerns tcp ip connections server socket close establishing client connection maximum client time dont connect noticed close server socket client socket listening connections perfectly fine arent hidden dangers approach 
+
+blockquote close serversocket accepting client socket establishing connection blockquote listening socket accepted socket completely independent make sense execute client handling code accept loop back accept starting thread client customary clients connect wont service client finishes dont code retries clients 

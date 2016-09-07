@@ -1,0 +1,4 @@
+run gradle test tests date 
+grade script set exec gradle build working perform junit tests run gradle test preform gradle clean gradle build working reset test building project 
+
+option flag href https gradle org docs current userguide gradle command line html command line rerun test task tasks depends youre interested rerunning tests option make gradle clean tests results executing tests task background plugin defines clean tasks tasks href http deletes 20files 20created 20by 20specified 20task 20cleanjar 20will 20delete 20the 20jar 20file 20created 20by 20the 20jar 20task 20and 20cleantest 20will 20delete 20the 20test 20results 20created 20by 20the 20test 20task documentation blockquote em cleantaskname em deletes files created task cleanjar delete jar file created jar task cleantest delete test results created test task blockquote order run tests run task br 

@@ -1,0 +1,4 @@
+secure spring soap service certificates 
+managed create soap server client requires username password call functions code shows strong client strong strong server strong strong security policy strong replace username password authentication certificate prefere xml implement existing code shown 
+
+finaly figured months ago remember configuration looked add web xml present mvc dispatcher servlet xml jks file keystore file wich holds certificate securitypolicy xml xws security library oracle dependency finnaly working found good explanation certificate authentication awesome book spring web services cookbook hamidreza sattari questions implementation 

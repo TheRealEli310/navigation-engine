@@ -1,0 +1,4 @@
+statement function returns 
+avoid nested statements lead putting code long curly braces hard follow code amount code condition larger code change form avoided statement condition told mine bit hard read 
+
+conditions quick cases preconditions prefer statement rest method main extra indent extra brace end statement conditional branches long roughly length code smells refactor extracting branches methods separate classes href https en wikipedia org wiki command pattern rel nofollow command pattern 

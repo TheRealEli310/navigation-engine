@@ -1,0 +1,4 @@
+loop grow circle grow circle 
+write android application draws circles random positions forever code objective slowly animate circles make grow screen basically increment radius circle fast creating loop perform desired result displays circles end radius code class draws circles class interfering accomplish 
+
+call force redraw frame 

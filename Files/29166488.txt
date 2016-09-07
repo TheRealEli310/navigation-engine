@@ -1,0 +1,4 @@
+read rdf foaf file apache jena 
+problem reading rdf file foaf tags read apache jena snippet rdf file pre class lang xml prettyprint override dont understand read data apache jena regular pojo object appreciated couldnt find tutorial web kind parsing 
+
+dont understood problem read rdf file pojo object lot choice read rdf file jena model create pojo objects methods proposed framework values properties code extracts file methods setters pojo class find good introduction href http jena apache org tutorials rdf api html rel nofollow 

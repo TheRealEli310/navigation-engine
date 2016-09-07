@@ -1,0 +1,4 @@
+jdk jre version determine result sslsocket getsupportedprotocols 
+jdk jre version determine result sslsocket getsupportedprotocols configuration startup parameters impact result application running jdk update method return sslv2hello sslv3 tlsv1 tlsv1 tlsv1 app ran jdk support sslv3 method return tlsv1 tlsv1 tlsv1 assume answer question applies default enabled list jdk update sslsocket getenabledprotocols default returns sslv3 tlsv1 jdk default enabled list tlsv1 tlsv1 
+
+prior disable algorithms starting versions difference restrict tls ssl versions exists protocols list allowed protocols rejected 8u51 defaults found javas file 

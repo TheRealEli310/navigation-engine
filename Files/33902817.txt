@@ -1,0 +1,4 @@
+titandb defining indexes 
+href http s3 thinkaurelius docs titan current indexes html rel nofollow constructing index run query warning titandb index order speed lookups 
+
+managed figure issue href http stackoverflow answer providing info problem assumed careful reading href http s3 thinkaurelius docs titan index parameters html rel nofollow chapter href http s3 thinkaurelius docs titan elasticsearch html rel nofollow chapter href http s3 thinkaurelius docs titan index admin html rel nofollow chapter wrong based indexes require misedindexes working strings install href https www elastic products elasticsearch rel nofollow elasticsearch enable based indexes configure index replacing warning disappeared testing confirm worked solved issue 

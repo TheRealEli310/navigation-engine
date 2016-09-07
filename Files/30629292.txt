@@ -1,0 +1,4 @@
+maven tomcat7 simple web app lang linkageerror loader constraint violation 
+directions book introducing maven apress create simple web app helloworld jsp maven tomcat7 artifact win7 structure created follow pom xml tomcat plug added run command line root project command information display project browser port message things research added lines pom success fixed alot 
+
+artifact pre class lang xml prettyprint override offending class artifact 

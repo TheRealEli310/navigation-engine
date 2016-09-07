@@ -1,0 +1,4 @@
+match quotes commas 
+regular expression matches character inside quotes excludes quotes string matches commas result match modify regex make exclude commas output h3 exclude quotes regex include commas match result h3 h3 big regex h3 part matches date dd mm yyyy h3 dddd h3 part matches time hh mm ss h3 h3 supposed match characters quotes h3 h3 part regex doesnt work doesnt exclude quotes reason removes spaces strings enclosed quotes h3 input text file strings h3 h3 expected output array values quotes commas quotes reason big regexes matching dates time shouldnt matched theyre wrong h3 
+
+make regex match commas remove lookarounds capturing groups fetch contents double quotes lookarounds assertions wont match character input regex matches matches comma present inside double quotes regex forces match block double quoted string code strong output strong href https regex101 vt7ek2 rel nofollow demo 

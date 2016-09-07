@@ -1,0 +1,4 @@
+google signinbutton inside fragment shows null pointerexception onclick 
+login app googleplus facebook null pointer exception searched ways wrong code mainactivity exception 
+
+fragment singinbutton initialized fragment lifecycle href http developer android intl ko guide components fragments html rel nofollow http developer android intl ko guide components fragments html onattach oncreate oncreateview button initialized oncreateview npe occur reference wrong id xml case set button click listener oncreate initialize button oncreateview 

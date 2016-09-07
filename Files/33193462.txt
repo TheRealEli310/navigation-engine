@@ -1,0 +1,4 @@
+jsoup save content database 
+array urls store information url read database problem list data large url read serialize url dew stored database time thread manipulate method 
+
+multiple threads retrieving data threads process urls concurrently threads change line replace number find href http docs oracle javase docs api util concurrent executorservice html rel nofollow executors 

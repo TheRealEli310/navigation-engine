@@ -1,0 +1,4 @@
+application stops save file 
+save file message application stopped works fine save greatly manifest xml 
+
+change line dont forget close filewriter end writing 

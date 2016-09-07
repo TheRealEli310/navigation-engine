@@ -1,0 +1,4 @@
+remote debugging webstart applications intellij idea executable code found 
+debug webstart application launched process builder fine check process explorer tool options set properly idea made remote configuration localhost sources project connected successfully problem breakpoints executable code found invalidate caches luck code retrieved webstart identical ide compiled locally remote build machine jar signing issue 
+
+compiled flag generate debug information 

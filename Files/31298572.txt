@@ -1,0 +1,4 @@
+properly iterating queues activemq destinationsource getqueues response 
+reason code returning simple problem loop begins process full due nature process items loop throw doesnt fix underlying problem reason returned iterate ensure items covered added iteration edit solution perfect ensures queues queues added 
+
+nature href http docs oracle javase docs api util concurrent copyonwritearrayset html rel nofollow copyonwritearrayset behave list queues change concurrently thread returning activemq giving data structure thread change remain date queues added time wait queues added response listen activemq href http activemq apache org advisory message html rel nofollow advisory message facility respond message queue additions consumer producer additions removals link code 

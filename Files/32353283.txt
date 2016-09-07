@@ -1,0 +1,4 @@
+synchronization threads execute critical sections order 
+kind code thread executes block1 synchronized block block2 order thread t1 executes block1 thread t2 t1 execute block2 t2 threads achieve 
+
+understand critical section executed order critical section blockquote thread t1 executes block1 thread t2 t1 execute block2 t2 threads blockquote queue ensure order execution strong strong thread dies exits removing queue threads blocked indefinetely add finally block housekeeping strong strong href http stackoverflow nicholas robinsons answer position order suggested queue slightly efficient 

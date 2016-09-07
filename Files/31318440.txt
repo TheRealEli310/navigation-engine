@@ -1,0 +1,4 @@
+hibernate assign id double 
+assign id hibernate double data type xml error whats wrong code hibernate bug 
+
+generating ids simple doubles ids introduces complexity isnt needed hibernate telling double ids integer type uuid string basically comparisons arent floating point href http stackoverflow question hairy comparisons floating point comparisons integer values floating point dont digits decimal point types select mapping depend types database schema ids type fixed decimal numeric scale meaning number fractional part simple integer types big number inserts dba expects fixed decimal jdbc id mapped floating point type fixed decimal floating point things fixed decimal means fixed number digits precision tells digits decimal scale tells digits decimal point floating point means representing numbers complex binary representation strange things binary representation fractions resulting repeating decimals truncated lot complicated id field 

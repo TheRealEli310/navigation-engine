@@ -1,0 +1,4 @@
+read json file jersey sources folder 
+jersey project read json file folder scr main sources jackson inputstream text document file data strong code strong strong json simple strong root class 
+
+things ul li strong deserializing format json strong json json array class type collection subclass class map json object remove json deserialize remove deserialize expecting json object array li li strong format main json object relation class strong discrepancy format json properties class format class inclined work li li strong accessing file strong file read classpath file file system href http docs oracle javase docs api lang class html getresourceasstream 28java lang string rel nofollow returns file maven structure file root classpath access li ul complete points mentioned 

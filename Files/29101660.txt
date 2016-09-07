@@ -1,0 +1,4 @@
+update datastore entity objectify 
+google app engine datastore update entities saved objectify framework perform operations datastore update field entity load calling entity getter setter modify field call persist preferred method 
+
+normal guess youre sql update google datastore doesnt things update insert operation youre putting entity key docs href https cloud google appengine docs datastore entities updating entity rel nofollow https cloud google appengine docs datastore entities updating entity 

@@ -1,0 +1,4 @@
+whats difference enterprise application project ejb project 
+eclipse ee edition whats difference dynamic web project creating rest services web service project 
+
+strong enterprise application project strong br enterprise application project ties resources required deploy j2ee enterprise application br references href http eclipse org indigo index jsp topic 2forg eclipse jst j2ee doc user 2ftopics 2fcjearproj html rel nofollow br strong ejb project strong br specialized environment develop test enterprise beans conform distributed component architecture defined sun microsystems enterprise javabeans ejb version specification br reference href http eclipse org indigo index jsp topic 2forg eclipse jst j2ee doc user 2ftopics 2fcjearproj html rel nofollow 

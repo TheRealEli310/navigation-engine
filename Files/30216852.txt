@@ -1,0 +1,4 @@
+configure local variable spring propertyplaceholderconfigurer 
+start read href http stackoverflow questions read system environment variable spring applicationcontext href http stackoverflow questions propertyplaceholderconfigurer environment variables properties files figure issue spring application youll realise spring knowledge extensive environments test production properties file identical change environment slightly properties added variable grabs properties file question set variable populated environment 
+
+turns solution place didnt set system property production machine access solution add property local development environment 

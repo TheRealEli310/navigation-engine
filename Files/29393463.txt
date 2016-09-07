@@ -1,0 +1,4 @@
+spring boot autowired mongo repository working 
+connect spring boot application mongo db follwoing href https spring io guides gs accessing data mongodb rel nofollow tutorial pretty simple class scanresults objects save db receive post request error autowired scanresults repository interface application pom xml 
+
+solved commenting find method repository guess compulsory implement methods interface 

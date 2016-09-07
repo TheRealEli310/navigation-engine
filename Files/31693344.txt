@@ -1,0 +1,4 @@
+maven surefire test fails upgrade jdk 
+exceptions test runs upgrading jdk jdk test cases running fine eclipse junit launcher fails run maven surfire latest stable version maven surefire maven compiler maven configuration changing surefire configuration run tests nofork mode tests pass modules exception modules test fails exception 
+
+solution assumes directly jmockit included result dependency find jmockit included dependency exclude worked exact scenario stacktrace 

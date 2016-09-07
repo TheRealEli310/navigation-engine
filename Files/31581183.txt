@@ -1,0 +1,4 @@
+named providers return types end giving lang illegalargumentexception duplicate 
+issue working libgdx project modules platforms android module desktop module rest pretty building project desktop nice dandy android side error leaves flabbergasted quick glimpse dagger source code qualifier annotations gathered reflection prefixes binding names keys uniquemap problem occur area qualifier processed desktop build works problem additional object field injection changed return types concrete classes workaround likes workaround haunt till end 
+
+finally figured reason problem occurs proguard proguard config file obfuscate generated code pruning annotations unexpected results make proguard dagger coexist basically give obfuscation switch dagger2 jake wharton href https github square dagger issues rel nofollow https github square dagger issues proguard avoid hitting 65k limit making configs avoid obfuscation solved problem 

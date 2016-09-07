@@ -1,0 +1,4 @@
+program weird stuff 
+assignment objective blockquote suppose weekly hours employees stored dimensional array row records employee day work hours columns representing number days week employees work table shown represents array stores work hours employees days week write program takes inputs number employees number working days week takes employee information number daily hours worked program display employees total hours worked week decreasing order total hours blockquote output output decreasing order hours worked code weird giving null output wont show hours employee worked put code 
+
+multiple things wrong current code capturing dimensional array problem logic print desired output wrong loop conditions simply wrong wont desired output program isnt weird stuff coded wrong updated code added array played final output hope helps 

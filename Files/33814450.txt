@@ -1,0 +1,4 @@
+spark sql analog redshift oracle sysdate current date 
+date function supported spark sql current date 
+
+found solution question code works expected 

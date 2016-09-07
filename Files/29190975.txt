@@ -1,0 +1,4 @@
+netbeans return collection field optional warning 
+enabling optional warnings netbeans attempt coder return collection field entire description warns return collection fields href http wiki netbeans org hints rel nofollow wiki wasnt helpful img src http stack imgur sa4pr png alt screenshot option enable error harmful return collection field 
+
+collection classes mutable means change adding items clearing means careful writing immutable class getter collection field returns em copy em simply caller reference private field made returned object mutate instance warning tells write advice optional warning extremely easy write thinking results confusing 

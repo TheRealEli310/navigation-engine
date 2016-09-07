@@ -1,0 +1,4 @@
+run tasks threads 
+meassure average time executing task threads tasks time meassuring purposes task calling specific method lets call dont create additional classes code create task create thread great number tasks threads create arrays threads tasks dont queued class edit didnt wrote average time highest time 
+
+thing expect precise results measure performance href http openjdk net projects code tools jmh rel nofollow tools providing reliable results executorservice measuring nanoseconds strongly encourage avoid manual measurements factors spoil results warmup setup expenses strong update strong measure execution time task submit future return execution time print gather list 

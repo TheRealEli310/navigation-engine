@@ -1,0 +1,4 @@
+child layouts groups expandablelistview 
+issues control parent children parent expandablelistview giving headache package comments 
+
+main mistake resides ul li condition reached load marked view inflating layout reusing lines list li li checking type child view load dangerous incomplete happend booom nullpointerexception data source element group li ul things fully implement href http developer android reference android widget heterogeneousexpandablelist html rel nofollow heterogeneousexpandablelist interface layouts groups children expandablelistview interface work conditions layout loaded finally work reuse view issue nice guy snippet based adapter post img src http stack imgur n2aqp png alt commentsexpandablelistadapter implementation result hope helps doesnt 

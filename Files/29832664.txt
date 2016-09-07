@@ -1,0 +1,4 @@
+set capacity delayqueue 
+queue implement tcp ip events transfer means queue reach capacity incoming events dropped returns hold events configurable time seconds decided hold elements release elements time expired strong unbounded strong wondering set capacity reliable 
+
+sizeable problem access internal lock delayqueue subclass delegate lock private delayqueue lock issues implement youre halfway implementation delayqueue isnt access lock reflection isnt ideas relies implementation details delayqueue work jres break change version jre youre running absolute simplest solution problem albeit bit dirty doesnt implement timeout youll 

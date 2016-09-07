@@ -1,0 +1,4 @@
+jpa unknown entity type exception 
+persist object exception caused lang illegalargumentexception object entity person id null occupation null address toronto entity type exception explanations vague understand kind jpa getters setters advance 
+
+put entity annotation class generate getters setters fields tutorial 

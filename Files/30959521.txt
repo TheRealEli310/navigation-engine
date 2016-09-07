@@ -1,0 +1,4 @@
+boolean true hibernate 
+set hibernate save true boolean field database maintain compatibility program made delphi 
+
+annotation full path class implements usertype interface factory producing target type mapped column customclas implements usertype interface provided hibernate usertype implementation developer hook custom logic implementation acts adapter relational database class property write conversion logic methods ul li creates custom object data returned result set li li converts custom object passed prepared statement li ul check api detail hibernate site 

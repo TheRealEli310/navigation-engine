@@ -1,0 +1,4 @@
+loop elements soapmessage body return node 
+looping soap fault xml response soapmessage parse nodes find node return node back calling method calling method code 
+
+highly recommend href http www w3schools xpath rel nofollow xpath case lines case fetch assuming ancestor element modify fetching logic strong edit strong heres complete source ops request 

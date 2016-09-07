@@ -1,0 +1,4 @@
+jnlp web start download jar file 
+web start download jar files resources jdk build application good reasons jdk upgrade jdk demo samples servlet location jnlp security checking servlet jnlp work jar files download write address jnlp directly codebase attribute prefixing file localhost works 
+
+found problem exploaded artifact environment location actual tomcat webapps root addresses jnlp dont match point package jws war file deploy manually works fine 

@@ -1,0 +1,4 @@
+roid view inflateexception binary xml file line error inflating class recyclerview 
+solve run app past inital loading click hourly daily forecast crash hourlyforecastadapter houradapter 
+
+recycleview tag layour incorrect write write views xml inflater android view package exception recyclerview class located android suport v7 widget package cases full qualified view class 

@@ -1,0 +1,4 @@
+camel publishing rabbitmq queue 
+simple route defined routecontext camel route multiple routes endpoint defined endpoints file href http camel apache org rabbitmq html rel nofollow http camel apache org rabbitmq html page idea set header exchange message published queue overlooking appreciated 
+
+bit gotcha answer relates part route didnt include question didnt relevant route starts rabbitmq endpoing included result exchange rabbit headers set arrives rabbitmq routing key rabbitmq exchange rabbitmq delivery tag headers life route override values publish rabbit endpoint fixed introducing bean strips headers ideal behaviour opinion 

@@ -1,0 +1,4 @@
+refactor android studio project 
+copied current project android studio directory coding app open project android studio click folder doesn show files inside hard drive click refactor folder message appears perform refactoring selected directory located inside project solve 
+
+imported project empty directory follow steps suppose cope project named strong em myproject1 em strong ol li copy project directory paste empty folder li li make closed myproject1 android studio clicking em files close project em li li click strong open existing android studio project strong li li locate directory pasted myproject1 folder recheck strong myproject1 strong folder myproject1 folder work li li select strong em myproject1 em strong folder ahead li li start gradle build li li successfull build start em refactoring em li ol 

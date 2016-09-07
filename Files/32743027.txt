@@ -1,0 +1,4 @@
+logout facebook spring social 
+trouble implement logout button facebook api spring social logout call url login button implement login calling url em connect facebook em extended connectcontroller redirect user home page angularjs fetch user connected service responsible rest controller backend find register user couldnt find solution close implemented login checked spring social samples github implementations mine 
+
+mightve problem gave spring social documentation found needed make delete request em connect facebook em found section href http docs spring io spring social docs reference html connecting html rel nofollow 

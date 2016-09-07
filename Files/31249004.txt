@@ -1,0 +1,4 @@
+transactions updates data spring aop dirty update 
+issue spring aop dirty update object multiple transactions amp catch spring rest method calls http delete receive parameter amp update database call couple updates object update updated amp throws debugging found object updated multiple times amp throws exception cancelled subscription transaction committed user table message transaction update times amp fails error stack trace solutions 
+
+couple approaches ol li wrap http delete code single transaction deal stale objects transactions li li pass object modified transaction method invoked transaction pass id object method load object afresh li ol 

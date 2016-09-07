@@ -1,0 +1,4 @@
+inputstreamresource closed start reading 
+mongodb stores csv file microservices spring boot apps microservice handles file uploads supports files stream microservice processes files microservices separated store files mongodb dont effect services problem file service returns file inputstreamresource read stream closed caused parse method csv file inputstream closed fix stack trace 
+
+found solution link href https jira spring io browse spr rel nofollow https jira spring io browse spr blockquote answers question simply return inputstream extractor time execute method returns underlying connection stream closed fixes problem read inputstream execute method resttemplate combination responseextractor implementation blockquote responseextractor working 

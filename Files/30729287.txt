@@ -1,0 +1,4 @@
+websocket ee role current user 
+added websocket endpoint ee jax rs application jax rs endpoints access role user securitycontext websocket inject context stuff role user open websocket session 
+
+modify websocket handshake modify websocket endpoint custom configurator modify ws handshake similar access ws endpoint class 

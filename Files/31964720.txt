@@ -1,0 +1,4 @@
+monte carlo sampling 6d space 
+writing code rigid body superposition objects object fix space object free move space goal matching fit order find optimal fit sample poses purpose implement monte carlo based sampling procedure read couple articles found google bit confuse probability distribution random variables move acceptance criterion object translate rotate space defined variables 6d space corrosponds translation rotation random move move check fit pose good simplified code grateful directs direction clarify monte carlo algorithm scene lot advance 
+
+translations linear wrt rotations uniform sphere case random orientation object dont care orientation matters simple algorithm generate object axis orientation position give normalized vector object orientation axis random rotation sample uniform sphere vector rotate method add angle rotation basically uniformly distributed quaternion build rotation operation quaternion making matrix rodriges formula prefer radians 

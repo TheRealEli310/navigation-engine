@@ -1,0 +1,4 @@
+setting multiple boolean variables false 
+assign multiple boolean variables false part android application method correct drawbacks pitfalls 
+
+drawback advantage individual variable set separately setting literal result assignment returning makes difference readability potentially simplify code making array constant indexes access individual values 

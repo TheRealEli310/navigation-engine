@@ -1,0 +1,4 @@
+parse large local json file retrieve player names array 
+large stream data capture game play charlesproxy id parse data print eventually build excel spreadsheet player names location guild json data paste bin youll entries results returns player href http pastebin v4kaaspn rel nofollow http pastebin v4kaaspn heres found return player null pointer exception error advice greatly appreciated 
+
+nullpointerexception happening line jsonarray msg null apply check msg null create iterator 

@@ -1,0 +1,4 @@
+spring requestbody convert json mixed convention payload entity object 
+spring map json payload object json payload set convention names camelcase snake case clear object setter methods works great extra effort json objects camelcase snake case names add order picked good idea avoided annotate parameter question general enforce matching snake case camelcase object screwing camelcase 
+
+working bit realize requested counterproductive receive deserialize json object generally expected deliver serialize parameters implementation extracted camelcase underscore parameters deserialize correctly standard convention exceptions remains deserialize deliver json object received 

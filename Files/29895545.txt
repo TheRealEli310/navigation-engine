@@ -1,0 +1,4 @@
+fill hashmap superclass subclass constructor 
+abstract superclass set javafx super class includes method subclasses represents scenes load set subsequent subclass scenes set main program call works great view subsequent views arent added hashmap superclass understand save viewa code viewb changing references doesnt fill map work additional views 
+
+understood abstract class view class static hashmap viewmap abstract class subclasses time subclass instantiated subclass added viewmap object super class constructor super class view problem everytime subclass instantiated viewmap pointing haspmap object constructor subclass remove constructor code hope works 

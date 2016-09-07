@@ -1,0 +1,4 @@
+guessing game looping error 
+problem simple game create simple error errors doesnt increment time doesnt handle exceptions correctly output string input integer fix errors 
+
+things ol li call guess times local variables function values function calls reason dont numtries incremented calling force user guess possibly random numbers aka play game problem getint li li calling nextint give number inclusive person guess prompt tells li li time call guess letting user numtries incremented returned yielding return time user guess multiple times put loop li li exception handling put loop user enters input valid int entered li ol 

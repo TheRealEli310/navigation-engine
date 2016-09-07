@@ -1,0 +1,4 @@
+play recover promise timeoutexception 
+function calls foursquare api set timeout return default empty response timeout exceeds implementation set low timeout testing purposes ms timeoutexception enters recover body error logged 
+
+returns assign promise returned assigned returned hit href http localhost takesometime rel nofollow http localhost takesometime response error back timeout triggered case change method work expected 

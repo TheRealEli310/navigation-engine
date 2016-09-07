@@ -1,0 +1,4 @@
+strings handled 
+creates literal string pool literal created pointed existing object created heap pointed heap literal created string pool pool literal duplicate literals pool 
+
+blockquote pool literal abc duplicate literals pool blockquote semantically equivalent clear extra entry string pool created literal argument string constructor fact creates string heap heap string pool multiple objects representing string pool blockquote string literals literal string pool reused give blockquote string pool literal reused give abc argument constructor resulting string object pool heap 

@@ -1,0 +1,4 @@
+javafx open fxml class 
+javafx application files ol li mainapp class responsible handling application li li controller controller file li li design fxml fxml file application loaded mainapp controlled controller li ol lets class file compute method dosomething method terminates open built alert box custom fxml file top original fxml file box states work completed suggest neat solution involve moving logic compute file controller compute clean javafx code 
+
+suggestion main primary stage scene held mainapp br inject class compute call 

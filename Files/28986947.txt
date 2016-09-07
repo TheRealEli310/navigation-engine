@@ -1,0 +1,4 @@
+string date calendar 
+date calendar date interval days today 
+
+loop reduce day calendar instance print output 

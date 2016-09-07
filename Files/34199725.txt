@@ -1,0 +1,4 @@
+jackson deserialize bigdecimal plain string annotation 
+rest response pojo spring response deserialized scientific notation deserialized scientific notation jackson annotations 
+
+jackson custom deserializer apis desired result sample 

@@ -1,0 +1,4 @@
+hibernate mapping ignore super class field 
+class class question ignore field f2 table mapped 
+
+answer assuming edit made post code ignore field f2 class superclass attributeoverride read href https docs jboss org hibernate jpa api javax persistence attributeoverride html rel nofollow attributeoverride br attributeoverride insertable false updatable false depends inheritance strategy helps making mapped field inherited superclass transient subclass ignore class 

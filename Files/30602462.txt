@@ -1,0 +1,4 @@
+unable load bean struts convention plugin 
+annotation based config xml based struts href https struts apache org docs convention plugin html rel nofollow convention plugin kind thing removed file added plugin dependency put annotations actions run project server tomcat server starts stacktrace thing struts dependency lies classpath tomcat find dependencies pre class lang xml prettyprint override wrong 
+
+maven dependencies dependency downloaded build app diffrent versions plug ins make plugin stop working breaks startup artifacts pre class lang xml prettyprint override 

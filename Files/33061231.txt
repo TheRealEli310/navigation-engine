@@ -1,0 +1,4 @@
+android touchimageview full view issue 
+application load images server volley library showing grid view grid view href http stack imgur pryum png rel nofollow img src http stack imgur pryum png alt enter image description click item image gallery show full view things working fine zoom pinch swipe href https github mikeortiz touchimageview blob master src ortiz touch touchimageview rel nofollow touchimageview code fullscreenimageadapter fullscreenviewactivity activity fullscreen view xml layout fullscreen image xml extendedviewpager touchimageview href http stack imgur n2dka png rel nofollow img src http stack imgur n2dka png alt enter image description suggestion appreciated advance 
+
+problem url encoding finally solution added line bafore sending imagepaths make work blockquote imagepathsstring add uri tostring blockquote 

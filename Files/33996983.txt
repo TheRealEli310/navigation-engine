@@ -1,0 +1,4 @@
+test jersey client webtarget 
+jersey abstract class construct request abstract client classes proxy classes actual implementations work untested question test run webservice connecting method response identifier method 
+
+found works mocking response dont close response 

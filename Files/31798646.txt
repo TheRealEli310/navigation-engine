@@ -1,0 +1,4 @@
+system clipboard copy file 
+system clipboard transfer text image copy paste files find sample code found similar question href http stackoverflow questions copy file paste clipboard copy file paste clipboard find word clipboard dont methods copy image modify code transfer files 
+
+essentially remember dragndrop api clipboard api concept wraps data transfer data differently based flavor target system generally transferring files unfourtantly nice wrapper class youll provide tests place wrap pass paste file system windows explorer 

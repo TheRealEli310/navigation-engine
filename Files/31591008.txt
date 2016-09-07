@@ -1,0 +1,4 @@
+error run maven windows 
+attempting maven set windows version results changing jdk home path variables result br maven forgive ignorance commented echo mvn cmd script debug call start maven shows message command invalid wrong hr 
+
+issue apparently exe escape string yields error work things change project directory path environment variable mvn set maven default path 

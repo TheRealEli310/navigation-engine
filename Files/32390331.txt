@@ -1,0 +1,4 @@
+retrofit android make error lang nullpointerexception attempt invoke interface method 
+retrofit android library rest api call implemented restclient singleton class restclient call api debug instance null strong lang nullpointerexception attempt invoke interface method error strong logcat 
+
+condition wrong getinstance method check 

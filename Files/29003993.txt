@@ -1,0 +1,4 @@
+spring boot oauth2 splitting authorization server resource server 
+split resource server authorization server spring boot applications running separately authorization server bearer token oauth token access resource sending token header invalid token error intention inmemorytokenstore bearer token wrong code authorization server resource server 
+
+created instances share tokens auth server resource server store 

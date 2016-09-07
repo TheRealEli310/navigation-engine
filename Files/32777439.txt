@@ -1,0 +1,4 @@
+force simpledateformat parse string 
+datestring format create object class application accepts date formats stored array iterate array object datestring throws exception date format array found method class doesnt necessarily attempt parse string successfully creates date object parts string returns problem datestring date time data attempt simpler pattern parsing process finds matching date datestring stops creates object time information force parse string 
+
+dont force parse string compare length format length input strong edit strong href http www joda org joda time rel nofollow jodatime parse string 

@@ -1,0 +1,4 @@
+override arrayadapter add method add image textview custom array adapter class 
+successfully adding image text initialize adapter object set listview adapter add items data internet includes image retrieving information internet json includes image url adapter code add items set array adapter images text add text 
+
+suggest objects normal arrays easily append data reference objects pass adapter receive date simply add data lists data updated call method adapter display data view edit suggestion recycle views created method checking provided contentview argument null greatly improve performance larger 

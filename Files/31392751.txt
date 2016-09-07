@@ -1,0 +1,4 @@
+find class file javap 
+compiled class called test class href http asm ow2 org rel nofollow asm library decided ensure properly compiled class attempting run command find load main class test messsage thought strange class inside current working directory passing classpath avail dissassemblng javap worked perfectly strange strong javap strong find class file surely strong strong command line input output blockquote javap test blockquote blockquote test error find load main class test test class error find load main class test cp test error find load main class test cp test class error find load main class test blockquote wrong compiling class incorrectly surely strong javap strong complain strong strong strong javap strong output correct 
+
+found problem wasnt replacing dots class super class qualified slashes class superclass lang object lang object required 

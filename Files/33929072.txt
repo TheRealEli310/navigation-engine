@@ -1,0 +1,4 @@
+error android studio generate javadoc 
+android studio attempted generate javadoc project strong tools generate javadoc strong dialog configured ul li project li li command line arguments bootclasspath androidsdkplatformsandroid 23android jar li ul executing follow error message end blockquote javadoc error sun tools doclets internal toolkit util docletabortexception sun tools javac code symbol completionfailure class file lang functionalinterface found error blockquote resolve error 
+
+annotation type exists part android runtime boot class path fix problem adding jdks runtime jar rt jar boot class path solve javadoc generation issue problems arise constructs functionalinterface part android platform safer option run android studio 

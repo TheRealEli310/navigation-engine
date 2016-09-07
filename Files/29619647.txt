@@ -1,0 +1,4 @@
+post request spring mvc work migration 
+send post request controller return error spring work fine controllers requestmethod work correct version fix upd create restcontroller class spring requestmethod post work upd log spring mapped methods properly post request handled unlike requests works fine 
+
+finaly found problem spring security upgrading csrf protection enabled default add support csrf protection work properly 

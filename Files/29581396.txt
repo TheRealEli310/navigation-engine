@@ -1,0 +1,4 @@
+android fragmentactivity returns null getactionbar 
+imported android sample project called horizontalpaging android studio works fine run copied code code strong null pointer exception getactionbar strong reading problems day working copying entire code samples mainactivity project improvements guessing problem file manifest styles strong mainactivity strong copied sample project strong manifest strong strong styles xml strong strong gradle strong 
+
+extend actionbaractivity fragmentactivity actionbar fragments youre v7 appcompat library activity extend actionbaractivity subclass fragmentactivity information read adding action bar detail found href http developer android training basics fragments creating html rel nofollow http developer android training basics fragments creating html 

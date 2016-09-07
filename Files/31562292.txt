@@ -1,0 +1,4 @@
+send receive rabbitmq fanout exchange spring 
+working rabbitmq confused fanout exchange method class consumers durable queues queue queue binded durable fanout exchange fanout publisher fanout understand message published method message copied queue processed consumer happen call method consumer reply specific behaviour find documentation 
+
+messaging indeterminate reply win generally handle multiple replies aggregate discrete calls listener container replies aggregation href http projects spring io spring integration rel nofollow spring integration situations built components aggregating messages 

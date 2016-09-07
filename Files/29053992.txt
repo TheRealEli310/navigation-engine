@@ -1,0 +1,4 @@
+linesegmentdetector opencv javacv 
+href http docs opencv org trunk modules imgproc doc feature detection html rel nofollow linesegmentdetector opencv part javacpp opencv distribution fastest algorithm code href http www ipol pub art gjmr lsd rel nofollow publicly 
+
+eventually merged master branch href https github bytedeco javacpp presets blob opencv opencv src main org bytedeco javacpp opencv imgproc l2672 rel nofollow https github bytedeco javacpp presets blob opencv opencv src main org bytedeco javacpp opencv imgproc l2672 

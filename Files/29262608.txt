@@ -1,0 +1,4 @@
+display edittext fragment mainactivity 
+display edittextpreference settings activity textview fragment mainactivity solutions problem saving variable accessable activities heard ways intent extras sharedpreferences problem tutorials textview mainactivity fragment code working settings xml fragment part mainactivity main goal create variable saves edittextpreference achieve 
+
+preference values stored default shared preference files respective keys 

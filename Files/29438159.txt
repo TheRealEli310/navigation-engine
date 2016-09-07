@@ -1,0 +1,4 @@
+gson fails parsing json string space 
+object serializing json gson library string spaces works perfectly string spaces exception blockquote google gson jsonsyntaxexception google gson stream malformedjsonexception unterminated object line column blockquote json json parsed successfully issue ran json validator perfectly fine edit vagueness question wasnt unnoticed hoping existing issue application huge prying small compilable difficult ill firstly json send controller call moves method line exception initially occurring 
+
+discussion workaround worked makes parser bit restrictive documentation restrictions disable present json string href https google gson googlecode svn trunk gson docs javadocs google gson stream jsonreader html nonexecuteprefix rel nofollow issue youre string webserver 

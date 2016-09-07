@@ -1,0 +1,4 @@
+couchbase connection timeout sdk 
+couchbase tutorial connect remote couchbase server failed connection time open default bucket checked open couchbase server page computer xx xx xx code console couchbase server appreciated 
+
+article href https forums couchbase unable connect db util concurrent timeoutexception rel nofollow https forums couchbase unable connect db util concurrent timeoutexception problem solved add longer connecttimeout 

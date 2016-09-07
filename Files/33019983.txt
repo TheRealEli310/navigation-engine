@@ -1,0 +1,4 @@
+jax rs client api interceptor 
+add header request interceptors explicitly setting header jax rs client api aop 
+
+create href http docs oracle javaee api javax ws rs client clientrequestfilter html rel nofollow register href http docs oracle javaee api javax ws rs client client html rel nofollow 

@@ -1,0 +1,4 @@
+android populating table arraylist activity 
+pointed direction arraylist string names arraylist string ratings display names column rating values column user rating gave tablelayout activity arraylists exist main activity activity lets call activity achieve arraylists basically create table layout column display user entered data dynamically receives data arraylist activity advice greatly appreciated fellow wizards 
+
+information arraylist simply calling intent open pass information bundle class arraylist implements serializable pass entire array intent bundle load intent created passed arraylists extract information intent called oncreate activitytwo 

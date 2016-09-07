@@ -1,0 +1,4 @@
+beans xml sessionscoped 
+today employeer told optimize web application change controllers conversationscoped sessionscoped controllers session changing controller conversationscoped ide netbeans told needed beans xml create beans xml needed started deploy throw message blockquote interception type class blockquote changed sessionscoped restart server glassfish created beans xml deploy threw error msg delete beans xml restart server checked project dont beans xml 
+
+found postconstruct controller strange thing error beans xml annotations predestroy postconstruct trhew error 

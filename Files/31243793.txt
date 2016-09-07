@@ -1,0 +1,4 @@
+unsorted map type cassandra 
+map type column cassandra requirement preserve order values inserting cassandra retrieval linkedhashmap serves purpose debugging found order preserved till handling key pairs executing insert cql command cassandra rearranges map keys ascending order dont searched providing sort options defining map types cassandra map types limited flexibility cassandra suggest workaround meet expectations 
+
+correct cassandra map set type preserve order list type handles fine workaround include column list type map store keys list order choosing read row back iterate list chosen order list values determine key pairs pull map 

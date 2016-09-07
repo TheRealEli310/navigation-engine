@@ -1,0 +1,4 @@
+android null pointer exception calling intent 
+receiving error call activity intent activity button clicked method public static context context created beginning class instantiated oncreate context getapplicationcontext context getbasecontext context recyclerviewactivity recyclerviewactivity current class receiving nullp related stackoverflow answers offered manifest includes activity onclickchangeactivity called recyclervieweradapter class manifest file logcat 
+
+problem call strong activity strong method strong adapter strong replace code adapter class adapter strong constructor strong add lines strong getpersonclicklistener strong adapter method invoke strong onclickchangeactivity strong method recyclerviewactivity strong details class strong extends activity 

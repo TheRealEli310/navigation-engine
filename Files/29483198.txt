@@ -1,0 +1,4 @@
+google inject key resolved 
+compiling android project error blockquote type google inject key resolved indirectly referenced required class files blockquote suggests configurebuildpath solution unsure means debug fix error 
+
+means classpath required build project add jar build path 

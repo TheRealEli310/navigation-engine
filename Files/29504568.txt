@@ -1,0 +1,4 @@
+wrap content javafx 
+heres output img src http stack imgur 4s8gj jpg alt output code question explain vbox fill screen method similar androids wrap content image output img src http stack imgur vezxw jpg alt enter image description 
+
+em solution em wrap vbox href https docs oracle javase javafx api javafx scene group html rel nofollow group em works em group javadoc blockquote default group auto size managed resizable children preferred sizes layout pass blockquote means vbox wont grow past preferred size content area display label inside em alternate implementation em set maximum size vbox preferred size vbox grow large fit preferred size content inside grow larger em vbox grows default em href https docs oracle javase javafx api javafx scene node html isresizable rel nofollow resizable container stretch fill area em em dont effect android wrap content method developed android effect match image provided question appears 

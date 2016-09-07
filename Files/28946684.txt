@@ -1,0 +1,4 @@
+updating listview custom arrayadapter 
+apologize similar threads find good solution update listview custom arrayadapter extending fragmentactivity order create custom dialog popup adding updating list entries works fine listview serveractivityarrayadapter update change made adapter notifydatasetchanged serversactivity class isnt stumped listview update save button clicked serverdialog popup greatly appreciated serverdialog class adding list entries serveractivityarrayadapter class displaying listview 
+
+interface method named updatelistview implement interface fragmentactivity implemented method add code update listview button code dialog call interfacename getactivity updatelistview 

@@ -1,0 +1,4 @@
+spring data rest pagingandsortingrepository abstractmethoderror repositoryfactorysupport 
+buil rest api spring data rest change pom xml times find compatible dependencies project problem time config web app jpaconfig annotations annotation don set package repositories class application starts fine make request api response doesn expose repos url repos classes set package annotation applications start fails error dependencies problem maven pom xm class class strong em solved em strong deleting changing version release peeskillet works fine comment spring data commons dependency change spring data jpa version peeskillet 
+
+rid change version depend make depend version depends depends difference depends 

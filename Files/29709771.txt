@@ -1,0 +1,4 @@
+primefaces datatable sorting properly 
+ee webapp developer spring hibernate jsf primefaces found issue primefaces component datatable issue concerns column sorting sorting words special characters language czech characters words starting characters sorted end table problem sorted letter records special characters characterencoding filter provided spring framework force charset utf request response doesnt solve issue configuration filter correct behaviour 
+
+hope programatically work bean method made property bean bit performance default sorting youre move tag 

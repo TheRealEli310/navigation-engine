@@ -1,0 +1,4 @@
+2d polygon polygon collision detection 
+recently polygon class create asteroids bullets spaceship create collision detection program appears collision detection works time pattern appears works heres code creating polygon rotating moving polygon check touching bullet ship method constructor requires ship object loop calls game class alternative solutions separating axis theorem convex polygons times method exists appreciated 
+
+easy solve found convert case polygon 2d href http docs oracle javase docs api awt geom area html rel nofollow areas area intersect area areas collided 

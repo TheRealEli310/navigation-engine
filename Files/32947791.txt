@@ -1,0 +1,4 @@
+dagger inject working component getobject 
+dagger instantiating retrofit interface class injects calls methods instantiate object attribute create dagger module component function work calling 
+
+find code dagger generates easy follow point direction dagger creates code youd write implement assuming method access restclient field sat wrote youd notice words youd cast specific implementation dagger doesnt cast unsafe choices change method provide method passed update inject abstract interface method inject api problem restriction dagger raised feature request remove mark abstract method meantime forever reason work dagger manually instance component method pass method interface 

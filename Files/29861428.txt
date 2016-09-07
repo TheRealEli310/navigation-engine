@@ -1,0 +1,4 @@
+android tcp ip reads slow 
+creating wireless mouse app utilizes bluetooth wifi user decides recently decided udp tcp connection noticed mainstream mouse apps tcp udp strong problem strong sending multiple byte arrays tcp ip server end feels lag potentially speed fast receiving byte arrays strong server code involving receiving strong strong client code android involving sending strong 
+
+network sniffer href https www wireshark org rel nofollow wireshark find impossible em em speculate tcp called href https en wikipedia org wiki nagle 27s algorithm rel nofollow nagles algorithm dealing small packets basically delays transfer small packet chance data ready send aggregated single larger packet benefit efficient network connection cost milliseconds set socket option disable written bytes immediately 

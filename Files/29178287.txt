@@ -1,0 +1,4 @@
+strange jpa compilation errors 
+compile errors jpa eclipselink blockquote find symbol symbol method getcriteriabuilder location variable em type javax persistence entitymanager blockquote blockquote type javax persistence criteria expression parameters blockquote blockquote method createquery interface javax persistence entitymanager applied types required lang string found lang string lang class reason actual formal argument lists differ length blockquote pom xml dependencies jpa compiler jpa version methods exist pom implementation compilation errors happening attempting convert maven project intellij idea maven project worked full pom xml edit result running mvn dependency tree 
+
+google app engine maven facets intellij idea incompatible chose create project skeleton archetype google appengine archetypes gae ide integration feature solved compliation errors 

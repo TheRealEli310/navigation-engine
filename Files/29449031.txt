@@ -1,0 +1,4 @@
+instantiate bean cdi afterdeploymentvalidation lifecycle event pass parameter bean 
+working cdi extension populate discovered beans specific annotation lifecyle event instantiate bean pass newly instantiated bean code find beans annotated populate bean parameter set annotation struggling eagerly instantiate bean pass bean find plenty examples href http ovaraksin blogspot uk eager cdi beans html rel nofollow http ovaraksin blogspot uk eager cdi beans html show eagerly instantiate beans specific annotation work instantiate specific bean pass bean ideally prefer reflections scan annotation instantiate specific bean pass bean alternatively achieve result reflections 
+
+eagerly instantiate bean options ol li inject extension bean li ol ol start li pass producer method provide injection support li ol youre essentially break concept di instantiate bean 

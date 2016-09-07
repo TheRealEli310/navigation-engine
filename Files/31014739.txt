@@ -1,0 +1,4 @@
+convention storing xsd file eclipse project 
+conventional folder storing xsd files eclipse project jars lib xsd file stored 
+
+generally put xml schemas href http stackoverflow jaxb project deep source folders relevant package 

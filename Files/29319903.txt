@@ -1,0 +1,4 @@
+retrofit chaining observables 
+retrofit rxjava problem chaining retrofit observables observables created called switchmap displayed return instance retrofit observable works fine user retrofit observable chaining works strong edit1 strong android app map operator called retrofit observables threading understand operator called item emitted calling doesnt trigger operator code 
+
+blocking actual calling point subscribe subject block subject end part code requires requests executed subject return subject method block bit odd update call side effect retrofit service making update call synchronous service returns call onnext call block similar explicitly blocks original code added empty action wouldnt terribly clean provide details app structure main method android app give pointers avoiding blocking 

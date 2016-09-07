@@ -1,0 +1,4 @@
+modern akka di guice 
+guice akka figure annotate actor classes jsr330 style annotations wire guice literally single article read examples scala code examples criminally version guice criminally version akka ul li href http letitcrash post 55958814293 akka dependency injection rel nofollow crash li li href http www typesafe activator template activator akka scala guice rel nofollow scala guice li ul guice module injected strong rig create instances properly inject em em em em scala strong actor actor system 
+
+href http doc akka io japi akka akka actor props html create akka japi creator rel nofollow creator create provider methods guice module distinguish untyped annotations provider methods injection points guice system guice module actor service inject specific cleaner clause static factory method actor class 

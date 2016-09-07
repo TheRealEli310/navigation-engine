@@ -1,0 +1,4 @@
+tcp heartbeat working properly 
+strong project strong working wireless mouse app android utilizes tcp network protocol transferring mouse movements strong objective strong decided implementing heartbeat timertask server shutdown seconds mouse movement made mouse movement resets timer back heartbeat bytes array server server shutdown raise heartbeat strong problem strong heartbeat works fine fact loops times throws exception set seconds sends heartbeat send heartbeats seconds server closed raises expected exception potentially set heartbeat interval seconds turn seconds raise exception working time strong heartbeat code strong strong log debug statements strong 
+
+connection reset broken pipe doesnt happen immediately tcp buffering asynchronicity write event times receiving ack appreciable fraction minute isnt necessarily related number write attempts changing interval wont necessarily 

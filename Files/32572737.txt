@@ -1,0 +1,4 @@
+war works deploy windows fails deploy linux server tomcat 
+title introduced war file deploy tomcat working machine running linux work windows deployed tomcat track issue amp searched related problems web including forum success created thread hints error message tracked 
+
+problems causing issue solve issue check web xml carefully misstakes servlets exist defined things driver defined meaning defined web xml remove servlet web inflib folder project javax servlet api jar javax servlet api jar removed case jars conflict project level deployed successfully windows linux trust things mentioned issue work devs miss 

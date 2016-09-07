@@ -1,0 +1,4 @@
+android rx observable timer firing 
+create observable fires regular basis reason figure fires wrong delay set 
+
+documentation href http reactivex io documentation operators timer html rel nofollow timer operator blockquote create observable emits item delay blockquote behavior observing expected emits single item delay href http reactivex io documentation operators interval html rel nofollow interval operator hand emit items spaced interval observable emit item 

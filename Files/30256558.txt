@@ -1,0 +1,4 @@
+ssl tomcat server client jks client public cer 
+guide setup tomcat instance ssl layer producing client server keystores public client certificate autosigned issue guess dont configure tomcats connector current server xml file removed unnecessary comments access tomcat page ul li localhost li li href https localhost rel nofollow https localhost li li href https localhost rel nofollow https localhost li ul worked tip strong edit strong solution access href https localhost rel nofollow https localhost 
+
+question lacks important details tomcats log structure keystore key keystore password protected port occupied things wrong common advise things simple snippet 

@@ -1,0 +1,4 @@
+android webview app crashing emulator null application context 
+developing simple android app mac androidstudio created avd based nexus app compiles issues emulator launches errors logcat app crashes emulator error dialog displays message app stopped heres logcat output error level assuming error related applicationcontext errors methods setting context applicationcontext error persists main questions applicationcontext error root crash fix heres complete application code reference androidmanifest xml mainactivity mywebviewclient 
+
+blockquote heres logcat output blockquote href https stackoverflow questions myapp stopped solve stack trace youre blockquote assuming error related applicationcontext errors blockquote spurious message apps run fine blockquote blockquote ozbek notes href https commonsware blog hey permission html rel nofollow element moved made direct child stack trace mention missing permission problems 

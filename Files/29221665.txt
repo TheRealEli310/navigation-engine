@@ -1,0 +1,4 @@
+android vpn service builder establish returns null 
+make vpn service work android br builder class provided vpnservice class provided android sdk method returns null full method wrote code crashes br debugging debugger theinterface null entire execution program edit br looked trough builder class located android net vpnservice br class hidden class iconnectivitymanager problem br piece code talking 
+
+vpnservice builder establish href http developer android reference android net vpnservice builder html establish rel nofollow documents call vpnservice prepare href http developer android reference android net vpnservice html prepare android content context rel nofollow http developer android reference android net vpnservice html prepare android content context 

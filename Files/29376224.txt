@@ -1,0 +1,4 @@
+json object gson multiple records 
+system println obj getrequestservices getordernumber error print list objects erequestservice giving indexoutofbound advance waitin 
+
+noticed json hierarchy pojos rename pojo json match properties map field pojo annotation full documentation check site href https sites google site gson gson user guide toc json field naming support rel nofollow gson doc hope helped 

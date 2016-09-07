@@ -1,0 +1,4 @@
+spring autowired working applicationcontext 
+wanted print beans loaded understand method lot people suggest understand autowired null pointer exception object call strong application strong 
+
+beansprinter spring bean autowiring work parent spring bean annotate beansprinter main class bean 

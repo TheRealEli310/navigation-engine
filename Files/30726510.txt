@@ -1,0 +1,4 @@
+spring autowire bean constructor parameter managed bean 
+similar questions showing autowire createdatabaseaction bean expects shoppingcart object spring managed bean create keyword implement 
+
+spring instance instantiating managed bean type reconsider design send method parameter remove constructor names good candidate session scoped bean 

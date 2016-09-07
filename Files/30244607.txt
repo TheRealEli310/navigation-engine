@@ -1,0 +1,4 @@
+hashmap key array values 
+hashmap called prizewinners key pair hashmap year nobel prize won winners array strings prize year winners question winner return year won prize interestingly return string public string getyearwon string winner stuck access array correctly iterate key methods assignment requiring print names winners hashmap address contents array 
+
+iterate prizewinner keys years year winners string array convert list call method winners list winner passed parameter case stop looping return year string years didnt find winners return null 

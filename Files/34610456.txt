@@ -1,0 +1,4 @@
+nashorn template strings 
+nashorn support javascript href https developer mozilla org en docs web javascript reference template strings rel nofollow template strings error 
+
+nashorn scripting mode enabled scripting option jjs dnashorn args system property javax script set options nashorn specific extension multiline strings string interpolation href https wiki openjdk net display nashorn nashorn extensions nashornextensions multi linestringliterals scriptingmodeonly rel nofollow https wiki openjdk net display nashorn nashorn extensions nashornextensions multi linestringliterals scriptingmodeonly mentioned es6 features added jdk9 enable es6 features subset language es6 option 

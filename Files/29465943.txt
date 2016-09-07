@@ -1,0 +1,4 @@
+enum values list string 
+method easy returns enum values list string 
+
+pre java8 features map constant 

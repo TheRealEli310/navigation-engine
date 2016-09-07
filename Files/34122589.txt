@@ -1,0 +1,4 @@
+connection close hibernate jdbc 
+problem writing desktop application database server hibernate run application works fine correct connection database minutes operations database error hibernate cfg xml file hibernateutil sample operation database 
+
+solved problem parameter called idleconnectiontestperiod c3p0 set documentation 

@@ -1,0 +1,4 @@
+start local neo4j server windows powershell script 
+downloaded zip folder neo4j community edition version order start connecting neo4j server code create graph database indexing data href http www tutorialspoint neo4j neo4j zip environment setup htm rel nofollow link originally strong problems strong ol li unable start neo4j server batch file deprecated displays message href http stack imgur 8spdz png rel nofollow img src http stack imgur 8spdz png alt enter image description li li powershell scripts commands reference href http neo4j docs m03 powershell html rel nofollow link opens script file server started commands li ol wrong procedure start local neo4j server connect code create nodes relationships graph 
+
+batch file work deprecated appears batch file find findstr command findstr exe windir system32 findstr recognized internal external command error check windir system32 path works neo4j bat file anton mentioned explain powershell didnt work actions 

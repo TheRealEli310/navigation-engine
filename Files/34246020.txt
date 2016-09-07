@@ -1,0 +1,4 @@
+running processing applet eclipse 
+downloaded installed processing ide official website instructions import libraries eclipse core jar gluegen rt jar jogl jar added path code run run menu run options whatsoever run configurations missing 
+
+processing longer extends info href https github processing processing wiki rel nofollow words run sketches applet anymore youll put method back run application run applet youll create class extends add processing component pretty convoluted applets pretty dead youre deploying application javascript href http processingjs org rel nofollow processing js side shouldnt rely eclipse automatically detecting run configuration run configurations create wont work specific case bad idea comfortable scenes stuff cases confusing 

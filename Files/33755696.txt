@@ -1,0 +1,4 @@
+liferay scheduler triggering time 
+implement scheduler job liferay controller shown class defined provide cron time configured user testing set cron time trigger day set cron time 00am job starts ends invoked seconds restrict job invocation run mistake 
+
+fixed issue mistake replaced code controller code trigger scheduler exact time issue making wrong object wrong invocation method 

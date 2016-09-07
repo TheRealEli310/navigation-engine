@@ -1,0 +1,4 @@
+javafx button event handler move shapes 
+started javafx past week problem circle setup pane respond button event handler buttons setup names left pressed move circle inside inside pane problem circle respond event handlers tutorial incorporated key presses move circle similar buttons direction great 
+
+issue youre moving isnt part scene remove create method put center issue center circle adjusting coordinate system centered circle moves make subclass alternatively call prevent positioning 

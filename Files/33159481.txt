@@ -1,0 +1,4 @@
+testing spring restful web services junit 
+spring overwhelmed alot terminology accomplish junit test test result method json form compare expected result 
+
+options ol li unit test controller isnt sounds minimal code validation rest controller methods logic services li li integration test endpoints involves spinning full spring application running tests endpoints test data database start app maven pre integration tests stop post integration tests li ol 

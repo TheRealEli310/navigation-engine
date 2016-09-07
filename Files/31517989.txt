@@ -1,0 +1,4 @@
+onetoone bidirectional mapping foreign key auto fill 
+relationship tables foreign key dont map dba favor future lets imagine user address today user address mapped dba future mapping foreign key user address application instances users important fetch address automatically follow database problem save instance user instance address users attribute address expecting hibernate smart set users instance id solution couple days didnt find solve setting manually expect dont 
+
+standard solution properly update sides href https docs jboss org hibernate orm reference en html tutorial html tutorial associations usingbidir rel nofollow bidirectional association owning side updated association saved database add setter class extend cascading options property include persisted user set address user persist 

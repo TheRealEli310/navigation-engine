@@ -1,0 +1,4 @@
+avoid multiple selection radio button 
+avoid multiple selection radio button radio buttons jradiobutton1 amp jradiobutton2 executed window select radio buttons restrict number selection radio button time 
+
+create buttongroup object add jradiobutton objects 

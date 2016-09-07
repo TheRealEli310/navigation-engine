@@ -1,0 +1,4 @@
+send bufferedimage bitmap android 
+send bufferedimage application tcp socket android device raster byte bufferedimage ship plain outputstream device works fine byte array android side call bitmap decodebytearray null code send picture image type bufferedimage type 4byte abgr thing write size image big make byte android heres code create android bitmap bytes arrive fine dont work bitmap 
+
+elaborate suggestion made comment server side send images width height images type dont convert interleaved abgr byte array packed int argb server side client side matter ill show conversion android client side simplicity convert bitmap constant deprecated recent versions android api 

@@ -1,0 +1,4 @@
+strange behavior stream spliterator parallel streams 
+stream spliterator directly low level operations library writing recently discovered weird behavior stream spliterator interleave calls heres simple code demonstrates problem output flat mapping ordered stream consecutive numbers split spliterator jump intermediate location consume element split time print remaining elements expect consecutive elements stream tail elements fine sudden jump jdk spliterators split traversal official href https docs oracle javase docs api util spliterator html documentation explicitly forbid call problem observed spliterator created directly collection array generated source observed spliterator created parallel stream intermediate question hit bug explicitly forbidden spliterator 
+
+source company output buffered consumed leaving buffer correctly splits leaving buffered stay bug hand buffer return refuse split buffer empty 

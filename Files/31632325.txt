@@ -1,0 +1,4 @@
+spring security acl inheriting works 
+spring security domain level security acl domains company book read acl href http docs spring io autorepo docs spring security release apidocs org springframework security acls domain aclimpl html getparentacl rel nofollow parent inherits permissions service method set permission book card works fine creates permission book instance update method checks permission book updated works fine long user permission book user permission parent object company inherited book user permission company permission companys books href http docs spring io autorepo docs spring security release apidocs org springframework security acls domain aclimpl html getparentacl rel nofollow aclimp method works code set parent book database strong inheriting spring security acl strong 
+
+playing parent acl inherit parent acl make childs set method acl inheriting return true current user read parents acl 

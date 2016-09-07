@@ -1,0 +1,4 @@
+error deserializing object size greater 95kb working fine 95kb objects 
+deserialize objects greater 95kb code works fine objects 95kb code error trace attaching screenshot error trace href http stack imgur xscbg png rel nofollow img src http stack imgur xscbg png alt enter image description sample input href http stack imgur zwczs png rel nofollow img src http stack imgur zwczs png alt enter image description attaching full stacktrace error 
+
+problem general wrong assumption read data code method apache commons io 

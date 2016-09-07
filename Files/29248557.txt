@@ -1,0 +1,4 @@
+persistence xml settings hibernate mysql persistence provider entitymanager 
+implement simple orm program jpa hibernate write portable provide persistence provider persistence xml file changed persistence xml file persistence xml file correct run program eclipse added hibernate jars mysql connector build path issue type persistence xml file internet property names reason property names correct persistence xml file easier portability web application problem appearing web application hibernate local desktop application persistence xml file stored folder 
+
+add jar package maven add dependency 

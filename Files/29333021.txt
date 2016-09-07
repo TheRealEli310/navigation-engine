@@ -1,0 +1,4 @@
+iterative deepening depth search 2d array 
+implement iterative deepening search 2d array maze heres limited depth search stack reason back cells doesnt expand wrong dfs algorithm dont experience stack confused push pop point direction great 
+
+mark positions array visited avoid visiting dont push stack positions visited end infinite loop suppose initial position advance directions left push positions pop pushed long valid direction youll continue reach position youll push valid directions include direction pushing stack pushing reach position push position pushed means youll pop position position youll back back infinite loop 

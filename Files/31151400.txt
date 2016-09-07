@@ -1,0 +1,4 @@
+method getsystemservice directly broadcastreceiver 
+problem defines class assume called understand code called directly run code error show codes 
+
+class br activity context br networkchangereceiver file class referring class extends activity class base class activity extends context class offer activity context 

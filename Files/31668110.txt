@@ -1,0 +1,4 @@
+struts method getdispatchertype undefined type httpservletrequest 
+running struts project built machine netbeans maven heres trace solve code jsp home 005fpage jsp line 
+
+defined servlet api error running application older version servlet api application includes servlet jar imcompatible runtime running tomcat check app includes jar files older servlet version 

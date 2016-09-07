@@ -1,0 +1,4 @@
+bidirectional resultset spring jdbc 
+namedparmaeterjdbctemplate spring jdbc code default returning forward resultset configure overriding namedparameterjdbctemplate type result set spring jdbc method 
+
+isnt flexible hard wired object create statement call scrollable resultset subclassing overriding method create correctly configured 

@@ -1,0 +1,4 @@
+implement recursive version indexof method 
+write strong recursive strong method returns starting index occurrence string inside string found call indexof barack obama bam return em string em class method indexof dont code 
+
+depends library option dont startswith implement version good exercise substring method terrible creates copy string space time performance needed task charat split official method indexof recursive call includes index clarity carefully edge cases 

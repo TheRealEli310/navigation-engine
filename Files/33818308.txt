@@ -1,0 +1,4 @@
+car class acceleration braking 
+intro class trouble car class assigned instructions write class named car fields attributes int holds cars year model string holds make car int holds cars current speed class constructor methods accepts cars arguments getters objects fields methods time called add field time called subtract field write class class prompt user values car create object call method times call method display current car call method times call method display current car receiving speed input putting starting default car class driver class 
+
+accessor speed class member setter user input driver class method car class set car instance user input call user input speed 

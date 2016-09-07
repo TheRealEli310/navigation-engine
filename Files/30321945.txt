@@ -1,0 +1,4 @@
+hashmap keys comparison 
+comparing hashmap keys replace key larger purpose update finger table chord system simulation hashmap data desired outcome key values compared key code written amend code achieve desired outcome mentioned 
+
+make strong wrong strong assumption em ordered em case map ordered keys alternatively collect entries map put list sort based key determining key map simple fact href https docs oracle javase docs api util treemap html higherkey rel nofollow method simply walk entries refer em previous em entry update list based key em current em entry input print 

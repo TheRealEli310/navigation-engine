@@ -1,0 +1,4 @@
+cyclic inheritance android development fragments activities interfaces 
+app fragments activity manages order avoid coupling fragments interactions activity heres problem cyclic inheritance compile time error scenario short long activity fragment avoid error maintaining loose coupling fragments wrap interfaces single class make class implement needed interface examples cyclic coupling doesnt case understanding edit error implementing interface class inheriting class 
+
+laid question properly made mistake depend turn parts depend workaround optimized solution make fragments observe activity declare public methods change fragments activity observes change fragments respond searching fragment change made call public method avoid creating unnecessary listeners make clearer fragments pretty question implementing listeners activity addition public methods 

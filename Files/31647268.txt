@@ -1,0 +1,4 @@
+strategy pattern strategies similar code 
+examples strategy pattern good compression algorithms codec algorithms algorithm code case statistics algorithms refactor strategy pattern code similar wondering people deal strategy pattern code copied desired refactor code ended sets handle types statistics algorithms evaluate trade solutions 
+
+end goal reduce code duplication strong goal make code maintainable strong reducing duplication make strategy implementations easier harder maintain reducing duplication makes code harder maintain duplication possibly find mitigate concern documentation tests ways reducing duplication make code easier maintain ways removing duplication delegation strategy decorator inheritance template method 

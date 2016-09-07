@@ -1,0 +1,4 @@
+programmatically set jetty configuration increase allowed url length 
+embedded jetty v20150714 ran href http stackoverflow problem long query url combined headers longer allowed href http serverfault solution increase easily creating mix custom create override http https configurations easily change reconfiguring defaults 
+
+youre setting property set instantiated default dont separately override https configuration based description youre instantiating dont https connectors https connector loop work configured https https connector configured href http www eclipse org jetty documentation current embedded examples html embedded connectors rel nofollow isnt code set objects recommend setup itll easier maintain configuration future 

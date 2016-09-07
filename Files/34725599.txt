@@ -1,0 +1,4 @@
+apache commons kalman filter 2d positioning estmation 
+improve accuracy indoor positioning framework apply kalmanfilter found apache commons math library supports kalmanfilter tutorials href https commons apache org proper commons math userguide filter html rel nofollow https commons apache org proper commons math userguide filter html matrices setup correctly 2d positioning state consists position velocity problem lies method estimateposition correct pnoise mnoise variable thought matrices appreaciate 
+
+part simulation theyre generating test data adding gaussian noise simulate real world conditions real application wouldnt add noise real measurements 

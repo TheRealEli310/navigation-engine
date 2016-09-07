@@ -1,0 +1,4 @@
+good practice instanceof 
+scenario writting game related code game class list types items inherit conveniant players items distinguish type item keyword read reliaing bad practice case rethink structure 
+
+lets writing inventory code compile work fine misses key idea object oriented design em define parent classes general things child classes fill specific important details em alternate approach place method child classes inventory display logic access easy keeping item specific logic inside specific item subclasses makes codebase easier maintain extend reduces cognitive strain long loop code sample readies reusable places havent designed 

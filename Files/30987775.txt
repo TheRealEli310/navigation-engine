@@ -1,0 +1,4 @@
+cachedgauage dropwizard metrics 
+href https dropwizard github io metrics manual core cached gauges rel nofollow dropwizard metrics coda hale metrics lib wondering em em em understanding em metric real time accurate relevant metric reporting stale cached purpose possibly serve 
+
+quoting href https dropwizard github io metrics manual core cached gauges rel nofollow link added blockquote h3 cached gauges h3 cached gauge efficient reporting values expensive calculate blockquote metric takes seconds seconds calculate minutes calculate time user request data makes sense store cache metric isnt call em real time em updating takes time rendering information user metric outdated finishes calculation 

@@ -1,0 +1,4 @@
+unread notifications messages counter app tabs android 
+achieve similar image img src http stack imgur tdwym jpg alt enter image description strong problem strong achieve red coloured unread counter design psd reuse app duplicate alot pngs number lets limit redundancy strong practice strong achieve effect 
+
+public tablayout tab setcustomview int layoutresid create layout textview button custom view textview showing counter reference br href https developer android reference android support design widget tablayout tab html setcustomview int rel nofollow setcustomview br complete br href https guides codepath android google play style tabs tablayout add custom view tablayout rel nofollow br href https github jgilfelt android viewbadger rel nofollow library 

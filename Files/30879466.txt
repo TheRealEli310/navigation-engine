@@ -1,0 +1,4 @@
+array twotwo 
+strong problem strong array ints return true appears array ul li li li li li li ul em code mising case em twotwo false returns true strong code strong 
+
+wrong code working solution bad ways solution handle individual case chaotic ways tackling overarching problem floating variables place hard coded numbers specific case unnecessary excessive returns suggestion work solving question return true 2s code specific case arent solving problem hard coding work specific subset problem critique working refactoring loop starting point figure logic semi pseudo code find loop starting point needed add good jumping point luck 

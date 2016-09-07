@@ -1,0 +1,4 @@
+spiral tree traversal 
+interesting problem blockquote binary tree print spiral order print level level level blockquote thought solution ul li store level elements list br lists br lists br lists br lists li li loop list lists order required print number levels case li ul space complexity solution space complexity pointers 
+
+heres simple solution space time number nodes tree height variables pointing current levels print print node traversing tree binary string whos length corresponds tree depth left left node reached neighbor print node make iterations time complexity algorithm slightly detailed words order magnitude faster principle walking tree starting root node back encountered flip left target level repeat recursively string target level 

@@ -1,0 +1,4 @@
+retrofit gson error skipped frames application work main thread 
+retrofit make api calls error skipped frames application work main thread solve thought threading issues care retrofit happening ui thread lot things skipping stuff fix code send condition url time create seperate thread asynctask accomplish 
+
+code inside success failure methods callback executed ui thread making lot array copy operations make separate thread strong edit code run separate thread strong 

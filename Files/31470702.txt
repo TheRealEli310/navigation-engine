@@ -1,0 +1,4 @@
+bulk upsert mongodb driver 
+earlier versions mongodb drivers run query unordered bulk upsert result version introduction bson document support mongocollection bulkwrite method upsert functionality 
+
+functionality bulkwrites syntax href http api mongodb org current mongodb client model updateonemodel html rel nofollow set href http api mongodb org current mongodb client model updateoptions html rel nofollow argument constructor takes basically building lists syntax guess main reason change 

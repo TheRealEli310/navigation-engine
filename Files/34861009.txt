@@ -1,0 +1,4 @@
+android studio lang nullpointerexception attempt invoke virtual method null object reference textview 
+searched answer works helped problem linking textview activity clicked throws nullpointerexception strong error strong strong login class strong strong activity login xml strong strong register class strong finaly strong activity register xml strong checked wrong possibly missing trivial points ul li id tvregisterlink view li li initialised tvregisterlink setonclicklistener li li declared tvregisterlink method oncreate li li duplication tvregisterlink id li ul ideas pointers direction great 
+
+assigning method setting click listener 

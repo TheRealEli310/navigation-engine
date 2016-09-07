@@ -1,0 +1,4 @@
+htmldocument ignore white spaces 
+problem ignore white spaces sample code code creates simple application text fields user allowed write editor html code left side additionally edit code side problem lets assume wrote text editor spaces aaaa present add html editor left side lose spaces aaaaa side fix problem spaces wouldnt lost 
+
+html strips tabs spaces makes single space html code entity space tab preserve spaces double space replace tabs html entity double spaces html spaces single spaces left render properly 

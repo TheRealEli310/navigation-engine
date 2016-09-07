@@ -1,0 +1,4 @@
+jackson jsontypeinfo property mapped null 
+dealing problem lets response based em exercise type em attribute instantiate objects instances subclasses create mix create test problem reason em exercise type em attribute property mapped em null em href https github fasterxml jackson databind issues rel nofollow possibly related question dont generics case didnt fix problem idea solve 
+
+finally found solution href https fasterxml github io jackson annotations javadoc fasterxml jackson annotation jsontypeinfo html rel nofollow api doc blockquote visibility type identifier default deserialization reading json type identifier completely handled jackson passed deserializers desired define property visible true case property passed deserializers set setter field deserialization blockquote solution simply adding em visible em attribute hope 

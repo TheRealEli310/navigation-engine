@@ -1,0 +1,4 @@
+stringbuilder insert append performance 
+difference performance insert append stringbuilder class building plenty short string text identifiers asked question initialize sb separator insert append append 
+
+knowing ul li end string representation equivalent term time complexity li li end strong strong obtained differents purposes li li info involve native calls li ul easily conclude ul li insert end string representation li li li ul performance methods serving differents purposes exception inserting end real question 

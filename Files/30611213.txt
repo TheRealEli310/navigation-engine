@@ -1,0 +1,4 @@
+set menubutton top component hbox draggable 
+parent vbox holds menu button draggable hbox drag hbox menu button responding hbox set menu button set menu button top hbox draggable hboxandvboxexampleupdated draggablenode 
+
+set draggablenode front eventhandler puts draggablenode top sibling nodes prevents menu button receiving mouse inputs prevent options ol li dont set draggablenode front setting isnt li li set draggablenode back dragging adding init method draggablenode li ol hr general solution add property draggablenode set property dragging onmousedraggedproperty mouse released add changelistener draginprogressproperty hboxandvboxexampleupdated set node front dragging finished 

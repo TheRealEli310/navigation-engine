@@ -1,0 +1,4 @@
+load kml file folder assets xamarin android 
+put file assets directory set build action em androidasset em access kml file href https code google osmbonuspack source browse trunk osmbonuspack src org osmdroid bonuspack kml kmldocument rel nofollow parsekmlfile method affect kml file io file file doesnt exist file located em assets content maplayer kml em verified asset strong strong strong strong kml file located 
+
+xml file href http stackoverflow questions draw path map kml file href http stackoverflow questions parse kml file assets folder helps 

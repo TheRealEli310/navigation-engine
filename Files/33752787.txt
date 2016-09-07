@@ -1,0 +1,4 @@
+set character encoding soap request 
+calling sap soap service web servlet reason sap giving error time special characters fields request wsdl soap service defined utf set character encoding correct notice soap ui envelope request works correctly side 
+
+ol li soap request xml xml header encoding request li li platform default encoding flavour iso8859 li ol 

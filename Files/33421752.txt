@@ -1,0 +1,4 @@
+appbar covers setttings fragment 
+develop android application problem navigation drawer activity click item drawer dynamically adds fragment activity code works perfectly news fragment add settings fragment preferencefragment slight problem appbar covers top part content preferencefragment make preferencefragment stay appbar advance activity main xml file app bar main xml file add settings fragment activity settingsfragment 
+
+solution add empty relativelayout element app bar main xml layout file 

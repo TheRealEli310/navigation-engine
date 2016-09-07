@@ -1,0 +1,4 @@
+invoke jersey filter chain requestdispatcher forward 
+idea handle filters correctly jersey application requestdispatcher forward forward webapps jersey webapp redirected request filters invoked forward requesting app directly post outline element tag web xml href https www safaribooksonline library view servlet ch19s09 html rel nofollow javax servlet filters include achieve jersey filters strong update strong post matching filters annotated 
+
+found invoked didnt recognise mistake invoked tomcat container authentication clear passed tomcat layer request processed application 

@@ -1,0 +1,4 @@
+liberty connect db2 database bluemix 
+db2 database stored bluemix db2 drivers compatible android set layer application bluemix choose db starter boilerplate implement create read update delete functions liberty application call android application 
+
+download db starter boilerplate source crud functions implemented src jpa todolistresource webcontent index js shows call api todolist 

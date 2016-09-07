@@ -1,0 +1,4 @@
+create map immutable keys duplicates google guava 
+id create key map structure google guava keys modified values ability predicate similar iterate map retrieve entries values conceptually idea accomplish solution comments forwardingmap implementation 
+
+guava keys immutable ensure making class keys immutable class immune kind mishap customize behavior insertion retrieval href http docs guava libraries googlecode git javadoc google common collect forwardingmap html rel nofollow wrap instance beware class leaves lot freedom including breaking contract refrain 

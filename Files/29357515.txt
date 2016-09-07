@@ -1,0 +1,4 @@
+hadoop mapreduce mapper reading incorrect text file 
+writing mapreduce program process text file append string line problem facing text coming map method mapper incorrect line file lesser previous line characters automatically appended line make line length equal previous read line map method params logging inside map method observing behavior pointers code snippet 
+
+knowledge problem mapper getbytes 

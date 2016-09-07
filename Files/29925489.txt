@@ -1,0 +1,4 @@
+convert stringbuilder appendformat 
+converting code line int method converting edit appendformat combination append string format convert javas string format 
+
+href http docs oracle javase docs api util formatter html rel nofollow util formatter class href http docs oracle javase docs api util formatter html formatter rel nofollow argument constructor automatically wraps stringbuilder 

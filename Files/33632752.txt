@@ -1,0 +1,4 @@
+replacement deprecated beanref camel v2 
+upgrading camel v2 v2 discovered beanref marked deprecated replacement alternative recommended apache camel unable find camel v2 documentation site updated examples beanref syntax dsl bean language camel 
+
+assume talking class javadoc comments methods replacements methods source reference href https github apache camel blob 6dae060eeec8b49531df5d6828030f4ef037f6eb camel core src main org apache camel model processordefinition rel nofollow https github apache camel blob 6dae060eeec8b49531df5d6828030f4ef037f6eb camel core src main org apache camel model processordefinition 

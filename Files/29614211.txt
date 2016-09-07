@@ -1,0 +1,4 @@
+resizing imagebutton set layout xml android 
+android development android studio created layout includes imagebuttons imageview lined row made ldpi mdpi hdpi xhdpi xxhdpi images folders good android studio running simulator images larger extends past device screen scale attempted call items ids manually set relative screen size mainactivity file entire layout xml file manually resize working ideas resize menubtn ideas automatic scaling images screen android development 
+
+days watching plenty tutorial videos banging head wall finally attained eureka changed xml times post latest worked key items helped past ol li adding scaletype fitcenter xml li li settinglayoutparams li ol xml 

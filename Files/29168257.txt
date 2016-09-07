@@ -1,0 +1,4 @@
+libgdx rotate emmition trail 3d particle 
+encountered problem libgdx 3d particles wanted change direction particles emitted particle starts point emission rotated spawn point particles direction emitted particles matrix4 wanted 
+
+problem make simple fireball effect rotation transform effect dont strange things 3d particle system emitters effect manually change theta phi angles access code give needed find angles make particles emit direction initialize fireball effect theta phi angles changed tick fix problem part interesting edit code relevant setting theta phi angles code 

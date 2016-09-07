@@ -1,0 +1,4 @@
+javafx disable button 
+writing program netbeans javafx view buttons bad buttons bombs minesweeper freeze program bad button pushed dont find 
+
+solutions problem simply ignoring action event disabling buttons 

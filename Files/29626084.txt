@@ -1,0 +1,4 @@
+jsp webservlet urlpatterns mapping subpaths 
+creating jsp web application school project netbeans figure map url patterns servlet map urlpattern urlpattern include extended path separate servlets sections feels correct facing similar problem jsp pages subfolders web pages folder save subfolder called partner call results errors havent found articles explains completely approach problem 
+
+absolute path partner view activities jsp request dispatcher offered servletcontext contextobj getrequestdispatcher partner view activities jsp forward request response edit request dispatcher offered request object relative request path servlet accessed partner jsps stored folder called partner request getrequestdispatcher view activities jsp forward request response 

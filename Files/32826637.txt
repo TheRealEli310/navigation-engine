@@ -1,0 +1,4 @@
+log4j extras logging wrong file 
+running war tomcat noticed weird issues logging reason roll logging write timestamped file catalina yyyy mm dd hh mm log catalina running log4j utilizing extras jar part log4j properties file files generated couple minutes activity open catalina log output expect catalina log created data apologize answered answers find suggested org apache log4j rolling rollingfileappender resolve issue ideas 
+
+turned activemq jar utilizing bundled log4j jar causing problem changed project pom dependencies individual active mq jars resolved issue utilizing slf4j suggestions 

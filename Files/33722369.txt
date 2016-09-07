@@ -1,0 +1,4 @@
+jackson xml deserializing empty classes polymorphism 
+interface implementation empty class left working implementations container data class deserializing work exeption bug jackson fwiw add dummy field works strong update strong jaxb result code 
+
+created bug entry href http github fasterxml jackson dataformat xml issues rel nofollow http github fasterxml jackson dataformat xml issues 

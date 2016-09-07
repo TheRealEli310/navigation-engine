@@ -1,0 +1,4 @@
+hadoop lang arrayindexoutofboundsexception 
+input list house data input record information single house address city state zip items record delimited sign comma output average house zip code current code produces error similar problem site solve problem made input files correct check fix error time 
+
+means comma separated sequences newly created intwritable comma separated sequences converted 

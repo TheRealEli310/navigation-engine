@@ -1,0 +1,4 @@
+query pageable parameter spring data couchbase 
+add custom findmembersbyname method couchbase repository code run method exception works fine remove pagination query fine problem passing argument statement pass additional param query pagination 
+
+page slice queries dont make sense inlined n1ql queries definition page slightly modified query limiting offsetting current page support plain string statement message bug 

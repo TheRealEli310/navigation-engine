@@ -1,0 +1,4 @@
+printing array single dialog box 
+current code works output numbers multiple dialog boxes dont idea print single dialog box separated lines 
+
+correct snippet 

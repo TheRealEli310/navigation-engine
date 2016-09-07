@@ -1,0 +1,4 @@
+survivor programming challenge 
+working survivor problem shown href https www chegg tutors javascript programming questions imagine room chairs arranged circle chairs numbered sequentially hundred point time person chair told leave room person chair sk 5kwrj rel nofollow source blockquote complete question text imagine room chairs arranged circle chairs numbered sequentially hundred point time person chair told leave room person chair skipped person chair told leave person chair words person skipped initially pattern skipping circle person remaining survivor chair removed person leaves room write program figure chair survivor sitting blockquote code method evict requirements 
+
+answer introduce variable type int initialise loop increment demonstrated 

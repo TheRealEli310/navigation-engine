@@ -1,0 +1,4 @@
+spring data autowire repository interfaces directly 
+spring data correct autowire repositories direcly supposing methods needed spring solve generic autowiring bean implements interface simplejparepository querydsljparepository spring couldnt solve autowiring isnt bean autowire implementation 
+
+dont autowire directly guess work declare repository defining interface simply autowire suggest job magic trick spring data implements interface implementation autowired code stays clean implementation details database blockquote bean implements interface simplejparepository querydsljparepository spring couldnt solve autowiring isnt blockquote regular case rules amp configuration decide implementation pick case candidate interface case boils extra features documentation blockquote querydsl specific extension simplejparepository adds implementation querydslpredicateexecutor blockquote dont type inherits doesnt base magic implementation class 

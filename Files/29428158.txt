@@ -1,0 +1,4 @@
+jython script create oracle datasource websphere 
+code creates datasource sucessfully exception test connection called restart server test connection console works avoid server restart make test connection work script error script executed restart code 
+
+j2c authentication isnt initialized server recycled 

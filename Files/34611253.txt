@@ -1,0 +1,4 @@
+android facebook login error null package 
+implement facebook login app everytime launch app throws error androidmanifest set launchmode standard finally mainactivity implemented google login previously works perfectly apolgize code confusing jsut paste entire activity looked solutions stackoverflow work ideas solve guys ps layout file dont xml files 
+
+manifest replace complete path launcher activity add activities manifest add inside tag refer href https developers facebook docs android started rel nofollow https developers facebook docs android started 

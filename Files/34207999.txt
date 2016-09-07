@@ -1,0 +1,4 @@
+deploy multiple war files tomcat shell remote servers time 
+builds run servers copy war remote servers individually ssh boxes deploy wars manually deploy war files time running shell script thing work cp wait tomcat stops 
+
+servers run process sudo cron watch directory war files execute commands stop tomcat undeploy deploy start tomcat script scp watched folder servers create bash script check files add sudo crontab runs root client side war file generated create script copies files directory server 

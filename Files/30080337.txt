@@ -1,0 +1,4 @@
+spring autowiring property autowired bean 
+newbie spring facing problem spring boot autowire field external config file autowired bean classes app appconfig service interface service1 unable display service variable postconstruct method app class 
+
+load properties ways imagine application properties automatically loaded spring boot ol li inject values li li inject values configurationproperties li ol access properties class notice prefix spring boot match properties prefix values injected 

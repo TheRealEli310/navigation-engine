@@ -1,0 +1,4 @@
+appium android fail find objects implicit wait set seconds 
+appium native app testing evaluating appium native android devices simulator service sauce labs move implicit waits selenium experience arent reliable dont play nice fluentwait webdriverwait set implicit wait disable selenium command issue fail unhelpful error message strong code strong strong error org openqa selenium webdriverexception unknown server side error occurred processing command strong discovered manually wait seconds thread sleep starting appiumdriver instance appears appium send commands app test hasnt finished launching app finished launching error solution thread sleep configure appiums server avoid situation 
+
+solution sleep set capabilities 

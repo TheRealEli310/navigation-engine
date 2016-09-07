@@ -1,0 +1,4 @@
+jackcess databasebuilder open fails 
+jackcess api eclipse plugin project added file em resources lib em included jar binary build successfully make connection connection string call executing code run class debug mode reach call fails project structure img src http stack imgur zdder png alt project structure reason 
+
+method expects open existing formed access database file method creates byte file code pre class lang prettyprint override jackcess throw blockquote io ioexception empty database file blockquote convert byte file real access database file pre class lang prettyprint override 

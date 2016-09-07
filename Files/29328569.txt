@@ -1,0 +1,4 @@
+setting values array objects 
+revising book make solid understanding objects basics general stumbled piece code book reading href http rads stackoverflow amzn click rel nofollow head 2nd edition dont understand syntax admit experienced arrays work isnt practice loop array set object fields setter methods strong case strong limited understanding method assigning values fields related scope classes youd names static methods creating object respective classes static variables trivial important understand grasp idea hope clear 
+
+lets rewrite program array understand variables referencing cusom classes mystery lets back array replaces named variables array variable writing write difference advantage array variable integer expression evaluates individual variables number hard coded 

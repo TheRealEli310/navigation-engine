@@ -1,0 +1,4 @@
+primary key null realm 
+weird issue realm model primarykey private string id field save model realm app crashes exception model run model log false wrong 
+
+solve problem forget collection inside run model set id item works collection realmobject realmobject set id primary key item collection set primary key external models field 

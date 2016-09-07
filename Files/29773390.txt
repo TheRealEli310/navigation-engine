@@ -1,0 +1,4 @@
+date resultset time classes 
+href http docs oracle javase docs api time package summary html rel nofollow time compatible time class aware method return objects deprecated bad practice order create similar 
+
+database vendors dont support href http openjdk net jeps rel nofollow jdbc href https jcp org aboutjava communityprocess maintenance jsr221 jdbc4 2mr oct232013 pdf rel nofollow specification types supported existing methods explicit conversion required offered api change workaround missing support manual conversion href http mail archives apache org mod mbox db derby user mbox 3cwjo87fzjiau0 fsf khepri41 oracle 3e rel nofollow derby mailing list conversions deprecated types href http docs oracle javase docs api sql date html tolocaldate rel nofollow javadoc 

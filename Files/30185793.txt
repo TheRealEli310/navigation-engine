@@ -1,0 +1,4 @@
+gurobi set print manually variables 
+writing program gurobi trouble management variables set print netbeans shows message problem resolved relaxation model retrive variables 
+
+set start values variables write variable values makes sense solved model 

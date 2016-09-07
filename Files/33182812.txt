@@ -1,0 +1,4 @@
+sockets sending data client server 
+strong objective strong send local variable client program server program client server connected send string messages client server code works perfectly sends message send data variables client server variable 2d integer array send client server vice versa thing inputs limited feel approaching incorrectly sending variables bufferedreaders amp bufferedwriters 
+
+dealing em em client server communications full control ends dont anticipate designs changing directly perform encoding directly serialization object stream classes href https docs oracle javase docs api io objectoutputstream html rel nofollow https docs oracle javase docs api io objectoutputstream html href https docs oracle javase docs api io objectinputstream html rel nofollow https docs oracle javase docs api io objectinputstream html 

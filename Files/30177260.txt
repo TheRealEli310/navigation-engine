@@ -1,0 +1,4 @@
+boolean method return 
+boolean method program wondering netbeans recommending making change code wrote work correctly understand logic change netbeans suggesting true false returned explain logic 
+
+thing ill show refactoring path starting reduced substitution substituting isprime function doisprime substituting blocks reduced duplicated code reduced removing statement empty block undo substitution doisprime back isprime substitution find shows reasoning statement redundant 

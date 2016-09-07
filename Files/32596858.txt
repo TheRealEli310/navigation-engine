@@ -1,0 +1,4 @@
+proguard error 
+proguard file update code errors doesnt works whats wrong dont understand ps suggestions order optimize file advance 
+
+problem found answer worked href https stackoverflow questions add apache http api legacy compile time dependency build grade add apache http api legacy compile time dependency build grade strong top level build gradle file add strong strong app specific build gradle file add strong hope works works proguard exact problem 

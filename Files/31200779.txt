@@ -1,0 +1,4 @@
+pass object html thymeleaf 
+customer html controller 
+
+question define string added model iterate list thymeleaf dont understand good architecture expect receive info list add extra customers list model poor technique 

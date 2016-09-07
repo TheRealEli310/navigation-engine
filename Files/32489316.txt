@@ -1,0 +1,4 @@
+chaining lambda functions 
+method accepts provide method references syntax wondering chain multiple method calls heres illustrate case wondering syntax translate lambda expression hoping alternatively utility class merge functions 
+
+chained method href https docs oracle javase docs api util function function html andthen util function function rel nofollow actual compile method input conform functional interface 

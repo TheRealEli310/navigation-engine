@@ -1,0 +1,4 @@
+put entry dnsjava cache override dns lookup 
+avoid hostname looked public dns testing purposes essentially set hosts file dont hostnames ill override ip address dnsjava default dns resolving doesnt inserting directly cache 
+
+basically grab correct dns type cache dnsjava aaaa ipv4 aaaa ipv6 dns entry types supported youll create instance arecord inserted cache 

@@ -1,0 +1,4 @@
+nio ssl sslengine session reuse 
+implementing client server part nio ssl doubts creating sslengine method sslcontext blockquote applications factory method providing hints internal session reuse strategy blockquote creating sslengine client side give servers ip port creating sslengine server side ip port give rfc2246 client send session id clienthello message server check session cache match servers sslengine enable session cache 
+
+blockquote creating sslengine client side give servers ip port creating sslengine server side ip port give blockquote clients blockquote rfc2246 client send session id clienthello message server check session cache match servers sslengine enable session cache blockquote default long server side client ip port 

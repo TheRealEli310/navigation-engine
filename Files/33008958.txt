@@ -1,0 +1,4 @@
+custom servlet vaadin spring boot 
+reproduce simplified version official href https github vaadin dashboard demo rel nofollow vaadin dashboard demo spring boot managing dependencies file find code demo customized servlet question achieved spring boot make spring boot inject custom servlet class 
+
+create manage bean extend class work 

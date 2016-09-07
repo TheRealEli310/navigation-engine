@@ -1,0 +1,4 @@
+android gradle exception multiple dex files define duplicated classes exploded aar 
+em aar library em maven project built em android maven plugin em jayway gradle project run exception search class project android studio finds results ul li li li li ul running inspection problem em aar library em em play services base em module inside references em play services base em module folder folder 
+
+found culprit em android maven plugin em fixed error 

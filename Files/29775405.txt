@@ -1,0 +1,4 @@
+hibernate wildfly jndi config commit managed transaction 
+facing problem web application exception hibernate cfg xml hibernateutil eventdao lot searching found thread solution remove handling jta care remove statement exception notifying nested transactions arent supported edit created jndi data source statement wildfly console 
+
+remove container managed transactions start transaction container managed transactions dont read ee 

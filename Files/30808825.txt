@@ -1,0 +1,4 @@
+check key pressed clicked event 
+catch clicked event key pressed ctrl shift alt check key press druing key pressed method isshiftdown 
+
+add mouse listener key listener 

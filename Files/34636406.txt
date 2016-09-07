@@ -1,0 +1,4 @@
+configure jpa hibernate postgresql xml 
+back world configure spring web application jpa hibernate postgresql found lot older examples xml configuration files wondering preferred perform configuration relying xml file authoring things configure hibernate sql dialect driver 
+
+put fragments class annotated hibernate jpa edit packagestoscan string datasource edit username password host address transaction manager 

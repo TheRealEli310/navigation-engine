@@ -1,0 +1,4 @@
+unable send rich text email thymeleaf spring 
+send rich text email thymeleaf spring thymeleafs website reason throwing exception config config resolvers pages email template based research online fire email template templateresolver emailtemplateresolver orders set correctly email service exception thrown ideas resolve issue advance 
+
+hey ran issue research found change config strong move html content web inf classes mail strong classloadertemplateresolver classes directory files helps 

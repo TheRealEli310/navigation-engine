@@ -1,0 +1,4 @@
+set acl files folder s3 
+give read permission files inside folder s3 folder upload transfermanager find api set acl directory level set acl s3 object files folder 
+
+s3 thing folders buckets keys keys share common prefix grouped console convenience hood structure completely flat result set acl folder workarounds h2 bucket policy h2 depending permissions grant grant access rights keys folder bucket policy key folder bucket heres href http docs aws amazon amazons3 latest dev s3 actions html rel nofollow list actions href http docs aws amazon amazons3 latest dev s3 bucket user policy principal intro html rel nofollow list principals docs h2 iterate apply acl key h2 loop keys apply acl directly mentioned filter keys folder prefix dont check key directly directory uploaded 

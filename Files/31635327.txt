@@ -1,0 +1,4 @@
+abstracts predicates methods 
+create class abstracts predicates end user app href https github rholder guava retrying rel nofollow guava retrying extension works great call easily call predicates polls predicate returns false misunderstand predicates create class abstract call wrote pollcondition class mypoller poll call fail compile result declared idea 
+
+dont understand predicates predicate function takes input argument returns boolean based input lets examine pollcondition class defines abstract method doesnt argument returns boolean transformed predicate method returns predicate takes input argument result ignores completely returns boolean returned create pollcondition correct scope execute code variable named fact input condition class fact defined instantiate dont brings simple predicate directly define mypoller poll 

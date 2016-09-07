@@ -1,0 +1,4 @@
+bufferedimage inputstream format 
+convert bufferedimage inputstream problem facing returns image jpeg jpg shows corrupt file good convert jpg make possibly accept image jpeg file formats png instance switch statement logic check content type unnecessary 
+
+equivalent extensions exists due historic requirements windows filename extension format extension pull content type 

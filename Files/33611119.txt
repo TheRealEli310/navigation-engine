@@ -1,0 +1,4 @@
+access token google analytics data 
+google analytics data website tested queries query explorer unable implement code oauth access token run query problem unable access token guide explain relation google developer consoles analytics account refer implementation documents 
+
+assuming data access access google analytics account website recommend service account href https developers google analytics devguides reporting core v3 quickstart service rel nofollow analytics api google developer console register application google relation google analytics account recommend service account create service account credentials google developer console service account email address add user google analytics admin section account level give read access account level service account read google analytics data code ripped directly href https developers google analytics devguides reporting core v3 quickstart service rel nofollow analytics api quickstart service accounts 

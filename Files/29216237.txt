@@ -1,0 +1,4 @@
+making matrix multiplication work parallel 
+created code taught create matrix multiplication parallise code works multiple threads unsure updated 
+
+calculate cell matrix separate thread makes sense columns rows 

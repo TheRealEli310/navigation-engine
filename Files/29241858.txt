@@ -1,0 +1,4 @@
+determining static method global linkedlist variable 
+hard time deciding make methods static told make global linkedlist variable wrote method called read words text file wrote method check words begin constant change lower case conditions add linkedlist list call main method error make static reference static method change methods static methods arent updated suppose dont static explain wrong thinking 
+
+laymens terms define method static invoked instance class case run read method access static list approach make read static case method signature 

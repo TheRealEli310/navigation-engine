@@ -1,0 +1,4 @@
+lang nullpointerexception sun ejb codegen ejboptionalintfgenerator generatesubclass ejboptionalintfgenerator 
+ejb create users db worked made profile page user change hit npe ejb load stateless class pretty copy pasted create working error dont put userprofile stateless error 
+
+written stateless interface service problem 

@@ -1,0 +1,4 @@
+adding module wildfly final release 
+jboss add jdbc driver derby module widlfly ul li added org apache derby main folder jboss home modules system layers base directory li li folder added derbyclient jar jdk driver file li ul file updated file ul li addition tag li ul declaration datasource driver error start wrong advance 
+
+finally solved issue ul li adding derbyclient jar standalone directory applications deployed li li modifying datasource declaration standalone xml make reference jar li ul deleted tag dont anymore dont errors anymore start wildfly derby driver declared module shared applications 

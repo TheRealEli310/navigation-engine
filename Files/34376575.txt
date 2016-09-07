@@ -1,0 +1,4 @@
+spring throws exception undefined bean 
+href http www mkyong spring security spring security hibernate xml tutorial spring security hibernate database queries configured code exception thrown defined bean result strong memberrepository strong strong mymemberdetailsservice strong strong servlet xml strong strong spring security xml strong 
+
+read tutorial didnt mention configuration downloaded configured told define places didnt work problem configuration change em names question check wrong em remove global param present work recommend similar configuration tutorial leave minimal mvc configuration configure rest beans separate context hope helps 

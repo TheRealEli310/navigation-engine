@@ -1,0 +1,4 @@
+read write files separate threads 
+created threads modified run function thread reads line writes line file till file copied problem variables control threads execute threads executing unevenly thread executes multiple times control transfers solutions attached code class assignment code optimized 
+
+control order thread execution perform read write operation separate threads blockingqueue properties strong queue additionally supports operations wait queue empty retrieving element wait space queue storing element strong strong readerthread read input file strong strong writerthread write output file strong strong launcher class start multithreaded read write strong 

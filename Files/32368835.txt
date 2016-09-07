@@ -1,0 +1,4 @@
+capture 8khz bit linear samples frames 20ms audio rtp packet 
+write simple client program capture live audio streaming strong requirement strong ul li rtp audio packets li li 8khz bit linear samples linear pcm li li frames 20ms audio rtp packet li ul search found sample code internet capture audio play beep sound strong code strong find proper format capture packets send format find find proper em audioformat em capture audio streaming link pointing helpful strong em answer em strong strong udp rtp packet format strong href http stack imgur st6sx gif rel nofollow img src http stack imgur st6sx gif alt enter image description buffering minus bytes data rtp header information hope future feel free correct wrong 
+
+implementation client server based datagram sockets mono strong 8000hz 16bit strong signed big endian audio format server running port number client port number guess code simple understand strong server strong strong client strong 

@@ -1,0 +1,4 @@
+values username password database properties file hibernate cfg xml 
+spring hibernate values username password database properties file hibernate cfg xml wrong hibernate cfg xml file commented username password works supply put database properties file location project hibernate cfg xml file context file greatly appreciated 
+
+property place holder achieve context file datasource properties file achieve add config file assuming file classpath datasource properties file corresponds database properties file href http www baeldung properties spring rel nofollow post 

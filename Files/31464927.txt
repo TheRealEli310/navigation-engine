@@ -1,0 +1,4 @@
+android database sqlite average 
+making app android sqlite database table columns names marks information database listview add elements make average marks database delete row paste database helper public class persondatabasehelper 
+
+avarage href https www sqlite org lang aggfunc html rel nofollow avg aggregate function href http developer android reference android database sqlite sqlitedatabase html rawquery lang string 20java lang string rel nofollow sqlitedatabase rawquery string sql string selectionargs executing query href http sqlfiddle f838d rel nofollow find sample fiddle deleting row href http developer android reference android database sqlite sqlitedatabase html delete lang string 20java lang string 20java lang string rel nofollow sqlitedatabase delete string table string whereclause string whereargs code delete row id 

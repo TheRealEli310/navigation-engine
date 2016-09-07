@@ -1,0 +1,4 @@
+keyevents console 
+attempting build text based platformer keyboard input isnt working code theoretically move press arrow keys dont wrong rendering class point class show 
+
+found solution built applet renders text heres code intererested 

@@ -1,0 +1,4 @@
+deploy ee web application glassfish 
+deploying ee web application glassfish error problem latest glassfish outdated version org jboss logging glassfish folder replace jar recent works force deploy maven dependencies adding logging dependency work 
+
+depends accomplish ul li version version replacing file configure application specific usage glassfish server check href http docs oracle cd e18930 html gatej html scrolltoc rel nofollow http docs oracle cd e18930 html gatej html scrolltoc li li change version file matches inside glassfish version inside glassfish updated good reason included li ul worth studying class loading mechanisms glassfish server gain knowledge precise control libraries strategic point view fact version change version glassfish effort side logging crucial application advice put effort task version provided glassfish choose logging hibernate leave comments general consideration applicable case 

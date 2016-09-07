@@ -1,0 +1,4 @@
+iterate nested lists lambda streams 
+refactor code lambda expressions stream nested foreach loops starting 
+
+afraid streams lambdas performance suffer current solution returns valid parse node interrupt operation stream href http stackoverflow questions break return java8 lambda foreach source outputs returned result thrown exception wont single line expression give ideas mentioned beginning performance issue strong parse valid node strong hr strong edit strong avoid parsing nodes bit complex ugly extra class needed shows hr strong edit2 strong general lazy evaluation terminal operators minor change requirements returning null throwing exception doesnt lazy evaluation href http stackoverflow questions filter flatmap completely lazy streams source code parse nodes 

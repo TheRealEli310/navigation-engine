@@ -1,0 +1,4 @@
+android renderscript rsruntimeexception loading scriptc script failed android sdk build tools 
+compile renderscript support library android studio android sdk build tools compile samsung galaxy s5 android api inverse rs file located src main rs mainactivity inverse rs build gradle file error log 
+
+set targetsdkversion supported level s5 runnable api level devices dont minsdkversion targetsdkversion compiling rs 

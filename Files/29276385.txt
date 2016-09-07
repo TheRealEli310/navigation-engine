@@ -1,0 +1,4 @@
+passing 2d array back 
+pass 2d array return back jni sample2 cppsample cpp correct pass 2d array hope guide 
+
+difficult tedious general problem arrays completely unlike arrays sort comparable resizeable vectors pass array directly idea conversion functions h3 converting 2d array h3 h3 h3 theyre pretty jni functions call find href http docs oracle javase docs technotes guides jni spec functions html rel nofollow documentation h3 calling function h3 calling function things changing work signature strings stands general stands things ol li mentioned beginning passed doesnt understand converted array conversion function li li intmethod return complex data type correct call cast returns jni type li ol correct convert vector vectors conversion function vector style issues mention relying array 10x10 code functions read typesafe alternatives dont trigger problems program pointer pass back native code 

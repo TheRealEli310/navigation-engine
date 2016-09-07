@@ -1,0 +1,4 @@
+setting interface jri windows 
+guides web looked questions stackoverflow set jri windows steps install execute install rjava create system variable add variable added jri jar located dependency intellij set vm options intellij start execute run program test set error remove vm option library path isnt error 
+
+instantiating rengine args main method works 

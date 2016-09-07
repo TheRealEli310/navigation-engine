@@ -1,0 +1,4 @@
+android package organization 
+fairly android development questions android project code design ol li people generally split api calls separate class classes call object li li packages directories understand theyre benefit programmer organizational tool li ol questions subjective interested developers organize code 
+
+ad packages organization develop applications android years organized source similarly andrea cinesi wrote week started thinking package application module thinkin shoul module data entity thinking changing middle large projects activities fragments package confusing larger projects acquired developers advantage divided module packages package private visibility methods decided variant smaller projects care middle big project preferable option packages modules 

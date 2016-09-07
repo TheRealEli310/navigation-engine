@@ -1,0 +1,4 @@
+add static member variables jacoco test coverage 
+class variables tests examine test coverage jacoco shows test coverage class guess instantiate class static variables creating instance test coverage overcome problem 
+
+jacoco measures test coverage based percentage bytecode executed declaring static final primitive string constant creates bytecode execute entry inside constant pool bytecode implicit default constructor dont call call suggestion ignore problem shouldnt achieve coverage matter doesnt guarantee covered code bugs 

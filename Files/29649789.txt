@@ -1,0 +1,4 @@
+cursor android issues sqlitedatabase 
+adapter class insert data sqlite database method inserting data method data getdata method return cursor handle class problem face difficult understand perspective data query function sqlitedatabase returns cursor words cursor subset table inside database work database object close return cursor function works problem cursor returned side empty log displayed blockquote lang illegalstateexception perform operation connection pool closed blockquote remove line blockquote db close blockquote works fine point time leak database call getdata function number times 
+
+mistaken shouldnt cursor class youre data database create data model return data method cursor reference 

@@ -1,0 +1,4 @@
+unable identify login button naukri application selenium webdriver 
+automate naukri application part launch site basically displays set pop windows closed proceed login application specific functionality handled code closes pop windows proceed click login button login button link identified script fails comment pop window code login button identified find code kindly resolve issue 
+
+ak17 code problems switching parenthandle closing pop windows added code driver switchto window parenthandle locators username password login button correct working code 

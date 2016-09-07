@@ -1,0 +1,4 @@
+rest web services spring invoked weblogic 
+upgrading application strong weblogic strong server properly invoke web services written spring jdk error message logs blockquote org springframework web servlet pagenotfound mapping found http request uri test components dispatcherservlet dispatcher nohandlerfound blockquote issue install application installer strong deploy application development environment issue arise strong invoke services successfully compared classpath installer development dispatcher servlet xml adding web xml http sun xml ns javaee web app xsd give pointers resolve issue 
+
+raised case oracle found workaround problem work rest classes strong web inf classes web inf lib strong previously classes load higher classloader ear lib set application xml lib issue br wls issues jar rest classes ear lib web inf war 

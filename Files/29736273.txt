@@ -1,0 +1,4 @@
+trimming empty elements end byte array 
+network programming udp break large packet smaller packets send network works great time packet problem packet byte trailing space end byte bytes loop fills array file data remove empty elements byte putting array datagrampacket network 
+
+length data suggest providing actual length wont padding data end 

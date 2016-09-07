@@ -1,0 +1,4 @@
+servletconfig interface servletcontext interface 
+servlet jsp clear strong servletconfig interface servletcontext interface strong started jsp encounter term pagecontext body explain term nice strong servletconfig interface servletcontext interface pagecontext jsp strong 
+
+strong servletconfig strong servletconfig object created web container servlet pass information servlet initialization object configuration information web xml file strong strong specific content modified time time manage web application easily modifing servlet editing web xml web xml servlet hr strong servletcontext strong web container create servletcontext object web application object information web xml strong strong share information sevlet make servlet web xml servlet hr strong pagecontext strong class jsp implicit object em pagecontext em set remove attribute scope page request session application 

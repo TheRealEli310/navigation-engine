@@ -1,0 +1,4 @@
+reflections library returns empty list android 
+attempting retrieve list classes specific annotation android href https github ronmamo reflections rel nofollow reflections library matter reflections returns empty set finally reflections getalltypes return classes package message couldnt find subtypes object make subtypesscanner initialized include object class subtypesscanner false verified looked code method returns error classes package heres code error return class called empty string package answer href http stackoverflow ideas causing 
+
+met problem reflections assist resolve class file jar file isnt exist android application reflections tool resolve dex work 

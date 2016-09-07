@@ -1,0 +1,4 @@
+io notserializableexception class 
+serialization problem unable find android app eclipse giving unhelpful stack trace found href http stackoverflow flag enable extended serialization debugging info decided set href http stackoverflow default jvm arguments programs run eclipse plugged flag vm argument jre stack trace change rebooting eclipse href http stackoverflow editing vm args eclipse added flag eclipse ini stack trace unchanged expecting output href http www nautsch net io notserializableexception field rel nofollow io notserializableexception field serializable easy question suggestions figure 
+
+anonymous class isnt stated exception class produced exception digit class anonymous class present anonymous class href http stackoverflow identify anonymous class notserializableexception 

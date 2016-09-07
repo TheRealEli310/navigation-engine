@@ -1,0 +1,4 @@
+change fxml lable text id 
+label fxml file change text label main controller file started learn basics javafx 
+
+h3 problem h3 set text label part fxml controller mainapp h3 solution h3 files ol li fxml document li li fxml controller li li class extends application overrides start method li ol h3 labeltext h3 h3 fxmldocument fxml h3 h3 fxmldocumentcontroller h3 

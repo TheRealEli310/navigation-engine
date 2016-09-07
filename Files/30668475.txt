@@ -1,0 +1,4 @@
+flood fill algorithm bubbleshooter game 
+working bubble shooter game delete bubbles hit bubble shooter bubble color search bubble delete flood fill algorithm shooter bubble touch bubble error implementation flood fill algorithm bubbles touching left made wrong 
+
+recursing putting current array cell null leed infinite recursion mark current cell visited track visited cell array making current cell correct code boolean array track cells visited init false hope helped 

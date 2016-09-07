@@ -1,0 +1,4 @@
+asynctasks executed running android app 
+number instances downloading content server run executor subclasses number stay implementing kind retrying tasks completed reasons download beginning tasks finished correctly data received suppose tasks running tasks finished correctly cancelled tasks restarted cancel running prevent data received multiple times ideas solve 
+
+number tasks unknown communicate suggest create classes ol li yourtask class needed tasks instances li li taskmediator manage communication href https en wikipedia org wiki mediator pattern rel nofollow mediator design pattern li ol time task strong yourtask strong created register predefined class strong taskmediator strong manage communication looser coupling objects communication channel taskmediator href https en wikipedia org wiki singleton pattern rel nofollow singleton suggested em marcin jedrzejewski em 

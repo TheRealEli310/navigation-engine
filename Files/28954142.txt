@@ -1,0 +1,4 @@
+convert expression criteriabuilder jpa 
+code outdated achieve returns empty array guide miss guide set limit result 
+
+href http docs oracle javaee api javax persistence criteria criteriabuilder html javax persistence criteria expression 20java lang string rel nofollow perform matching pre class lang prettyprint override rest code basically correct 

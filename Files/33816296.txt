@@ -1,0 +1,4 @@
+hibernate entity class maps tables 
+map objects respective classes parameter put simply classb save interface suspect problem db parameters classa map table classb parameters match table classb hibernate hoping map params classb correct table appears map classb column table classa giving error question preferably annotation hibernate make params classb map table secondarytable didnt work advance 
+
+people commented solution edited classb call spring injected saved db correctly free 

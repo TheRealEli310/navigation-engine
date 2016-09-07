@@ -1,0 +1,4 @@
+null pointer exception sending iso8583 request 
+send iso8583 request terminal code executing code exception added break point find line causing exception discovered exception occurs encounters statement iso8583 jpos financial programming building app android platform exception 
+
+create instance abstract class href https github jpos jpos blob master jpos src main org jpos iso basechannel rel nofollow github wanna send xml formatted iso message endpoint wait response 

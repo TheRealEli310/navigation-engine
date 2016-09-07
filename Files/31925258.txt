@@ -1,0 +1,4 @@
+classpath element jar 
+write ant build calls class specbuild class slf4j logger warning fix 
+
+classes directory class path remove specbuild class file pathelement location includes property mention file include classes directory exclude juni test cases package good luck 

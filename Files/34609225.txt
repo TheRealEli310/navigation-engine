@@ -1,0 +1,4 @@
+zoneddatetime offsetdatetime replace joda datetime 
+java8 jodas class include timezone information easily convert sql migrate java8 class replace construct back sql joda converter code java8 idea joda good 
+
+heres sample code convert back store date times database utc 

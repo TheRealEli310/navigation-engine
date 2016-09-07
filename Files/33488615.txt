@@ -1,0 +1,4 @@
+exception thread jobgenerator lang noclassdeffounderror org apache spark streaming scheduler inputinfo 
+run spark kafka integration word count job local machine code shown run strong spark submit strong command long list exceptions maven assembly plugin shown create jar file dependencies idea wrong missing 
+
+problem solved missing important arguments running spark submit command 

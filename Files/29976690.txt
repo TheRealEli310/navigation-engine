@@ -1,0 +1,4 @@
+swt table fixed height 
+simple swt table initial height 60px programmatically adding rows row added height table increased messing rest ui set fixed height table adding scrollbar rows doesnt fit table height 
+
+dont fill vertical space hr scrollbar simply add style 

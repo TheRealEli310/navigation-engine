@@ -1,0 +1,4 @@
+android geocoder address string 
+code full address string providing lat lng giving exception time dont code returning address strong logcat strong 
+
+geocoder pretty flaky state reporting rebooting device fixes reliable solution recommend checking google geocoding api 

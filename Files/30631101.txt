@@ -1,0 +1,4 @@
+bundled executable jar file couldnot find main class 
+execute jar file startuputil jar giving error couldnot find load main class looked similar question couldnot figure wrong structure created startuputil jar ihc startup util startupservice meta inf manifest mf content manifest build xml build properties file execute target run error find load main class ihc startup util startupservice 
+
+strongly em suspect em problem find dependencies means properly load main class absolute filenames manifest convinced youre breaking lines em em valid unportable absolute filenames strongly suggest relative change manifest put jar files directory 

@@ -1,0 +1,4 @@
+selenium marionette driver unreachablebrowserexception launch 
+playing selenium marionette application open multiple marionette drivers sequentially basically facing problem marionette instance successfully started attempt exception problem time port port conflict pointers appreciated 
+
+digging deeper findings eventually solved issue ol li marionette resp ports running multiple simultaneously ports running instance default constructor remains constant determined based free port workaround pick randomly chosen ports li li current version empty implementation check ready sporadically lead posted li ol circumvent issues end 

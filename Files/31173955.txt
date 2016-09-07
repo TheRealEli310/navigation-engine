@@ -1,0 +1,4 @@
+constructor anti pattern super classing string 
+intention design string values effect subclassed enable number conflicting constructor methods established method signatures parameter names kindly functional design id interface empty marker interface classes interface empty marker interface title interface empty marker interface tool class approach requires interface parameter type cast cast specific interface type object string uncomfortable approach hoping design pattern alleviate desire subclass string solely purpose constructor method differentiation variadic method takes arbitrary collection pairs provide alternative fixed parameter constructors constructors shown common combinations convenience programmer presently contemplated provided 
+
+constructors suggest rid href https en wikipedia org wiki builder pattern builder pattern usage 

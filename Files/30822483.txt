@@ -1,0 +1,4 @@
+implement zoom panel swing libraries 
+implemented jframe swing libraries visualize map id realize zoom function frame code jframe frame jpanel jscrollpane jslider zoom function code panel sliders run code insert main function insert package images path source code image called earth1280x800 jpg problem zoom function scrolling left image contained frame anymore id automatic refresh scrollbars image doesnt borders 
+
+problem suspect issue youre changing preferred size image jpanel image size solution override image displaying jpanel return dimension matches zoomed image hr edit sort youre revalidating repainting jscrollpanes viewport 

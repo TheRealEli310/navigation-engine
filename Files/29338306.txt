@@ -1,0 +1,4 @@
+exception thread main lang nullpointerexception 
+met weird circumstance wanted make likedlist ways code alist perfectly show blist failed shows exception thread main explain 
+
+intialize alist blist refer code 

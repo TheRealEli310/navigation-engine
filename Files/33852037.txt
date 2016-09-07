@@ -1,0 +1,4 @@
+read http post mobile 
+ios swift code sends post request server send code directly apple server response back proper data send server server body http post idea issue related client side server side swift code code server side classes care class client ip client port request unable body production body developers told directly raw bytes dont wrong 
+
+explicitly set content type input post body send server achieved set content type setting http method son data request object nsmutableurlrequest object edited header field content type 

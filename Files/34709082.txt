@@ -1,0 +1,4 @@
+illegal static interface method call 
+define static methods inside interface href https docs oracle javase specs jls se8 html jls html jls restricts invocation interface blockquote interface declare static methods invoked reference object blockquote error jls kind prohibitions explanation case didnt found detailed comprehensive authoritative explanation rule prohibited invoke static method object reference break 
+
+fairly strong consensus syntax question shouldnt allowed static methods classes time realized late change wasnt late recently added interface methods additionally permitting syntax introduce possibility diamond problem class implement interfaces defining colliding methods 

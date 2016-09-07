@@ -1,0 +1,4 @@
+mongotemplate aggregate group date 
+create aggregate query mongotemplate grouping date datetime operation exists mongodb documentation extract date datetime formatting href https docs mongodb org manual reference operator aggregation datetostring rel nofollow https docs mongodb org manual reference operator aggregation datetostring work mongotemplate nullpointerexception db version extract day exception couldnt find make work date format didnt work exception strong edit strong eventually decided solution suggested writing case finds addition timecreated field holds datetime saved field document date holds date long timecreated date save 1449180000000 simply group date 
+
+projecting fields strong href http docs spring io spring data mongodb docs current reference html mongo aggregation examples example5 rel nofollow spel strong projection operation group fields group operation 

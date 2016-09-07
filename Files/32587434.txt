@@ -1,0 +1,4 @@
+set parameters docker command line configure spring boot application 
+spring boot application yml configure inside docker containter ip hardcoded config bad idea becouse compililation server exist externalize ip set docker command line idea 
+
+ways set environment variable shell inside pass jvm argument pass command line argument spring boot reads values located directory executable jar file provide file override settings jar href http docs spring io spring boot docs current reference html boot features external config html rel nofollow http docs spring io spring boot docs current reference html boot features external config html 

@@ -1,0 +1,4 @@
+exception throw 
+throw exception code raised compilation error 
+
+subclasses subclasses thrown catch clause method declaration youll declare main throw subclass 

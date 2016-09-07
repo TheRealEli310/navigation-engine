@@ -1,0 +1,4 @@
+picasso load image bitmap 
+tring load image url bitmap picasso library examples found refer loading bitmap imageview similar code documentation doesnt correct method call expected error 
+
+creating bitmap properly position create scaled bitmap set imageview question altogether specialized case calling singleton class displaying images recyclerview adapter 

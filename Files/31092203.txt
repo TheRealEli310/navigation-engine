@@ -1,0 +1,4 @@
+jpa relationship entity exact type 
+suppose database table jpa entity problem mapping attribute column deploying redhat wildfly final runs infinite loop stackoverflow error map correctly relationship jpa crazy hr dont relevant 
+
+actual problem issue entity subclass generic fied entity attribute assigned bounded type deploying application hibernate cyclical loop validate entity resulted made entity simple entity entities deployed validated errors 

@@ -1,0 +1,4 @@
+ejb cdi equivalent spring meta annotations 
+create shortcut couple annotations cdi sth called em meta annotations em spring world goal dont setup class br afaik cdi ejb supports similar 
+
+cdi concept href http docs jboss org cdi spec cdi spec html stereotypes rel nofollow stereotypes 

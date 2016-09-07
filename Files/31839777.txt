@@ -1,0 +1,4 @@
+configure spring data mongodb replica set properties 
+writing application replica set mongodb spring boot based application properties work perfectly fine connect server absolutely fine local dev environment run mongodb replica set provide replica set seeds properties page href http docs spring io spring boot docs current reference html common application properties html rel nofollow http docs spring io spring boot docs current reference html common application properties html explicit property replica sets mentioned providing comma separated list addresses working fact produces exception lets spring default configuration config xml luck configs slightly exception showing replica set node reachable ideas hints 
+
+explicit support configure fine parameter weve updated href http docs spring io spring boot docs current snapshot reference htmlsingle boot features connecting mongodb rel nofollow documentation recently 

@@ -1,0 +1,4 @@
+mule dataweave import csv 
+solution involves importing csv files converting map structures datamapper transformer great success hit test server enterprise installation dont longer built datamapper plugin rewriting importers transform message component mule soft refer dataweave alas plenty examples tutorials datamapper transformer read csv files plenty examples tutorials transform message component write csv files life find description em read em csv file transform message component examples deal xml input configure context input pane transform message component transformation output map structure arguments sake lets csv file format simple id number include header row naturally great hurry issue resolved appreciated 
+
+output array maps csv input make mime type payload set application csv alternatively put inside transform message 

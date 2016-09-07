@@ -1,0 +1,4 @@
+jmh iterations ops sec op sec 
+main class data structure multiple threads original program start threads book simply class extends thread methods analyzed output operations range iteration operation 
+
+benchmarking modes jmh calls assuming collection happen saturate collection call adds larger larger collection clear collection size reached remove maintain constant size mock collection skip addition measures implication experimental design data experiment responsibility choose face consequences 

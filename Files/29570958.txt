@@ -1,0 +1,4 @@
+apache csvparser working 
+code sample reason isnt parsing output debug orderparser parsedata processing record pm ufh6285 hwf62 holmes humidifier replacement filter 7035997658 marty joe aa3003 mail jess dude main st ca lang indexoutofboundsexception index size stackoverflow guarantee tabs index bounds exception occurs strong strong make call reports dont due character encoding error requested heres sample input sandwiched inside pre tag lines sending snumber recd receip id listingid date entered referenceid qt qt2 qt3 title p456 product rev sh2687t product shipping comm shipfee peritemfee tax cost company honecode bill455 bill788 email ship468644 ship6489 ship654132158 ship98198 ship city ship state ship zip shippingmethodid shark navigator shawn vanloan 3504620ae7f03 mail vanloo main ny 
+
+peter zhengs answer started direction solution code calling csvparser parse returns iterable proceeded 

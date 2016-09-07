@@ -1,0 +1,4 @@
+sorting date time comparator 
+sort objects date time dates times strong strong amp strong strong amp strong strong order ol li li li li li li ol case order ol li li li li li li ol sorted date ignores time strong code strong strong strong getdate method myobject class regular getter simply returns util date object missing strong update strong date coming mysql db datatype date loosing exact time time sorting reason reproduce problem setting date objects manually time 
+
+code sorting correctly compare find issues populating date object 

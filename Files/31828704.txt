@@ -1,0 +1,4 @@
+android opencv app crashes ui change 
+making app opencv face detection make ui face detected camera image layout split parts left text camera image change text color face detected detect faces oncameraframe method problems change ui elements method app crashes heres real code heres stack trace 
+
+solved days stack trace pushed direction problem method running separate thread runonuithread change ui matter changing oncameraframe method 

@@ -1,0 +1,4 @@
+typed avro genericrecord 
+href https avro apache org docs api org apache avro generic genericrecord html rel nofollow genericrecord recommended retrieve typed opposed object expected cast values mapping href https avro apache org docs api org apache avro schema type html rel nofollow avro types types avro em array em em collection em avro em string em href https avro apache org docs api org apache avro util utf8 html rel nofollow em utf8 em genericrecord schema hoping type retrieve values 
+
+avro primitive types complex types excluding em unions em combination types table maps avro types input interfaces types output implementations concrete types returned values apply avro hr avro type href https issues apache org jira browse avro rel nofollow requires longer accepts 

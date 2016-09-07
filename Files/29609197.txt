@@ -1,0 +1,4 @@
+updating combobox list dynamically 
+short application issues combobox application user select folder dropdown menu create folder applications main folder user selects creates folder path stored variable rest comboboxes display files path havent worked gui swing heres code put relevant code issue comboboxes contents generated application hits initialize change lot 
+
+move code code execute combo box changed 

@@ -1,0 +1,4 @@
+object references unsaved transient instance multiple relations 
+errors code error br works insert contacts filling accounts dont fill account error accounts class optional 
+
+create field initializer overwritten managed instance hibernate sees transient throws exception flush time solution create field initializer 

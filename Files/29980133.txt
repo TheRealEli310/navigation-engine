@@ -1,0 +1,4 @@
+intellij idea lombok generated code 
+gradle based project lombok imported project intellij idea em import external model em import method run junit4 unit tests problem gradle intellij problem lombok generated getters preventing running tests idea make wasnt set issue created href https github copolii jumbokea simple project confirmed issue occurs simple test project versions gradle gradle gradle wrapper br intellij idea iu br lombok plugin missing strong update strong em em dont physically invisible decompiled classes show getters setters errors intellij run app unit tests img src http stack imgur i8c8p png alt getters setters 
+
+enable annotation preprocessor documentation href https www jetbrains idea configuring annotation processing html https www jetbrains idea configuring annotation processing html additionally install lombok plugin 

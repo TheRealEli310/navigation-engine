@@ -1,0 +1,4 @@
+nth element stream 
+suppose list stream element list obtain element basically function nth element stream 
+
+prime motivations introduction streams parallel operations led requirement operations streams independent position item stream items advantage making easy split streams parallel processing disadvantage making operations complex simple answer easy things nth item map item sum previous items implement requirement index list streaming complicated solution create custom collector collects nth item list returns result expect inefficient algorithm parallel processing splits items accepts lists returns items accumulation process combined list nth complexity inefficiency recommending sticking indices based solution preference 

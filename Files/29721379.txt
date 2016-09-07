@@ -1,0 +1,4 @@
+redraw fragment screen rotation layout 
+implementing registration login part application implement activity fragments login signup layouts portrait landscape mode basically vertical layout portrait horizontal layout landscape logo framelayout fragment lets ony login fragment inflated xml resource file inserted programmatically activity oncreate method works fine rotate screen blockquote lang illegalstateexception change container id fragment loginfragment 19d136ec id 0x7f090040 loginfragment blockquote place commits problem dont hope hints edit layout files loginfragment code 
+
+trouble youre replace fragment added xml href http stackoverflow questions illegalstateexception replacing fragment illegalstateexception replacing fragment discussion edit landscape mode rotate change layout implemented code figure code changed located elements activity clicking buttons rotation modes xml landscape mode put portrait mode folder 

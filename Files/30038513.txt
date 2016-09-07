@@ -1,0 +1,4 @@
+android parse getstring method returning null field current user 
+understanding subtleties parseuser parseuser objects inherit getstring method program retrieve string screenname field parseuser object line retrieve current user object access screenname field returns null screennamestring checked currentuser grabbed user object correct username objectid goal code eventually grab screenname field current user write textview rest code case reveals issues oncreate method activity shows user profile app notice bio field grab giving problem added fields columns parseuser parse data dashboard advice 
+
+call values dont cast values string method explicitly 

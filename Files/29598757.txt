@@ -1,0 +1,4 @@
+validate session spring mvc interceptor 
+newbie spring framework code interceptor checking session exists session exists call controller redirect login page code code redirect successfully error fix issue greatly appreciated 
+
+wild guess forgot interceptor configured caused interceptor applied login page true page browser redirect page page send redirect request browser correct configure interceptor ignore login page springmvc configuration interceptor applied login page build application advice href http projects spring io spring security rel nofollow spring security nicely integrates spring mvc application bunch examples avoid problem 

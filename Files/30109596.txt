@@ -1,0 +1,4 @@
+searching comma separated list solr spring boot 
+object property names solr configured string perform search long values match list expect hit values stored comma separated string solr back results change split parameterize field list perform search 
+
+solution make field solr multi valued 

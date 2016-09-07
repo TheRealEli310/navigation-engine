@@ -1,0 +1,4 @@
+traversing 2d array directions left 
+create method traversing square dimensional array takes parameter specifies direction left split task separate methods traversing vertically traversing horizontally methods shifts values array equal direction href https www youtube watch nmojvnvdszy rel nofollow game merging neighbors code intuitive compact merge methods words traverse arraylist loops depending direction 
+
+em step em solution simplified access element vertical method transformed step union horizontal vertical providing access functions single method resulting code lines intuitive refrain adding step 

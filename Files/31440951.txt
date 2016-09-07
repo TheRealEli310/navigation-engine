@@ -1,0 +1,4 @@
+hsqldb standalone mode webapp 
+working webapp spring jpa hibernate hikaricp connects hsqldb customer reported lock testing time database lock acquisition failure jdbc url jdbc hsqldb file path database maindb shutdown true hsqldb write delay false doubts correct standalone file mode hsqldb connection pool context wondering lock due fact database opened process time standalone mode correct shutdown true connection pool context constantly shutdown database closing connection helping 
+
+database opened process time server manage connections multiple processes database lock acquisition failure thrown process attempts connect directly fine file mode connection pool connections process running server preferable access database web app shutdown true provided test contexts shouldnt explicit shutdown issued required 

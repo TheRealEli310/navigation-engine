@@ -1,0 +1,4 @@
+hibernate sequence generator 
+configure mapped class sequence defined postgres db ids persist entities select nextval item seq ill val intellij regenerate classes version hibernate project part problem usage edit suggestions generating id throw exception ids class manually assigned calling save ditch effort moving annotations variable declaration getter didnt 
+
+works hibernate makes column primary key unique nulls dont annotation setting remove setter hibernate doesnt require 

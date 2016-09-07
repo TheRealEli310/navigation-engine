@@ -1,0 +1,4 @@
+lang illegalstateexception attached 
+build app pastes input previous activity works problem shows things database buttonget pressed problem run project wrong code 
+
+oncreate youre calling super oncreate setcontentview pretty 

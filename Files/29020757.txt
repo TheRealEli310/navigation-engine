@@ -1,0 +1,4 @@
+download dse jar 
+datastax enterprise write spark application run dses spark analytics mode code creating spark context import located included dependency maven download reference code creating spark context href http www datastax documentation datastax enterprise datastax enterprise spark sparkjavaapi html rel nofollow http www datastax documentation datastax enterprise datastax enterprise spark sparkjavaapi html 
+
+manually install ways strong option strong install jar file strong option strong manually copy install location modify dont youre calling artifact bdp purposes doesnt matter 

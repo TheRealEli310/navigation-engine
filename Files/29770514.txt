@@ -1,0 +1,4 @@
+properly interrupt thread reading user input 
+time consuming task manually abort user input abort purpose runnable infinite loop scan user input problem arises user decides abort long computation case thread running interrupted properly preventing jvm finish making thread daemon work properly end thread problem occur user aborts computation entering abort occur delete line runnable user waits computation finish strong starting thread computation strong strong runnable strong 
+
+interrupt thread reading input href http stackoverflow questions stop thread waiting blocking read operation stop thread waiting blocking read operation exit jvm 

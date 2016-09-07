@@ -1,0 +1,4 @@
+ninja framework include external jar 
+external jar add href http www ninjaframework org rel nofollow ninja framework application included file root directory didnt work include dependency intellij ide didnt work deployment heroku compile failed package couldnt found lastly href https devcenter heroku articles local maven dependencies deploy artifact repo rel nofollow https devcenter heroku articles local maven dependencies deploy artifact repo failed error message suggest 
+
+question ninja question build system maven case question fortunately answered href http stackoverflow questions maven add local dependencies jar maven add local dependencies jar href https devcenter heroku articles local maven dependencies rel nofollow https devcenter heroku articles local maven dependencies 

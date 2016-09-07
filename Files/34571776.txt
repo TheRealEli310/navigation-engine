@@ -1,0 +1,4 @@
+javafx tableview data multiple classes 
+problem filling tableview diffrent data class work multiple classes idea solve checked similar questions stackoverflow suggest callback class provide full import couple callback classes pre class lang prettyprint override question show attribute instance hashset tablecell taskcontrol class hashset hashset instances class projectcontrol instance projectcontrol attributes id represent names project instances single table cell string seperated commas project1 project2 project3 task class shortened lot taskcontrol class inherits class 
+
+solved adding additional string taskcontrol names projects names function call create observablelist table column guys helping 

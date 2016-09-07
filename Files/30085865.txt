@@ -1,0 +1,4 @@
+postgresql glassfish commit autocommit enabled 
+mybatis inside ejb make strong select strong table code result gf mysql mybatis changed relaxautocommit postgresql driver attribute solve 
+
+solution glassfish web console open postgresql pool section transactions set enable transactional connections 

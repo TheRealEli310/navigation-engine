@@ -1,0 +1,4 @@
+geospatial morphia find 
+database blockquote db itemvo find id objectid 55bf2b465ef98ff39dba049c loc type point coordinates title item1 summary summary item1 itemtype txt id objectid 55bf2ddc5ef98ff39dba049d loc type point coordinates title item2 summary summary item2 itemtype txt blockquote find blockquote db itemvo find loc geometry type point coordinates maxdistance id objectid 55bf2b465ef98ff39dba049c loc type point coordinates title item1 summary summary item1 itemtype txt blockquote morphia dao morphia returns elements collection finds morphia return element item1 item2 problem objects 
+
+recently solved put solution people question don works newer version morphia mi code webservice received parameter radius integer kilometers transform calling itemdao finditems 

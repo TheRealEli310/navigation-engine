@@ -1,0 +1,4 @@
+org slf4j helpers substitutelogger cast ch qos logback classic logger 
+questions similar href http stackoverflow questions org slf4j helpers noploggerfactory cast ch qos logback classic logg received good answer explained solved problem create small project basically scala classes logger test classes similar structure real project found problem href https bitbucket org pedrorijo91 logger exp rel nofollow project problem run resulting error run tests individually error scala issue happen read initialization loggers substituted href http www slf4j org codes html substitutelogger rel nofollow substitute logger understand ol li tests running tests li li li li debug solve problem li ol blockquote created repository working working meaning error happening href https bitbucket org pedrorijo91 logger exp rel nofollow project blockquote 
+
+problem statement found logger problem line final method unnecessary error stop error removed forced cast replacing previous expression 

@@ -1,0 +1,4 @@
+load fragment activity oncreate method actionbar selected tab tab selected 
+viewpager actionbar tabs tabs main activity starts loads fragments data make load selected tab data select tab tab1 tab0 loads swipe tab0 tab1 onstart tabs called select tab2 select tab0 onstart tab0 loads swipe tab2 tab3 onstart tabs called mainactivity mainpageadapter found link helpful href http stackoverflow questions start fragment tab selected link 
+
+solved problem created static variable store selected tab index viewpager loads selected page left page page exist time page changed override function check fragment visible user call onresume method 

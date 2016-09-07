@@ -1,0 +1,4 @@
+javafx mediaview fxml 
+create mediaview fxml work brings errors video playing based locally 
+
+fxml code warnings blockquote class javafx scene media mediaview default property place javafx scene media mediaview content proper element class javafx scene media mediaplayer default property place javafx scene media mediaplayer content proper element blockquote edit fxml file netbeans start adding click ctrl space properties select ctrl space select add finally property named argument 

@@ -1,0 +1,4 @@
+jvm shutdown hook quits unexpectedly 
+jvm profiling hadoop tasks agent href https github etsy statsd jvm profiler rel nofollow https github etsy statsd jvm profiler profiler registers shutdown hooks save profiles hdfs hooks terminated finish executed outputs hooks 
+
+ioexceptions filesystem closed errors disabling hdfs shutdown hooks hdfs client registers shutdown hooks close hdfs connections properly order shutdown hooks invoked guaranteed hdfs hooks invoked disabling shutdown hooks means close connection code create hdfs client instance shutdown hook 

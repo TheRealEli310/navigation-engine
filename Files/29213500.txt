@@ -1,0 +1,4 @@
+android rect intersects working 
+check rectangles intersecting globject class represent items rendered screen game class make game stuff rendering opengles works items displayed correctly move item rectangles vertices correct proof positions textures screen log output game class globject class 
+
+solution coordinate system opengl scene android rect class landscape changed ortho working 

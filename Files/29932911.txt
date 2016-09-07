@@ -1,0 +1,4 @@
+copy array add size printall method return int array 
+homework assignment complete close trouble understanding finish greatly appreciated ul li implement class arrayplus1 takes integer array data int size create method inside class arrayplus1 creates array length greater data length li li create method copy data elements array add element array li li create printall method return integers array li li size part li ul code 
+
+reading requirements correctly youre supposed append array based assumption instruction write routine grow data array implemented readily set default adding empty array element array check isnt null isnt length add length method array grow copy values finally append element end implement required constructor finally method instantiating instances output 

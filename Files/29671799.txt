@@ -1,0 +1,4 @@
+arraylist add calls thread readable 
+scenario guarantee complete add call make call made case internal arraylist variables marked volatile strong edit strong curious guarantee sequence events server events dispatched sequentially single thread capture list events code 
+
+ensure em em relationship exists call thread call thread completion call em em totally code thread thread finish call thread calls guarantee thread make em local copy em list handy method doesnt ensure em em guarantee added thread written completely visible thread em multi threaded em environment 

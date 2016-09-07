@@ -1,0 +1,4 @@
+broadcastreceiver called package removed updates 
+registering broadcastreceiver statically recognize package added removed replaced onreceive isnt firing heres manifest registered full code receiver thought testing s5 didnt package replaced added tested older version calling logcat receivers list receivers thing building installing maven special adding tags receiver manifest android enabled true android exported true adding priority intent filter worked 
+
+answer ended maven issue transferred apk phone installed fired normal lesson learned install maven doesnt fire receivers 

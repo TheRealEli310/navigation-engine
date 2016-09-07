@@ -1,0 +1,4 @@
+spring security login userdetailsservice config 
+add login functionality database lookup spring security struggling user implementing interface read ton documentation googled hours stuck examples find xml problems related converting configuration strong userdetailsservice strong strong security config strong bunch outcommented code things make work simple memory authentication didnt work strong login jsp strong strong debug strong case configurations override guess default configuration implementation called empty string parameter return hard coded object credentials entered form authentication fails redirected back wrong inform mistakes provide simple configuration 
+
+spring security based configuration request parameters anymore fix login form adapt configuration field names resolve issue 

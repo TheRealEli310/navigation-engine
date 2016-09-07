@@ -1,0 +1,4 @@
+yaml properties constructor injection spring boot 
+piece cake spring boot app application yml file entry spring service fake demonstrates problem startup fails blockquote org springframework beans factory beancreationexception error creating bean dummyservice defined file class file instantiation bean failed nested exception org springframework beans beaninstantiationexception failed instantiate somepackage dummyservice default constructor found nested exception lang nosuchmethodexception somepackage dummyservice blockquote convince spring empty constructor constructor parameter yaml file xml bean config files prefer 
+
+put autowired annotation constructor 

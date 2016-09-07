@@ -1,0 +1,4 @@
+check tuple key exists dictionary 
+created dictionary util hashtable tuple strings keys int values class initialize dictionary unable check key exists dict unable pass pair strings argument dict containskey method 
+
+assumed check prevent npe strong notes strong ul li cases set members class members li li href http www oracle technetwork codeconventions html rel nofollow proper convention class names li li href http docs oracle javase tutorial generics types html rel nofollow generic type parameters single upper case character li ul 

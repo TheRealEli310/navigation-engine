@@ -1,0 +1,4 @@
+sftp client takes private key string 
+apache commons jsch require private key file set sftp connection project working connect multiple sftp servers hope deploy multiple private key files keys strings encrypted config file sftp library doesnt require file object private key 
+
+jsch overload takes key buffer hr alternatives overload takes interface implement interface private key implementation hr alternatively store keys 

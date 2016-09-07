@@ -1,0 +1,4 @@
+infinite loop modify lock variable 
+learning concurrency essentials tutorial guarded blocks test thing understand loop infinite uncomment threadmessage line works fine 
+
+strong short answer strong forgot declare volatile boolean hr ommit declaration field telling jvm field multiple thread case cases read infinite loop optimized print change behaviour synchronized force threads cache reads paste code method method notice synchronization 

@@ -1,0 +1,4 @@
+spring jdbc connection issue connections acquired underlying database 
+stuck big trouble connect oracle 11g database form spring mvc application error stack trace error resolve issue great providing configuration coding details blockquote default servlet xml blockquote blockquote userauthenticationrepositoryimpl blockquote public class userauthenticationrepositoryimpl implements userauthenticationrepository img src http stack imgur mwkgg jpg alt enter image description img src http stack imgur ym7dd jpg alt enter image description 
+
+maven directly oracle driver jar due em licence em restriction manually download place repository find href http www mkyong maven add oracle jdbc driver maven local repository rel nofollow link helpful 

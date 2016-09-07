@@ -1,0 +1,4 @@
+snapshotid resolveconflict google play saved games 
+snapshot id gogle play saved games latest revision google play services library android method find methods interfaces documentation href https developers google android reference google android gms games snapshot snapshots rel nofollow https developers google android reference google android gms games snapshot snapshots 
+
+direct find strong em snapshot id em strong snapshot ul li determine player id set em em current authenticated user make request retrieve list snapshots created application player player id li li return strong em snapshot resources em strong items array li li items array json data kind games snapshot id string driveid string uniquename string type string title string description string coverimage kind games snapshotimage width integer height integer mime type string url string lastmodifiedmillis long durationmillis long li li strong id strong key strong em snapshot id em strong li ul 

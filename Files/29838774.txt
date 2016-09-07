@@ -1,0 +1,4 @@
+unhandled ioexception inside list stream foreach lambda expression 
+stream api introduced run method string list method signature states throw ioexceptions writetostring method inside stream potential throw ioexception compiler giving error stating unhandled ioexception stream line exception inside stream thrown exception inside method remedy putting catch statement foreach lambda expression 
+
+catch writelisttofile method point means compiler make interface consumer class implements interface pass parameter accept method throw exception class method catch item foreach 

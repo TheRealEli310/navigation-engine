@@ -1,0 +1,4 @@
+weka installing libsvm 
+libsvm weka added libsvm jar classpath including weka jar weka version image href http tinypic 14xhycz rel nofollow http tinypic 14xhycz libsvm works weka user interface error libsvm classes classpath weka havent included wlsvm havent download website moment href http www cs iastate yasser wlsvm rel nofollow http www cs iastate yasser wlsvm download libsvm work restarted eclipse number times make ideas working 
+
+reference path lib eclipse project eclipse luna check include versions href https wiki eclipse org faq add extra library project 27s classpath 3f rel nofollow enable support library blockquote strong project alt enter strong strong build path strong strong add jars strong blockquote blockquote strong project alt enter strong strong build path strong strong add external jars strong blockquote prefer approach put library inside project lib folder pick eclipse menu options 

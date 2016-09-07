@@ -1,0 +1,4 @@
+hql division inside criteria query 
+doesnt work hibernate sum property rewrite native sql criteria projection put dogs inside sum works divide 
+
+found good solution object class trick refer 

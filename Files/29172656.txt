@@ -1,0 +1,4 @@
+initialize multiple lazy collections parallel 
+maintaining existing code found code initialize lazy collections works problem sequential parallelize creating threads receiving warning guess threads blockquote error org hibernate assertionfailure hhh000099 assertion failure occured bug hibernate due unsafe session org hibernate assertionfailure threadsafe access session blockquote jpa hibernate initialize collections parallel 
+
+entitymanager thread accessed multiple threads parallel initialization em takes care population lists query hints entity graphs forced eager loading collections object retrival 

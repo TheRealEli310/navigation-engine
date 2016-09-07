@@ -1,0 +1,4 @@
+multi client chat program broadcasting chat clients 
+make simple chat program accommodate multiple clients multi threaded server connect multiple clients server communicates single client client thread server send messages connected clients client id share single object threads heres code server server thread client gui 
+
+accessing create group collection expand application private messaging access specific easily time send message loop collection send message 

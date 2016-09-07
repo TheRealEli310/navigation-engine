@@ -1,0 +1,4 @@
+ternary expression bypasses compiler checks validations 
+reason code compiles expect href http en wikipedia org wiki eclipse 28software rel nofollow eclipse mark error turned primitive back assumption code work eclipse mark line error stating blockquote type mismatch convert blockquote doesnt thing previous code snippet 
+
+due href https docs oracle javase specs jls se8 html jls html jls autoboxing href https docs oracle javase specs jls se8 html jls html jls autounboxing bytecode calls boxing unboxing result conditional expression operands conditional operator type compiler effectively turning code specific common type find string argument eliminate compiler optimization invariant expression compiler true effectively npe runtime passed call heres bytecode public double getsomedouble lang string code aload ifnull ldc2 double 7d invokestatic method lang double valueof ljava lang double goto aconst null invokevirtual method lang double doublevalue dreturn 

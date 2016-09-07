@@ -1,0 +1,4 @@
+impact role prefix spring security framework 
+impact line role prefix secured annotation assuming spring security rolevoter expects roles prefixed role ul li secured admin li li secured role admin public void samplemethod sampleclass sampleobject operations li ul 
+
+option evaluated set prefix empty method secured mentioned default prefix 

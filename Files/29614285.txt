@@ -1,0 +1,4 @@
+printing select sections array list condition met 
+writing program user check dogs kennel trouble printing dogs bones criteria arraylist add dog print select option print dogs bones main console menu printing information array list heres current code issue dog doesnt bones prints null heres console prints method ran advance 
+
+youre skipping array indexes tempresult array dog doesnt bones dog doesnt bones youre increasing tempcount current skipped fix move tempcount increment inside statement getlikesbones evaluate true dont true prefix increment array index decrease readability array dont size creation generally suggests list dynamically resize convert back array fine lists arrays fit application print dog javas attempt turn object string printing loop accessor dog class getname 

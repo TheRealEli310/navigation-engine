@@ -1,0 +1,4 @@
+injecting method interceptors guice 
+searched web including google suggests dont understand class implements method interceptor classes extends binding interceptor basically inject localstore remotestore cacheutils methodinterceptor implementation mapped modules didnt work guess confused requestinjection documentation requestinjection blockquote successful creation injector inject instance fields methods object blockquote mapping interface implementation class wanted work 
+
+href https google github io guice api docs latest javadoc google inject binder html requestinjection lang object rel nofollow inject fields methods wont invoke constructor doesnt annotations constructor add fields code work expect 

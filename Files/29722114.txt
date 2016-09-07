@@ -1,0 +1,3 @@
+attempt invoke virtual method util arraylist bundle fragment 
+send arraylist throw bundle fragment problem problem caused arraylist tested sending null send receive stacktrace instanced fragment pre class lang prettyprint override class detailfragment pre class lang prettyprint override 
+

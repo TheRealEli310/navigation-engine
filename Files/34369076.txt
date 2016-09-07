@@ -1,0 +1,4 @@
+javafxports gluon plugin saving files android 
+problem save files android javafxports found link href http stackoverflow questions strange gluon project structure javafx android porting doesnt work href http stack imgur 0v0m7 png rel nofollow img src http stack imgur 0v0m7 png alt error doesnt found interface goal save file android javafxports 
+
+add code android folder make add correctly class main project gonative href https bitbucket org gluon oss samples rel nofollow sample gluons sample repository finding save file apps local folder mobile device gluons href https bitbucket org gluon oss charm rel nofollow charm open source library common api platform specific services add dependencies script save rebuild project dependencies included main project local path device access file 

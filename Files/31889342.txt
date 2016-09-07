@@ -1,0 +1,4 @@
+shortest palindrome 
+written code initially palindrome method convert palindrome word returns fact helper method checks palindrome word debug code problem method enter loop smb problem 
+
+change build temporary string character character reverse order combine original string palindrome formed 

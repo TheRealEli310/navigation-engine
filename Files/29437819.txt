@@ -1,0 +1,4 @@
+illegalargumentexception utf8 jetty error requests 
+made small change app today sudden requests throwing errors line dont exception deep jettys query request parser unusual requests dont utf8 characters unprintable 
+
+fixed href http stackoverflow users joakim erdfelt joakimerdfelt issue post request httpservletrequest parse input data query string prevent reading query string buffer heres code appears fixed issue completely 

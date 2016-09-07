@@ -1,0 +1,4 @@
+future cancel cancelling scheduled execution scheduledexecutorservice 
+scheduling task works fine flaw ce rtain flag user action task required periodically executed attempt cancelling task submitting runnable executing periodically working expected alternate strategy 
+
+problem futures method small runnable appears 

@@ -1,0 +1,4 @@
+rxjavaerrorhandler prevent error crashing android app 
+suppress error rx plugin app crashing wrong plugin error handler reporting prevent crash 
+
+onerror method safesubscriber class youll find rxjavaplugins errorhandler doesnt affect error processing log report errors 

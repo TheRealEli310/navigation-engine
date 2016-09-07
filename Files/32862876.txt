@@ -1,0 +1,4 @@
+springboot dynamodb local embedded 
+spring boot webapp dynamodb event store app integration tests href https forums aws amazon ann jspa annid rel nofollow approach start dynamodb local integration test code br including dependency error running integration test add code integration test literally added repo dependency pom aws forum announcement linked dependency runs fine attach pom needed ideas 
+
+depends jetty jettys presence classpath confusing spring boot thinking jetty parts jetty arent bug spring boot letting opened href https github spring projects spring boot issues rel nofollow issue fix meantime work problem adding bean application explicitly tells spring boot tomcat 

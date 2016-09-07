@@ -1,0 +1,4 @@
+convert spring configuration xml based qualifying bean exception 
+spring configuration xml switch based configuration error qualifying bean type webservicetemplate found fix 
+
+argument method spring assumes bean type created dont spring screaming existent beans instantiate 

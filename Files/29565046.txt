@@ -1,0 +1,4 @@
+evaluate arithmetic expression recursively 
+evaluating arithmetic expression infix recursion made tree scanning left error blockquote input string blockquote dont wrong hoping method point direction method 
+
+youre checking operators operator check operator operator operator executed operator throw error fix check base case method ignores operator precedence evaluates expressions left interpreted operator precedence accout ignore string require modify loop 

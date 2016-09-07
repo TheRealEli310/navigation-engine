@@ -1,0 +1,4 @@
+add app activity instances recents lollipop 
+feature introduced chrome lollipop chromes tabs managed lollipop recents list implement similar functionality app api 
+
+h1 href https developer android guide components recents html rel nofollow overview screen aka recent tasks h1 blockquote android release api level multiple instances activity documents tasks overview screen blockquote api added href http developer android reference android content intent html flag activity document rel nofollow achieve blockquote flag equivalent attribute documentlaunchmode multiple instances activity documents recent tasks list blockquote usage href https developer android guide components recents html flag doc rel nofollow 

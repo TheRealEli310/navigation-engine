@@ -1,0 +1,4 @@
+set timeout retrofit library 
+href http square github io retrofit retrofit library app id set timeout seconds retrofit set retrofit set timeout 
+
+set timeouts underlying http client dont client retrofit create default connect read timeouts set timeouts configure client supply option href http square github io okhttp okhttp client square strong add library dependency strong build gradle include line em desired library version em strong set client strong set timeout seconds strong edit strong okhttp versions set client builder pattern info href https github square okhttp wiki recipes timeouts timeouts hr ps minsdkversion greater details units href http developer android reference util concurrent timeunit html timeunit 

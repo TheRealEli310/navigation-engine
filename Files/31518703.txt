@@ -1,0 +1,4 @@
+access boolean class 
+working project press break main activity mainactivitywithbuttons opens page enter address push button sends sms specific message choose message booleans tap break sets boolean called breakin true access breakin boolean true false case true order statements choose message problem booleans set true press button send sms app crashes heres code snippet mainactivitywithbuttons locationselectfromalertbuttons strong edit strong log strong edit strong manifest info feel free comment 
+
+send intent mainactivitywithbuttons locationselectfromalertbuttons oncreate 

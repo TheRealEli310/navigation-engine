@@ -1,0 +1,4 @@
+char encoding mysql insert callablestatement jdbctemplate 
+issues char encoding performing insert mysql table table field focused properties collation utf8 general ci varchar problem occurs chinese foreign characters callablestatement call stored procedure work entry appears debugged found callablestatement charencoding property found change setting values insert nvarchar working suggestion jdbctemplate insert work callablestatement code frustrating net default working sql inserts encoding utf appreciated 
+
+include encoding connection string 

@@ -1,0 +1,4 @@
+debug maven surefire tests eclipse 
+debug maven surefire test suite eclipse testng test runner run command terminal kick remote application eclipse debug set debug configuration eclipse debug directly eclipse run command terminal maven surefire setup pom xml 
+
+mentioned href http stackoverflow users khmarbaise khmarbaise ditch maven part run tests eclipse key combination youll selecting package testng tests kbd alt kbd kbd shift kbd kbd kbd kbd kbd debug junittests replace preserving current functionality attach listener testng testsuite href http testng org javadoc org testng annotations listeners html rel nofollow annotation attach multiple classes implementing listen suite aware itestnglistener marker interface functionality defined attach testng run debug configuration 

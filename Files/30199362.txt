@@ -1,0 +1,4 @@
+polymorphic queries hibernate search 
+simplify question class class extends class class extends problem polymorphic queries works fine problem field exception org hibernate search searchexception unable find field solution polymorphic queries mistake helping 
+
+basically hitting limitation query dsl moment supports creation queries single indexed type href https hibernate atlassian net browse hsearch rel nofollow hsearch workaround revert writing native lucene queries polymorphic queries work dsl create instance specific subclass target 

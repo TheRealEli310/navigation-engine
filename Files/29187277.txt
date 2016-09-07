@@ -1,0 +1,4 @@
+inheritance increase coupling 
+fairly object oriented programming techniques understand coupling biggest obstacle creating maintainable reusable code make child classes inherit base class dont child classes dependent base class remove base class point time wouldnt break code child classes 
+
+referred href http en wikipedia org wiki coupling 28computer programming object oriented programming rel nofollow em subclass coupling em blockquote describes relationship child parent blockquote coupling affecting aspect affect aspects case removing parent class child classes hr case removing superclass illogical remove subclasses aswell assuming understand inheritence program class properties functionality strong strong animal class extend class create specific types animals class overrides methods declared change behavior making behavior specific dogs removed states program longer animals make sense 

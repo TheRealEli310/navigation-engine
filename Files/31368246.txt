@@ -1,0 +1,4 @@
+android settext loop hold jsonobject values overwriting 
+fiddling hours essentially create jsonobject inside loop set textview working loop values clarify output jsonobject strong city seattle state washington strong values loop inside textviews settext loop inside textview pretty narrowed problem area settext replacing values newest makes sense change put loop loop values dallas texas seattle washington settext issue suggestions great 
+
+citystring statestring overwrite loop settext print therfore append json values string set values loop 

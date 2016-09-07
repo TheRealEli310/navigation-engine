@@ -1,0 +1,4 @@
+completablefuture completed 
+heres href http stackoverflow mcve mcve curiously completing calling output whats causing jvm treat href https docs oracle javase docs api util concurrent completablefuture html getnumberofdependents rel nofollow estimated number dependent decides straightforwardly complete difference answer simple comparison expected waiting time seconds output end helps encountering update jvm modification output 
+
+independently submitted async tasks blockquote whats causing jvm treat r1 estimated number dependent completablefuture decides straightforwardly complete r2 r3 blockquote doesnt time call instances completed dont hasnt thread completed sleeping call blocking return completed gave chain simply depends completed completes choose discard reference task submitted scheduled add end original program youll log printed completes returned hr async tasks submitted ran default daemon threads application exit 5s elapsed choose block wait time pass 

@@ -1,0 +1,4 @@
+android okhttp asynchronous calls 
+attempting okhttp library connect android app server api api call happening button click receiving strong android os networkonmainthreadexception strong understand due fact attempting network calls main thread struggling find clean solution android make code thread async calls code exception thrown line read okhhtp supports async requests find clean solution android class strong asynctask lt strong suggestions appreciated thankyou 
+
+send asynchronous request amp call 

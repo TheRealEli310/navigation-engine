@@ -1,0 +1,4 @@
+update ui loading error views recyclerview rxjava 
+searchview executes network request search tracks populates recylerview results found code works fine integrated recyclerview emptyview adapter integrate loadingview progress errorview inside code put loadingview progressbar visibility true inside concatmap error original thread created view hierarchy touch views solved running mainthread idea logic show hide errorview loadingview integrated code rxbinding rxrecyclerview good idea 
+
+complete solution stripping code presentation basically touch view call 

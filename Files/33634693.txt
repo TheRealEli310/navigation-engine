@@ -1,0 +1,4 @@
+configure getter lazy initializing collection field lombok 
+make lombok generates getter method pre class lang prettyprint override simple 
+
+proper lombok generates method 

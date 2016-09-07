@@ -1,0 +1,4 @@
+play finder throws null pointer exception 
+issue finder instance play returns null pointer exception code model class works fine model created play whats href http stack imgur 5qo4q png rel nofollow img src http stack imgur 5qo4q png alt npe greatly driving crazy upgrade project working upgrade fine giving problems additional info fails call clientauthorization static call find em update em comment question npe reason finder initialized model model written reason happening stack trace 
+
+case runs similar problem strong config double checked strong default model superclass care details found href https www playframework documentation javaebean rel nofollow ebean config 

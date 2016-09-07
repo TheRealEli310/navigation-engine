@@ -1,0 +1,4 @@
+org springframework beans factory cannotloadbeanclassexception 
+list jars ul li hibernate3 jar li li hibernate core final jar li li hibernate jpa api final jar li li hibernate commons annotations final jar li li hibernate testing jar li li org springframework orm release jar li ul project class path versions compatible configurations applicationcontext xml code 
+
+upgraded spring release problem solved 

@@ -1,0 +1,4 @@
+log4j dailyrollingfileappender rollover directory 
+happen log4js dailyrollingfileappender class capable creating logs directory source file rollingfileappender href http stackoverflow questions log4j move rolling files directory location log4j move rolling files directory location reason appender enables rollover process based date time opposed maximum file size 
+
+create rolled logs directory bit fudge limiting terms directory location appends pattern end log file lead finished logs ending directory 

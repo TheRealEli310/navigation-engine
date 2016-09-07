@@ -1,0 +1,4 @@
+leakcanary report memory leak otto 
+href http stackoverflow questions leakcanary shows fragment leak appcompatactivity fragmentstatepageradap question memory leak rid read register unregister static otto bus activity fragment lifecycle added register unregister calls onstop onstart button triggers event received fragments inside viewpager memory leak code mainactivity pre class lang js prettyprint override myfragment layouts case mainactivity fragment 
+
+watching reference wrong time call em absolutely em garbage collected activities fragments leakcanary readme href https github square leakcanary rel nofollow section 

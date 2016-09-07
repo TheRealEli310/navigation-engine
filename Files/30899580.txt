@@ -1,0 +1,4 @@
+send jsonobject jerseyclient post call 
+pojo class element type jsonobject send post call jerseyclient fails error serializer found class org json jsonobject added fail request body empty json idea make work reason keeping jsonobject service pass dont model internals 
+
+add de serializators jsonobject href https github fasterxml jackson datatype json org rel nofollow jackson datatype json org register module 

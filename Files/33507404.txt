@@ -1,0 +1,4 @@
+lambdaconversionexception mixing method reference generics 
+code compiles fine throws exception runtime expected behaviour code output 
+
+netbeans issue reproduce problem javac command line filed href https netbeans org bugzilla show bug cgi id rel nofollow bug report 

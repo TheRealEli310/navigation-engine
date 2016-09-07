@@ -1,0 +1,4 @@
+jedis cache implementation jedispool commons pool2 
+implement jedis jedispool commons pool2 jdk commons pool2 support jdk implement thread connection pooling 
+
+jedis compatibility create pooling based older href http search maven org artifactdetails 7ccommons pool 7ccommons pool 7c1 7cjar rel nofollow commons pool library commons pool2 class path run jedis jedis commons pool validate solution approach find code attached 

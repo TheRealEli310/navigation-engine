@@ -1,0 +1,4 @@
+extend subclasses class single class 
+extend subclasses class single class lets explain actual code complex animal class class hierarchy lets subclasses testarrosa viper extend car subclasses registeredcar subclass point create registeredcar specific subclass call getmanufacturer obtain dodge getplatenumber obtain ac create attribute car null registered 
+
+solved changing model alternative inheritance class wrap instance br make interface extend work attempt pseudo code excuse bad code dont ide open mess generics ide hand solution aop dont fashion days describing cross cutting concern final alternative language extensions traits protocol type mix 

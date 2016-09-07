@@ -1,0 +1,4 @@
+project compiles maven eclipse shows errors 
+maven build project questions ol li successfully compile project maven eclipse reports compile time errors errors added external jars eclipses build path resolve errors li li run project maven li ol heres pom xml file 
+
+m2e plug eclipse integrate maven eclipse automatically include jars local maven cache based contents pom xml excluding source files explains mavens build succeeds dependencies 

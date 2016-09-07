@@ -1,0 +1,4 @@
+android caching events results crashing locking 
+storing events queue android app foreground events lot id remove oldest reach limit avoid memory issues events type id avoid removing needed ontrimmemory canremove event check event instanceof removed returns true false bit logcat giving long monitor contention event owner method logcat reports starting blocking gc alloc waiting blocking gc alloc clamp target gc heap 65mb 64mb lot messages app crash understand reading similar question href http stackoverflow questions long monitor contention event owner method quot long monitor contention event owner method quot problem receveing lot events locking events time question optimize bit saving position removed time start loop dont queue events remove lock idea forgot declaring private linkedlist events linkedlist lt 
+
+method solve issue 

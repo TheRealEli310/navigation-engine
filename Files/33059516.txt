@@ -1,0 +1,4 @@
+convert long string streams 
+convert primitive long array string string values separated delimiter achieve 8s streams work array reason work primitive make work manage find optimal convert simplified pretty 8s stream features 
+
+working primitive array explained href http stackoverflow answer creates href https docs oracle javase docs api util stream longstream html maptoobj util function longfunction rel nofollow method produce case make version compact tagir mentions comment overloaded types wont cast object long method reference hr option call href https docs oracle javase docs api util stream longstream html boxed rel nofollow result call 

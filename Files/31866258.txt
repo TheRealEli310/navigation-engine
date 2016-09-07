@@ -1,0 +1,4 @@
+pass object containerrequestfilter resource 
+pass object containerrequestfilter post matching resource jax rs resteasy version undertow embedded guice 
+
+method href https jax rs spec net nonav rev apidocs javax ws rs container containerrequestcontext html setproperty lang string 20java lang object rel nofollow containerrequestcontext setproperty stores values synced plain jax rs store attribute pre class lang prettyprint override obtain resource class pre class lang prettyprint override cdi inject bean filter resource class pre class lang prettyprint override resource class pre class lang prettyprint override id expect working guice strong update strong bakil pointed correctly bean object pass current request 

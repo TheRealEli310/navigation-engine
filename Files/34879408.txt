@@ -1,0 +1,4 @@
+configuring spring boot logback 
+write file logging configurations spring boot bal previous question href https docs spring io spring boot docs current reference html common application properties html rel nofollow sample file spring boots website configure logging information yml file questions ol li logging configuration yml file versus file logging configuration put versus putting li li logging level configuration line written correctly li li librarys logging level logback put li ol 
+
+ol li combine simplified configuration fullfeatured li ol honest happen contradicting configuration files patterns log levels guess extra part correct 

@@ -1,0 +1,4 @@
+log jasper report logs separate log file 
+jasperreport log4j log log messages related jasper report log file writes log file console bit log separate log file achive log4j xml file 
+
+define appender category apender reference 

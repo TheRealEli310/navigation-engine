@@ -1,0 +1,4 @@
+send big packet socket sending small 
+making server client program sends classes ints socket client server back server client takes long time process inside game loop making things slow question whats faster send things ul li pack things time send big packet server back decompress data li li send things back save time takes pack things guess li li difference approaches li ul opinion guys speeding things kind processes edit1 working tcp 
+
+packet option cost put buffer send multiple items low trips network stack blocks data wire making things block tend ip windowing tuned larger blocks tend flow quicker multiple packets routed network 

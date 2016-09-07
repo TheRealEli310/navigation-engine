@@ -1,0 +1,4 @@
+form invocation properties mule 
+mules message invocationproperties exception time 
+
+access message mel accessing href http www mulesoft org docs site current3 apidocs org mule el context messagecontext html rel nofollow http www mulesoft org docs site current3 apidocs org mule el context messagecontext html invocation properties message context accessible flow variables access invocation scoped properties mel 

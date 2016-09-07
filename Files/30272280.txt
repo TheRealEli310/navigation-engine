@@ -1,0 +1,4 @@
+extract array values nested json data 
+json data format string email domains field wrote code attempt code email domains json array object created data json object iterator values array throws nullpointerexception line stuck due problem kindly suggest solution 
+
+json library href http www json org rel nofollow http www json org jsonobject frequently library methods specific types getlong getjsonarray case email domains field 

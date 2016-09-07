@@ -1,0 +1,4 @@
+wildfly quickstart fails offset 
+downloaded wildfly quickstarts jboss developer studio total newbie jboss guide github href https github wildfly quickstart rel nofollow https github wildfly quickstart build deploy sources maven installed settings xml copied home m2 directory urls artifcats broken supposing messed 
+
+maven giving problem artifact found href https maven repository redhat earlyaccess org jboss spec rel nofollow remove redhat maven repository added artifacts resolved standard maven central repository provide artifact href http search maven org search 7cga 7c1 7cg 3a 22org jboss spec rel nofollow 

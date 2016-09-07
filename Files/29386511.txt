@@ -1,0 +1,4 @@
+calculate run time multi threaded program 
+test performance terms execution time webcrawler trouble timing due multi threading taking place strong main class strong strong allwebsiteprocessortest class strong class method create instance pass array websites crawler works fine figure time start time problem end time adding end time doesnt work adding doesnt work instantly triggered grab time strong final completed thread strong 
+
+shutting executors pool simply call block untill tasks completed time subtract voila execution time method assures tasks accepted excution queue tasks queue performed drops pending tasks wait running tasks complete 

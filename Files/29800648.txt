@@ -1,0 +1,4 @@
+string replace escape json 
+replace slashes confusing proper replace 
+
+replace literals dont reason regex syntax means characters treated specially make literals escape adds escaping mechanism automatically write confusing 

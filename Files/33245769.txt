@@ -1,0 +1,4 @@
+templating spring el expression 
+spring el simple templating case examples href http docs spring io spring docs current spring framework reference html expressions html expressions properties arrays rel nofollow docs doesnt fit work form map case output created exception mistake 
+
+text literal wouldnt compile writing youd equivalent spel 

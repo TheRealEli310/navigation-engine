@@ -1,0 +1,4 @@
+stax jaxb xml parsing parsing instance 
+xml structure staxx parse stuff middle jaxb problem isnt result elements put output result objects inside generic object pass parse object jaxb advance staxx iterator end isnt point parsing rest object 
+
+unmarshaller documentation emphasis mine blockquote lt jaxbelement lt unmarshaller unmarshal xmlstreamreader reader class declaredtype unmarshal root element jaxb mapped declaredtype return resulting content tree method implements unmarshal declaredtype method assumes parser start document start element event unmarshalling start event end event method returns successfully strong reader pointing token end event strong blockquote call starts event call event strong strong em em point loop executes detects events reader steps calls leaves parser fails test code fails accidentaly skip opening tag code skip instances 

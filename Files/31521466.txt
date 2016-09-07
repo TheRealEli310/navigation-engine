@@ -1,0 +1,4 @@
+testng parallel execution dataprovider 
+single test receives data data provider test run parallel values data provider approach output received spawned threads thread pool size added snippet control data provider thread pool size 
+
+dataproviderthreadcount threadpoolsize invocationcount required 

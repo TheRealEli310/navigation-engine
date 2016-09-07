@@ -1,0 +1,4 @@
+running jconsole jre 
+run memory server stats jre servers memory detail 
+
+jconsole tool monitor process executed remote local environment monitor process connect remote process opening port 

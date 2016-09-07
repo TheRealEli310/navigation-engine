@@ -1,0 +1,4 @@
+io ioexception stream closed util zip zipinputstream ensureopen zipinputstream 
+code snippet exception reading xls file read files advance 
+
+youre calling constructor href https poi apache org apidocs org apache poi poifs filesystem poifsfilesystem html poifsfilesystem io inputstream rel nofollow documented blockquote create poifsfilesystem inputstream stream read eof strong stream closed strong blockquote emphasis mine means youre closing iteration dont call href https poi apache org apidocs org apache poi poifs filesystem poifsfilesystem html createnonclosinginputstream io inputstream rel nofollow blockquote convenience method clients avoid auto close behaviour constructor blockquote words 

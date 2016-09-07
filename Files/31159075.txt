@@ -1,0 +1,4 @@
+find logged user spring boot 
+href https github dsyer spring security angular blob master single src main demo uiapplication rel nofollow spring boot application web service returns data logged user imagine return method depends user logged find user logged method 
+
+request spring boot href http docs spring io spring boot docs current snapshot reference htmlsingle boot features security rel nofollow spring security internally href http docs spring io spring security site docs current apidocs org springframework security core context securitycontextholder html rel nofollow securitycontextholder class lookup authenticated user href http docs spring io spring security site docs current apidocs org springframework security core authentication html rel nofollow authentication instance methods ul li username logged user li li password authenticated user li li assigned roles authenticated user li li details authenticated user li ul 

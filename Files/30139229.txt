@@ -1,0 +1,4 @@
+wildfly fork process connection 
+running simple openshift instance wildfly app postgresql constantly observing server log strong fix strong app connect postgre threads persistence xml datasources xml 
+
+problem totally related wrong clustering messaging inside openshift settings fix locate change clustering pools lower values messages pool href https gist github sigrlami 9da34d3dd539dc6d7730 rel nofollow https gist github sigrlami 9da34d3dd539dc6d7730 

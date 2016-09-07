@@ -1,0 +1,4 @@
+nullpointerexception jsoncreator jsonproperty 
+project restful api jackson jersey handle incoming json post data angularjs enabled web application jersey json version maven recommended version company worked class decided private members empty constructor public setters worked fine wanted class immutable research found achieve jsoncreator jsonproperty call api fails nullpointerexception missing add annotations 
+
+migrated jersey version adding dependency jersey servlet worked fine including immutable classes 

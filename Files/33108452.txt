@@ -1,0 +1,4 @@
+error compiling renderscript library llvm rs cc exe finished exit 
+title mentions add renderscript project error gradle sync error execution failed task strong app compiledebugrenderscript strong android ide common process processexception org gradle process internal execexception process command usersdriesappdatalocalandroidsdk2 uild tools23 llvm rs cc exe finished exit android studio build gradle strong tesstwo build gradle file strong strong fileexplorer build gradle file strong additional errors referred comment stephen hines post 
+
+packaging problem sdk copy relevant dll files lib part tools installation bin directory libclang dll libllvm dll libbcc dll 

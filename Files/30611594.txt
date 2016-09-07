@@ -1,0 +1,4 @@
+convert web project ejb project cdi jpa 
+convert web project ejb project cdi jpa 
+
+found solution maven archetype generate multi module project 

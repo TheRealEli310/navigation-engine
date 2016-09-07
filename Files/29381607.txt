@@ -1,0 +1,4 @@
+populating arraylist 
+populate array list array list constantly equals initializes declaring main code feel silly arraylists default arrays figure save life 
+
+creates em initial capacity em size elements backed array underneath create array size initial capacity constructing object doesnt resize time insert entry arrays strong strong dynamic insert record array full create move items expensive operation array created ahead time return list loop execute change work 

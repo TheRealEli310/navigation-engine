@@ -1,0 +1,4 @@
+printing array objects 
+lot pages question understand case print array objects array objects hold objects shape class call tostring method object array code tostring method objectlist print instance variables aiming print 
+
+simplest arrays tostring internally call method element array override method class work fine add override method class call variable 

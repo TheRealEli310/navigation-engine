@@ -1,0 +1,4 @@
+resolve plusclient 
+integrate android application add plusclient initialize androidstudio added import header tryed add import header androidstudio find api fix api support plusclient differences bettween plusclient 
+
+class android documentation doesnt exist href https developer android reference google android gms common api googleapiclient builder html rel nofollow 

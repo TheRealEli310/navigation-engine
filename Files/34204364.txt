@@ -1,0 +1,4 @@
+unable serialize object json jackson 
+serialize object jackson serialize error href http stackoverflow questions serializing jackson json serializer found post didnt class serialize create getters setters field serialization method 
+
+classes reference blockquote default jackson work fields public public getter methods serializing entity fields private package private fail blockquote source code href http www javadocexamples io io filedescriptor source html rel nofollow private fields public getters configure visibility access private fields 

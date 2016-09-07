@@ -1,0 +1,4 @@
+application json back solr query 
+calling solr rest api jersey client run suggests response text plain application json requested real json response solr query marshal json returned text object 
+
+wt param care json response format href https cwiki apache org confluence display solr response writers responsewriters jsonresponsewriter rel nofollow things wrong mentioned json responses returned plain text change solrconfig xml check option hope helps identifying issue 

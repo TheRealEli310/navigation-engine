@@ -1,0 +1,4 @@
+jface dialog top modeless 
+created jface modeless dialog set shell style options dialog top dialog minimized minimize eclipse workbench missing shell style bits expected behavior make top dialog minimize eclipse application 
+
+parent shell dialog child window minimizing 

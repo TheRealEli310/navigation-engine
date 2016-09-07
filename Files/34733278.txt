@@ -1,0 +1,4 @@
+initialized array retain order 
+initialize array guaranteed elements inserted order typed initialization 
+
+guaranteed specification href https docs oracle javase specs jls se7 html jls html jls jls blockquote variable initializers immediately enclosed braces array initializer executed left textual order occur source code nth variable initializer specifies 1th array component blockquote 

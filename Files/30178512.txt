@@ -1,0 +1,4 @@
+simple recursive algorithm 
+simple recursion question working refine approach write recursive method int parameters precondition requires lt lt method prints line asterisks line asterisks line asterisks pattern repeated backward line asterisks loop allowed implementation loop print line asterisks test methods printasterisk prints printasterisk prints asterisks inserts printasterisk prints asterisks expected output current output 
+
+simpler print asterisk begin end function recurse case preventing printed lines 

@@ -1,0 +1,4 @@
+changing list array calculate grade averages 
+create program array method users input student grades method grades calculate minimum maximum average strong em mind beginner em strong figured menu problem problems menu work correctly print repeat user types exit edited coding 
+
+youve working standard deviation part code bit redundant youre printing menu isnt create method reformat conditional statements loop 

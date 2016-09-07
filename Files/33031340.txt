@@ -1,0 +1,4 @@
+jaxb fixed attribute set marshalling 
+jaxb set fixed attribute default expected behavior wrong xsd marshalling object created produces manually set attribute works fine reset works marshaller method generating xml results generated 
+
+quoting href http www w3 org tr xmlschema occurrenceconstraints rel nofollow xml schema part occurrence constraints blockquote attribute attribute element declarations ensure attributes elements set values declaration attribute declared declaration means appearance attribute instance document optional default attribute attribute schema processor provide attribute blockquote attribute generated give schema compliant calling give default fixed em em br generation omit attribute set em em marshaller method 

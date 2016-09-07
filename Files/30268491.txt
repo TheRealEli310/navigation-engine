@@ -1,0 +1,4 @@
+naively replace system currenttimemillis clock systemdefaultzone millis 
+introduces href http docs oracle javase docs api time clock html rel nofollow time clock interface mock system time calls effectively awesome id naively replace calls calls isnt clear clocks return values cases based caviet docs state system clock doesnt similar claims clock 
+
+guarantee blockquote system factory methods provide clocks based system clock system currenttimemillis higher resolution clock blockquote explicitly states clock means absolutely analyze existing implementations discover theyre explicitly guaranteed things stay relying invalid close purposes application personal preference 

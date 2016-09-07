@@ -1,0 +1,4 @@
+stop thread thread interrupt method 
+learn thread interrupt make thread terminate calling stop strong output strong unable understand sleeping printed time interrupted exception thrown time time checked posts volatile keyword stop thread unable understand scenario thread stopped interrupt 
+
+order thread interrupted entering sleep method time change loop test run method check interrupt flag thread sleep set interrupt flag check flag terminate interruptedexception thrown thread sleep method thread sleeping interrupt flag set local boolean variable needed thread sleep throws interruptedexception wont thread checks interrupted flag leaves loop interrupt flag cleared restoring catch block test thread interrupted real programs thread interrupted thread reason thread interrupt return 

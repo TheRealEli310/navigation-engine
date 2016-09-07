@@ -1,0 +1,4 @@
+sum numbers 
+beginner make comparison runtime sequential parallel multithreading summation numbers make parallel sum faster sequential made small program eclipse properly extract results threads put arraylist sum totalsum codes attached advance main class runnable class 
+
+em correct em result modify program join spawned threads wait till finish em faster em result remember starting thread complex operation introduces big overhead contrast summing int numbers fast benefit simple test commonly pre created set threads called thread pool threads waiting tasks execute thread pools managed executors href https docs oracle javase docs api util concurrent executors html rel nofollow javadoc measuring time easy href http stackoverflow questions write correct micro benchmark question details 

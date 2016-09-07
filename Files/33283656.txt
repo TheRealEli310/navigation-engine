@@ -1,0 +1,4 @@
+unable access parent project library jar child module maven 
+project called em parent em type pom library public repository accessing child project names em child module1 em em child module2 em library pom mentioned build maven error local repository happen parent project library system path happen access system path library project parent referring fine 
+
+resolved issue updating systempath parent pom xml shown adding main basedir property parent pom xml repository adding properties repositories element child module added child module folder reside parent folder directory rest absolute path parent lib folder generated expected 

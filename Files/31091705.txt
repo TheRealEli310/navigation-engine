@@ -1,0 +1,4 @@
+exception remove action bar activity 
+remove actionbar loginactivity implemented code href https github joseedwin84 android sliding tabs material design rel nofollow code actionbar show altered code find remove actionbar hide appying notheme style activity exception 
+
+dont extend appcompatactivity xml layout file remove actionbar toolbar 

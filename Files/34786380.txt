@@ -1,0 +1,4 @@
+determine aws lambda runtime 
+approach calling aws lambdas href https awsblog post tx2j2lpkttvu93h invoking aws lambda functions rel nofollow blog post br environments int test live lambda slightly created cloudformation interface call lambda depending environment br spring interface wont bean feel hit brick wall hr calling lambda exception handling nice solution tho hr submitted issue solution href https github aws aws sdk issues rel nofollow aws sdk github similar solution make release sdk 
+
+people find functionality included href https github aws aws sdk blob master aws sdk lambda src main amazonaws services lambda invoke lambdafunctionnameresolver rel nofollow lambdafunctionnameresolver 

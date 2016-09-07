@@ -1,0 +1,4 @@
+trouble implementing hangman return blanks correct letters 
+working text based hangman game bluej school project successful ran bit wall part make time player guesses letter correctly prints blank spaces asterisks correct letters inserted printing letter guessed past correct guesses correct number blanks strong issue prints incorrect number blanks start game strong fix issue blank spaces adding driver class class selects word heres craziness line testing final game wont show word single character lines guesses 
+
+remove line beginning wordsofar function beginning guess function initializing blank time guess character time call blank function increase count class variable eventually increases number current double problem write getter wordsofar hangman class main function countletter function initialize count counting 

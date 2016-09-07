@@ -1,0 +1,4 @@
+combine rdd whith keys spark 
+suppose rdd map rdd field summation fields tuples partial key result expect kind reduction lose original keys calculate summation mapping reducing rdd merge rdd rdd obtain result idea 
+
+preserves structure rdd preserve order save ordering index simple double join back original rdd original doubles preserved edit join solution simply rdd join original rdd format presume obtained rdd string session int sum join operation simply join method preserve order order zipwithindex 

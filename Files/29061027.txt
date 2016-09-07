@@ -1,0 +1,4 @@
+android thread app hangs screen turns 
+canvas surfaceview class runs thread surfaceview called activity setcontentview surfaceview screen turns pause method turns loop variables strange thing tablet android thread pauses resumes correctly thread starts phone android peoples phone cm app hangs doesnt crash hangs kill logcat doesnt print find log pause method finishes pause method starts app hangs checked pause resume methods called correctly override onpause onresume activity super onpause resume surfaceview pause resume pause resume methods pause method starts pause method start drawablankscreen linke commented prints thread join loop app hangs thing bugs hangs phone doesnt hang tablet searched hours found 
+
+joining ui thread background thread onpause whats causing problem kill thread 

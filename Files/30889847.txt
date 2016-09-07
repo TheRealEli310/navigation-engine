@@ -1,0 +1,4 @@
+match string xtext upper lower case 
+create rule xtext matches string care case string match duck duck duck simple covering cases 
+
+flag configure mwe2 workflow replace pass 

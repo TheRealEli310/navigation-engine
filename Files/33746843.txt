@@ -1,0 +1,4 @@
+invalid keystore format sparkjava secure command 
+secure web service running jetty service implemented sparkjava specific command purpose command generated keystore file keytool utility provided password keystore jks file start service exception imho keystore jks valid certificate generated successfully installed investigating problem source code sun security provider javakeystore code mentioned constants defined file opening keystore jks file hexdump utility top based xmagic variable equal magic constant xversion equal version throw exception shed light missing make work greatly 
+
+find problem keystore file fine truststore corrupted piece code checking error message file helpful spark development team release include info exception message 

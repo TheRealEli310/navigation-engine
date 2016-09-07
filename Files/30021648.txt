@@ -1,0 +1,4 @@
+activity send intent activity 
+problem activity doesnt send intent activity mainactivity resultactivity 
+
+change intent youre passing extras dont catch hope solve problem 

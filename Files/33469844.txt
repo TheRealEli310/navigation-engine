@@ -1,0 +1,4 @@
+replace string prefix suffix 
+replace ocurrences string isnt surrounded letters numbers parser founds equ line reads instructions block find label bit case replacing result wrong overriding label substring surrounded characters letters numbers doesnt overrides label id code operand string operand label label found replacement replaced label replaceall regex throws exception indexoutofboundsexception group util regex matcher start left suffix throws error means guys 
+
+youre youre replace wont work special meaning call makes special characters quoted longer special meanings replacement interpreting replace contents group youre error 

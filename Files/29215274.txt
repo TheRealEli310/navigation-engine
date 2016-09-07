@@ -1,0 +1,4 @@
+properly pbewithhmacsha512andaes algorithm 
+encryption figure properly pbewithhmacsha512andaes algorithm encryption work fine unable properly initialize decryption cipher short program demonstrates issue problem comment href http stackoverflow helpful answer things work scheme curious wrong 
+
+encrypting cleaner doesnt involve decrypting site save algorithm parameters byte transmit key data reconstruct decrypting site argument 

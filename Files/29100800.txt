@@ -1,0 +1,4 @@
+practice deploying ear project remote wildfly server eclipse 
+javaee ear project seamlessly deploy eclipse remote server running debian wildfly today deploying ftp drop ear project wildfly deployment folder creating dodeploy agile solution push immediately recommendation practice solution searched web couldnt find concrete guides maven popular 
+
+dont practice general depends environment approaches deployment remote host ol li maven ul li detailed documentation plugin href https docs jboss org wildfly plugins maven latest rel nofollow https docs jboss org wildfly plugins maven latest li li sample applications plugin href https github wildfly quickstart rel nofollow https github wildfly quickstart li ul li li cli li ol href https docs jboss org author display wfly8 cli recipes rel nofollow https docs jboss org author display wfly8 cli recipes 

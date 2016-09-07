@@ -1,0 +1,4 @@
+exception unmarshalling xml file jaxb 
+unmarshall xml file binding exception xml schemas problem namespaces bind xml xsd schema work find issue advance exception namespaces declaration xml namespaces declaration xsd pojo xml annotations method unmarshall file 
+
+xml default namespace suspect 

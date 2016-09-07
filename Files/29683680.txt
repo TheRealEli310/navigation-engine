@@ -1,0 +1,4 @@
+accessing flash template 
+play framework scala app written play framework setting flash controller redirect view flash unavailable redirect logged flash set logs true pre class lang prettyprint override template pre class lang html prettyprint override 
+
+href https www playframework documentation javasessionflash rel nofollow https www playframework documentation javasessionflash data flash scope request guess read data put flash 

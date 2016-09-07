@@ -1,0 +1,4 @@
+configure iedriverserver testing ie8 
+automated tests selenium webdriver testing dont configure versions starting ie8 give advices developed part code desiredcapabilities scaps desiredcapabilities internetexplorer scaps setcapability internetexplorerdriver introduce flakiness ignoring security domains true scaps setcapability internetexplorerdriver ignoreprotectedmodesettings true scaps setjavascriptenabled true driver internetexplorerdriver scaps advance kinds 
+
+higher windows vista windows ol li set protected mode settings zone li li enhanced protected mode zones prefer disabled requirement higher additionally enhanced protected mode disabled higher option found advanced tab internet options dialog li li browser zoom level set native mouse events set correct coordinates li ol steps video href http screencast 5nlxsrje4i rel nofollow http screencast 5nlxsrje4i showed steps hope helps 

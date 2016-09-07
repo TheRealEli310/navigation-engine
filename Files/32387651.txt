@@ -1,0 +1,4 @@
+override jndiobjectfactorybean spring set decrypted password 
+datasource tomcat password encrypted algorithm decrypt establish connection db spring config code bean custom extends jndiobjectfactorybean encryted password set back decrytion algorithm super class method fetch password set back suggest search lot 
+
+figured overriding jndibeanfacotry tomcat data source factory property custom resource factory class called time data source lookup instantiated link specifies step step configuration href http tomcat apache org tomcat doc jndi resources howto html rel nofollow http tomcat apache org tomcat doc jndi resources howto html adding custom resource factories section emphasises write simple custom resource factory 

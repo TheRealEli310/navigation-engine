@@ -1,0 +1,4 @@
+enable autowire support unmanaged class spring aspectj 
+setup spring aspectj autowire beans classes managed spring classloader system added configurable annotation unmanaged class setup aspectj order generate aspectj enhanced classes compile time jdk complete source code minimalistic found href https github jotschi spring aspecj compiletime weaving rel nofollow https github jotschi spring aspecj compiletime weaving added custom aspect defintion order verify aspectj working spring detected aspect aspect handled correctly thing remains field autowired unmanaged class pom xml unmanaged class spring configuration hr strong update strong updated github project includes missing annotation setup aspectj spring href https github jotschi spring aspecj compiletime weaving rel nofollow https github jotschi spring aspecj compiletime weaving 
+
+solution add class kudos deinum pointing 

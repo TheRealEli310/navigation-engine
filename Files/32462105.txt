@@ -1,0 +1,4 @@
+convert hssfcell string 
+piece code throws made line bold code 
+
+apache poi handy class href http poi apache org apidocs org apache poi ss usermodel dataformatter html rel nofollow dataformatter href http poi apache org apidocs org apache poi ss usermodel dataformatter html rel nofollow dataformatter string cells youll current contents numeric date cells formatted based formatting styling rules applied cell returned string applied loop rows cells workbook values href http poi apache org spreadsheet quick guide html iterator rel nofollow pattern docs easy 

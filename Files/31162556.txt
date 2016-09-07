@@ -1,0 +1,4 @@
+dynamic sort order structuredquerybuilder 
+marklogic client api process moving query definitions allowing construct manipulate query programmatically string query sort operator successfully turn referred names predefined orders query options href https docs marklogic guide search dev query options id rel nofollow https docs marklogic guide search dev query options id find api docs related method allowing sort order structured query builder recommended sort order strong update strong based eriks proposal code snippet doesnt solve problem child element child element 
+
+solution ended basically programmatic building query inject referring pre defined sort order options 

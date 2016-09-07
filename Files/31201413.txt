@@ -1,0 +1,4 @@
+override clause condition hibernate 
+sample code piece fetch record em employee em table em active true em cases require load records em active false em write code generated query bot conditions hql annotations expected results coming override predefined defined entity 
+
+afaik override inside class strong href https docs jboss org hibernate orm api org hibernate annotations html rel nofollow documentation strong interface annotated strong href http docs oracle javase docs api lang annotation retentionpolicy html rel nofollow retentionpolicy documentation strong blockquote strong runtime strong annotations recorded class file compiler retained vm run time read reflectively blockquote force annotation recorded class file compiler retained vm run time applied class 

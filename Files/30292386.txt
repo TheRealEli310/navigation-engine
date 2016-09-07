@@ -1,0 +1,4 @@
+httpservletresponse sendredirect change method type 
+short question method post sendredirect inherits request change 
+
+sendredirect sends response request method client head request location provide redirect 

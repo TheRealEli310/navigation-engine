@@ -1,0 +1,4 @@
+nosuchbeandefinitionexception qualifying bean type project dao serviceuserdao found dependency 
+problem hibernate spring project add qualifiers change base package doesnt error controller service dao searched problem didnt find 
+
+validate inside package classes problem solving autowirred havent enabled scanning remember isnt scanning jpa stuff add 

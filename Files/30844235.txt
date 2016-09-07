@@ -1,0 +1,4 @@
+jsonserializers single entity jackson 
+found implement serialization method extending overriding method registering custom serialization strategies depending rest request resteasy choose changing programmaticaly fly context set id concise form verbose 
+
+implement special objectmapper manually obtain resource class dont goal achieve href http wiki fasterxml jacksonjsonviews rel nofollow jacksons json views define custom mediatype register serializer type 

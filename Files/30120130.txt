@@ -1,0 +1,4 @@
+tomcat lang classnotfoundexception org springframework web servlet dispatcherservlet 
+spring mvc create maven project add dependency tomcat eclipse luna exception find solution problem solutions found identical href http stackoverflow http stackoverflow didnt wrong pom file dependency web xml 
+
+remove dependency isnt provided tomcat tag maven exporting dependency dependencies provided target system dont exported case lib found tomcat7dir lib 

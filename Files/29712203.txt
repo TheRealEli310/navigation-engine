@@ -1,0 +1,4 @@
+apache web server file size 
+access local apache web server files lets href http foo cats jpg rel nofollow http foo cats jpg dont client image receive data show file size duration data transfer flush file http code 
+
+perform operation returns response response headers important information content case jpg file header things length mime type display file length determine long data transfer call operations time subtract milliseconds operations 

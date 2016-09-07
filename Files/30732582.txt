@@ -1,0 +1,4 @@
+map table cassandra database spark rdd 
+map table written history utilization app table tuples referenced app expressed format expressed retrieved data cassandra snippet strong em problem map data create tuple integrating code snippet doesnt work em strong strong em map appid cpuusage rdd reduce em strong advance 
+
+assuming valid sparkcontext created added spark cassandra connector dependencies project configured spark application talk cassandra cluster href https github datastax spark cassandra connector blob master doc quick start md rel nofollow docs load data rdd idea requires bit plumbing href https github datastax spark cassandra connector blob master doc api md rel nofollow 

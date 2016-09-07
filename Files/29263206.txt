@@ -1,0 +1,4 @@
+pass weakreference observable listeners 
+fixing legacy application problem objects retained list observers class implementing observable properly removing observers lengthy task thought overcome problem calling doesnt implement observer thought creating class called problem cast method creating reference object garbage collected stupid 
+
+make work weak observables em em weak references real em em weak references real observers gcd unregister wrapper objects sort thing reference queues dont modify class shortcut specific single automatically removed underlying real gcd avoid modify appropriately 

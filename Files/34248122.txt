@@ -1,0 +1,4 @@
+eclipse dtp plugin bundle org eclipse core runtime 
+install dtp plugin eclipse recent eclipse version error bundle org eclipse core runtime found bundle org eclipse core runtime found satisfy dependency changing preference settings versions plugin works advice fix chris 
+
+error code requires version minimum version eclipse version development versions eclipse install version dtp intended eclipse 

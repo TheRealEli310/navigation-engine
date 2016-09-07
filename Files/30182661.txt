@@ -1,0 +1,4 @@
+fast switch bits order 
+binary data store reorder data operation byteorder convert bits level fast bitop decode int merge 
+
+fastest em em precompute table values array lookups bit manipulation naturally youll profile 

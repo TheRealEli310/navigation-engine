@@ -1,0 +1,4 @@
+tables sql server database auto created 
+auto create tables database microsoft sql server jpa persistence xml jdbc connection pool glassfish ping succeed additional properties url jdbc sqlserver databasename test instancename sqlexpress user user password password portnumber header message errors build deploy database tables created 
+
+fixed create schemas microsoft sql server management studio database query create schema xxx msg 

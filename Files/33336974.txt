@@ -1,0 +1,4 @@
+android net connectexception failed connect connect failed emfile open files 
+android app basically running async task ping server access token minutes hour app freezes exception logcat app eventually crashes log crash analysis log understand app ui froze due dequeuebuffer failed lock surface exception line tells app keeping files open min ping make server defining client object activity passing client object async task wrote version task defining okhttpclient object async task error code async task inside activity passing client object asynctask constructor idea fix error 
+
+answer question okhttp happening due sdk wasnt correctly spotify android sdk basically creating player object create config add line 

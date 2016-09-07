@@ -1,0 +1,4 @@
+inject maven profile properties file 
+stuck pom profiles theese profiles version inject version properties file specific profile building profiles filter properties building project command 
+
+add section section pom file inside folder files change files encounters defined variables order work propertie file aware variables maven replace defined names names maven structure projectversion replaced tag pom file change version variable profiles run maven command 

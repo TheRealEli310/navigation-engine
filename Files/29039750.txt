@@ -1,0 +1,4 @@
+clone list holds references original list 
+dont copying list works code make list called copy holds references objects original list make string objects unnecessary memory remove items copy list remove reference delete object lists reading 
+
+list references objects em shallow copy em create copies elements create copies references elements remove item list remove reference list reference list intact 

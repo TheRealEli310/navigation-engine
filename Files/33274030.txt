@@ -1,0 +1,4 @@
+assertequals deprecated junit 
+wondering deprecated junit code returns double wrong 
+
+deprecated doubles precision problems method precision loss href http junit org apidocs org junit assert html assertequals double 20double 20double javadoc blockquote asserts doubles equal positive delta assertionerror thrown expected infinity delta nans considered equal assertequals double nan double nan passes delta maximum delta expected actual numbers considered equal blockquote 

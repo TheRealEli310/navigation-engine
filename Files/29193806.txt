@@ -1,0 +1,4 @@
+order annotation processors 
+run dagger lombok project lombok run chance suspected order respective position library jars class path order evidently order run simply live combine aps produced href https bitbucket org twisti daggerlombok src d45cf77dcf0ef6c326f6f3f1ea2879f75f3e58a9 master sscce test case simple amp demonstrate issue comment line uncomment lines app compile lombok notation line creates identical constructor problem lombok run dagger 
+
+lot research talked lombok developers turns javac class loading based hashcode order annotation processors running scenario essentially random whats worse random multiple runs solution issue lombok maven plugin delomboking thing isnt perfect hacky produces working result hopes aid future googlers coming commited href https bitbucket org twisti daggerlombok src 1ac6a57d1eb0eb9b422af337fea96faefc120c1c master working version repo 

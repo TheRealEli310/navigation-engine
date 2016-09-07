@@ -1,0 +1,4 @@
+bytebuddy redefining static method 
+redefine methods bytebuddy direct call cppblockinterceptor produces intended output call method supposed replaced behavior reason 
+
+class loaded chance redefine byte buddy replace loaded class agent running explicitly referrencing invocation work agent href http bytebuddy net tutorial rel nofollow documentation byte buddy explains 

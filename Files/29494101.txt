@@ -1,0 +1,4 @@
+authenticate user programmatically spring data jpa repository 
+create demo project spring data auditing file refers spring data jpa repository expect spring data jpa method authenticate user problem authenticate user programmatically method load user username password authenticate user programmatically method entity implements interface 
+
+assume basic configuration href http spring io guides gs securing web scratch rel nofollow spring security started page authenticate programmatically user put user security context specific case 

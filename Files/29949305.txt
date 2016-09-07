@@ -1,0 +1,4 @@
+role hashcode play comparing objects 
+decided study primary documentation started class method method returns int limited number unique hashcodes generated happen compare strong diffrent strong objects posible 
+
+objects hashcode plays role comparing objects check objects class override define objects class considered equal compare object class greater sorting collection implement override method implement store object key make override method objects keys stored single bucket dont forget override classes create dont references object class equal refer object read equals hashcode methods href http docs oracle javase docs api lang object html equals lang object rel nofollow equals href http docs oracle javase docs api lang object html hashcode rel nofollow hashcode documentation 

@@ -1,0 +1,4 @@
+pl sql object member function method 
+make oracle object wich member function calls method member function static function class object table creation data insert call error ora inconsistent datatypes expected argument position instance oracle type convertible instance user defined class oracle type converted class ol start li inconsistent datatypes expected li ol br action red href http docs oracle cd b19306 b14187 chsix htm babjjfjc rel nofollow http docs oracle cd b19306 b14187 chsix htm babjjfjc information found dont missing wrong 
+
+solution sylvain leroux suggested implement sqldata interface 

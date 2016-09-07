@@ -1,0 +1,4 @@
+recursively create binary tree specific depth 
+create binary tree specific depth code creates binary trees till specific maximum depth creates trees lower maximum depths illustrate problem code method called problem input depth create trees strong strong code creates trees includes trees arent depth strong strong exceptions code wrong correct 
+
+easiest approach create wrapper function calls create tree function function create random free function test needed length depth return call function finds tree correct depth 

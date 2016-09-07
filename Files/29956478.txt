@@ -1,0 +1,4 @@
+android main thread waiting asynctask 
+encryptions show progress dialog running depending number encryptions minutes hours measure battery battery number rounds drain problem main thread isnt waiting asynctask finish encryptions 
+
+blockquote problem main thread isnt waiting asynctask finish encryptions blockquote point background thread place finished work put 

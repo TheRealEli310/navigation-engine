@@ -1,0 +1,4 @@
+execute tests sequentially arquillian testrunner testng 
+arquillian testrunner junit container write sequential tests thing arquillian testrunner testng container 
+
+sequencing test methods dependency chaining testng refer info href http www tutorialspoint testng testng dependency test htm rel nofollow http www tutorialspoint testng testng dependency test htm 

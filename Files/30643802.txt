@@ -1,0 +1,4 @@
+jaxbcontext newinstance string contextpath 
+usage method project package marshal unmarshal classes lies org test customer understanding based href http docs oracle javaee api javax xml bind jaxbcontext html newinstance lang string rel nofollow http docs oracle javaee api javax xml bind jaxbcontext html newinstance lang string 
+
+explanation jaxbcontext class javadoc jaxbcontext instance initialized list colon separated package names package jaxb mapped classes schema derived classes user annotated classes 

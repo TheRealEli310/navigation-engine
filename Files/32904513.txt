@@ -1,0 +1,4 @@
+spring hibernate jpa 
+project plan hibernate spring separate layers projects gradle dependencies br org springframework spring webmvc release org springframework spring orm release org hibernate hibernate core final mysql mysql connector api project user class opinion user class annotations database layer things simple objects getters setters database layer decide store data depends strongly database mongodb mysql tutorials hibernate ended class works annotated class add sessionbuilder class found examples method deprecated href http stackoverflow questions buildsessionfactory deprecated hibernate lost datasource approach datasource system setup br dont open close transactions manually spinning circles work thought throwing hibernate good mybatis approach learn 
+
+add files resource 

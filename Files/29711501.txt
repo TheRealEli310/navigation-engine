@@ -1,0 +1,4 @@
+connect db2 server windows 
+connecting db2 database server piece code works good hostname localhost provide hostname remote server program hangs shows error telnet ping host ip address 
+
+solution simple bit topic ian pointing add port number db2 inbound outbound rules firewall problem follow steps ul li windows firewall control panel li li click advanced settings li li select inbound rules click rule li li select port option type port number add li li repeat steps outbound rules li ul 

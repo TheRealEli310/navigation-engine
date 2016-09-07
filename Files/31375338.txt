@@ -1,0 +1,4 @@
+remove floating decimal point bigdecimal 
+bd1 bd1 applying methods correctly 
+
+convert regex conditionally remove leading exists 

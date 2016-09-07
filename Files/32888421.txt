@@ -1,0 +1,4 @@
+change default date formats struts2 
+developing multilingual struts2 application actions dealing properties default type conversion works time locales change default format specifically dates english locale follow format work strangely works fine case time part struts2 expect dates english locale change expected format conversion sane solution options ul li work inject format file li li changing getter setter pair works em sane solution em li ul fix strong solution strong alternative approach configuration 
+
+found solution problem hand saner posting type converter removed essential parts code working solution 

@@ -1,0 +1,4 @@
+entitymanager injected persistencecontext tomcat8 environment 
+service persist object context face null run persistence xml find xml exist src meta inf persistence xml sources reside src model point run project tomcat web container 
+
+tomcat doesnt support ejb default reccommand href http tomee apache org manual installation html rel nofollow add openejb webapp tomcat full stack application server href https glassfish net rel nofollow glassfish href http www oracle technetwork middleware weblogic downloads wls main html rel nofollow weblogic server 

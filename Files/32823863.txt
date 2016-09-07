@@ -1,0 +1,4 @@
+increase imageview imagebutton size xml 
+increase size imagebutton imageview relative layout attributes success matter size put checked displayed button 32dp lower image resize small enlarge 32dp kinda confused 32px xhdpi image size reason enlarging image made support dpi mdpi hdpi activity belong layout large make large screen 
+
+increase size wrap content width amp height size change width amp height required strong edit strong wrap content wrap image amp increase size imageview size devices put values res values dimens folder normal small amp large devices 

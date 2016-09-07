@@ -1,0 +1,4 @@
+cas related atomiclong class work 
+prior code cas atomiclong class changed single intrinsic line advantage code code work 
+
+reason branch prediction loop high contention cas loop fails branch predictor starts predict execution path stay loop causing lots pipeline flushing cas eventually succeeds speeds loop backoff cas fails speedup href https blogs oracle dave entry atomic fetch add rel nofollow https blogs oracle dave entry atomic fetch add detailed treatment 

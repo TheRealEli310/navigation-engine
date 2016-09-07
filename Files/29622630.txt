@@ -1,0 +1,4 @@
+avoid nullpointerexception empty cell poi 
+values program excel xlsx file apache poi trouble loop encounters empty cell nullpointerexception test cell reading heres piece code brings possibility check cell empty read wont npe advance 
+
+wrap code catch statement href https docs oracle javase tutorial essential exceptions catch html rel nofollow https docs oracle javase tutorial essential exceptions catch html untested code give idea 

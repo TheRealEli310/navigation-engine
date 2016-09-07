@@ -1,0 +1,4 @@
+jpa save transient instance flushing 
+situation student belongs team team students registration time student doesnt assigned team team object student class null force insertion student null team object error ads team database student class team class persistence class 
+
+detach option entity manager entitymanager detach detach parent object main entity object persist merge 

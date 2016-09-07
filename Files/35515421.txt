@@ -1,0 +1,4 @@
+improve algorithm respect time complexity 
+measure time complexity algorithm assumption complexity iterate array array improve 
+
+understand correctly algorithm decides integers equal possibly rotated assumes isnt meant question assuming meant solve problem string matching algorithm href https en wikipedia org wiki knuth e2 93morris e2 93pratt algorithm rel nofollow kmp words find subarray classic problem heres implementation 

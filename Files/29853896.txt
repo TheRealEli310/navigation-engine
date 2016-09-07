@@ -1,0 +1,4 @@
+memory errors imagegetter grab images html 
+writing application display posts website open article immediately 25mb memory load images acceptable reloading article 25mb jump images stored device looked huge amount proposed solution feel recycle bitmaps heres code 
+
+solved memory leak involving storing images youre problem recommend eclipse mat identify memory leak 

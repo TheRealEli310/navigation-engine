@@ -1,0 +1,4 @@
+jackson annotation option remove property serializing 
+good day remove property serializing pojo json class subfielditems class serialize json output subfielditems values property jackson annotation jsonvalue tostring method force comments weird results appreciated 
+
+json invalid removed brace matching closing brace case find href https github fasterxml jackson annotations wiki jackson annotations serialization details rel nofollow annotation blockquote property marker pojo serialization property lang string annotation tostring method blockquote 

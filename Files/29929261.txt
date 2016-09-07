@@ -1,0 +1,4 @@
+invalid plugin yml message enable bukkit plugin 
+working bukkit plugin heres class package heres project structure pom yml run exported jar file bukkit server throws exception fix 
+
+plugin yml file main folder project 

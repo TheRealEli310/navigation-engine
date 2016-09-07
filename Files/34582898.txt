@@ -1,0 +1,4 @@
+android placeautocompleteactivity google places api 
+made simple issue map show screen text search bars top issue click textview keyboard cursor blink textview expected type letter type quickly letters keyboard search box blank cursor return preclicked state link documentation href https developers google places android api autocomplete hl en rel nofollow https developers google places android api autocomplete hl en code simple activity xml file activity xml layout file 
+
+insert api key havent acquired google developers console details href https developers google places android api signup hl en rel nofollow https developers google places android api signup hl en google developers console add google places api list enabled apis project 

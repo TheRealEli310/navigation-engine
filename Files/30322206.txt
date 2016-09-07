@@ -1,0 +1,4 @@
+set application postgres connections 
+tomcat connection pool connections database empty set application app connection multiple applications accessing db 
+
+application connection string br documentation href https jdbc postgresql org documentation connect html connection parameters rel nofollow strong care strong param names case sensitive 

@@ -1,0 +1,4 @@
+gdborig exe stopped working attach javaw eclipse 
+eclipse debug code jni aplication writing tutorial ul li launch program debug mode li li reach breakpoint code calling loadlibrary li li run attach application debug configuration eclipse passing javaw exe program attach li ul point error window gdborig exe stopped working output console bit stuck error message 
+
+solved debug configurations select configuration debug select bottom select legacy attach process launcher debugger selected mingw gdb 

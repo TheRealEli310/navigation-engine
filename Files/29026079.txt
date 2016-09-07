@@ -1,0 +1,4 @@
+split string space delimiter scanner 
+split input sentence based space words working expected output split replace space output suggestions problem referred stackoverflow post href http stackoverflow questions split string space split string space work output 
+
+change href http docs oracle javase docs api util scanner html rel nofollow javadoc blockquote scanner breaks input tokens delimiter pattern default matches whitespace blockquote calling returns em word em br calling returns em line em 

@@ -1,0 +1,4 @@
+gson serialize object util treeset 
+serialize treeset properly order give idea whats working set demo project main goal print json string qdata object strong app strong pre class lang prettyprint override strong qdata strong pre class lang prettyprint override strong ldata strong pre class lang prettyprint override output expected output gson working id expect work highly appreciated 
+
+problem running fact gson serialize map write custom serializer create object register custom serializer read custom serializers deserializers href https sites google site gson gson user guide toc custom serialization deserialization rel nofollow gson documentation 

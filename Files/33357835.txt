@@ -1,0 +1,4 @@
+unable notifydatasetchanged recyclerview nullpointerexception 
+implement loading data cloud method update view custom adapter class main activity code adapter class line time call notifydatasetchanged guess empty strong question strong fix logcat 
+
+initialize list calling methods simply changing blockquote blockquote update existing method 

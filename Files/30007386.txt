@@ -1,0 +1,4 @@
+videoview playing video crash 
+made app android studio plays video view pretty simple work time changed source video changed source console gave error code 
+
+issue line activity context 

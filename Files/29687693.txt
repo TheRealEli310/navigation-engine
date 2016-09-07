@@ -1,0 +1,4 @@
+parse json multiple pojos 
+writing restful webservice receive data format read data jackson gson frameworks easiest pojo structure json request structure pojos pojo mentioned question parse json pojos annotation based approach map json attribute respective pojo attribute framework advance 
+
+figured solution approach posting users complete implementation blog href http javareferencegv blogspot parse json multiple pojos html rel nofollow http javareferencegv blogspot parse json multiple pojos html basically points solution approach ol li jackson annotation jsonignoreproperties make fields pojo mapped json attributes read json mapping order submitter correspondingly mapped fields li li jackson annotation jsonproperty lets map exact json attribute field pojo annotation makes named attributes json pojo mapped li li jackson doesnt provide annotation perform jsonwrapped vice versa jsonunwrapped serialization map price attribute order li ol main class 

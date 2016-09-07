@@ -1,0 +1,4 @@
+concurrency issue locks synchronize method 
+working entrant locks correlate synchronize classes giving unexpected results expecting arraylist programs suggest lock synchronize 
+
+things wrong firstly expect call means expect youre time isnt shared lock instance lock conflicts lock means variable completely unprotected youre periodically corrupted due called multiple threads synchronization similar time reusing instance expect spawn ten threads quickly wait seconds call thread lock block lock waits lock seconds exiting point thread lock waits seconds exits thisll close minute run similar modification fixes 

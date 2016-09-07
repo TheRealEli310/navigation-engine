@@ -1,0 +1,4 @@
+jmx error cassandra driver multiple wars deployed jvm 
+app1 war app2 war deployed tomcat jvm apps context xmls app1 xml app2 xml applications datastax driver dependancies connect cassandra run deployed separately deployed jvm jmx exceptions logs application works functionally concerned error avoid 
+
+wont issues registering clusters metrics mbeans prevent message problem give cluster instances unique names tied application pre class lang prettyprint override prefix mbean myapplication disable jmx metrics alltogether href http docs datastax en drivers datastax driver core cluster builder html withoutjmxreporting rel nofollow withoutjmxreporting href http docs datastax en drivers datastax driver core cluster builder html withoutmetrics rel nofollow withoutmetrics disable metrics reporting 

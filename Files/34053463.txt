@@ -1,0 +1,4 @@
+jax rs jersey path parameter regex simple string 
+match strings regex test href http www regextester rel nofollow http www regextester work fine jax rs path expression doesnt work expression specific jax rs missing 
+
+attempt work anchor quoting href http download oracle otn pub jcp jaxrs mrel eval oth jspec jax rs mrel spec pdf rel nofollow jax rs specification chapter emphasis mine blockquote function converts uri path template annotation regular expression ol li uri encode template ignoring uri template variable specifications li li escape regular expression characters uri template ignoring uri template variable specifications li li strong replace uri template variable capturing group regular expression strong regular expression li li resulting string ends remove final character li li append result li ol blockquote uri templates inside capturing group embed anchors work match 

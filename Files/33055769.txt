@@ -1,0 +1,4 @@
+perform simple arithmetic operation show result jsp page 
+wrap head servlets jsp stuck implementing simple calculator basically input fields operator selection field submit button click submit button perform chosen arithmetic operation values input elements show result page heres method servlet enter numbers input elements press submit redirected address pretty dont result wrong 
+
+action point action servlet jsp 

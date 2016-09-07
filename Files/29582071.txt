@@ -1,0 +1,4 @@
+texture region 2d array sprites drawing small 
+framework generating class drawing depending state problem hes coming ridiculously small noticing split texture regions function doesnt provide width height parameters comparison singular declaration texture region function set size world actor size dont change small assuming sprite size assets class slicing texture works perfectly engine created strong wondering missing add define width height textureregions inside strong strong code snippet strong sprites 512x512 texture height width 85px relevant code code needed elaborated 
+
+size actor size texture inside actor boundaries boundaries low image fit inside contrary analogously set actor make texture set width height btw recommend drawables actors clearer create skin define moves call textures skin 

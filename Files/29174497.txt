@@ -1,0 +1,4 @@
+bind unbind date type attribute datepicker object 
+code birthday property type time localdate belongs class person jpa javafx properties code fails compile compilers error message solve problem strong update strong person class followin code controller class 
+
+easiest thing simply javafx properties class works jpa long property access field access hibernate objects methods make methods final hibernate slightly ideal jpa compliant orm shouldnt problem javafx properties entity reason manage binding code lines work 

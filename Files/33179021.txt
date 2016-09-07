@@ -1,0 +1,4 @@
+stream multithreading 
+code running multiple threads run seperate threads speed work 
+
+href https docs oracle javase docs api util collection html parallelstream accomplish documentation possibly parallel chance return parallel stream imagine cases rare aware fact limitation 

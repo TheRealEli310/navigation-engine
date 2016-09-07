@@ -1,0 +1,4 @@
+jsch ssh connection throws npe initializing reverse tunnel 
+adding reverse tunnel object connection initialization fails stacktrace pre class lang prettyprint override full code connection estabishes successfully publickey authentication remove line ssh user connect local port remote machine snippet pre class lang prettyprint override switched arguments back documents found online remote machine argument localhost success watching remote server connection initiated thrown actual line call ensured local ssh server running local port connect manually ports local mysql server fails stacktrace 
+
+call href http epaul github io jsch documentation javadoc jcraft jsch session html setportforwardingr 28int 20java lang string rel nofollow br href http www jcraft jsch examples daemon html rel nofollow http www jcraft jsch examples daemon html 

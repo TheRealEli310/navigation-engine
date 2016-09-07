@@ -1,0 +1,4 @@
+maven running spring boot tests 
+rest spring boot rest api test run tests manually eclipse maven running application junit test runs fine displays results work find pom file http maven apache org xsd maven xsd result segment testcontroller class src test top testcontroller class annotations whats wrong dont surefire plugin 
+
+isnt controller test default surefire tests named rename class 

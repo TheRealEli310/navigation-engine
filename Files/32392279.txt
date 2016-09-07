@@ -1,0 +1,4 @@
+installed jre jdk eclipse shows javavirtualmachines jdk 
+blockquote exception thread main lang unsupportedclassversionerror unsupported major minor version blockquote looked updated jre jdk 8th version console displays blockquote system library javavirtualmachines jdk blockquote make eclipse run 8th version jdk jre change projects upgrading advance 
+
+eclipse ul li select pull menu windows preferences li li left select installed jres ul li click add browse jdk jre folder li li rename desired change jdk1 jdk1 li li repeat access jdk jre versions eclipse workspace li li check jre em default em projects li ul li li left select compiler ul li set compliance level match default jre li ul li ul projects dont workspace default update project properties hr eclipse em em running default eclipse run jdk jre edit file href http stackoverflow questions jdk path eclipse ini windows path space link provided tarun gupta 

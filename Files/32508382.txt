@@ -1,0 +1,4 @@
+mongo driver 
+href http mongodb github io mongo driver driver started quick tour rel nofollow driver mongo check document exists collection looked href https blog serverdensity checking document exists mongodb slow findone find rel nofollow similar returns finditerable check found provide code query returns dies error correct approach checking existence document strong edit strong answer confirm 
+
+good load document case exists dont load mongocollection count method update case data stored sharded cluster db collection count result inaccurate count orphaned documents exist chunk migration progress safer function href http docs mongodb org manual reference sql aggregation comparison rel nofollow http docs mongodb org manual reference sql aggregation comparison details 

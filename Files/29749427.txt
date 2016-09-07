@@ -1,0 +1,4 @@
+spring integration tcpoutboundgateway destinationresolutionexception output channel replychannel header 
+communicate legacy spring system tcp tcpoutboundgateway process response error destinationresolutionexception output channel replychannel header code kicks legacy listener launches spring boot application struggling figure wrong taking approach suggestions appreciated format problems posting annotations removes ty hr hr 
+
+href http docs spring io spring integration reference html configuration html d4e15192 rel nofollow documentation annotating output channel message handler gateway bean annotation strong strong call context 

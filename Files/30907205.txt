@@ -1,0 +1,4 @@
+jsch working sftp servers 
+question copy href http stackoverflow questions jsch security invalidkeyexception key long alg unresolved figured work jsch library br br problem connect ssh server jsch library server encountered connect jsch establishing connection throws exception stating pre class lang prettyprint override installed unlimited encryption policy problem default jce provider supports dh dsa generation bits stack supports claim br br br dont ditch jsch library due rich feature popularity documentation server jurisdiction br br workaround figured jsch library 
+
+caused href https bugs openjdk net browse jdk rel nofollow bug jce recently fixed upgrading href http www oracle technetwork javase downloads jdk8 downloads html rel nofollow se 8u45 higher solves issue verified jsch successfully negotiate ssh session server bit dsa key 

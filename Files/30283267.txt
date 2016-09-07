@@ -1,0 +1,4 @@
+hashset checks duplicate elements 
+kindly code class defined hashset hashmap inside output true hashcodes means bucket location checking returns true return hashcode output true 
+
+reason hashcode function returns elements hashcode elements bucket hashset equals return true finds bucket case return true alreay contained returns number modulo meant random numbers 

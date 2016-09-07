@@ -1,0 +1,4 @@
+rxjava cache intermediate results 
+developing android client kaltura video platform develop uploading video feature consists steps blockquote ol li create mediaentry em params description em li li create uploadtoken em params strong filename strong strong mediaentryid strong received strong step strong em li li addcontent words bind mediaentry uploadtoken em params strong mediaentryid strong received strong step strong strong uploadtokenid strong received strong step strong em li li uploadvideo em params strong uploadtokenid strong received strong step strong strong videodata em strong li ol blockquote code rxjava api retrofit rest adapter code save strong mediaentryid strong em step em strong uploadtokenid strong em step em em step em undestand save strong mediaentry strong em step em strong uploadtoken strong em step em change code exclude saving data local variables ideal solution 
+
+tuple nest observables 

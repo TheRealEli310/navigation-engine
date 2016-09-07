@@ -1,0 +1,4 @@
+shooting bullet tank 
+writing tank game method called shoot press space tank shoot problem program calls method loop prints end location ball implement loop time calculates dx dy paint method paint location ball adding paintimmediately throws stackoverflow error helping changing dx dy paint method draw ball place overrided paint method line bullet question 
+
+drawing code introduce waits things wrong sleep screen updating positions making screen freeze completely thread drawing things swing sleep thread em em drawn press keys mouse update position bullet calls paint method pseudocode read game event loops href http stackoverflow questions main game loop developing game href http gameprogrammingpatterns game loop html rel nofollow 

@@ -1,0 +1,4 @@
+produce true uuid 
+impression uuid spec required guaranteed true globally unique result unique 99999999999 time time href https www ietf org rfc rfc4122 txt rel nofollow spec blockquote uuid bits long guarantee uniqueness space time blockquote support v3 v4 uuid spec v4 isnt unique v3 implementation results duplicates computer fast edit looping called produce duplicates computer loops faster produce iteration mistaken assuming uuid unique practically unique perfectly 
+
+methods uuid generation kind youre behaving youre static factory retrieve type em based em uuid based byte array generates uuid youve discovered loop passing time uuid gabes advice href http stackoverflow uuid version recommends v4 pointed good realistic case 

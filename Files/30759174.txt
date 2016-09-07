@@ -1,0 +1,4 @@
+jca glassfish jboss wildfly 
+deploy em ear em file em rar em resource adapter working previously gf problem em war em file part ear jboss find resource pre class lang html prettyprint override created element standalone xml seams naming wrong em rar em packaged em ear em deploy em ra xml em resource adapter jndi defined 
+
+problem ra xml packages names properly set glassfish jboss failed fixing factories package fixed issue 

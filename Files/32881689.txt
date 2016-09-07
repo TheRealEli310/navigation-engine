@@ -1,0 +1,4 @@
+spring encrypt decrypt api key properties file 
+h1 original question h1 properties file located tomcat properties file testing located src test resources moment setup properties files loaded xml files strong config xml strong strong test config xml strong access values placing files moment operatingkey passphrase stored properties plane text store encrypted minimize risk access h1 update h1 replace content config xml clear access code propeties files replace strong sunnycars operatingkey key strong strong sunnycars operatingkey enc encrypted key strong encrypted key 
+
+download jasypt1 toolkit href http 20http www jasypt org rel nofollow http www jasypt org run file command encrypt date input property file password encryption key generate output encrypted replace properties file blockquote enc output encrypted blockquote hardcode password class file assign bean key keyvalue static method key class 

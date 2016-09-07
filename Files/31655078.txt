@@ -1,0 +1,4 @@
+analog beanpropertysqlparametersource handle public fields 
+simple model instances save mysql spring jdbctemplate dao saves model objects simple sql framework extract parameters model model pojo public fields similar springs ability work public fields properties model class extending solve problem hope find existing framework strong upd strong implementation based 
+
+mentionned comment reason wanting getter setters code clutter recommend href https projectlombok org rel nofollow lombok typical model class constructed spring getters setters generation builder pattern fields spring service constructor injection creates constructor initialized final fields onconstructor parameter adds spring annotation service dependencies remove clutter 

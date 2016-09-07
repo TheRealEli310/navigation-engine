@@ -1,0 +1,4 @@
+startedit setoneditcommit called 
+mentioned link href http stackoverflow questions tableview editing binding lq tableview editing binding changed bit custom cell factory setting oneditcommit ol li problem commitedit called invoke setoneditcommit invoking setoneditcoommit li li problem setoneditcommit li li problem applied startedit check enters field method invoked li ol missing dont workaround understand whats reason removed binding properties link 
+
+table enters editing state cell return default method op start editing cell text field cell receives focus modifying focus listener text field 

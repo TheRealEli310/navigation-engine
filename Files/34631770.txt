@@ -1,0 +1,4 @@
+spring amqp noclassdeffounderror springframework retrycallback class 
+working distributed web project utilize spring amqp rabbitmq springframework version project added dependencies file pom xml addition place rabbitmq configuration file web xml wrote methods order send receive messages run project faced lang noclassdeffounderror solve problem added dependency project error related lack class tackle problem 
+
+class miss lib general miss obscure class noclassdeffounderror party href https oss sonatype org nexus search classname messagehandlermethodfactory rel nofollow central nexus search classname 

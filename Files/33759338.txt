@@ -1,0 +1,4 @@
+making gui based text adventure game make message boxes update show outcomes 
+added prompts message boxes things stuck forward hit wall facing opposite direction dont change option added isnt showing messages display time make decision buttons change message boxes heres code 
+
+discussin comments question implementing actionlistener tells parts program class method assign buttons actionlistener button method clicked button idea method exists programmatically methods completely unrelated include code room tedious track state game case track room player simple int field games state determine actions tied buttons part method quickly easily solves problem player progress game major downside solution massive code bloat rooms takes lot space code wise rooms method thousands lines code long completely ridiculous ways solve problem involved pick depends largely application 

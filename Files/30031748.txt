@@ -1,0 +1,4 @@
+image plugin internal resources 
+image file plugin resources swt icons folder classpath plugin indicating correct accessing image resource internal resources plugin 
+
+dont forget dispose image 

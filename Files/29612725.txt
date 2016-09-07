@@ -1,0 +1,4 @@
+open activity id listview item click 
+listview opening don pass params onpostexecute onitemclick open activity singleitem id ve worked listitems singleitem pass params onpostexecute onitemclick open activity singleitem id 
+
+depends singleitem activity supposed show opened selected item simply retrieve item onitemclick method pass parameter singleitem order work adapter variable activity information singleitem activity item youd create item class hold information onitemclick adapter youd create itemarray parsing json stream activity easily read selected item intent 

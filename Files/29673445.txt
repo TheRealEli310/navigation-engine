@@ -1,0 +1,4 @@
+auto configure war file eclipse 
+problem war xml file isnt picking class files correctly spring line wrong change file manually srcmainjava bin works correctly decides war xml file rebuilt things break added application dragging project eclipses project explorer tab liberty profile server instance eclipses servers tab menu option eclipse change 
+
+turns correct place change things deployment assembly option click project 

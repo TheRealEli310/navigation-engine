@@ -1,0 +1,4 @@
+org apache cxf ws policy policyexception policy alternatives satisfied 
+write simple integration test junit apache cxf test ws security enabled services run code mymerlinimpl simply passes required merln property values overridden method wrong standard policies fact code jboss eap ws client works 
+
+finally solved adding wss4joutinterceptor jboss interceptor added automatically 

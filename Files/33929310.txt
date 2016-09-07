@@ -1,0 +1,4 @@
+autowiring embedded elastic spring 
+build rest api spring embedded elastic nosuchbeandefinitionexception start application wiring elastic db controller start exception annotations 
+
+means spring knowns class applicable interface reasons ul li class method class li li class picked classpath component scanner li ul spring boot default scan child package hierarchy include code change scanning behavior annotation add package packages class keeping packages application scanned 

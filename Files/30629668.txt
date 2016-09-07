@@ -1,0 +1,4 @@
+getarguments throws nullpointerexception 
+problem sending values fragment answer simple find getint throws nullpointerexception onactivitycreated oncreateview activity main xml fragment list xml bit logcat change code null bundle fragment 
+
+youre adding ul li time inflated static xml li li time add dynamically li ul add arguments pass arguments fragment inflated static xml fragment throws exception suspect replace tag tag container hold fragments added dynamically 

@@ -1,0 +1,4 @@
+lambdas concurrency explanation 
+reading lambdas book em lambdas em richard warburton started discussion concurrency modern cpus eventually related lambdas dont missed surely dont concept class construct suitable concurrent programming 
+
+developer viewpoint lambda expanded compiler code sample provided lambdas basically create anonymous class argument function requires interface unknown method actual java8 implementation differs bit didnt generate ton classfiles implementing classes created runtime binding private method lambda code invokedynamic notes href http wiki jvmlangsummit images 1e goetz lambda pdf rel nofollow goetz mentions caching optimization oppurtunities runtime theoretically optimizing compiler knowledge library implementation clever compilers work source compiler separate runtime invokedynamic part give oppurtunities library level stylistically lambda syntax terse viewed clean option wouldnt tempted insert variables class state 

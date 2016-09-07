@@ -1,0 +1,4 @@
+selenium stored session data 
+search internet answers found clear solution selenium webdriver test verify save login information close browser reopen credentials remain saved session close current session reopen order verify cookie persists page selenium deletes stored session data test case fail prevent selenium deleting stored session data closing browser specific test case run session error 
+
+solution works chrome launch chrome applies browsers selenium creates temporary profile close deletes relaunch browser profile session information profiles create driver time chrome launched profile strong dont strong session information persist session chrome driver dont persist clean cookies command simple log solve problem similar things browsers profile type address bar information current profile usesd href https sites google chromium org chromedriver capabilities rel nofollow 

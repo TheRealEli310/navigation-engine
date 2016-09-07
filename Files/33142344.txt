@@ -1,0 +1,4 @@
+spring mvc restcontroller scope 
+controller time access rest api returns incremented learning wondering return instance created time request 
+
+bean singleton href https docs spring io spring docs current javadoc api org springframework web bind annotation restcontroller html rel nofollow annotation declares spring href https docs spring io spring docs current javadoc api org springframework stereotype component html rel nofollow scope default href http docs spring io spring docs current javadoc api org springframework beans factory config configurablebeanfactory html scope singleton rel nofollow documented href http docs spring io spring docs current javadoc api org springframework context annotation scope html scopename rel nofollow annotation blockquote defaults empty string implies scope singleton blockquote means instance handle requests instance variable request 

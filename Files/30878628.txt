@@ -1,0 +1,4 @@
+concatenate string expression jexl 
+jexl href http commons apache org proper commons jexl rel nofollow http commons apache org proper commons jexl evaluate strings code evaluating expression wrong result concat strings works working concat string expression concatenate string expression jexl 
+
+appears jexl performing concatenation ternary operator performed original expression output yields kind implicit conversion removing ternary operator placing parentheses original expression explicitly express whats happening duplicate output expression placing parentheses ternary operator ternary operator operate output expression occurs ternary operator lower precedence operator jexl matching javas operator precedence adding parentheses proper place force execution operator 

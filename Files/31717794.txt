@@ -1,0 +1,4 @@
+creating rdd retrieving data cassandra db 
+cassandra spark project wrote retrieve data db works pretty write code achieve ul li scala retrieve fill rdd simply li li write thing support list nasty things li ul strong update strong row exception advance 
+
+answer href http stackoverflow questions rdd serializable cassandra spark connector api rdd serializable cassandra spark connector api problem class surrounding code block youve shown serializable 

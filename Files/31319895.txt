@@ -1,0 +1,4 @@
+invalid parameter parameter index range spring 
+spring boot application grabs xml mq maps xml hash map runs update query based xml issue hash map run query hard coding values update table hash map pass query values error invalid parameter parameter index range figure hash map isnt working appears map correctly output screen appreciated formatting couldnt figure separate xml code pages 
+
+jdbcdaosupport returns jdbctemplate method youre calling ul li query isnt expected named arguments placeholders li li map unique argument query li ul href http docs spring io spring docs current javadoc api org springframework jdbc core namedparam namedparameterjdbctemplate html rel nofollow namedparameterjdbctemplate achieve wrap classic jdbctemplate namedparameterjdbctemplate work fine 

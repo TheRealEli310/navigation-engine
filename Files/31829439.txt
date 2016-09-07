@@ -1,0 +1,4 @@
+spring declaration interfaces implementation 
+problem spring separate interfaces findunconditionaldiscountvaluesstrategy findconditionaldiscountvaluesstrategy interfaces implemented class mmfgfindpricingwithcurrentpricefactorystrategy declared spring configuration file interfaces class getter setter getter strong protected strong setter em required em declared class spring configuration file em ref em interfaces implementation class runtime obtain error em org springframework beans factory beaninitializationexception property findconditionaldiscountvaluestrategy required bean mmfgordercalculationstrategy em declare em ref em properties 
+
+typo error property called em findconditionaldiscount strong strong strategy em class em findconditionaldiscount strong values strong strategy em 

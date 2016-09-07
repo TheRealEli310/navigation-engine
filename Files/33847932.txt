@@ -1,0 +1,4 @@
+tomcat jersey mysql operations allowed connection closed 
+implementing aplication deployed tomcat connects mysql database application acts rest api called time data stored retrieved database jersey database handling problem calling app lets day call endpoints anymore message indicating connections expired server xml db connections endpoints connection db retrieving data inserting databaseconnection server xml difference commenting lines server xml delete abandoned connections exception searched internet connetions create properly closed db called paramters construction call connections time skip issue 
+
+connections idle pool long dropped mysql causing error pool test connections giving application 

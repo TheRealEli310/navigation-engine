@@ -1,0 +1,4 @@
+connect jdbc mysql openshift 
+connect mysql openshift tomcat server server working fine connection mysql work found lot web understand solve problem added web xml establish connection connect wrong additional question error messages pushing project directly eclipse 
+
+pre defined mysql data source tomcat cartridges learn href https developers openshift en tomcat ds html rel nofollow https developers openshift en tomcat ds html 

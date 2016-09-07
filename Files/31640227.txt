@@ -1,0 +1,4 @@
+convert bukkit scoreboard score string 
+heres bukkit plugin code thing plugin compiles errors type getscore org bukkit craftbukkit v1 r4 scoreboard craftscore 16f690c wanted output johns score objective kill 
+
+default youll provide override tostring method return 

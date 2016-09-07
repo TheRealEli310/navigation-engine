@@ -1,0 +1,4 @@
+spring mapping url controller view 
+standard spring files netbeans added controller package added model basic information user made files strong registercontroller strong results confused spring manages routing strong web xml strong em em means url strong dispatcher servlet strong insert entries registercontroller work 
+
+gave htm url pattern dispatcher servlet recognize htm requests change web xml controller give methods work method give method find 

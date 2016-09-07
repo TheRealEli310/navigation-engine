@@ -1,0 +1,4 @@
+custom service exceptions thrown axisfault 
+axis2 client reading soap web service issue occurred client stub classes generated wsdl2java packages renamed generation tool isnt causing issue wsdl2java isnt renaming packages classes idea rename packages classes issues string replacement smart web service throws business exceptions cases caught directly calling code happening anymore specialexception client catches axisfault xml response checking detail difference due method populatefaults generated bla strong servicestub strong class class names set strings reflection 
+
+solved string replacement generated stub classes changing entire package company network stubs generation remaining packages bla blo bli rename company network stubs bli company network stubs bla blo bli 

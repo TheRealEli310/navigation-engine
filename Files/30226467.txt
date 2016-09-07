@@ -1,0 +1,4 @@
+hsqldb jdbc driver support resultset 
+playing hsqldb jdbc driver jdk rs looping results works fine rs work feature supported design bug plan access hsqldb spring jdbc template concerned stuck encounter issue 
+
+make resultset scrollable work 

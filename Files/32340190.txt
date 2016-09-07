@@ -1,0 +1,4 @@
+create war file web application project terminal eclipse 
+web application project maven serve tomcat server create war file place webapps directory eclipse export terminal command put war file inside webapps directory tomcat read application guide create war file terminal tomcat read 
+
+pom xml add line parent directory project enter war file generated access project rename paste war file webapps tomcat directory 

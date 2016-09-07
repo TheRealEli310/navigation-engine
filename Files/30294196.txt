@@ -1,0 +1,4 @@
+asynchronoussocketchannel read completing 
+experimenting nio2 running issue heres code issue matter send server completes testing purposes flat format login packet set sending data client client writes data server finishes reading made default buffer size equal buffer size issue functionality disconnect client thread alive absolutely reason print stack trace 
+
+arent sending buffer calling 

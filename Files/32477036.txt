@@ -1,0 +1,4 @@
+navigation button work basic android application custom toolbar 
+problem app toolbar button passes method pressed child activity main activity child activity set manifest file parent child relation defined menu layout file child activity normal button defined appears application running searching internet solution found tips parent child relation manifest file theses hints toolbar button work properly return parent activity proper press back button wich calls method works fine clue missing 
+
+change id back button method mentioned 

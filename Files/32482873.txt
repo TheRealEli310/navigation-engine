@@ -1,0 +1,4 @@
+android custom listpreference items 
+creating custom listpreference back href http www lucazanini eu android display icon preferences comment rel nofollow implemented works add max item listpreference add items appears list click closes listpref dialog return pref screen string values ic pngs items drawable logs showing index error stumped appreciated advance 
+
+problem caused saving position viewholder mark final position field directly onclicklistener 

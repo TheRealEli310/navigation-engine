@@ -1,0 +1,4 @@
+adding iterator arraylist 
+basically improve functionality arraylist loops methods add remove iterator searched found simply add implements iterable main class implemented methods hasnext remove added methods bottom code implement order begin work 
+
+compile update post find errors 

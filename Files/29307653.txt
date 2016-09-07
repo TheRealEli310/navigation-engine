@@ -1,0 +1,4 @@
+serialize deserialize map solr lucene 
+solr facing problem serialize deserialize map solr spring data solr application follow flatten serializes map solr follow run search returned objects field set null deserialization work field recognize key1 key2 part map make derialization work implement custom converter 
+
+time spring data solr automatically prefix values contained map fieldname improvement href https jira spring io browse datasolr rel nofollow datasolr open time em values em requires fieldname order read back values correctly pre class lang prettyprint override 

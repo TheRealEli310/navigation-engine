@@ -1,0 +1,4 @@
+xml related exception occurred compiling jasperreport 
+exception compiling jasper report exception xml file dependencies related jasper pom xml code lot issue solved couldnt find proper support idea 
+
+figured issue days initially issue added dependencies jasperreports depends manually pom dont conflicts jasperreports groovy dependencies dont groovy dont add jasperreport document pages passing data parameters havent jasperreports doesnt community support figure suggest jasperreports library improved 

@@ -1,0 +1,4 @@
+rxjava start observable finish 
+observables generic types observable o1 observable o2 defined o1 oncomplet onnext functions observable finish o2 start tryed observable concat types approach doesnt work 
+
+youre working generic types 

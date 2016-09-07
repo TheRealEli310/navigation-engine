@@ -1,0 +1,4 @@
+jboss manage connection schemas database 
+servlet login database datasource pass jndi default schema set jboss management console connect database schema order texts jboss manage provide schema password code 
+
+standalone xml declare datasources connections picked jndi runtime initialcontext instance 

@@ -1,0 +1,4 @@
+integer object preferred int primitive numeric types 
+understand integer simply wrapper class concern avoiding wrapper micro optimization execution time primitive ints variables question integer object prefer specially programs required great performance great heavy duty algorithms days case double double float float 
+
+prefer primitives wouldnt exist developers made extra effort developing streams support primitive types intstream longstream doublestream wont pay performance penalty multiple boxings unboxings pay streams reference types wrapper classes wrappers cases choice put primitive types directly collection 

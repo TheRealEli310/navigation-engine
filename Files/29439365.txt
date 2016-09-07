@@ -1,0 +1,4 @@
+spring boot configure url prefix restcontrollers 
+spring expert black box hard figure things springs documentation idea order start search spring boot application figure configure unique url prefix restcontrollers static content served root context restcontroller endpoints accessible context api change apps default context application properties isnt showing ignorance servlets mappings contexts types content 
+
+valid point commonly separated applications lets assume handle website serving html css js sort rest api data database top controllers define context inside controllers methods assign rest url instance nice package convention lost em controllers em strong strong remember repeat context single method rest url 

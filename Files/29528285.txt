@@ -1,0 +1,4 @@
+spring dependency injection fails closures 
+working portlet project java8 spring class annotated includes line failure closure deploy webapp error omitting massive stack trace dependencies mvn solution found spring update spring ideas cheers 
+
+turns issue container working liferay older version spring dependencies pom addition property spring jars list means plugin liferays libs older version asm unable parse bytecode classes java8 syntactical features breakage solve rid spring jars set scope spring pom solved problem strong strong liferay doesnt officially support moment meant upgrade spring version 

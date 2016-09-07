@@ -1,0 +1,4 @@
+spark sort element based field 
+javardd person details wanted sort javardd element based age field field sample input output achieve sortby transformation shankar 
+
+ugly scalas case classes handy creating bean record implementing comparable sortby method identity key function pre class lang prettyprint override 

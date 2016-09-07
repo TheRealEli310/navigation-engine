@@ -1,0 +1,4 @@
+spring boot context path 
+sample web application recently spring boot groovy templates didnt find simple provide templates servlet context path static resources urls general inject request servletcontext controller methods thing custom model attribute hack good solution problem 
+
+groovy templates requestcontext object parameter spring view 

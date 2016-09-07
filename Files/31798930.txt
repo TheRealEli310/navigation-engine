@@ -1,0 +1,4 @@
+proxy selenium phantomjs 
+added lines related proxy error run program wrong 
+
+figured runs question 

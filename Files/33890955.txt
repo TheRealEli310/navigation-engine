@@ -1,0 +1,4 @@
+javamail starttls working platforms 
+created send emails startls running windows versions hosted domains works bizzare thing run ubuntu server lts doesnt works firewall blocking application binaries code javamail log windows environment working log ubuntu environment isnt working callstack error version b27 happening 
+
+official aws ses href http docs aws amazon ses latest developerguide send smtp html rel nofollow http docs aws amazon ses latest developerguide send smtp html port smtp tls reason port doesnt works tls enviroments research found href http docs aws amazon ses latest developerguide smtp connect html rel nofollow http docs aws amazon ses latest developerguide smtp connect html default tls port works environments linux windows problem behavior aws ses servers mail problem report aws team 

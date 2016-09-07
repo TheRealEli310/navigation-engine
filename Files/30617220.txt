@@ -1,0 +1,4 @@
+integer range 
+learning programs problem output width bits integer range output 
+
+result crosses maximum values int overflowed href http en wikipedia org wiki integer overflow rel nofollow integer overflow interested read href http javapapers core overflow underflow rel nofollow integer overflow underflow blockquote arithmetic integer operations performed bit precision resultant operation larger bits maximum size int variable hold low bits consideration high order bits discarded msb significant bit treated negative blockquote 

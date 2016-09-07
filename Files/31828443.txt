@@ -1,0 +1,4 @@
+read inputstream calling ioutils copy 
+simply calling ioutils copy input stream avaible read explanation href http stackoverflow questions read stream post copy order read multiple times input stream code resulted working find code verbose id solution 
+
+stated single shot consume read times isnt stream stream buffer solution reflects accurately acceptable thing change store byte array create needed resetting effect slightly easier youre 

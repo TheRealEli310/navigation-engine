@@ -1,0 +1,4 @@
+xpages creating json string large amount document 
+create json string large amount document code range wait till 5min b4 string greated idiea optimise code 
+
+determine time spent code show optimization code snippet basically data structure called document build memory json structure consisting jsonobjects jsonarrays json structure serialized string returned building json structure directly jsonwriter dont json library jsonwriter avoids memory allocations temporary json structure start end creating jsonobjects jsonarrays invoke writer methods hope idea 

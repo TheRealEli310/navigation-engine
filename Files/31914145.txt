@@ -1,0 +1,4 @@
+security issues calling methods reflection 
+working project hosts clients hosts send commands clients sockets determined json communicate works json string client processed suitable method client run clientprocessor json server client server modified send jsons questions ul li running methods processing json li li thinking reflection terribly slow li ul 
+
+ways process json message processing occurs theyll boil ul li parse message li li map message method li li invoke method li li send response li ul reflective call performance wise fine cases invoke method imho open malicious client crash system issuing calls reflection opens correctly map parameters complicated code youve shown question dont reflection define simple implementations understand process parameters em processor em commonly referred controller invoke 

@@ -1,0 +1,4 @@
+extract info activities adapter android app 
+activity displays images grid implements onclick method image send info open activity click construct image adapter manipulate image activity extract image id clicked image inside image adapter adapter work image clicked activity code starts activity 
+
+pass image id constructor custom adapter make youre sending image resource id youre sending row id extras call row id href http developer android reference android widget adapterview onitemclicklistener html onitemclick android widget adapterview 3c 3e 20android view view 20int 20long rel nofollow documentation pass image resource id selected item working passing image id custom adapter image id parameter constructor 

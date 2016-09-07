@@ -1,0 +1,4 @@
+hamcrest byte equal int 
+test case standard asserts hamcrests values apparently equal jvm fail 
+
+href http junit org apidocs org junit assert html assertthat 28t 20org hamcrest matcher generic method primitive types dont work generics case boxed href https docs oracle javase docs api lang byte html equals lang object implementation checks argument type returning immediately isnt hand href http junit org apidocs org junit assert html assertequals 28long 20long case arguments promoted values internally primitive values equal hr boxing conversion works declared boxed boxed call inferred match works 8s improved generic inference youd explicit type arguments make work 

@@ -1,0 +1,4 @@
+find replace hex values string regex 
+sections website users enter long piece text user enter machine dependent characters rendered correctly perform validation check save information range hex values machine dependent avoided check presence highlight characters solve read characters string compare hex range replace highlight regex 
+
+sample code enclose character sequences range 0x3041 0x3096 

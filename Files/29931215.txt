@@ -1,0 +1,4 @@
+libgdx textbutton working json 
+menuscreen class screen set main class display start menu add simple textbutton application run error involving skin json file 
+
+sample skin href https github libgdx libgdx blob master tests gdx tests android assets data uiskin json rel nofollow https github libgdx libgdx blob master tests gdx tests android assets data uiskin json noticed quotations style classes properties values changing file work 

@@ -1,0 +1,4 @@
+jfilechooser showing 
+problem jfilechooser long havent find problem file window showing find problem tested running code window show window showing programming running clue causing problem 
+
+mac picky swing things occurring event dispatch thread documentation invokeandwait href https docs oracle javase docs api awt eventqueue html invokeandwait 28java lang runnable rel nofollow title basically pass runnable swing stuff execute thread invokelater dont wait 

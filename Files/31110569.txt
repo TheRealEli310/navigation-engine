@@ -1,0 +1,4 @@
+nio file working jdk eclipse 
+programe error threads changed jdk compliance level added eclipse ini eclipse installation details lines home home user jdk1 jre library path home user jdk1 jre lib i386 server home user jdk1 jre lib i386 home user jdk1 jre lib i386 usr lib jvm openjdk i386 jre lib i386 client usr lib jvm openjdk i386 jre lib i386 usr packages lib i386 lib usr lib javac versions user jdk1 jre bin version version tm se runtime environment build b15 hotspot tm server vm build b02 mixed mode user jdk1 bin version version tm se runtime environment build b15 hotspot tm server vm build b02 mixed mode user jdk1 bin javac version javac correctly import 
+
+solved recommended things wasnt working finally setting thread hadnt till blockquote project properties build path libraries add library jre system library select workspace default jdk blockquote eclipse installation details configuration show correct numbers explicitly add library project properties 

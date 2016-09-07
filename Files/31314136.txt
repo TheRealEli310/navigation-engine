@@ -1,0 +1,4 @@
+datastax driver mapping order asc desc 
+suppose cassandra columnfamily execute cql query works fine cql console datastax driver mapping cassandra driver mapping accesor exception execute limit case works properly problem related string type character solve advance 
+
+valid cql bind order direction prepared statement accessors limit workaround create separate accessors pre class lang prettyprint override 

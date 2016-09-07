@@ -1,0 +1,4 @@
+method check integer dimensional array 
+method figure dimensional array return code pre class lang prettyprint override checking loop works advised method method case 
+
+method valid href http docs oracle javase docs api util collection html lang object rel nofollow order method convert arrays collections dimensional array suggest loop analyze dimensional subarrays desired approach href https commons apache org proper commons lang javadocs api org apache commons lang arrayutils html int 20int rel nofollow method project shown href http stackoverflow finally perform comparison blocks search desired overhead converting array list stated approach shown code snippet faster 

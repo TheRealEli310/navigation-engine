@@ -1,0 +1,4 @@
+android app crashes dialog box called 
+learning make android apps practicing controls edittext radio buttons dialog boxes user enter info app display info dialog box press save button press save app crashes onclick method set input strings written dialog box happening convert data spinner radio button toggle button string comment dialog box works fine edit text data whats wrong code xml code 
+
+rgrating assigned nullpointerexception calling getcheckedradiobuttonid checked stack trace debugged application fix assign id rgrating xml file call getcheckedradiobuttonid 

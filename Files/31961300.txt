@@ -1,0 +1,4 @@
+dao methods convention overloading change method 
+related href http stackoverflow questions standard naming convention dao methods standard naming convention dao methods href http stackoverflow questions dao class methods naming dao class methods naming questions methods dao classes ide eclipse auto suggest start show start type getuser parameters choose method overloading strong people avoid overloading method names parameters avoiding strong 
+
+proposed naming scheme fails ways conflicting method signatures unclear code requiring verify parameter types names mention potential errors variable isnt type thought 

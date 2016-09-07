@@ -1,0 +1,4 @@
+robolectric asynctasks threads 
+recently started robolectric unit testing android applications stumbled problem places asynctasks background computations update ui depending outcome calculations exectue asynctask run tests check ui correctly update passes reasons parameter run tests tests fail thinking ui updated similarly thread post back ui thread issue 
+
+hours searching href http stackoverflow questions asynctask test doesnt execute thread helped resolve issue simple steps create class shadow asynctasks due appears bug robolectric framework aforementioned thread possibly changing class change work step simply annotate test class works wonderfully 

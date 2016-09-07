@@ -1,0 +1,4 @@
+difference string initializations string string 
+difference initializations ol li li li li ol 
+
+em em minor differences insignificant ol li takes time execute copy constructor lot stuff li li adds empty string string constants pool present li ol differences bad creating strings string constants pool heap 

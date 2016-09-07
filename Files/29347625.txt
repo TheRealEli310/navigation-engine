@@ -1,0 +1,4 @@
+apache storm skipping commandline argument 
+today weird annoying error storm topology builder br problem submit jar file storm cluster skips argument passed main method blockquote submit jar arget storm jar stormzeromq jar wipro bdas zeromq zmqtopology value1 value2 value3 value4 value5 blockquote output blockquote value1 value3 value4 value5 blockquote combination number arguments type arguments skipping argument br wondering missing br br 
+
+amount debugging find strong windows machine strong reproduce error windows machine versions storm linux machine command line parameters working perfectly br jira ticket raised bug href https issues apache org jira browse storm rel nofollow https issues apache org jira browse storm br strong update bug fixed windows storm cmd version strong 

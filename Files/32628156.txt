@@ -1,0 +1,4 @@
+web application connect mysql sql server 
+springmvc web app running perfectly tomcat server alongside mysql store data database sql server hosting wondering spring mvc project capability simultaneously mysql connection sql server connection advice copy contents mysql sql instance interval 2h 
+
+create datasources respective drivers connection credentials work fine 

@@ -1,0 +1,4 @@
+set hibernate hbm2ddl auto spring annotations pure 
+setting spring annotations amit lot cleaner make projects xml free ps shouldnt important running heroku 
+
+added class datasource fixed issue full href https github arose13 heroku spring postgres rel nofollow https github arose13 heroku spring postgres strong edit ps strong line check href http stackoverflow questions hibernate hbm2ddl auto values stackoverflow question figure isnt 

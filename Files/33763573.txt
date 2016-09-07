@@ -1,0 +1,4 @@
+spring beancreationexception error creating bean 
+problem spring configuration based configuration deploy run app returns error strong pom xml strong strong webapplicationinitializer strong strong rootcontextconfig strong strong appsecurityconfig strong strong servletcontexconfig strong 
+
+solved problem enabled spring bean definition profiles command line properties dspring profiles active test init parameter onstartup method webappinitializer class href http www mkyong spring mvc spring mvc set active profile rel nofollow article details nyavro support 

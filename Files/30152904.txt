@@ -1,0 +1,4 @@
+log4j junit tests 
+add logging selenium tests implemented log4jframework works placing logs console file junit test framework include test date time filename logfile standard convention prepend number file file exists log4j properties file found online relevant daily rolling files generate file logs time run unit test 
+
+understand correctly achieved combining ul li junit method rule give current method li li creating log4j appender runtime configuring method obtained obtained li ul specifically create custom junit rule chose extend place rule inside test class rule simply field test carrying annotation called imaginative admit order log test method call run test creates files directory content file 

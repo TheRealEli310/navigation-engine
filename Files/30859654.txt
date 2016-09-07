@@ -1,0 +1,4 @@
+call method simple method ofbiz 
+call method simple method pre class lang html prettyprint override description field returning description updated encoded thing 
+
+setting description return string pre class lang html prettyprint override strong encodestring strong method return encoded string set return field ret field encodeddescription set description pre class lang html prettyprint override 

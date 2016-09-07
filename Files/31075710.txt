@@ -1,0 +1,4 @@
+weblogic context path module error 
+facing annoying problem history ol li test env deployment working fine li li made deployment didnt work solution required v12 uninstalled installed li li installing version completely deleted folder created back scratch li li installed weblogic silent mode created test domain admin server single stand managed server domain clusters numeraous managed servers li li made deployment weblogic givinig error li li instructions mentioned href http stackoverflow questions weblogic application moduleexception context path luck btw application configuraion weblogic console failed find link li ol dont information internet solve problem ps application works fine weblogic environments edit adding config xml edit adding weblogic xml 
+
+figured wrong logs problem wasnt context root weblogic wasnt find hibernate validator bug oracle released interim patch bug applied patch problem solved 

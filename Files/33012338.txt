@@ -1,0 +1,4 @@
+multiple setadapter listview 
+heres code problem works part start app find result setadapter method achieve result setadapter methods 
+
+add objects list create adapter set multiple adapter listview create custom array adapter create person object item xml call activity br adapter mycustomadapter carriersummaryactivity nomi layout item mainlistview setadapter adapter 

@@ -1,0 +1,4 @@
+jdbc driver loading apache jmeter jmeter properties file 
+apache jmeter based test tool previously sybase database connect test tool easily connected strong jconn3 b26564 jar strong defining jmeter properties strong em user classpath jar sybase jconn3 b26564 jar em strong running testtool jar load connect sybase database requirement changed connect application strong oracle 11g strong database testtool package strong jar strong folder oracle jar strong ojdbc14 jar strong compatible connecting oracle database eclips actual problem strong jmeter properties strong file dont default oracle jar path added sybase adding manually restarted strong apache strong picking ojdbc14 jar error testtool log strong em fatal databaseoperations exception oracle jdbc driver oracledriver em strong test cases failing connect database alternate load jdbc jar dont code access change code 
+
+answer question copied ojdbc14 jar lib jmeter restarted apache solved problem 

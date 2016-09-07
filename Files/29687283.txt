@@ -1,0 +1,4 @@
+sqlite speed row insert android app 
+application inserts rows method problem method takes seconds execute long simple row insert change method vastly speeds execution time inserts 
+
+wrap thing transaction transaction insert means pulse disk insert slow ul li dont allocate fresh pass loop li li rid local variables case optimized li li efficient ways converting number string li li experiment compiling plain sql statement href http developer android reference android database sqlite sqlitedatabase html compilestatement 28java lang string calling li ul happy traceview determine rest time spent 

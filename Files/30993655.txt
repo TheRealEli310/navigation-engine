@@ -1,0 +1,4 @@
+write rdd textfile apache spark 
+exploring spark batch processing running spark local machine standalone mode convert spark rdd single file final output savetextfile method working partition single file final output strong update strong approaches null pointer exception exception shankar 
+
+method save single file code method thing shuffle expensive coalesce avoid shuffle 

@@ -1,0 +1,4 @@
+avoid creation object wrapper type moxy jaxb json 
+moxy jaxb json objectelement stringelement marshalled moxy creates wrapper object fields typed object strong objectelement strong strong stringelement strong strong demo strong launching strong demo strong heres output configure moxy jaxb make objectelement render stringelement object avoid creation object wrapper em type em em em properties 
+
+annotation render objectelement stringelement output href https github andreasaumayr stackoverflow blob master json moxy src test aumand stackoverflow question30646707 jsontest rel nofollow test class verify correct behaviour edit question updated xmlattribute switched combination type attribute class declared 

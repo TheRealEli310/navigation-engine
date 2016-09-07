@@ -1,0 +1,4 @@
+aws dynamodb android development put item table dynamodb 
+problem items dynamodb table code wrote apps crashed lost codes references additem method mainactivity logcat error 
+
+reason error library aws sdk dynamodb isnt exported apk eclipse check project properties build path order export dynamodb document api offered aws sdk unavailable aws sdk android plan sdk android aws sdk android fully tested android optimized android terms library size method count number performance href http aws amazon mobile sdk rel nofollow http aws amazon mobile sdk information 

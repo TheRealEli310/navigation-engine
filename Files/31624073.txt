@@ -1,0 +1,4 @@
+purpose suppresswarnings hiding eclipse 
+programming href http stackoverflow answer found list values strong suppresswarnings strong annotation figure usage strong hiding strong 
+
+href http www xyzws javafaq variable hiding shadowing rel nofollow xyzws blockquote class declare variable inherited variable parent class hiding shadowing inherited version overriding variables blockquote hiding basically means youve created variable variable inherited scope warning letting youve case needed access inherited variable local variable hides eclipse warn case needed original variable 

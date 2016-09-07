@@ -1,0 +1,4 @@
+thread runnable asynctask life cycle 
+understand activity destroyed scenario started activity user hits home button called triggering gc thread asynctask chance finish run till completion scenario 
+
+strong run strong problem reference killed activity thread asynctask leak problem solve make long running tasks synchronized ui youve bigger task id suggest spin href http developer android guide components services html rel nofollow service easy handle android context 

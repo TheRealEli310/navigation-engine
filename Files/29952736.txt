@@ -1,0 +1,4 @@
+create custom comparator sort numbering system 
+code sort items list number appears period numbers equal number compare numbers equal return comparator implement compiler complained needed add compare method override comparison terms returned understand equal returns returns greater terms coding lost program sort 
+
+problems code ol li raw types comparator means comparing method declared compare make comparator strings comparing method li li calling splitting dot character regex regex represents character line separator start array empty elements cleared removes empty trailing elements info href http stackoverflow http stackoverflow solve problem escape instance li ol cover main problems code create nice solution avoiding sorting instances classes br advantage approach parse string int time compare strings costly store parsed version array reuse needed br class implement provide default comparing method code 

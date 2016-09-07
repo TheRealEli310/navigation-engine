@@ -1,0 +1,4 @@
+jdbc nullpointerexception resultset column retrieval 
+heres code aims information database display jsp page whats error fields properly declared parameter block works doesnt mysql eclipse heres stack trace problem 
+
+connection values rs obtaining rs2 corrected code rs extract values connection st object obtain rs2 

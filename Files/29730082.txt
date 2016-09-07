@@ -1,0 +1,4 @@
+jrebel monitoring class folder deploying 
+starting wl jrebel folder monitor message placing class file folder loaded wl part classpath api jar addition added classpath classes folder package structure api jar root api jar rebel xml pointing classes folder starting wl monitoring classes folder placing class file classes folder jrebel reloading advice 
+
+jrebel writes classes making reloadable log lines instrumented class package classname path1 package classname class file change detected log line event change path2 package classname class path1 path2 usage class jrebel reload class print log reloading class package classname path1 path2 finetune rebel xml idea process breaks continue 

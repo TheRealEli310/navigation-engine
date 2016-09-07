@@ -1,0 +1,4 @@
+sling service sightly page javascript 
+sling service created call service sightly javascript chances users wont javascript accessing service call service 
+
+api requires provide search component class implements wcmuse interface search component service actual results datamodel sightly template official documentation helpful achieve goal href https docs adobe docs en aem develop sightly api html rel nofollow https docs adobe docs en aem develop sightly api html details 

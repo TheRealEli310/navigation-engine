@@ -1,0 +1,4 @@
+problems configure hibernate postgressql 
+hibernate configuration setup test application problems tutorial href http www laliluna de articles persistence hibernate hibernate tutorial html rel nofollow http www laliluna de articles persistence hibernate hibernate tutorial html wrong log configuration class mapping 
+
+check application server file logs warn blockquote href http www hibernate org dtd rel nofollow http www hibernate org dtd blockquote blockquote href http hibernate sourceforge net rel nofollow http hibernate sourceforge net blockquote check xml valid 

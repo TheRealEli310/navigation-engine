@@ -1,0 +1,4 @@
+messagebodywriter found media type application json 
+making small restful service jetty maven build tool call method access json representation object messagebodywriter error method question gtfsrtfeedmodel gtfsrtfeedmodel maven file includes jetty dependencies similar questions resolved adding required dependencies maven file figure missing appreciated strong edit jetty code added strong jetty code 
+
+href https jersey net documentation latest deployment html deployment autodiscoverable rel nofollow auto discoverable feature registers works wit embedded jetty register register add arbitrary number providers separated comma web xml jetty code registers required marshal unmarshal pojos json href https jersey net documentation latest message body workers html rel nofollow jax rs entity providers continued href https jersey net documentation latest media html rel nofollow support common media type representations 

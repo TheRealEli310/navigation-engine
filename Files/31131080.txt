@@ -1,0 +1,4 @@
+display character array jtextfield 
+create hangman game dashes display user click correct button letter replace dashes worked console output data changed gui wouldnt work matter jtextfield wont accept character array experienced months coding find solution problem 
+
+pass method dashes array set char textfield convert char string edit hr replace exiting text set text show array chars append string throw loop loop string append inside loop good 

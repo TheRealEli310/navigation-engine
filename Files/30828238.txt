@@ -1,0 +1,4 @@
+control android webview activity change screen orientation 
+made screen orientation change web view reach home page automatically wanna make web view activity prevent restart activity made screen orientation change poor english 
+
+load url null 

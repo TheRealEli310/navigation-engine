@@ -1,0 +1,4 @@
+calling custom jsondeserializer jsondeserializer 
+invoke custom jsondeserializer figure jsondeserialize annotations entities deserializers alicedeserializer receives json input invoking bobdeserializer alicedeserializer strong automatic mechanism strong injecting deserializer autowired 
+
+general writing custom deserializer make serialize parsing field automatically call deserializer object exists code deserializing test code 

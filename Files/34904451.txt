@@ -1,0 +1,4 @@
+glassfish php work server apache 
+make bridge php file application written execute href http piwik org rel nofollow http piwik org written php server php running access browser php directory incoming traffic redirected apache glassfish application server idea servlet execute php files write php output servlet response problems accomplish execute php cli act browser parameters pass php php read write cookie session 
+
+youre apache proxy traffic id exclude traffic piwik serve directly file system pass environment variables complicates lot stuff youd proxy response back browser apache support dont implement proxy application directly apache exclude directory proxied 

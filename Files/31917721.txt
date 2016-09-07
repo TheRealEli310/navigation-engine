@@ -1,0 +1,4 @@
+error org springframework web servlet pagenotfound handlehttprequestmethodnotsupported 
+link href http o7planning org web fe default en document simple login web application spring mvc spring security spring jdbc rel nofollow link create login application maven project iam running application href http localhost springmvcdemo login rel nofollow http localhost springmvcdemo login redirected link href http localhost springmvcdemo spring security check rel nofollow http localhost springmvcdemo spring security check iam error console iam error message browser hr apache tomcat strong edit strong login jsp spring security read answers stack overflow dint find solution 
+
+johnnyaw suggesting amp net found answer implement csrf token login page added lines login page worked properly 

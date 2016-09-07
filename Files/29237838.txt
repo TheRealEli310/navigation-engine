@@ -1,0 +1,4 @@
+android access servlet asyncpost task response fellow classes 
+app connected means asyncpost task task returns string client representing json object serialized works fine problem unable access servlet response message class instantiating call project structured servlet client created classes store data tour class tours class client side receive aforementioned gson object deserialize client calling problem receive pointing reasong preventing access newly received tours object classes 
+
+problem thinking code runs serially stuff returned callback sends data 

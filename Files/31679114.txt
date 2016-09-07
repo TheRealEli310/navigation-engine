@@ -1,0 +1,4 @@
+send data multiple threads single thread 
+coding socket server connects arduino turn send receive data shown socket documentation set server open thread connection question send data socket threads main thread socket constantly open data thread running suggestion update goal server send commands arduino turn ligh receive data sensors obtain data sensors connected individual threads send single 
+
+sharing data threads tricky correct answer depends case suppose searching highest performance easiness case recommend synchronized collections maps lists queues class good fit em concurrentlinkedqueue em create synchronized proxies usual collections factory methods collections class synchronize access option overkill database memory databases h2 case suggest lower amount shared information lowest level raw data separate thread em threadlocal em variables synchronize aggregation 

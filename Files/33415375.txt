@@ -1,0 +1,4 @@
+hbase exception thread main lang noclassdeffounderror 
+execute basic hbase hortonworks sandbox exception executing program based error set hadoop classpath hbase env sh error 
+
+manually adding jars classpath directly command hbase classpath recursively search hortonworks hadoop folders finds required jars sandbox 

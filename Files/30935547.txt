@@ -1,0 +1,4 @@
+pass parameters appender log4j run time 
+configured strong dailyrollingfileappender strong log4j xml run time project ul li pass path log file specific subproject li li dont pass path vm arguments li li customized dailyrollingfileappender added method set path li li access dailyrollingfileappender main method project li li modify add parameters existing dailyrollingfileappender li li log files adopt path log file passed parameters li ul 
+
+ul li removed creation dailyrollingfileappender xml added programmatically setting filepath li li file path set commanline arguments working properly li ul 

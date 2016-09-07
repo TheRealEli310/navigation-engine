@@ -1,0 +1,4 @@
+difference temporalamount temporalunit 
+write piece code time arithmetic realize implement differentways lets simple code result confused applied efficient make arithmetic operations advance 
+
+handle fixed length periods hours minutes seconds days assumes hours day months month varies length common implementation represents years months days separately personally recommend ul li unit method easy read li li youre represent logical calendar amounts li li youre represent fixed length amounts li ul heres differ wouldnt worry efficiency point benchmark test options 

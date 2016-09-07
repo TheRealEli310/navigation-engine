@@ -1,0 +1,4 @@
+maven vaadin build war correct 
+compile web app tomcat7 vaadin maven themes widgetset eclipse files pom xml 
+
+move files webcontent src webapp made work 

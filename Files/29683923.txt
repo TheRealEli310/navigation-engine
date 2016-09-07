@@ -1,0 +1,4 @@
+clojure code slow compared alternative 
+tl dr code bellow slow optimize piece code speed purpose transform array size size operations details transformation important speed primitives typically 70ms transform call written average call takes lt 2ms wow fast wow clojure slow explain naively id expect clojure produce code bytecode pretty close javas ints hints wrong 
+
+closer top settings detect errors warn boxed clojure beta1 important things changed ul li replaced areduce problem areduce doesnt primitive type arrays writing loop leverage hints hint body areduce work tend prefer explicit loops primitive math li li long hints needed clojure supports primitive long param return int correct primitive conversions inserted needed functions primitive int overflow semantics needed li li rem primitive ops mod semantics youre source boxing li li int array ways making arrays youre li ul possibly combine loops improve performance 

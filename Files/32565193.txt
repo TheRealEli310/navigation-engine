@@ -1,0 +1,4 @@
+define access rules classpath entries maven pom xml file eclipse m2e 
+order avoid illegal access warnings jfxrt jar manually changed classpath file include access rules strong wanted classpath entry strong execute pom xml file tag strong accessrule removed strong entry strong classpath entry produced pom xml m2e strong information access rules included pom xml file modify pom xml file produce wanted classpath file ul li configuration maven compiler plugin li li extra maven plugin modify classpath text file li li address pom xml file write feature request m2e li ul snippet pom xml file pom packaging strong curent pom xml entry compile phase strong 
+
+found workaround repair classfile steps required ol li add maven antrun plugin section build plugins pom xml file replace text classpath file li ol ol start li m2e execute plugin m2e ignore define lifecycle mapping build pluginmanagement section pom xml file li ol 

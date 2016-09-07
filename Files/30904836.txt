@@ -1,0 +1,4 @@
+implement application console parser 
+write application program console interface dont run program console command time parser object parses commands options user structure similar idea console application type commands add assigned parserargs command string passed consoleparser dissected searched valid commands command valid options arguments parse method consoleparser return method method main arguments method add string foo arraylist console type add foo passed parser return main kind instruction add method arraylist called argument foo easily arraylist simplicity 
+
+question simple solution elegant sketch elegant solution define functional interface interface method returned parser input execute method define console commands add command parse function add consoleparser program written add simple add string list numbers actual parseadd method context existing list simple 

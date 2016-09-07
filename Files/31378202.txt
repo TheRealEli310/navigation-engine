@@ -1,0 +1,3 @@
+search attribute parent node child node attribute 
+h2 strong short version strong h2 search attribute parent node attribute values child nodes hr h2 strong long version strong h2 part xml file check file xpath request recive nodelist nodes childs xpath result nodes code doesn work beacause output comment text output key printed values childs search nodes strong edit strong delivers correct delivers weird strong edit strong attributes attributes recived line 
+

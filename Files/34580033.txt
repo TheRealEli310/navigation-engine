@@ -1,0 +1,4 @@
+spring io autowired blank final field initialized 
+assume pretty basic question flavors questions error results added nuance spring beginnings rest ful webapp written spring connect database entity named workspace spring injection bean correct terminology save instance workspace entity error repository variable compiler complaining initialized attempting run app yields result instance repository object controller order save operations 
+
+final field contradictory variable initialized construction time spring construct object leaving field null default spring reflection initialize field bean type workspacerepository final fields autowired constructor injection injection 

@@ -1,0 +1,4 @@
+creating simple commissions calculator 
+creating simple commissions calculator input final sales price infinite amount sales end prints total amount commission base pay rate initial code run program error code appears error code lend 
+
+program expecting integer input exception thrown float char input variable 

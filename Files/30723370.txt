@@ -1,0 +1,4 @@
+lang nosuchmethoderror javax ws rs core application getproperties ljava util map 
+deploy rest application jersey strong strong maven glassfish deployment application runs eclipse tomcat error deploying glassfish admin console strong pom xml strong strong web xml strong 
+
+looked issue external glassfish ee compatible running app eclipse ee compatible docs href http docs oracle javaee api javax ws rs core application html application class doc ee6 href http docs oracle javaee api javax ws rs core application html application class doc ee7 getproperties method introduced ee simply upgrade glassfish version compatible ee assuming breaks good 

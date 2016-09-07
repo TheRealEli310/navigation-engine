@@ -1,0 +1,4 @@
+sorting unsorted array stacks 
+question answer construct sorting algorithm stacks labelled single double variable called auxiliary variables loop counters algorithm assumes stack collection unsorted data end algorithm stacks data sorted increasing order figure algorithm figure life 
+
+simple program values array print command console 

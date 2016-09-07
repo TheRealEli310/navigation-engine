@@ -1,0 +1,4 @@
+spring data jpa query dsl entityclasses generating 
+heres gist pom xml query dsl version run mvn clean install exception message occurs gist class model repo project entity classes generated fix 
+
+conflicts mvn apt plugins change heres 

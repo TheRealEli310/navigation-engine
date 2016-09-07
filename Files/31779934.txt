@@ -1,0 +1,3 @@
+restrict user selecting items checkbox listview android 
+searched find solution works situation custom checkbox adapter extending arrayadapter holds food objects food attributes boolean selected string listview loads items selected default user unselect select options limit choices 
+

@@ -1,0 +1,4 @@
+create android studio library fabric sdk 
+integrated twitter br create reusable component library fabric sdk android studio fabric plugin twitter developer site br add sdk android studio project library add sdk android studio library project 
+
+define classpath projects usual strong add dependencies library module strong suspect strong apply plugin app module strong design fabric application id libraries dont edit due manifest merging api key meta data crashlytics librarys manifest edit page href http support crashlytics knowledgebase articles library subproject gradle rel nofollow http support crashlytics knowledgebase articles library subproject gradle 

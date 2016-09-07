@@ -1,0 +1,4 @@
+spring updating sessionattributes values 
+store data inside session attribute experiencing weird issues update spring boot created test controller describe issue call methods expect output session ids excluded session ids included 
+
+colleague suggested approach work created class hold data controller autowire object share data controllers thing autowire annotation object controller values 

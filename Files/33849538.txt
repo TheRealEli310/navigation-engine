@@ -1,0 +1,4 @@
+collectors lambda return observable list 
+collectors return observablearraylist 
+
+created static factories href https docs oracle javase javafx api javafx collections fxcollections html rel nofollow class collects stream wraps inside compile eclipse mars compiles fine possibility create custom collector advantage elements directly collected inside noted louis wasserman href http stackoverflow questions collectors lambda return observable list noredirect comment55464064 comments expression rewritten simply 

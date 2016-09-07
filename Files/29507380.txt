@@ -1,0 +1,4 @@
+mapping resources dispatcher servlet resin sever 
+strong dispacter servlet xml file deploy project resin pro loads index page content fails load css files images stored staticresources folder strong strong mapp static resources folder request patter resources redirects request static resources folder staticresources folder strong em myspringproject src main webapps directory em 
+
+finally found solution deployed spring webapp webapps folder resin directory realised mapping tag strong strong work deployed spring app strong resin server strong strong tomcat strong solved creating war file project extracted war file desktop contents war file em webapps root em webapps folder folder resin directory index page jstl tag include external stylesheet works 

@@ -1,0 +1,4 @@
+error passing arguments activity fragment android 
+issue passing arraylist activity fragment methods appears code passing oncreate method instanciating fragment executes fragment code instantiating pull arguments content view referenced code called finally stack trace advance 
+
+couple hours working bundle data navigationdrawerfragment successful errors realized reference bundle pass data add parameter pass mainactivity navigationdrawerfragment successfully logged array passed update data navigationdrawer times initialization add function update data navigationdrawerfragment mainactivity running clicking drawer selections update tested works move call function order populate navigation drawer menu update title activity tested works recommend values passing full class files strings mainactivity navigationdrawerfragment strings xml 

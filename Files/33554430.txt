@@ -1,0 +1,4 @@
+save room reservation angularjs spring hibernate 
+scenario strong reservation strong booked user specific room reservation entity properties reservation entity takes user room entity strong attempting save reservation database strong running saving problem incorrectly passing user room objects point figure problem spring restcontroller method angular controller angular factory service finally request payload content ran validator checked update mess errors returned log4j posting reservation strong issue start end dates passed strong 
+
+error message specific default jackson map dates iso youll annotate property question jackson format work 

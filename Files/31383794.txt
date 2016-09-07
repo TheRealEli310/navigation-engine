@@ -1,0 +1,4 @@
+running flume agent custom source 
+configure flume agent custom source href https github cloudera cdh twitter blob master flume sources src main cloudera flume source twittersource rel nofollow run flume agent command blockquote flume ng agent conf conf conf file conf twitter1 conf twitteragent blockquote unable start flume agent shows error message strong command prompt reply strong strong configuration file strong 
+
+youre providing wrong twitter4j library lang nosuchmethoderror blockquote twitter4j twitterstream addlistener ltwitter4j streamlistener blockquote current version flume linked twitter4j make dont versions twitter4j lib directory assume flume twittersource works reasons reimplementing version 

@@ -1,0 +1,4 @@
+gson deserializing json data 
+weather information yahoo apis json href https query yahooapis v1 public yql select 20from 20weather forecast 20where 20woeid 20in select 20woeid 20from 20geo places 20where 20text 3d 22rhodes 2c 20gr amp format json amp env store 3a 2f 2fdatatables org 2falltableswithkeys rel nofollow json dto interested element read data de serialized dto null sense formatted dto properly map json pojos edit code deserializing 
+
+json yahoo complex easily mapped simple pojo write huge pojo fields nested json elements parse extract specific elements json code walk elements names forecast element reached string extracted parsed usual object mapped list forecast pojo generally speaking mapping json wide sphere libraries provide ways achieving simple dirty complex reliable 

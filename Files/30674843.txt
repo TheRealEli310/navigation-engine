@@ -1,0 +1,4 @@
+android instance variables 
+instance variables preferred local variables vice versa instance declared top class referenced declared method needed wondering large difference memory usage instance variable long activity cleaner instantiate method 
+
+prefer local variables class variables day lot instance variables bloats class importantly strong youll find situation variables initialized holds valid strong working local variables helps make code thread things cached ul li views layout surprisingly costly view method cache li li database connections significant costs attached opening closing strong strong dont laying activity conceal class make class responsible handling opened resource li ul drive making methods dont manipulate objects state passing parameters make methods static poor design decisions 

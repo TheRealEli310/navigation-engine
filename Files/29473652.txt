@@ -1,0 +1,4 @@
+android google map make marker sticky 
+marker code mapfragment marker stick position means marker center position map move drag map marker shouldnt moved marker 
+
+add listener user pans map set marker center overlaying marker icon real marker defined xml layout location user sets location 

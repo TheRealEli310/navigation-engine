@@ -1,0 +1,4 @@
+delete previous bufferedimages graphics stack 
+problem simple understand jpanel inside jframe order display graphics drawformula method display 3d points screen perspective projection everytime drawformula reaches end recall draw shape dont image flickering problems dont paintcomponent method call drawimage method panelg getgraphics method jpanel runs fine problem amount time stops rendering list bufferedimages holds everytime call drawimage remove previous needed images stack advance 
+
+stops rendering due stackoverflow unconditioned recursion code end drawformula stackoverflow point flickering solve problem aswell 

@@ -1,0 +1,4 @@
+gson deserialize primitive array 
+simple json deserialize simple int array custom deserializer throws works expected output 
+
+lets rewrite equivalent form expressive javadoc states blockquote invokes default deserialization object invoked element received parameter method result infinite loop turn call custom deserializer blockquote worked youd stackoverflow hands didnt work called pseudo code time recurred json form json array expecting json object attempt youre extracting test json array feeding instance havent registered effect youre invoking supported box return elements expected hr simpler solutions define simple pojo type deserialize 

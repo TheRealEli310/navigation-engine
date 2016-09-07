@@ -1,0 +1,4 @@
+android picasso loading images 
+picasso fetching images server displaying viewpager strange kind error images shown loading image statically showing images loading server disappeared strong viewpageradapter strong 
+
+finally found solution picasso problem lazy loading fetching images loading images asynchronously displaying load images solution uil universal image loader solved problem 

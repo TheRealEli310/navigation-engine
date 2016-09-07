@@ -1,0 +1,4 @@
+apache spark communication 
+spark guidance whats typical mvc application communicates spark simplify things lets count words file provided request server initial approach open context implement transformations computations class inside mvc application means runtime uber jar spark core problem ul li uber jar weights 80mb li li facing problem akka version href http stackoverflow questions apache spark akka version error build jar dependencies apache spark akka version error build jar dependencies li li shade solve feeling li ul provided scope maven ant application suggested page jar implementation devoid spark libraries spark submit time receive request guess leave results missing middle road approach 
+
+spark submit time kind heavy weight id recommend long running spark context sort middle road option em em job ibm spark kernel zepplin spark job server ooyala 

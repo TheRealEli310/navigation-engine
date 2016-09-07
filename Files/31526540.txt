@@ -1,0 +1,4 @@
+picasso custom listview 
+beginner android image google places api custom listview picasso text problem attach image url target null error comments suggestions appreciated custom listrow places layout xml async postexecute code logcat appreciated 
+
+problem attach image show image list move attachment adapter create create purpose adapter list beware performance code bad load image ui thread 

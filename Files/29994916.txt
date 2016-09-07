@@ -1,0 +1,4 @@
+problems mapping objects model dto 
+mapping models set em dtos em problems mapping complex types error convert method deep solve question convert em efficiently em strong em em strong hr em code em em code em 
+
+alternative approaches jump mind require change preface situation converting dtos deep recursive conversion bottleneck performance requirements scale large bottleneck personally recommend dividing work multiple servers started worry performance level detail em em inefficient performance rarely intuitive confirmed conversion bottleneck alternative separate classes dtos approaches class dto underlying entities approaches dto parent class entity class child class save kind dto lt entity conversion drawbacks ends combining responsibilities single class make code complex readable alternative return accounts convert ids approach accounttypedto works client doesnt operate account 

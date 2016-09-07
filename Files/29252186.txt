@@ -1,0 +1,4 @@
+jsp test variable pagecontext findattribute exists 
+set servlet jsp file set doesnt exist jsp error test exists jsp 
+
+conditional check tag 

@@ -1,0 +1,4 @@
+sonar server starting upgrading version 
+coding plugin upgraded sonarqube version starting start basic reference plugin provided maven log file missing upgrading change make pom file reference plugin make compatible 
+
+message stack trace plugins incompatible sonarqube check href http docs sonarqube org display plug plugin version matrix rel nofollow plugin version matrix page verify compatibility plugins custom plugins plugins listed page suggest remove reinstall find faulty 

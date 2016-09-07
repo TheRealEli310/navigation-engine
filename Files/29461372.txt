@@ -1,0 +1,4 @@
+display image click div wicket 
+apache wicket display default image div wicket click left side image replace image side click replace image html codes add default class webmarkupcontainer click event added left classes guide achieve 
+
+code provided dont refresh linkdecisioncontainer additionally shouldnt add classes change underlying model wont replaced adding youre relying implementation determine modifier acutally wins 

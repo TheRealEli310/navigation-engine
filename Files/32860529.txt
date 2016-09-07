@@ -1,0 +1,4 @@
+update jmeter variables beanshell 
+encountered problem update jmeter variable beanshell script href https blazemeter blog queen jmeters built componentshow beanshell rel nofollow manual href http stackoverflow questions beanshell preprocessor updates user define variables topic ol li update variable li li put string li ol code variable counter user parameter user defined variable script working print returns expact variable counter updated user parameters run case updated everythime run script returns 
+
+issues script work fine remember beanshell variables specific thread thread1 increments current counter thread2 run test threads users iteration prints users loop counts set forever counter incremented upload jmx file resolve issue hr strong edit strong checked jmeter test increment counter beanshell sampler yolu setting counter back part remove removing works fine 

@@ -1,0 +1,4 @@
+stream collect groupingby identity counting sort result 
+href http stackoverflow questions group counting java8 stream api collect list words bag multi set entries bag guaranteed order put list sort implementation comparator desired result elegant problem people solved built streams api 
+
+dont create comparator task href https docs oracle javase docs api util map entry html comparingbyvalue rel nofollow creates comparator compares values entry map case interested reverse order comparator code custom comparator hr sort resulting values stream pipeline calling call long strings handle code creates stream entry map sorts reverse order collects encounter order output hr alternatively href https github amaembo streamex rel nofollow streamex library code sorts string calls method collapse adjacent equal elements number times elements appeared stream method produce stream finally sorted descending order values collected correct result distinct stream pipelines 

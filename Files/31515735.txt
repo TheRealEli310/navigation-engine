@@ -1,0 +1,4 @@
+inserting tables html document swing 
+simple swing application jtextpanes write html code appearance defined html button insert table document code inserts table wrong place ending tag lt html gt goal insert table place caret editor detect proper position 
+
+tested code fails editing styled document works edit text document reason simple call occurs puts caret end document html code naturally inserted end ideally track caret position cleverly update easy manage inserted removed text proposal add table button clicked detect editor focus caret position relevant insert html code inserting html code styled document slightly differently avoid escaped make button unfocusable avoid detect button click 

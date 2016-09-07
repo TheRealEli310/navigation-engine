@@ -1,0 +1,4 @@
+configure spring integration spel config 
+spring integration call service http annotations configuring spring integration problem service url configurable based message payload current code add expression calling dont create spel expressions programmatically 
+
+code framework populate 

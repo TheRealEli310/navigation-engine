@@ -1,0 +1,4 @@
+spring data jpa stream nonuniqueresultexception 
+defined repository based pagingandsortingrepository query implementation result expected multiple results result exception query implementation works good list stream assume support complete spring data jpa wrong 
+
+spring data href http docs spring io spring data jpa docs current reference html repositories query streaming rel nofollow jpa documentation blockquote spring data modules support stream return type blockquote changing works strong update strong debugged found spring data jpa supports streaming version upgrade exception 

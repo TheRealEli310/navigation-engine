@@ -1,0 +1,4 @@
+method reference inside synchronized expression 
+guys understand object block inside method synchronized method reference object write compile time error ideas strong upd strong case strong strong synchronized strong upd strong doubting simple 
+
+lets assignments compiles fine basically lambda method reference compatible multiple functional interfaces means writing doesnt exact runtime type object created interface instantiate determined based target type target type functional interface case statement compiler wouldnt runtime wouldnt decide functional interface instantiate give information casting method reference statement runtime instantiate object class implementing interface sense casting concreteness method reference give vague idea translated em em actual instance singleton stateless method expression original incorrect statement em em noted comments stuart guaranteed lambda method reference instance created returned shouldnt synchronize 

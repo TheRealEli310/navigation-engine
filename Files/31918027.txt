@@ -1,0 +1,4 @@
+unable locate appender 
+migrate spring web application build error jars added classpath ol li log4j slf4j impl jar li li log4j core jar li li log4j api jar li li slf4j api jar li li commons logging jar li li apache log4j extras jar li ol 
+
+rollingfile configuration triggers rollover adding element href http logging apache org log4j manual appenders html rollingfileappender rel nofollow rollingfile manual entry details adding snippet closing tag fix issue analyticsfileappender rollingfile appender configured meant fixed config snippet 

@@ -1,0 +1,4 @@
+reference text file relative path intellij idea 
+program reads numbers file problem place file reference relative path make file accessible absolute path 
+
+open file takes current working path working tree file1 file2 

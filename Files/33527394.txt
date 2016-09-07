@@ -1,0 +1,4 @@
+jhipster avoid database update running prod mode 
+run jhipster app production mode spring profiles active prod database update executed avoid behaviour organizational policies require db updates run manually dba strong update answer strong julien dubois application prod yml file add line warning application prod yml generated jhipster liquibase configuration add enabled entry liquibase entry add root level entry 
+
+href http docs spring io spring boot docs current reference html common application properties html rel nofollow common spring boot property set 

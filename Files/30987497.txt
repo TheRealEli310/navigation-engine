@@ -1,0 +1,4 @@
+configure jpa table runtime 
+issue database multiple servers table server class configured dev1 server point loader queue dev1 table dev2 server point loader queue dev2 table instance annotations single build runtime system property change table 
+
+href http www petrikainulainen net programming tips tricks implementing custom namingstrategy hibernate rel nofollow custom naming strategy generates table dynamically runtime server provided system property strategy supply naming strategy hibernate configuration property 

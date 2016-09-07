@@ -1,0 +1,4 @@
+android intercept unhandled exceptions 
+intercept unhandled exceptions execute custom code resume normal handles exceptions hanging issues doesnt working reliably 
+
+default handler intercept send error handler system exit bad idea create custom exceptionhandler basically oncreate method custom application class fall parts set default exception handler set check needed application wrote href https github ph1b materialaudiobookplayer blob v1 rc2 audiobook src main de ph1b audiobook utils baseapplication rel nofollow remove buildconfig debug check implemented directly start email client email client installed catch 

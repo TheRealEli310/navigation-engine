@@ -1,0 +1,4 @@
+add mongo module play framework 
+developing application play framework add mongo module href https www playframework modules mongo home rel nofollow url br put application conf amp command replaced command version put path place hasn loaded mongo module br href https www playframework modules mongo rel nofollow url bottom page command written dont option br adding dosent work br install mongo module play project 
+
+mongodb module supported play documentation states href https www playframework modules mongo rel nofollow https www playframework modules mongo integrate mongodb easily official href http mongodb github io mongo driver rel nofollow title mongo jaba driver mongo driver build sbt includes async dirver v3 

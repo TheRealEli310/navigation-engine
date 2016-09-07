@@ -1,0 +1,4 @@
+brute force password cracker 
+assignment class create brute force password cracker ol li write function recursion crack password password unknown length maximum made capital letters digits store actual password program checking string obtained password li ol solution run program password aaa work works fine wrong 
+
+return statement match found 

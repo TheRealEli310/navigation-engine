@@ -1,0 +1,4 @@
+lucene query working 
+apache lucene ran problems queryparser create query parseexception code exception helps included jar files ul li lucene analyzers common jar li li lucene core jar li li lucene queries jar li li lucene queryparser jar li li lucene sandbox jar li ul idea exception thrown solve examples online similar working fine 
+
+wrong method 

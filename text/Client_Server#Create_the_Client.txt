@@ -1,0 +1,15 @@
+ A client code for a server/service is usually an API that a user application uses to interface to the server. With the help of a client API the user application does not have to know how to connect to the server to get services. 
+ComClient 
+This class is the client API. The application is using this class to communicate with the server.
+ The following is the client class for the above server: 
+getServerData( COM_DATA tServData ) 
+This method reads the data from the server and copies the values to tServData object.
+sendDataToServer( COM_DATA tServData ) 
+This method sends the tServData object through the network to the server.
+oIn.readObject() 
+This method returns the data object sent by the server.
+oOut.writeObject( tServData ) 
+This method sends the data object to the server.
+     <img src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /> (window.RLQ = window.RLQ || []).push(function () {
+mw.log.warn("Gadget \"commons-file\" was not loaded. Please migrate it to use ResourceLoader.  See \u003Chttps://en.wikibooks.org/wiki/Special:Gadgets\u003E.");mw.log.warn("Gadget \"toolboxcompat\" was not loaded. Please migrate it to use ResourceLoader.  See \u003Chttps://en.wikibooks.org/wiki/Special:Gadgets\u003E.");
+} ); 

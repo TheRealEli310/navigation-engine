@@ -1,0 +1,4 @@
+fonts position top left corner string 
+lets method draw string specific coordinates method position strong bottom left hand corner string strong coordinates top left hand corner whats easy draw top left hand corner string coordinate aware utility class helpful 
+
+fontmetrics class ascent maximum height glyphs string raise baseline start baseline reference point drawstring method ascent distance adjust coordinate draw string graphics2d shift ascender height font 

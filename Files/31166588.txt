@@ -1,0 +1,4 @@
+jfreechart line chart filled areas 
+create chart img src http stack imgur ycmhx png alt sample chart requirement achieved simply creating line chart customizing shape paint renderer find fill areas series line clues 
+
+create chart href http www jfree org jfreechart api javadoc org jfree chart renderer xy stackedxyarearenderer html rel nofollow constructor enable outlines code href http www jfree org jfreechart api javadoc src html org jfree chart chartfactory html line rel nofollow renderer set outline paint stroke desired 

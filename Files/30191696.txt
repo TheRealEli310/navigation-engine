@@ -1,0 +1,4 @@
+making collections binarysearch work comparetoignorecase 
+searching huge arraylist string collections binarysearch return string equal case sensitive string pass binarysearch method source code collections binarysearch eventually calls lines code override string final preventing overriding compareto method call comparetoignorecase achieve great 
+
+perform case insensitive binary search comparator perform faster comparing strings reduced case compares chars reducing case chars needed return fast strings chars em nb em make comparator work properly collection strong sorted comparator strong 

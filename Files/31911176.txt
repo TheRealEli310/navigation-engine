@@ -1,0 +1,4 @@
+code inside synchronized block wait runs synchronized 
+code written inside synchronized block wait statement runs synchronized wait lock relinquished thread notified lock clarifying doubt krishna 
+
+true thread successfully invoke objects method hold objects monitor relinquishes monitor execution true thread acquires monitor em returning em dont special make happen confused fact thread executes contend monitor stops waiting worry returns integrity synchronized block remains intact code executing assured thread holds synchronization objects monitor including preformed 

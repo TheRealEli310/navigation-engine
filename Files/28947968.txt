@@ -1,0 +1,4 @@
+android app actionbar sethomebuttonenabled returns null 
+create swipeable tabs android activity starts application crashessaying sethomebuttonenabled returning nullpointerexception oncreate method logcat minimumsdk target 
+
+activity extends actionbaractivity change 

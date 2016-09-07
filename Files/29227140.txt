@@ -1,0 +1,4 @@
+stop hybris server command prompt admin console 
+add extension stop hybris server unable figure stop server command line admin console br type command server running br started server hybrisserver bat 
+
+command bin platform hybrisserver sh stop stop server 

@@ -1,0 +1,4 @@
+path base folder android projects 
+project android studio read data file avoid absolute path write similar stuff question hierarchy folder edit read file activity subclass data read 
+
+place file asset folder access assetmanager 

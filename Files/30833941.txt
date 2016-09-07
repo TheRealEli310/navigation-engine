@@ -1,0 +1,4 @@
+storm kafka understanding ack fail latency 
+consume kafka topics partitions spout single bolt unpack relevant bytes bolt processing strong storm ui strong numbers arent making sense hoping shed light ol li kafka spout acked tuples failed 73m bolts group acked 73m failed acked 3m fails shouldnt numbers line li li complete latency row spout 2500ms execute process latency bolts ranges lt 1ms 50ms whats correspondence li ol topology major issues href http stackoverflow questions storm topology random related question attaching image ui hopes helping understand img src http stack imgur zhoy3 png alt enter image description 
+
+sounds tuples timing spout notified fails reported bolts means bolts didnt explicitly fail tuples timed question bolts work youre severe backlogs tuple timeouts comment question change shuffle grouping spread workload bolts increase timeout setting config 

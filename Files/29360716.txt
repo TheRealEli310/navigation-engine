@@ -1,0 +1,4 @@
+recommended application server playframework deployment 
+planned deploy manage monitor playframework applications href https github play2war play2 war plugin wiki configurationloggingjboss7 rel nofollow https github play2war play2 war plugin wiki configurationloggingjboss7 found jboss playframework doesnt play href https www playframework documentation production rel nofollow official documentation apache nginx http server application server mentioned ideas suiable application server playframework deployment href http tomcat apache org rel nofollow apache tomcat href https glassfish net rel nofollow glassfish 
+
+dont application server run play application application run stand internally netty handle sockets akka handle concurrency apache nginx front play application offload serving static resources https handling directly application public access multiple applications ip port paths 

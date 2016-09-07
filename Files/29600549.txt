@@ -1,0 +1,4 @@
+disp call derived class method disp base class method disp 
+learning beginner finding working program aim call base class method main method super keyword derived class method shown code num main method works perfectly fine ouputs expected disp outputs contents bs method method output expected output find reason output num working fine disp working expected doesnt give compile error advance 
+
+preserve semantics derived class imagine integer attribute em em alter method imagine extends overrides method additional guarantee attribute em em positive alter negative alter alter called alter method object type result negative guarantee supposed broken 

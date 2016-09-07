@@ -1,0 +1,4 @@
+sonar violation inefficient keyset iterator entryset iterator 
+refer method change code retrieve throwing error understand returning key pair key expected incompatible error implement piece code fix sonar violation method key set 
+
+href http docs oracle javase docs api util map html entryset rel nofollow returns type href http docs oracle javase docs api util map entry html rel nofollow hold key iterate traditional loop rewrite loop 

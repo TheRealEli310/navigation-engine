@@ -1,0 +1,4 @@
+string byte conversion issue 
+convert byte array string back byte array part byte string works convert string back byte array compare initial byte array find theyre guessing encoding issue solutions utf iso utf 16le work solve problem advance heres output result long cut part 
+
+doesnt convert byte string converts em human readable em format call string converting characters represent original byte information byte formatting characters brackets commas create string byte string constructor takes byte explicitly create string object data pointed binary data cleanly represented character sets conversion work explicitly encoding instance sample code outputs encode executable program file exe compares iso encoding absolute safest convert data string back base64 encoding suggested href http stackoverflow answer 

@@ -1,0 +1,4 @@
+string valueof behavior char list char 
+working code observed code behaviour correct code printed line code defined code overriden found calls method corresponds print direct case line change behaviour cases method called 
+
+youre difference calling overloads heres simpler call youve found call calls array checking reference isnt null arrays dont override output youre 

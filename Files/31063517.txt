@@ -1,0 +1,4 @@
+retrying failed file uploads aws s3 
+href http docs aws amazon awsjavasdk latest javadoc amazonaws services s3 transfer transfermanager html upload lang string 20java lang string 20java io file rel nofollow transfermanager upload string bucket string key file file upload moderately sized file mb aws s3 bucket android app code works intermittently half time works great half time upload fails expected uploading s3 unreliable handling retries client code 
+
+occurs network spotty encounter unable execute http request unable resolve host yourbucket s3 amazonaws address hostname lot sdk automatic built case spotty connection happen times eventually sdk give request helps network strength weston 

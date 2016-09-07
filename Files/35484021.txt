@@ -1,0 +1,4 @@
+subclass issue 
+class fields ul li li li li li li li li ul stores description appointment date super class classes time appointment month appointments year appointments problem asked add handful objects write method returns appointments day part writing method appointment compare monthly object day parameter yearly compared month day parameters compared parameters textbook question implement superclass subclasses appointment description dentist date write method checks appointment occurs date monthly appointment check day month matches fill array objects mixture appointments user enter date print appointments occur date homework unit test hours stuck 
+
+occurson abstract method superclass appointment class implements onetime check day month year monthly check day yearly check day month 

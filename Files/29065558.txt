@@ -1,0 +1,4 @@
+android listview showing content 
+href http www raywenderlich make android app part rel nofollow tutorial android development listview section tutorial app text field user enter press button saved listview bottom half screen exact code tutorial problem listview show press button xml code mainactivity xml code googled things hours find issue minimum supported version selected removing layout weight listview giving layout height 20dp rendering issue appears actual layout height layout weight bar highlighted appears listview click problem content displayed issue text field saved transferred listview insight highly appreciated 
+
+initially empty onclick add item dataset change onclick fill click button 

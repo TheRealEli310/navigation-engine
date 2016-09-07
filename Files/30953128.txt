@@ -1,0 +1,4 @@
+convert byte char encoding utf 
+convert byte char unicode encoding utf concise equivalent unicodeencoding unicode getchars 
+
+href http docs oracle javase docs api lang string html string byte 20java lang string rel nofollow blockquote constructs decoding array bytes charset blockquote 

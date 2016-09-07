@@ -1,0 +1,4 @@
+client application session resumption 
+making number calls client application server tls connection avoid tls handshake overhead resume session session id similar web browser establishing request httpsurlconenction object accomplished api 
+
+solve problem apaches httpclient api httpsurlconnection ssl context make multiple calls full handshake client signing operation 

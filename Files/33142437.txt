@@ -1,0 +1,4 @@
+gradle unable initialize pom pom default xml failed validate pom 
+unable initialize pom pom default xml failed validate pom uploading archive uploadarchives maven publish plugin luck appriciated gradle build file 
+
+solved error adding code pom project block gradle build file 

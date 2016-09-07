@@ -1,0 +1,4 @@
+return empty json spring controller void response 
+tomcat spring webmvc release fasterxml method controller method returns void resolves empty byte response clients connecting server expect json reponses empty response configure spring jackson return byte case thought returning object calls return void imo dirty soution 
+
+easy add spring xml config add class classpath 

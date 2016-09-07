@@ -1,0 +1,4 @@
+spring transactional stop transaction 
+controller calls method service class ol li update database dao li li update database dao li li sendemail email service li ol atomic succeed email annotate service method transactional email db updates fail desired email fails db update rolled back desired understanding moving separate method service class annotating sendemail method transactional propagation behavior requires achieve behavior proper annotations 
+
+transaction steps transaction committed finally send email easiest introduce additional bean controller bean bean 

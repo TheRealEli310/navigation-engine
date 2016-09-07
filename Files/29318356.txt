@@ -1,0 +1,4 @@
+mavem compiling javax ejb exists 
+created maven project eclipse run project directory mvn clean install errors checked package javax ejb downloaded exists m2 folder edit pom file pre class lang xml prettyprint override 
+
+depending define dependency defined give pre class lang xml prettyprint override 

@@ -1,0 +1,4 @@
+aspectj annotated based pointcuts invoked 
+attempting create android library checks internet executing method custom annotation defined aspectj accomplish annotation aspect snippet activity annotated method run android app advice triggered pointcut method pointcut method2 luck android app configured aspect problem make errors pointcut definitions detected share main build script module aspects 
+
+advice wasnt triggered annotations related aspect app level aspect contained library aspects weaved app module compile time simply publish library maven local testing maven central distribution include library project dependency gradle plugin aspectj weaving tasks plugin applied apps module heres snippet plugin written groovy add library aspects run weaving tasks apps module complete check library github href https github jd alexander flender rel nofollow https github jd alexander flender 

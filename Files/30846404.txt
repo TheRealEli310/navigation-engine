@@ -1,0 +1,4 @@
+jackson jsonunwrapped behaviour custom jsonserializer 
+classes expecting json wrote custom error put serialize method produces wrong json solution custom 
+
+understand problem thing related post href http stackoverflow questions json output custom json serializer spring data rest json output custom json serializer spring data rest problem annotations jacksonunwrapped jsonserialize field jsonserializer jackson write field complete solution test case redefine object mapper custom configuration research method class 

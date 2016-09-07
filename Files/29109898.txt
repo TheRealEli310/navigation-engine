@@ -1,0 +1,4 @@
+spring security check http securityconfig 
+facing error spring security check couple days thinking figure read stack flow questions relating issue change outcome hoping catch wrong basically spring xml configuration strong appconfig strong strong webmvcconfig strong strong webinitializer strong strong updated securityconfig strong strong updated login jsp strong strong updated logincontroller strong strong update logs strong issues longer spring security check login continually fails closer 
+
+add works config missing defaultsuccessurl login page bit bootstrap ed add login controller dont public class logincontroller 

@@ -1,0 +1,4 @@
+monitor thread status 
+relevant thread start program starts thread listening events coming bigger system main thread stuff thread stop working recreated started multiple ways achieve id opinion things ul li striving ideally catch code wrong thread betray reason li li whats practice stated periodically check thread health thread scheduledexecutor implement kind observable observer pattern li ul 
+
+create executorservice listening events case dont thread healthy executorservice takes care singlethreadexecutor responsible task runnable callable running time 

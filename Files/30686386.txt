@@ -1,0 +1,4 @@
+latest behaviorsubject 
+retrieve latest href https github reactivex rxandroid rel nofollow rxandroid background info rxjava implement mvvm pattern viewmodel encapsulates bindable properties binding ui elements observables ensuring interface constantly updated happen subscription takes place setting access latest actual raw property business logic surely caches republishes latest subscribes returns doesnt expose methods return type cache feels redundant guess create throw subscription getter obtain latest return calling code clunky neater hand 
+
+turns reason rxandroid default depends rxjava subjects didnt expose akarnokd helping realize turns takes resolve problem manually add dependency latest version rxjava side side rxandroid dependency href https github reactivex rxandroid issues rel nofollow https github reactivex rxandroid issues 

@@ -1,0 +1,4 @@
+multiple inheritance ambiguity interface 
+href http en wikipedia org wiki multiple inheritance diamond problem rel nofollow diamond problem multiple inheritance problem describe ambiguous situation class class method override method version method override problem applicable interfaces interfaces overcome problem 
+
+diamond problem applies em implementation em inheritance versions prior doesnt apply em api em inheritance versions prior interface methods matching type signatures compatible diamond problem inherit method signature matching method signatures simply coalesce type signatures arent dont diamond problem inherit em implementation em code keyword restricts parent multiple implementation inheritance diamond problem exist adds wrinkle interfaces implementation code escapes diamond problem simply falling back previous behavior implementation inheritance youre implementing multiple interfaces methods matching signatures 

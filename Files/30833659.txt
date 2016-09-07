@@ -1,0 +1,4 @@
+retrofit android object returned callback 
+searching question couldnt find possibly due inexperience retrofit instance imgurapi class call make request image response issue determining proper image returned back activity called originally global variable imgurapi assign retrieved image theni return worked felt incorrect recommendation properly wrong strong edit solution strong searching couple answers found solve issue 
+
+method asynchronous synchronously wait finish execute code wanted execute method return image 

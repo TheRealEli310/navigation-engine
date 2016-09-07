@@ -1,0 +1,4 @@
+javafx show loading dialog longer operations 
+operations controller class time show loading dialog operation running problem loadingdialog show ui blocks time continues continue runlater call blocked blocking operation operate counddownlatch wait loadingdialog show complete running myservice operate latch await method completes question show loadingdialog myservice operate finished returned true false put operate call thread run async easier 
+
+entire code run javafx thread methods controller class assume due description href https docs oracle javase javafx api javafx concurrent task html rel nofollow task class href https docs oracle javase javafx interoperability tutorial concurrency htm rel nofollow youll find tutorial short snippet application assumed possibility lambda expressions 

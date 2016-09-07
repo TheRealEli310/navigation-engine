@@ -1,0 +1,4 @@
+add phantomjsdriver command line arguments 
+command line arguments href https cdn rawgit detro ghostdriver master binding docs javadoc index html rel nofollow phantomjsdriver set script run 
+
+simply add phantomjss default desired capabilities 

@@ -1,0 +1,4 @@
+databasemetadata getschemas returns empty resultset expected empty resultset 
+understand databasemetadata returning empty result set sql query effectively major issue code work expected empty result set expected empty result set 
+
+mysql jdbc driver considers catalog schema href http docs oracle javase docs api sql databasemetadata html getcatalogs rel nofollow catalog parameter schema parameter href https github mysql mysql connector blob 77c2c9782db6e5b8afdf0cb66d108faa6ec25796 src mysql jdbc databasemetadata l4235 rel nofollow method connector returns empty result set href https github mysql mysql connector blob 77c2c9782db6e5b8afdf0cb66d108faa6ec25796 src mysql jdbc databasemetadata l2019 rel nofollow returns result href https github mysql mysql connector blob 99b5551a2c96f6418a643b770511c2e3aaa809e0 src mysql jdbc databasemetadatausinginfoschema l120 rel nofollow column information schema aliased catalog parameter passed column query 

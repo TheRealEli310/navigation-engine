@@ -1,0 +1,4 @@
+play framework docker image run error 
+setup docker image app target platform debian jessie image built errors trouble occurs run supplying external config file application home env variable trouble wrong di classes custom bindings put line application conf class extends abstractmodule bind implementation error times repeats error custom binded components needless activator run works charm appears play modules enabled setting launch worth mentioning library dependency play project packaged library stored sonatype nexus server 
+
+problem trivial passed dconfig file host fs absurd changed start script mapping local path images fs play framework application conf classpath library dependency play project 

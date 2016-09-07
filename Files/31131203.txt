@@ -1,0 +1,4 @@
+practice build cd pipeline deploy application environments 
+build cd pipeline application typical project deploy war container plan cd pipeline follow practices cd build binary war ci phase configuration files environment whats put related configuration files environment deployment phase build recommended plugins make happen 
+
+strong configuring artifact strong ul li write script replace config files theyre embedded war li ul employ maven antrun plugin ol li extract war li li replace config li li repack war li ol ant task reused environments ul li externalize config files upload config files server li ul strong sharing artifact pipeline stages strong ol li upload war artifact repository li li dowload war built ci stage configure li li deploy configured war li ol find detail href http www infoq articles orch pipelines jenkins rel nofollow sharing build artifacts pipeline article 

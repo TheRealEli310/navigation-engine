@@ -1,0 +1,4 @@
+upgrade compiler error inherited static enum 
+upgrading project recompiling errors awt frame subclass simplified org foo org type appears happening static enum href https docs oracle javase docs api awt window type html awt window type introduced taking precedence import org type correct fully qualify references type org type 
+
+blockquote appears happening static enum awt window type introduced taking precedence import org type correct blockquote class behavior design blockquote fully qualify references type org type blockquote long youre extending class member question youre extending times people extend shouldnt favor composition inheritance approach static import specifically import members case pain neck bunch members approach make interface implement interface create instance class rename avoid conflict create bridge slightly hackish solutions simply extending frame 

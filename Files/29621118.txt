@@ -1,0 +1,4 @@
+edit relaunch terminated cluster amazon emr 
+aws amazon emr created cluster custom bootstrap script launched clulster terminated failure bootstrap script fixed script relaunch thenow emr console finding option launch cluster searched lot online didnt find guiding launch terminated cluster appreciated 
+
+option clone cluster 

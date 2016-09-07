@@ -1,0 +1,4 @@
+android divide image canvas 
+making sliding puzzle type game href http en wikipedia org wiki sliding puzzle rel nofollow http en wikipedia org wiki sliding puzzle user select image image displayed divide image select squares make original image ideas canvas canvas 
+
+bitmap api href http androidattop blogspot de splitting image smaller chunks html rel nofollow http androidattop blogspot de splitting image smaller chunks html provided link imageview provided images bitmap temporarily save splitted parts arraylist bitmaps arraylist thing left provide bitmap gridview method add code intent putparcelablearraylistextra pass activity dont declare gridview layout create class extending baseadapter class set images finally call setadapter method gridview 

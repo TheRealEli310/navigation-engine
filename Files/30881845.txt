@@ -1,0 +1,4 @@
+fxml classnotfoundexception 
+problem custom class console giving exception load created class subclass package referred fxml project structure ul li resources ul li fxml ul li main fxml li ul li ul li li li li src ul li li li sample ul li li li view ul li boardpane li ul li ul li ul li ul searching time havent found explanation 
+
+package view lower case project fxml details method loadtype fxmlloader class 

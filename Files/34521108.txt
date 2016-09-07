@@ -1,0 +1,4 @@
+datastax driver query row json 
+datastax driver retrieve row json classic returns json formatted string cql works driver scala pick row result set string pick experiment prints experiment br prints lt string pick simple string represents json program split strings 
+
+noted href http www datastax dev blog whats cassandra json support rel nofollow cassandra documentation blockquote results include single column named column json encoded map representation row blockquote order access json returned row methods defined href http docs datastax en drivers datastax driver core row html rel nofollow class column index 

@@ -1,0 +1,4 @@
+activitycompat requestpermissions showing dialog box 
+function nexus api showing dialog box supposed problem code activity changing minimum api requestpermissions activitycompat working manifest 
+
+heres define permission post manifest request automatically denied define handle permission callback onrequestpermissionsresult heres code call requestpermissions check permission remember granted permission user revoke permission app settings finally check received permission 

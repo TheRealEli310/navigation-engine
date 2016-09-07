@@ -1,0 +1,4 @@
+call angularjs function selenium 
+part web app configuration requires file upload implemented angularjs dropping file filesystem selenium impossible sendkeys method wont work alternative call angular function directly 
+
+pretty find input dom lets href http angular file upload appspot rel nofollow angular file upload demo page ng file upload div drag drop files inspect dom youll em hidden file input element em responsible upload tests em make input visible em interact send keys absolute path file upload code make file input visible hr sample code works provided fiddle path input upload process triggered 

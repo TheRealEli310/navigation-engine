@@ -1,0 +1,4 @@
+set list initialization syntax jdk 
+jdk compiler suggests omit marking redundant compiler complain diamond operator completely omitted create issues runtime concrete differences diamond operator elaborate id 
+
+blockquote jdk compiler suggests omit blockquote blockquote blockquote diamond operator introduced easy infer type removes repeat type blockquote compiler complain diamond operator completely omitted blockquote href https docs oracle javase tutorial generics rawtypes html rel nofollow raw types discouraged backwards compatability runtime treated generics establish contract strong compile time strong em time put collection strong strong type xxx em generics details remain run time called type erasure generics strong compile time strong feature code perfectly acceptable discouraged start finding strange unexpected things 

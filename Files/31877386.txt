@@ -1,0 +1,4 @@
+transfer hdfs s3 
+transfer file hdfs s3 files huge dont download file locally uploading s3 heres piece code uploads local file s3 file object implies hdd 
+
+figured uploading part ideas similar downloading havent found download method transfermanager stream code 

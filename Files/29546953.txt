@@ -1,0 +1,4 @@
+class data type sorting problems 
+assume implemented class edge attributes type int program created array implement sorting parameters sort edge array descending order sort based increasing order needing orderings distinct parts code library function sorting sorting class data type arrays implement class edge works parameter quality length implement sorting functions functions decide called sorting make compare functions simply state function achieve goal sort array datatype edge parameters sorting decide point 
+
+create classes implements defining method sort orders desire pass instance youre pass method reference href https docs oracle javase docs api util comparator html comparing util function function rel nofollow construct based getter method make descending sort call href https docs oracle javase docs api util comparator html reversed rel nofollow 

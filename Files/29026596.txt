@@ -1,0 +1,4 @@
+retrofit gson converter nested json objects 
+json structure format common key hold types information keys rest response treated displayed user basically format desired apis strong information inside key time strong setup class set gson converter strong myresponse strong strong deserializer strong strong service interface strong strong em problem em strong access fields inside callback information inside key parsed model returns empty change json structure code works perfectly worked separate key inside object parse successfully 
+
+suggest change json add field defines type data json class filed enum defines type data pass data class param constructor data types create classes enum desarializator json create line register deserializator classes types data define standard pojo gson separated classes 

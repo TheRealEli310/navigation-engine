@@ -1,0 +1,4 @@
+configure property spring boot embedded tomcat 
+configure properties connectiontimeout application properties file figure google href https tomcat apache org tomcat doc config http html rel nofollow tomcat properties list found href http docs spring io spring boot docs current reference html common application properties html rel nofollow spring boot include connectiontimeout property set application properties file error 
+
+provide customized bean dont href https docs oracle javase tutorial javaoo lambdaexpressions html rel nofollow lambda expressions add method expects timeout milliseconds href https tomcat apache org tomcat doc config http html rel nofollow apache tomcat configuration reference set tomcats connection timeout property future contributing spring boot small addition href https github spring projects spring boot blob master spring boot autoconfigure src main org springframework boot autoconfigure web serverproperties rel nofollow serverproperties 

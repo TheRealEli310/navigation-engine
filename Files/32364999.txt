@@ -1,0 +1,4 @@
+set simple gradle project sqlite4java 
+starting simple test project sqlite4java building core sqlite4java library downloaded easily gradle download native libraries put place build gradle file run simple test building intellij gradle build options dont itellij stuffing class path running tests pretty time build message unable unpack libsqlite4java osx zip file surprisingly maven central dylib file make gradle thing strong strong code run manually copying downloaded maven cache listed mac contrary point packaging setup dependencies file wont distribute easily 
+
+heres complete answer based stanislavs comments test source run 

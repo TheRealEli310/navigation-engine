@@ -1,0 +1,4 @@
+started owl api 
+em post answer edit issue arose primarily due ide issues eclipse programming general learning owl em owl general familiarize owl api project working bit rusty issue issue playing owl api days trouble finding compatible versions libraries code basic operation perform throws errors build eclipse errors things abstractannotatedaxiomroundtrippingtestcase resolved type figure wrong messing owl owl api past days slow progress hitting walls matter owl api classes import unresolved types indirect references classes stack trace appears 
+
+compiling owl api source skip fill dependencies manually ways ul li import existing maven project eclipse pom files determined dependencies li li classpath files antbuild folder make classpath file matches li ul maven test build ensure libraries downloaded 

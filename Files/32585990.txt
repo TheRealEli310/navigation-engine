@@ -1,0 +1,4 @@
+algorithm merge overlapping segments 
+adt sorted representing situation href http stack imgur fp9qc png rel nofollow img src http stack imgur fp9qc png alt enter image description make merging phase green arrow iterate list segment compare segments couple make simple merge easy iteration return beginning list start struggle find algorithm converge edit segments circular 75pi 5pi 
+
+sort segments starting time create stack store merged intervals add element sorted array stack element array compare element top stack start time greater end time element top stack add interval stack start time smaller end time element top stack update end time element top stack match end time element array processed resulting stack merged intervals implementation 

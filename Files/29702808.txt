@@ -1,0 +1,4 @@
+persistencecontext null 
+cdi open web beans working unit test delta spike dependency injection working fine entitymanagerfactory null create session factory manually injections working fine missing 
+
+unit test arent managed environment openwebbeans support openwebbeans resource module persistenceunit isnt portable test classpath questions mailing list answers petty quickly 

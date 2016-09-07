@@ -1,0 +1,4 @@
+check string close group brackets 
+checks string correct grouping instance groups correctly incorrectly correct string close groups wrong order open group fail close close group opened input string symbols create groups output return string empty grouped correctly grouped incorrectly give hint 
+
+main idea track bracket expected code work 

@@ -1,0 +1,4 @@
+background image imageview crash 
+image called drawables folder time run app crashes creation code xml logcat output commands comments failed appears logcat line code make change code causing crash 
+
+code forgot add strong setcontentview strong method 

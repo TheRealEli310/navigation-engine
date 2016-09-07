@@ -1,0 +1,4 @@
+listview shared element transition issue 
+attempting create shared element transition activities appears work find layouts single imageview issues transition work listview issue user taps row transition work expected row tapped origin transition appears image row created simple list view custom row layout strong row detailed xml strong layout secondary activity strong activity transition secondary xml strong primary activity strong transitionprimaryactivity strong secondary activity strong transitionsecondaryactivity strong implement transition names dynamically doesnt make difference setting transition correctly 
+
+access clicked view case parameter strong view strong access element list ps put transition names inside xml makes easy read 

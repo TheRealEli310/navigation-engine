@@ -1,0 +1,4 @@
+flex application crashes exporting large amount data csv 
+application ee flex app show data postgres show data lines export csv works export large amount data application crash error suggestion thinking tomcat configuration understood problem related connexions left opened postgres limited connexion open 
+
+number maximum connections configured postgresql server server configured incorrectly closing connections properly totally closing connections connection pool limit max number concurrent sessions change postgresql configuration increase number allowed connections manual details br href http www postgresql org docs current static runtime config connection html runtime config connection settings rel nofollow http www postgresql org docs current static runtime config connection html runtime config connection settings 

@@ -1,0 +1,4 @@
+create spring jpa repository findby query property keyword 
+simplified problem repository entity class spring throwing exception spring taking method thinks property keyword matching values collection understand property 
+
+overcome problem defined query manually annotation ill happily accept elses answer find solution doesnt require manual query 

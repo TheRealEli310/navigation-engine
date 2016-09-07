@@ -1,0 +1,4 @@
+filter againts observable 
+filter banned observable converting banned names list 
+
+id putting banned names hashset list efficiency idiomatically rxjava bit fiddly readable id current approach hashset list bother idiomatic rxjava solution 

@@ -1,0 +1,4 @@
+localdate util date vice versa simpliest conversion 
+simple convert introduced object br simple simpler bit awkward interested date portion timezone information objects introduce time zones explicitly midnight time system default timezone implicitly conversion 
+
+static method href https docs oracle javase docs api sql date html valueof time localdate rel nofollow valueof object time zones complications subclasses result stated documentation blockquote provided localdate interpreted local date local time zone blockquote reverse operation href https docs oracle javase docs api sql date html tolocaldate rel nofollow tolocaldate method sql date class 

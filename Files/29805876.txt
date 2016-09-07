@@ -1,0 +1,4 @@
+cdi interceptor scope annotation 
+context specification declare cdi annotated cdi interceptors called add annotation interceptor binding interceptor binding interceptor defined jar module purpose priority overlooked add scope interceptor kick specifically stated 
+
+wildfly ships weld forget cdi compliant apply patches upgrade weld cdi compliant issue behavior youre consistent cdi implementations 

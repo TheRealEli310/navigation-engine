@@ -1,0 +1,4 @@
+create azure automation account rest api 
+create automation account azure rest api list images create service rest api create automation account error class running created keystore file keystore jks cer file smapi cer uploaded window azure portal strong settings management certificates strong 
+
+checked code found faults ol li refer link href https msdn microsoft en library azure mt163820 aspx rel nofollow https msdn microsoft en library azure mt163820 aspx rest api create automation account http put method post method copied function processpostrequest function processputrequest replaced con setrequestmethod post con setrequestmethod put fixed function createautomationaccount li li function createautomationaccount root mark request body xml resource response li ol work correctly fix faults 

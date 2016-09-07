@@ -1,0 +1,4 @@
+constructor call kotlin vararg 
+call constructor varargs hard coding array parameter calling 
+
+bit meaningless items constructor expects rare situation arguments type suite language feature decompose function constructor call vararg parameters suppose language design make show explicitly choose items hidden pitfalls aware indexing pass parameter parameter function constructor transformed strong spread operator strong array type passed including array power ends 

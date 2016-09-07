@@ -1,0 +1,4 @@
+allocate array objects 
+allocating arrays syntax tutorials started class things confusing class main function line give array objects default initialized constructor assume exception runtime fairy simple doesnt require extra searching tells allocate memory elements array start purpose operator doesnt allocate memory array doesnt happen array 
+
+objects references pointers sort correct assuming auto initializes values array array array references basically memory addresses initialized exception calling method reference notice created array primitives assignment operator indices array objects immediately values array assigning technically primitive array object arrays simple assignment 

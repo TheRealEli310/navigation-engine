@@ -1,0 +1,4 @@
+local file system flume source 
+started learning big data time working flume common encountered processing tweets cloudera testing simulation purposes local file system flume source excel csv files code flume configuration file twitter extraction source event driven pollable input 
+
+assume cloudera sandbox talking putting file sandbox local flume agent planning kicking flume agent source channel sink sit local flume agent list flume sources user guide href https flume apache org flumeuserguide html rel nofollow https flume apache org flumeuserguide html exec source stream data file tail cat commands spooling directory source watch directory files parse events files good read user guide 

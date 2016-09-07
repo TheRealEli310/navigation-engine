@@ -1,0 +1,4 @@
+include specific jars war web inf lib directory maven 
+pom xml create war file specific libraries web inf lib directory include tag packaged lib dir files dependent project 3rd party jars control wrong ignore jars specific jars 
+
+put specific libraries dependencies project maven put web inf lib package phase strong update strong exclude jar comming dependencies kind syntax exclude dependencies maven strong update strong maven war plugin add web inf classes packagingincludes 

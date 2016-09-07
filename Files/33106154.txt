@@ -1,0 +1,4 @@
+overriding hashcode class array 
+class integers array integers members make hash map object key override equals operator hashcode object integer values members entries array hash code thing advance 
+
+calculate hashcode int array implementation derive idea calculate hash code class based values integers integer array equals implementation 

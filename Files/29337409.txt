@@ -1,0 +1,4 @@
+datagramsocket receive port set 
+recently started learn socket usage specifically href https systembash simple udp server udp client rel nofollow link shown simple client server udp application question client receives response receive method datagramsocket object calling receive doesnt port set 
+
+client initializes nullary constructor binds socket port chosen unspecified manner wildcard address port set em em port set chosen computer explicitly program server receives message extracts message data source address port sends response address port client successfully receives socket original message bound port dont 

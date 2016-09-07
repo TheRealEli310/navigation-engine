@@ -1,0 +1,4 @@
+write serializable body http post request 
+client server app class sides write object class read server client apache version send serializable object request write object request read server sending request 
+
+href http hc apache org httpcomponents core httpcore apidocs org apache http message basichttpentityenclosingrequest html rel nofollow href http hc apache org httpcomponents core httpcore apidocs org apache http entity serializableentity html rel nofollow basically 

@@ -1,0 +1,4 @@
+quartz scheduler creating objects leading outofmemoryerror 
+implemented quartz quick start guide repetitiverun class implements job executes queries writes files problem heap continuously increases lang outofmemoryerror thrown visualvm live bytes live objects generations repetitiverun class constantly increasing suggests memory leak make quartz delete release objects created execution job finished 
+
+job garbage collector cleaning job finished job finished references job garbage collector clean suspect leak job passing object stores reference job clean resources cleaned database connections file handles leads memory leak track profiler clean needed leaking object closing resources open create 

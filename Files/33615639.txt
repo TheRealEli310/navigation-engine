@@ -1,0 +1,4 @@
+jenkins connection ldap 
+completely stumped running jenkins application v1 mac osx connect active directory ldap security realm matter good variants login fails written jenkins log file apachedirectorystudio installed connects flawlessly jenkins issue network acl issue ldap server signed ssl certificate installed relevant cacerts file heres ldap configuration minus sensitive corporate stuff greatly appreciated log file spit info great edit exception show log file helps edit hour meeting responses delayed 
+
+ideal connection work plain ldap connection ldaps figure apache directory studio smarter jenkins establishing connection suspect issue signed ssl certificate chain jenkins figure verbosity logs matter working corporate firewalls secure connection risk intend figure root suggestions 

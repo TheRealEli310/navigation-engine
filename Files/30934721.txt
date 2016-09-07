@@ -1,0 +1,4 @@
+orientdb automatically create databases startup 
+set distributed orientdb cluster docker automatically creates databases configuration file file storages orientdb startup exception dont create databases manually orientdb support automatically create database doesnt exist script automatically command line isnt option alternatives create database manually console programmatically application avoid variety reasons href https github orientechnologies orientdb blob server src main orientechnologies orient server oserver l774 rel nofollow orientdb code creating databases bug missing 
+
+contributed patch orientdb fix href https github orientechnologies orientdb pull rel nofollow https github orientechnologies orientdb pull 

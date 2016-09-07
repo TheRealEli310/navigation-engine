@@ -1,0 +1,4 @@
+swapping integer array values loop 
+decided create simple card deck shuffling program fancy single array cards numbered necessarily method created random integer method randint random numbers shuffling method shuffle random cards swaps values method simple run code debug code added exact randcard1 results multiples card values completely disappearing shuffles deck cards consisting read questions swapping integer arrays question issue loop method swapping array values similar questions final static keywords arent helpful modifying times concluded loops blame apparently prevents arrays updating properly case missing problem swapping integer array values strong code strong strong output debugging code helps doesnt hinder strong 
+
+problem lies saving card temp youre saving index jdk shuffle method 
